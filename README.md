@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don&#39;t think hanz can handle this](http://9gag.com/gag/abAdV7v)
- - 😝 [Bro the disrespect](http://9gag.com/gag/arydnM6)
- - 👉 [Tourist scam](http://9gag.com/gag/a87nGGe)<!-- MEMES:END -->
+ - 6️⃣ [Going to chill with the homies for an hour](http://9gag.com/gag/amodP6j)
+ - 😝 [Some people just never learn, bless her heart](http://9gag.com/gag/axyAMmM)
+ - 👉 [Genniousess](http://9gag.com/gag/adBdVRN)<!-- MEMES:END -->
 
 --- 
 
