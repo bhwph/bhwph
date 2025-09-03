@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hard facts](http://9gag.com/gag/adBdgpZ)
- - 😝 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
- - 👉 [Jessie without her hairdo.](http://9gag.com/gag/avyD5n5)<!-- MEMES:END -->
+ - 6️⃣ [Life is beautiful](http://9gag.com/gag/azxBepq)
+ - 😝 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)
+ - 👉 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)<!-- MEMES:END -->
 
 --- 
 
