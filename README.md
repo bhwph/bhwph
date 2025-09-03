@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigabyte have finally released its RTX 5090 external GPU—but it&#39;s calling it an &#39;AI box&#39;](https://www.pcgamer.com/hardware/gigabyte-have-finally-released-its-rtx-5090-external-gpu-but-it-is-calling-it-an-ai-box/)
- - [28 Years Later: The Bone Temple trialer shows Ralph Fiennes bond with a zombie giant](https://www.polygon.com/28-years-later-the-bone-temple-trailer/)
- - [GameSir G7 Pro Tri-Mode review](https://www.pcgamer.com/hardware/controllers/gamesir-g7-pro-tri-mode-review/)<!-- GAME:END -->
+ - [NordVPN Is Almost Free: Here’s the Trick to Slash the Price by Nearly 80%](https://kotaku.com/nordvpn-is-almost-free-heres-the-trick-to-slash-the-price-by-nearly-80-2000622672)
+ - [Intel spent so much cash on research and development last year that it outspent Nvidia by 28% and AMD by a whopping 156%](https://www.pcgamer.com/hardware/intel-spent-so-much-cash-on-research-and-development-last-year-that-it-outspent-nvidia-by-28-percent-and-amd-by-a-whopping-156-percent/)
+ - [HP Clears Out Its 14″ Laptop Bundle at Over 80% Off, Even Cheaper Than an Entry-Level Apple iPad](https://kotaku.com/hp-clears-out-its-14%e2%80%b3-laptop-bundle-at-over-80-off-even-cheaper-than-an-entry-level-apple-ipad-2000622471)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
