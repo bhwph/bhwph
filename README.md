@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Talamasca: The Secret Order expands AMC&#39;s Anne Rice Immortal Universe](https://www.polygon.com/talamasca-the-secret-order-anne-rice-immortal-universe-preview/)
- - [Next Superman Movie Coming 2027 As DC Movie Machine Keeps Ramping Up](https://kotaku.com/superman-tomorrow-lex-luthor-date-james-gunn-supergirl-batman-2000622739)
- - [Superman 2 is officially happening: James Gunn sets a release date for Man of Tomorrow](https://www.polygon.com/superman-sequel-man-of-tomorrow-james-gunn-july-2027/)<!-- GAME:END -->
+ - [As bugs and bad performance spoil an otherwise excellent Helldivers 2 update, Arrowhead CEO says its &#39;technical debt is crippling&#39;](https://www.pcgamer.com/games/third-person-shooter/as-bugs-and-bad-performance-spoil-an-otherwise-excellent-helldivers-2-update-arrowhead-ceo-says-its-technical-debt-is-crippling/)
+ - [The best Hollow Knight lore videos to watch before playing Silksong](https://www.pcgamer.com/games/action/hollow-knight-lore-explainer/)
+ - [Iconic Roblox game dies after pulling features used for underage kid dating](https://www.polygon.com/roblox-what-happened-to-meep-city/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
