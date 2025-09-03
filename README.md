@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Doggo &lpar;\u2022\u1d25\u2022&rpar;](http://9gag.com/gag/aAymGMg)
- - 😝 [He had an old chinese phone, an old raspberry pi 3b+, python, opencv and a bit of deep learning. And then there were the neighbor&#39;s chickens, who were driving him crazy.](http://9gag.com/gag/aW4dgDq)
- - 👉 [I over dicked it](http://9gag.com/gag/aRByEej)<!-- MEMES:END -->
+ - 6️⃣ [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
+ - 😝 [Happy ending](http://9gag.com/gag/a5QxENV)
+ - 👉 [Furlong](http://9gag.com/gag/aVvd7GK)<!-- MEMES:END -->
 
 --- 
 
