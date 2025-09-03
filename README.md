@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A six-year US effort to counter Chinese telecom dominance took a hit after the One Big Beautiful Bill cut ~$1B from a program aimed at developing Open RAN tech &lpar;John Hendel/Politico&rpar;](http://www.techmeme.com/250902/p36#a250902p36)
- - [Google&#39;s antitrust case ruling leaves Apple deal untouched](https://appleinsider.com/articles/25/09/02/google-must-stop-exclusive-contracts-with-companies-like-apple-but-keeps-chrome?utm_source=rss)
- - [Beats Studio Pro, Solo Buds, and Solo 4 could receive new color options](https://appleinsider.com/articles/25/09/02/beats-studio-pro-solo-buds-and-solo-4-could-receive-new-color-options?utm_source=rss)<!-- TECH:END -->
+ - [Deal: Google TV Streamer drops to $79.99, almost its record-low price](https://www.androidauthority.com/google-tv-streamer-deal-5-3593735/)
+ - [Google says it is reviewing the court&#39;s ruling on search and has &quot;concerns&quot; about how the requirements &quot;will impact our users and their privacy&quot; &lpar;Lee-Anne Mulholland/Google&rpar;](http://www.techmeme.com/250902/p39#a250902p39)
+ - [Content creators and rideshare drivers are among the professions covered under the &quot;no tax on tips&quot; policy passed as part of the US spending bill signed in July &lpar;Alison Durkee/Forbes&rpar;](http://www.techmeme.com/250902/p38#a250902p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
