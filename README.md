@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Sierra, which builds AI customer service agents, nears a $350M raise at a $10B valuation, up from $4.5B in October 2024, and is set to top $100M in ARR &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250902/p41#a250902p41)
- - [Disney will pay $10 million to settle FTC claim it used cartoons to collect YouTube data on kids](https://www.theverge.com/policy/769771/disney-ftc-coppa-settlement-kids-data)
- - [The already-affordable TCL 60 XE NXTPAPER gets $70 cheaper](https://www.androidauthority.com/tcl-60-xe-nxtpaper-deal-3593734/)<!-- TECH:END -->
+ - [Google sets the date for Gemini’s arrival on your Google Home devices](https://www.androidauthority.com/google-home-gemini-launch-date-3593786/)
+ - [A US district judge rules that Amazon must face a class action lawsuit involving 288M customers over claims it overcharged for products sold by third parties &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250902/p42#a250902p42)
+ - [No more Prime shipping perks outside your family &lpar;Updated: Amazon statement&rpar;](https://www.androidauthority.com/amazon-ending-shared-prime-free-shipping-outside-household-3593647/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
