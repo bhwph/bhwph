@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why I love my Kenmore canister vacuum](https://www.theverge.com/tech/769451/why-i-love-my-kenmore-canister-vacuum)
- - [A profile of Flock Safety, which operates 80K AI surveillance cameras across the US and hit a $7.5B valuation in March 2025, as it expands into US-made drones &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250903/p27#a250903p27)
- - [Best Action Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)<!-- TECH:END -->
+ - [Meta launches an Instagram app for the iPad, 15 years after its mobile app; it is slightly different than the mobile app, opening directly to a feed of Reels &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/250903/p29#a250903p29)
+ - [The Instagram iPad App Is Finally Here](https://www.wired.com/story/instagram-ipad-app-is-finally-here/)
+ - [Instagram is coming to iPad, 15 years later](https://www.theverge.com/news/769460/instagram-ipad-app-launch-reels)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
