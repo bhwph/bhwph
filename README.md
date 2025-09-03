@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Ashish Vaswani, lead author of Attention Is All You Need and Essential AI co-founder, who says the transformer-based AI boom is stifling innovation &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/250903/p13#a250903p13)
- - [Polar’s new minimalist fitness band is a subscription-free alternative to Whoop](https://www.androidauthority.com/polar-loop-launch-3593346/)
- - [This clever trick can help you find a lost or stolen Samsung phone. Here’s how it works](https://www.androidauthority.com/samsung-routines-app-lost-stolen-phone-trick-3593581/)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;September 3&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-03-2025-3593243/)
+ - [HappyRobot, which uses AI to automate freight operator communications, raised a $44M Series B led by Base10 Partners, a source says at a ~$500M valuation &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/250903/p20#a250903p20)
+ - [Finnish quantum computing startup IQM raised a $320M Series B led by Ten Eleven at a $1B+ valuation, and plans a US expansion and to scale its data centers &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250903/p19#a250903p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
