@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [5 armed police arrest Comedian for a tweet.](http://9gag.com/gag/ajPdVK1)
- - 😝 [I like it](http://9gag.com/gag/arydmpX)
- - 👉 [I over dicked it](http://9gag.com/gag/aRByEej)<!-- MEMES:END -->
+ - 6️⃣ [This driver deserves prison](http://9gag.com/gag/aPApg0w)
+ - 😝 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)
+ - 👉 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)<!-- MEMES:END -->
 
 --- 
 
