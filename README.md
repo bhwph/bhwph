@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How SK Hynix&#39;s rise as Nvidia&#39;s main HBM chip supplier, ahead of Samsung and Micron, disrupted the old order at the top end of the memory chip market &lpar;Financial Times&rpar;](http://www.techmeme.com/250903/p4#a250903p4)
- - [IDC: in Q1 2025, the world&#39;s top four robot vacuum makers, all from China, together accounted for 54.1% of shipments, as iRobot fell from first to fifth place &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/250903/p3#a250903p3)
- - [BMW&#39;s iX3 electric SUV, debuting September 5, will be the first in a series of &quot;software-defined vehicles&quot; on its €10B+ Neue Klasse platform unveiled in 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/250903/p2#a250903p2)<!-- TECH:END -->
+ - [The EU&#39;s General Court backs the EU-US Data Privacy Framework, approved in 2023, rejecting a legal challenge that US surveillance laws fall short of EU laws &lpar;Bloomberg&rpar;](http://www.techmeme.com/250903/p7#a250903p7)
+ - [Ooni’s newest pizza oven adds AI to your slice](https://www.theverge.com/news/768542/ooni-volt-2-pizza-oven-ai-pizza-intelligence)
+ - [A look at issues facing AI companies, including LLMs&#39; limited memory, as they tackle safety in chatbots engaging in conversations about suicide and self-harm &lpar;Financial Times&rpar;](http://www.techmeme.com/250903/p6#a250903p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
