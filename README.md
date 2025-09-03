@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Low IQ](http://9gag.com/gag/aByvmBO)
- - 😝 [Happy ending](http://9gag.com/gag/a5QxENV)
- - 👉 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)<!-- MEMES:END -->
+ - 😝 [Woman is mad that dog blocked her path](http://9gag.com/gag/avyD5An)
+ - 👉 [Furlong](http://9gag.com/gag/aVvd7GK)<!-- MEMES:END -->
 
 --- 
 
