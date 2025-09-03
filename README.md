@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Oh yeah... that one.`](http://9gag.com/gag/aO8jQOr)
- - 😝 [Most of my colleagues .](http://9gag.com/gag/arydMMX)
- - 👉 [Hard facts](http://9gag.com/gag/adBdgpZ)<!-- MEMES:END -->
+ - 6️⃣ [Based](http://9gag.com/gag/amodPV6)
+ - 😝 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)
+ - 👉 [He had an old chinese phone, an old raspberry pi 3b+, python, opencv and a bit of deep learning. And then there were the neighbor&#39;s chickens, who were driving him crazy.](http://9gag.com/gag/aW4dgDq)<!-- MEMES:END -->
 
 --- 
 
