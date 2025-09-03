@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Life is beautiful](http://9gag.com/gag/azxBepq)
- - 😝 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)
- - 👉 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)<!-- MEMES:END -->
+ - 6️⃣ [5 armed police arrest Comedian for a tweet.](http://9gag.com/gag/ajPdVK1)
+ - 😝 [I like it](http://9gag.com/gag/arydmpX)
+ - 👉 [I over dicked it](http://9gag.com/gag/aRByEej)<!-- MEMES:END -->
 
 --- 
 
