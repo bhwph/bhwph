@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Google TV Streamer drops to $79.99, almost its record-low price](https://www.androidauthority.com/google-tv-streamer-deal-5-3593735/)
- - [Google says it is reviewing the court&#39;s ruling on search and has &quot;concerns&quot; about how the requirements &quot;will impact our users and their privacy&quot; &lpar;Lee-Anne Mulholland/Google&rpar;](http://www.techmeme.com/250902/p39#a250902p39)
- - [Content creators and rideshare drivers are among the professions covered under the &quot;no tax on tips&quot; policy passed as part of the US spending bill signed in July &lpar;Alison Durkee/Forbes&rpar;](http://www.techmeme.com/250902/p38#a250902p38)<!-- TECH:END -->
+ - [Source: Sierra, which builds AI customer service agents, nears a $350M raise at a $10B valuation, up from $4.5B in October 2024, and is set to top $100M in ARR &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250902/p41#a250902p41)
+ - [Disney will pay $10 million to settle FTC claim it used cartoons to collect YouTube data on kids](https://www.theverge.com/policy/769771/disney-ftc-coppa-settlement-kids-data)
+ - [The already-affordable TCL 60 XE NXTPAPER gets $70 cheaper](https://www.androidauthority.com/tcl-60-xe-nxtpaper-deal-3593734/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
