@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Going to chill with the homies for an hour](http://9gag.com/gag/amodP6j)
- - 😝 [Some people just never learn, bless her heart](http://9gag.com/gag/axyAMmM)
- - 👉 [Genniousess](http://9gag.com/gag/adBdVRN)<!-- MEMES:END -->
+ - 6️⃣ [Doggo &lpar;\u2022\u1d25\u2022&rpar;](http://9gag.com/gag/aAymGMg)
+ - 😝 [He had an old chinese phone, an old raspberry pi 3b+, python, opencv and a bit of deep learning. And then there were the neighbor&#39;s chickens, who were driving him crazy.](http://9gag.com/gag/aW4dgDq)
+ - 👉 [I over dicked it](http://9gag.com/gag/aRByEej)<!-- MEMES:END -->
 
 --- 
 
