@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta launches an Instagram app for the iPad, 15 years after its mobile app; it is slightly different than the mobile app, opening directly to a feed of Reels &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/250903/p29#a250903p29)
- - [The Instagram iPad App Is Finally Here](https://www.wired.com/story/instagram-ipad-app-is-finally-here/)
- - [Instagram is coming to iPad, 15 years later](https://www.theverge.com/news/769460/instagram-ipad-app-launch-reels)<!-- TECH:END -->
+ - [Scale AI sues a former employee and Mercor, his current employer and one of Scale&#39;s key competitors, for allegedly stealing more than 100 confidential documents &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250903/p33#a250903p33)
+ - [Google Pixel 8 and newer models can now stream audio to multiple headphones at once with expanded Bluetooth LE Audio and Auracast support &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250903/p32#a250903p32)
+ - [Samsung Health levels up with virtual doctor visits, on-demand workouts, and more](https://www.androidauthority.com/samsung-health-new-features-3594126/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
