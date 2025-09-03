@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google sets the date for Gemini’s arrival on your Google Home devices](https://www.androidauthority.com/google-home-gemini-launch-date-3593786/)
- - [A US district judge rules that Amazon must face a class action lawsuit involving 288M customers over claims it overcharged for products sold by third parties &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250902/p42#a250902p42)
- - [No more Prime shipping perks outside your family &lpar;Updated: Amazon statement&rpar;](https://www.androidauthority.com/amazon-ending-shared-prime-free-shipping-outside-household-3593647/)<!-- TECH:END -->
+ - [How SK Hynix&#39;s rise as Nvidia&#39;s main HBM chip supplier, ahead of Samsung and Micron, disrupted the old order at the top end of the memory chip market &lpar;Financial Times&rpar;](http://www.techmeme.com/250903/p4#a250903p4)
+ - [IDC: in Q1 2025, the world&#39;s top four robot vacuum makers, all from China, together accounted for 54.1% of shipments, as iRobot fell from first to fifth place &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/250903/p3#a250903p3)
+ - [BMW&#39;s iX3 electric SUV, debuting September 5, will be the first in a series of &quot;software-defined vehicles&quot; on its €10B+ Neue Klasse platform unveiled in 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/250903/p2#a250903p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
