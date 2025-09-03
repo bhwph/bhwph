@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NordVPN Is Almost Free: Here’s the Trick to Slash the Price by Nearly 80%](https://kotaku.com/nordvpn-is-almost-free-heres-the-trick-to-slash-the-price-by-nearly-80-2000622672)
- - [Intel spent so much cash on research and development last year that it outspent Nvidia by 28% and AMD by a whopping 156%](https://www.pcgamer.com/hardware/intel-spent-so-much-cash-on-research-and-development-last-year-that-it-outspent-nvidia-by-28-percent-and-amd-by-a-whopping-156-percent/)
- - [HP Clears Out Its 14″ Laptop Bundle at Over 80% Off, Even Cheaper Than an Entry-Level Apple iPad](https://kotaku.com/hp-clears-out-its-14%e2%80%b3-laptop-bundle-at-over-80-off-even-cheaper-than-an-entry-level-apple-ipad-2000622471)<!-- GAME:END -->
+ - [Lego&#39;s newest Sega Genesis set taps into &#39;90s nostalgia](https://www.polygon.com/lego-unveils-sega-genesis-controller/)
+ - [This RPG lets you enable &lpar;or disable&rpar; the Oxford comma, despite there being just 15 of them in the entire game: &#39;He added the setting when nobody was looking&#39;](https://www.pcgamer.com/games/rpg/this-rpg-lets-you-enable-or-disable-the-oxford-comma-despite-there-being-just-15-of-them-in-the-entire-game-he-added-the-setting-when-nobody-was-looking/)
+ - [Cronos: The New Dawn review](https://www.pcgamer.com/games/horror/cronos-the-new-dawn-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
