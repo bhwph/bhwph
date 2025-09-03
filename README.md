@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple plans an AI search tool, World Knowledge Answers, for a spring 2026 Siri revamp; Apple and Google have agreed to test a Google AI model for Siri &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250903/p38#a250903p38)
- - [This &#39;leaked&#39; factory iPhone 17 Pro Max video is probably a fake](https://appleinsider.com/articles/25/09/03/this-leaked-factory-iphone-17-pro-max-video-is-probably-a-fake?utm_source=rss)
- - [Hot deal: Samsung Galaxy S25 Edge plummets to new record-low price, saving you $400!](https://www.androidauthority.com/samsung-galaxy-s25-edge-deal-7-3594257/)<!-- TECH:END -->
+ - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
+ - [Disney Settles FTC Complaint With YouTube Over Children&#39;s Data Collection](https://www.cnet.com/tech/services-and-software/disney-settles-ftc-complaint-over-youtube-childrens-data-collection/#ftag=CAD590a51e)
+ - [Polymarket CEO says the company &quot;has been given the green light to go live&quot; in the US after the CFTC issued a no-action letter regarding event contracts &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250903/p42#a250903p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
