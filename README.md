@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;September 3&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-03-2025-3593243/)
- - [HappyRobot, which uses AI to automate freight operator communications, raised a $44M Series B led by Base10 Partners, a source says at a ~$500M valuation &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/250903/p20#a250903p20)
- - [Finnish quantum computing startup IQM raised a $320M Series B led by Ten Eleven at a $1B+ valuation, and plans a US expansion and to scale its data centers &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250903/p19#a250903p19)<!-- TECH:END -->
+ - [Why I love my Kenmore canister vacuum](https://www.theverge.com/tech/769451/why-i-love-my-kenmore-canister-vacuum)
+ - [A profile of Flock Safety, which operates 80K AI surveillance cameras across the US and hit a $7.5B valuation in March 2025, as it expands into US-made drones &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250903/p27#a250903p27)
+ - [Best Action Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
