@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU&#39;s General Court backs the EU-US Data Privacy Framework, approved in 2023, rejecting a legal challenge that US surveillance laws fall short of EU laws &lpar;Bloomberg&rpar;](http://www.techmeme.com/250903/p7#a250903p7)
- - [Ooni’s newest pizza oven adds AI to your slice](https://www.theverge.com/news/768542/ooni-volt-2-pizza-oven-ai-pizza-intelligence)
- - [A look at issues facing AI companies, including LLMs&#39; limited memory, as they tackle safety in chatbots engaging in conversations about suicide and self-harm &lpar;Financial Times&rpar;](http://www.techmeme.com/250903/p6#a250903p6)<!-- TECH:END -->
+ - [A profile of Ashish Vaswani, lead author of Attention Is All You Need and Essential AI co-founder, who says the transformer-based AI boom is stifling innovation &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/250903/p13#a250903p13)
+ - [Polar’s new minimalist fitness band is a subscription-free alternative to Whoop](https://www.androidauthority.com/polar-loop-launch-3593346/)
+ - [This clever trick can help you find a lost or stolen Samsung phone. Here’s how it works](https://www.androidauthority.com/samsung-routines-app-lost-stolen-phone-trick-3593581/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
