@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scale AI sues a former employee and Mercor, his current employer and one of Scale&#39;s key competitors, for allegedly stealing more than 100 confidential documents &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250903/p33#a250903p33)
- - [Google Pixel 8 and newer models can now stream audio to multiple headphones at once with expanded Bluetooth LE Audio and Auracast support &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250903/p32#a250903p32)
- - [Samsung Health levels up with virtual doctor visits, on-demand workouts, and more](https://www.androidauthority.com/samsung-health-new-features-3594126/)<!-- TECH:END -->
+ - [Sources: Apple plans an AI search tool, World Knowledge Answers, for a spring 2026 Siri revamp; Apple and Google have agreed to test a Google AI model for Siri &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250903/p38#a250903p38)
+ - [This &#39;leaked&#39; factory iPhone 17 Pro Max video is probably a fake](https://appleinsider.com/articles/25/09/03/this-leaked-factory-iphone-17-pro-max-video-is-probably-a-fake?utm_source=rss)
+ - [Hot deal: Samsung Galaxy S25 Edge plummets to new record-low price, saving you $400!](https://www.androidauthority.com/samsung-galaxy-s25-edge-deal-7-3594257/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
