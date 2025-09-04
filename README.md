@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
- - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
- - 👉 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)<!-- MEMES:END -->
+ - 6️⃣ [Good old days](http://9gag.com/gag/aW4dp83)
+ - 😝 [Dont you know who i am.](http://9gag.com/gag/ajPd7Eq)
+ - 👉 [I over dicked it](http://9gag.com/gag/aRByEej)<!-- MEMES:END -->
 
 --- 
 
