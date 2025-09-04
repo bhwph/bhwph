@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Pro lineup may get modest RAM increase versus iPhone 16 Pro](https://appleinsider.com/articles/25/09/04/iphone-17-pro-lineup-may-get-modest-ram-increase-versus-iphone-16-pro?utm_source=rss)
- - [How Often Should You Vacuum to Get Rid of Microplastics and Other Particulates? &lpar;2025&rpar;](https://www.wired.com/story/how-often-should-you-vacuum/)
- - [The first Google TVs with Gemini are finally here](https://www.androidauthority.com/tcl-qm9k-first-google-tv-with-gemini-3593939/)<!-- TECH:END -->
+ - [Google now lets US-based Google Photos users turn static images into silent four-second videos using its Veo 3 model &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/250904/p32#a250904p32)
+ - [Stripe and Paradigm unveil Tempo, a Layer-1 blockchain for stablecoins; a source says Tempo will not launch with its own token and there is no launch timeline &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250904/p31#a250904p31)
+ - [Darth Vader&amp;#8217;s lightsaber is up for auction](https://www.theverge.com/news/771642/darth-vader-lightsaber-propstore-auction-indiana-jones)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
