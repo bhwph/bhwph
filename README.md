@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy S26 series may ape the iPhone 17’s biggest design change](https://www.theverge.com/news/771261/samsungs-galaxy-s26-series-may-ape-the-iphone-17s-biggest-design-change)
- - [Entire gang responsible for $16.2 million iPhone return fraud scheme plead guilty](https://appleinsider.com/articles/25/09/04/entire-gang-responsible-for-162-million-iphone-return-fraud-scheme-plead-guilty?utm_source=rss)
- - [12 Kitchen Items That Your Dishwasher Will Destroy](https://www.cnet.com/news/12-household-items-that-your-dishwasher-will-destroy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 17 Pro lineup may get modest RAM increase versus iPhone 16 Pro](https://appleinsider.com/articles/25/09/04/iphone-17-pro-lineup-may-get-modest-ram-increase-versus-iphone-16-pro?utm_source=rss)
+ - [How Often Should You Vacuum to Get Rid of Microplastics and Other Particulates? &lpar;2025&rpar;](https://www.wired.com/story/how-often-should-you-vacuum/)
+ - [The first Google TVs with Gemini are finally here](https://www.androidauthority.com/tcl-qm9k-first-google-tv-with-gemini-3593939/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
