@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals Season 4 release date, Angela details, patch notes, and more](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-season-4-release-date/)
- - [Disney Dreamlight Valley Wishblossom Ranch: everything you need to know about the next expansion](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-wishblossom-ranch/)
- - [Cloudflare mitigates biggest ever DDoS attack, which tried to pelt its target with 11.5 Tbps of data in less than a minute](https://www.pcgamer.com/hardware/cloudflare-mitigates-biggest-ever-ddos-attack-which-tried-to-pelt-its-target-with-11-5-tbps-of-data-in-less-than-a-minute/)<!-- GAME:END -->
+ - [Hollow Knight: Silksong live launch coverage: It&#39;s finally here](https://www.pcgamer.com/games/live/news/silksong-launch-day-live-news/)
+ - [Valve applies to use &#39;Steam Frame&#39; as a trademark for a new console as speculation over a mythical next-gen Half-Life game continues](https://www.pcgamer.com/hardware/gaming-pcs/valve-applies-to-use-steam-frame-as-a-trademark-for-a-new-console-as-speculation-over-a-mythical-next-gen-half-life-game-continues/)
+ - [Amazon’s Tomb Raider TV Series Is Alive, Confirms Sophie Turner As Lara Croft](https://kotaku.com/tomb-raider-lara-croft-amazon-sophie-turner-2000623124)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
