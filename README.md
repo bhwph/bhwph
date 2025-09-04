@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is how I imagine my dog is in heaven right now](http://9gag.com/gag/aoydyKg)
- - 😝 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
- - 👉 [Nobody reads this.](http://9gag.com/gag/a9yVyeL)<!-- MEMES:END -->
+ - 6️⃣ [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
+ - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
+ - 👉 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)<!-- MEMES:END -->
 
 --- 
 
