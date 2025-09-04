@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Lambda, a cloud provider that rents out Nvidia chips, has hired banks to prepare for a US IPO as soon as H1 2026; it was valued at $2.5B in February &lpar;The Information&rpar;](http://www.techmeme.com/250903/p50#a250903p50)
- - [Anthropic named the Qatar Investment Authority as a &quot;significant&quot; investor in its $13B round; QIA expects to do up to 25 tech deals through 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250903/p49#a250903p49)
- - [American Bitcoin closed up 16.5% in its Nasdaq debut on Wednesday, valuing Eric Trump and Donald Trump Jr.&#39;s stake in the bitcoin mining company at $1.5B &lpar;Reuters&rpar;](http://www.techmeme.com/250903/p48#a250903p48)<!-- TECH:END -->
+ - [Orchard Robotics, which uses cameras and AI to help fruit growers manage crops more precisely, raised a $22M Series A led by Quiet Capital and Shine Capital &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250904/p1#a250904p1)
+ - [Meet Dyson’s Brand-New Lineup: V8 Cyclone, V16 Piston Animal, HushJet Purifier Compact](https://www.wired.com/story/dyson-new-lineup-2026/)
+ - [How to use Siri with ChatGPT on older iPhones without Apple Intelligence](https://appleinsider.com/inside/ios/tips/how-to-use-siri-with-chatgpt-on-older-iphones-without-apple-intelligence?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
