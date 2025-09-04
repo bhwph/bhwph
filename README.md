@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Finally some clarity](http://9gag.com/gag/an7dg05)
- - 😝 [This driver deserves prison](http://9gag.com/gag/aPApg0w)
- - 👉 [Recycling plastic](http://9gag.com/gag/apRd9YD)<!-- MEMES:END -->
+ - 6️⃣ [Honorable Mention](http://9gag.com/gag/aLnb1AP)
+ - 😝 [What skill this girl has with the love of her life](http://9gag.com/gag/ae9d9GB)
+ - 👉 [This is how I imagine my dog is in heaven right now](http://9gag.com/gag/aoydyKg)<!-- MEMES:END -->
 
 --- 
 
