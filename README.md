@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft open-sources its 6502 version of BASIC from 1976](https://www.theverge.com/news/771120/microsoft-6502-basic-open-source-release)
- - [IFA 2025: the biggest tech and gadget announcements](https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights)
- - [Philips Hue unveils a major product refresh at IFA 2025, including a $90 Hue Bridge Pro, updated $25 smart bulbs, and the $169 Hue Secure doorbell, its first &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250904/p16#a250904p16)<!-- TECH:END -->
+ - [Samsung’s Galaxy S26 series may ape the iPhone 17’s biggest design change](https://www.theverge.com/news/771261/samsungs-galaxy-s26-series-may-ape-the-iphone-17s-biggest-design-change)
+ - [Entire gang responsible for $16.2 million iPhone return fraud scheme plead guilty](https://appleinsider.com/articles/25/09/04/entire-gang-responsible-for-162-million-iphone-return-fraud-scheme-plead-guilty?utm_source=rss)
+ - [12 Kitchen Items That Your Dishwasher Will Destroy](https://www.cnet.com/news/12-household-items-that-your-dishwasher-will-destroy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
