@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Honorable Mention](http://9gag.com/gag/aLnb1AP)
- - 😝 [What skill this girl has with the love of her life](http://9gag.com/gag/ae9d9GB)
- - 👉 [This is how I imagine my dog is in heaven right now](http://9gag.com/gag/aoydyKg)<!-- MEMES:END -->
+ - 6️⃣ [Not a surprise tbh](http://9gag.com/gag/a2vx1b1)
+ - 😝 [Life is beautiful](http://9gag.com/gag/azxBepq)
+ - 👉 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)<!-- MEMES:END -->
 
 --- 
 
