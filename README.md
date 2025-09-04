@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Surstr\u00f6mming prank](http://9gag.com/gag/abAdg0L)
- - 😝 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)
- - 👉 [Dementia. What&#39;s waiting for me at the end of my life](http://9gag.com/gag/aXPdnBv)<!-- MEMES:END -->
+ - 6️⃣ [Conjuring Another Universe](http://9gag.com/gag/abAdvRE)
+ - 😝 [Recycling plastic](http://9gag.com/gag/apRd9YD)
+ - 👉 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)<!-- MEMES:END -->
 
 --- 
 
