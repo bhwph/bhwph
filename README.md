@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hollow Knight: Silksong live launch coverage: It&#39;s finally here](https://www.pcgamer.com/games/live/news/silksong-launch-day-live-news/)
- - [Valve applies to use &#39;Steam Frame&#39; as a trademark for a new console as speculation over a mythical next-gen Half-Life game continues](https://www.pcgamer.com/hardware/gaming-pcs/valve-applies-to-use-steam-frame-as-a-trademark-for-a-new-console-as-speculation-over-a-mythical-next-gen-half-life-game-continues/)
- - [Amazon’s Tomb Raider TV Series Is Alive, Confirms Sophie Turner As Lara Croft](https://kotaku.com/tomb-raider-lara-croft-amazon-sophie-turner-2000623124)<!-- GAME:END -->
+ - [Silksong crashed Steam the nanosecond it released](https://www.pcgamer.com/games/action/silksong-crashed-steam-the-nanosecond-it-released/)
+ - [Help! Silksong Is Finally Out And Everyone’s Having Trouble Downloading It](https://kotaku.com/help-silksong-is-finally-out-and-everyones-having-trouble-downloading-it-2000623137)
+ - [Super Mario Odyssey fan proves the impossible in a few seconds](https://www.polygon.com/super-mario-odyssey-lakitu-freedom-glitch-nintendo-switch/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
