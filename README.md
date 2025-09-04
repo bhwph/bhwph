@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Conjuring Another Universe](http://9gag.com/gag/abAdvRE)
- - 😝 [Recycling plastic](http://9gag.com/gag/apRd9YD)
- - 👉 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)<!-- MEMES:END -->
+ - 6️⃣ [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)
+ - 😝 [She has got to be dreaming..](http://9gag.com/gag/a87n7XQ)
+ - 👉 [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)<!-- MEMES:END -->
 
 --- 
 
