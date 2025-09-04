@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Sports might not return to college basketball after all](https://www.polygon.com/ea-college-basketball-game-schools-choose-2k-sports/)
- - [Indiana Jones and the Great Circle: The Order of Giants DLC Available Now](https://bethesda.net/en/article/2e8gKo8DfjVZ1zj5YmOJF3/indiana-jones-and-the-great-circle-the-order-of-giants-dlc-available-now#new_tab)
- - [Silksong already has the 18th highest all-time peak player count in Steam history as it draws over 500,000 concurrent players in its first 4 hours](https://www.pcgamer.com/games/action/silksong-already-has-the-18th-highest-all-time-peak-player-count-in-steam-history-as-it-draws-over-500-000-players-in-its-first-4-hours/)<!-- GAME:END -->
+ - [Gen V season 2 has major connections to The Boys](https://www.polygon.com/gen-v-season-2-preview-showrunner-interview/)
+ - [GTA 6 Being The First ‘AAAAA Game’ Is A Sign Of Both Confidence And Desperation](https://kotaku.com/gta-6-aaaaa-silksong-next-gen-pc-devolver-digital-2000623190)
+ - [Dune: Awakening will be on sale for the first time next week, along with a &#39;zero restrictions&#39; free weekend](https://www.pcgamer.com/games/mmo/dune-awakening-will-be-on-sale-for-the-first-time-next-week-along-with-a-zero-restrictions-free-weekend/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
