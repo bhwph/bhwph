@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pour one out for the Galaxy Note line as updates come to an end](https://www.androidauthority.com/samsung-galaxy-note-20-updates-ended-3594889/)
- - [Augment, founded by Deliverr&#39;s Harish Abbott, raised an $85M Series A led by Redpoint to scale its AI assistant for logistics, five months after a $25M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250904/p41#a250904p41)
- - [The new Street Fighter movie Hadokens into theaters in October 2026](https://www.theverge.com/news/771977/street-fighter-movie-release-date-cast)<!-- TECH:END -->
+ - [Warner Bros. Discovery sues Midjourney for generating &amp;#8216;countless&amp;#8217; copies of its characters](https://www.theverge.com/news/772101/midjourney-ai-generator-warner-bros-lawsuit)
+ - [Polar Introduces Loop, a $200 Screenless Wearable](https://www.cnet.com/tech/mobile/polar-introduces-loop-a-200-screenless-wearable/#ftag=CAD590a51e)
+ - [These Are the Catchiest Songs of All Time, According to AI](https://www.cnet.com/tech/services-and-software/these-are-the-catchiest-songs-of-all-time-according-to-ai/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
