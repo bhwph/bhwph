@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gen V season 2 has major connections to The Boys](https://www.polygon.com/gen-v-season-2-preview-showrunner-interview/)
- - [GTA 6 Being The First ‘AAAAA Game’ Is A Sign Of Both Confidence And Desperation](https://kotaku.com/gta-6-aaaaa-silksong-next-gen-pc-devolver-digital-2000623190)
- - [Dune: Awakening will be on sale for the first time next week, along with a &#39;zero restrictions&#39; free weekend](https://www.pcgamer.com/games/mmo/dune-awakening-will-be-on-sale-for-the-first-time-next-week-along-with-a-zero-restrictions-free-weekend/)<!-- GAME:END -->
+ - [How well do you know Baldur&#39;s Gate 3&#39;s first act? See how hopeless of an RPG restarter you are with this quiz](https://www.pcgamer.com/games/rpg/how-well-do-you-know-baldurs-gate-3s-first-act-see-how-hopeless-of-an-rpg-restarter-you-are-with-this-quiz/)
+ - [Warner Bros. sues Midjourney for &#39;purposefully infringing copyrighted work&#39;](https://www.polygon.com/warner-bros-sues-midjourney/)
+ - [Silksong is so popular, even people in the Piracy subreddit are encouraging others to just buy it: &#39;If we can afford to support them, we should&#39;](https://www.pcgamer.com/games/action/silksong-is-so-popular-even-people-in-the-piracy-subreddit-are-encouraging-others-to-just-buy-it-if-we-can-afford-to-support-them-we-should/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
