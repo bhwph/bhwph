@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook invited to meeting in Trump&#39;s Rose Garden [u]](https://appleinsider.com/articles/25/09/04/tim-cook-has-been-invited-a-meeting-in-trumps-rose-garden-on-iphone-17-launch-day?utm_source=rss)
- - [ID.me, a digital ID service used by US agencies like the IRS, raised a $340M Series E led by Ribbit at a $2B+ valuation, bringing its total funding to $580M+ &lpar;Reuters&rpar;](http://www.techmeme.com/250904/p38#a250904p38)
- - [Stardew Valley’s creator is in Silksong](https://www.theverge.com/news/771772/hollow-knight-silksong-stardew-valley-eric-barone-concernedape)<!-- TECH:END -->
+ - [Pour one out for the Galaxy Note line as updates come to an end](https://www.androidauthority.com/samsung-galaxy-note-20-updates-ended-3594889/)
+ - [Augment, founded by Deliverr&#39;s Harish Abbott, raised an $85M Series A led by Redpoint to scale its AI assistant for logistics, five months after a $25M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250904/p41#a250904p41)
+ - [The new Street Fighter movie Hadokens into theaters in October 2026](https://www.theverge.com/news/771977/street-fighter-movie-release-date-cast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
