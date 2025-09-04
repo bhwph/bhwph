@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This driver deserves prison](http://9gag.com/gag/aPApg0w)
- - 😝 [Recycling plastic](http://9gag.com/gag/apRd9YD)
- - 👉 [Conjuring Another Universe](http://9gag.com/gag/abAdvRE)<!-- MEMES:END -->
+ - 6️⃣ [Finally some clarity](http://9gag.com/gag/an7dg05)
+ - 😝 [This driver deserves prison](http://9gag.com/gag/aPApg0w)
+ - 👉 [Recycling plastic](http://9gag.com/gag/apRd9YD)<!-- MEMES:END -->
 
 --- 
 
