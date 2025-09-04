@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Orchard Robotics, which uses cameras and AI to help fruit growers manage crops more precisely, raised a $22M Series A led by Quiet Capital and Shine Capital &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250904/p1#a250904p1)
- - [Meet Dyson’s Brand-New Lineup: V8 Cyclone, V16 Piston Animal, HushJet Purifier Compact](https://www.wired.com/story/dyson-new-lineup-2026/)
- - [How to use Siri with ChatGPT on older iPhones without Apple Intelligence](https://appleinsider.com/inside/ios/tips/how-to-use-siri-with-chatgpt-on-older-iphones-without-apple-intelligence?utm_source=rss)<!-- TECH:END -->
+ - [US banking groups warn a GENIUS Act loophole, which allows crypto exchanges reward stablecoin holdings, could drive users to pull money from traditional banks &lpar;Adam Willems/Wired&rpar;](http://www.techmeme.com/250904/p6#a250904p6)
+ - [Aukey&amp;#8217;s new wireless charger gives you more freedom through the power of the orbs](https://www.theverge.com/news/769300/aukey-magfusion-ark-wireless-charger-qi2-2)
+ - [At IFA 2025, tech giants like Amazon, Google, and Samsung and startups like Doma are expected to showcase how AI could make smart homes more intuitive &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250904/p5#a250904p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
