@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US banking groups warn a GENIUS Act loophole, which allows crypto exchanges reward stablecoin holdings, could drive users to pull money from traditional banks &lpar;Adam Willems/Wired&rpar;](http://www.techmeme.com/250904/p6#a250904p6)
- - [Aukey&amp;#8217;s new wireless charger gives you more freedom through the power of the orbs](https://www.theverge.com/news/769300/aukey-magfusion-ark-wireless-charger-qi2-2)
- - [At IFA 2025, tech giants like Amazon, Google, and Samsung and startups like Doma are expected to showcase how AI could make smart homes more intuitive &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250904/p5#a250904p5)<!-- TECH:END -->
+ - [Aqara announces Apple-friendly doorbell, outdoor camera, video hub, and more](https://www.theverge.com/news/771071/aqara-announces-apple-friendly-doorbell-outdoor-camera-video-hub-and-more)
+ - [Belkin’s cheap wired earbuds give you ANC without battery anxieties](https://www.theverge.com/news/768621/belkin-soundform-earbuds-anc-price-launch)
+ - [This Belkin Qi2 charging puck comes with a kickstand and cooling](https://www.theverge.com/news/770539/belkin-ultracharge-magnetic-charger-qi2-availability)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
