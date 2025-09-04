@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
- - [Disney Settles FTC Complaint With YouTube Over Children&#39;s Data Collection](https://www.cnet.com/tech/services-and-software/disney-settles-ftc-complaint-over-youtube-childrens-data-collection/#ftag=CAD590a51e)
- - [Polymarket CEO says the company &quot;has been given the green light to go live&quot; in the US after the CFTC issued a no-action letter regarding event contracts &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250903/p42#a250903p42)<!-- TECH:END -->
+ - [American Bitcoin closed up 16.5% in its Nasdaq debut on Wednesday, valuing Eric Trump and Donald Trump Jr.&#39;s stake in the bitcoin mining company at $1.5B &lpar;Reuters&rpar;](http://www.techmeme.com/250903/p48#a250903p48)
+ - [A US jury orders Google to pay $425M+ to plaintiffs in a 2020 class action lawsuit for collecting data even after they turned off Web &amp; App Activity tracking &lpar;Margaret Attridge/Courthouse News Service&rpar;](http://www.techmeme.com/250903/p47#a250903p47)
+ - [OpenAI makes ChatGPT Projects available to all free users, and allows more files to be added to projects; Projects was previously exclusive to paid subscribers &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/250903/p46#a250903p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
