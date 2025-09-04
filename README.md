@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [On the eve of Silksong, ultrawide monitor support is confirmed, and the soundtrack looks to be double the size of the original](https://www.pcgamer.com/games/action/on-the-eve-of-silksong-ultrawide-monitor-support-is-confirmed-and-the-soundtrack-looks-to-be-double-the-size-of-the-original/)
- - [Today&#39;s Wordle clues, hints and answer for September 4 &lpar;#1538&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-4-2025/)
- - [After seeing 30 minutes of the new Bond game, I&#39;m more excited for the shooting than the stealth](https://www.pcgamer.com/games/action/after-seeing-30-minutes-of-the-new-bond-game-im-more-excited-for-the-shooting-than-the-stealth/)<!-- GAME:END -->
+ - [Marvel Rivals Season 4 release date, Angela details, patch notes, and more](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-season-4-release-date/)
+ - [Disney Dreamlight Valley Wishblossom Ranch: everything you need to know about the next expansion](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-wishblossom-ranch/)
+ - [Cloudflare mitigates biggest ever DDoS attack, which tried to pelt its target with 11.5 Tbps of data in less than a minute](https://www.pcgamer.com/hardware/cloudflare-mitigates-biggest-ever-ddos-attack-which-tried-to-pelt-its-target-with-11-5-tbps-of-data-in-less-than-a-minute/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
