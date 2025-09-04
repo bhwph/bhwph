@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google now lets US-based Google Photos users turn static images into silent four-second videos using its Veo 3 model &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/250904/p32#a250904p32)
- - [Stripe and Paradigm unveil Tempo, a Layer-1 blockchain for stablecoins; a source says Tempo will not launch with its own token and there is no launch timeline &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250904/p31#a250904p31)
- - [Darth Vader&amp;#8217;s lightsaber is up for auction](https://www.theverge.com/news/771642/darth-vader-lightsaber-propstore-auction-indiana-jones)<!-- TECH:END -->
+ - [Tim Cook invited to meeting in Trump&#39;s Rose Garden [u]](https://appleinsider.com/articles/25/09/04/tim-cook-has-been-invited-a-meeting-in-trumps-rose-garden-on-iphone-17-launch-day?utm_source=rss)
+ - [ID.me, a digital ID service used by US agencies like the IRS, raised a $340M Series E led by Ribbit at a $2B+ valuation, bringing its total funding to $580M+ &lpar;Reuters&rpar;](http://www.techmeme.com/250904/p38#a250904p38)
+ - [Stardew Valley’s creator is in Silksong](https://www.theverge.com/news/771772/hollow-knight-silksong-stardew-valley-eric-barone-concernedape)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
