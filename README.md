@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not a surprise tbh](http://9gag.com/gag/a2vx1b1)
- - 😝 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
- - 👉 [This driver deserves prison](http://9gag.com/gag/aPApg0w)<!-- MEMES:END -->
+ - 6️⃣ [This driver deserves prison](http://9gag.com/gag/aPApg0w)
+ - 😝 [Recycling plastic](http://9gag.com/gag/apRd9YD)
+ - 👉 [Conjuring Another Universe](http://9gag.com/gag/abAdvRE)<!-- MEMES:END -->
 
 --- 
 
