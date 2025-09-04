@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Upcoming PowerToys utility will finally let you set light and dark mode to cycle on a schedule in Windows 11](https://www.pcgamer.com/hardware/upcoming-powertoys-utility-will-finally-let-you-set-light-and-dark-mode-to-cycle-on-a-schedule-in-windows-11/)
- - [Why Justin Tipping&#39;s football horror movie Him looks so familiar](https://www.polygon.com/him-justin-tipping-interview-preview-jordan-peele-football-horror/)
- - [ID@Xbox Indie Selects Demo Fest Is Heading Your Way Next Week](https://news.xbox.com/en-us/2025/09/04/id-xbox-indie-selects-demo-fest-2025/)<!-- GAME:END -->
+ - [EA Sports might not return to college basketball after all](https://www.polygon.com/ea-college-basketball-game-schools-choose-2k-sports/)
+ - [Indiana Jones and the Great Circle: The Order of Giants DLC Available Now](https://bethesda.net/en/article/2e8gKo8DfjVZ1zj5YmOJF3/indiana-jones-and-the-great-circle-the-order-of-giants-dlc-available-now#new_tab)
+ - [Silksong already has the 18th highest all-time peak player count in Steam history as it draws over 500,000 concurrent players in its first 4 hours](https://www.pcgamer.com/games/action/silksong-already-has-the-18th-highest-all-time-peak-player-count-in-steam-history-as-it-draws-over-500-000-players-in-its-first-4-hours/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
