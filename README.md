@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aqara announces Apple-friendly doorbell, outdoor camera, video hub, and more](https://www.theverge.com/news/771071/aqara-announces-apple-friendly-doorbell-outdoor-camera-video-hub-and-more)
- - [Belkin’s cheap wired earbuds give you ANC without battery anxieties](https://www.theverge.com/news/768621/belkin-soundform-earbuds-anc-price-launch)
- - [This Belkin Qi2 charging puck comes with a kickstand and cooling](https://www.theverge.com/news/770539/belkin-ultracharge-magnetic-charger-qi2-availability)<!-- TECH:END -->
+ - [Microsoft open-sources its 6502 version of BASIC from 1976](https://www.theverge.com/news/771120/microsoft-6502-basic-open-source-release)
+ - [IFA 2025: the biggest tech and gadget announcements](https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights)
+ - [Philips Hue unveils a major product refresh at IFA 2025, including a $90 Hue Bridge Pro, updated $25 smart bulbs, and the $169 Hue Secure doorbell, its first &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250904/p16#a250904p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
