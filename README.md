@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ProRata.ai, which lets publishers embed custom AI search on their sites with a 50/50 revenue share, raised a $40M Series B, bringing its total raised to $70M+ &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250905/p8#a250905p8)
- - [OpenAI could launch its own AI chip next year](https://www.theverge.com/news/772433/openai-custom-chip-production-broadcom)
- - [This dual-4K security camera with 360º panning uses AI to alert you of porch pirates](https://www.androidauthority.com/reolink-dual-4k-security-camera-360-degree-3595021/)<!-- TECH:END -->
+ - [What would actually make the Apple Watch better?](https://www.theverge.com/optimizer-newsletter/772003/apple-watch-iphone-17-optimizer-smartwatch-wearables)
+ - [New iPhone 17 Pro leak suggests Dynamic Island is shrinking](https://appleinsider.com/articles/25/09/05/new-iphone-17-pro-leak-suggests-dynamic-island-is-shrinking?utm_source=rss)
+ - [IFA 2025: NexLawn debuts and teams up with MOVA to showcase lawn and garden care innovations](https://www.androidauthority.com/ifa-2025-nexlawn-robotic-lawn-mowers-3594322/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
