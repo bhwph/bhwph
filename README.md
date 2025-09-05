@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)
+ - 6️⃣ [Some more lore for you](http://9gag.com/gag/aNDq92K)
  - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
- - 👉 [Remembering movies only you seem to recall](http://9gag.com/gag/a87n7mV)<!-- MEMES:END -->
+ - 👉 [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)<!-- MEMES:END -->
 
 --- 
 
