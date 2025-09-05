@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good old days](http://9gag.com/gag/aW4dp83)
- - 😝 [Dont you know who i am.](http://9gag.com/gag/ajPd7Eq)
- - 👉 [I over dicked it](http://9gag.com/gag/aRByEej)<!-- MEMES:END -->
+ - 6️⃣ [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)
+ - 😝 [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)
+ - 👉 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)<!-- MEMES:END -->
 
 --- 
 
