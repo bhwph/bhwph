@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What would actually make the Apple Watch better?](https://www.theverge.com/optimizer-newsletter/772003/apple-watch-iphone-17-optimizer-smartwatch-wearables)
- - [New iPhone 17 Pro leak suggests Dynamic Island is shrinking](https://appleinsider.com/articles/25/09/05/new-iphone-17-pro-leak-suggests-dynamic-island-is-shrinking?utm_source=rss)
- - [IFA 2025: NexLawn debuts and teams up with MOVA to showcase lawn and garden care innovations](https://www.androidauthority.com/ifa-2025-nexlawn-robotic-lawn-mowers-3594322/)<!-- TECH:END -->
+ - [At the White House dinner on Thursday night, Big Tech executives put on an uncanny display of fealty to Donald Trump by taking turns praising his leadership &lpar;Brian Barrett/Wired&rpar;](http://www.techmeme.com/250905/p14#a250905p14)
+ - [Samsung&amp;#8217;s Galaxy S26 Edge might look like an iPhone 17 Pro](https://www.theverge.com/news/772769/samsung-galaxy-s26-edge-render-leak-iphone-17-pro)
+ - [Tech leaders take turns flattering Trump at White House dinner](https://www.theverge.com/policy/772760/tech-ceos-ai-trump-white-house-dinner)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
