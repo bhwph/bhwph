@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I wanna see she starve](http://9gag.com/gag/aNDqLew)
- - 😝 [Venice hides secrets](http://9gag.com/gag/aNDqLwr)
- - 👉 [Smart Man](http://9gag.com/gag/aD2P7bd)<!-- MEMES:END -->
+ - 6️⃣ [Conjuring Another Universe](http://9gag.com/gag/abAdvRE)
+ - 😝 [Old joke.](http://9gag.com/gag/an7dO0z)
+ - 👉 [Shared by an X account who is British - they didn&#39;t specify exactly where this is, but I&#39;m guessing London.](http://9gag.com/gag/adBdBp2)<!-- MEMES:END -->
 
 --- 
 
