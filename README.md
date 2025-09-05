@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [8 Hollow Knight: Silksong beginner’s tips to help you get started](https://www.polygon.com/hollow-knight-silksong-beginners-tips-tricks/)
- - [Kotaku’s Weekend Guide: 4 Cool Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-star-wars-no-mans-sky-silksong-2000623522)
- - [Steven Spielberg reportedly wanted to direct the Call of Duty movie, but Activision didn&#39;t want to give up creative control: &#39;Imagine turning down the guy who made Saving Private Ryan&#39;](https://www.pcgamer.com/movies-tv/steven-spielberg-reportedly-wanted-to-direct-the-call-of-duty-movie-but-activision-didnt-want-to-give-up-creative-control-imagine-turning-down-the-guy-who-made-saving-private-ryan/)<!-- GAME:END -->
+ - [Silksong players stuck in Fair Fields: Here&#39;s how to get out](https://www.pcgamer.com/games/action/stuck-in-fair-fields-silksong-guide/)
+ - [Starfield fans are pretty sure Bethesda just dropped the first teaser for the game&#39;s second expansion: &#39;We look forward to the adventures yet to come&#39;](https://www.pcgamer.com/games/rpg/starfield-fans-are-pretty-sure-bethesda-just-dropped-the-first-teaser-for-the-games-second-expansion-we-look-forward-to-the-adventures-yet-to-come/)
+ - [Peacemaker season 2 seems to be setting up a really bleak multiverse twist](https://www.polygon.com/peacemaker-james-gunn-multiverse-blue-dragon-theory/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
