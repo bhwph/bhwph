@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good old days](http://9gag.com/gag/aW4dp83)
- - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 👉 [An angle rarely seen](http://9gag.com/gag/aRByL9q)<!-- MEMES:END -->
+ - 6️⃣ [Smart Man](http://9gag.com/gag/aD2P7bd)
+ - 😝 [Venice hides secrets](http://9gag.com/gag/aNDqLwr)
+ - 👉 [I wanna see she starve](http://9gag.com/gag/aNDqLew)<!-- MEMES:END -->
 
 --- 
 
