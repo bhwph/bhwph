@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warner Bros. Discovery sues Midjourney for generating &amp;#8216;countless&amp;#8217; copies of its characters](https://www.theverge.com/news/772101/midjourney-ai-generator-warner-bros-lawsuit)
- - [Polar Introduces Loop, a $200 Screenless Wearable](https://www.cnet.com/tech/mobile/polar-introduces-loop-a-200-screenless-wearable/#ftag=CAD590a51e)
- - [These Are the Catchiest Songs of All Time, According to AI](https://www.cnet.com/tech/services-and-software/these-are-the-catchiest-songs-of-all-time-according-to-ai/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deal: This amazing Samsung curved gaming monitor is $600 off!](https://www.androidauthority.com/samsung-odyssey-g9-g95c-49-inch-curved-gaming-monitor-deal-3-3594910/)
+ - [OpenAI is set to produce an AI chip co-designed with Broadcom next year, and has committed $10B in orders; the chip will be for internal use only &lpar;Financial Times&rpar;](http://www.techmeme.com/250904/p50#a250904p50)
+ - [Amazon, Microsoft, Google, Code.org, IBM, and other companies pledged new commitments for AI in education as part of a White House event hosted by Melania Trump &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/250904/p49#a250904p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
