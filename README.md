@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)
- - 😝 [Remembering movies only you seem to recall](http://9gag.com/gag/a87n7mV)
- - 👉 [I wanna see she starve](http://9gag.com/gag/aNDqLew)<!-- MEMES:END -->
+ - 6️⃣ [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
+ - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
+ - 👉 [Show Me Your Most Disgusting Pictures](http://9gag.com/gag/aNDqwD3)<!-- MEMES:END -->
 
 --- 
 
