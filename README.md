@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Google’s new Pixel Flex Dual Port 67W charger isn’t the same everywhere](https://www.androidauthority.com/google-pixel-flex-dual-port-67w-charger-prong-differences-3594995/)
- - [This new Qi2 25W wireless charger lineup is ready for the Pixel 10 Pro XL and iPhone 17 series](https://www.androidauthority.com/ugreen-magflow-qi2-25w-wireless-chargers-3594687/)
- - [This robot lawnmower is designed to pick fruit and throw your dog a ball](https://www.theverge.com/news/772045/nexlawn-master-x-series-concept-robot-lawnmower)<!-- TECH:END -->
+ - [5 reasons I’d buy the Galaxy Tab S11 over the S11 Ultra](https://www.androidauthority.com/galaxy-tab-s11-vs-tab-s11-ultra-3594514/)
+ - [‘People Are So Proud of This’: How River and Lake Water Is Cooling Buildings](https://www.wired.com/story/people-are-so-proud-of-this-how-river-and-lake-water-is-cooling-buildings/)
+ - [The first Snapdragon 8 Elite Gen 5 phones could have ridiculously big batteries](https://www.androidauthority.com/first-snapdragon-8-elite-gen-5-phones-battery-capacity-3594983/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
