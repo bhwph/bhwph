@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Old joke.](http://9gag.com/gag/an7dO0z)
- - 😝 [The liberal is confused. It hurt itself in its confusion.](http://9gag.com/gag/ae9d1Mj)
- - 👉 [We can never be too carefull](http://9gag.com/gag/ajPd1Ng)<!-- MEMES:END -->
+ - 6️⃣ [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)
+ - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
+ - 👉 [Remembering movies only you seem to recall](http://9gag.com/gag/a87n7mV)<!-- MEMES:END -->
 
 --- 
 
