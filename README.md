@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 reasons I’d buy the Galaxy Tab S11 over the S11 Ultra](https://www.androidauthority.com/galaxy-tab-s11-vs-tab-s11-ultra-3594514/)
- - [‘People Are So Proud of This’: How River and Lake Water Is Cooling Buildings](https://www.wired.com/story/people-are-so-proud-of-this-how-river-and-lake-water-is-cooling-buildings/)
- - [The first Snapdragon 8 Elite Gen 5 phones could have ridiculously big batteries](https://www.androidauthority.com/first-snapdragon-8-elite-gen-5-phones-battery-capacity-3594983/)<!-- TECH:END -->
+ - [ProRata.ai, which lets publishers embed custom AI search on their sites with a 50/50 revenue share, raised a $40M Series B, bringing its total raised to $70M+ &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250905/p8#a250905p8)
+ - [OpenAI could launch its own AI chip next year](https://www.theverge.com/news/772433/openai-custom-chip-production-broadcom)
+ - [This dual-4K security camera with 360º panning uses AI to alert you of porch pirates](https://www.androidauthority.com/reolink-dual-4k-security-camera-360-degree-3595021/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
