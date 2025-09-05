@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At the White House dinner on Thursday night, Big Tech executives put on an uncanny display of fealty to Donald Trump by taking turns praising his leadership &lpar;Brian Barrett/Wired&rpar;](http://www.techmeme.com/250905/p14#a250905p14)
- - [Samsung&amp;#8217;s Galaxy S26 Edge might look like an iPhone 17 Pro](https://www.theverge.com/news/772769/samsung-galaxy-s26-edge-render-leak-iphone-17-pro)
- - [Tech leaders take turns flattering Trump at White House dinner](https://www.theverge.com/policy/772760/tech-ceos-ai-trump-white-house-dinner)<!-- TECH:END -->
+ - [Roblox launches text-to-speech and speech-to-text APIs, and AI tools, including letting creators generate fully functional 3D objects from prompts, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250905/p18#a250905p18)
+ - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)
+ - [iPhone 16 review one year later: Still a great phone, and will be for years](https://appleinsider.com/articles/25/09/05/iphone-16-review-one-year-later-still-a-great-phone-and-will-be-for-years?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
