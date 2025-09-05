@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The liberal is confused. It hurt itself in its confusion.](http://9gag.com/gag/ae9d1Mj)
- - 😝 [We can never be too carefull](http://9gag.com/gag/ajPd1Ng)
- - 👉 [Cat turns on a treadmill and starts working out](http://9gag.com/gag/a7oG8XL)<!-- MEMES:END -->
+ - 6️⃣ [Old joke.](http://9gag.com/gag/an7dO0z)
+ - 😝 [The liberal is confused. It hurt itself in its confusion.](http://9gag.com/gag/ae9d1Mj)
+ - 👉 [We can never be too carefull](http://9gag.com/gag/ajPd1Ng)<!-- MEMES:END -->
 
 --- 
 
