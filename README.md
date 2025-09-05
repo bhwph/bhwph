@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nepal says it is blocking most major social media platforms, including Facebook, X, and YouTube, after they failed to register with the government &lpar;Binaj Gurubacharya/Associated Press&rpar;](http://www.techmeme.com/250905/p1#a250905p1)
- - [Conversational AI firm Cerence sues Apple in Texas for infringing patents tied to virtual keyboards and &quot;Hey Siri&quot;, says it raised the issues with Apple in 2021 &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250904/p53#a250904p53)
- - [Source: AI contractor marketplace Mercor has received investment offers valuing it as high as $10B, just six months after raising $100M at a $2B valuation &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/250904/p52#a250904p52)<!-- TECH:END -->
+ - [Facebook is revamping its classic Poke feature to be easier to use and include gamification elements similar to Snapchat and TikTok as it courts younger users &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250905/p2#a250905p2)
+ - [Lenovo shows off a concept laptop with a display that rotates to portrait mode](https://www.androidauthority.com/lenovo-laptop-concept-display-rotate-portrait-mode-3594652/)
+ - [The Lenovo Legion Go 2 is finally here to put the ROG Xbox Ally in its place](https://www.androidauthority.com/lenovo-legion-go-2-announcement-3594655/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
