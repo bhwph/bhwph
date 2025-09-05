@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Smart Man](http://9gag.com/gag/aD2P7bd)
- - 😝 [Venice hides secrets](http://9gag.com/gag/aNDqLwr)
+ - 6️⃣ [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)
+ - 😝 [Remembering movies only you seem to recall](http://9gag.com/gag/a87n7mV)
  - 👉 [I wanna see she starve](http://9gag.com/gag/aNDqLew)<!-- MEMES:END -->
 
 --- 
