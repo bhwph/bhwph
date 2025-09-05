@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Conjuring Another Universe](http://9gag.com/gag/abAdvRE)
- - 😝 [Old joke.](http://9gag.com/gag/an7dO0z)
- - 👉 [Shared by an X account who is British - they didn&#39;t specify exactly where this is, but I&#39;m guessing London.](http://9gag.com/gag/adBdBp2)<!-- MEMES:END -->
+ - 6️⃣ [But first, paying half a million dollars for a block like that.](http://9gag.com/gag/aRByB6q)
+ - 😝 [Dementia. What&#39;s waiting for me at the end of my life](http://9gag.com/gag/aXPdnBv)
+ - 👉 [We Have Another One, 9Gag....](http://9gag.com/gag/ajPdV38)<!-- MEMES:END -->
 
 --- 
 
