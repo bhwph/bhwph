@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook is revamping its classic Poke feature to be easier to use and include gamification elements similar to Snapchat and TikTok as it courts younger users &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250905/p2#a250905p2)
- - [Lenovo shows off a concept laptop with a display that rotates to portrait mode](https://www.androidauthority.com/lenovo-laptop-concept-display-rotate-portrait-mode-3594652/)
- - [The Lenovo Legion Go 2 is finally here to put the ROG Xbox Ally in its place](https://www.androidauthority.com/lenovo-legion-go-2-announcement-3594655/)<!-- TECH:END -->
+ - [PSA: Google’s new Pixel Flex Dual Port 67W charger isn’t the same everywhere](https://www.androidauthority.com/google-pixel-flex-dual-port-67w-charger-prong-differences-3594995/)
+ - [This new Qi2 25W wireless charger lineup is ready for the Pixel 10 Pro XL and iPhone 17 series](https://www.androidauthority.com/ugreen-magflow-qi2-25w-wireless-chargers-3594687/)
+ - [This robot lawnmower is designed to pick fruit and throw your dog a ball](https://www.theverge.com/news/772045/nexlawn-master-x-series-concept-robot-lawnmower)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
