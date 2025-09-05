@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to beat Fourth Chorus in Silksong](https://www.pcgamer.com/games/action/silksong-fourth-chorus/)
- - [Marvel Zombies: Red Band offers a gruesome new look at your favorite heroes](https://www.polygon.com/marvel-zombies-red-band-variant-covers/)
- - [Where to find Hokers in Silksong](https://www.pcgamer.com/games/action/silksong-hokers-spine-core-location/)<!-- GAME:END -->
+ - [Best Switch 2 games to play in fall 2025](https://www.polygon.com/what-to-play/611102/best-switch-2-games/)
+ - [Xbox Series S &lpar;512GB, Controller Included&rpar; Is Back at a Low Price on Amazon Despite Microsoft’s Price Hike](https://kotaku.com/xbox-series-s-512gb-controller-included-is-back-at-a-low-price-on-amazon-despite-microsofts-price-hike-2000623192)
+ - [Where to use the Simple Key in Silksong](https://www.pcgamer.com/games/action/silksong-simple-key-locations/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
