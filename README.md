@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Pro rumored to ditch titanium frame and go back to aluminum](https://appleinsider.com/articles/25/09/05/iphone-17-pro-rumored-to-ditch-titanium-frame-and-go-back-to-aluminum?utm_source=rss)
- - [YouTube TV is offering a hidden $66 discount — here’s how to get it](https://www.androidauthority.com/youtube-tv-66-dollar-off-deal-3595388/)
- - [At the White House dinner, Zuckerberg said Meta plans to spend &quot;something like at least $600B&quot; through 2028 on data centers and other infrastructure in the US &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250905/p22#a250905p22)<!-- TECH:END -->
+ - [Deal: Nothing Headphone 1 discounted for the first time!](https://www.androidauthority.com/nothing-headphone-1-deal-3595424/)
+ - [AppLovin stock jumps 7%+ and Robinhood jumps 8%+ in extended trading after S&amp;P Global said the two will join the S&amp;P 500 index on September 22 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250905/p24#a250905p24)
+ - [Samsung leak reveals how you’ll be opening and closing its dual-hinge foldable](https://www.androidauthority.com/samsung-muti-fold-folding-animation-3595410/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
