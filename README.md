@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [But first, paying half a million dollars for a block like that.](http://9gag.com/gag/aRByB6q)
- - 😝 [Dementia. What&#39;s waiting for me at the end of my life](http://9gag.com/gag/aXPdnBv)
- - 👉 [We Have Another One, 9Gag....](http://9gag.com/gag/ajPdV38)<!-- MEMES:END -->
+ - 6️⃣ [The liberal is confused. It hurt itself in its confusion.](http://9gag.com/gag/ae9d1Mj)
+ - 😝 [We can never be too carefull](http://9gag.com/gag/ajPd1Ng)
+ - 👉 [Cat turns on a treadmill and starts working out](http://9gag.com/gag/a7oG8XL)<!-- MEMES:END -->
 
 --- 
 
