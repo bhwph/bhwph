@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
- - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 👉 [Show Me Your Most Disgusting Pictures](http://9gag.com/gag/aNDqwD3)<!-- MEMES:END -->
+ - 6️⃣ [I wanna see she starve](http://9gag.com/gag/aNDqLew)
+ - 😝 [Venice hides secrets](http://9gag.com/gag/aNDqLwr)
+ - 👉 [Smart Man](http://9gag.com/gag/aD2P7bd)<!-- MEMES:END -->
 
 --- 
 
