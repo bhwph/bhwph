@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At a White House dinner, tech CEOs thanked Trump for promoting chip and AI investments, while Trump promised an easy energy permitting process for data centers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250904/p51#a250904p51)
  - [Deal: This amazing Samsung curved gaming monitor is $600 off!](https://www.androidauthority.com/samsung-odyssey-g9-g95c-49-inch-curved-gaming-monitor-deal-3-3594910/)
- - [OpenAI is set to produce an AI chip co-designed with Broadcom next year, and has committed $10B in orders; the chip will be for internal use only &lpar;Financial Times&rpar;](http://www.techmeme.com/250904/p50#a250904p50)
- - [Amazon, Microsoft, Google, Code.org, IBM, and other companies pledged new commitments for AI in education as part of a White House event hosted by Melania Trump &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/250904/p49#a250904p49)<!-- TECH:END -->
+ - [Sources: OpenAI is set to produce an AI chip co-designed with Broadcom next year, and has committed $10B in orders; the chip will be for internal use only &lpar;Financial Times&rpar;](http://www.techmeme.com/250904/p50#a250904p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
