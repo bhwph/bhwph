@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Switch 2 games to play in fall 2025](https://www.polygon.com/what-to-play/611102/best-switch-2-games/)
- - [Xbox Series S &lpar;512GB, Controller Included&rpar; Is Back at a Low Price on Amazon Despite Microsoft’s Price Hike](https://kotaku.com/xbox-series-s-512gb-controller-included-is-back-at-a-low-price-on-amazon-despite-microsofts-price-hike-2000623192)
- - [Where to use the Simple Key in Silksong](https://www.pcgamer.com/games/action/silksong-simple-key-locations/)<!-- GAME:END -->
+ - [8 Hollow Knight: Silksong beginner’s tips to help you get started](https://www.polygon.com/hollow-knight-silksong-beginners-tips-tricks/)
+ - [Kotaku’s Weekend Guide: 4 Cool Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-star-wars-no-mans-sky-silksong-2000623522)
+ - [Steven Spielberg reportedly wanted to direct the Call of Duty movie, but Activision didn&#39;t want to give up creative control: &#39;Imagine turning down the guy who made Saving Private Ryan&#39;](https://www.pcgamer.com/movies-tv/steven-spielberg-reportedly-wanted-to-direct-the-call-of-duty-movie-but-activision-didnt-want-to-give-up-creative-control-imagine-turning-down-the-guy-who-made-saving-private-ryan/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
