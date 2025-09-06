@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I love my Mommy, both of them!](http://9gag.com/gag/awy83xx)
- - 😝 [Effective hair dryer](http://9gag.com/gag/aByv6GA)
- - 👉 [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)<!-- MEMES:END -->
+ - 6️⃣ [Muslim bacon, right to jail](http://9gag.com/gag/aW4d774)
+ - 😝 [Old joke.](http://9gag.com/gag/an7dO0z)
+ - 👉 [Good &#39;ol hip hop](http://9gag.com/gag/amodG0o)<!-- MEMES:END -->
 
 --- 
 
