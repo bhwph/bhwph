@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A lawyer called Mark Zuckerberg is suing Facebook after the social network repeatedly took down his page, claiming he was impersonating the company\u2019s boss.](http://9gag.com/gag/a9yVvND)
- - 😝 [Great, now I know I will never be able to sleep](http://9gag.com/gag/aoydWXx)
- - 👉 [So much time spent in the computer room...](http://9gag.com/gag/aE0QAdo)<!-- MEMES:END -->
+ - 6️⃣ [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
+ - 😝 [It&#39;s nice how friends share their happiness](http://9gag.com/gag/a1mxDnG)
+ - 👉 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)<!-- MEMES:END -->
 
 --- 
 
