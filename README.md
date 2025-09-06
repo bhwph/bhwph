@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cherry KW X ULP 2.0 Mini review: A great low-profile keyboard](https://appleinsider.com/articles/25/09/06/cherry-kw-x-ulp-20-mini-review-a-great-low-profile-keyboard?utm_source=rss)
- - [An analysis of US DOL data: the IT sector&#39;s unemployment rate fell from 5.5% in July to 4.5% in August, while active tech job postings declined 2.6% from July &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250906/p14#a250906p14)
- - [Pocket Scion is a synth you play with plants](https://www.theverge.com/news/773352/pocket-scion-synth-mushroom-music)<!-- TECH:END -->
+ - [Christian Catalini, co-creator of Meta&#39;s Libra stablecoin project, reflects on Libra&#39;s failure, what Stripe&#39;s Tempo blockchain can learn from it, and more &lpar;Christian Catalini/Forbes&rpar;](http://www.techmeme.com/250906/p15#a250906p15)
+ - [iPhone 17 Air rumors: The thinnest iPhone with a potentially &#39;awe dropping&#39; design](https://appleinsider.com/articles/25/08/28/iphone-17-air-rumors-the-thinnest-iphone-with-a-potentially-awe-dropping-design?utm_source=rss)
+ - [Cherry KW X ULP 2.0 Mini review: A great low-profile keyboard](https://appleinsider.com/articles/25/09/06/cherry-kw-x-ulp-20-mini-review-a-great-low-profile-keyboard?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
