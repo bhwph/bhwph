@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba debuts Qwen3-Max-Preview, its largest AI model with over 1T parameters, showcasing strong benchmark performance; the model is not open source &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250905/p30#a250905p30)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Sept. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-sept-6/#ftag=CAD590a51e)
- - [OpenAI told investors that it projects its cash burn this year through 2029 will rise to a total of $115B, about $80B higher than it previously expected &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250905/p29#a250905p29)<!-- TECH:END -->
+ - [Russia publishes a list of locally developed apps it says will function during mobile internet shutdowns, excluding foreign services like WhatsApp and YouTube &lpar;Reuters&rpar;](http://www.techmeme.com/250906/p7#a250906p7)
+ - [Public records show C3 AI&#39;s Project Sherlock, company&#39;s flagship contract to speed up policing in San Mateo County, has struggled with usability issues and more &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250906/p6#a250906p6)
+ - [The Top New Gadgets We Saw at IFA Berlin 2025](https://www.wired.com/story/all-the-top-new-gadgets-we-saw-at-ifa-berlin-2025/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
