@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia publishes a list of locally developed apps it says will function during mobile internet shutdowns, excluding foreign services like WhatsApp and YouTube &lpar;Reuters&rpar;](http://www.techmeme.com/250906/p7#a250906p7)
- - [Public records show C3 AI&#39;s Project Sherlock, company&#39;s flagship contract to speed up policing in San Mateo County, has struggled with usability issues and more &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250906/p6#a250906p6)
- - [The Top New Gadgets We Saw at IFA Berlin 2025](https://www.wired.com/story/all-the-top-new-gadgets-we-saw-at-ifa-berlin-2025/)<!-- TECH:END -->
+ - [Lovense Ferri Panty Vibrator Review: Super Comfy](https://www.wired.com/review/lovense-ferri-panty-vibrator/)
+ - [First look: Dyson’s Spot+Scrub Ai robot seeks out stains](https://www.theverge.com/ifa-berlin/772423/dyson-spot-scrub-ai-robot-vacuum-mop-multifunction-dock-first-look)
+ - [A book excerpt details Spotify&#39;s decade-long push against Apple&#39;s App Store commissions and steering rules, including pushing the EU to pass new antitrust laws &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/250906/p9#a250906p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
