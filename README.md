@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ secures 10-episode follow-up to BBC&#39;s &#39;Gavin and Stacey&#39;](https://appleinsider.com/articles/25/09/06/apple-tv-secures-10-episode-follow-up-to-bbcs-gavin-and-stacey?utm_source=rss)
- - [Bluetti says it can reduce vanlife power installations to ‘30 minutes’](https://www.theverge.com/news/767283/all-in-one-vanlife-power-system-rvsolar-bluetti)
- - [Super Robot Wars Y plays just like a kid’s giant robo fanfiction](https://www.theverge.com/games/773191/super-robot-wars-y-impressions-demo-nintendo-switch-2)<!-- TECH:END -->
+ - [Pocket Scion is a synth you play with plants](https://www.theverge.com/news/773352/pocket-scion-synth-mushroom-music)
+ - [Data shows WLFI&#39;s sharp drop was driven by shorting and dumping across exchanges, not Justin Sun&#39;s token movements; WLFI blames phishing-related compromises &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250906/p13#a250906p13)
+ - [Park Chan-wook&amp;#8217;s No Other Choice is as bleak as it is hilarious](https://www.theverge.com/movie-reviews/773376/tiff-2025-no-other-choice-man-in-my-basement-reviews)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
