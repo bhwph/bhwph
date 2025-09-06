@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wtf is this?](http://9gag.com/gag/aMVWdyA)
- - 😝 [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)
- - 👉 [This guy is a human brick-throwing machine](http://9gag.com/gag/a6Zx9OA)<!-- MEMES:END -->
+ - 6️⃣ [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
+ - 😝 [If you go to school again, Which side do you choose?](http://9gag.com/gag/aXPdPm2)
+ - 👉 [Indie game \u201cLittle Witch in the Woods\u201d has been delayed, the devs then posted this photo alongside an apology.](http://9gag.com/gag/aYQdOKO)<!-- MEMES:END -->
 
 --- 
 
