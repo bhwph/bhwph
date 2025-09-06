@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 😝 [Can Press Machine](http://9gag.com/gag/a87n6dO)
- - 👉 [He exists somewhere out there](http://9gag.com/gag/a4Pxz6w)<!-- MEMES:END -->
+ - 6️⃣ [Never relax](http://9gag.com/gag/aXPdNmP)
+ - 😝 [Shame on other publishers](http://9gag.com/gag/abAdeVE)
+ - 👉 [This guy is a human brick-throwing machine](http://9gag.com/gag/a6Zx9OA)<!-- MEMES:END -->
 
 --- 
 
