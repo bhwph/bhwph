@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
- - 😝 [If you go to school again, Which side do you choose?](http://9gag.com/gag/aXPdPm2)
- - 👉 [Indie game \u201cLittle Witch in the Woods\u201d has been delayed, the devs then posted this photo alongside an apology.](http://9gag.com/gag/aYQdOKO)<!-- MEMES:END -->
+ - 6️⃣ [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
+ - 😝 [Can Press Machine](http://9gag.com/gag/a87n6dO)
+ - 👉 [Absoloutley disgusting](http://9gag.com/gag/aoydV8e)<!-- MEMES:END -->
 
 --- 
 
