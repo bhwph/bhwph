@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [3 Netflix shows you need to binge this weekend &lpar;Sept. 4&rpar;](https://www.polygon.com/netflix-shows-weekend-binge-sept-6/)
  - [&#39;The Threadspun Town&#39; quest walkthrough in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-the-threadspun-town-quest-wish-walkthrough-widow/)
- - [How to upgrade the needle in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-needle-upgrade-how-to/)
- - [Today&#39;s Wordle clues, hints and answer for September 6 &lpar;#1540&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-6-2025/)<!-- GAME:END -->
+ - [How to upgrade the needle in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-needle-upgrade-how-to/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
