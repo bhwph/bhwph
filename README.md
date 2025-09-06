@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I\u2019m a dude playing a dude disguised as another dude](http://9gag.com/gag/ae9d1yO)
- - 😝 [Good &#39;ol hip hop](http://9gag.com/gag/amodG0o)
- - 👉 [A Ukrainian refugee was butchered in north Carolina.](http://9gag.com/gag/aD2PnEK)<!-- MEMES:END -->
+ - 6️⃣ [A lawyer called Mark Zuckerberg is suing Facebook after the social network repeatedly took down his page, claiming he was impersonating the company\u2019s boss.](http://9gag.com/gag/a9yVvND)
+ - 😝 [Great, now I know I will never be able to sleep](http://9gag.com/gag/aoydWXx)
+ - 👉 [So much time spent in the computer room...](http://9gag.com/gag/aE0QAdo)<!-- MEMES:END -->
 
 --- 
 
