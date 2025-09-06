@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Some more lore for you](http://9gag.com/gag/aNDq92K)
- - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
- - 👉 [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)<!-- MEMES:END -->
+ - 😝 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
+ - 👉 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)<!-- MEMES:END -->
 
 --- 
 
