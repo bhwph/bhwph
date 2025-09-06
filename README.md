@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
  - 😝 [Can Press Machine](http://9gag.com/gag/a87n6dO)
- - 👉 [Absoloutley disgusting](http://9gag.com/gag/aoydV8e)<!-- MEMES:END -->
+ - 👉 [He exists somewhere out there](http://9gag.com/gag/a4Pxz6w)<!-- MEMES:END -->
 
 --- 
 
