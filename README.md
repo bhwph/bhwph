@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Silksong players stuck in Fair Fields: Here&#39;s how to get out](https://www.pcgamer.com/games/action/stuck-in-fair-fields-silksong-guide/)
- - [Starfield fans are pretty sure Bethesda just dropped the first teaser for the game&#39;s second expansion: &#39;We look forward to the adventures yet to come&#39;](https://www.pcgamer.com/games/rpg/starfield-fans-are-pretty-sure-bethesda-just-dropped-the-first-teaser-for-the-games-second-expansion-we-look-forward-to-the-adventures-yet-to-come/)
- - [Peacemaker season 2 seems to be setting up a really bleak multiverse twist](https://www.polygon.com/peacemaker-james-gunn-multiverse-blue-dragon-theory/)<!-- GAME:END -->
+ - [&#39;The Threadspun Town&#39; quest walkthrough in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-the-threadspun-town-quest-wish-walkthrough-widow/)
+ - [How to upgrade the needle in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-needle-upgrade-how-to/)
+ - [Today&#39;s Wordle clues, hints and answer for September 6 &lpar;#1540&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-6-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
