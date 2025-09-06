@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Muslim bacon, right to jail](http://9gag.com/gag/aW4d774)
- - 😝 [Old joke.](http://9gag.com/gag/an7dO0z)
- - 👉 [Good &#39;ol hip hop](http://9gag.com/gag/amodG0o)<!-- MEMES:END -->
+ - 6️⃣ [Wtf is this?](http://9gag.com/gag/aMVWdyA)
+ - 😝 [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)
+ - 👉 [This guy is a human brick-throwing machine](http://9gag.com/gag/a6Zx9OA)<!-- MEMES:END -->
 
 --- 
 
