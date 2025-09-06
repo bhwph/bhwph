@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lovense Ferri Panty Vibrator Review: Super Comfy](https://www.wired.com/review/lovense-ferri-panty-vibrator/)
- - [First look: Dyson’s Spot+Scrub Ai robot seeks out stains](https://www.theverge.com/ifa-berlin/772423/dyson-spot-scrub-ai-robot-vacuum-mop-multifunction-dock-first-look)
- - [A book excerpt details Spotify&#39;s decade-long push against Apple&#39;s App Store commissions and steering rules, including pushing the EU to pass new antitrust laws &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/250906/p9#a250906p9)<!-- TECH:END -->
+ - [Google Pixel 10 review: The best of Pixel without the fuss](https://www.androidauthority.com/google-pixel-10-review-3593545/)
+ - [Where&#39;s the Fun in AI Gambling?](https://www.wired.com/story/uncanny-valley-podcast-wheres-the-fun-in-ai-gambling/)
+ - [Gear News of the Week: Veo 3 Comes to Google Photos, and Garmin Adds Satellite Comms to a Watch](https://www.wired.com/story/gear-news-of-the-week-veo-3-comes-to-google-photos-and-garmin-adds-satellite-comms-to-a-watch/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
