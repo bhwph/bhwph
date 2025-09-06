@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy Tactics remake director reveals the NES game he can’t put down](https://www.polygon.com/final-fantasy-tactics-remake-director-favorite-nes-game-chip-dale/)
- - [Life is Strange is finally getting the streaming TV show treatment a decade after it came out](https://www.pcgamer.com/movies-tv/life-is-strange-is-finally-getting-the-streaming-tv-show-treatment-a-decade-after-it-came-out/)
- - [I almost lost a D&amp;D player by forgetting a fundamental Dungeon Master rule](https://www.polygon.com/dungeons-dragons-dnd-master-important-rule-player-agency/)<!-- GAME:END -->
+ - [Hollow Knight: Silksong sinks to &#39;Mixed&#39; Steam review status among Chinese gamers over its bafflingly bad translation, with Team Cherry promising to improve it](https://www.pcgamer.com/games/action/hollow-knight-silksong-sinks-to-mixed-steam-review-status-among-chinese-gamers-over-its-bafflingly-bad-translation-with-team-cherry-promising-to-improve-it/)
+ - [Anthropic agrees to pay $1.5 billion to authors whose work trained AI in priciest copyright settlement in U.S. history](https://www.pcgamer.com/software/ai/anthropic-agrees-to-pay-usd1-5-billion-to-authors-whose-work-trained-ai-in-priciest-copyright-settlement-in-u-s-history/)
+ - [Final Fantasy Tactics remake director reveals the NES game he can’t put down](https://www.polygon.com/final-fantasy-tactics-remake-director-favorite-nes-game-chip-dale/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
