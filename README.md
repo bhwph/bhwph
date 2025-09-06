@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 10 review: The best of Pixel without the fuss](https://www.androidauthority.com/google-pixel-10-review-3593545/)
- - [Where&#39;s the Fun in AI Gambling?](https://www.wired.com/story/uncanny-valley-podcast-wheres-the-fun-in-ai-gambling/)
- - [Gear News of the Week: Veo 3 Comes to Google Photos, and Garmin Adds Satellite Comms to a Watch](https://www.wired.com/story/gear-news-of-the-week-veo-3-comes-to-google-photos-and-garmin-adds-satellite-comms-to-a-watch/)<!-- TECH:END -->
+ - [Google Pixel 10 review: perfectly fine](https://www.theverge.com/reviews/772813/google-pixel-10-review)
+ - [Google’s plan to restrict sideloading on Android has a potential escape hatch for users](https://www.androidauthority.com/how-android-sideloading-restrictions-may-work-3595355/)
+ - [Gemini for Home isn’t enough to revive Google’s forgotten Nest speakers](https://www.androidauthority.com/nest-speakers-need-more-than-gemini-3591423/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
