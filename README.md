@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Nothing Headphone 1 discounted for the first time!](https://www.androidauthority.com/nothing-headphone-1-deal-3595424/)
- - [AppLovin stock jumps 7%+ and Robinhood jumps 8%+ in extended trading after S&amp;P Global said the two will join the S&amp;P 500 index on September 22 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250905/p24#a250905p24)
- - [Samsung leak reveals how you’ll be opening and closing its dual-hinge foldable](https://www.androidauthority.com/samsung-muti-fold-folding-animation-3595410/)<!-- TECH:END -->
+ - [The JBL Flip 7 speaker reappears at a $50 discount!](https://www.androidauthority.com/jbl-flip-7-deal-3595422/)
+ - [Nvidia opposes the GAIN AI Act, saying the proposed US law forcing AI chipmakers to sell to US buyers first is &quot;just another variation of the AI Diffusion Rule&quot; &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250905/p28#a250905p28)
+ - [OpenAI is merging its Model Behavior team with its Post Training group to bring the work of the Model Behavior team closer to core model development &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250905/p27#a250905p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
