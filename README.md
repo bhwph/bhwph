@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never relax](http://9gag.com/gag/aXPdNmP)
- - 😝 [Shame on other publishers](http://9gag.com/gag/abAdeVE)
- - 👉 [This guy is a human brick-throwing machine](http://9gag.com/gag/a6Zx9OA)<!-- MEMES:END -->
+ - 6️⃣ [I\u2019m a dude playing a dude disguised as another dude](http://9gag.com/gag/ae9d1yO)
+ - 😝 [Good &#39;ol hip hop](http://9gag.com/gag/amodG0o)
+ - 👉 [A Ukrainian refugee was butchered in north Carolina.](http://9gag.com/gag/aD2PnEK)<!-- MEMES:END -->
 
 --- 
 
