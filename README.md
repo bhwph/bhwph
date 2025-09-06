@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I almost lost a D&amp;D player by forgetting a fundamental Dungeon Master rule](https://www.polygon.com/dungeons-dragons-dnd-master-important-rule-player-agency/)
- - [Alien: Earth’s Morrow is a ‘Ronin’ cyborg with a ‘Zen state of dark enlightenment’](https://www.polygon.com/alien-earths-best-character-is-sort-of-ronin-cyborg-with-a-zen-state-of-dark-enlightenment/)
- - [I&#39;m mourning the Dragon Age game I missed my opportunity to play](https://www.pcgamer.com/games/dragon-age/im-mourning-the-dragon-age-game-i-missed-my-opportunity-to-play/)<!-- GAME:END -->
+ - [Final Fantasy Tactics remake director reveals the NES game he can’t put down](https://www.polygon.com/final-fantasy-tactics-remake-director-favorite-nes-game-chip-dale/)
+ - [Life is Strange is finally getting the streaming TV show treatment a decade after it came out](https://www.pcgamer.com/movies-tv/life-is-strange-is-finally-getting-the-streaming-tv-show-treatment-a-decade-after-it-came-out/)
+ - [I almost lost a D&amp;D player by forgetting a fundamental Dungeon Master rule](https://www.polygon.com/dungeons-dragons-dnd-master-important-rule-player-agency/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
