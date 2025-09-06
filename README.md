@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Some more lore for you](http://9gag.com/gag/aNDq92K)
- - 😝 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
- - 👉 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)<!-- MEMES:END -->
+ - 6️⃣ [I love my Mommy, both of them!](http://9gag.com/gag/awy83xx)
+ - 😝 [Effective hair dryer](http://9gag.com/gag/aByv6GA)
+ - 👉 [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)<!-- MEMES:END -->
 
 --- 
 
