@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
- - 😝 [It&#39;s nice how friends share their happiness](http://9gag.com/gag/a1mxDnG)
- - 👉 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)<!-- MEMES:END -->
+ - 6️⃣ [The latest Karen in baseball game](http://9gag.com/gag/aoydROw)
+ - 😝 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
+ - 👉 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)<!-- MEMES:END -->
 
 --- 
 
