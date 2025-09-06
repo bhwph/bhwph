@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The JBL Flip 7 speaker reappears at a $50 discount!](https://www.androidauthority.com/jbl-flip-7-deal-3595422/)
- - [Nvidia opposes the GAIN AI Act, saying the proposed US law forcing AI chipmakers to sell to US buyers first is &quot;just another variation of the AI Diffusion Rule&quot; &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250905/p28#a250905p28)
- - [OpenAI is merging its Model Behavior team with its Post Training group to bring the work of the Model Behavior team closer to core model development &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250905/p27#a250905p27)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Sept. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-sept-6/#ftag=CAD590a51e)
+ - [OpenAI told investors that it projects its cash burn this year through 2029 will rise to a total of $115B, about $80B higher than it previously expected &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250905/p29#a250905p29)
+ - [The JBL Flip 7 speaker reappears at a $50 discount!](https://www.androidauthority.com/jbl-flip-7-deal-3595422/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
