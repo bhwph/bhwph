@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bring back the strangest Disney cartoon of 1996](https://www.polygon.com/mighty-ducks-animated-series-1996-first-face-off/)
- - [Command &amp; Conquer successor Tempest Rising gets a big new update next week, adding massive 3v3 multiplayer matches and active pause to singleplayer](https://www.pcgamer.com/games/rts/command-and-conquer-successor-tempest-rising-gets-a-big-new-update-next-week-adding-massive-3v3-multiplayer-matches-and-active-pause-to-singleplayer/)
- - [This brilliant boomer shooter inspired by Blood gets a whole new campaign and a free update later this month](https://www.pcgamer.com/games/fps/this-brilliant-boomer-shooter-inspired-by-blood-gets-a-whole-new-campaign-and-a-free-update-later-this-month/)<!-- GAME:END -->
+ - [Han Solo is finally getting his &#39;Old Man Logan&#39; moment](https://www.polygon.com/star-wars-han-solo-hunt-for-the-falcon-comic-review/)
+ - [The Sims 4&#39;s new Love Island DLC is giving me cold feet](https://www.polygon.com/sims-4-adventure-awaits-love-island/)
+ - [Tenet released 5 years ago, and it&#39;s only gotten better with age](https://www.polygon.com/tenet-christopher-nolan-five-year-anniversary-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
