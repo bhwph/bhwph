@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [3 Netflix shows you need to binge this weekend &lpar;Sept. 4&rpar;](https://www.polygon.com/netflix-shows-weekend-binge-sept-6/)
- - [&#39;The Threadspun Town&#39; quest walkthrough in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-the-threadspun-town-quest-wish-walkthrough-widow/)
- - [How to upgrade the needle in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-needle-upgrade-how-to/)<!-- GAME:END -->
+ - [Bring back the strangest Disney cartoon of 1996](https://www.polygon.com/mighty-ducks-animated-series-1996-first-face-off/)
+ - [Command &amp; Conquer successor Tempest Rising gets a big new update next week, adding massive 3v3 multiplayer matches and active pause to singleplayer](https://www.pcgamer.com/games/rts/command-and-conquer-successor-tempest-rising-gets-a-big-new-update-next-week-adding-massive-3v3-multiplayer-matches-and-active-pause-to-singleplayer/)
+ - [This brilliant boomer shooter inspired by Blood gets a whole new campaign and a free update later this month](https://www.pcgamer.com/games/fps/this-brilliant-boomer-shooter-inspired-by-blood-gets-a-whole-new-campaign-and-a-free-update-later-this-month/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
