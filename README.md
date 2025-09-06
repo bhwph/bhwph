@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Christian Catalini, co-creator of Meta&#39;s Libra stablecoin project, reflects on Libra&#39;s failure, what Stripe&#39;s Tempo blockchain can learn from it, and more &lpar;Christian Catalini/Forbes&rpar;](http://www.techmeme.com/250906/p15#a250906p15)
- - [iPhone 17 Air rumors: The thinnest iPhone with a potentially &#39;awe dropping&#39; design](https://appleinsider.com/articles/25/08/28/iphone-17-air-rumors-the-thinnest-iphone-with-a-potentially-awe-dropping-design?utm_source=rss)
- - [Cherry KW X ULP 2.0 Mini review: A great low-profile keyboard](https://appleinsider.com/articles/25/09/06/cherry-kw-x-ulp-20-mini-review-a-great-low-profile-keyboard?utm_source=rss)<!-- TECH:END -->
+ - [How to Watch the 2025 MTV VMAs Live Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-the-2025-mtv-vmas-live-without-cable/#ftag=CAD590a51e)
+ - [Microsoft says clients of its Azure cloud platform may experience increased latency after multiple international cables in the Red Sea were cut &lpar;Susanne Barton/Bloomberg&rpar;](http://www.techmeme.com/250906/p16#a250906p16)
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 7, #1541](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-7-1541/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
