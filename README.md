@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 10 review: perfectly fine](https://www.theverge.com/reviews/772813/google-pixel-10-review)
- - [Google’s plan to restrict sideloading on Android has a potential escape hatch for users](https://www.androidauthority.com/how-android-sideloading-restrictions-may-work-3595355/)
- - [Gemini for Home isn’t enough to revive Google’s forgotten Nest speakers](https://www.androidauthority.com/nest-speakers-need-more-than-gemini-3591423/)<!-- TECH:END -->
+ - [Apple TV+ secures 10-episode follow-up to BBC&#39;s &#39;Gavin and Stacey&#39;](https://appleinsider.com/articles/25/09/06/apple-tv-secures-10-episode-follow-up-to-bbcs-gavin-and-stacey?utm_source=rss)
+ - [Bluetti says it can reduce vanlife power installations to ‘30 minutes’](https://www.theverge.com/news/767283/all-in-one-vanlife-power-system-rvsolar-bluetti)
+ - [Super Robot Wars Y plays just like a kid’s giant robo fanfiction](https://www.theverge.com/games/773191/super-robot-wars-y-impressions-demo-nintendo-switch-2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
