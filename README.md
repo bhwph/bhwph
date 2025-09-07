@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hollow Knight: Silksong sinks to &#39;Mixed&#39; Steam review status among Chinese gamers over its bafflingly bad translation, with Team Cherry promising to improve it](https://www.pcgamer.com/games/action/hollow-knight-silksong-sinks-to-mixed-steam-review-status-among-chinese-gamers-over-its-bafflingly-bad-translation-with-team-cherry-promising-to-improve-it/)
- - [Anthropic agrees to pay $1.5 billion to authors whose work trained AI in priciest copyright settlement in U.S. history](https://www.pcgamer.com/software/ai/anthropic-agrees-to-pay-usd1-5-billion-to-authors-whose-work-trained-ai-in-priciest-copyright-settlement-in-u-s-history/)
- - [Final Fantasy Tactics remake director reveals the NES game he can’t put down](https://www.polygon.com/final-fantasy-tactics-remake-director-favorite-nes-game-chip-dale/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for September 7 &lpar;#1541&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-7-2025/)
+ - [We may never see PS2 classic The Lord of the Rings: The Two Towers on PC, but we got the next best thing in Forgotten Realms: Demon Stone](https://www.pcgamer.com/games/action/we-may-never-see-ps2-classic-the-lord-of-the-rings-the-two-towers-on-pc-but-we-got-the-next-best-thing-in-forgotten-realms-demon-stone/)
+ - [Paradox refunds PlayStation Store preorders of Bloodlines 2 in preparation for &#39;adjustments&#39; to its reviled $30 DLC to be revealed later this month](https://www.pcgamer.com/games/rpg/paradox-refunds-playstation-store-preorders-of-bloodlines-2-in-preparation-for-adjustments-to-its-reviled-usd30-dlc-to-be-revealed-later-this-month/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
