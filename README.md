@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China may get censored Apple Intelligence by end of 2025](https://appleinsider.com/articles/25/09/07/china-may-get-censored-apple-intelligence-by-end-of-2025?utm_source=rss)
- - [Dealroom: European VC deals are set to rise 3-4% YoY in 2025 to $57B, about the same as in 2023, driven by rising startup valuations in AI, fintech, and defense &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/250907/p10#a250907p10)
- - [Korean carrier may have leaked iPhone 17 specifications ahead of event](https://appleinsider.com/articles/25/09/07/iphone-17-specifications-leaked-ahead-of-event?utm_source=rss)<!-- TECH:END -->
+ - [How to Add WIRED as a Preferred Source on Google &lpar;2025&rpar;](https://www.wired.com/story/wired-google-preferred-source/)
+ - [PitchBook: VCs have invested $5B+ in humanoid robotics startups since the beginning of 2024, as years of steady progress and GenAI triggers an investment frenzy &lpar;Washington Post&rpar;](http://www.techmeme.com/250907/p11#a250907p11)
+ - [AirPods Pro 3 expected this fall, IR cameras in 2026](https://appleinsider.com/articles/25/09/07/airpods-pro-3-expected-this-fall-ir-cameras-in-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
