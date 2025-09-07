@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google finally details Gemini usage limits](https://www.theverge.com/news/773496/google-gemini-usage-limits)
- - [A look at Ross Ulbricht&#39;s return to public life after receiving a pardon in January, including speaking at Bitcoin 2025 and accepting millions in donations &lpar;New York Times&rpar;](http://www.techmeme.com/250907/p15#a250907p15)
- - [Best of IFA 2025 Awards: Android Authority’s top picks from the show](https://www.androidauthority.com/best-of-ifa-2025-awards-3595561/)<!-- TECH:END -->
+ - [How Larry Ellison is reshaping Oxford, including relocating his Ellison Institute from LA to Oxford, with plans to invest $1.3B+ into research on AI and more &lpar;Jenny Strasburg/Wall Street Journal&rpar;](http://www.techmeme.com/250907/p16#a250907p16)
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 8, #1542](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-8-1542/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 8, #820](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-8-820/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
