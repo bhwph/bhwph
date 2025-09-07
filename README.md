@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [France is following the UK..](http://9gag.com/gag/apRd3dM)
- - 😝 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
- - 👉 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)<!-- MEMES:END -->
+ - 6️⃣ [Behind every person that chooses to stay single is a past relationship that looked like this\u2026.](http://9gag.com/gag/aD2Pn7G)
+ - 😝 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)
+ - 👉 [France is following the UK..](http://9gag.com/gag/apRd3dM)<!-- MEMES:END -->
 
 --- 
 
