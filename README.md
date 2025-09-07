@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Behind every person that chooses to stay single is a past relationship that looked like this\u2026.](http://9gag.com/gag/aD2Pn7G)
- - 😝 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)
- - 👉 [France is following the UK..](http://9gag.com/gag/apRd3dM)<!-- MEMES:END -->
+ - 6️⃣ [Based](http://9gag.com/gag/a6Zx5ZA)
+ - 😝 [This guy just cant catch a break](http://9gag.com/gag/a34xAE7)
+ - 👉 [Smile and wave boys](http://9gag.com/gag/aGyonNZ)<!-- MEMES:END -->
 
 --- 
 
