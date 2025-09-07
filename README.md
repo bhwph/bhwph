@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So much time spent in the computer room...](http://9gag.com/gag/aE0QAdo)
- - 😝 [From my vault #30](http://9gag.com/gag/aqyd6GQ)
- - 👉 [Good &#39;ol hip hop](http://9gag.com/gag/amodG0o)<!-- MEMES:END -->
+ - 6️⃣ [THey&#39;re the same picture.](http://9gag.com/gag/aAymK2d)
+ - 😝 [It&#39;s nice how friends share their happiness](http://9gag.com/gag/a1mxDnG)
+ - 👉 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)<!-- MEMES:END -->
 
 --- 
 
