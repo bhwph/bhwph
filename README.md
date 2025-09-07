@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [4 new Netflix movies to watch this week &lpar;Sept. 7&rpar;](https://www.polygon.com/new-movies-on-netflix-september-2025/)
  - [The next Resident Evil movie is being directed by Zach Cregger of Weapons fame, who played &#39;thousands and thousands of hours of Resident Evil&#39; but hasn&#39;t seen any of the movies](https://www.pcgamer.com/games/resident-evil/the-next-resident-evil-movie-is-being-directed-by-zach-cregger-of-weapons-fame-who-played-thousands-and-thousands-of-hours-of-resident-evil-but-hasnt-seen-any-of-the-movies/)
- - [Today&#39;s Wordle clues, hints and answer for September 7 &lpar;#1541&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-7-2025/)
- - [We may never see PS2 classic The Lord of the Rings: The Two Towers on PC, but we got the next best thing in Forgotten Realms: Demon Stone](https://www.pcgamer.com/games/action/we-may-never-see-ps2-classic-the-lord-of-the-rings-the-two-towers-on-pc-but-we-got-the-next-best-thing-in-forgotten-realms-demon-stone/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for September 7 &lpar;#1541&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-7-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
