@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 7, #349](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-7-349/#ftag=CAD590a51e)
- - [Noon, an Amazon rival in the Middle East that has raised $2.7B since its 2016 launch and is now valued at &quot;close to&quot; $10B, is planning an IPO within two years &lpar;Chloe Cornish/Financial Times&rpar;](http://www.techmeme.com/250906/p19#a250906p19)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Sept. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-sept-7/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Mercor, a Scale AI rival valued at $2B in February, which hires domain experts to train models; it had a $100M run rate in March and $6M H1 profit &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250907/p7#a250907p7)
+ - [Austin-based Hello Patient, whose AI agents let healthcare organizations handle patient communications, raised a $22.5M Series A led by Scale Venture Partners &lpar;Marissa Plescia/MedCity News&rpar;](http://www.techmeme.com/250907/p6#a250907p6)
+ - [6 Best Phones You Can’t Buy in the US &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
