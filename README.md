@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An in-depth look at AWS&#39; underperformance in the GenAI era, as Microsoft Azure and Google Cloud gain ground, and how Anthropic could spark an AWS AI resurgence &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250907/p8#a250907p8)
- - [A profile of Mercor, a Scale AI rival valued at $2B in February, which hires domain experts to train models; it had a $100M run rate in March and $6M H1 profit &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250907/p7#a250907p7)
- - [Austin-based Hello Patient, whose AI agents help healthcare organizations handle patient communications, raised a $22.5M Series A led by Scale Venture Partners &lpar;Marissa Plescia/MedCity News&rpar;](http://www.techmeme.com/250907/p6#a250907p6)<!-- TECH:END -->
+ - [10 of the coolest tech products we’ve spotted at IFA 2025!](https://www.androidauthority.com/cool-tech-ifa-2025-3595511/)
+ - [Today’s best camera phones irritate me for one silly reason](https://www.androidauthority.com/camera-bump-wobble-smartphones-3590811/)
+ - [Psychological Tricks Can Get AI to Break the Rules](https://www.wired.com/story/psychological-tricks-can-get-ai-to-break-the-rules/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
