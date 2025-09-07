@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ASML is committing €1.3B for Mistral&#39;s €1.7B Series C funding round, becoming the top shareholder, and is expected to get a board seat &lpar;Reuters&rpar;](http://www.techmeme.com/250907/p14#a250907p14)
- - [Shift5, which develops cybersecurity tools for the military and critical infrastructure, raised a $75M Series C led by Hedosophia &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250907/p13#a250907p13)
- - [iPhone 17 Pro rumors: Apple&#39;s best iPhones are about to get even better](https://appleinsider.com/articles/25/08/29/iphone-17-pro-rumors-apples-best-iphones-are-about-to-get-even-better?utm_source=rss)<!-- TECH:END -->
+ - [Best of IFA 2025 Awards: Android Authority’s top picks from the show](https://www.androidauthority.com/best-of-ifa-2025-awards-3595561/)
+ - [GM slows EV production as tax credit nears expiration](https://www.theverge.com/news/773492/gm-cuts-ev-production-tax-credit)
+ - [Sources: ASML is committing €1.3B for Mistral&#39;s €1.7B Series C funding round, becoming the top shareholder, and is expected to get a board seat &lpar;Reuters&rpar;](http://www.techmeme.com/250907/p14#a250907p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
