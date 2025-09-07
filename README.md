@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [4 new Netflix movies to watch this week &lpar;Sept. 7&rpar;](https://www.polygon.com/new-movies-on-netflix-september-2025/)
- - [The next Resident Evil movie is being directed by Zach Cregger of Weapons fame, who played &#39;thousands and thousands of hours of Resident Evil&#39; but hasn&#39;t seen any of the movies](https://www.pcgamer.com/games/resident-evil/the-next-resident-evil-movie-is-being-directed-by-zach-cregger-of-weapons-fame-who-played-thousands-and-thousands-of-hours-of-resident-evil-but-hasnt-seen-any-of-the-movies/)
- - [Today&#39;s Wordle clues, hints and answer for September 7 &lpar;#1541&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-7-2025/)<!-- GAME:END -->
+ - [Bennett Foddy&#39;s Baby Steps started as &quot;QWOP but good&quot;](https://www.polygon.com/bennett-foddy-baby-steps-interview-video/)
+ - [RoadCraft introduces a free hard mode for all you SnowRunner sickos, adding limited fuel, more challenging convoy simulation and realistic gearboxes](https://www.pcgamer.com/games/sim/roadcraft-introduces-a-free-hard-mode-for-all-you-snowrunner-sickos-adding-limited-fuel-more-challenging-convoy-simulation-and-realistic-gearboxes/)
+ - [Bigger guns are louder and therefore riskier as of Rust&#39;s latest update, with other players able to hear you from &#39;much further away&#39;](https://www.pcgamer.com/games/survival-crafting/bigger-guns-are-louder-and-therefore-riskier-as-of-rusts-latest-update-with-other-players-able-to-hear-you-from-much-further-away/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
