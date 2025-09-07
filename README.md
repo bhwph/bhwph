@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Watch the 2025 MTV VMAs Live Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-the-2025-mtv-vmas-live-without-cable/#ftag=CAD590a51e)
- - [Microsoft says clients of its Azure cloud platform may experience increased latency after multiple international cables in the Red Sea were cut &lpar;Susanne Barton/Bloomberg&rpar;](http://www.techmeme.com/250906/p16#a250906p16)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 7, #1541](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-7-1541/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI researchers argue that language models hallucinate because standard training and evaluation procedures reward guessing over admitting uncertainty &lpar;OpenAI&rpar;](http://www.techmeme.com/250906/p18#a250906p18)
+ - [GPT-5 Thinking in ChatGPT is shockingly good at search and demonstrates the potential of combining tool calling with chain-of-thought reasoning &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250906/p17#a250906p17)
+ - [How to Watch the 2025 MTV VMAs Live Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-the-2025-mtv-vmas-live-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
