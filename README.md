@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best of IFA 2025 Awards: Android Authority’s top picks from the show](https://www.androidauthority.com/best-of-ifa-2025-awards-3595561/)
- - [GM slows EV production as tax credit nears expiration](https://www.theverge.com/news/773492/gm-cuts-ev-production-tax-credit)
- - [Sources: ASML is committing €1.3B for Mistral&#39;s €1.7B Series C funding round, becoming the top shareholder, and is expected to get a board seat &lpar;Reuters&rpar;](http://www.techmeme.com/250907/p14#a250907p14)<!-- TECH:END -->
+ - [Google finally details Gemini usage limits](https://www.theverge.com/news/773496/google-gemini-usage-limits)
+ - [A look at Ross Ulbricht&#39;s return to public life after receiving a pardon in January, including speaking at Bitcoin 2025 and accepting millions in donations &lpar;New York Times&rpar;](http://www.techmeme.com/250907/p15#a250907p15)
+ - [Best of IFA 2025 Awards: Android Authority’s top picks from the show](https://www.androidauthority.com/best-of-ifa-2025-awards-3595561/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
