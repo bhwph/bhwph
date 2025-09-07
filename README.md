@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An in-depth look at AWS&#39; underperformance in the GenAI era, as Microsoft Azure and Google Cloud gain ground, and how Anthropic could spark an AWS AI resurgence &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250907/p8#a250907p8)
  - [A profile of Mercor, a Scale AI rival valued at $2B in February, which hires domain experts to train models; it had a $100M run rate in March and $6M H1 profit &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250907/p7#a250907p7)
- - [Austin-based Hello Patient, whose AI agents let healthcare organizations handle patient communications, raised a $22.5M Series A led by Scale Venture Partners &lpar;Marissa Plescia/MedCity News&rpar;](http://www.techmeme.com/250907/p6#a250907p6)
- - [6 Best Phones You Can’t Buy in the US &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/)<!-- TECH:END -->
+ - [Austin-based Hello Patient, whose AI agents help healthcare organizations handle patient communications, raised a $22.5M Series A led by Scale Venture Partners &lpar;Marissa Plescia/MedCity News&rpar;](http://www.techmeme.com/250907/p6#a250907p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
