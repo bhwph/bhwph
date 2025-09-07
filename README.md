@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dress for success](http://9gag.com/gag/aW4dnAd)
- - 😝 [Based](http://9gag.com/gag/a6Zx5ZA)
- - 👉 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)<!-- MEMES:END -->
+ - 6️⃣ [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
+ - 😝 [Alaskan helicopter pilot shows holes In melting glaciers](http://9gag.com/gag/a7oGVOb)
+ - 👉 [This guy just cant catch a break](http://9gag.com/gag/a34xAE7)<!-- MEMES:END -->
 
 --- 
 
