@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Based](http://9gag.com/gag/a6Zx5ZA)
- - 😝 [This guy just cant catch a break](http://9gag.com/gag/a34xAE7)
- - 👉 [Smile and wave boys](http://9gag.com/gag/aGyonNZ)<!-- MEMES:END -->
+ - 6️⃣ [Dress for success](http://9gag.com/gag/aW4dnAd)
+ - 😝 [Based](http://9gag.com/gag/a6Zx5ZA)
+ - 👉 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)<!-- MEMES:END -->
 
 --- 
 
