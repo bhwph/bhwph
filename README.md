@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [THey&#39;re the same picture.](http://9gag.com/gag/aAymK2d)
- - 😝 [It&#39;s nice how friends share their happiness](http://9gag.com/gag/a1mxDnG)
- - 👉 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)<!-- MEMES:END -->
+ - 6️⃣ [Accurate depiction?](http://9gag.com/gag/aGyo8xn)
+ - 😝 [France is following the UK..](http://9gag.com/gag/apRd3dM)
+ - 👉 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)<!-- MEMES:END -->
 
 --- 
 
