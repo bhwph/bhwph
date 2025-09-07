@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bennett Foddy&#39;s Baby Steps started as &quot;QWOP but good&quot;](https://www.polygon.com/bennett-foddy-baby-steps-interview-video/)
- - [RoadCraft introduces a free hard mode for all you SnowRunner sickos, adding limited fuel, more challenging convoy simulation and realistic gearboxes](https://www.pcgamer.com/games/sim/roadcraft-introduces-a-free-hard-mode-for-all-you-snowrunner-sickos-adding-limited-fuel-more-challenging-convoy-simulation-and-realistic-gearboxes/)
- - [Bigger guns are louder and therefore riskier as of Rust&#39;s latest update, with other players able to hear you from &#39;much further away&#39;](https://www.pcgamer.com/games/survival-crafting/bigger-guns-are-louder-and-therefore-riskier-as-of-rusts-latest-update-with-other-players-able-to-hear-you-from-much-further-away/)<!-- GAME:END -->
+ - [Stuck on Silksong&#39;s obnoxious big bug boss Moorwing? There&#39;s a cheeky way to kill him in 30 seconds—or skip the fight altogether](https://www.pcgamer.com/silksong-moorwing-boss-cheese-skip/)
+ - [After Indiana Jones, it sounds like MachineGames is ready to make another Wolfenstein game: &#39;We have always seen this as a trilogy&#39;](https://www.pcgamer.com/games/fps/after-indiana-jones-it-sounds-like-machinegames-is-ready-to-make-another-wolfenstein-game-we-have-always-seen-this-as-a-trilogy/)
+ - [The $500,000 robot servant Elon Musk claims will sell 10 billion units by 2040 can barely walk and struggles with questions like &#39;where can I get a coke?&#39;](https://www.pcgamer.com/gaming-industry/the-usd500-000-robot-servant-elon-musk-claims-will-sell-10-billion-units-by-2040-can-barely-walk-and-struggles-with-questions-like-where-can-i-get-a-coke/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
