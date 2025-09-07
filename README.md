@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Accurate depiction?](http://9gag.com/gag/aGyo8xn)
- - 😝 [France is following the UK..](http://9gag.com/gag/apRd3dM)
- - 👉 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)<!-- MEMES:END -->
+ - 6️⃣ [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
+ - 😝 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
+ - 👉 [This driver is a true hero for saving the cyclist from a wolf attack](http://9gag.com/gag/axyA6nn)<!-- MEMES:END -->
 
 --- 
 
