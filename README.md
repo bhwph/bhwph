@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Add WIRED as a Preferred Source on Google &lpar;2025&rpar;](https://www.wired.com/story/wired-google-preferred-source/)
- - [PitchBook: VCs have invested $5B+ in humanoid robotics startups since the beginning of 2024, as years of steady progress and GenAI triggers an investment frenzy &lpar;Washington Post&rpar;](http://www.techmeme.com/250907/p11#a250907p11)
- - [AirPods Pro 3 expected this fall, IR cameras in 2026](https://appleinsider.com/articles/25/09/07/airpods-pro-3-expected-this-fall-ir-cameras-in-2026?utm_source=rss)<!-- TECH:END -->
+ - [Sources: ASML is committing €1.3B for Mistral&#39;s €1.7B Series C funding round, becoming the top shareholder, and is expected to get a board seat &lpar;Reuters&rpar;](http://www.techmeme.com/250907/p14#a250907p14)
+ - [Shift5, which develops cybersecurity tools for the military and critical infrastructure, raised a $75M Series C led by Hedosophia &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250907/p13#a250907p13)
+ - [iPhone 17 Pro rumors: Apple&#39;s best iPhones are about to get even better](https://appleinsider.com/articles/25/08/29/iphone-17-pro-rumors-apples-best-iphones-are-about-to-get-even-better?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
