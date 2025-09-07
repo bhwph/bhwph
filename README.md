@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The next Resident Evil movie is being directed by Zach Cregger of Weapons fame, who played &#39;thousands and thousands of hours of Resident Evil&#39; but hasn&#39;t seen any of the movies](https://www.pcgamer.com/games/resident-evil/the-next-resident-evil-movie-is-being-directed-by-zach-cregger-of-weapons-fame-who-played-thousands-and-thousands-of-hours-of-resident-evil-but-hasnt-seen-any-of-the-movies/)
  - [Today&#39;s Wordle clues, hints and answer for September 7 &lpar;#1541&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-7-2025/)
- - [We may never see PS2 classic The Lord of the Rings: The Two Towers on PC, but we got the next best thing in Forgotten Realms: Demon Stone](https://www.pcgamer.com/games/action/we-may-never-see-ps2-classic-the-lord-of-the-rings-the-two-towers-on-pc-but-we-got-the-next-best-thing-in-forgotten-realms-demon-stone/)
- - [Paradox refunds PlayStation Store preorders of Bloodlines 2 in preparation for &#39;adjustments&#39; to its reviled $30 DLC to be revealed later this month](https://www.pcgamer.com/games/rpg/paradox-refunds-playstation-store-preorders-of-bloodlines-2-in-preparation-for-adjustments-to-its-reviled-usd30-dlc-to-be-revealed-later-this-month/)<!-- GAME:END -->
+ - [We may never see PS2 classic The Lord of the Rings: The Two Towers on PC, but we got the next best thing in Forgotten Realms: Demon Stone](https://www.pcgamer.com/games/action/we-may-never-see-ps2-classic-the-lord-of-the-rings-the-two-towers-on-pc-but-we-got-the-next-best-thing-in-forgotten-realms-demon-stone/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
