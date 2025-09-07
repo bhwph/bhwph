@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The latest Karen in baseball game](http://9gag.com/gag/aoydROw)
- - 😝 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
- - 👉 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)<!-- MEMES:END -->
+ - 6️⃣ [So much time spent in the computer room...](http://9gag.com/gag/aE0QAdo)
+ - 😝 [From my vault #30](http://9gag.com/gag/aqyd6GQ)
+ - 👉 [Good &#39;ol hip hop](http://9gag.com/gag/amodG0o)<!-- MEMES:END -->
 
 --- 
 
