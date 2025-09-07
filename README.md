@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
- - 😝 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
- - 👉 [France is following the UK..](http://9gag.com/gag/apRd3dM)<!-- MEMES:END -->
+ - 6️⃣ [France is following the UK..](http://9gag.com/gag/apRd3dM)
+ - 😝 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
+ - 👉 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)<!-- MEMES:END -->
 
 --- 
 
