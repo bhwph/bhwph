@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Another day](http://9gag.com/gag/aVvdKE2)
- - 😝 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)
- - 👉 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)<!-- MEMES:END -->
+ - 6️⃣ [Caught in mid cough](https://www.reddit.com/r/funny/comments/1nc0tem/caught_in_mid_cough/)
+ - 😝 [I see no difference](https://www.reddit.com/r/memes/comments/1nbzp9u/i_see_no_difference/)
+ - 👉 [A more fitting description](https://www.reddit.com/r/memes/comments/1nbznb5/a_more_fitting_description/)<!-- MEMES:END -->
 
 --- 
 
