@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [New passive income just dropped](http://9gag.com/gag/a1mx0yw)
- - 😝 [`Goverment consipiracy noises`](http://9gag.com/gag/aO8j41R)
- - 👉 [Walks like a duck](http://9gag.com/gag/azxBKgK)<!-- MEMES:END -->
+ - 6️⃣ [Alaskan helicopter pilot shows holes In melting glaciers](http://9gag.com/gag/a7oGVOb)
+ - 😝 [Hiruzen&#39;s financial planning for Naruto was certainly... unique](http://9gag.com/gag/a9yVv6K)
+ - 👉 [Seems like a reasonable Lad](http://9gag.com/gag/aQzrQy7)<!-- MEMES:END -->
 
 --- 
 
