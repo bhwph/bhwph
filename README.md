@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US is proposing annual approvals for exports of chipmaking supplies to Samsung and SK Hynix factories in China as part of a &quot;site license&quot; idea &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250908/p7#a250908p7)
- - [Surprise new Galaxy S25 One UI 8 beta update brings last minute fixes](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-beta-7-released-3595696/)
- - [Bose QuietComfort Ultra Earbuds &lpar;2nd Gen&rpar;: Excellent Buds](https://www.wired.com/review/bose-qc-ultra-2/)<!-- TECH:END -->
+ - [Quantum computing startup Infleqtion agrees to merge with a Michael Klein-led blank-check company, giving it a $1.8B pre-money valuation and $540M in funding &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p14#a250908p14)
+ - [Cloud security software company Netskope plans to sell 47.8M shares at $15 to $17 in its IPO, valuing it at up to $6.5B and raising up to $813M &lpar;Reuters&rpar;](http://www.techmeme.com/250908/p13#a250908p13)
+ - [Databricks is set to close $1B in funding at a $100B valuation and is on track to generate $4B in revenue in its fiscal year ending January 2026, up 50% YoY &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250908/p12#a250908p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
