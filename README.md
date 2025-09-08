@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Alaskan helicopter pilot shows holes In melting glaciers](http://9gag.com/gag/a7oGVOb)
- - 😝 [Quick, americans are sleeping, lets travel across america](http://9gag.com/gag/arydZpK)
- - 👉 [I suck](http://9gag.com/gag/aW4dL24)<!-- MEMES:END -->
+ - 6️⃣ [Red Hook Studios 2014 vs Red Hook Studios 2022](http://9gag.com/gag/a9yV5no)
+ - 😝 [Cops have difficult jobs\u2026](http://9gag.com/gag/ae9dZeQ)
+ - 👉 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)<!-- MEMES:END -->
 
 --- 
 
