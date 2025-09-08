@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)
- - 😝 [Traditions must be kept alive](http://9gag.com/gag/a4PxNWw)
+ - 6️⃣ [Another day](http://9gag.com/gag/aVvdKE2)
+ - 😝 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)
  - 👉 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)<!-- MEMES:END -->
 
 --- 
