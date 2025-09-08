@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Signal announces a backup feature that includes 100MB of storage for texts and the last 45 days&#39; worth of media for free, or 100GB of storage for $1.99/month &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250908/p32#a250908p32)
- - [The Polestar 5 is an 884hp fastback sedan that should make Porsche nervous](https://www.theverge.com/electric-cars/773730/polestar-5-ev-horsepower-range-speed-specs)
- - [In a September 5 filing in the US v. Google ad tech trial, Google said &quot;the open web is already in rapid decline&quot;, contradicting Google&#39;s recent statements &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](http://www.techmeme.com/250908/p31#a250908p31)<!-- TECH:END -->
+ - [Source: Amazon took a stake in Colombian delivery startup Rappi via a $25M convertible note, entitling it to buy up to 12% via warrants if milestones are met &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p34#a250908p34)
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [Gemini app finally expands to audio files](https://www.theverge.com/ai-artificial-intelligence/774008/gemini-audio-new-languages-notebooklm-reports)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
