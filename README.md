@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Staff Gave Young fan some gifts after the woman took the ball from him. He was at the game celebrating his birthday. He Also Went home with a signed bat from Bader](http://9gag.com/gag/a7oG01q)
- - 😝 [Alaskan helicopter pilot shows holes In melting glaciers](http://9gag.com/gag/a7oGVOb)
- - 👉 [Back in the past](http://9gag.com/gag/aE0QoMn)<!-- MEMES:END -->
+ - 6️⃣ [New passive income just dropped](http://9gag.com/gag/a1mx0yw)
+ - 😝 [`Goverment consipiracy noises`](http://9gag.com/gag/aO8j41R)
+ - 👉 [Walks like a duck](http://9gag.com/gag/azxBKgK)<!-- MEMES:END -->
 
 --- 
 
