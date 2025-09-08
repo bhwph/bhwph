@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for September 8 &lpar;#1542&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-8-2025/)
- - [With Silksong in our hands, Steam&#39;s new reigning wishlist kings are both kind of basket cases: The partially-released Deadlock and lawsuit lightning rod Subnautica 2](https://www.pcgamer.com/gaming-industry/with-silksong-in-our-hands-steams-new-reigning-wishlist-kings-are-both-kind-of-basket-cases-the-partially-released-deadlock-and-lawsuit-lightning-rod-subnautica-2/)
- - [Adding controller support to the System Shock 2 remaster meant re-recording decades-old voice acting](https://www.pcgamer.com/games/rpg/adding-controller-support-to-the-system-shock-2-remaster-meant-re-recording-decades-old-voice-acting/)<!-- GAME:END -->
+ - [Semiwork gets all mysterious about REPO&#39;s new monsters ahead of the next update](https://www.pcgamer.com/games/horror/semiwork-gets-all-mysterious-about-repos-new-monsters-ahead-of-the-next-update/)
+ - [Acer announces mini Blackwell powered AI supercomputer, adding to Nvidia&#39;s lineup of partnered DGX Spark copies](https://www.pcgamer.com/hardware/acer-announces-mini-blackwell-powered-ai-supercomputer-adding-to-nvidias-lineup-of-partnered-dgx-spark-copies/)
+ - [SK hynix claims world&#39;s first High NA EUV machine for &#39;mass production&#39; of cutting edge chips, beating Intel to the punch](https://www.pcgamer.com/hardware/sk-hynix-claims-worlds-first-high-na-euv-machine-for-mass-production-of-cutting-edge-chips-beating-intel-to-the-punch/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
