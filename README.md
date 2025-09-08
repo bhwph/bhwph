@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google hasn’t even announced these new Nest devices, but they’re already on store shelves](https://www.androidauthority.com/google-nest-cam-doorbell-stores-before-launch-3595629/)
- - [An interview with Dr. Raj Jena, the UK&#39;s first clinical professor of AI in radiation oncology, on how AI is improving cancer care, quality control, and more &lpar;Sarah Neville/Financial Times&rpar;](http://www.techmeme.com/250908/p3#a250908p3)
- - [Galaxy S26 Pro, S26 Ultra renders reveal the return of camera bumps](https://www.androidauthority.com/samsung-galaxy-s26-pro-ultra-renders-3595621/)<!-- TECH:END -->
+ - [Sources: the US is proposing annual approvals for exports of chipmaking supplies to Samsung and SK Hynix factories in China as part of a &quot;site license&quot; idea &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250908/p7#a250908p7)
+ - [Surprise new Galaxy S25 One UI 8 beta update brings last minute fixes](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-beta-7-released-3595696/)
+ - [Bose QuietComfort Ultra Earbuds &lpar;2nd Gen&rpar;: Excellent Buds](https://www.wired.com/review/bose-qc-ultra-2/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
