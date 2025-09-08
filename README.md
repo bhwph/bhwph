@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Amazon took a stake in Colombian delivery startup Rappi via a $25M convertible note, entitling it to buy up to 12% via warrants if milestones are met &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p34#a250908p34)
- - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Gemini app finally expands to audio files](https://www.theverge.com/ai-artificial-intelligence/774008/gemini-audio-new-languages-notebooklm-reports)<!-- TECH:END -->
+ - [DJI Mic Mini deal: Get a great microphone for just $59!](https://www.androidauthority.com/dji-mic-mini-deal-3595949/)
+ - [AMD&amp;#8217;s AI-powered FSR 4 upscaling is now available in most FSR 3.1 games](https://www.theverge.com/news/774142/amd-fsr-4-3-1-games-support-upscaling)
+ - [SEC filing: Microsoft strikes a deal worth up to $19.4B through 2031 to get AI cloud computing power from Nebius Group; NBIS jumps 50%+ after hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p38#a250908p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
