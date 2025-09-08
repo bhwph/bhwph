@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quantum computing startup Infleqtion agrees to merge with a Michael Klein-led blank-check company, giving it a $1.8B pre-money valuation and $540M in funding &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p14#a250908p14)
- - [Cloud security software company Netskope plans to sell 47.8M shares at $15 to $17 in its IPO, valuing it at up to $6.5B and raising up to $813M &lpar;Reuters&rpar;](http://www.techmeme.com/250908/p13#a250908p13)
- - [Databricks is set to close $1B in funding at a $100B valuation and is on track to generate $4B in revenue in its fiscal year ending January 2026, up 50% YoY &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250908/p12#a250908p12)<!-- TECH:END -->
+ - [Current and ex-Meta employees submitted documents and affidavits to Congress alleging that Meta suppressed research on child safety risks in its VR platforms &lpar;Washington Post&rpar;](http://www.techmeme.com/250908/p20#a250908p20)
+ - [Nova Launcher’s demise is another death knell for the Android I remember](https://www.androidauthority.com/nova-launcher-will-be-missed-3595724/)
+ - [Sal Khan is hopeful that AI won’t destroy education](https://www.theverge.com/decoder-podcast-with-nilay-patel/766082/khan-academy-ceo-sal-khan-ai-education-schoolhouse-hank-green-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
