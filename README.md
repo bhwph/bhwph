@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The owner even featured on our local news channel.](http://9gag.com/gag/amodx1o)
- - 😝 [Emotional damage!](http://9gag.com/gag/aVvdmev)
- - 👉 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)<!-- MEMES:END -->
+ - 6️⃣ [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)
+ - 😝 [Traditions must be kept alive](http://9gag.com/gag/a4PxNWw)
+ - 👉 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)<!-- MEMES:END -->
 
 --- 
 
