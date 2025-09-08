@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
- - 😝 [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)
- - 👉 [Never relax](http://9gag.com/gag/aE0QALM)<!-- MEMES:END -->
+ - 6️⃣ [The owner even featured on our local news channel.](http://9gag.com/gag/amodx1o)
+ - 😝 [Emotional damage!](http://9gag.com/gag/aVvdmev)
+ - 👉 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)<!-- MEMES:END -->
 
 --- 
 
