@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
- - 😝 [Quick, americans are sleeping, lets travel across america](http://9gag.com/gag/arydZpK)
- - 👉 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)<!-- MEMES:END -->
+ - 6️⃣ [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
+ - 😝 [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)
+ - 👉 [Never relax](http://9gag.com/gag/aE0QALM)<!-- MEMES:END -->
 
 --- 
 
