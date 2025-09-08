@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Woman reported to police after a man assaulted her. Police threatened to arrest her for &#39;being offensive&#39; when describing her attacker.](http://9gag.com/gag/aPAp8KV)
- - 😝 [Uwotm8](http://9gag.com/gag/azxBG3b)
- - 👉 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)<!-- MEMES:END -->
+ - 6️⃣ [Never relax](http://9gag.com/gag/aE0QALM)
+ - 😝 [Anybody care to defend this?](http://9gag.com/gag/arydXKX)
+ - 👉 [Eat me](http://9gag.com/gag/adBdnx9)<!-- MEMES:END -->
 
 --- 
 
