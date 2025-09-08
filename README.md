@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shenzhen-based humanoid startup X Square Robot raised ~$100M led by Alibaba, bringing total funding to ~$280M, and released a foundation model for embodied AI &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/250907/p20#a250907p20)
- - [Nova Launcher is shutting down, and Android fans are heartbroken](https://www.androidauthority.com/nova-launcher-shutdown-3595611/)
- - [OpenAI is providing its tools and computing resources for an AI-made animated feature film called Critterz, which is set to hit theaters globally in 2026 &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/250907/p19#a250907p19)<!-- TECH:END -->
+ - [Uber and Momenta will test fully driverless cars in Germany](https://www.theverge.com/news/772639/uber-momenta-l4-driverless-test-munich-robotaxi)
+ - [Filing: Shanghai-based, US-listed lidar maker Hesai aims to raise ~$497M in its Hong Kong IPO, offering 17M shares at up to $29.25 each, amid US delisting risks &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/250908/p2#a250908p2)
+ - [PitchBook: European defense tech startups have raised €2.4B since 2022, including €1.4B in the first 7 months of 2025, up from €30M in 2020 and €150M in 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/250908/p1#a250908p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
