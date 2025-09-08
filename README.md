@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hollow Knight: Silksong’s Platforming Has Players Crashing Out Harder Than Any Boss Fight](https://kotaku.com/hollow-knight-silksong-crest-wanderer-reaper-location-2000624036)
- - [&#39;Flexile Spines&#39; quest walkthrough in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-flexile-spines-hokers-cores-quest-walkthrough/)
- - [Nvidia has reportedly asked Samsung to double its production of GDDR7, possibly for AI GPUs to China—although we&#39;re hoping for some more VRAM-stacked RTX 50-series Super cards](https://www.pcgamer.com/hardware/graphics-cards/nvidia-has-reportedly-asked-samsung-to-double-its-production-of-gddr7-possibly-for-ai-gpus-to-china-although-were-hoping-for-some-more-vram-stacked-rtx-50-series-super-cards/)<!-- GAME:END -->
+ - [If Silksong&#39;s corpse runs and double damage hits are too demanding, here&#39;s a pair of mods to tone down the difficulty just a notch](https://www.pcgamer.com/games/action/if-silksongs-corpse-runs-and-double-damage-hits-are-too-demanding-heres-a-pair-of-mods-to-tone-down-the-difficulty-just-a-notch/)
+ - [All You Need To Know About Playing Borderlands 4: Launch Times, Day-One Patch, And More](https://kotaku.com/borderlands-4-everything-pre-order-dlc-release-date-time-ps5-switch-2-crossplay-2000624090)
+ - [I Don’t Care About Digimon And I’m Still Hyped For Digimon Story: Time Stranger](https://kotaku.com/digimon-story-time-stranger-digifarm-hands-on-preview-2000624093)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
