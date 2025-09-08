@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Semiwork gets all mysterious about REPO&#39;s new monsters ahead of the next update](https://www.pcgamer.com/games/horror/semiwork-gets-all-mysterious-about-repos-new-monsters-ahead-of-the-next-update/)
- - [Acer announces mini Blackwell powered AI supercomputer, adding to Nvidia&#39;s lineup of partnered DGX Spark copies](https://www.pcgamer.com/hardware/acer-announces-mini-blackwell-powered-ai-supercomputer-adding-to-nvidias-lineup-of-partnered-dgx-spark-copies/)
- - [SK hynix claims world&#39;s first High NA EUV machine for &#39;mass production&#39; of cutting edge chips, beating Intel to the punch](https://www.pcgamer.com/hardware/sk-hynix-claims-worlds-first-high-na-euv-machine-for-mass-production-of-cutting-edge-chips-beating-intel-to-the-punch/)<!-- GAME:END -->
+ - [Hollow Knight: Silksong’s Platforming Has Players Crashing Out Harder Than Any Boss Fight](https://kotaku.com/hollow-knight-silksong-crest-wanderer-reaper-location-2000624036)
+ - [&#39;Flexile Spines&#39; quest walkthrough in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-flexile-spines-hokers-cores-quest-walkthrough/)
+ - [Nvidia has reportedly asked Samsung to double its production of GDDR7, possibly for AI GPUs to China—although we&#39;re hoping for some more VRAM-stacked RTX 50-series Super cards](https://www.pcgamer.com/hardware/graphics-cards/nvidia-has-reportedly-asked-samsung-to-double-its-production-of-gddr7-possibly-for-ai-gpus-to-china-although-were-hoping-for-some-more-vram-stacked-rtx-50-series-super-cards/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
