@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic becomes the first major AI company to back SB 53, a California bill that requires large AI companies to disclose safety testing protocols &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250908/p25#a250908p25)
- - [Meta curbed research about VR safety risks to kids, whistleblowers say](https://www.theverge.com/policy/773821/meta-virtual-reality-horizon-worlds-youth-safety-research-whistleblower)
- - [I spent the weekend playing Silksong on my phone — Here’s how](https://www.androidauthority.com/hollow-knight-silksong-android-phone-emulation-3595672/)<!-- TECH:END -->
+ - [Signal announces a backup feature that includes 100MB of storage for texts and the last 45 days&#39; worth of media for free, or 100GB of storage for $1.99/month &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250908/p32#a250908p32)
+ - [The Polestar 5 is an 884hp fastback sedan that should make Porsche nervous](https://www.theverge.com/electric-cars/773730/polestar-5-ev-horsepower-range-speed-specs)
+ - [In a September 5 filing in the US v. Google ad tech trial, Google said &quot;the open web is already in rapid decline&quot;, contradicting Google&#39;s recent statements &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](http://www.techmeme.com/250908/p31#a250908p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
