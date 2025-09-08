@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber and Momenta will test fully driverless cars in Germany](https://www.theverge.com/news/772639/uber-momenta-l4-driverless-test-munich-robotaxi)
- - [Filing: Shanghai-based, US-listed lidar maker Hesai aims to raise ~$497M in its Hong Kong IPO, offering 17M shares at up to $29.25 each, amid US delisting risks &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/250908/p2#a250908p2)
- - [PitchBook: European defense tech startups have raised €2.4B since 2022, including €1.4B in the first 7 months of 2025, up from €30M in 2020 and €150M in 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/250908/p1#a250908p1)<!-- TECH:END -->
+ - [Google hasn’t even announced these new Nest devices, but they’re already on store shelves](https://www.androidauthority.com/google-nest-cam-doorbell-stores-before-launch-3595629/)
+ - [An interview with Dr. Raj Jena, the UK&#39;s first clinical professor of AI in radiation oncology, on how AI is improving cancer care, quality control, and more &lpar;Sarah Neville/Financial Times&rpar;](http://www.techmeme.com/250908/p3#a250908p3)
+ - [Galaxy S26 Pro, S26 Ultra renders reveal the return of camera bumps](https://www.androidauthority.com/samsung-galaxy-s26-pro-ultra-renders-3595621/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
