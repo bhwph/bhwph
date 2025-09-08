@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stuck on Silksong&#39;s obnoxious big bug boss Moorwing? There&#39;s a cheeky way to kill him in 30 seconds—or skip the fight altogether](https://www.pcgamer.com/silksong-moorwing-boss-cheese-skip/)
- - [After Indiana Jones, it sounds like MachineGames is ready to make another Wolfenstein game: &#39;We have always seen this as a trilogy&#39;](https://www.pcgamer.com/games/fps/after-indiana-jones-it-sounds-like-machinegames-is-ready-to-make-another-wolfenstein-game-we-have-always-seen-this-as-a-trilogy/)
- - [The $500,000 robot servant Elon Musk claims will sell 10 billion units by 2040 can barely walk and struggles with questions like &#39;where can I get a coke?&#39;](https://www.pcgamer.com/gaming-industry/the-usd500-000-robot-servant-elon-musk-claims-will-sell-10-billion-units-by-2040-can-barely-walk-and-struggles-with-questions-like-where-can-i-get-a-coke/)<!-- GAME:END -->
+ - [&#39;Solid as a paper Whopper wrapper in the rain&#39;: Hackers reported &#39;catastrophic&#39; cybersecurity flaws at Burger King before the fast food giant nuked their criticism off the &#39;net via DMCA](https://www.pcgamer.com/gaming-industry/solid-as-a-paper-whopper-wrapper-in-the-rain-hackers-reported-catastrophic-cybersecurity-flaws-at-burger-king-before-the-fast-food-giant-nuked-their-criticism-off-the-net-via-dmca/)
+ - [Five new Steam games you probably missed &lpar;September 8, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-8-2025/)
+ - [Stuck on Silksong&#39;s obnoxious big bug boss Moorwing? There&#39;s a cheeky way to kill him in 30 seconds—or skip the fight altogether](https://www.pcgamer.com/silksong-moorwing-boss-cheese-skip/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
