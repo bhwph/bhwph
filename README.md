@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Current and ex-Meta employees submitted documents and affidavits to Congress alleging that Meta suppressed research on child safety risks in its VR platforms &lpar;Washington Post&rpar;](http://www.techmeme.com/250908/p20#a250908p20)
- - [Nova Launcher’s demise is another death knell for the Android I remember](https://www.androidauthority.com/nova-launcher-will-be-missed-3595724/)
- - [Sal Khan is hopeful that AI won’t destroy education](https://www.theverge.com/decoder-podcast-with-nilay-patel/766082/khan-academy-ceo-sal-khan-ai-education-schoolhouse-hank-green-interview)<!-- TECH:END -->
+ - [Anthropic becomes the first major AI company to back SB 53, a California bill that requires large AI companies to disclose safety testing protocols &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250908/p25#a250908p25)
+ - [Meta curbed research about VR safety risks to kids, whistleblowers say](https://www.theverge.com/policy/773821/meta-virtual-reality-horizon-worlds-youth-safety-research-whistleblower)
+ - [I spent the weekend playing Silksong on my phone — Here’s how](https://www.androidauthority.com/hollow-knight-silksong-android-phone-emulation-3595672/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
