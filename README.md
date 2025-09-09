@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halls of Torment&#39;s DLC is the only expansion I care about this year, and it&#39;s now got a release date](https://www.pcgamer.com/games/action/halls-of-torments-dlc-is-the-only-expansion-i-care-about-this-year-and-its-now-got-a-release-date/)
- - [&#39;The fact is that today, the open web is already in rapid decline,&#39; says Google in court, then quickly rows back on that statement](https://www.pcgamer.com/hardware/the-fact-is-that-today-the-open-web-is-already-in-rapid-decline-says-google-in-court-then-quickly-rows-back-on-that-statement/)
- - [Microsoft Azure services experiencing latency to traffic through the Middle East due to undersea fibre cable damage in the Red Sea](https://www.pcgamer.com/hardware/microsoft-azure-services-experiencing-latency-to-traffic-through-the-middle-east-due-to-undersea-fibre-cable-damage-in-the-red-sea/)<!-- GAME:END -->
+ - [Pacific Drive expansion Whispers in the Woods launches this year](https://blog.playstation.com/2025/09/09/pacific-drive-expansion-whispers-in-the-woods-launches-this-year/)
+ - [Silksong is the first Switch 2 game that fully justifies a Pro controller](https://www.polygon.com/silksong-switch-2-pro-controller-hd-rumble/)
+ - [Silksong Easter egg hides a secret, super-hard permadeath mode, for those who want to suffer even more](https://www.pcgamer.com/games/action/silksong-easter-egg-hides-a-secret-super-hard-permadeath-mode-for-those-who-want-to-suffer-even-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
