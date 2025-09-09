@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ramp says it has hit $1B in annualized revenue, after saying it had hit $700M in March; it was valued at $22.5B in July &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250909/p45#a250909p45)
- - [Hands-on with Apple AirPods Pro 3: updated ANC system is impressive, foam ear tips are more comfortable but their fit and feel will take some getting used to &lpar;Billy Steele/Engadget&rpar;](http://www.techmeme.com/250909/p44#a250909p44)
- - [Are you getting a Samsung Galaxy S25 FE? It comes with a free storage upgrade and gift card!](https://www.androidauthority.com/samsung-galaxy-s25-fe-deal-3596204/)<!-- TECH:END -->
+ - [Crypto exchange Gemini raises the proposed price range for its US IPO from $17-$19 per share to $24-$26, targeting a valuation of up to $3.08B &lpar;Ateev Bhandari/Reuters&rpar;](http://www.techmeme.com/250909/p53#a250909p53)
+ - [Moderna CEO Responds to RFK Jr.’s Crusade Against the Covid-19 Vaccine](https://www.wired.com/story/moderna-ceo-responds-to-rfk-jrs-crusade-against-the-covid-19-vaccine/)
+ - [iPhone 17 Pro’s triple 48MP cameras raise the bar for Android flagships](https://www.androidauthority.com/iphone-17-pro-camera-features-3596244/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
