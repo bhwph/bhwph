@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could redesign Android’s volume slider to be more like iOS](https://www.androidauthority.com/android-horizontal-volume-slider-3596184/)
- - [Inside the Man vs. Machine Hackathon](https://www.wired.com/story/san-francisco-hackathon-man-vs-machine/)
- - [Everything announced at Apple&amp;#8217;s iPhone 17 event](https://www.theverge.com/news/772434/apple-iphone-17-event-news)<!-- TECH:END -->
+ - [MagSafe battery resurrected, gives up to 40 hours of use to iPhone Air](https://appleinsider.com/articles/25/09/09/magsafe-battery-resurrected-gives-up-to-40-hours-of-use-to-iphone-air?utm_source=rss)
+ - [iPhone Air hands-on](https://www.theverge.com/tech/773244/apple-iphone-air-hands-on-photos-awe-dropping)
+ - [iPhone 17 Pro is here with hugely improved cooling &amp; unibody frame](https://appleinsider.com/articles/25/09/09/iphone-17-pro-is-here-with-hugely-improved-cooling-unibody-frame?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
