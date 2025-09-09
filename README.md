@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [An hour after the new banksy artwork was revealed that was mocking the courts for censoring people, the courts censored it by covering it up...](http://9gag.com/gag/aLnbmQx)
- - 😝 [Banksy painted graffiti on the Royal Courts of Justice building in London, depicting a judge beating a protester with a hammer.](http://9gag.com/gag/a4PxAmy)
- - 👉 [Precious](http://9gag.com/gag/aMVWzAA)<!-- MEMES:END -->
+ - 6️⃣ [Change it back.. CHANGE IT BACK](http://9gag.com/gag/amod6j2)
+ - 😝 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)
+ - 👉 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)<!-- MEMES:END -->
 
 --- 
 
