@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung wants to get ahead of the iPhone Fold with its own ‘Wide Fold’](https://www.androidauthority.com/samsung-wide-fold-respond-iphone-fold-3596016/)
- - [Hands-on with AI startup Friend&#39;s $129 always-listening pendant: feels like a beefy AirTag, runs Gemini 2.5, gives unhelpful commentary, and makes others uneasy &lpar;Wired&rpar;](http://www.techmeme.com/250909/p6#a250909p6)
- - [Amnesty: Pakistan is spying on millions via phone tapping and a Chinese-built internet firewall, in one of the broadest surveillance programs outside China &lpar;Ariba Shahid/Reuters&rpar;](http://www.techmeme.com/250909/p5#a250909p5)<!-- TECH:END -->
+ - [Samsung wants to get ahead of the iPhone Fold with its own ‘Wide Fold’ &lpar;Update: Image&rpar;](https://www.androidauthority.com/samsung-wide-fold-respond-iphone-fold-3596016/)
+ - [Booking.com, Expedia, Airbnb, and others are preparing for AI agents, which could disrupt their booking platforms and upend the $1.6T global travel market &lpar;Financial Times&rpar;](http://www.techmeme.com/250909/p11#a250909p11)
+ - [Samsung killed my favorite Galaxy Tab S11 model](https://www.androidauthority.com/i-wish-there-was-a-tab-s11-plus-3593900/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
