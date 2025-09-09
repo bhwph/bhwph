@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Caught in mid cough](https://www.reddit.com/r/funny/comments/1nc0tem/caught_in_mid_cough/)
- - 😝 [I see no difference](https://www.reddit.com/r/memes/comments/1nbzp9u/i_see_no_difference/)
- - 👉 [A more fitting description](https://www.reddit.com/r/memes/comments/1nbznb5/a_more_fitting_description/)<!-- MEMES:END -->
+ - 6️⃣ [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)
+ - 😝 [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)
+ - 👉 [Uploading my old 9gag collection 96](http://9gag.com/gag/aByvG81)<!-- MEMES:END -->
 
 --- 
 
