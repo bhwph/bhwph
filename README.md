@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Beats Studio Buds+ Return to Record Low as Apple Clears Shelf Space for AirPods Pro 3](https://kotaku.com/beats-studio-buds-return-to-record-low-as-apple-clears-shelf-space-for-airpods-pro-3-2000624148)
- - [&#39;The shining star of losers everywhere&#39; who inspired one of Umamusume&#39;s most popular horse girls has passed away](https://www.pcgamer.com/games/sim/the-shining-star-of-losers-everywhere-who-inspired-one-of-umamusumes-most-popular-horse-girls-has-passed-away/)
- - [Nvidia&#39;s CFO says there&#39;s still &#39;a little geopolitical situation that we need to work through&#39; before shipping its AI GPUs to China, but it&#39;s &#39;a $2 billion to $5 billion potential opportunity&#39;](https://www.pcgamer.com/software/ai/nvidias-cfo-says-theres-still-a-little-geopolitical-situation-that-we-need-to-work-through-before-shipping-its-ai-gpus-to-china-but-its-a-usd2-billion-to-usd5-billion-potential-opportunity/)<!-- GAME:END -->
+ - [Halls of Torment&#39;s DLC is the only expansion I care about this year, and it&#39;s now got a release date](https://www.pcgamer.com/games/action/halls-of-torments-dlc-is-the-only-expansion-i-care-about-this-year-and-its-now-got-a-release-date/)
+ - [&#39;The fact is that today, the open web is already in rapid decline,&#39; says Google in court, then quickly rows back on that statement](https://www.pcgamer.com/hardware/the-fact-is-that-today-the-open-web-is-already-in-rapid-decline-says-google-in-court-then-quickly-rows-back-on-that-statement/)
+ - [Microsoft Azure services experiencing latency to traffic through the Middle East due to undersea fibre cable damage in the Red Sea](https://www.pcgamer.com/hardware/microsoft-azure-services-experiencing-latency-to-traffic-through-the-middle-east-due-to-undersea-fibre-cable-damage-in-the-red-sea/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
