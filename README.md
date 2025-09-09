@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s budget Razr is even more affordable now that it’s $100 off](https://www.theverge.com/tech/773288/motorola-razr-2025-superman-4k-ultra-hd-deal-sale)
- - [Citron’s big update just landed, and it could be a game-changer for Switch emulation](https://www.androidauthority.com/citron-update-0-7-3596125/)
- - [New OWC dock has three ethernet ports, multiple Thunderbolt 5, and more](https://appleinsider.com/articles/25/09/09/new-owc-dock-has-three-ethernet-ports-multiple-thunderbolt-5-and-more?utm_source=rss)<!-- TECH:END -->
+ - [Google could redesign Android’s volume slider to be more like iOS](https://www.androidauthority.com/android-horizontal-volume-slider-3596184/)
+ - [Inside the Man vs. Machine Hackathon](https://www.wired.com/story/san-francisco-hackathon-man-vs-machine/)
+ - [Everything announced at Apple&amp;#8217;s iPhone 17 event](https://www.theverge.com/news/772434/apple-iphone-17-event-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
