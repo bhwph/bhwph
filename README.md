@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Change it back.. CHANGE IT BACK](http://9gag.com/gag/amod6j2)
- - 😝 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)
- - 👉 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)<!-- MEMES:END -->
+ - 6️⃣ [Eat me](http://9gag.com/gag/adBdnx9)
+ - 😝 [What an odd thing to say..](http://9gag.com/gag/ae9dxwj)
+ - 👉 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)<!-- MEMES:END -->
 
 --- 
 
