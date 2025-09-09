@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MagSafe battery resurrected, gives up to 40 hours of use to iPhone Air](https://appleinsider.com/articles/25/09/09/magsafe-battery-resurrected-gives-up-to-40-hours-of-use-to-iphone-air?utm_source=rss)
- - [iPhone Air hands-on](https://www.theverge.com/tech/773244/apple-iphone-air-hands-on-photos-awe-dropping)
- - [iPhone 17 Pro is here with hugely improved cooling &amp; unibody frame](https://appleinsider.com/articles/25/09/09/iphone-17-pro-is-here-with-hugely-improved-cooling-unibody-frame?utm_source=rss)<!-- TECH:END -->
+ - [Ramp says it has hit $1B in annualized revenue, after saying it had hit $700M in March; it was valued at $22.5B in July &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250909/p45#a250909p45)
+ - [Hands-on with Apple AirPods Pro 3: updated ANC system is impressive, foam ear tips are more comfortable but their fit and feel will take some getting used to &lpar;Billy Steele/Engadget&rpar;](http://www.techmeme.com/250909/p44#a250909p44)
+ - [Are you getting a Samsung Galaxy S25 FE? It comes with a free storage upgrade and gift card!](https://www.androidauthority.com/samsung-galaxy-s25-fe-deal-3596204/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
