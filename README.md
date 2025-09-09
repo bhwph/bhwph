@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Eat me](http://9gag.com/gag/adBdnx9)
- - 😝 [What an odd thing to say..](http://9gag.com/gag/ae9dxwj)
- - 👉 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)<!-- MEMES:END -->
+ - 6️⃣ [He raised $64,000 in less than 2 hours before they took it down.](http://9gag.com/gag/a0exnQq)
+ - 😝 [Casual Friday](http://9gag.com/gag/aE0QWep)
+ - 👉 [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)<!-- MEMES:END -->
 
 --- 
 
