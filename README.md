@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
- - 😝 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
- - 👉 [Something probably gonna happened with the hole...](http://9gag.com/gag/aVvdL8O)<!-- MEMES:END -->
+ - 6️⃣ [In a world of karens... be a chad...](http://9gag.com/gag/aByvGGQ)
+ - 😝 [Ignore emojis at start. Notice who always are generous ones](http://9gag.com/gag/an7dEZq)
+ - 👉 [Romania is a state of mind](http://9gag.com/gag/aVvdL5w)<!-- MEMES:END -->
 
 --- 
 
