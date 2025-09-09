@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Controlled NymphO having a day!](http://9gag.com/gag/a1mx54P)
- - 😝 [These people are incapable of having fun](http://9gag.com/gag/aKGLeP1)
- - 👉 [The look of pure regret](http://9gag.com/gag/aZZdEyV)<!-- MEMES:END -->
+ - 6️⃣ [Hotness overloaded](http://9gag.com/gag/axyARLM)
+ - 😝 [Uploading my old 9gag collection 96](http://9gag.com/gag/aByvG81)
+ - 👉 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)<!-- MEMES:END -->
 
 --- 
 
