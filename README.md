@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for September 9 &lpar;#1543&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-9-2025/)
- - [Tee Lopes has turned Silksong&#39;s Sherma and Shakra into vocalists for unbearably cute club bangers](https://www.pcgamer.com/games/action/tee-lopes-has-turned-silksongs-sherma-and-shakra-into-vocalists-for-unbearably-cute-club-bangers/)
- - [Xbox Returns to Tokyo Game Show 2025 – Here’s How to Tune In](https://news.xbox.com/en-us/2025/09/08/xbox-tgs-tokyo-game-show-2025-broadcast/)<!-- GAME:END -->
+ - [Beats Studio Buds+ Return to Record Low as Apple Clears Shelf Space for AirPods Pro 3](https://kotaku.com/beats-studio-buds-return-to-record-low-as-apple-clears-shelf-space-for-airpods-pro-3-2000624148)
+ - [&#39;The shining star of losers everywhere&#39; who inspired one of Umamusume&#39;s most popular horse girls has passed away](https://www.pcgamer.com/games/sim/the-shining-star-of-losers-everywhere-who-inspired-one-of-umamusumes-most-popular-horse-girls-has-passed-away/)
+ - [Nvidia&#39;s CFO says there&#39;s still &#39;a little geopolitical situation that we need to work through&#39; before shipping its AI GPUs to China, but it&#39;s &#39;a $2 billion to $5 billion potential opportunity&#39;](https://www.pcgamer.com/software/ai/nvidias-cfo-says-theres-still-a-little-geopolitical-situation-that-we-need-to-work-through-before-shipping-its-ai-gpus-to-china-but-its-a-usd2-billion-to-usd5-billion-potential-opportunity/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
