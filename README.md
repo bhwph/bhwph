@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mr Clean](http://9gag.com/gag/ae9dmzb)
- - 😝 [Ugliest car ever just dropped](http://9gag.com/gag/a7oGVdm)
- - 👉 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)<!-- MEMES:END -->
+ - 6️⃣ [Something probably gonna happened with the hole...](http://9gag.com/gag/aVvdL8O)
+ - 😝 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
+ - 👉 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)<!-- MEMES:END -->
 
 --- 
 
