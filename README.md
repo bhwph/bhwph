@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pacific Drive expansion Whispers in the Woods launches this year](https://blog.playstation.com/2025/09/09/pacific-drive-expansion-whispers-in-the-woods-launches-this-year/)
- - [Silksong is the first Switch 2 game that fully justifies a Pro controller](https://www.polygon.com/silksong-switch-2-pro-controller-hd-rumble/)
- - [Silksong Easter egg hides a secret, super-hard permadeath mode, for those who want to suffer even more](https://www.pcgamer.com/games/action/silksong-easter-egg-hides-a-secret-super-hard-permadeath-mode-for-those-who-want-to-suffer-even-more/)<!-- GAME:END -->
+ - [OpenAI is backing a new animated feature film &#39;made largely with AI&#39; to prove it can make films &#39;faster and cheaper&#39; than Hollywood](https://www.pcgamer.com/software/ai/openai-is-backing-a-new-animated-feature-film-made-largely-with-ai-to-prove-it-can-make-films-faster-and-cheaper-than-hollywood/)
+ - [All simple key locations in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-simple-key-location-uses-door-locks/)
+ - [How to defeat Moorwing in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-moorwing-boss-guide/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
