@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How David Sacks emerged as a key advocate for tech, crypto, and AI in the Trump administration, leveraging his tech expertise and All-In media presence &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250909/p4#a250909p4)
- - [No, the Galaxy S25 FE doesn’t have this key security upgrade](https://www.androidauthority.com/samsung-galaxy-s25-fe-fingerprint-scanner-3596010/)
- - [50% Off LG Promo Codes &amp; Coupons](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
+ - [Samsung wants to get ahead of the iPhone Fold with its own ‘Wide Fold’](https://www.androidauthority.com/samsung-wide-fold-respond-iphone-fold-3596016/)
+ - [Hands-on with AI startup Friend&#39;s $129 always-listening pendant: feels like a beefy AirTag, runs Gemini 2.5, gives unhelpful commentary, and makes others uneasy &lpar;Wired&rpar;](http://www.techmeme.com/250909/p6#a250909p6)
+ - [Amnesty: Pakistan is spying on millions via phone tapping and a Chinese-built internet firewall, in one of the broadest surveillance programs outside China &lpar;Ariba Shahid/Reuters&rpar;](http://www.techmeme.com/250909/p5#a250909p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
