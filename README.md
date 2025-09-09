@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung wants to get ahead of the iPhone Fold with its own ‘Wide Fold’ &lpar;Update: Image&rpar;](https://www.androidauthority.com/samsung-wide-fold-respond-iphone-fold-3596016/)
- - [Booking.com, Expedia, Airbnb, and others are preparing for AI agents, which could disrupt their booking platforms and upend the $1.6T global travel market &lpar;Financial Times&rpar;](http://www.techmeme.com/250909/p11#a250909p11)
- - [Samsung killed my favorite Galaxy Tab S11 model](https://www.androidauthority.com/i-wish-there-was-a-tab-s11-plus-3593900/)<!-- TECH:END -->
+ - [The UAE&#39;s Institute of Foundation Models open sources its K2 Think model, trained on only ~2,000 AI chips and designed for math, coding, and science research &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250909/p16#a250909p16)
+ - [The United Arab Emirates Releases a Tiny But Powerful AI Model](https://www.wired.com/story/uae-releases-a-tiny-but-powerful-reasoning-model/)
+ - [6 Best Baby Monitors We&#39;ve Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-baby-monitors/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
