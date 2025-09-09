@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)
- - 😝 [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)
- - 👉 [Uploading my old 9gag collection 96](http://9gag.com/gag/aByvG81)<!-- MEMES:END -->
+ - 6️⃣ [An hour after the new banksy artwork was revealed that was mocking the courts for censoring people, the courts censored it by covering it up...](http://9gag.com/gag/aLnbmQx)
+ - 😝 [Banksy painted graffiti on the Royal Courts of Justice building in London, depicting a judge beating a protester with a hammer.](http://9gag.com/gag/a4PxAmy)
+ - 👉 [Precious](http://9gag.com/gag/aMVWzAA)<!-- MEMES:END -->
 
 --- 
 
