@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UAE&#39;s Institute of Foundation Models open sources its K2 Think model, trained on only ~2,000 AI chips and designed for math, coding, and science research &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250909/p16#a250909p16)
- - [The United Arab Emirates Releases a Tiny But Powerful AI Model](https://www.wired.com/story/uae-releases-a-tiny-but-powerful-reasoning-model/)
- - [6 Best Baby Monitors We&#39;ve Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-baby-monitors/)<!-- TECH:END -->
+ - [Motorola’s budget Razr is even more affordable now that it’s $100 off](https://www.theverge.com/tech/773288/motorola-razr-2025-superman-4k-ultra-hd-deal-sale)
+ - [Citron’s big update just landed, and it could be a game-changer for Switch emulation](https://www.androidauthority.com/citron-update-0-7-3596125/)
+ - [New OWC dock has three ethernet ports, multiple Thunderbolt 5, and more](https://appleinsider.com/articles/25/09/09/new-owc-dock-has-three-ethernet-ports-multiple-thunderbolt-5-and-more?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
