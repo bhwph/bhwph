@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In a world of karens... be a chad...](http://9gag.com/gag/aByvGGQ)
- - 😝 [Ignore emojis at start. Notice who always are generous ones](http://9gag.com/gag/an7dEZq)
- - 👉 [Romania is a state of mind](http://9gag.com/gag/aVvdL5w)<!-- MEMES:END -->
+ - 6️⃣ [Controlled NymphO having a day!](http://9gag.com/gag/a1mx54P)
+ - 😝 [These people are incapable of having fun](http://9gag.com/gag/aKGLeP1)
+ - 👉 [The look of pure regret](http://9gag.com/gag/aZZdEyV)<!-- MEMES:END -->
 
 --- 
 
