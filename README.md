@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Event deals: Save up to $450 on current MacBook Pros today only](https://appleinsider.com/articles/25/09/09/apple-event-deals-save-up-to-450-on-current-macbook-pros-today-only?utm_source=rss)
- - [The UK Electoral Commission says it took three years and over £250K to recover from an August 2021 hack that exposed private data of 40M voters to Chinese spies &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/250909/p1#a250909p1)
- - [PSA: Plex suffers security breach, change your password right now!](https://www.androidauthority.com/plex-data-breach-3595999/)<!-- TECH:END -->
+ - [How David Sacks emerged as a key advocate for tech, crypto, and AI in the Trump administration, leveraging his tech expertise and All-In media presence &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250909/p4#a250909p4)
+ - [No, the Galaxy S25 FE doesn’t have this key security upgrade](https://www.androidauthority.com/samsung-galaxy-s25-fe-fingerprint-scanner-3596010/)
+ - [50% Off LG Promo Codes &amp; Coupons](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
