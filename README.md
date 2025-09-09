@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)
- - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/apRdxb5)
- - 👉 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)<!-- MEMES:END -->
+ - 6️⃣ [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
+ - 😝 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
+ - 👉 [Something probably gonna happened with the hole...](http://9gag.com/gag/aVvdL8O)<!-- MEMES:END -->
 
 --- 
 
