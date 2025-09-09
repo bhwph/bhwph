@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI Mic Mini deal: Get a great microphone for just $59!](https://www.androidauthority.com/dji-mic-mini-deal-3595949/)
- - [AMD&amp;#8217;s AI-powered FSR 4 upscaling is now available in most FSR 3.1 games](https://www.theverge.com/news/774142/amd-fsr-4-3-1-games-support-upscaling)
- - [SEC filing: Microsoft strikes a deal worth up to $19.4B through 2031 to get AI cloud computing power from Nebius Group; NBIS jumps 50%+ after hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p38#a250908p38)<!-- TECH:END -->
+ - [Sources: OpenAI execs fear rising political scrutiny in California could hinder its for-profit plans and have discussed moving out of the state as a last resort &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250908/p42#a250908p42)
+ - [Apple Event 2025: iPhone 17, AirPods Pro 3, Apple Watch Series 11 Live Updates](https://www.cnet.com/tech/mobile/apple-event-2025-iphone-17-airpods-pro-3-apple-watch-series-11-live-updates/#ftag=CAD590a51e)
+ - [Creepy or Fun? Vodafone&#39;s New Spokesperson Is AI, Not a Real Person](https://www.cnet.com/news/social-media/creepy-or-fun-vodafones-new-spokesperson-is-ai-not-a-real-person/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
