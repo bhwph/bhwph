@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He raised $64,000 in less than 2 hours before they took it down.](http://9gag.com/gag/a0exnQq)
- - 😝 [Casual Friday](http://9gag.com/gag/aE0QWep)
- - 👉 [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)<!-- MEMES:END -->
+ - 6️⃣ [Mr Clean](http://9gag.com/gag/ae9dmzb)
+ - 😝 [Ugliest car ever just dropped](http://9gag.com/gag/a7oGVdm)
+ - 👉 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)<!-- MEMES:END -->
 
 --- 
 
