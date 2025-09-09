@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If Silksong&#39;s corpse runs and double damage hits are too demanding, here&#39;s a pair of mods to tone down the difficulty just a notch](https://www.pcgamer.com/games/action/if-silksongs-corpse-runs-and-double-damage-hits-are-too-demanding-heres-a-pair-of-mods-to-tone-down-the-difficulty-just-a-notch/)
- - [All You Need To Know About Playing Borderlands 4: Launch Times, Day-One Patch, And More](https://kotaku.com/borderlands-4-everything-pre-order-dlc-release-date-time-ps5-switch-2-crossplay-2000624090)
- - [I Don’t Care About Digimon And I’m Still Hyped For Digimon Story: Time Stranger](https://kotaku.com/digimon-story-time-stranger-digifarm-hands-on-preview-2000624093)<!-- GAME:END -->
+ - [Xbox Returns to Tokyo Game Show 2025 – Here’s How to Tune In](https://news.xbox.com/en-us/2025/09/08/xbox-tgs-tokyo-game-show-2025-broadcast/)
+ - [Where to find Silver Bells in Hollow Knight: Silksong](https://www.pcgamer.com/silksong-silver-bells-location-wish-quest/)
+ - [The death and resurrection of Battlefield: Bad Company 2 is exactly why real server browsers are important](https://www.pcgamer.com/games/fps/the-death-and-resurrection-of-battlefield-bad-company-2-is-exactly-why-real-server-browsers-are-important/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
