@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Grab a Samsung Galaxy S24 Ultra for just $700](https://www.androidauthority.com/samsung-galaxy-s24-ultra-deal-7-3596202/)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Sept. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-sept-10/#ftag=CAD590a51e)
- - [Sources: Sequoia stands to gain about $2.65B in Klarna&#39;s IPO, a six-fold return on its total investment of ~$500M; it is selling ~2% of its stake in the IPO &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/250909/p59#a250909p59)<!-- TECH:END -->
+ - [The Players&#39; Tribune owner Minute Media acquires VideoVerse, whose AI tools let broadcasters extract highlights from sports footage, sources say for $200M-$250M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250910/p2#a250910p2)
+ - [Robinhood announces an in-app feed where users can follow and copy verified trades of other investors and public figures, rolling out in beta in Q1 2026 &lpar;Hannah Erin Lang/Wall Street Journal&rpar;](http://www.techmeme.com/250910/p1#a250910p1)
+ - [Watch WIRED’s ‘Uncanny Valley’ Live](https://www.wired.com/story/uncanny-valley-live-show-san-francisco/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
