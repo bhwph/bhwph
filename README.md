@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto exchange Gemini raises the proposed price range for its US IPO from $17-$19 per share to $24-$26, targeting a valuation of up to $3.08B &lpar;Ateev Bhandari/Reuters&rpar;](http://www.techmeme.com/250909/p53#a250909p53)
- - [Moderna CEO Responds to RFK Jr.’s Crusade Against the Covid-19 Vaccine](https://www.wired.com/story/moderna-ceo-responds-to-rfk-jrs-crusade-against-the-covid-19-vaccine/)
- - [iPhone 17 Pro’s triple 48MP cameras raise the bar for Android flagships](https://www.androidauthority.com/iphone-17-pro-camera-features-3596244/)<!-- TECH:END -->
+ - [Apple says the iPhone 17 lineup and iPhone Air come with Memory Integrity Enforcement, which provides &quot;industry-first, always-on memory safety protection&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250909/p58#a250909p58)
+ - [Apple Watch&#39;s hypertension notifications and sleep score will come to some older models with watchOS 26; FDA clearance for the notifications is expected soon &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250909/p57#a250909p57)
+ - [Apple says the iPhone 17 comes with a massive security upgrade](https://www.theverge.com/news/775234/iphone-17-air-a19-memory-integrity-enforcement-mte-security)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
