@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it is scrapping multi-cloud data transfer fees for organizations in the EU and the UK ahead of the EU Data Act taking effect on September 12 &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/250910/p12#a250910p12)
- - [Arm launches four Lumex compute subsystem CPU architectures to improve on-device AI on smartphones, PCs, and wearables, and unveils the new Mali G1-Ultra GPU &lpar;Ben Funk/HotHardware&rpar;](http://www.techmeme.com/250910/p11#a250910p11)
- - [At the Man vs. Machine hackathon, co-hosted by AI nonprofit METR to test if AI helps people code faster and better, the top prize went to an &quot;AI-supported&quot; team &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250910/p10#a250910p10)<!-- TECH:END -->
+ - [An analysis of Lightcast, Foote Partners, and PwC studies on job salaries: AI-skilled workers command 19% to 56% higher pay, reflecting &quot;task-based hiring&quot; &lpar;Riley Gutiérrez McDermid/Gizmodo&rpar;](http://www.techmeme.com/250910/p16#a250910p16)
+ - [The Story of British Billionaire Mike Lynch’s Tragic Boat Sinking](https://www.wired.com/story/mike-lynch-sinking-disaster/)
+ - [Zillow’s new AI staging feature is impressively unimpressive](https://www.theverge.com/news/775465/zillow-ai-virtual-staging)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
