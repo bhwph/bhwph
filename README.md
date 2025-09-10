@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI signed a contract with Oracle to purchase $300B in computing power, requiring 4.5 gigawatts of capacity, over roughly five years &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250910/p43#a250910p43)
- - [Apple isn&amp;#8217;t packing a charging cable in with the AirPods Pro 3](https://www.theverge.com/news/775981/apple-airpods-pro-3-no-charging-cable-in-box)
- - [Our Favorite Earbuds for Working Out Are Cheaper Than Ever](https://www.wired.com/story/beats-powerbeats-pro-deal/)<!-- TECH:END -->
+ - [OnePlus 15 leak teases what colors to expect, including that ‘SuperBlack’ option](https://www.androidauthority.com/oneplus-15-color-names-and-weight-3596689/)
+ - [This Narwal Freo Z Ultra deal is making stock run out, so get it now!](https://www.androidauthority.com/narwal-freo-z-ultra-deal-7-3596707/)
+ - [Analysis: 13+ datasets used by tech companies without permission to train AI models contain 15.8M+ YouTube videos from 2M+ channels, including 1M how-to videos &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/250910/p45#a250910p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
