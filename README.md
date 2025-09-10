@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A bombshell child safety leak changed Meta — it got worse](https://www.theverge.com/policy/775623/meta-whistleblowers-hearing-virtual-reality)
- - [Anonymity is dead and we’re all content now](https://www.theverge.com/internet-culture/775740/anonymity-privacy-filming-viral-tiktok)
- - [The orange iPhone stole the show](https://www.theverge.com/the-vergecast/775567/iphone-air-17-orange-apple-watch-vergecast)<!-- TECH:END -->
+ - [Sources: OpenAI signed a contract with Oracle to purchase $300B in computing power, requiring 4.5 gigawatts of capacity, over roughly five years &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250910/p43#a250910p43)
+ - [Apple isn&amp;#8217;t packing a charging cable in with the AirPods Pro 3](https://www.theverge.com/news/775981/apple-airpods-pro-3-no-charging-cable-in-box)
+ - [Our Favorite Earbuds for Working Out Are Cheaper Than Ever](https://www.wired.com/story/beats-powerbeats-pro-deal/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
