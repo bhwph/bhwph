@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of Lightcast, Foote Partners, and PwC studies on job salaries: AI-skilled workers command 19% to 56% higher pay, reflecting &quot;task-based hiring&quot; &lpar;Riley Gutiérrez McDermid/Gizmodo&rpar;](http://www.techmeme.com/250910/p16#a250910p16)
- - [The Story of British Billionaire Mike Lynch’s Tragic Boat Sinking](https://www.wired.com/story/mike-lynch-sinking-disaster/)
- - [Zillow’s new AI staging feature is impressively unimpressive](https://www.theverge.com/news/775465/zillow-ai-virtual-staging)<!-- TECH:END -->
+ - [Uber plans to add Blade helicopter rides as soon as 2026 via a partnership with electric air taxi maker Joby Aviation, which acquired Blade for $125M in August &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250910/p24#a250910p24)
+ - [The iPhone 17 camera looks completely outdated next to 2025’s Android phones](https://www.androidauthority.com/iphone-17-camera-outdated-pixel-10-3596210/)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;September 10&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-10-2025-3595664/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
