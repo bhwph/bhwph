@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Priorities](http://9gag.com/gag/aPApQ2Q)
- - 😝 [Hotness overloaded](http://9gag.com/gag/axyARLM)
- - 👉 [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)<!-- MEMES:END -->
+ - 6️⃣ [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)
+ - 😝 [A video of a reggae concert that the city mismanaged.](http://9gag.com/gag/aPApXwn)
+ - 👉 [Don&#39;t prank Optimus. Optimus will prank you back.](http://9gag.com/gag/abAd2X8)<!-- MEMES:END -->
 
 --- 
 
