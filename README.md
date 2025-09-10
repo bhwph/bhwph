@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 15 leak teases what colors to expect, including that ‘SuperBlack’ option](https://www.androidauthority.com/oneplus-15-color-names-and-weight-3596689/)
- - [This Narwal Freo Z Ultra deal is making stock run out, so get it now!](https://www.androidauthority.com/narwal-freo-z-ultra-deal-7-3596707/)
- - [Analysis: 13+ datasets used by tech companies without permission to train AI models contain 15.8M+ YouTube videos from 2M+ channels, including 1M how-to videos &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/250910/p45#a250910p45)<!-- TECH:END -->
+ - [Visit Jupiter and control space and time with visionOS 26](https://appleinsider.com/articles/25/09/10/visit-jupiter-and-control-space-and-time-with-visionos-26?utm_source=rss)
+ - [Forget subtitles: YouTube opens the floodgates on auto-dubbing videos into your own language](https://www.androidauthority.com/youtube-multi-language-audio-rollout-3596733/)
+ - [Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years](https://www.theverge.com/ai-artificial-intelligence/776130/senator-ted-cruz-ai-sandbox-bill)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
