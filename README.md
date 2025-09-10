@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I can shave her](http://9gag.com/gag/a7oG9Nb)
- - 😝 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
- - 👉 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)<!-- MEMES:END -->
+ - 6️⃣ [No man no cry..](http://9gag.com/gag/aQzr2Gd)
+ - 😝 [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)
+ - 👉 [Hold on](http://9gag.com/gag/a0exEOZ)<!-- MEMES:END -->
 
 --- 
 
