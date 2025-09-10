@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba&#39;s mapping app Amap launches its own ranking of restaurants, hotels, and tourist destinations, intensifying its competition with Chinese rival Meituan &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/250910/p5#a250910p5)
- - [Nikon&amp;#8217;s first RED co-brand is the Nikon ZR](https://www.theverge.com/cameras/775373/nikons-first-red-co-brand-is-the-nikon-zr)
- - [GameHub 5.0 arrives with Steam sync on Android and big performance gains](https://www.androidauthority.com/gamehub-5-0-update-3596387/)<!-- TECH:END -->
+ - [Google says it is scrapping multi-cloud data transfer fees for organizations in the EU and the UK ahead of the EU Data Act taking effect on September 12 &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/250910/p12#a250910p12)
+ - [Arm launches four Lumex compute subsystem CPU architectures to improve on-device AI on smartphones, PCs, and wearables, and unveils the new Mali G1-Ultra GPU &lpar;Ben Funk/HotHardware&rpar;](http://www.techmeme.com/250910/p11#a250910p11)
+ - [At the Man vs. Machine hackathon, co-hosted by AI nonprofit METR to test if AI helps people code faster and better, the top prize went to an &quot;AI-supported&quot; team &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250910/p10#a250910p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
