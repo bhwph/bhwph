@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)
- - 😝 [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)
- - 👉 [Sharing is caring!](http://9gag.com/gag/a9yVOE1)<!-- MEMES:END -->
+ - 6️⃣ [Confirmed: You cannot wash stupid off!](http://9gag.com/gag/aGyoA70)
+ - 😝 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
+ - 👉 [Klappmesser](http://9gag.com/gag/aVvdLQK)<!-- MEMES:END -->
 
 --- 
 
