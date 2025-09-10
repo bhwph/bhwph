@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Should brands include the camera bump when measuring phone thickness?](https://www.androidauthority.com/measure-phones-camera-bump-poll-3596568/)
- - [How the new AirPods Pro compare to the rest of Apple’s AirPods lineup](https://www.theverge.com/tech/770868/apple-airpods-pro-3-max-which-to-buy-price-specs)
- - [Amazon and Netflix partner to let advertisers buy Netflix ad inventory via Amazon&#39;s demand-side platform, after Amazon signed a similar deal with Disney in June &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/250910/p33#a250910p33)<!-- TECH:END -->
+ - [A bombshell child safety leak changed Meta — it got worse](https://www.theverge.com/policy/775623/meta-whistleblowers-hearing-virtual-reality)
+ - [Anonymity is dead and we’re all content now](https://www.theverge.com/internet-culture/775740/anonymity-privacy-filming-viral-tiktok)
+ - [The orange iPhone stole the show](https://www.theverge.com/the-vergecast/775567/iphone-air-17-orange-apple-watch-vergecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
