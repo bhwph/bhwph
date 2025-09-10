@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This just in](http://9gag.com/gag/ayNzQKM)
- - 😝 [Confirmed: You cannot wash stupid off!](http://9gag.com/gag/aGyoA70)
- - 👉 [Girls be Like](http://9gag.com/gag/awy8dND)<!-- MEMES:END -->
+ - 6️⃣ [I can shave her](http://9gag.com/gag/a7oG9Nb)
+ - 😝 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
+ - 👉 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)<!-- MEMES:END -->
 
 --- 
 
