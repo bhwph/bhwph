@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber plans to add Blade helicopter rides as soon as 2026 via a partnership with electric air taxi maker Joby Aviation, which acquired Blade for $125M in August &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250910/p24#a250910p24)
- - [The iPhone 17 camera looks completely outdated next to 2025’s Android phones](https://www.androidauthority.com/iphone-17-camera-outdated-pixel-10-3596210/)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;September 10&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-10-2025-3595664/)<!-- TECH:END -->
+ - [Poll: Should brands include the camera bump when measuring phone thickness?](https://www.androidauthority.com/measure-phones-camera-bump-poll-3596568/)
+ - [How the new AirPods Pro compare to the rest of Apple’s AirPods lineup](https://www.theverge.com/tech/770868/apple-airpods-pro-3-max-which-to-buy-price-specs)
+ - [Amazon and Netflix partner to let advertisers buy Netflix ad inventory via Amazon&#39;s demand-side platform, after Amazon signed a similar deal with Disney in June &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/250910/p33#a250910p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
