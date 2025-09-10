@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)
- - 😝 [A video of a reggae concert that the city mismanaged.](http://9gag.com/gag/aPApXwn)
- - 👉 [Don&#39;t prank Optimus. Optimus will prank you back.](http://9gag.com/gag/abAd2X8)<!-- MEMES:END -->
+ - 6️⃣ [\u201cInfamous people\u201d](http://9gag.com/gag/aAymX8p)
+ - 😝 [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)
+ - 👉 [I don&#39;t know what he did to get that punishment.](http://9gag.com/gag/amodVX4)<!-- MEMES:END -->
 
 --- 
 
