@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\u201cInfamous people\u201d](http://9gag.com/gag/aAymX8p)
- - 😝 [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)
- - 👉 [I don&#39;t know what he did to get that punishment.](http://9gag.com/gag/amodVX4)<!-- MEMES:END -->
+ - 6️⃣ [Impersonation](http://9gag.com/gag/a9yVOoD)
+ - 😝 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
+ - 👉 [I like my steak extwa cwispy](http://9gag.com/gag/a7oGnZr)<!-- MEMES:END -->
 
 --- 
 
