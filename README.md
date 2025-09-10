@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [OpenAI is backing a new animated feature film &#39;made largely with AI&#39; to prove it can make films &#39;faster and cheaper&#39; than Hollywood](https://www.pcgamer.com/software/ai/openai-is-backing-a-new-animated-feature-film-made-largely-with-ai-to-prove-it-can-make-films-faster-and-cheaper-than-hollywood/)
- - [All simple key locations in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-simple-key-location-uses-door-locks/)
- - [How to defeat Moorwing in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-moorwing-boss-guide/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for September 10 &lpar;#1544&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-10-2025/)
+ - [Alien: Earth&#39;s eyeball creature is stealing the show, and I&#39;m not even mad about it](https://www.polygon.com/alien-earths-eyeball-creature-stealing-the-show/)
+ - [If you saw Ruiner and thought it would be cool in first-person, its developer is back with, you guessed it, an FPS](https://www.pcgamer.com/games/fps/if-you-saw-ruiner-and-thought-it-would-be-cool-in-first-person-its-developer-is-back-with-you-guessed-it-an-fps/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
