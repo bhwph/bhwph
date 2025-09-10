@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says the iPhone 17 lineup and iPhone Air come with Memory Integrity Enforcement, which provides &quot;industry-first, always-on memory safety protection&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250909/p58#a250909p58)
- - [Apple Watch&#39;s hypertension notifications and sleep score will come to some older models with watchOS 26; FDA clearance for the notifications is expected soon &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250909/p57#a250909p57)
- - [Apple says the iPhone 17 comes with a massive security upgrade](https://www.theverge.com/news/775234/iphone-17-air-a19-memory-integrity-enforcement-mte-security)<!-- TECH:END -->
+ - [Deal: Grab a Samsung Galaxy S24 Ultra for just $700](https://www.androidauthority.com/samsung-galaxy-s24-ultra-deal-7-3596202/)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Sept. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-sept-10/#ftag=CAD590a51e)
+ - [Sources: Sequoia stands to gain about $2.65B in Klarna&#39;s IPO, a six-fold return on its total investment of ~$500M; it is selling ~2% of its stake in the IPO &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/250909/p59#a250909p59)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
