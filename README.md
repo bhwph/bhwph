@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Red Dead Redemption 2 modder says to hell with your realistic western cowboy fantasy, get horse girl pilled instead](https://www.pcgamer.com/games/action/red-dead-redemption-2-modder-says-to-hell-with-your-realistic-western-cowboy-fantasy-get-horse-girl-pilled-instead/)
- - [Hideo Kojima relatably says job-hunting made him &#39;feel like I was a Showa-era detective trying to solve a murder,&#39; and he almost became a no-name pharma guy but for some kind words from a HR person](https://www.pcgamer.com/gaming-industry/hideo-kojima-relatably-says-job-hunting-made-him-feel-like-i-was-a-showa-era-detective-trying-to-solve-a-murder-and-he-almost-became-a-no-name-pharma-guy-but-for-some-kind-words-from-a-hr-person/)
- - [HP’s 2025 Laptop Bundle Crashes to Nearly 80% Off, Likely Triggered by Apple’s Latest Launch](https://kotaku.com/hps-2025-laptop-bundle-crashes-to-nearly-80-off-likely-triggered-by-apples-latest-launch-2000624470)<!-- GAME:END -->
+ - [Peak dev says the &#39;tornado hell&#39; of its newest biome wasn&#39;t actually a bug: &#39;We really did just make it that evil&#39;](https://www.pcgamer.com/games/sim/peak-dev-says-the-tornado-hell-of-its-newest-biome-wasnt-actually-a-bug-we-really-did-just-make-it-that-evil/)
+ - [With vapor-chamber cooling, ray-tracing, tensor cores and a high-refresh screen, the iPhone 17 Pro sounds like a premium gaming PC, but I&#39;ll stick with my trusty old Steam Deck, thanks](https://www.pcgamer.com/hardware/handheld-gaming-pcs/with-vapor-chamber-cooling-ray-tracing-tensor-cores-and-a-high-refresh-screen-the-iphone-17-pro-sounds-like-a-premium-gaming-pc-but-ill-stick-with-my-trusty-old-steam-deck-thanks/)
+ - [Suffering with Silksong&#39;s hard-as-nails Forum fight? Fret not, there&#39;s a way to get some help](https://www.pcgamer.com/games/action/silksong-forum-fight-conductors-melody/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
