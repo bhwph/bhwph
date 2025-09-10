@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
+ - 6️⃣ [Nice steps](http://9gag.com/gag/ae9dm3Q)
  - 😝 [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)
- - 👉 [Poor Lenny](http://9gag.com/gag/ayNzQ0X)<!-- MEMES:END -->
+ - 👉 [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)<!-- MEMES:END -->
 
 --- 
 
