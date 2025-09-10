@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Slashes Samsung Galaxy S25 FE Following iPhone 17 Launch, 256GB for the Price of 128GB at Record Low](https://kotaku.com/amazon-quietly-drops-samsung-galaxy-s25-fe-to-its-lowest-price-yet-following-iphone-17-debut-2000624466)
- - [How to beat Sister Splinter in Silksong](https://www.pcgamer.com/games/action/silksong-sister-splinter/)
- - [After 18 months and over 4,000 hours of brutal &#39;worst case&#39; monitor usage, independent testing finds OLED burn-in is only just beginning to get &#39;annoying&#39;](https://www.pcgamer.com/hardware/gaming-monitors/after-18-months-and-over-4-000-hours-of-brutal-worst-case-monitor-usage-independent-testing-finds-oled-burn-in-is-only-just-beginning-to-get-annoying/)<!-- GAME:END -->
+ - [Red Dead Redemption 2 modder says to hell with your realistic western cowboy fantasy, get horse girl pilled instead](https://www.pcgamer.com/games/action/red-dead-redemption-2-modder-says-to-hell-with-your-realistic-western-cowboy-fantasy-get-horse-girl-pilled-instead/)
+ - [Hideo Kojima relatably says job-hunting made him &#39;feel like I was a Showa-era detective trying to solve a murder,&#39; and he almost became a no-name pharma guy but for some kind words from a HR person](https://www.pcgamer.com/gaming-industry/hideo-kojima-relatably-says-job-hunting-made-him-feel-like-i-was-a-showa-era-detective-trying-to-solve-a-murder-and-he-almost-became-a-no-name-pharma-guy-but-for-some-kind-words-from-a-hr-person/)
+ - [HP’s 2025 Laptop Bundle Crashes to Nearly 80% Off, Likely Triggered by Apple’s Latest Launch](https://kotaku.com/hps-2025-laptop-bundle-crashes-to-nearly-80-off-likely-triggered-by-apples-latest-launch-2000624470)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
