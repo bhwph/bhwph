@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)
- - 😝 [My pension money...](http://9gag.com/gag/aLnbW6M)
- - 👉 [Don&#39;t drink and dance](http://9gag.com/gag/aE0QOyK)<!-- MEMES:END -->
+ - 6️⃣ [Mormon?](http://9gag.com/gag/aO8jpVr)
+ - 😝 [When something is so good, you need a lifetime supply](http://9gag.com/gag/aVvdVb8)
+ - 👉 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)<!-- MEMES:END -->
 
 --- 
 
