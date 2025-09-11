@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [RuneScape: Dragonwilds has delayed its major 0.9 update: &#39;We&#39;ve encountered some bugs we are simply not happy shipping the update with&#39;](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-has-delayed-its-major-0-9-update-weve-encountered-some-bugs-we-are-simply-not-happy-shipping-the-update-with/)
- - [Hyte says all Thicc Q80 Trio users should &#39;remove the cooler from their system immediately&#39; and get a refund after internal fault found](https://www.pcgamer.com/hardware/cooling/hyte-says-all-thicc-q80-trio-users-should-remove-the-cooler-from-their-system-immediately-and-get-a-refund-after-internal-fault-found/)
- - [All Borderlands 4 characters: Which Vault Hunter should you pick?](https://www.pcgamer.com/games/fps/borderlands-4-characters-best-vault-hunters/)<!-- GAME:END -->
+ - [All Shift codes for Borderlands 4](https://www.polygon.com/borderlands-4-active-shift-codes-redeem/)
+ - [How to get more SDU tokens in Borderlands 4](https://www.polygon.com/borderlands-4-sdu-tokens-how-to-get/)
+ - [All Silo and Safehouse fast travel locations in Borderlands 4](https://www.polygon.com/borderlands-4-all-fast-travel-locations-spots-safe-houses-silos-bl4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
