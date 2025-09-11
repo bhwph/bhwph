@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Federal charge](http://9gag.com/gag/agmdEyK)
+ - 6️⃣ [Thats just nuts!](http://9gag.com/gag/aryd8pB)
  - 😝 [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)
  - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
 
