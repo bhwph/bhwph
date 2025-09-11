@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Shift codes for Borderlands 4](https://www.polygon.com/borderlands-4-active-shift-codes-redeem/)
- - [How to get more SDU tokens in Borderlands 4](https://www.polygon.com/borderlands-4-sdu-tokens-how-to-get/)
- - [All Silo and Safehouse fast travel locations in Borderlands 4](https://www.polygon.com/borderlands-4-all-fast-travel-locations-spots-safe-houses-silos-bl4/)<!-- GAME:END -->
+ - [The Next Mario Movie Is Probably Going To Outer Space](https://kotaku.com/mario-bros-movie-2-galaxy-leaks-odyssey-nintendo-2000624997)
+ - [Is it better to be a &#39;patient gamer&#39; or is playing new games at launch just too enticing?](https://www.pcgamer.com/games/fps/is-it-better-to-be-a-patient-gamer-or-is-playing-new-games-at-launch-just-too-enticing/)
+ - [Borderlands 4 launches to &#39;mostly negative&#39; reviews on Steam thanks to widespread performance problems and crashes](https://www.pcgamer.com/games/fps/borderlands-4-launches-to-mostly-negative-reviews-on-steam-thanks-to-widespread-performance-problems-and-crashes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
