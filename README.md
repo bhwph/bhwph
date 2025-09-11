@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI companies&#39; bet on prediction token-based LLMs may make them vulnerable to disruption by a novel approach, especially as new models face diminishing returns &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250911/p9#a250911p9)
- - [5 Android phones you should buy instead of the iPhone 17](https://www.androidauthority.com/iphone-17-android-phone-alternatives-3596131/)
- - [Poll: Who’s got the best color options, iPhone 17 or Pixel 10?](https://www.androidauthority.com/iphone-17-pixel-10-colors-3596742/)<!-- TECH:END -->
+ - [Gemini Live’s camera sharing could soon work better with Google Maps &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-camera-sharing-google-maps-info-cards-apk-teardown-3596946/)
+ - [Microsoft 365 Copilot bundles sales, service, and finance Copilots in October](https://www.theverge.com/news/776235/microsoft-365-copilot-bundle-sales-service-finance-announcement)
+ - [BMW PGA Championship 2025: TV Schedule Today, How to Watch, Stream All the Golf From Anywhere](https://www.cnet.com/tech/services-and-software/bmw-pga-championship-2025-tv-schedule-today-how-to-watch-stream-all-the-golf-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
