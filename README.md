@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Next Mario Movie Is Probably Going To Outer Space](https://kotaku.com/mario-bros-movie-2-galaxy-leaks-odyssey-nintendo-2000624997)
- - [Is it better to be a &#39;patient gamer&#39; or is playing new games at launch just too enticing?](https://www.pcgamer.com/games/fps/is-it-better-to-be-a-patient-gamer-or-is-playing-new-games-at-launch-just-too-enticing/)
- - [Borderlands 4 launches to &#39;mostly negative&#39; reviews on Steam thanks to widespread performance problems and crashes](https://www.pcgamer.com/games/fps/borderlands-4-launches-to-mostly-negative-reviews-on-steam-thanks-to-widespread-performance-problems-and-crashes/)<!-- GAME:END -->
+ - [&#39;My Missing Courier&#39; quest walkthrough in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-my-missing-courier-quest-walkthrough/)
+ - [Gearbox responds to worries about Borderlands 4&#39;s terms of service: &#39;Take-Two does not use spyware in its games&#39;](https://www.pcgamer.com/games/fps/gearbox-responds-to-worries-about-borderlands-4s-terms-of-service-take-two-does-not-use-spyware-in-its-games/)
+ - [I&#39;ve tested Borderlands 4 on a minimum spec PC and a monster RTX 5090 rig, and it runs just as &#39;Borderlands-at-launch&#39; as you&#39;d expect](https://www.pcgamer.com/hardware/ive-tested-borderlands-4-on-a-minimum-spec-pc-and-a-monster-rtx-5090-rig-and-it-runs-just-as-borderlands-at-launch-as-youd-expect/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
