@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Live’s camera sharing could soon work better with Google Maps &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-camera-sharing-google-maps-info-cards-apk-teardown-3596946/)
- - [Microsoft 365 Copilot bundles sales, service, and finance Copilots in October](https://www.theverge.com/news/776235/microsoft-365-copilot-bundle-sales-service-finance-announcement)
- - [BMW PGA Championship 2025: TV Schedule Today, How to Watch, Stream All the Golf From Anywhere](https://www.cnet.com/tech/services-and-software/bmw-pga-championship-2025-tv-schedule-today-how-to-watch-stream-all-the-golf-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Foundation&#39; stars left guessing as Apple stays quiet on season 4](https://appleinsider.com/articles/25/09/11/foundation-stars-left-guessing-as-apple-stays-quiet-on-season-4?utm_source=rss)
+ - [After Charlie Kirk’s killing, MAGA influencers call for violence](https://www.theverge.com/politics/776293/charlie-kirk-maga-influencer-violence)
+ - [Best Travel Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-cameras/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
