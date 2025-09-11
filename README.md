@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My pension money...](http://9gag.com/gag/aLnbW6M)
- - 😝 [Slavic Lives Matter](http://9gag.com/gag/a4PxWx1)
- - 👉 [Core memory unlocked](http://9gag.com/gag/aqydD1Y)<!-- MEMES:END -->
+ - 6️⃣ [Thats just nuts!](http://9gag.com/gag/aryd8pB)
+ - 😝 [Ahh, France.](http://9gag.com/gag/a0exEwZ)
+ - 👉 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)<!-- MEMES:END -->
 
 --- 
 
