@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My pension money...](http://9gag.com/gag/aLnbW6M)
- - 😝 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
- - 👉 [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)<!-- MEMES:END -->
+ - 6️⃣ [Slavic Lives Matter](http://9gag.com/gag/a4PxWx1)
+ - 😝 [My pension money...](http://9gag.com/gag/aLnbW6M)
+ - 👉 [Core memory unlocked](http://9gag.com/gag/aqydD1Y)<!-- MEMES:END -->
 
 --- 
 
