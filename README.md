@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Charlie Kirk Was Shot and Killed in a Post-Content Moderation World](https://www.wired.com/story/charlie-kirk-shot-videos-spread-social-media/)
- - [Right-Wing Activists Are Targeting People for Allegedly Celebrating Charlie Kirk&#39;s Death](https://www.wired.com/story/right-wing-activists-are-targeting-people-for-allegedly-celebrating-charlie-kirks-death/)
- - [Baseus&amp;#8217; solar-powered dash cam keeps an eye on your parked car for up to two weeks](https://www.theverge.com/news/776613/baseus-primetrip-vd1-pro-dashcam-solar-power-two-week-standby)<!-- TECH:END -->
+ - [Google plans to shut down Tables, a work-tracking tool and competitor to Airtable, in December and directs users to migrate to Google Sheets or AppSheet &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250911/p20#a250911p20)
+ - [Sony’s InZone Buds are great for gaming, and right now they’re cheaper than ever](https://www.theverge.com/tech/776630/sony-inzone-buds-samsung-music-frame-deal-sale)
+ - [Android Auto is now fixed on the Pixel 10 — unless it isn’t](https://www.androidauthority.com/android-auto-pixel-10-fix-3597087/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
