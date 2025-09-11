@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Foundation&#39; stars left guessing as Apple stays quiet on season 4](https://appleinsider.com/articles/25/09/11/foundation-stars-left-guessing-as-apple-stays-quiet-on-season-4?utm_source=rss)
- - [After Charlie Kirk’s killing, MAGA influencers call for violence](https://www.theverge.com/politics/776293/charlie-kirk-maga-influencer-violence)
- - [Best Travel Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-cameras/)<!-- TECH:END -->
+ - [Gmail’s new tab keeps all your order delivery and purchase emails in one tidy place](https://www.androidauthority.com/gmail-purchases-tab-and-promotions-sorting-3596995/)
+ - [Gmail is launching a tab for all your Amazon purchases](https://www.theverge.com/news/776305/google-gmail-purchases-tab-online-orders)
+ - [Xbox Cloud is getting a much-needed upgrade](https://www.theverge.com/notepad-microsoft-newsletter/776320/microsoft-xbox-cloud-gaming-limitations-strategy-notepad)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
