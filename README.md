@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mormon?](http://9gag.com/gag/aO8jpVr)
- - 😝 [When something is so good, you need a lifetime supply](http://9gag.com/gag/aVvdVb8)
- - 👉 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)<!-- MEMES:END -->
+ - 6️⃣ [Waiting for her golden medal.](http://9gag.com/gag/aNDqjz6)
+ - 😝 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
+ - 👉 [AI &lt;&lt; Natural Stupidity](http://9gag.com/gag/aE0QQnO)<!-- MEMES:END -->
 
 --- 
 
