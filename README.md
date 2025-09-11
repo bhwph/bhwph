@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung calls iPhone 17 keynote a ‘Zzz-note,’ forgets Galaxy S25 series exists](https://www.androidauthority.com/samsung-mock-apple-iphone-17-3596845/)
- - [30% Off Tempur-Pedic Promo Codes | September 2025](https://www.wired.com/story/tempur-pedic-promo-code/)
- - [Blockchain-based lender Figure and some of its backers raised $787.5M in an IPO, selling 31.5M shares at $25 each, valuing the company at about $5.3B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250911/p5#a250911p5)<!-- TECH:END -->
+ - [Here’s your first look at Gemini’s dedicated space for all creations &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-created-by-you-apk-teardown-3596859/)
+ - [Atlantic Council: the number of US-based investors in spyware nearly tripled in 2024 to 31 firms, compared to just 11 in 2023, topping Israel&#39;s 26 investors &lpar;Vas Panagiotopoulos/Wired&rpar;](http://www.techmeme.com/250911/p6#a250911p6)
+ - [Samsung calls iPhone 17 keynote a ‘Zzz-note,’ forgets Galaxy S25 series exists](https://www.androidauthority.com/samsung-mock-apple-iphone-17-3596845/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
