@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My pension money...](http://9gag.com/gag/aLnbW6M)
- - 😝 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
- - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
+ - 6️⃣ [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)
+ - 😝 [My pension money...](http://9gag.com/gag/aLnbW6M)
+ - 👉 [Don&#39;t drink and dance](http://9gag.com/gag/aE0QOyK)<!-- MEMES:END -->
 
 --- 
 
