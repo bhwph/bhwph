@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Graphic videos of Charlie Kirk&#39;s shooting, first posted to X, also spread to Instagram, Threads, YouTube, and Telegram within hours, amassing millions of views &lpar;New York Times&rpar;](http://www.techmeme.com/250911/p2#a250911p2)
- - [CFTC nominee Brian Quintenz says the Winklevosses asked Trump to pause his confirmation after he refused to make promises &quot;rectifying&quot; a prior Gemini settlement &lpar;Declan Harty/Politico&rpar;](http://www.techmeme.com/250911/p1#a250911p1)
- - [Koi, which is developing a centralized protection layer for enterprise endpoints, raised a $38M Series A, taking its total funding to $48M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250910/p52#a250910p52)<!-- TECH:END -->
+ - [Samsung calls iPhone 17 keynote a ‘Zzz-note,’ forgets Galaxy S25 series exists](https://www.androidauthority.com/samsung-mock-apple-iphone-17-3596845/)
+ - [30% Off Tempur-Pedic Promo Codes | September 2025](https://www.wired.com/story/tempur-pedic-promo-code/)
+ - [Blockchain-based lender Figure and some of its backers raised $787.5M in an IPO, selling 31.5M shares at $25 each, valuing the company at about $5.3B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250911/p5#a250911p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
