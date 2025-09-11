@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail’s new tab keeps all your order delivery and purchase emails in one tidy place](https://www.androidauthority.com/gmail-purchases-tab-and-promotions-sorting-3596995/)
- - [Gmail is launching a tab for all your Amazon purchases](https://www.theverge.com/news/776305/google-gmail-purchases-tab-online-orders)
- - [Xbox Cloud is getting a much-needed upgrade](https://www.theverge.com/notepad-microsoft-newsletter/776320/microsoft-xbox-cloud-gaming-limitations-strategy-notepad)<!-- TECH:END -->
+ - [Charlie Kirk Was Shot and Killed in a Post-Content Moderation World](https://www.wired.com/story/charlie-kirk-shot-videos-spread-social-media/)
+ - [Right-Wing Activists Are Targeting People for Allegedly Celebrating Charlie Kirk&#39;s Death](https://www.wired.com/story/right-wing-activists-are-targeting-people-for-allegedly-celebrating-charlie-kirks-death/)
+ - [Baseus&amp;#8217; solar-powered dash cam keeps an eye on your parked car for up to two weeks](https://www.theverge.com/news/776613/baseus-primetrip-vd1-pro-dashcam-solar-power-two-week-standby)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
