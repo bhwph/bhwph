@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Visit Jupiter and control space and time with visionOS 26](https://appleinsider.com/articles/25/09/10/visit-jupiter-and-control-space-and-time-with-visionos-26?utm_source=rss)
- - [Forget subtitles: YouTube opens the floodgates on auto-dubbing videos into your own language](https://www.androidauthority.com/youtube-multi-language-audio-rollout-3596733/)
- - [Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years](https://www.theverge.com/ai-artificial-intelligence/776130/senator-ted-cruz-ai-sandbox-bill)<!-- TECH:END -->
+ - [Apple&#39;s AI training guideline update twisted into political conspiracy](https://appleinsider.com/articles/25/09/11/apples-ai-training-guideline-update-twisted-into-political-conspiracy?utm_source=rss)
+ - [Charlie Kirk fatally shot at Turning Point USA event in Utah](https://www.theverge.com/news/776079/charlie-kirk-shooting)
+ - [‘War Is Here’: The Far-Right Responds to Charlie Kirk Shooting With Calls for Violence](https://www.wired.com/story/far-right-reactions-charlie-kirk-shooting-civil-war/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
