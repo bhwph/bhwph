@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for September 11 &lpar;#1545&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-11-2025/)
- - [Finally, someone&#39;s making an RPG about managing your own restaurant](https://www.pcgamer.com/games/sim/finally-someones-making-an-rpg-about-managing-your-own-restaurant/)
- - [If you&#39;re desperate for Rosaries in Act 1 of Silksong, there&#39;s a place where you can rack up 300 per five minutes](https://www.pcgamer.com/games/action/if-youre-desperate-for-rosaries-in-act-1-of-silksong-theres-a-place-where-you-can-rack-up-300-per-five-minutes/)<!-- GAME:END -->
+ - [RuneScape: Dragonwilds has delayed its major 0.9 update: &#39;We&#39;ve encountered some bugs we are simply not happy shipping the update with&#39;](https://www.pcgamer.com/games/survival-crafting/runescape-dragonwilds-has-delayed-its-major-0-9-update-weve-encountered-some-bugs-we-are-simply-not-happy-shipping-the-update-with/)
+ - [Hyte says all Thicc Q80 Trio users should &#39;remove the cooler from their system immediately&#39; and get a refund after internal fault found](https://www.pcgamer.com/hardware/cooling/hyte-says-all-thicc-q80-trio-users-should-remove-the-cooler-from-their-system-immediately-and-get-a-refund-after-internal-fault-found/)
+ - [All Borderlands 4 characters: Which Vault Hunter should you pick?](https://www.pcgamer.com/games/fps/borderlands-4-characters-best-vault-hunters/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
