@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Peak dev says the &#39;tornado hell&#39; of its newest biome wasn&#39;t actually a bug: &#39;We really did just make it that evil&#39;](https://www.pcgamer.com/games/sim/peak-dev-says-the-tornado-hell-of-its-newest-biome-wasnt-actually-a-bug-we-really-did-just-make-it-that-evil/)
- - [With vapor-chamber cooling, ray-tracing, tensor cores and a high-refresh screen, the iPhone 17 Pro sounds like a premium gaming PC, but I&#39;ll stick with my trusty old Steam Deck, thanks](https://www.pcgamer.com/hardware/handheld-gaming-pcs/with-vapor-chamber-cooling-ray-tracing-tensor-cores-and-a-high-refresh-screen-the-iphone-17-pro-sounds-like-a-premium-gaming-pc-but-ill-stick-with-my-trusty-old-steam-deck-thanks/)
- - [Suffering with Silksong&#39;s hard-as-nails Forum fight? Fret not, there&#39;s a way to get some help](https://www.pcgamer.com/games/action/silksong-forum-fight-conductors-melody/)<!-- GAME:END -->
+ - [Bloodlines 2 narrative director tries to get players to lower their expectations, patiently explains it&#39;s not going to have the scale of Baldur&#39;s Gate 3 or Grand Theft Auto](https://www.pcgamer.com/games/rpg/bloodlines-2-narrative-director-tries-to-get-players-to-lower-their-expectations-patiently-explains-its-not-going-to-have-the-scale-of-baldurs-gate-3-or-grand-theft-auto/)
+ - [The Battlefield 6 battle royale ring will instantly kill anyone caught in it: &#39;There&#39;s no jumping in and out of it, no using it for cover, no walking through it&#39;](https://www.pcgamer.com/games/fps/battlefield-battle-royale-details-playtest/)
+ - [&#39;An embarrassing failure of the US patent system&#39;: Videogame IP lawyer says Nintendo&#39;s latest patents on Pokémon mechanics &#39;should not have happened, full stop&#39;](https://www.pcgamer.com/gaming-industry/an-embarrassing-failure-of-the-us-patent-system-videogame-ip-lawyer-says-nintendos-latest-patents-on-pokemon-mechanics-should-not-have-happened-full-stop/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
