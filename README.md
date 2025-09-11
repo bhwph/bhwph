@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thats just nuts!](http://9gag.com/gag/aryd8pB)
- - 😝 [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)
- - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
+ - 6️⃣ [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)
+ - 😝 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
+ - 👉 [Who keeps employing these ghouls in the first place!?](http://9gag.com/gag/aGyobrK)<!-- MEMES:END -->
 
 --- 
 
