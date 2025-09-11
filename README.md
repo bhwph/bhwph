@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to shut down Tables, a work-tracking tool and competitor to Airtable, in December and directs users to migrate to Google Sheets or AppSheet &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250911/p20#a250911p20)
- - [Sony’s InZone Buds are great for gaming, and right now they’re cheaper than ever](https://www.theverge.com/tech/776630/sony-inzone-buds-samsung-music-frame-deal-sale)
- - [Android Auto is now fixed on the Pixel 10 — unless it isn’t](https://www.androidauthority.com/android-auto-pixel-10-fix-3597087/)<!-- TECH:END -->
+ - [Republicans pledge censorship crackdown to avenge Charlie Kirk’s death](https://www.theverge.com/policy/776840/charlie-kirk-death-social-media-jawboning)
+ - [Google Home’s feature-packed new automation editor is ready for you to try out now](https://www.androidauthority.com/home-automation-editor-3597130/)
+ - [Anthropic’s Claude AI can now automatically ‘remember’ past chats](https://www.theverge.com/news/776827/anthropic-claude-ai-memory-upgrade-team-enterprise)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
