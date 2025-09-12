@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Foundation&#39; dodges a Seldon Crisis with last-minute renewal](https://appleinsider.com/articles/25/09/12/foundation-dodges-a-seldon-crisis-with-last-minute-renewal?utm_source=rss)
- - [The EU ends an antitrust probe against Microsoft with no fine and accepts its concessions, including offering Office without Teams in Europe for seven years &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250912/p7#a250912p7)
- - [You shouldn’t buy the best Android phone](https://www.androidauthority.com/dont-buy-best-android-phone-3596657/)<!-- TECH:END -->
+ - [Save up to $1,100 when you preorder Apple&#39;s iPhone 17, 17 Pro, 17 Pro Max, or iPhone Air](https://appleinsider.com/articles/25/09/12/save-up-to-1100-when-you-preorder-apples-iphone-17-17-pro-17-pro-max-or-iphone-air?utm_source=rss)
+ - [Best Merino Wool T-Shirts &lpar;2025&rpar;, Tried On and Tested](https://www.wired.com/gallery/best-merino-wool-t-shirts/)
+ - [iPhone 17 launch, Apple Watches, and AirPods Pro 3 on the AppleInsider Podcast](https://appleinsider.com/articles/25/09/12/iphone-17-launch-apple-watches-and-airpods-pro-3-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
