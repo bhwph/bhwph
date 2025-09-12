@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
- - 😝 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
+ - 6️⃣ [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)
+ - 😝 [Store owner saved himself from unknown visitors](http://9gag.com/gag/a87nXqO)
  - 👉 [Economy in 2025](http://9gag.com/gag/avyDmQ5)<!-- MEMES:END -->
 
 --- 
