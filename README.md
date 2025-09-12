@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
- - 😝 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
- - 👉 [They took a bribe from the Japanese tourist and within 24 hrs lost their jobs](http://9gag.com/gag/adBd4M2)<!-- MEMES:END -->
+ - 6️⃣ [Too much politics, here two of things i love the most](http://9gag.com/gag/aE0QNMM)
+ - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
+ - 👉 [No Coments](http://9gag.com/gag/aLnbNjv)<!-- MEMES:END -->
 
 --- 
 
