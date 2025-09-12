@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Republicans pledge censorship crackdown to avenge Charlie Kirk’s death](https://www.theverge.com/policy/776840/charlie-kirk-death-social-media-jawboning)
- - [Google Home’s feature-packed new automation editor is ready for you to try out now](https://www.androidauthority.com/home-automation-editor-3597130/)
- - [Anthropic’s Claude AI can now automatically ‘remember’ past chats](https://www.theverge.com/news/776827/anthropic-claude-ai-memory-upgrade-team-enterprise)<!-- TECH:END -->
+ - [Source: the clause rescinding Microsoft&#39;s access to OpenAI&#39;s most powerful tech if OpenAI develops AGI remains part of their new deal, but it has been modified &lpar;New York Times&rpar;](http://www.techmeme.com/250911/p27#a250911p27)
+ - [The Samsung Galaxy Z Flip 7 is still at its record-low price](https://www.androidauthority.com/samsung-galaxy-z-flip-7-deal-3597115/)
+ - [Source: crypto exchange Gemini raises $425M in its IPO, selling about 15.2M shares for $28 each after marketing them for $24 to $26 apiece &lpar;Bloomberg&rpar;](http://www.techmeme.com/250911/p26#a250911p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
