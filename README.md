@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [1 easy hack to use Gemini](https://www.reddit.com/r/funny/comments/1nexmr7/1_easy_hack_to_use_gemini/)
- - 😝 [That moment you question everything you&#39;ve ever learned](http://9gag.com/gag/adBd41Z)
- - 👉 [Don&#39;t drink and dance](http://9gag.com/gag/aE0QOyK)<!-- MEMES:END -->
+ - 6️⃣ [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
+ - 😝 [He heard the prophecy\u2026 misunderstood the wardrobe](http://9gag.com/gag/an7droL)
+ - 👉 [Man died fighting for what he believed in](http://9gag.com/gag/a6ZxGAN)<!-- MEMES:END -->
 
 --- 
 
