@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for September 12 &lpar;#1546&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-12-2025/)
- - [GOG wants to revive more classic Japanese games on PC: &#39;Working with Japanese partners often requires demonstrating both technical capability and cultural understanding&#39;](https://www.pcgamer.com/gaming-industry/gog-wants-to-revive-more-classic-japanese-games-on-pc-working-with-japanese-partners-often-requires-demonstrating-both-technical-capability-and-cultural-understanding/)
- - [Holiday gaming plans in shambles as Slay the Spire 2 gets delayed to March 2026](https://www.pcgamer.com/games/card-games/holiday-gaming-plans-in-shambles-as-slay-the-spire-2-gets-delayed-to-march-2026/)<!-- GAME:END -->
+ - [AI, take the wheel: Gigabyte&#39;s latest motherboards will &#39;intelligently dynamically&#39; improve performance of Ryzen chips by up to 25% in games through a built-in AI model](https://www.pcgamer.com/hardware/motherboards/ai-take-the-wheel-gigabytes-latest-motherboards-will-intelligently-dynamically-improve-performance-of-ryzen-chips-by-up-to-25-percent-in-games-through-a-built-in-ai-model/)
+ - [Critical Role teases Campaign 4 characters, including wolfkin detective and plenty of bards](https://www.polygon.com/critical-role-campaign-4-characters-puzzle/)
+ - [Today&#39;s Wordle clues, hints and answer for September 12 &lpar;#1546&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-12-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
