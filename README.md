@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)
- - 😝 [Store owner saved himself from unknown visitors](http://9gag.com/gag/a87nXqO)
- - 👉 [Economy in 2025](http://9gag.com/gag/avyDmQ5)<!-- MEMES:END -->
+ - 6️⃣ [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
+ - 😝 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
+ - 👉 [They took a bribe from the Japanese tourist and within 24 hrs lost their jobs](http://9gag.com/gag/adBd4M2)<!-- MEMES:END -->
 
 --- 
 
