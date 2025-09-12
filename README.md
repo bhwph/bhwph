@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When something is so good, you need a lifetime supply](http://9gag.com/gag/aVvdVb8)
- - 😝 [Mexico- Gas?](http://9gag.com/gag/ayNzP0p)
+ - 6️⃣ [Waiting for her golden medal.](http://9gag.com/gag/aNDqjz6)
+ - 😝 [Picture of the evidence](http://9gag.com/gag/aGyo7RG)
  - 👉 [Cop: `what&#39;s going on?` Guy: `\ud83d\udc40 with??????????\ud83d\udc40`](http://9gag.com/gag/aE0QEYN)<!-- MEMES:END -->
 
 --- 
