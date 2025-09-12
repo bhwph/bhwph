@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AI, take the wheel: Gigabyte&#39;s latest motherboards will &#39;intelligently dynamically&#39; improve performance of Ryzen chips by up to 25% in games through a built-in AI model](https://www.pcgamer.com/hardware/motherboards/ai-take-the-wheel-gigabytes-latest-motherboards-will-intelligently-dynamically-improve-performance-of-ryzen-chips-by-up-to-25-percent-in-games-through-a-built-in-ai-model/)
- - [Critical Role teases Campaign 4 characters, including wolfkin detective and plenty of bards](https://www.polygon.com/critical-role-campaign-4-characters-puzzle/)
- - [Today&#39;s Wordle clues, hints and answer for September 12 &lpar;#1546&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-12-2025/)<!-- GAME:END -->
+ - [&#39;Microsoft has become like an arsonist selling firefighting services to their victims&#39; says US senator, referring it to the FTC for a cybersecurity flaw, though Microsoft says it has a plan](https://www.pcgamer.com/software/security/microsoft-has-become-like-an-arsonist-selling-firefighting-services-to-their-victims-says-us-senator-referring-it-to-the-ftc-for-a-cybersecurity-flaw-though-microsoft-says-it-has-a-plan/)
+ - [Slay The Spire 2 Is Now A 2026 Release, But Don’t Blame Hornet](https://kotaku.com/slay-the-spire-2-is-now-a-2026-release-but-dont-blame-hornet-2000625257)
+ - [This HP USB-C Dock 11-in-1 Adapter Keeps Dropping in Price, Now a Clearance-Level 55% Off Deal](https://kotaku.com/this-hp-usb-c-dock-11-in-1-adapter-keeps-dropping-in-price-now-a-clearance-level-55-off-deal-2000625018)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
