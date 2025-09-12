@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Alibaba and Baidu have begun using their own internally designed chips to train their AI models, partly replacing AI chips made by Nvidia &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250912/p16#a250912p16)
- - [Pixel phones might soon stream emergencies in real-time just like iPhones &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-emergency-live-video-3597317/)
- - [Tether names Bo Hines, the former Executive Director of the White House Crypto Council, as the CEO of its new US unit and launches USAT stablecoin &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250912/p15#a250912p15)<!-- TECH:END -->
+ - [Save $70 on One of Our Favorite Android Tablets](https://www.wired.com/story/samsung-galaxy-tab-s10-fe-deal/)
+ - [You didn’t ask for it, but YouTube Music’s Now Playing redesign is here](https://www.androidauthority.com/youtube-music-now-playing-redesign-3597405/)
+ - [Sources: Polymarket considers an offer valuing it at ~$9B, up from $1B in the summer; Kalshi is close to raising money at a $5B valuation, up from $2B in June &lpar;The Information&rpar;](http://www.techmeme.com/250912/p20#a250912p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
