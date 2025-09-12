@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;My Missing Courier&#39; quest walkthrough in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-my-missing-courier-quest-walkthrough/)
- - [Gearbox responds to worries about Borderlands 4&#39;s terms of service: &#39;Take-Two does not use spyware in its games&#39;](https://www.pcgamer.com/games/fps/gearbox-responds-to-worries-about-borderlands-4s-terms-of-service-take-two-does-not-use-spyware-in-its-games/)
- - [I&#39;ve tested Borderlands 4 on a minimum spec PC and a monster RTX 5090 rig, and it runs just as &#39;Borderlands-at-launch&#39; as you&#39;d expect](https://www.pcgamer.com/hardware/ive-tested-borderlands-4-on-a-minimum-spec-pc-and-a-monster-rtx-5090-rig-and-it-runs-just-as-borderlands-at-launch-as-youd-expect/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for September 12 &lpar;#1546&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-12-2025/)
+ - [GOG wants to revive more classic Japanese games on PC: &#39;Working with Japanese partners often requires demonstrating both technical capability and cultural understanding&#39;](https://www.pcgamer.com/gaming-industry/gog-wants-to-revive-more-classic-japanese-games-on-pc-working-with-japanese-partners-often-requires-demonstrating-both-technical-capability-and-cultural-understanding/)
+ - [Holiday gaming plans in shambles as Slay the Spire 2 gets delayed to March 2026](https://www.pcgamer.com/games/card-games/holiday-gaming-plans-in-shambles-as-slay-the-spire-2-gets-delayed-to-march-2026/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
