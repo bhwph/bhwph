@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Waiting for her golden medal.](http://9gag.com/gag/aNDqjz6)
- - 😝 [Picture of the evidence](http://9gag.com/gag/aGyo7RG)
- - 👉 [Cop: `what&#39;s going on?` Guy: `\ud83d\udc40 with??????????\ud83d\udc40`](http://9gag.com/gag/aE0QEYN)<!-- MEMES:END -->
+ - 6️⃣ [1 easy hack to use Gemini](https://www.reddit.com/r/funny/comments/1nexmr7/1_easy_hack_to_use_gemini/)
+ - 😝 [That moment you question everything you&#39;ve ever learned](http://9gag.com/gag/adBd41Z)
+ - 👉 [Don&#39;t drink and dance](http://9gag.com/gag/aE0QOyK)<!-- MEMES:END -->
 
 --- 
 
