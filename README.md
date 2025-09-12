@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Gifts for Newlyweds They’ll Actually Use &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-newlyweds/)
- - [The next Pokémon looks a bit like Minecraft](https://www.theverge.com/news/777159/pokemon-pokopia-nintendo-switch-2)
- - [Bring death to Chronos in Hades 2 this September](https://www.theverge.com/news/777117/hades-2-release-date-september-nintendo-switch)<!-- TECH:END -->
+ - [Sources: Alibaba and Baidu have begun using their own internally designed chips to train their AI models, partly replacing AI chips made by Nvidia &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250912/p16#a250912p16)
+ - [Pixel phones might soon stream emergencies in real-time just like iPhones &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-emergency-live-video-3597317/)
+ - [Tether names Bo Hines, the former Executive Director of the White House Crypto Council, as the CEO of its new US unit and launches USAT stablecoin &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250912/p15#a250912p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
