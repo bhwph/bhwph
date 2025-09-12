@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [California SB 243, which would mandate safety protocols for AI companion chatbots, has passed the State Assembly and Senate and now heads to Gov. Newsom&#39;s desk &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250912/p4#a250912p4)
- - [Apple Watch hypertension feature cleared by FDA](https://www.theverge.com/news/776942/apple-watch-hypertension-feature-cleared-by-fda)
- - [Despite hype and optimistic projections, the humanoid robot industry faces hurdles, from battery life and design to limited demand for large-scale deployments &lpar;Evan Ackerman/IEEE Spectrum&rpar;](http://www.techmeme.com/250912/p3#a250912p3)<!-- TECH:END -->
+ - [Android Auto could rollback one controversial change but introduce another &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-controversial-design-rollback-3597175/)
+ - [These two HUAWEI excellent tablets nail the hardware, but they fall down on the usual problem](https://www.androidauthority.com/huawei-matepad-pro-matepad-2025-series-hands-on-3593896/)
+ - [Asus gives its $4,000 creator laptop a 4K tandem OLED and RTX 5090](https://www.theverge.com/news/776667/asus-proart-p16-laptop-creators-nvidia-rtx-5090-4k-price-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
