@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Too much politics, here two of things i love the most](http://9gag.com/gag/aE0QNMM)
+ - 6️⃣ [Title](http://9gag.com/gag/ajPdR3g)
  - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
- - 👉 [No Coments](http://9gag.com/gag/aLnbNjv)<!-- MEMES:END -->
+ - 👉 [Magnificent](http://9gag.com/gag/aQzrBQK)<!-- MEMES:END -->
 
 --- 
 
