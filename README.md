@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $1,100 when you preorder Apple&#39;s iPhone 17, 17 Pro, 17 Pro Max, or iPhone Air](https://appleinsider.com/articles/25/09/12/save-up-to-1100-when-you-preorder-apples-iphone-17-17-pro-17-pro-max-or-iphone-air?utm_source=rss)
- - [Best Merino Wool T-Shirts &lpar;2025&rpar;, Tried On and Tested](https://www.wired.com/gallery/best-merino-wool-t-shirts/)
- - [iPhone 17 launch, Apple Watches, and AirPods Pro 3 on the AppleInsider Podcast](https://appleinsider.com/articles/25/09/12/iphone-17-launch-apple-watches-and-airpods-pro-3-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [The Best Gifts for Newlyweds They’ll Actually Use &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-newlyweds/)
+ - [The next Pokémon looks a bit like Minecraft](https://www.theverge.com/news/777159/pokemon-pokopia-nintendo-switch-2)
+ - [Bring death to Chronos in Hades 2 this September](https://www.theverge.com/news/777117/hades-2-release-date-september-nintendo-switch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
