@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
- - 😝 [He heard the prophecy\u2026 misunderstood the wardrobe](http://9gag.com/gag/an7droL)
- - 👉 [Man died fighting for what he believed in](http://9gag.com/gag/a6ZxGAN)<!-- MEMES:END -->
+ - 6️⃣ [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
+ - 😝 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
+ - 👉 [Economy in 2025](http://9gag.com/gag/avyDmQ5)<!-- MEMES:END -->
 
 --- 
 
