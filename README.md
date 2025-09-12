@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title](http://9gag.com/gag/ajPdR3g)
+ - 6️⃣ [Magnificent](http://9gag.com/gag/aQzrBQK)
  - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
- - 👉 [Magnificent](http://9gag.com/gag/aQzrBQK)<!-- MEMES:END -->
+ - 👉 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)<!-- MEMES:END -->
 
 --- 
 
