@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [HP 17.3″ Laptop Bundle &lpar;32GB RAM, 1TB SSD&rpar; Is Almost 80% Off, Now Way Cheaper Than iPad Pro M4 With Less Storage](https://kotaku.com/hp-17-3-laptop-bundle-32gb-ram-1tb-ssd-is-almost-80-off-now-way-cheaper-than-ipad-pro-m4-with-less-storage-2000624999)
- - [JoJo&#39;s Bizarre Adventure Steel Ball Run is coming &quot;soon&quot; exclusively on Netflix](https://www.polygon.com/jojos-bizarre-adventure-steel-ball-run-netflix-exclusive/)
- - [Pokémon is Getting An Animal Crossing-like With A Bizarre Premise](https://kotaku.com/pokemon-pokopia-animal-crossing-switch-2-nintendo-direct-2000625331)<!-- GAME:END -->
+ - [Borderlands 4 has a volume slider specifically for muting Claptrap—if you&#39;re a coward](https://www.pcgamer.com/games/fps/borderlands-4-has-a-volume-slider-specifically-for-muting-claptrap-if-youre-a-coward/)
+ - [How to upgrade the needle in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-needle-upgrade-how-to/)
+ - [As Call of Duty flips a U-turn on goofy skins, Battlefield 6 devs are making their stance clear from the start: &#39;We&#39;re not chasing trends. We&#39;re not chasing other products&#39;](https://www.pcgamer.com/games/fps/as-call-of-duty-flips-a-u-turn-on-goofy-skins-battlefield-6-devs-are-making-their-stance-clear-from-the-start-were-not-chasing-trends-were-not-chasing-other-products/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
