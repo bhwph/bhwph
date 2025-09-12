@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $70 on One of Our Favorite Android Tablets](https://www.wired.com/story/samsung-galaxy-tab-s10-fe-deal/)
- - [You didn’t ask for it, but YouTube Music’s Now Playing redesign is here](https://www.androidauthority.com/youtube-music-now-playing-redesign-3597405/)
- - [Sources: Polymarket considers an offer valuing it at ~$9B, up from $1B in the summer; Kalshi is close to raising money at a $5B valuation, up from $2B in June &lpar;The Information&rpar;](http://www.techmeme.com/250912/p20#a250912p20)<!-- TECH:END -->
+ - [Stellantis cancels Ram 1500 REV as electric truck demand dims](https://www.theverge.com/news/777574/stellantis-cancels-ram-1500-ev-ramcharger)
+ - [GameHub fixed its Silksong save game uploads and now I&amp;#8217;m playing across phone and PC](https://www.theverge.com/pc-gaming/777551/gamehub-fixed-its-silksong-save-game-uploads-and-now-im-playing-across-phone-and-pc)
+ - [Eden becomes the first Nintendo Switch emulator on the Google Play Store](https://www.androidauthority.com/play-store-first-nintendo-switch-emulator-3597451/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
