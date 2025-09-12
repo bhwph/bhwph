@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stellantis cancels Ram 1500 REV as electric truck demand dims](https://www.theverge.com/news/777574/stellantis-cancels-ram-1500-ev-ramcharger)
- - [GameHub fixed its Silksong save game uploads and now I&amp;#8217;m playing across phone and PC](https://www.theverge.com/pc-gaming/777551/gamehub-fixed-its-silksong-save-game-uploads-and-now-im-playing-across-phone-and-pc)
- - [Eden becomes the first Nintendo Switch emulator on the Google Play Store](https://www.androidauthority.com/play-store-first-nintendo-switch-emulator-3597451/)<!-- TECH:END -->
+ - [The WSJ carelessly spread anti-trans misinformation](https://www.theverge.com/politics/777630/wsj-trans-misinformation-charlie-kirk)
+ - [OpenAI unveils Grove, a five-week mentorship program for nascent tech entrepreneurs, hosted in its San Francisco HQ, with ~15 participants in its first cohort &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/250912/p26#a250912p26)
+ - [Congress Republicans want to target liberal donors after Charlie Kirk&amp;#8217;s death](https://www.theverge.com/policy/777615/republicans-radical-left-select-committee)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
