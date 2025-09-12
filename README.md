@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands 4 has a volume slider specifically for muting Claptrap—if you&#39;re a coward](https://www.pcgamer.com/games/fps/borderlands-4-has-a-volume-slider-specifically-for-muting-claptrap-if-youre-a-coward/)
- - [How to upgrade the needle in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-needle-upgrade-how-to/)
- - [As Call of Duty flips a U-turn on goofy skins, Battlefield 6 devs are making their stance clear from the start: &#39;We&#39;re not chasing trends. We&#39;re not chasing other products&#39;](https://www.pcgamer.com/games/fps/as-call-of-duty-flips-a-u-turn-on-goofy-skins-battlefield-6-devs-are-making-their-stance-clear-from-the-start-were-not-chasing-trends-were-not-chasing-other-products/)<!-- GAME:END -->
+ - [How to start Act 3 in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-act-3-requirements-silk-and-soul-how-to-start/)
+ - [Kotaku’s Weekend Guide: 5 Cool Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-borderlands-silksong-shadow-2000625508)
+ - [Borderlands 4 interactive map &lpar;BL4&rpar;](https://www.polygon.com/map/borderlands-4-interactive-map-full-kairos-bl4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
