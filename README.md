@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto could rollback one controversial change but introduce another &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-controversial-design-rollback-3597175/)
- - [These two HUAWEI excellent tablets nail the hardware, but they fall down on the usual problem](https://www.androidauthority.com/huawei-matepad-pro-matepad-2025-series-hands-on-3593896/)
- - [Asus gives its $4,000 creator laptop a 4K tandem OLED and RTX 5090](https://www.theverge.com/news/776667/asus-proart-p16-laptop-creators-nvidia-rtx-5090-4k-price-specs)<!-- TECH:END -->
+ - [&#39;Foundation&#39; dodges a Seldon Crisis with last-minute renewal](https://appleinsider.com/articles/25/09/12/foundation-dodges-a-seldon-crisis-with-last-minute-renewal?utm_source=rss)
+ - [The EU ends an antitrust probe against Microsoft with no fine and accepts its concessions, including offering Office without Teams in Europe for seven years &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250912/p7#a250912p7)
+ - [You shouldn’t buy the best Android phone](https://www.androidauthority.com/dont-buy-best-android-phone-3596657/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
