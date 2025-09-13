@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for September 13 &lpar;#1547&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-13-2025/)
  - [Hollow Knight: Silksong review](https://www.pcgamer.com/games/action/hollow-knight-silksong-review/)
- - [The Long Walk ending explained: What&#39;s actually real in the Stephen King movie](https://www.polygon.com/the-long-walk-ending-explained-breakdown-book-vs-film-comparison/)
- - [&#39;Players ended up just shooting Doritos&#39;: Battlefield 6 is toning down its aggressive ping ability after open beta feedback](https://www.pcgamer.com/games/fps/players-ended-up-just-shooting-doritos-battlefield-6-is-toning-down-its-aggressive-ping-ability-after-open-beta-feedback/)<!-- GAME:END -->
+ - [The Long Walk ending explained: What&#39;s actually real in the Stephen King movie](https://www.polygon.com/the-long-walk-ending-explained-breakdown-book-vs-film-comparison/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
