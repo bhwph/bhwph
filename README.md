@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They took a bribe from the Japanese tourist and within 24 hrs lost their jobs](http://9gag.com/gag/adBd4M2)
- - 😝 [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)
+ - 6️⃣ [A new home being built collapses during a storm near Houston, Texas](http://9gag.com/gag/azxBQGb)
+ - 😝 [Magnificent](http://9gag.com/gag/aQzrBQK)
  - 👉 [Our meme](http://9gag.com/gag/axyAQRK)<!-- MEMES:END -->
 
 --- 
