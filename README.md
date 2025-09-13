@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cook talks iPhone Air battery, glass investment in Corning factory visit](https://appleinsider.com/articles/25/09/13/cook-talks-iphone-air-battery-glass-investment-in-corning-factory-visit?utm_source=rss)
- - [This real-life Google hack on my Pixel is why I could never switch to an iPhone](https://www.androidauthority.com/circle-to-search-translation-travel-3596863/)
- - [Android’s version of Apple Health is in bad shape, but Google’s got a plan for change](https://www.androidauthority.com/authority-insights-podcast-005-3597154/)<!-- TECH:END -->
+ - [6 Best Digital Notebooks, Tablets, and Smart Pens &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
+ - [Adult Swim&amp;#8217;s new stop-motion series is a celebration of Latin American culture](https://www.theverge.com/tv/777484/women-wearing-shoulder-pads-interview)
+ - [A profile of Figure CEO Mike Cagney, now a billionaire after Figure&#39;s post-IPO surge; he resigned as SoFi&#39;s CEO in 2017 after several workplace controversies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250913/p7#a250913p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
