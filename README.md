@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to start Act 3 in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-act-3-requirements-silk-and-soul-how-to-start/)
- - [Kotaku’s Weekend Guide: 5 Cool Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-borderlands-silksong-shadow-2000625508)
- - [Borderlands 4 interactive map &lpar;BL4&rpar;](https://www.polygon.com/map/borderlands-4-interactive-map-full-kairos-bl4/)<!-- GAME:END -->
+ - [The Long Walk ending explained: What&#39;s actually real in the Stephen King movie](https://www.polygon.com/the-long-walk-ending-explained-breakdown-book-vs-film-comparison/)
+ - [&#39;Players ended up just shooting Doritos&#39;: Battlefield 6 is toning down its aggressive ping ability after open beta feedback](https://www.pcgamer.com/games/fps/players-ended-up-just-shooting-doritos-battlefield-6-is-toning-down-its-aggressive-ping-ability-after-open-beta-feedback/)
+ - [Furious Destiny 2 players accuse Bungie of secretly moving a stunning free armor set into the Eververse Store so players have to pay real money for it instead](https://www.pcgamer.com/games/fps/furious-players-accuse-bungie-of-secretly-moving-a-stunning-free-armor-set-into-the-eververse-store-so-players-have-to-pay-real-money-for-it-instead/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
