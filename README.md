@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Damn he must have a high salary](http://9gag.com/gag/apRdje5)
- - 😝 [My trusted companion](http://9gag.com/gag/aD2PNbO)
- - 👉 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)<!-- MEMES:END -->
+ - 6️⃣ [They took a bribe from the Japanese tourist and within 24 hrs lost their jobs](http://9gag.com/gag/adBd4M2)
+ - 😝 [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)
+ - 👉 [Our meme](http://9gag.com/gag/axyAQRK)<!-- MEMES:END -->
 
 --- 
 
