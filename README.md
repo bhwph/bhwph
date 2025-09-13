@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)
+ - 6️⃣ [They took a bribe from the Japanese tourist and within 24 hrs lost their jobs](http://9gag.com/gag/adBd4M2)
  - 😝 [Our meme](http://9gag.com/gag/axyAQRK)
- - 👉 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)<!-- MEMES:END -->
+ - 👉 [5000 days in 9gag! please upload your best cursed images, extra points if it&#39;s related to 9/11](http://9gag.com/gag/aNDqq4A)<!-- MEMES:END -->
 
 --- 
 
