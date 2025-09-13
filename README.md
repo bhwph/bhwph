@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)
- - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
+ - 6️⃣ [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
+ - 😝 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
  - 👉 [How I met your mother](http://9gag.com/gag/aAymL9Z)<!-- MEMES:END -->
 
 --- 
