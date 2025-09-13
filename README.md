@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Digital Notebooks, Tablets, and Smart Pens &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
- - [Adult Swim&amp;#8217;s new stop-motion series is a celebration of Latin American culture](https://www.theverge.com/tv/777484/women-wearing-shoulder-pads-interview)
- - [A profile of Figure CEO Mike Cagney, now a billionaire after Figure&#39;s post-IPO surge; he resigned as SoFi&#39;s CEO in 2017 after several workplace controversies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250913/p7#a250913p7)<!-- TECH:END -->
+ - [California passes SB 53, which requires AI companies to disclose their safety testing regimes; Newsom vetoed a similar though more expansive measure last year &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/250913/p11#a250913p11)
+ - [Nintendo Switch emulator Eden is now available on the Google Play Store &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/play-store-first-nintendo-switch-emulator-3597451/)
+ - [Time is running out to get half off a year of Paramount Plus](https://www.theverge.com/tech/777057/paramount-plus-baseus-dash-cam-solar-lego-earbuds-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
