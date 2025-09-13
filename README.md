@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beijing-based AIsphere, the startup behind the AI video generator PixVerse, raised a $60M Series B led by Alibaba, and says PixVerse has 100M+ users globally &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/250912/p29#a250912p29)
- - [The Anker SOLIX C1000 Gen 2 power station just launched and it’s $350 off!](https://www.androidauthority.com/anker-solix-c1000-gen-2-portable-power-station-deal-3597471/)
- - [Atolio, which is making a private AI-powered search tool for enterprises, raised a $24M Series A led by Translink Capital &lpar;FinSMEs&rpar;](http://www.techmeme.com/250912/p28#a250912p28)<!-- TECH:END -->
+ - [AI video generation startup Higgsfield raised a $50M Series A led by GFT Ventures &lpar;Amit Chowdhry/Pulse 2.0&rpar;](http://www.techmeme.com/250912/p31#a250912p31)
+ - [Copenhagen-based Teton.ai, which offers an AI companion to help nurses monitor patients and improve workflows, raised a $20M Series A led by Plural &lpar;Anthony Vecchione/Mobi Health News&rpar;](http://www.techmeme.com/250912/p30#a250912p30)
+ - [Beijing-based AIsphere, the startup behind the AI video generator PixVerse, raised a $60M Series B led by Alibaba, and says PixVerse has 100M+ users globally &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/250912/p29#a250912p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
