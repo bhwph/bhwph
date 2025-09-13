@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A new home being built collapses during a storm near Houston, Texas](http://9gag.com/gag/azxBQGb)
- - 😝 [Magnificent](http://9gag.com/gag/aQzrBQK)
- - 👉 [Our meme](http://9gag.com/gag/axyAQRK)<!-- MEMES:END -->
+ - 6️⃣ [Damn he must have a high salary](http://9gag.com/gag/apRdje5)
+ - 😝 [My trusted companion](http://9gag.com/gag/aD2PNbO)
+ - 👉 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)<!-- MEMES:END -->
 
 --- 
 
