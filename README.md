@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Exit 8 reivew: A creepy video game movie that could redefine the entire genre](https://www.polygon.com/exit-8-movie-review/)
- - [Life is Strange&#39;s TV adaptation needs to do right by Max and Chloe](https://www.polygon.com/life-is-strange-tv-adaptation-fan-debates-max-chloe/)
- - [Fallen Order and Jedi Survivor are just $25 bucks together on Steam right now, letting you become Cal Kestis on the cheap](https://www.pcgamer.com/games/fallen-order-and-jedi-survivor-are-just-usd25-bucks-together-on-steam-right-now-letting-you-become-cal-kestis-on-the-cheap/)<!-- GAME:END -->
+ - [Every Super Mario Game, Ranked From Worst To Best](https://kotaku.com/nintendo-switch-super-mario-bros-best-ranked-odyssey-1850286446)
+ - [Games like Hollow Knight Silksong: Try these 8 great Metroidvanias next](https://www.polygon.com/games-like-hollow-knight-silksong/)
+ - [A Silksong gumshoe meticulously pixel counted both games to directly compare the size of their worlds, and Pharloom looks twice as big as Hallownest](https://www.pcgamer.com/games/action/a-silksong-gumshoe-meticulously-pixel-counted-both-games-to-directly-compare-the-size-of-their-worlds-and-pharloom-looks-twice-as-big-as-hallownest/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
