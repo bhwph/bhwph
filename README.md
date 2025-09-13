@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best shows to binge-watch this weekend for free &lpar;Sept. 13-14&rpar;](https://www.polygon.com/best-shows-watch-free-binge-sept-13/)
- - [You&#39;re Wrong About $80 Games](https://www.polygon.com/video/are-80-dollar-games-anti-consumer/)
- - [Today&#39;s Wordle clues, hints and answer for September 13 &lpar;#1547&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-13-2025/)<!-- GAME:END -->
+ - [Star Trek: Strange New Worlds season 3 let its characters down](https://www.polygon.com/star-trek-strange-new-worlds-season-3-review/)
+ - [One of the best wargames on PC is currently 85% off](https://www.pcgamer.com/games/strategy/one-of-the-best-wargames-on-pc-is-currently-85-percent-off/)
+ - [This surprisingly great Arthurian Elder Scrolls clone just got a huge update that adds new game plus, extra dungeons, and tons more loot](https://www.pcgamer.com/games/rpg/this-surprisingly-great-arthurian-elder-scrolls-clone-just-got-a-huge-update-that-adds-new-game-plus-extra-dungeons-and-tons-more-loot/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
