@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Magnificent](http://9gag.com/gag/aQzrBQK)
- - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
- - 👉 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)<!-- MEMES:END -->
+ - 6️⃣ [Damn he must have a high salary](http://9gag.com/gag/apRdje5)
+ - 😝 [My trusted companion](http://9gag.com/gag/aD2PNbO)
+ - 👉 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)<!-- MEMES:END -->
 
 --- 
 
