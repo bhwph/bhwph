@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [California passes SB 53, which requires AI companies to disclose their safety testing regimes; Newsom vetoed a similar though more expansive measure last year &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/250913/p11#a250913p11)
- - [Nintendo Switch emulator Eden is now available on the Google Play Store &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/play-store-first-nintendo-switch-emulator-3597451/)
- - [Time is running out to get half off a year of Paramount Plus](https://www.theverge.com/tech/777057/paramount-plus-baseus-dash-cam-solar-lego-earbuds-deal-sale)<!-- TECH:END -->
+ - [Apple Watch Ultra 3 vs Apple Watch Ultra 2 -- Same body, better screen](https://appleinsider.com/inside/apple-watch-ultra-3/vs/apple-watch-ultra-3-vs-apple-watch-ultra-2----same-body-better-screen?utm_source=rss)
+ - [Mira Murati&#39;s TML launches a research blog called Connectionism, and shares its work on resolving nondeterminism and achieving reproducible results from LLMs &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250913/p15#a250913p15)
+ - [What to expect from the Meta Connect 2025 keynote on September 17 at 5pm PT: &quot;Hypernova&quot; smart glasses with a display, Meta AI and Llama updates, and more &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250913/p14#a250913p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
