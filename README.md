@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers say videos of Charlie Kirk&#39;s shooting fall into a policy gap on social media platforms, between allowable &quot;graphic content&quot; and &quot;glorified violence&quot; &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250913/p5#a250913p5)
- - [Source: Nvidia is scaling back DGX Cloud to primarily internal R&amp;D use; DGX Cloud was initially envisioned to compete with major cloud providers like AWS &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/250913/p4#a250913p4)
- - [Downloads of Jack Dorsey-backed Bluetooth P2P messaging app Bitchat spiked to 48K+ in Nepal during recent protests, according to Bitchat developer &quot;callebtc&quot; &lpar;Javier Bastardo/Forbes&rpar;](http://www.techmeme.com/250913/p3#a250913p3)<!-- TECH:END -->
+ - [Gemini Live is giving me the confidence to speak my second language](https://www.androidauthority.com/using-gemini-live-for-second-language-3596449/)
+ - [Gear News of the Week: Google’s Next-Gen Nest Cams Are Coming, and Sony Debuts a New Xperia Phone](https://www.wired.com/story/gear-news-of-the-week-googles-next-gen-nest-cams-are-coming-and-sony-debuts-a-new-xperia-phone/)
+ - [Gemini’s Nano Banana trimmed my beard and gave me a sunburn, but I still love it](https://www.androidauthority.com/google-nano-banana-hands-on-3596483/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
