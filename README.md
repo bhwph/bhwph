@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trek: Strange New Worlds season 3 let its characters down](https://www.polygon.com/star-trek-strange-new-worlds-season-3-review/)
- - [One of the best wargames on PC is currently 85% off](https://www.pcgamer.com/games/strategy/one-of-the-best-wargames-on-pc-is-currently-85-percent-off/)
- - [This surprisingly great Arthurian Elder Scrolls clone just got a huge update that adds new game plus, extra dungeons, and tons more loot](https://www.pcgamer.com/games/rpg/this-surprisingly-great-arthurian-elder-scrolls-clone-just-got-a-huge-update-that-adds-new-game-plus-extra-dungeons-and-tons-more-loot/)<!-- GAME:END -->
+ - [Before he became a Stephen King favorite, Mark Hamill gave a better character-actor performance in Brigsby Bear](https://www.polygon.com/mark-hamill-character-actor-stephen-king-brigsby-bear/)
+ - [Battlefield 6 Devs Struggled To Get It Running On Xbox Series S](https://kotaku.com/battlefield-6-devs-struggled-xbox-series-s-60-fps-switch-2-2000625487)
+ - [This physics platformer about a wiggly worm that travels into space has even got Tim Schafer excited: &#39;It looks super cute and fun&#39;](https://www.pcgamer.com/games/this-physics-platformer-about-a-wiggly-worm-that-travels-into-space-has-even-got-tim-schafer-excited-it-looks-super-cute-and-fun/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
