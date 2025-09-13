@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shares of transit software company Via closed at $49.51 in their NYSE debut, above the $46 IPO price, giving Via a market cap of ~$3.9B, after raising $492.9M &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250912/p32#a250912p32)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 13, #355](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-13-355/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Sept. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-sept-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: Nvidia is scaling back DGX Cloud to primarily internal R&amp;D use; DGX Cloud was initially envisioned to compete with major cloud providers like AWS &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/250913/p4#a250913p4)
+ - [Downloads of Jack Dorsey-backed Bluetooth P2P messaging app Bitchat spiked to 48K+ in Nepal during recent protests, according to Bitchat developer &quot;callebtc&quot; &lpar;Javier Bastardo/Forbes&rpar;](http://www.techmeme.com/250913/p3#a250913p3)
+ - [Internal email: xAI lays off hundreds of data annotation team staffers, following a strategic shift to prioritize specialist AI tutors over generalist roles &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/250913/p2#a250913p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
