@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The WSJ carelessly spread anti-trans misinformation](https://www.theverge.com/politics/777630/wsj-trans-misinformation-charlie-kirk)
- - [OpenAI unveils Grove, a five-week mentorship program for nascent tech entrepreneurs, hosted in its San Francisco HQ, with ~15 participants in its first cohort &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/250912/p26#a250912p26)
- - [Congress Republicans want to target liberal donors after Charlie Kirk&amp;#8217;s death](https://www.theverge.com/policy/777615/republicans-radical-left-select-committee)<!-- TECH:END -->
+ - [Beijing-based AIsphere, the startup behind the AI video generator PixVerse, raised a $60M Series B led by Alibaba, and says PixVerse has 100M+ users globally &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/250912/p29#a250912p29)
+ - [The Anker SOLIX C1000 Gen 2 power station just launched and it’s $350 off!](https://www.androidauthority.com/anker-solix-c1000-gen-2-portable-power-station-deal-3597471/)
+ - [Atolio, which is making a private AI-powered search tool for enterprises, raised a $24M Series A led by Translink Capital &lpar;FinSMEs&rpar;](http://www.techmeme.com/250912/p28#a250912p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
