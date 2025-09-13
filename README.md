@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Before he became a Stephen King favorite, Mark Hamill gave a better character-actor performance in Brigsby Bear](https://www.polygon.com/mark-hamill-character-actor-stephen-king-brigsby-bear/)
- - [Battlefield 6 Devs Struggled To Get It Running On Xbox Series S](https://kotaku.com/battlefield-6-devs-struggled-xbox-series-s-60-fps-switch-2-2000625487)
- - [This physics platformer about a wiggly worm that travels into space has even got Tim Schafer excited: &#39;It looks super cute and fun&#39;](https://www.pcgamer.com/games/this-physics-platformer-about-a-wiggly-worm-that-travels-into-space-has-even-got-tim-schafer-excited-it-looks-super-cute-and-fun/)<!-- GAME:END -->
+ - [PS1 at 30: PlayStation&#39;s first generation embraced the weird](https://www.polygon.com/playstation-ps1-30th-anniversary-na/)
+ - [The only good Postal game is a spinoff expressionist boomer shooter that takes place entirely in the protagonist&#39;s depraved mind](https://www.pcgamer.com/games/fps/the-only-good-postal-game-is-a-spinoff-expressionist-boomer-shooter-that-takes-place-entirely-in-the-protagonists-depraved-mind/)
+ - [What&#39;s happening with the Homestuck pilot?](https://www.polygon.com/video/homestuck-pilot-animated-series-vivienne-medrano/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
