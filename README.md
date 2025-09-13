@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lila Sciences, which uses AI to develop novel drugs and materials, raised $235M at a ~$1.23B valuation, after coming out of stealth in March with a $200M seed &lpar;Brian Kahn/Bloomberg&rpar;](http://www.techmeme.com/250913/p18#a250913p18)
- - [Pick up Apple&#39;s M4 Mac mini for $499, plus save up to $200 on upgraded models](https://appleinsider.com/articles/25/09/13/pick-up-apples-m4-mac-mini-for-499-plus-save-up-to-200-on-upgraded-models?utm_source=rss)
- - [JD.com: sales of the iPhone 17 series in the first minute after pre-orders opened in China surpassed the first-day pre-order volume of 2024&#39;s iPhone 16 series &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250913/p17#a250913p17)<!-- TECH:END -->
+ - [Hike, which was valued at $1.4B in 2016 and has since pivoted from a messaging app to a real-money gaming app, shuts down following India&#39;s ban on such apps &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250913/p20#a250913p20)
+ - [Penske Media sues Google, says ~20% of Google search results linking to its sites now include AI Overviews, and affiliate link revenue fell 33%+ since late 2024 &lpar;Ben Fritz/Wall Street Journal&rpar;](http://www.techmeme.com/250913/p19#a250913p19)
+ - [Lila Sciences, which uses AI to develop novel drugs and materials, raised $235M at a ~$1.23B valuation, after coming out of stealth in March with a $200M seed &lpar;Brian Kahn/Bloomberg&rpar;](http://www.techmeme.com/250913/p18#a250913p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
