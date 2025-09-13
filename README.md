@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Damn he must have a high salary](http://9gag.com/gag/apRdje5)
- - 😝 [My trusted companion](http://9gag.com/gag/aD2PNbO)
- - 👉 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)<!-- MEMES:END -->
+ - 6️⃣ [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
+ - 😝 [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)
+ - 👉 [Rooftop/parking lot cam](http://9gag.com/gag/abAdmBX)<!-- MEMES:END -->
 
 --- 
 
