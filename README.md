@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PS1 at 30: PlayStation&#39;s first generation embraced the weird](https://www.polygon.com/playstation-ps1-30th-anniversary-na/)
- - [The only good Postal game is a spinoff expressionist boomer shooter that takes place entirely in the protagonist&#39;s depraved mind](https://www.pcgamer.com/games/fps/the-only-good-postal-game-is-a-spinoff-expressionist-boomer-shooter-that-takes-place-entirely-in-the-protagonists-depraved-mind/)
- - [What&#39;s happening with the Homestuck pilot?](https://www.polygon.com/video/homestuck-pilot-animated-series-vivienne-medrano/)<!-- GAME:END -->
+ - [Exit 8 reivew: A creepy video game movie that could redefine the entire genre](https://www.polygon.com/exit-8-movie-review/)
+ - [Life is Strange&#39;s TV adaptation needs to do right by Max and Chloe](https://www.polygon.com/life-is-strange-tv-adaptation-fan-debates-max-chloe/)
+ - [Fallen Order and Jedi Survivor are just $25 bucks together on Steam right now, letting you become Cal Kestis on the cheap](https://www.pcgamer.com/games/fallen-order-and-jedi-survivor-are-just-usd25-bucks-together-on-steam-right-now-letting-you-become-cal-kestis-on-the-cheap/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
