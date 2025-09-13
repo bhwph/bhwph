@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Live is giving me the confidence to speak my second language](https://www.androidauthority.com/using-gemini-live-for-second-language-3596449/)
- - [Gear News of the Week: Google’s Next-Gen Nest Cams Are Coming, and Sony Debuts a New Xperia Phone](https://www.wired.com/story/gear-news-of-the-week-googles-next-gen-nest-cams-are-coming-and-sony-debuts-a-new-xperia-phone/)
- - [Gemini’s Nano Banana trimmed my beard and gave me a sunburn, but I still love it](https://www.androidauthority.com/google-nano-banana-hands-on-3596483/)<!-- TECH:END -->
+ - [Cook talks iPhone Air battery, glass investment in Corning factory visit](https://appleinsider.com/articles/25/09/13/cook-talks-iphone-air-battery-glass-investment-in-corning-factory-visit?utm_source=rss)
+ - [This real-life Google hack on my Pixel is why I could never switch to an iPhone](https://www.androidauthority.com/circle-to-search-translation-travel-3596863/)
+ - [Android’s version of Apple Health is in bad shape, but Google’s got a plan for change](https://www.androidauthority.com/authority-insights-podcast-005-3597154/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
