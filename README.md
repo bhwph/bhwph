@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Super Mario Game, Ranked From Worst To Best](https://kotaku.com/nintendo-switch-super-mario-bros-best-ranked-odyssey-1850286446)
- - [Games like Hollow Knight Silksong: Try these 8 great Metroidvanias next](https://www.polygon.com/games-like-hollow-knight-silksong/)
- - [A Silksong gumshoe meticulously pixel counted both games to directly compare the size of their worlds, and Pharloom looks twice as big as Hallownest](https://www.pcgamer.com/games/action/a-silksong-gumshoe-meticulously-pixel-counted-both-games-to-directly-compare-the-size-of-their-worlds-and-pharloom-looks-twice-as-big-as-hallownest/)<!-- GAME:END -->
+ - [Final Fantasy composer shares concern about &#39;stagnation&#39; in game music: &#39;Frankly speaking, there’s less weird things now&#39;](https://www.pcgamer.com/gaming-industry/final-fantasy-composer-shares-concern-about-stagnation-in-game-music-frankly-speaking-theres-less-weird-things-now/)
+ - [Blood Bowl 3 has vampires now, and Eternal League continues improving](https://www.pcgamer.com/games/board-games/blood-bowl-3-has-vampires-now-and-eternal-league-continues-improving/)
+ - [The BioShock movie is still in the works, but scheduling conflicts mean it likely can&#39;t come out before 2027, maybe even later](https://www.pcgamer.com/games/the-bioshock-movie-is-still-in-the-works-but-scheduling-conflicts-mean-it-likely-cant-come-out-before-2027-maybe-even-later/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
