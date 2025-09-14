@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Bret Taylor, CEO of Sierra and chairman of OpenAI, on Sierra&#39;s AI customer support agents, AGI, Sam Altman&#39;s comments on the AI bubble, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250914/p7#a250914p7)
- - [Can Wear OS watches please adopt blood pressure monitoring now?](https://www.androidauthority.com/i-want-blood-pressure-monitoring-on-wear-os-3596431/)
- - [7 launchers you should use instead of Nova Launcher](https://www.androidauthority.com/nova-launcher-alternatives-3597206/)<!-- TECH:END -->
+ - [i.AI, a UK government unit offering a median salary of £67K to develop tools to improve civil service efficiency, is struggling to attract top talent &lpar;Ramsay Hodgson/Financial Times&rpar;](http://www.techmeme.com/250914/p8#a250914p8)
+ - [Whats next for Apple - M5 iPad Pro, new Apple TV, AirTag 2, and more](https://appleinsider.com/articles/25/09/10/iphone-17-is-just-the-start-apples-busiest-upgrade-wave-in-years-has-just-begun?utm_source=rss)
+ - [This app takes my Nothing Phone’s Glyph lights to the next level](https://www.androidauthority.com/nothing-phone-glyphify-3596711/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
