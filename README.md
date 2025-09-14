@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you can&#39;t get enough of precious Sherma in Silksong, a true Shermaniac uploaded a 10-hour cut of his sweet little song](https://www.pcgamer.com/games/action/if-you-cant-get-enough-of-precious-sherma-in-silksong-a-true-shermaniac-uploaded-a-10-hour-cut-of-his-sweet-little-song/)
- - [Jackie Chan Adventures at 25: The most action-packed Kids WB show still holds up](https://www.polygon.com/jackie-chan-adventures-cartoon-25th-anniversary-tubi/)
- - [Conan O&#39;Brien played Borderlands 4 for charity, but somebody should have told him about the Claptrap mute button: &#39;He&#39;s my least favorite trash can&#39;](https://www.pcgamer.com/games/fps/conan-obrien-played-borderlands-4-for-charity-but-somebody-should-have-told-him-about-the-claptrap-mute-button-hes-my-least-favorite-trash-can/)<!-- GAME:END -->
+ - [It only took a week for the ultimate Silksong sicko to beat every boss in the game without getting hit](https://www.pcgamer.com/games/action/it-only-took-a-week-for-the-ultimate-silksong-sicko-to-beat-every-boss-in-the-game-without-getting-hit/)
+ - [Netflix released another Witcher teaser showing off Liam Hemsworth as Geralt, and I gotta say I was pleasantly surprised](https://www.pcgamer.com/games/the-witcher/netflix-released-another-witcher-teaser-showing-off-liam-hemsworth-as-geralt-and-i-gotta-say-i-was-pleasantly-surprised/)
+ - [In a week dominated by Silksong and Borderlands, co-op roguelike Shape of Dreams still managed to launch on Steam as an instant top-seller](https://www.pcgamer.com/games/in-a-week-dominated-by-silksong-and-borderlands-co-op-roguelike-shape-of-dreams-still-managed-to-launch-on-steam-as-an-instant-top-seller/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
