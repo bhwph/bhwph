@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How thousands of small-scale farmers in Malawi are using a government-backed AI chatbot, designed by the nonprofit Opportunity International, for farming advice &lpar;Gregory Gondwe/Associated Press&rpar;](http://www.techmeme.com/250914/p6#a250914p6)
- - [6 Best Sex Machines for Solo, Couple, or Long-Distance Playtime &lpar;2025&rpar;](https://www.wired.com/gallery/best-sex-machines/)
- - [An interview with Eliezer Yudkowsky, one of the first people to warn of AI risks, on AI benefits, using violence to stop AI, Rationalism, his new book, and more &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250914/p5#a250914p5)<!-- TECH:END -->
+ - [Q&amp;A with Bret Taylor, CEO of Sierra and chairman of OpenAI, on Sierra&#39;s AI customer support agents, AGI, Sam Altman&#39;s comments on the AI bubble, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250914/p7#a250914p7)
+ - [Can Wear OS watches please adopt blood pressure monitoring now?](https://www.androidauthority.com/i-want-blood-pressure-monitoring-on-wear-os-3596431/)
+ - [7 launchers you should use instead of Nova Launcher](https://www.androidauthority.com/nova-launcher-alternatives-3597206/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
