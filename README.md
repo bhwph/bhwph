@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They age diffently than men.....](http://9gag.com/gag/aLnb30z)
- - 😝 [Member Friday? You\u2019re welcome lol](http://9gag.com/gag/aD2Pr3d)
- - 👉 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)<!-- MEMES:END -->
+ - 6️⃣ [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
+ - 😝 [The Fascinating Anatomy Of Conjoined Sisters](http://9gag.com/gag/a2vx9ZZ)
+ - 👉 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)<!-- MEMES:END -->
 
 --- 
 
