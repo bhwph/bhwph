@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Eliezer Yudkowsky, one of the first people to warn of AI risks, on AI benefits, using violence to stop AI, Rationalism, his new book, and more &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250914/p5#a250914p5)
- - [Nearly all funding for AI safety research comes from Silicon Valley companies racing to develop AI, as the voices of AI &quot;doomers&quot; fade in prominence &lpar;Peter Guest/Bloomberg&rpar;](http://www.techmeme.com/250914/p4#a250914p4)
- - [Google releases VaultGemma, a 1B-parameter model it says is the largest open LLM trained from scratch with differential privacy, on Hugging Face and Kaggle &lpar;Google Research&rpar;](http://www.techmeme.com/250914/p3#a250914p3)<!-- TECH:END -->
+ - [How thousands of small-scale farmers in Malawi are using a government-backed AI chatbot, designed by the nonprofit Opportunity International, for farming advice &lpar;Gregory Gondwe/Associated Press&rpar;](http://www.techmeme.com/250914/p6#a250914p6)
+ - [6 Best Sex Machines for Solo, Couple, or Long-Distance Playtime &lpar;2025&rpar;](https://www.wired.com/gallery/best-sex-machines/)
+ - [An interview with Eliezer Yudkowsky, one of the first people to warn of AI risks, on AI benefits, using violence to stop AI, Rationalism, his new book, and more &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250914/p5#a250914p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
