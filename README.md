@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy composer shares concern about &#39;stagnation&#39; in game music: &#39;Frankly speaking, there’s less weird things now&#39;](https://www.pcgamer.com/gaming-industry/final-fantasy-composer-shares-concern-about-stagnation-in-game-music-frankly-speaking-theres-less-weird-things-now/)
- - [Blood Bowl 3 has vampires now, and Eternal League continues improving](https://www.pcgamer.com/games/board-games/blood-bowl-3-has-vampires-now-and-eternal-league-continues-improving/)
- - [The BioShock movie is still in the works, but scheduling conflicts mean it likely can&#39;t come out before 2027, maybe even later](https://www.pcgamer.com/games/the-bioshock-movie-is-still-in-the-works-but-scheduling-conflicts-mean-it-likely-cant-come-out-before-2027-maybe-even-later/)<!-- GAME:END -->
+ - [Witcher season 4 trailer puts Liam Hemsworth&#39;s Geralt in action](https://www.polygon.com/witcher-season-4-trailer-liam-hemsworth-geralt-cavill/)
+ - [The Danganronpa 2 remaster also includes a remake or maybe a stealth-sequel, honestly it&#39;s hard to tell](https://www.pcgamer.com/games/visual-novel/the-danganronpa-2-remaster-also-includes-a-remake-or-maybe-a-stealth-sequel-honestly-its-hard-to-tell/)
+ - [Pokémon Go Flabébé Community Day guide](https://www.polygon.com/pokemon-go-flabebe-community-day-shiny-florges-moveset/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
