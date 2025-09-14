@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Under-display Face ID still a possibility for the iPhone 18](https://appleinsider.com/articles/25/09/14/under-display-face-id-still-a-possibility-for-the-iphone-18?utm_source=rss)
- - [11 Best Protein Powders, According to Years of Testing &lpar;2025&rpar;](https://www.wired.com/gallery/best-protein-powders/)
- - [Scarlet turns Shakespeare into an animated fantasy epic](https://www.theverge.com/toronto-international-film-festival/777609/tiff-2025-reviews-scarlet-project-y-sentimental-value)<!-- TECH:END -->
+ - [tvOS 26 review: High on polish, light on new features for Apple TV](https://appleinsider.com/articles/25/09/14/tvos-26-review-high-on-polish-light-on-new-features-for-apple-tv?utm_source=rss)
+ - [AirPods, AirPods Pro, or AirPods Max - Fall 2025 AirPods buyer&#39;s guide](https://appleinsider.com/articles/25/09/14/airpods-airpods-pro-or-airpods-max---fall-2025-airpods-buyers-guide?utm_source=rss)
+ - [World Liberty Financial blocking Justin Sun&#39;s wallet contrasts with the Trump sons&#39; complaints about being &quot;debanked&quot;, the issue they said inspired the project &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250914/p10#a250914p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
