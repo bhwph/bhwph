@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hike, which was valued at $1.4B in 2016 and has since pivoted from a messaging app to a real-money gaming app, shuts down following India&#39;s ban on such apps &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250913/p20#a250913p20)
- - [Penske Media sues Google, says ~20% of Google search results linking to its sites now include AI Overviews, and affiliate link revenue fell 33%+ since late 2024 &lpar;Ben Fritz/Wall Street Journal&rpar;](http://www.techmeme.com/250913/p19#a250913p19)
- - [Lila Sciences, which uses AI to develop novel drugs and materials, raised $235M at a ~$1.23B valuation, after coming out of stealth in March with a $200M seed &lpar;Brian Kahn/Bloomberg&rpar;](http://www.techmeme.com/250913/p18#a250913p18)<!-- TECH:END -->
+ - [Liam Hemsworth is Geralt in the first Witcher season 4 trailer](https://www.theverge.com/netflix/777590/the-witcher-netflix-season-4-trailer-release-date-liam-hemsworth)
+ - [Watchdogs say fraudsters are extorting small businesses for hundreds of dollars each by posting or threatening to post phony one-star reviews on Google Maps &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/250913/p22#a250913p22)
+ - [US salaries for key stablecoin roles are rising as a skills shortage meets a potentially immense market opportunity, putting upward pressure on pay &lpar;Bloomberg&rpar;](http://www.techmeme.com/250913/p21#a250913p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
