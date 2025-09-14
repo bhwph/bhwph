@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bird catcher spectacularrrrr](http://9gag.com/gag/a0exG0q)
- - 😝 [The brave Heart](http://9gag.com/gag/ae9dEO5)
- - 👉 [First rule in a haunted house. never let go of the hand. Second rule in group escape: NEVER LET GO OF THE HAND!!!](http://9gag.com/gag/aW4dAZ6)<!-- MEMES:END -->
+ - 6️⃣ [Our meme](http://9gag.com/gag/axyAQRK)
+ - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
 
 --- 
 
