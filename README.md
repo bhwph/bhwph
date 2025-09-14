@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Witcher season 4 trailer puts Liam Hemsworth&#39;s Geralt in action](https://www.polygon.com/witcher-season-4-trailer-liam-hemsworth-geralt-cavill/)
- - [The Danganronpa 2 remaster also includes a remake or maybe a stealth-sequel, honestly it&#39;s hard to tell](https://www.pcgamer.com/games/visual-novel/the-danganronpa-2-remaster-also-includes-a-remake-or-maybe-a-stealth-sequel-honestly-its-hard-to-tell/)
- - [Pokémon Go Flabébé Community Day guide](https://www.polygon.com/pokemon-go-flabebe-community-day-shiny-florges-moveset/)<!-- GAME:END -->
+ - [Fatal Frame 2: Crimson Butterfly, which is apparently the good one, is getting remade and coming to PC](https://www.pcgamer.com/games/horror/fatal-frame-2-crimson-butterfly-which-is-apparently-the-good-one-is-getting-remade-and-coming-to-pc/)
+ - [Witcher season 4 trailer puts Liam Hemsworth&#39;s Geralt into action](https://www.polygon.com/witcher-season-4-trailer-liam-hemsworth-geralt-cavill/)
+ - [The Danganronpa 2 remaster also includes a remake or maybe a stealth-sequel, honestly it&#39;s hard to tell](https://www.pcgamer.com/games/visual-novel/the-danganronpa-2-remaster-also-includes-a-remake-or-maybe-a-stealth-sequel-honestly-its-hard-to-tell/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
