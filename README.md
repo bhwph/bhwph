@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [First rule in a haunted house. never let go of the hand. Second rule in group escape: NEVER LET GO OF THE HAND!!!](http://9gag.com/gag/aW4dAZ6)
- - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
- - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
+ - 6️⃣ [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 😝 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
+ - 👉 [How I met your mother](http://9gag.com/gag/aAymL9Z)<!-- MEMES:END -->
 
 --- 
 
