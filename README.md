@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Malaysia reins in data center expansion amid power and water shortages, hindering Chinese companies that use the region as a backdoor to access US-made AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/250913/p23#a250913p23)
  - [Liam Hemsworth is Geralt in the first Witcher season 4 trailer](https://www.theverge.com/netflix/777590/the-witcher-netflix-season-4-trailer-release-date-liam-hemsworth)
- - [Watchdogs say fraudsters are extorting small businesses for hundreds of dollars each by posting or threatening to post phony one-star reviews on Google Maps &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/250913/p22#a250913p22)
- - [US salaries for key stablecoin roles are rising as a skills shortage meets a potentially immense market opportunity, putting upward pressure on pay &lpar;Bloomberg&rpar;](http://www.techmeme.com/250913/p21#a250913p21)<!-- TECH:END -->
+ - [Watchdogs say fraudsters are extorting small businesses for hundreds of dollars each by posting or threatening to post phony one-star reviews on Google Maps &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/250913/p22#a250913p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
