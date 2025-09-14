@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This one hit me](http://9gag.com/gag/an7d8G5)
- - 😝 [Massive protest in London](http://9gag.com/gag/ae9dEgO)
- - 👉 [Not even a 10% of his determination nor skill i am have is](http://9gag.com/gag/aByvbyP)<!-- MEMES:END -->
+ - 6️⃣ [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
+ - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 👉 [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)<!-- MEMES:END -->
 
 --- 
 
