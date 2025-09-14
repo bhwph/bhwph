@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Our meme](http://9gag.com/gag/axyAQRK)
- - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 6️⃣ [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
+ - 😝 [Our meme](http://9gag.com/gag/axyAQRK)
  - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
 
 --- 
