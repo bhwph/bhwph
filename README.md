@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s Gemini app is the #1 app in the US App Store, driven by its Nano Banana model, which has been used to edit 500M+ images since its August 26 launch &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250914/p11#a250914p11)
- - [Panthers vs. Cardinals Livestream: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/panthers-vs-cardinals-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)
- - [Broncos vs. Colts Livestream: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/broncos-vs-colts-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Coinbase is navigating the easing regulatory environment, increasing acceptance of crypto in the financial system, and intensifying competition &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/250914/p12#a250914p12)
+ - [Hands on: Apple&#39;s new 60W charger is all but needed for iPhone 17 fast charging](https://appleinsider.com/articles/25/09/14/hands-on-apples-new-60w-charger-is-all-but-needed-for-iphone-17-fast-charging?utm_source=rss)
+ - [Daily Mail cries to regulators about UK Apple News block](https://appleinsider.com/articles/25/09/14/newspaper-says-its-blocked-from-apple-news-uk?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
