@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Are Zelda and Link Dating??](https://www.polygon.com/video/are-zelda-and-link-dating/)
- - [Weapons, Honey Don&#39;t, and every new movie on streaming this week](https://www.polygon.com/new-movies-on-streaming-weapons-honey-dont-shadow-force/)
- - [Today&#39;s Wordle clues, hints and answer for September 14 &lpar;#1548&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-14-2025/)<!-- GAME:END -->
+ - [If you can&#39;t get enough of precious Sherma in Silksong, a true Shermaniac uploaded a 10-hour cut of his sweet little song](https://www.pcgamer.com/games/action/if-you-cant-get-enough-of-precious-sherma-in-silksong-a-true-shermaniac-uploaded-a-10-hour-cut-of-his-sweet-little-song/)
+ - [Jackie Chan Adventures at 25: The most action-packed Kids WB show still holds up](https://www.polygon.com/jackie-chan-adventures-cartoon-25th-anniversary-tubi/)
+ - [Conan O&#39;Brien played Borderlands 4 for charity, but somebody should have told him about the Claptrap mute button: &#39;He&#39;s my least favorite trash can&#39;](https://www.pcgamer.com/games/fps/conan-obrien-played-borderlands-4-for-charity-but-somebody-should-have-told-him-about-the-claptrap-mute-button-hes-my-least-favorite-trash-can/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
