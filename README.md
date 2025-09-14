@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [i.AI, a UK government unit offering a median salary of £67K to develop tools to improve civil service efficiency, is struggling to attract top talent &lpar;Ramsay Hodgson/Financial Times&rpar;](http://www.techmeme.com/250914/p8#a250914p8)
- - [Whats next for Apple - M5 iPad Pro, new Apple TV, AirTag 2, and more](https://appleinsider.com/articles/25/09/10/iphone-17-is-just-the-start-apples-busiest-upgrade-wave-in-years-has-just-begun?utm_source=rss)
- - [This app takes my Nothing Phone’s Glyph lights to the next level](https://www.androidauthority.com/nothing-phone-glyphify-3596711/)<!-- TECH:END -->
+ - [Under-display Face ID still a possibility for the iPhone 18](https://appleinsider.com/articles/25/09/14/under-display-face-id-still-a-possibility-for-the-iphone-18?utm_source=rss)
+ - [11 Best Protein Powders, According to Years of Testing &lpar;2025&rpar;](https://www.wired.com/gallery/best-protein-powders/)
+ - [Scarlet turns Shakespeare into an animated fantasy epic](https://www.theverge.com/toronto-international-film-festival/777609/tiff-2025-reviews-scarlet-project-y-sentimental-value)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
