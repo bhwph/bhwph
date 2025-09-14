@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Malaysia reins in data center expansion amid power and water shortages, hindering Chinese companies that use the region as a backdoor to access US-made AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/250913/p23#a250913p23)
- - [Liam Hemsworth is Geralt in the first Witcher season 4 trailer](https://www.theverge.com/netflix/777590/the-witcher-netflix-season-4-trailer-release-date-liam-hemsworth)
- - [Watchdogs say fraudsters are extorting small businesses for hundreds of dollars each by posting or threatening to post phony one-star reviews on Google Maps &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/250913/p22#a250913p22)<!-- TECH:END -->
+ - [An interview with Eliezer Yudkowsky, one of the first people to warn of AI risks, on AI benefits, using violence to stop AI, Rationalism, his new book, and more &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250914/p5#a250914p5)
+ - [Nearly all funding for AI safety research comes from Silicon Valley companies racing to develop AI, as the voices of AI &quot;doomers&quot; fade in prominence &lpar;Peter Guest/Bloomberg&rpar;](http://www.techmeme.com/250914/p4#a250914p4)
+ - [Google releases VaultGemma, a 1B-parameter model it says is the largest open LLM trained from scratch with differential privacy, on Hugging Face and Kaggle &lpar;Google Research&rpar;](http://www.techmeme.com/250914/p3#a250914p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
