@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)
- - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
- - 👉 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)<!-- MEMES:END -->
+ - 6️⃣ [They age diffently than men.....](http://9gag.com/gag/aLnb30z)
+ - 😝 [Member Friday? You\u2019re welcome lol](http://9gag.com/gag/aD2Pr3d)
+ - 👉 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)<!-- MEMES:END -->
 
 --- 
 
