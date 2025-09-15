@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It only took a week for the ultimate Silksong sicko to beat every boss in the game without getting hit](https://www.pcgamer.com/games/action/it-only-took-a-week-for-the-ultimate-silksong-sicko-to-beat-every-boss-in-the-game-without-getting-hit/)
- - [Netflix released another Witcher teaser showing off Liam Hemsworth as Geralt, and I gotta say I was pleasantly surprised](https://www.pcgamer.com/games/the-witcher/netflix-released-another-witcher-teaser-showing-off-liam-hemsworth-as-geralt-and-i-gotta-say-i-was-pleasantly-surprised/)
- - [In a week dominated by Silksong and Borderlands, co-op roguelike Shape of Dreams still managed to launch on Steam as an instant top-seller](https://www.pcgamer.com/games/in-a-week-dominated-by-silksong-and-borderlands-co-op-roguelike-shape-of-dreams-still-managed-to-launch-on-steam-as-an-instant-top-seller/)<!-- GAME:END -->
+ - [&#39;Because no one was paying attention we could just put anything into the game,&#39; says the writer responsible for sneaking The Lusty Argonian Maid into Morrowind](https://www.pcgamer.com/games/rpg/because-no-one-was-paying-attention-we-could-just-put-anything-into-the-game-says-the-writer-responsible-for-sneaking-the-lusty-argonian-maid-into-morrowind/)
+ - [Five new Steam games you probably missed &lpar;September 15, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-15-2025/)
+ - [Saints Row 2&#39;s Juiced Patch makes the PC port so much better it&#39;s criminal](https://www.pcgamer.com/games/action/saints-row-2s-juiced-patch-makes-the-pc-port-so-much-better-its-criminal/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
