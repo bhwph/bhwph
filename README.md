@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple AirPods Pro 3 review: significantly better fit, sound quality, noise cancellation, and battery life, but heart-rate monitoring is buried in fitness apps &lpar;David Carnoy/CNET&rpar;](http://www.techmeme.com/250915/p10#a250915p10)
- - [iPhone 17 Pro is top seller but questions over iPhone Air linger](https://appleinsider.com/articles/25/09/15/iphone-17-pro-is-top-seller-but-questions-over-iphone-air-linger?utm_source=rss)
- - [Android’s 200MP camera club is getting bigger and better](https://www.androidauthority.com/android-200mp-oppo-find-x9-pro-telephoto-3597664/)<!-- TECH:END -->
+ - [Gemini’s improved home screen is coming soon, and it could get new tweaks &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-gemini-home-screen-ui-change-3596103/)
+ - [iPhone Air vs iPhone 17 Pro -- Style versus function](https://appleinsider.com/inside/iphone-air/vs/iphone-air-vs-iphone-17-pro----style-versus-function?utm_source=rss)
+ - [Spotify adds new features for free users globally, allowing them to search for and play any song they want; the company reported 433M ad-supported MAUs in Q2 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250915/p16#a250915p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
