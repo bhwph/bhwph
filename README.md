@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan is becoming a test bed for whether logistics companies can overcome labor shortages, as the aging country lags behind US and China in logistics automation &lpar;Harry Dempsey/Financial Times&rpar;](http://www.techmeme.com/250914/p15#a250914p15)
- - [How Hangzhou, home to DeepSeek and Alibaba, became China&#39;s AI hub as the government builds a Silicon Valley-inspired innovation corridor in the city&#39;s west &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250914/p14#a250914p14)
- - [An interview with Goldman Sachs partner Kerry Blum on how the company&#39;s ~46,000 employees are using GenAI-powered GS AI Assistant and the risks of over-reliance &lpar;Joshua Franklin/Financial Times&rpar;](http://www.techmeme.com/250914/p13#a250914p13)<!-- TECH:END -->
+ - [Amazon&#39;s $799 M4 MacBook Air deal is back, plus save up to $500 on upgraded models](https://appleinsider.com/articles/25/09/15/amazons-799-m4-macbook-air-deal-is-back-plus-save-up-to-500-on-upgraded-models?utm_source=rss)
+ - [Google’s 27th birthday bash comes with Pixel freebies and big discounts](https://www.androidauthority.com/google-store-birthday-pixel-deals-3597529/)
+ - [The AI revolution has more in common with shipping containerization than the boom unleashed by the microprocessor: diffuse global benefits but few new fortunes &lpar;Jerry Neumann/Colossus&rpar;](http://www.techmeme.com/250914/p16#a250914p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
