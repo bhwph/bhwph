@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Turn Your Old Tech Into Art—Now With a 20% Discount](https://www.wired.com/story/grid-studio-5-anniversary-sale/)
- - [macOS 26 Tahoe review: Liquid Glass has small regressions in usability and accessibility but the upgrade has enough iterative changes like automated Shortcuts &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250915/p29#a250915p29)
- - [If you were running betas, you may need to turn that off to get the updates](https://appleinsider.com/inside/ios-26/tips/if-you-were-running-betas-you-may-need-to-turn-that-off-to-get-the-updates?utm_source=rss)<!-- TECH:END -->
+ - [Free Spotify users can now pick songs, but of course there’s a catch](https://www.androidauthority.com/spotify-pick-and-play-3597878/)
+ - [Apple has finally explained why battery life can be different after an OS update](https://appleinsider.com/articles/25/09/15/apple-has-finally-explained-why-battery-life-can-be-different-after-an-os-update?utm_source=rss)
+ - [A now-removed unlisted video on Meta&#39;s YouTube channel shows Meta Ray-Ban glasses with a HUD shown to one eye, used for Meta AI and on-foot navigation &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250915/p30#a250915p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
