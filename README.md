@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Goldman Sachs partner Kerry Blum on how the company&#39;s ~46,000 employees are using GenAI-powered GS AI Assistant and the risks of over-reliance &lpar;Joshua Franklin/Financial Times&rpar;](http://www.techmeme.com/250914/p13#a250914p13)
- - [Sunday Night Football: How to Watch Falcons vs. Vikings Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-falcons-vs-vikings-tonight/#ftag=CAD590a51e)
- - [How Coinbase is navigating the easing regulatory environment, increasing acceptance of crypto in the financial system, and intensifying competition &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/250914/p12#a250914p12)<!-- TECH:END -->
+ - [Japan is becoming a test bed for whether logistics companies can overcome labor shortages, as the aging country lags behind US and China in logistics automation &lpar;Harry Dempsey/Financial Times&rpar;](http://www.techmeme.com/250914/p15#a250914p15)
+ - [How Hangzhou, home to DeepSeek and Alibaba, became China&#39;s AI hub as the government builds a Silicon Valley-inspired innovation corridor in the city&#39;s west &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250914/p14#a250914p14)
+ - [An interview with Goldman Sachs partner Kerry Blum on how the company&#39;s ~46,000 employees are using GenAI-powered GS AI Assistant and the risks of over-reliance &lpar;Joshua Franklin/Financial Times&rpar;](http://www.techmeme.com/250914/p13#a250914p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
