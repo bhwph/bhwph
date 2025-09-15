@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is changing how Xbox controllers work on Windows 11](https://www.theverge.com/news/777898/microsoft-xbox-controller-changes-windows-11)
- - [An Anthropic report details how Claude usage varies by country and US states, finding 36% use it for coding, 77% of enterprise use is for automation, and more &lpar;Anthropic&rpar;](http://www.techmeme.com/250915/p4#a250915p4)
- - [The Pixel 10 made me fall back in love with small phones](https://www.androidauthority.com/why-i-choose-small-phones-pixel-10-3597005/)<!-- TECH:END -->
+ - [Apple AirPods Pro 3 review: significantly better fit, sound quality, noise cancellation, and battery life, but heart-rate monitoring is buried in fitness apps &lpar;David Carnoy/CNET&rpar;](http://www.techmeme.com/250915/p10#a250915p10)
+ - [iPhone 17 Pro is top seller but questions over iPhone Air linger](https://appleinsider.com/articles/25/09/15/iphone-17-pro-is-top-seller-but-questions-over-iphone-air-linger?utm_source=rss)
+ - [Android’s 200MP camera club is getting bigger and better](https://www.androidauthority.com/android-200mp-oppo-find-x9-pro-telephoto-3597664/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
