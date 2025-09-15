@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for September 15 &lpar;#1549&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-15-2025/)
- - [&#39;Because no one was paying attention we could just put anything into the game,&#39; says the writer responsible for sneaking The Lusty Argonian Maid into Morrowind](https://www.pcgamer.com/games/rpg/because-no-one-was-paying-attention-we-could-just-put-anything-into-the-game-says-the-writer-responsible-for-sneaking-the-lusty-argonian-maid-into-morrowind/)
- - [Five new Steam games you probably missed &lpar;September 15, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-15-2025/)<!-- GAME:END -->
+ - [Silksong has sold more than 3.2 million copies on Steam in less than 2 weeks, industry analyst firm estimates](https://www.pcgamer.com/games/action/silksong-has-sold-more-than-3-2-million-copies-on-steam-in-less-than-2-weeks-industry-analyst-firm-estimates/)
+ - [Ice Cube Explains How That Awful War Of The Worlds Movie Happened](https://kotaku.com/ice-cube-war-of-the-worlds-amazon-awful-worst-movie-kai-cenat-2000625785)
+ - [I just found out I&#39;ve been using Silksong&#39;s powerful Thread Storm ability wrong this entire time](https://www.pcgamer.com/games/action/i-just-found-out-ive-been-using-silksongs-powerful-thread-storm-ability-wrong-this-entire-time/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
