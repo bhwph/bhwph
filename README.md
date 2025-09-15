@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 6️⃣ [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
  - 😝 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
- - 👉 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)<!-- MEMES:END -->
+ - 👉 [Awakening](http://9gag.com/gag/a6ZxzLR)<!-- MEMES:END -->
 
 --- 
 
