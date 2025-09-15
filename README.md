@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Don&#39;t be that person](http://9gag.com/gag/aW4dyd3)
- - 😝 [Tarantino](http://9gag.com/gag/aAymAE0)
- - 👉 [Even today this is some awesome shit](http://9gag.com/gag/a7oGXZe)<!-- MEMES:END -->
+ - 6️⃣ [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
+ - 😝 [Awakening](http://9gag.com/gag/a6ZxzLR)
+ - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
 
 --- 
 
