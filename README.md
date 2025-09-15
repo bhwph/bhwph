@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sheeiiit...it is real!](http://9gag.com/gag/aVvd8EP)
- - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 👉 [I wonder why, I wonder how](http://9gag.com/gag/aW4d5on)<!-- MEMES:END -->
+ - 6️⃣ [This is too effing beautiful](http://9gag.com/gag/agmd9q1)
+ - 😝 [I wonder why, I wonder how](http://9gag.com/gag/aW4d5on)
+ - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
 
 --- 
 
