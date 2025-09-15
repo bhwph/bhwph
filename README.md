@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
- - 😝 [Hip hip hurry](http://9gag.com/gag/aQzrbyz)
- - 👉 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)<!-- MEMES:END -->
+ - 6️⃣ [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
+ - 😝 [This isn&#39;t grandma&#39;s first rodeo](http://9gag.com/gag/aVvdrK2)
+ - 👉 [Awakening](http://9gag.com/gag/a6ZxzLR)<!-- MEMES:END -->
 
 --- 
 
