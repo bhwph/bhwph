@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
- - 😝 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
- - 👉 [Awakening](http://9gag.com/gag/a6ZxzLR)<!-- MEMES:END -->
+ - 6️⃣ [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
+ - 😝 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
+ - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 --- 
 
