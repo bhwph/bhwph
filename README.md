@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto’s media player looking faded? This may be the reason why](https://www.androidauthority.com/android-auto-washed-out-media-player-3597766/)
- - [NY could force TikTok, YouTube, and Instagram to roll out age verification](https://www.theverge.com/news/778177/ny-safe-act-online-age-verification-social-media-proposed-rules)
- - [How UAE&#39;s $2B investment in Trump family&#39;s WLF is linked to the deal allowing the UAE&#39;s G42 to access AI chips, in which David Sacks played a key role &lpar;New York Times&rpar;](http://www.techmeme.com/250915/p23#a250915p23)<!-- TECH:END -->
+ - [Turn Your Old Tech Into Art—Now With a 20% Discount](https://www.wired.com/story/grid-studio-5-anniversary-sale/)
+ - [macOS 26 Tahoe review: Liquid Glass has small regressions in usability and accessibility but the upgrade has enough iterative changes like automated Shortcuts &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250915/p29#a250915p29)
+ - [If you were running betas, you may need to turn that off to get the updates](https://appleinsider.com/inside/ios-26/tips/if-you-were-running-betas-you-may-need-to-turn-that-off-to-get-the-updates?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
