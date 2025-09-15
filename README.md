@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Android brand is skipping an entire generation to rival the iPhone 17](https://www.androidauthority.com/xiaomi-17-series-3597546/)
- - [A deep dive into the architecture of Nvidia&#39;s Rubin CPX chip, which is optimized for long-context AI tasks and the prefill phase of inference &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250914/p17#a250914p17)
- - [It’s official: The ‘Snapdragon 8 Elite Gen 5’ will power the next wave of Android flagships](https://www.androidauthority.com/qualcomm-snapdragon-8-elite-gen-5-branding-3597533/)<!-- TECH:END -->
+ - [The most popular Android phones in Q2 2025 also beat the cheapest new iPhone](https://www.androidauthority.com/top-selling-phones-q2-2025-3597552/)
+ - [PSA: This overlooked Pixel feature can save you from missed calls and blaring ringtones](https://www.androidauthority.com/google-pixel-rules-feature-3597555/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 15, #357](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-15-357/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
