@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
- - 😝 [This isn&#39;t grandma&#39;s first rodeo](http://9gag.com/gag/aVvdrK2)
- - 👉 [Awakening](http://9gag.com/gag/a6ZxzLR)<!-- MEMES:END -->
+ - 6️⃣ [They age diffently than men.....](http://9gag.com/gag/aLnb30z)
+ - 😝 [Here Is The Full List Of Emmys 2025 Winners](http://9gag.com/gag/aRBydV7)
+ - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 --- 
 
