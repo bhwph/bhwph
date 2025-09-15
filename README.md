@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
- - 😝 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
- - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
+ - 6️⃣ [Don&#39;t be that person](http://9gag.com/gag/aW4dyd3)
+ - 😝 [Tarantino](http://9gag.com/gag/aAymAE0)
+ - 👉 [Even today this is some awesome shit](http://9gag.com/gag/a7oGXZe)<!-- MEMES:END -->
 
 --- 
 
