@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s new iPhone charger is a first of its kind](https://www.theverge.com/news/777883/apple-charger-usb-pd-3-2-avs-dynamic)
- - [Your Pixel Watch could soon offer unprecedented control over your Pixel phone](https://www.androidauthority.com/pixel-watch-unlock-app-launch-update-3597572/)
- - [Breaking: One UI 8 stable starts rolling out for the Galaxy S25 series](https://www.androidauthority.com/samsung-galaxy-s25-series-stable-one-ui-8-rollout-3597582/)<!-- TECH:END -->
+ - [Microsoft is changing how Xbox controllers work on Windows 11](https://www.theverge.com/news/777898/microsoft-xbox-controller-changes-windows-11)
+ - [An Anthropic report details how Claude usage varies by country and US states, finding 36% use it for coding, 77% of enterprise use is for automation, and more &lpar;Anthropic&rpar;](http://www.techmeme.com/250915/p4#a250915p4)
+ - [The Pixel 10 made me fall back in love with small phones](https://www.androidauthority.com/why-i-choose-small-phones-pixel-10-3597005/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
