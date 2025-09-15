@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Awakening](http://9gag.com/gag/a6ZxzLR)
- - 😝 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
+ - 6️⃣ [Sheeiiit...it is real!](http://9gag.com/gag/aVvd8EP)
+ - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
  - 👉 [I wonder why, I wonder how](http://9gag.com/gag/aW4d5on)<!-- MEMES:END -->
 
 --- 
