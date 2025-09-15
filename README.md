@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The most popular Android phones in Q2 2025 also beat the cheapest new iPhone](https://www.androidauthority.com/top-selling-phones-q2-2025-3597552/)
- - [PSA: This overlooked Pixel feature can save you from missed calls and blaring ringtones](https://www.androidauthority.com/google-pixel-rules-feature-3597555/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 15, #357](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-15-357/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple’s new iPhone charger is a first of its kind](https://www.theverge.com/news/777883/apple-charger-usb-pd-3-2-avs-dynamic)
+ - [Your Pixel Watch could soon offer unprecedented control over your Pixel phone](https://www.androidauthority.com/pixel-watch-unlock-app-launch-update-3597572/)
+ - [Breaking: One UI 8 stable starts rolling out for the Galaxy S25 series](https://www.androidauthority.com/samsung-galaxy-s25-series-stable-one-ui-8-rollout-3597582/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
