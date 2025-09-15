@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Free Spotify users can now pick songs, but of course there’s a catch](https://www.androidauthority.com/spotify-pick-and-play-3597878/)
- - [Apple has finally explained why battery life can be different after an OS update](https://appleinsider.com/articles/25/09/15/apple-has-finally-explained-why-battery-life-can-be-different-after-an-os-update?utm_source=rss)
- - [A now-removed unlisted video on Meta&#39;s YouTube channel shows Meta Ray-Ban glasses with a HUD shown to one eye, used for Meta AI and on-foot navigation &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250915/p30#a250915p30)<!-- TECH:END -->
+ - [Robinhood has filed an application with the SEC to launch a new publicly traded fund called &quot;Robinhood Ventures Fund I&quot; that will hold shares of startups &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250915/p33#a250915p33)
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+ - [How AI Is Upending Politics, Tech, the Media, and More](https://www.wired.com/story/wired-ai-summit-tech-politics-media/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
