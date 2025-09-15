@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini’s improved home screen is coming soon, and it could get new tweaks &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-gemini-home-screen-ui-change-3596103/)
- - [iPhone Air vs iPhone 17 Pro -- Style versus function](https://appleinsider.com/inside/iphone-air/vs/iphone-air-vs-iphone-17-pro----style-versus-function?utm_source=rss)
- - [Spotify adds new features for free users globally, allowing them to search for and play any song they want; the company reported 433M ad-supported MAUs in Q2 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250915/p16#a250915p16)<!-- TECH:END -->
+ - [Android Auto’s media player looking faded? This may be the reason why](https://www.androidauthority.com/android-auto-washed-out-media-player-3597766/)
+ - [NY could force TikTok, YouTube, and Instagram to roll out age verification](https://www.theverge.com/news/778177/ny-safe-act-online-age-verification-social-media-proposed-rules)
+ - [How UAE&#39;s $2B investment in Trump family&#39;s WLF is linked to the deal allowing the UAE&#39;s G42 to access AI chips, in which David Sacks played a key role &lpar;New York Times&rpar;](http://www.techmeme.com/250915/p23#a250915p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
