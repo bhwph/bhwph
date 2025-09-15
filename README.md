@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
- - 😝 [Awakening](http://9gag.com/gag/a6ZxzLR)
- - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
+ - 6️⃣ [No wonder he went mental. The Frustration must\u2019ve been unbearable](http://9gag.com/gag/adBdwOB)
+ - 😝 [Swiss fix roadwork without traffic jams](http://9gag.com/gag/abAdwWp)
+ - 👉 [Even today this is some awesome shit](http://9gag.com/gag/a7oGXZe)<!-- MEMES:END -->
 
 --- 
 
