@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Classic 2016](http://9gag.com/gag/aAym7no)
- - 😝 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
- - 👉 [How I met your mother](http://9gag.com/gag/aAymL9Z)<!-- MEMES:END -->
+ - 6️⃣ [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
+ - 😝 [Hip hip hurry](http://9gag.com/gag/aQzrbyz)
+ - 👉 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)<!-- MEMES:END -->
 
 --- 
 
