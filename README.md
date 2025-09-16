@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 😝 [Sharia law at work.](http://9gag.com/gag/avyDwWW)
- - 👉 [Mighty Titler](http://9gag.com/gag/avyDKzE)<!-- MEMES:END -->
+ - 6️⃣ [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
+ - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - 👉 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)<!-- MEMES:END -->
 
 --- 
 
