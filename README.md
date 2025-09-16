@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra 3 review roundup: excellent and much-needed upgrade](https://appleinsider.com/articles/25/09/16/apple-watch-ultra-3-review-roundup-excellent-and-much-needed-upgrade?utm_source=rss)
- - [Apple Watch Series 11 review roundup: Battery life is the biggest benefit](https://appleinsider.com/articles/25/09/16/apple-watch-series-11-review-roundup-battery-life-is-the-biggest-benefit?utm_source=rss)
- - [Welcome to our pen-and-paper club](https://www.theverge.com/tech/773135/pen-notebook-upgrade-calendar)<!-- TECH:END -->
+ - [Apple Sports update makes it easier to follow your favorite teams everywhere](https://appleinsider.com/articles/25/09/16/apple-sports-update-makes-it-easier-to-follow-your-favorite-teams-everywhere?utm_source=rss)
+ - [Israel-based Vega, which offers an AI-based security analytics platform, raised $65M in seed and Series A led by Accel at a $400M valuation &lpar;Meytal Vaizberg/Globes&rpar;](http://www.techmeme.com/250916/p21#a250916p21)
+ - [Apple Watch SE 3 review roundup: who needs the Series 11?](https://appleinsider.com/articles/25/09/16/apple-watch-se-3-review-roundup-who-needs-the-series-11?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
