@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music’s new features will help you get exclusives from your favorite creators](https://www.androidauthority.com/youtube-music-new-fan-tools-3598211/)
- - [Sources: Binance nears a deal with the US DOJ to remove the outside compliance monitor imposed under its $4.3B 2023 settlement over money laundering failures &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/250916/p40#a250916p40)
- - [Waymo gets green light for airport service in San Francisco](https://www.theverge.com/news/779039/waymo-sfo-airport-permit-robotaxi)<!-- TECH:END -->
+ - [Apple Watch SE 3 review: great value for $249, with an always-on display and 5G connectivity, but an outdated design and no ECG or hypertension alerts &lpar;Kate Kozuch/Tom&#39;s Guide&rpar;](http://www.techmeme.com/250916/p46#a250916p46)
+ - [Charlie Kirk’s death got complicated by gamer brainrot](https://www.theverge.com/column/778988/charlie-kirk-tyler-robinson-online-regulator)
+ - [Microsoft announces a $30B investment in the UK over four years to support AI infrastructure and ongoing operations, including $15B to build a supercomputer &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250916/p45#a250916p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
