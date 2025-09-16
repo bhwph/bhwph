@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sharia law at work.](http://9gag.com/gag/avyDwWW)
- - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 👉 [Glad the bowl didn&#39;t overreact ....](http://9gag.com/gag/aPAp2OP)<!-- MEMES:END -->
+ - 6️⃣ [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - 😝 [Sharia law at work.](http://9gag.com/gag/avyDwWW)
+ - 👉 [Mighty Titler](http://9gag.com/gag/avyDKzE)<!-- MEMES:END -->
 
 --- 
 
