@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One of these is not like the others](http://9gag.com/gag/aRByGvA)
- - 😝 [This is too effing beautiful](http://9gag.com/gag/agmd9q1)
- - 👉 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)<!-- MEMES:END -->
+ - 6️⃣ [He turned his back on her...](http://9gag.com/gag/aVvd5zw)
+ - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 👉 [This is too effing beautiful](http://9gag.com/gag/agmd9q1)<!-- MEMES:END -->
 
 --- 
 
