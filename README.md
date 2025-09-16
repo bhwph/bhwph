@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
- - 😝 [Tarantino](http://9gag.com/gag/aAymAE0)
- - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
+ - 6️⃣ [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
+ - 👉 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)<!-- MEMES:END -->
 
 --- 
 
