@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He turned his back on her...](http://9gag.com/gag/aVvd5zw)
- - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 👉 [This is too effing beautiful](http://9gag.com/gag/agmd9q1)<!-- MEMES:END -->
+ - 6️⃣ [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
+ - 😝 [She does not want to be filmed for privacy reasons.](http://9gag.com/gag/azxBy1Z)
+ - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
 
 --- 
 
