@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Sports update makes it easier to follow your favorite teams everywhere](https://appleinsider.com/articles/25/09/16/apple-sports-update-makes-it-easier-to-follow-your-favorite-teams-everywhere?utm_source=rss)
- - [Israel-based Vega, which offers an AI-based security analytics platform, raised $65M in seed and Series A led by Accel at a $400M valuation &lpar;Meytal Vaizberg/Globes&rpar;](http://www.techmeme.com/250916/p21#a250916p21)
- - [Apple Watch SE 3 review roundup: who needs the Series 11?](https://appleinsider.com/articles/25/09/16/apple-watch-se-3-review-roundup-who-needs-the-series-11?utm_source=rss)<!-- TECH:END -->
+ - [iPhone 17 vs iPhone 17 Pro -- What a $300 premium gets the Pro](https://appleinsider.com/inside/iphone-17/vs/iphone-17-vs-iphone-17-pro----what-a-300-premium-gets-the-pro?utm_source=rss)
+ - [Sources: Apollo Global is exploring a sale of AOL in a deal that could value AOL at around $1.5B; Apollo bought AOL in 2021 as part of its $5B Verizon deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250916/p35#a250916p35)
+ - [Samsung details One UI 8 release schedule for dozens of devices](https://www.androidauthority.com/one-ui-8-release-schedule-3598136/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
