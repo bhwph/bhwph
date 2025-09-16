@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
- - 😝 [She does not want to be filmed for privacy reasons.](http://9gag.com/gag/azxBy1Z)
+ - 😝 [Tarantino](http://9gag.com/gag/aAymAE0)
  - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
 
 --- 
