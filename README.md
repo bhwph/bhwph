@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
+ - 6️⃣ [Tja...](http://9gag.com/gag/aKGLM5W)
  - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 👉 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)<!-- MEMES:END -->
+ - 👉 [Let me out](http://9gag.com/gag/aXPd1gg)<!-- MEMES:END -->
 
 --- 
 
