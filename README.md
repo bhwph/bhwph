@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet may soon let you favorite passes for faster access &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-favorite-passes-3598068/)
- - [Microsoft favors Anthropic over OpenAI for Visual Studio Code](https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4)
- - [Sources: Nvidia&#39;s China-only RTX 6000D receives lukewarm demand, with some seeing it as expensive given its performance lags the RTX 5090 &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p9#a250916p9)<!-- TECH:END -->
+ - [Apple Watch Ultra 3 review roundup: excellent and much-needed upgrade](https://appleinsider.com/articles/25/09/16/apple-watch-ultra-3-review-roundup-excellent-and-much-needed-upgrade?utm_source=rss)
+ - [Apple Watch Series 11 review roundup: Battery life is the biggest benefit](https://appleinsider.com/articles/25/09/16/apple-watch-series-11-review-roundup-battery-life-is-the-biggest-benefit?utm_source=rss)
+ - [Welcome to our pen-and-paper club](https://www.theverge.com/tech/773135/pen-notebook-upgrade-calendar)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
