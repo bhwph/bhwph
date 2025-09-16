@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 vs iPhone 17 Pro -- What a $300 premium gets the Pro](https://appleinsider.com/inside/iphone-17/vs/iphone-17-vs-iphone-17-pro----what-a-300-premium-gets-the-pro?utm_source=rss)
- - [Sources: Apollo Global is exploring a sale of AOL in a deal that could value AOL at around $1.5B; Apollo bought AOL in 2021 as part of its $5B Verizon deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250916/p35#a250916p35)
- - [Samsung details One UI 8 release schedule for dozens of devices](https://www.androidauthority.com/one-ui-8-release-schedule-3598136/)<!-- TECH:END -->
+ - [YouTube Music’s new features will help you get exclusives from your favorite creators](https://www.androidauthority.com/youtube-music-new-fan-tools-3598211/)
+ - [Sources: Binance nears a deal with the US DOJ to remove the outside compliance monitor imposed under its $4.3B 2023 settlement over money laundering failures &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/250916/p40#a250916p40)
+ - [Waymo gets green light for airport service in San Francisco](https://www.theverge.com/news/779039/waymo-sfo-airport-permit-robotaxi)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
