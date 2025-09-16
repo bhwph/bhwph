@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
+ - 6️⃣ [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
  - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 👉 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)<!-- MEMES:END -->
+ - 👉 [Sharia law at work.](http://9gag.com/gag/avyDwWW)<!-- MEMES:END -->
 
 --- 
 
