@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
- - 👉 [Sharia law at work.](http://9gag.com/gag/avyDwWW)<!-- MEMES:END -->
+ - 6️⃣ [Sharia law at work.](http://9gag.com/gag/avyDwWW)
+ - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - 👉 [Glad the bowl didn&#39;t overreact ....](http://9gag.com/gag/aPAp2OP)<!-- MEMES:END -->
 
 --- 
 
