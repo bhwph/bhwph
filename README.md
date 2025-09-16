@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch SE 3 review: great value for $249, with an always-on display and 5G connectivity, but an outdated design and no ECG or hypertension alerts &lpar;Kate Kozuch/Tom&#39;s Guide&rpar;](http://www.techmeme.com/250916/p46#a250916p46)
- - [Charlie Kirk’s death got complicated by gamer brainrot](https://www.theverge.com/column/778988/charlie-kirk-tyler-robinson-online-regulator)
- - [Microsoft announces a $30B investment in the UK over four years to support AI infrastructure and ongoing operations, including $15B to build a supercomputer &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250916/p45#a250916p45)<!-- TECH:END -->
+ - [Can Luigi Mangione get too big to jail?](https://www.theverge.com/report/779351/luigi-mangione-hearing-new-york-social-media-ecosystem)
+ - [BreachForums admin Conor Fitzpatrick is resentenced to three years in prison after an appeals court vacated his prior sentence of 20 years of supervised release &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250916/p51#a250916p51)
+ - [AI code review startup CodeRabbit raised a $60M Series B led by Scale Venture Partners, valuing the company at $550M, and says it makes $15M+ in ARR &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250916/p50#a250916p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
