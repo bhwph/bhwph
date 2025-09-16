@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Escape From Tarkov On Steam Will Require A Separate Purchase](https://kotaku.com/escape-from-tarkov-1-0-arena-steam-epic-unheard-edition-2000626063)
- - [Battlefield 6 Devs Were Extremely Focused On Optimization And Performance](https://kotaku.com/battlefield-6-framerate-fps-xbox-series-s-ps5-2000626043)
- - [When will The Fantastic Four: First Steps be streaming on Disney Plus?](https://www.polygon.com/fantastic-four-first-steps-streaming-release-disney-plus/)<!-- GAME:END -->
+ - [New Splinter Cell Show Trailer Seems To Pick A Canon Ending For Chaos Theory](https://kotaku.com/new-splinter-cell-trailer-netflix-deathwatch-chaos-theory-ending-john-wick-2000626077)
+ - [All Shift codes for Borderlands 4](https://www.polygon.com/borderlands-4-active-shift-codes-redeem/)
+ - [All crest locations in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-crest-locations/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
