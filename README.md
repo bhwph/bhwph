@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to turn the camera flash on and off in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-turn-the-camera-flash-on-and-off-in-ios-26?utm_source=rss)
- - [A study finds that six major AI chatbots can be easily tricked into creating phishing emails targeting elderly people, despite being trained not to &lpar;Reuters&rpar;](http://www.techmeme.com/250915/p42#a250915p42)
- - [Here’s your first official look at the first Snapdragon 8 Elite Gen 5 flagship phones](https://www.androidauthority.com/xiaomi-17-pro-max-design-second-display-3597961/)<!-- TECH:END -->
+ - [Amazon plans to hold its 2025 Prime Big Deal Days from October 7 at 12:01am PT through October 8, exclusive to Prime subscribers &lpar;Brandon Russell/The Verge&rpar;](http://www.techmeme.com/250916/p6#a250916p6)
+ - [Snapdragon 8 Elite Gen 5’s biggest rival is arriving next week](https://www.androidauthority.com/snapdragon-8-elite-gen-5-rival-launch-date-3597992/)
+ - [Sources: Chinese hardware maker Goertek tightened its grip on Meta&#39;s AI glasses supply chain, including making &quot;Hypernova&quot;, through a spate of dealmaking &lpar;Financial Times&rpar;](http://www.techmeme.com/250916/p5#a250916p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
