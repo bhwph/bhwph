@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s your first official look at the first Snapdragon 8 Elite Gen 5 flagship phones](https://www.androidauthority.com/xiaomi-17-pro-max-design-second-display-3597961/)
- - [Sources: US FTC is probing if Ticketmaster does enough to stop bots from illegal resales, focusing on its compliance with a law against automated ticket resales &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/250915/p41#a250915p41)
- - [Check Your Bank Accounts, You Might Spot a Deposit From a Facebook Lawsuit](https://www.cnet.com/tech/check-your-bank-accounts-you-might-spot-a-deposit-from-a-facebook-lawsuit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to turn the camera flash on and off in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-turn-the-camera-flash-on-and-off-in-ios-26?utm_source=rss)
+ - [A study finds that six major AI chatbots can be easily tricked into creating phishing emails targeting elderly people, despite being trained not to &lpar;Reuters&rpar;](http://www.techmeme.com/250915/p42#a250915p42)
+ - [Here’s your first official look at the first Snapdragon 8 Elite Gen 5 flagship phones](https://www.androidauthority.com/xiaomi-17-pro-max-design-second-display-3597961/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
