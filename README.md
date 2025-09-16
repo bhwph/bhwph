@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Splinter Cell Show Trailer Seems To Pick A Canon Ending For Chaos Theory](https://kotaku.com/new-splinter-cell-trailer-netflix-deathwatch-chaos-theory-ending-john-wick-2000626077)
- - [All Shift codes for Borderlands 4](https://www.polygon.com/borderlands-4-active-shift-codes-redeem/)
- - [All crest locations in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-crest-locations/)<!-- GAME:END -->
+ - [Escape from Tarkov owners will have to buy it again if they want to play through Steam, and the Steam version will require a Battlestate account anyway](https://www.pcgamer.com/games/fps/escape-from-tarkov-owners-will-have-to-buy-it-again-if-they-want-to-play-through-steam-and-the-steam-version-will-require-a-battlestate-account-anyway/)
+ - [TikTok users in the US will reportedly have to move to a new app with new American owners when Trump deal takes effect](https://www.pcgamer.com/gaming-industry/tiktok-users-in-the-us-will-reportedly-have-to-move-to-a-new-app-with-new-american-owners-when-trump-deal-takes-effect/)
+ - [Borderlands 4 guides and walkthroughs](https://www.polygon.com/borderlands-4-guides-walkthroughs-quest-tips-locations/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
