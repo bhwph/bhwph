@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for September 16 &lpar;#1550&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-16-2025/)
- - [Those years of Silksong memes were no joke: Even Borderlands 4 can&#39;t escape its shadow after their first weekends on Steam](https://www.pcgamer.com/games/action/those-years-of-silksong-memes-were-no-joke-even-borderlands-4-cant-escape-its-shadow-after-their-first-weekends-on-steam/)
- - [Seamlessly Access Your Gaming Library, Apps, and Play History in One Place with Xbox on Windows PCs and Handheld](https://news.xbox.com/en-us/2025/09/15/access-gaming-library-xbox-on-windows-pc-and-handheld/)<!-- GAME:END -->
+ - [Escape From Tarkov On Steam Will Require A Separate Purchase](https://kotaku.com/escape-from-tarkov-1-0-arena-steam-epic-unheard-edition-2000626063)
+ - [Battlefield 6 Devs Were Extremely Focused On Optimization And Performance](https://kotaku.com/battlefield-6-framerate-fps-xbox-series-s-ps5-2000626043)
+ - [When will The Fantastic Four: First Steps be streaming on Disney Plus?](https://www.polygon.com/fantastic-four-first-steps-streaming-release-disney-plus/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
