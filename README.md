@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Doctronic, which uses generative AI for health guidance and offers video visits with licensed doctors, raised a $20M Series A led by Lightspeed Venture Partners &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250915/p40#a250915p40)
- - [Larq PureVis 2 review: A smart water bottle that makes hydration easier](https://appleinsider.com/articles/25/09/16/larq-purevis-2-review-a-smart-water-bottle-that-makes-hydration-easier?utm_source=rss)
- - [Sources: Jack Ma has returned to Alibaba&#39;s campuses after disappearing from public view during China&#39;s 2020 tech crackdown, influencing Alibaba&#39;s pivot to AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250915/p39#a250915p39)<!-- TECH:END -->
+ - [Here’s your first official look at the first Snapdragon 8 Elite Gen 5 flagship phones](https://www.androidauthority.com/xiaomi-17-pro-max-design-second-display-3597961/)
+ - [Sources: US FTC is probing if Ticketmaster does enough to stop bots from illegal resales, focusing on its compliance with a law against automated ticket resales &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/250915/p41#a250915p41)
+ - [Check Your Bank Accounts, You Might Spot a Deposit From a Facebook Lawsuit](https://www.cnet.com/tech/check-your-bank-accounts-you-might-spot-a-deposit-from-a-facebook-lawsuit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
