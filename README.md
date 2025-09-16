@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Classic 2016](http://9gag.com/gag/aAym7no)
- - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
- - 👉 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)<!-- MEMES:END -->
+ - 6️⃣ [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
+ - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - 👉 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)<!-- MEMES:END -->
 
 --- 
 
