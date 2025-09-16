@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gboard’s advanced proofreading tool sneaks onto one more Pixel phone](https://www.androidauthority.com/gboard-writing-tools-on-google-pixel-8-pro-3598005/)
- - [Here’s your first look at Samsung Health’s new AI-powered fitness assistant &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-health-assistant-first-look-3597999/)
- - [Amazon plans to hold its 2025 Prime Big Deal Days from October 7 at 12:01am PT through October 8, exclusive to Prime subscribers &lpar;Brandon Russell/The Verge&rpar;](http://www.techmeme.com/250916/p6#a250916p6)<!-- TECH:END -->
+ - [Google Wallet may soon let you favorite passes for faster access &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-favorite-passes-3598068/)
+ - [Microsoft favors Anthropic over OpenAI for Visual Studio Code](https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4)
+ - [Sources: Nvidia&#39;s China-only RTX 6000D receives lukewarm demand, with some seeing it as expensive given its performance lags the RTX 5090 &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p9#a250916p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
