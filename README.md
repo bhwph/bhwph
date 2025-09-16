@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood has filed an application with the SEC to launch a new publicly traded fund called &quot;Robinhood Ventures Fund I&quot; that will hold shares of startups &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250915/p33#a250915p33)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [How AI Is Upending Politics, Tech, the Media, and More](https://www.wired.com/story/wired-ai-summit-tech-politics-media/)<!-- TECH:END -->
+ - [Doctronic, which uses generative AI for health guidance and offers video visits with licensed doctors, raised a $20M Series A led by Lightspeed Venture Partners &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250915/p40#a250915p40)
+ - [Larq PureVis 2 review: A smart water bottle that makes hydration easier](https://appleinsider.com/articles/25/09/16/larq-purevis-2-review-a-smart-water-bottle-that-makes-hydration-easier?utm_source=rss)
+ - [Sources: Jack Ma has returned to Alibaba&#39;s campuses after disappearing from public view during China&#39;s 2020 tech crackdown, influencing Alibaba&#39;s pivot to AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250915/p39#a250915p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
