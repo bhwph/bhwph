@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
- - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - 6️⃣ [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
  - 👉 [Sharia law at work.](http://9gag.com/gag/avyDwWW)<!-- MEMES:END -->
 
 --- 
