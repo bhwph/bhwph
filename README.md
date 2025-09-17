@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Seagate’s 2TB Xbox Expansion Card Is Cheaper per TB Than the 1TB One, All-Time Low Ahead of Prime Day in October](https://kotaku.com/seagates-2tb-xbox-expansion-card-is-cheaper-per-tb-than-the-1tb-one-all-time-low-ahead-of-prime-day-in-october-2000626069)
- - [Microsoft announces it will automatically install the Copilot AI app alongside desktop versions of 365 products like Word, Excel and PowerPoint this October—and it seems like there&#39;s no way for personal users to opt out](https://www.pcgamer.com/software/microsoft-announces-it-will-automatically-install-the-copilot-ai-app-into-ms-365-alongside-word-excel-and-powerpoint-this-october-and-it-looks-like-theres-no-way-for-personal-users-to-opt-out/)
- - [In the 16 years I&#39;ve played this series, Borderlands 4 is the first entry that&#39;s made me want to do post-game grinding—Gearbox just needs to fix its dang Wildcard Missions first](https://www.pcgamer.com/games/rpg/in-the-16-years-ive-played-this-series-borderlands-4-is-the-first-entry-thats-made-me-want-to-do-post-game-grinding-gearbox-just-needs-to-fix-its-dang-wildcard-missions-first/)<!-- GAME:END -->
+ - [&#39;Broodfeast&#39; quest walkthrough in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-broodfeast-quest-walkthrough-seared-shredded-skewered-organs/)
+ - [Alleged Shooter’s Discord Chats Cut Against Rush To Blame Online Games And Memes](https://kotaku.com/charlie-kirk-shooter-discord-politics-helldivers-memes-2000626029)
+ - [Logitech has announced an affordable 8 Nm direct drive racing wheel setup with full TrueForce support, along with some fancy trick pedals I want to try for myself](https://www.pcgamer.com/hardware/steering-wheels/logitech-has-announced-an-affordable-8-nm-direct-drive-racing-wheel-setup-with-full-trueforce-support-along-with-some-fancy-trick-pedals-i-want-to-try-for-myself/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
