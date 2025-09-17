@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
- - 😝 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
- - 👉 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)<!-- MEMES:END -->
+ - 6️⃣ [Ok maybe we should start getting worried](http://9gag.com/gag/a34xXLr)
+ - 😝 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
+ - 👉 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)<!-- MEMES:END -->
 
 --- 
 
