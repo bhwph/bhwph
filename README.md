@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Broodfeast&#39; quest walkthrough in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-broodfeast-quest-walkthrough-seared-shredded-skewered-organs/)
- - [Alleged Shooter’s Discord Chats Cut Against Rush To Blame Online Games And Memes](https://kotaku.com/charlie-kirk-shooter-discord-politics-helldivers-memes-2000626029)
- - [Logitech has announced an affordable 8 Nm direct drive racing wheel setup with full TrueForce support, along with some fancy trick pedals I want to try for myself](https://www.pcgamer.com/hardware/steering-wheels/logitech-has-announced-an-affordable-8-nm-direct-drive-racing-wheel-setup-with-full-trueforce-support-along-with-some-fancy-trick-pedals-i-want-to-try-for-myself/)<!-- GAME:END -->
+ - [A Theme Park Management Game Based On Mars Attacks! Is Here And It’s Good](https://kotaku.com/mars-attacks-attracts-theme-park-sim-builder-review-early-access-aliens-steam-2000626562)
+ - [All abandoned Auger mine locations in Borderlands 4](https://www.polygon.com/borderlands-4-all-abandoned-auger-mine-locations/)
+ - [Steal A Brainrot&#39;s massive success on Fortnite is making fans worry](https://www.polygon.com/fortnite-steal-a-brainrot-concurrents-peak-records-roblox-who-makes-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
