@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s been 23 minutes and I couldn&#39;t come up with a decent title.](http://9gag.com/gag/adBdDdj)
+ - 6️⃣ [This is how you do it](http://9gag.com/gag/aPApqrw)
  - 😝 [Horrific sights as the streets of London are invaded by people waving far-right symbols, replacing the traditional Palestinian flags.](http://9gag.com/gag/aVvd5dy)
- - 👉 [This is how you do it](http://9gag.com/gag/aPApqrw)<!-- MEMES:END -->
+ - 👉 [Men will be men](http://9gag.com/gag/aPApbdV)<!-- MEMES:END -->
 
 --- 
 
