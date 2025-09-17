@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tja...](http://9gag.com/gag/aKGLM5W)
- - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 👉 [Let me out](http://9gag.com/gag/aXPd1gg)<!-- MEMES:END -->
+ - 6️⃣ [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
+ - 😝 [When the CEO tells you to code your own game engine](http://9gag.com/gag/ayNzKKq)
+ - 👉 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)<!-- MEMES:END -->
 
 --- 
 
