@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone ran Doom to see how long it takes to crash out. It took 2 and a half years—roughly the same timeframe required to break many a retro game](https://www.pcgamer.com/hardware/someone-ran-doom-to-see-how-long-it-takes-to-crash-out-it-took-2-and-a-half-years-roughly-the-same-timeframe-required-to-break-many-a-retro-game/)
- - [All Silksong mementos and how to get each one](https://www.pcgamer.com/games/action/silksong-memento-locations/)
- - [Apple’s 2025 M3 iPad Air Is Back at Its Lowest Price, Likely Gone Before Amazon Prime Big Deal Days](https://kotaku.com/apples-2025-m3-ipad-air-is-back-at-its-lowest-price-likely-gone-before-amazon-prime-big-deal-days-2000626095)<!-- GAME:END -->
+ - [How to get through The Mist in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-the-mist-how-to-get-through/)
+ - [We Brits are finally getting a slice of Nvidia pie as up to 60,000 Blackwell GPUs will be heading to the UK as part of $42 billion deal with the US](https://www.pcgamer.com/hardware/graphics-cards/we-brits-are-finally-getting-a-slice-of-nvidia-pie-as-up-to-60-000-blackwell-gpus-will-be-heading-to-the-uk-in-a-new-deal-with-the-us/)
+ - [Steam Shooter Keeps Dropping The Price The More People Wishlist It](https://kotaku.com/zero-calber-steam-vr-shooter-black-flag-remake-mass-effect-tv-2000626471)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
