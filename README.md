@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba, Tencent, and Baidu have raised $5B+ via bonds this month for AI and digital infra; with JD.com, their combined 2025 AI capex is projected to top $32B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250917/p4#a250917p4)
- - [Foxmont and BCG report: Philippine startups raised a record $1.12B in 2024, up 16.7% YoY, with foreign investment rising to 52.5%, but regulatory hurdles remain &lpar;Ramon Royandoyan/Nikkei Asia&rpar;](http://www.techmeme.com/250917/p3#a250917p3)
- - [Canon Promo Codes: 10% Off | September 2025](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
+ - [Chinese state media: Alibaba has secured China Unicom as a major client for its AI chips; earlier reports said Alibaba was supplying tens of thousands of chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250917/p8#a250917p8)
+ - [This next-gen flagship has a rear screen that’s basically the Z Flip 7’s cover display](https://www.androidauthority.com/xiaomi-17-pro-rear-screen-uses-3598397/)
+ - [A profile of Song-Chun Zhu, an AI scientist and NSF and Pentagon grantee, who left the US after 28 years to lead China&#39;s state-backed AI institute BIGAI in 2020 &lpar;Chang Che/The Guardian&rpar;](http://www.techmeme.com/250917/p7#a250917p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
