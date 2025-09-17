@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Pro &amp; iPhone 17 Pro Max review roundup -- fast, excellent, and orange](https://appleinsider.com/articles/25/09/17/iphone-17-pro-iphone-17-pro-max-review-roundup----fast-excellent-and-orange?utm_source=rss)
- - [iPhone Air review roundup: Slim but not perfect](https://appleinsider.com/articles/25/09/17/iphone-air-review-roundup-slim-but-not-perfect?utm_source=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;September 17&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-17-2025-3597787/)<!-- TECH:END -->
+ - [Nvidia CEO Jensen Huang Is Bananas for Google Gemini’s AI Image Generator](https://www.wired.com/story/jensen-huang-has-gone-nano-bananas/)
+ - [Custom chips and thermal monitoring at heart of Apple&#39;s 40W Dynamic Power Adapter](https://appleinsider.com/articles/25/09/17/custom-chips-and-thermal-monitoring-at-heart-of-apples-40w-dynamic-power-adapter?utm_source=rss)
+ - [Casio’s stress-relieving furry robot is coming to the US](https://www.theverge.com/news/779857/casio-robot-furry-pet-moflin-us-availability)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
