@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple made a strap, now Google has a rope to dangle your Pixel from your wrist](https://www.androidauthority.com/google-rope-wristlet-3598371/)
- - [Tencent and Baidu sold $3.3B combined in offshore bonds this year, the most ever for Chinese tech companies, as companies secure cheap financing for AI buildout &lpar;Janice Huang/Bloomberg&rpar;](http://www.techmeme.com/250916/p60#a250916p60)
- - [China calls US-China framework deal to move TikTok&#39;s US business to American ownership a &quot;win-win&quot;; Trump and Xi are expected to confirm the agreement on Friday &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p59#a250916p59)<!-- TECH:END -->
+ - [Alibaba, Tencent, and Baidu have raised $5B+ via bonds this month for AI and digital infra; with JD.com, their combined 2025 AI capex is projected to top $32B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250917/p4#a250917p4)
+ - [Foxmont and BCG report: Philippine startups raised a record $1.12B in 2024, up 16.7% YoY, with foreign investment rising to 52.5%, but regulatory hurdles remain &lpar;Ramon Royandoyan/Nikkei Asia&rpar;](http://www.techmeme.com/250917/p3#a250917p3)
+ - [Canon Promo Codes: 10% Off | September 2025](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
