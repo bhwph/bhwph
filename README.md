@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is how you do it](http://9gag.com/gag/aPApqrw)
- - 😝 [It&#39;s been 23 minutes and I couldn&#39;t come up with a decent title.](http://9gag.com/gag/adBdDdj)
- - 👉 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)<!-- MEMES:END -->
+ - 6️⃣ [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
+ - 👉 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)<!-- MEMES:END -->
 
 --- 
 
