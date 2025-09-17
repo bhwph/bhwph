@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can Luigi Mangione get too big to jail?](https://www.theverge.com/report/779351/luigi-mangione-hearing-new-york-social-media-ecosystem)
- - [BreachForums admin Conor Fitzpatrick is resentenced to three years in prison after an appeals court vacated his prior sentence of 20 years of supervised release &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250916/p51#a250916p51)
- - [AI code review startup CodeRabbit raised a $60M Series B led by Scale Venture Partners, valuing the company at $550M, and says it makes $15M+ in ARR &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250916/p50#a250916p50)<!-- TECH:END -->
+ - [China calls US-China framework deal to move TikTok&#39;s US business to American ownership a &quot;win-win&quot;; Trump and Xi are expected to confirm the agreement on Friday &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p59#a250916p59)
+ - [Singapore-based used car marketplace Carro raised $60M led by Japan sovereign wealth fund Cool Japan Fund to promote Japanese cars in the Asia-Pacific region &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p58#a250916p58)
+ - [Sources: SMIC is testing China&#39;s first domestically produced DUV lithography machine, aiming to reduce reliance on western chipmaking technology &lpar;Financial Times&rpar;](http://www.techmeme.com/250916/p57#a250916p57)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
