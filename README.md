@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Macroscope, founded by Kayvon Beykpour to let developers find bugs and help product managers track engineering work, raised $40M from GV, Lightspeed, and others &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250917/p32#a250917p32)
- - [Garmin Venu 4 takes aim at a crowded smartwatch field with new health and fitness tools](https://www.androidauthority.com/garmin-venu-4-launched-3598588/)
- - [Sources: Reddit is in early talks with Google to deepen integration of its content into Google&#39;s AI products, beyond its $60M data-sharing deal signed in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250917/p31#a250917p31)<!-- TECH:END -->
+ - [Prime Big Deal Days is coming Oct. 7, but you can save up to $450 on Apple now](https://appleinsider.com/articles/25/09/17/prime-big-deal-days-is-coming-oct-7-but-you-can-save-up-to-450-on-apple-now?utm_source=rss)
+ - [Gemini 2.5 Deep Think achieves a gold medal performance at the 2025 ICPC World Finals programming competition; only four out of 139 human teams won gold medals &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250917/p34#a250917p34)
+ - [Logitech’s Pro X2 Superstrike offers haptic-based clicks and rapid trigger](https://www.theverge.com/news/778722/logitech-pro-x2-superstrike-superlight-wireless-haptics-rapid-trigger-gaming-mouse-pc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
