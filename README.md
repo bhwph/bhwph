@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese state media: Alibaba has secured China Unicom as a major client for its AI chips; earlier reports said Alibaba was supplying tens of thousands of chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250917/p8#a250917p8)
- - [This next-gen flagship has a rear screen that’s basically the Z Flip 7’s cover display](https://www.androidauthority.com/xiaomi-17-pro-rear-screen-uses-3598397/)
- - [A profile of Song-Chun Zhu, an AI scientist and NSF and Pentagon grantee, who left the US after 28 years to lead China&#39;s state-backed AI institute BIGAI in 2020 &lpar;Chang Che/The Guardian&rpar;](http://www.techmeme.com/250917/p7#a250917p7)<!-- TECH:END -->
+ - [The Wacom One, now one size bigger](https://www.theverge.com/news/779738/wacom-one-14-display-tablet-price-availability)
+ - [Scale AI signed a $100M ceiling contract with the DOD to provide end-to-end services, including its data engine for data preparation and AI model testing &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/250917/p14#a250917p14)
+ - [This $12 accessory gave my Chromecast with Google TV a new lease on life](https://www.androidauthority.com/chromecast-with-google-tv-usb-c-dock-3597578/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
