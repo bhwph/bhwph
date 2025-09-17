@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is how you do it](http://9gag.com/gag/aPApqrw)
- - 😝 [Horrific sights as the streets of London are invaded by people waving far-right symbols, replacing the traditional Palestinian flags.](http://9gag.com/gag/aVvd5dy)
- - 👉 [Men will be men](http://9gag.com/gag/aPApbdV)<!-- MEMES:END -->
+ - 6️⃣ [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
+ - 😝 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
+ - 👉 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)<!-- MEMES:END -->
 
 --- 
 
