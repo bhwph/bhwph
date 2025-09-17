@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t get stuck grinding in Borderlands 4&#39;s version of the Hinterlands—in fact, you&#39;re screwing yourself out of EXP if you try to do every sidequest before beating the main campaign](https://www.pcgamer.com/games/rpg/dont-get-stuck-grinding-in-borderlands-4s-version-of-the-hinterlands-in-fact-youre-screwing-yourself-out-of-exp-if-you-try-to-do-every-sidequest-before-beating-the-main-campaign/)
- - [Today&#39;s Wordle clues, hints and answer for September 17 &lpar;#1551&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-17-2025/)
- - [The next Silksong update helps the bosses but does little to allay our own, interminable suffering](https://www.pcgamer.com/games/action/the-next-silksong-update-helps-the-bosses-but-does-little-to-allay-our-own-interminable-suffering/)<!-- GAME:END -->
+ - [Someone ran Doom to see how long it takes to crash out. It took 2 and a half years—roughly the same timeframe required to break many a retro game](https://www.pcgamer.com/hardware/someone-ran-doom-to-see-how-long-it-takes-to-crash-out-it-took-2-and-a-half-years-roughly-the-same-timeframe-required-to-break-many-a-retro-game/)
+ - [All Silksong mementos and how to get each one](https://www.pcgamer.com/games/action/silksong-memento-locations/)
+ - [Apple’s 2025 M3 iPad Air Is Back at Its Lowest Price, Likely Gone Before Amazon Prime Big Deal Days](https://kotaku.com/apples-2025-m3-ipad-air-is-back-at-its-lowest-price-likely-gone-before-amazon-prime-big-deal-days-2000626095)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
