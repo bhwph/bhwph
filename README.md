@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Escape from Tarkov owners will have to buy it again if they want to play through Steam, and the Steam version will require a Battlestate account anyway](https://www.pcgamer.com/games/fps/escape-from-tarkov-owners-will-have-to-buy-it-again-if-they-want-to-play-through-steam-and-the-steam-version-will-require-a-battlestate-account-anyway/)
- - [TikTok users in the US will reportedly have to move to a new app with new American owners when Trump deal takes effect](https://www.pcgamer.com/gaming-industry/tiktok-users-in-the-us-will-reportedly-have-to-move-to-a-new-app-with-new-american-owners-when-trump-deal-takes-effect/)
- - [Borderlands 4 guides and walkthroughs](https://www.polygon.com/borderlands-4-guides-walkthroughs-quest-tips-locations/)<!-- GAME:END -->
+ - [Alien: Earth&#39;s eyeball monster is scarier than ever in episode 7](https://www.polygon.com/alien-earth-eyeball-monster-episode-7/)
+ - [The Valve rumor mill goes into overdrive as VR influencers travel to Seattle for what seems likely to be the imminent reveal of the Steam Frame](https://www.pcgamer.com/hardware/vr-hardware/the-valve-rumor-mill-goes-into-overdrive-as-vr-influencers-travel-to-seattle-for-what-seems-likely-to-be-the-imminent-reveal-of-the-steam-frame/)
+ - [Destiny 2&#39;s latest game-breaking bug: Players can no longer respawn in solo activities... Like, at all](https://www.pcgamer.com/games/fps/destiny-2s-latest-game-breaking-bug-players-can-no-longer-respawn-in-solo-activities-like-at-all/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
