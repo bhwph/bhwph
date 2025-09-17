@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
- - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 👉 [He is ....](http://9gag.com/gag/aD2P57Z)<!-- MEMES:END -->
+ - 6️⃣ [This is how you do it](http://9gag.com/gag/aPApqrw)
+ - 😝 [It&#39;s been 23 minutes and I couldn&#39;t come up with a decent title.](http://9gag.com/gag/adBdDdj)
+ - 👉 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)<!-- MEMES:END -->
 
 --- 
 
