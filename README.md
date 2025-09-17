@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia CEO Jensen Huang Is Bananas for Google Gemini’s AI Image Generator](https://www.wired.com/story/jensen-huang-has-gone-nano-bananas/)
- - [Custom chips and thermal monitoring at heart of Apple&#39;s 40W Dynamic Power Adapter](https://appleinsider.com/articles/25/09/17/custom-chips-and-thermal-monitoring-at-heart-of-apples-40w-dynamic-power-adapter?utm_source=rss)
- - [Casio’s stress-relieving furry robot is coming to the US](https://www.theverge.com/news/779857/casio-robot-furry-pet-moflin-us-availability)<!-- TECH:END -->
+ - [Macroscope, founded by Kayvon Beykpour to let developers find bugs and help product managers track engineering work, raised $40M from GV, Lightspeed, and others &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250917/p32#a250917p32)
+ - [Garmin Venu 4 takes aim at a crowded smartwatch field with new health and fitness tools](https://www.androidauthority.com/garmin-venu-4-launched-3598588/)
+ - [Sources: Reddit is in early talks with Google to deepen integration of its content into Google&#39;s AI products, beyond its $60M data-sharing deal signed in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250917/p31#a250917p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
