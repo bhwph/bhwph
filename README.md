@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
- - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 👉 [Ok maybe we should start getting worried](http://9gag.com/gag/a34xXLr)<!-- MEMES:END -->
+ - 6️⃣ [Mighty Titler](http://9gag.com/gag/avyDKzE)
+ - 😝 [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
+ - 👉 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)<!-- MEMES:END -->
 
 --- 
 
