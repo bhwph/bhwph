@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam is dropping Windows 32-bit support in 2026](https://www.theverge.com/news/780806/valve-steam-32-bit-windows-support-end)
- - [Nothing Ear 3 scores sweet audio upgrades but double-duty case is the low-key star](https://www.androidauthority.com/nothing-ear-3-wireless-earbuds-announced-3598485/)
- - [How to Back Up Your iPhone to iCloud, MacOS, or Windows &lpar;2025&rpar;](https://www.wired.com/story/how-to-backup-your-iphone/)<!-- TECH:END -->
+ - [Google plans to start using StopNCII&#39;s hashes to proactively identify nonconsensual images in search results and remove them &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250918/p23#a250918p23)
+ - [You can turn off iOS 26&amp;#8217;s obtrusive new screenshot previews](https://www.theverge.com/news/780921/apple-ios-26-iphone-screenshot-preview-disable-settings)
+ - [How to Trade In or Sell Your iPhone &lpar;2025&rpar;](https://www.wired.com/story/how-to-trade-in-or-sell-your-iphone/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
