@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
- - 😝 [Memories](http://9gag.com/gag/aLnbxGz)
- - 👉 [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)<!-- MEMES:END -->
+ - 6️⃣ [Norway testing plasma canon to `drill` tunnels into the mountain, delivering 20000C, hotter than the surface of the sun](http://9gag.com/gag/awy8EAr)
+ - 😝 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
+ - 👉 [Soul mates](http://9gag.com/gag/a34xVLN)<!-- MEMES:END -->
 
 --- 
 
