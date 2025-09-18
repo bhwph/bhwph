@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
- - 😝 [Mighty Titler](http://9gag.com/gag/avyDKzE)
- - 👉 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)<!-- MEMES:END -->
+ - 6️⃣ [Ok maybe we should start getting worried](http://9gag.com/gag/a34xXLr)
+ - 😝 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
+ - 👉 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)<!-- MEMES:END -->
 
 --- 
 
