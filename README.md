@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stable One UI 8 is now available to Galaxy S25 series owners outside Korea](https://www.androidauthority.com/samsung-galaxy-s25-stable-one-ui-global-release-3598820/)
- - [Google says India has emerged as the No. 1 country for Nano Banana model usage, making Gemini the top free app on both the App Store and Google Play in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250918/p5#a250918p5)
- - [Sources: China drops antitrust probe into Google, opened in February over Android dominance and its impact on Chinese phonemakers, amid US-China trade talks &lpar;Financial Times&rpar;](http://www.techmeme.com/250918/p4#a250918p4)<!-- TECH:END -->
+ - [I’d buy a BlackBerry reboot in 2025, but would you?](https://www.androidauthority.com/blackberry-2025-open-thread-3598852/)
+ - [7 Pieces of Wellness Tech That Could Be Covered by Your HSA](https://www.cnet.com/health/pieces-wellness-tech-could-be-covered-by-your-hsa/#ftag=CAD590a51e)
+ - [Source: SoftBank&#39;s plans for a JV with OpenAI to bring AI to Japanese corporate customers are well behind schedule, with an update now expected in November &lpar;Yusuke Ogawa/Reuters&rpar;](http://www.techmeme.com/250918/p9#a250918p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
