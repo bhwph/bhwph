@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How long is the Homestuck animated pilot?](https://www.polygon.com/video/how-long-is-the-homestuck-animated-pilot/)
- - [Today&#39;s Wordle clues, hints and answer for September 18 &lpar;#1552&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-18-2025/)
- - [Dying Light: The Beast launch times and release date](https://www.pcgamer.com/games/fps/dying-light-the-beast-launch-time-release-date/)<!-- GAME:END -->
+ - [Intel and Nvidia announce stunning plans to combine their CPU and GPU products for both consumer PCs and AI servers, with Nvidia taking a $5 billion stake in Intel](https://www.pcgamer.com/hardware/processors/intel-and-nvidia-announce-stunning-plans-to-combine-their-cpu-and-gpu-products-for-both-consumer-pcs-and-ai-servers-with-nvidia-taking-a-usd5-billion-stake-in-intel/)
+ - [Anker’s 12-in-1 Dock and Monitor Stand Combo Hits an All-Time Low, Even Cheaper Than Last Prime Day](https://kotaku.com/ankers-12-in-1-dock-and-monitor-stand-combo-hits-an-all-time-low-even-cheaper-than-last-prime-day-2000626592)
+ - [&#39;It&#39;s all good, it&#39;s all good&#39; says Mark Zuckerberg as his catastrophic live demo of Meta&#39;s new smart glasses goes horribly wrong: &#39;You spend years making technology and then the Wi-Fi on the day catches you&#39;](https://www.pcgamer.com/hardware/its-all-good-its-all-good-says-mark-zuckerberg-as-his-catastrophic-live-demo-of-metas-new-smart-glasses-goes-horribly-wrong-you-spend-years-making-technology-and-then-the-wi-fi-on-the-day-catches-you/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
