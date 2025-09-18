@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [It is day of the Woden my varlets!](http://9gag.com/gag/agmdWvg)
- - 😝 [Well, we&#39;re waiting...](http://9gag.com/gag/a5Qx4Bq)
- - 👉 [Pro-Palestinians are very angry because Real Madrid does not allow Palestinian flags into the Bernab\u00e9u Stadium and throws them in the trash. Should other football clubs do the same?](http://9gag.com/gag/aQzrL57)<!-- MEMES:END -->
+ - 😝 [Pro-Palestinians are very angry because Real Madrid does not allow Palestinian flags into the Bernab\u00e9u Stadium and throws them in the trash. Should other football clubs do the same?](http://9gag.com/gag/aQzrL57)
+ - 👉 [Well, we&#39;re waiting...](http://9gag.com/gag/a5Qx4Bq)<!-- MEMES:END -->
 
 --- 
 
