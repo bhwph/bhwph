@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to start using StopNCII&#39;s hashes to proactively identify nonconsensual images in search results and remove them &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250918/p23#a250918p23)
- - [You can turn off iOS 26&amp;#8217;s obtrusive new screenshot previews](https://www.theverge.com/news/780921/apple-ios-26-iphone-screenshot-preview-disable-settings)
- - [How to Trade In or Sell Your iPhone &lpar;2025&rpar;](https://www.wired.com/story/how-to-trade-in-or-sell-your-iphone/)<!-- TECH:END -->
+ - [Israel formally states it did not kill Charlie Kirk](https://www.theverge.com/policy/781158/benjamin-netanyahu-charlie-kirk-conspiracy)
+ - [The US FTC and seven states sue Live Nation and its Ticketmaster subsidiary for failing to stem the use of bots and large-scale resale operations &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250918/p26#a250918p26)
+ - [Microsoft’s Xbox Copilot arrives on Windows 11 PCs worldwide](https://www.theverge.com/news/780771/microsoft-xbox-copilot-windows-game-bar-available-download)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
