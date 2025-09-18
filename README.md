@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Zeitgeist](http://9gag.com/gag/aAymjog)
- - 😝 [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)
- - 👉 [Booooo](http://9gag.com/gag/a87nRz6)<!-- MEMES:END -->
+ - 6️⃣ [Norway testing plasma canon to `drill` tunnels into the mountain, delivering 20000C, hotter than the surface of the sun](http://9gag.com/gag/awy8EAr)
+ - 😝 [Zeitgeist](http://9gag.com/gag/aAymjog)
+ - 👉 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)<!-- MEMES:END -->
 
 --- 
 
