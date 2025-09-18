@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israel formally states it did not kill Charlie Kirk](https://www.theverge.com/policy/781158/benjamin-netanyahu-charlie-kirk-conspiracy)
- - [The US FTC and seven states sue Live Nation and its Ticketmaster subsidiary for failing to stem the use of bots and large-scale resale operations &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250918/p26#a250918p26)
- - [Microsoft’s Xbox Copilot arrives on Windows 11 PCs worldwide](https://www.theverge.com/news/780771/microsoft-xbox-copilot-windows-game-bar-available-download)<!-- TECH:END -->
+ - [AYANEO unexpectedly reveals a new mini handheld coming early next year](https://www.androidauthority.com/ayaneo-pocket-s-mini-reveal-3599073/)
+ - [Meta announces a preview of the Wearable Device Access Toolkit, which lets developers build apps that use the vision and audio capabilities of its smart glasses &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250918/p31#a250918p31)
+ - [Deals: 1TB M4 Pro MacBook Pro falls to $1,899, plus save up to $500](https://appleinsider.com/articles/25/09/18/deals-1tb-m4-pro-macbook-pro-falls-to-1899-plus-save-up-to-500?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
