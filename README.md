@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Norway testing plasma canon to `drill` tunnels into the mountain, delivering 20000C, hotter than the surface of the sun](http://9gag.com/gag/awy8EAr)
+ - 6️⃣ [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
  - 😝 [Zeitgeist](http://9gag.com/gag/aAymjog)
  - 👉 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)<!-- MEMES:END -->
 
