@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mighty Titler](http://9gag.com/gag/avyDKzE)
- - 😝 [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
- - 👉 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)<!-- MEMES:END -->
+ - 6️⃣ [It is day of the Woden my varlets!](http://9gag.com/gag/agmdWvg)
+ - 😝 [Well, we&#39;re waiting...](http://9gag.com/gag/a5Qx4Bq)
+ - 👉 [Pro-Palestinians are very angry because Real Madrid does not allow Palestinian flags into the Bernab\u00e9u Stadium and throws them in the trash. Should other football clubs do the same?](http://9gag.com/gag/aQzrL57)<!-- MEMES:END -->
 
 --- 
 
