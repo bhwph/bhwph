@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s new Xbox mode on Windows has leaked for any handheld](https://www.theverge.com/news/780388/microsoft-xbox-fullscreen-mode-windows-11-handheld-leak)
- - [OpenAI says its reasoning system solved all 12 problems at the 2025 ICPC World Finals, with GPT-5 solving 11 and an experimental model solving the last &lpar;Maximilian Schreiner/The Decoder&rpar;](http://www.techmeme.com/250917/p39#a250917p39)
- - [The DOGE Subcommittee Hearing on Weather Modification Was a Nest of Conspiracy Theorizing](https://www.wired.com/story/the-doge-subcommittee-hearing-on-weather-modification-was-a-nest-of-conspiracy-theorizing/)<!-- TECH:END -->
+ - [Meta rolls out Hyperscape Capture in early access, letting developers and creators use Quest 3 devices to scan a room and turn it into a VR space in minutes &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250917/p46#a250917p46)
+ - [Meta Connect 2025: the 6 biggest announcements](https://www.theverge.com/news/780087/meta-connect-2025-ray-ban-oakley-biggest-announcements)
+ - [Meta&amp;#8217;s Ray-Ban Gen 2 and Oakley Vanguard glasses are available to preorder](https://www.theverge.com/tech/780353/meta-ray-ban-display-oakley-vanguard-preorder-price-how-to-buy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
