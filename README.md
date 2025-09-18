@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AYANEO unexpectedly reveals a new mini handheld coming early next year](https://www.androidauthority.com/ayaneo-pocket-s-mini-reveal-3599073/)
- - [Meta announces a preview of the Wearable Device Access Toolkit, which lets developers build apps that use the vision and audio capabilities of its smart glasses &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250918/p31#a250918p31)
- - [Deals: 1TB M4 Pro MacBook Pro falls to $1,899, plus save up to $500](https://appleinsider.com/articles/25/09/18/deals-1tb-m4-pro-macbook-pro-falls-to-1899-plus-save-up-to-500?utm_source=rss)<!-- TECH:END -->
+ - [Brendan Carr Isn&#39;t Going to Stop Until Someone Makes Him](https://www.wired.com/story/brendan-carr-isnt-going-to-stop-until-someone-makes-him/)
+ - [Nvidia and Intel’s $5 billion deal is apparently about eating AMD’s lunch](https://www.theverge.com/report/781330/nvidia-intel-explain-5-billion-deal-jensen-huang-lip-bu-tan-amd)
+ - [Anker’s most recent recall ended up affecting almost half a million power banks](https://www.androidauthority.com/anker-power-bank-recall-numbers-3599131/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
