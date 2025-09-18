@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Upscale AI, which is building a suite of open standards-based networking tools for AI infrastructure, raised a $100M+ seed led by Mayfield and Maverick Silicon &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250918/p1#a250918p1)
- - [A US district judge rules Amazon violated consumer law by collecting Prime subscribers&#39; billing info before disclosing terms, handing the FTC a partial win &lpar;Reuters&rpar;](http://www.techmeme.com/250917/p52#a250917p52)
- - [Boox Tab X C review: A jack of all trades, a master of none](https://appleinsider.com/articles/25/09/18/boox-tab-x-c-review-a-jack-of-all-trades-a-master-of-none?utm_source=rss)<!-- TECH:END -->
+ - [Stable One UI 8 is now available to Galaxy S25 series owners outside Korea](https://www.androidauthority.com/samsung-galaxy-s25-stable-one-ui-global-release-3598820/)
+ - [Google says India has emerged as the No. 1 country for Nano Banana model usage, making Gemini the top free app on both the App Store and Google Play in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250918/p5#a250918p5)
+ - [Sources: China drops antitrust probe into Google, opened in February over Android dominance and its impact on Chinese phonemakers, amid US-China trade talks &lpar;Financial Times&rpar;](http://www.techmeme.com/250918/p4#a250918p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
