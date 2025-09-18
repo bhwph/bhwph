@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brendan Carr Isn&#39;t Going to Stop Until Someone Makes Him](https://www.wired.com/story/brendan-carr-isnt-going-to-stop-until-someone-makes-him/)
- - [Nvidia and Intel’s $5 billion deal is apparently about eating AMD’s lunch](https://www.theverge.com/report/781330/nvidia-intel-explain-5-billion-deal-jensen-huang-lip-bu-tan-amd)
- - [Anker’s most recent recall ended up affecting almost half a million power banks](https://www.androidauthority.com/anker-power-bank-recall-numbers-3599131/)<!-- TECH:END -->
+ - [MagSafe Battery for iPhone Air uses the same battery type as the phone itself](https://appleinsider.com/articles/25/09/18/magsafe-battery-for-iphone-air-uses-the-same-battery-type-as-the-phone-itself?utm_source=rss)
+ - [How to find the best deals during Amazon’s October Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
+ - [Here’s what Google’s unannounced smart speaker may be called](https://www.androidauthority.com/google-smart-speaker-name-3599160/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
