@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’d buy a BlackBerry reboot in 2025, but would you?](https://www.androidauthority.com/blackberry-2025-open-thread-3598852/)
- - [7 Pieces of Wellness Tech That Could Be Covered by Your HSA](https://www.cnet.com/health/pieces-wellness-tech-could-be-covered-by-your-hsa/#ftag=CAD590a51e)
- - [Source: SoftBank&#39;s plans for a JV with OpenAI to bring AI to Japanese corporate customers are well behind schedule, with an update now expected in November &lpar;Yusuke Ogawa/Reuters&rpar;](http://www.techmeme.com/250918/p9#a250918p9)<!-- TECH:END -->
+ - [iPhone Fold will spearhead huge upgrade cycle in 2026](https://appleinsider.com/articles/25/09/18/iphone-fold-will-spearhead-huge-upgrade-cycle-in-2026?utm_source=rss)
+ - [Tesla is updating its passenger-trapping door handles](https://www.theverge.com/news/780744/tesla-redesigning-passenger-trapping-door-handles)
+ - [These 8 updates would transform Google Maps into an incredible road trip companion](https://www.androidauthority.com/google-maps-road-trip-upgrade-3597812/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
