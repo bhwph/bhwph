@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ok maybe we should start getting worried](http://9gag.com/gag/a34xXLr)
- - 😝 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
- - 👉 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)<!-- MEMES:END -->
+ - 6️⃣ [Zeitgeist](http://9gag.com/gag/aAymjog)
+ - 😝 [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)
+ - 👉 [Booooo](http://9gag.com/gag/a87nRz6)<!-- MEMES:END -->
 
 --- 
 
