@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Fold will spearhead huge upgrade cycle in 2026](https://appleinsider.com/articles/25/09/18/iphone-fold-will-spearhead-huge-upgrade-cycle-in-2026?utm_source=rss)
- - [Tesla is updating its passenger-trapping door handles](https://www.theverge.com/news/780744/tesla-redesigning-passenger-trapping-door-handles)
- - [These 8 updates would transform Google Maps into an incredible road trip companion](https://www.androidauthority.com/google-maps-road-trip-upgrade-3597812/)<!-- TECH:END -->
+ - [Steam is dropping Windows 32-bit support in 2026](https://www.theverge.com/news/780806/valve-steam-32-bit-windows-support-end)
+ - [Nothing Ear 3 scores sweet audio upgrades but double-duty case is the low-key star](https://www.androidauthority.com/nothing-ear-3-wireless-earbuds-announced-3598485/)
+ - [How to Back Up Your iPhone to iCloud, MacOS, or Windows &lpar;2025&rpar;](https://www.wired.com/story/how-to-backup-your-iphone/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
