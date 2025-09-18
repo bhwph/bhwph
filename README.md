@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Era Of Video Game Remakes Is Just Getting Started, New Report Finds](https://kotaku.com/remakes-popular-report-survey-fallout-3-eso-oblivion-2000626866)
- - [How to get the best ranged weapon in Dying Light 2: The Beast – the awesome Sawblade Launcher](https://www.pcgamer.com/games/horror/dying-light-the-beast-sawblade-launcher-location/)
- - [Dying Light: The Beast Is One Of The Best Open-World Games Of 2025](https://kotaku.com/dying-light-the-beast-review-best-open-world-game-2025-pc-steam-ps5-2000626854)<!-- GAME:END -->
+ - [George A. Romero’s Daughter Is Making A Zombie Drag Queen Movie And It Looks Great](https://kotaku.com/george-a-romeros-daughter-zombie-drag-queen-movie-queens-trailer-2000626904)
+ - [In yet another victory lap for Hazelight Studios, Split Fiction just became the first videogame to get a design award from Swedish royalty](https://www.pcgamer.com/games/action/in-yet-another-victory-lap-for-hazelight-studios-split-fiction-just-became-the-first-videogame-to-get-a-design-award-from-swedish-royalty/)
+ - [How to restore power to the Library Tower in Dying Light: The Beast](https://www.pcgamer.com/games/horror/dying-light-the-beast-library-tower-power/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
