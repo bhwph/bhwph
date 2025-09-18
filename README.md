@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta rolls out Hyperscape Capture in early access, letting developers and creators use Quest 3 devices to scan a room and turn it into a VR space in minutes &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250917/p46#a250917p46)
- - [Meta Connect 2025: the 6 biggest announcements](https://www.theverge.com/news/780087/meta-connect-2025-ray-ban-oakley-biggest-announcements)
- - [Meta&amp;#8217;s Ray-Ban Gen 2 and Oakley Vanguard glasses are available to preorder](https://www.theverge.com/tech/780353/meta-ray-ban-display-oakley-vanguard-preorder-price-how-to-buy)<!-- TECH:END -->
+ - [Survey: 50% of US adults are more concerned than excited about the increased use of AI in daily life; 53% say AI will harm people&#39;s ability to think creatively &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250917/p51#a250917p51)
+ - [Sources: several xAI execs left after clashing with two of Musk&#39;s closest advisers over concerns about unrealistic financial projections and xAI&#39;s management &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250917/p50#a250917p50)
+ - [Hands-on with Meta Ray-Ban Display and Neural Band: small display adds new functionality, useful real-time translation, Neural Band seems the ideal input method &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/250917/p49#a250917p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
