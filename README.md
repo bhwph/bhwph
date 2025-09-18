@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel and Nvidia announce stunning plans to combine their CPU and GPU products for both consumer PCs and AI servers, with Nvidia taking a $5 billion stake in Intel](https://www.pcgamer.com/hardware/processors/intel-and-nvidia-announce-stunning-plans-to-combine-their-cpu-and-gpu-products-for-both-consumer-pcs-and-ai-servers-with-nvidia-taking-a-usd5-billion-stake-in-intel/)
- - [Anker’s 12-in-1 Dock and Monitor Stand Combo Hits an All-Time Low, Even Cheaper Than Last Prime Day](https://kotaku.com/ankers-12-in-1-dock-and-monitor-stand-combo-hits-an-all-time-low-even-cheaper-than-last-prime-day-2000626592)
- - [&#39;It&#39;s all good, it&#39;s all good&#39; says Mark Zuckerberg as his catastrophic live demo of Meta&#39;s new smart glasses goes horribly wrong: &#39;You spend years making technology and then the Wi-Fi on the day catches you&#39;](https://www.pcgamer.com/hardware/its-all-good-its-all-good-says-mark-zuckerberg-as-his-catastrophic-live-demo-of-metas-new-smart-glasses-goes-horribly-wrong-you-spend-years-making-technology-and-then-the-wi-fi-on-the-day-catches-you/)<!-- GAME:END -->
+ - [The Era Of Video Game Remakes Is Just Getting Started, New Report Finds](https://kotaku.com/remakes-popular-report-survey-fallout-3-eso-oblivion-2000626866)
+ - [How to get the best ranged weapon in Dying Light 2: The Beast – the awesome Sawblade Launcher](https://www.pcgamer.com/games/horror/dying-light-the-beast-sawblade-launcher-location/)
+ - [Dying Light: The Beast Is One Of The Best Open-World Games Of 2025](https://kotaku.com/dying-light-the-beast-review-best-open-world-game-2025-pc-steam-ps5-2000626854)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
