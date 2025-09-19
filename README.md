@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MI6 launched Silent Courier, an online portal hosted on the dark web designed to let potential spies from Russia and elsewhere communicate with UK intelligence &lpar;Alex Wickham/Bloomberg&rpar;](http://www.techmeme.com/250918/p44#a250918p44)
- - [Report: at an xAI meeting, Elon Musk and his executives said the Grok chatbot has 64M monthly users; OpenAI said in August that ChatGPT had 700M weekly users &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/250918/p43#a250918p43)
- - [Inside xAI&#39;s chaotic summer: Musk reorganized xAI on the fly, researchers left over concerns it abandoned science in favor of attention-grabbing products, more &lpar;New York Times&rpar;](http://www.techmeme.com/250918/p42#a250918p42)<!-- TECH:END -->
+ - [The internet is out to break the iPhone Air, but it seems indestructible](https://www.androidauthority.com/iphone-air-bend-test-3599216/)
+ - [Canadian law enforcement seizes $40.5M in digital assets after shutting down TradeOgre crypto exchange, making it the largest Canadian crypto seizure to date. &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/250918/p47#a250918p47)
+ - [SoftBank&#39;s Vision Fund plans layoffs; sources say ~20% of staff will be impacted as SoftBank shifts resources to Masayoshi Son&#39;s large-scale AI bets in the US &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250918/p46#a250918p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
