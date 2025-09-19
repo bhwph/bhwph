@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 6️⃣ [German Police](http://9gag.com/gag/aryd6my)
  - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
  - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)<!-- MEMES:END -->
 
