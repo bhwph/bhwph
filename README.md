@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Triple wielding](http://9gag.com/gag/a9yV9Q0)
- - 😝 [Mom carrying the team to victory, a true masterpiece](http://9gag.com/gag/aXPdDnV)
- - 👉 [Never relax](http://9gag.com/gag/awy8Rn4)<!-- MEMES:END -->
+ - 6️⃣ [Zeitgeist](http://9gag.com/gag/aAymjog)
+ - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
 
 --- 
 
