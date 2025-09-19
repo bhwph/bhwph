@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [George A. Romero’s Daughter Is Making A Zombie Drag Queen Movie And It Looks Great](https://kotaku.com/george-a-romeros-daughter-zombie-drag-queen-movie-queens-trailer-2000626904)
- - [In yet another victory lap for Hazelight Studios, Split Fiction just became the first videogame to get a design award from Swedish royalty](https://www.pcgamer.com/games/action/in-yet-another-victory-lap-for-hazelight-studios-split-fiction-just-became-the-first-videogame-to-get-a-design-award-from-swedish-royalty/)
- - [How to restore power to the Library Tower in Dying Light: The Beast](https://www.pcgamer.com/games/horror/dying-light-the-beast-library-tower-power/)<!-- GAME:END -->
+ - [Shelby Oaks review: Chris Stuckmann&#39;s horror debut should kickstart his movie career](https://www.polygon.com/shelby-oaks-review-chris-stuckmann/)
+ - [This metroidvania based on an old Atari 2600 classic had the audacity to release on the same day as Silksong, but it&#39;s a nice break from Hornet&#39;s hell](https://www.pcgamer.com/games/action/this-metroidvania-based-on-an-old-atari-2600-classic-had-the-audacity-to-release-on-the-same-day-as-silksong-but-its-a-nice-break-from-hornets-hell/)
+ - [Weapons director says his Resident Evil movie will leave everything &#39;intact&#39; from the games: &#39;I&#39;m not gonna steal Leon and put him in an original story&#39;](https://www.pcgamer.com/movies-tv/weapons-director-says-his-resident-evil-movie-will-leave-everything-intact-from-the-games-im-not-gonna-steal-leon-and-put-him-in-an-original-story/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
