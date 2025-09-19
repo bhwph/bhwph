@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Zeitgeist](http://9gag.com/gag/aAymjog)
- - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
- - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
+ - 6️⃣ [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
+ - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)<!-- MEMES:END -->
 
 --- 
 
