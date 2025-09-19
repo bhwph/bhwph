@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple told at least two suppliers to boost their daily output of entry-level iPhone 17 by at least 30%, after strong pre-orders last weekend &lpar;The Information&rpar;](http://www.techmeme.com/250919/p15#a250919p15)
- - [Final Cut Pro &amp; Final Cut Camera updated to suit iPhone 17 Pro features](https://appleinsider.com/articles/25/09/19/final-cut-pro-final-cut-camera-updated-to-suit-iphone-17-pro-features?utm_source=rss)
- - [I know why Mark Zuckerberg risked live demo failure](https://www.theverge.com/report/781673/meta-demo-fail-connect-2025-mark-zuckerberg-google-glass-steve-jobs-wi-fi)<!-- TECH:END -->
+ - [Deal: Check out this record-low price on a 43-inch Samsung Smart Monitor M7](https://www.androidauthority.com/samsung-43-inch-smart-monitor-m7-m70f-deal-3599445/)
+ - [iPhone 17 may be an unexpected early hit for Apple](https://appleinsider.com/articles/25/09/19/iphone-17-may-be-an-unexpected-early-hit-for-apple?utm_source=rss)
+ - [Microsoft plans to raise Xbox Series X price by $50 to $649.99 and Series S by $20 to $399.99 starting Oct. 3, citing &quot;changes in the macroeconomic environment&quot; &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250919/p16#a250919p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
