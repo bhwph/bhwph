@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MagSafe Battery for iPhone Air uses the same battery type as the phone itself](https://appleinsider.com/articles/25/09/18/magsafe-battery-for-iphone-air-uses-the-same-battery-type-as-the-phone-itself?utm_source=rss)
- - [How to find the best deals during Amazon’s October Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
- - [Here’s what Google’s unannounced smart speaker may be called](https://www.androidauthority.com/google-smart-speaker-name-3599160/)<!-- TECH:END -->
+ - [Report: at an xAI meeting, Elon Musk and his executives said the Grok chatbot has 64M monthly users; OpenAI said in August that ChatGPT had 700M weekly users &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/250918/p43#a250918p43)
+ - [Inside xAI&#39;s chaotic summer: Musk reorganized xAI on the fly, researchers left over concerns it abandoned science in favor of attention-grabbing products, more &lpar;New York Times&rpar;](http://www.techmeme.com/250918/p42#a250918p42)
+ - [Flashforge AD5X review: inexpensive multi-color printing with tradeoffs](https://appleinsider.com/articles/25/09/19/flashforge-ad5x-review-inexpensive-multi-color-printing-with-tradeoffs?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
