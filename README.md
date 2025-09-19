@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10 Pro XL videos sounding off? You’re holding it wrong](https://www.androidauthority.com/pixel-10-pro-xl-video-sound-mic-issue-3599241/)
- - [How Apple tests Bluetooth, Wi-Fi, 5G, and satellite connectivity on the Apple Watch, including using a Global Navigation Satellite System simulation room &lpar;Vanessa Hand Orellana/CNET&rpar;](http://www.techmeme.com/250919/p2#a250919p2)
- - [China says Xiaomi will issue a software update for 115K+ SU7 EVs to fix assisted driving safety issues, its second recall-related fix since the 2024 launch &lpar;Reuters&rpar;](http://www.techmeme.com/250919/p1#a250919p1)<!-- TECH:END -->
+ - [How to Avoid Scams and Shoddy Wares on Amazon &lpar;2025&rpar;](https://www.wired.com/story/how-shop-safe-amazon/)
+ - [ByteDance&#39;s valuation hit $400B in private deals, up from $230B in early 2025; shareholders see it as undervalued and plan to retain stakes amid US TikTok sale &lpar;CNBC&rpar;](http://www.techmeme.com/250919/p4#a250919p4)
+ - [I tried Pixel 10’s Voice Translate on real calls: Here’s the good and the bad](https://www.androidauthority.com/pixel-10-voice-translate-review-3598387/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
