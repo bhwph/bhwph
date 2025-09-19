@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Her: Daddy wasn&#39;t doing his job...also Her: It&#39;s harder than your fathers](http://9gag.com/gag/awy86KW)
- - 😝 [Zeitgeist](http://9gag.com/gag/aAymjog)
- - 👉 [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)<!-- MEMES:END -->
+ - 6️⃣ [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)
+ - 😝 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
+ - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
 
 --- 
 
