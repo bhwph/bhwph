@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The internet is out to break the iPhone Air, but it seems indestructible](https://www.androidauthority.com/iphone-air-bend-test-3599216/)
- - [Canadian law enforcement seizes $40.5M in digital assets after shutting down TradeOgre crypto exchange, making it the largest Canadian crypto seizure to date. &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/250918/p47#a250918p47)
- - [SoftBank&#39;s Vision Fund plans layoffs; sources say ~20% of staff will be impacted as SoftBank shifts resources to Masayoshi Son&#39;s large-scale AI bets in the US &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250918/p46#a250918p46)<!-- TECH:END -->
+ - [Pixel 10 Pro XL videos sounding off? You’re holding it wrong](https://www.androidauthority.com/pixel-10-pro-xl-video-sound-mic-issue-3599241/)
+ - [How Apple tests Bluetooth, Wi-Fi, 5G, and satellite connectivity on the Apple Watch, including using a Global Navigation Satellite System simulation room &lpar;Vanessa Hand Orellana/CNET&rpar;](http://www.techmeme.com/250919/p2#a250919p2)
+ - [China says Xiaomi will issue a software update for 115K+ SU7 EVs to fix assisted driving safety issues, its second recall-related fix since the 2024 launch &lpar;Reuters&rpar;](http://www.techmeme.com/250919/p1#a250919p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
