@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Her: Daddy wasn&#39;t doing his job...also Her: It&#39;s harder than your fathers](http://9gag.com/gag/awy86KW)
- - 😝 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
- - 👉 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)<!-- MEMES:END -->
+ - 6️⃣ [Rage Comic #025](http://9gag.com/gag/azxB0Nz)
+ - 😝 [Triple wielding](http://9gag.com/gag/a9yV9Q0)
+ - 👉 [Mom carrying the team to victory, a true masterpiece](http://9gag.com/gag/aXPdDnV)<!-- MEMES:END -->
 
 --- 
 
