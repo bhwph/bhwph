@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Avoid Scams and Shoddy Wares on Amazon &lpar;2025&rpar;](https://www.wired.com/story/how-shop-safe-amazon/)
- - [ByteDance&#39;s valuation hit $400B in private deals, up from $230B in early 2025; shareholders see it as undervalued and plan to retain stakes amid US TikTok sale &lpar;CNBC&rpar;](http://www.techmeme.com/250919/p4#a250919p4)
- - [I tried Pixel 10’s Voice Translate on real calls: Here’s the good and the bad](https://www.androidauthority.com/pixel-10-voice-translate-review-3598387/)<!-- TECH:END -->
+ - [Which iPhone 17 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-17-models-to-buy/)
+ - [How I went from an e-bike hater to a believer](https://www.theverge.com/transportation/777556/how-i-went-from-an-e-bike-hater-to-a-believer)
+ - [The right to anonymity is powerful, and America is destroying it](https://www.theverge.com/policy/781256/anonymity-privacy-age-verification-free-speech)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
