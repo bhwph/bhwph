@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [German Police](http://9gag.com/gag/aryd6my)
- - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
- - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)<!-- MEMES:END -->
+ - 😝 [Some people are just uuuugghhhllllhhhh!](http://9gag.com/gag/a87nZZd)
+ - 👉 [Soul mates](http://9gag.com/gag/a34xVLN)<!-- MEMES:END -->
 
 --- 
 
