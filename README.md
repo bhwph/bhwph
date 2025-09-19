@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which iPhone 17 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-17-models-to-buy/)
- - [How I went from an e-bike hater to a believer](https://www.theverge.com/transportation/777556/how-i-went-from-an-e-bike-hater-to-a-believer)
- - [The right to anonymity is powerful, and America is destroying it](https://www.theverge.com/policy/781256/anonymity-privacy-age-verification-free-speech)<!-- TECH:END -->
+ - [What Is a High Refresh Rate? Explaining 120 Hz on Phones, TVs, and Monitors](https://www.wired.com/story/high-refresh-rate-explained/)
+ - [Him is a grueling and messy takedown of American football culture](https://www.theverge.com/entertainment/781175/him-review-justin-tipping-marlon-wayans)
+ - [Tour our smart home reviewer’s smart backyard](https://www.theverge.com/video/781682/tour-smart-backyard)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
