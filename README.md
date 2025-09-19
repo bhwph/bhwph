@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Is a High Refresh Rate? Explaining 120 Hz on Phones, TVs, and Monitors](https://www.wired.com/story/high-refresh-rate-explained/)
- - [Him is a grueling and messy takedown of American football culture](https://www.theverge.com/entertainment/781175/him-review-justin-tipping-marlon-wayans)
- - [Tour our smart home reviewer’s smart backyard](https://www.theverge.com/video/781682/tour-smart-backyard)<!-- TECH:END -->
+ - [Trump claims he and Xi Jinping approved a deal for TikTok&#39;s US operations; Chinese media&#39;s readout only says that China respects the wishes of businesses &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/250919/p11#a250919p11)
+ - [Scorsese and DiCaprio&#39;s gothic horror project draws Apple TV+ interest](https://appleinsider.com/articles/25/09/19/scorsese-and-dicaprios-gothic-horror-project-draws-apple-tv-interest?utm_source=rss)
+ - [MAGA influencers are already fighting over Charlie Kirk’s death](https://www.theverge.com/policy/781862/charlie-kirk-nick-fuentes-candace-owens-tucker-carlson)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
