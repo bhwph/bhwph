@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Soul mates](http://9gag.com/gag/a34xVLN)
- - 😝 [Booooo](http://9gag.com/gag/a87nRz6)
- - 👉 [Zeitgeist](http://9gag.com/gag/aAymjog)<!-- MEMES:END -->
+ - 6️⃣ [Poemic](http://9gag.com/gag/a9yV951)
+ - 😝 [You can&#39;t tell if she&#39;s hot just by the shadow. Hold my beer ...](http://9gag.com/gag/a34xVwe)
+ - 👉 [Never relax](http://9gag.com/gag/awy8Rn4)<!-- MEMES:END -->
 
 --- 
 
