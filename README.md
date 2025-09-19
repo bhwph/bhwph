@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Check out this record-low price on a 43-inch Samsung Smart Monitor M7](https://www.androidauthority.com/samsung-43-inch-smart-monitor-m7-m70f-deal-3599445/)
- - [iPhone 17 may be an unexpected early hit for Apple](https://appleinsider.com/articles/25/09/19/iphone-17-may-be-an-unexpected-early-hit-for-apple?utm_source=rss)
- - [Microsoft plans to raise Xbox Series X price by $50 to $649.99 and Series S by $20 to $399.99 starting Oct. 3, citing &quot;changes in the macroeconomic environment&quot; &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250919/p16#a250919p16)<!-- TECH:END -->
+ - [Windows 11 is adding another Copilot button nobody asked for](https://www.theverge.com/news/782194/windows-11-share-with-copilot-button)
+ - [Ex-Disney CEO Michael Eisner calls the FCC’s threats “out-of-control intimidation”](https://www.theverge.com/streaming/782191/ex-disney-ceo-michael-eisner-calls-the-fccs-threats-out-of-control-intimidation)
+ - [Sources: investors in the TikTok US deal are expected to pay the Trump administration a multibillion-dollar fee for negotiating a deal with China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250919/p20#a250919p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
