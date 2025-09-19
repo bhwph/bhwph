@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for September 19 &lpar;#1553&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-19-2025/)
- - [Peacemaker episode 5 adds fuel to my game-changing theory about Eagly](https://www.polygon.com/peacemaker-season-2-eagly-theory/)
- - [Shelby Oaks review: Chris Stuckmann&#39;s horror debut should kickstart his movie career](https://www.polygon.com/shelby-oaks-review-chris-stuckmann/)<!-- GAME:END -->
+ - [&#39;You wouldn&#39;t believe how much stupid s**t is in this giant world&#39;: The Baby Steps devs want you to know as little as possible before you play their walking sim](https://www.pcgamer.com/games/action/you-wouldnt-believe-how-much-stupid-s-t-is-in-this-giant-world-the-baby-steps-devs-want-you-to-know-as-little-as-possible-before-you-play-their-walking-sim/)
+ - [12 Tips To Know Before Playing Borderlands 4](https://kotaku.com/12-tips-borderlands-4-guide-help-better-loot-gold-keys-side-quests-tricks-2000626554)
+ - [Amazon Is Going Nuts, This 15″ Gaming Portable Monitor for Xbox and Switch Is Selling for Pennies](https://kotaku.com/amazon-is-going-nuts-this-15-gaming-portable-monitor-for-xbox-and-switch-is-selling-for-pennies-2000627251)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
