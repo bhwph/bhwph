@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump claims he and Xi Jinping approved a deal for TikTok&#39;s US operations; Chinese media&#39;s readout only says that China respects the wishes of businesses &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/250919/p11#a250919p11)
- - [Scorsese and DiCaprio&#39;s gothic horror project draws Apple TV+ interest](https://appleinsider.com/articles/25/09/19/scorsese-and-dicaprios-gothic-horror-project-draws-apple-tv-interest?utm_source=rss)
- - [MAGA influencers are already fighting over Charlie Kirk’s death](https://www.theverge.com/policy/781862/charlie-kirk-nick-fuentes-candace-owens-tucker-carlson)<!-- TECH:END -->
+ - [Sources: Apple told at least two suppliers to boost their daily output of entry-level iPhone 17 by at least 30%, after strong pre-orders last weekend &lpar;The Information&rpar;](http://www.techmeme.com/250919/p15#a250919p15)
+ - [Final Cut Pro &amp; Final Cut Camera updated to suit iPhone 17 Pro features](https://appleinsider.com/articles/25/09/19/final-cut-pro-final-cut-camera-updated-to-suit-iphone-17-pro-features?utm_source=rss)
+ - [I know why Mark Zuckerberg risked live demo failure](https://www.theverge.com/report/781673/meta-demo-fail-connect-2025-mark-zuckerberg-google-glass-steve-jobs-wi-fi)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
