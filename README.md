@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Soul mates](http://9gag.com/gag/a34xVLN)
- - 😝 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
- - 👉 [Booooo](http://9gag.com/gag/a87nRz6)<!-- MEMES:END -->
+ - 😝 [Booooo](http://9gag.com/gag/a87nRz6)
+ - 👉 [Zeitgeist](http://9gag.com/gag/aAymjog)<!-- MEMES:END -->
 
 --- 
 
