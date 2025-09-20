@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
- - 😝 [Some people are just uuuugghhhllllhhhh!](http://9gag.com/gag/a87nZZd)
- - 👉 [Never relax](http://9gag.com/gag/awy8Rn4)<!-- MEMES:END -->
+ - 6️⃣ [Disney representation of animals](http://9gag.com/gag/aYQd21x)
+ - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
+ - 👉 [Her: Daddy wasn&#39;t doing his job...also Her: It&#39;s harder than your fathers](http://9gag.com/gag/awy86KW)<!-- MEMES:END -->
 
 --- 
 
