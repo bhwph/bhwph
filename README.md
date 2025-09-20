@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The HUAWEI Watch GT 6 Pro might be the best-looking fitness tracker in my smartwatch box](https://www.androidauthority.com/huawei-watch-gt-6-pro-review-3598880/)
- - [Could T-Mobile and other big carriers be heading toward an online-only future?](https://www.androidauthority.com/big-carrier-digital-3596619/)
- - [Say Hello to the 2025 Ig Nobel Prize Winners](https://www.wired.com/story/say-hello-to-the-2025-ig-nobel-prize-winners/)<!-- TECH:END -->
+ - [If you don’t want ads everywhere, stop buying things with screens that don’t need them](https://www.androidauthority.com/smart-home-ads-3599137/)
+ - [How to Set Up Your New iPhone &lpar;2025&rpar;](https://www.wired.com/story/how-to-set-up-a-new-iphone/)
+ - [iPhone Air avoids &#39;bendgate&#39; in YouTube destruction &#39;test&#39;](https://appleinsider.com/articles/25/09/20/iphone-air-avoids-bendgate-in-youtube-destruction-test?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
