@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;You wouldn&#39;t believe how much stupid s**t is in this giant world&#39;: The Baby Steps devs want you to know as little as possible before you play their walking sim](https://www.pcgamer.com/games/action/you-wouldnt-believe-how-much-stupid-s-t-is-in-this-giant-world-the-baby-steps-devs-want-you-to-know-as-little-as-possible-before-you-play-their-walking-sim/)
- - [12 Tips To Know Before Playing Borderlands 4](https://kotaku.com/12-tips-borderlands-4-guide-help-better-loot-gold-keys-side-quests-tricks-2000626554)
- - [Amazon Is Going Nuts, This 15″ Gaming Portable Monitor for Xbox and Switch Is Selling for Pennies](https://kotaku.com/amazon-is-going-nuts-this-15-gaming-portable-monitor-for-xbox-and-switch-is-selling-for-pennies-2000627251)<!-- GAME:END -->
+ - [Weeks after Silksong&#39;s launch I can&#39;t stop thinking about this streamer&#39;s masterful troll campaign against its fans: &#39;They made a whole game about getting to your car but you don&#39;t have car keys, and you&#39;re excited for that?&#39;](https://www.pcgamer.com/games/action/northernlion-silksong-ragebait-troll/)
+ - [FF14 is getting a baby Seikret minion as part of its Monster Hunter Wilds collab, and I will fistfight Arkveld alone for it](https://www.pcgamer.com/games/mmo/ff14-is-getting-a-baby-seikret-minion-as-part-of-its-monster-hunter-wilds-collab-and-i-will-fistfight-arkveld-alone-for-it/)
+ - [&#39;There is a chance that they will stay in Roblox&#39;: Gen Alpha is into PC gaming, but one industry analyst isn&#39;t so sure they&#39;re going to age out of their favorite haunt](https://www.pcgamer.com/games/gen-alpha-roblox-newzoo-analysis/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
