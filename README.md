@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Alien: Earth just pulled off a surprising first for the 46-year-old franchise](https://www.polygon.com/alien-earth-episode-7-xenomorph/)
- - [The untold story of SiN Episodes involves freeway chases, electrical cannons, a nude Elexis, and a whole lotta penises: &#39;It took Walmart saying they would cancel their order in order to get that removed&#39;](https://www.pcgamer.com/games/fps/the-untold-story-of-sin-episodes-involves-freeway-chases-electrical-cannons-a-nude-elexis-and-a-whole-lotta-penises-it-took-walmart-saying-they-would-cancel-their-order-in-order-to-get-that-removed/)
- - [The best Switch 2 roguelike is the hidden gem Shiren the Wanderer](https://www.polygon.com/shiren-wanderer-mystery-dungeon-best-roguelike/)<!-- GAME:END -->
+ - [This anime fight is one of the best of all time, but not for the reason you might think](https://www.polygon.com/hunter-x-hunter-netero-meruem-chimera-ant-arc/)
+ - [Demon Slayer: Infinity Castle proves not every anime can become a movie](https://www.polygon.com/demon-slayer-infinity-castle-review-movie-pacing/)
+ - [No MMO will ever have graphics as good as the text MUDs I played for years](https://www.pcgamer.com/games/mmo/no-mmo-will-ever-have-graphics-as-good-as-the-text-muds-i-played-for-years/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
