@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime members can get three months of Kindle Unlimited for free](https://www.theverge.com/tech/782073/kindle-unlimited-subscription-ipad-m3-deal-sale)
- - [White House Press Secretary Karoline Leavitt says Americans would hold six of the seven board seats for TikTok US and its algorithm would be US-controlled &lpar;Kasia Klimasinska/Bloomberg&rpar;](http://www.techmeme.com/250920/p9#a250920p9)
- - [Meta faces a backlash after using Instagram photos of teenage schoolgirls, posted by their parents with visible faces and names, to promote Threads to a man &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/250920/p8#a250920p8)<!-- TECH:END -->
+ - [Karoline Leavitt confirms Oracle will handle TikTok&#39;s data and security, and says the US is &quot;100% confident&quot; a deal is done and it &quot;just needs to be signed&quot; &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/250920/p13#a250920p13)
+ - [AYANEO’s $70 gaming handheld plays a shocking amount of GameCube, PS2, and Saturn games](https://www.androidauthority.com/ayaneo-pocket-air-mini-ps2-gamecube-saturn-3599662/)
+ - [A White House official says the $100K H-1B fee will not apply to renewals or existing holders of valid visas re-entering the US, only new applicants &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/250920/p12#a250920p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
