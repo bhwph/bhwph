@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11 is adding another Copilot button nobody asked for](https://www.theverge.com/news/782194/windows-11-share-with-copilot-button)
- - [Ex-Disney CEO Michael Eisner calls the FCC’s threats “out-of-control intimidation”](https://www.theverge.com/streaming/782191/ex-disney-ceo-michael-eisner-calls-the-fccs-threats-out-of-control-intimidation)
- - [Sources: investors in the TikTok US deal are expected to pay the Trump administration a multibillion-dollar fee for negotiating a deal with China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250919/p20#a250919p20)<!-- TECH:END -->
+ - [BitGo&#39;s S-1 shows it had net income of $12.6M on revenue of $4.19B in H1 2025, compared with net income of $30.9M on revenue of $1.12B a year earlier &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250919/p26#a250919p26)
+ - [Microsoft says it will bring a $3.3B data center in Wisconsin online in early 2026 and calls it &quot;the world&#39;s most powerful AI datacenter&quot; &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250919/p25#a250919p25)
+ - [iPhone 17 may be an unexpected early hit for Apple](https://appleinsider.com/articles/25/09/19/iphone-17-may-be-an-unexpected-early-hit-for-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
