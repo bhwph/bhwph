@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fan Casting the Best Live-Action Ganondorf](https://www.polygon.com/video/fan-casting-the-best-live-action-ganondorf/)
- - [Today&#39;s Wordle clues, hints and answer for September 20 &lpar;#1554&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-20-2025/)
- - [Weeks after Silksong&#39;s launch I can&#39;t stop thinking about this streamer&#39;s masterful troll campaign against its fans: &#39;They made a whole game about getting to your car but you don&#39;t have car keys, and you&#39;re excited for that?&#39;](https://www.pcgamer.com/games/action/northernlion-silksong-ragebait-troll/)<!-- GAME:END -->
+ - [Amazon Is Offloading This 1500W Power Station That Charges 7 Devices at Once and Weighs Almost Nothing](https://kotaku.com/amazon-is-offloading-this-1500w-power-station-that-charges-7-devices-at-once-and-weighs-almost-nothing-2000627442)
+ - [Him star Julia Fox reveals her character&#39;s secret backstory](https://www.polygon.com/julia-fox-him-elsie-white-secret-backstory-real-housewives/)
+ - [This &#39;supernatural handyman simulator&#39; is House Flipper for Abiotic Factor sickos, a first-person restoration sim about fixing up a gigantic research facility](https://www.pcgamer.com/games/survival-crafting/this-supernatural-handyman-simulator-is-house-flipper-for-abiotic-factor-sickos-a-first-person-restoration-sim-about-fixing-up-a-gigantic-research-facility/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
