@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Never relax](http://9gag.com/gag/awy8Rn4)
- - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
- - 👉 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)<!-- MEMES:END -->
+ - 😝 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
+ - 👉 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)<!-- MEMES:END -->
 
 --- 
 
