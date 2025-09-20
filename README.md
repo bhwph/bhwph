@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Dog Beds &lpar;2025&rpar;: For All Kinds of Dogs in All Kinds of Spaces](https://www.wired.com/gallery/best-dog-bed/)
- - [Huawei says DeepSeek-R1-Safe, which was trained on 1,000 of its Ascend AI chips, is &quot;nearly 100% successful&quot; in preventing politically sensitive topics &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/250920/p7#a250920p7)
- - [One UI 8.5 all but confirms Galaxy S26 Ultra’s new Private Display feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/one-ui-8-5-private-display-apk-teardown-3599649/)<!-- TECH:END -->
+ - [Prime members can get three months of Kindle Unlimited for free](https://www.theverge.com/tech/782073/kindle-unlimited-subscription-ipad-m3-deal-sale)
+ - [White House Press Secretary Karoline Leavitt says Americans would hold six of the seven board seats for TikTok US and its algorithm would be US-controlled &lpar;Kasia Klimasinska/Bloomberg&rpar;](http://www.techmeme.com/250920/p9#a250920p9)
+ - [Meta faces a backlash after using Instagram photos of teenage schoolgirls, posted by their parents with visible faces and names, to promote Threads to a man &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/250920/p8#a250920p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
