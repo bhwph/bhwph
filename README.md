@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BitGo&#39;s S-1 shows it had net income of $12.6M on revenue of $4.19B in H1 2025, compared with net income of $30.9M on revenue of $1.12B a year earlier &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250919/p26#a250919p26)
- - [Microsoft says it will bring a $3.3B data center in Wisconsin online in early 2026 and calls it &quot;the world&#39;s most powerful AI datacenter&quot; &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250919/p25#a250919p25)
- - [iPhone 17 may be an unexpected early hit for Apple](https://appleinsider.com/articles/25/09/19/iphone-17-may-be-an-unexpected-early-hit-for-apple?utm_source=rss)<!-- TECH:END -->
+ - [China introduces new rules to curb monks&#39; and clergy&#39;s use of livestreaming and AI for unlicensed online preaching and commercial activities, following scandals &lpar;Financial Times&rpar;](http://www.techmeme.com/250919/p28#a250919p28)
+ - [xAI launches Grok 4 Fast, a multimodal model with a 2M context window and a unified architecture that combines reasoning and non-reasoning modes &lpar;xAI&rpar;](http://www.techmeme.com/250919/p27#a250919p27)
+ - [Get a free storage upgrade and $300 discount on the Samsung Galaxy Z Fold 7](https://www.androidauthority.com/samsung-galaxy-z-fold-7-deal-4-3599443/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
