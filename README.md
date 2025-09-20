@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And the winner is......](http://9gag.com/gag/aW4dVwn)
- - 😝 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
- - 👉 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)<!-- MEMES:END -->
+ - 6️⃣ [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
+ - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
+ - 👉 [And the winner is......](http://9gag.com/gag/aW4dVwn)<!-- MEMES:END -->
 
 --- 
 
