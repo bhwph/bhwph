@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [28 Years Later is finally streaming on Netflix](https://www.polygon.com/28-years-later-zombies-netflix/)
- - [2 years later than planned, Arctic Awakening arrives to pull the walking simulator out of its Edith Finch-shaped grave](https://www.pcgamer.com/games/adventure/2-years-later-than-planned-arctic-awakening-arrives-to-pull-the-walking-simulator-out-of-its-edith-finch-shaped-grave/)
- - [If You’re Afraid of Getting Hacked, This Avast Tool Does More Than Stop Viruses](https://kotaku.com/if-youre-afraid-of-getting-hacked-this-avast-tool-does-more-than-stop-viruses-2000627306)<!-- GAME:END -->
+ - [Alien: Earth just pulled off a surprising first for the 46-year-old franchise](https://www.polygon.com/alien-earth-episode-7-xenomorph/)
+ - [The untold story of SiN Episodes involves freeway chases, electrical cannons, a nude Elexis, and a whole lotta penises: &#39;It took Walmart saying they would cancel their order in order to get that removed&#39;](https://www.pcgamer.com/games/fps/the-untold-story-of-sin-episodes-involves-freeway-chases-electrical-cannons-a-nude-elexis-and-a-whole-lotta-penises-it-took-walmart-saying-they-would-cancel-their-order-in-order-to-get-that-removed/)
+ - [The best Switch 2 roguelike is the hidden gem Shiren the Wanderer](https://www.polygon.com/shiren-wanderer-mystery-dungeon-best-roguelike/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
