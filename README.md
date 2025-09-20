@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker’s latest sleep buds can silence snoring](https://www.theverge.com/reviews/781970/earbuds-that-block-snoring-soundcore-a30)
- - [Nvidia and Intel sidestepping questions about manufacturing in their new deal only reinforces that Intel&#39;s best path forward is to spin off its foundry business &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/250920/p4#a250920p4)
- - [Similarweb: TikTok had 183M US MAUs on iOS and Android in August 2025, up 16% YoY, vs. Instagram&#39;s 169M, Facebook&#39;s 157M, Pinterest&#39;s 100M, and Snapchat&#39;s 70M &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/250920/p3#a250920p3)<!-- TECH:END -->
+ - [The HUAWEI Watch GT 6 Pro might be the best-looking fitness tracker in my smartwatch box](https://www.androidauthority.com/huawei-watch-gt-6-pro-review-3598880/)
+ - [Could T-Mobile and other big carriers be heading toward an online-only future?](https://www.androidauthority.com/big-carrier-digital-3596619/)
+ - [Say Hello to the 2025 Ig Nobel Prize Winners](https://www.wired.com/story/say-hello-to-the-2025-ig-nobel-prize-winners/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
