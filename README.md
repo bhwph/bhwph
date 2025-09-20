@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Is Offloading This 1500W Power Station That Charges 7 Devices at Once and Weighs Almost Nothing](https://kotaku.com/amazon-is-offloading-this-1500w-power-station-that-charges-7-devices-at-once-and-weighs-almost-nothing-2000627442)
- - [Him star Julia Fox reveals her character&#39;s secret backstory](https://www.polygon.com/julia-fox-him-elsie-white-secret-backstory-real-housewives/)
- - [This &#39;supernatural handyman simulator&#39; is House Flipper for Abiotic Factor sickos, a first-person restoration sim about fixing up a gigantic research facility](https://www.pcgamer.com/games/survival-crafting/this-supernatural-handyman-simulator-is-house-flipper-for-abiotic-factor-sickos-a-first-person-restoration-sim-about-fixing-up-a-gigantic-research-facility/)<!-- GAME:END -->
+ - [28 Years Later is finally streaming on Netflix](https://www.polygon.com/28-years-later-zombies-netflix/)
+ - [2 years later than planned, Arctic Awakening arrives to pull the walking simulator out of its Edith Finch-shaped grave](https://www.pcgamer.com/games/adventure/2-years-later-than-planned-arctic-awakening-arrives-to-pull-the-walking-simulator-out-of-its-edith-finch-shaped-grave/)
+ - [If You’re Afraid of Getting Hacked, This Avast Tool Does More Than Stop Viruses](https://kotaku.com/if-youre-afraid-of-getting-hacked-this-avast-tool-does-more-than-stop-viruses-2000627306)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
