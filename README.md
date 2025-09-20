@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never relax](http://9gag.com/gag/awy8Rn4)
- - 😝 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
- - 👉 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)<!-- MEMES:END -->
+ - 6️⃣ [100% precision](http://9gag.com/gag/apRdevp)
+ - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
+ - 👉 [UPS! give this man a raise](http://9gag.com/gag/a7oGjOz)<!-- MEMES:END -->
 
 --- 
 
