@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Happn, a dating app with 170M registered users that matches people based on where they cross paths, agrees to a takeover deal with Beijing-based Hello Group &lpar;Financial Times&rpar;](http://www.techmeme.com/250919/p29#a250919p29)
  - [China introduces new rules to curb monks&#39; and clergy&#39;s use of livestreaming and AI for unlicensed online preaching and commercial activities, following scandals &lpar;Financial Times&rpar;](http://www.techmeme.com/250919/p28#a250919p28)
- - [xAI launches Grok 4 Fast, a multimodal model with a 2M context window and a unified architecture that combines reasoning and non-reasoning modes &lpar;xAI&rpar;](http://www.techmeme.com/250919/p27#a250919p27)
- - [Get a free storage upgrade and $300 discount on the Samsung Galaxy Z Fold 7](https://www.androidauthority.com/samsung-galaxy-z-fold-7-deal-4-3599443/)<!-- TECH:END -->
+ - [xAI launches Grok 4 Fast, a multimodal model with a 2M context window and a unified architecture that combines reasoning and non-reasoning modes &lpar;xAI&rpar;](http://www.techmeme.com/250919/p27#a250919p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
