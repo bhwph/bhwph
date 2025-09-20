@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you don’t want ads everywhere, stop buying things with screens that don’t need them](https://www.androidauthority.com/smart-home-ads-3599137/)
- - [How to Set Up Your New iPhone &lpar;2025&rpar;](https://www.wired.com/story/how-to-set-up-a-new-iphone/)
- - [iPhone Air avoids &#39;bendgate&#39; in YouTube destruction &#39;test&#39;](https://appleinsider.com/articles/25/09/20/iphone-air-avoids-bendgate-in-youtube-destruction-test?utm_source=rss)<!-- TECH:END -->
+ - [Best Dog Beds &lpar;2025&rpar;: For All Kinds of Dogs in All Kinds of Spaces](https://www.wired.com/gallery/best-dog-bed/)
+ - [Huawei says DeepSeek-R1-Safe, which was trained on 1,000 of its Ascend AI chips, is &quot;nearly 100% successful&quot; in preventing politically sensitive topics &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/250920/p7#a250920p7)
+ - [One UI 8.5 all but confirms Galaxy S26 Ultra’s new Private Display feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/one-ui-8-5-private-display-apk-teardown-3599649/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
