@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never relax](http://9gag.com/gag/awy8Rn4)
- - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
- - 👉 [Zeitgeist](http://9gag.com/gag/aAymjog)<!-- MEMES:END -->
+ - 6️⃣ [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
+ - 😝 [Some people are just uuuugghhhllllhhhh!](http://9gag.com/gag/a87nZZd)
+ - 👉 [Never relax](http://9gag.com/gag/awy8Rn4)<!-- MEMES:END -->
 
 --- 
 
