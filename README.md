@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [German Police](http://9gag.com/gag/aryd6my)
- - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
- - 👉 [If it&#39;s brown lay down, if it&#39;s black fight back, if it&#39;s white goodnight.](http://9gag.com/gag/aoydBm3)<!-- MEMES:END -->
+ - 6️⃣ [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
+ - 👉 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)<!-- MEMES:END -->
 
 --- 
 
