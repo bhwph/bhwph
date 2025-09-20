@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I need some lightbulbs changed too](http://9gag.com/gag/a34pvR8)
- - 😝 [UPS! give this man a raise](http://9gag.com/gag/a7oGjOz)
- - 👉 [Such amazing birds](http://9gag.com/gag/aW4NB7q)<!-- MEMES:END -->
+ - 6️⃣ [And the winner is......](http://9gag.com/gag/aW4dVwn)
+ - 😝 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
+ - 👉 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)<!-- MEMES:END -->
 
 --- 
 
