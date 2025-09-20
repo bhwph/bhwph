@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Womp womp](http://9gag.com/gag/aGyo335)
- - 😝 [German Police](http://9gag.com/gag/aryd6my)
- - 👉 [Never relax](http://9gag.com/gag/awy8Rn4)<!-- MEMES:END -->
+ - 6️⃣ [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
+ - 😝 [He he](http://9gag.com/gag/aoydrwg)
+ - 👉 [100% precision](http://9gag.com/gag/apRdevp)<!-- MEMES:END -->
 
 --- 
 
