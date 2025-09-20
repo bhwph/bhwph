@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [100% precision](http://9gag.com/gag/apRdevp)
- - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
- - 👉 [UPS! give this man a raise](http://9gag.com/gag/a7oGjOz)<!-- MEMES:END -->
+ - 6️⃣ [I need some lightbulbs changed too](http://9gag.com/gag/a34pvR8)
+ - 😝 [UPS! give this man a raise](http://9gag.com/gag/a7oGjOz)
+ - 👉 [Such amazing birds](http://9gag.com/gag/aW4NB7q)<!-- MEMES:END -->
 
 --- 
 
