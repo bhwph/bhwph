@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fan Casting the Best Live-Action Ganondorf](https://www.polygon.com/video/fan-casting-the-best-live-action-ganondorf/)
  - [Today&#39;s Wordle clues, hints and answer for September 20 &lpar;#1554&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-20-2025/)
- - [Weeks after Silksong&#39;s launch I can&#39;t stop thinking about this streamer&#39;s masterful troll campaign against its fans: &#39;They made a whole game about getting to your car but you don&#39;t have car keys, and you&#39;re excited for that?&#39;](https://www.pcgamer.com/games/action/northernlion-silksong-ragebait-troll/)
- - [FF14 is getting a baby Seikret minion as part of its Monster Hunter Wilds collab, and I will fistfight Arkveld alone for it](https://www.pcgamer.com/games/mmo/ff14-is-getting-a-baby-seikret-minion-as-part-of-its-monster-hunter-wilds-collab-and-i-will-fistfight-arkveld-alone-for-it/)<!-- GAME:END -->
+ - [Weeks after Silksong&#39;s launch I can&#39;t stop thinking about this streamer&#39;s masterful troll campaign against its fans: &#39;They made a whole game about getting to your car but you don&#39;t have car keys, and you&#39;re excited for that?&#39;](https://www.pcgamer.com/games/action/northernlion-silksong-ragebait-troll/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
