@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
- - 😝 [He he](http://9gag.com/gag/aoydrwg)
- - 👉 [100% precision](http://9gag.com/gag/apRdevp)<!-- MEMES:END -->
+ - 6️⃣ [German Police](http://9gag.com/gag/aryd6my)
+ - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
+ - 👉 [If it&#39;s brown lay down, if it&#39;s black fight back, if it&#39;s white goodnight.](http://9gag.com/gag/aoydBm3)<!-- MEMES:END -->
 
 --- 
 
