@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Karoline Leavitt confirms Oracle will handle TikTok&#39;s data and security, and says the US is &quot;100% confident&quot; a deal is done and it &quot;just needs to be signed&quot; &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/250920/p13#a250920p13)
- - [AYANEO’s $70 gaming handheld plays a shocking amount of GameCube, PS2, and Saturn games](https://www.androidauthority.com/ayaneo-pocket-air-mini-ps2-gamecube-saturn-3599662/)
- - [A White House official says the $100K H-1B fee will not apply to renewals or existing holders of valid visas re-entering the US, only new applicants &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/250920/p12#a250920p12)<!-- TECH:END -->
+ - [Amazon, Google, and Microsoft warn employees to rush back to the US](https://www.theverge.com/news/782258/amazon-google-microsoft-warn-h-1b-employees-return-to-the-us)
+ - [A profile of Anthropic CEO Dario Amodei, a critic of Trump and David Sacks&#39; AI agenda, arguing its hands-off approach could steer AI down a dangerous path &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250920/p14#a250920p14)
+ - [Karoline Leavitt confirms Oracle will handle TikTok&#39;s data and security, and says the US is &quot;100% confident&quot; a deal is done and it &quot;just needs to be signed&quot; &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/250920/p13#a250920p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
