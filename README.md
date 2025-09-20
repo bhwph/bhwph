@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for September 20 &lpar;#1554&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-20-2025/)
  - [Weeks after Silksong&#39;s launch I can&#39;t stop thinking about this streamer&#39;s masterful troll campaign against its fans: &#39;They made a whole game about getting to your car but you don&#39;t have car keys, and you&#39;re excited for that?&#39;](https://www.pcgamer.com/games/action/northernlion-silksong-ragebait-troll/)
- - [FF14 is getting a baby Seikret minion as part of its Monster Hunter Wilds collab, and I will fistfight Arkveld alone for it](https://www.pcgamer.com/games/mmo/ff14-is-getting-a-baby-seikret-minion-as-part-of-its-monster-hunter-wilds-collab-and-i-will-fistfight-arkveld-alone-for-it/)
- - [&#39;There is a chance that they will stay in Roblox&#39;: Gen Alpha is into PC gaming, but one industry analyst isn&#39;t so sure they&#39;re going to age out of their favorite haunt](https://www.pcgamer.com/games/gen-alpha-roblox-newzoo-analysis/)<!-- GAME:END -->
+ - [FF14 is getting a baby Seikret minion as part of its Monster Hunter Wilds collab, and I will fistfight Arkveld alone for it](https://www.pcgamer.com/games/mmo/ff14-is-getting-a-baby-seikret-minion-as-part-of-its-monster-hunter-wilds-collab-and-i-will-fistfight-arkveld-alone-for-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
