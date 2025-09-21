@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some companies are turning to fossil fuels to power their data centers as countries around the world scramble to meet rising energy demands amid the AI boom &lpar;Rest of World&rpar;](http://www.techmeme.com/250920/p19#a250920p19)
  - [A profile of Noah Urban, who was a key member of the Scattered Spider group because of his social engineering skills and is serving a 10-year prison sentence &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/250920/p18#a250920p18)
- - [iPhone Air teardown shows how Apple pulled off the thin design](https://appleinsider.com/articles/25/09/21/iphone-air-teardown-shows-how-apple-pulled-off-the-thin-design?utm_source=rss)
- - [Google Cloud says it now works with nine of the 10 leading AI labs, including OpenAI, and with 60% of the world&#39;s generative AI startups, fueling its growth &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250920/p17#a250920p17)<!-- TECH:END -->
+ - [iPhone Air teardown shows how Apple pulled off the thin design](https://appleinsider.com/articles/25/09/21/iphone-air-teardown-shows-how-apple-pulled-off-the-thin-design?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
