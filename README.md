@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Reach remains the series&#39;s most divisive game, 15 years later](https://www.polygon.com/halo-reach-15-year-retrospective-canon/)
- - [Internet Archive settles two-year lawsuit with record labels over music preservation program](https://www.pcgamer.com/gaming-industry/internet-archive-settles-two-year-lawsuit-with-record-labels-over-music-preservation-program/)
- - [BioWare never stopped making Baldur&#39;s Gate 2](https://www.pcgamer.com/games/baldurs-gate/bioware-never-stopped-making-baldurs-gate-2/)<!-- GAME:END -->
+ - [Jordan Peele might be the next Steven Spielberg — which also means producing duds](https://www.polygon.com/jordan-peele-producer-him-candyman-steve-spielberg/)
+ - [Baldur&#39;s Gate 2 has great dungeons and epic quests, but my real love is for my fake friends: BioWare&#39;s first truly great companions](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-2-has-great-dungeons-and-epic-quests-but-my-real-love-is-for-my-fake-friends-biowares-first-truly-great-companions/)
+ - [Are MTG Commander decks good for beginners? Here&#39;s what Magic&#39;s head designers think](https://www.polygon.com/are-magic-the-gathering-precons-good-for-beginners/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
