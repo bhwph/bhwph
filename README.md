@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 10 battery life really isn’t as good as I’d hoped](https://www.androidauthority.com/pixel-10-battery-life-tested-3596994/)
- - [25 Key iPhone Settings to Change &lpar;2025&rpar;](https://www.wired.com/story/key-iphone-settings-to-change/)
- - [This new Gemini feature is the best and worst thing that’s happened for my learning](https://www.androidauthority.com/gemini-guided-learning-hands-on-3597246/)<!-- TECH:END -->
+ - [Ultralytics, which develops the YOLO series of open-source computer vision models and sells commercial licenses, raised a $30M Series A led by Elephant VC &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250921/p10#a250921p10)
+ - [14 Best Fitness Trackers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)
+ - [The Best Mushroom Gummies on the Market, Lab-Approved &lpar;2025&rpar;](https://www.wired.com/gallery/best-mushroom-gummies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
