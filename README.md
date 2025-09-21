@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
+ - 6️⃣ [Ancient Library](http://9gag.com/gag/amodjZ2)
  - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
- - 👉 [The ultimate dad joke](http://9gag.com/gag/aGyoP4n)<!-- MEMES:END -->
+ - 👉 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)<!-- MEMES:END -->
 
 --- 
 
