@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why you should brush your teeth](http://9gag.com/gag/aGyo366)
- - 😝 [This bionic arm is just incredible](http://9gag.com/gag/arydP7p)
- - 👉 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)<!-- MEMES:END -->
+ - 6️⃣ [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
+ - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
+ - 👉 [The ultimate dad joke](http://9gag.com/gag/aGyoP4n)<!-- MEMES:END -->
 
 --- 
 
