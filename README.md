@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google, what are you so afraid of with the Pixel 10?](https://www.androidauthority.com/google-pixel-10-default-restrictions-3598144/)
- - [The NFL Goes MrBeast Mode](https://www.wired.com/story/the-nfl-goes-mrbeast-mode/)
- - [With the Pixel 10 Pro, my love-hate relationship with Pixel UI continues](https://www.androidauthority.com/pixel-10-pro-my-love-hate-pixel-ui-3598145/)<!-- TECH:END -->
+ - [Google Pixel 10 battery life really isn’t as good as I’d hoped](https://www.androidauthority.com/pixel-10-battery-life-tested-3596994/)
+ - [25 Key iPhone Settings to Change &lpar;2025&rpar;](https://www.wired.com/story/key-iphone-settings-to-change/)
+ - [This new Gemini feature is the best and worst thing that’s happened for my learning](https://www.androidauthority.com/gemini-guided-learning-hands-on-3597246/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
