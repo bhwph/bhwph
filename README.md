@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Silksong sickos have already painstakingly determined the DPS of every crest in the game, and you might want to switch off Reaper](https://www.pcgamer.com/games/action/silksong-sickos-have-already-painstakingly-determined-the-dps-of-every-crest-in-the-game-and-you-might-want-to-switch-off-reaper/)
  - [One of my favorite shooters of the 2020s⁠—a sleeper &#39;Overwhelmingly Positive&#39; on Steam⁠—just got a second episode that more than doubles its length for $10](https://www.pcgamer.com/games/fps/one-of-my-favorite-shooters-of-the-2020s-a-sleeper-overwhelmingly-positive-on-steam-just-got-a-second-episode-that-more-than-doubles-its-length-for-usd10/)
- - [Microsoft&#39;s new Gaming Copilot AI tool promises to be &#39;your personal gaming sidekick&#39; but it mostly seems to do the work of a Google search, with the potential for &#39;hallucinations&#39;](https://www.pcgamer.com/software/ai/microsofts-new-gaming-copilot-ai-tool-promises-to-be-your-personal-gaming-sidekick-but-it-mostly-seems-to-do-the-work-of-a-google-search-with-the-potential-for-hallucinations/)
- - [This anime fight is one of the best of all time, but not for the reason you might think](https://www.polygon.com/hunter-x-hunter-netero-meruem-chimera-ant-arc/)<!-- GAME:END -->
+ - [Microsoft&#39;s new Gaming Copilot AI tool promises to be &#39;your personal gaming sidekick&#39; but it mostly seems to do the work of a Google search, with the potential for &#39;hallucinations&#39;](https://www.pcgamer.com/software/ai/microsofts-new-gaming-copilot-ai-tool-promises-to-be-your-personal-gaming-sidekick-but-it-mostly-seems-to-do-the-work-of-a-google-search-with-the-potential-for-hallucinations/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
