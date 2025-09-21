@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The touchscreen MacBook rumors are never ending](https://www.theverge.com/news/782302/touchscreen-oled-macbook-rumors)
- - [UK-based startup Mantic ranked #8 in the Metaculus forecasting cup that asks entrants to predict 60 geopolitical events, the first time an AI made the top 10 &lpar;Nikita Ostrovsky/Time&rpar;](http://www.techmeme.com/250921/p18#a250921p18)
- - [The FTC&#39;s 2023 lawsuit against Amazon goes to trial this week, alleging it used misleading tactics to entice people into Prime and made cancellation difficult &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250921/p17#a250921p17)<!-- TECH:END -->
+ - [Apple&#39;s in-house chip play has a big AI payoff in the future](https://appleinsider.com/articles/25/09/21/apples-in-house-chip-play-has-a-big-ai-payoff?utm_source=rss)
+ - [The UK FCA has improved its crypto registration process, reducing approval times and increasing acceptance rate after criticism it was too slow and restrictive &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/250921/p20#a250921p20)
+ - [&#39;One Battle After Another&#39; Review: Probably the Best Movie Experience I&#39;ve Had All Year](https://www.cnet.com/tech/services-and-software/one-battle-after-another-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
