@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Japan&#39;s space agency officially ends decade-plus mission that carried Hatsune Miku into space one year after losing probe somewhere above Venus](https://www.pcgamer.com/gaming-industry/japans-space-agency-officially-ends-decade-plus-mission-that-carried-hatsune-miku-into-space-one-year-after-losing-probe-somewhere-above-venus/)
- - [Jordan Peele might be the next Steven Spielberg — which also means producing duds](https://www.polygon.com/jordan-peele-producer-him-candyman-steve-spielberg/)
- - [Baldur&#39;s Gate 2 has great dungeons and epic quests, but my real love is for my fake friends: BioWare&#39;s first truly great companions](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-2-has-great-dungeons-and-epic-quests-but-my-real-love-is-for-my-fake-friends-biowares-first-truly-great-companions/)<!-- GAME:END -->
+ - [UK politician says Facebook whistleblower Sarah Wynn-Williams &#39;is being pushed to financial ruin&#39; by Meta after publishing her exposé](https://www.pcgamer.com/gaming-industry/uk-politician-says-facebook-whistleblower-sarah-wynn-williams-is-being-pushed-to-financial-ruin-by-meta-after-publishing-her-expose/)
+ - [Silksong has the most insane secret bragging rights reward I&#39;ve ever seen: A special red or purple inventory icon for beating at least half of the game without a map](https://www.pcgamer.com/games/action/silksong-has-the-most-insane-secret-bragging-rights-reward-ive-ever-seen-a-special-red-or-purple-inventory-icon-for-beating-at-least-half-of-the-game-without-a-map/)
+ - [Battlefield 6 devs say that remastering old maps is harder than you might think](https://www.pcgamer.com/games/fps/battlefield-6-devs-say-that-remastering-old-maps-is-harder-than-you-might-think/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
