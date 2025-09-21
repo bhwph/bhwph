@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [3x Cheaper Than Apple Headphones, This HP Laptop with Windows 11 Is Flying Off the Shelves](https://kotaku.com/3x-cheaper-than-apple-headphones-this-hp-laptop-with-windows-11-is-flying-off-the-shelves-2000627472)
- - [The 20 best horror movies on Amazon Prime Video, ranked by scariness](https://www.polygon.com/best-horror-movies-amazon-prime-video/)
- - [Mercenary RPG Wartales&#39; latest DLC adds one of its most hotly-requested features, fief management](https://www.pcgamer.com/games/rpg/mercenary-rpg-wartales-latest-dlc-adds-one-of-its-most-hotly-requested-features-fief-management/)<!-- GAME:END -->
+ - [Hyrule Warriors: Age of Calamity hides the best Zelda story](https://www.polygon.com/hyrule-warriors-age-of-calamity-story-lore-analysis/)
+ - [Goofy open world sim Wobbly Life launches into space for its 1.0 update, adding rescue missions, asteroid mining, and the chance to be a space detective](https://www.pcgamer.com/games/life-sim/goofy-open-world-sim-wobbly-life-launches-into-space-for-its-1-0-update-adding-rescue-missions-asteroid-mining-and-the-chance-to-be-a-space-detective/)
+ - [Amazon Is Going All In, Selling the New AirPods Pro 3 Cheaper Than Apple](https://kotaku.com/amazon-is-going-all-in-selling-the-new-airpods-pro-3-cheaper-than-apple-2000627489)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
