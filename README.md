@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ancient Library](http://9gag.com/gag/amodjZ2)
- - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
- - 👉 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)<!-- MEMES:END -->
+ - 6️⃣ [Just offering some roadside snacks to passing cyclists in Italy, as one does](http://9gag.com/gag/a5QypNV)
+ - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
+ - 👉 [No politics, no drama, only music.](http://9gag.com/gag/amobN5v)<!-- MEMES:END -->
 
 --- 
 
