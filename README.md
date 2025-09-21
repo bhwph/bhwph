@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers suggest LLM-powered medical AI tools understate the severity of symptoms in female patients and show less &quot;empathy&quot; toward Black and Asian patients &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250921/p6#a250921p6)
  - [A profile of Edwin Chen, the CEO of Surge AI, a Scale AI rival that had $1.2B revenue in 2024, is profitable, and is reportedly raising $1B at a $30B valuation &lpar;Phoebe Liu/Forbes&rpar;](http://www.techmeme.com/250921/p5#a250921p5)
- - [Hang Seng Tech Index, which tracks the top 30 Hong Kong-listed tech stocks, is up 41% YTD vs. Nasdaq&#39;s 17%, driven by AI and China&#39;s chip self-sufficiency push &lpar;William Sandlund/Financial Times&rpar;](http://www.techmeme.com/250921/p4#a250921p4)
- - [Amazon expands Multichannel Fulfillment to let Walmart sellers use Amazon&#39;s logistics network to deliver orders and announces support for Shein by year-end &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250921/p3#a250921p3)<!-- TECH:END -->
+ - [Hang Seng Tech Index, which tracks the top 30 Hong Kong-listed tech stocks, is up 41% YTD vs. Nasdaq&#39;s 17%, driven by China&#39;s AI and chip self-sufficiency push &lpar;William Sandlund/Financial Times&rpar;](http://www.techmeme.com/250921/p4#a250921p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
