@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Developer of NSFW games says Valve won&#39;t let them add adult content in updates, now it has to be DLC](https://www.pcgamer.com/gaming-industry/developer-of-nsfw-games-says-valve-wont-let-them-add-adult-content-in-updates-now-it-has-to-be-dlc/)
  - [Today&#39;s Wordle clues, hints and answer for September 21 &lpar;#1555&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-21-2025/)
- - [Silksong sickos have already painstakingly determined the DPS of every crest in the game, and you might want to switch off Reaper](https://www.pcgamer.com/games/action/silksong-sickos-have-already-painstakingly-determined-the-dps-of-every-crest-in-the-game-and-you-might-want-to-switch-off-reaper/)
- - [One of my favorite shooters of the 2020s⁠—a sleeper &#39;Overwhelmingly Positive&#39; on Steam⁠—just got a second episode that more than doubles its length for $10](https://www.pcgamer.com/games/fps/one-of-my-favorite-shooters-of-the-2020s-a-sleeper-overwhelmingly-positive-on-steam-just-got-a-second-episode-that-more-than-doubles-its-length-for-usd10/)<!-- GAME:END -->
+ - [Silksong sickos have already painstakingly determined the DPS of every crest in the game, and you might want to switch off Reaper](https://www.pcgamer.com/games/action/silksong-sickos-have-already-painstakingly-determined-the-dps-of-every-crest-in-the-game-and-you-might-want-to-switch-off-reaper/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
