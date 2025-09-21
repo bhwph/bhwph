@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Apple Marunouchi: Tokyo&#39;s largest Apple Store](https://appleinsider.com/articles/25/09/21/inside-apple-marunouchi-tokyos-largest-apple-store?utm_source=rss)
- - [Trump says Fox CEO Lachlan Murdoch &quot;is involved&quot; in the ownership group for TikTok US and &quot;Rupert is probably going to be in the group&quot; along with Michael Dell &lpar;Erin Doherty/CNBC&rpar;](http://www.techmeme.com/250921/p13#a250921p13)
- - [A jury will decide if Amazon illegally tricked people into paying for Prime](https://www.theverge.com/policy/782197/amazon-prime-ftc-consumer-protection-trial)<!-- TECH:END -->
+ - [The touchscreen MacBook rumors are never ending](https://www.theverge.com/news/782302/touchscreen-oled-macbook-rumors)
+ - [UK-based startup Mantic ranked #8 in the Metaculus forecasting cup that asks entrants to predict 60 geopolitical events, the first time an AI made the top 10 &lpar;Nikita Ostrovsky/Time&rpar;](http://www.techmeme.com/250921/p18#a250921p18)
+ - [The FTC&#39;s 2023 lawsuit against Amazon goes to trial this week, alleging it used misleading tactics to entice people into Prime and made cancellation difficult &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250921/p17#a250921p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
