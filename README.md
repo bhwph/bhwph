@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ultralytics, which develops the YOLO series of open-source computer vision models and sells commercial licenses, raised a $30M Series A led by Elephant VC &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250921/p10#a250921p10)
- - [14 Best Fitness Trackers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)
- - [The Best Mushroom Gummies on the Market, Lab-Approved &lpar;2025&rpar;](https://www.wired.com/gallery/best-mushroom-gummies/)<!-- TECH:END -->
+ - [Inside Apple Marunouchi: Tokyo&#39;s largest Apple Store](https://appleinsider.com/articles/25/09/21/inside-apple-marunouchi-tokyos-largest-apple-store?utm_source=rss)
+ - [Trump says Fox CEO Lachlan Murdoch &quot;is involved&quot; in the ownership group for TikTok US and &quot;Rupert is probably going to be in the group&quot; along with Michael Dell &lpar;Erin Doherty/CNBC&rpar;](http://www.techmeme.com/250921/p13#a250921p13)
+ - [A jury will decide if Amazon illegally tricked people into paying for Prime](https://www.theverge.com/policy/782197/amazon-prime-ftc-consumer-protection-trial)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
