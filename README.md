@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Japan&#39;s space agency officially ends decade-plus mission that carried Hatsune Miku into space one year after losing probe somewhere above Venus](https://www.pcgamer.com/gaming-industry/japans-space-agency-officially-ends-decade-plus-mission-that-carried-hatsune-miku-into-space-one-year-after-losing-probe-somewhere-above-venus/)
  - [Jordan Peele might be the next Steven Spielberg — which also means producing duds](https://www.polygon.com/jordan-peele-producer-him-candyman-steve-spielberg/)
- - [Baldur&#39;s Gate 2 has great dungeons and epic quests, but my real love is for my fake friends: BioWare&#39;s first truly great companions](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-2-has-great-dungeons-and-epic-quests-but-my-real-love-is-for-my-fake-friends-biowares-first-truly-great-companions/)
- - [Are MTG Commander decks good for beginners? Here&#39;s what Magic&#39;s head designers think](https://www.polygon.com/are-magic-the-gathering-precons-good-for-beginners/)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 2 has great dungeons and epic quests, but my real love is for my fake friends: BioWare&#39;s first truly great companions](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-2-has-great-dungeons-and-epic-quests-but-my-real-love-is-for-my-fake-friends-biowares-first-truly-great-companions/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
