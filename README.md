@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers suggest LLM-powered medical AI tools understate the severity of symptoms in female patients and show less &quot;empathy&quot; toward Black and Asian patients &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250921/p6#a250921p6)
- - [A profile of Edwin Chen, the CEO of Surge AI, a Scale AI rival that had $1.2B revenue in 2024, is profitable, and is reportedly raising $1B at a $30B valuation &lpar;Phoebe Liu/Forbes&rpar;](http://www.techmeme.com/250921/p5#a250921p5)
- - [Hang Seng Tech Index, which tracks the top 30 Hong Kong-listed tech stocks, is up 41% YTD vs. Nasdaq&#39;s 17%, driven by China&#39;s AI and chip self-sufficiency push &lpar;William Sandlund/Financial Times&rpar;](http://www.techmeme.com/250921/p4#a250921p4)<!-- TECH:END -->
+ - [Google, what are you so afraid of with the Pixel 10?](https://www.androidauthority.com/google-pixel-10-default-restrictions-3598144/)
+ - [The NFL Goes MrBeast Mode](https://www.wired.com/story/the-nfl-goes-mrbeast-mode/)
+ - [With the Pixel 10 Pro, my love-hate relationship with Pixel UI continues](https://www.androidauthority.com/pixel-10-pro-my-love-hate-pixel-ui-3598145/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
