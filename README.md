@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just offering some roadside snacks to passing cyclists in Italy, as one does](http://9gag.com/gag/a5QypNV)
- - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
+ - 6️⃣ [This is what the aurora looks like from directly overhead. Absolutely stunning](http://9gag.com/gag/axyndvp)
+ - 😝 [No hate speach, its more a question.](http://9gag.com/gag/a4PrpD6)
  - 👉 [No politics, no drama, only music.](http://9gag.com/gag/amobN5v)<!-- MEMES:END -->
 
 --- 
