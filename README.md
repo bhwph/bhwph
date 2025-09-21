@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese robotaxi operators WeRide and Pony AI are partnering with local companies like Grab to expand into Singapore, one of the world&#39;s best-mapped cities &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/250920/p16#a250920p16)
- - [VCs and founders warn that the $100K fee will make H-1B sponsorship prohibitively expensive for startups, not Big Tech, and drive talent outside the US &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250920/p15#a250920p15)
- - [Amazon, Google, and Microsoft warn employees to rush back to the US](https://www.theverge.com/news/782258/amazon-google-microsoft-warn-h-1b-employees-return-to-the-us)<!-- TECH:END -->
+ - [A profile of Noah Urban, who was a key member of the Scattered Spider group because of his social engineering skills and is serving a 10-year prison sentence &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/250920/p18#a250920p18)
+ - [iPhone Air teardown shows how Apple pulled off the thin design](https://appleinsider.com/articles/25/09/21/iphone-air-teardown-shows-how-apple-pulled-off-the-thin-design?utm_source=rss)
+ - [Google Cloud says it now works with nine of the 10 leading AI labs, including OpenAI, and with 60% of the world&#39;s generative AI startups, fueling its growth &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250920/p17#a250920p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
