@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [There&#39;s a fan patch for FEAR if you want to play the classic FPS with a scalable UI, controller support, and other modern conveniences](https://www.pcgamer.com/games/fps/theres-a-fan-patch-for-fear-if-you-want-to-play-the-classic-fps-with-a-scalable-ui-controller-support-and-other-modern-conveniences/)
  - [Developer of NSFW games says Valve won&#39;t let them add adult content in updates, now it has to be DLC](https://www.pcgamer.com/gaming-industry/developer-of-nsfw-games-says-valve-wont-let-them-add-adult-content-in-updates-now-it-has-to-be-dlc/)
- - [Today&#39;s Wordle clues, hints and answer for September 21 &lpar;#1555&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-21-2025/)
- - [Silksong sickos have already painstakingly determined the DPS of every crest in the game, and you might want to switch off Reaper](https://www.pcgamer.com/games/action/silksong-sickos-have-already-painstakingly-determined-the-dps-of-every-crest-in-the-game-and-you-might-want-to-switch-off-reaper/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for September 21 &lpar;#1555&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-21-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
