@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This bionic arm is just incredible](http://9gag.com/gag/arydP7p)
- - 😝 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
- - 👉 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)<!-- MEMES:END -->
+ - 6️⃣ [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
+ - 😝 [The ultimate dad joke](http://9gag.com/gag/aGyoP4n)
+ - 👉 [This bionic arm is just incredible](http://9gag.com/gag/arydP7p)<!-- MEMES:END -->
 
 --- 
 
