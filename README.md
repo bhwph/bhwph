@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s a fan patch for FEAR if you want to play the classic FPS with a scalable UI, controller support, and other modern conveniences](https://www.pcgamer.com/games/fps/theres-a-fan-patch-for-fear-if-you-want-to-play-the-classic-fps-with-a-scalable-ui-controller-support-and-other-modern-conveniences/)
- - [Developer of NSFW games says Valve won&#39;t let them add adult content in updates, now it has to be DLC](https://www.pcgamer.com/gaming-industry/developer-of-nsfw-games-says-valve-wont-let-them-add-adult-content-in-updates-now-it-has-to-be-dlc/)
- - [Today&#39;s Wordle clues, hints and answer for September 21 &lpar;#1555&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-21-2025/)<!-- GAME:END -->
+ - [3x Cheaper Than Apple Headphones, This HP Laptop with Windows 11 Is Flying Off the Shelves](https://kotaku.com/3x-cheaper-than-apple-headphones-this-hp-laptop-with-windows-11-is-flying-off-the-shelves-2000627472)
+ - [The 20 best horror movies on Amazon Prime Video, ranked by scariness](https://www.polygon.com/best-horror-movies-amazon-prime-video/)
+ - [Mercenary RPG Wartales&#39; latest DLC adds one of its most hotly-requested features, fief management](https://www.pcgamer.com/games/rpg/mercenary-rpg-wartales-latest-dlc-adds-one-of-its-most-hotly-requested-features-fief-management/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
