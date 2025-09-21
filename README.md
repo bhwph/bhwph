@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hyrule Warriors: Age of Calamity hides the best Zelda story](https://www.polygon.com/hyrule-warriors-age-of-calamity-story-lore-analysis/)
- - [Goofy open world sim Wobbly Life launches into space for its 1.0 update, adding rescue missions, asteroid mining, and the chance to be a space detective](https://www.pcgamer.com/games/life-sim/goofy-open-world-sim-wobbly-life-launches-into-space-for-its-1-0-update-adding-rescue-missions-asteroid-mining-and-the-chance-to-be-a-space-detective/)
- - [Amazon Is Going All In, Selling the New AirPods Pro 3 Cheaper Than Apple](https://kotaku.com/amazon-is-going-all-in-selling-the-new-airpods-pro-3-cheaper-than-apple-2000627489)<!-- GAME:END -->
+ - [Halo Reach remains the series&#39;s most divisive game, 15 years later](https://www.polygon.com/halo-reach-15-year-retrospective-canon/)
+ - [Internet Archive settles two-year lawsuit with record labels over music preservation program](https://www.pcgamer.com/gaming-industry/internet-archive-settles-two-year-lawsuit-with-record-labels-over-music-preservation-program/)
+ - [BioWare never stopped making Baldur&#39;s Gate 2](https://www.pcgamer.com/games/baldurs-gate/bioware-never-stopped-making-baldurs-gate-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
