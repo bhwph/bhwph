@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s in-house chip play has a big AI payoff in the future](https://appleinsider.com/articles/25/09/21/apples-in-house-chip-play-has-a-big-ai-payoff?utm_source=rss)
- - [The UK FCA has improved its crypto registration process, reducing approval times and increasing acceptance rate after criticism it was too slow and restrictive &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/250921/p20#a250921p20)
- - [&#39;One Battle After Another&#39; Review: Probably the Best Movie Experience I&#39;ve Had All Year](https://www.cnet.com/tech/services-and-software/one-battle-after-another-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Derek Li, founder of China&#39;s top adaptive learning edtech Squirrel AI, whose business is fueled by the country&#39;s relentless academic pressure &lpar;Bloomberg&rpar;](http://www.techmeme.com/250921/p22#a250921p22)
+ - [&#39;Tulsa King&#39; Season 3 Release Schedule: When to Watch More on Paramount Plus](https://www.cnet.com/tech/services-and-software/tulsa-king-season-3-release-schedule-when-to-watch-more-on-paramount-plus/#ftag=CAD590a51e)
+ - [A look at life in online scam compounds run by Chinese gangs on the Myanmar-Thai border, with purported Thai immigration officials luring trafficking victims &lpar;Reuters&rpar;](http://www.techmeme.com/250921/p21#a250921p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
