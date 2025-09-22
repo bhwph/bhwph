@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Eurogamer: How Xbox Chooses Its Indies, and What It Means for the Devs](https://www.eurogamer.net/inside-xboxs-increasingly-vital-indie-publishing-operation#new_tab)
- - [Nobody Told Me One Of The Biggest Games On The Planet Is Super Horny](https://kotaku.com/love-and-deepspace-zayne-edge-of-continuum-sex-scene-2000627623)
- - [Make Some Noise season 4 returns next month with Brennan Lee Mulligan, Ben Schwartz, and more](https://www.polygon.com/dropout-make-some-noise-season-4-trailer-date/)<!-- GAME:END -->
+ - [Dying Light: The Beast mod nerfs the biggest annoyance in the game: how often zombies grab you](https://www.pcgamer.com/games/horror/dying-light-the-beast-mod-nerfs-the-biggest-annoyance-in-the-game-how-often-zombies-grab-you/)
+ - [Jimmy Kimmel Live! Is Back Following Disney Boycott](https://kotaku.com/disney-announces-jimmy-kimmel-return-tuesday-boycott-back-abc-not-canceled-2000627662)
+ - [All 99 Nights in the Forest codes and how to redeem them](https://www.pcgamer.com/games/roblox/99-nights-in-the-forest-codes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
