@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung rolls out stable One UI 8 update for Galaxy Z Fold 6, Flip 6](https://www.androidauthority.com/samsung-galaxy-z-fold-6-z-flip-6-one-ui-8-3599787/)
- - [The Galaxy S26 could thrash the iPhone 17 Pro with new video recording features](https://www.androidauthority.com/galaxy-s26-camera-leak-pro-video-3599767/)
- - [Galaxy S26 Ultra’s display could outshine the iPhone 17, but there’s bad news for S26 Pro, Edge](https://www.androidauthority.com/samsung-galaxy-s26-ultra-m14-oled-coe-leak-3599760/)<!-- TECH:END -->
+ - [Livestream: Tech Went All in on Trump. Now What?](https://www.wired.com/story/livestream-tech-went-all-in-on-trump-now-what/)
+ - [Low prices, available land, and cooler weather are driving the data center boom in the Nordics, which have 1.5 GW of capacity live and 7.5 GW in the pipeline &lpar;Maggie Shiltagh/Bloomberg&rpar;](http://www.techmeme.com/250922/p3#a250922p3)
+ - [I never use a case, but it’s a must on my Pixel 10 Pro](https://www.androidauthority.com/have-to-use-cases-with-pixel-10-3598542/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
