@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [More Details About Xbox’s Canceled Perfect Dark Reportedly Leak](https://kotaku.com/more-details-about-xboxs-canceled-perfect-dark-reportedly-leak-2000627538)
- - [How to defeat Shadowpelt in Borderlands 4](https://www.polygon.com/borderlands-4-shadowpelt-boss-guide-moveset/)
- - [Where to find the Cogfly tool in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-cogfly-location-where-to-find-tool/)<!-- GAME:END -->
+ - [All silk spool fragment locations in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-spool-fragment-locations/)
+ - [Arc Raiders: Learn More, Pre-Order Now, and Join the Upcoming Server Slam Test](https://news.xbox.com/en-us/2025/09/22/arc-raiders-pre-order-server-slam-test/)
+ - [How to throw weapons in Dying Light: The Beast](https://www.polygon.com/dying-light-the-beast-how-to-throw-weapons/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
