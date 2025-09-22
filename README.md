@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The European Commission considers tweaking rules to simplify users&#39; cookie preference settings, after its 2009 rule plastered the internet with consent banners &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/250921/p28#a250921p28)
- - [One UI 8.5 is getting ready to borrow a fan-favorite Pixel feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/one-ui-8-5-automatic-call-screening-3599737/)
- - [How Seattle, transformed into a tech hub by Amazon and Microsoft&#39;s explosive growth, is grappling with the companies&#39; layoffs affecting local economy &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250921/p27#a250921p27)<!-- TECH:END -->
+ - [Chrome for Android can now read webpages like a podcast](https://www.androidauthority.com/google-chrome-android-audio-overviews-rollout-3599751/)
+ - [A Cyberattack on Jaguar Land Rover Is Causing a Supply Chain Disaster](https://www.wired.com/story/jlr-jaguar-land-rover-cyberattack-supply-chain-disaster/)
+ - [Canon Promo Codes: 10% Off | September 2025](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
