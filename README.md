@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome for Android can now read webpages like a podcast](https://www.androidauthority.com/google-chrome-android-audio-overviews-rollout-3599751/)
- - [A Cyberattack on Jaguar Land Rover Is Causing a Supply Chain Disaster](https://www.wired.com/story/jlr-jaguar-land-rover-cyberattack-supply-chain-disaster/)
- - [Canon Promo Codes: 10% Off | September 2025](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
+ - [Samsung rolls out stable One UI 8 update for Galaxy Z Fold 6, Flip 6](https://www.androidauthority.com/samsung-galaxy-z-fold-6-z-flip-6-one-ui-8-3599787/)
+ - [The Galaxy S26 could thrash the iPhone 17 Pro with new video recording features](https://www.androidauthority.com/galaxy-s26-camera-leak-pro-video-3599767/)
+ - [Galaxy S26 Ultra’s display could outshine the iPhone 17, but there’s bad news for S26 Pro, Edge](https://www.androidauthority.com/samsung-galaxy-s26-ultra-m14-oled-coe-leak-3599760/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
