@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hugo boss](http://9gag.com/gag/aKGNgD3)
- - 😝 [Asian female Ricardo. For the old good times.](http://9gag.com/gag/adB40j9)
- - 👉 [Kim Jong-un notices a member sleeping during the assembly. RIP dude.](http://9gag.com/gag/aryrvOK)<!-- MEMES:END -->
+ - 6️⃣ [This is a survival capsule design to survive a tsunami. Look familiar?](http://9gag.com/gag/abAm53v)
+ - 😝 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
+ - 👉 [Hugo boss](http://9gag.com/gag/aKGNgD3)<!-- MEMES:END -->
 
 --- 
 
