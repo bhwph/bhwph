@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What really scares the Gen Z star of 28 Years Later?](https://www.polygon.com/video/alfie-williams-28-years-later-horror-movies/)
  - [Silent Hill f review: Konami&#39;s horror series is back](https://www.polygon.com/silent-hill-f-review-konami/)
- - [Silent Hill F would be better if the combat was less enjoyable, or if there was just less combat](https://www.pcgamer.com/games/horror/silent-hill-f-would-be-better-if-the-combat-was-less-enjoyable-or-if-there-was-just-less-combat/)
- - [Silent Hill f: The Kotaku Review](https://kotaku.com/silent-hill-f-review-horror-konami-hinako-ryukishi07-2000627505)<!-- GAME:END -->
+ - [Silent Hill F would be better if the combat was less enjoyable, or if there was just less combat](https://www.pcgamer.com/games/horror/silent-hill-f-would-be-better-if-the-combat-was-less-enjoyable-or-if-there-was-just-less-combat/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
