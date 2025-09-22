@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [UK politician says Facebook whistleblower Sarah Wynn-Williams &#39;is being pushed to financial ruin&#39; by Meta after publishing her exposé](https://www.pcgamer.com/gaming-industry/uk-politician-says-facebook-whistleblower-sarah-wynn-williams-is-being-pushed-to-financial-ruin-by-meta-after-publishing-her-expose/)
- - [Silksong has the most insane secret bragging rights reward I&#39;ve ever seen: A special red or purple inventory icon for beating at least half of the game without a map](https://www.pcgamer.com/games/action/silksong-has-the-most-insane-secret-bragging-rights-reward-ive-ever-seen-a-special-red-or-purple-inventory-icon-for-beating-at-least-half-of-the-game-without-a-map/)
- - [Battlefield 6 devs say that remastering old maps is harder than you might think](https://www.pcgamer.com/games/fps/battlefield-6-devs-say-that-remastering-old-maps-is-harder-than-you-might-think/)<!-- GAME:END -->
+ - [Can the U.S. handle a 28 Years Later-style outbreak?](https://www.polygon.com/video/can-the-u-s-handle-a-28-years-later-style-outbreak/)
+ - [Five new Steam games you probably missed &lpar;September 22, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-22-2025/)
+ - [The  16+ year-old original Stalker games have Nvidia DLSS support now, which isn&#39;t as crazy as it sounds](https://www.pcgamer.com/games/fps/the-16-year-old-original-stalker-games-have-nvidia-dlss-support-now-which-isnt-as-crazy-as-it-sounds/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
