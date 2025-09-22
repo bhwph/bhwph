@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jimmy Kimmel’s show will return after censorship outrage](https://www.theverge.com/news/782970/jimmy-kimmel-live-return-disney-charlie-kirk)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [PSA: Pixelsnap Ring Stand may mark up your caseless Pixel 10](https://www.androidauthority.com/pixelsnap-ring-stand-scratch-3600024/)<!-- TECH:END -->
+ - [Here’s what OnePlus told us about HeyTap’s US shutdown](https://www.androidauthority.com/oneplus-statement-heytap-discontinuation-3600104/)
+ - [Over 200 prominent figures, including senior staffers at AI companies, call for international action to create &quot;red lines&quot; for AI development by the end of 2026 &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/250922/p28#a250922p28)
+ - [Hot deal: The Yaber L2s portable projector plummets to new record-low price of $120](https://www.androidauthority.com/yaber-l2s-portable-projector-deal-3600059/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
