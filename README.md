@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Livestream: Tech Went All in on Trump. Now What?](https://www.wired.com/story/livestream-tech-went-all-in-on-trump-now-what/)
- - [Low prices, available land, and cooler weather are driving the data center boom in the Nordics, which have 1.5 GW of capacity live and 7.5 GW in the pipeline &lpar;Maggie Shiltagh/Bloomberg&rpar;](http://www.techmeme.com/250922/p3#a250922p3)
- - [I never use a case, but it’s a must on my Pixel 10 Pro](https://www.androidauthority.com/have-to-use-cases-with-pixel-10-3598542/)<!-- TECH:END -->
+ - [Oracle promotes Clay Magouyrk and Mike Sicilia to co-CEOs, replacing Safra Catz; Magouyrk previously led Cloud Infrastructure, and Sicilia led Oracle Industries &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250922/p7#a250922p7)
+ - [Books that changed our lives](https://www.theverge.com/tech/774085/books-that-changed-our-lives)
+ - [Dreame’s latest cordless vacuum cleaner works on both hard floors and carpets](https://www.androidauthority.com/dreame-h15-pro-carpetflex-vacuum-cleaner-3599794/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
