@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
- - [Save $36 on a Cool, Compact Hall Effect Keyboard](https://www.wired.com/story/keychron-q1-he-deal/)
- - [On the H-1B fee, Jensen Huang says he&#39;s &quot;glad&quot; to see &quot;Trump making the moves he&#39;s making&quot;; Sam Altman says &quot;outlining financial incentives seems good to me&quot; &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250922/p23#a250922p23)<!-- TECH:END -->
+ - [Jimmy Kimmel’s show will return after censorship outrage](https://www.theverge.com/news/782970/jimmy-kimmel-live-return-disney-charlie-kirk)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [PSA: Pixelsnap Ring Stand may mark up your caseless Pixel 10](https://www.androidauthority.com/pixelsnap-ring-stand-scratch-3600024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
