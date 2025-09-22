@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Practice](http://9gag.com/gag/a34pvb7)
- - 😝 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
- - 👉 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)<!-- MEMES:END -->
+ - 6️⃣ [A true feminist fighting for true equality](http://9gag.com/gag/agmZ35W)
+ - 😝 [`uK hAs fReE SpEeCh` - 2 tier kier..](http://9gag.com/gag/aND2rXw)
+ - 👉 [He maybe a damaged little f**k, but he is my damaged little f**k and i love him...](http://9gag.com/gag/azxDbwj)<!-- MEMES:END -->
 
 --- 
 
