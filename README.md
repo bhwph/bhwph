@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [A true feminist fighting for true equality](http://9gag.com/gag/agmZ35W)
  - 😝 [`uK hAs fReE SpEeCh` - 2 tier kier..](http://9gag.com/gag/aND2rXw)
- - 👉 [He maybe a damaged little f**k, but he is my damaged little f**k and i love him...](http://9gag.com/gag/azxDbwj)<!-- MEMES:END -->
+ - 👉 [Boss finally sees you doing something right](http://9gag.com/gag/a34pP23)<!-- MEMES:END -->
 
 --- 
 
