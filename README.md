@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All silk spool fragment locations in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-spool-fragment-locations/)
- - [Arc Raiders: Learn More, Pre-Order Now, and Join the Upcoming Server Slam Test](https://news.xbox.com/en-us/2025/09/22/arc-raiders-pre-order-server-slam-test/)
- - [How to throw weapons in Dying Light: The Beast](https://www.polygon.com/dying-light-the-beast-how-to-throw-weapons/)<!-- GAME:END -->
+ - [Eurogamer: How Xbox Chooses Its Indies, and What It Means for the Devs](https://www.eurogamer.net/inside-xboxs-increasingly-vital-indie-publishing-operation#new_tab)
+ - [Nobody Told Me One Of The Biggest Games On The Planet Is Super Horny](https://kotaku.com/love-and-deepspace-zayne-edge-of-continuum-sex-scene-2000627623)
+ - [Make Some Noise season 4 returns next month with Brennan Lee Mulligan, Ben Schwartz, and more](https://www.polygon.com/dropout-make-some-noise-season-4-trailer-date/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
