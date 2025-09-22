@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Derek Li, founder of China&#39;s top adaptive learning edtech Squirrel AI, whose business is fueled by the country&#39;s relentless academic pressure &lpar;Bloomberg&rpar;](http://www.techmeme.com/250921/p22#a250921p22)
- - [&#39;Tulsa King&#39; Season 3 Release Schedule: When to Watch More on Paramount Plus](https://www.cnet.com/tech/services-and-software/tulsa-king-season-3-release-schedule-when-to-watch-more-on-paramount-plus/#ftag=CAD590a51e)
- - [A look at life in online scam compounds run by Chinese gangs on the Myanmar-Thai border, with purported Thai immigration officials luring trafficking victims &lpar;Reuters&rpar;](http://www.techmeme.com/250921/p21#a250921p21)<!-- TECH:END -->
+ - [In an interview, Brian Armstrong says Coinbase plans to become a financial super app that integrates its crypto offering with traditional banking services &lpar;CoinDesk&rpar;](http://www.techmeme.com/250921/p26#a250921p26)
+ - [Ethereum&#39;s &quot;low-risk DeFi&quot; applications like payments and savings could drive the chain&#39;s revenue in a similar way that search and ads sustain Google&#39;s business &lpar;Vitalik Buterin/Vitalik Buterin&#39;s website&rpar;](http://www.techmeme.com/250921/p25#a250921p25)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 22, #364](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-22-364/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
