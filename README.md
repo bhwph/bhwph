@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One mad lad is trying to play Hollow Knight and Silksong at the same time with one controller](https://www.pcgamer.com/games/action/one-mad-lad-is-trying-to-play-hollow-knight-and-silksong-at-the-same-time-with-one-controller/)
- - [Today&#39;s Wordle clues, hints and answer for September 22 &lpar;#1556&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-22-2025/)
- - [Can the U.S. handle a 28 Years Later-style outbreak?](https://www.polygon.com/video/can-the-u-s-handle-a-28-years-later-style-outbreak/)<!-- GAME:END -->
+ - [Silent Hill f review: Konami&#39;s horror series is back](https://www.polygon.com/silent-hill-f-review-konami/)
+ - [Silent Hill F would be better if the combat was less enjoyable, or if there was just less combat](https://www.pcgamer.com/games/horror/silent-hill-f-would-be-better-if-the-combat-was-less-enjoyable-or-if-there-was-just-less-combat/)
+ - [Silent Hill f: The Kotaku Review](https://kotaku.com/silent-hill-f-review-horror-konami-hinako-ryukishi07-2000627505)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
