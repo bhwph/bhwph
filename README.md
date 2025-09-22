@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
- - 😝 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
- - 👉 [Guy gets kicked off air by Sky News for wearing a BACON shirt and exposing ISLAM](http://9gag.com/gag/aO8NqZy)<!-- MEMES:END -->
+ - 6️⃣ [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
+ - 😝 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
+ - 👉 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)<!-- MEMES:END -->
 
 --- 
 
