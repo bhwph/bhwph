@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A true feminist fighting for true equality](http://9gag.com/gag/agmZ35W)
- - 😝 [`uK hAs fReE SpEeCh` - 2 tier kier..](http://9gag.com/gag/aND2rXw)
- - 👉 [Boss finally sees you doing something right](http://9gag.com/gag/a34pP23)<!-- MEMES:END -->
+ - 6️⃣ [He maybe a damaged little f**k, but he is my damaged little f**k and i love him...](http://9gag.com/gag/azxDbwj)
+ - 😝 [Stereotypes aren&#39;t given they&#39;re earned](http://9gag.com/gag/aD2N08N)
+ - 👉 [Good, good. Let the hate flow through you.](http://9gag.com/gag/a6Z3w7L)<!-- MEMES:END -->
 
 --- 
 
