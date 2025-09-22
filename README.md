@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He maybe a damaged little f**k, but he is my damaged little f**k and i love him...](http://9gag.com/gag/azxDbwj)
- - 😝 [Stereotypes aren&#39;t given they&#39;re earned](http://9gag.com/gag/aD2N08N)
- - 👉 [Good, good. Let the hate flow through you.](http://9gag.com/gag/a6Z3w7L)<!-- MEMES:END -->
+ - 6️⃣ [Cool.](http://9gag.com/gag/aVv1zPw)
+ - 😝 [Poor Liam. The fans are going to be brutal.](http://9gag.com/gag/avyXp0b)
+ - 👉 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)<!-- MEMES:END -->
 
 --- 
 
