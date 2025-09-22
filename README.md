@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We don&#39;t deserve dogs](http://9gag.com/gag/aXPG0mv)
- - 😝 [What a d**head](http://9gag.com/gag/aAyNVPR)
- - 👉 [Yuri](http://9gag.com/gag/a6Z3wr2)<!-- MEMES:END -->
+ - 6️⃣ [Hugo boss](http://9gag.com/gag/aKGNgD3)
+ - 😝 [Asian female Ricardo. For the old good times.](http://9gag.com/gag/adB40j9)
+ - 👉 [Kim Jong-un notices a member sleeping during the assembly. RIP dude.](http://9gag.com/gag/aryrvOK)<!-- MEMES:END -->
 
 --- 
 
