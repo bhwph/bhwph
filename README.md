@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oracle promotes Clay Magouyrk and Mike Sicilia to co-CEOs, replacing Safra Catz; Magouyrk previously led Cloud Infrastructure, and Sicilia led Oracle Industries &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250922/p7#a250922p7)
- - [Books that changed our lives](https://www.theverge.com/tech/774085/books-that-changed-our-lives)
- - [Dreame’s latest cordless vacuum cleaner works on both hard floors and carpets](https://www.androidauthority.com/dreame-h15-pro-carpetflex-vacuum-cleaner-3599794/)<!-- TECH:END -->
+ - [Record labels claim AI generator Suno illegally ripped their songs from YouTube](https://www.theverge.com/news/782448/riaa-suno-ai-lawsuit-update-stream-ripping-youtube)
+ - [Sources: smart ring maker Oura is raising an $875M+ Series E at a $10.9B valuation, up from $5B in November 2024, and has sold ~3M rings over the past year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250922/p10#a250922p10)
+ - [The very first Google TV set with Gemini is now available for purchase](https://www.androidauthority.com/google-tv-gemini-sale-3599476/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
