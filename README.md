@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cool.](http://9gag.com/gag/aVv1zPw)
- - 😝 [Poor Liam. The fans are going to be brutal.](http://9gag.com/gag/avyXp0b)
- - 👉 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)<!-- MEMES:END -->
+ - 6️⃣ [We don&#39;t deserve dogs](http://9gag.com/gag/aXPG0mv)
+ - 😝 [What a d**head](http://9gag.com/gag/aAyNVPR)
+ - 👉 [Nice](http://9gag.com/gag/azxDLMj)<!-- MEMES:END -->
 
 --- 
 
