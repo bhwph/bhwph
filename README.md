@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TCL’s Google TVs with an mmWave presence sensor are out now](https://www.theverge.com/news/782625/tcl-google-tv-qm9k-mmwave-presence-sensor-gemini)
- - [TikTok is tagging videos from Gaza with TikTok Shop products](https://www.theverge.com/tech/782540/tiktok-shop-scanning-gaza-videos-e-commerce-dupes)
- - [Rare Apple-1 in original wooden case fetches $475,000 at auction](https://appleinsider.com/articles/25/09/22/rare-apple-1-in-original-wooden-case-fetches-475000-at-auction?utm_source=rss)<!-- TECH:END -->
+ - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
+ - [Save $36 on a Cool, Compact Hall Effect Keyboard](https://www.wired.com/story/keychron-q1-he-deal/)
+ - [On the H-1B fee, Jensen Huang says he&#39;s &quot;glad&quot; to see &quot;Trump making the moves he&#39;s making&quot;; Sam Altman says &quot;outlining financial incentives seems good to me&quot; &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250922/p23#a250922p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
