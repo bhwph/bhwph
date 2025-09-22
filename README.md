@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Record labels claim AI generator Suno illegally ripped their songs from YouTube](https://www.theverge.com/news/782448/riaa-suno-ai-lawsuit-update-stream-ripping-youtube)
- - [Sources: smart ring maker Oura is raising an $875M+ Series E at a $10.9B valuation, up from $5B in November 2024, and has sold ~3M rings over the past year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250922/p10#a250922p10)
- - [The very first Google TV set with Gemini is now available for purchase](https://www.androidauthority.com/google-tv-gemini-sale-3599476/)<!-- TECH:END -->
+ - [TCL’s Google TVs with an mmWave presence sensor are out now](https://www.theverge.com/news/782625/tcl-google-tv-qm9k-mmwave-presence-sensor-gemini)
+ - [TikTok is tagging videos from Gaza with TikTok Shop products](https://www.theverge.com/tech/782540/tiktok-shop-scanning-gaza-videos-e-commerce-dupes)
+ - [Rare Apple-1 in original wooden case fetches $475,000 at auction](https://appleinsider.com/articles/25/09/22/rare-apple-1-in-original-wooden-case-fetches-475000-at-auction?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
