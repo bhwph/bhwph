@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Seven at 30: How David Fincher brought horror back a year before Scream](https://www.polygon.com/seven-at-30-fincher-horror/)
- - [YouTuber makes a &#39;portable monstrosity&#39; Xbox using a handsaw, hot glue, and eight disk drives: &#39;It&#39;s working. It&#39;s actually working!&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/youtuber-makes-a-portable-monstrosity-xbox-using-a-handsaw-hot-glue-and-eight-disk-drives-its-working-its-actually-working/)
- - [GTA 5 Trevor actor feels &#39;nothing inside&#39; for GTA 6, challenges gamers to read Crime and Punishment: &#39;Books are my thing&#39;](https://www.pcgamer.com/games/grand-theft-auto/gta-5-trevor-actor-feels-nothing-inside-for-gta-6-challenges-gamers-to-read-crime-and-punishment-books-are-my-thing/)<!-- GAME:END -->
+ - [More Details About Xbox’s Canceled Perfect Dark Reportedly Leak](https://kotaku.com/more-details-about-xboxs-canceled-perfect-dark-reportedly-leak-2000627538)
+ - [How to defeat Shadowpelt in Borderlands 4](https://www.polygon.com/borderlands-4-shadowpelt-boss-guide-moveset/)
+ - [Where to find the Cogfly tool in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-cogfly-location-where-to-find-tool/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
