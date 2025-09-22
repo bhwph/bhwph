@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [We don&#39;t deserve dogs](http://9gag.com/gag/aXPG0mv)
  - 😝 [What a d**head](http://9gag.com/gag/aAyNVPR)
- - 👉 [Nice](http://9gag.com/gag/azxDLMj)<!-- MEMES:END -->
+ - 👉 [Yuri](http://9gag.com/gag/a6Z3wr2)<!-- MEMES:END -->
 
 --- 
 
