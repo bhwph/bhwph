@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is a survival capsule design to survive a tsunami. Look familiar?](http://9gag.com/gag/abAm53v)
+ - 6️⃣ [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
  - 😝 [They definitely did not expect that](http://9gag.com/gag/apRjqwM)
- - 👉 [Hugo boss](http://9gag.com/gag/aKGNgD3)<!-- MEMES:END -->
+ - 👉 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)<!-- MEMES:END -->
 
 --- 
 
