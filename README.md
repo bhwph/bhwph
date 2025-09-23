@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is a survival capsule design to survive a tsunami. Look familiar?](http://9gag.com/gag/abAm53v)
- - 😝 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
- - 👉 [Hugo boss](http://9gag.com/gag/aKGNgD3)<!-- MEMES:END -->
+ - 6️⃣ [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
+ - 😝 [They definitely did not expect that](http://9gag.com/gag/apRjqwM)
+ - 👉 [This is a survival capsule design to survive a tsunami. Look familiar?](http://9gag.com/gag/abAm53v)<!-- MEMES:END -->
 
 --- 
 
