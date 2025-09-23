@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Whole Bunch Of Awesome Shooters Are Cheap Right Now On Steam](https://kotaku.com/boomer-shooter-dusk-mycopunk-demos-sale-event-boomstock-2025-pc-2000627990)
- - [A week after saying it was going quiet for the rest of the year, Palworld announces a crossover with the brilliant and bloodstained shooter Ultrakill](https://www.pcgamer.com/games/survival-crafting/a-week-after-saying-it-was-going-quiet-for-the-rest-of-the-year-palworld-announces-a-crossover-with-the-brilliant-and-bloodstained-shooter-ultrakill/)
- - [Baby Steps’ nudity toggle unleashes a donkey dong bonanza](https://www.polygon.com/baby-steps-nudity-toggle-explained/)<!-- GAME:END -->
+ - [This Official 50-Pack of Pokemon Cards Sells for $0.10 Each, Amazon Is Liquidating Its Inventory](https://kotaku.com/this-official-50-pack-of-pokemon-cards-sells-for-0-10-each-amazon-is-liquidating-its-inventory-2000628019)
+ - [Mondo&#39;s new Over the Garden Wall collectibles are stunning &lpar;and expensive&rpar;](https://www.polygon.com/mondo-over-the-garden-wall-collectible-figures-vinyl-price/)
+ - [DJI Is Clearing Out Its Summer Stock of Mini 4K Drones, Prices Back to Black Friday Lows](https://kotaku.com/dji-is-clearing-out-its-summer-stock-of-mini-4k-drones-prices-back-to-black-friday-lows-2000627999)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
