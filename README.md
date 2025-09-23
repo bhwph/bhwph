@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
+ - 6️⃣ [They definitely did not expect that](http://9gag.com/gag/apRjqwM)
  - 😝 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
- - 👉 [Found out](http://9gag.com/gag/abAmyRr)<!-- MEMES:END -->
+ - 👉 [Wamen](http://9gag.com/gag/aE0Nzvn)<!-- MEMES:END -->
 
 --- 
 
