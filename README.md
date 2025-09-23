@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [That leaked OnePlus 15 might be the real deal after all](https://www.androidauthority.com/oppo-find-x9-pro-design-teaser-oneplus-15-3600179/)
- - [ChatGPT’s $4.5 subscription is expanding to more countries](https://www.androidauthority.com/chatgpt-go-expansion-3600175/)
- - [OpenAI launches ChatGPT Go in Indonesia for ~$4.50 per month, expanding its budget-friendly ChatGPT subscription plan after debuting it in India in August &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250923/p3#a250923p3)<!-- TECH:END -->
+ - [Auterion, which provides autopilot and swarming software for military drones, raised $130M led by Bessemer at a $600M+ valuation, says it has ~$100M in revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/250923/p6#a250923p6)
+ - [You’re installing and uninstalling your Android apps wrong](https://www.androidauthority.com/youre-installing-and-uninstalling-android-apps-wrong-3599820/)
+ - [She Fought the Far Right Online for Years. Now She Wants to Do It in Congress](https://www.wired.com/story/kat-abughazaleh-youtuber-for-congress/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
