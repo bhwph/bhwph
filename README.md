@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baseus 100W USB-C Charger Block Drops Below Prime Day Pricing and Lets You Charge More Devices at Once Almost Free](https://kotaku.com/baseus-100w-usb-c-charger-block-drops-below-prime-day-pricing-and-lets-you-charge-more-devices-at-once-almost-free-2000627632)
- - [The Internet Reacts To Trump Claiming Tylenol Causes Autism](https://kotaku.com/trump-autism-tylenol-press-conference-reaction-jokes-2000627950)
- - [How to find the Last Wish safe codes in Dying Light: The Beast](https://www.polygon.com/dying-light-the-beast-last-wish-safe-code-iris-how-to-find/)<!-- GAME:END -->
+ - [A Whole Bunch Of Awesome Shooters Are Cheap Right Now On Steam](https://kotaku.com/boomer-shooter-dusk-mycopunk-demos-sale-event-boomstock-2025-pc-2000627990)
+ - [A week after saying it was going quiet for the rest of the year, Palworld announces a crossover with the brilliant and bloodstained shooter Ultrakill](https://www.pcgamer.com/games/survival-crafting/a-week-after-saying-it-was-going-quiet-for-the-rest-of-the-year-palworld-announces-a-crossover-with-the-brilliant-and-bloodstained-shooter-ultrakill/)
+ - [Baby Steps’ nudity toggle unleashes a donkey dong bonanza](https://www.polygon.com/baby-steps-nudity-toggle-explained/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
