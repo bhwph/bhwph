@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Crypto Malware ‘Game’ On Steam Stole $32,000 From Cancer-Stricken Streamer](https://kotaku.com/steam-malware-blockblaster-crypto-streamer-2000627893)
- - [Sony announces new State of Play game showcase for TGS 2025](https://www.polygon.com/playstation-state-of-play-september-2025-when-date-time/)
- - [The 2025 Enhanced Ryzen 5 Gaming Mini PC Just Hit Its Lowest Price, Over 2x Cheaper Than Mac Mini](https://kotaku.com/the-2025-enhanced-ryzen-5-gaming-mini-pc-just-hit-its-lowest-price-over-2x-cheaper-than-mac-mini-2000627660)<!-- GAME:END -->
+ - [Baseus 100W USB-C Charger Block Drops Below Prime Day Pricing and Lets You Charge More Devices at Once Almost Free](https://kotaku.com/baseus-100w-usb-c-charger-block-drops-below-prime-day-pricing-and-lets-you-charge-more-devices-at-once-almost-free-2000627632)
+ - [The Internet Reacts To Trump Claiming Tylenol Causes Autism](https://kotaku.com/trump-autism-tylenol-press-conference-reaction-jokes-2000627950)
+ - [How to find the Last Wish safe codes in Dying Light: The Beast](https://www.polygon.com/dying-light-the-beast-last-wish-safe-code-iris-how-to-find/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
