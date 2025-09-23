@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile will rely on T Life for all transactions by 2026 as it embraces digital-first approach](https://www.androidauthority.com/t-mobile-t-life-future-3600437/)
- - [TP-Link’s BE3600 Travel Router makes it easy to get online on the go, and it’s cheaper than ever](https://www.theverge.com/tech/783870/tp-link-be3600-travel-router-apple-airtag-deal-sale)
- - [Filing: Indian ride-hailing app Rapido doubled its valuation to $2.3B after Swiggy offloaded its 12% Rapido stake for ~$270M in a secondary share sale &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250923/p24#a250923p24)<!-- TECH:END -->
+ - [Apple Invites adds calendar syncing and video playback](https://appleinsider.com/articles/25/09/23/apple-invites-adds-calendar-syncing-and-video-playback?utm_source=rss)
+ - [Australia-based Morse Micro, which develops ultra-low power Wi-Fi HaLow chips, raised a ~$38M Series C, bringing its total raised to ~$125M &lpar;ComputerWeekly.com&rpar;](http://www.techmeme.com/250923/p29#a250923p29)
+ - [&#39;The Savant&#39; pulled from Apple TV+ schedule, new date unannounced](https://appleinsider.com/articles/25/09/23/the-savant-pulled-from-apple-tv-schedule-new-date-unannounced?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
