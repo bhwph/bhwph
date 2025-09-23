@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I was almost fooled by Beatblock&#39;s deceptively simple style before being floored by what a delightfully brutal rhythm game it is](https://www.pcgamer.com/games/rhythm/i-was-almost-fooled-by-beatblocks-deceptively-simple-style-before-being-floored-by-what-a-delightfully-brutal-rhythm-game-it-is/)
- - [If claims about TMSC&#39;s prices for its next-gen process node are even only half right, then the best CPUs and graphics cards are going to become a lot more expensive](https://www.pcgamer.com/hardware/if-claims-about-tmscs-prices-for-its-next-gen-process-node-are-even-only-half-right-then-the-best-cpus-and-graphics-cards-are-going-to-become-a-lot-more-expensive/)
- - [Another malware masquerading as a Steam game took tens of thousands from streamer&#39;s cancer recovery donations](https://www.pcgamer.com/hardware/streaming/another-malware-masquerading-as-a-steam-game-took-tens-of-thousands-from-streamers-cancer-recovery-donations/)<!-- GAME:END -->
+ - [A Crypto Malware ‘Game’ On Steam Stole $32,000 From Cancer-Stricken Streamer](https://kotaku.com/steam-malware-blockblaster-crypto-streamer-2000627893)
+ - [Sony announces new State of Play game showcase for TGS 2025](https://www.polygon.com/playstation-state-of-play-september-2025-when-date-time/)
+ - [The 2025 Enhanced Ryzen 5 Gaming Mini PC Just Hit Its Lowest Price, Over 2x Cheaper Than Mac Mini](https://kotaku.com/the-2025-enhanced-ryzen-5-gaming-mini-pc-just-hit-its-lowest-price-over-2x-cheaper-than-mac-mini-2000627660)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
