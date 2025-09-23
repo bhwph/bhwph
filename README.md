@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what OnePlus told us about HeyTap’s US shutdown](https://www.androidauthority.com/oneplus-statement-heytap-discontinuation-3600104/)
- - [Over 200 prominent figures, including senior staffers at AI companies, call for international action to create &quot;red lines&quot; for AI development by the end of 2026 &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/250922/p28#a250922p28)
- - [Hot deal: The Yaber L2s portable projector plummets to new record-low price of $120](https://www.androidauthority.com/yaber-l2s-portable-projector-deal-3600059/)<!-- TECH:END -->
+ - [Sources: humanoid robotics startup 1X is seeking to raise up to $1B at a $10B+ valuation, more than 12x its previous valuation from a January financing &lpar;The Information&rpar;](http://www.techmeme.com/250922/p34#a250922p34)
+ - [Palworld is getting a farming spinoff](https://www.theverge.com/news/782945/palworld-palfarm-farming-spinoff)
+ - [The EU&#39;s cybersecurity agency says a ransomware attack caused the recent disruptions that affected check-in systems at Heathrow and other European airports &lpar;Reuters&rpar;](http://www.techmeme.com/250922/p33#a250922p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
