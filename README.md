@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8.5 leaks show a system-wide design refresh that’s looking more and more like iOS 26](https://www.androidauthority.com/one-ui-8-5-leak-system-apps-redesign-3600230/)
- - [We’re living in a golden age of affordable mechanical keyboards](https://www.theverge.com/tech/783024/upgrade-mechanical-keyboard-prebuilt-best-affordable-typing-gaming-specs)
- - [Google begins its battle for the ‘unofficial currency of the internet’](https://www.theverge.com/policy/783285/google-doj-ad-tech-remedies-trial)<!-- TECH:END -->
+ - [Sam Altman says OpenAI wants to create &quot;a factory that can produce a gigawatt of new AI infrastructure every week&quot; and plans to reveal more details this year &lpar;Sam Altman&rpar;](http://www.techmeme.com/250923/p16#a250923p16)
+ - [Apple partners to protect California redwoods and expand global conservation](https://appleinsider.com/articles/25/09/23/apple-partners-to-protect-california-redwoods-and-expand-global-conservation?utm_source=rss)
+ - [Apple could make it easier to use third-party smartwatches with iOS 26](https://appleinsider.com/articles/25/09/23/apple-could-make-it-easier-to-use-third-party-smartwatches-with-ios-26?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
