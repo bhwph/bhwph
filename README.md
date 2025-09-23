@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Auterion, which provides autopilot and swarming software for military drones, raised $130M led by Bessemer at a $600M+ valuation, says it has ~$100M in revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/250923/p6#a250923p6)
- - [You’re installing and uninstalling your Android apps wrong](https://www.androidauthority.com/youre-installing-and-uninstalling-android-apps-wrong-3599820/)
- - [She Fought the Far Right Online for Years. Now She Wants to Do It in Congress](https://www.wired.com/story/kat-abughazaleh-youtuber-for-congress/)<!-- TECH:END -->
+ - [One UI 8.5 leaks show a system-wide design refresh that’s looking more and more like iOS 26](https://www.androidauthority.com/one-ui-8-5-leak-system-apps-redesign-3600230/)
+ - [We’re living in a golden age of affordable mechanical keyboards](https://www.theverge.com/tech/783024/upgrade-mechanical-keyboard-prebuilt-best-affordable-typing-gaming-specs)
+ - [Google begins its battle for the ‘unofficial currency of the internet’](https://www.theverge.com/policy/783285/google-doj-ad-tech-remedies-trial)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
