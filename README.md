@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Pro, iPhone Air excel in bend tests, still fragile for drop tests](https://appleinsider.com/articles/25/09/23/iphone-17-pro-iphone-air-excel-in-bend-tests-still-fragile-for-drop-tests?utm_source=rss)
- - [&#39;NBA 2K26 Arcade Edition&#39; arrives on Apple Arcade this October](https://appleinsider.com/articles/25/09/23/nba-2k26-arcade-edition-arrives-on-apple-arcade-this-october?utm_source=rss)
- - [One UI 8.5 wants to help… write Amazon reviews for you?](https://www.androidauthority.com/samsung-one-ui-8-5-ai-features-leak-3600380/)<!-- TECH:END -->
+ - [T-Mobile will rely on T Life for all transactions by 2026 as it embraces digital-first approach](https://www.androidauthority.com/t-mobile-t-life-future-3600437/)
+ - [TP-Link’s BE3600 Travel Router makes it easy to get online on the go, and it’s cheaper than ever](https://www.theverge.com/tech/783870/tp-link-be3600-travel-router-apple-airtag-deal-sale)
+ - [Filing: Indian ride-hailing app Rapido doubled its valuation to $2.3B after Swiggy offloaded its 12% Rapido stake for ~$270M in a secondary share sale &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250923/p24#a250923p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
