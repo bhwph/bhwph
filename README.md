@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI launches ChatGPT Go in Indonesia for ~$4.50 per month, expanding its budget-friendly ChatGPT subscription plan after debuting it in India in August &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250923/p3#a250923p3)
- - [Indian AI app development platform Rocket.new raised a $15M seed led by Salesforce Ventures; it has 400K+ users, including 10K+ paid subscribers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250923/p2#a250923p2)
- - [A first look at Kojima’s OD Xbox game](https://www.theverge.com/news/783409/od-kojima-xbox-game-trailer)<!-- TECH:END -->
+ - [That leaked OnePlus 15 might be the real deal after all](https://www.androidauthority.com/oppo-find-x9-pro-design-teaser-oneplus-15-3600179/)
+ - [ChatGPT’s $4.5 subscription is expanding to more countries](https://www.androidauthority.com/chatgpt-go-expansion-3600175/)
+ - [OpenAI launches ChatGPT Go in Indonesia for ~$4.50 per month, expanding its budget-friendly ChatGPT subscription plan after debuting it in India in August &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250923/p3#a250923p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
