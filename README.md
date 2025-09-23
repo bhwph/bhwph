@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands 4′s Super Jump Glitch Is Wild And Won’t Be Fixed…For Now](https://kotaku.com/borderlands-4s-super-jump-bug-cricket-jumping-legendary-gun-gearbox-patch-pc-2000627659)
- - [Fans Are Freaking Out About How Bad The Mandalorian And Grogu Looks](https://kotaku.com/star-wars-mandalorian-grogu-trailer-reactions-2000627675)
- - [Henry Cavill&#39;s new photos on Instagram probably aren&#39;t teasing anything about his new Warhammer 40,000 cinematic universe—but they might be](https://www.pcgamer.com/movies-tv/henry-cavills-new-photos-on-instagram-probably-arent-teasing-anything-about-his-new-warhammer-40-000-cinematic-universe-but-they-might-be/)<!-- GAME:END -->
+ - [Palfarm is a Palworld spinoff that looks like Pokémon Stardew Valley](https://www.polygon.com/palworld-palfarm-farming-game-trailer-steam-pocketpair/)
+ - [Silent Hill f release date and launch times](https://www.pcgamer.com/games/horror/silent-hill-f-release-date-launch-times/)
+ - [Ready or Not studio fires community manager for saying &#39;nothing of value was lost&#39; following Charlie Kirk&#39;s shooting](https://www.pcgamer.com/gaming-industry/ready-or-not-studio-fires-community-manager-for-saying-nothing-of-value-was-lost-following-charlie-kirks-shooting/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
