@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Invites adds calendar syncing and video playback](https://appleinsider.com/articles/25/09/23/apple-invites-adds-calendar-syncing-and-video-playback?utm_source=rss)
- - [Australia-based Morse Micro, which develops ultra-low power Wi-Fi HaLow chips, raised a ~$38M Series C, bringing its total raised to ~$125M &lpar;ComputerWeekly.com&rpar;](http://www.techmeme.com/250923/p29#a250923p29)
- - [&#39;The Savant&#39; pulled from Apple TV+ schedule, new date unannounced](https://appleinsider.com/articles/25/09/23/the-savant-pulled-from-apple-tv-schedule-new-date-unannounced?utm_source=rss)<!-- TECH:END -->
+ - [Snowflake, Salesforce, and others announce the Open Semantic Interchange, a vendor-neutral standard for how business data is defined and shared across platforms &lpar;Michael Nuñez/Venturebeat&rpar;](http://www.techmeme.com/250923/p36#a250923p36)
+ - [Inside Charlie Kirk’s megachurch memorial service](https://www.theverge.com/column/784033/charlie-kirk-memorial-jimmy-kimmel-fcc-regulator)
+ - [GitHub outlines plans to secure npm following multiple supply-chain attacks, including deprecating legacy classic tokens and migrating users to FIDO-based 2FA &lpar;Xavier René-Corail/The GitHub Blog&rpar;](http://www.techmeme.com/250923/p35#a250923p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
