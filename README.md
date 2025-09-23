@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says OpenAI wants to create &quot;a factory that can produce a gigawatt of new AI infrastructure every week&quot; and plans to reveal more details this year &lpar;Sam Altman&rpar;](http://www.techmeme.com/250923/p16#a250923p16)
- - [Apple partners to protect California redwoods and expand global conservation](https://appleinsider.com/articles/25/09/23/apple-partners-to-protect-california-redwoods-and-expand-global-conservation?utm_source=rss)
- - [Apple could make it easier to use third-party smartwatches with iOS 26](https://appleinsider.com/articles/25/09/23/apple-could-make-it-easier-to-use-third-party-smartwatches-with-ios-26?utm_source=rss)<!-- TECH:END -->
+ - [iPhone 17 Pro, iPhone Air excel in bend tests, still fragile for drop tests](https://appleinsider.com/articles/25/09/23/iphone-17-pro-iphone-air-excel-in-bend-tests-still-fragile-for-drop-tests?utm_source=rss)
+ - [&#39;NBA 2K26 Arcade Edition&#39; arrives on Apple Arcade this October](https://appleinsider.com/articles/25/09/23/nba-2k26-arcade-edition-arrives-on-apple-arcade-this-october?utm_source=rss)
+ - [One UI 8.5 wants to help… write Amazon reviews for you?](https://www.androidauthority.com/samsung-one-ui-8-5-ai-features-leak-3600380/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
