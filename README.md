@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at India&#39;s $18.2B chipmaking push, with 10 projects across six states to cut import reliance, as experts question if talent and investment are enough &lpar;Priyanka Salve/CNBC&rpar;](http://www.techmeme.com/250923/p1#a250923p1)
- - [Apple’s shiny new iPhone 17 faces “Scratchgate” as early buyers spot marks on day one](https://www.androidauthority.com/iphone-17-pro-scratchgate-3600146/)
- - [How to take a high quality screenshot of a YouTube video on a Mac](https://appleinsider.com/inside/macos/tips/how-to-take-a-high-quality-screenshot-of-a-youtube-video-on-a-mac?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI launches ChatGPT Go in Indonesia for ~$4.50 per month, expanding its budget-friendly ChatGPT subscription plan after debuting it in India in August &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250923/p3#a250923p3)
+ - [Indian AI app development platform Rocket.new raised a $15M seed led by Salesforce Ventures; it has 400K+ users, including 10K+ paid subscribers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250923/p2#a250923p2)
+ - [A first look at Kojima’s OD Xbox game](https://www.theverge.com/news/783409/od-kojima-xbox-game-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
