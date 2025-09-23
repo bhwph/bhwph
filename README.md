@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hamish Linklater&#39;s career is &quot;torture.&quot;](https://www.polygon.com/video/hamish-linklater-monologues-gen-v/)
- - [OD – Knock: Watch the Teaser Trailer from Kojima Productions](https://www.youtube.com/watch?v=eHCqxLtwy5g#new_tab)
- - [All Racket Rivals codes and how to redeem them](https://www.pcgamer.com/games/racket-rivals-codes/)<!-- GAME:END -->
+ - [I was almost fooled by Beatblock&#39;s deceptively simple style before being floored by what a delightfully brutal rhythm game it is](https://www.pcgamer.com/games/rhythm/i-was-almost-fooled-by-beatblocks-deceptively-simple-style-before-being-floored-by-what-a-delightfully-brutal-rhythm-game-it-is/)
+ - [If claims about TMSC&#39;s prices for its next-gen process node are even only half right, then the best CPUs and graphics cards are going to become a lot more expensive](https://www.pcgamer.com/hardware/if-claims-about-tmscs-prices-for-its-next-gen-process-node-are-even-only-half-right-then-the-best-cpus-and-graphics-cards-are-going-to-become-a-lot-more-expensive/)
+ - [Another malware masquerading as a Steam game took tens of thousands from streamer&#39;s cancer recovery donations](https://www.pcgamer.com/hardware/streaming/another-malware-masquerading-as-a-steam-game-took-tens-of-thousands-from-streamers-cancer-recovery-donations/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
