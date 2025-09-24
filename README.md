@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Unauthorized&#39; AI-generated voices in Tomb Raider 4-6 Remastered have been removed](https://www.pcgamer.com/games/action/unauthorized-ai-generated-voices-in-tomb-raider-4-6-remastered-have-been-removed/)
- - [Report: Alan Wake 2 Is The Big PS Plus Game For October](https://kotaku.com/ps-plus-free-october-2025-alan-wake-2-2000628251)
- - [Star Trek: Voyager video game reveals hilarious Tuvix challenge](https://www.polygon.com/star-trek-voyager-video-game-play-trailer-tuvix/)<!-- GAME:END -->
+ - [Everything We Saw At Today’s PlayStation State Of Play Showcase](https://kotaku.com/state-of-play-playstation-5-sony-stream-youtube-twitch-2000628258)
+ - [So far, the Battlefield 6 campaign is satisfied being a Call of Duty cover band](https://www.pcgamer.com/games/fps/so-far-the-battlefield-6-campaign-is-satisfied-being-a-call-of-duty-cover-band/)
+ - [Wolverine PS5 gets a ridiculously violent TGS trailer and 2026 release date](https://www.polygon.com/marvel-wolverine-ps5-release-date-trailer-tokyo-game-show-tgs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
