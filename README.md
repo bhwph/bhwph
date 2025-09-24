@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How patience, ChatGPT, and a little luck can net you one nearly functional iPhone game](https://appleinsider.com/articles/25/09/24/how-patience-chatgpt-and-a-little-luck-can-net-you-one-nearly-functional-iphone-game?utm_source=rss)
- - [WeTravel, whose travel payments software is used by group travel operators, raised a $92M Series C at a ~$450M valuation, up from ~$100M in 2022 &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250924/p18#a250924p18)
- - [9 Best Electric Scooters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-electric-scooters/)<!-- TECH:END -->
+ - [Disney sure picked a terrible time to raise prices](https://www.theverge.com/report/784594/disney-jimmy-kimmel-backlash-price-hikes)
+ - [Latest iOS beta hints at notifications on non-Apple watches](https://www.theverge.com/news/784477/apple-ios-26-beta-third-party-smartwatch-notifications)
+ - [13 Best MagSafe Power Banks for iPhones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-power-banks/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
