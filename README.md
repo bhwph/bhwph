@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Safe zone](http://9gag.com/gag/aE0N78x)
- - 😝 [Never Forgetti](http://9gag.com/gag/agmZN7r)
- - 👉 [This ... and more](http://9gag.com/gag/aryrRQ6)<!-- MEMES:END -->
+ - 6️⃣ [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
+ - 😝 [Doggy style](http://9gag.com/gag/axynjDb)
+ - 👉 [Found out](http://9gag.com/gag/abAmyRr)<!-- MEMES:END -->
 
 --- 
 
