@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kimmel returns to television to mock FCC Chair Brendan Carr](https://www.theverge.com/policy/784355/jimmy-kimmel-return-brendan-carr-trump)
- - [Taiwan curbs chip exports to South Africa over national security concerns, the first time it has used its chip industry as a weapon against a China ally &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p6#a250924p6)
- - [Disney Plus hikes prices again, making it feel like an annual ritual](https://www.androidauthority.com/disney-plus-price-hike-3600641/)<!-- TECH:END -->
+ - [Indian digital payments giant PhonePe confidentially files for an IPO in India, seeking to raise $1.5B, sources say at a valuation of $15B &lpar;The Economic Times&rpar;](http://www.techmeme.com/250924/p13#a250924p13)
+ - [Gemini on Wear OS could soon allow truly hands-free conversations &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-wear-os-follow-up-conversation-3600656/)
+ - [Alibaba&#39;s Hong Kong-listed shares hit a nearly four-year high after CEO Eddie Wu announces plans to increase AI spending beyond the $53B target over three years &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250924/p12#a250924p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
