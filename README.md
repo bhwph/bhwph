@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/axynZnL)
- - 😝 [It&#39;s a simple life](http://9gag.com/gag/a6Z3yVN)
- - 👉 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)<!-- MEMES:END -->
+ - 6️⃣ [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
+ - 😝 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
+ - 👉 [Found out](http://9gag.com/gag/abAmyRr)<!-- MEMES:END -->
 
 --- 
 
