@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches its Search Live feature in the US, letting users ask questions in AI Mode while sharing their phone&#39;s camera feed for real-time help &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250924/p30#a250924p30)
- - [Waymo is launching a new service for business travelers](https://www.theverge.com/news/784929/waymo-for-business-corporate-travel-employer)
- - [Google Search Live is out of beta and ready to help you make matcha](https://www.androidauthority.com/google-search-live-ai-us-3600885/)<!-- TECH:END -->
+ - [Trump plans to sign a TikTok deal on Thursday; source: TikTok US would be run by a new joint venture company, with ByteDance holding less than 20% of its stock &lpar;NBC News&rpar;](http://www.techmeme.com/250924/p35#a250924p35)
+ - [Sources: Intel approached Apple about a potential investment in the chipmaker as part of its turnaround efforts and discussed how to work more closely together &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p34#a250924p34)
+ - [YouTube is getting a new button to hide those pesky pop-ups at the end of videos](https://www.androidauthority.com/youtube-hide-button-3600938/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
