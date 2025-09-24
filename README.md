@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Pro teardown reveals vapor chamber, explains scratches](https://appleinsider.com/articles/25/09/24/iphone-17-pro-teardown-reveals-vapor-chamber-explains-scratches?utm_source=rss)
- - [Pokémon lawyers won&amp;#8217;t sue DHS for that video, former legal head predicts](https://www.theverge.com/news/784312/pokemon-lawyers-wont-sue-dhs-for-that-video-former-legal-head-predicts)
- - [Alibaba releases the Qwen3-VL vision models, the Qwen3Guard &quot;safety moderation&quot; models, and three closed-weight models, including Qwen3-Max with 1T+ parameters &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250923/p41#a250923p41)<!-- TECH:END -->
+ - [VCs court top AI startups with preempted rounds and perks like private jets; PitchBook: US AI startups raised $200B in 2025, with 41% going to just 10 companies &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250923/p44#a250923p44)
+ - [Greptile, maker of an AI-powered code review tool, raised a $25M Series A led by Benchmark and launches Greptile v3 &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250923/p43#a250923p43)
+ - [iFixit zooms in on reports of an iPhone 17 Pro scratch problem](https://www.theverge.com/news/784324/apple-iphone-17-pro-ifixit-teardown-scratch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
