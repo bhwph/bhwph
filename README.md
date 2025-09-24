@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Garmin Solar GPS Fitness Watch Hits All-Time Low, More Than Twice as Cheap as Apple Watch Ultra 3](https://kotaku.com/this-garmin-solar-gps-fitness-watch-hits-all-time-low-more-than-twice-as-cheap-as-apple-watch-ultra-3-2000628031)
- - [Alien: Earth&#39;s eyeball monster was inspired by an abandoned plot twist](https://www.polygon.com/alien-earth-season-1-noah-hawley-interview/)
- - [Indie Selects for September 2025: Genre-Bending Greats](https://news.xbox.com/en-us/2025/09/24/indie-selects-id-xbox-september-2025/)<!-- GAME:END -->
+ - [Intel Blast: All You Need to Know about Black Ops 7 Zombies](https://www.callofduty.com/blog/2025/09/call-of-duty-black-ops-7-zombies-deep-dive#new_tab)
+ - [Diablo 4’s Season 10 Adds Infernal Chaos to the End-Game Helltides](https://news.xbox.com/en-us/2025/09/24/diablo-4-season-10-infernal-chaos-helltides-endgame/)
+ - [After Two Years, Overwatch 2 Finally Resolves Its Canceled Campaign’s Cliffhanger](https://kotaku.com/overwatch-2-story-missions-comic-zenyatta-ramattra-2000628236)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
