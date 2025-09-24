@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel Blast: All You Need to Know about Black Ops 7 Zombies](https://www.callofduty.com/blog/2025/09/call-of-duty-black-ops-7-zombies-deep-dive#new_tab)
- - [Diablo 4’s Season 10 Adds Infernal Chaos to the End-Game Helltides](https://news.xbox.com/en-us/2025/09/24/diablo-4-season-10-infernal-chaos-helltides-endgame/)
- - [After Two Years, Overwatch 2 Finally Resolves Its Canceled Campaign’s Cliffhanger](https://kotaku.com/overwatch-2-story-missions-comic-zenyatta-ramattra-2000628236)<!-- GAME:END -->
+ - [&#39;Unauthorized&#39; AI-generated voices in Tomb Raider 4-6 Remastered have been removed](https://www.pcgamer.com/games/action/unauthorized-ai-generated-voices-in-tomb-raider-4-6-remastered-have-been-removed/)
+ - [Report: Alan Wake 2 Is The Big PS Plus Game For October](https://kotaku.com/ps-plus-free-october-2025-alan-wake-2-2000628251)
+ - [Star Trek: Voyager video game reveals hilarious Tuvix challenge](https://www.polygon.com/star-trek-voyager-video-game-play-trailer-tuvix/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
