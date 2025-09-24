@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
- - 😝 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
- - 👉 [Always nice to see coop in the real life](http://9gag.com/gag/a9yNPpK)<!-- MEMES:END -->
+ - 6️⃣ [Safe zone](http://9gag.com/gag/aE0N78x)
+ - 😝 [Never Forgetti](http://9gag.com/gag/agmZN7r)
+ - 👉 [This ... and more](http://9gag.com/gag/aryrRQ6)<!-- MEMES:END -->
 
 --- 
 
