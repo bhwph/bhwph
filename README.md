@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian digital payments giant PhonePe confidentially files for an IPO in India, seeking to raise $1.5B, sources say at a valuation of $15B &lpar;The Economic Times&rpar;](http://www.techmeme.com/250924/p13#a250924p13)
- - [Gemini on Wear OS could soon allow truly hands-free conversations &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-wear-os-follow-up-conversation-3600656/)
- - [Alibaba&#39;s Hong Kong-listed shares hit a nearly four-year high after CEO Eddie Wu announces plans to increase AI spending beyond the $53B target over three years &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250924/p12#a250924p12)<!-- TECH:END -->
+ - [5 reasons why a Pixel is my phone of choice](https://www.androidauthority.com/why-pixel-my-phone-of-choice-3600219/)
+ - [The 22 Very Online Upstarts Changing the Face of Politics](https://www.wired.com/story/wired-2025-political-power-users/)
+ - [Michael Moritz says Trump&#39;s &quot;H-1B caper will backfire&quot; and shows the &quot;fragile grasp&quot; Trump and his acolytes have of what makes the US tech sector so successful &lpar;Michael Moritz/Financial Times&rpar;](http://www.techmeme.com/250924/p15#a250924p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
