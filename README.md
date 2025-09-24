@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney sure picked a terrible time to raise prices](https://www.theverge.com/report/784594/disney-jimmy-kimmel-backlash-price-hikes)
- - [Latest iOS beta hints at notifications on non-Apple watches](https://www.theverge.com/news/784477/apple-ios-26-beta-third-party-smartwatch-notifications)
- - [13 Best MagSafe Power Banks for iPhones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-power-banks/)<!-- TECH:END -->
+ - [YouTube will now let you hide those pesky end screens](https://www.theverge.com/news/784774/youtube-end-screen-videos-hide)
+ - [Ready for 6G? Qualcomm has bad news for you](https://www.androidauthority.com/qualcomm-6g-2028-3600781/)
+ - [Google launches the Data Commons MCP Server, allowing developers to integrate its collection of public datasets into AI systems via natural language queries &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250924/p25#a250924p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
