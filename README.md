@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I just beat Silksong&#39;s Act 3, and I&#39;m not just thrilled the game was was hard—I&#39;m glad it was mean to me, too](https://www.pcgamer.com/games/action/i-just-beat-silksongs-act-3-and-im-not-just-thrilled-the-game-was-was-hard-im-glad-it-was-mean-to-me-too/)
- - [After it accidentally leaked it, RGG unveils a full-on Kiwami remake of Yakuza 3, plus a whole new bonus Gaiden game where you play its main bad guy](https://www.pcgamer.com/games/action/after-it-accidentally-leaked-it-rgg-unveils-a-full-on-kiwami-remake-of-yakuza-3-plus-a-whole-new-bonus-gaiden-game-where-you-play-its-main-bad-guy/)
- - [Ghost of Yōtei Photo Mode features detailed, tips guide](https://blog.playstation.com/2025/09/24/ghost-of-yotei-photo-mode-features-detailed-tips-guide/)<!-- GAME:END -->
+ - [Amazon Clears Out This Intel i9 Mini Gaming PC &lpar;32GB RAM, 1TB SSD&rpar; With Almost 50% Off Ahead of Prime Big Deal Days](https://kotaku.com/amazon-clears-out-this-intel-i9-mini-gaming-pc-32gb-ram-1tb-ssd-with-almost-50-off-ahead-of-prime-big-deal-days-2000628044)
+ - [Hack and Slash with New Ninja Gaiden 4 Xbox Design Lab Controllers](https://news.xbox.com/en-us/2025/09/24/ninja-gaiden-4-xbox-design-lab-controllers/)
+ - [HBO’s New Stephen King Show Reveals Its Creepiest Trailer Yet](https://kotaku.com/it-welcome-to-derry-trailer-pennywise-king-2000628139)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
