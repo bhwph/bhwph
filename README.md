@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 reasons why a Pixel is my phone of choice](https://www.androidauthority.com/why-pixel-my-phone-of-choice-3600219/)
- - [The 22 Very Online Upstarts Changing the Face of Politics](https://www.wired.com/story/wired-2025-political-power-users/)
- - [Michael Moritz says Trump&#39;s &quot;H-1B caper will backfire&quot; and shows the &quot;fragile grasp&quot; Trump and his acolytes have of what makes the US tech sector so successful &lpar;Michael Moritz/Financial Times&rpar;](http://www.techmeme.com/250924/p15#a250924p15)<!-- TECH:END -->
+ - [How patience, ChatGPT, and a little luck can net you one nearly functional iPhone game](https://appleinsider.com/articles/25/09/24/how-patience-chatgpt-and-a-little-luck-can-net-you-one-nearly-functional-iphone-game?utm_source=rss)
+ - [WeTravel, whose travel payments software is used by group travel operators, raised a $92M Series C at a ~$450M valuation, up from ~$100M in 2022 &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250924/p18#a250924p18)
+ - [9 Best Electric Scooters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-electric-scooters/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
