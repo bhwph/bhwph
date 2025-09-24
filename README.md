@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Clears Out This Intel i9 Mini Gaming PC &lpar;32GB RAM, 1TB SSD&rpar; With Almost 50% Off Ahead of Prime Big Deal Days](https://kotaku.com/amazon-clears-out-this-intel-i9-mini-gaming-pc-32gb-ram-1tb-ssd-with-almost-50-off-ahead-of-prime-big-deal-days-2000628044)
- - [Hack and Slash with New Ninja Gaiden 4 Xbox Design Lab Controllers](https://news.xbox.com/en-us/2025/09/24/ninja-gaiden-4-xbox-design-lab-controllers/)
- - [HBO’s New Stephen King Show Reveals Its Creepiest Trailer Yet](https://kotaku.com/it-welcome-to-derry-trailer-pennywise-king-2000628139)<!-- GAME:END -->
+ - [This Garmin Solar GPS Fitness Watch Hits All-Time Low, More Than Twice as Cheap as Apple Watch Ultra 3](https://kotaku.com/this-garmin-solar-gps-fitness-watch-hits-all-time-low-more-than-twice-as-cheap-as-apple-watch-ultra-3-2000628031)
+ - [Alien: Earth&#39;s eyeball monster was inspired by an abandoned plot twist](https://www.polygon.com/alien-earth-season-1-noah-hawley-interview/)
+ - [Indie Selects for September 2025: Genre-Bending Greats](https://news.xbox.com/en-us/2025/09/24/indie-selects-id-xbox-september-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
