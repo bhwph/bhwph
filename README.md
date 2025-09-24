@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Classic Meme](http://9gag.com/gag/aRBNVBy)
- - 😝 [I&#39;m sure you someone appreciate that](http://9gag.com/gag/avyXLeW)
+ - 6️⃣ [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/axynZnL)
+ - 😝 [It&#39;s a simple life](http://9gag.com/gag/a6Z3yVN)
  - 👉 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)<!-- MEMES:END -->
 
 --- 
