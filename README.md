@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump plans to sign a TikTok deal on Thursday; source: TikTok US would be run by a new joint venture company, with ByteDance holding less than 20% of its stock &lpar;NBC News&rpar;](http://www.techmeme.com/250924/p35#a250924p35)
- - [Sources: Intel approached Apple about a potential investment in the chipmaker as part of its turnaround efforts and discussed how to work more closely together &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p34#a250924p34)
- - [YouTube is getting a new button to hide those pesky pop-ups at the end of videos](https://www.androidauthority.com/youtube-hide-button-3600938/)<!-- TECH:END -->
+ - [Google reveals its Android for PC is coming next year](https://www.theverge.com/tech/785351/google-reveals-its-android-for-pc-is-coming-next-year)
+ - [X-ray scans reveal the hidden risks of cheap batteries](https://www.theverge.com/news/784966/lumafield-x-ray-ct-scan-lithium-ion-battery-risks-manufacturing-defect)
+ - [Some Australian leaders and experts debate whether the country should use a Chinese-owned version of TikTok or one run by Trump allies &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/250924/p37#a250924p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
