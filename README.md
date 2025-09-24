@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Maxsun&#39;s latest RTX 5070 comes with improved thermals and even more anime cat girl than before](https://www.pcgamer.com/hardware/graphics-cards/maxsuns-latest-rtx-5070-comes-with-improved-thermals-and-even-more-anime-cat-girl-than-before/)
- - [Marvel Zombies wastes a perfect Young Avengers introduction](https://www.polygon.com/marvel-zombies-young-avengers/)
- - [&lpar;For Southeast Asia&rpar; Yakuza Kiwami 3 &amp; Dark Ties revealed!](https://blog.playstation.com/2025/09/23/20250924-yakuza/)<!-- GAME:END -->
+ - [I just beat Silksong&#39;s Act 3, and I&#39;m not just thrilled the game was was hard—I&#39;m glad it was mean to me, too](https://www.pcgamer.com/games/action/i-just-beat-silksongs-act-3-and-im-not-just-thrilled-the-game-was-was-hard-im-glad-it-was-mean-to-me-too/)
+ - [After it accidentally leaked it, RGG unveils a full-on Kiwami remake of Yakuza 3, plus a whole new bonus Gaiden game where you play its main bad guy](https://www.pcgamer.com/games/action/after-it-accidentally-leaked-it-rgg-unveils-a-full-on-kiwami-remake-of-yakuza-3-plus-a-whole-new-bonus-gaiden-game-where-you-play-its-main-bad-guy/)
+ - [Ghost of Yōtei Photo Mode features detailed, tips guide](https://blog.playstation.com/2025/09/24/ghost-of-yotei-photo-mode-features-detailed-tips-guide/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
