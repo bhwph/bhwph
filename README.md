@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bond burger](http://9gag.com/gag/ajPM658)
- - 😝 [Wamen](http://9gag.com/gag/aE0Nzvn)
- - 👉 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s a simple life](http://9gag.com/gag/a6Z3yVN)
+ - 😝 [I&#39;m sure you someone appreciate that](http://9gag.com/gag/avyXLeW)
+ - 👉 [Found out](http://9gag.com/gag/abAmyRr)<!-- MEMES:END -->
 
 --- 
 
