@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [LEGO Is Going Nuts Over the 4.8-Rated Star Wars Ahsoka Tano’s Shuttle, Now Selling for Pennies](https://kotaku.com/lego-is-going-nuts-over-the-4-8-rated-star-wars-ahsoka-tanos-shuttle-now-selling-for-pennies-2000628045)
- - [&#39;It doesn&#39;t feel like they&#39;ve tried to copy and paste the game onto the screen&#39; says star of Ubisoft&#39;s upcoming Watch Dogs movie](https://www.pcgamer.com/movies-tv/it-doesnt-feel-like-theyve-tried-to-copy-and-paste-the-game-onto-the-screen-says-star-of-ubisofts-upcoming-watch-dogs-movie/)
- - [EU tax officials confront the most pressing legal question of our time: If you sell RuneScape gold to someone and they use it to buy a magic sword, do you still have to pay taxes?](https://www.pcgamer.com/games/mmo/eu-tax-officials-confront-the-most-pressing-legal-question-of-our-time-if-you-sell-runescape-gold-to-someone-and-they-use-it-to-buy-a-magic-sword-do-you-still-have-to-pay-taxes/)<!-- GAME:END -->
+ - [The eyeball alien got no payoff in Alien: Earth&#39;s finale, and I&#39;m mad about it](https://www.polygon.com/alien-earth-finale-episode-8-eyeball/)
+ - [Annapurna Interactive reveals 3 new indie gems at TGS showcase](https://www.polygon.com/annapurna-interactive-direct-tgs-2025-showcase/)
+ - [I wish I&#39;d known this one stupidly simple trick when I started Baby Steps—it makes some of the harder early climbs much easier](https://www.pcgamer.com/games/sim/i-wish-id-known-this-one-stupidly-simple-trick-when-i-started-baby-steps-it-makes-some-of-the-harder-early-climbs-much-easier/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
