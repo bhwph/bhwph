@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Found out](http://9gag.com/gag/abAmyRr)
- - 😝 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
- - 👉 [Harry Potter and the Cave of Jessie](http://9gag.com/gag/a0eWLyO)<!-- MEMES:END -->
+ - 6️⃣ [Poland doesnt give two shits anymore, glad they are part of the Eu lol.](http://9gag.com/gag/a6Z3LEm)
+ - 😝 [This ... and more](http://9gag.com/gag/aryrRQ6)
+ - 👉 [Classic Meme](http://9gag.com/gag/aRBNVBy)<!-- MEMES:END -->
 
 --- 
 
