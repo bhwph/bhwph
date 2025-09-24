@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huxe, an app built by three former NotebookLM developers that offers users personalized daily briefs and topic exploration with AI podcast hosts, raised $4.6M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250924/p2#a250924p2)
- - [9 new features coming to your Samsung Galaxy phones with One UI 8.5](https://www.androidauthority.com/samsung-galaxy-phones-new-upcoming-features-one-ui-8-5-3600158/)
- - [iPhone 17 Pro teardown: the anodized aluminum scratches badly around the camera plateau edge, the screwed-in battery is a cool repairability upgrade, and more &lpar;Elizabeth Chamberlain/iFixit News&rpar;](http://www.techmeme.com/250924/p1#a250924p1)<!-- TECH:END -->
+ - [Kimmel returns to television to mock FCC Chair Brendan Carr](https://www.theverge.com/policy/784355/jimmy-kimmel-return-brendan-carr-trump)
+ - [Taiwan curbs chip exports to South Africa over national security concerns, the first time it has used its chip industry as a weapon against a China ally &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p6#a250924p6)
+ - [Disney Plus hikes prices again, making it feel like an annual ritual](https://www.androidauthority.com/disney-plus-price-hike-3600641/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
