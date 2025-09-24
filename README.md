@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube will now let you hide those pesky end screens](https://www.theverge.com/news/784774/youtube-end-screen-videos-hide)
- - [Ready for 6G? Qualcomm has bad news for you](https://www.androidauthority.com/qualcomm-6g-2028-3600781/)
- - [Google launches the Data Commons MCP Server, allowing developers to integrate its collection of public datasets into AI systems via natural language queries &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250924/p25#a250924p25)<!-- TECH:END -->
+ - [Google launches its Search Live feature in the US, letting users ask questions in AI Mode while sharing their phone&#39;s camera feed for real-time help &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250924/p30#a250924p30)
+ - [Waymo is launching a new service for business travelers](https://www.theverge.com/news/784929/waymo-for-business-corporate-travel-employer)
+ - [Google Search Live is out of beta and ready to help you make matcha](https://www.androidauthority.com/google-search-live-ai-us-3600885/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
