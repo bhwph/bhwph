@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Poland doesnt give two shits anymore, glad they are part of the Eu lol.](http://9gag.com/gag/a6Z3LEm)
- - 😝 [This ... and more](http://9gag.com/gag/aryrRQ6)
- - 👉 [Classic Meme](http://9gag.com/gag/aRBNVBy)<!-- MEMES:END -->
+ - 6️⃣ [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
+ - 😝 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
+ - 👉 [Always nice to see coop in the real life](http://9gag.com/gag/a9yNPpK)<!-- MEMES:END -->
 
 --- 
 
