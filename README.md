@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Doggy style](http://9gag.com/gag/axynjDb)
- - 😝 [Wow...](http://9gag.com/gag/aYQneQ0)
- - 👉 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)<!-- MEMES:END -->
+ - 6️⃣ [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
+ - 😝 [Doggy style](http://9gag.com/gag/axynjDb)
+ - 👉 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)<!-- MEMES:END -->
 
 --- 
 
