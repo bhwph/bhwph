@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google reveals its Android for PC is coming next year](https://www.theverge.com/tech/785351/google-reveals-its-android-for-pc-is-coming-next-year)
- - [X-ray scans reveal the hidden risks of cheap batteries](https://www.theverge.com/news/784966/lumafield-x-ray-ct-scan-lithium-ion-battery-risks-manufacturing-defect)
- - [Some Australian leaders and experts debate whether the country should use a Chinese-owned version of TikTok or one run by Trump allies &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/250924/p37#a250924p37)<!-- TECH:END -->
+ - [Google just asked the Supreme Court to save it from the Epic ruling](https://www.theverge.com/news/785456/google-just-asked-the-supreme-court-to-save-it-from-the-epic-ruling)
+ - [Galaxy S25 Ultra Makes Surprise Appearance Shooting the Snapdragon Summit 2025](https://www.cnet.com/tech/mobile/galaxy-s25-ultra-makes-surprise-appearance-shooting-the-snapdragon-summit-2025/#ftag=CAD590a51e)
+ - [Protect your eyes for just $8.99 with this amazing Kreedom Denali glasses sale!](https://www.androidauthority.com/kreedom-denali-gaming-glasses-deal-3600993/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
