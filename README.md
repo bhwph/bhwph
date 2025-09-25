@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind unveils Gemini Robotics 1.5 and Robotics-ER 1.5, enabling robots to perform multi-step tasks like sorting laundry, including by using web search &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250925/p38#a250925p38)
- - [Gemini now explains why your Sheets formula failed](https://www.theverge.com/news/785895/gemini-explanation-google-sheets-formula)
- - [Your eyes will thank you: TCL launches the TAB 8 NXTPAPER 5G](https://www.androidauthority.com/tcl-tab-8-nxtpaper-5g-tablet-3601229/)<!-- TECH:END -->
+ - [This Asus Gaming Laptop Is on Sale for Under $1,000](https://www.wired.com/story/asus-laptop-deal-september-2025/)
+ - [Proton Mail’s biggest update yet introduces offline mode and more](https://www.androidauthority.com/proton-mail-update-offline-mode-3601303/)
+ - [Android Canary has a new build ready to go for all you super-testers](https://www.androidauthority.com/android-canary-2509-3601307/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
