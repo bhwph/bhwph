@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Doggy style](http://9gag.com/gag/axynjDb)
+ - 6️⃣ [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
  - 😝 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
- - 👉 [Best kind of holding](http://9gag.com/gag/aqyp2LZ)<!-- MEMES:END -->
+ - 👉 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)<!-- MEMES:END -->
 
 --- 
 
