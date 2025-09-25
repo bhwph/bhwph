@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Asus Gaming Laptop Is on Sale for Under $1,000](https://www.wired.com/story/asus-laptop-deal-september-2025/)
- - [Proton Mail’s biggest update yet introduces offline mode and more](https://www.androidauthority.com/proton-mail-update-offline-mode-3601303/)
- - [Android Canary has a new build ready to go for all you super-testers](https://www.androidauthority.com/android-canary-2509-3601307/)<!-- TECH:END -->
+ - [Are you a YouTube TV subscriber? October is sounding like it could be a little messy](https://www.androidauthority.com/youtube-tv-nbcu-3601364/)
+ - [Save $60 on the Ring Spotlight Cam Plus or Pro!](https://www.androidauthority.com/ring-spotlight-cam-plus-pro-deals-3601297/)
+ - [Call-recording app Neon, which became the #2 social app on the US App Store, goes dark after exposing users&#39; phone numbers, call recordings, and transcripts &lpar;TechCrunch&rpar;](http://www.techmeme.com/250925/p52#a250925p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
