@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill f content warning: What to expect from Konami&#39;s new horror game](https://www.polygon.com/silent-hill-f-content-warning-graphic-content/)
- - [7 Silent Hill f beginner&#39;s tips to help you clear the fog](https://www.polygon.com/silent-hill-f-beginners-tips-tricks-guide/)
- - [Yakuza Kiwami 3 is beautiful and ridiculous, and I&#39;m finally going to actually finish the game this time](https://www.pcgamer.com/games/action/yakuza-kiwami-3-is-beautiful-and-ridiculous-and-im-finally-going-to-actually-finish-the-game-this-time/)<!-- GAME:END -->
+ - [Hotel Barcelona: How Two of Japan’s Most Legendary Game Directors Joined Forces](https://news.xbox.com/en-us/2025/09/25/hotel-barcelona-multiplayer/)
+ - [Bruce Lee Stars in ‘The Infiltrator’ – Hitman World of Assassination’s Latest Elusive Target Mission](https://news.xbox.com/en-us/2025/09/25/hitman-bruce-lee-mission/)
+ - [Get to Know Even More of Pawprint Studio’s Adorable Aniimo Friends](https://news.xbox.com/en-us/2025/09/25/get-to-know-even-more-adorable-aniimo-friends/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
