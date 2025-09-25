@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Baseball player hit in face with 99mph fastball](http://9gag.com/gag/a1mqM6b)
- - 😝 [Dad recorded his daughter every week for 20 years](http://9gag.com/gag/aoyq9Dw)
- - 👉 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)<!-- MEMES:END -->
+ - 😝 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
+ - 👉 [We have detected that you have posted content that is hurtful, Please remain seated while justice is served.](http://9gag.com/gag/aoyq2Px)<!-- MEMES:END -->
 
 --- 
 
