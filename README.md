@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything We Saw At Today’s PlayStation State Of Play Showcase](https://kotaku.com/state-of-play-playstation-5-sony-stream-youtube-twitch-2000628258)
- - [So far, the Battlefield 6 campaign is satisfied being a Call of Duty cover band](https://www.pcgamer.com/games/fps/so-far-the-battlefield-6-campaign-is-satisfied-being-a-call-of-duty-cover-band/)
- - [Wolverine PS5 gets a ridiculously violent TGS trailer and 2026 release date](https://www.polygon.com/marvel-wolverine-ps5-release-date-trailer-tokyo-game-show-tgs/)<!-- GAME:END -->
+ - [Japanese Developers Bring Their Legendary Craftsmanship to a New Xbox Device](https://news.microsoft.com/source/?post_type=features&p=22030#new_tab)
+ - [Mod maker brings Skibidi Toilet to Borderlands 4 for one simple reason: To spite the narrative director who said he&#39;d &#39;cry real tears&#39; if the game shipped with it](https://www.pcgamer.com/games/fps/mod-maker-brings-skibidi-toilet-to-borderlands-4-for-one-simple-reason-to-spite-the-narrative-director-who-said-hed-cry-real-tears-if-the-game-shipped-with-it/)
+ - [PSA: Don&#39;t turn off motion blur in Silent Hill F unless you want some weird visual glitches](https://www.pcgamer.com/games/horror/psa-dont-turn-off-motion-blur-in-silent-hill-f-unless-you-want-some-weird-visual-glitches/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
