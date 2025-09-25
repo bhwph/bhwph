@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
- - 😝 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
- - 👉 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)<!-- MEMES:END -->
+ - 6️⃣ [Doggy style](http://9gag.com/gag/axynjDb)
+ - 😝 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
+ - 👉 [Best kind of holding](http://9gag.com/gag/aqyp2LZ)<!-- MEMES:END -->
 
 --- 
 
