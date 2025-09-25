@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This 500-Piece LEGO Brick Box Drops to Pennies on Amazon, 2x Cheaper Than LEGO Store](https://kotaku.com/this-500-piece-lego-brick-box-drops-to-pennies-on-amazon-2x-cheaper-than-lego-store-2000628678)
- - [Seagate 4TB Hard Drive Selling for Pennies, Only $0.02 Per GB for Lifetime Safe Storage](https://kotaku.com/seagate-4tb-hard-drive-selling-for-pennies-only-0-02-per-gb-for-lifetime-safe-storage-2000628672)
- - [How did Sydney Chandler learn to speak Xenomorph?](https://www.polygon.com/video/sydney-chandler-xenomorph-alien-speak/)<!-- GAME:END -->
+ - [LEGO Harry Potter Advent Calendar 2025 Arrives Early at Almost Free, Already Selling Like It’s the Holidays](https://kotaku.com/lego-harry-potter-advent-calendar-2025-arrives-early-at-almost-free-already-selling-like-its-the-holidays-2000628015)
+ - [15 Hours With Ghost Of Yotei: An Impressive But Familiar Sequel](https://kotaku.com/ghost-tsushima-2-yotei-review-in-progress-open-world-2000628700)
+ - [How Where Winds Meet’s Wuxia-inspired combat turns the umbrella into a weapon](https://blog.playstation.com/2025/09/25/how-where-winds-meets-wuxia-inspired-combat-turns-the-umbrella-into-a-weapon/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
