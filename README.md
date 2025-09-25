@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hotel Barcelona: How Two of Japan’s Most Legendary Game Directors Joined Forces](https://news.xbox.com/en-us/2025/09/25/hotel-barcelona-multiplayer/)
- - [Bruce Lee Stars in ‘The Infiltrator’ – Hitman World of Assassination’s Latest Elusive Target Mission](https://news.xbox.com/en-us/2025/09/25/hitman-bruce-lee-mission/)
- - [Get to Know Even More of Pawprint Studio’s Adorable Aniimo Friends](https://news.xbox.com/en-us/2025/09/25/get-to-know-even-more-adorable-aniimo-friends/)<!-- GAME:END -->
+ - [This 500-Piece LEGO Brick Box Drops to Pennies on Amazon, 2x Cheaper Than LEGO Store](https://kotaku.com/this-500-piece-lego-brick-box-drops-to-pennies-on-amazon-2x-cheaper-than-lego-store-2000628678)
+ - [Seagate 4TB Hard Drive Selling for Pennies, Only $0.02 Per GB for Lifetime Safe Storage](https://kotaku.com/seagate-4tb-hard-drive-selling-for-pennies-only-0-02-per-gb-for-lifetime-safe-storage-2000628672)
+ - [How did Sydney Chandler learn to speak Xenomorph?](https://www.polygon.com/video/sydney-chandler-xenomorph-alien-speak/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
