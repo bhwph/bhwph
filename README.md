@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s viral Nano Banana image editor might soon slip into Google Photos](https://www.androidauthority.com/google-photos-nano-banana-3601045/)
- - [Honor’s Magic 8 Pro is getting a new AI button](https://www.theverge.com/news/784711/honor-magic-8-pro-design-snapdragon-8-elite-gen-5-ai-button-first-look-exclusive)
- - [Apple asks the EU to repeal the DMA, saying the law &quot;is leading to a worse experience for Apple users in the EU&quot; and &quot;exposing them to new risks&quot; &lpar;AFP&rpar;](http://www.techmeme.com/250924/p41#a250924p41)<!-- TECH:END -->
+ - [Taiwan suspends chip export controls on South Africa after just two days, signaling discomfort with using the key tech export as a weapon in diplomatic disputes &lpar;Bloomberg&rpar;](http://www.techmeme.com/250925/p4#a250925p4)
+ - [Australian lawmakers propose rules to regulate crypto exchanges, allowing the government to slap penalties of 10% of annual turnover on firms that violate rules &lpar;Richard Henderson/Bloomberg&rpar;](http://www.techmeme.com/250925/p3#a250925p3)
+ - [Qualcomm details the Snapdragon 8 Elite Gen 5, its latest flagship mobile SoC, claiming a 20% boost in YoY CPU performance and a 23% uplift in GPU performance &lpar;Daniel Bader/Android Police&rpar;](http://www.techmeme.com/250925/p2#a250925p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
