@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s new TV is designed to be easier for seniors to use](https://www.theverge.com/news/785808/lg-easy-smart-tv-senior-citizens-redesigned-remote)
- - [Spotify’s new filter aims to keep AI slop out of your playlists](https://www.androidauthority.com/spotify-addresses-ai-slop-3601174/)
- - [Amazon is bringing back Rick Moranis for the Spaceballs sequel](https://www.theverge.com/news/785797/amazon-spaceballs-2-rick-moranis-dark-helmet-sequel-cast-photo)<!-- TECH:END -->
+ - [Google DeepMind unveils Gemini Robotics 1.5 and Robotics-ER 1.5, enabling robots to perform multi-step tasks like sorting laundry, including by using web search &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250925/p38#a250925p38)
+ - [Gemini now explains why your Sheets formula failed](https://www.theverge.com/news/785895/gemini-explanation-google-sheets-formula)
+ - [Your eyes will thank you: TCL launches the TAB 8 NXTPAPER 5G](https://www.androidauthority.com/tcl-tab-8-nxtpaper-5g-tablet-3601229/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
