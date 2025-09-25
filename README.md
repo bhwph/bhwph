@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Proton Mail&amp;#8217;s updated app adds an offline mode](https://www.theverge.com/news/785611/proton-mail-app-update-offline-mode)
- - [Circle president Heath Tarbert says Circle is exploring the possibility of reversible stablecoin transactions to allow refunds in cases of fraud or disputes &lpar;Financial Times&rpar;](http://www.techmeme.com/250925/p22#a250925p22)
- - [Meta expands Facebook and Messenger teen accounts, which have extra safety controls, globally; Instagram now lets all US schools report safety concerns &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250925/p21#a250925p21)<!-- TECH:END -->
+ - [These are the very best T-Mobile deals you’ll find this October](https://www.androidauthority.com/best-t-mobile-october-deals-3601172/)
+ - [CoreWeave expands its data center capacity agreements with OpenAI by $6.5B, bringing their total potential value to $22.4B, to support training of OpenAI models &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250925/p27#a250925p27)
+ - [25 Best MagSafe Accessories &lpar;2025&rpar;: Qi2 Chargers, Magnetic Wallets, and More](https://www.wired.com/gallery/best-magsafe-accessories/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
