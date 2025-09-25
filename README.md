@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Google Photos feature could spare you the pain while searching for images &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-searche-images-faster-3601079/)
- - [Nothing spins off its budget brand CMF](https://www.theverge.com/news/785474/nothing-spins-off-budget-brand-cmf-india)
- - [OnePlus will be first to launch a Snapdragon 8 Gen 5 &lpar;not Elite&rpar; phone](https://www.androidauthority.com/oneplus-first-snapdragon-8-gen-5-phone-3601067/)<!-- TECH:END -->
+ - [The EU launches an antitrust probe into SAP over its ERP software maintenance and support services, with a potential fine of ~10% of its annual global sales &lpar;Makini Brice/Reuters&rpar;](http://www.techmeme.com/250925/p14#a250925p14)
+ - [Apple warns of more feature delays in Europe](https://www.theverge.com/news/785515/apple-eu-dma-complaint-interoperability-feature-delays)
+ - [Google Pay and PhonePe accounted for 80% of India&#39;s UPI transactions in Aug. 2025, down from 85% a year ago, as smaller players like Navi and BHIM gained ground &lpar;Pratik Bhakta/The Economic Times&rpar;](http://www.techmeme.com/250925/p13#a250925p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
