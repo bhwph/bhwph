@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
- - 😝 [I&#39;m sure you someone appreciate that](http://9gag.com/gag/avyXLeW)
- - 👉 [This ... and more](http://9gag.com/gag/aryrRQ6)<!-- MEMES:END -->
+ - 6️⃣ [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
+ - 😝 [Wow...](http://9gag.com/gag/aYQneQ0)
+ - 👉 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)<!-- MEMES:END -->
 
 --- 
 
