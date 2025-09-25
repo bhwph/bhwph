@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the very best T-Mobile deals you’ll find this October](https://www.androidauthority.com/best-t-mobile-october-deals-3601172/)
- - [CoreWeave expands its data center capacity agreements with OpenAI by $6.5B, bringing their total potential value to $22.4B, to support training of OpenAI models &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250925/p27#a250925p27)
- - [25 Best MagSafe Accessories &lpar;2025&rpar;: Qi2 Chargers, Magnetic Wallets, and More](https://www.wired.com/gallery/best-magsafe-accessories/)<!-- TECH:END -->
+ - [LG’s new TV is designed to be easier for seniors to use](https://www.theverge.com/news/785808/lg-easy-smart-tv-senior-citizens-redesigned-remote)
+ - [Spotify’s new filter aims to keep AI slop out of your playlists](https://www.androidauthority.com/spotify-addresses-ai-slop-3601174/)
+ - [Amazon is bringing back Rick Moranis for the Spaceballs sequel](https://www.theverge.com/news/785797/amazon-spaceballs-2-rick-moranis-dark-helmet-sequel-cast-photo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
