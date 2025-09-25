@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taiwan suspends chip export controls on South Africa after just two days, signaling discomfort with using the key tech export as a weapon in diplomatic disputes &lpar;Bloomberg&rpar;](http://www.techmeme.com/250925/p4#a250925p4)
- - [Australian lawmakers propose rules to regulate crypto exchanges, allowing the government to slap penalties of 10% of annual turnover on firms that violate rules &lpar;Richard Henderson/Bloomberg&rpar;](http://www.techmeme.com/250925/p3#a250925p3)
- - [Qualcomm details the Snapdragon 8 Elite Gen 5, its latest flagship mobile SoC, claiming a 20% boost in YoY CPU performance and a 23% uplift in GPU performance &lpar;Daniel Bader/Android Police&rpar;](http://www.techmeme.com/250925/p2#a250925p2)<!-- TECH:END -->
+ - [This Google Photos feature could spare you the pain while searching for images &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-searche-images-faster-3601079/)
+ - [Nothing spins off its budget brand CMF](https://www.theverge.com/news/785474/nothing-spins-off-budget-brand-cmf-india)
+ - [OnePlus will be first to launch a Snapdragon 8 Gen 5 &lpar;not Elite&rpar; phone](https://www.androidauthority.com/oneplus-first-snapdragon-8-gen-5-phone-3601067/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
