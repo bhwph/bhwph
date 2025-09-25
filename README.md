@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU launches an antitrust probe into SAP over its ERP software maintenance and support services, with a potential fine of ~10% of its annual global sales &lpar;Makini Brice/Reuters&rpar;](http://www.techmeme.com/250925/p14#a250925p14)
- - [Apple warns of more feature delays in Europe](https://www.theverge.com/news/785515/apple-eu-dma-complaint-interoperability-feature-delays)
- - [Google Pay and PhonePe accounted for 80% of India&#39;s UPI transactions in Aug. 2025, down from 85% a year ago, as smaller players like Navi and BHIM gained ground &lpar;Pratik Bhakta/The Economic Times&rpar;](http://www.techmeme.com/250925/p13#a250925p13)<!-- TECH:END -->
+ - [Proton Mail&amp;#8217;s updated app adds an offline mode](https://www.theverge.com/news/785611/proton-mail-app-update-offline-mode)
+ - [Circle president Heath Tarbert says Circle is exploring the possibility of reversible stablecoin transactions to allow refunds in cases of fraud or disputes &lpar;Financial Times&rpar;](http://www.techmeme.com/250925/p22#a250925p22)
+ - [Meta expands Facebook and Messenger teen accounts, which have extra safety controls, globally; Instagram now lets all US schools report safety concerns &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250925/p21#a250925p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
