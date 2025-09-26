@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [LEGO Harry Potter Advent Calendar 2025 Arrives Early at Almost Free, Already Selling Like It’s the Holidays](https://kotaku.com/lego-harry-potter-advent-calendar-2025-arrives-early-at-almost-free-already-selling-like-its-the-holidays-2000628015)
- - [15 Hours With Ghost Of Yotei: An Impressive But Familiar Sequel](https://kotaku.com/ghost-tsushima-2-yotei-review-in-progress-open-world-2000628700)
- - [How Where Winds Meet’s Wuxia-inspired combat turns the umbrella into a weapon](https://blog.playstation.com/2025/09/25/how-where-winds-meets-wuxia-inspired-combat-turns-the-umbrella-into-a-weapon/)<!-- GAME:END -->
+ - [Tiny Metal 2 is the third game in the turn-based strategy series, and it just so happens to be taking after my favorite Advance Wars](https://www.pcgamer.com/games/strategy/tiny-metal-2-is-the-third-game-in-the-turn-based-strategy-series-and-it-just-so-happens-to-be-taking-after-my-favorite-advance-wars/)
+ - [Petit Planet: All the key details on HoYo&#39;s Animal Crossing-like life sim](https://www.pcgamer.com/games/life-sim/petit-planet-guide/)
+ - [Baby Steps is funny, but it&#39;s also a depressing, confrontational horror game about thwarted modern masculinity](https://www.pcgamer.com/games/action/baby-steps-is-funny-but-its-also-a-depressing-confrontational-horror-game-about-thwarted-modern-masculinity/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
