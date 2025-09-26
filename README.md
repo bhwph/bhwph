@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [17 Best Air Purifiers &lpar;2025&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
- - [I’ve got a bone to pick with ‘getting credit’ from your fitness tracker](https://www.theverge.com/column/786346/optimizer-wearables-fitness-tracking-health-anxiety-paranoia)
- - [China and its media are quiet about the TikTok deal, a notable silence as China can still decide the app&#39;s fate; Chinese social media chatter has been limited &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250926/p11#a250926p11)<!-- TECH:END -->
+ - [Lawsuit over Apple Intelligence Siri delays is nitpicking, Apple argues](https://appleinsider.com/articles/25/09/26/lawsuit-over-apple-intelligence-siri-delays-is-nitpicking-apple-argues?utm_source=rss)
+ - [Meta AI funnels AI videos from creators into new &amp;#8216;Vibes&amp;#8217; feed](https://www.theverge.com/news/786499/meta-ai-vibes-feed-discover-videos)
+ - [Uber expects non-restaurant deliveries to hit an annual run rate of $12.5B in gross bookings by the end of 2025, up 25% from the $10B+ rate it shared in May &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250926/p16#a250926p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
