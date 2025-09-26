@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lawsuit over Apple Intelligence Siri delays is nitpicking, Apple argues](https://appleinsider.com/articles/25/09/26/lawsuit-over-apple-intelligence-siri-delays-is-nitpicking-apple-argues?utm_source=rss)
- - [Meta AI funnels AI videos from creators into new &amp;#8216;Vibes&amp;#8217; feed](https://www.theverge.com/news/786499/meta-ai-vibes-feed-discover-videos)
- - [Uber expects non-restaurant deliveries to hit an annual run rate of $12.5B in gross bookings by the end of 2025, up 25% from the $10B+ rate it shared in May &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250926/p16#a250926p16)<!-- TECH:END -->
+ - [A US court rules that the DOD can classify DJI as a &quot;Chinese Military Company&quot;, finds that there is enough evidence that DJI is supported by Chinese government &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250926/p20#a250926p20)
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+ - [Here are 50 great deals you can snag ahead of Amazon&amp;#8217;s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
