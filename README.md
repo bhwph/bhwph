@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Brazil&#39;s president has signed a ban on selling loot boxes to minors as part of a larger online child safety law](https://www.pcgamer.com/gaming-industry/brazils-president-has-signed-a-ban-on-selling-loot-boxes-to-minors-as-part-of-a-larger-online-child-safety-law/)
- - [Don&#39;t mistake Netflix&#39;s Wayward for the next Twin Peaks](https://www.polygon.com/netflix-wayward-review-mae-martin/)
- - [Path of Exile 2 is making a surprise Atlas overhaul next week to liberate its players from tower tyranny](https://www.pcgamer.com/games/rpg/path-of-exile-2-is-making-a-surprise-atlas-overhaul-next-week-to-liberate-its-players-from-tower-tyranny/)<!-- GAME:END -->
+ - [Star Trek, Avengers, And More: All 7 Newly Revealed Magic: The Gathering Sets Coming In 2026](https://kotaku.com/magic-gathering-mtg-star-trek-marvel-avengers-2026-sets-2000629313)
+ - [Kotaku’s Weekend Guide: 5 Great Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-silent-hill-f-sonic-baby-steps-2000629349)
+ - [Silksong player uses every speedrunning trick in the book to lock poor Hornet in bug jail forever: &#39;I don&#39;t know why anyone would want to do this, but I have done it anyway&#39;](https://www.pcgamer.com/games/action/silksong-player-uses-every-speedrunning-trick-in-the-book-to-lock-poor-hornet-in-bug-jail-forever-i-dont-know-why-anyone-would-want-to-do-this-but-i-have-done-it-anyway/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
