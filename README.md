@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Baseball player hit in face with 99mph fastball](http://9gag.com/gag/a1mqM6b)
- - 😝 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
- - 👉 [We have detected that you have posted content that is hurtful, Please remain seated while justice is served.](http://9gag.com/gag/aoyq2Px)<!-- MEMES:END -->
+ - 6️⃣ [The delivery guy should try curling because he got potential](http://9gag.com/gag/aE0NnXK)
+ - 😝 [Did you see the dude in the red dress?](http://9gag.com/gag/adB4XOM)
+ - 👉 [Now this is a Tourette syndrome that i believe is real.](http://9gag.com/gag/a0eWdbZ)<!-- MEMES:END -->
 
 --- 
 
