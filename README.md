@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft launches Microsoft Marketplace, combining Azure Marketplace and Microsoft AppSource in a single destination for cloud tools and AI apps and agents &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/250925/p61#a250925p61)
- - [A look at Intel&#39;s $28B Ohio chip factory, the largest economic development project in Ohio&#39;s history, initially set for a 2025 opening but now delayed till 2030 &lpar;Kris Maher/Wall Street Journal&rpar;](http://www.techmeme.com/250925/p60#a250925p60)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Sept. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-sept-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pixel Buds Pro 2 users get new update with Adaptive Audio and Loud Noise Protection](https://www.androidauthority.com/google-pixel-buds-pro-2-september-update-3601429/)
+ - [Sources: the Trump admin plans to require chipmakers to match local output with imports and impose tariffs on companies that fail to maintain a 1:1 ratio &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/250926/p2#a250926p2)
+ - [Target Promo Codes and Deals: Up to 50% Off](https://www.wired.com/story/target-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
