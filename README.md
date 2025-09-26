@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram&amp;#8217;s &amp;#8216;pay or consent&amp;#8217; approach to ads is coming to UK after being rejected in EU](https://www.theverge.com/news/786313/meta-pay-or-consent-uk)
- - [We’re about to witness a critical moment for Google Home](https://www.androidauthority.com/google-home-gemini-speaker-critical-moment-why-3601161/)
- - [OnePlus confirms your texts aren’t safe from this major Oxygen OS SMS vulnerability](https://www.androidauthority.com/oneplus-oxygen-os-sms-vulnerability-3601468/)<!-- TECH:END -->
+ - [Best Wireless Earbuds &lpar;2025&rpar;: Apple, Sony, Bose, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
+ - [A $1,000 Xbox Ally handheld tests the appetite for pricey next-gen consoles](https://www.theverge.com/report/785828/microsoft-xbox-ally-x-pricing-next-gen-consoles-report)
+ - [The UK unveils plans for a digital ID, which will be required to work in the country, to combat illegal immigration; the ID will be stored on people&#39;s phones &lpar;Kate Whannel/BBC&rpar;](http://www.techmeme.com/250926/p8#a250926p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
