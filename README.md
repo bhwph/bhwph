@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Seagate 2TB Hard Drive for PlayStation Returns to Nearly Free Per TB Pricing as Amazon Blows Out Remaining Stock](https://kotaku.com/seagate-2tb-hard-drive-for-playstation-returns-to-nearly-free-per-tb-pricing-as-amazon-blows-out-remaining-stock-2000628894)
- - [PS5 Is Sony’s Most ‘Successful’ Console Generation Ever And It’s Not Even Close](https://kotaku.com/ps5-sales-sony-borderlands-4-patch-performance-mgs4-2000629168)
- - [Jagex CEO says he&#39;s happy to take revenue hits to fix RuneScape 3&#39;s microtransaction and &#39;integrity&#39; problem](https://www.pcgamer.com/games/mmo/jagex-ceo-says-hes-happy-to-take-revenue-hits-to-fix-runescape-3s-microtransaction-and-integrity-problem/)<!-- GAME:END -->
+ - [Microsoft’s Solution For PC Gaming’s Most Annoying Headache Is Finally Happening](https://kotaku.com/microsofts-solution-pc-gaming-annoying-shader-compilation-xbox-rog-ally-ads-2000629200)
+ - [Samsung’s Galaxy Buds 3 Pro Were Pricier at Launch, But Now They’re Way Cheaper Than AirPods Pro 3](https://kotaku.com/samsungs-galaxy-buds-3-pro-were-pricier-at-launch-but-now-theyre-way-cheaper-than-airpods-pro-3-2000629182)
+ - [Diablo 4 is crossing the streams with Starcraft cosmetics, and honestly? A Terran marine makes a better Barbarian than I&#39;d have expected](https://www.pcgamer.com/games/rpg/diablo-4-is-crossing-the-streams-with-starcraft-cosmetics-and-honestly-a-terran-marine-makes-a-better-barbarian-than-id-have-expected/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
