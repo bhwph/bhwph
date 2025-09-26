@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Are you a YouTube TV subscriber? October is sounding like it could be a little messy](https://www.androidauthority.com/youtube-tv-nbcu-3601364/)
- - [Save $60 on the Ring Spotlight Cam Plus or Pro!](https://www.androidauthority.com/ring-spotlight-cam-plus-pro-deals-3601297/)
- - [Call-recording app Neon, which became the #2 social app on the US App Store, goes dark after exposing users&#39; phone numbers, call recordings, and transcripts &lpar;TechCrunch&rpar;](http://www.techmeme.com/250925/p52#a250925p52)<!-- TECH:END -->
+ - [Microsoft and Asus open preorders for the first Xbox handhelds, the ROG Xbox Ally for $599 and the ROG Xbox Ally X for $999 in the US, shipping October 16 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250925/p58#a250925p58)
+ - [Canada&#39;s anti-money laundering agency fines crypto exchange KuCoin ~$14M for failing to report large and suspicious transactions; KuCoin appeals the decision &lpar;Nivedita Balu/Reuters&rpar;](http://www.techmeme.com/250925/p57#a250925p57)
+ - [Next-gen is now as first Snapdragon 8 Elite Gen 5 phones launch](https://www.androidauthority.com/xiaomi-17-series-launched-3601114/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
