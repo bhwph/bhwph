@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The robo-advisory market, which includes companies that use AI tools to help investors pick stocks, is expected to grow from $61.75B in 2024 to $470.91B by 2029 &lpar;Joice Alves/Reuters&rpar;](http://www.techmeme.com/250926/p3#a250926p3)
- - [Samsung phones could finally get a native double-tap back gesture &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-one-ui-8-5-double-back-tap-apk-teardown-3601435/)
- - [Why Using a Q-Tip to Clean Your Ears Is a Safety Hazard](https://www.cnet.com/health/personal-care/why-using-q-tip-clean-ears-safety-hazard/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Instagram&amp;#8217;s &amp;#8216;pay or consent&amp;#8217; approach to ads is coming to UK after being rejected in EU](https://www.theverge.com/news/786313/meta-pay-or-consent-uk)
+ - [We’re about to witness a critical moment for Google Home](https://www.androidauthority.com/google-home-gemini-speaker-critical-moment-why-3601161/)
+ - [OnePlus confirms your texts aren’t safe from this major Oxygen OS SMS vulnerability](https://www.androidauthority.com/oneplus-oxygen-os-sms-vulnerability-3601468/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
