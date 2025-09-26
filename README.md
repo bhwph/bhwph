@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Andrew Bosworth says humanoid robots, internally called &quot;Metabot&quot;, are Meta&#39;s next &quot;AR size bet&quot; and envisions licensing software to other robot makers &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250926/p24#a250926p24)
- - [YouTube beefs up Premium benefits with enhanced audio, 4x playback, and more](https://www.androidauthority.com/youtube-premium-expanded-benefits-3601707/)
- - [Get the Amazon Fire TV Stick HD at a record-low price we haven’t seen since last year](https://www.androidauthority.com/amazon-fire-tv-stick-hd-deal-3601712/)<!-- TECH:END -->
+ - [NLRB withdraws claims about Tim Cook&#39;s email violating workers&#39; rights](https://appleinsider.com/articles/25/09/26/nlrb-withdraws-claims-about-tim-cooks-email-violating-workers-rights?utm_source=rss)
+ - [Trump says Microsoft should fire its global affairs head Lisa Monaco over her work in the Biden administration, calling her a &quot;menace to US National Security&quot; &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/250926/p27#a250926p27)
+ - [Microsoft Photos will soon auto-categorize your pictures](https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
