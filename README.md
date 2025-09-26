@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The delivery guy should try curling because he got potential](http://9gag.com/gag/aE0NnXK)
- - 😝 [Did you see the dude in the red dress?](http://9gag.com/gag/adB4XOM)
- - 👉 [Now this is a Tourette syndrome that i believe is real.](http://9gag.com/gag/a0eWdbZ)<!-- MEMES:END -->
+ - 6️⃣ [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
+ - 😝 [Wow...](http://9gag.com/gag/aYQneQ0)
+ - 👉 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)<!-- MEMES:END -->
 
 --- 
 
