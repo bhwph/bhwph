@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No Comment..](http://9gag.com/gag/ajPMqgQ)
- - 😝 [Wait for it....](http://9gag.com/gag/aoyq1N3)
- - 👉 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)<!-- MEMES:END -->
+ - 6️⃣ [Fellow Gen X](http://9gag.com/gag/adB47BD)
+ - 😝 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
+ - 👉 [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)<!-- MEMES:END -->
 
 --- 
 
