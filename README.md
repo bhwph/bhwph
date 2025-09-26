@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Trump administration is reportedly planning to tariff US tech firms that don&#39;t source equal numbers of imported and American chips](https://www.pcgamer.com/hardware/trump-administration-is-reportedly-planning-to-tariff-us-tech-firms-that-dont-source-equal-numbers-of-imported-and-american-chips/)
- - [$2.6 Million Kickstarter Cosy Game Wipes Its Websites, Ghosts Its Backers](https://kotaku.com/puffpals-fluffnest-cosy-kickstarter-mujin-2000629155)
- - [Possessor&lpar;s&rpar; launches November 11 on PS5](https://blog.playstation.com/2025/09/26/possessors-launches-november-11-on-ps5/)<!-- GAME:END -->
+ - [Seagate 2TB Hard Drive for PlayStation Returns to Nearly Free Per TB Pricing as Amazon Blows Out Remaining Stock](https://kotaku.com/seagate-2tb-hard-drive-for-playstation-returns-to-nearly-free-per-tb-pricing-as-amazon-blows-out-remaining-stock-2000628894)
+ - [PS5 Is Sony’s Most ‘Successful’ Console Generation Ever And It’s Not Even Close](https://kotaku.com/ps5-sales-sony-borderlands-4-patch-performance-mgs4-2000629168)
+ - [Jagex CEO says he&#39;s happy to take revenue hits to fix RuneScape 3&#39;s microtransaction and &#39;integrity&#39; problem](https://www.pcgamer.com/games/mmo/jagex-ceo-says-hes-happy-to-take-revenue-hits-to-fix-runescape-3s-microtransaction-and-integrity-problem/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
