@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US court rules that the DOD can classify DJI as a &quot;Chinese Military Company&quot;, finds that there is enough evidence that DJI is supported by Chinese government &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250926/p20#a250926p20)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [Here are 50 great deals you can snag ahead of Amazon&amp;#8217;s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025)<!-- TECH:END -->
+ - [Andrew Bosworth says humanoid robots, internally called &quot;Metabot&quot;, are Meta&#39;s next &quot;AR size bet&quot; and envisions licensing software to other robot makers &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250926/p24#a250926p24)
+ - [YouTube beefs up Premium benefits with enhanced audio, 4x playback, and more](https://www.androidauthority.com/youtube-premium-expanded-benefits-3601707/)
+ - [Get the Amazon Fire TV Stick HD at a record-low price we haven’t seen since last year](https://www.androidauthority.com/amazon-fire-tv-stick-hd-deal-3601712/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
