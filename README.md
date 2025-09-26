@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When will Demon Slayer: Infinity Castle be available on streaming?](https://www.polygon.com/demon-slayer-infinity-castle-streaming-crunchyroll-netflix/)
- - [Silksong&#39;s criminal lack of &#39;Shaw!&#39; fixed by heroic modder](https://www.pcgamer.com/games/action/silksongs-criminal-lack-of-shaw-fixed-by-heroic-modder/)
- - [Corsair Sabre V2 Pro Ultralight Wireless gaming mouse review](https://www.pcgamer.com/hardware/gaming-mice/corsair-sabre-v2-pro-ultralight-wireless-gaming-mouse-review/)<!-- GAME:END -->
+ - [Trump administration is reportedly planning to tariff US tech firms that don&#39;t source equal numbers of imported and American chips](https://www.pcgamer.com/hardware/trump-administration-is-reportedly-planning-to-tariff-us-tech-firms-that-dont-source-equal-numbers-of-imported-and-american-chips/)
+ - [$2.6 Million Kickstarter Cosy Game Wipes Its Websites, Ghosts Its Backers](https://kotaku.com/puffpals-fluffnest-cosy-kickstarter-mujin-2000629155)
+ - [Possessor&lpar;s&rpar; launches November 11 on PS5](https://blog.playstation.com/2025/09/26/possessors-launches-november-11-on-ps5/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
