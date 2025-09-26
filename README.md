@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Buds Pro 2 users get new update with Adaptive Audio and Loud Noise Protection](https://www.androidauthority.com/google-pixel-buds-pro-2-september-update-3601429/)
- - [Sources: the Trump admin plans to require chipmakers to match local output with imports and impose tariffs on companies that fail to maintain a 1:1 ratio &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/250926/p2#a250926p2)
- - [Target Promo Codes and Deals: Up to 50% Off](https://www.wired.com/story/target-promo-code/)<!-- TECH:END -->
+ - [The robo-advisory market, which includes companies that use AI tools to help investors pick stocks, is expected to grow from $61.75B in 2024 to $470.91B by 2029 &lpar;Joice Alves/Reuters&rpar;](http://www.techmeme.com/250926/p3#a250926p3)
+ - [Samsung phones could finally get a native double-tap back gesture &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-one-ui-8-5-double-back-tap-apk-teardown-3601435/)
+ - [Why Using a Q-Tip to Clean Your Ears Is a Safety Hazard](https://www.cnet.com/health/personal-care/why-using-q-tip-clean-ears-safety-hazard/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
