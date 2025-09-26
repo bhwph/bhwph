@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft’s Solution For PC Gaming’s Most Annoying Headache Is Finally Happening](https://kotaku.com/microsofts-solution-pc-gaming-annoying-shader-compilation-xbox-rog-ally-ads-2000629200)
- - [Samsung’s Galaxy Buds 3 Pro Were Pricier at Launch, But Now They’re Way Cheaper Than AirPods Pro 3](https://kotaku.com/samsungs-galaxy-buds-3-pro-were-pricier-at-launch-but-now-theyre-way-cheaper-than-airpods-pro-3-2000629182)
- - [Diablo 4 is crossing the streams with Starcraft cosmetics, and honestly? A Terran marine makes a better Barbarian than I&#39;d have expected](https://www.pcgamer.com/games/rpg/diablo-4-is-crossing-the-streams-with-starcraft-cosmetics-and-honestly-a-terran-marine-makes-a-better-barbarian-than-id-have-expected/)<!-- GAME:END -->
+ - [Nintendo Of America’s New CEO Seems Like A Fun Guy](https://kotaku.com/nintendo-direct-america-3ds-satoru-shibata-2000629269)
+ - [Live-Action Beauty And The Beast Was An Inspiration For FF7 Remake Trilogy, Says Director](https://kotaku.com/final-fantasy-7-remake-rebirth-switch-2-xbox-port-part-3-2000629254)
+ - [Silent Hill f&#39;s finicky combat doesn&#39;t actually have to be an issue if you follow these cardinal rules](https://www.pcgamer.com/games/horror/silent-hill-fs-finicky-combat-doesnt-actually-have-to-be-an-issue-if-you-follow-these-cardinal-rules/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
