@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [ROG Xbox Ally and Ally X price and pre-orders detailed; Ally X costs $1000](https://www.polygon.com/rog-xbox-ally-x-price-announced/)
- - [Today&#39;s Wordle clues, hints and answer for September 26 &lpar;#1560&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-26-2025/)
- - [Tiny Metal 2 is the third game in the turn-based strategy series, and it just so happens to be taking after my favorite Advance Wars](https://www.pcgamer.com/games/strategy/tiny-metal-2-is-the-third-game-in-the-turn-based-strategy-series-and-it-just-so-happens-to-be-taking-after-my-favorite-advance-wars/)<!-- GAME:END -->
+ - [When will Demon Slayer: Infinity Castle be available on streaming?](https://www.polygon.com/demon-slayer-infinity-castle-streaming-crunchyroll-netflix/)
+ - [Silksong&#39;s criminal lack of &#39;Shaw!&#39; fixed by heroic modder](https://www.pcgamer.com/games/action/silksongs-criminal-lack-of-shaw-fixed-by-heroic-modder/)
+ - [Corsair Sabre V2 Pro Ultralight Wireless gaming mouse review](https://www.pcgamer.com/hardware/gaming-mice/corsair-sabre-v2-pro-ultralight-wireless-gaming-mouse-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
