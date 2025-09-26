@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
  - 😝 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)
- - 👉 [No Comment..](http://9gag.com/gag/ajPMqgQ)<!-- MEMES:END -->
+ - 👉 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)<!-- MEMES:END -->
 
 --- 
 
