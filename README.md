@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Of America’s New CEO Seems Like A Fun Guy](https://kotaku.com/nintendo-direct-america-3ds-satoru-shibata-2000629269)
- - [Live-Action Beauty And The Beast Was An Inspiration For FF7 Remake Trilogy, Says Director](https://kotaku.com/final-fantasy-7-remake-rebirth-switch-2-xbox-port-part-3-2000629254)
- - [Silent Hill f&#39;s finicky combat doesn&#39;t actually have to be an issue if you follow these cardinal rules](https://www.pcgamer.com/games/horror/silent-hill-fs-finicky-combat-doesnt-actually-have-to-be-an-issue-if-you-follow-these-cardinal-rules/)<!-- GAME:END -->
+ - [Brazil&#39;s president has signed a ban on selling loot boxes to minors as part of a larger online child safety law](https://www.pcgamer.com/gaming-industry/brazils-president-has-signed-a-ban-on-selling-loot-boxes-to-minors-as-part-of-a-larger-online-child-safety-law/)
+ - [Don&#39;t mistake Netflix&#39;s Wayward for the next Twin Peaks](https://www.polygon.com/netflix-wayward-review-mae-martin/)
+ - [Path of Exile 2 is making a surprise Atlas overhaul next week to liberate its players from tower tyranny](https://www.pcgamer.com/games/rpg/path-of-exile-2-is-making-a-surprise-atlas-overhaul-next-week-to-liberate-its-players-from-tower-tyranny/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
