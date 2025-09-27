@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A fire at South Korea&#39;s National Information Resources Service&#39;s data center shut down 647 government IT systems, disrupting services such as postal banking &lpar;Lee Jung-joo/The Korea Herald&rpar;](http://www.techmeme.com/250927/p18#a250927p18)
- - [Leaked Meta internal document shows updated training protocols for its AI chatbot to refuse any prompts involving sexual roleplay with minors &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/250927/p17#a250927p17)
- - [OpenAI executives working on Stargate say that it costs about $50B to build a data center with roughly 1 GW of capacity, with $35B going toward AI chips &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250927/p16#a250927p16)<!-- TECH:END -->
+ - [Martin Shkreli can be sued for copying Wu-Tang’s one-of-a-kind record](https://www.theverge.com/news/787023/martin-shkreli-sued-for-copying-wu-tang-clan-record)
+ - [Factor Protein Plus Meals Review &lpar;2025&rpar;: Filling, Not Fattening](https://www.wired.com/review/factor-high-protein-meal-delivery/)
+ - [A profile of Ant International, Ant Group&#39;s cross-border payments unit using AI and blockchain for treasury management, which handled $1.1T in cash flow in 2024 &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/250927/p19#a250927p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
