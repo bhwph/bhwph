@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Weekend](http://9gag.com/gag/aYQn4Rx)
- - 😝 [Fly away](http://9gag.com/gag/a34pMN3)
- - 👉 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)<!-- MEMES:END -->
+ - 6️⃣ [Fortunately, there are attentive people. He saves a life](http://9gag.com/gag/a2vj4mO)
+ - 😝 [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
+ - 👉 [Fly away](http://9gag.com/gag/a34pMN3)<!-- MEMES:END -->
 
 --- 
 
