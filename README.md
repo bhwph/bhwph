@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tuapse, Russia. Modern days.](http://9gag.com/gag/aZZVp4Q)
- - 😝 [Remembering good ol days](http://9gag.com/gag/aO8NdZ6)
- - 👉 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)<!-- MEMES:END -->
+ - 6️⃣ [NC Judge Who Released Iryna Zarutska&#39;s Killer Faces Removal As Thousands Sign Petition for Her Ouster](http://9gag.com/gag/azxDroK)
+ - 😝 [I wish I knew...](http://9gag.com/gag/a5QynNE)
+ - 👉 [Tuapse, Russia. Modern days.](http://9gag.com/gag/aZZVp4Q)<!-- MEMES:END -->
 
 --- 
 
