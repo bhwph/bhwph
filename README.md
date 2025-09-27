@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Surge Protectors of 2025: I Tested 16 Surge Protectors to Find the Best](https://www.cnet.com/news/best-surge-protector/#ftag=CAD590a51e)
- - [Salt Lake City-based Filevine, which offers tools to help manage legal workflows, raised $400M from Insight Partners, Accel, Halo Fund, and others in two rounds &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250926/p33#a250926p33)
- - [Best Power Bank for iPhones in 2025](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China&#39;s central bank opens a digital yuan hub in Shanghai; a Chinese state media report says the hub will oversee cross-border payments and blockchain tech &lpar;Foster Wong/Bloomberg&rpar;](http://www.techmeme.com/250927/p5#a250927p5)
+ - [At an all-hands, AWS CEO Matt Garman criticized staff for slow product rollouts and demonstrated a new agentic AI product for internal testing called Quick &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/250927/p4#a250927p4)
+ - [Google agrees to guarantee $1.4B of AI computing startup Fluidstack&#39;s $3B, 10-year agreement with Cipher Mining and gets the right to buy a 5.4% stake in Cipher &lpar;Bloomberg&rpar;](http://www.techmeme.com/250927/p3#a250927p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
