@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trek, Avengers, And More: All 7 Newly Revealed Magic: The Gathering Sets Coming In 2026](https://kotaku.com/magic-gathering-mtg-star-trek-marvel-avengers-2026-sets-2000629313)
- - [Kotaku’s Weekend Guide: 5 Great Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-silent-hill-f-sonic-baby-steps-2000629349)
- - [Silksong player uses every speedrunning trick in the book to lock poor Hornet in bug jail forever: &#39;I don&#39;t know why anyone would want to do this, but I have done it anyway&#39;](https://www.pcgamer.com/games/action/silksong-player-uses-every-speedrunning-trick-in-the-book-to-lock-poor-hornet-in-bug-jail-forever-i-dont-know-why-anyone-would-want-to-do-this-but-i-have-done-it-anyway/)<!-- GAME:END -->
+ - [I played China&#39;s &#39;anime GTA&#39; Ananta and I wasn&#39;t surprised to find Spider-Man swinging and Batman punching, but I wasn&#39;t quite ready for the vampire who vomits rainbows](https://www.pcgamer.com/games/action/i-played-chinas-anime-gta-ananta-and-i-wasnt-surprised-to-find-spider-man-swinging-and-batman-punching-but-i-wasnt-quite-ready-for-the-vampire-who-vomits-rainbows/)
+ - [EA is reportedly about to be sold in a record-setting $50 billion buyout to an investor group that includes private equity and Saudi Arabia](https://www.pcgamer.com/gaming-industry/ea-is-reportedly-about-to-be-sold-in-a-record-setting-usd50-billion-buyout-to-an-investor-group-that-includes-private-equity-and-saudi-arabia/)
+ - [Star Trek, Avengers, And More: All 7 Newly Revealed Magic: The Gathering Sets Coming In 2026](https://kotaku.com/magic-gathering-mtg-star-trek-marvel-avengers-2026-sets-2000629313)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
