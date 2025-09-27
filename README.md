@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NLRB withdraws claims about Tim Cook&#39;s email violating workers&#39; rights](https://appleinsider.com/articles/25/09/26/nlrb-withdraws-claims-about-tim-cooks-email-violating-workers-rights?utm_source=rss)
- - [Trump says Microsoft should fire its global affairs head Lisa Monaco over her work in the Biden administration, calling her a &quot;menace to US National Security&quot; &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/250926/p27#a250926p27)
- - [Microsoft Photos will soon auto-categorize your pictures](https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test)<!-- TECH:END -->
+ - [If You&#39;re a Fan of &#39;Gravity Falls&#39;, You Have to Check Out This New Netflix Series](https://www.cnet.com/tech/services-and-software/if-youre-fan-gravity-falls-you-have-to-check-out-this-new-netflix-series/#ftag=CAD590a51e)
+ - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
+ - [Orico MiniPro Dock Case review: Mini Mac Pro, mini bandwidth](https://appleinsider.com/articles/25/09/26/orico-minipro-dock-case-review-mini-mac-pro-mini-bandwidth?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
