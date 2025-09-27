@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why YouTube is key to Google&#39;s success in AI, with YouTube&#39;s AI enhancements making video content more monetizable than text-based content in Search &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250927/p9#a250927p9)
- - [Ultrahuman Home Review: Overpriced and Underbaked](https://www.wired.com/review/ultrahuman-home/)
- - [Samsung Galaxy Buds3 FE Review: Better AirPods for Android](https://www.wired.com/review/samsung-galaxy-buds3-fe/)<!-- TECH:END -->
+ - [Switch 2 controllers and the OnePlus Watch 3 top our list of the best deals this week](https://www.theverge.com/tech/786564/nintendo-switch-2-easysmx-controller-oneplus-watch-3-deal-sale)
+ - [Leaked a16z decks: $25B in net returns since its 2009 founding, including $11.2B in 2021, and 56 unicorn investments in the past 10 years, the most of any firm &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/250927/p12#a250927p12)
+ - [Cloudflare combines a new Email Sending feature with Routing into a unified Email Service to let developers send emails from Cloudflare Workers, in private beta &lpar;Cloudflare&rpar;](http://www.techmeme.com/250927/p11#a250927p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
