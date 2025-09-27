@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
- - 😝 [Most useless Feature](http://9gag.com/gag/apRjrq9)
+ - 6️⃣ [I wish I knew...](http://9gag.com/gag/a5QynNE)
+ - 😝 [Few hours after incident over Alaska the Pentagon has summoned military officials from around the world for a gathering in Virginia - Pete Hegseth has ordered hundreds of the U.S. military\u2019s generals and admirals to gather on short notice.](http://9gag.com/gag/aE0NR89)
  - 👉 [Slap that guy.](http://9gag.com/gag/aVv1DxK)<!-- MEMES:END -->
 
 --- 
