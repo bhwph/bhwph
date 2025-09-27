@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
- - 😝 [NC Judge Who Released Iryna Zarutska&#39;s Killer Faces Removal As Thousands Sign Petition for Her Ouster](http://9gag.com/gag/azxDroK)
- - 👉 [Fellow Gen X](http://9gag.com/gag/adB47BD)<!-- MEMES:END -->
+ - 6️⃣ [Remembering good ol days](http://9gag.com/gag/aO8NdZ6)
+ - 😝 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)
+ - 👉 [NC Judge Who Released Iryna Zarutska&#39;s Killer Faces Removal As Thousands Sign Petition for Her Ouster](http://9gag.com/gag/azxDroK)<!-- MEMES:END -->
 
 --- 
 
