@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I played China&#39;s &#39;anime GTA&#39; Ananta and I wasn&#39;t surprised to find Spider-Man swinging and Batman punching, but I wasn&#39;t quite ready for the vampire who vomits rainbows](https://www.pcgamer.com/games/action/i-played-chinas-anime-gta-ananta-and-i-wasnt-surprised-to-find-spider-man-swinging-and-batman-punching-but-i-wasnt-quite-ready-for-the-vampire-who-vomits-rainbows/)
- - [EA is reportedly about to be sold in a record-setting $50 billion buyout to an investor group that includes private equity and Saudi Arabia](https://www.pcgamer.com/gaming-industry/ea-is-reportedly-about-to-be-sold-in-a-record-setting-usd50-billion-buyout-to-an-investor-group-that-includes-private-equity-and-saudi-arabia/)
- - [Star Trek, Avengers, And More: All 7 Newly Revealed Magic: The Gathering Sets Coming In 2026](https://kotaku.com/magic-gathering-mtg-star-trek-marvel-avengers-2026-sets-2000629313)<!-- GAME:END -->
+ - [3 Netflix shows you&#39;ll seriously want to binge to the end](https://www.polygon.com/3-netflix-shows-watch-binge-to-end/)
+ - [Today&#39;s Wordle clues, hints and answer for September 27 &lpar;#1561&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-27-2025/)
+ - [I played China&#39;s &#39;anime GTA&#39; Ananta and I wasn&#39;t surprised to find Spider-Man swinging and Batman punching, but I wasn&#39;t quite ready for the vampire who vomits rainbows](https://www.pcgamer.com/games/action/i-played-chinas-anime-gta-ananta-and-i-wasnt-surprised-to-find-spider-man-swinging-and-batman-punching-but-i-wasnt-quite-ready-for-the-vampire-who-vomits-rainbows/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
