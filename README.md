@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Switch 2 controllers and the OnePlus Watch 3 top our list of the best deals this week](https://www.theverge.com/tech/786564/nintendo-switch-2-easysmx-controller-oneplus-watch-3-deal-sale)
- - [Leaked a16z decks: $25B in net returns since its 2009 founding, including $11.2B in 2021, and 56 unicorn investments in the past 10 years, the most of any firm &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/250927/p12#a250927p12)
- - [Cloudflare combines a new Email Sending feature with Routing into a unified Email Service to let developers send emails from Cloudflare Workers, in private beta &lpar;Cloudflare&rpar;](http://www.techmeme.com/250927/p11#a250927p11)<!-- TECH:END -->
+ - [Fermi, a data center real estate investment trust co-founded by former Energy Secretary Rick Perry, aims to raise $550M in a US IPO at a $13.16B valuation &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/250927/p15#a250927p15)
+ - [5 Foods Secretly Ruining Your Nonstick Pans](https://www.cnet.com/news/5-foods-secretly-ruining-your-nonstick-pans/#ftag=CAD590a51e)
+ - [Friend, which launched a $129 AI-powered, always-listening necklace, plasters NYC subway with ads in $1M+ campaign that includes over 1,000 platform posters &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250927/p14#a250927p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
