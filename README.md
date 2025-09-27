@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fermi, a data center real estate investment trust co-founded by former Energy Secretary Rick Perry, aims to raise $550M in a US IPO at a $13.16B valuation &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/250927/p15#a250927p15)
- - [5 Foods Secretly Ruining Your Nonstick Pans](https://www.cnet.com/news/5-foods-secretly-ruining-your-nonstick-pans/#ftag=CAD590a51e)
- - [Friend, which launched a $129 AI-powered, always-listening necklace, plasters NYC subway with ads in $1M+ campaign that includes over 1,000 platform posters &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250927/p14#a250927p14)<!-- TECH:END -->
+ - [A fire at South Korea&#39;s National Information Resources Service&#39;s data center shut down 647 government IT systems, disrupting services such as postal banking &lpar;Lee Jung-joo/The Korea Herald&rpar;](http://www.techmeme.com/250927/p18#a250927p18)
+ - [Leaked Meta internal document shows updated training protocols for its AI chatbot to refuse any prompts involving sexual roleplay with minors &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/250927/p17#a250927p17)
+ - [OpenAI executives working on Stargate say that it costs about $50B to build a data center with roughly 1 GW of capacity, with $35B going toward AI chips &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250927/p16#a250927p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
