@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fellow Gen X](http://9gag.com/gag/adB47BD)
- - 😝 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
- - 👉 [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
+ - 😝 [NC Judge Who Released Iryna Zarutska&#39;s Killer Faces Removal As Thousands Sign Petition for Her Ouster](http://9gag.com/gag/azxDroK)
+ - 👉 [Fellow Gen X](http://9gag.com/gag/adB47BD)<!-- MEMES:END -->
 
 --- 
 
