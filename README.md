@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [3 Netflix shows you&#39;ll seriously want to binge to the end](https://www.polygon.com/3-netflix-shows-watch-binge-to-end/)
- - [Today&#39;s Wordle clues, hints and answer for September 27 &lpar;#1561&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-27-2025/)
- - [I played China&#39;s &#39;anime GTA&#39; Ananta and I wasn&#39;t surprised to find Spider-Man swinging and Batman punching, but I wasn&#39;t quite ready for the vampire who vomits rainbows](https://www.pcgamer.com/games/action/i-played-chinas-anime-gta-ananta-and-i-wasnt-surprised-to-find-spider-man-swinging-and-batman-punching-but-i-wasnt-quite-ready-for-the-vampire-who-vomits-rainbows/)<!-- GAME:END -->
+ - [Hades 2&#39;s story misses one thing Hades got extremely right](https://www.polygon.com/hades-2-story-misses-one-thing-hades-got-extremely-right/)
+ - [Whatever happened to They Hunger: Lost Souls, the sequel to one of Half-Life&#39;s best mods?](https://www.pcgamer.com/games/fps/whatever-happened-to-they-hunger-lost-souls-the-sequel-to-one-of-half-lifes-best-mods/)
+ - [Katamari Damacy at 21: The secret behind its timeless design](https://www.polygon.com/katamari-damacy-21-anniversary/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
