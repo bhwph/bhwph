@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
- - 😝 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
- - 👉 [I wish I knew...](http://9gag.com/gag/a5QynNE)<!-- MEMES:END -->
+ - 6️⃣ [Remembering good ol days](http://9gag.com/gag/aO8NdZ6)
+ - 😝 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
+ - 👉 [NC Judge Who Released Iryna Zarutska&#39;s Killer Faces Removal As Thousands Sign Petition for Her Ouster](http://9gag.com/gag/azxDroK)<!-- MEMES:END -->
 
 --- 
 
