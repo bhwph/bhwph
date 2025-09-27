@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hades 2&#39;s story misses one thing Hades got extremely right](https://www.polygon.com/hades-2-story-misses-one-thing-hades-got-extremely-right/)
- - [Whatever happened to They Hunger: Lost Souls, the sequel to one of Half-Life&#39;s best mods?](https://www.pcgamer.com/games/fps/whatever-happened-to-they-hunger-lost-souls-the-sequel-to-one-of-half-lifes-best-mods/)
- - [Katamari Damacy at 21: The secret behind its timeless design](https://www.polygon.com/katamari-damacy-21-anniversary/)<!-- GAME:END -->
+ - [After four long years, Mojang is finally making copper useful in Minecraft in its big September update](https://www.pcgamer.com/games/after-four-long-years-mojang-is-finally-making-copper-useful-in-minecraft-in-its-big-september-update/)
+ - [Supergiant director says the studio is fully focused on Hades 2, doesn&#39;t &#39;secretly know&#39; what it&#39;ll do next and Hades 3 is &#39;not preordained&#39;](https://www.pcgamer.com/games/action/supergiant-director-says-the-studio-is-fully-focused-on-hades-2-doesnt-secretly-know-what-itll-do-next-and-hades-3-is-not-preordained/)
+ - [Benicio del Toro reunited with Steven Soderbergh in No Sudden Move](https://www.polygon.com/benicio-del-toro-thriller-no-sudden-move/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
