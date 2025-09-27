@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Remembering good ol days](http://9gag.com/gag/aO8NdZ6)
- - 😝 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)
- - 👉 [NC Judge Who Released Iryna Zarutska&#39;s Killer Faces Removal As Thousands Sign Petition for Her Ouster](http://9gag.com/gag/azxDroK)<!-- MEMES:END -->
+ - 😝 [NC Judge Who Released Iryna Zarutska&#39;s Killer Faces Removal As Thousands Sign Petition for Her Ouster](http://9gag.com/gag/azxDroK)
+ - 👉 [I wish I knew...](http://9gag.com/gag/a5QynNE)<!-- MEMES:END -->
 
 --- 
 
