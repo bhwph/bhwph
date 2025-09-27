@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Raleigh One e-bike review: redemption tour](https://www.theverge.com/reviews/786538/raleigh-one-e-bike-review-vanmoof-carlier-ties-taco)
- - [A look at some California tech regulation bills, including one banning AI use in firing or disciplining workers, that await Gov. Newsom&#39;s signature or his veto &lpar;Brian Merchant/Blood in the Machine&rpar;](http://www.techmeme.com/250927/p6#a250927p6)
- - [China&#39;s central bank opens a digital yuan hub in Shanghai; a Chinese state media report says the hub will oversee cross-border payments and blockchain tech &lpar;Foster Wong/Bloomberg&rpar;](http://www.techmeme.com/250927/p5#a250927p5)<!-- TECH:END -->
+ - [I’ve tried Kindle, Boox, reMarkable, and more, and this is my e-ink hot take](https://www.androidauthority.com/my-e-ink-hot-take-3597945/)
+ - [WIRED Roundup: Groypers Are Going Mainstream](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-groypers-are-going-mainstream/)
+ - [An interview with California state Senator Scott Wiener on his new AI safety bill SB 53, the bill&#39;s scope, his focus on AI safety bills, AI PACs, and more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250927/p7#a250927p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
