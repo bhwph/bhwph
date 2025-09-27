@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve tried Kindle, Boox, reMarkable, and more, and this is my e-ink hot take](https://www.androidauthority.com/my-e-ink-hot-take-3597945/)
- - [WIRED Roundup: Groypers Are Going Mainstream](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-groypers-are-going-mainstream/)
- - [An interview with California state Senator Scott Wiener on his new AI safety bill SB 53, the bill&#39;s scope, his focus on AI safety bills, AI PACs, and more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250927/p7#a250927p7)<!-- TECH:END -->
+ - [6 things Spotify gets right that YouTube Music doesn’t](https://www.androidauthority.com/youtube-music-vs-spotify-missing-features-3600357/)
+ - [Here’s the latest progress on how Google Messages @mentions are going to work](https://www.androidauthority.com/messages-mentions-3601751/)
+ - [Android’s answer to Apple’s Handoff is coming, and here’s how it’ll work](https://www.androidauthority.com/how-android-handoff-will-work-3601801/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
