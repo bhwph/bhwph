@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Remembering good ol days](http://9gag.com/gag/aO8NdZ6)
- - 😝 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
- - 👉 [NC Judge Who Released Iryna Zarutska&#39;s Killer Faces Removal As Thousands Sign Petition for Her Ouster](http://9gag.com/gag/azxDroK)<!-- MEMES:END -->
+ - 6️⃣ [Weekend](http://9gag.com/gag/aYQn4Rx)
+ - 😝 [Fly away](http://9gag.com/gag/a34pMN3)
+ - 👉 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)<!-- MEMES:END -->
 
 --- 
 
