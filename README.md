@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 things Spotify gets right that YouTube Music doesn’t](https://www.androidauthority.com/youtube-music-vs-spotify-missing-features-3600357/)
- - [Here’s the latest progress on how Google Messages @mentions are going to work](https://www.androidauthority.com/messages-mentions-3601751/)
- - [Android’s answer to Apple’s Handoff is coming, and here’s how it’ll work](https://www.androidauthority.com/how-android-handoff-will-work-3601801/)<!-- TECH:END -->
+ - [Why YouTube is key to Google&#39;s success in AI, with YouTube&#39;s AI enhancements making video content more monetizable than text-based content in Search &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250927/p9#a250927p9)
+ - [Ultrahuman Home Review: Overpriced and Underbaked](https://www.wired.com/review/ultrahuman-home/)
+ - [Samsung Galaxy Buds3 FE Review: Better AirPods for Android](https://www.wired.com/review/samsung-galaxy-buds3-fe/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
