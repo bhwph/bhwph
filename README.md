@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I wish I knew...](http://9gag.com/gag/a5QynNE)
- - 😝 [Sadly the Phillies clinched a playoff spot](http://9gag.com/gag/avyXGyn)
- - 👉 [Few hours after incident over Alaska the Pentagon has summoned military officials from around the world for a gathering in Virginia - Pete Hegseth has ordered hundreds of the U.S. military\u2019s generals and admirals to gather on short notice.](http://9gag.com/gag/aE0NR89)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
+ - 😝 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
+ - 👉 [I wish I knew...](http://9gag.com/gag/a5QynNE)<!-- MEMES:END -->
 
 --- 
 
