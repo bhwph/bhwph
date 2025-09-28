@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts warn that Nvidia&#39;s large investments in data centers and startups, almost like a stimulus program, could be artificially inflating demand for its GPUs &lpar;The Information&rpar;](http://www.techmeme.com/250928/p9#a250928p9)
- - [I compared Apple Visual Intelligence to Circle to Search, and the winner won’t surprise you](https://www.androidauthority.com/apple-visual-intelligence-vs-circle-to-search-3600759/)
- - [20 Best iPhone 17 Cases and Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/)<!-- TECH:END -->
+ - [How the voice of Silksong&amp;#8217;s Hornet brought her to life through gibberish](https://www.theverge.com/games/785915/hollow-knight-silksong-hornet-voice-actor-makoto-koji-gibberish)
+ - [A look at AI-powered &quot;nudify&quot; tools, which make it fast and easy to make nonconsensual, deepfake porn, and the limited legal options available to their victims &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250928/p10#a250928p10)
+ - [My life would be a mess without these 8 productivity apps](https://www.androidauthority.com/favorite-productivity-apps-android-3599869/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
