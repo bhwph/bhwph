@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Magic ???](http://9gag.com/gag/aO8NYyE)
- - 😝 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
- - 👉 [Gonna catch em all](http://9gag.com/gag/aVv13MK)<!-- MEMES:END -->
+ - 6️⃣ [Weekend](http://9gag.com/gag/aYQn4Rx)
+ - 😝 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
+ - 👉 [Dating In Your 30&#39;s Dangers.](http://9gag.com/gag/a0eW51B)<!-- MEMES:END -->
 
 --- 
 
