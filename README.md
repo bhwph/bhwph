@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
- - 😝 [This Google trick is pure magic](http://9gag.com/gag/avyX7AZ)
- - 👉 [This was a banger of a tweet!](http://9gag.com/gag/ajPMNM8)<!-- MEMES:END -->
+ - 6️⃣ [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
+ - 😝 [I am speed](http://9gag.com/gag/aXPGqeD)
+ - 👉 [The reason they didn\u2019t pass under the train is because](http://9gag.com/gag/an7WjGn)<!-- MEMES:END -->
 
 --- 
 
