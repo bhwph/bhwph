@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sadly the Phillies clinched a playoff spot](http://9gag.com/gag/avyXGyn)
- - 😝 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
- - 👉 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)<!-- MEMES:END -->
+ - 6️⃣ [Capri](http://9gag.com/gag/aXPGxbg)
+ - 😝 [The new generation of German men are wild](http://9gag.com/gag/aryrbEd)
+ - 👉 [When Andy got a little too specific in his comments on the assailants background:](http://9gag.com/gag/awyGQLD)<!-- MEMES:END -->
 
 --- 
 
