@@ -122,7 +122,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- GAME:START -->
  - [The first DLC vault hunter in Borderlands 4 will be a robot cowboy gambler named C4SH who throws playing cards](https://www.pcgamer.com/games/fps/the-first-dlc-vault-hunter-in-borderlands-4-will-be-a-robot-cowboy-gambler-named-c4sh-who-throws-playing-cards/)
  - [Today&#39;s Wordle clues, hints and answer for September 28 &lpar;#1562&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-28-2025/)
- - [Dragon Ball fans will love award-winning manga Ichi the Witch](https://www.polygon.com/ichi-the-witch-next-manga-award-winner-toriyama/)<!-- GAME:END -->
+ - [Dragon Ball fans: Read this award-winning new manga](https://www.polygon.com/ichi-the-witch-next-manga-award-winner-toriyama/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
