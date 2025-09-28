@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the voice of Silksong&amp;#8217;s Hornet brought her to life through gibberish](https://www.theverge.com/games/785915/hollow-knight-silksong-hornet-voice-actor-makoto-koji-gibberish)
- - [A look at AI-powered &quot;nudify&quot; tools, which make it fast and easy to make nonconsensual, deepfake porn, and the limited legal options available to their victims &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250928/p10#a250928p10)
- - [My life would be a mess without these 8 productivity apps](https://www.androidauthority.com/favorite-productivity-apps-android-3599869/)<!-- TECH:END -->
+ - [10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic](https://www.wired.com/gallery/best-meal-kit-services-1/)
+ - [Education software company EdSights, which uses SMS texting and AI to reach students and identify those at risk of dropping out, raised $80M from JMI Equity &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250928/p11#a250928p11)
+ - [New Apple displays, M5 MacBook upgrades expected by Q1 2026](https://appleinsider.com/articles/25/09/28/new-apple-displays-m5-macbook-upgrades-expected-by-q1-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
