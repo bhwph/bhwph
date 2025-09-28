@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I wish I knew...](http://9gag.com/gag/a5QynNE)
- - 😝 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
+ - 6️⃣ [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
+ - 😝 [Acceptable bullying](http://9gag.com/gag/a6Z3VLq)
  - 👉 [Best dimension ever](http://9gag.com/gag/a6Z3bPN)<!-- MEMES:END -->
 
 --- 
