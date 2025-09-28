@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not surprised](http://9gag.com/gag/a87X8mQ)
- - 😝 [He should at least give then some batteries first](http://9gag.com/gag/aO8Nzp6)
- - 👉 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)<!-- MEMES:END -->
+ - 6️⃣ [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
+ - 😝 [This Google trick is pure magic](http://9gag.com/gag/avyX7AZ)
+ - 👉 [This was a banger of a tweet!](http://9gag.com/gag/ajPMNM8)<!-- MEMES:END -->
 
 --- 
 
