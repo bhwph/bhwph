@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
- - 😝 [I am speed](http://9gag.com/gag/aXPGqeD)
- - 👉 [The reason they didn\u2019t pass under the train is because](http://9gag.com/gag/an7WjGn)<!-- MEMES:END -->
+ - 6️⃣ [I wish I knew...](http://9gag.com/gag/a5QynNE)
+ - 😝 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
+ - 👉 [Best dimension ever](http://9gag.com/gag/a6Z3bPN)<!-- MEMES:END -->
 
 --- 
 
