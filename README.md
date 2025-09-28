@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The first DLC vault hunter in Borderlands 4 will be a robot cowboy gambler named C4SH who throws playing cards](https://www.pcgamer.com/games/fps/the-first-dlc-vault-hunter-in-borderlands-4-will-be-a-robot-cowboy-gambler-named-c4sh-who-throws-playing-cards/)
- - [Today&#39;s Wordle clues, hints and answer for September 28 &lpar;#1562&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-28-2025/)
- - [Dragon Ball fans: Read this award-winning new manga](https://www.polygon.com/ichi-the-witch-next-manga-award-winner-toriyama/)<!-- GAME:END -->
+ - [A new Danganronpa game means one thing and one thing only: Getting to hear its excellent soundtrack all over again](https://www.pcgamer.com/games/visual-novel/a-new-danganronpa-game-means-one-thing-and-one-thing-only-getting-to-hear-its-excellent-soundtrack-all-over-again/)
+ - [&#39;Overwhelmingly positive&#39; rover-building sim Mars First Logistics rolls out of early access with a new automation system and a 40% discount](https://www.pcgamer.com/games/sim/overwhelmingly-positive-rover-building-sim-mars-first-logistics-rolls-out-of-early-access-with-a-new-automation-system-and-a-40-percent-discount/)
+ - [If Hades 2 and Silksong both get GOTY nominations, it will be historic](https://www.polygon.com/goty-the-game-awards-hades-2-silksong-indies/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
