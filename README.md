@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A new Danganronpa game means one thing and one thing only: Getting to hear its excellent soundtrack all over again](https://www.pcgamer.com/games/visual-novel/a-new-danganronpa-game-means-one-thing-and-one-thing-only-getting-to-hear-its-excellent-soundtrack-all-over-again/)
- - [&#39;Overwhelmingly positive&#39; rover-building sim Mars First Logistics rolls out of early access with a new automation system and a 40% discount](https://www.pcgamer.com/games/sim/overwhelmingly-positive-rover-building-sim-mars-first-logistics-rolls-out-of-early-access-with-a-new-automation-system-and-a-40-percent-discount/)
- - [If Hades 2 and Silksong both get GOTY nominations, it will be historic](https://www.polygon.com/goty-the-game-awards-hades-2-silksong-indies/)<!-- GAME:END -->
+ - [This criminally overlooked Rick and Morty replacement is finally streaming on Netflix](https://www.polygon.com/solar-opposites-on-netflix/)
+ - [No Rapture? Doomsday cult PC game Join Us offers an alternative](https://www.polygon.com/doomsday-cult-survival-sim-join-us-rapture-apocalypse/)
+ - [Every game, trailer, and announcement in the PC Gaming Show Tokyo Direct](https://www.pcgamer.com/gaming-industry/events-conferences/every-game-trailer-and-announcement-in-the-pc-gaming-show-tokyo-direct/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
