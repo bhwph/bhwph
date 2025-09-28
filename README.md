@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic](https://www.wired.com/gallery/best-meal-kit-services-1/)
- - [Education software company EdSights, which uses SMS texting and AI to reach students and identify those at risk of dropping out, raised $80M from JMI Equity &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250928/p11#a250928p11)
- - [New Apple displays, M5 MacBook upgrades expected by Q1 2026](https://appleinsider.com/articles/25/09/28/new-apple-displays-m5-macbook-upgrades-expected-by-q1-2026?utm_source=rss)<!-- TECH:END -->
+ - [Trump posts, then pulls bizarre AI video promoting MedBed conspiracy](https://www.theverge.com/news/787042/trump-posts-then-pulls-bizarre-ai-video-promoting-medbed-conspiracy)
+ - [A book excerpt details how a small team of content curators hired by ByteDance in Mexico City in 2018 shaped TikTok&#39;s For You algorithm in Latin America &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/250928/p14#a250928p14)
+ - [Sunday Night Football: How to Watch Packers vs. Cowboys Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-packers-vs-cowboys-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
