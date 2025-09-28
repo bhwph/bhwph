@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the implosion of CaaStle, a clothing inventory monetization startup whose ex-CEO Christine Hunsicker is accused of swindling investors out of $300M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250928/p8#a250928p8)
- - [Swapping between hard floor and carpet cleaning has never been easier with the Dreame H15 Pro CarpetFlex](https://www.androidauthority.com/dreame-h15-pro-carpetflex-3600141/)
- - [How to Fix Wi-Fi Dead Spots in Your Home](https://www.cnet.com/home/internet/how-to-fix-wi-fi-dead-spots-in-your-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Experts warn that Nvidia&#39;s large investments in data centers and startups, almost like a stimulus program, could be artificially inflating demand for its GPUs &lpar;The Information&rpar;](http://www.techmeme.com/250928/p9#a250928p9)
+ - [I compared Apple Visual Intelligence to Circle to Search, and the winner won’t surprise you](https://www.androidauthority.com/apple-visual-intelligence-vs-circle-to-search-3600759/)
+ - [20 Best iPhone 17 Cases and Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
