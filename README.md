@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After four long years, Mojang is finally making copper useful in Minecraft in its big September update](https://www.pcgamer.com/games/after-four-long-years-mojang-is-finally-making-copper-useful-in-minecraft-in-its-big-september-update/)
- - [Supergiant director says the studio is fully focused on Hades 2, doesn&#39;t &#39;secretly know&#39; what it&#39;ll do next and Hades 3 is &#39;not preordained&#39;](https://www.pcgamer.com/games/action/supergiant-director-says-the-studio-is-fully-focused-on-hades-2-doesnt-secretly-know-what-itll-do-next-and-hades-3-is-not-preordained/)
- - [Benicio del Toro reunited with Steven Soderbergh in No Sudden Move](https://www.polygon.com/benicio-del-toro-thriller-no-sudden-move/)<!-- GAME:END -->
+ - [Dragon Ball fans will love award-winning manga Ichi the Witch](https://www.polygon.com/ichi-the-witch-next-manga-award-winner-toriyama/)
+ - [Magic: The Gathering cards featuring Dwight from The Office are a step too far for some, though others think they&#39;re &#39;so bad its circling back to being funny&#39;](https://www.pcgamer.com/games/card-games/magic-the-gathering-cards-featuring-dwight-from-the-office-are-a-step-too-far-for-some-though-others-think-theyre-so-bad-its-circling-back-to-being-funny/)
+ - [Over half of Japanese game companies are using AI in development according to a new survey, including Level-5 and Capcom](https://www.pcgamer.com/gaming-industry/over-half-of-japanese-game-companies-are-using-ai-in-development-according-to-a-new-survey-including-level-5-and-capcom/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
