@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Accenture, which laid off 11K+ employees in the past three months, warns of more cuts if workers cannot be retrained to have the skills needed for the age of AI &lpar;Stephen Foley/Financial Times&rpar;](http://www.techmeme.com/250928/p1#a250928p1)
- - [Sources: data integration company Fivetran is in talks to acquire data management company dbt Labs in a deal valuing the combined entity at between $5B and $10B &lpar;The Information&rpar;](http://www.techmeme.com/250927/p23#a250927p23)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Sept. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-sept-28/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iRobot co-founder Rodney Brooks details why humanoid robots won&#39;t learn human-level dexterity from current methods, how to make them safe for humans, and more &lpar;Rodney Brooks&rpar;](http://www.techmeme.com/250928/p7#a250928p7)
+ - [At the UN, the US rejected calls for collaborative efforts around AI governance, even as many leaders endorsed a need for urgent international collaboration &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/250928/p6#a250928p6)
+ - [The US ambassador to the EU Andrew Puzder says the EU must either prove that its digital rules, such as the DMA, do not punish US tech companies or change them &lpar;Financial Times&rpar;](http://www.techmeme.com/250928/p5#a250928p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
