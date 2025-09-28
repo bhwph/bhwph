@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
- - 😝 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
- - 👉 [Best dimension ever](http://9gag.com/gag/a6Z3bPN)<!-- MEMES:END -->
+ - 6️⃣ [Not surprised](http://9gag.com/gag/a87X8mQ)
+ - 😝 [He should at least give then some batteries first](http://9gag.com/gag/aO8Nzp6)
+ - 👉 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)<!-- MEMES:END -->
 
 --- 
 
