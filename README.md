@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best dimension ever](http://9gag.com/gag/a6Z3bPN)
- - 😝 [Fly away](http://9gag.com/gag/a34pMN3)
- - 👉 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)<!-- MEMES:END -->
+ - 6️⃣ [Fly away](http://9gag.com/gag/a34pMN3)
+ - 😝 [There is nothing to see in this meme](http://9gag.com/gag/aKGNjy1)
+ - 👉 [The practice and the final performance of a ballet dance](http://9gag.com/gag/aYQng2N)<!-- MEMES:END -->
 
 --- 
 
