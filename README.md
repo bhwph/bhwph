@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
- - 😝 [Acceptable bullying](http://9gag.com/gag/a6Z3VLq)
- - 👉 [Best dimension ever](http://9gag.com/gag/a6Z3bPN)<!-- MEMES:END -->
+ - 6️⃣ [Best dimension ever](http://9gag.com/gag/a6Z3bPN)
+ - 😝 [Fly away](http://9gag.com/gag/a34pMN3)
+ - 👉 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)<!-- MEMES:END -->
 
 --- 
 
