@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fly away](http://9gag.com/gag/a34pMN3)
- - 😝 [There is nothing to see in this meme](http://9gag.com/gag/aKGNjy1)
- - 👉 [The practice and the final performance of a ballet dance](http://9gag.com/gag/aYQng2N)<!-- MEMES:END -->
+ - 6️⃣ [Magic ???](http://9gag.com/gag/aO8NYyE)
+ - 😝 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
+ - 👉 [Gonna catch em all](http://9gag.com/gag/aVv13MK)<!-- MEMES:END -->
 
 --- 
 
