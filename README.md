@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for September 28 &lpar;#1562&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-28-2025/)
  - [Dragon Ball fans will love award-winning manga Ichi the Witch](https://www.polygon.com/ichi-the-witch-next-manga-award-winner-toriyama/)
- - [Magic: The Gathering cards featuring Dwight from The Office are a step too far for some, though others think they&#39;re &#39;so bad its circling back to being funny&#39;](https://www.pcgamer.com/games/card-games/magic-the-gathering-cards-featuring-dwight-from-the-office-are-a-step-too-far-for-some-though-others-think-theyre-so-bad-its-circling-back-to-being-funny/)
- - [Over half of Japanese game companies are using AI in development according to a new survey, including Level-5 and Capcom](https://www.pcgamer.com/gaming-industry/over-half-of-japanese-game-companies-are-using-ai-in-development-according-to-a-new-survey-including-level-5-and-capcom/)<!-- GAME:END -->
+ - [Magic: The Gathering cards featuring Dwight from The Office are a step too far for some, though others think they&#39;re &#39;so bad its circling back to being funny&#39;](https://www.pcgamer.com/games/card-games/magic-the-gathering-cards-featuring-dwight-from-the-office-are-a-step-too-far-for-some-though-others-think-theyre-so-bad-its-circling-back-to-being-funny/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
