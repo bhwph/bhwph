@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [RidePods is the first iPhone game you control with AirPods](https://www.theverge.com/news/787396/ride-pods-race-with-head-apple-airpods-spatial-audio-motion-controls)
- - [The wait is over - Mac Studio M3 Ultra owners can now install macOS Tahoe](https://appleinsider.com/articles/25/09/29/the-wait-is-over---mac-studio-m3-ultra-owners-can-now-install-macos-tahoe?utm_source=rss)<!-- TECH:END -->
+ - [Amazon launches sale on 2025 Apple Watch Series 11, SE 3, Ultra 3](https://appleinsider.com/articles/25/09/29/amazon-launches-sale-on-2025-apple-watch-series-11-se-3-ultra-3?utm_source=rss)
+ - [Motorola just teased a phone thin enough to take on the Galaxy S25 Edge](https://www.androidauthority.com/motorola-thin-phone-teaser-galaxy-s25-edge-competitor-3602203/)
+ - [Sources: OpenAI plans a stand-alone social app powered by Sora 2, featuring a TikTok-like vertical feed with AI-generated videos and a recommendation page &lpar;Wired&rpar;](http://www.techmeme.com/250929/p37#a250929p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
