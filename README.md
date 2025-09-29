@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you buy a cruise ticket from Temu](http://9gag.com/gag/a0eWQMn)
- - 😝 [The little mermaid in Peacemaker&#39;s alternative dimension.](http://9gag.com/gag/aVv1YDd)
- - 👉 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)<!-- MEMES:END -->
+ - 6️⃣ [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
+ - 😝 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)
+ - 👉 [When you buy a cruise ticket from Temu](http://9gag.com/gag/a0eWQMn)<!-- MEMES:END -->
 
 --- 
 
