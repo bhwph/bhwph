@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey shows people are really eager for Gemini integration in Google Home](https://www.androidauthority.com/google-home-revamp-survey-results-3602036/)
- - [Developers leverage Apple Intelligence for new mental health, fitness, and productivity features](https://appleinsider.com/articles/25/09/29/developers-leverage-apple-intelligence-for-new-mental-health-fitness-and-productivity-features?utm_source=rss)
- - [Apple Vision Pro enters enterprise design work with Webex 3D tools](https://appleinsider.com/articles/25/09/29/apple-vision-pro-enters-enterprise-design-work-with-webex-3d-tools?utm_source=rss)<!-- TECH:END -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [RidePods is the first iPhone game you control with AirPods](https://www.theverge.com/news/787396/ride-pods-race-with-head-apple-airpods-spatial-audio-motion-controls)
+ - [The wait is over - Mac Studio M3 Ultra owners can now install macOS Tahoe](https://appleinsider.com/articles/25/09/29/the-wait-is-over---mac-studio-m3-ultra-owners-can-now-install-macos-tahoe?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
