@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers: Tile tags broadcast unencrypted MAC addresses and unique IDs; researchers informed Life360 in November 2024 but it stopped replying in February &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/250929/p22#a250929p22)
- - [GameSir’s clip-on controller turns smartphones into Game Boys](https://www.theverge.com/news/787200/gamesir-controller-smartphone-nintendo-game-boy-tokyo-game-show)
- - [Google rolls out its new gradient &quot;G&quot; icon company-wide, saying it &quot;now represents all of Google ... and visually reflects our evolution in the AI era&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250929/p21#a250929p21)<!-- TECH:END -->
+ - [Survey shows people are really eager for Gemini integration in Google Home](https://www.androidauthority.com/google-home-revamp-survey-results-3602036/)
+ - [Developers leverage Apple Intelligence for new mental health, fitness, and productivity features](https://appleinsider.com/articles/25/09/29/developers-leverage-apple-intelligence-for-new-mental-health-fitness-and-productivity-features?utm_source=rss)
+ - [Apple Vision Pro enters enterprise design work with Webex 3D tools](https://appleinsider.com/articles/25/09/29/apple-vision-pro-enters-enterprise-design-work-with-webex-3d-tools?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
