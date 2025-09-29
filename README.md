@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches sale on 2025 Apple Watch Series 11, SE 3, Ultra 3](https://appleinsider.com/articles/25/09/29/amazon-launches-sale-on-2025-apple-watch-series-11-se-3-ultra-3?utm_source=rss)
- - [Motorola just teased a phone thin enough to take on the Galaxy S25 Edge](https://www.androidauthority.com/motorola-thin-phone-teaser-galaxy-s25-edge-competitor-3602203/)
- - [Sources: OpenAI plans a stand-alone social app powered by Sora 2, featuring a TikTok-like vertical feed with AI-generated videos and a recommendation page &lpar;Wired&rpar;](http://www.techmeme.com/250929/p37#a250929p37)<!-- TECH:END -->
+ - [Open-source Android app store F-Droid says Google&#39;s upcoming requirement for all Android devs to verify their identity threatens to kill alternative app stores &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250929/p44#a250929p44)
+ - [Microsoft is bringing its Windows engineering teams back together again](https://www.theverge.com/report/787796/microsoft-windows-reorg-single-engineering-team-changes)
+ - [Tile&amp;#8217;s lack of encryption could make tracker owners vulnerable to stalking](https://www.theverge.com/news/787836/tile-trackers-stalking-research-unencrypted)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
