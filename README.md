@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at China&#39;s Ministry of State Security, which has been reshaped by Xi Jinping to be the primary driver of cyber espionage campaigns like Salt Typhoon &lpar;New York Times&rpar;](http://www.techmeme.com/250928/p23#a250928p23)
- - [Caltech says it built the world&#39;s largest neutral-atom quantum computer, with 6,100 qubits, 13 second coherence, 10x longer than the past, and 99.98% accuracy &lpar;Jason Nelson/Decrypt&rpar;](http://www.techmeme.com/250928/p22#a250928p22)
- - [An interview with Jeanine Wright, CEO of Inception Point AI, about her vow to continue mass-publishing episodes of AI-generated podcasts despite backlash &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250928/p21#a250928p21)<!-- TECH:END -->
+ - [VCs say some AI startups, under pressure to show rapid ARR growth, are using questionable accounting practices like counting one-time deals as recurring revenue &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250929/p1#a250929p1)
+ - [Microplastics Could Be Weakening Your Bones, Research Suggests](https://www.wired.com/story/microplastics-could-be-weakening-your-bones-research-suggests-osteoporosis/)
+ - [Google’s new rules could wipe out sideloading and alternative app stores, F-Droid warns](https://www.androidauthority.com/f-droid-google-developer-verification-rules-warning-3601860/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
