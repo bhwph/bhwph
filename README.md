@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gonna catch em all](http://9gag.com/gag/aVv13MK)
- - 😝 [What? You called me pretty?](http://9gag.com/gag/aPAdjQn)
- - 👉 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)<!-- MEMES:END -->
+ - 6️⃣ [Lifehack of the day...](http://9gag.com/gag/ajPM56w)
+ - 😝 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
+ - 👉 [Love spell](http://9gag.com/gag/a87X3eV)<!-- MEMES:END -->
 
 --- 
 
