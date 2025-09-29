@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Almost 90 years old, Skyrim Grandma Shirley Curry says she&#39;s retiring from the adventuring life: &#39;I&#39;m tired, I&#39;m not having fun anymore&#39;](https://www.pcgamer.com/games/the-elder-scrolls/almost-90-years-old-skyrim-grandma-shirley-curry-says-shes-retiring-from-the-adventuring-life-im-tired-im-not-having-fun-anymore/)
- - [The Internet Reacts To EA’s $55 Billion Sale To Some Of The Worst People Around](https://kotaku.com/electronic-arts-acquisition-saudi-arabia-jared-kushner-2000629849)
- - [ASUS ROG Xbox Ally Up for Pre-order Is Live, Skip the Sell-Out FOMO and Secure Yours Before October 16 Release](https://kotaku.com/asus-rog-xbox-ally-up-for-pre-order-is-live-skip-the-sell-out-fomo-and-secure-yours-before-october-16-release-2000629343)<!-- GAME:END -->
+ - [Steam&#39;s big autumn sale: 5 under-the-radar games to check out](https://www.polygon.com/when-is-steam-sale-autumn-what-to-buy-pc-gaming/)
+ - [Meet Borderlands 4&#39;s next Vault Hunter, C4SH](https://www.polygon.com/borderlands-4-next-vault-hunter-c4sh-story-pack/)
+ - [The Simpsons Movie 2 is coming in 2027](https://www.polygon.com/the-simpsons-movie-2-sequel-disney/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
