@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Announces Unprecedented $55 Billion Sale To Saudi Arabia, Jared Kushner’s Private Equity Group, And Others](https://kotaku.com/ea-sale-saudi-arabia-madden-pif-jared-kushner-2000629829)
- - [Borderlands 4 has a throwing knife-shaped problem, and a nerf isn&#39;t going to cut it](https://www.pcgamer.com/games/fps/borderlands-4-crit-throwing-knife-nerf/)
- - [Fortnite quickly pulls Peacemaker emote while it figures out &#39;our partner&#39;s creative intentions&#39; after the show&#39;s huge twist gives it a whole new meaning](https://www.pcgamer.com/games/battle-royale/fortnite-quickly-pulls-peacemaker-emote-while-it-figures-out-our-partners-creative-intentions-after-the-shows-huge-twist-gives-it-a-whole-new-meaning/)<!-- GAME:END -->
+ - [Almost 90 years old, Skyrim Grandma Shirley Curry says she&#39;s retiring from the adventuring life: &#39;I&#39;m tired, I&#39;m not having fun anymore&#39;](https://www.pcgamer.com/games/the-elder-scrolls/almost-90-years-old-skyrim-grandma-shirley-curry-says-shes-retiring-from-the-adventuring-life-im-tired-im-not-having-fun-anymore/)
+ - [The Internet Reacts To EA’s $55 Billion Sale To Some Of The Worst People Around](https://kotaku.com/electronic-arts-acquisition-saudi-arabia-jared-kushner-2000629849)
+ - [ASUS ROG Xbox Ally Up for Pre-order Is Live, Skip the Sell-Out FOMO and Secure Yours Before October 16 Release](https://kotaku.com/asus-rog-xbox-ally-up-for-pre-order-is-live-skip-the-sell-out-fomo-and-secure-yours-before-october-16-release-2000629343)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
