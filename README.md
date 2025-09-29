@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lifehack of the day...](http://9gag.com/gag/ajPM56w)
- - 😝 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
- - 👉 [Love spell](http://9gag.com/gag/a87X3eV)<!-- MEMES:END -->
+ - 6️⃣ [This app is so racist rn I&#39;m ready for the downvote tsunami, bring in on b*tches](http://9gag.com/gag/ae9PrVO)
+ - 😝 [If your summer looked like this, you had a great childhood](http://9gag.com/gag/awyGAMB)
+ - 👉 [Lifehack of the day...](http://9gag.com/gag/ajPM56w)<!-- MEMES:END -->
 
 --- 
 
