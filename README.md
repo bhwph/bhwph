@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
- - 😝 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
- - 👉 [Fly away](http://9gag.com/gag/a34pMN3)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s only bad if my people are getting killed](http://9gag.com/gag/a9yNKED)
+ - 😝 [Walking dead extras having fun](http://9gag.com/gag/azxD9yb)
+ - 👉 [This app is so racist rn I&#39;m ready for the downvote tsunami, bring in on b*tches](http://9gag.com/gag/ae9PrVO)<!-- MEMES:END -->
 
 --- 
 
