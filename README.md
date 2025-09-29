@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam&#39;s big autumn sale: 5 under-the-radar games to check out](https://www.polygon.com/when-is-steam-sale-autumn-what-to-buy-pc-gaming/)
- - [Meet Borderlands 4&#39;s next Vault Hunter, C4SH](https://www.polygon.com/borderlands-4-next-vault-hunter-c4sh-story-pack/)
- - [The Simpsons Movie 2 is coming in 2027](https://www.polygon.com/the-simpsons-movie-2-sequel-disney/)<!-- GAME:END -->
+ - [EA CEO says company values will &#39;remain unchanged&#39; under the new ownership of Saudi Arabia and Jared Kushner&#39;s investment firm](https://www.pcgamer.com/gaming-industry/ea-ceo-says-company-values-will-remain-unchanged-under-the-new-ownership-of-saudi-arabia-and-jared-kushners-investment-firm/)
+ - [Writer Andrew Dice, whose work helped popularize Japanese indies like Recettear in the West, has died](https://www.pcgamer.com/gaming-industry/writer-andrew-dice-whose-work-helped-popularize-japanese-indies-like-recettear-in-the-west-has-died/)
+ - [All animal familiars in Hades 2](https://www.polygon.com/hades-2-animal-familiars-pets-how-to-get/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
