@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
+ - 6️⃣ [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
  - 😝 [SIM cards are actually tiny computers](http://9gag.com/gag/ajPMEy1)
- - 👉 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)<!-- MEMES:END -->
+ - 👉 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)<!-- MEMES:END -->
 
 --- 
 
