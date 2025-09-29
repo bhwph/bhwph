@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Evantic Capital, founded by ex-Sequoia VC Matt Miller, raised a $400M fund, with ~12.5% coming from 135 &quot;legends&quot;, including CEOs, a novel strategy &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250929/p8#a250929p8)
- - [The UK government underwrites a £1.5B loan to Jaguar Land Rover as the carmaker reels from a cyberattack that has crippled its production for around a month &lpar;Dominic Chopping/Wall Street Journal&rpar;](http://www.techmeme.com/250929/p7#a250929p7)
- - [11 Best Coffee Subscriptions &lpar;2025&rpar;, Tested by Caffeine Hounds](https://www.wired.com/gallery/best-coffee-subscriptions/)<!-- TECH:END -->
+ - [After Galaxy phones, Samsung tablets are now getting One UI 8](https://www.androidauthority.com/galaxy-tab-s10-plus-one-ui-8-update-3601973/)
+ - [EA&#39;s $55B sale is the largest leveraged buyout on record and represents a 25% premium on its October 26 close, as the $178B video game industry&#39;s growth slows &lpar;Bloomberg&rpar;](http://www.techmeme.com/250929/p18#a250929p18)
+ - [DeepSeek releases DeepSeek-V3.2-Exp, saying it built the model using a new technique called DeepSeek Sparse Attention, and halves the pricing of its tools &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250929/p17#a250929p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
