@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Several US states have passed bills to ban or restrict AI mental health treatment, as experts say state laws lag behind the fast-moving AI therapy landscape &lpar;Devi Shastri/Associated Press&rpar;](http://www.techmeme.com/250929/p5#a250929p5)
- - [EA&#39;s ~$50B buyout talks highlight the slowdown and consolidation trends in the $178B global gaming market after the COVID-19 boom, as gamers stick to old titles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250929/p4#a250929p4)
- - [Best Minimalist Wallet for 2025 Tested By CNET Experts](https://www.cnet.com/tech/mobile/best-minimalist-wallet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [London-based Evantic Capital, founded by ex-Sequoia VC Matt Miller, raised a $400M fund, with ~12.5% coming from 135 &quot;legends&quot;, including CEOs, a novel strategy &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250929/p8#a250929p8)
+ - [The UK government underwrites a £1.5B loan to Jaguar Land Rover as the carmaker reels from a cyberattack that has crippled its production for around a month &lpar;Dominic Chopping/Wall Street Journal&rpar;](http://www.techmeme.com/250929/p7#a250929p7)
+ - [11 Best Coffee Subscriptions &lpar;2025&rpar;, Tested by Caffeine Hounds](https://www.wired.com/gallery/best-coffee-subscriptions/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
