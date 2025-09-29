@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [VCs say some AI startups, under pressure to show rapid ARR growth, are using questionable accounting practices like counting one-time deals as recurring revenue &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250929/p1#a250929p1)
- - [Microplastics Could Be Weakening Your Bones, Research Suggests](https://www.wired.com/story/microplastics-could-be-weakening-your-bones-research-suggests-osteoporosis/)
- - [Google’s new rules could wipe out sideloading and alternative app stores, F-Droid warns](https://www.androidauthority.com/f-droid-google-developer-verification-rules-warning-3601860/)<!-- TECH:END -->
+ - [London-based Paid, which helps AI agent providers monetize and track costs, raised a $21.6M seed led by Lightspeed, a source says at a $100M+ valuation &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250929/p3#a250929p3)
+ - [Google Home’s major redesign is already rolling out, but not on Android](https://www.androidauthority.com/google-home-app-redesign-rollout-ios-3601877/)
+ - [DeepMind: video models like Veo 3 could become general purpose foundation models for vision, like LLMs for text, using zero-shot &quot;chain-of-frames&quot; reasoning &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250929/p2#a250929p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
