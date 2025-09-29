@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This criminally overlooked Rick and Morty replacement is finally streaming on Netflix](https://www.polygon.com/solar-opposites-on-netflix/)
- - [No Rapture? Doomsday cult PC game Join Us offers an alternative](https://www.polygon.com/doomsday-cult-survival-sim-join-us-rapture-apocalypse/)
- - [Every game, trailer, and announcement in the PC Gaming Show Tokyo Direct](https://www.pcgamer.com/gaming-industry/events-conferences/every-game-trailer-and-announcement-in-the-pc-gaming-show-tokyo-direct/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;September 29, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-29-2025/)
+ - [Ryu Ga Gotoku boss credits PC gamers&#39; love of Yakuza 0 with taking the series worldwide: &#39;I truly believe we are where we are today because of them&#39;](https://www.pcgamer.com/games/action/ryu-ga-gotoku-boss-credits-pc-gamers-love-of-yakuza-0-with-taking-the-series-worldwide-i-truly-believe-we-are-where-we-are-today-because-of-them/)
+ - [It&#39;s possible to get Silksong&#39;s double jump in Act 1 well before you&#39;re supposed to, you just have to be enough of a platforming god to prove you don&#39;t need it](https://www.pcgamer.com/games/action/its-possible-to-get-silksongs-double-jump-in-act-1-well-before-youre-supposed-to-you-just-have-to-be-enough-of-a-platforming-god-to-prove-you-dont-need-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
