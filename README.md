@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Galaxy phones, Samsung tablets are now getting One UI 8](https://www.androidauthority.com/galaxy-tab-s10-plus-one-ui-8-update-3601973/)
- - [EA&#39;s $55B sale is the largest leveraged buyout on record and represents a 25% premium on its October 26 close, as the $178B video game industry&#39;s growth slows &lpar;Bloomberg&rpar;](http://www.techmeme.com/250929/p18#a250929p18)
- - [DeepSeek releases DeepSeek-V3.2-Exp, saying it built the model using a new technique called DeepSeek Sparse Attention, and halves the pricing of its tools &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250929/p17#a250929p17)<!-- TECH:END -->
+ - [Researchers: Tile tags broadcast unencrypted MAC addresses and unique IDs; researchers informed Life360 in November 2024 but it stopped replying in February &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/250929/p22#a250929p22)
+ - [GameSir’s clip-on controller turns smartphones into Game Boys](https://www.theverge.com/news/787200/gamesir-controller-smartphone-nintendo-game-boy-tokyo-game-show)
+ - [Google rolls out its new gradient &quot;G&quot; icon company-wide, saying it &quot;now represents all of Google ... and visually reflects our evolution in the AI era&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250929/p21#a250929p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
