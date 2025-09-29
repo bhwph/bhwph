@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Praising to a rapist, liar and murder seems obviously wrong](http://9gag.com/gag/aByNg6O)
- - 😝 [Huh lol](http://9gag.com/gag/aAyNxmR)
- - 👉 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)<!-- MEMES:END -->
+ - 6️⃣ [When you buy a cruise ticket from Temu](http://9gag.com/gag/a0eWQMn)
+ - 😝 [The little mermaid in Peacemaker&#39;s alternative dimension.](http://9gag.com/gag/aVv1YDd)
+ - 👉 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)<!-- MEMES:END -->
 
 --- 
 
