@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
- - 😝 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
- - 👉 [No time to f**k around](http://9gag.com/gag/a7o6wBe)<!-- MEMES:END -->
+ - 6️⃣ [My cat](http://9gag.com/gag/aKGN6GW)
+ - 😝 [Illinois looking different these days](http://9gag.com/gag/aMVNxgP)
+ - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
 
 --- 
 
