@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ooh mama](http://9gag.com/gag/aD2N4zO)
- - 😝 [The little mermaid in Peacemaker&#39;s alternative dimension.](http://9gag.com/gag/aVv1YDd)
- - 👉 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)<!-- MEMES:END -->
+ - 6️⃣ [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
+ - 😝 [Magic ???](http://9gag.com/gag/aO8NYyE)
+ - 👉 [Ooh mama](http://9gag.com/gag/aD2N4zO)<!-- MEMES:END -->
 
 --- 
 
