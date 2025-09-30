@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: wholesale electricity now costs as much as 267% more for a single month than it did in 2020 in US areas located near significant data center activity &lpar;Bloomberg&rpar;](http://www.techmeme.com/250930/p2#a250930p2)
- - [Not just a swelling scare: Galaxy Ring owners report serious battery drain issues](https://www.androidauthority.com/samsung-galaxy-ring-battery-drain-3602329/)
- - [30% Off Samsung Promo Code | October 2025](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
+ - [The big Google Play Store update is out now, making space for ‘You’ and your gaming skill](https://www.androidauthority.com/google-play-store-update-you-tab-3602348/)
+ - [Opera launches its AI browser, but you&amp;#8217;ll have to pay to try it](https://www.theverge.com/news/787707/opera-neon-ai-browser-launch-monthly-cost)
+ - [First OnePlus 15 camera samples reveal some much-needed good news](https://www.androidauthority.com/oneplus-15-camera-samples-zoom-3602332/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
