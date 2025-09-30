@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Ring battery scare leaves user stranded at airport and hospitalized &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-ring-battery-swelling-3602200/)
- - [NetBlocks: Afghanistan is experiencing a &quot;total internet blackout&quot; as the Taliban imposes a telecom shutdown; an official says it will last until further notice &lpar;Anbarasan Ethirajan/BBC&rpar;](http://www.techmeme.com/250929/p51#a250929p51)
- - [How Jared Kushner and Silver Lake co-CEO Egon Durban brokered the EA takeover using Kushner&#39;s deep Saudi Arabia ties; sources: Kushner&#39;s firm will own ~5% of EA &lpar;Financial Times&rpar;](http://www.techmeme.com/250929/p50#a250929p50)<!-- TECH:END -->
+ - [Analysis: wholesale electricity now costs as much as 267% more for a single month than it did in 2020 in US areas located near significant data center activity &lpar;Bloomberg&rpar;](http://www.techmeme.com/250930/p2#a250930p2)
+ - [Not just a swelling scare: Galaxy Ring owners report serious battery drain issues](https://www.androidauthority.com/samsung-galaxy-ring-battery-drain-3602329/)
+ - [30% Off Samsung Promo Code | October 2025](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
