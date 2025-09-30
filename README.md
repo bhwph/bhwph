@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s some new Ring devices on the block](https://www.theverge.com/news/788290/ring-amazon-hardware-event-price-specs)
- - [Beats Powerbeats Fit won&#39;t fly away while you work out](https://appleinsider.com/articles/25/09/30/beats-powerbeats-fit-wont-fly-away-while-you-work-out?utm_source=rss)
- - [Apple-owned Beats announces the $200 Powerbeats Fit, with a redesigned wingtip, IPX4 rating for the case, ANC, and Apple&#39;s H1 chip, available October 2 &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/250930/p21#a250930p21)<!-- TECH:END -->
+ - [M5 iPad Pro may have been completely leaked before Apple launch](https://appleinsider.com/articles/25/09/30/m5-ipad-pro-may-have-been-completely-leaked-before-apple-launch?utm_source=rss)
+ - [Lego’s Nintendo Game Boy is a brick masterpiece just shy of perfection](https://www.theverge.com/games/787849/lego-nintendo-game-boy-review)
+ - [Source: Meta is acquiring AI chip startup Rivos, as it seeks to reduce reliance on Nvidia; Rivos was reportedly seeking new funding at a $2B valuation in August &lpar;Bloomberg&rpar;](http://www.techmeme.com/250930/p31#a250930p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
