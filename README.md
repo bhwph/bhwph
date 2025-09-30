@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for September 30 &lpar;#1564&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-30-2025/)
- - [&lpar;For Southeast Asia&rpar; Announcing the Ghost of Yōtei Hokkaido Tour, Presented by PlayStation and Klook](https://blog.playstation.com/2025/09/29/20250930-goy/)
- - [&lpar;For Southeast Asia&rpar; Announcing the Ghost of Yōtei Hokkaido Tour, Presented by PlayStation and Klook](https://blog.playstation.com/2025/09/29/20250930-goy/)<!-- GAME:END -->
+ - [This Woman Can Thrash You At Mortal Kombat With Her 5-Day-Old Baby In Her Arms](https://kotaku.com/florida-woman-mortal-kombat-legi0n-juicy-2000630181)
+ - [Snapdragon X2 Elite Extreme early tests beat out AMD, Intel, and Apple as the most powerful mobile chip on the market but price uncertainty still remains a sticking point](https://www.pcgamer.com/hardware/snapdragon-x2-elite-extreme-early-tests-beat-out-amd-intel-and-apple-as-the-most-powerful-mobile-chip-on-the-market-but-price-still-remains-a-sticking-point/)
+ - [EA Sports FC 26 review](https://www.pcgamer.com/games/sports/ea-sports-fc-26-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
