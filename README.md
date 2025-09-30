@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My cat](http://9gag.com/gag/aKGN6GW)
- - 😝 [Illinois looking different these days](http://9gag.com/gag/aMVNxgP)
- - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
+ - 6️⃣ [.](http://9gag.com/gag/aByNm8Z)
+ - 😝 [Would this meme get me arrested in the UK?](http://9gag.com/gag/aE0NpWK)
+ - 👉 [Judges should also be held accountable](http://9gag.com/gag/a4PrEKv)<!-- MEMES:END -->
 
 --- 
 
