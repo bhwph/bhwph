@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The gamers have done it again, this time building a functional ChatGPT in Minecraft—but before you get too excited, it takes literally hours to provide a response](https://www.pcgamer.com/software/ai/the-gamers-have-done-it-again-this-time-building-a-functional-chatgpt-in-minecraft-but-before-you-get-too-excited-it-takes-literally-hours-to-provide-a-response/)
- - [12 Tips To Know Before Playing Final Fantasy Tactics: The Ivalice Chronicles](https://kotaku.com/final-fantasy-tactics-tips-guide-ivalice-remaster-jobs-2000630228)
- - [This Energizer-branded laptop has a massive 192 Wh battery with up to 7 days standby time, but you won&#39;t technically be able to take it on your next flight](https://www.pcgamer.com/hardware/gaming-laptops/this-energizer-branded-laptop-has-a-massive-192-wh-battery-with-up-to-7-days-standby-time-but-you-wont-technically-be-able-to-take-it-on-your-next-flight/)<!-- GAME:END -->
+ - [When will The Conjuring: Last Rites be available on streaming?](https://www.polygon.com/the-conjuring-last-rites-streaming-release-date-hbo-max/)
+ - [A surprise Steam update for Prototype broke the mods making the 16-year old game playable on modern systems—but could hint at a potential remaster](https://www.pcgamer.com/games/action/a-surprise-steam-update-for-prototype-broke-the-mods-making-the-16-year-old-game-playable-on-modern-systems-but-could-hint-at-a-potential-remaster/)
+ - [Messenger is a chill, lo-fi browser game you can play for free right now](https://www.polygon.com/messenger-abeto-free-browser-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
