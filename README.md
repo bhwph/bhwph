@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M5 iPad Pro may have been completely leaked before Apple launch](https://appleinsider.com/articles/25/09/30/m5-ipad-pro-may-have-been-completely-leaked-before-apple-launch?utm_source=rss)
- - [Lego’s Nintendo Game Boy is a brick masterpiece just shy of perfection](https://www.theverge.com/games/787849/lego-nintendo-game-boy-review)
- - [Source: Meta is acquiring AI chip startup Rivos, as it seeks to reduce reliance on Nvidia; Rivos was reportedly seeking new funding at a $2B valuation in August &lpar;Bloomberg&rpar;](http://www.techmeme.com/250930/p31#a250930p31)<!-- TECH:END -->
+ - [How Jared Kushner helped Silver Lake co-CEO Egon Durban, who had wanted to buy EA for years, finally secure the $55B acquisition with PIF&#39;s help &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250930/p39#a250930p39)
+ - [The Apple Watch Series 10 Is $170 Off](https://www.wired.com/story/apple-watch-series-10-deal-1025/)
+ - [Amazon partners with FanDuel to allow viewers to track their NBA bets in real-time during NBA games on Prime Video and adds shoppable NBA merch to the games &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/250930/p38#a250930p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
