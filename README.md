@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
- - 😝 [SIM cards are actually tiny computers](http://9gag.com/gag/ajPMEy1)
- - 👉 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)<!-- MEMES:END -->
+ - 6️⃣ [A Texas homeowner noticed two car thieves breaking into his vehicle Saturday around 12:30 a.m. So he went outside and opened fire, hitting one of the suspects. DA declined charges `as he was protecting his property.` Both men were charged with burglary.](http://9gag.com/gag/an7W5nn)
+ - 😝 [Candy bars](http://9gag.com/gag/aPAdRrQ)
+ - 👉 [Devious plot](http://9gag.com/gag/aND2g1w)<!-- MEMES:END -->
 
 --- 
 
