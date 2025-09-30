@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
- - 😝 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
- - 👉 [Ooh mama](http://9gag.com/gag/aD2N4zO)<!-- MEMES:END -->
+ - 6️⃣ [Ooh mama](http://9gag.com/gag/aD2N4zO)
+ - 😝 [The little mermaid in Peacemaker&#39;s alternative dimension.](http://9gag.com/gag/aVv1YDd)
+ - 👉 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)<!-- MEMES:END -->
 
 --- 
 
