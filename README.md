@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
- - 😝 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
- - 👉 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)<!-- MEMES:END -->
+ - 6️⃣ [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
+ - 😝 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
+ - 👉 [The moment of realization on her face is priceless](http://9gag.com/gag/a87XGzO)<!-- MEMES:END -->
 
 --- 
 
