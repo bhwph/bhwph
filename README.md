@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta expands its facial recognition tools to combat Facebook accounts impersonating public figures in Europe and South Korea, and plans an Instagram expansion &lpar;Andre Revilla/Engadget&rpar;](http://www.techmeme.com/250930/p5#a250930p5)
- - [5 apps you should use instead of Spotify](https://www.androidauthority.com/spotify-alternatives-3601982/)
- - [You Pixel phones can now easily connect to two earbuds for simultaneous audio](https://www.androidauthority.com/pixel-audio-share-fast-pair-android-3602373/)<!-- TECH:END -->
+ - [CoreWeave CEO Michael Intrator says the company signed a deal to supply Meta with up to $14.2B worth of computing power, including access to Nvidia GB300 chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250930/p13#a250930p13)
+ - [This could be our first piece of evidence for the Nothing Phone 4a Pro](https://www.androidauthority.com/this-could-be-our-first-piece-of-evidence-for-the-nothing-phone-4a-pro-3602413/)
+ - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
