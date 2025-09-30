@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Might Finally Add Replaceable Batteries To PlayStation Controllers](https://kotaku.com/ps5-pro-dualsense-controller-gamepad-battery-life-2000630240)
- - [How to get the Breslau Blade &#39;Statue Sword&#39; in Dying Light: The Beast](https://www.polygon.com/dying-light-the-beast-breslau-blade-statue-sword/)
- - [UGREEN Mac Mini M4 Dock Has Never Been This Cheap, Featuring 11 Ports and 8TB Expansion at Giveaway Pricing](https://kotaku.com/ugreen-mac-mini-m4-dock-has-never-been-this-cheap-featuring-11-ports-and-8tb-expansion-at-giveaway-pricing-2000629601)<!-- GAME:END -->
+ - [The gamers have done it again, this time building a functional ChatGPT in Minecraft—but before you get too excited, it takes literally hours to provide a response](https://www.pcgamer.com/software/ai/the-gamers-have-done-it-again-this-time-building-a-functional-chatgpt-in-minecraft-but-before-you-get-too-excited-it-takes-literally-hours-to-provide-a-response/)
+ - [12 Tips To Know Before Playing Final Fantasy Tactics: The Ivalice Chronicles](https://kotaku.com/final-fantasy-tactics-tips-guide-ivalice-remaster-jobs-2000630228)
+ - [This Energizer-branded laptop has a massive 192 Wh battery with up to 7 days standby time, but you won&#39;t technically be able to take it on your next flight](https://www.pcgamer.com/hardware/gaming-laptops/this-energizer-branded-laptop-has-a-massive-192-wh-battery-with-up-to-7-days-standby-time-but-you-wont-technically-be-able-to-take-it-on-your-next-flight/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
