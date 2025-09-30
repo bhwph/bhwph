@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ooh mama](http://9gag.com/gag/aD2N4zO)
- - 😝 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
+ - 6️⃣ [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
+ - 😝 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
  - 👉 [No time to f**k around](http://9gag.com/gag/a7o6wBe)<!-- MEMES:END -->
 
 --- 
