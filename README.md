@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Jared Kushner helped Silver Lake co-CEO Egon Durban, who had wanted to buy EA for years, finally secure the $55B acquisition with PIF&#39;s help &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250930/p39#a250930p39)
- - [The Apple Watch Series 10 Is $170 Off](https://www.wired.com/story/apple-watch-series-10-deal-1025/)
- - [Amazon partners with FanDuel to allow viewers to track their NBA bets in real-time during NBA games on Prime Video and adds shoppable NBA merch to the games &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/250930/p38#a250930p38)<!-- TECH:END -->
+ - [Sora 2 is available for free with usage limits for all users, while ChatGPT Pro subscribers have access to the higher-quality Sora 2 Pro model &lpar;Carl Franzen/Venturebeat&rpar;](http://www.techmeme.com/250930/p42#a250930p42)
+ - [Hermes Apple Watch Series 11 is as luxurious as ever with new Faubourg Party designs](https://appleinsider.com/articles/25/09/30/hermes-apple-watch-series-11-is-as-luxurious-as-ever-with-new-faubourg-party-designs?utm_source=rss)
+ - [Google is quietly testing a better app launch shortcut for the Pixel Launcher](https://www.androidauthority.com/pixel-launcher-search-bar-testing-app-open-shortcut-3602629/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
