@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sora 2 is available for free with usage limits for all users, while ChatGPT Pro subscribers have access to the higher-quality Sora 2 Pro model &lpar;Carl Franzen/Venturebeat&rpar;](http://www.techmeme.com/250930/p42#a250930p42)
- - [Hermes Apple Watch Series 11 is as luxurious as ever with new Faubourg Party designs](https://appleinsider.com/articles/25/09/30/hermes-apple-watch-series-11-is-as-luxurious-as-ever-with-new-faubourg-party-designs?utm_source=rss)
- - [Google is quietly testing a better app launch shortcut for the Pixel Launcher](https://www.androidauthority.com/pixel-launcher-search-bar-testing-app-open-shortcut-3602629/)<!-- TECH:END -->
+ - [Anthropic&#39;s System Card: Claude Sonnet 4.5 was able to recognize many alignment evaluation environments as tests and would modify its behavior accordingly &lpar;Celia Ford/Transformer&rpar;](http://www.techmeme.com/250930/p45#a250930p45)
+ - [iPhone 11 Pro Max &amp; Apple Watch Series 3 join vintage product list](https://appleinsider.com/articles/25/09/30/iphone-11-pro-max-apple-watch-series-3-join-vintage-product-list?utm_source=rss)
+ - [Of all Amazon’s new hardware, my favorite’s a $20 remote — that Google should copy, yesterday](https://www.androidauthority.com/smart-home-remote-3602747/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
