@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The big Google Play Store update is out now, making space for ‘You’ and your gaming skill](https://www.androidauthority.com/google-play-store-update-you-tab-3602348/)
- - [Opera launches its AI browser, but you&amp;#8217;ll have to pay to try it](https://www.theverge.com/news/787707/opera-neon-ai-browser-launch-monthly-cost)
- - [First OnePlus 15 camera samples reveal some much-needed good news](https://www.androidauthority.com/oneplus-15-camera-samples-zoom-3602332/)<!-- TECH:END -->
+ - [Meta expands its facial recognition tools to combat Facebook accounts impersonating public figures in Europe and South Korea, and plans an Instagram expansion &lpar;Andre Revilla/Engadget&rpar;](http://www.techmeme.com/250930/p5#a250930p5)
+ - [5 apps you should use instead of Spotify](https://www.androidauthority.com/spotify-alternatives-3601982/)
+ - [You Pixel phones can now easily connect to two earbuds for simultaneous audio](https://www.androidauthority.com/pixel-audio-share-fast-pair-android-3602373/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
