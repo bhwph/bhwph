@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Open-source Android app store F-Droid says Google&#39;s upcoming requirement for all Android devs to verify their identity threatens to kill alternative app stores &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250929/p44#a250929p44)
- - [Microsoft is bringing its Windows engineering teams back together again](https://www.theverge.com/report/787796/microsoft-windows-reorg-single-engineering-team-changes)
- - [Tile&amp;#8217;s lack of encryption could make tracker owners vulnerable to stalking](https://www.theverge.com/news/787836/tile-trackers-stalking-research-unencrypted)<!-- TECH:END -->
+ - [How Jared Kushner and Silver Lake co-CEO Egon Durban brokered the EA takeover using Kushner&#39;s deep Saudi Arabia ties; sources: Kushner&#39;s firm will own ~5% of EA &lpar;Financial Times&rpar;](http://www.techmeme.com/250929/p50#a250929p50)
+ - [Both the Amazon Echo Dot and Pop are $15 off!](https://www.androidauthority.com/amazon-echo-dot-pop-deals-3-3602240/)
+ - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
