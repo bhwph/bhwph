@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Woman Can Thrash You At Mortal Kombat With Her 5-Day-Old Baby In Her Arms](https://kotaku.com/florida-woman-mortal-kombat-legi0n-juicy-2000630181)
- - [Snapdragon X2 Elite Extreme early tests beat out AMD, Intel, and Apple as the most powerful mobile chip on the market but price uncertainty still remains a sticking point](https://www.pcgamer.com/hardware/snapdragon-x2-elite-extreme-early-tests-beat-out-amd-intel-and-apple-as-the-most-powerful-mobile-chip-on-the-market-but-price-still-remains-a-sticking-point/)
- - [EA Sports FC 26 review](https://www.pcgamer.com/games/sports/ea-sports-fc-26-review/)<!-- GAME:END -->
+ - [Sony Might Finally Add Replaceable Batteries To PlayStation Controllers](https://kotaku.com/ps5-pro-dualsense-controller-gamepad-battery-life-2000630240)
+ - [How to get the Breslau Blade &#39;Statue Sword&#39; in Dying Light: The Beast](https://www.polygon.com/dying-light-the-beast-breslau-blade-statue-sword/)
+ - [UGREEN Mac Mini M4 Dock Has Never Been This Cheap, Featuring 11 Ports and 8TB Expansion at Giveaway Pricing](https://kotaku.com/ugreen-mac-mini-m4-dock-has-never-been-this-cheap-featuring-11-ports-and-8tb-expansion-at-giveaway-pricing-2000629601)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
