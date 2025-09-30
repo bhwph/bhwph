@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When will The Conjuring: Last Rites be available on streaming?](https://www.polygon.com/the-conjuring-last-rites-streaming-release-date-hbo-max/)
- - [A surprise Steam update for Prototype broke the mods making the 16-year old game playable on modern systems—but could hint at a potential remaster](https://www.pcgamer.com/games/action/a-surprise-steam-update-for-prototype-broke-the-mods-making-the-16-year-old-game-playable-on-modern-systems-but-could-hint-at-a-potential-remaster/)
- - [Messenger is a chill, lo-fi browser game you can play for free right now](https://www.polygon.com/messenger-abeto-free-browser-game/)<!-- GAME:END -->
+ - [The Witcher author Andrzej Sapkowski says one of CD Projekt&#39;s big story points is actually based on a mistake, but &#39;videogame people have clung to the idea with remarkable tenacity&#39;](https://www.pcgamer.com/games/rpg/the-witcher-author-andrzej-sapkowski-says-one-of-cd-projekts-big-story-points-is-actually-based-on-a-mistake-but-videogame-people-have-clung-to-the-idea-with-remarkable-tenacity/)
+ - [Fortnite&#39;s KPop Demon Hunters skins revealed](https://www.polygon.com/kpop-demon-hunters-skins-fortnite-epic-games-huntrix-zoey/)
+ - [Final Fantasy Tactics remake’s easy mode isn’t too easy](https://www.polygon.com/final-fantasy-tactics-remake-easy-mode-squire/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
