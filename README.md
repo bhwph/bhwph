@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoreWeave CEO Michael Intrator says the company signed a deal to supply Meta with up to $14.2B worth of computing power, including access to Nvidia GB300 chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250930/p13#a250930p13)
- - [This could be our first piece of evidence for the Nothing Phone 4a Pro](https://www.androidauthority.com/this-could-be-our-first-piece-of-evidence-for-the-nothing-phone-4a-pro-3602413/)
- - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)<!-- TECH:END -->
+ - [There’s some new Ring devices on the block](https://www.theverge.com/news/788290/ring-amazon-hardware-event-price-specs)
+ - [Beats Powerbeats Fit won&#39;t fly away while you work out](https://appleinsider.com/articles/25/09/30/beats-powerbeats-fit-wont-fly-away-while-you-work-out?utm_source=rss)
+ - [Apple-owned Beats announces the $200 Powerbeats Fit, with a redesigned wingtip, IPX4 rating for the case, ANC, and Apple&#39;s H1 chip, available October 2 &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/250930/p21#a250930p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
