@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
+ - 6️⃣ [Ooh mama](http://9gag.com/gag/aD2N4zO)
  - 😝 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
- - 👉 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)<!-- MEMES:END -->
+ - 👉 [No time to f**k around](http://9gag.com/gag/a7o6wBe)<!-- MEMES:END -->
 
 --- 
 
