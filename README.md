@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
+ - 6️⃣ [Ooh mama](http://9gag.com/gag/aD2N4zO)
  - 😝 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
- - 👉 [Ooh mama](http://9gag.com/gag/aD2N4zO)<!-- MEMES:END -->
+ - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
 
 --- 
 
