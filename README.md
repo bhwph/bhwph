@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A California jury finds Uber not liable for a woman&#39;s alleged sexual assault by her driver, in the first trial out of 500+ consolidated lawsuits in the state &lpar;Diana Novak Jones/Reuters&rpar;](http://www.techmeme.com/250930/p52#a250930p52)
- - [All hail the new Fat Bear Champion](https://www.theverge.com/news/789358/new-fat-bear-week-champion)
- - [Taiwan&#39;s vice premier, who is leading US negotiations, says Taiwan would not agree to a 50-50 split in chip production, adding no such condition was discussed &lpar;Reuters&rpar;](http://www.techmeme.com/250930/p51#a250930p51)<!-- TECH:END -->
+ - [A Delaware court dismissed Arm&#39;s last claim against Qualcomm, ruling that Qualcomm and subsidiary Nuvia didn&#39;t breach license agreements; Arm plans to appeal &lpar;Peter Blumberg/Bloomberg&rpar;](http://www.techmeme.com/250930/p55#a250930p55)
+ - [Tel Aviv-based Commcrete, maker of handheld satellite communication devices and software, raised a $21M Series A led by Greenfield; sources value it at $100M+ &lpar;Resilience Media&rpar;](http://www.techmeme.com/250930/p54#a250930p54)
+ - [You had mail: AOL finally discontinues dial-up Internet service](https://appleinsider.com/articles/25/08/09/you-had-mail-aol-finally-discontinues-dial-up-internet-service?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
