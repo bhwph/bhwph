@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is trying out a new look on mobile, and users respond exactly how you’d expect](https://www.androidauthority.com/youtube-mobile-app-ui-changes-3603148/)
- - [Gemini’s refusal to make anything but 1:1 square images is driving us crazy](https://www.androidauthority.com/google-gemini-square-images-3603128/)
- - [Stockholm-based driverless truck startup Einride raised about $100M, a source says at a $1B+ valuation, up from a valuation of €400M in a 2021 funding round &lpar;Rafaela Lindeberg/Bloomberg&rpar;](http://www.techmeme.com/251001/p39#a251001p39)<!-- TECH:END -->
+ - [Apple shifts priorities from lighter Apple Vision Pro to smart glasses](https://appleinsider.com/articles/25/10/01/apple-shifts-priorities-from-lighter-apple-vision-pro-to-smart-glasses?utm_source=rss)
+ - [Either Galaxy Watch users are suddenly sleeping better, or Samsung changed how sleep scores work](https://www.androidauthority.com/galaxy-watch-sleep-scores-3603200/)
+ - [Sources: Apple has paused development of a lighter Vision Pro to focus on smart glasses, a no-display model for a 2027 release, and a model with a display later &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251001/p42#a251001p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
