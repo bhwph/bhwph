@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
- - 😝 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
- - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
+ - 😝 [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
+ - 👉 [No time to f**k around](http://9gag.com/gag/a7o6wBe)<!-- MEMES:END -->
 
 --- 
 
