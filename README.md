@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Is Selling A Bunch Of 4K UHD Movies For $15 Each Or Less](https://kotaku.com/amazon-4k-uhd-big-sale-cheap-movies-15-each-prime-day-deal-october-2000630342)
- - [How to unlock weapon aspects in Hades 2](https://www.polygon.com/hades-2-aspects-weapons-unlock/)
- - [Team Fortress 2 Classic, the throwback version of Valve&#39;s famed team-based shooter, is having an open beta on Steam in October](https://www.pcgamer.com/games/fps/team-fortress-2-classic-the-throwback-version-of-valves-famed-team-based-shooter-is-having-an-open-beta-on-steam-in-october/)<!-- GAME:END -->
+ - [CoD: Black Ops 7&#39;s wallhack killstreak is receiving a frenzy of criticism, but isn&#39;t the point of killstreaks that they&#39;re unfair?](https://www.pcgamer.com/games/fps/call-of-duty-black-ops-7s-wallhack-killstreak-is-receiving-a-frenzy-of-criticism-but-isnt-the-point-of-killstreaks-that-theyre-unfair/)
+ - [How to get bandages in 99 Nights in the Forest](https://www.pcgamer.com/games/survival-crafting/roblox-99-nights-in-the-forest-bandages/)
+ - [This year&#39;s &#39;COD Next&#39; served up everything wrong with Call of Duty: Nonstop ads, manufactured hype, and a stagnant game](https://www.pcgamer.com/games/fps/this-years-cod-next-served-up-everything-wrong-with-call-of-duty-nonstop-ads-manufactured-hype-and-a-stagnant-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
