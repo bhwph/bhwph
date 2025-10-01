@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [.](http://9gag.com/gag/aByNm8Z)
- - 😝 [Would this meme get me arrested in the UK?](http://9gag.com/gag/aE0NpWK)
- - 👉 [Judges should also be held accountable](http://9gag.com/gag/a4PrEKv)<!-- MEMES:END -->
+ - 6️⃣ [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
+ - 😝 [Wait untill you find out what it means.](http://9gag.com/gag/adB4V5M)
+ - 👉 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)<!-- MEMES:END -->
 
 --- 
 
