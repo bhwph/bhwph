@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI&#39;s New Sora App Lets You Deepfake Yourself for Entertainment](https://www.wired.com/story/openai-sora-app-ai-deepfakes-entertainment/)
- - [Mira Murati&#39;s Thinking Machines Lab launches its first product, Tinker, which automates the creation of custom frontier AI models &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251001/p38#a251001p38)
- - [Deal Alert: Six month’s of Visible’s most expensive plan for just $22.50 a month](https://www.androidauthority.com/visible-six-months-half-off-3603133/)<!-- TECH:END -->
+ - [YouTube is trying out a new look on mobile, and users respond exactly how you’d expect](https://www.androidauthority.com/youtube-mobile-app-ui-changes-3603148/)
+ - [Gemini’s refusal to make anything but 1:1 square images is driving us crazy](https://www.androidauthority.com/google-gemini-square-images-3603128/)
+ - [Stockholm-based driverless truck startup Einride raised about $100M, a source says at a $1B+ valuation, up from a valuation of €400M in a 2021 funding round &lpar;Rafaela Lindeberg/Bloomberg&rpar;](http://www.techmeme.com/251001/p39#a251001p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
