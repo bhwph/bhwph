@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Axiom Math, which aims to build an &quot;AI mathematician&quot; and has recruited researchers from Meta, raised a $64M seed led by B Capital at a $300M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/251001/p7#a251001p7)
- - [Samsung doesn’t have faith in thin phones, gets back to work on Galaxy S26 Plus](https://www.androidauthority.com/samsung-galaxy-s26-plus-project-start-3602863/)
- - [How live sports betting has exploded in popularity in the US, accounting for more than half of the money wagered on FanDuel and DraftKings in recent quarters &lpar;Jenny Vrentas/New York Times&rpar;](http://www.techmeme.com/251001/p6#a251001p6)<!-- TECH:END -->
+ - [SAG-AFTRA criticizes AI-generated actress Tilly Norwood, the subject of a viral UK TV show parody, saying it opposes replacing performers with &quot;synthetics&quot; &lpar;Thomas Buckley/Bloomberg&rpar;](http://www.techmeme.com/251001/p12#a251001p12)
+ - [The unsung heroes of Android: Remembering 8 legendary apps we’ve lost](https://www.androidauthority.com/legendary-android-apps-we-lost-3597775/)
+ - [The Galaxy Z Fold 7 is so good, Samsung says it’s stealing Ultra fans](https://www.androidauthority.com/samsung-galaxy-z-fold-7-vs-galaxy-ultra-3602926/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
