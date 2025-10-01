@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [15 Amazing No Man’s Sky Ship Builds You Have To See](https://kotaku.com/no-mans-sky-corvette-ship-build-voyagers-update-star-wars-2000630689)
- - [The Best Jobs In Final Fantasy Tactics, Ranked](https://kotaku.com/final-fantasy-tactics-jobs-ranking-best-ivalice-chronicles-2000630679)
- - [Final Fantasy Tactics - The Ivalice Chronicles director is a big PC gamer, and says he was &#39;very particular&#39; about making sure they got the new UI just right](https://www.pcgamer.com/games/strategy/final-fantasy-tactics-the-ivalice-chronicles-director-is-a-big-pc-gamer-and-says-he-was-very-particular-about-making-sure-they-got-the-new-ui-just-right/)<!-- GAME:END -->
+ - [Henry Cavill bares rippling chest, powerful triceps, and deep-cut Planescape: Torment knowledge in new photo that inspires one PC Gamer editor to declare, &#39;He just like me fr&#39;](https://www.pcgamer.com/games/rpg/henry-cavill-bares-rippling-chest-powerful-triceps-and-deep-cut-planescape-torment-knowledge-in-new-photo-that-inspires-one-pc-gamer-editor-to-declare-he-just-like-me-fr/)
+ - [TikTok Creator Flies To Scotland To Yell At GTA 6 Devs Outside Their Office](https://kotaku.com/tiktok-creator-flies-to-scotland-to-yell-at-gta-6-devs-outside-their-office-2000630715)
+ - [World of Warcraft: Midnight&#39;s collector&#39;s edition lets you own the Dark Heart, but please don&#39;t use this void relic to resurrect an all-devouring shadow god](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-midnights-collectors-edition-lets-you-own-the-dark-heart-but-please-dont-use-this-void-relic-to-resurrect-an-all-devouring-shadow-god/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
