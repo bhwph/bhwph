@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SAG-AFTRA criticizes AI-generated actress Tilly Norwood, the subject of a viral UK TV show parody, saying it opposes replacing performers with &quot;synthetics&quot; &lpar;Thomas Buckley/Bloomberg&rpar;](http://www.techmeme.com/251001/p12#a251001p12)
- - [The unsung heroes of Android: Remembering 8 legendary apps we’ve lost](https://www.androidauthority.com/legendary-android-apps-we-lost-3597775/)
- - [The Galaxy Z Fold 7 is so good, Samsung says it’s stealing Ultra fans](https://www.androidauthority.com/samsung-galaxy-z-fold-7-vs-galaxy-ultra-3602926/)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 1&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-01-2025-3602546/)
+ - [Ray-Ban Meta Gen 2 review: all-day smart glasses with the same tricky questions](https://www.theverge.com/tech/787680/ray-ban-meta-gen-2-review-smart-glasses)
+ - [Google Photos’ Collage tool is about to get way more flexible and easier to use &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-collage-tool-improvements-apk-teardown-3602992/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
