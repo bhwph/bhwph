@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon’s New Kindle Scribe Launch Sparks a Price Crash, Last Year’s Pen-Included Model Feels Like a Giveaway](https://kotaku.com/amazons-new-kindle-scribe-launch-sparks-a-price-crash-last-years-pen-included-model-feels-like-a-giveaway-2000630295)
- - [Xbox Game Pass Gets Massive Price Hike Amid Big Changes](https://kotaku.com/xbox-game-pass-gets-massive-price-hike-yet-amid-big-changes-2000630604)
- - [19-Year-Old Pleads Guilty To Sending Death Threats To Epic Games](https://kotaku.com/19-year-old-pleads-guilty-to-sending-death-threats-to-epic-games-2000630601)<!-- GAME:END -->
+ - [EA’s Saudi Deal Fallout: Junk Credit Ratings, Risky AI Bets, And Developer Fears](https://kotaku.com/ea-saudi-bioware-ai-lgbtq-debt-junk-bond-2000630647)
+ - [One Of 2025’s Coolest-Looking Games Now Has A Demo](https://kotaku.com/marvel-cosmic-invasion-steam-demo-pc-console-2025-coolest-looking-game-2000630663)
+ - [The Sweet Side Of Pokémon Card Collecting That Scalpers Can’t Steal](https://kotaku.com/pokemon-card-tcg-vendor-scalper-reseller-stream-shows-2000630658)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
