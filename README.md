@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the very best Verizon deals you’ll find this October](https://www.androidauthority.com/verizon-deals-october-3601224/)
- - [Lowest price ever: Apple Watch SE 2 &lpar;GPS + Cellular&rpar; plunges to $189](https://appleinsider.com/articles/25/10/01/lowest-price-ever-apple-watch-se-2-gps-cellular-plunges-to-189?utm_source=rss)
- - [Federal Workers Are Being Told to Blame Democrats for the Shutdown](https://www.wired.com/story/government-employees-out-of-office-email-replies/)<!-- TECH:END -->
+ - [OpenAI&#39;s New Sora App Lets You Deepfake Yourself for Entertainment](https://www.wired.com/story/openai-sora-app-ai-deepfakes-entertainment/)
+ - [Mira Murati&#39;s Thinking Machines Lab launches its first product, Tinker, which automates the creation of custom frontier AI models &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251001/p38#a251001p38)
+ - [Deal Alert: Six month’s of Visible’s most expensive plan for just $22.50 a month](https://www.androidauthority.com/visible-six-months-half-off-3603133/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
