@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 1&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-01-2025-3602546/)
- - [Ray-Ban Meta Gen 2 review: all-day smart glasses with the same tricky questions](https://www.theverge.com/tech/787680/ray-ban-meta-gen-2-review-smart-glasses)
- - [Google Photos’ Collage tool is about to get way more flexible and easier to use &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-collage-tool-improvements-apk-teardown-3602992/)<!-- TECH:END -->
+ - [Unsurprisingly, AirPods Pro 3 still aren&#39;t repairable](https://appleinsider.com/articles/25/10/01/unsurprisingly-airpods-pro-3-still-arent-repairable?utm_source=rss)
+ - [iPhone 17 Pro demand surges far past iPhone 16 Pro launch orders](https://appleinsider.com/articles/25/10/01/iphone-17-pro-demand-surges-far-past-iphone-16-pro-launch-orders?utm_source=rss)
+ - [Microsoft makes Xbox Cloud Gaming generally available, removing its beta tag after over five years, adds 1440p support, and raises bitrate quality to 27Mbps &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251001/p33#a251001p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
