@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Mounts of Mayhem update: everything you need to know about the 4th drop of the year](https://www.pcgamer.com/games/survival-crafting/minecraft-mounts-of-madness-update/)
- - [How to get honeycomb in Minecraft](https://www.pcgamer.com/games/survival-crafting/minecraft-honeycomb-location/)
- - [Today&#39;s Wordle clues, hints and answer for October 1 &lpar;#1565&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-1-2025/)<!-- GAME:END -->
+ - [DJI Mavic 4 Pro Drone With RC 2 Drops by Hundreds, Making It the Cheapest Ever 6K/60FPS Professional Drone](https://kotaku.com/dji-mavic-4-pro-drone-with-rc-2-drops-by-hundreds-making-it-the-cheapest-ever-6k-60fps-professional-drone-2000630306)
+ - [Pokémon’s Latest Set Has Cards So Impossibly Rare It’s Started Another Gold Rush](https://kotaku.com/pokemon-tcg-mega-evolution-gold-cards-pull-rate-2000630564)
+ - [Management sim sequel Jurassic World Evolution 3 offers more park customisation than ever for hardcore fans—but there&#39;s no dinosaur-driven chaos left to be found](https://www.pcgamer.com/games/sim/management-sim-sequel-jurassic-world-evolution-3-offers-more-park-customisation-than-ever-for-hardcore-fans-but-theres-no-dinosaur-driven-chaos-left-to-be-found/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
