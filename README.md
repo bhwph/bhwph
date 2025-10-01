@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ooh mama](http://9gag.com/gag/aD2N4zO)
- - 😝 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
- - 👉 [He did what? WTF man](http://9gag.com/gag/aVv1xK2)<!-- MEMES:END -->
+ - 6️⃣ [When you know you messed up](http://9gag.com/gag/aRBNrgq)
+ - 😝 [How to peel coconut efficiently](http://9gag.com/gag/ae9PgPm)
+ - 👉 [Peak male activities](http://9gag.com/gag/aAyNed0)<!-- MEMES:END -->
 
 --- 
 
