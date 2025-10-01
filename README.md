@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [.](http://9gag.com/gag/aByNm8Z)
- - 😝 [Judges should also be held accountable](http://9gag.com/gag/a4PrEKv)
- - 👉 [Would this meme get me arrested in the UK?](http://9gag.com/gag/aE0NpWK)<!-- MEMES:END -->
+ - 6️⃣ [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
+ - 😝 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
+ - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
 
 --- 
 
