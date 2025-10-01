@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&#39;s System Card: Claude Sonnet 4.5 was able to recognize many alignment evaluation environments as tests and would modify its behavior accordingly &lpar;Celia Ford/Transformer&rpar;](http://www.techmeme.com/250930/p45#a250930p45)
- - [iPhone 11 Pro Max &amp; Apple Watch Series 3 join vintage product list](https://appleinsider.com/articles/25/09/30/iphone-11-pro-max-apple-watch-series-3-join-vintage-product-list?utm_source=rss)
- - [Of all Amazon’s new hardware, my favorite’s a $20 remote — that Google should copy, yesterday](https://www.androidauthority.com/smart-home-remote-3602747/)<!-- TECH:END -->
+ - [A California jury finds Uber not liable for a woman&#39;s alleged sexual assault by her driver, in the first trial out of 500+ consolidated lawsuits in the state &lpar;Diana Novak Jones/Reuters&rpar;](http://www.techmeme.com/250930/p52#a250930p52)
+ - [All hail the new Fat Bear Champion](https://www.theverge.com/news/789358/new-fat-bear-week-champion)
+ - [Taiwan&#39;s vice premier, who is leading US negotiations, says Taiwan would not agree to a 50-50 split in chip production, adding no such condition was discussed &lpar;Reuters&rpar;](http://www.techmeme.com/250930/p51#a250930p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
