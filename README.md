@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you know you messed up](http://9gag.com/gag/aRBNrgq)
- - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
+ - 6️⃣ [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
+ - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
  - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
 
 --- 
