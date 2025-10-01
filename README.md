@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [When you know you messed up](http://9gag.com/gag/aRBNrgq)
- - 😝 [How to peel coconut efficiently](http://9gag.com/gag/ae9PgPm)
- - 👉 [Peak male activities](http://9gag.com/gag/aAyNed0)<!-- MEMES:END -->
+ - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
+ - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
 
 --- 
 
