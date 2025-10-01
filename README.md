@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [DJI Mavic 4 Pro Drone With RC 2 Drops by Hundreds, Making It the Cheapest Ever 6K/60FPS Professional Drone](https://kotaku.com/dji-mavic-4-pro-drone-with-rc-2-drops-by-hundreds-making-it-the-cheapest-ever-6k-60fps-professional-drone-2000630306)
- - [Pokémon’s Latest Set Has Cards So Impossibly Rare It’s Started Another Gold Rush](https://kotaku.com/pokemon-tcg-mega-evolution-gold-cards-pull-rate-2000630564)
- - [Management sim sequel Jurassic World Evolution 3 offers more park customisation than ever for hardcore fans—but there&#39;s no dinosaur-driven chaos left to be found](https://www.pcgamer.com/games/sim/management-sim-sequel-jurassic-world-evolution-3-offers-more-park-customisation-than-ever-for-hardcore-fans-but-theres-no-dinosaur-driven-chaos-left-to-be-found/)<!-- GAME:END -->
+ - [Amazon’s New Kindle Scribe Launch Sparks a Price Crash, Last Year’s Pen-Included Model Feels Like a Giveaway](https://kotaku.com/amazons-new-kindle-scribe-launch-sparks-a-price-crash-last-years-pen-included-model-feels-like-a-giveaway-2000630295)
+ - [Xbox Game Pass Gets Massive Price Hike Amid Big Changes](https://kotaku.com/xbox-game-pass-gets-massive-price-hike-yet-amid-big-changes-2000630604)
+ - [19-Year-Old Pleads Guilty To Sending Death Threats To Epic Games](https://kotaku.com/19-year-old-pleads-guilty-to-sending-death-threats-to-epic-games-2000630601)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
