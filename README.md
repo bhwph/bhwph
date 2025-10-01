@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
- - 😝 [Wait untill you find out what it means.](http://9gag.com/gag/adB4V5M)
- - 👉 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)<!-- MEMES:END -->
+ - 😝 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)
+ - 👉 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
 
 --- 
 
