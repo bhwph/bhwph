@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unsurprisingly, AirPods Pro 3 still aren&#39;t repairable](https://appleinsider.com/articles/25/10/01/unsurprisingly-airpods-pro-3-still-arent-repairable?utm_source=rss)
- - [iPhone 17 Pro demand surges far past iPhone 16 Pro launch orders](https://appleinsider.com/articles/25/10/01/iphone-17-pro-demand-surges-far-past-iphone-16-pro-launch-orders?utm_source=rss)
- - [Microsoft makes Xbox Cloud Gaming generally available, removing its beta tag after over five years, adds 1440p support, and raises bitrate quality to 27Mbps &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251001/p33#a251001p33)<!-- TECH:END -->
+ - [These are the very best Verizon deals you’ll find this October](https://www.androidauthority.com/verizon-deals-october-3601224/)
+ - [Lowest price ever: Apple Watch SE 2 &lpar;GPS + Cellular&rpar; plunges to $189](https://appleinsider.com/articles/25/10/01/lowest-price-ever-apple-watch-se-2-gps-cellular-plunges-to-189?utm_source=rss)
+ - [Federal Workers Are Being Told to Blame Democrats for the Shutdown](https://www.wired.com/story/government-employees-out-of-office-email-replies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
