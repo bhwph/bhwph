@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Ooh mama](http://9gag.com/gag/aD2N4zO)
- - 😝 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
- - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
+ - 😝 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
+ - 👉 [He did what? WTF man](http://9gag.com/gag/aVv1xK2)<!-- MEMES:END -->
 
 --- 
 
