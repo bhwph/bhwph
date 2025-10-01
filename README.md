@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA’s Saudi Deal Fallout: Junk Credit Ratings, Risky AI Bets, And Developer Fears](https://kotaku.com/ea-saudi-bioware-ai-lgbtq-debt-junk-bond-2000630647)
- - [One Of 2025’s Coolest-Looking Games Now Has A Demo](https://kotaku.com/marvel-cosmic-invasion-steam-demo-pc-console-2025-coolest-looking-game-2000630663)
- - [The Sweet Side Of Pokémon Card Collecting That Scalpers Can’t Steal](https://kotaku.com/pokemon-card-tcg-vendor-scalper-reseller-stream-shows-2000630658)<!-- GAME:END -->
+ - [15 Amazing No Man’s Sky Ship Builds You Have To See](https://kotaku.com/no-mans-sky-corvette-ship-build-voyagers-update-star-wars-2000630689)
+ - [The Best Jobs In Final Fantasy Tactics, Ranked](https://kotaku.com/final-fantasy-tactics-jobs-ranking-best-ivalice-chronicles-2000630679)
+ - [Final Fantasy Tactics - The Ivalice Chronicles director is a big PC gamer, and says he was &#39;very particular&#39; about making sure they got the new UI just right](https://www.pcgamer.com/games/strategy/final-fantasy-tactics-the-ivalice-chronicles-director-is-a-big-pc-gamer-and-says-he-was-very-particular-about-making-sure-they-got-the-new-ui-just-right/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
