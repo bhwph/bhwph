@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Watch the Orionids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
- - [Nothing owners can now try Android 16 thanks to Nothing OS 4.0 open beta](https://www.androidauthority.com/nothing-os-4-open-beta-android-16-3602816/)
- - [Beat the Nightly Heat With the Best Cooling Pillows of 2025: Tested and Reviewed](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Axiom Math, which aims to build an &quot;AI mathematician&quot; and has recruited researchers from Meta, raised a $64M seed led by B Capital at a $300M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/251001/p7#a251001p7)
+ - [Samsung doesn’t have faith in thin phones, gets back to work on Galaxy S26 Plus](https://www.androidauthority.com/samsung-galaxy-s26-plus-project-start-3602863/)
+ - [How live sports betting has exploded in popularity in the US, accounting for more than half of the money wagered on FanDuel and DraftKings in recent quarters &lpar;Jenny Vrentas/New York Times&rpar;](http://www.techmeme.com/251001/p6#a251001p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
