@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Z.ai released GLM-4.6, an open-weights model with a context window of up to 200K tokens, claiming near parity with Claude Sonnet 4 on coding and reasoning tasks &lpar;Z.ai&rpar;](http://www.techmeme.com/251001/p1#a251001p1)
- - [A Delaware court dismissed Arm&#39;s last claim against Qualcomm, ruling that Qualcomm and subsidiary Nuvia didn&#39;t breach license agreements; Arm plans to appeal &lpar;Peter Blumberg/Bloomberg&rpar;](http://www.techmeme.com/250930/p55#a250930p55)
- - [Tel Aviv-based Commcrete, maker of handheld satellite communication devices and software, raised a $21M Series A led by Greenfield; sources value it at $100M+ &lpar;Resilience Media&rpar;](http://www.techmeme.com/250930/p54#a250930p54)<!-- TECH:END -->
+ - [How to Watch the Orionids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
+ - [Nothing owners can now try Android 16 thanks to Nothing OS 4.0 open beta](https://www.androidauthority.com/nothing-os-4-open-beta-android-16-3602816/)
+ - [Beat the Nightly Heat With the Best Cooling Pillows of 2025: Tested and Reviewed](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
