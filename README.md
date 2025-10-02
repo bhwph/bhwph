@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ain&#39;t that the truth?](http://9gag.com/gag/aW4N4L4)
- - 😝 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
- - 👉 [The absolute state of america right now](http://9gag.com/gag/aQzNEWw)<!-- MEMES:END -->
+ - 6️⃣ [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
+ - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 👉 [Failed overtake of long load](http://9gag.com/gag/amobA44)<!-- MEMES:END -->
 
 --- 
 
