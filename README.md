@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
- - 😝 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
- - 👉 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)<!-- MEMES:END -->
+ - 6️⃣ [Row your barge](http://9gag.com/gag/a34p1jQ)
+ - 😝 [Country populated by 97% people following islam is trying to be more secular than some other countries](http://9gag.com/gag/a7o61pe)
+ - 👉 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)<!-- MEMES:END -->
 
 --- 
 
