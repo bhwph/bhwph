@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Enshittification Of Game Pass Is Here](https://kotaku.com/xbox-game-pass-cancel-controversy-console-pc-2000631061)
- - [Amnesia creator Frictional Games teases its next game, and it may be something new but it sure feels like SOMA](https://www.pcgamer.com/games/horror/amnesia-creator-frictional-games-teases-its-next-game-and-it-may-be-something-new-but-it-sure-feels-like-soma/)
- - [How to improve your farm in Digimon Story: Time Stranger](https://www.polygon.com/digimon-story-time-stranger-improve-farm-how-to/)<!-- GAME:END -->
+ - [The guy who says &#39;Toasty!&#39; in Mortal Kombat has left NetherRealm after more than 30 years with the team](https://www.pcgamer.com/games/fighting/the-guy-who-says-toasty-in-mortal-kombat-has-left-netherrealm-after-more-than-30-years-with-the-team/)
+ - [Borderlands 4‘s Worst Vault Hunter Should Suck Way Less Now](https://kotaku.com/borderlands-4-vault-hunter-balance-update-amon-buffs-patch-notes-ps5-pc-2000631113)
+ - [Meta Vibes is an officially sanctioned feed of endless AI garbage, and The Daily Show nails it in one: &#39;You&#39;re a fat little pig for internet video slop, and we here at Meta want to watch you eat yourself to death&#39;](https://www.pcgamer.com/software/ai/meta-vibes-is-an-officially-sanctioned-feed-of-endless-ai-garbage-and-the-daily-show-nails-it-in-one-youre-a-fat-little-pig-for-internet-video-slop-and-we-here-at-meta-want-to-watch-you-eat-yourself-to-death/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
