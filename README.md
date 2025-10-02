@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A bunch of Steam players just made the switch to Windows 11 as Windows 10&#39;s death date is now less than two weeks away](https://www.pcgamer.com/software/windows/a-bunch-of-steam-players-just-made-the-switch-to-windows-11-as-windows-10s-death-date-is-now-less-than-two-weeks-away/)
- - [The first hotfix for Hades 2 nerfs one jerk miniboss in particular](https://www.pcgamer.com/games/action/the-first-hotfix-for-hades-2-nerfs-one-jerk-miniboss-in-particular/)
- - [Today&#39;s Wordle clues, hints and answer for October 2 &lpar;#1566&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-2-2025/)<!-- GAME:END -->
+ - [Steam’s Latest Hit Is A Creepy, Murderous Slot Machine](https://kotaku.com/slot-machine-horror-steam-cloverpit-balatro-2000631009)
+ - [Job losses might be likely due to AI but Nvidia&#39;s CEO says the booming billion-dollar industry will always need more plumbers and electricians](https://www.pcgamer.com/hardware/job-losses-might-be-likely-due-to-ai-but-nvidias-ceo-says-the-booming-billion-dollar-industry-will-always-need-more-plumbers-and-electricians/)
+ - [World of Warcraft: Midnight&#39;s design director wasn&#39;t sure players would enjoy Delve bosses jumping you, but &#39;it turns out people really like that&#39;, so now we&#39;re getting Prey](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-midnights-design-director-wasnt-sure-players-would-enjoy-delve-bosses-jumping-you-but-it-turns-out-people-really-like-that-so-now-were-getting-prey/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
