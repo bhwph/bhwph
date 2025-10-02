@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A bunch of Steam players just made the switch to Windows 11 as Windows 10&#39;s death date is now less than two weeks away](https://www.pcgamer.com/software/windows/a-bunch-of-steam-players-just-made-the-switch-to-windows-11-as-windows-10s-death-date-is-now-less-than-two-weeks-away/)
  - [The first hotfix for Hades 2 nerfs one jerk miniboss in particular](https://www.pcgamer.com/games/action/the-first-hotfix-for-hades-2-nerfs-one-jerk-miniboss-in-particular/)
- - [Today&#39;s Wordle clues, hints and answer for October 2 &lpar;#1566&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-2-2025/)
- - [Monster Hunter Wilds may be on hard times, but the Pokémon-inspired Monster Hunter Stories 3 seems like it&#39;s checking every box RPG players want](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-may-be-on-hard-times-but-the-pokemon-inspired-monster-hunter-stories-3-seems-like-its-checking-every-box-rpg-players-want/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for October 2 &lpar;#1566&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-2-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
