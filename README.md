@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dash0, which offers AI agents to monitor and troubleshoot cloud, app, and infrastructure issues, raised a $35M Series A, taking its total funding to $44.5M &lpar;Maya Dharampal-Hornby/Sifted&rpar;](http://www.techmeme.com/251002/p23#a251002p23)
- - [Welcome to the Xbox $360 era](https://www.theverge.com/tech/790658/microsoft-xbox-game-pass-console-price-hikes-notepad)
- - [Amazon&amp;#8217;s Vega OS launch trick: cloud-streamed apps](https://www.theverge.com/column/790144/amazons-vega-os-streaming-cloud)<!-- TECH:END -->
+ - [Microsoft has committed $33B+ to neocloud providers; sources: its $19.4B Nebius deal will provide computing power for creating LLMs and a consumer AI assistant &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251002/p26#a251002p26)
+ - [Our Favorite All-in-One Printer and Scanner Is $50 Off](https://www.wired.com/story/epson-ecotank-et2980-deal-1025/)
+ - [Google Calendar finally lets you manage calendar sharing right from the app](https://www.androidauthority.com/google-calendar-app-sharing-options-3603521/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
