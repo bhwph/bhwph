@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
- - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 👉 [Failed overtake of long load](http://9gag.com/gag/amobA44)<!-- MEMES:END -->
+ - 6️⃣ [I watch because of good scripts](http://9gag.com/gag/aoyqKvm)
+ - 😝 [I mean ... It&#39;s better than piracy but..](http://9gag.com/gag/ayNVN0M)
+ - 👉 [So scary!](http://9gag.com/gag/amoboW4)<!-- MEMES:END -->
 
 --- 
 
