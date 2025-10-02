@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [VW revives its struggling software unit Cariad after a &quot;complete reset&quot; of its strategy, including partnerships with Xpeng in China and Rivian in the US &lpar;Financial Times&rpar;](http://www.techmeme.com/251002/p15#a251002p15)
- - [5 carriers you should sign up for instead of AT&amp;T](https://www.androidauthority.com/att-alternatives-3575806/)
- - [Turn your ceiling into a 120-inch Google TV movie screen with BenQ’s latest projector](https://www.androidauthority.com/benq-gv32-led-projector-launch-3603151/)<!-- TECH:END -->
+ - [The Trump Administration Is Coming for Nonprofits. They&#39;re Getting Ready](https://www.wired.com/story/the-trump-administration-is-coming-for-nonprofits-theyre-getting-ready/)
+ - [Extortion group Crimson Collective claims to have breached Red Hat&#39;s private GitHub repositories, stealing ~570GB from 28K projects; Red Hat confirms a breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/251002/p19#a251002p19)
+ - [All Affinity apps are now free for the iPad - for now](https://appleinsider.com/articles/25/10/02/all-affinity-apps-are-now-free-for-the-ipad---for-now?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
