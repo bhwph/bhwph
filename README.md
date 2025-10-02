@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
- - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 👉 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
+ - 6️⃣ [Ain&#39;t that the truth?](http://9gag.com/gag/aW4N4L4)
+ - 😝 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
+ - 👉 [The absolute state of america right now](http://9gag.com/gag/aQzNEWw)<!-- MEMES:END -->
 
 --- 
 
