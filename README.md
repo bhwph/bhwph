@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shifts priorities from lighter Apple Vision Pro to smart glasses](https://appleinsider.com/articles/25/10/01/apple-shifts-priorities-from-lighter-apple-vision-pro-to-smart-glasses?utm_source=rss)
- - [Either Galaxy Watch users are suddenly sleeping better, or Samsung changed how sleep scores work](https://www.androidauthority.com/galaxy-watch-sleep-scores-3603200/)
- - [Sources: Apple has paused development of a lighter Vision Pro to focus on smart glasses, a no-display model for a 2027 release, and a model with a display later &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251001/p42#a251001p42)<!-- TECH:END -->
+ - [Sources: China curbs the use of European suppliers Nokia and Ericsson in its telecoms networks, requiring lengthy national security reviews for their contracts &lpar;Financial Times&rpar;](http://www.techmeme.com/251001/p46#a251001p46)
+ - [Deals: Get a great Narwal robot vacuum and mop for as low as $260!](https://www.androidauthority.com/narwal-freo-s-pro-robot-deals-3603153/)
+ - [Sources: Yahoo nears a deal to sell AOL to Italian app developer Bending Spoons for ~$1.4B; AOL.com&#39;s traffic has recently grown 20% YoY among users aged 25-54 &lpar;Reuters&rpar;](http://www.techmeme.com/251001/p45#a251001p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
