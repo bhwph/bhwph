@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s recently launched K visa program hopes to attract foreign STEM graduates, but faces online backlash over fears of companies favoring overseas applicants &lpar;Anniek Bao/CNBC&rpar;](http://www.techmeme.com/251002/p1#a251002p1)
- - [Simple, an AI-powered health coaching app to help users lose weight, raised a $35M Series B led by Kevin Hart&#39;s HartBeat Ventures &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251001/p50#a251001p50)
- - [Elon Musk became the first person with a net worth of $500B after Tesla shares climbed on October 1; Musk is $150B ahead of runner-up Larry Ellison &lpar;Matt Durot/Forbes&rpar;](http://www.techmeme.com/251001/p49#a251001p49)<!-- TECH:END -->
+ - [Public records show AWS is aggressively promoting AI surveillance tech to law enforcement agencies, partnering with companies such as Flock Safety and ZeroEyes &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/251002/p7#a251002p7)
+ - [Source: OpenAI completed a secondary sale letting staff sell ~$6.6B in shares at a $500B valuation, making it the world&#39;s most valuable startup ahead of SpaceX &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251002/p6#a251002p6)
+ - [A Google exec and sources say a ransomware group presumably tied to Cl0p is sending extortion emails, claiming it stole data from Oracle&#39;s E-Business Suite &lpar;Bloomberg&rpar;](http://www.techmeme.com/251002/p5#a251002p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
