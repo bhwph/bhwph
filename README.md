@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Public records show AWS is aggressively promoting AI surveillance tech to law enforcement agencies, partnering with companies such as Flock Safety and ZeroEyes &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/251002/p7#a251002p7)
- - [Source: OpenAI completed a secondary sale letting staff sell ~$6.6B in shares at a $500B valuation, making it the world&#39;s most valuable startup ahead of SpaceX &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251002/p6#a251002p6)
- - [A Google exec and sources say a ransomware group presumably tied to Cl0p is sending extortion emails, claiming it stole data from Oracle&#39;s E-Business Suite &lpar;Bloomberg&rpar;](http://www.techmeme.com/251002/p5#a251002p5)<!-- TECH:END -->
+ - [Spotify Car Thing 2.0: Verizon is killing its in-car Google Assistant/hotspot gadget](https://www.androidauthority.com/verizon-hum-shutting-down-3603305/)
+ - [Jimmyjane Hello Touch Pro Review: A Vibrator Designed Like Earbuds](https://www.wired.com/review/jimmyjane-hello-touch-pro/)
+ - [A profile of Silver Lake co-CEO Egon Durban, who brokered the EA takeover with Jared Kushner, following the PE firm&#39;s high-stakes deals from TikTok to Altera &lpar;Financial Times&rpar;](http://www.techmeme.com/251002/p10#a251002p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
