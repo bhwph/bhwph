@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft has committed $33B+ to neocloud providers; sources: its $19.4B Nebius deal will provide computing power for creating LLMs and a consumer AI assistant &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251002/p26#a251002p26)
- - [Our Favorite All-in-One Printer and Scanner Is $50 Off](https://www.wired.com/story/epson-ecotank-et2980-deal-1025/)
- - [Google Calendar finally lets you manage calendar sharing right from the app](https://www.androidauthority.com/google-calendar-app-sharing-options-3603521/)<!-- TECH:END -->
+ - [Ring’s new Search Party feature is on by default; should you opt out?](https://www.theverge.com/news/790928/ring-search-party-cameras-default-opt-out)
+ - [Amazon&#39;s Fire TV Stick 4K Select, which comes with Vega OS, will use cloud app streaming to run Android versions of apps that haven&#39;t been ported to Vega &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/251002/p33#a251002p33)
+ - [Google is destroying independent websites, and one sees no choice but to defend it anyway](https://www.theverge.com/tech/790711/google-doj-ad-tech-remedies-wikihow-open-web)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
