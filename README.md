@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Henry Cavill bares rippling chest, powerful triceps, and deep-cut Planescape: Torment knowledge in new photo that inspires one PC Gamer editor to declare, &#39;He just like me fr&#39;](https://www.pcgamer.com/games/rpg/henry-cavill-bares-rippling-chest-powerful-triceps-and-deep-cut-planescape-torment-knowledge-in-new-photo-that-inspires-one-pc-gamer-editor-to-declare-he-just-like-me-fr/)
- - [TikTok Creator Flies To Scotland To Yell At GTA 6 Devs Outside Their Office](https://kotaku.com/tiktok-creator-flies-to-scotland-to-yell-at-gta-6-devs-outside-their-office-2000630715)
- - [World of Warcraft: Midnight&#39;s collector&#39;s edition lets you own the Dark Heart, but please don&#39;t use this void relic to resurrect an all-devouring shadow god](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-midnights-collectors-edition-lets-you-own-the-dark-heart-but-please-dont-use-this-void-relic-to-resurrect-an-all-devouring-shadow-god/)<!-- GAME:END -->
+ - [Monster Hunter Wilds may be on hard times, but the Pokémon-inspired Monster Hunter Stories 3 seems like it&#39;s checking every box RPG players want](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-may-be-on-hard-times-but-the-pokemon-inspired-monster-hunter-stories-3-seems-like-its-checking-every-box-rpg-players-want/)
+ - [Can you guess the game based only on a blurb from a Steam review? Take our quiz and see if you score a thumbs up!](https://www.pcgamer.com/games/can-you-guess-the-game-based-only-on-a-blurb-from-a-steam-review-take-our-quiz-and-see-if-you-score-a-thumbs-up/)
+ - [Blizzard will break WoW&#39;s most popular combat mods sooner than expected, kickstarting a new era for the MMO&#39;s boss design in the next major patch](https://www.pcgamer.com/games/world-of-warcraft/blizzard-will-break-wows-most-popular-combat-mods-sooner-than-expected-kickstarting-a-new-era-for-the-mmos-boss-design-in-the-next-major-patch/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
