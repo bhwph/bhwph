@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trump Administration Is Coming for Nonprofits. They&#39;re Getting Ready](https://www.wired.com/story/the-trump-administration-is-coming-for-nonprofits-theyre-getting-ready/)
- - [Extortion group Crimson Collective claims to have breached Red Hat&#39;s private GitHub repositories, stealing ~570GB from 28K projects; Red Hat confirms a breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/251002/p19#a251002p19)
- - [All Affinity apps are now free for the iPad - for now](https://appleinsider.com/articles/25/10/02/all-affinity-apps-are-now-free-for-the-ipad---for-now?utm_source=rss)<!-- TECH:END -->
+ - [This iPhone cooling mod turns it into a monstrosity that demolishes benchmarks](https://www.androidauthority.com/apple-iphone-17-pro-cooling-mod-3603389/)
+ - [Forget the iPhone 17 - iPhone 18 demand prompts Morgan Stanley to hike AAPL target to $298](https://appleinsider.com/articles/25/10/02/forget-the-iphone-17---iphone-18-demand-prompts-morgan-stanley-to-hike-aapl-target-to-298?utm_source=rss)
+ - [Ghost of Yōtei can be chill or brutal with its new cinematic modes](https://www.theverge.com/games/789026/ghost-of-yotei-cinematic-modes-kurosawa-miike-watanabe)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
