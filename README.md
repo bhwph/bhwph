@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This iPhone cooling mod turns it into a monstrosity that demolishes benchmarks](https://www.androidauthority.com/apple-iphone-17-pro-cooling-mod-3603389/)
- - [Forget the iPhone 17 - iPhone 18 demand prompts Morgan Stanley to hike AAPL target to $298](https://appleinsider.com/articles/25/10/02/forget-the-iphone-17---iphone-18-demand-prompts-morgan-stanley-to-hike-aapl-target-to-298?utm_source=rss)
- - [Ghost of Yōtei can be chill or brutal with its new cinematic modes](https://www.theverge.com/games/789026/ghost-of-yotei-cinematic-modes-kurosawa-miike-watanabe)<!-- TECH:END -->
+ - [Dash0, which offers AI agents to monitor and troubleshoot cloud, app, and infrastructure issues, raised a $35M Series A, taking its total funding to $44.5M &lpar;Maya Dharampal-Hornby/Sifted&rpar;](http://www.techmeme.com/251002/p23#a251002p23)
+ - [Welcome to the Xbox $360 era](https://www.theverge.com/tech/790658/microsoft-xbox-game-pass-console-price-hikes-notepad)
+ - [Amazon&amp;#8217;s Vega OS launch trick: cloud-streamed apps](https://www.theverge.com/column/790144/amazons-vega-os-streaming-cloud)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
