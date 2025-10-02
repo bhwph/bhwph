@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Well...well....well` ~ Brian Griffin](http://9gag.com/gag/a34pERN)
- - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
- - 👉 [In the hospital ward to prevent dementia patients leaving the ward. The numerical code is within the message.](http://9gag.com/gag/aD2NYXw)<!-- MEMES:END -->
+ - 6️⃣ [Country populated by 97% people following islam is trying to be more secular than some other countries](http://9gag.com/gag/a7o61pe)
+ - 😝 [Satisfying Sound](http://9gag.com/gag/ajPMg7x)
+ - 👉 [Why is it difficult to understand that noone likes to have men in women&#39;s bathroom..](http://9gag.com/gag/aYQnVRN)<!-- MEMES:END -->
 
 --- 
 
