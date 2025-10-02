@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify Car Thing 2.0: Verizon is killing its in-car Google Assistant/hotspot gadget](https://www.androidauthority.com/verizon-hum-shutting-down-3603305/)
- - [Jimmyjane Hello Touch Pro Review: A Vibrator Designed Like Earbuds](https://www.wired.com/review/jimmyjane-hello-touch-pro/)
- - [A profile of Silver Lake co-CEO Egon Durban, who brokered the EA takeover with Jared Kushner, following the PE firm&#39;s high-stakes deals from TikTok to Altera &lpar;Financial Times&rpar;](http://www.techmeme.com/251002/p10#a251002p10)<!-- TECH:END -->
+ - [VW revives its struggling software unit Cariad after a &quot;complete reset&quot; of its strategy, including partnerships with Xpeng in China and Rivian in the US &lpar;Financial Times&rpar;](http://www.techmeme.com/251002/p15#a251002p15)
+ - [5 carriers you should sign up for instead of AT&amp;T](https://www.androidauthority.com/att-alternatives-3575806/)
+ - [Turn your ceiling into a 120-inch Google TV movie screen with BenQ’s latest projector](https://www.androidauthority.com/benq-gv32-led-projector-launch-3603151/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
