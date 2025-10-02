@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The guy who says &#39;Toasty!&#39; in Mortal Kombat has left NetherRealm after more than 30 years with the team](https://www.pcgamer.com/games/fighting/the-guy-who-says-toasty-in-mortal-kombat-has-left-netherrealm-after-more-than-30-years-with-the-team/)
- - [Borderlands 4‘s Worst Vault Hunter Should Suck Way Less Now](https://kotaku.com/borderlands-4-vault-hunter-balance-update-amon-buffs-patch-notes-ps5-pc-2000631113)
- - [Meta Vibes is an officially sanctioned feed of endless AI garbage, and The Daily Show nails it in one: &#39;You&#39;re a fat little pig for internet video slop, and we here at Meta want to watch you eat yourself to death&#39;](https://www.pcgamer.com/software/ai/meta-vibes-is-an-officially-sanctioned-feed-of-endless-ai-garbage-and-the-daily-show-nails-it-in-one-youre-a-fat-little-pig-for-internet-video-slop-and-we-here-at-meta-want-to-watch-you-eat-yourself-to-death/)<!-- GAME:END -->
+ - [The most anticipated FPS of the year is scoring points by recognizing a simple truth: people want performance more than ray tracing](https://www.pcgamer.com/games/fps/the-most-anticipated-fps-of-the-year-is-scoring-points-by-recognizing-a-simple-truth-people-want-performance-more-than-ray-tracing/)
+ - [PlayStation Plus Monthly Games for October: Alan Wake 2, Goat Simulator 3, Cocoon](https://blog.playstation.com/2025/10/02/20251003-psplus/)
+ - [If you missed Master Chief having sex on Paramount+ now you can see Master Chief having sex on Netflix](https://www.pcgamer.com/movies-tv/if-you-missed-master-chief-having-sex-on-paramount-now-you-can-see-master-chief-having-sex-on-netflix/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
