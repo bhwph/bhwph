@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China curbs the use of European suppliers Nokia and Ericsson in its telecoms networks, requiring lengthy national security reviews for their contracts &lpar;Financial Times&rpar;](http://www.techmeme.com/251001/p46#a251001p46)
- - [Deals: Get a great Narwal robot vacuum and mop for as low as $260!](https://www.androidauthority.com/narwal-freo-s-pro-robot-deals-3603153/)
- - [Sources: Yahoo nears a deal to sell AOL to Italian app developer Bending Spoons for ~$1.4B; AOL.com&#39;s traffic has recently grown 20% YoY among users aged 25-54 &lpar;Reuters&rpar;](http://www.techmeme.com/251001/p45#a251001p45)<!-- TECH:END -->
+ - [Elon Musk became the first person with a net worth of $500B after Tesla shares climbed on October 1; Musk is $150B ahead of runner-up Larry Ellison &lpar;Matt Durot/Forbes&rpar;](http://www.techmeme.com/251001/p49#a251001p49)
+ - [OpenAI&#39;s Sora 2 openly features copyright infringing content, including numerous AI-generated clips of SpongeBob, Pikachu, and Mario &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/251001/p48#a251001p48)
+ - [Salesforce launches Agentforce Vibes, an enterprise vibe-coding tool and IDE featuring Vibe Codey, built on a fork from Cline&#39;s open source AI coding agent &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/251001/p47#a251001p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
