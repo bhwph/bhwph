@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Country populated by 97% people following islam is trying to be more secular than some other countries](http://9gag.com/gag/a7o61pe)
- - 😝 [Satisfying Sound](http://9gag.com/gag/ajPMg7x)
- - 👉 [Why is it difficult to understand that noone likes to have men in women&#39;s bathroom..](http://9gag.com/gag/aYQnVRN)<!-- MEMES:END -->
+ - 6️⃣ [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
+ - 😝 [Family with brother and sister be like:](http://9gag.com/gag/aVv1brP)
+ - 👉 [Failed overtake of long load](http://9gag.com/gag/amobA44)<!-- MEMES:END -->
 
 --- 
 
