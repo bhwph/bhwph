@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Row your barge](http://9gag.com/gag/a34p1jQ)
+ - 6️⃣ [Jane Godall, one of the most important people in natural science, especially in the field of primates, died today at the age of 91. Let us all honor her.](http://9gag.com/gag/adB4PV2)
  - 😝 [Country populated by 97% people following islam is trying to be more secular than some other countries](http://9gag.com/gag/a7o61pe)
- - 👉 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)<!-- MEMES:END -->
+ - 👉 [Row your barge](http://9gag.com/gag/a34p1jQ)<!-- MEMES:END -->
 
 --- 
 
