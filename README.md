@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
- - 😝 [Family with brother and sister be like:](http://9gag.com/gag/aVv1brP)
+ - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
  - 👉 [Failed overtake of long load](http://9gag.com/gag/amobA44)<!-- MEMES:END -->
 
 --- 
