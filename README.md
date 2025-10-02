@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
- - 😝 [How to peel coconut efficiently](http://9gag.com/gag/ae9PgPm)
- - 👉 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)<!-- MEMES:END -->
+ - 6️⃣ [`Well...well....well` ~ Brian Griffin](http://9gag.com/gag/a34pERN)
+ - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
+ - 👉 [In the hospital ward to prevent dementia patients leaving the ward. The numerical code is within the message.](http://9gag.com/gag/aD2NYXw)<!-- MEMES:END -->
 
 --- 
 
