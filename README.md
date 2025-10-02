@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam’s Latest Hit Is A Creepy, Murderous Slot Machine](https://kotaku.com/slot-machine-horror-steam-cloverpit-balatro-2000631009)
- - [Job losses might be likely due to AI but Nvidia&#39;s CEO says the booming billion-dollar industry will always need more plumbers and electricians](https://www.pcgamer.com/hardware/job-losses-might-be-likely-due-to-ai-but-nvidias-ceo-says-the-booming-billion-dollar-industry-will-always-need-more-plumbers-and-electricians/)
- - [World of Warcraft: Midnight&#39;s design director wasn&#39;t sure players would enjoy Delve bosses jumping you, but &#39;it turns out people really like that&#39;, so now we&#39;re getting Prey](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-midnights-design-director-wasnt-sure-players-would-enjoy-delve-bosses-jumping-you-but-it-turns-out-people-really-like-that-so-now-were-getting-prey/)<!-- GAME:END -->
+ - [Microsoft Windows 11 Pro Deal Is 94% Off, You Could Pay With a $10 Bill and Still Get Change](https://kotaku.com/microsoft-windows-11-pro-deal-is-94-off-you-could-pay-with-a-10-bill-and-still-get-change-2000630686)
+ - [PlayStation Store: September 2025’s top downloads](https://blog.playstation.com/2025/10/02/playstation-store-september-2025s-top-downloads/)
+ - [EA tackles Sims 4 save corruption: &quot;We&#39;ve committed to transparency&quot;](https://www.polygon.com/sims-4-save-corruption-fixes-ea-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
