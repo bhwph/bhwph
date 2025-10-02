@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring’s new Search Party feature is on by default; should you opt out?](https://www.theverge.com/news/790928/ring-search-party-cameras-default-opt-out)
- - [Amazon&#39;s Fire TV Stick 4K Select, which comes with Vega OS, will use cloud app streaming to run Android versions of apps that haven&#39;t been ported to Vega &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/251002/p33#a251002p33)
- - [Google is destroying independent websites, and one sees no choice but to defend it anyway](https://www.theverge.com/tech/790711/google-doj-ad-tech-remedies-wikihow-open-web)<!-- TECH:END -->
+ - [Redbox’s next product may be piracy lawsuits](https://www.theverge.com/tech/791013/redbox-chicken-soup-piracy-lawsuits-ip-sale-grove-street)
+ - [Mercor launches the AI Productivity Index &lpar;APEX&rpar;, which evaluates AI models&#39; ability to perform &quot;economically valuable knowledge work&quot;; GPT-5 leads the index &lpar;Mercor&rpar;](http://www.techmeme.com/251002/p36#a251002p36)
+ - [This new Anker Prime Charger can charge super fast and is on sale already!](https://www.androidauthority.com/anker-prime-charger-160w-deal-3603585/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
