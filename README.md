@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Windows 11 Pro Deal Is 94% Off, You Could Pay With a $10 Bill and Still Get Change](https://kotaku.com/microsoft-windows-11-pro-deal-is-94-off-you-could-pay-with-a-10-bill-and-still-get-change-2000630686)
- - [PlayStation Store: September 2025’s top downloads](https://blog.playstation.com/2025/10/02/playstation-store-september-2025s-top-downloads/)
- - [EA tackles Sims 4 save corruption: &quot;We&#39;ve committed to transparency&quot;](https://www.polygon.com/sims-4-save-corruption-fixes-ea-update/)<!-- GAME:END -->
+ - [The Enshittification Of Game Pass Is Here](https://kotaku.com/xbox-game-pass-cancel-controversy-console-pc-2000631061)
+ - [Amnesia creator Frictional Games teases its next game, and it may be something new but it sure feels like SOMA](https://www.pcgamer.com/games/horror/amnesia-creator-frictional-games-teases-its-next-game-and-it-may-be-something-new-but-it-sure-feels-like-soma/)
+ - [How to improve your farm in Digimon Story: Time Stranger](https://www.polygon.com/digimon-story-time-stranger-improve-farm-how-to/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
