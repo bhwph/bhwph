@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix Hiring A Director Of Generative AI For Gaming With A Starting Salary Of Up To $840K](https://kotaku.com/netflix-generative-ai-gaming-animal-crossing-studio-ghibli-2000631485)
- - [How to enable secure boot and TPM 2.0 for Black Ops 7](https://www.polygon.com/secure-boot-how-to-set-upblack-ops-7-bo7-battlefield-6-bf6/)
- - [Ghost of Yōtei: Erika Ishii Interview](https://blog.playstation.com/2025/10/03/ghost-of-yotei-erika-ishii-interview/)<!-- GAME:END -->
+ - [Helldivers 2 dev explains why the PC version takes a million years to update and has 3X the filesize of the console versions: old, undemocratic hard drives](https://www.pcgamer.com/games/action/helldivers-2-dev-explains-why-the-pc-version-takes-a-million-years-to-update-and-has-3x-the-filesize-of-the-console-versions-old-undemocratic-hard-drives/)
+ - [This underrated serial-killer horror movie was almost a Saw prequel](https://www.polygon.com/collector-best-slasher-movies/)
+ - [Meta&#39;s latest bid to get you into the metaverse is the Horizon Engine, promising &#39;infinite connected spaces, more realistic physics, and higher player counts&#39;](https://www.pcgamer.com/hardware/metas-latest-bid-to-get-you-into-the-metaverse-is-the-horizon-engine-promising-infinite-connected-spaces-more-realistic-physics-and-higher-player-counts/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
