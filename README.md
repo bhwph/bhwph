@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lenovo LOQ 15 Gen10 review](https://www.pcgamer.com/hardware/gaming-laptops/lenovo-loq-15-gen10-review/)
- - [Unity has found a security vulnerability that has sat dormant for almost a decade: &#39;Take immediate action to protect your games &amp; apps&#39;](https://www.pcgamer.com/hardware/unity-has-found-a-security-vulnerability-that-has-sat-dormant-for-almost-a-decade-take-immediate-action-to-protect-your-games-and-apps/)
- - [MARVEL Tōkon: Fighting Souls Interview](https://blog.playstation.com/2025/10/03/marvel-tokon-fighting-souls-interview/)<!-- GAME:END -->
+ - [Netflix Hiring A Director Of Generative AI For Gaming With A Starting Salary Of Up To $840K](https://kotaku.com/netflix-generative-ai-gaming-animal-crossing-studio-ghibli-2000631485)
+ - [How to enable secure boot and TPM 2.0 for Black Ops 7](https://www.polygon.com/secure-boot-how-to-set-upblack-ops-7-bo7-battlefield-6-bf6/)
+ - [Ghost of Yōtei: Erika Ishii Interview](https://blog.playstation.com/2025/10/03/ghost-of-yotei-erika-ishii-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
