@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 dev explains why the PC version takes a million years to update and has 3X the filesize of the console versions: old, undemocratic hard drives](https://www.pcgamer.com/games/action/helldivers-2-dev-explains-why-the-pc-version-takes-a-million-years-to-update-and-has-3x-the-filesize-of-the-console-versions-old-undemocratic-hard-drives/)
- - [This underrated serial-killer horror movie was almost a Saw prequel](https://www.polygon.com/collector-best-slasher-movies/)
- - [Meta&#39;s latest bid to get you into the metaverse is the Horizon Engine, promising &#39;infinite connected spaces, more realistic physics, and higher player counts&#39;](https://www.pcgamer.com/hardware/metas-latest-bid-to-get-you-into-the-metaverse-is-the-horizon-engine-promising-infinite-connected-spaces-more-realistic-physics-and-higher-player-counts/)<!-- GAME:END -->
+ - [As Microsoft lays off thousands and jacks up Game Pass prices, former FTC chair says I told you so: The Activision-Blizzard buyout is &#39;harming both gamers and developers&#39;](https://www.pcgamer.com/gaming-industry/as-microsoft-lays-off-thousands-and-jacks-up-game-pass-prices-former-ftc-chair-says-i-told-you-so-the-activision-blizzard-buyout-is-harming-both-gamers-and-developers/)
+ - [Pillars Of Eternity II And More Pulled From Stores After Unity Reveals Years-Old Security Exploit](https://kotaku.com/unity-exploit-update-obsidian-pillars-eternity-2-removed-steam-2000631633)
+ - [HP Is Quietly Clearing Its Stock Through Amazon, With Its 17″ 1TB Laptop Going for 71% Off](https://kotaku.com/hp-is-quietly-clearing-its-stock-through-amazon-with-its-17-1tb-laptop-going-for-71-off-2000631617)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
