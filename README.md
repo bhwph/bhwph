@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
- - 😝 [Every damn time](http://9gag.com/gag/aGyNE47)
- - 👉 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)<!-- MEMES:END -->
+ - 6️⃣ [Asian manners](http://9gag.com/gag/adB4v89)
+ - 😝 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
+ - 👉 [So scary!](http://9gag.com/gag/amoboW4)<!-- MEMES:END -->
 
 --- 
 
