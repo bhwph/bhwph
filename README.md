@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
- - 😝 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
- - 👉 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)<!-- MEMES:END -->
+ - 6️⃣ [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
+ - 😝 [Peak comedy](http://9gag.com/gag/aAyNyGE)
+ - 👉 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)<!-- MEMES:END -->
 
 --- 
 
