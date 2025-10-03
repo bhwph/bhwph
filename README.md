@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rob Williams, Amazon&#39;s VP of device software and services and member of the S-team advising CEO Andy Jassy, will retire and leave Amazon by the end of 2025 &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/251003/p21#a251003p21)
- - [The Lenovo Go S Is $120 Off](https://www.wired.com/story/legion-go-s-deal-1025/)
- - [SCUBA diver&#39;s life saved by Apple Watch Ultra&#39;s siren](https://appleinsider.com/articles/25/10/03/scuba-divers-life-saved-by-apple-watch-ultras-siren?utm_source=rss)<!-- TECH:END -->
+ - [Coinbase applies for a national trust company charter, says it &quot;has no intention of becoming a bank&quot; and the charter will allow expansion in areas like payments &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/251003/p25#a251003p25)
+ - [Apple&#39;s removal of ICEBlock raises questions about the limits of what the company will resist under the Trump administration&#39;s increasingly outrageous demands &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/251003/p24#a251003p24)
+ - [Gov. Gavin Newsom signs a bill that gives ride-hailing drivers in California the right to unionize while remaining classified as independent contractors &lpar;Associated Press&rpar;](http://www.techmeme.com/251003/p23#a251003p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
