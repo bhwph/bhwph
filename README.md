@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra 3, Alexa, Bad Bunny and Snoopy, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/03/apple-watch-ultra-3-alexa-bad-bunny-and-snoopy-on-the-appleinsider-podcast?utm_source=rss)
- - [Doc: Amazon&#39;s Q Business AI assistant struggled with accuracy and data processing in its first year, drawing complaints; Amazon says the document is outdated &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/251003/p7#a251003p7)
- - [OnePlus 15 global launch date leaks, and it might beat Galaxy S26 to the punch](https://www.androidauthority.com/oneplus-15-global-launch-date-leak-3603717/)<!-- TECH:END -->
+ - [I can’t imagine living in a smart home. Why do you?](https://www.androidauthority.com/living-smart-home-open-thread-3603733/)
+ - [Feedzai, which uses AI to detect and prevent financial crimes, raised ~$75M at a $2B valuation &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251003/p10#a251003p10)
+ - [With a Friend like this, who needs enemies?](https://www.theverge.com/column/791010/optimizer-friend-ai-companion-wearables)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
