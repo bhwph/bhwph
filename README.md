@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scuba diver&#39;s life saved by Apple Watch Ultra&#39;s siren](https://appleinsider.com/articles/25/10/03/scuba-divers-life-saved-by-apple-watch-ultras-siren?utm_source=rss)
- - [TechInsights: Huawei used components from TSMC, Samsung, and SK Hynix in some of its Ascend 910C chips; TSMC says the parts are from a reported incident in 2024 &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/251003/p4#a251003p4)
- - [I finally switched to a standalone password manager and it wasn’t as painful as I expected](https://www.androidauthority.com/switching-to-proton-pass-password-manager-3602001/)<!-- TECH:END -->
+ - [Apple Watch Ultra 3, Alexa, Bad Bunny and Snoopy, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/03/apple-watch-ultra-3-alexa-bad-bunny-and-snoopy-on-the-appleinsider-podcast?utm_source=rss)
+ - [Doc: Amazon&#39;s Q Business AI assistant struggled with accuracy and data processing in its first year, drawing complaints; Amazon says the document is outdated &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/251003/p7#a251003p7)
+ - [OnePlus 15 global launch date leaks, and it might beat Galaxy S26 to the punch](https://www.androidauthority.com/oneplus-15-global-launch-date-leak-3603717/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
