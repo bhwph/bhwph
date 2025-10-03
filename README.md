@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This simple change could make Gemini Scheduled Actions a joy to use &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-scheduled-actions-edit-3603672/)
- - [Galaxy S26 series selfie camera details leak, and here’s what to expect](https://www.androidauthority.com/samsung-galaxy-s26-selfie-camera-leak-3603655/)
- - [a16z releases a report, with Mercury data, on the top 50 AI companies startups pay for; OpenAI leads, followed by Anthropic, Replit, Freepik, and ElevenLabs &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251003/p1#a251003p1)<!-- TECH:END -->
+ - [Scuba diver&#39;s life saved by Apple Watch Ultra&#39;s siren](https://appleinsider.com/articles/25/10/03/scuba-divers-life-saved-by-apple-watch-ultras-siren?utm_source=rss)
+ - [TechInsights: Huawei used components from TSMC, Samsung, and SK Hynix in some of its Ascend 910C chips; TSMC says the parts are from a reported incident in 2024 &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/251003/p4#a251003p4)
+ - [I finally switched to a standalone password manager and it wasn’t as painful as I expected](https://www.androidauthority.com/switching-to-proton-pass-password-manager-3602001/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
