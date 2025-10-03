@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Strava sues Garmin for allegedly infringing two patents related to its segments and heatmap features and violating a 2015 agreement between the companies &lpar;Ray Maker/DC Rainmaker&rpar;](http://www.techmeme.com/251002/p44#a251002p44)
- - [Uber acquihires Belgian data labeling startup Segments.ai to expand its lidar data labeling capabilities; its founders and staff will join Uber AI Solutions &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251002/p43#a251002p43)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Oct. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-oct-3/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [a16z releases a report, with Mercury data, on the top 50 AI companies startups pay for; OpenAI leads, followed by Anthropic, Replit, Freepik, and ElevenLabs &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251003/p1#a251003p1)
+ - [At a Conspiracy Conference in Rural Ireland, Charlie Kirk Was the Star](https://www.wired.com/story/conspiracy-conference-rural-ireland-charlie-kirk-quantum-clones/)
+ - [$25 Off DoorDash Promo Code | October 2025](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
