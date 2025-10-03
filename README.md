@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Redbox’s next product may be piracy lawsuits](https://www.theverge.com/tech/791013/redbox-chicken-soup-piracy-lawsuits-ip-sale-grove-street)
- - [Mercor launches the AI Productivity Index &lpar;APEX&rpar;, which evaluates AI models&#39; ability to perform &quot;economically valuable knowledge work&quot;; GPT-5 leads the index &lpar;Mercor&rpar;](http://www.techmeme.com/251002/p36#a251002p36)
- - [This new Anker Prime Charger can charge super fast and is on sale already!](https://www.androidauthority.com/anker-prime-charger-160w-deal-3603585/)<!-- TECH:END -->
+ - [ICEBlock app removed from App Store after DOJ demands, citing safety concerns](https://appleinsider.com/articles/25/10/03/iceblock-app-removed-from-app-store-after-doj-demands-citing-safety-concerns?utm_source=rss)
+ - [Apple removes ICEBlock, an app for anonymously reporting ICE officer sightings, from the App Store; AG Pam Bondi says the DOJ requested its removal &lpar;Ashley Oliver/Fox Business&rpar;](http://www.techmeme.com/251002/p40#a251002p40)
+ - [A Google exec says Alphabet has been working for the past two years to technologically decouple its life sciences unit Verily so that it can be sold or spun off &lpar;Bloomberg&rpar;](http://www.techmeme.com/251002/p39#a251002p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
