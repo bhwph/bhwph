@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I watch because of good scripts](http://9gag.com/gag/aoyqKvm)
- - 😝 [I mean ... It&#39;s better than piracy but..](http://9gag.com/gag/ayNVN0M)
- - 👉 [So scary!](http://9gag.com/gag/amoboW4)<!-- MEMES:END -->
+ - 6️⃣ [I swear I know this dude from somewhere](http://9gag.com/gag/aGyNy76)
+ - 😝 [Tokyo Apartment in Japan](http://9gag.com/gag/azxD25m)
+ - 👉 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)<!-- MEMES:END -->
 
 --- 
 
