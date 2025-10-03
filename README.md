@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jefferies&#39; bearish Apple stock guesswork continues with iPhone 18-related downgrade](https://appleinsider.com/articles/25/10/03/jefferies-bearish-apple-stock-guesswork-continues-with-iphone-18-related-downgrade?utm_source=rss)
- - [Midi, which offers virtual care for women and is developing an AI search engine for health info, raised a $50M Series C, bringing its total funding to ~$150M &lpar;Rebecca Torrence/Business Insider&rpar;](http://www.techmeme.com/251003/p15#a251003p15)
- - [Sony shrinks PS5 Slim storage in the US, too](https://www.theverge.com/news/791380/sony-ps5-slim-reduced-storage-2100-model-series)<!-- TECH:END -->
+ - [Google Play Store is now your place to buy… Bass Pro Shops gift cards?](https://www.androidauthority.com/google-play-store-selling-gift-cards-3603870/)
+ - [Hori’s new Switch 2 controller lets you deactivate its home and screenshot buttons](https://www.theverge.com/news/791438/hori-wireless-horipad-turbo-nintendo-switch-2-controller)
+ - [YouTube Music is finally testing lyrics translation](https://www.androidauthority.com/youtube-music-translation-3603849/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
