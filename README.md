@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I can’t imagine living in a smart home. Why do you?](https://www.androidauthority.com/living-smart-home-open-thread-3603733/)
- - [Feedzai, which uses AI to detect and prevent financial crimes, raised ~$75M at a $2B valuation &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251003/p10#a251003p10)
- - [With a Friend like this, who needs enemies?](https://www.theverge.com/column/791010/optimizer-friend-ai-companion-wearables)<!-- TECH:END -->
+ - [Jefferies&#39; bearish Apple stock guesswork continues with iPhone 18-related downgrade](https://appleinsider.com/articles/25/10/03/jefferies-bearish-apple-stock-guesswork-continues-with-iphone-18-related-downgrade?utm_source=rss)
+ - [Midi, which offers virtual care for women and is developing an AI search engine for health info, raised a $50M Series C, bringing its total funding to ~$150M &lpar;Rebecca Torrence/Business Insider&rpar;](http://www.techmeme.com/251003/p15#a251003p15)
+ - [Sony shrinks PS5 Slim storage in the US, too](https://www.theverge.com/news/791380/sony-ps5-slim-reduced-storage-2100-model-series)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
