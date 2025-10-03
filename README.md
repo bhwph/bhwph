@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
- - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 👉 [Come full circle](http://9gag.com/gag/aE0N8MM)<!-- MEMES:END -->
+ - 😝 [Come full circle](http://9gag.com/gag/aE0N8MM)
+ - 👉 [Every damn time](http://9gag.com/gag/aGyNE47)<!-- MEMES:END -->
 
 --- 
 
