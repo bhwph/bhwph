@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
- - 😝 [Come full circle](http://9gag.com/gag/aE0N8MM)
- - 👉 [Every damn time](http://9gag.com/gag/aGyNE47)<!-- MEMES:END -->
+ - 6️⃣ [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 😝 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)
+ - 👉 [What artist do you think is overrated? I&#39;ll go first:](http://9gag.com/gag/a9yNzAo)<!-- MEMES:END -->
 
 --- 
 
