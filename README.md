@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 😝 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)
- - 👉 [What artist do you think is overrated? I&#39;ll go first:](http://9gag.com/gag/a9yNzAo)<!-- MEMES:END -->
+ - 6️⃣ [Bro is a king.](http://9gag.com/gag/azxD5jZ)
+ - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
+ - 👉 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)<!-- MEMES:END -->
 
 --- 
 
