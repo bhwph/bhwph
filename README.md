@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Asian manners](http://9gag.com/gag/adB4v89)
- - 😝 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
- - 👉 [So scary!](http://9gag.com/gag/amoboW4)<!-- MEMES:END -->
+ - 6️⃣ [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
+ - 😝 [So scary!](http://9gag.com/gag/amoboW4)
+ - 👉 [Every damn time](http://9gag.com/gag/aGyNE47)<!-- MEMES:END -->
 
 --- 
 
