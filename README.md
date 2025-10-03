@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I watch because of good scripts](http://9gag.com/gag/aoyqKvm)
- - 😝 [Ain&#39;t that the truth?](http://9gag.com/gag/aW4N4L4)
- - 👉 [Salt water doesn&#39;t mix with the drinking water](http://9gag.com/gag/a2vjKxw)<!-- MEMES:END -->
+ - 6️⃣ [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
+ - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 👉 [Come full circle](http://9gag.com/gag/aE0N8MM)<!-- MEMES:END -->
 
 --- 
 
