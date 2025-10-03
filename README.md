@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire Survivors-like Megabonk makes megabucks, selling a million copies in 2 weeks, and currently has more daily players than Borderlands 4 on Steam: &#39;I&#39;ll be eating spaghetti with EXTRA sauce tonight&#39;](https://www.pcgamer.com/games/roguelike/vampire-survivors-like-megabonk-makes-megabucks-selling-a-million-copies-in-2-weeks-and-currently-has-more-daily-players-than-borderlands-4-on-steam-ill-be-eating-spaghetti-with-extra-sauce-tonight/)
- - [Amazon is giving away the game you need to play before Fallout returns](https://www.polygon.com/amazon-prime-gaming-fallout-new-vegas-givaway/)
- - [Today&#39;s Wordle clues, hints and answer for October 3 &lpar;#1567&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-3-2025/)<!-- GAME:END -->
+ - [Lenovo LOQ 15 Gen10 review](https://www.pcgamer.com/hardware/gaming-laptops/lenovo-loq-15-gen10-review/)
+ - [Unity has found a security vulnerability that has sat dormant for almost a decade: &#39;Take immediate action to protect your games &amp; apps&#39;](https://www.pcgamer.com/hardware/unity-has-found-a-security-vulnerability-that-has-sat-dormant-for-almost-a-decade-take-immediate-action-to-protect-your-games-and-apps/)
+ - [MARVEL Tōkon: Fighting Souls Interview](https://blog.playstation.com/2025/10/03/marvel-tokon-fighting-souls-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
