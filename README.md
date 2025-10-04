@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside the aftermath of FTX&#39;s collapse, law firm Sullivan &amp; Cromwell&#39;s role, and an interview with SBF, who is preparing to appeal his conviction in November &lpar;Mother Jones&rpar;](http://www.techmeme.com/251004/p7#a251004p7)
  - [Kioxia, whose stock has more than tripled since its public debut in Tokyo last December, expects NAND storage demand to grow by ~20% annually amid the AI boom &lpar;Bloomberg&rpar;](http://www.techmeme.com/251004/p6#a251004p6)
- - [Singapore dollar-pegged XSGD stablecoin debuts on Coinbase, giving the city-state a head start over Hong Kong in launching a local currency-linked stablecoin &lpar;Dylan Loh/Nikkei Asia&rpar;](http://www.techmeme.com/251004/p5#a251004p5)
- - [KKR invests in Infobric, a Stirling Square-backed Swedish company that offers software to the construction industry, sources say at a ~€600M valuation &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/251004/p4#a251004p4)<!-- TECH:END -->
+ - [Singapore dollar-pegged XSGD stablecoin debuts on Coinbase, giving the city-state a head start over Hong Kong in launching a local currency-linked stablecoin &lpar;Dylan Loh/Nikkei Asia&rpar;](http://www.techmeme.com/251004/p5#a251004p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
