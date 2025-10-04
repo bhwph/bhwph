@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Officer saves choking baby. Truly a hero in uniform](http://9gag.com/gag/a4Pr6xv)
- - 😝 [Germany. A cable was stolen from a railway in North Rhine-Westphalia.](http://9gag.com/gag/aGyNLpG)
- - 👉 [Asian manners](http://9gag.com/gag/adB4v89)<!-- MEMES:END -->
+ - 6️⃣ [Return to monke](http://9gag.com/gag/aVv1ogw)
+ - 😝 [Doh](http://9gag.com/gag/a34pA53)
+ - 👉 [Amusing Ourselves to Death is a great book if you ask me!](http://9gag.com/gag/aE0NVOe)<!-- MEMES:END -->
 
 --- 
 
