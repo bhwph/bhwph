@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [As Microsoft lays off thousands and jacks up Game Pass prices, former FTC chair says I told you so: The Activision-Blizzard buyout is &#39;harming both gamers and developers&#39;](https://www.pcgamer.com/gaming-industry/as-microsoft-lays-off-thousands-and-jacks-up-game-pass-prices-former-ftc-chair-says-i-told-you-so-the-activision-blizzard-buyout-is-harming-both-gamers-and-developers/)
- - [Pillars Of Eternity II And More Pulled From Stores After Unity Reveals Years-Old Security Exploit](https://kotaku.com/unity-exploit-update-obsidian-pillars-eternity-2-removed-steam-2000631633)
- - [HP Is Quietly Clearing Its Stock Through Amazon, With Its 17″ 1TB Laptop Going for 71% Off](https://kotaku.com/hp-is-quietly-clearing-its-stock-through-amazon-with-its-17-1tb-laptop-going-for-71-off-2000631617)<!-- GAME:END -->
+ - [This 65W Wall Charger Is 44% Off on Amazon, and It Juices Up Your Mac and iPhone at Once](https://kotaku.com/this-65w-wall-charger-is-44-off-on-amazon-and-it-juices-up-your-mac-and-iphone-at-once-2000631566)
+ - [Mac Mini M4 Is Going for Pennies, Apple Is Quietly Offloading Stock on Amazon](https://kotaku.com/mac-mini-m4-is-going-for-pennies-apple-is-quietly-offloading-stock-on-amazon-2000631565)
+ - [If Gaming Is in Your DNA, This Samsung G9 49″ OLED Curved Monitor Is $700+ Off on Amazon](https://kotaku.com/if-gaming-is-in-your-dna-this-samsung-g9-49-oled-curved-monitor-is-700-off-on-amazon-2000631621)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
