@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This 65W Wall Charger Is 44% Off on Amazon, and It Juices Up Your Mac and iPhone at Once](https://kotaku.com/this-65w-wall-charger-is-44-off-on-amazon-and-it-juices-up-your-mac-and-iphone-at-once-2000631566)
- - [Mac Mini M4 Is Going for Pennies, Apple Is Quietly Offloading Stock on Amazon](https://kotaku.com/mac-mini-m4-is-going-for-pennies-apple-is-quietly-offloading-stock-on-amazon-2000631565)
- - [If Gaming Is in Your DNA, This Samsung G9 49″ OLED Curved Monitor Is $700+ Off on Amazon](https://kotaku.com/if-gaming-is-in-your-dna-this-samsung-g9-49-oled-curved-monitor-is-700-off-on-amazon-2000631621)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for October 4 &lpar;#1568&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-4-2025/)
+ - [LEGO Is Going All In, Its 4.9-Rated Star Wars R2-D2 Set Is Selling for Pennies](https://kotaku.com/lego-is-going-all-in-its-4-9-rated-star-wars-r2-d2-set-is-selling-for-pennies-2000631589)
+ - [Luna Controller for PC and Mac Is Now 2x Cheaper Than a Sony Controller, Amazon Clearing Final Stock](https://kotaku.com/luna-controller-for-pc-and-mac-is-now-2x-cheaper-than-a-sony-controller-amazon-clearing-final-stock-2000631580)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
