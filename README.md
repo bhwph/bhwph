@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Officer saves choking baby. Truly a hero in uniform](http://9gag.com/gag/a4Pr6xv)
- - 😝 [Sprich deutsch, du Huso-Angelsachse!](http://9gag.com/gag/aO8N86y)
- - 👉 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)<!-- MEMES:END -->
+ - 😝 [Germany. A cable was stolen from a railway in North Rhine-Westphalia.](http://9gag.com/gag/aGyNLpG)
+ - 👉 [Asian manners](http://9gag.com/gag/adB4v89)<!-- MEMES:END -->
 
 --- 
 
