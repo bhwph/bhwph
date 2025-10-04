@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US shutdown gives Apple a breather in its DoJ antitrust suit](https://appleinsider.com/articles/25/10/04/us-shutdown-gives-apple-a-breather-in-its-doj-antitrust-suit?utm_source=rss)
- - [40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-prime-day-deals-october-2025-2/)
- - [How rising unemployment in computer-related fields in the US, where foreign nationals make up ~20% of 2.3M software devs, pushed the H-1B issue to the forefront &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/251004/p14#a251004p14)<!-- TECH:END -->
+ - [A look at challenges facing Tether and Circle&#39;s stablecoin duopoly, such as intermediaries like exchanges and DeFi protocols exploring their own stablecoins &lpar;Nic Carter/Murmurations II&rpar;](http://www.techmeme.com/251004/p17#a251004p17)
+ - [Beats Powerbeats Fit review: Compact earbuds ideal for workouts](https://appleinsider.com/articles/25/10/04/beats-powerbeats-fit-review-compact-earbuds-ideal-for-workouts?utm_source=rss)
+ - [This Gruesome Cave Nightmare Is One of My Favorite Horror Movies of the Century](https://www.cnet.com/culture/entertainment/this-gruesome-cave-nightmare-is-one-of-my-favorite-horror-movies-of-the-century/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
