@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
- - 👉 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)<!-- MEMES:END -->
+ - 6️⃣ [Dogpool](http://9gag.com/gag/amob1A2)
+ - 😝 [Sometimes you have these kinda days](http://9gag.com/gag/ae9P1PB)
+ - 👉 [Best Youtube comment ever](http://9gag.com/gag/apRj14M)<!-- MEMES:END -->
 
 --- 
 
