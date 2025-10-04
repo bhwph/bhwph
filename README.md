@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for October 4 &lpar;#1568&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-4-2025/)
- - [LEGO Is Going All In, Its 4.9-Rated Star Wars R2-D2 Set Is Selling for Pennies](https://kotaku.com/lego-is-going-all-in-its-4-9-rated-star-wars-r2-d2-set-is-selling-for-pennies-2000631589)
- - [Luna Controller for PC and Mac Is Now 2x Cheaper Than a Sony Controller, Amazon Clearing Final Stock](https://kotaku.com/luna-controller-for-pc-and-mac-is-now-2x-cheaper-than-a-sony-controller-amazon-clearing-final-stock-2000631580)<!-- GAME:END -->
+ - [Does Sage cheat on Diego in Bone Lake? The director explains a crucial cut](https://www.polygon.com/bone-lake-director-interview-will-and-sage-sex/)
+ - [Call of Duty was saved against the odds when Infinity Ward imploded](https://www.pcgamer.com/games/call-of-duty/call-of-duty-was-saved-against-the-odds-when-infinity-ward-imploded/)
+ - [One of the worst case scenarios for ID age verification is already here, with a Discord breach compromising some users&#39; data](https://www.pcgamer.com/gaming-industry/one-of-the-worst-case-scenarios-for-id-age-verification-is-already-here-with-a-discord-breach-compromising-some-users-data/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
