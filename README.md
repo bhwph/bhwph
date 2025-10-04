@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dual Knit Band could make Apple Vision Pro more bearable to wear](https://appleinsider.com/articles/25/10/04/dual-knit-band-could-make-apple-vision-pro-more-bearable-to-wear?utm_source=rss)
- - [The Pixel 10 Pro’s 100x zoom is way too good, with one caveat](https://www.androidauthority.com/pixel-10-pro-100x-zoom-3599686/)
- - [Android’s new Computer Control feature shows the Rabbit R1 was ahead of its time](https://www.androidauthority.com/android-computer-control-feature-3603862/)<!-- TECH:END -->
+ - [Q&amp;A with iRobot founder Rodney Brooks on his startup Robust.AI, which builds warehouse robots, unrealistic expectations around humanoid robots and AI, and more &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/251004/p10#a251004p10)
+ - [Instagram wants me to make content — I just want to post a photo](https://www.theverge.com/tech/791595/instagram-uploading-features-content)
+ - [Tilly Norwood is a gen AI psyop](https://www.theverge.com/ai-artificial-intelligence/791680/tilly-norwood-particle6-xicoia-eline-van-der-velden)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
