@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Asian manners](http://9gag.com/gag/adB4v89)
- - 😝 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
- - 👉 [Germany. A cable was stolen from a railway in North Rhine-Westphalia.](http://9gag.com/gag/aGyNLpG)<!-- MEMES:END -->
+ - 6️⃣ [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
+ - 😝 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
+ - 👉 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)<!-- MEMES:END -->
 
 --- 
 
