@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daniel Ek stepping down changes nothing for Spotify](https://www.theverge.com/report/791593/daniel-ek-stepping-down-changes-nothing-for-artists-boycotting-spotify)
- - [How Google plans to fix its smart home mess with Gemini for Google Home](https://www.androidauthority.com/google-home-win-back-trust-3604047/)
- - [Standalone Hulu is dead, long live &#39;Hulu on Disney+&#39;](https://appleinsider.com/articles/25/10/04/standalone-hulu-is-dead-long-live-hulu-on-disney?utm_source=rss)<!-- TECH:END -->
+ - [US shutdown gives Apple a breather in its DoJ antitrust suit](https://appleinsider.com/articles/25/10/04/us-shutdown-gives-apple-a-breather-in-its-doj-antitrust-suit?utm_source=rss)
+ - [40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-prime-day-deals-october-2025-2/)
+ - [How rising unemployment in computer-related fields in the US, where foreign nationals make up ~20% of 2.3M software devs, pushed the H-1B issue to the forefront &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/251004/p14#a251004p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
