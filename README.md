@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
- - 😝 [So scary!](http://9gag.com/gag/amoboW4)
- - 👉 [Bro is a king.](http://9gag.com/gag/azxD5jZ)<!-- MEMES:END -->
+ - 6️⃣ [Or vertically divided?](http://9gag.com/gag/a7o6oNx)
+ - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
+ - 👉 [Asian manners](http://9gag.com/gag/adB4v89)<!-- MEMES:END -->
 
 --- 
 
