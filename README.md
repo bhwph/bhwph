@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
+ - 6️⃣ [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
  - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
  - 👉 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)<!-- MEMES:END -->
 
