@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with iRobot founder Rodney Brooks on his startup Robust.AI, which builds warehouse robots, unrealistic expectations around humanoid robots and AI, and more &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/251004/p10#a251004p10)
- - [Instagram wants me to make content — I just want to post a photo](https://www.theverge.com/tech/791595/instagram-uploading-features-content)
- - [Tilly Norwood is a gen AI psyop](https://www.theverge.com/ai-artificial-intelligence/791680/tilly-norwood-particle6-xicoia-eline-van-der-velden)<!-- TECH:END -->
+ - [Daniel Ek stepping down changes nothing for Spotify](https://www.theverge.com/report/791593/daniel-ek-stepping-down-changes-nothing-for-artists-boycotting-spotify)
+ - [How Google plans to fix its smart home mess with Gemini for Google Home](https://www.androidauthority.com/google-home-win-back-trust-3604047/)
+ - [Standalone Hulu is dead, long live &#39;Hulu on Disney+&#39;](https://appleinsider.com/articles/25/10/04/standalone-hulu-is-dead-long-live-hulu-on-disney?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
