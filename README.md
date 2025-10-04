@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase applies for a national trust company charter, says it &quot;has no intention of becoming a bank&quot; and the charter will allow expansion in areas like payments &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/251003/p25#a251003p25)
- - [Apple&#39;s removal of ICEBlock raises questions about the limits of what the company will resist under the Trump administration&#39;s increasingly outrageous demands &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/251003/p24#a251003p24)
- - [Gov. Gavin Newsom signs a bill that gives ride-hailing drivers in California the right to unionize while remaining classified as independent contractors &lpar;Associated Press&rpar;](http://www.techmeme.com/251003/p23#a251003p23)<!-- TECH:END -->
+ - [Sam Altman says OpenAI is planning two Sora changes for rightsholders: granular controls over generation of their characters and a revenue sharing system &lpar;Sam Altman&rpar;](http://www.techmeme.com/251003/p30#a251003p30)
+ - [OpenAI VP of Media Partnerships Varun Shetty says OpenAI didn&#39;t put too many guardrails in Sora because it doesn&#39;t &quot;want it to be at a competitive disadvantage&quot; &lpar;Newcomer&rpar;](http://www.techmeme.com/251003/p29#a251003p29)
+ - [Oregon’s National Guard lawsuit hinges on Trump’s Truth Social posts](https://www.theverge.com/policy/792042/trump-oregon-national-guard-tro)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
