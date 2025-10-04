@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dogpool](http://9gag.com/gag/amob1A2)
- - 😝 [Sometimes you have these kinda days](http://9gag.com/gag/ae9P1PB)
- - 👉 [Best Youtube comment ever](http://9gag.com/gag/apRj14M)<!-- MEMES:END -->
+ - 6️⃣ [Officer saves choking baby. Truly a hero in uniform](http://9gag.com/gag/a4Pr6xv)
+ - 😝 [Sprich deutsch, du Huso-Angelsachse!](http://9gag.com/gag/aO8N86y)
+ - 👉 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)<!-- MEMES:END -->
 
 --- 
 
