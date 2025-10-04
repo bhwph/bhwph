@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get the Motorola Razr Ultra at a record-low price and with a free 1TB storage upgrade!](https://www.androidauthority.com/motorola-razr-ultra-2025-deal-3-3604019/)
  - [Sam Altman says OpenAI is planning two Sora changes for rightsholders: granular controls over generation of their characters and a revenue sharing system &lpar;Sam Altman&rpar;](http://www.techmeme.com/251003/p30#a251003p30)
- - [OpenAI VP of Media Partnerships Varun Shetty says OpenAI didn&#39;t put too many guardrails in Sora because it doesn&#39;t &quot;want it to be at a competitive disadvantage&quot; &lpar;Newcomer&rpar;](http://www.techmeme.com/251003/p29#a251003p29)
- - [Oregon’s National Guard lawsuit hinges on Trump’s Truth Social posts](https://www.theverge.com/policy/792042/trump-oregon-national-guard-tro)<!-- TECH:END -->
+ - [OpenAI VP of Media Partnerships Varun Shetty says OpenAI didn&#39;t put too many guardrails in Sora because it doesn&#39;t &quot;want it to be at a competitive disadvantage&quot; &lpar;Newcomer&rpar;](http://www.techmeme.com/251003/p29#a251003p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
