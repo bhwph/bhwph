@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Oct. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-oct-4/#ftag=CAD590a51e)
- - [Get the Motorola Razr Ultra at a record-low price and with a free 1TB storage upgrade!](https://www.androidauthority.com/motorola-razr-ultra-2025-deal-3-3604019/)
- - [Sam Altman says OpenAI is planning two Sora changes for rightsholders: granular controls over generation of their characters and a revenue sharing system &lpar;Sam Altman&rpar;](http://www.techmeme.com/251003/p30#a251003p30)<!-- TECH:END -->
+ - [Kioxia, whose stock has more than tripled since its public debut in Tokyo last December, expects NAND storage demand to grow by ~20% annually amid the AI boom &lpar;Bloomberg&rpar;](http://www.techmeme.com/251004/p6#a251004p6)
+ - [Singapore dollar-pegged XSGD stablecoin debuts on Coinbase, giving the city-state a head start over Hong Kong in launching a local currency-linked stablecoin &lpar;Dylan Loh/Nikkei Asia&rpar;](http://www.techmeme.com/251004/p5#a251004p5)
+ - [KKR invests in Infobric, a Stirling Square-backed Swedish company that offers software to the construction industry, sources say at a ~€600M valuation &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/251004/p4#a251004p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
