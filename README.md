@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [My favorite Spotify feature makes other music apps completely useless in the car](https://www.androidauthority.com/spotify-jam-android-auto-3602035/)
- - [Gear News of the Week: Adobe Premiere Lands on iPhone, and Nothing Lets You Design Your Own Widgets](https://www.wired.com/story/gear-news-of-the-week-adobe-premiere-lands-on-iphone-and-nothing-lets-you-design-your-own-widgets/)
- - [The Vision Pro Was An Expensive Misstep. Now Apple Has to Catch Up With Smart Glasses](https://www.wired.com/story/the-vision-pro-was-an-expensive-misstep-now-apple-has-to-catch-up-with-smart-glasses/)<!-- TECH:END -->
+ - [Dual Knit Band could make Apple Vision Pro more bearable to wear](https://appleinsider.com/articles/25/10/04/dual-knit-band-could-make-apple-vision-pro-more-bearable-to-wear?utm_source=rss)
+ - [The Pixel 10 Pro’s 100x zoom is way too good, with one caveat](https://www.androidauthority.com/pixel-10-pro-100x-zoom-3599686/)
+ - [Android’s new Computer Control feature shows the Rabbit R1 was ahead of its time](https://www.androidauthority.com/android-computer-control-feature-3603862/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
