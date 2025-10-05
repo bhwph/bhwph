@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [V/H/S Halloween directors say found-footage horror is still ‘hard AF’](https://www.polygon.com/vhs-halloween-director-interview-found-footage-horror-is-hard-af/)
- - [Valve yoinked a new Counter-Strike 2 map out of the game after just 2 days, either for potential Disney copyright infringement, a &#39;gamer word&#39; hidden in its data, or both](https://www.pcgamer.com/games/fps/valve-yoinked-a-new-counter-strike-2-map-out-of-the-game-after-just-2-days-either-for-potential-disney-copyright-infringement-a-gamer-word-hidden-in-its-data-or-both/)
- - [Good Boy: The most surprising horror movie of 2025 came from a very personal fear](https://www.polygon.com/good-boy-movie-director-interview-ben-leonberg/)<!-- GAME:END -->
+ - [&#39;Nintendo has not had any contact with the Japanese government about generative AI&#39;: Nintendo denies anti-AI lobbying rumors](https://www.pcgamer.com/software/ai/nintendo-has-not-had-any-contact-with-the-japanese-government-about-generative-ai-nintendo-denies-anti-ai-lobbying-rumors/)
+ - [First US videogame champion, legendary programmer, and Interplay co-founder Rebecca Heineman is fundraising to deal with the costs of an aggressive cancer diagnosis](https://www.pcgamer.com/gaming-industry/first-us-videogame-champion-legendary-programmer-and-interplay-co-founder-rebecca-heineman-is-fundraising-to-deal-with-the-costs-of-an-aggressive-cancer-diagnosis/)
+ - [Now Far Cheaper Than a Switch Game, This 15″ Portable Monitor Lets You Enjoy Big-Screen Play](https://kotaku.com/now-far-cheaper-than-a-switch-game-this-15-portable-monitor-lets-you-enjoy-big-screen-play-2000631855)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
