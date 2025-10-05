@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker paid users of its Eufy security cameras $2 per video of staged or real package and car thefts to train its AI systems from December 2024 to February 2025 &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251004/p20#a251004p20)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 5, #377](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-5-377/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Oct. 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-oct-5/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Sam Altman is on a global tour since September, including UAE and East Asia, seeking funding and urging companies like TSMC to prioritize OpenAI orders &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251005/p5#a251005p5)
+ - [Alibaba says its mapping app Amap&#39;s destination ranking feature hit 400M users since its launch in September; Amap had a record 360M daily users on October 1 &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/251005/p4#a251005p4)
+ - [A draft proposal outlines the European Commission&#39;s &quot;Apply AI strategy&quot;, which is set to be presented on October 7 and aims to &quot;strengthen EU AI sovereignty&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/251005/p3#a251005p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
