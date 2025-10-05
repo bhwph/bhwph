@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tell me who makes the problems in a relationship, not always but often...](http://9gag.com/gag/amob6ry)
- - 😝 [Return to monke](http://9gag.com/gag/aVv1ogw)
- - 👉 [One day I&#39;ll have a babysitter too](http://9gag.com/gag/azxDPPp)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s one way to crack a smile](http://9gag.com/gag/agmZ7vw)
+ - 😝 [Doh](http://9gag.com/gag/a34pA53)
+ - 👉 [How deep is your love](http://9gag.com/gag/aByNVXA)<!-- MEMES:END -->
 
 --- 
 
