@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A study found that by late 2024, around 24% of English-language corporate press releases and 14% of UN press releases involved LLM-assisted writing &lpar;AJ Dellinger/Gizmodo&rpar;](http://www.techmeme.com/251005/p6#a251005p6)
  - [Sources: Sam Altman is on a global tour since September, including UAE and East Asia, seeking funding and urging companies like TSMC to prioritize OpenAI orders &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251005/p5#a251005p5)
- - [Alibaba says its mapping app Amap&#39;s destination ranking feature hit 400M users since its launch in September; Amap had a record 360M daily users on October 1 &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/251005/p4#a251005p4)
- - [A draft proposal outlines the European Commission&#39;s &quot;Apply AI strategy&quot;, which is set to be presented on October 7 and aims to &quot;strengthen EU AI sovereignty&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/251005/p3#a251005p3)<!-- TECH:END -->
+ - [Alibaba says its mapping app Amap&#39;s destination ranking feature hit 400M users since its launch in September; Amap had a record 360M daily users on October 1 &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/251005/p4#a251005p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
