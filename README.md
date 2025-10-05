@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s one way to crack a smile](http://9gag.com/gag/agmZ7vw)
- - 😝 [Doh](http://9gag.com/gag/a34pA53)
- - 👉 [How deep is your love](http://9gag.com/gag/aByNVXA)<!-- MEMES:END -->
+ - 6️⃣ [He puts stickers on apples for a living now](http://9gag.com/gag/aZZVwmV)
+ - 😝 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
+ - 👉 [Guess what country](http://9gag.com/gag/an7WRQ0)<!-- MEMES:END -->
 
 --- 
 
