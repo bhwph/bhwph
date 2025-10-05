@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insiders detail negotiations between politicians, tech and AI companies, VCs, and others over California&#39;s SB 53, the first-in-the-nation AI safety law &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/251005/p15#a251005p15)
- - [If you can get past the terrible logo, Audacity 4 looks pretty great](https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great)
- - [Foxconn reports Q3 revenue of ~$67.71B, up 11% YoY, driven by strong demand for AI products; the company&#39;s consumer electronics division posted a slight decline &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/251005/p14#a251005p14)<!-- TECH:END -->
+ - [United set to be first to use iOS 26&#39;s new Wallet boarding passes](https://appleinsider.com/articles/25/10/05/united-set-to-be-first-to-use-ios-26s-new-wallet-boarding-passes?utm_source=rss)
+ - [Alvys, an AI-powered logistics software provider, raised a $40M Series B led by RTP Global, bringing its total funding to $77M; Alvys has 1000+ customers &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251005/p17#a251005p17)
+ - [Robinhood is expanding aggressively in the UK, releasing low-cost investment products and seeking to launch its prediction market products in the country &lpar;Financial Times&rpar;](http://www.techmeme.com/251005/p16#a251005p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
