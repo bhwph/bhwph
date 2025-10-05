@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker paid users of its Eufy security cameras $2 per video of staged or real package and car thefts to train its AI systems from December 2024 to February 2025 &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251004/p20#a251004p20)
  - [An interview with Sam Altman and OpenAI President Greg Brockman on the tepid initial reception to GPT-5&#39;s launch, scaling, reinforcement learning, AGI, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/251004/p19#a251004p19)
- - [Huawei&#39;s Zurich Lab unveils SINQ, an open-source quantization method that it claims can reduce LLM memory use by 60-70% without significant quality loss &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251004/p18#a251004p18)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 5, #847](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-5-847/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Huawei&#39;s Zurich Lab unveils SINQ, an open-source quantization method that it claims can reduce LLM memory use by 60-70% without significant quality loss &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251004/p18#a251004p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
