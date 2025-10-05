@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Sam Altman and OpenAI President Greg Brockman on the tepid initial reception to GPT-5&#39;s launch, scaling, reinforcement learning, AGI, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/251004/p19#a251004p19)
  - [Huawei&#39;s Zurich Lab unveils SINQ, an open-source quantization method that it claims can reduce LLM memory use by 60-70% without significant quality loss &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251004/p18#a251004p18)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 5, #847](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-5-847/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 5 #581](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-5-581/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 5, #847](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-5-847/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
