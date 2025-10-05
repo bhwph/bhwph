@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My job here is done](http://9gag.com/gag/a87XmXZ)
- - 😝 [2022](http://9gag.com/gag/a87XAXe)
- - 👉 [Loled](http://9gag.com/gag/adB41O9)<!-- MEMES:END -->
+ - 6️⃣ [An old gem](http://9gag.com/gag/aryrAzK)
+ - 😝 [The Lord decided to make me a normal human being, amen!](http://9gag.com/gag/awyGmby)
+ - 👉 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)<!-- MEMES:END -->
 
 --- 
 
