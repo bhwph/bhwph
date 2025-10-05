@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He puts stickers on apples for a living now](http://9gag.com/gag/aZZVwmV)
- - 😝 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
- - 👉 [Guess what country](http://9gag.com/gag/an7WRQ0)<!-- MEMES:END -->
+ - 6️⃣ [Hilarious movie can&#39;t remember the name](http://9gag.com/gag/aGyN8Q7)
+ - 😝 [Oh lawdy...](http://9gag.com/gag/aMVNm4X)
+ - 👉 [I wonder why](http://9gag.com/gag/aAyNKdZ)<!-- MEMES:END -->
 
 --- 
 
