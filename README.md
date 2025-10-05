@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Dehumidifiers for Cool and Dry Home Air &lpar;2025&rpar;](https://www.wired.com/gallery/best-dehumidifier/)
- - [I’ve been a Kindle power user for 13 years; these are the tips everyone should know](https://www.androidauthority.com/5-kindle-tricks-everyone-should-know-3597460/)
- - [These 5 apps help me hit my financial goals, stress free](https://www.androidauthority.com/financial-goals-apps-3603658/)<!-- TECH:END -->
+ - [John Gianandrea wasn&#39;t Apple&#39;s AI savior, and the company may be looking for a replacement](https://appleinsider.com/articles/25/10/05/john-gianandrea-wasnt-apples-ai-savior-and-the-company-may-be-looking-for-a-replacement?utm_source=rss)
+ - [Version History is live — here’s how to find it](https://www.theverge.com/podcast/792339/version-history-podcast-hoverboards)
+ - [The AI boom is driving memory and storage shortages that may last a decade; OpenAI&#39;s Stargate has deals for 900K DRAM wafers per month, or ~40% of global output &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251005/p9#a251005p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
