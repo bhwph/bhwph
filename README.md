@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [John Gianandrea wasn&#39;t Apple&#39;s AI savior, and the company may be looking for a replacement](https://appleinsider.com/articles/25/10/05/john-gianandrea-wasnt-apples-ai-savior-and-the-company-may-be-looking-for-a-replacement?utm_source=rss)
- - [Version History is live — here’s how to find it](https://www.theverge.com/podcast/792339/version-history-podcast-hoverboards)
- - [The AI boom is driving memory and storage shortages that may last a decade; OpenAI&#39;s Stargate has deals for 900K DRAM wafers per month, or ~40% of global output &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251005/p9#a251005p9)<!-- TECH:END -->
+ - [One of these three Apple executives will probably be Tim Cook&#39;s replacement](https://appleinsider.com/articles/25/07/20/tim-cooks-successor-could-be-one-of-many-apple-executives?utm_source=rss)
+ - [Our Favorite Humidifiers for Home, Travel &amp; More &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-humidifier/)
+ - [How video games are shaping a generation of boys, as a survey says US males aged 15 to 24 now spend ~10 hrs/week on average on games, over 2x the time from 2010 &lpar;New York Times&rpar;](http://www.techmeme.com/251005/p10#a251005p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
