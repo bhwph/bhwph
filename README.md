@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for October 5 &lpar;#1569&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-5-2025/)
- - [It took 14 years for a streamer to walk to the Far Lands in Minecraft, but his long journey is finally over](https://www.pcgamer.com/games/survival-crafting/it-took-14-years-for-a-streamer-to-walk-to-the-far-lands-in-minecraft-but-his-long-journey-is-finally-over/)
- - [The Bloodlines 2 voice cast features actors from Cyberpunk 2077, Hitman, Vermintide, and Game of Thrones](https://www.pcgamer.com/games/rpg/the-bloodlines-2-voice-cast-features-actors-from-cyberpunk-2077-hitman-vermintide-and-game-of-thrones/)<!-- GAME:END -->
+ - [Critical Role isn’t playing a West Marches campaign, but you can](https://www.polygon.com/dnd-dungeons-dragons-west-marches-campaign-critical-role/)
+ - [Rockstar has launched 2 low-key partnerships for GTA 6, but with a splash of the Fortnite formula they could have a transformative effect on both Vice City and videogames](https://www.pcgamer.com/games/grand-theft-auto/rockstar-has-launched-2-low-key-partnerships-for-gta-6-but-with-a-splash-of-the-fortnite-formula-they-could-have-a-transformative-effect-on-both-vice-city-and-videogames/)
+ - [Miller&#39;s Crossing at 35: The Coen Brothers&#39; movie-nerd gangster fantasia](https://www.polygon.com/millers-crossing-at-35-coen-brothers-gangster-movie/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
