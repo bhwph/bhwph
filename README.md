@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A study found that by late 2024, around 24% of English-language corporate press releases and 14% of UN press releases involved LLM-assisted writing &lpar;AJ Dellinger/Gizmodo&rpar;](http://www.techmeme.com/251005/p6#a251005p6)
- - [Sources: Sam Altman is on a global tour since September, including UAE and East Asia, seeking funding and urging companies like TSMC to prioritize OpenAI orders &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251005/p5#a251005p5)
- - [Alibaba says its mapping app Amap&#39;s destination ranking feature hit 400M users since its launch in September; Amap had a record 360M daily users on October 1 &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/251005/p4#a251005p4)<!-- TECH:END -->
+ - [7 Best Dehumidifiers for Cool and Dry Home Air &lpar;2025&rpar;](https://www.wired.com/gallery/best-dehumidifier/)
+ - [I’ve been a Kindle power user for 13 years; these are the tips everyone should know](https://www.androidauthority.com/5-kindle-tricks-everyone-should-know-3597460/)
+ - [These 5 apps help me hit my financial goals, stress free](https://www.androidauthority.com/financial-goals-apps-3603658/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
