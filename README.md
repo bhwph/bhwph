@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Return to monke](http://9gag.com/gag/aVv1ogw)
- - 😝 [Doh](http://9gag.com/gag/a34pA53)
- - 👉 [Amusing Ourselves to Death is a great book if you ask me!](http://9gag.com/gag/aE0NVOe)<!-- MEMES:END -->
+ - 6️⃣ [My job here is done](http://9gag.com/gag/a87XmXZ)
+ - 😝 [2022](http://9gag.com/gag/a87XAXe)
+ - 👉 [Loled](http://9gag.com/gag/adB41O9)<!-- MEMES:END -->
 
 --- 
 
