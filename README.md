@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role isn’t playing a West Marches campaign, but you can](https://www.polygon.com/dnd-dungeons-dragons-west-marches-campaign-critical-role/)
- - [Rockstar has launched 2 low-key partnerships for GTA 6, but with a splash of the Fortnite formula they could have a transformative effect on both Vice City and videogames](https://www.pcgamer.com/games/grand-theft-auto/rockstar-has-launched-2-low-key-partnerships-for-gta-6-but-with-a-splash-of-the-fortnite-formula-they-could-have-a-transformative-effect-on-both-vice-city-and-videogames/)
- - [Miller&#39;s Crossing at 35: The Coen Brothers&#39; movie-nerd gangster fantasia](https://www.polygon.com/millers-crossing-at-35-coen-brothers-gangster-movie/)<!-- GAME:END -->
+ - [V/H/S Halloween directors say found-footage horror is still ‘hard AF’](https://www.polygon.com/vhs-halloween-director-interview-found-footage-horror-is-hard-af/)
+ - [Valve yoinked a new Counter-Strike 2 map out of the game after just 2 days, either for potential Disney copyright infringement, a &#39;gamer word&#39; hidden in its data, or both](https://www.pcgamer.com/games/fps/valve-yoinked-a-new-counter-strike-2-map-out-of-the-game-after-just-2-days-either-for-potential-disney-copyright-infringement-a-gamer-word-hidden-in-its-data-or-both/)
+ - [Good Boy: The most surprising horror movie of 2025 came from a very personal fear](https://www.polygon.com/good-boy-movie-director-interview-ben-leonberg/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
