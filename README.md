@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Bloodlines 2 voice cast features actors from Cyberpunk 2077, Hitman, Vermintide, and Game of Thrones](https://www.pcgamer.com/games/rpg/the-bloodlines-2-voice-cast-features-actors-from-cyberpunk-2077-hitman-vermintide-and-game-of-thrones/)
- - [Microsoft reportedly estimated that Game Pass led to $300 million in lost sales of Black Ops 6, with 82% of copies sold being on the Game Pass-less PlayStation 5](https://www.pcgamer.com/gaming-industry/microsoft-reportedly-estimated-that-game-pass-led-to-usd300-million-in-lost-sales-of-black-ops-6-with-82-percent-of-copies-sold-being-on-the-game-pass-less-playstation-5/)
- - [Fallout Shelter, Pentiment, and other Unity games have been delisted on Steam thanks to Unity&#39;s security vulnerability](https://www.pcgamer.com/software/security/fallout-shelter-pentiment-and-other-unity-games-have-been-delisted-on-steam-thanks-to-unitys-security-vulnerability/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for October 5 &lpar;#1569&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-5-2025/)
+ - [It took 14 years for a streamer to walk to the Far Lands in Minecraft, but his long journey is finally over](https://www.pcgamer.com/games/survival-crafting/it-took-14-years-for-a-streamer-to-walk-to-the-far-lands-in-minecraft-but-his-long-journey-is-finally-over/)
+ - [The Bloodlines 2 voice cast features actors from Cyberpunk 2077, Hitman, Vermintide, and Game of Thrones](https://www.pcgamer.com/games/rpg/the-bloodlines-2-voice-cast-features-actors-from-cyberpunk-2077-hitman-vermintide-and-game-of-thrones/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
