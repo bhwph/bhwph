@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [An old gem](http://9gag.com/gag/aryrAzK)
- - 😝 [The Lord decided to make me a normal human being, amen!](http://9gag.com/gag/awyGmby)
- - 👉 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)<!-- MEMES:END -->
+ - 6️⃣ [Sometimes you have these kinda days](http://9gag.com/gag/ae9P1PB)
+ - 😝 [2022](http://9gag.com/gag/a87XAXe)
+ - 👉 [Yes ...YES ...Die trash](http://9gag.com/gag/aO8N4MR)<!-- MEMES:END -->
 
 --- 
 
