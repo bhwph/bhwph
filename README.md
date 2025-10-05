@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Doh](http://9gag.com/gag/a34pA53)
- - 😝 [Helping the homeless stay homeless](http://9gag.com/gag/aO8NegN)
- - 👉 [Guess what country](http://9gag.com/gag/an7WRQ0)<!-- MEMES:END -->
+ - 6️⃣ [Tell me who makes the problems in a relationship, not always but often...](http://9gag.com/gag/amob6ry)
+ - 😝 [Return to monke](http://9gag.com/gag/aVv1ogw)
+ - 👉 [One day I&#39;ll have a babysitter too](http://9gag.com/gag/azxDPPp)<!-- MEMES:END -->
 
 --- 
 
