@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sometimes you have these kinda days](http://9gag.com/gag/ae9P1PB)
- - 😝 [2022](http://9gag.com/gag/a87XAXe)
- - 👉 [Yes ...YES ...Die trash](http://9gag.com/gag/aO8N4MR)<!-- MEMES:END -->
+ - 6️⃣ [Nasty surprise in my sandwich.](http://9gag.com/gag/aD2NndB)
+ - 😝 [Would](http://9gag.com/gag/ayNV44M)
+ - 👉 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)<!-- MEMES:END -->
 
 --- 
 
