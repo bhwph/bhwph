@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My job here is done](http://9gag.com/gag/a87XmXZ)
- - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
- - 👉 [Doh](http://9gag.com/gag/a34pA53)<!-- MEMES:END -->
+ - 6️⃣ [This is how I met your mom](http://9gag.com/gag/ajPMOR0)
+ - 😝 [Doh](http://9gag.com/gag/a34pA53)
+ - 👉 [Guess what country](http://9gag.com/gag/an7WRQ0)<!-- MEMES:END -->
 
 --- 
 
