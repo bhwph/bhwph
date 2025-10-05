@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Does Sage cheat on Diego in Bone Lake? The director explains a crucial cut](https://www.polygon.com/bone-lake-director-interview-will-and-sage-sex/)
- - [Call of Duty was saved against the odds when Infinity Ward imploded](https://www.pcgamer.com/games/call-of-duty/call-of-duty-was-saved-against-the-odds-when-infinity-ward-imploded/)
- - [One of the worst case scenarios for ID age verification is already here, with a Discord breach compromising some users&#39; data](https://www.pcgamer.com/gaming-industry/one-of-the-worst-case-scenarios-for-id-age-verification-is-already-here-with-a-discord-breach-compromising-some-users-data/)<!-- GAME:END -->
+ - [The Bloodlines 2 voice cast features actors from Cyberpunk 2077, Hitman, Vermintide, and Game of Thrones](https://www.pcgamer.com/games/rpg/the-bloodlines-2-voice-cast-features-actors-from-cyberpunk-2077-hitman-vermintide-and-game-of-thrones/)
+ - [Microsoft reportedly estimated that Game Pass led to $300 million in lost sales of Black Ops 6, with 82% of copies sold being on the Game Pass-less PlayStation 5](https://www.pcgamer.com/gaming-industry/microsoft-reportedly-estimated-that-game-pass-led-to-usd300-million-in-lost-sales-of-black-ops-6-with-82-percent-of-copies-sold-being-on-the-game-pass-less-playstation-5/)
+ - [Fallout Shelter, Pentiment, and other Unity games have been delisted on Steam thanks to Unity&#39;s security vulnerability](https://www.pcgamer.com/software/security/fallout-shelter-pentiment-and-other-unity-games-have-been-delisted-on-steam-thanks-to-unitys-security-vulnerability/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
