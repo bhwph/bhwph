@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shark Wants to Crush the Competition, Selling Its AI Robot Vacuum at a Loss for Prime Day on Amazon](https://kotaku.com/shark-wants-to-crush-the-competition-selling-its-ai-robot-vacuum-at-a-loss-for-prime-day-on-amazon-2000631999)
- - [25 years later, Digimon: The Movie still doesn&#39;t get the credit it deserves](https://www.polygon.com/digimon-the-movie-25-years-anniversary-anime-box-office/)
- - [Amazon Drops LEGO Deals Big for Prime Day, Mini F1 Car Toys Now Selling for $3 Each](https://kotaku.com/amazon-drops-lego-deals-big-for-prime-day-mini-f1-car-toys-now-selling-for-3-each-2000632056)<!-- GAME:END -->
+ - [Your ‘WTF Happened?’ Guide To All Of Xbox’s Game Pass Changes](https://kotaku.com/xbox-game-pass-ultimate-price-hike-cod-2000632122)
+ - [Nintendo sues Reddit mod for $4.5M, says it&#39;s &#39;nowhere near&#39; enough money](https://www.polygon.com/nintendo-reddit-mod-lawsuit-money-amount-piracy-nintendo-switch/)
+ - [The best guns in the Black Ops 7 beta in early access](https://www.polygon.com/black-ops-7-bo7-best-guns-weapons-meta/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
