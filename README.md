@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
- - 😝 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
- - 👉 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)<!-- MEMES:END -->
+ - 6️⃣ [Hilarious movie can&#39;t remember the name](http://9gag.com/gag/aGyN8Q7)
+ - 😝 [Modern problems require........](http://9gag.com/gag/an7W2W5)
+ - 👉 [I wonder why](http://9gag.com/gag/aAyNKdZ)<!-- MEMES:END -->
 
 --- 
 
