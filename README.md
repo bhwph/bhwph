@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at major UK businesses hit by cyberattacks in 2025; a government survey estimates 43% of businesses and 30% of charities were hit in the past 12 months &lpar;Theo Leggett/BBC&rpar;](http://www.techmeme.com/251006/p8#a251006p8)
- - [The European Securities and Markets Authority plans to centralize the regulation of stock exchanges, crypto companies, and clearing houses at an EU level &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/251006/p7#a251006p7)
- - [The Pixel 10 is going viral for struggling with a major Android game](https://www.androidauthority.com/pixel-10-genshin-impact-gpu-problem-3604104/)<!-- TECH:END -->
+ - [Source: xAI is set to spend $18B+ to acquire ~300K more Nvidia chips for its Colossus 2 project in Memphis; Elon Musk said in July it would have 550K chips &lpar;Alexander Saeedy/Wall Street Journal&rpar;](http://www.techmeme.com/251006/p12#a251006p12)
+ - [I found an Android launcher that combines the best of Niagara and Nova Launcher](https://www.androidauthority.com/best-niagara-nova-launcher-alternative-3603238/)
+ - [Vibe Coding Is the New Open Source—in the Worst Way Possible](https://www.wired.com/story/vibe-coding-is-the-new-open-source/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
