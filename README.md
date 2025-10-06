@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
- - 😝 [Please don&#39;t](http://9gag.com/gag/ayNV4Vq)
+ - 6️⃣ [Fall is here](http://9gag.com/gag/aD2NZdO)
+ - 😝 [Because she doesnt have mental illness like erika ishi](http://9gag.com/gag/a1mq0Bb)
  - 👉 [Damned spawn campers](http://9gag.com/gag/avyX1jX)<!-- MEMES:END -->
 
 --- 
