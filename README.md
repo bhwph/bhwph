@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Guild Wars 2 exclusive: ArenaNet breaks down the changes coming to all 9 new elite specs in the next expansion](https://www.pcgamer.com/games/mmo/guild-wars-2-exclusive-arenanet-breaks-down-the-changes-coming-to-all-9-new-elite-specs-in-the-next-expansion/)
- - [MMO players just don&#39;t want a rigid casual/hardcore divide anymore—and all the big games know it](https://www.pcgamer.com/games/mmo/mmo-players-just-dont-want-a-rigid-casual-hardcore-divide-anymore-and-all-the-big-games-know-it/)
- - [Today&#39;s Wordle clues, hints and answer for October 6 &lpar;#1570&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-6-2025/)<!-- GAME:END -->
+ - [This 15″ FHD Portable Monitor Doubles Your Display Size, and It’s Now Going for Pennies on the Dollar for Prime Day](https://kotaku.com/this-15-fhd-portable-monitor-doubles-your-display-size-and-its-now-going-for-pennies-on-the-dollar-for-prime-day-2000631978)
+ - [Amazon Kept Everyone Waiting, but the Echo Dot Is Now Almost Free for Prime Day](https://kotaku.com/amazon-kept-everyone-waiting-but-the-echo-dot-is-now-almost-free-for-prime-day-2000631968)
+ - [Re-animator is still one of the best zombie B-movies ever made — and it&#39;s streaming for free](https://www.polygon.com/reanimator-streaming-online-free-october-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
