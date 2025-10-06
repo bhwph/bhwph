@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel fans are done forgiving Tensor’s underwhelming performance and efficiency](https://www.androidauthority.com/pixel-fans-are-done-forgiving-tensor-3604246/)
- - [CBS News was just taken over by a Substack](https://www.theverge.com/news/792752/cbs-news-paramount-the-free-press-acquisition-bari-weiss)
- - [Amazon launches $799 MacBook Air M4 deal for fall Prime Day](https://appleinsider.com/articles/25/10/06/amazon-launches-799-macbook-air-m4-deal-for-fall-prime-day?utm_source=rss)<!-- TECH:END -->
+ - [Dune: Awakening developer Funcom is laying off staff and shutting down a studio](https://www.theverge.com/news/793011/funcom-dune-awakening-layoffs-metal-hellsinger-the-outsiders-shutdown)
+ - [As part of the OpenAI-AMD deal, OpenAI will receive the first GW worth of AMD&#39;s Instinct MI450 chip in H2 2026, when the new chip is scheduled for deployment &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251006/p23#a251006p23)
+ - [Google &amp; Amazon&#39;s smart home events on the HomeKit Insider Podcast](https://appleinsider.com/articles/25/10/06/google-amazons-smart-home-events-on-the-homekit-insider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
