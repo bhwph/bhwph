@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: xAI is set to spend $18B+ to acquire ~300K more Nvidia chips for its Colossus 2 project in Memphis; Elon Musk said in July it would have 550K chips &lpar;Alexander Saeedy/Wall Street Journal&rpar;](http://www.techmeme.com/251006/p12#a251006p12)
- - [I found an Android launcher that combines the best of Niagara and Nova Launcher](https://www.androidauthority.com/best-niagara-nova-launcher-alternative-3603238/)
- - [Vibe Coding Is the New Open Source—in the Worst Way Possible](https://www.wired.com/story/vibe-coding-is-the-new-open-source/)<!-- TECH:END -->
+ - [Fictional characters are &lpar;officially&rpar; coming to Sora as OpenAI manages copyright chaos](https://www.theverge.com/news/792661/sora-fictional-copyright-characters)
+ - [Verizon’s new promo uses AI to allegedly give you a better deal than T-Mobile or AT&amp;T](https://www.androidauthority.com/verizons-new-promo-ai-3604242/)
+ - [16 Best Camera Bags, Slings, Straps, and Backpacks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
