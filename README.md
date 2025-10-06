@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Japan’s concept keyboard is inspired by rotary phones](https://www.theverge.com/news/793136/google-japan-open-source-concept-dial-keyboard-rotary-phone)
- - [Ember Smart Mug 2 deal: Winter is coming, so don’t let your coffee get cold!](https://www.androidauthority.com/ember-smart-mug-2-deal-2-3604018/)
- - [SwitchBot’s new tracker could help save you from threats by sending you a ghost call](https://www.androidauthority.com/switchbot-safety-tracker-launch-3604459/)<!-- TECH:END -->
+ - [Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out](https://www.theverge.com/news/793073/chatgpt-pulse-no-plans-for-ads-sam-altman)
+ - [OpenAI unveils the Apps SDK, built on MPC, in preview to let developers build apps for ChatGPT, and says it will begin accepting app submissions later this year &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251006/p39#a251006p39)
+ - [OpenAI announces apps that work inside ChatGPT, starting with Booking.com, Canva, Coursera, Figma, Expedia, Spotify, and Zillow for users outside of the EU &lpar;OpenAI&rpar;](http://www.techmeme.com/251006/p38#a251006p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
