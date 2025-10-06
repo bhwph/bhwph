@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Monzo is considering a new application for a US banking license, hoping for approval amid Trump&#39;s deregulation push, after dropping a 2021 attempt &lpar;Laith Al-Khalaf/Financial Times&rpar;](http://www.techmeme.com/251005/p26#a251005p26)
- - [Best Bluetooth Speaker for 2025](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)
- - [A profile of EA CEO Andrew Wilson, who is expected to stay in the role, as Silver Lake&#39;s Egon Durban hails him for building EA&#39;s &quot;crown jewel&quot; sports business &lpar;Isabella Simonetti/Wall Street Journal&rpar;](http://www.techmeme.com/251005/p25#a251005p25)<!-- TECH:END -->
+ - [A book excerpt details the &quot;enshittification&quot; of Amazon, and how its &quot;flywheel&quot; technique now enriches the company at the expense of merchants &lpar;Cory Doctorow/The Guardian&rpar;](http://www.techmeme.com/251006/p5#a251006p5)
+ - [A look at cost and viability concerns over small nuclear reactors in the US, as the government, tech companies, and investors bet on SMRs to power the AI boom &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/251006/p4#a251006p4)
+ - [A profile of Riley Walz, whose tech-related pranks in San Francisco blend technical skill with social commentary, including a viral site to track parking police &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251006/p3#a251006p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
