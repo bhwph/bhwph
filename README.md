@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fictional characters are &lpar;officially&rpar; coming to Sora as OpenAI manages copyright chaos](https://www.theverge.com/news/792661/sora-fictional-copyright-characters)
- - [Verizon’s new promo uses AI to allegedly give you a better deal than T-Mobile or AT&amp;T](https://www.androidauthority.com/verizons-new-promo-ai-3604242/)
- - [16 Best Camera Bags, Slings, Straps, and Backpacks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/)<!-- TECH:END -->
+ - [Pixel fans are done forgiving Tensor’s underwhelming performance and efficiency](https://www.androidauthority.com/pixel-fans-are-done-forgiving-tensor-3604246/)
+ - [CBS News was just taken over by a Substack](https://www.theverge.com/news/792752/cbs-news-paramount-the-free-press-acquisition-bari-weiss)
+ - [Amazon launches $799 MacBook Air M4 deal for fall Prime Day](https://appleinsider.com/articles/25/10/06/amazon-launches-799-macbook-air-m4-deal-for-fall-prime-day?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
