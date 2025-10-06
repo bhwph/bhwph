@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for October 6 &lpar;#1570&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-6-2025/)
- - [With a final update, Paradox announces support for its Civ competitor Millennia has come to an end](https://www.pcgamer.com/games/strategy/with-a-final-update-paradox-announces-support-for-its-civ-competitor-millennia-has-come-to-an-end/)
- - [HP Just Cut Almost $2000 from Its EliteBook Laptop Packing Intel Core Ultra 7, 32GB DDR5 RAM, and 1TB SSD](https://kotaku.com/hp-just-cut-almost-2000-from-its-elitebook-laptop-packing-intel-core-ultra-7-32gb-ddr5-ram-and-1tb-ssd-2000631866)<!-- GAME:END -->
+ - [Guild Wars 2 exclusive: ArenaNet breaks down the changes coming to all 9 new elite specs in the next expansion](https://www.pcgamer.com/games/mmo/guild-wars-2-exclusive-arenanet-breaks-down-the-changes-coming-to-all-9-new-elite-specs-in-the-next-expansion/)
+ - [MMO players just don&#39;t want a rigid casual/hardcore divide anymore—and all the big games know it](https://www.pcgamer.com/games/mmo/mmo-players-just-dont-want-a-rigid-casual-hardcore-divide-anymore-and-all-the-big-games-know-it/)
+ - [Today&#39;s Wordle clues, hints and answer for October 6 &lpar;#1570&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-6-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
