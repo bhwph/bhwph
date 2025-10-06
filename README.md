@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
- - 😝 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
+ - 6️⃣ [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
+ - 😝 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
  - 👉 [How deep is your love](http://9gag.com/gag/aByNVXA)<!-- MEMES:END -->
 
 --- 
