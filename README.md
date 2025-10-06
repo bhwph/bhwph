@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI makes Codex generally available, and announces new features: Slack integration, a new Codex SDK, and new admin tools &lpar;OpenAI&rpar;](http://www.techmeme.com/251006/p32#a251006p32)
- - [OpenAI launches AgentKit, a toolkit for building and deploying AI agents, including Agent Builder, which Sam Altman described as like Canva for building agents &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251006/p31#a251006p31)
- - [OpenAI unveils a new feature in preview to let developers build apps that work directly inside ChatGPT, starting with Spotify, Figma, Expedia, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251006/p30#a251006p30)<!-- TECH:END -->
+ - [Google Japan’s concept keyboard is inspired by rotary phones](https://www.theverge.com/news/793136/google-japan-open-source-concept-dial-keyboard-rotary-phone)
+ - [Ember Smart Mug 2 deal: Winter is coming, so don’t let your coffee get cold!](https://www.androidauthority.com/ember-smart-mug-2-deal-2-3604018/)
+ - [SwitchBot’s new tracker could help save you from threats by sending you a ghost call](https://www.androidauthority.com/switchbot-safety-tracker-launch-3604459/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
