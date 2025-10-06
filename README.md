@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hilarious movie can&#39;t remember the name](http://9gag.com/gag/aGyN8Q7)
- - 😝 [Oh lawdy...](http://9gag.com/gag/aMVNm4X)
- - 👉 [I wonder why](http://9gag.com/gag/aAyNKdZ)<!-- MEMES:END -->
+ - 6️⃣ [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
+ - 😝 [Please don&#39;t](http://9gag.com/gag/ayNV4Vq)
+ - 👉 [Damned spawn campers](http://9gag.com/gag/avyX1jX)<!-- MEMES:END -->
 
 --- 
 
