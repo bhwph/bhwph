@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)
- - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
- - 👉 [Kaboom?](http://9gag.com/gag/a2vjDdp)<!-- MEMES:END -->
+ - 6️⃣ [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
+ - 😝 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)
+ - 👉 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)<!-- MEMES:END -->
 
 --- 
 
