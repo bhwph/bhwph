@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polars, the Amsterdam-based startup behind the popular open-source library for data manipulation of the same name, raised a €18M Series A led by Accel &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251005/p19#a251005p19)
- - [SiPearl unveils Athena1, Europe&#39;s first high-performance CPU with up to 80 cores designed for civilian and military use, slated for commercial launch in H2 2027 &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251005/p18#a251005p18)
- - [Jane Goodall’s death triggered the premiere of Netflix’s new show](https://www.theverge.com/news/792477/jane-goodall-netflix-famous-last-words)<!-- TECH:END -->
+ - [SoftBank Group consolidates 13 robotics-related companies from its main group and 7 from Vision Fund 2 into a new holding company called SoftBank Robotics Group &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251005/p23#a251005p23)
+ - [A big portion of EA&#39;s cash flow will go toward servicing the $20B debt from the $55B sale, which even the most bullish analysts expect will lead to big layoffs &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/251005/p22#a251005p22)
+ - [PitchBook: US VCs have invested ~$14.2B in European AI startups so far in 2025, with founders saying US investors better fit the sector&#39;s high upfront costs &lpar;Anvee Bhutani/Wall Street Journal&rpar;](http://www.techmeme.com/251005/p21#a251005p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
