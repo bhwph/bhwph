@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fall is here](http://9gag.com/gag/aD2NZdO)
- - 😝 [Because she doesnt have mental illness like erika ishi](http://9gag.com/gag/a1mq0Bb)
- - 👉 [Damned spawn campers](http://9gag.com/gag/avyX1jX)<!-- MEMES:END -->
+ - 6️⃣ [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
+ - 😝 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
+ - 👉 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)<!-- MEMES:END -->
 
 --- 
 
