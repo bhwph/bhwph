@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Modern problems require........](http://9gag.com/gag/an7W2W5)
- - 😝 [I wonder why](http://9gag.com/gag/aAyNKdZ)
- - 👉 [I have no idea what I&#39;m doing](http://9gag.com/gag/a2vj09d)<!-- MEMES:END -->
+ - 6️⃣ [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
+ - 😝 [Amusing Ourselves to Death is a great book if you ask me!](http://9gag.com/gag/aE0NVOe)
+ - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
 
 --- 
 
