@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Nintendo has not had any contact with the Japanese government about generative AI&#39;: Nintendo denies anti-AI lobbying rumors](https://www.pcgamer.com/software/ai/nintendo-has-not-had-any-contact-with-the-japanese-government-about-generative-ai-nintendo-denies-anti-ai-lobbying-rumors/)
- - [First US videogame champion, legendary programmer, and Interplay co-founder Rebecca Heineman is fundraising to deal with the costs of an aggressive cancer diagnosis](https://www.pcgamer.com/gaming-industry/first-us-videogame-champion-legendary-programmer-and-interplay-co-founder-rebecca-heineman-is-fundraising-to-deal-with-the-costs-of-an-aggressive-cancer-diagnosis/)
- - [Now Far Cheaper Than a Switch Game, This 15″ Portable Monitor Lets You Enjoy Big-Screen Play](https://kotaku.com/now-far-cheaper-than-a-switch-game-this-15-portable-monitor-lets-you-enjoy-big-screen-play-2000631855)<!-- GAME:END -->
+ - [HP Just Cut Almost $2000 from Its EliteBook Laptop Packing Intel Core Ultra 7, 32GB DDR5 RAM, and 1TB SSD](https://kotaku.com/hp-just-cut-almost-2000-from-its-elitebook-laptop-packing-intel-core-ultra-7-32gb-ddr5-ram-and-1tb-ssd-2000631866)
+ - [EcoFlow Delta 2 Power Station Is Now Selling for Pennies, With 1800W AC and 100W USB-C Ports](https://kotaku.com/ecoflow-delta-2-power-station-is-now-selling-for-pennies-with-1800w-ac-and-100w-usb-c-ports-2000631861)
+ - [The LEGO City Advent Calendar 2025 Sees a Third Price Cut, Now at Its Lowest Ever on Amazon](https://kotaku.com/the-lego-city-advent-calendar-2025-sees-a-third-price-cut-now-at-its-lowest-ever-on-amazon-2000631849)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
