@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dune: Awakening developer Funcom is laying off staff and shutting down a studio](https://www.theverge.com/news/793011/funcom-dune-awakening-layoffs-metal-hellsinger-the-outsiders-shutdown)
- - [As part of the OpenAI-AMD deal, OpenAI will receive the first GW worth of AMD&#39;s Instinct MI450 chip in H2 2026, when the new chip is scheduled for deployment &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251006/p23#a251006p23)
- - [Google &amp; Amazon&#39;s smart home events on the HomeKit Insider Podcast](https://appleinsider.com/articles/25/10/06/google-amazons-smart-home-events-on-the-homekit-insider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI makes Codex generally available, and announces new features: Slack integration, a new Codex SDK, and new admin tools &lpar;OpenAI&rpar;](http://www.techmeme.com/251006/p32#a251006p32)
+ - [OpenAI launches AgentKit, a toolkit for building and deploying AI agents, including Agent Builder, which Sam Altman described as like Canva for building agents &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251006/p31#a251006p31)
+ - [OpenAI unveils a new feature in preview to let developers build apps that work directly inside ChatGPT, starting with Spotify, Figma, Expedia, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251006/p30#a251006p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
