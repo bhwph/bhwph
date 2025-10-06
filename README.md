@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
- - 😝 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)
- - 👉 [How deep is your love](http://9gag.com/gag/aByNVXA)<!-- MEMES:END -->
+ - 6️⃣ [I did that](http://9gag.com/gag/amob6W4)
+ - 😝 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
+ - 👉 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)<!-- MEMES:END -->
 
 --- 
 
