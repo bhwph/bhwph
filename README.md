@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I did that](http://9gag.com/gag/amob6W4)
- - 😝 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
- - 👉 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)<!-- MEMES:END -->
+ - 6️⃣ [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)
+ - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
+ - 👉 [Kaboom?](http://9gag.com/gag/a2vjDdp)<!-- MEMES:END -->
 
 --- 
 
