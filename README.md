@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This 15″ FHD Portable Monitor Doubles Your Display Size, and It’s Now Going for Pennies on the Dollar for Prime Day](https://kotaku.com/this-15-fhd-portable-monitor-doubles-your-display-size-and-its-now-going-for-pennies-on-the-dollar-for-prime-day-2000631978)
- - [Amazon Kept Everyone Waiting, but the Echo Dot Is Now Almost Free for Prime Day](https://kotaku.com/amazon-kept-everyone-waiting-but-the-echo-dot-is-now-almost-free-for-prime-day-2000631968)
- - [Re-animator is still one of the best zombie B-movies ever made — and it&#39;s streaming for free](https://www.polygon.com/reanimator-streaming-online-free-october-2025/)<!-- GAME:END -->
+ - [Shark Wants to Crush the Competition, Selling Its AI Robot Vacuum at a Loss for Prime Day on Amazon](https://kotaku.com/shark-wants-to-crush-the-competition-selling-its-ai-robot-vacuum-at-a-loss-for-prime-day-on-amazon-2000631999)
+ - [25 years later, Digimon: The Movie still doesn&#39;t get the credit it deserves](https://www.polygon.com/digimon-the-movie-25-years-anniversary-anime-box-office/)
+ - [Amazon Drops LEGO Deals Big for Prime Day, Mini F1 Car Toys Now Selling for $3 Each](https://kotaku.com/amazon-drops-lego-deals-big-for-prime-day-mini-f1-car-toys-now-selling-for-3-each-2000632056)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
