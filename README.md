@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Your ‘WTF Happened?’ Guide To All Of Xbox’s Game Pass Changes](https://kotaku.com/xbox-game-pass-ultimate-price-hike-cod-2000632122)
- - [Nintendo sues Reddit mod for $4.5M, says it&#39;s &#39;nowhere near&#39; enough money](https://www.polygon.com/nintendo-reddit-mod-lawsuit-money-amount-piracy-nintendo-switch/)
- - [The best guns in the Black Ops 7 beta in early access](https://www.polygon.com/black-ops-7-bo7-best-guns-weapons-meta/)<!-- GAME:END -->
+ - [This 2025 iPad Is Now 3x Cheaper Than the iPad Pro, Amazon Clears Stock at a Record Low](https://kotaku.com/this-2025-ipad-is-now-3x-cheaper-than-the-ipad-pro-amazon-clears-stock-at-a-record-low-2000631789)
+ - [One Of My Most Anticipated Games Just Got Indefinitely Delayed](https://kotaku.com/shovel-knight-sequel-mina-hollower-delay-yacht-club-2000632148)
+ - [GoPro Is Going Wild for Prime Day, the HERO13 Black Is Practically Being Given Away on Amazon](https://kotaku.com/gopro-is-going-wild-for-prime-day-the-hero13-black-is-practically-being-given-away-on-amazon-2000632012)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
