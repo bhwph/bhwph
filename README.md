@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Samsung 990 EVO Plus 1TB SSD Prime Day Deal Feels Practically Free at $0.06 Per GB](https://kotaku.com/this-samsung-990-evo-plus-1tb-ssd-prime-day-deal-feels-practically-free-at-0-06-per-gb-2000631871)
- - [Ryzen 7 7800X3D Is Selling for Pennies, AMD Is Clearing Out Stock at an All‑Time Low](https://kotaku.com/ryzen-7-7800x3d-is-selling-for-pennies-amd-is-clearing-out-stock-at-an-all%e2%80%91time-low-2000632485)
- - [&#39;We give players what they want&#39;: Battlefield 6 devs sing the praises of Battlefield Labs and chatty players, &#39;We believe in the power of tapping into the community&#39;](https://www.pcgamer.com/games/fps/we-give-players-what-they-want-battlefield-6-devs-sing-the-praises-of-battlefield-labs-and-chatty-players-we-believe-in-the-power-of-tapping-into-the-community/)<!-- GAME:END -->
+ - [Nintendo Just Shared A 4-Minute Pixar-Like Animated Short With No Explanation](https://kotaku.com/nintendo-just-shared-a-4-minute-pixar-like-animated-short-with-no-explanation-2000632524)
+ - [Amazon Practically Gives Away TP-Link Dual-Band WiFi 7 Router at Lower Than Its Black Friday Price](https://kotaku.com/amazon-practically-gives-away-tp-link-wifi-7-router-at-lower-than-its-black-friday-price-2000632192)
+ - [Starfinder: Afterlight could become one of my favourite CRPGs—even if the studio&#39;s co-founders are &#39;more scared about huge success than a bit of failure&#39; when it comes to their big Kickstarter debut](https://www.pcgamer.com/games/rpg/starfinder-afterlight-could-become-one-of-my-favourite-crpgs-even-if-the-studios-co-founders-are-more-scared-about-huge-success-than-a-bit-of-failure-when-it-comes-to-their-big-kickstarter-debut/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
