@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out](https://www.theverge.com/news/793073/chatgpt-pulse-no-plans-for-ads-sam-altman)
- - [OpenAI unveils the Apps SDK, built on MPC, in preview to let developers build apps for ChatGPT, and says it will begin accepting app submissions later this year &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251006/p39#a251006p39)
- - [OpenAI announces apps that work inside ChatGPT, starting with Booking.com, Canva, Coursera, Figma, Expedia, Spotify, and Zillow for users outside of the EU &lpar;OpenAI&rpar;](http://www.techmeme.com/251006/p38#a251006p38)<!-- TECH:END -->
+ - [Jony Ive Says He Wants His OpenAI Devices to ‘Make Us Happy’](https://www.wired.com/story/sam-altman-and-jony-ives-ai-device-dev-day/)
+ - [Best Electric Toothbrushes You Can Buy in 2025, Tested by Experts](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
+ - [How to See the Spectacular Supermoon Dominate the Sky on Monday](https://www.cnet.com/science/space/how-to-see-the-spectacular-supermoon-dominate-the-sky-on-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
