@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EvenUp, which makes AI tools for personal injury law firms, raised a $150M Series E led by Bessemer at a $2B+ valuation, bringing its total funding to $385M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/251007/p13#a251007p13)
- - [Best Prime Day Beauty Deals 2025: Hair, Skin, and Deodorant](https://www.wired.com/story/prime-day-beauty-deals-october-2025/)
- - [Google hints at a new Nest Hub](https://www.theverge.com/news/794298/new-nest-hub-smart-display-google-home-coming-soon)<!-- TECH:END -->
+ - [The 166 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
+ - [Get to the point: Google Meet now lets you set meeting timers](https://www.androidauthority.com/google-meet-meeting-timers-3604967/)
+ - [Dreame goes big with Prime Big Deal Days Wet Dry Vacuum promotions](https://www.androidauthority.com/dreame-prime-big-deal-days-wet-dry-vacuum-3604934/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
