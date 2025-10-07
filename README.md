@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Evade codes for October 2025: Points and Badges](https://www.pcgamer.com/roblox/evade-codes/)
- - [Seagate 4TB Xbox Expansion Card Falls to All-Time Low, A Rare Deal That’s Better Value Than 2TB for Prime Day](https://kotaku.com/seagate-4tb-xbox-expansion-card-falls-to-all-time-low-a-rare-deal-thats-better-value-than-2tb-for-prime-day-2000631878)
- - [Black Ops 7 beta extended by 24 hours and new map added](https://www.polygon.com/black-ops-7-bo7-beta-extended-new-map/)<!-- GAME:END -->
+ - [This Samsung 990 EVO Plus 1TB SSD Prime Day Deal Feels Practically Free at $0.06 Per GB](https://kotaku.com/this-samsung-990-evo-plus-1tb-ssd-prime-day-deal-feels-practically-free-at-0-06-per-gb-2000631871)
+ - [Ryzen 7 7800X3D Is Selling for Pennies, AMD Is Clearing Out Stock at an All‑Time Low](https://kotaku.com/ryzen-7-7800x3d-is-selling-for-pennies-amd-is-clearing-out-stock-at-an-all%e2%80%91time-low-2000632485)
+ - [&#39;We give players what they want&#39;: Battlefield 6 devs sing the praises of Battlefield Labs and chatty players, &#39;We believe in the power of tapping into the community&#39;](https://www.pcgamer.com/games/fps/we-give-players-what-they-want-battlefield-6-devs-sing-the-praises-of-battlefield-labs-and-chatty-players-we-believe-in-the-power-of-tapping-into-the-community/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
