@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S23 series owners in the US are finally getting stable One UI 8](https://www.androidauthority.com/samsung-galaxy-s23-one-ui-8-usa-3604225/)
- - [You can now find your favorite tracks, create playlists on Spotify using ChatGPT](https://www.androidauthority.com/spotify-chatgpt-integration-3604692/)
- - [Google Messages will now ensure you don’t get unwillingly flashed in videos](https://www.androidauthority.com/google-messages-sensitive-nudity-content-warnings-videos-3604668/)<!-- TECH:END -->
+ - [151 Best Prime Day Deals 2025: Kindles, Apple Watch, Discounts](https://www.wired.com/story/prime-day-deals-october-2025/)
+ - [Save up to $150 on Apple Watch styles for Fall Prime Day, prices from $169](https://appleinsider.com/articles/25/10/07/save-up-to-150-on-apple-watch-styles-for-fall-prime-day-prices-from-169?utm_source=rss)
+ - [Expand your Apple smart home with up to 48% off Aqara gear for Amazon Prime Big Deal Days](https://appleinsider.com/articles/25/10/07/expand-your-apple-smart-home-with-up-to-48-off-aqara-gear-for-amazon-prime-big-deal-days?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
