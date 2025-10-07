@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fall is here](http://9gag.com/gag/aD2NZdO)
- - 😝 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
- - 👉 [No idea why\u2026](http://9gag.com/gag/a34p8nv)<!-- MEMES:END -->
+ - 6️⃣ [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 😝 [It&#39;s that easy to get a cell phone in India.](http://9gag.com/gag/a34pyj3)
+ - 👉 [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)<!-- MEMES:END -->
 
 --- 
 
