@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for October 7 &lpar;#1571&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-7-2025/)
- - [Alien Isolation is way too long because its Xenomorph got way too smart: &#39;At the time it didn&#39;t seem that long&#39;](https://www.pcgamer.com/games/horror/alien-isolation-is-way-too-long-because-its-xenomorph-got-way-too-smart-at-the-time-it-didnt-seem-that-long/)
- - [Co-op dino survival horror game Deathground prepares to launch with one final reminder that, no, &#39;you won&#39;t be able to play as a dinosaur&#39;](https://www.pcgamer.com/games/survival-crafting/co-op-dino-survival-horror-game-deathground-prepares-to-launch-with-one-final-reminder-that-no-you-wont-be-able-to-play-as-a-dinosaur/)<!-- GAME:END -->
+ - [All Evade codes for October 2025: Points and Badges](https://www.pcgamer.com/roblox/evade-codes/)
+ - [Seagate 4TB Xbox Expansion Card Falls to All-Time Low, A Rare Deal That’s Better Value Than 2TB for Prime Day](https://kotaku.com/seagate-4tb-xbox-expansion-card-falls-to-all-time-low-a-rare-deal-thats-better-value-than-2tb-for-prime-day-2000631878)
+ - [Black Ops 7 beta extended by 24 hours and new map added](https://www.polygon.com/black-ops-7-bo7-beta-extended-new-map/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
