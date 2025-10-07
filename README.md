@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [20 years ago, the first Wallace and Gromit movie almost changed Aardman for the worse](https://www.polygon.com/wallace-and-gromit-movie-changed-aardman-for-the-worse/)
- - [No Lower to Go, SteelSeries ANC Gaming Headset Crashes to Its Lowest Price After Multiple Drops on Amazon](https://kotaku.com/boost-sound-with-the-arctis-nova-pro-gaming-headset-for-less-2000632189)
- - [The Witcher season 4 trailer shows Geralt, Yennefer, and Ciri separated](https://www.polygon.com/the-witcher-season-4-trailer-2-geralt-ciri/)<!-- GAME:END -->
+ - [Jared Leto’s Tron: Ares Is Getting Demolished In Some Early Reviews](https://kotaku.com/tron-ares-reviews-rotten-tomatoes-jared-leto-fortnite-2000632606)
+ - [Daredevil Looks Cool Enough To Bring Me Back To Marvel Rivals](https://kotaku.com/marvel-rivals-daredevil-blindness-release-date-season-4-2000632614)
+ - [The Haunting returns to Call of Duty: Black Ops 6 and Warzone launching October 9](https://blog.playstation.com/2025/10/07/the-haunting-returns-to-call-of-duty-black-ops-6-and-warzone-launching-october-9/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
