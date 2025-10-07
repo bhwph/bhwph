@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - 😝 [It&#39;s that easy to get a cell phone in India.](http://9gag.com/gag/a34pyj3)
- - 👉 [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)<!-- MEMES:END -->
+ - 6️⃣ [I want to play a game](http://9gag.com/gag/ae9PVqv)
+ - 😝 [And that&#39;s how I met your mother](http://9gag.com/gag/aYQnqYV)
+ - 👉 [Should You Be Afraid of a Halloween Heart Attack?](http://9gag.com/gag/aVv1Lrd)<!-- MEMES:END -->
 
 --- 
 
