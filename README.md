@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 166 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
- - [Get to the point: Google Meet now lets you set meeting timers](https://www.androidauthority.com/google-meet-meeting-timers-3604967/)
- - [Dreame goes big with Prime Big Deal Days Wet Dry Vacuum promotions](https://www.androidauthority.com/dreame-prime-big-deal-days-wet-dry-vacuum-3604934/)<!-- TECH:END -->
+ - [The Best Prime Day Apple Deals, From Watches to iPads &lpar;2025&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-oct-2025/)
+ - [The 171 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
+ - [The Best Prime Day Vacuum Deals &lpar;2025&rpar;: Dyson, Bissell, Black + Decker](https://www.wired.com/story/prime-day-vacuum-deals-october-2025/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
