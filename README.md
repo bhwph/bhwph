@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jared Leto’s Tron: Ares Is Getting Demolished In Some Early Reviews](https://kotaku.com/tron-ares-reviews-rotten-tomatoes-jared-leto-fortnite-2000632606)
- - [Daredevil Looks Cool Enough To Bring Me Back To Marvel Rivals](https://kotaku.com/marvel-rivals-daredevil-blindness-release-date-season-4-2000632614)
- - [The Haunting returns to Call of Duty: Black Ops 6 and Warzone launching October 9](https://blog.playstation.com/2025/10/07/the-haunting-returns-to-call-of-duty-black-ops-6-and-warzone-launching-october-9/)<!-- GAME:END -->
+ - [Game Pass subscribers &#39;in certain countries&#39; will not be affected by the price increase, at least &#39;for now,&#39; because sometimes government regulation is actually a good thing](https://www.pcgamer.com/games/game-pass-subscribers-in-certain-countries-will-not-be-affected-by-the-price-increase-at-least-for-now-because-sometimes-government-regulation-is-actually-a-good-thing/)
+ - [Critical Role fans are ready for the big live wedding event](https://www.polygon.com/video/critical-role-jester-fjord-wedding-gifts/)
+ - [Baldur’s Gate 3 Dev Calls Out Elon Musk’s AI Game Promise](https://kotaku.com/baldurs-gate-3-larian-studios-elon-musk-ai-xai-douse-2000632638)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
