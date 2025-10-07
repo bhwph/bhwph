@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for October 7 &lpar;#1571&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-7-2025/)
  - [Alien Isolation is way too long because its Xenomorph got way too smart: &#39;At the time it didn&#39;t seem that long&#39;](https://www.pcgamer.com/games/horror/alien-isolation-is-way-too-long-because-its-xenomorph-got-way-too-smart-at-the-time-it-didnt-seem-that-long/)
- - [Amazon Clears Out Govee Smart Lamp Stock, Now Selling for Less Than a Basic Floor Lamp](https://kotaku.com/amazon-clears-out-govee-smart-lamp-stock-now-selling-for-less-than-a-basic-floor-lamp-2000632160)
- - [The 22,000 Pa Roborock With Mop Delivers Luxury Cleaning Power, Now at Its Lowest Price for Prime Members.](https://kotaku.com/the-22000-pa-roborock-with-mop-delivers-luxury-cleaning-power-now-at-its-lowest-price-for-prime-members-2000632151)<!-- GAME:END -->
+ - [Amazon Clears Out Govee Smart Lamp Stock, Now Selling for Less Than a Basic Floor Lamp](https://kotaku.com/amazon-clears-out-govee-smart-lamp-stock-now-selling-for-less-than-a-basic-floor-lamp-2000632160)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
