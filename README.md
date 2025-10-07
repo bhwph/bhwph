@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 180 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
- - [Sources: NYSE owner Intercontinental Exchange is in talks to invest $2B in Polymarket in a deal that could value it at between $8B and $10B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251007/p5#a251007p5)
- - [The World&#39;s Best Air Fryer Is 40 Percent Off](https://www.wired.com/story/typhur-dome-2-october-2025-prime-day-deal/)<!-- TECH:END -->
+ - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+ - [The 9 best October Prime Day deals on smart home products](https://www.androidauthority.com/amazon-prime-day-october-2025-smart-home-tools-3604559/)
+ - [The best Apple deals available during Amazon’s fall Prime Day event](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
