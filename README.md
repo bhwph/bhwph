@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [151 Best Prime Day Deals 2025: Kindles, Apple Watch, Discounts](https://www.wired.com/story/prime-day-deals-october-2025/)
- - [Save up to $150 on Apple Watch styles for Fall Prime Day, prices from $169](https://appleinsider.com/articles/25/10/07/save-up-to-150-on-apple-watch-styles-for-fall-prime-day-prices-from-169?utm_source=rss)
- - [Expand your Apple smart home with up to 48% off Aqara gear for Amazon Prime Big Deal Days](https://appleinsider.com/articles/25/10/07/expand-your-apple-smart-home-with-up-to-48-off-aqara-gear-for-amazon-prime-big-deal-days?utm_source=rss)<!-- TECH:END -->
+ - [The 180 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
+ - [Sources: NYSE owner Intercontinental Exchange is in talks to invest $2B in Polymarket in a deal that could value it at between $8B and $10B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251007/p5#a251007p5)
+ - [The World&#39;s Best Air Fryer Is 40 Percent Off](https://www.wired.com/story/typhur-dome-2-october-2025-prime-day-deal/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
