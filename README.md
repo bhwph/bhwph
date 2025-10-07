@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Just Shared A 4-Minute Pixar-Like Animated Short With No Explanation](https://kotaku.com/nintendo-just-shared-a-4-minute-pixar-like-animated-short-with-no-explanation-2000632524)
- - [Amazon Practically Gives Away TP-Link Dual-Band WiFi 7 Router at Lower Than Its Black Friday Price](https://kotaku.com/amazon-practically-gives-away-tp-link-wifi-7-router-at-lower-than-its-black-friday-price-2000632192)
- - [Starfinder: Afterlight could become one of my favourite CRPGs—even if the studio&#39;s co-founders are &#39;more scared about huge success than a bit of failure&#39; when it comes to their big Kickstarter debut](https://www.pcgamer.com/games/rpg/starfinder-afterlight-could-become-one-of-my-favourite-crpgs-even-if-the-studios-co-founders-are-more-scared-about-huge-success-than-a-bit-of-failure-when-it-comes-to-their-big-kickstarter-debut/)<!-- GAME:END -->
+ - [20 years ago, the first Wallace and Gromit movie almost changed Aardman for the worse](https://www.polygon.com/wallace-and-gromit-movie-changed-aardman-for-the-worse/)
+ - [No Lower to Go, SteelSeries ANC Gaming Headset Crashes to Its Lowest Price After Multiple Drops on Amazon](https://kotaku.com/boost-sound-with-the-arctis-nova-pro-gaming-headset-for-less-2000632189)
+ - [The Witcher season 4 trailer shows Geralt, Yennefer, and Ciri separated](https://www.polygon.com/the-witcher-season-4-trailer-2-geralt-ciri/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
