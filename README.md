@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google releases the Gemini 2.5 Computer Use model, built on Gemini 2.5 Pro&#39;s capabilities to power agents that can interact with UIs, in preview via the API &lpar;The Keyword&rpar;](http://www.techmeme.com/251007/p28#a251007p28)
- - [6 Best Dehumidifiers for Cool and Dry Home Air &lpar;2025&rpar;](https://www.wired.com/gallery/best-dehumidifier/)
- - [Anthropic releases Petri, an open-source tool using AI agents for safety testing, and says it observed multiple cases of models attempting to blow the whistle &lpar;Anthropic&rpar;](http://www.techmeme.com/251007/p27#a251007p27)<!-- TECH:END -->
+ - [Best Amazon Prime Day Kindle Deals &lpar;October 2025&rpar;: Colorsoft, Scribe, Paperwhite](https://www.wired.com/story/amazon-prime-day-kindle-deals-october-2025/)
+ - [Sources: New Jersey&#39;s AG is investigating the frequency of sexual violence during Uber rides and whether Uber has misrepresented the safety of its service &lpar;Emily Steel/New York Times&rpar;](http://www.techmeme.com/251007/p30#a251007p30)
+ - [The 190 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
