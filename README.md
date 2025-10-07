@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My nightmares be like](http://9gag.com/gag/aryrZbV)
- - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
- - 👉 [No idea why\u2026](http://9gag.com/gag/a34p8nv)<!-- MEMES:END -->
+ - 6️⃣ [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 😝 [Sharing old coupon for new veterans... Still valid.](http://9gag.com/gag/a7o6V6x)
+ - 👉 [Good &#39;ol Tesla. The cameras see everything.](http://9gag.com/gag/a9yN2yD)<!-- MEMES:END -->
 
 --- 
 
