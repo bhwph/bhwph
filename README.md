@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This 2025 iPad Is Now 3x Cheaper Than the iPad Pro, Amazon Clears Stock at a Record Low](https://kotaku.com/this-2025-ipad-is-now-3x-cheaper-than-the-ipad-pro-amazon-clears-stock-at-a-record-low-2000631789)
- - [One Of My Most Anticipated Games Just Got Indefinitely Delayed](https://kotaku.com/shovel-knight-sequel-mina-hollower-delay-yacht-club-2000632148)
- - [GoPro Is Going Wild for Prime Day, the HERO13 Black Is Practically Being Given Away on Amazon](https://kotaku.com/gopro-is-going-wild-for-prime-day-the-hero13-black-is-practically-being-given-away-on-amazon-2000632012)<!-- GAME:END -->
+ - [Amazon Clears Out Govee Smart Lamp Stock, Now Selling for Less Than a Basic Floor Lamp](https://kotaku.com/amazon-clears-out-govee-smart-lamp-stock-now-selling-for-less-than-a-basic-floor-lamp-2000632160)
+ - [The 22,000 Pa Roborock With Mop Delivers Luxury Cleaning Power, Now at Its Lowest Price for Prime Members.](https://kotaku.com/the-22000-pa-roborock-with-mop-delivers-luxury-cleaning-power-now-at-its-lowest-price-for-prime-members-2000632151)
+ - [Co-op dino survival horror game Deathground prepares to launch with one final reminder that, no, &#39;you won&#39;t be able to play as a dinosaur&#39;](https://www.pcgamer.com/games/survival-crafting/co-op-dino-survival-horror-game-deathground-prepares-to-launch-with-one-final-reminder-that-no-you-wont-be-able-to-play-as-a-dinosaur/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
