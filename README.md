@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10 is going viral for struggling with a major Android game &lpar;Updated: Google statement&rpar;](https://www.androidauthority.com/pixel-10-genshin-impact-gpu-problem-3604104/)
- - [First they took our chargers, now our cables are next: Are phone makers going too far?](https://www.androidauthority.com/smartphone-boxes-removing-usb-cables-survey-3604626/)
- - [MrBeast, who earned an estimated $85M in 2025, says AI-generated videos could threaten creators&#39; livelihoods, calling it &quot;scary times&quot; for the industry &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251006/p44#a251006p44)<!-- TECH:END -->
+ - [Galaxy S23 series owners in the US are finally getting stable One UI 8](https://www.androidauthority.com/samsung-galaxy-s23-one-ui-8-usa-3604225/)
+ - [You can now find your favorite tracks, create playlists on Spotify using ChatGPT](https://www.androidauthority.com/spotify-chatgpt-integration-3604692/)
+ - [Google Messages will now ensure you don’t get unwillingly flashed in videos](https://www.androidauthority.com/google-messages-sensitive-nudity-content-warnings-videos-3604668/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
