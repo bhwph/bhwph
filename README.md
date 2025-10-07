@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How deep is your love](http://9gag.com/gag/aByNVXA)
- - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
+ - 6️⃣ [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)
+ - 😝 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
+ - 👉 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)<!-- MEMES:END -->
 
 --- 
 
