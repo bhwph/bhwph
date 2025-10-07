@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [The 9 best October Prime Day deals on smart home products](https://www.androidauthority.com/amazon-prime-day-october-2025-smart-home-tools-3604559/)
- - [The best Apple deals available during Amazon’s fall Prime Day event](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)<!-- TECH:END -->
+ - [EvenUp, which makes AI tools for personal injury law firms, raised a $150M Series E led by Bessemer at a $2B+ valuation, bringing its total funding to $385M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/251007/p13#a251007p13)
+ - [Best Prime Day Beauty Deals 2025: Hair, Skin, and Deodorant](https://www.wired.com/story/prime-day-beauty-deals-october-2025/)
+ - [Google hints at a new Nest Hub](https://www.theverge.com/news/794298/new-nest-hub-smart-display-google-home-coming-soon)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
