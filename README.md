@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No idea why\u2026](http://9gag.com/gag/a34p8nv)
- - 😝 [My nightmares be like](http://9gag.com/gag/aryrZbV)
- - 👉 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)<!-- MEMES:END -->
+ - 6️⃣ [\u201cI&#39;m afraid.\u201d\u00a0](http://9gag.com/gag/agmZxZ1)
+ - 😝 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
+ - 👉 [They are GM for the reason](http://9gag.com/gag/abAmx3B)<!-- MEMES:END -->
 
 --- 
 
