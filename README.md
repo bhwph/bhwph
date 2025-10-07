@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Pass subscribers &#39;in certain countries&#39; will not be affected by the price increase, at least &#39;for now,&#39; because sometimes government regulation is actually a good thing](https://www.pcgamer.com/games/game-pass-subscribers-in-certain-countries-will-not-be-affected-by-the-price-increase-at-least-for-now-because-sometimes-government-regulation-is-actually-a-good-thing/)
- - [Critical Role fans are ready for the big live wedding event](https://www.polygon.com/video/critical-role-jester-fjord-wedding-gifts/)
- - [Baldur’s Gate 3 Dev Calls Out Elon Musk’s AI Game Promise](https://kotaku.com/baldurs-gate-3-larian-studios-elon-musk-ai-xai-douse-2000632638)<!-- GAME:END -->
+ - [Today&#39;s Steam outage may have been part of a massive DDoS attack targeting Xbox, PlayStation, Riot, and other game companies](https://www.pcgamer.com/games/todays-steam-outage-may-have-been-part-of-a-massive-ddos-attack-targeting-xbox-playstation-riot-and-other-game-companies/)
+ - [The RTX 5080 MSI Vector 16 has dropped by $200, so it&#39;s time for me to tap the &#39;it&#39;s a really good gaming laptop&#39; sign once more](https://www.pcgamer.com/hardware/gaming-laptops/the-rtx-5080-msi-vector-16-has-dropped-by-usd200-so-its-time-for-me-to-tap-the-its-a-really-good-gaming-laptop-sign-once-more/)
+ - [Battlefield 6 dev says its destruction tech is so delicious for one simple reason: &#39;The only magic trick is that we&#39;re not on the PS4 or Xbox One any more&#39;](https://www.pcgamer.com/games/fps/battlefield-6-dev-says-its-destruction-tech-is-so-delicious-for-one-simple-reason-the-only-magic-trick-is-that-were-not-on-the-ps4-or-xbox-one-any-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
