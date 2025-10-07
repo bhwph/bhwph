@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
- - 😝 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
- - 👉 [My nightmares be like](http://9gag.com/gag/aryrZbV)<!-- MEMES:END -->
+ - 6️⃣ [Fall is here](http://9gag.com/gag/aD2NZdO)
+ - 😝 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
+ - 👉 [No idea why\u2026](http://9gag.com/gag/a34p8nv)<!-- MEMES:END -->
 
 --- 
 
