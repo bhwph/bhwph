@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)
- - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - 👉 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)<!-- MEMES:END -->
+ - 6️⃣ [No idea why\u2026](http://9gag.com/gag/a34p8nv)
+ - 😝 [My nightmares be like](http://9gag.com/gag/aryrZbV)
+ - 👉 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)<!-- MEMES:END -->
 
 --- 
 
