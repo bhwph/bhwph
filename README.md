@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
- - 😝 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)
- - 👉 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)<!-- MEMES:END -->
+ - 6️⃣ [How deep is your love](http://9gag.com/gag/aByNVXA)
+ - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
 
 --- 
 
