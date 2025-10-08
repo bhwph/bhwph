@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A short and witty title does the trick](http://9gag.com/gag/aO8N9Wv)
- - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - 👉 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)<!-- MEMES:END -->
+ - 6️⃣ [I want to play a game](http://9gag.com/gag/ae9PVqv)
+ - 😝 [Should You Be Afraid of a Halloween Heart Attack?](http://9gag.com/gag/aVv1Lrd)
+ - 👉 [Works better than pills and no side effects haha](http://9gag.com/gag/aqypWev)<!-- MEMES:END -->
 
 --- 
 
