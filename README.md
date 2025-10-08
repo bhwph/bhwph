@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany&#39;s Federal Cartel Office opens an investigation into whether Temu is influencing the pricing of third-party merchants, potentially stifling competition &lpar;Mark Hallam/DW News&rpar;](http://www.techmeme.com/251008/p32#a251008p32)
- - [You can still save up to 70 percent on headphones from Bose and Sony today](https://www.theverge.com/tech/790242/amazon-october-prime-day-best-headphone-earbud-deals-2025)
- - [OnePlus 13R drops to $499.99, treating you to a $100 Prime saving](https://www.androidauthority.com/oneplus-13r-prime-day-3605358/)<!-- TECH:END -->
+ - [Discord support was breached, and accounts vary on how bad it was](https://appleinsider.com/articles/25/10/08/discord-support-was-breached-and-accounts-vary-on-how-bad-it-was?utm_source=rss)
+ - [The best October Prime Day deals at Walmart](https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025)
+ - [New York-based Crosby, a law firm that uses AI to help speed up the contracts process, raised a $20M Series A co-led by Index Ventures, BCV, and Elad Gil &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/251008/p37#a251008p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
