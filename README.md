@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oddly satisfying](http://9gag.com/gag/aAyNXP0)
- - 😝 [Works better than pills and no side effects haha](http://9gag.com/gag/aqypWev)
- - 👉 [Do they actually think it through?](https://www.reddit.com/r/funny/comments/1o16je0/do_they_actually_think_it_through/)<!-- MEMES:END -->
+ - 6️⃣ [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
+ - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 👉 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)<!-- MEMES:END -->
 
 --- 
 
