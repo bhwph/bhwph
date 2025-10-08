@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 207 best October Prime Day deals](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)
- - [German officials say they will vote against the EU&#39;s &quot;Chat Control&quot; proposals, signaling the bloc will not have enough support ahead of an October 14 vote &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251008/p28#a251008p28)
- - [Synology caves &amp; allows all hard drives in 2025 NAS range - for now](https://appleinsider.com/articles/25/10/08/synology-caves-allows-all-hard-drives-in-2025-nas-range---for-now?utm_source=rss)<!-- TECH:END -->
+ - [Germany&#39;s Federal Cartel Office opens an investigation into whether Temu is influencing the pricing of third-party merchants, potentially stifling competition &lpar;Mark Hallam/DW News&rpar;](http://www.techmeme.com/251008/p32#a251008p32)
+ - [You can still save up to 70 percent on headphones from Bose and Sony today](https://www.theverge.com/tech/790242/amazon-october-prime-day-best-headphone-earbud-deals-2025)
+ - [OnePlus 13R drops to $499.99, treating you to a $100 Prime saving](https://www.androidauthority.com/oneplus-13r-prime-day-3605358/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
