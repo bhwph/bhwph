@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I want to play a game](http://9gag.com/gag/ae9PVqv)
- - 😝 [And that&#39;s how I met your mother](http://9gag.com/gag/aYQnqYV)
- - 👉 [Should You Be Afraid of a Halloween Heart Attack?](http://9gag.com/gag/aVv1Lrd)<!-- MEMES:END -->
+ - 6️⃣ [A short and witty title does the trick](http://9gag.com/gag/aO8N9Wv)
+ - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 👉 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)<!-- MEMES:END -->
 
 --- 
 
