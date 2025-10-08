@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Roborock Saros 10R $1,600 Robot Vacuum Is Now Selling for Peanuts, Amazon Is Quietly Clearing Out All Its Stock](https://kotaku.com/roborock-saros-10r-1600-robot-vacuum-is-now-selling-for-peanuts-amazon-is-quietly-clearing-out-all-its-stock-2000633116)
- - [Battlefield 6&#39;s lead oozes confidence by confirming that the servers &#39;should be&#39; ready for its release on Friday, breaking a cycle of awful Battlefield launches](https://www.pcgamer.com/games/fps/battlefield-6s-lead-oozes-confidence-by-confirming-that-the-servers-should-be-ready-for-its-release-on-friday-breaking-a-cycle-of-awful-battlefield-launches/)
- - [What cosplayers love about the Critical Role community](https://www.polygon.com/video/cosplay-critical-role-community/)<!-- GAME:END -->
+ - [LEGO’s Final Prime Day Generosity, Star Wars Ahsoka Ghost and Phantom II Spaceship Hits Lowest Price](https://kotaku.com/lego-star-wars-set-of-the-ghost-and-phantom-ii-from-ahsoka-dropped-by-nearly-50-2000632619)
+ - [Jackery Explorer 1500W Generator Is Now 60% Off, Amazon Is Clearing Out Stock Just Before Winter](https://kotaku.com/jackery-explorer-1500w-generator-is-now-60-off-amazon-is-clearing-out-stock-just-before-winter-2000633138)
+ - [Absolum interview: How the beat &#39;em up&#39;s developers created four fabulous characters](https://www.pcgamer.com/games/action/absolum-interview-how-the-beat-em-ups-developers-created-four-fabulous-characters/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
