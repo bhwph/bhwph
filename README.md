@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank Group agrees to acquire ABB&#39;s robotics business, which generated sales of $2.3B last year, for $5.38B in a deal expected to close in mid-to-late 2026 &lpar;John Revill/Reuters&rpar;](http://www.techmeme.com/251008/p9#a251008p9)
- - [The recent wave of circular deals and partnerships involving Nvidia and OpenAI is escalating concerns that they are artificially propping up the $1T+ AI market &lpar;Bloomberg&rpar;](http://www.techmeme.com/251008/p8#a251008p8)
- - [Sources: top Chinese VCs are close to raising up to $1.1B in total USD-denominated funds in 2025, marking a tentative return of global capital to Chinese tech &lpar;Financial Times&rpar;](http://www.techmeme.com/251008/p7#a251008p7)<!-- TECH:END -->
+ - [We Found the 267 Best Prime Day Deals of 2025: Up To 55% Off](https://www.wired.com/story/prime-day-deals-october-2025-1/)
+ - [An interview with Evan Prodromou, &quot;inventor of the Fediverse&quot;, on ActivityPub&#39;s origins, Mastodon&#39;s privacy focus, expanding beyond microblogging, and more &lpar;Matthias Pfefferle/Open Channels FM&rpar;](http://www.techmeme.com/251008/p12#a251008p12)
+ - [Your HSA or FSA Might Pay for Your New Smart Ring. Just Follow These Steps](https://www.cnet.com/health/medical/hsa-fsa-might-pay-new-smart-ring-follow-these-steps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
