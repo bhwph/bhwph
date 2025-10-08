@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Steam outage may have been part of a massive DDoS attack targeting Xbox, PlayStation, Riot, and other game companies](https://www.pcgamer.com/games/todays-steam-outage-may-have-been-part-of-a-massive-ddos-attack-targeting-xbox-playstation-riot-and-other-game-companies/)
- - [The RTX 5080 MSI Vector 16 has dropped by $200, so it&#39;s time for me to tap the &#39;it&#39;s a really good gaming laptop&#39; sign once more](https://www.pcgamer.com/hardware/gaming-laptops/the-rtx-5080-msi-vector-16-has-dropped-by-usd200-so-its-time-for-me-to-tap-the-its-a-really-good-gaming-laptop-sign-once-more/)
- - [Battlefield 6 dev says its destruction tech is so delicious for one simple reason: &#39;The only magic trick is that we&#39;re not on the PS4 or Xbox One any more&#39;](https://www.pcgamer.com/games/fps/battlefield-6-dev-says-its-destruction-tech-is-so-delicious-for-one-simple-reason-the-only-magic-trick-is-that-were-not-on-the-ps4-or-xbox-one-any-more/)<!-- GAME:END -->
+ - [What’s With This New KPop Demon Hunters Song On Spotify?](https://kotaku.com/kpop-demon-hunters-huntrix-spotify-new-song-mazatlan-by-night-2000632680)
+ - [Player’s Choice promotion comes to PlayStation Store Oct 8](https://blog.playstation.com/2025/10/07/players-choice-promotion-comes-to-playstation-store-oct-8/)
+ - [Player’s Choice promotion comes to PlayStation Store Oct 8](https://blog.playstation.com/2025/10/07/players-choice-promotion-comes-to-playstation-store-oct-8/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
