@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Is Doja Cat really beefing with Fortnite right now?](https://www.polygon.com/doja-cat-fortnite-fortnitemares-event-tweet-deleted-rose-toy/)
- - [The cast of Tron: Ares has a deathwish](https://www.polygon.com/video/tron-ares-what-video-game/)
- - [As Rainbow Six Siege X numbers continue to slide, Ubisoft promises to crack down on cheaters and &#39;prioritize a fun experience&#39; with future balance changes](https://www.pcgamer.com/games/fps/as-rainbow-six-siege-x-numbers-continue-to-slide-ubisoft-promises-to-crack-down-on-cheaters-and-prioritize-a-fun-experience-with-future-balance-changes/)<!-- GAME:END -->
+ - [Skate’s Charging $35 For A Dead Space Skin That Looks Like A Bad Cosplay Made Outta Junk From Home Depot](https://kotaku.com/ea-skate-dead-space-skin-season-rewards-2000633352)
+ - [Doja Cat Denies Responsibility For Deleted Fortnite Post About Sex Toys, Calls It ‘Cringe’](https://kotaku.com/doja-cat-fortnite-sex-toy-deleted-skin-halloween-2025-2000633338)
+ - [Can you ID these videogames just from their food? Take our latest, tastiest quiz!](https://www.pcgamer.com/games/can-you-id-these-videogames-just-from-their-food-take-our-latest-tastiest-quiz/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
