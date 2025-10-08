@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [For the Closing Hours of Prime Day, Amazon Sells Pokemon Card Packs for Just $0.10](https://kotaku.com/for-the-closing-hours-of-prime-day-amazon-sells-pokemon-card-packs-for-just-0-10-2000633099)
- - [Today&#39;s Wordle clues, hints and answer for October 8 &lpar;#1572&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-8-2025/)
- - [What’s With This New KPop Demon Hunters Song On Spotify?](https://kotaku.com/kpop-demon-hunters-huntrix-spotify-new-song-mazatlan-by-night-2000632680)<!-- GAME:END -->
+ - [Roborock Saros 10R $1,600 Robot Vacuum Is Now Selling for Peanuts, Amazon Is Quietly Clearing Out All Its Stock](https://kotaku.com/roborock-saros-10r-1600-robot-vacuum-is-now-selling-for-peanuts-amazon-is-quietly-clearing-out-all-its-stock-2000633116)
+ - [Battlefield 6&#39;s lead oozes confidence by confirming that the servers &#39;should be&#39; ready for its release on Friday, breaking a cycle of awful Battlefield launches](https://www.pcgamer.com/games/fps/battlefield-6s-lead-oozes-confidence-by-confirming-that-the-servers-should-be-ready-for-its-release-on-friday-breaking-a-cycle-of-awful-battlefield-launches/)
+ - [What cosplayers love about the Critical Role community](https://www.polygon.com/video/cosplay-critical-role-community/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
