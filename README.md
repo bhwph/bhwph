@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google finally breaks silence on new Nest Hubs, and it’s more of a slow burn than a comeback](https://www.androidauthority.com/google-new-nest-hub-3605188/)
- - [You can score up to $750 off robovacs from iRobot, Dreame, and Eufy right now](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025)
- - [The 26 best fall Prime Day deals on AirPods, iPads, and other Apple gear](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)<!-- TECH:END -->
+ - [The 207 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
+ - [October Pixel update isn’t here yet, but Verizon just spilled the details](https://www.androidauthority.com/pixel-october-update-verizon-3605196/)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Oct. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-oct-8/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
