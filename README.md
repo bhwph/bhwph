@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos Beam Gen 2 gets a rare 26% price cut until midnight](https://www.androidauthority.com/sonos-beam-gen-2-prime-day-3605474/)
- - [October 2025 Pixel updates start heading out, including fix for Pixel 10 display glitches](https://www.androidauthority.com/october-2025-pixel-update-3605572/)
- - [The Petkit Eversweet Max 2 Is $23 Off Right Now](https://www.wired.com/story/petkit-eversweet-max-prime-big-deal-day-deal/)<!-- TECH:END -->
+ - [Google says it won’t fix Gemini security flaw that could send your sensitive info to a stranger](https://www.androidauthority.com/google-gemini-ascii-security-flaw-3605599/)
+ - [We found 30-odd October Prime Day deals we love for $100 or less](https://www.theverge.com/tech/795989/amazon-october-prime-day-best-cheap-tech-deals-under-100-2025)
+ - [The 222 best October Prime Day deals](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
