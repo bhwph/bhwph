@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Game Pass Ultimate Just Got Cheaper, Amazon Quietly Sells Digital Codes for Prime Day](https://kotaku.com/xbox-game-pass-ultimate-just-got-cheaper-amazon-quietly-sells-digital-codes-for-prime-day-2000633171)
- - [Superman&#39;s Scott Pilgrim trailer remix video deserves to be a full movie](https://www.polygon.com/superman-scott-pilgrim-reedit-trailer/)
- - [Peacemaker season 2 has an important message for Trump supporters who sound too mad to hear it](https://www.polygon.com/peacemaker-nazis-op-ed/)<!-- GAME:END -->
+ - [Game Pass Adds The Grinch: Christmas Adventures After Big Price Hike](https://kotaku.com/game-pass-october-2025-ninja-gaiden-grinch-price-2000633269)
+ - [LG Has Clearance Vibes as 27″ UltraGear Gaming Monitor Hits Its Cheapest Ever to Compete With Samsung Deals](https://kotaku.com/lg-has-clearance-vibes-as-27%e2%80%b3-ultragear-gaming-monitor-hits-its-cheapest-ever-to-compete-with-samsung-deals-2000632186)
+ - [Ghost of Yotei&#39;s bamboo strikes feature an audience of baby foxes](https://www.polygon.com/ghost-yotei-bamboo-strike-baby-foxes-awwww/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
