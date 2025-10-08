@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We Found the 267 Best Prime Day Deals of 2025: Up To 55% Off](https://www.wired.com/story/prime-day-deals-october-2025-1/)
- - [An interview with Evan Prodromou, &quot;inventor of the Fediverse&quot;, on ActivityPub&#39;s origins, Mastodon&#39;s privacy focus, expanding beyond microblogging, and more &lpar;Matthias Pfefferle/Open Channels FM&rpar;](http://www.techmeme.com/251008/p12#a251008p12)
- - [Your HSA or FSA Might Pay for Your New Smart Ring. Just Follow These Steps](https://www.cnet.com/health/medical/hsa-fsa-might-pay-new-smart-ring-follow-these-steps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Russian-speaking ransomware gang Qilin says it was responsible for an attack on Japan&#39;s Asahi and stole ~27GB of data, including financial docs and contracts &lpar;Bloomberg&rpar;](http://www.techmeme.com/251008/p16#a251008p16)
+ - [It&#39;s Prime Day, and WIRED is Live-Blogging The Best and Worst Of It](https://www.wired.com/live/amazon-prime-day-deals-october-25/)
+ - [Microsoft delays Xbox Game Pass Ultimate price hikes for existing subscribers in Germany, Ireland, South Korea, India, and others, after announcing a 50% hike &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251008/p15#a251008p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
