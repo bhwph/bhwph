@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
- - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 6️⃣ [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)
+ - 😝 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
  - 👉 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)<!-- MEMES:END -->
 
 --- 
