@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russian-speaking ransomware gang Qilin says it was responsible for an attack on Japan&#39;s Asahi and stole ~27GB of data, including financial docs and contracts &lpar;Bloomberg&rpar;](http://www.techmeme.com/251008/p16#a251008p16)
- - [It&#39;s Prime Day, and WIRED is Live-Blogging The Best and Worst Of It](https://www.wired.com/live/amazon-prime-day-deals-october-25/)
- - [Microsoft delays Xbox Game Pass Ultimate price hikes for existing subscribers in Germany, Ireland, South Korea, India, and others, after announcing a 50% hike &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251008/p15#a251008p15)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 8&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-08-2025-3604378/)
+ - [Scratch that -- Apple Stores try updating MagSafe chargers to stop &#39;scratchgate&#39;](https://appleinsider.com/articles/25/10/08/scratch-that----apple-stores-try-updating-magsafe-chargers-to-stop-scratchgate?utm_source=rss)
+ - [Bored with One UI 8? Samsung’s next big update is coming by the end of 2025](https://www.androidauthority.com/one-ui-8-5-beta-update-coming-soon-3605276/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
