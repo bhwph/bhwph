@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 207 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
- - [October Pixel update isn’t here yet, but Verizon just spilled the details](https://www.androidauthority.com/pixel-october-update-verizon-3605196/)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Oct. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-oct-8/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SoftBank Group agrees to acquire ABB&#39;s robotics business, which generated sales of $2.3B last year, for $5.38B in a deal expected to close in mid-to-late 2026 &lpar;John Revill/Reuters&rpar;](http://www.techmeme.com/251008/p9#a251008p9)
+ - [The recent wave of circular deals and partnerships involving Nvidia and OpenAI is escalating concerns that they are artificially propping up the $1T+ AI market &lpar;Bloomberg&rpar;](http://www.techmeme.com/251008/p8#a251008p8)
+ - [Sources: top Chinese VCs are close to raising up to $1.1B in total USD-denominated funds in 2025, marking a tentative return of global capital to Chinese tech &lpar;Financial Times&rpar;](http://www.techmeme.com/251008/p7#a251008p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
