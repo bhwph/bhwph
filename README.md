@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Amazon Prime Day Kindle Deals &lpar;October 2025&rpar;: Colorsoft, Scribe, Paperwhite](https://www.wired.com/story/amazon-prime-day-kindle-deals-october-2025/)
- - [Sources: New Jersey&#39;s AG is investigating the frequency of sexual violence during Uber rides and whether Uber has misrepresented the safety of its service &lpar;Emily Steel/New York Times&rpar;](http://www.techmeme.com/251007/p30#a251007p30)
- - [The 190 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)<!-- TECH:END -->
+ - [The 196 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
+ - [A profile of Josh Wallace Kerrigan, also known as Neural Viz, an independent creator using Midjourney, Runway, and other AI tools to create a cinematic universe &lpar;Christopher Beam/Wired&rpar;](http://www.techmeme.com/251007/p32#a251007p32)
+ - [Lowest price of 2025: CMF Watch 3 Pro slashed to just $79](https://www.androidauthority.com/cmf-watch-3-pro-deal-3604582/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
