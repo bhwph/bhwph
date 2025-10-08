@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [Oddly satisfying](http://9gag.com/gag/aAyNXP0)
  - 😝 [Works better than pills and no side effects haha](http://9gag.com/gag/aqypWev)
- - 👉 [Next Level Gaming Hacks](http://9gag.com/gag/aE0NDOe)<!-- MEMES:END -->
+ - 👉 [Do they actually think it through?](https://www.reddit.com/r/funny/comments/1o16je0/do_they_actually_think_it_through/)<!-- MEMES:END -->
 
 --- 
 
