@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord support was breached, and accounts vary on how bad it was](https://appleinsider.com/articles/25/10/08/discord-support-was-breached-and-accounts-vary-on-how-bad-it-was?utm_source=rss)
- - [The best October Prime Day deals at Walmart](https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025)
- - [New York-based Crosby, a law firm that uses AI to help speed up the contracts process, raised a $20M Series A co-led by Index Ventures, BCV, and Elad Gil &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/251008/p37#a251008p37)<!-- TECH:END -->
+ - [Sonos Beam Gen 2 gets a rare 26% price cut until midnight](https://www.androidauthority.com/sonos-beam-gen-2-prime-day-3605474/)
+ - [October 2025 Pixel updates start heading out, including fix for Pixel 10 display glitches](https://www.androidauthority.com/october-2025-pixel-update-3605572/)
+ - [The Petkit Eversweet Max 2 Is $23 Off Right Now](https://www.wired.com/story/petkit-eversweet-max-prime-big-deal-day-deal/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
