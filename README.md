@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 196 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
- - [A profile of Josh Wallace Kerrigan, also known as Neural Viz, an independent creator using Midjourney, Runway, and other AI tools to create a cinematic universe &lpar;Christopher Beam/Wired&rpar;](http://www.techmeme.com/251007/p32#a251007p32)
- - [Lowest price of 2025: CMF Watch 3 Pro slashed to just $79](https://www.androidauthority.com/cmf-watch-3-pro-deal-3604582/)<!-- TECH:END -->
+ - [Google finally breaks silence on new Nest Hubs, and it’s more of a slow burn than a comeback](https://www.androidauthority.com/google-new-nest-hub-3605188/)
+ - [You can score up to $750 off robovacs from iRobot, Dreame, and Eufy right now](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025)
+ - [The 26 best fall Prime Day deals on AirPods, iPads, and other Apple gear](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
