@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Pass Adds The Grinch: Christmas Adventures After Big Price Hike](https://kotaku.com/game-pass-october-2025-ninja-gaiden-grinch-price-2000633269)
- - [LG Has Clearance Vibes as 27″ UltraGear Gaming Monitor Hits Its Cheapest Ever to Compete With Samsung Deals](https://kotaku.com/lg-has-clearance-vibes-as-27%e2%80%b3-ultragear-gaming-monitor-hits-its-cheapest-ever-to-compete-with-samsung-deals-2000632186)
- - [Ghost of Yotei&#39;s bamboo strikes feature an audience of baby foxes](https://www.polygon.com/ghost-yotei-bamboo-strike-baby-foxes-awwww/)<!-- GAME:END -->
+ - [10 horror movies that scared actual horror directors](https://www.polygon.com/horror-directors-scariest-movies-for-adults/)
+ - [The Stranger Things Dungeons &amp; Dragons set is finally here](https://www.polygon.com/stranger-things-dnd-set-hellfire-club/)
+ - [Kentucky sues Roblox, calling it &#39;a playground for predators who seek to harm our children&#39;](https://www.pcgamer.com/games/kentucky-sues-roblox-calling-it-a-playground-for-predators-who-seek-to-harm-our-children/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
