@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I want to play a game](http://9gag.com/gag/ae9PVqv)
- - 😝 [Should You Be Afraid of a Halloween Heart Attack?](http://9gag.com/gag/aVv1Lrd)
- - 👉 [Works better than pills and no side effects haha](http://9gag.com/gag/aqypWev)<!-- MEMES:END -->
+ - 6️⃣ [Oddly satisfying](http://9gag.com/gag/aAyNXP0)
+ - 😝 [Works better than pills and no side effects haha](http://9gag.com/gag/aqypWev)
+ - 👉 [Next Level Gaming Hacks](http://9gag.com/gag/aE0NDOe)<!-- MEMES:END -->
 
 --- 
 
