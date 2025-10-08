@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [LEGO’s Final Prime Day Generosity, Star Wars Ahsoka Ghost and Phantom II Spaceship Hits Lowest Price](https://kotaku.com/lego-star-wars-set-of-the-ghost-and-phantom-ii-from-ahsoka-dropped-by-nearly-50-2000632619)
- - [Jackery Explorer 1500W Generator Is Now 60% Off, Amazon Is Clearing Out Stock Just Before Winter](https://kotaku.com/jackery-explorer-1500w-generator-is-now-60-off-amazon-is-clearing-out-stock-just-before-winter-2000633138)
- - [Absolum interview: How the beat &#39;em up&#39;s developers created four fabulous characters](https://www.pcgamer.com/games/action/absolum-interview-how-the-beat-em-ups-developers-created-four-fabulous-characters/)<!-- GAME:END -->
+ - [Xbox Game Pass Ultimate Just Got Cheaper, Amazon Quietly Sells Digital Codes for Prime Day](https://kotaku.com/xbox-game-pass-ultimate-just-got-cheaper-amazon-quietly-sells-digital-codes-for-prime-day-2000633171)
+ - [Superman&#39;s Scott Pilgrim trailer remix video deserves to be a full movie](https://www.polygon.com/superman-scott-pilgrim-reedit-trailer/)
+ - [Peacemaker season 2 has an important message for Trump supporters who sound too mad to hear it](https://www.polygon.com/peacemaker-nazis-op-ed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
