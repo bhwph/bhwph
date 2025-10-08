@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [For the Closing Hours of Prime Day, Amazon Sells Pokemon Card Packs for Just $0.10](https://kotaku.com/for-the-closing-hours-of-prime-day-amazon-sells-pokemon-card-packs-for-just-0-10-2000633099)
  - [Today&#39;s Wordle clues, hints and answer for October 8 &lpar;#1572&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-8-2025/)
- - [What’s With This New KPop Demon Hunters Song On Spotify?](https://kotaku.com/kpop-demon-hunters-huntrix-spotify-new-song-mazatlan-by-night-2000632680)
- - [Player’s Choice promotion comes to PlayStation Store Oct 8](https://blog.playstation.com/2025/10/07/players-choice-promotion-comes-to-playstation-store-oct-8/)<!-- GAME:END -->
+ - [What’s With This New KPop Demon Hunters Song On Spotify?](https://kotaku.com/kpop-demon-hunters-huntrix-spotify-new-song-mazatlan-by-night-2000632680)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
