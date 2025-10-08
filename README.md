@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 8&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-08-2025-3604378/)
- - [Scratch that -- Apple Stores try updating MagSafe chargers to stop &#39;scratchgate&#39;](https://appleinsider.com/articles/25/10/08/scratch-that----apple-stores-try-updating-magsafe-chargers-to-stop-scratchgate?utm_source=rss)
- - [Bored with One UI 8? Samsung’s next big update is coming by the end of 2025](https://www.androidauthority.com/one-ui-8-5-beta-update-coming-soon-3605276/)<!-- TECH:END -->
+ - [The 207 best October Prime Day deals](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)
+ - [German officials say they will vote against the EU&#39;s &quot;Chat Control&quot; proposals, signaling the bloc will not have enough support ahead of an October 14 vote &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251008/p28#a251008p28)
+ - [Synology caves &amp; allows all hard drives in 2025 NAS range - for now](https://appleinsider.com/articles/25/10/08/synology-caves-allows-all-hard-drives-in-2025-nas-range---for-now?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
