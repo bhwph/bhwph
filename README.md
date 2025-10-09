@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord support was breached, and accounts vary on how bad it was](https://appleinsider.com/articles/25/10/08/discord-support-was-breached-and-accounts-vary-on-how-bad-it-was?utm_source=rss)
- - [Deal: Save 35% on the Fitbit Charge 6](https://www.androidauthority.com/fitbit-charge-6-deal-3605636/)
- - [The best October Prime Day deals at Walmart](https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025)<!-- TECH:END -->
+ - [The 228 best last-minute Prime Day deals you can still grab](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)
+ - [California Governor Gavin Newsom signs a bill that will require web browsers to add settings that allow residents to opt out of third-party data collection &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251008/p51#a251008p51)
+ - [Discord estimates 70,000 users globally may have had government ID photos exposed in a September 20 third-party customer service data breach &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251008/p50#a251008p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
