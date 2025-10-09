@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
- - 😝 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)
- - 👉 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)<!-- MEMES:END -->
+ - 6️⃣ [Extracting gold from old phones](http://9gag.com/gag/a0eWEMX)
+ - 😝 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
+ - 👉 [That was f..ing close](http://9gag.com/gag/apRjAKE)<!-- MEMES:END -->
 
 --- 
 
