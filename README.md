@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Austin-based Routefusion, whose API for financial institutions lets them embed accounts, payments, currency conversion, and compliance, raised a $26.7M Series A &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251009/p35#a251009p35)
- - [Nintendo’s weird Pikmin videos were short films, not announcement teasers](https://www.theverge.com/entertainment/797623/pikmin-close-to-you-nintendo-pictures)
- - [The US NHTSA opens a probe into 2.88M FSD-enabled Tesla vehicles over 50+ reports of traffic-safety violations like running red lights and a series of crashes &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/251009/p34#a251009p34)<!-- TECH:END -->
+ - [AWS launches Quick Suite, a chatbot and set of AI agents that can analyze sales data, produce reports, and summarize web content, set to replace Q Business &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251009/p44#a251009p44)
+ - [Prime Day may be over, but these Retroid handheld console deals are just getting started](https://www.androidauthority.com/retroid-deals-3605857/)
+ - [Europe Pledges $600 Billion for Clean Energy Projects in Africa](https://www.wired.com/story/europe-pledges-dollar600-billion-for-clean-energy-projects-in-africa/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
