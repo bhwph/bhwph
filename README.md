@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it won’t fix Gemini security flaw that could send your sensitive info to a stranger](https://www.androidauthority.com/google-gemini-ascii-security-flaw-3605599/)
- - [We found 30-odd October Prime Day deals we love for $100 or less](https://www.theverge.com/tech/795989/amazon-october-prime-day-best-cheap-tech-deals-under-100-2025)
- - [The 222 best October Prime Day deals](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)<!-- TECH:END -->
+ - [Discord support was breached, and accounts vary on how bad it was](https://appleinsider.com/articles/25/10/08/discord-support-was-breached-and-accounts-vary-on-how-bad-it-was?utm_source=rss)
+ - [Deal: Save 35% on the Fitbit Charge 6](https://www.androidauthority.com/fitbit-charge-6-deal-3605636/)
+ - [The best October Prime Day deals at Walmart](https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
