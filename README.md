@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer magazine&#39;s new issue is on sale now: Battlefield 6](https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-battlefield-6/)
- - [Today&#39;s Wordle clues, hints and answer for October 9 &lpar;#1573&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-9-2025/)
- - [A lost chapter of Warhammer 40,000 space marines has been found: &#39;A miracle!&#39;](https://www.pcgamer.com/games/board-games/a-lost-chapter-of-warhammer-40-000-space-marines-has-been-found-a-miracle/)<!-- GAME:END -->
+ - [Overwatch 2‘s New Hero Tease Overshadowed By Lifeweaver Absolutely Serving In His New Mythic Skin](https://kotaku.com/overwatch-2-season-19-lifeweaver-mythic-hero-45-trial-2000633716)
+ - [After more than a year of delays, Cities: Skylines 2&#39;s big Bridges and Ports expansion is finally almost here](https://www.pcgamer.com/games/sim/after-more-than-a-year-of-delays-cities-skylines-2s-big-bridges-and-ports-expansion-is-finally-almost-here/)
+ - [After creating countless boring hotels, I&#39;ve made a list of Sims 4 custom venue ideas for more tailored getaways and stories](https://www.pcgamer.com/games/the-sims/sims-4-custom-venue-ideas/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
