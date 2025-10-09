@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2‘s New Hero Tease Overshadowed By Lifeweaver Absolutely Serving In His New Mythic Skin](https://kotaku.com/overwatch-2-season-19-lifeweaver-mythic-hero-45-trial-2000633716)
- - [After more than a year of delays, Cities: Skylines 2&#39;s big Bridges and Ports expansion is finally almost here](https://www.pcgamer.com/games/sim/after-more-than-a-year-of-delays-cities-skylines-2s-big-bridges-and-ports-expansion-is-finally-almost-here/)
- - [After creating countless boring hotels, I&#39;ve made a list of Sims 4 custom venue ideas for more tailored getaways and stories](https://www.pcgamer.com/games/the-sims/sims-4-custom-venue-ideas/)<!-- GAME:END -->
+ - [Arc Raiders Is Trying To Fix One Of The Most Frustrating Things About Extraction Shooters](https://kotaku.com/arc-raiders-extraction-pvpve-progression-wipe-loot-2000633739)
+ - [How to get the Last Call in Fortnite Chapter 6 Season 4](https://www.polygon.com/fortnite-last-call-stalkbox-how-to-get/)
+ - [Invincible VS: Intelligence Agent Cecil Stedman Joins The Roster](https://news.xbox.com/en-us/2025/10/09/invincible-vs-intelligence-agent-cecil-stedman-joins-the-roster/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
