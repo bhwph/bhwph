@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS launches Quick Suite, a chatbot and set of AI agents that can analyze sales data, produce reports, and summarize web content, set to replace Q Business &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251009/p44#a251009p44)
- - [Prime Day may be over, but these Retroid handheld console deals are just getting started](https://www.androidauthority.com/retroid-deals-3605857/)
- - [Europe Pledges $600 Billion for Clean Energy Projects in Africa](https://www.wired.com/story/europe-pledges-dollar600-billion-for-clean-energy-projects-in-africa/)<!-- TECH:END -->
+ - [These are the best Apple deals you can still get after October Prime Day](https://appleinsider.com/articles/25/10/09/these-are-the-best-apple-deals-you-can-still-get-after-october-prime-day?utm_source=rss)
+ - [512GB microSD Express cards for Switch 2 are cheaper than ever right now](https://www.theverge.com/tech/797782/lexar-microsd-express-card-nintendo-switch-2-deal-sale)
+ - [YouTube opens &amp;#8216;second chance&amp;#8217; program to creators banned for misinformation](https://www.theverge.com/news/797848/youtube-banned-creators-second-chance-program-covid-election-misinformation-new-channel)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
