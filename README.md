@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 228 best last-minute Prime Day deals you can still grab](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)
- - [California Governor Gavin Newsom signs a bill that will require web browsers to add settings that allow residents to opt out of third-party data collection &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251008/p51#a251008p51)
- - [Discord estimates 70,000 users globally may have had government ID photos exposed in a September 20 third-party customer service data breach &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251008/p50#a251008p50)<!-- TECH:END -->
+ - [Sources: Cursor-maker Anysphere is considering investment offers at a ~$30B valuation; Cursor generates $500M in ARR as of June, third highest for an AI app &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/251009/p1#a251009p1)
+ - [Google details October update for Pixel Watch lineup](https://www.androidauthority.com/google-pixel-watch-october-2025-update-3605655/)
+ - [Netflix is making its video games available on smart TVs and streaming devices like Roku for the first time, with phones serving as controllers &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/251008/p52#a251008p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
