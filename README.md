@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arc Raiders Is Trying To Fix One Of The Most Frustrating Things About Extraction Shooters](https://kotaku.com/arc-raiders-extraction-pvpve-progression-wipe-loot-2000633739)
- - [How to get the Last Call in Fortnite Chapter 6 Season 4](https://www.polygon.com/fortnite-last-call-stalkbox-how-to-get/)
- - [Invincible VS: Intelligence Agent Cecil Stedman Joins The Roster](https://news.xbox.com/en-us/2025/10/09/invincible-vs-intelligence-agent-cecil-stedman-joins-the-roster/)<!-- GAME:END -->
+ - [Indiana Jones and the Great Circle is getting a New Game+ mode and some new duds in a free update](https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-is-getting-a-new-game-mode-and-some-new-duds-in-a-free-update/)
+ - [Wordle comes to Cyberpunk 2077, only it&#39;s better because it takes slang words like &#39;CHOOM&#39; and &#39;GONKS&#39;](https://www.pcgamer.com/games/rpg/wordle-comes-to-cyberpunk-2077-only-its-better-because-it-takes-slang-words-like-choom-and-gonks/)
+ - [Where is Maurice&#39;s Black Market Vending Machine in Borderlands 4](https://www.polygon.com/borderlands-4-maurices-black-market-vending-legendary-machine-location/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
