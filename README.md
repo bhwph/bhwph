@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [You can&#39;t just post sugar and expect people to understand what you mean](http://9gag.com/gag/a34pbP8)
- - 😝 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)
- - 👉 [I dont mind it](http://9gag.com/gag/axynmbY)<!-- MEMES:END -->
+ - 😝 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
+ - 👉 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)<!-- MEMES:END -->
 
 --- 
 
