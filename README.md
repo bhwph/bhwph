@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Cursor-maker Anysphere is considering investment offers at a ~$30B valuation; Cursor generates $500M in ARR as of June, third highest for an AI app &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/251009/p1#a251009p1)
- - [Google details October update for Pixel Watch lineup](https://www.androidauthority.com/google-pixel-watch-october-2025-update-3605655/)
- - [Netflix is making its video games available on smart TVs and streaming devices like Roku for the first time, with phones serving as controllers &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/251008/p52#a251008p52)<!-- TECH:END -->
+ - [Fall asleep while binge-watching? This Google TV feature might be for you &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-tv-are-you-still-watching-apk-teardown-3605661/)
+ - [A teardown of the $800 Meta Ray-Ban Display reveals a system of mirrors enabling its &quot;geometric&quot; waveguide tech, setting it apart from other AR glasses &lpar;Elizabeth Chamberlain/iFixit News&rpar;](http://www.techmeme.com/251009/p8#a251009p8)
+ - [Anthropic&#39;s weeklong anti-AI slop pop-up in NYC&#39;s West Village, part of its &quot;Keep Thinking&quot; Claude push, drew 5,000+ people and 10M+ social media impressions &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/251009/p7#a251009p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
