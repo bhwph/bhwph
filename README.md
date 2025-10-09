@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)
- - 😝 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
- - 👉 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)<!-- MEMES:END -->
+ - 6️⃣ [Ben Affleck beating Tarantino for Best Director back in 2012](http://9gag.com/gag/aXPGRbb)
+ - 😝 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
+ - 👉 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)<!-- MEMES:END -->
 
 --- 
 
