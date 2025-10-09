@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the best Apple deals you can still get after October Prime Day](https://appleinsider.com/articles/25/10/09/these-are-the-best-apple-deals-you-can-still-get-after-october-prime-day?utm_source=rss)
- - [512GB microSD Express cards for Switch 2 are cheaper than ever right now](https://www.theverge.com/tech/797782/lexar-microsd-express-card-nintendo-switch-2-deal-sale)
- - [YouTube opens &amp;#8216;second chance&amp;#8217; program to creators banned for misinformation](https://www.theverge.com/news/797848/youtube-banned-creators-second-chance-program-covid-election-misinformation-new-channel)<!-- TECH:END -->
+ - [YouTube launches a pilot program to give terminated creators a &quot;second chance&quot; by letting them apply to create a new channel &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/251009/p50#a251009p50)
+ - [Google explains what went into the ‘hinge-a-neering’ of the Pixel 10 Pro Fold](https://www.androidauthority.com/google-pixel-10-pro-fold-hinge-3605989/)
+ - [Adam Mosseri says Instagram is exploring building a TV app as part of a deeper push into video but isn&#39;t interested in licensing live sports or other content &lpar;Bloomberg&rpar;](http://www.techmeme.com/251009/p49#a251009p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
