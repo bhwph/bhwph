@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube launches a pilot program to give terminated creators a &quot;second chance&quot; by letting them apply to create a new channel &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/251009/p50#a251009p50)
- - [Google explains what went into the ‘hinge-a-neering’ of the Pixel 10 Pro Fold](https://www.androidauthority.com/google-pixel-10-pro-fold-hinge-3605989/)
- - [Adam Mosseri says Instagram is exploring building a TV app as part of a deeper push into video but isn&#39;t interested in licensing live sports or other content &lpar;Bloomberg&rpar;](http://www.techmeme.com/251009/p49#a251009p49)<!-- TECH:END -->
+ - [Lakers fans will get court-side seats with Apple Vision Pro](https://appleinsider.com/articles/25/10/09/lakers-fans-will-get-court-side-seats-with-apple-vision-pro?utm_source=rss)
+ - [Microsoft and Anthropic appoint former UK prime minister Rishi Sunak as a senior adviser and pledge his role will not include lobbying with the UK government &lpar;Financial Times&rpar;](http://www.techmeme.com/251009/p52#a251009p52)
+ - [Ferrari exposes the guts of its upcoming 1000hp EV](https://www.theverge.com/news/797746/ferrari-ev-motor-range-power-shifting)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
