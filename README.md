@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best October Prime Day deals you can still shop](https://www.theverge.com/tech/797264/best-amazon-prime-day-tech-deals-october-still-available-2025)
- - [Google Cloud launches Gemini Enterprise, designed to help employees automate tasks and generate content across departments, priced at $30 per user per month &lpar;Bloomberg&rpar;](http://www.techmeme.com/251009/p27#a251009p27)
- - [Reflection AI, which is developing an open-source AI model to compete with DeepSeek, raised $2B led by Nvidia, valuing it at $8B, up from $545M in March &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251009/p26#a251009p26)<!-- TECH:END -->
+ - [Austin-based Routefusion, whose API for financial institutions lets them embed accounts, payments, currency conversion, and compliance, raised a $26.7M Series A &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251009/p35#a251009p35)
+ - [Nintendo’s weird Pikmin videos were short films, not announcement teasers](https://www.theverge.com/entertainment/797623/pikmin-close-to-you-nintendo-pictures)
+ - [The US NHTSA opens a probe into 2.88M FSD-enabled Tesla vehicles over 50+ reports of traffic-safety violations like running red lights and a series of crashes &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/251009/p34#a251009p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
