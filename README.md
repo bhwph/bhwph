@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This thin flagship will crush the Galaxy S25 Edge and iPhone Air on battery and charging speeds](https://www.androidauthority.com/motorola-edge-70-battery-charging-specs-3605674/)
- - [This seriously compact, versatile, and portable Google TV projector is now $100 off for Prime](https://www.androidauthority.com/tcl-projector-c1-google-tv-prime-big-deal-days-sale-3605676/)
- - [A Samsung researcher introduces the Tiny Recursion Model, a 7M-parameter model that was able to outperform LLMs 10,000x larger like o3-mini on specific problems &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251009/p11#a251009p11)<!-- TECH:END -->
+ - [SoftBank-owned PayPay takes a 40% stake in Binance Japan for an undisclosed sum, to capitalize on Japan&#39;s crypto boom; PayPay filed for a US IPO in August &lpar;Mayumi Negishi/Bloomberg&rpar;](http://www.techmeme.com/251009/p20#a251009p20)
+ - [A profile of Twitch streamer Kai Cenat, who has 19M followers on the platform, many of them young people, and drew nearly 50M viewers to a monthlong stream &lpar;Emmanuel Morgan/New York Times&rpar;](http://www.techmeme.com/251009/p19#a251009p19)
+ - [Logitech tells users that it will end support for its Pop smart home switches, launched in August 2016, on October 15, as it moves on from its smart home plans &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/251009/p18#a251009p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
