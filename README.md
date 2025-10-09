@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wowser..](http://9gag.com/gag/ajPMW90)
+ - 6️⃣ [You can&#39;t just post sugar and expect people to understand what you mean](http://9gag.com/gag/a34pbP8)
  - 😝 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)
- - 👉 [That was f..ing close](http://9gag.com/gag/apRjAKE)<!-- MEMES:END -->
+ - 👉 [I dont mind it](http://9gag.com/gag/axynmbY)<!-- MEMES:END -->
 
 --- 
 
