@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Extracting gold from old phones](http://9gag.com/gag/a0eWEMX)
- - 😝 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
- - 👉 [That was f..ing close](http://9gag.com/gag/apRjAKE)<!-- MEMES:END -->
+ - 6️⃣ [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
+ - 😝 [That was f..ing close](http://9gag.com/gag/apRjAKE)
+ - 👉 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)<!-- MEMES:END -->
 
 --- 
 
