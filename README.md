@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank-owned PayPay takes a 40% stake in Binance Japan for an undisclosed sum, to capitalize on Japan&#39;s crypto boom; PayPay filed for a US IPO in August &lpar;Mayumi Negishi/Bloomberg&rpar;](http://www.techmeme.com/251009/p20#a251009p20)
- - [A profile of Twitch streamer Kai Cenat, who has 19M followers on the platform, many of them young people, and drew nearly 50M viewers to a monthlong stream &lpar;Emmanuel Morgan/New York Times&rpar;](http://www.techmeme.com/251009/p19#a251009p19)
- - [Logitech tells users that it will end support for its Pop smart home switches, launched in August 2016, on October 15, as it moves on from its smart home plans &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/251009/p18#a251009p18)<!-- TECH:END -->
+ - [The best October Prime Day deals you can still shop](https://www.theverge.com/tech/797264/best-amazon-prime-day-tech-deals-october-still-available-2025)
+ - [Google Cloud launches Gemini Enterprise, designed to help employees automate tasks and generate content across departments, priced at $30 per user per month &lpar;Bloomberg&rpar;](http://www.techmeme.com/251009/p27#a251009p27)
+ - [Reflection AI, which is developing an open-source AI model to compete with DeepSeek, raised $2B led by Nvidia, valuing it at $8B, up from $545M in March &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251009/p26#a251009p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
