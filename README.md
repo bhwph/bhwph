@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Some trauma never heals....](http://9gag.com/gag/aPAdrLV)
- - 😝 [At least I&#39;ll go out on my own terms.](http://9gag.com/gag/aRBNOxq)
- - 👉 [A knowledgeable person shared this, so I tried this prompt out with chatgpt. The improve is OUTSTANDING. I decided to share it because this is so useful and it worked so well for me. Chatgpt finally stopped patting backs all the time, and started to solve problems and be clear.](http://9gag.com/gag/a2vjLXd)<!-- MEMES:END -->
+ - 6️⃣ [Wowser..](http://9gag.com/gag/ajPMW90)
+ - 😝 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
+ - 👉 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)<!-- MEMES:END -->
 
 --- 
 
