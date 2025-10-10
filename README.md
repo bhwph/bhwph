@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, A Gaming Chair I Don’t Have To Be Embarrassed By](https://kotaku.com/gaming-chair-elgato-herman-miller-embrace-elgato-2000634072)
- - [Oh No, Someone Added Jack Black’s Minecraft Steve To Sonic Racing: Crossworlds](https://kotaku.com/sonic-racing-crossworlds-mod-jack-black-steve-minecraft-2000634068)
- - [Best guns in Battlefield 6](https://www.polygon.com/battlefield-6-bf6-best-guns/)<!-- GAME:END -->
+ - [Marvel’s Wonder Man Trailer Knows You’re Getting Bored With Superheroes](https://kotaku.com/marvel-wonder-man-trailer-disney-mcu-2000634087)
+ - [Blizzard is giving everyone a chance to try out World of Warcraft&#39;s new player housing for free next week](https://www.pcgamer.com/games/world-of-warcraft/blizzard-is-giving-everyone-a-chance-to-try-out-world-of-warcrafts-new-player-housing-for-free-next-week/)
+ - [Capcom Wobbles On Pay-Per-View Street Fighter 6 Livestream After Backlash](https://kotaku.com/capcom-cup-12-tickets-street-fighter-6-esports-2000634086)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
