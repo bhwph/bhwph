@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Austria&#39;s privacy regulator finds that Microsoft violated EU law by illegally tracking students through its Microsoft 365 Education software &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251010/p22#a251010p22)
- - [Elgato&#39;s Prompter XL is huge, heavy &amp; exactly what pros need](https://appleinsider.com/articles/25/10/10/elgatos-prompter-xl-is-huge-heavy-exactly-what-pros-need?utm_source=rss)
- - [Pebble brings back its app store with thousands of apps and new tools for exploring them](https://www.androidauthority.com/pebble-smartwatch-app-store-revival-3606279/)<!-- TECH:END -->
+ - [OpenAI is trying to clamp down on ‘bias’ in ChatGPT](https://www.theverge.com/news/798388/openai-chatgpt-political-bias-eval)
+ - [WIRED Roundup: Are We In An AI Bubble?](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-are-we-in-an-ai-bubble/)
+ - [A federal jury finds that Samsung owes Collision Communications nearly $445.5M in damages for infringing on patents related to 4G, 5G, and Wi-Fi standards &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251010/p24#a251010p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
