@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
- - 😝 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
- - 👉 [Wowser..](http://9gag.com/gag/ajPMW90)<!-- MEMES:END -->
+ - 6️⃣ [Meine kinder surprised](http://9gag.com/gag/aW4N983)
+ - 😝 [How about them apples?](http://9gag.com/gag/aAyNZy9)
+ - 👉 [Put your finger here](http://9gag.com/gag/a7o6nWb)<!-- MEMES:END -->
 
 --- 
 
