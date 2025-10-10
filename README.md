@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI is trying to clamp down on ‘bias’ in ChatGPT](https://www.theverge.com/news/798388/openai-chatgpt-political-bias-eval)
- - [WIRED Roundup: Are We In An AI Bubble?](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-are-we-in-an-ai-bubble/)
- - [A federal jury finds that Samsung owes Collision Communications nearly $445.5M in damages for infringing on patents related to 4G, 5G, and Wi-Fi standards &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251010/p24#a251010p24)<!-- TECH:END -->
+ - [Academics sue over using pirated books for Apple Intelligence training](https://appleinsider.com/articles/25/10/10/academics-sue-over-using-pirated-books-for-apple-intelligence-training?utm_source=rss)
+ - [Nathan Calvin, general counsel of AI safety nonprofit Encode, says OpenAI used intimidation tactics to undermine California&#39;s SB 53 while it was being debated &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/251010/p29#a251010p29)
+ - [Deal: The Google TV Streamer is still 20% off!](https://www.androidauthority.com/google-tv-streamer-deal-7-3605632/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
