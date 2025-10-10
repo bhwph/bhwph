@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You can&#39;t just post sugar and expect people to understand what you mean](http://9gag.com/gag/a34pbP8)
- - 😝 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
- - 👉 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)<!-- MEMES:END -->
+ - 6️⃣ [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)
+ - 😝 [What](http://9gag.com/gag/adB4oL9)
+ - 👉 [Wowser..](http://9gag.com/gag/ajPMW90)<!-- MEMES:END -->
 
 --- 
 
