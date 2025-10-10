@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lakers fans will get court-side seats with Apple Vision Pro](https://appleinsider.com/articles/25/10/09/lakers-fans-will-get-court-side-seats-with-apple-vision-pro?utm_source=rss)
- - [Microsoft and Anthropic appoint former UK prime minister Rishi Sunak as a senior adviser and pledge his role will not include lobbying with the UK government &lpar;Financial Times&rpar;](http://www.techmeme.com/251009/p52#a251009p52)
- - [Ferrari exposes the guts of its upcoming 1000hp EV](https://www.theverge.com/news/797746/ferrari-ev-motor-range-power-shifting)<!-- TECH:END -->
+ - [Sources: Apple plans health and fitness teams reorg under Eddy Cue, watchOS under Craig Federighi, and Watch hardware under John Ternus, as Jeff Williams exits &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251009/p56#a251009p56)
+ - [Google says Cl0p hackers who exploited vulnerabilities in Oracle&#39;s E-Business Suite have stolen data from &quot;dozens&quot; of organizations since at least July 10 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/251009/p55#a251009p55)
+ - [Need Apple AirTags? The 4-pack has dropped to record-low prices again](https://www.androidauthority.com/apple-airtag-4-pack-deal-10-3605633/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
