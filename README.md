@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Watch 4 gets a near-perfect reparability score and sets a new smartwatch standard](https://www.androidauthority.com/pixel-watch-4-reparability-3606238/)
- - [A group of American investors led by Hollywood producer Robert Simonds has agreed to acquire NSO Group in a deal valued at &quot;several tens of millions of dollars&quot; &lpar;Omer Kabir/CTech&rpar;](http://www.techmeme.com/251010/p20#a251010p20)
- - [Samsung’s One UI 8.5 lock screen clock knows when it’s in the way](https://www.androidauthority.com/one-ui-8-5-beta-adapative-clock-floating-search-bar-3606257/)<!-- TECH:END -->
+ - [Austria&#39;s privacy regulator finds that Microsoft violated EU law by illegally tracking students through its Microsoft 365 Education software &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251010/p22#a251010p22)
+ - [Elgato&#39;s Prompter XL is huge, heavy &amp; exactly what pros need](https://appleinsider.com/articles/25/10/10/elgatos-prompter-xl-is-huge-heavy-exactly-what-pros-need?utm_source=rss)
+ - [Pebble brings back its app store with thousands of apps and new tools for exploring them](https://www.androidauthority.com/pebble-smartwatch-app-store-revival-3606279/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
