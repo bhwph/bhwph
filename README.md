@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Singapore-based Megaspeed, which bought $2B of Nvidia chips and is under US probe for possibly helping Chinese companies evade export controls &lpar;New York Times&rpar;](http://www.techmeme.com/251010/p3#a251010p3)
- - [The Galaxy Z Flip 8 could use a special Qualcomm flagship chip with some extra Samsung sauce](https://www.androidauthority.com/samsung-galaxy-z-flip-8-snapdragon-8-gen-5-3606127/)
- - [BOOX’s latest Android e-reader turns the page on connectivity](https://www.androidauthority.com/onyx-boox-p6-pro-launch-3606072/)<!-- TECH:END -->
+ - [Google is the first company to be designated with special status in the UK under new digital laws; the designation does not introduce any immediate requirements &lpar;Reuters&rpar;](http://www.techmeme.com/251010/p6#a251010p6)
+ - [Google One subscription plan chaos is only snowballing with AI](https://www.androidauthority.com/google-one-ai-subscription-chaos-3604433/)
+ - [Trump Wants to Take Over Cities. Influencers Are Giving Him the Fuel to Do It](https://www.wired.com/story/trump-administration-immigration-influencers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
