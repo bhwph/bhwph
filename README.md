@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Peacemaker season 2 ending explained: How Salvation Run sets up Man of Tomorrow&#39;s new villain](https://www.polygon.com/peacemaker-season-2-ending-explained-salvation-run-desaad/)
  - [Grove Keeper is Dungeon Keeper versus woodcutters and your greatest weapon is a giant in his underpants](https://www.pcgamer.com/games/sim/grove-keeper-is-dungeon-keeper-versus-woodcutters-and-your-greatest-weapon-is-a-giant-in-his-underpants/)
- - [How to solve the button puzzle in Little Nightmares 3](https://www.polygon.com/little-nightmares-3-button-puzzle-solution-chapter-3/)
- - [How to follow the gnome in Little Nightmares 3](https://www.polygon.com/little-nightmares-3-how-to-follow-gnome-chapter-3/)<!-- GAME:END -->
+ - [How to solve the button puzzle in Little Nightmares 3](https://www.polygon.com/little-nightmares-3-button-puzzle-solution-chapter-3/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
