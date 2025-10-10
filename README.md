@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
- - 😝 [From the archives](http://9gag.com/gag/aPAdnnG)
- - 👉 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)<!-- MEMES:END -->
+ - 6️⃣ [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)
+ - 😝 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
+ - 👉 [From the archives](http://9gag.com/gag/aPAdnnG)<!-- MEMES:END -->
 
 --- 
 
