@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wowser..](http://9gag.com/gag/ajPMW90)
+ - 6️⃣ [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
  - 😝 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
- - 👉 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)<!-- MEMES:END -->
+ - 👉 [Wowser..](http://9gag.com/gag/ajPMW90)<!-- MEMES:END -->
 
 --- 
 
