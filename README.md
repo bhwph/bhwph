@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Wonder Man Trailer Knows You’re Getting Bored With Superheroes](https://kotaku.com/marvel-wonder-man-trailer-disney-mcu-2000634087)
- - [Blizzard is giving everyone a chance to try out World of Warcraft&#39;s new player housing for free next week](https://www.pcgamer.com/games/world-of-warcraft/blizzard-is-giving-everyone-a-chance-to-try-out-world-of-warcrafts-new-player-housing-for-free-next-week/)
- - [Capcom Wobbles On Pay-Per-View Street Fighter 6 Livestream After Backlash](https://kotaku.com/capcom-cup-12-tickets-street-fighter-6-esports-2000634086)<!-- GAME:END -->
+ - [Borderlands 4 Player Kills 3,000 Bosses To Discover Disappointingly Low Legendary Drop Rate](https://kotaku.com/borderlands-4-legendary-drop-rate-bosses-patch-notes-nerf-2000634114)
+ - [Remedy issues &#39;profit warning&#39; after FBC: Firebreak&#39;s big overhaul fails to turn things around: &#39;Despite improved player and sales metrics after the update, sales have not reached Remedy’s internal targets&#39;](https://www.pcgamer.com/games/fps/remedy-issues-profit-warning-after-fbc-firebreaks-big-overhaul-fails-to-turn-things-around-despite-improved-player-and-sales-metrics-after-the-update-sales-have-not-reached-remedys-internal-targets/)
+ - [Just Three Days After Prime Day, Bose Offloads Its TV Soundbar at a New Record Low Price](https://kotaku.com/just-three-days-after-prime-day-bose-offloads-its-tv-soundbar-at-a-new-record-low-price-2000634100)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
