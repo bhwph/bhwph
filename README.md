@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Battlefield 6 campaign missions: How long does it take to beat?](https://www.pcgamer.com/games/fps/battlefield-6-campaign-missions-list/)
- - [How to Unblock OpenAI’s Sora 2 If You’re Outside the US and Canada](https://kotaku.com/how-to-unblock-openais-sora-2-if-youre-outside-the-us-and-canada-2000633962)
- - [Did you catch this detail in How to Train Your Dragon?](https://www.polygon.com/video/how-to-train-your-dragon-mason-thames-left-handed/)<!-- GAME:END -->
+ - [This Intel N150 Mini PC Is Nearly 4x Cheaper Than Mac Mini, Still at Record Low Post-Prime Day](https://kotaku.com/this-intel-n150-mini-pc-is-nearly-4x-cheaper-than-mac-mini-still-at-record-low-post-prime-day-2000633751)
+ - [All Genshin Impact 6.1 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-6-1-livestream/)
+ - [It’s Like Chris Pratt Saw 2025’s Worst Film And Said ‘Hold My Beer’](https://kotaku.com/chris-pratt-mercy-war-of-the-worlds-trailer-2000633959)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
