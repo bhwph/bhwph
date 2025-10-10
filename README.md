@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is about to give more generous payouts from its Bug Bounty Program](https://appleinsider.com/articles/25/10/10/apple-is-about-to-give-more-generous-payouts-from-its-bug-bounty-program?utm_source=rss)
- - [Hate Exynos? Two of four Galaxy S26 phones may skip the Snapdragon 8 Elite Gen 5](https://www.androidauthority.com/samsung-s26-pro-plus-exynos-2600-3606184/)
- - [China bans TechInsights from working with or receiving data from Chinese entities, citing national security concerns, after a report on Huawei&#39;s Ascend AI chips &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/251010/p11#a251010p11)<!-- TECH:END -->
+ - [Fractal’s first gaming headset is as refreshingly elegant as its PC cases](https://www.theverge.com/tech/797879/fractal-design-scape-pc-gaming-headset)
+ - [Kalshi raised a $300M+ Series D at a $5B valuation, expands to 140 countries, and is on track for $50B in annualized trading volume, up from $300M in 2024 &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251010/p14#a251010p14)
+ - [The Best Vacuum for Pet Hair—We Tested a Dozen Models to Find Which Work Best &lpar;2025&rpar;](https://www.wired.com/gallery/best-pet-hair-vacuums/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
