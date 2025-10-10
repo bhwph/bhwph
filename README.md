@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is the first company to be designated with special status in the UK under new digital laws; the designation does not introduce any immediate requirements &lpar;Reuters&rpar;](http://www.techmeme.com/251010/p6#a251010p6)
- - [Google One subscription plan chaos is only snowballing with AI](https://www.androidauthority.com/google-one-ai-subscription-chaos-3604433/)
- - [Trump Wants to Take Over Cities. Influencers Are Giving Him the Fuel to Do It](https://www.wired.com/story/trump-administration-immigration-influencers/)<!-- TECH:END -->
+ - [Apple is about to give more generous payouts from its Bug Bounty Program](https://appleinsider.com/articles/25/10/10/apple-is-about-to-give-more-generous-payouts-from-its-bug-bounty-program?utm_source=rss)
+ - [Hate Exynos? Two of four Galaxy S26 phones may skip the Snapdragon 8 Elite Gen 5](https://www.androidauthority.com/samsung-s26-pro-plus-exynos-2600-3606184/)
+ - [China bans TechInsights from working with or receiving data from Chinese entities, citing national security concerns, after a report on Huawei&#39;s Ascend AI chips &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/251010/p11#a251010p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
