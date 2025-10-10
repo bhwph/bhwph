@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Intel N150 Mini PC Is Nearly 4x Cheaper Than Mac Mini, Still at Record Low Post-Prime Day](https://kotaku.com/this-intel-n150-mini-pc-is-nearly-4x-cheaper-than-mac-mini-still-at-record-low-post-prime-day-2000633751)
- - [All Genshin Impact 6.1 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-6-1-livestream/)
- - [It’s Like Chris Pratt Saw 2025’s Worst Film And Said ‘Hold My Beer’](https://kotaku.com/chris-pratt-mercy-war-of-the-worlds-trailer-2000633959)<!-- GAME:END -->
+ - [AI software company Graphite says it practices &#39;dogfooding&#39; and &#39;onboarding roulette&#39; by deleting employee accounts at random](https://www.pcgamer.com/software/ai/ai-software-company-graphite-says-it-practices-dogfooding-and-onboarding-roulette-by-deleting-employee-accounts-at-random/)
+ - [This Logitech Webcam Works With Switch 2 and Is Practically Free Compared to Nintendo’s](https://kotaku.com/this-logitech-webcam-works-with-switch-2-and-is-practically-free-compared-to-nintendos-2000633370)
+ - [Checkmate? Peacemaker season 2 episode 8 could have big implications for the DCU](https://www.polygon.com/peacemaker-checkmate-dcu-explainer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
