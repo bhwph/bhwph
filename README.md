@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AI software company Graphite says it practices &#39;dogfooding&#39; and &#39;onboarding roulette&#39; by deleting employee accounts at random](https://www.pcgamer.com/software/ai/ai-software-company-graphite-says-it-practices-dogfooding-and-onboarding-roulette-by-deleting-employee-accounts-at-random/)
- - [This Logitech Webcam Works With Switch 2 and Is Practically Free Compared to Nintendo’s](https://kotaku.com/this-logitech-webcam-works-with-switch-2-and-is-practically-free-compared-to-nintendos-2000633370)
- - [Checkmate? Peacemaker season 2 episode 8 could have big implications for the DCU](https://www.polygon.com/peacemaker-checkmate-dcu-explainer/)<!-- GAME:END -->
+ - [Battlefield 6 player shows off the power of Portal by immediately dropping a decent Call of Duty 4 Shipment remake, oh, and the Death Star](https://www.pcgamer.com/games/fps/battlefield-6-player-shows-off-the-power-of-portal-by-immediately-dropping-a-decent-call-of-duty-4-shipment-remake-oh-and-the-death-star/)
+ - [Lifetime Access to All-in-One AI Tool 1minAI Is Nearly 90% Off, and a Coupon Makes It Almost Free](https://kotaku.com/lifetime-access-to-all-in-one-ai-tool-1minai-is-nearly-90-off-and-a-coupon-makes-it-almost-free-2000633673)
+ - [Best DRS-IAR loadout in Battlefield 6](https://www.pcgamer.com/games/fps/battlefield-6-drs-iar-loadout-build/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
