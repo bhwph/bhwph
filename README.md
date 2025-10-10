@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6 player shows off the power of Portal by immediately dropping a decent Call of Duty 4 Shipment remake, oh, and the Death Star](https://www.pcgamer.com/games/fps/battlefield-6-player-shows-off-the-power-of-portal-by-immediately-dropping-a-decent-call-of-duty-4-shipment-remake-oh-and-the-death-star/)
- - [Lifetime Access to All-in-One AI Tool 1minAI Is Nearly 90% Off, and a Coupon Makes It Almost Free](https://kotaku.com/lifetime-access-to-all-in-one-ai-tool-1minai-is-nearly-90-off-and-a-coupon-makes-it-almost-free-2000633673)
- - [Best DRS-IAR loadout in Battlefield 6](https://www.pcgamer.com/games/fps/battlefield-6-drs-iar-loadout-build/)<!-- GAME:END -->
+ - [Finally, A Gaming Chair I Don’t Have To Be Embarrassed By](https://kotaku.com/gaming-chair-elgato-herman-miller-embrace-elgato-2000634072)
+ - [Oh No, Someone Added Jack Black’s Minecraft Steve To Sonic Racing: Crossworlds](https://kotaku.com/sonic-racing-crossworlds-mod-jack-black-steve-minecraft-2000634068)
+ - [Best guns in Battlefield 6](https://www.polygon.com/battlefield-6-bf6-best-guns/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
