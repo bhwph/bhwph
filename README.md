@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fractal’s first gaming headset is as refreshingly elegant as its PC cases](https://www.theverge.com/tech/797879/fractal-design-scape-pc-gaming-headset)
- - [Kalshi raised a $300M+ Series D at a $5B valuation, expands to 140 countries, and is on track for $50B in annualized trading volume, up from $300M in 2024 &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251010/p14#a251010p14)
- - [The Best Vacuum for Pet Hair—We Tested a Dozen Models to Find Which Work Best &lpar;2025&rpar;](https://www.wired.com/gallery/best-pet-hair-vacuums/)<!-- TECH:END -->
+ - [Pixel Watch 4 gets a near-perfect reparability score and sets a new smartwatch standard](https://www.androidauthority.com/pixel-watch-4-reparability-3606238/)
+ - [A group of American investors led by Hollywood producer Robert Simonds has agreed to acquire NSO Group in a deal valued at &quot;several tens of millions of dollars&quot; &lpar;Omer Kabir/CTech&rpar;](http://www.techmeme.com/251010/p20#a251010p20)
+ - [Samsung’s One UI 8.5 lock screen clock knows when it’s in the way](https://www.androidauthority.com/one-ui-8-5-beta-adapative-clock-floating-search-bar-3606257/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
