@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deadlock just shuffled everyone into new ranked leagues overnight, but players suspect matchmaking won&#39;t feel any different: &#39;If you were miserable before, you&#39;ll still be miserable now&#39;](https://www.pcgamer.com/games/moba/deadlock-just-shuffled-everyone-into-new-ranked-leagues-overnight-but-players-suspect-matchmaking-wont-feel-any-different-if-you-were-miserable-before-youll-still-be-miserable-now/)
- - [MTG&#39;s new TMNT set gives a classic deck mechanic a major boost](https://www.polygon.com/mtg-magic-the-gathering-tmnt-set-krang-affinity/)
- - [The bold and futile attempt to fix the disastrous Aliens: Colonial Marines](https://www.pcgamer.com/games/fps/the-bold-and-futile-attempt-to-fix-the-disastrous-aliens-colonial-marines/)<!-- GAME:END -->
+ - [Everything we got before Grand Theft Auto 6](https://www.polygon.com/what-we-got-before-grand-theft-auto-6/)
+ - [Vicious director explains the ending of his cryptic horror movie](https://www.polygon.com/vicious-ending-explained-director-interview-texas-chain-saw-massacre/)
+ - [NYCC Lucasfilm panel reveals new Leia and Rey book and so much more](https://www.polygon.com/star-wars-nycc-news-novels-lucasfilms-publishing/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
