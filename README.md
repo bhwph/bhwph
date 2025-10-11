@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands 4 post-launch roadmap includes seasonal event, paid DLC, and its first raid boss](https://www.pcgamer.com/games/fps/borderlands-4-post-launch-roadmap-includes-seasonal-event-paid-dlc-and-its-first-raid-boss/)
- - [Star Trek&#39;s Starfleet Academy trailer goes big at NYCC](https://www.polygon.com/paul-giamatti-starfleet-academy-trailer-nycc/)
- - [Star Trek: Strange New Worlds season 4 footage revealed at NYCC](https://www.polygon.com/star-trek-strange-new-worlds-season-4-teaser-trailer-nycc/)<!-- GAME:END -->
+ - [Fire TV Soundbar Is Selling for Pennies Post Prime Day, Now 5x Less Than Sony or Bose Rivals](https://kotaku.com/fire-tv-soundbar-is-selling-for-pennies-post-prime-day-now-5x-less-than-sony-or-bose-rivals-2000634427)
+ - [Xbox Controllers Are Now Selling for Pennies, Microsoft Is Offloading Prime Day Leftovers](https://kotaku.com/xbox-controllers-are-now-selling-for-pennies-microsoft-is-offloading-prime-day-leftovers-2000634423)
+ - [Diablo 4 player hands their necromancer a gun for a 1-button build that covers the screen in hundreds of bone bullets and billions in damage](https://www.pcgamer.com/games/rpg/diablo-4-player-hands-their-necromancer-a-gun-for-a-1-button-build-that-covers-the-screen-in-hundreds-of-bone-bullets-and-billions-in-damage/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
