@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [3 best movie masterpieces on Netflix right now &lpar;Oct 11&rpar;](https://www.polygon.com/best-movies-masterpieces-on-netflix-oct-11-2025/)
- - [Today&#39;s Wordle clues, hints and answer for October 11 &lpar;#1575&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-11-2025/)
- - [Galaxy Buds 3 Pro Are Going for Pennies, the New AirPods Pro Can’t Compete at Full Price](https://kotaku.com/galaxy-buds-3-pro-are-going-for-pennies-the-new-airpods-pro-cant-compete-at-full-price-2000634125)<!-- GAME:END -->
+ - [Dragon Ball Sparking Zero fans are hungry for more, one year post-launch](https://www.polygon.com/dragon-ball-sparking-zero-one-year-later/)
+ - [Windows 10&#39;s greatest achievement was not being Windows 8, and I think we can all be thankful for that](https://www.pcgamer.com/software/windows/windows-10s-greatest-achievement-was-not-being-windows-8-and-i-think-we-can-all-be-thankful-for-that/)
+ - [A sequel to Aliens: Fireteam Elite is almost certainly in development, having briefly burst onto the ESRB&#39;s website](https://www.pcgamer.com/games/action/a-sequel-to-aliens-fireteam-elite-is-almost-certainly-in-development-having-briefly-burst-onto-the-esrbs-website/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
