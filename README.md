@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)
- - 😝 [Typing this on a plane, hope no one sees](http://9gag.com/gag/aryr81d)
- - 👉 [From the archives](http://9gag.com/gag/aPAdnnG)<!-- MEMES:END -->
+ - 6️⃣ [Not gonna lie, this is exactly how i play Hitman games.](http://9gag.com/gag/aGyNogw)
+ - 😝 [I am illegal](http://9gag.com/gag/a1mqxEG)
+ - 👉 [Training for cock](http://9gag.com/gag/amobn49)<!-- MEMES:END -->
 
 --- 
 
