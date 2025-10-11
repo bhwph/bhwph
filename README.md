@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What culture](http://9gag.com/gag/aGyNoOK)
- - 😝 [Hey 9 gag let me post this video, it&#39;s not Islmiccc post](http://9gag.com/gag/aD2Nr0N)
- - 👉 [I am illegal](http://9gag.com/gag/a1mqxEG)<!-- MEMES:END -->
+ - 6️⃣ [THE CAMERA MAN HAD ONE JOB ONE JOB](http://9gag.com/gag/azxDQoq)
+ - 😝 [Girl always chooses the wrong guy](http://9gag.com/gag/aE0NQne)
+ - 👉 [From the archives](http://9gag.com/gag/aPAdnnG)<!-- MEMES:END -->
 
 --- 
 
