@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not gonna lie, this is exactly how i play Hitman games.](http://9gag.com/gag/aGyNogw)
- - 😝 [I am illegal](http://9gag.com/gag/a1mqxEG)
- - 👉 [Training for cock](http://9gag.com/gag/amobn49)<!-- MEMES:END -->
+ - 6️⃣ [Ana - I wonder what she feeds them](http://9gag.com/gag/amobnRX)
+ - 😝 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
+ - 👉 [Convenient](http://9gag.com/gag/aE0NQKx)<!-- MEMES:END -->
 
 --- 
 
