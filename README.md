@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 😝 [Office Office](http://9gag.com/gag/aND22D6)
- - 👉 [What culture](http://9gag.com/gag/aGyNoOK)<!-- MEMES:END -->
+ - 6️⃣ [What culture](http://9gag.com/gag/aGyNoOK)
+ - 😝 [Hey 9 gag let me post this video, it&#39;s not Islmiccc post](http://9gag.com/gag/aD2Nr0N)
+ - 👉 [I am illegal](http://9gag.com/gag/a1mqxEG)<!-- MEMES:END -->
 
 --- 
 
