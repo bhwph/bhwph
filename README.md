@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: in 2025, tech companies have raised about $157B in the US bond markets, up 70% from last year, as debt seeps into every corner of the AI economy &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/251011/p15#a251011p15)
- - [A look at Figure AI&#39;s new robot, Figure 03, which the company claims will be its first mass-producible humanoid capable of domestic chores and industrial labor &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/251011/p14#a251011p14)
- - [6 Best Carpet Cleaners &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-carpet-cleaner/)<!-- TECH:END -->
+ - [Indonesia&#39;s film industry is embracing AI tools to produce Hollywood-style movies at a significantly lower cost; the average local film budget is about $602,500 &lpar;Linda Yulisman/Rest of World&rpar;](http://www.techmeme.com/251011/p18#a251011p18)
+ - [Apple Clips social video app killed after eight years](https://appleinsider.com/articles/25/10/11/apple-clips-social-video-app-killed-after-eight-years?utm_source=rss)
+ - [Apple discontinues Clips, a video editing app it launched in 2017, removing it from the App Store for new users, and says Clips will no longer be updated &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/251011/p17#a251011p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
