@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not gonna lie, this is exactly how i play Hitman games.](http://9gag.com/gag/aGyNogw)
- - 😝 [They are the meme](http://9gag.com/gag/a5Qyxgy)
- - 👉 [Training for cock](http://9gag.com/gag/amobn49)<!-- MEMES:END -->
+ - 6️⃣ [Girl always chooses the wrong guy](http://9gag.com/gag/aE0NQne)
+ - 😝 [So much work and..](http://9gag.com/gag/axyn4y1)
+ - 👉 [Convenient](http://9gag.com/gag/aE0NQKx)<!-- MEMES:END -->
 
 --- 
 
