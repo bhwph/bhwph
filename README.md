@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gear News of the Week: Intel’s New Chips Arrive, and Apple May Debut iPads and MacBooks This Month](https://www.wired.com/story/gear-news-of-the-week-intels-new-chips-arrive-and-apple-may-debut-ipads-and-macbooks-this-month/)
- - [Pixels don’t have widget stacks, but this app makes me miss them less](https://www.androidauthority.com/this-app-made-switching-to-a-pixel-easy-3604247/)
- - [Crypto markets crashed after Trump threatened an extra 100% tariff on China, triggering $19.1B+ in liquidations, 10x+ the liquidations during the FTX crash &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/251011/p11#a251011p11)<!-- TECH:END -->
+ - [AI acqui-hire could boost Apple Intelligence&#39;s vision capabilities](https://appleinsider.com/articles/25/10/11/ai-acqui-hire-could-boost-apple-intelligences-vision-capabilities?utm_source=rss)
+ - [Gemini could be the big Google Maps upgrade we’ve been waiting for](https://www.androidauthority.com/authority-insights-podcast-008-3606075/)
+ - [14 unusual Android apps I always install on my phone](https://www.androidauthority.com/unusual-android-apps-3605365/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
