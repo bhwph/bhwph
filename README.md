@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI acqui-hire could boost Apple Intelligence&#39;s vision capabilities](https://appleinsider.com/articles/25/10/11/ai-acqui-hire-could-boost-apple-intelligences-vision-capabilities?utm_source=rss)
- - [Gemini could be the big Google Maps upgrade we’ve been waiting for](https://www.androidauthority.com/authority-insights-podcast-008-3606075/)
- - [14 unusual Android apps I always install on my phone](https://www.androidauthority.com/unusual-android-apps-3605365/)<!-- TECH:END -->
+ - [Apple beats Musk, buys Prompt AI startup](https://appleinsider.com/articles/25/10/11/ai-acqui-hire-could-boost-apple-intelligences-vision-capabilities?utm_source=rss)
+ - [Amazfit T-Rex 3 Pro Review: An Outdoor Watch That Doesn&#39;t Work](https://www.wired.com/review/amazfit-t-rex-3-pro/)
+ - [American politics has devolved into shitposting and aura farming](https://www.theverge.com/policy/798491/frog-portland-trump-national-guard)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
