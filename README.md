@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Academics sue over using pirated books for Apple Intelligence training](https://appleinsider.com/articles/25/10/10/academics-sue-over-using-pirated-books-for-apple-intelligence-training?utm_source=rss)
- - [Nathan Calvin, general counsel of AI safety nonprofit Encode, says OpenAI used intimidation tactics to undermine California&#39;s SB 53 while it was being debated &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/251010/p29#a251010p29)
- - [Deal: The Google TV Streamer is still 20% off!](https://www.androidauthority.com/google-tv-streamer-deal-7-3605632/)<!-- TECH:END -->
+ - [Marc Benioff says President Trump is &quot;doing a great job&quot; and believes National Guard troops should be deployed to San Francisco to help reduce crime in the city &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251010/p34#a251010p34)
+ - [Sources: Morgan Stanley told its financial advisors it will broaden access to crypto investments to all clients and allow such investments in any account type &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/251010/p33#a251010p33)
+ - [AI Companions Use These 6 Tactics to Keep You Chatting](https://www.cnet.com/tech/ai-companions-use-these-6-tactics-to-keep-you-chatting/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
