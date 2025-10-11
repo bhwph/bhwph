@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [3 best movie masterpieces on Netflix right now &lpar;Oct 11&rpar;](https://www.polygon.com/best-movies-masterpieces-on-netflix-oct-11-2025/)
  - [Today&#39;s Wordle clues, hints and answer for October 11 &lpar;#1575&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-11-2025/)
- - [Galaxy Buds 3 Pro Are Going for Pennies, the New AirPods Pro Can’t Compete at Full Price](https://kotaku.com/galaxy-buds-3-pro-are-going-for-pennies-the-new-airpods-pro-cant-compete-at-full-price-2000634125)
- - [Find and photograph cryptids in 2D adventure Lone Pine](https://www.pcgamer.com/games/adventure/find-and-photograph-cryptids-in-2d-adventure-lone-pine/)<!-- GAME:END -->
+ - [Galaxy Buds 3 Pro Are Going for Pennies, the New AirPods Pro Can’t Compete at Full Price](https://kotaku.com/galaxy-buds-3-pro-are-going-for-pennies-the-new-airpods-pro-cant-compete-at-full-price-2000634125)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
