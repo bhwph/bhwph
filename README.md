@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [While Americans fight each other over skin colour and immigration.](http://9gag.com/gag/aLnNNL5)
- - 😝 [I am illegal](http://9gag.com/gag/a1mqxEG)
- - 👉 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)<!-- MEMES:END -->
+ - 6️⃣ [Training for cock](http://9gag.com/gag/amobn49)
+ - 😝 [What culture](http://9gag.com/gag/aGyNoOK)
+ - 👉 [I hate the double click upvote option lol.](http://9gag.com/gag/ajPMyY0)<!-- MEMES:END -->
 
 --- 
 
