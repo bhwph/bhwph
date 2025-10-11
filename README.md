@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a report, the G20&#39;s Financial Stability Board says regulators are in the early stages of tracking risks posed to the financial system by AI&#39;s rapid adoption &lpar;Laura Noonan/Bloomberg&rpar;](http://www.techmeme.com/251011/p9#a251011p9)
  - [Filing: Lime&#39;s UK revenue rose 75% YoY to £111.3M in 2024, while its pre-tax profit fell to £1.71M, partly due to a £51.3M &quot;reseller fee&quot; paid to its US parent &lpar;Athena Browning/Zag Daily&rpar;](http://www.techmeme.com/251011/p8#a251011p8)
- - [Corvette E-Ray 2026 Review: Price, Specs, Availability](https://www.wired.com/review/corvette-e-ray/)
- - [Ten major banks including Bank of America, Goldman Sachs, Deutsche Bank, and UBS announce an early-stage project to explore issuing stablecoins to G7 currencies &lpar;Reuters&rpar;](http://www.techmeme.com/251011/p7#a251011p7)<!-- TECH:END -->
+ - [Corvette E-Ray 2026 Review: Price, Specs, Availability](https://www.wired.com/review/corvette-e-ray/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
