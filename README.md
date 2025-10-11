@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we got before Grand Theft Auto 6](https://www.polygon.com/what-we-got-before-grand-theft-auto-6/)
- - [Vicious director explains the ending of his cryptic horror movie](https://www.polygon.com/vicious-ending-explained-director-interview-texas-chain-saw-massacre/)
- - [NYCC Lucasfilm panel reveals new Leia and Rey book and so much more](https://www.polygon.com/star-wars-nycc-news-novels-lucasfilms-publishing/)<!-- GAME:END -->
+ - [Borderlands 4 post-launch roadmap includes seasonal event, paid DLC, and its first raid boss](https://www.pcgamer.com/games/fps/borderlands-4-post-launch-roadmap-includes-seasonal-event-paid-dlc-and-its-first-raid-boss/)
+ - [Star Trek&#39;s Starfleet Academy trailer goes big at NYCC](https://www.polygon.com/paul-giamatti-starfleet-academy-trailer-nycc/)
+ - [Star Trek: Strange New Worlds season 4 footage revealed at NYCC](https://www.polygon.com/star-trek-strange-new-worlds-season-4-teaser-trailer-nycc/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
