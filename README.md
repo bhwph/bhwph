@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple beats Musk, buys Prompt AI startup](https://appleinsider.com/articles/25/10/11/ai-acqui-hire-could-boost-apple-intelligences-vision-capabilities?utm_source=rss)
- - [Amazfit T-Rex 3 Pro Review: An Outdoor Watch That Doesn&#39;t Work](https://www.wired.com/review/amazfit-t-rex-3-pro/)
- - [American politics has devolved into shitposting and aura farming](https://www.theverge.com/policy/798491/frog-portland-trump-national-guard)<!-- TECH:END -->
+ - [Analysis: in 2025, tech companies have raised about $157B in the US bond markets, up 70% from last year, as debt seeps into every corner of the AI economy &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/251011/p15#a251011p15)
+ - [A look at Figure AI&#39;s new robot, Figure 03, which the company claims will be its first mass-producible humanoid capable of domestic chores and industrial labor &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/251011/p14#a251011p14)
+ - [6 Best Carpet Cleaners &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-carpet-cleaner/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
