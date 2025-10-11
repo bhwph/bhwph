@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NPCI, which runs India&#39;s UPI, partners with OpenAI and digital payment company Razorpay on a pilot to let consumers shop and pay directly through ChatGPT &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251010/p35#a251010p35)
  - [Marc Benioff says President Trump is &quot;doing a great job&quot; and believes National Guard troops should be deployed to San Francisco to help reduce crime in the city &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251010/p34#a251010p34)
- - [Sources: Morgan Stanley told its financial advisors it will broaden access to crypto investments to all clients and allow such investments in any account type &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/251010/p33#a251010p33)
- - [AI Companions Use These 6 Tactics to Keep You Chatting](https://www.cnet.com/tech/ai-companions-use-these-6-tactics-to-keep-you-chatting/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Morgan Stanley told its financial advisors it will broaden access to crypto investments to all clients and allow such investments in any account type &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/251010/p33#a251010p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
