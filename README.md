@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for October 11 &lpar;#1575&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-11-2025/)
  - [Galaxy Buds 3 Pro Are Going for Pennies, the New AirPods Pro Can’t Compete at Full Price](https://kotaku.com/galaxy-buds-3-pro-are-going-for-pennies-the-new-airpods-pro-cant-compete-at-full-price-2000634125)
- - [Find and photograph cryptids in 2D adventure Lone Pine](https://www.pcgamer.com/games/adventure/find-and-photograph-cryptids-in-2d-adventure-lone-pine/)
- - [Jackery’s 1500W Power Station Is Cheaper Than During Prime Day, Looks Like Amazon’s Selling at Cost](https://kotaku.com/jackerys-1500w-power-station-is-cheaper-than-during-prime-day-looks-like-amazons-selling-at-cost-2000634122)<!-- GAME:END -->
+ - [Find and photograph cryptids in 2D adventure Lone Pine](https://www.pcgamer.com/games/adventure/find-and-photograph-cryptids-in-2d-adventure-lone-pine/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
