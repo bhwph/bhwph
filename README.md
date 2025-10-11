@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NPCI, which runs India&#39;s UPI, partners with OpenAI and digital payment company Razorpay on a pilot to let consumers shop and pay directly through ChatGPT &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251010/p35#a251010p35)
- - [Marc Benioff says President Trump is &quot;doing a great job&quot; and believes National Guard troops should be deployed to San Francisco to help reduce crime in the city &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251010/p34#a251010p34)
- - [Sources: Morgan Stanley told its financial advisors it will broaden access to crypto investments to all clients and allow such investments in any account type &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/251010/p33#a251010p33)<!-- TECH:END -->
+ - [Filing: Lime&#39;s UK revenue rose 75% YoY to £111.3M in 2024, while its pre-tax profit fell to £1.71M, partly due to a £51.3M &quot;reseller fee&quot; paid to its US parent &lpar;Athena Browning/Zag Daily&rpar;](http://www.techmeme.com/251011/p8#a251011p8)
+ - [Corvette E-Ray 2026 Review: Price, Specs, Availability](https://www.wired.com/review/corvette-e-ray/)
+ - [Ten major banks including Bank of America, Goldman Sachs, Deutsche Bank, and UBS announce an early-stage project to explore issuing stablecoins to G7 currencies &lpar;Reuters&rpar;](http://www.techmeme.com/251011/p7#a251011p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
