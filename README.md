@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tron: Ares wouldn&#39;t have happened without Jared Leto](https://www.polygon.com/tron-ares-probably-wouldnt-exist-without-jared-leto/)
- - [Prepare to have your brain fried by this electric shoot &#39;em up from an ex-Housemarque designer when it launches next month](https://www.pcgamer.com/games/action/prepare-to-have-your-brain-fried-by-this-electric-shoot-em-up-from-an-ex-housemarque-designer-when-it-launches-next-month/)
- - [HP 17-Inch Laptop with Windows 11 Pro Is $1,560 Off, Now Going for Pennies Right After Prime Day](https://kotaku.com/hp-17-inch-laptop-with-windows-11-pro-is-1560-off-now-going-for-pennies-right-after-prime-day-2000634417)<!-- GAME:END -->
+ - [Deadlock just shuffled everyone into new ranked leagues overnight, but players suspect matchmaking won&#39;t feel any different: &#39;If you were miserable before, you&#39;ll still be miserable now&#39;](https://www.pcgamer.com/games/moba/deadlock-just-shuffled-everyone-into-new-ranked-leagues-overnight-but-players-suspect-matchmaking-wont-feel-any-different-if-you-were-miserable-before-youll-still-be-miserable-now/)
+ - [MTG&#39;s new TMNT set gives a classic deck mechanic a major boost](https://www.polygon.com/mtg-magic-the-gathering-tmnt-set-krang-affinity/)
+ - [The bold and futile attempt to fix the disastrous Aliens: Colonial Marines](https://www.pcgamer.com/games/fps/the-bold-and-futile-attempt-to-fix-the-disastrous-aliens-colonial-marines/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
