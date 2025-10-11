@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indonesia&#39;s film industry is embracing AI tools to produce Hollywood-style movies at a significantly lower cost; the average local film budget is about $602,500 &lpar;Linda Yulisman/Rest of World&rpar;](http://www.techmeme.com/251011/p18#a251011p18)
- - [Apple Clips social video app killed after eight years](https://appleinsider.com/articles/25/10/11/apple-clips-social-video-app-killed-after-eight-years?utm_source=rss)
- - [Apple discontinues Clips, a video editing app it launched in 2017, removing it from the App Store for new users, and says Clips will no longer be updated &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/251011/p17#a251011p17)<!-- TECH:END -->
+ - [Interviews with security researchers about AI&#39;s potential for large-scale destruction, as experts remain divided and global regulatory frameworks lag &lpar;Stephen Witt/New York Times&rpar;](http://www.techmeme.com/251011/p20#a251011p20)
+ - [Apple ends support for Clips video-editing app](https://www.theverge.com/news/798676/apple-ends-support-for-clips-video-editing-app)
+ - [All the Big Marvel TV Announcements for X-Men &#39;97, VisionQuest and More at NYCC 2025](https://www.cnet.com/tech/services-and-software/all-the-big-marvel-tv-announcements-for-x-men-97-visionquest-and-more-at-nycc-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
