@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Ball Sparking Zero fans are hungry for more, one year post-launch](https://www.polygon.com/dragon-ball-sparking-zero-one-year-later/)
- - [Windows 10&#39;s greatest achievement was not being Windows 8, and I think we can all be thankful for that](https://www.pcgamer.com/software/windows/windows-10s-greatest-achievement-was-not-being-windows-8-and-i-think-we-can-all-be-thankful-for-that/)
- - [A sequel to Aliens: Fireteam Elite is almost certainly in development, having briefly burst onto the ESRB&#39;s website](https://www.pcgamer.com/games/action/a-sequel-to-aliens-fireteam-elite-is-almost-certainly-in-development-having-briefly-burst-onto-the-esrbs-website/)<!-- GAME:END -->
+ - [Tron: Ares wouldn&#39;t have happened without Jared Leto](https://www.polygon.com/tron-ares-probably-wouldnt-exist-without-jared-leto/)
+ - [Prepare to have your brain fried by this electric shoot &#39;em up from an ex-Housemarque designer when it launches next month](https://www.pcgamer.com/games/action/prepare-to-have-your-brain-fried-by-this-electric-shoot-em-up-from-an-ex-housemarque-designer-when-it-launches-next-month/)
+ - [HP 17-Inch Laptop with Windows 11 Pro Is $1,560 Off, Now Going for Pennies Right After Prime Day](https://kotaku.com/hp-17-inch-laptop-with-windows-11-pro-is-1560-off-now-going-for-pennies-right-after-prime-day-2000634417)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
