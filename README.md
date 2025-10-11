@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Ana - I wonder what she feeds them](http://9gag.com/gag/amobnRX)
- - 😝 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
- - 👉 [Convenient](http://9gag.com/gag/aE0NQKx)<!-- MEMES:END -->
+ - 😝 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
+ - 👉 [Hasan, the animal abuser](http://9gag.com/gag/axynmqb)<!-- MEMES:END -->
 
 --- 
 
