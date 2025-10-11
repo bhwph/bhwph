@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [9gag ramping up censorship again](http://9gag.com/gag/aZZVvL3)
- - 😝 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
- - 👉 [From the archives](http://9gag.com/gag/aPAdnnG)<!-- MEMES:END -->
+ - 6️⃣ [While Americans fight each other over skin colour and immigration.](http://9gag.com/gag/aLnNNL5)
+ - 😝 [I am illegal](http://9gag.com/gag/a1mqxEG)
+ - 👉 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)<!-- MEMES:END -->
 
 --- 
 
