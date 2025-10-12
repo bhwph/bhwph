@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s been decades, but archiving emails in Gmail still sucks](https://www.androidauthority.com/archive-email-gmail-problem-3605777/)
- - [Specialized S-Works Levo 4 Electric Mountain Bike Review: The Best Electric Mountain Bike](https://www.wired.com/review/specialized-s-works-levo-4/)
- - [Welcome to the ‘papers, please’ internet](https://www.theverge.com/column/798159/age-gating-internet)<!-- TECH:END -->
+ - [4 Best Website Builders &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-website-builders/)
+ - [Police are asking kids to stop pulling AI homeless man prank](https://www.theverge.com/news/798681/police-stop-pulling-ai-homeless-man-tiktok-prank)
+ - [How BlackBerry Messenger set texting free](https://www.theverge.com/podcast/798692/how-blackberry-messenger-set-texting-free)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
