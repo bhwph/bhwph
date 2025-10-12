@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baby Steps has one of the most meaningful choices I&#39;ve ever encountered in a game](https://www.polygon.com/baby-steps-manbreaker-stairs-choice/)
- - [Promising RTS Dinolords, which is basically Age of Empires with dinosaurs, is getting a closed alpha playtest that you can join later this month](https://www.pcgamer.com/games/rts/promising-rts-dinolords-which-is-basically-age-of-empires-with-dinosaurs-is-getting-a-closed-alpha-playtest-that-you-can-join-later-this-month/)
- - [Wes Craven&#39;s My Soul to Take comes of age at 15](https://www.polygon.com/my-soul-to-take-15th-anniversary/)<!-- GAME:END -->
+ - [Life is Strange&#39;s final choice is still haunting me a decade later](https://www.polygon.com/life-is-strange-10th-anniversary-final-choice/)
+ - [&#39;Rockstar keeps us on our toes&#39;: Will we get another GTA 6 trailer before launch, and if so, what can we expect?](https://www.pcgamer.com/games/grand-theft-auto/rockstar-keeps-us-on-our-toes-will-we-get-another-gta-6-trailer-before-launch-and-if-so-what-can-we-expect/)
+ - [Clone Wars creator says he never got a Star Wars: Visions call](https://www.polygon.com/star-wars-clone-wars-creator-never-got-a-call-to-work-on-visions/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
