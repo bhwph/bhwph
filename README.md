@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fire TV Soundbar Is Selling for Pennies Post Prime Day, Now 5x Less Than Sony or Bose Rivals](https://kotaku.com/fire-tv-soundbar-is-selling-for-pennies-post-prime-day-now-5x-less-than-sony-or-bose-rivals-2000634427)
- - [Xbox Controllers Are Now Selling for Pennies, Microsoft Is Offloading Prime Day Leftovers](https://kotaku.com/xbox-controllers-are-now-selling-for-pennies-microsoft-is-offloading-prime-day-leftovers-2000634423)
- - [Diablo 4 player hands their necromancer a gun for a 1-button build that covers the screen in hundreds of bone bullets and billions in damage](https://www.pcgamer.com/games/rpg/diablo-4-player-hands-their-necromancer-a-gun-for-a-1-button-build-that-covers-the-screen-in-hundreds-of-bone-bullets-and-billions-in-damage/)<!-- GAME:END -->
+ - [Pokémon Go Solosis Community Day guide](https://www.polygon.com/pokemon-go-solosis-community-day-shiny-reuniclus-moveset/)
+ - [Prolific D&amp;D novelist R.A. Salvatore says writing around 4th Edition rules &#39;almost broke&#39; him and he knew its setting changes were a mistake: &#39;In about 5 years they&#39;re going to come to us and say, Bob, we got to fix this&#39;](https://www.pcgamer.com/games/rpg/prolific-d-and-d-novelist-r-a-salvatore-says-writing-around-4th-edition-rules-almost-broke-him-and-he-knew-its-setting-changes-were-a-mistake-in-about-5-years-theyre-going-to-come-to-us-and-say-bob-we-got-to-fix-this/)
+ - [Fire TV Soundbar Is Selling for Pennies Post Prime Day, Now 5x Less Than Sony or Bose Rivals](https://kotaku.com/fire-tv-soundbar-is-selling-for-pennies-post-prime-day-now-5x-less-than-sony-or-bose-rivals-2000634427)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
