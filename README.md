@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Definitely didn&#39;t see that one coming](http://9gag.com/gag/a7o6G6z)
- - 😝 [Never relax around them](http://9gag.com/gag/aGyNNeZ)
- - 👉 [My name is ...](http://9gag.com/gag/aByNvex)<!-- MEMES:END -->
+ - 6️⃣ [Hey 9 gag let me post this video, it&#39;s not Islmiccc post](http://9gag.com/gag/aD2Nr0N)
+ - 😝 [I am in this video](http://9gag.com/gag/aYQnn2q)
+ - 👉 [Nice Pilots...](http://9gag.com/gag/axyneEM)<!-- MEMES:END -->
 
 --- 
 
