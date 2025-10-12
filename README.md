@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for October 12 &lpar;#1576&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-12-2025/)
- - [Pokémon Go Solosis Community Day guide](https://www.polygon.com/pokemon-go-solosis-community-day-shiny-reuniclus-moveset/)
- - [Prolific D&amp;D novelist R.A. Salvatore says writing around 4th Edition rules &#39;almost broke&#39; him and he knew its setting changes were a mistake: &#39;In about 5 years they&#39;re going to come to us and say, Bob, we got to fix this&#39;](https://www.pcgamer.com/games/rpg/prolific-d-and-d-novelist-r-a-salvatore-says-writing-around-4th-edition-rules-almost-broke-him-and-he-knew-its-setting-changes-were-a-mistake-in-about-5-years-theyre-going-to-come-to-us-and-say-bob-we-got-to-fix-this/)<!-- GAME:END -->
+ - [Got a PS5, Xbox, or Switch? This Portable Monitor Going for Pennies Lets You Play Anywhere](https://kotaku.com/got-a-ps5-xbox-or-switch-this-portable-monitor-going-for-pennies-lets-you-play-anywhere-2000634469)
+ - [Apple Is Going Nuts, The MacBook Air 2025 Is Now Cheaper Than a Random Mid-Range Windows Laptop](https://kotaku.com/apple-is-going-nuts-the-macbook-air-2025-is-now-cheaper-than-a-random-mid-range-windows-laptop-2000634464)
+ - [Marvel&#39;s new X-Men saga makes major changes to a classic](https://www.polygon.com/kitty-pryde-phoenix-force-book-excerpt/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
