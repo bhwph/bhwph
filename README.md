@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I am illegal](http://9gag.com/gag/a1mqxEG)
- - 😝 [Send hot noods](http://9gag.com/gag/a0eWWXL)
- - 👉 [Hey 9 gag let me post this video, it&#39;s not Islmiccc post](http://9gag.com/gag/aD2Nr0N)<!-- MEMES:END -->
+ - 6️⃣ [THE CAMERA MAN HAD ONE JOB ONE JOB](http://9gag.com/gag/azxDQoq)
+ - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
+ - 👉 [You are mine now!](http://9gag.com/gag/a7o6Per)<!-- MEMES:END -->
 
 --- 
 
