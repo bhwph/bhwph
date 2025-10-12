@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 😝 [How long did it take for you to get it?](http://9gag.com/gag/aryrr1X)
- - 👉 [Looks expensive](http://9gag.com/gag/ajPMGRq)<!-- MEMES:END -->
+ - 😝 [`it&#39;s not a realistic female body`](http://9gag.com/gag/awyGG3Q)
+ - 👉 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)<!-- MEMES:END -->
 
 --- 
 
