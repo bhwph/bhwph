@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Preview users have noticed OneDrive&#39;s AI-driven face recognition setting is opt-out, and can only be turned off &#39;three times a year&#39;](https://www.pcgamer.com/software/ai/preview-users-have-noticed-onedrives-ai-driven-face-recognition-setting-is-opt-out-and-can-only-be-turned-off-three-times-a-year/)
  - [After learning his cult &#39;90s RPG influenced Undertale, this Japanese developer finally got &#39;the courage&#39; to make another RPG decades later thanks to Toby Fox](https://www.pcgamer.com/games/rpg/after-learning-his-cult-90s-rpg-influenced-undertale-this-japanese-developer-finally-got-the-courage-to-make-another-rpg-decades-later-thanks-to-toby-fox/)
- - [JuJutsu Kaisen dub voice actors worry Hollywood will learn the wrong lesson from Demon Slayer’s success](https://www.polygon.com/jujutsu-kaisen-voice-actors-vs-hollywood-stars/)
- - [Abiotic Factor gets new roadmap featuring a mystery crossover, DLC plans, and new difficulty modes alongside dev Q&amp;A: &#39;We&#39;re terrified of our obligations to the community so be nice, we love you&#39;](https://www.pcgamer.com/games/survival-crafting/abiotic-factor-gets-new-roadmap-featuring-a-mystery-crossover-dlc-plans-and-new-difficulty-modes-alongside-dev-q-and-a-were-terrified-of-our-obligations-to-the-community-so-be-nice-we-love-you/)<!-- GAME:END -->
+ - [JuJutsu Kaisen dub voice actors worry Hollywood will learn the wrong lesson from Demon Slayer’s success](https://www.polygon.com/jujutsu-kaisen-voice-actors-vs-hollywood-stars/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
