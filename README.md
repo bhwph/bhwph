@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hey 9 gag let me post this video, it&#39;s not Islmiccc post](http://9gag.com/gag/aD2Nr0N)
- - 😝 [I am in this video](http://9gag.com/gag/aYQnn2q)
- - 👉 [Nice Pilots...](http://9gag.com/gag/axyneEM)<!-- MEMES:END -->
+ - 6️⃣ [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
+ - 😝 [My name is ...](http://9gag.com/gag/aByNvex)
+ - 👉 [Looks expensive](http://9gag.com/gag/ajPMGRq)<!-- MEMES:END -->
 
 --- 
 
