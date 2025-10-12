@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Got a PS5, Xbox, or Switch? This Portable Monitor Going for Pennies Lets You Play Anywhere](https://kotaku.com/got-a-ps5-xbox-or-switch-this-portable-monitor-going-for-pennies-lets-you-play-anywhere-2000634469)
- - [Apple Is Going Nuts, The MacBook Air 2025 Is Now Cheaper Than a Random Mid-Range Windows Laptop](https://kotaku.com/apple-is-going-nuts-the-macbook-air-2025-is-now-cheaper-than-a-random-mid-range-windows-laptop-2000634464)
- - [Marvel&#39;s new X-Men saga makes major changes to a classic](https://www.polygon.com/kitty-pryde-phoenix-force-book-excerpt/)<!-- GAME:END -->
+ - [Baby Steps has one of the most meaningful choices I&#39;ve ever encountered in a game](https://www.polygon.com/baby-steps-manbreaker-stairs-choice/)
+ - [Promising RTS Dinolords, which is basically Age of Empires with dinosaurs, is getting a closed alpha playtest that you can join later this month](https://www.pcgamer.com/games/rts/promising-rts-dinolords-which-is-basically-age-of-empires-with-dinosaurs-is-getting-a-closed-alpha-playtest-that-you-can-join-later-this-month/)
+ - [Wes Craven&#39;s My Soul to Take comes of age at 15](https://www.polygon.com/my-soul-to-take-15th-anniversary/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
