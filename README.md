@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD&#39;s SVP of AI Vamsi Boppana says the company&#39;s AI software, designed with input from OpenAI, helped secure the multi-billion dollar deal with OpenAI &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/251011/p22#a251011p22)
- - [SEMI: US chip fab investment to outpace China, Taiwan, and South Korea from 2027, driven by AI demand and US policies, rising from $21B in 2025 to $43B in 2028 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251011/p21#a251011p21)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 12 #588](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-12-588/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google adds Gemini 2.5 Flash Image, aka Nano Banana, to Search&#39;s AI Mode and Google Lens, on Android in the US for those with an account opted into Search Lab &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251011/p24#a251011p24)
+ - [LineageOS releases Android 16 update despite challenges with Android source code](https://www.androidauthority.com/lineageos-23-release-3604073/)
+ - [Sources: Securitize, a blockchain company that tokenizes investments, is in talks to go public via a SPAC started by Cantor Fitzgerald at a $1B+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251011/p23#a251011p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
