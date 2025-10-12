@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I am illegal](http://9gag.com/gag/a1mqxEG)
- - 😝 [Looks expensive](http://9gag.com/gag/ajPMGRq)
- - 👉 [My name is ...](http://9gag.com/gag/aByNvex)<!-- MEMES:END -->
+ - 6️⃣ [My name is ...](http://9gag.com/gag/aByNvex)
+ - 😝 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
+ - 👉 [I love how she was turned on by him violently yonking his shit next to her in the van](http://9gag.com/gag/aYQndAv)<!-- MEMES:END -->
 
 --- 
 
