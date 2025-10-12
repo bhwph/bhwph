@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Polymarket CEO Shayne Coplan, whose estimated 11% stake is now worth $1B+ following ICE&#39;s $2B investment, as its rivalry with Kalshi intensifies &lpar;Forbes&rpar;](http://www.techmeme.com/251012/p5#a251012p5)
- - [Qantas says 5.7M customer records stolen in a July breach of a third-party platform have been released online, and it is assessing the extent of the exposure &lpar;Jason Gale/Bloomberg&rpar;](http://www.techmeme.com/251012/p4#a251012p4)
- - [Foundation Health, which develops an AI assistant to automate patient communication and prior authorization workflows for pharmacies, raised a $20M Series A &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/251012/p3#a251012p3)<!-- TECH:END -->
+ - [Gemini is better on my old Pixel than the Pixel 10, thanks to one forgotten feature](https://www.androidauthority.com/gemini-on-old-pixel-better-than-pixel-10-3605824/)
+ - [Should You Cancel Xbox Game Pass? Everything to Know on the Price Hikes and New Features](https://www.wired.com/story/should-you-cancel-xbox-game-pass-everything-to-know-on-the-price-hikes-and-new-features/)
+ - [As console prices increase, I’ve never been more thankful for emulation handhelds](https://www.androidauthority.com/console-prices-emulation-handhelds-3600218/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
