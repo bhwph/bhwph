@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [THE CAMERA MAN HAD ONE JOB ONE JOB](http://9gag.com/gag/azxDQoq)
- - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 👉 [You are mine now!](http://9gag.com/gag/a7o6Per)<!-- MEMES:END -->
+ - 6️⃣ [A skirt that tight you got no secrets](http://9gag.com/gag/avyXXPb)
+ - 😝 [I am illegal](http://9gag.com/gag/a1mqxEG)
+ - 👉 [My name is ...](http://9gag.com/gag/aByNvex)<!-- MEMES:END -->
 
 --- 
 
