@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google adds Gemini 2.5 Flash Image, aka Nano Banana, to Search&#39;s AI Mode and Google Lens, on Android in the US for those with an account opted into Search Lab &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251011/p24#a251011p24)
- - [LineageOS releases Android 16 update despite challenges with Android source code](https://www.androidauthority.com/lineageos-23-release-3604073/)
- - [Sources: Securitize, a blockchain company that tokenizes investments, is in talks to go public via a SPAC started by Cantor Fitzgerald at a $1B+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251011/p23#a251011p23)<!-- TECH:END -->
+ - [New evidence shows the Aisuru botnet, which outpaces all other IoT-based botnets, is drawing most of its firepower from hacked IoT devices hosted on US ISPs &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/251011/p25#a251011p25)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Oct. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-oct-12/#ftag=CAD590a51e)
+ - [Google adds Gemini 2.5 Flash Image, aka Nano Banana, to Search&#39;s AI Mode and Google Lens, on Android in the US for those with an account opted into Search Lab &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251011/p24#a251011p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
