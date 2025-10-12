@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 Best Website Builders &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-website-builders/)
- - [Police are asking kids to stop pulling AI homeless man prank](https://www.theverge.com/news/798681/police-stop-pulling-ai-homeless-man-tiktok-prank)
- - [How BlackBerry Messenger set texting free](https://www.theverge.com/podcast/798692/how-blackberry-messenger-set-texting-free)<!-- TECH:END -->
+ - [Judges in Latin America are struggling to rule on cases of AI-generated images even as courts increasingly adopt AI tools to clear case backlogs &lpar;Juliana Bedoya/Rest of World&rpar;](http://www.techmeme.com/251012/p9#a251012p9)
+ - [Amazon awkwardly edited the guns out of James Bond art](https://www.theverge.com/news/798712/amazon-awkwardly-edited-the-guns-out-of-james-bond-art)
+ - [Taiwan says it expects no significant impact from China&#39;s new export controls on rare earth minerals, as it uses different rare earths in chip manufacturing &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/251012/p8#a251012p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
