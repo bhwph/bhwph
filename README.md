@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judges in Latin America are struggling to rule on cases of AI-generated images even as courts increasingly adopt AI tools to clear case backlogs &lpar;Juliana Bedoya/Rest of World&rpar;](http://www.techmeme.com/251012/p9#a251012p9)
- - [Amazon awkwardly edited the guns out of James Bond art](https://www.theverge.com/news/798712/amazon-awkwardly-edited-the-guns-out-of-james-bond-art)
- - [Taiwan says it expects no significant impact from China&#39;s new export controls on rare earth minerals, as it uses different rare earths in chip manufacturing &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/251012/p8#a251012p8)<!-- TECH:END -->
+ - [Apple&#39;s expensive iPhone Fold hinge could be cheaper than expected](https://appleinsider.com/articles/25/10/12/apples-expensive-iphone-fold-hinge-could-be-cheaper-than-expected?utm_source=rss)
+ - [You need to watch the bonkers Japanese fantasy horror film House](https://www.theverge.com/entertainment/798719/watch-japanese-horror-fantasy-film-house-halloween)
+ - [19 Excellent Horror Movies to Watch on HBO Max](https://www.cnet.com/tech/services-and-software/19-excellent-horror-movies-to-watch-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
