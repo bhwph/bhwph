@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 😝 [My name is ...](http://9gag.com/gag/aByNvex)
- - 👉 [Looks expensive](http://9gag.com/gag/ajPMGRq)<!-- MEMES:END -->
+ - 6️⃣ [Human fren shaped helper.](http://9gag.com/gag/a2vjArD)
+ - 😝 [`it&#39;s not a realistic female body`](http://9gag.com/gag/awyGG3Q)
+ - 👉 [He&#39;s right](http://9gag.com/gag/ae9Pq5p)<!-- MEMES:END -->
 
 --- 
 
