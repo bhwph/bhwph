@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Life is Strange&#39;s final choice is still haunting me a decade later](https://www.polygon.com/life-is-strange-10th-anniversary-final-choice/)
- - [&#39;Rockstar keeps us on our toes&#39;: Will we get another GTA 6 trailer before launch, and if so, what can we expect?](https://www.pcgamer.com/games/grand-theft-auto/rockstar-keeps-us-on-our-toes-will-we-get-another-gta-6-trailer-before-launch-and-if-so-what-can-we-expect/)
- - [Clone Wars creator says he never got a Star Wars: Visions call](https://www.polygon.com/star-wars-clone-wars-creator-never-got-a-call-to-work-on-visions/)<!-- GAME:END -->
+ - [After learning his cult &#39;90s RPG influenced Undertale, this Japanese developer finally got &#39;the courage&#39; to make another RPG decades later thanks to Toby Fox](https://www.pcgamer.com/games/rpg/after-learning-his-cult-90s-rpg-influenced-undertale-this-japanese-developer-finally-got-the-courage-to-make-another-rpg-decades-later-thanks-to-toby-fox/)
+ - [JuJutsu Kaisen dub voice actors worry Hollywood will learn the wrong lesson from Demon Slayer’s success](https://www.polygon.com/jujutsu-kaisen-voice-actors-vs-hollywood-stars/)
+ - [Abiotic Factor gets new roadmap featuring a mystery crossover, DLC plans, and new difficulty modes alongside dev Q&amp;A: &#39;We&#39;re terrified of our obligations to the community so be nice, we love you&#39;](https://www.pcgamer.com/games/survival-crafting/abiotic-factor-gets-new-roadmap-featuring-a-mystery-crossover-dlc-plans-and-new-difficulty-modes-alongside-dev-q-and-a-were-terrified-of-our-obligations-to-the-community-so-be-nice-we-love-you/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
