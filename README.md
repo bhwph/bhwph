@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini is better on my old Pixel than the Pixel 10, thanks to one forgotten feature](https://www.androidauthority.com/gemini-on-old-pixel-better-than-pixel-10-3605824/)
- - [Should You Cancel Xbox Game Pass? Everything to Know on the Price Hikes and New Features](https://www.wired.com/story/should-you-cancel-xbox-game-pass-everything-to-know-on-the-price-hikes-and-new-features/)
- - [As console prices increase, I’ve never been more thankful for emulation handhelds](https://www.androidauthority.com/console-prices-emulation-handhelds-3600218/)<!-- TECH:END -->
+ - [It’s been decades, but archiving emails in Gmail still sucks](https://www.androidauthority.com/archive-email-gmail-problem-3605777/)
+ - [Specialized S-Works Levo 4 Electric Mountain Bike Review: The Best Electric Mountain Bike](https://www.wired.com/review/specialized-s-works-levo-4/)
+ - [Welcome to the ‘papers, please’ internet](https://www.theverge.com/column/798159/age-gating-internet)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
