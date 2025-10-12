@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Preview users have noticed OneDrive&#39;s AI-driven face recognition setting is opt-out, and can only be turned off &#39;three times a year&#39;](https://www.pcgamer.com/software/ai/preview-users-have-noticed-onedrives-ai-driven-face-recognition-setting-is-opt-out-and-can-only-be-turned-off-three-times-a-year/)
- - [After learning his cult &#39;90s RPG influenced Undertale, this Japanese developer finally got &#39;the courage&#39; to make another RPG decades later thanks to Toby Fox](https://www.pcgamer.com/games/rpg/after-learning-his-cult-90s-rpg-influenced-undertale-this-japanese-developer-finally-got-the-courage-to-make-another-rpg-decades-later-thanks-to-toby-fox/)
- - [JuJutsu Kaisen dub voice actors worry Hollywood will learn the wrong lesson from Demon Slayer’s success](https://www.polygon.com/jujutsu-kaisen-voice-actors-vs-hollywood-stars/)<!-- GAME:END -->
+ - [Despite declining sales and the latest &#39;Xbox&#39; being a handheld PC, Microsoft says it&#39;s still making a next-gen console: &#39;We are actively investing in our future first-party consoles and devices&#39;](https://www.pcgamer.com/gaming-industry/despite-declining-sales-and-the-latest-xbox-being-a-handheld-pc-microsoft-says-its-still-making-a-next-gen-console-we-are-actively-investing-in-our-future-first-party-consoles-and-devices/)
+ - [Over 100 of the world&#39;s strongest Path of Exile 2 players are lining up to get chomped by a shark with trillions of health and an instant-kill tail swipe](https://www.pcgamer.com/games/rpg/over-100-of-the-worlds-strongest-path-of-exile-2-players-are-lining-up-to-get-chomped-by-a-shark-with-trillions-of-health-and-an-instant-kill-tail-swipe/)
+ - [Preview users have noticed OneDrive&#39;s AI-driven face recognition setting is opt-out, and can only be turned off &#39;three times a year&#39;](https://www.pcgamer.com/software/ai/preview-users-have-noticed-onedrives-ai-driven-face-recognition-setting-is-opt-out-and-can-only-be-turned-off-three-times-a-year/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
