@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not mine but good](http://9gag.com/gag/a9yNZL0)
- - 😝 [Send hot noods](http://9gag.com/gag/a0eWWXL)
- - 👉 [Hey 9 gag let me post this video, it&#39;s not Islmiccc post](http://9gag.com/gag/aD2Nr0N)<!-- MEMES:END -->
+ - 6️⃣ [I am illegal](http://9gag.com/gag/a1mqxEG)
+ - 😝 [Looks expensive](http://9gag.com/gag/ajPMGRq)
+ - 👉 [My name is ...](http://9gag.com/gag/aByNvex)<!-- MEMES:END -->
 
 --- 
 
