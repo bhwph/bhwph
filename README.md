@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blumhouse&#39;s latest horror game Sleep Awake is the first psychological horror I&#39;ve enjoyed in a hot minute](https://www.pcgamer.com/games/horror/blumhouses-latest-horror-game-sleep-awake-is-the-first-psychological-horror-ive-enjoyed-in-a-hot-minute/)
- - [Crucial’s X10 4TB Portable SSD Returns to Its Prime Day Low After a Brief Price Hike, Only $0.05 per GB](https://kotaku.com/crucials-x10-4tb-portable-ssd-returns-to-its-prime-day-low-after-a-brief-price-hike-only-0-05-per-gb-2000634496)
- - [Clair Obscur: Expedition 33 devs love to see players &#39;break&#39; the game](https://www.polygon.com/clair-obscur-expedition-33-sandfall-interview-player-damage-numbers/)<!-- GAME:END -->
+ - [I&#39;ve been training my whole life for a battle royale like Final Sentence, it&#39;s just a shame the demo is a tad undercooked right now](https://www.pcgamer.com/games/battle-royale/ive-been-training-my-whole-life-for-a-battle-royale-like-final-sentence-its-just-a-shame-the-demo-is-a-tad-undercooked-right-now/)
+ - [Amazon Forgot to End This Prime Day Deal, 15.6″ Portable Monitor Still Goes for Peanuts](https://kotaku.com/amazon-forgot-to-end-this-prime-day-deal-15-6%e2%80%b3-portable-monitor-still-goes-for-peanuts-2000634484)
+ - [Taylor Swift&#39;s Disney Plus Eras Tour news makes her the new Marvel Universe](https://www.polygon.com/taylor-swift-disney-plus-deal-marvel/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
