@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google updates NotebookLM&#39;s Video Overviews, adding six new Nano Banana-powered visual styles and a new &quot;Brief&quot; format for quick insights &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251013/p31#a251013p31)
- - [4 Best Website Builders &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-website-builders/)
- - [Wales vs. Belgium: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/wales-vs-belgium-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Wallet picks up support for American Airlines boarding passes](https://www.androidauthority.com/american-airlines-google-wallet-boarding-pass-3606779/)
+ - [Google updates Search to group paid results into a collapsible section with a single, larger &quot;Sponsored&quot; label at the top and a hide button at the bottom &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/251013/p34#a251013p34)
+ - [Google is turning your Nest Thermostat into a work of art](https://www.androidauthority.com/nest-thermostat-new-farsight-faces-3606750/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
