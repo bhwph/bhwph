@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [20yo unemployed Chinese student married 47yo daughter of an African diamond mine owner despite strong opposition and threat of disowning from his parents and relatives. Love truly conquers all.](http://9gag.com/gag/a5Qyvqo)
- - 😝 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)
- - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
+ - 😝 [That&#39;s a challenging wank!](http://9gag.com/gag/aPAdV8Q)
+ - 👉 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)<!-- MEMES:END -->
 
 --- 
 
