@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 😝 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
- - 👉 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)<!-- MEMES:END -->
+ - 😝 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)
+ - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
 
 --- 
 
