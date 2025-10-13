@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ninja Gaiden 4 directors say a &#39;sense of fairness&#39; is vital for difficult games: &#39;If the player gets killed unreasonably, it&#39;s hard for them to reflect and think about what they could&#39;ve done&#39;](https://www.pcgamer.com/games/action/ninja-gaiden-4-directors-say-a-sense-of-fairness-is-vital-for-difficult-games-if-the-player-gets-killed-unreasonably-its-hard-for-them-to-reflect-and-think-about-what-they-couldve-done/)
- - [ASRock Phantom Gaming X870 Nova WiFi review](https://www.pcgamer.com/hardware/motherboards/asrock-phantom-gaming-x870-nova-wifi-motherboard-review/)
- - [Today&#39;s Wordle clues, hints and answer for October 13 &lpar;#1577&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-13-2025/)<!-- GAME:END -->
+ - [Blumhouse&#39;s latest horror game Sleep Awake is the first psychological horror I&#39;ve enjoyed in a hot minute](https://www.pcgamer.com/games/horror/blumhouses-latest-horror-game-sleep-awake-is-the-first-psychological-horror-ive-enjoyed-in-a-hot-minute/)
+ - [Crucial’s X10 4TB Portable SSD Returns to Its Prime Day Low After a Brief Price Hike, Only $0.05 per GB](https://kotaku.com/crucials-x10-4tb-portable-ssd-returns-to-its-prime-day-low-after-a-brief-price-hike-only-0-05-per-gb-2000634496)
+ - [Clair Obscur: Expedition 33 devs love to see players &#39;break&#39; the game](https://www.polygon.com/clair-obscur-expedition-33-sandfall-interview-player-damage-numbers/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
