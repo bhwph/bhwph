@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ loses the Plus in Apple&#39;s quietest rebranding exercise ever](https://appleinsider.com/articles/25/10/13/apple-tv-loses-the-plus-in-apples-quietest-rebranding-exercise-ever?utm_source=rss)
- - [&#39;F1 The Movie&#39; crosses the finish line, hits Apple TV December 12](https://appleinsider.com/articles/25/10/13/f1-the-movie-crosses-the-finish-line-hits-apple-tv-december-12?utm_source=rss)
- - [Poll: Are you facing Wi-Fi issues after latest Pixel update?](https://www.androidauthority.com/pixel-wifi-issues-poll-3606694/)<!-- TECH:END -->
+ - [Google updates NotebookLM&#39;s Video Overviews, adding six new Nano Banana-powered visual styles and a new &quot;Brief&quot; format for quick insights &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251013/p31#a251013p31)
+ - [4 Best Website Builders &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-website-builders/)
+ - [Wales vs. Belgium: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/wales-vs-belgium-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
