@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with journalist Jacob Silverman on his new book Gilded Rage, the radical politics of certain tech elites, AI&#39;s impact on Silicon Valley politics, and more &lpar;Calder McHugh/Politico&rpar;](http://www.techmeme.com/251013/p4#a251013p4)
- - [13 Superfoods That Could Boost Kidney Function](https://www.cnet.com/health/nutrition/superfoods-could-boost-kidneys-small-powerful-organs/#ftag=CAD590a51e)
- - [Stable Wear OS 6 arrives for the Samsung Galaxy Watch 7](https://www.androidauthority.com/galaxy-watch-7-wear-os-6-one-ui-8-3606549/)<!-- TECH:END -->
+ - [A profile of eBay CEO Jamie Iannone, who said the platform was &quot;too complacent&quot; in 2020 and now focuses on its power users, boosting its stock by ~50% in 2025 &lpar;Andrew Edgecliffe-Johnson/Semafor&rpar;](http://www.techmeme.com/251013/p8#a251013p8)
+ - [I ditched Android emulators for this open-source app, and I can’t imagine ever going back](https://www.androidauthority.com/waydroid-vs-android-emulators-3605675/)
+ - [New Rules Could Force Tesla to Redesign Its Door Handles. That’s Harder Than It Sounds](https://www.wired.com/story/new-rules-could-force-tesla-to-redesign-its-door-handles-thats-harder-than-it-sounds/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
