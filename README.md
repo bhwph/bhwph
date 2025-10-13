@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The biggest crime in India](http://9gag.com/gag/a2vjAZp)
- - 😝 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
- - 👉 [`it&#39;s not a realistic female body`](http://9gag.com/gag/awyGG3Q)<!-- MEMES:END -->
+ - 6️⃣ [The moment Henry Cavill made facial hair history](http://9gag.com/gag/aZZVV2Q)
+ - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
+ - 👉 [Nope](http://9gag.com/gag/aPAdVQq)<!-- MEMES:END -->
 
 --- 
 
