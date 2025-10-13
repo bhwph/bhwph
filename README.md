@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cobots, or robots that collaborate with humans, are bringing automation to even the smallest US factories, amid a push to bring manufacturing back to the US &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/251012/p13#a251012p13)
- - [Marvel details upcoming slate of shows at New York Comic Con](https://www.theverge.com/news/798740/marvels-upcoming-shows-new-york-comic-con-spider-man-x-men-daredevil-visionquest)
- - [AI has sparked a new wave of competition in the browser market, as agentic AI browsers like Perplexity&#39;s Comet and others compete with Gemini-enhanced Chrome &lpar;Fortune&rpar;](http://www.techmeme.com/251012/p12#a251012p12)<!-- TECH:END -->
+ - [The Dutch government takes control of Chinese-owned Dutch chipmaker Nexperia under the Goods Availability Act to safeguard chip supply for European industries &lpar;Financial Times&rpar;](http://www.techmeme.com/251012/p15#a251012p15)
+ - [Young people in China are turning to AI chatbots like DeepSeek and Doubao for therapy to save time and money, while avoiding stigma around mental health &lpar;Yi-Ling Liu/Rest of World&rpar;](http://www.techmeme.com/251012/p14#a251012p14)
+ - [Cobots, or robots that collaborate with humans, are bringing automation to even the smallest US factories, amid a push to bring manufacturing back to the US &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/251012/p13#a251012p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
