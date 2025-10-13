@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for October 13 &lpar;#1577&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-13-2025/)
- - [Five new Steam games you probably missed &lpar;October 13, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-october-13-2025/)
- - [The Mortal Kombat 2 movie doesn&#39;t come out until next year, but Mortal Kombat 3 is already confirmed because the studios are &#39;convinced there&#39;s a giant fanbase waiting for it&#39;](https://www.pcgamer.com/gaming-industry/the-mortal-kombat-2-movie-doesnt-come-out-until-next-year-but-mortal-kombat-3-is-already-confirmed-because-the-studios-are-convinced-theres-a-giant-fanbase-waiting-for-it/)<!-- GAME:END -->
+ - [Ninja Gaiden 4 directors say a &#39;sense of fairness&#39; is vital for difficult games: &#39;If the player gets killed unreasonably, it&#39;s hard for them to reflect and think about what they could&#39;ve done&#39;](https://www.pcgamer.com/games/action/ninja-gaiden-4-directors-say-a-sense-of-fairness-is-vital-for-difficult-games-if-the-player-gets-killed-unreasonably-its-hard-for-them-to-reflect-and-think-about-what-they-couldve-done/)
+ - [ASRock Phantom Gaming X870 Nova WiFi review](https://www.pcgamer.com/hardware/motherboards/asrock-phantom-gaming-x870-nova-wifi-motherboard-review/)
+ - [Today&#39;s Wordle clues, hints and answer for October 13 &lpar;#1577&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-13-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
