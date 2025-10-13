@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)
- - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 👉 [I guess.](http://9gag.com/gag/azxDvLN)<!-- MEMES:END -->
+ - 6️⃣ [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
+ - 😝 [Window cleaning](http://9gag.com/gag/a9yNenm)
+ - 👉 [Nice Pilots...](http://9gag.com/gag/axyneEM)<!-- MEMES:END -->
 
 --- 
 
