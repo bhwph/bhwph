@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Air preorders in China rumored to start on October 17](https://appleinsider.com/articles/25/10/13/iphone-air-preorders-in-china-rumored-to-start-on-october-17?utm_source=rss)
- - [Amazon&#39;s $449 M3 iPad Air deal is back to save you $150, but supply is limited](https://appleinsider.com/articles/25/10/13/amazons-449-m3-ipad-air-deal-is-back-to-save-you-150-but-supply-is-limited?utm_source=rss)
- - [Record-low deal: This Kasa Smart Plug Power Strip turns any electronic smart!](https://www.androidauthority.com/kasa-smart-plug-power-strip-hs300-deal-3605630/)<!-- TECH:END -->
+ - [Apple TV+ loses the Plus in Apple&#39;s quietest rebranding exercise ever](https://appleinsider.com/articles/25/10/13/apple-tv-loses-the-plus-in-apples-quietest-rebranding-exercise-ever?utm_source=rss)
+ - [&#39;F1 The Movie&#39; crosses the finish line, hits Apple TV December 12](https://appleinsider.com/articles/25/10/13/f1-the-movie-crosses-the-finish-line-hits-apple-tv-december-12?utm_source=rss)
+ - [Poll: Are you facing Wi-Fi issues after latest Pixel update?](https://www.androidauthority.com/pixel-wifi-issues-poll-3606694/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
