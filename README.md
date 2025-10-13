@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of eBay CEO Jamie Iannone, who said the platform was &quot;too complacent&quot; in 2020 and now focuses on its power users, boosting its stock by ~50% in 2025 &lpar;Andrew Edgecliffe-Johnson/Semafor&rpar;](http://www.techmeme.com/251013/p8#a251013p8)
- - [I ditched Android emulators for this open-source app, and I can’t imagine ever going back](https://www.androidauthority.com/waydroid-vs-android-emulators-3605675/)
- - [New Rules Could Force Tesla to Redesign Its Door Handles. That’s Harder Than It Sounds](https://www.wired.com/story/new-rules-could-force-tesla-to-redesign-its-door-handles-thats-harder-than-it-sounds/)<!-- TECH:END -->
+ - [Amazon plans to hire 250K workers for the 2025 holiday season, the same as in 2023 and 2024, including full-time and part-time, and will pay $19/hour on average &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/251013/p17#a251013p17)
+ - [Slack is testing an AI-based version of Slackbot that acts as a personalized assistant, operating via AWS&#39; virtual private cloud, rolling out by the end of 2025 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251013/p16#a251013p16)
+ - [Baseus EnerGeek GX11: Why it’s the ultimate 2-in-1 travel device](https://www.androidauthority.com/baseus-energeek-gx11-power-bank-mifi-3606614/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
