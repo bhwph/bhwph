@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve been training my whole life for a battle royale like Final Sentence, it&#39;s just a shame the demo is a tad undercooked right now](https://www.pcgamer.com/games/battle-royale/ive-been-training-my-whole-life-for-a-battle-royale-like-final-sentence-its-just-a-shame-the-demo-is-a-tad-undercooked-right-now/)
- - [Amazon Forgot to End This Prime Day Deal, 15.6″ Portable Monitor Still Goes for Peanuts](https://kotaku.com/amazon-forgot-to-end-this-prime-day-deal-15-6%e2%80%b3-portable-monitor-still-goes-for-peanuts-2000634484)
- - [Taylor Swift&#39;s Disney Plus Eras Tour news makes her the new Marvel Universe](https://www.polygon.com/taylor-swift-disney-plus-deal-marvel/)<!-- GAME:END -->
+ - [Disney bets big on Impossible Creatures as the next Harry Potter](https://www.polygon.com/disney-impossible-creatures-deal-harry-potter/)
+ - [The Elder Scrolls IV: Oblivion Remastered Physical Edition Available Now](https://bethesda.net/en/article/1mIFZXEeXmNsemXDS03I3t/the-elder-scrolls-iv-oblivion-remastered-physical-edition-now#new_tab)
+ - [Star Wars: Revenge of the Sith secrets spilled in new annotation notes](https://www.polygon.com/star-wars-revenge-of-the-sith-annotated-novelization/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
