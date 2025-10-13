@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 😝 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)
- - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
+ - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
+ - 👉 [Nope](http://9gag.com/gag/aPAdVQq)<!-- MEMES:END -->
 
 --- 
 
