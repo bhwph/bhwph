@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You dont say](http://9gag.com/gag/amobbRo)
- - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
- - 👉 [Nailed it](http://9gag.com/gag/azxDz9K)<!-- MEMES:END -->
+ - 6️⃣ [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)
+ - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
+ - 👉 [I guess.](http://9gag.com/gag/azxDvLN)<!-- MEMES:END -->
 
 --- 
 
