@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 6️⃣ [Nope](http://9gag.com/gag/aPAdVQq)
  - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
- - 👉 [Nope](http://9gag.com/gag/aPAdVQq)<!-- MEMES:END -->
+ - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
 
 --- 
 
