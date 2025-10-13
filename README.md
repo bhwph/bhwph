@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon plans to hire 250K workers for the 2025 holiday season, the same as in 2023 and 2024, including full-time and part-time, and will pay $19/hour on average &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/251013/p17#a251013p17)
- - [Slack is testing an AI-based version of Slackbot that acts as a personalized assistant, operating via AWS&#39; virtual private cloud, rolling out by the end of 2025 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251013/p16#a251013p16)
- - [Baseus EnerGeek GX11: Why it’s the ultimate 2-in-1 travel device](https://www.androidauthority.com/baseus-energeek-gx11-power-bank-mifi-3606614/)<!-- TECH:END -->
+ - [iPhone Air preorders in China rumored to start on October 17](https://appleinsider.com/articles/25/10/13/iphone-air-preorders-in-china-rumored-to-start-on-october-17?utm_source=rss)
+ - [Amazon&#39;s $449 M3 iPad Air deal is back to save you $150, but supply is limited](https://appleinsider.com/articles/25/10/13/amazons-449-m3-ipad-air-deal-is-back-to-save-you-150-but-supply-is-limited?utm_source=rss)
+ - [Record-low deal: This Kasa Smart Plug Power Strip turns any electronic smart!](https://www.androidauthority.com/kasa-smart-plug-power-strip-hs300-deal-3605630/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
