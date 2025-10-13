@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The moment Henry Cavill made facial hair history](http://9gag.com/gag/aZZVV2Q)
- - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 👉 [Nope](http://9gag.com/gag/aPAdVQq)<!-- MEMES:END -->
+ - 6️⃣ [I guess.](http://9gag.com/gag/azxDvLN)
+ - 😝 [Nope](http://9gag.com/gag/aPAdVQq)
+ - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
 
 --- 
 
