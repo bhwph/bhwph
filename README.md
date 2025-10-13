@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet picks up support for American Airlines boarding passes](https://www.androidauthority.com/american-airlines-google-wallet-boarding-pass-3606779/)
- - [Google updates Search to group paid results into a collapsible section with a single, larger &quot;Sponsored&quot; label at the top and a hide button at the bottom &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/251013/p34#a251013p34)
- - [Google is turning your Nest Thermostat into a work of art](https://www.androidauthority.com/nest-thermostat-new-farsight-faces-3606750/)<!-- TECH:END -->
+ - [Meta brings back job listings on Facebook, available for mobile users in the US via a dedicated Jobs tab in Marketplace, and across Groups and Pages &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/251013/p37#a251013p37)
+ - [Facebook is adding job listings, again](https://www.theverge.com/tech/798921/facebook-local-jobs-us)
+ - [Google Meet adds a new trick for when you’re not camera-ready](https://www.androidauthority.com/google-meet-ai-makeup-3606836/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
