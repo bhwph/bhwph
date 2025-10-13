@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
- - 😝 [Window cleaning](http://9gag.com/gag/a9yNenm)
- - 👉 [Nice Pilots...](http://9gag.com/gag/axyneEM)<!-- MEMES:END -->
+ - 6️⃣ [20yo unemployed Chinese student married 47yo daughter of an African diamond mine owner despite strong opposition and threat of disowning from his parents and relatives. Love truly conquers all.](http://9gag.com/gag/a5Qyvqo)
+ - 😝 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)
+ - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
 
 --- 
 
