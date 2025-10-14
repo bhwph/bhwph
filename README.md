@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta brings back job listings on Facebook, available for mobile users in the US via a dedicated Jobs tab in Marketplace, and across Groups and Pages &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/251013/p37#a251013p37)
- - [Facebook is adding job listings, again](https://www.theverge.com/tech/798921/facebook-local-jobs-us)
- - [Google Meet adds a new trick for when you’re not camera-ready](https://www.androidauthority.com/google-meet-ai-makeup-3606836/)<!-- TECH:END -->
+ - [Researchers detail &quot;Pixnapping&quot;, a new covert attack to steal 2FA codes and other private data on Android; Google&#39;s September patch only partially mitigates it &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/251013/p45#a251013p45)
+ - [Satellites Are Leaking the World’s Secrets: Calls, Texts, Military and Corporate Data](https://www.wired.com/story/satellites-are-leaking-the-worlds-secrets-calls-texts-military-and-corporate-data/)
+ - [Wacom One 14 Review: Solid hardware, in a crowded market](https://appleinsider.com/articles/25/10/14/wacom-one-14-review-solid-hardware-in-a-crowded-market?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
