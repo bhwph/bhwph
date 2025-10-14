@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [3 brits](http://9gag.com/gag/a7o6mAe)
- - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
- - 👉 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)<!-- MEMES:END -->
+ - 6️⃣ [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)
+ - 😝 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
+ - 👉 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)<!-- MEMES:END -->
 
 --- 
 
