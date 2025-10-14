@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at quick commerce in India and China: India&#39;s ecosystem is evolving into a retail-media play, while China&#39;s is being used as a weapon in platform wars &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/251014/p3#a251014p3)
- - [Dealroom: 230+ European defense tech startups have launched since Russia&#39;s invasion of Ukraine, driven by interest in drones, as investors foresee a shake-out &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/251014/p2#a251014p2)
- - [Nvidia says it is donating the Vera Rubin NVL144 server rack architecture to the Open Compute Project and outlines its vision for &quot;gigawatt AI factories&quot; &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251014/p1#a251014p1)<!-- TECH:END -->
+ - [Galaxy Watch 7 gets visual refresh, Now Bar, and new running features with One UI 8 in the US](https://www.androidauthority.com/galaxy-watch-7-one-ui-8-wear-os-6-us-update-3606890/)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 15, #1579](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-15-1579/#ftag=CAD590a51e)
+ - [A new study of 6,554 children aged 9 to 10 found that social media users scored lower on reading, vocabulary, and memory tests two years later than non-users &lpar;Rhitu Chatterjee/NPR&rpar;](http://www.techmeme.com/251014/p4#a251014p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
