@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Road to Vostok finally has a playable demo on Steam and it&#39;s the most terrified I&#39;ve ever been of getting shot at in a videogame](https://www.pcgamer.com/games/fps/road-to-vostok-finally-has-a-playable-demo-on-steam-and-its-the-most-terrified-ive-ever-been-of-getting-shot-at-in-a-videogame/)
- - [It&#39;s not just you: Hit registration is bugged in Battlefield 6 and DICE is working on it](https://www.pcgamer.com/games/fps/its-not-just-you-hit-registration-is-bugged-in-battlefield-6-and-dice-is-working-on-it/)
- - [Hollow Knight: Silksong patch adds PS5 controller support, squashes bugs](https://www.polygon.com/hollow-knight-silksong-patch-controller-support-bugs/)<!-- GAME:END -->
+ - [ChatGPT is getting &#39;erotica for verified adults&#39; in December: Sam Altman claims mental health concerns have been addressed, so now it&#39;s time to &#39;safely relax the restrictions in most cases&#39;](https://www.pcgamer.com/software/ai/chatgpt-is-getting-erotica-for-verified-adults-in-december-sam-altman-claims-mental-health-concerns-have-been-addressed-so-now-its-time-to-safely-relax-the-restrictions-in-most-cases/)
+ - [Battlefield 6 is lousy with &#39;land mine spam,&#39; but there&#39;s an easy way to avoid an explosive demise](https://www.pcgamer.com/games/fps/battlefield-6-is-lousy-with-land-mine-spam-but-theres-an-easy-way-to-avoid-an-explosive-demise/)
+ - [Pokémon Legends: Z-A Looks Hardly Any Different Running On Switch 1 Vs. Switch 2](https://kotaku.com/pokemon-legends-za-switch-2-comparison-framerate-upgrade-2000635404)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
