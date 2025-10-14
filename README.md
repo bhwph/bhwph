@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nope](http://9gag.com/gag/aPAdVQq)
- - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
- - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
+ - 6️⃣ [Trying to start an office war](http://9gag.com/gag/agmZ9gW)
+ - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 👉 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)<!-- MEMES:END -->
 
 --- 
 
