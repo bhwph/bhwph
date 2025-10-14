@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sam’s Club 1-Year Membership Goes for Peanuts Compared to Costco, With Even More Perks Thrown In](https://kotaku.com/sams-club-1-year-membership-goes-for-peanuts-compared-to-costco-with-even-more-perks-thrown-in-2000634622)
- - [Incredibly Clever New Battle Royale Turns Typos Into A Death Sentence](https://kotaku.com/battle-royale-steam-next-fest-demo-typo-final-sentence-2000635348)
- - [Summer Game Fest is getting an Oscar-worthy glow-up for 2026](https://www.polygon.com/summer-game-fest-sgf-2026-location-dates/)<!-- GAME:END -->
+ - [Scrapped Pokémon Projects And Game Freak Drama: 8 Things We Learned From The Colossal Teraleak](https://kotaku.com/pokemon-leak-budget-canceled-masuda-black-white-remake-2000635371)
+ - [Oh No, Someone Built A Game-Crashing Death Star In No Man’s Sky](https://kotaku.com/no-mans-sky-voyagers-death-star-star-wars-2000635367)
+ - [How Alchemised went from Harry Potter fanfic to a $3 million movie deal](https://www.polygon.com/alchemised-manacled-senlinyu-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
