@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m something of a chiropractor myself....](http://9gag.com/gag/an7WZVn)
- - 😝 [3 brits](http://9gag.com/gag/a7o6mAe)
- - 👉 [Lets Post this](http://9gag.com/gag/azxDzoB)<!-- MEMES:END -->
+ - 6️⃣ [What an incredible story of strength and triumph](http://9gag.com/gag/aPAd0gB)
+ - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 👉 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)<!-- MEMES:END -->
 
 --- 
 
