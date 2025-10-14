@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nexperia says China banned it from exporting China-made products, as Beijing hits back at the Dutch government for taking over the Wingtech-owned chipmaker &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/251014/p11#a251014p11)
- - [You can now use Nano Banana image generator even without Gemini, here’s how](https://www.androidauthority.com/google-nano-banana-search-lens-notebooklm-3606901/)
- - [Google plans to invest $9B in South Carolina through 2027 to scale up its Berkeley County data center campus and support building two sites in Dorchester County &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/251014/p10#a251014p10)<!-- TECH:END -->
+ - [Google plans to invest $15B over five years in India to set up a 1GW data center and AI hub in the southern Andhra Pradesh state; Google has 14K staff in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251014/p16#a251014p16)
+ - [After auto-dubbing, YouTube is toying with automatic lip-syncs](https://www.androidauthority.com/youtube-auto-dubbing-lip-sync-videos-3606928/)
+ - [New EU and China energy initiatives don&#39;t scratch the surface of what Apple is consuming](https://appleinsider.com/articles/25/10/14/new-eu-solar-initiative-doesnt-scratch-the-surface-of-what-apple-is-consuming?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
