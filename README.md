@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AirPods Max Still Hold Their Prime Day Price Tag as Apple Clears Out Remaining Stock](https://kotaku.com/airpods-max-still-hold-their-prime-day-price-tag-as-apple-clears-out-remaining-stock-2000634634)
- - [Pokémon Legends: Z-A is cool, but have you played Pokémon&#39;s weirdest spinoff lately?](https://www.polygon.com/pokemon-conquest-2025-recommendation/)
- - [The grossest Hannibal episode is also the most beautiful](https://www.polygon.com/best-hannibal-episode-sakizuke/)<!-- GAME:END -->
+ - [The Most Outstanding Cosplay From Dragon Con 2025](https://kotaku.com/dragon-con-cosplay-gallery-elden-ring-warhammer-2000635305)
+ - [Ex-Intel CEO Pat Gelsinger says &#39;of course&#39; we&#39;re in an AI bubble but it won&#39;t end &#39;for several years&#39;](https://www.pcgamer.com/software/ai/ex-intel-ceo-pat-gelsinger-says-of-course-were-in-an-ai-bubble-but-it-wont-end-for-several-years/)
+ - [This Marshall Portable Bluetooth Speaker Drops Even Lower Than Its Prime Day Price as Amazon Quietly Clears Out Stock](https://kotaku.com/this-marshall-portable-bluetooth-speaker-drops-even-lower-than-its-prime-day-price-as-amazon-quietly-clears-out-stock-2000634630)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
