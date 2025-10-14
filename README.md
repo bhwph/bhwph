@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Renesas is exploring a sale of its unit that supplies timing components for data centers and 5G networks, in a deal that could value the unit at $2B &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/251014/p20#a251014p20)
- - [The Best Advent Calendars &lpar;2025&rpar;: We Opened Every Door](https://www.wired.com/gallery/best-advent-calendar/)
- - [SteelSeries’ refreshed Nova 7 gaming headset gets a big battery life boost](https://www.theverge.com/news/798992/steelseries-nova-7-gen-2-gaming-headset-release-date-pricing)<!-- TECH:END -->
+ - [Your T-Mobile data might’ve been broadcast for anyone with hobbyist hardware to intercept](https://www.androidauthority.com/researchers-intercept-t-mobile-calls-texts-data-satellite-3606972/)
+ - [Discord blamed a vendor for its data breach — now the vendor says it was ‘not hacked’](https://www.theverge.com/news/799274/discord-security-breach-5ca-vendor-blamed-not-hacked)
+ - [Samsung abruptly halts One UI 8 release for Galaxy S22](https://www.androidauthority.com/galaxy-s22-one-ui-8-rollout-halted-3606964/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
