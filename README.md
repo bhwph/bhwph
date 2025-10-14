@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [For people who asked for repost to download video before it gets removed again](http://9gag.com/gag/a0eWgWX)
- - 😝 [Nope](http://9gag.com/gag/aPAdVQq)
- - 👉 [Mr FAFO](http://9gag.com/gag/aLnNOqM)<!-- MEMES:END -->
+ - 6️⃣ [Imagine she is your wife, and she watches every move you make.](http://9gag.com/gag/abAmozB)
+ - 😝 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)
+ - 👉 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)<!-- MEMES:END -->
 
 --- 
 
