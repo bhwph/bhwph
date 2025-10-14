@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scrapped Pokémon Projects And Game Freak Drama: 8 Things We Learned From The Colossal Teraleak](https://kotaku.com/pokemon-leak-budget-canceled-masuda-black-white-remake-2000635371)
- - [Oh No, Someone Built A Game-Crashing Death Star In No Man’s Sky](https://kotaku.com/no-mans-sky-voyagers-death-star-star-wars-2000635367)
- - [How Alchemised went from Harry Potter fanfic to a $3 million movie deal](https://www.polygon.com/alchemised-manacled-senlinyu-interview/)<!-- GAME:END -->
+ - [Road to Vostok finally has a playable demo on Steam and it&#39;s the most terrified I&#39;ve ever been of getting shot at in a videogame](https://www.pcgamer.com/games/fps/road-to-vostok-finally-has-a-playable-demo-on-steam-and-its-the-most-terrified-ive-ever-been-of-getting-shot-at-in-a-videogame/)
+ - [It&#39;s not just you: Hit registration is bugged in Battlefield 6 and DICE is working on it](https://www.pcgamer.com/games/fps/its-not-just-you-hit-registration-is-bugged-in-battlefield-6-and-dice-is-working-on-it/)
+ - [Hollow Knight: Silksong patch adds PS5 controller support, squashes bugs](https://www.polygon.com/hollow-knight-silksong-patch-controller-support-bugs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
