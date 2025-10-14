@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Most Outstanding Cosplay From Dragon Con 2025](https://kotaku.com/dragon-con-cosplay-gallery-elden-ring-warhammer-2000635305)
- - [Ex-Intel CEO Pat Gelsinger says &#39;of course&#39; we&#39;re in an AI bubble but it won&#39;t end &#39;for several years&#39;](https://www.pcgamer.com/software/ai/ex-intel-ceo-pat-gelsinger-says-of-course-were-in-an-ai-bubble-but-it-wont-end-for-several-years/)
- - [This Marshall Portable Bluetooth Speaker Drops Even Lower Than Its Prime Day Price as Amazon Quietly Clears Out Stock](https://kotaku.com/this-marshall-portable-bluetooth-speaker-drops-even-lower-than-its-prime-day-price-as-amazon-quietly-clears-out-stock-2000634630)<!-- GAME:END -->
+ - [Sam’s Club 1-Year Membership Goes for Peanuts Compared to Costco, With Even More Perks Thrown In](https://kotaku.com/sams-club-1-year-membership-goes-for-peanuts-compared-to-costco-with-even-more-perks-thrown-in-2000634622)
+ - [Incredibly Clever New Battle Royale Turns Typos Into A Death Sentence](https://kotaku.com/battle-royale-steam-next-fest-demo-typo-final-sentence-2000635348)
+ - [Summer Game Fest is getting an Oscar-worthy glow-up for 2026](https://www.polygon.com/summer-game-fest-sgf-2026-location-dates/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
