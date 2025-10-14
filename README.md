@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trying to start an office war](http://9gag.com/gag/agmZ9gW)
- - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 👉 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)<!-- MEMES:END -->
+ - 6️⃣ [For people who asked for repost to download video before it gets removed again](http://9gag.com/gag/a0eWgWX)
+ - 😝 [Nope](http://9gag.com/gag/aPAdVQq)
+ - 👉 [Mr FAFO](http://9gag.com/gag/aLnNOqM)<!-- MEMES:END -->
 
 --- 
 
