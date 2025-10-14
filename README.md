@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your T-Mobile data might’ve been broadcast for anyone with hobbyist hardware to intercept](https://www.androidauthority.com/researchers-intercept-t-mobile-calls-texts-data-satellite-3606972/)
- - [Discord blamed a vendor for its data breach — now the vendor says it was ‘not hacked’](https://www.theverge.com/news/799274/discord-security-breach-5ca-vendor-blamed-not-hacked)
- - [Samsung abruptly halts One UI 8 release for Galaxy S22](https://www.androidauthority.com/galaxy-s22-one-ui-8-rollout-halted-3606964/)<!-- TECH:END -->
+ - [4 Apple Airtags Are $65 Right Now](https://www.wired.com/story/apple-airtag-deal-1025/)
+ - [New iMac price drops shave up to $200 off M4 models at Amazon](https://appleinsider.com/articles/25/10/14/new-imac-price-drops-shave-up-to-200-off-m4-models-at-amazon?utm_source=rss)
+ - [Spotify partners with Netflix to distribute a selection of video podcasts from Spotify Studios and The Ringer on Netflix starting in early 2026 in the US &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251014/p31#a251014p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
