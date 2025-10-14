@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft&#39;s Mounts of Mayhem drop is now available to test, including sailing with the nautilus and a brand new weapon enchantment](https://www.pcgamer.com/games/survival-crafting/minecrafts-mounts-of-mayhem-drop-is-now-available-to-test-including-sailing-with-the-nautilus-and-a-brand-new-weapon-enchantment/)
- - [A KPop Demon Hunters live-action isn&#39;t happening, creators say](https://www.polygon.com/kpop-demon-hunters-live-action-not-interested/)
- - [Today&#39;s Wordle clues, hints and answer for October 14 &lpar;#1578&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-14-2025/)<!-- GAME:END -->
+ - [AirPods Max Still Hold Their Prime Day Price Tag as Apple Clears Out Remaining Stock](https://kotaku.com/airpods-max-still-hold-their-prime-day-price-tag-as-apple-clears-out-remaining-stock-2000634634)
+ - [Pokémon Legends: Z-A is cool, but have you played Pokémon&#39;s weirdest spinoff lately?](https://www.polygon.com/pokemon-conquest-2025-recommendation/)
+ - [The grossest Hannibal episode is also the most beautiful](https://www.polygon.com/best-hannibal-episode-sakizuke/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
