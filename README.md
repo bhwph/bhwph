@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She can start an infinite money glitch if she wants to.](http://9gag.com/gag/aO8NE0r)
- - 😝 [F**king DUH](http://9gag.com/gag/aLnNoYA)
- - 👉 [Finally, a solution for my lazy binge-watching](http://9gag.com/gag/a7o6X72)<!-- MEMES:END -->
+ - 6️⃣ [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 😝 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)
+ - 👉 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)<!-- MEMES:END -->
 
 --- 
 
