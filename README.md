@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Watch 7 gets visual refresh, Now Bar, and new running features with One UI 8 in the US](https://www.androidauthority.com/galaxy-watch-7-one-ui-8-wear-os-6-us-update-3606890/)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 15, #1579](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-15-1579/#ftag=CAD590a51e)
- - [A new study of 6,554 children aged 9 to 10 found that social media users scored lower on reading, vocabulary, and memory tests two years later than non-users &lpar;Rhitu Chatterjee/NPR&rpar;](http://www.techmeme.com/251014/p4#a251014p4)<!-- TECH:END -->
+ - [Nexperia says China banned it from exporting China-made products, as Beijing hits back at the Dutch government for taking over the Wingtech-owned chipmaker &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/251014/p11#a251014p11)
+ - [You can now use Nano Banana image generator even without Gemini, here’s how](https://www.androidauthority.com/google-nano-banana-search-lens-notebooklm-3606901/)
+ - [Google plans to invest $9B in South Carolina through 2027 to scale up its Berkeley County data center campus and support building two sites in Dorchester County &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/251014/p10#a251014p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
