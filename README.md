@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is starting to roll out major visual changes for everybody](https://www.androidauthority.com/youtube-ui-changes-global-rollout-3607075/)
- - [A Plan to Rebuild Gaza Lists Nearly 30 Companies. Many Say They&#39;re Not Involved](https://www.wired.com/story/a-plan-to-rebuild-gaza-lists-nearly-30-companies-many-say-theyre-not-involved/)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)<!-- TECH:END -->
+ - [Google’s Pixel 10 Pro Fold is the first to ‘go up in smoke during a bend test,’ JerryRigEverything says](https://www.theverge.com/news/799561/google-pixel-10-pro-fold-jerryrigeverything-teardown-durability-bend-test-battery)
+ - [The Google Pixel 9a is my most recommended phone, and it’s 20% off!](https://www.androidauthority.com/google-pixel-9a-deal-7-3582209/)
+ - [Apple Car Key could soon make its way to more GM vehicles](https://appleinsider.com/articles/25/10/14/apple-car-key-could-soon-make-its-way-to-more-gm-vehicles?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
