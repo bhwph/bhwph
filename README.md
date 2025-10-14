@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
- - 😝 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)
- - 👉 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)<!-- MEMES:END -->
+ - 6️⃣ [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 👉 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)<!-- MEMES:END -->
 
 --- 
 
