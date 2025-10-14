@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers detail &quot;Pixnapping&quot;, a new covert attack to steal 2FA codes and other private data on Android; Google&#39;s September patch only partially mitigates it &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/251013/p45#a251013p45)
- - [Satellites Are Leaking the World’s Secrets: Calls, Texts, Military and Corporate Data](https://www.wired.com/story/satellites-are-leaking-the-worlds-secrets-calls-texts-military-and-corporate-data/)
- - [Wacom One 14 Review: Solid hardware, in a crowded market](https://appleinsider.com/articles/25/10/14/wacom-one-14-review-solid-hardware-in-a-crowded-market?utm_source=rss)<!-- TECH:END -->
+ - [GrapheneOS is finally ready to break free from Pixels, and it may never look back](https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/)
+ - [Bhutan announces that it is migrating its national ID system for roughly 800,000 residents from Polygon to Ethereum, with completion expected by Q1 2026 &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/251013/p48#a251013p48)
+ - [Indian officials say that over the past year, all 1.2M email addresses of Central Government employees migrated to a platform developed by Chennai-based Zoho &lpar;The Hindu&rpar;](http://www.techmeme.com/251013/p47#a251013p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
