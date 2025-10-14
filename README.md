@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 Apple Airtags Are $65 Right Now](https://www.wired.com/story/apple-airtag-deal-1025/)
- - [New iMac price drops shave up to $200 off M4 models at Amazon](https://appleinsider.com/articles/25/10/14/new-imac-price-drops-shave-up-to-200-off-m4-models-at-amazon?utm_source=rss)
- - [Spotify partners with Netflix to distribute a selection of video podcasts from Spotify Studios and The Ringer on Netflix starting in early 2026 in the US &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251014/p31#a251014p31)<!-- TECH:END -->
+ - [YouTube is starting to roll out major visual changes for everybody](https://www.androidauthority.com/youtube-ui-changes-global-rollout-3607075/)
+ - [A Plan to Rebuild Gaza Lists Nearly 30 Companies. Many Say They&#39;re Not Involved](https://www.wired.com/story/a-plan-to-rebuild-gaza-lists-nearly-30-companies-many-say-theyre-not-involved/)
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
