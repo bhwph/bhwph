@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SEC filing: Jeff Bezos discloses that he now owns 9% of Amazon&#39;s shares, down from 10.1% a year ago, after selling 100M+ shares over the course of the past year &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251015/p6#a251015p6)
- - [Stripe&#39;s stablecoin arm, Bridge, applied for a US national trust bank charter, joining Circle, Paxos, Ripple, and Coinbase in seeking federal oversight &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/251015/p5#a251015p5)
- - [ASML reports Q3 net bookings of €5.4B, v. €4.9B est., as the AI spending boom boosts demand for its EUV machines to produce the most sophisticated AI chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p4#a251015p4)<!-- TECH:END -->
+ - [What is the best web browser on Android?](https://www.androidauthority.com/best-android-web-browser-open-thread-3607213/)
+ - [Can’t open Google Play Store on your Android TV? Here’s a quick fix](https://www.androidauthority.com/android-tv-google-play-store-error-fix-3607198/)
+ - [SoftBank&#39;s $5.4B purchase of ABB&#39;s robotics unit is another setback for Europe, which risks losing its edge to Asian and US companies in the &quot;physical AI&quot; era &lpar;Chris Bryant/Bloomberg&rpar;](http://www.techmeme.com/251015/p11#a251015p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
