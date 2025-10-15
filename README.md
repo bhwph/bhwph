@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
- - 😝 [Two step verification](http://9gag.com/gag/avyXwPW)
- - 👉 [How to expose a zombie](http://9gag.com/gag/abAm8nE)<!-- MEMES:END -->
+ - 6️⃣ [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 😝 [Thank you!](http://9gag.com/gag/aND2MN3)
+ - 👉 [He never got to this part before](http://9gag.com/gag/ajPM4RR)<!-- MEMES:END -->
 
 --- 
 
