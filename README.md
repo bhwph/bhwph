@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I just reviewed the Xbox Ally, ask me anything](https://www.theverge.com/games/800212/i-just-reviewed-the-xbox-ally-ask-me-anything)
- - [&#39;Tron: Ares&#39; Ending Explained: Connecting to the Past and Setting Up the Future](https://www.cnet.com/tech/services-and-software/tron-ares-ending-explained-what-does-it-all-mean/#ftag=CAD590a51e)
- - [The AI Industry&#39;s Scaling Obsession Is Headed for a Cliff](https://www.wired.com/story/the-ai-industrys-scaling-obsession-is-headed-for-a-cliff/)<!-- TECH:END -->
+ - [Bitmoji in Gboard is officially on its way out](https://www.androidauthority.com/gboard-bitmoji-integration-end-date-3607470/)
+ - [Viven, which builds AI &quot;digital twins&quot; that grant employees access to crucial information when coworkers are unavailable, emerges from stealth with a $35M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251015/p47#a251015p47)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 16, #858](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-16-858/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
