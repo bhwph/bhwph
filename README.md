@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 15&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-15-2025-3606285/)
- - [Only out online](https://www.theverge.com/cs/features/799045/trans-identity-online-anonymous)
- - [4 Best Resume Builders &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-resume-builders/)<!-- TECH:END -->
+ - [Apple Vision Pro gets spec bump to M5 for enhanced spatial computing](https://appleinsider.com/articles/25/10/15/apple-vision-pro-gets-spec-bump-to-m5-for-enhanced-spatial-computing?utm_source=rss)
+ - [Honor’s Robot Phone concept features a fold-out camera arm](https://www.theverge.com/news/799944/honor-robot-phone-tease-announcement)
+ - [A survey of 28K+ adults in 25 countries on AI: 81% have heard a lot or a little, 34% are more concerned than excited, and 42% are equally concerned and excited &lpar;Pew Research Center&rpar;](http://www.techmeme.com/251015/p30#a251015p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
