@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is the best web browser on Android?](https://www.androidauthority.com/best-android-web-browser-open-thread-3607213/)
- - [Can’t open Google Play Store on your Android TV? Here’s a quick fix](https://www.androidauthority.com/android-tv-google-play-store-error-fix-3607198/)
- - [SoftBank&#39;s $5.4B purchase of ABB&#39;s robotics unit is another setback for Europe, which risks losing its edge to Asian and US companies in the &quot;physical AI&quot; era &lpar;Chris Bryant/Bloomberg&rpar;](http://www.techmeme.com/251015/p11#a251015p11)<!-- TECH:END -->
+ - [The Dutch seizing Nexperia from Wingtech is a landmark moment, showing it made a mistake allowing its sale and how ensnared the EU is in the US-China tech war &lpar;Financial Times&rpar;](http://www.techmeme.com/251015/p15#a251015p15)
+ - [The new YouTube player is here, and users are fuming: Do you like it?](https://www.androidauthority.com/youtube-video-player-ui-poll-3607231/)
+ - [These are the Office icons Microsoft rejected](https://www.theverge.com/news/799736/microsoft-office-icons-test-versions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
