@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [F**king DUH](http://9gag.com/gag/aLnNoYA)
- - 😝 [Handled like a real gentlemen.](http://9gag.com/gag/a2vjgRw)
- - 👉 [Just ignore the warnings, it will be fine](http://9gag.com/gag/a5Qy3Pg)<!-- MEMES:END -->
+ - 6️⃣ [1.6 billion on profit but you\u2019ve gotta take the toilets out to lower ticket prices 5%](http://9gag.com/gag/a9yN0oW)
+ - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 👉 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)<!-- MEMES:END -->
 
 --- 
 
