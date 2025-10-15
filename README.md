@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Smooth Recovery](http://9gag.com/gag/ajPM40R)
- - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
- - 👉 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)<!-- MEMES:END -->
+ - 6️⃣ [How to expose a zombie](http://9gag.com/gag/abAm8nE)
+ - 😝 [Kids these days will never know the joy of ditch crawling](http://9gag.com/gag/aAyN94Z)
+ - 👉 [He must be feeling traumatized after that](http://9gag.com/gag/a1mq3Kv)<!-- MEMES:END -->
 
 --- 
 
