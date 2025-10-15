@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitmoji in Gboard is officially on its way out](https://www.androidauthority.com/gboard-bitmoji-integration-end-date-3607470/)
- - [Viven, which builds AI &quot;digital twins&quot; that grant employees access to crucial information when coworkers are unavailable, emerges from stealth with a $35M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251015/p47#a251015p47)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 16, #858](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-16-858/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US judge sentences Matthew Lane, a 20-year-old Massachusetts man, to four years in prison after he pled guilty to hacking two companies, including PowerSchool &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/251015/p51#a251015p51)
+ - [Best Desks of 2025: I&#39;ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)
+ - [Every new feature for Pixel phones in Android 16 QPR2 Beta 3](https://www.androidauthority.com/android-16-qpr2-beta-3-features-3607353/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
