@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lenovo 14″ Chromebook Just Fell 74%, Turning a MacBook Air–Priced Laptop Into a Grand Theft Laptop](https://kotaku.com/lenovo-14%e2%80%b3-chromebook-just-fell-74-turning-a-macbook-air-priced-laptop-into-a-grand-theft-laptop-2000635443)
- - [LEGO Halloween Barn Building Is Selling for Pennies, Amazon Is Clearing Out Stock Before the Big Day](https://kotaku.com/lego-halloween-barn-building-is-selling-for-pennies-amazon-is-clearing-out-stock-before-the-big-day-2000635661)
- - [Netflix&#39;s My Hero Academia movie is taking inspiration from an unlikely show](https://www.polygon.com/welcome-to-derry-my-hero-academia-live-action-film-jason-fuchs/)<!-- GAME:END -->
+ - [The plot thickens as Intel announces a new data center GPU that could also preview its next-gen gaming graphics cards, but there&#39;s still no mention of Celestial](https://www.pcgamer.com/hardware/graphics-cards/the-plot-thickens-as-intel-announces-a-new-data-center-gpu-that-could-also-preview-its-next-gen-gaming-graphics-cards-but-theres-still-no-mention-of-celestial/)
+ - [Battlefield 6 fiddles with the pace of Conquest mode but somehow avoids giving the people what they want: &#39;Remove the timer&#39;](https://www.pcgamer.com/games/fps/battlefield-6-fiddles-with-the-pace-of-conquest-mode-but-somehow-avoids-giving-the-people-what-they-want-remove-the-timer/)
+ - [Assassin&#39;s Creed franchise boss leaves Ubisoft just 7 months after heading up one of the best-selling games in the history of the series](https://www.pcgamer.com/games/assassins-creed/assassins-creed-franchise-boss-leaves-ubisoft-just-7-months-after-heading-up-one-of-the-best-selling-games-in-the-history-of-the-series/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
