@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baseus 10-in-1 Charging Station Drops Even Lower Than Prime Day Pricing, Practically Free Power for USB-C and USB-A Devices](https://kotaku.com/baseus-10-in-1-charging-station-drops-even-lower-than-prime-day-pricing-practically-free-power-for-usb-c-and-usb-a-devices-2000635385)
- - [Anker SOLIX C1000 Power Station Hits Record Low After Three Price Cuts In a Week, 50% Off and Charges 10 Devices](https://kotaku.com/anker-solix-c1000-power-station-hits-record-low-after-three-price-cuts-in-a-week-50-off-and-charges-10-devices-2000635391)
- - [OLED monitors are the perfect match for any speedy gaming PC and if you&#39;re eyeballing a new ultrawide, we&#39;ve just crowned a new champion for you to consider](https://www.pcgamer.com/hardware/gaming-monitors/oled-monitors-are-the-perfect-match-for-any-speedy-gaming-pc-and-if-youre-eyeballing-a-new-ultrawide-weve-just-crowned-a-new-champion-for-you-to-consider/)<!-- GAME:END -->
+ - [Lenovo 14″ Chromebook Just Fell 74%, Turning a MacBook Air–Priced Laptop Into a Grand Theft Laptop](https://kotaku.com/lenovo-14%e2%80%b3-chromebook-just-fell-74-turning-a-macbook-air-priced-laptop-into-a-grand-theft-laptop-2000635443)
+ - [LEGO Halloween Barn Building Is Selling for Pennies, Amazon Is Clearing Out Stock Before the Big Day](https://kotaku.com/lego-halloween-barn-building-is-selling-for-pennies-amazon-is-clearing-out-stock-before-the-big-day-2000635661)
+ - [Netflix&#39;s My Hero Academia movie is taking inspiration from an unlikely show](https://www.polygon.com/welcome-to-derry-my-hero-academia-live-action-film-jason-fuchs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
