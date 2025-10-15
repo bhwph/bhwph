@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [1.6 billion on profit but you\u2019ve gotta take the toilets out to lower ticket prices 5%](http://9gag.com/gag/a9yN0oW)
- - 😝 [When your movie bombs even worse than Morbius](http://9gag.com/gag/awyGj3Q)
- - 👉 [Lets Post this](http://9gag.com/gag/azxDzoB)<!-- MEMES:END -->
+ - 6️⃣ [When your movie bombs even worse than Morbius](http://9gag.com/gag/awyGj3Q)
+ - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 👉 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)<!-- MEMES:END -->
 
 --- 
 
