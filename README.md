@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase invests in Indian crypto exchange CoinDCX to expand into India and the Middle East; CEO Sumit Gupta said the deal values CoinDCX at $2.45B post-money &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/251014/p47#a251014p47)
- - [Reducto, which uses OCR with vision language models to convert complex documents into inputs for LLMs, raised a $75M Series B led by a16z at a $600M valuation &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251014/p46#a251014p46)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Oct. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-oct-15/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SEC filing: Jeff Bezos discloses that he now owns 9% of Amazon&#39;s shares, down from 10.1% a year ago, after selling 100M+ shares over the course of the past year &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251015/p6#a251015p6)
+ - [Stripe&#39;s stablecoin arm, Bridge, applied for a US national trust bank charter, joining Circle, Paxos, Ripple, and Coinbase in seeking federal oversight &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/251015/p5#a251015p5)
+ - [ASML reports Q3 net bookings of €5.4B, v. €4.9B est., as the AI spending boom boosts demand for its EUV machines to produce the most sophisticated AI chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p4#a251015p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
