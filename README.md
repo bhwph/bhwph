@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Dutch seizing Nexperia from Wingtech is a landmark moment, showing it made a mistake allowing its sale and how ensnared the EU is in the US-China tech war &lpar;Financial Times&rpar;](http://www.techmeme.com/251015/p15#a251015p15)
- - [The new YouTube player is here, and users are fuming: Do you like it?](https://www.androidauthority.com/youtube-video-player-ui-poll-3607231/)
- - [These are the Office icons Microsoft rejected](https://www.theverge.com/news/799736/microsoft-office-icons-test-versions)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 15&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-15-2025-3606285/)
+ - [Only out online](https://www.theverge.com/cs/features/799045/trans-identity-online-anonymous)
+ - [4 Best Resume Builders &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-resume-builders/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
