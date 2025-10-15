@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6 multiplayer review: Stick to the larger maps](https://www.polygon.com/battlefield-6-multiplayer-review/)
- - [All Fish It codes for October 2025: potions and spins](https://www.pcgamer.com/games/roblox/fish-it-codes/)
- - [If anything were to convince me to try out carpentry it would be this gorgeous DIY mini walnut PC case housing an Asus ProArt RTX 5080](https://www.pcgamer.com/hardware/pc-cases/if-anything-were-to-convince-me-to-try-out-carpentry-it-would-be-this-gorgeous-diy-mini-walnut-pc-case-housing-an-asus-proart-rtx-5080/)<!-- GAME:END -->
+ - [Baseus 10-in-1 Charging Station Drops Even Lower Than Prime Day Pricing, Practically Free Power for USB-C and USB-A Devices](https://kotaku.com/baseus-10-in-1-charging-station-drops-even-lower-than-prime-day-pricing-practically-free-power-for-usb-c-and-usb-a-devices-2000635385)
+ - [Anker SOLIX C1000 Power Station Hits Record Low After Three Price Cuts In a Week, 50% Off and Charges 10 Devices](https://kotaku.com/anker-solix-c1000-power-station-hits-record-low-after-three-price-cuts-in-a-week-50-off-and-charges-10-devices-2000635391)
+ - [OLED monitors are the perfect match for any speedy gaming PC and if you&#39;re eyeballing a new ultrawide, we&#39;ve just crowned a new champion for you to consider](https://www.pcgamer.com/hardware/gaming-monitors/oled-monitors-are-the-perfect-match-for-any-speedy-gaming-pc-and-if-youre-eyeballing-a-new-ultrawide-weve-just-crowned-a-new-champion-for-you-to-consider/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
