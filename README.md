@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When your movie bombs even worse than Morbius](http://9gag.com/gag/awyGj3Q)
- - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
- - 👉 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)<!-- MEMES:END -->
+ - 6️⃣ [F**king DUH](http://9gag.com/gag/aLnNoYA)
+ - 😝 [Handled like a real gentlemen.](http://9gag.com/gag/a2vjgRw)
+ - 👉 [Just ignore the warnings, it will be fine](http://9gag.com/gag/a5Qy3Pg)<!-- MEMES:END -->
 
 --- 
 
