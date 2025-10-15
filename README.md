@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
- - 👉 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)<!-- MEMES:END -->
+ - 6️⃣ [She can start an infinite money glitch if she wants to.](http://9gag.com/gag/aO8NE0r)
+ - 😝 [In Vietnam, we don&#39;t say...](http://9gag.com/gag/aqypOKP)
+ - 👉 [She needed a school, Not forced motherhood.](http://9gag.com/gag/agmZ93r)<!-- MEMES:END -->
 
 --- 
 
