@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [ROG Xbox Ally X: The Kotaku Review](https://kotaku.com/rog-xbox-ally-x-review-performance-issues-steam-deck-switch-2-2000635652)
- - [Y’all Wanna See One Of The Filthiest Moves In Any Fighting Game?](https://kotaku.com/dragon-ball-fighterz-patch-goku-ultra-instinct-dodge-2000635716)
- - [GTA Online Halloween event calendar: UFO locations, ghost locations, and rewards](https://www.pcgamer.com/games/grand-theft-auto/gta-online-halloween-event-ufo-locations/)<!-- GAME:END -->
+ - [Yep, I get why this co-op RPG sandbox that&#39;s part Minecraft, part Skyrim, and also has airships, is one of the most played demos on Steam Next Fest](https://www.pcgamer.com/games/rpg/yep-i-get-why-this-co-op-rpg-sandbox-thats-part-minecraft-part-skyrim-and-also-has-airships-is-one-of-the-most-played-demos-on-steam-next-fest/)
+ - [A Lot Of Great Open-World Games Are Super Cheap Right Now](https://kotaku.com/a-lot-of-great-open-world-games-are-super-cheap-right-now-2000635704)
+ - [KPop Demon Hunters is headed back to theaters with a Halloween twist](https://www.polygon.com/kpop-demon-hunters-halloween-sing-along/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
