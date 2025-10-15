@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He never got to this part before](http://9gag.com/gag/ajPM4RR)
- - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - 👉 [Two step verification](http://9gag.com/gag/avyXwPW)<!-- MEMES:END -->
+ - 6️⃣ [Smooth Recovery](http://9gag.com/gag/ajPM40R)
+ - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 👉 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)<!-- MEMES:END -->
 
 --- 
 
