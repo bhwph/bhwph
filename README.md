@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The plot thickens as Intel announces a new data center GPU that could also preview its next-gen gaming graphics cards, but there&#39;s still no mention of Celestial](https://www.pcgamer.com/hardware/graphics-cards/the-plot-thickens-as-intel-announces-a-new-data-center-gpu-that-could-also-preview-its-next-gen-gaming-graphics-cards-but-theres-still-no-mention-of-celestial/)
- - [Battlefield 6 fiddles with the pace of Conquest mode but somehow avoids giving the people what they want: &#39;Remove the timer&#39;](https://www.pcgamer.com/games/fps/battlefield-6-fiddles-with-the-pace-of-conquest-mode-but-somehow-avoids-giving-the-people-what-they-want-remove-the-timer/)
- - [Assassin&#39;s Creed franchise boss leaves Ubisoft just 7 months after heading up one of the best-selling games in the history of the series](https://www.pcgamer.com/games/assassins-creed/assassins-creed-franchise-boss-leaves-ubisoft-just-7-months-after-heading-up-one-of-the-best-selling-games-in-the-history-of-the-series/)<!-- GAME:END -->
+ - [ROG Xbox Ally X: The Kotaku Review](https://kotaku.com/rog-xbox-ally-x-review-performance-issues-steam-deck-switch-2-2000635652)
+ - [Y’all Wanna See One Of The Filthiest Moves In Any Fighting Game?](https://kotaku.com/dragon-ball-fighterz-patch-goku-ultra-instinct-dodge-2000635716)
+ - [GTA Online Halloween event calendar: UFO locations, ghost locations, and rewards](https://www.pcgamer.com/games/grand-theft-auto/gta-online-halloween-event-ufo-locations/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
