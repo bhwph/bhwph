@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [1.6 billion on profit but you\u2019ve gotta take the toilets out to lower ticket prices 5%](http://9gag.com/gag/a9yN0oW)
- - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
- - 👉 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)<!-- MEMES:END -->
+ - 6️⃣ [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 👉 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)<!-- MEMES:END -->
 
 --- 
 
