@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Pixel 10 Pro Fold is the first to ‘go up in smoke during a bend test,’ JerryRigEverything says](https://www.theverge.com/news/799561/google-pixel-10-pro-fold-jerryrigeverything-teardown-durability-bend-test-battery)
- - [The Google Pixel 9a is my most recommended phone, and it’s 20% off!](https://www.androidauthority.com/google-pixel-9a-deal-7-3582209/)
- - [Apple Car Key could soon make its way to more GM vehicles](https://appleinsider.com/articles/25/10/14/apple-car-key-could-soon-make-its-way-to-more-gm-vehicles?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Amazon plans to cut as much as 15% of its HR staff, and additional layoffs will likely affect other areas of its core consumer business &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/251014/p44#a251014p44)
+ - [Spotify&#39;s deal to bring video podcasts to Netflix bars shows from airing in full on YouTube; Netflix won&#39;t run ad breaks, but Spotify&#39;s integrated ads remain &lpar;New York Times&rpar;](http://www.techmeme.com/251014/p43#a251014p43)
+ - [EcoFlow Delta 3 Max Plus Review: Portable power that is helpful during storm season](https://appleinsider.com/articles/25/10/15/ecoflow-delta-3-max-plus-review-portable-power-that-is-helpful-during-storm-season?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
