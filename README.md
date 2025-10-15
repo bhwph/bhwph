@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [XGIMI redefines home projectors with the Horizon 20 series](https://www.androidauthority.com/xgimi-horizon-20-series-sale-3607172/)
- - [Samsung’s new Qi2 chargers are ready before its phones are](https://www.androidauthority.com/samsung-new-wireless-chargers-3607339/)
- - [Google introduces Veo 3.1, with improved audio output and stronger prompt adherence, and rolls out new updates to its AI video editor Flow &lpar;The Keyword&rpar;](http://www.techmeme.com/251015/p35#a251015p35)<!-- TECH:END -->
+ - [I just reviewed the Xbox Ally, ask me anything](https://www.theverge.com/games/800212/i-just-reviewed-the-xbox-ally-ask-me-anything)
+ - [&#39;Tron: Ares&#39; Ending Explained: Connecting to the Past and Setting Up the Future](https://www.cnet.com/tech/services-and-software/tron-ares-ending-explained-what-does-it-all-mean/#ftag=CAD590a51e)
+ - [The AI Industry&#39;s Scaling Obsession Is Headed for a Cliff](https://www.wired.com/story/the-ai-industrys-scaling-obsession-is-headed-for-a-cliff/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
