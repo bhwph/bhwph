@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She can start an infinite money glitch if she wants to.](http://9gag.com/gag/aO8NE0r)
- - 😝 [In Vietnam, we don&#39;t say...](http://9gag.com/gag/aqypOKP)
- - 👉 [She needed a school, Not forced motherhood.](http://9gag.com/gag/agmZ93r)<!-- MEMES:END -->
+ - 6️⃣ [1.6 billion on profit but you\u2019ve gotta take the toilets out to lower ticket prices 5%](http://9gag.com/gag/a9yN0oW)
+ - 😝 [When your movie bombs even worse than Morbius](http://9gag.com/gag/awyGj3Q)
+ - 👉 [Lets Post this](http://9gag.com/gag/azxDzoB)<!-- MEMES:END -->
 
 --- 
 
