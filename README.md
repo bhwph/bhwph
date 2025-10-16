@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gravity always wins](http://9gag.com/gag/ajPMeo1)
- - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
- - 👉 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)<!-- MEMES:END -->
+ - 6️⃣ [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
+ - 😝 [Yes, this is a camera... Just because you&#39;re paranoid, doesn&#39;t mean they&#39;re not watching.](http://9gag.com/gag/aryrQKB)
+ - 👉 [Obey who](http://9gag.com/gag/azxDpmz)<!-- MEMES:END -->
 
 --- 
 
