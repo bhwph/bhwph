@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - 😝 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
- - 👉 [Smile and wave boys](http://9gag.com/gag/aQzNWez)<!-- MEMES:END -->
+ - 6️⃣ [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
+ - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
+ - 👉 [Smooth Recovery](http://9gag.com/gag/ajPM40R)<!-- MEMES:END -->
 
 --- 
 
