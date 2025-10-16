@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
- - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
- - 👉 [Smooth Recovery](http://9gag.com/gag/ajPM40R)<!-- MEMES:END -->
+ - 6️⃣ [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 😝 [Me trying to be romantic](http://9gag.com/gag/ayNVj8q)
+ - 👉 [Move b*tch](http://9gag.com/gag/amobZdv)<!-- MEMES:END -->
 
 --- 
 
