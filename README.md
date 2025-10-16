@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for October: Silent Hill 2, Until Dawn, V Rising, Yakuza: Like a Dragon and more](https://blog.playstation.com/2025/10/15/20251016-psplus/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for October: Silent Hill 2, Until Dawn, V Rising, Yakuza: Like a Dragon and more](https://blog.playstation.com/2025/10/15/20251016-psplus/)
- - [How to change the time of day in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-time-change-day-night-length/)<!-- GAME:END -->
+ - [MTG publisher acknowledges Spider-Man backlash with controversial survey](https://www.polygon.com/mtg-magic-the-gathering-spider-man-survey-wizards/)
+ - [Creative SoundBlaster GS3 review](https://www.pcgamer.com/hardware/speakers/creative-soundblaster-gs3-review/)
+ - [Katy O&#39;Brian is not in The Mandalorian and Grogu](https://www.polygon.com/katy-obrian-elia-kane-not-in-the-mandalorian-grogu/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
