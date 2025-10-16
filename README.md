@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: ten loss-making AI startups, including OpenAI, gained ~$1T in valuation over the past year, fueling concerns of an inflating bubble in private markets &lpar;Financial Times&rpar;](http://www.techmeme.com/251016/p11#a251016p11)
- - [GiveDirectly plans to pilot a program using Google&#39;s AI-based Flood Hub, which provides forecast warnings, to send early aid to at-risk families in Bangladesh &lpar;Rest of World&rpar;](http://www.techmeme.com/251016/p10#a251016p10)
- - [How OpenSea reinvented itself from an NFT marketplace to a crypto trading aggregator, facilitating $1.6B in trades in the first two weeks of October &lpar;Jeff Kauflin/Forbes&rpar;](http://www.techmeme.com/251016/p9#a251016p9)<!-- TECH:END -->
+ - [Bengaluru-based quick grocery delivery startup Zepto raised $450M from Goodwater, General Catalyst, and others at a $7B valuation, as it prepares for an IPO &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/251016/p22#a251016p22)
+ - [HR software startup Deel raised $300M led by Ribbit Capital at a $17B valuation, up from $12.6B earlier in 2025, and says revenue crossed $100M in September &lpar;Financial Times&rpar;](http://www.techmeme.com/251016/p21#a251016p21)
+ - [The EU&#39;s aim to triple AI data center capacity over the next five to seven years sparks water scarcity concerns, especially in water-stressed Southern Europe &lpar;CNBC&rpar;](http://www.techmeme.com/251016/p20#a251016p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
