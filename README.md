@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Email: Ron Conway, a close friend of Marc Benioff for 25+ years, stepped down from the Salesforce Foundation board, citing Benioff&#39;s comments supporting Trump &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251016/p44#a251016p44)
- - [Fujifilm redesigned its Instax Mini LiPlay for snapping selfies](https://www.theverge.com/news/801098/fujifilm-instax-mini-liplay-plus-instant-camera-selfies)
- - [Pinterest&amp;#8217;s &amp;#8216;tuner&amp;#8217; lets you dial down the amount of AI content — but not entirely](https://www.theverge.com/news/801093/pinterest-tuner-tool-ai-content-categories)<!-- TECH:END -->
+ - [Save $100 on the Bose QuietComfort Ultra, amazing ANC headphones](https://www.androidauthority.com/bose-quietcomfort-ultra-deal-5-3608024/)
+ - [Amazon&#39;s Ring partners with Flock to let law enforcement agencies that work with Flock request footage from Ring doorbell users &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/251016/p47#a251016p47)
+ - [Gemini can basically use Google Sheets for you now](https://www.androidauthority.com/google-sheets-complex-gemini-integration-3608027/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
