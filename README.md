@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - 😝 [Me trying to be romantic](http://9gag.com/gag/ayNVj8q)
- - 👉 [Move b*tch](http://9gag.com/gag/amobZdv)<!-- MEMES:END -->
+ - 6️⃣ [Gravity always wins](http://9gag.com/gag/ajPMeo1)
+ - 😝 [Obey who](http://9gag.com/gag/azxDpmz)
+ - 👉 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)<!-- MEMES:END -->
 
 --- 
 
