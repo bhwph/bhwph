@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MTG publisher acknowledges Spider-Man backlash with controversial survey](https://www.polygon.com/mtg-magic-the-gathering-spider-man-survey-wizards/)
- - [Creative SoundBlaster GS3 review](https://www.pcgamer.com/hardware/speakers/creative-soundblaster-gs3-review/)
- - [Katy O&#39;Brian is not in The Mandalorian and Grogu](https://www.polygon.com/katy-obrian-elia-kane-not-in-the-mandalorian-grogu/)<!-- GAME:END -->
+ - [Forget Budget Laptops, This HP with 64GB RAM and 2TB SSD Is Now 74% Off and Selling for Pennies](https://kotaku.com/forget-budget-laptops-this-hp-with-64gb-ram-and-2tb-ssd-is-now-74-off-and-selling-for-pennies-2000635996)
+ - [This 15″ Portable Monitor Turns Your Nintendo Switch Into a Big-Screen Console for Pocket Change](https://kotaku.com/this-15-portable-monitor-turns-your-nintendo-switch-into-a-big-screen-console-for-pocket-change-2000635990)
+ - [A new trailer for Disney Dreamlight Valley&#39;s next DLC reveals two new villagers, and the ability to customise horses](https://www.pcgamer.com/games/life-sim/a-new-trailer-for-disney-dreamlight-valleys-next-dlc-reveals-two-new-villagers-and-the-ability-to-customise-horses/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
