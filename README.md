@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One Of Last Year’s Best Shooters Now Has A Free Demo](https://kotaku.com/warhammer-40k-space-marine-2-free-demo-sale-2000636114)
- - [Govee LED Light Bars &lpar;2-Pack&rpar; Now Feel Like a BOGO Deal at This Price, the Cheapest Way to Upgrade Your Gaming Desk](https://kotaku.com/govee-led-light-bars-2-pack-now-feel-like-a-bogo-deal-at-this-price-the-cheapest-way-to-upgrade-your-gaming-desk-2000635762)
- - [Huh, Quantic Dream Announces A Hero Shooter Called Spellcasters](https://kotaku.com/quantic-dream-hero-shooter-spellcasters-star-wars-eclipse-2000636086)<!-- GAME:END -->
+ - [Can Elon Musk&#39;s xAI make an AI-generated game in a year? &#39;He&#39;s full of crap&#39;, says Glen Schofield: &#39;I want to actually say that to him&#39;](https://www.pcgamer.com/gaming-industry/can-elon-musks-xai-make-an-ai-generated-game-in-a-year-hes-full-of-crap-says-glen-schofield/)
+ - [Dwarf Fortress is getting a siege update in November with goblin battering rams and defense-destroying troll engineers that&#39;ll dismantle over a decade of dwarven siege strategy](https://www.pcgamer.com/games/sim/dwarf-fortress-is-getting-a-siege-update-in-november-with-goblin-battering-rams-and-defense-destroying-troll-engineers-thatll-dismantle-over-a-decade-of-dwarven-siege-strategy/)
+ - [Pokémon Legends: Z-A Has Changed Shiny Hunting Forever, And Not Everyone’s Happy About It](https://kotaku.com/pokemon-legends-z-a-shiny-hunting-despawn-sound-effect-2000636142)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
