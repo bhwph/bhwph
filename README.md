@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Elon Musk&#39;s xAI make an AI-generated game in a year? &#39;He&#39;s full of crap&#39;, says Glen Schofield: &#39;I want to actually say that to him&#39;](https://www.pcgamer.com/gaming-industry/can-elon-musks-xai-make-an-ai-generated-game-in-a-year-hes-full-of-crap-says-glen-schofield/)
- - [Dwarf Fortress is getting a siege update in November with goblin battering rams and defense-destroying troll engineers that&#39;ll dismantle over a decade of dwarven siege strategy](https://www.pcgamer.com/games/sim/dwarf-fortress-is-getting-a-siege-update-in-november-with-goblin-battering-rams-and-defense-destroying-troll-engineers-thatll-dismantle-over-a-decade-of-dwarven-siege-strategy/)
- - [Pokémon Legends: Z-A Has Changed Shiny Hunting Forever, And Not Everyone’s Happy About It](https://kotaku.com/pokemon-legends-z-a-shiny-hunting-despawn-sound-effect-2000636142)<!-- GAME:END -->
+ - [Pokémon Go trainer level XP chart and Lucky Egg guide](https://www.polygon.com/pokemon-go-guide/22565463/xp-chart-levels-farming-lucky-egg-friend-trick-trainer-rewards/)
+ - [Gamers hand Ubisoft a rare &#39;W&#39; as The Crew 2&#39;s offline mode finally goes live](https://www.pcgamer.com/games/racing/gamers-hand-ubisoft-a-rare-w-as-the-crew-2s-offline-mode-finally-goes-live/)
+ - [How to get the Kalos starters in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-kalos-starters-chespin-fennekin-froakie/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
