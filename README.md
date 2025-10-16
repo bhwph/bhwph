@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He never got to this part before](http://9gag.com/gag/ajPM4RR)
- - 😝 [Obey who](http://9gag.com/gag/azxDpmz)
- - 👉 [Sarah Sanderson knows what she wants](http://9gag.com/gag/a6Z36wN)<!-- MEMES:END -->
+ - 6️⃣ [I mean it is not wrong...](http://9gag.com/gag/a87XgOd)
+ - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 👉 [Me trying to be romantic](http://9gag.com/gag/ayNVj8q)<!-- MEMES:END -->
 
 --- 
 
