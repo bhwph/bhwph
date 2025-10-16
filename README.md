@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [He never got to this part before](http://9gag.com/gag/ajPM4RR)
- - 😝 [Sarah Sanderson knows what she wants](http://9gag.com/gag/a6Z36wN)
- - 👉 [Two step verification](http://9gag.com/gag/avyXwPW)<!-- MEMES:END -->
+ - 😝 [Obey who](http://9gag.com/gag/azxDpmz)
+ - 👉 [Sarah Sanderson knows what she wants](http://9gag.com/gag/a6Z36wN)<!-- MEMES:END -->
 
 --- 
 
