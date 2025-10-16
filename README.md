@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Gravity always wins](http://9gag.com/gag/ajPMeo1)
- - 😝 [Obey who](http://9gag.com/gag/azxDpmz)
+ - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
  - 👉 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)<!-- MEMES:END -->
 
 --- 
