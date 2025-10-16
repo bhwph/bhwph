@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Move b*tch](http://9gag.com/gag/amobZdv)
- - 😝 [Two step verification](http://9gag.com/gag/avyXwPW)
- - 👉 [Sarah Sanderson knows what she wants](http://9gag.com/gag/a6Z36wN)<!-- MEMES:END -->
+ - 6️⃣ [He never got to this part before](http://9gag.com/gag/ajPM4RR)
+ - 😝 [Sarah Sanderson knows what she wants](http://9gag.com/gag/a6Z36wN)
+ - 👉 [Two step verification](http://9gag.com/gag/avyXwPW)<!-- MEMES:END -->
 
 --- 
 
