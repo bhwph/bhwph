@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Move b*tch](http://9gag.com/gag/amobZdv)
- - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
- - 👉 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)<!-- MEMES:END -->
+ - 😝 [Two step verification](http://9gag.com/gag/avyXwPW)
+ - 👉 [Sarah Sanderson knows what she wants](http://9gag.com/gag/a6Z36wN)<!-- MEMES:END -->
 
 --- 
 
