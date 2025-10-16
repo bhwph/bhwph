@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paxos says it &quot;mistakenly minted&quot; $300T worth of PayPal&#39;s PYUSD stablecoin on Wednesday and &quot;burned&quot; the tokens a little over 20 minutes later &lpar;Ryan S. Gladwin/Decrypt&rpar;](http://www.techmeme.com/251015/p57#a251015p57)
- - [Documents: Rhoda AI, which raised a $162.6M Series A in April, and Genesis AI, which raised a $105M seed earlier this year, have been developing humanoid robots &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/251015/p56#a251015p56)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [YouTube goes down for users worldwide in massive outage &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/youtube-outage-3607597/)
+ - [Sources: F5&#39;s breach is blamed on China, whose hackers had infiltrated F5&#39;s network for at least 12 months using the Brickstorm malware to steal source code &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p60#a251015p60)
+ - [Campfire, an AI-powered ERP and accounting services provider, raised a $65M Series B co-led by Accel and Ribbit Capital, after raising a $35M Series A in June &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251015/p59#a251015p59)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
