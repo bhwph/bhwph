@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to expose a zombie](http://9gag.com/gag/abAm8nE)
- - 😝 [Kids these days will never know the joy of ditch crawling](http://9gag.com/gag/aAyN94Z)
- - 👉 [He must be feeling traumatized after that](http://9gag.com/gag/a1mq3Kv)<!-- MEMES:END -->
+ - 6️⃣ [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
+ - 👉 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)<!-- MEMES:END -->
 
 --- 
 
