@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $100 on the Bose QuietComfort Ultra, amazing ANC headphones](https://www.androidauthority.com/bose-quietcomfort-ultra-deal-5-3608024/)
- - [Amazon&#39;s Ring partners with Flock to let law enforcement agencies that work with Flock request footage from Ring doorbell users &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/251016/p47#a251016p47)
- - [Gemini can basically use Google Sheets for you now](https://www.androidauthority.com/google-sheets-complex-gemini-integration-3608027/)<!-- TECH:END -->
+ - [Heading home? Google Maps might tell you how long it’ll take before you even ask](https://www.androidauthority.com/google-maps-home-travel-time-chip-3608081/)
+ - [I just reviewed the Xbox Ally and answered your burning questions](https://www.theverge.com/games/800212/i-just-reviewed-the-xbox-ally-ask-me-anything)
+ - [Save a whopping $520 on the Samsung Galaxy Z Fold 7 with 512GB!](https://www.androidauthority.com/samsung-galaxy-z-fold-7-deal-6-3608023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
