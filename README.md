@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honda wants you to teach its new robot lawnmower](https://www.theverge.com/news/800596/honda-prozision-autonomous-lawnmower)
- - [Hate your phone’s camera island design? This flagship lets you swap it out like Lego](https://www.androidauthority.com/realme-gt-8-pro-swappable-camera-island-like-lego-3607722/)
- - [Thanks Hasselblad: These 15 photos might be the best I’ve ever taken with a phone](https://www.androidauthority.com/oppo-find-x9-pro-camera-samples-3607432/)<!-- TECH:END -->
+ - [Ugreen’s 8-port Thunderbolt 4 hub is $80 off](https://www.theverge.com/tech/800682/ugreen-revodok-max-208-gopro-hero-13-deal-sale)
+ - [Miss your Xperia Play? You need to see this magnetic sliding Bluetooth controller](https://www.androidauthority.com/mcon-bluetooth-controller-launch-3607721/)
+ - [OpenAI hires black hole physicist Alex Lupsasca, the first person to join the OpenAI for Science initiative led by Kevin Weil &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/251016/p32#a251016p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
