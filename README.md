@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sequel To One Of The Best Narrative Games Of The Last Decade Just Got An Astonishing Demo](https://kotaku.com/perfect-tides-station-to-station-demo-free-next-fest-2000636002)
- - [This Mini PC With the Latest Processor Is Back on Amazon at a Record Low Price, Ideal as a Windows Backup for Mac Users](https://kotaku.com/this-mini-pc-with-the-latest-processor-is-back-on-amazon-at-a-record-low-price-ideal-as-a-windows-backup-for-mac-users-2000635758)
- - [Battlefield 6 — 9 ways it evolves the franchise’s formula](https://blog.playstation.com/2025/10/16/battlefield-6-9-ways-it-evolves-the-franchises-formula/)<!-- GAME:END -->
+ - [One Of Last Year’s Best Shooters Now Has A Free Demo](https://kotaku.com/warhammer-40k-space-marine-2-free-demo-sale-2000636114)
+ - [Govee LED Light Bars &lpar;2-Pack&rpar; Now Feel Like a BOGO Deal at This Price, the Cheapest Way to Upgrade Your Gaming Desk](https://kotaku.com/govee-led-light-bars-2-pack-now-feel-like-a-bogo-deal-at-this-price-the-cheapest-way-to-upgrade-your-gaming-desk-2000635762)
+ - [Huh, Quantic Dream Announces A Hero Shooter Called Spellcasters](https://kotaku.com/quantic-dream-hero-shooter-spellcasters-star-wars-eclipse-2000636086)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
