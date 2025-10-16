@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget Budget Laptops, This HP with 64GB RAM and 2TB SSD Is Now 74% Off and Selling for Pennies](https://kotaku.com/forget-budget-laptops-this-hp-with-64gb-ram-and-2tb-ssd-is-now-74-off-and-selling-for-pennies-2000635996)
- - [This 15″ Portable Monitor Turns Your Nintendo Switch Into a Big-Screen Console for Pocket Change](https://kotaku.com/this-15-portable-monitor-turns-your-nintendo-switch-into-a-big-screen-console-for-pocket-change-2000635990)
- - [A new trailer for Disney Dreamlight Valley&#39;s next DLC reveals two new villagers, and the ability to customise horses](https://www.pcgamer.com/games/life-sim/a-new-trailer-for-disney-dreamlight-valleys-next-dlc-reveals-two-new-villagers-and-the-ability-to-customise-horses/)<!-- GAME:END -->
+ - [The Sequel To One Of The Best Narrative Games Of The Last Decade Just Got An Astonishing Demo](https://kotaku.com/perfect-tides-station-to-station-demo-free-next-fest-2000636002)
+ - [This Mini PC With the Latest Processor Is Back on Amazon at a Record Low Price, Ideal as a Windows Backup for Mac Users](https://kotaku.com/this-mini-pc-with-the-latest-processor-is-back-on-amazon-at-a-record-low-price-ideal-as-a-windows-backup-for-mac-users-2000635758)
+ - [Battlefield 6 — 9 ways it evolves the franchise’s formula](https://blog.playstation.com/2025/10/16/battlefield-6-9-ways-it-evolves-the-franchises-formula/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
