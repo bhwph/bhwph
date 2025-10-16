@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge sentences Matthew Lane, a 20-year-old Massachusetts man, to four years in prison after he pled guilty to hacking two companies, including PowerSchool &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/251015/p51#a251015p51)
- - [Best Desks of 2025: I&#39;ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)
- - [Every new feature for Pixel phones in Android 16 QPR2 Beta 3](https://www.androidauthority.com/android-16-qpr2-beta-3-features-3607353/)<!-- TECH:END -->
+ - [Paxos says it &quot;mistakenly minted&quot; $300T worth of PayPal&#39;s PYUSD stablecoin on Wednesday and &quot;burned&quot; the tokens a little over 20 minutes later &lpar;Ryan S. Gladwin/Decrypt&rpar;](http://www.techmeme.com/251015/p57#a251015p57)
+ - [Documents: Rhoda AI, which raised a $162.6M Series A in April, and Genesis AI, which raised a $105M seed earlier this year, have been developing humanoid robots &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/251015/p56#a251015p56)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
