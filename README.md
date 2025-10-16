@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new $999 de-Googled phone with a physical killswitch wants to take on Android’s best](https://www.androidauthority.com/hiroh-phone-3607617/)
- - [OpenAI says all Sora 2 users can now generate videos up to 15 seconds on the app and web, while Pro users can generate videos up to 25 seconds on the web &lpar;@openai&rpar;](http://www.techmeme.com/251015/p63#a251015p63)
- - [Liberate, which builds AI agents to automate insurance operations, raised a $50M Series B led by Battery Ventures at a $300M post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251015/p62#a251015p62)<!-- TECH:END -->
+ - [How OpenSea reinvented itself from an NFT marketplace to a crypto trading aggregator, facilitating $1.6B in trades in the first two weeks of October &lpar;Jeff Kauflin/Forbes&rpar;](http://www.techmeme.com/251016/p9#a251016p9)
+ - [Nvidia partners with startup Firmus on Project Southgate, a $2.9B initial undertaking to build renewable energy-powered AI data centers across Australia &lpar;Keira Wright/Bloomberg&rpar;](http://www.techmeme.com/251016/p8#a251016p8)
+ - [South Korea&#39;s AI textbook program, meant to personalize learning, was rolled back after just four months after complaints about inaccuracies and extra workload &lpar;Junhyup Kwon/Rest of World&rpar;](http://www.techmeme.com/251016/p7#a251016p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
