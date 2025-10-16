@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ugreen’s 8-port Thunderbolt 4 hub is $80 off](https://www.theverge.com/tech/800682/ugreen-revodok-max-208-gopro-hero-13-deal-sale)
- - [Miss your Xperia Play? You need to see this magnetic sliding Bluetooth controller](https://www.androidauthority.com/mcon-bluetooth-controller-launch-3607721/)
- - [OpenAI hires black hole physicist Alex Lupsasca, the first person to join the OpenAI for Science initiative led by Kevin Weil &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/251016/p32#a251016p32)<!-- TECH:END -->
+ - [Two of your favorite streamers just announced a bundle that could save you money &lpar;Updated&rpar;](https://www.androidauthority.com/peacock-apple-bundle-3603744/)
+ - [Anthropic announces Skills for Claude, a tool with folders of instructions, scripts, and resources that Claude can load to improve performance on some tasks &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/251016/p40#a251016p40)
+ - [How ByteDance Made China’s Most Popular AI Chatbot](https://www.wired.com/story/bytedance-doubao-chatbot-popularity/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
