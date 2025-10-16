@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two of your favorite streamers just announced a bundle that could save you money &lpar;Updated&rpar;](https://www.androidauthority.com/peacock-apple-bundle-3603744/)
- - [Anthropic announces Skills for Claude, a tool with folders of instructions, scripts, and resources that Claude can load to improve performance on some tasks &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/251016/p40#a251016p40)
- - [How ByteDance Made China’s Most Popular AI Chatbot](https://www.wired.com/story/bytedance-doubao-chatbot-popularity/)<!-- TECH:END -->
+ - [Email: Ron Conway, a close friend of Marc Benioff for 25+ years, stepped down from the Salesforce Foundation board, citing Benioff&#39;s comments supporting Trump &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251016/p44#a251016p44)
+ - [Fujifilm redesigned its Instax Mini LiPlay for snapping selfies](https://www.theverge.com/news/801098/fujifilm-instax-mini-liplay-plus-instant-camera-selfies)
+ - [Pinterest&amp;#8217;s &amp;#8216;tuner&amp;#8217; lets you dial down the amount of AI content — but not entirely](https://www.theverge.com/news/801093/pinterest-tuner-tool-ai-content-categories)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
