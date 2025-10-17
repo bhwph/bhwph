@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
- - 😝 [How to expose a zombie](http://9gag.com/gag/abAm8nE)
- - 👉 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)<!-- MEMES:END -->
+ - 6️⃣ [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)
+ - 😝 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
+ - 👉 [Indian anti rape training](http://9gag.com/gag/aGyN4M6)<!-- MEMES:END -->
 
 --- 
 
