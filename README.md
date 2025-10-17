@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Heading home? Google Maps might tell you how long it’ll take before you even ask](https://www.androidauthority.com/google-maps-home-travel-time-chip-3608081/)
- - [I just reviewed the Xbox Ally and answered your burning questions](https://www.theverge.com/games/800212/i-just-reviewed-the-xbox-ally-ask-me-anything)
- - [Save a whopping $520 on the Samsung Galaxy Z Fold 7 with 512GB!](https://www.androidauthority.com/samsung-galaxy-z-fold-7-deal-6-3608023/)<!-- TECH:END -->
+ - [Why world models are the next big thing in AI](https://www.theverge.com/column/801370/ai-world-models-general-intuition-medal)
+ - [Steam hit a new record with over 41.6M concurrent users on October 12, a surge largely sparked by the release of Battlefield 6 &lpar;Kosta Andreadis/TweakTown&rpar;](http://www.techmeme.com/251016/p50#a251016p50)
+ - [MacBook Pro rumor points to OLED, touchscreen upgrades next year](https://www.theverge.com/news/801363/apple-macbook-pro-2026-rumor-oled-touchscreen)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
