@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)
- - 😝 [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
- - 👉 [Especially the 2 hour ones](http://9gag.com/gag/aGyNXAz)<!-- MEMES:END -->
+ - 6️⃣ [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
+ - 😝 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
+ - 👉 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)<!-- MEMES:END -->
 
 --- 
 
