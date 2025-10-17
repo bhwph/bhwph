@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Tote Bags of 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/best-laptop-totes-and-purses/)
- - [Amazon&#39;s Twitch begins testing livestream shopping ads allowing users to buy products &quot;in real time&quot;, starting with e.l.f. Cosmetics &lpar;Peter Adams/Marketing Dive&rpar;](http://www.techmeme.com/251017/p19#a251017p19)
- - [Sources: French regulator ACPR is carrying out anti-money laundering checks on Binance and others, as it seeks to determine eligibility for EU MiCA licenses &lpar;Claudia Cohen/Bloomberg&rpar;](http://www.techmeme.com/251017/p18#a251017p18)<!-- TECH:END -->
+ - [Don&#39;t put anything between your MacBook screen, including webcam covers](https://appleinsider.com/articles/25/10/17/dont-put-anything-between-your-macbook-screen-including-webcam-covers?utm_source=rss)
+ - [A look at the challenges facing Europe&#39;s chip industry, as the EU will likely fall short of its targeted 20% share of global chip manufacturing by 2030 &lpar;Foreign Affairs&rpar;](http://www.techmeme.com/251017/p21#a251017p21)
+ - [The Best TVs We’ve Reviewed In 2025: Sony, Samsung, LG, and More](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
