@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit announces that it is expanding its Google Gemini-powered search experience to five new languages: French, German, Spanish, Italian, and Portuguese &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251017/p13#a251017p13)
- - [OpenAI says it paused Sora&#39;s ability to generate videos resembling MLK Jr. at the request of his estate, after some users created &quot;disrespectful depictions&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/251017/p12#a251017p12)
- - [Lelo Switch Review: Dual-Ended Vibrator](https://www.wired.com/review/lelo-switch/)<!-- TECH:END -->
+ - [These 5 apps died this year, and I already miss them dearly](https://www.androidauthority.com/dead-android-apps-2025-3606641/)
+ - [The Bourbon Industry Is in Turmoil. Could Tech Provide the Shot It Needs?](https://www.wired.com/story/whiskey-house-bourbon/)
+ - [Meta is adding more parental controls for teen AI use](https://www.theverge.com/news/801505/meta-ai-chatbot-parental-controls-instagram)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
