@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia and TSMC unveil the first Blackwell chip wafer made in the US, which will eventually become Blackwell chips &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/251017/p31#a251017p31)
- - [Some of Our Favorite Noise-Canceling Headphones Are $100 Off if You Act Fast](https://www.wired.com/story/bose-quietcomfort-ultra-deal-1025/)
- - [Lila Sciences, which uses AI to develop novel drugs and materials, raised $115M at a $1.3B valuation, bringing its Series A to $350M and total funding to $550M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251017/p30#a251017p30)<!-- TECH:END -->
+ - [Google Play spills the beans on what apps and games are coming to Android XR](https://www.androidauthority.com/google-play-apps-games-android-xr-early-listings-3608434/)
+ - [Best Indoor Garden Systems: We&#39;ve Been Testing All Year &lpar;2025&rpar;](https://www.wired.com/gallery/best-indoor-gardening-systems/)
+ - [Dreamdata, which offers a B2B marketing analytics platform, raised a $55M Series B led by PeakSpan, bringing its total funding to $67M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251017/p34#a251017p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
