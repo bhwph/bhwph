@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
- - 😝 [Gravity always wins](http://9gag.com/gag/ajPMeo1)
- - 👉 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)<!-- MEMES:END -->
+ - 6️⃣ [Best plot twist I&#39;ve ever seen](http://9gag.com/gag/a5QyOGg)
+ - 😝 [NETFLIX and Chill Winston.](http://9gag.com/gag/a0eWBLO)
+ - 👉 [Ytho](http://9gag.com/gag/aryrQD7)<!-- MEMES:END -->
 
 --- 
 
