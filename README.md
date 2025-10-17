@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to evolve Haunter in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-haunter-evolve-gengar-how-to/)
- - [How to evolve Kadabra in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-kadabra-evolve-alakazam-how-to/)
- - [Football Manager 26 announces partnership with FIFA, so get ready to take the mighty Scotland to glory in World Cup 26](https://www.pcgamer.com/games/sports/football-manager-26-announces-partnership-with-fifa-so-get-ready-to-take-the-mighty-scotland-to-glory-in-world-cup-26/)<!-- GAME:END -->
+ - [Sony accuses Tencent of playing a &#39;shell game&#39; with its Horizon-like survival game, seeks a preliminary injunction against it](https://www.pcgamer.com/games/sony-accuses-tencent-of-playing-a-shell-game-with-its-horizon-like-survival-game-seeks-a-preliminary-injunction-against-it/)
+ - [Battlefield 6 Reverts Big Change After Just 48 Hours Due To Intense Backlash](https://kotaku.com/battlefield-6-reverts-conquest-ticket-change-48-hours-angry-backlash-2000636658)
+ - [So, uh, why are there suddenly at least 4 sinister convenience store simulators on Steam at once?](https://www.pcgamer.com/games/sim/so-uh-why-are-there-suddenly-at-least-4-sinister-convenience-store-simulators-on-steam-at-once/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
