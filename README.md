@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hacker group Scattered LAPSUS$ Hunters posts alleged names, phone numbers, and addresses of hundreds of DHS, ICE, FBI, and DOJ officials in a mass doxxing event &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/251017/p8#a251017p8)
- - [Sources: Samsung to showcase its trifold phone at this month&#39;s APEC summit; attendees won&#39;t be allowed to touch it, as it&#39;s expected to be displayed under glass &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/251017/p7#a251017p7)
- - [Wikimedia says Wikipedia is seeing a significant decline in human traffic, as more people access the site&#39;s information via AI chatbots without clicking through &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/251017/p6#a251017p6)<!-- TECH:END -->
+ - [Reddit announces that it is expanding its Google Gemini-powered search experience to five new languages: French, German, Spanish, Italian, and Portuguese &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251017/p13#a251017p13)
+ - [OpenAI says it paused Sora&#39;s ability to generate videos resembling MLK Jr. at the request of his estate, after some users created &quot;disrespectful depictions&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/251017/p12#a251017p12)
+ - [Lelo Switch Review: Dual-Ended Vibrator](https://www.wired.com/review/lelo-switch/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
