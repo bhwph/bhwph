@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The time has come - the first questionable report about iPhone production changes has arrived](https://appleinsider.com/articles/25/10/17/the-time-has-come---the-first-questionable-report-about-iphone-production-changes-has-arrived?utm_source=rss)
- - [Take 31% off the GoPro HERO13 Black Ultra Wide Edition action camera](https://www.androidauthority.com/gopro-hero13-black-ultra-wide-edition-deal-2-3608240/)
- - [WhatsApp is testing imposing per-month limits on how many messages individual users and businesses can send to unknown people without getting a response &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251017/p23#a251017p23)<!-- TECH:END -->
+ - [Q&amp;A with Andrej Karpathy on AGI still being a decade away, why reinforcement learning is terrible, superintelligence, his AI education startup Eureka, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/251017/p26#a251017p26)
+ - [Ex-lidar CEO makes a bid to reclaim his company](https://www.theverge.com/news/801827/ex-lidar-ceo-makes-a-bid-to-reclaim-his-company)
+ - [Sources: Revolut is nearing the completion of a $3B fundraising round that values the company at $75B, up from $45B in a 2024 secondary share sale &lpar;Bloomberg&rpar;](http://www.techmeme.com/251017/p25#a251017p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
