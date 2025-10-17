@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals getting a new PvE Zombies mode with musou vibes](https://www.polygon.com/marvel-rivals-new-pve-zombies-mode/)
- - [World of Warcraft&#39;s adding player housing in December, so naturally there&#39;s an add-on to let players earn as much furniture as possible in advance](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcrafts-adding-player-housing-in-december-so-naturally-theres-an-add-on-to-let-players-earn-as-much-furniture-as-possible-in-advance/)
- - [Atari new retro console the Intellivision Sprint gets release date](https://www.polygon.com/atari-intellivision-sprint-announcement/)<!-- GAME:END -->
+ - [How to evolve Haunter in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-haunter-evolve-gengar-how-to/)
+ - [How to evolve Kadabra in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-kadabra-evolve-alakazam-how-to/)
+ - [Football Manager 26 announces partnership with FIFA, so get ready to take the mighty Scotland to glory in World Cup 26](https://www.pcgamer.com/games/sports/football-manager-26-announces-partnership-with-fifa-so-get-ready-to-take-the-mighty-scotland-to-glory-in-world-cup-26/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
