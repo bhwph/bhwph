@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best plot twist I&#39;ve ever seen](http://9gag.com/gag/a5QyOGg)
- - 😝 [NETFLIX and Chill Winston.](http://9gag.com/gag/a0eWBLO)
- - 👉 [Ytho](http://9gag.com/gag/aryrQD7)<!-- MEMES:END -->
+ - 6️⃣ [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
+ - 😝 [How to expose a zombie](http://9gag.com/gag/abAm8nE)
+ - 👉 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)<!-- MEMES:END -->
 
 --- 
 
