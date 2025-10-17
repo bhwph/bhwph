@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [NETFLIX and Chill Winston.](http://9gag.com/gag/a0eWBLO)
- - 😝 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
- - 👉 [Those darn pirates! &lpar;lol&rpar;](http://9gag.com/gag/aLnNx0z)<!-- MEMES:END -->
+ - 6️⃣ [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)
+ - 😝 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
+ - 👉 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)<!-- MEMES:END -->
 
 --- 
 
