@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta is set to seal an almost $30B financing package for its Louisiana data center; Meta will retain 20% ownership in the Hyperion data center site &lpar;Bloomberg&rpar;](http://www.techmeme.com/251016/p53#a251016p53)
- - [Cherry KW 550 MX LP mechanical keyboard review: Sweet spot of pricing and performance](https://appleinsider.com/articles/25/10/17/cherry-kw-550-mx-lp-mechanical-keyboard-review-sweet-spot-of-pricing-and-performance?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Oct. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-oct-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hacker group Scattered LAPSUS$ Hunters posts alleged names, phone numbers, and addresses of hundreds of DHS, ICE, FBI, and DOJ officials in a mass doxxing event &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/251017/p8#a251017p8)
+ - [Sources: Samsung to showcase its trifold phone at this month&#39;s APEC summit; attendees won&#39;t be allowed to touch it, as it&#39;s expected to be displayed under glass &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/251017/p7#a251017p7)
+ - [Wikimedia says Wikipedia is seeing a significant decline in human traffic, as more people access the site&#39;s information via AI chatbots without clicking through &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/251017/p6#a251017p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
