@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Andrej Karpathy on AGI still being a decade away, why reinforcement learning is terrible, superintelligence, his AI education startup Eureka, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/251017/p26#a251017p26)
- - [Ex-lidar CEO makes a bid to reclaim his company](https://www.theverge.com/news/801827/ex-lidar-ceo-makes-a-bid-to-reclaim-his-company)
- - [Sources: Revolut is nearing the completion of a $3B fundraising round that values the company at $75B, up from $45B in a 2024 secondary share sale &lpar;Bloomberg&rpar;](http://www.techmeme.com/251017/p25#a251017p25)<!-- TECH:END -->
+ - [Nvidia and TSMC unveil the first Blackwell chip wafer made in the US, which will eventually become Blackwell chips &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/251017/p31#a251017p31)
+ - [Some of Our Favorite Noise-Canceling Headphones Are $100 Off if You Act Fast](https://www.wired.com/story/bose-quietcomfort-ultra-deal-1025/)
+ - [Lila Sciences, which uses AI to develop novel drugs and materials, raised $115M at a $1.3B valuation, bringing its Series A to $350M and total funding to $550M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251017/p30#a251017p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
