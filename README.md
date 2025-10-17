@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Outlast Trials Invasion update: everything you need to know about the PvP mode](https://www.pcgamer.com/games/horror/the-outlast-trials-invasion-update/)
- - [TP-Link Deco BE25 BE5000 review](https://www.pcgamer.com/hardware/networking/tp-link-deco-be25-be5000-review/)
- - [TP-Link Archer BE9700 review](https://www.pcgamer.com/hardware/networking/tp-link-archer-be9700-review/)<!-- GAME:END -->
+ - [Marvel Rivals getting a new PvE Zombies mode with musou vibes](https://www.polygon.com/marvel-rivals-new-pve-zombies-mode/)
+ - [World of Warcraft&#39;s adding player housing in December, so naturally there&#39;s an add-on to let players earn as much furniture as possible in advance](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcrafts-adding-player-housing-in-december-so-naturally-theres-an-add-on-to-let-players-earn-as-much-furniture-as-possible-in-advance/)
+ - [Atari new retro console the Intellivision Sprint gets release date](https://www.polygon.com/atari-intellivision-sprint-announcement/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
