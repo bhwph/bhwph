@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don&#39;t put anything between your MacBook screen, including webcam covers](https://appleinsider.com/articles/25/10/17/dont-put-anything-between-your-macbook-screen-including-webcam-covers?utm_source=rss)
- - [A look at the challenges facing Europe&#39;s chip industry, as the EU will likely fall short of its targeted 20% share of global chip manufacturing by 2030 &lpar;Foreign Affairs&rpar;](http://www.techmeme.com/251017/p21#a251017p21)
- - [The Best TVs We’ve Reviewed In 2025: Sony, Samsung, LG, and More](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
+ - [The time has come - the first questionable report about iPhone production changes has arrived](https://appleinsider.com/articles/25/10/17/the-time-has-come---the-first-questionable-report-about-iphone-production-changes-has-arrived?utm_source=rss)
+ - [Take 31% off the GoPro HERO13 Black Ultra Wide Edition action camera](https://www.androidauthority.com/gopro-hero13-black-ultra-wide-edition-deal-2-3608240/)
+ - [WhatsApp is testing imposing per-month limits on how many messages individual users and businesses can send to unknown people without getting a response &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251017/p23#a251017p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
