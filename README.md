@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
- - 😝 [Bro...](http://9gag.com/gag/ayNVGPW)
- - 👉 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)<!-- MEMES:END -->
+ - 6️⃣ [NETFLIX and Chill Winston.](http://9gag.com/gag/a0eWBLO)
+ - 😝 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
+ - 👉 [Those darn pirates! &lpar;lol&rpar;](http://9gag.com/gag/aLnNx0z)<!-- MEMES:END -->
 
 --- 
 
