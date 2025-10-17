@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These 5 apps died this year, and I already miss them dearly](https://www.androidauthority.com/dead-android-apps-2025-3606641/)
- - [The Bourbon Industry Is in Turmoil. Could Tech Provide the Shot It Needs?](https://www.wired.com/story/whiskey-house-bourbon/)
- - [Meta is adding more parental controls for teen AI use](https://www.theverge.com/news/801505/meta-ai-chatbot-parental-controls-instagram)<!-- TECH:END -->
+ - [6 Best Tote Bags of 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/best-laptop-totes-and-purses/)
+ - [Amazon&#39;s Twitch begins testing livestream shopping ads allowing users to buy products &quot;in real time&quot;, starting with e.l.f. Cosmetics &lpar;Peter Adams/Marketing Dive&rpar;](http://www.techmeme.com/251017/p19#a251017p19)
+ - [Sources: French regulator ACPR is carrying out anti-money laundering checks on Binance and others, as it seeks to determine eligibility for EU MiCA licenses &lpar;Claudia Cohen/Bloomberg&rpar;](http://www.techmeme.com/251017/p18#a251017p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
