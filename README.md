@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro...](http://9gag.com/gag/ayNVGPW)
- - 😝 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
+ - 6️⃣ [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
+ - 😝 [Bro...](http://9gag.com/gag/ayNVGPW)
  - 👉 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)<!-- MEMES:END -->
 
 --- 
