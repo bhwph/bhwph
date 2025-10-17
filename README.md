@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony accuses Tencent of playing a &#39;shell game&#39; with its Horizon-like survival game, seeks a preliminary injunction against it](https://www.pcgamer.com/games/sony-accuses-tencent-of-playing-a-shell-game-with-its-horizon-like-survival-game-seeks-a-preliminary-injunction-against-it/)
- - [Battlefield 6 Reverts Big Change After Just 48 Hours Due To Intense Backlash](https://kotaku.com/battlefield-6-reverts-conquest-ticket-change-48-hours-angry-backlash-2000636658)
- - [So, uh, why are there suddenly at least 4 sinister convenience store simulators on Steam at once?](https://www.pcgamer.com/games/sim/so-uh-why-are-there-suddenly-at-least-4-sinister-convenience-store-simulators-on-steam-at-once/)<!-- GAME:END -->
+ - [How to evolve Eevee in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-eevee-evolution-glaceon-leafon-espeon-umbreon-sylveon/)
+ - [Red Dead Redemption 2 Goes Full Mortal Kombat Mode With Tuberculosis Cough Fatality](https://kotaku.com/red-dead-redemption-2-mortal-kombat-mod-2000636690)
+ - [Where to find the different Flabébé colors in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-flabebe-forms-colors-locations-where-to-find/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
