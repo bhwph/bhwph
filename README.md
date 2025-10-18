@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warframe&#39;s new quest answers an important question: how do you mod?](https://www.polygon.com/warframe-the-teacher-interview/)
- - [I played communist Germany&#39;s only arcade cabinet and you can too, comrade](https://www.pcgamer.com/games/i-played-communist-germanys-only-arcade-cabinet-and-you-can-too-comrade/)
- - [Pokémon Legends: Z-A has fans begging for legit voice acting](https://www.polygon.com/pokemon-legends-za-voice-acting-franchise-game-freak-switch/)<!-- GAME:END -->
+ - [Peacemaker season 3 might not happen. Here&#39;s why that&#39;s a huge mistake.](https://www.polygon.com/peacemaker-season-3-james-gunn-opinion/)
+ - [How to evolve Inkay in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-inkay-evolve-malamar-how-to/)
+ - [Cherry Falls at 25: Still a subversive slasher](https://www.polygon.com/cherry-falls-slasher-movie-at-25/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
