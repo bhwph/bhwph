@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My new most anticipated game is about a lonely house who can roll, jump, fish and go on dates](https://www.pcgamer.com/games/adventure/my-new-most-anticipated-game-is-about-a-lonely-house-who-can-roll-jump-fish-and-go-on-dates/)
- - [Today&#39;s Wordle clues, hints and answer for October 18 &lpar;#1582&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-18-2025/)
- - [2027 is shaping up to be the biggest year for videogame movies yet, with the live-action Zelda movie, A Minecraft Movie sequel, Death Stranding, and more heavy-hitters planned](https://www.pcgamer.com/movies-tv/2027-is-shaping-up-to-the-the-biggest-year-for-videogame-movies-yet-with-the-live-action-zelda-movie-a-minecraft-movie-sequel-death-stranding-and-more-heavy-hitters-planned/)<!-- GAME:END -->
+ - [Millennium Falcon Set Is Going for Peanuts, Amazon Crushes LEGO Star Wars Stock Prices](https://kotaku.com/millennium-falcon-set-is-going-for-peanuts-amazon-crushes-lego-star-wars-stock-prices-2000636914)
+ - [Helluva Boss&#39; Halloween episode is a scary standout](https://www.polygon.com/helluva-boss-ghostfers-animated-adult-horror-what-to-watch/)
+ - [Drive a truck filled with explosives across horrible terrain in this gnarly mix of Snowrunner and Baby Steps—inspired by one of Hollywood&#39;s most misunderstood films](https://www.pcgamer.com/games/sim/drive-a-truck-filled-with-explosives-across-horrible-terrain-in-this-gnarly-mix-of-snowrunner-and-baby-steps-inspired-by-one-of-hollywoods-most-misunderstood-films/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
