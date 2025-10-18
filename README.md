@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Better not speak freely in the Big 2030](http://9gag.com/gag/aVv1pbP)
- - 😝 [I showed you my](http://9gag.com/gag/agmZPBn)
- - 👉 [Meanwhile in capital of romania](http://9gag.com/gag/aGyNXqn)<!-- MEMES:END -->
+ - 6️⃣ [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)
+ - 😝 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
+ - 👉 [Bro...](http://9gag.com/gag/ayNVGPW)<!-- MEMES:END -->
 
 --- 
 
