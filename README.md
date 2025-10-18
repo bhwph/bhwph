@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
- - 😝 [Red Alert 2 meme](http://9gag.com/gag/aoyqXbX)
- - 👉 [Really?](http://9gag.com/gag/a5Qy8OE)<!-- MEMES:END -->
+ - 6️⃣ [Bro...](http://9gag.com/gag/ayNVGPW)
+ - 😝 [Left, right. Good night &lpar;sorry I couldn&#39;t find the original&rpar;. Don&#39;t crucify me](http://9gag.com/gag/ayNVGeb)
+ - 👉 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)<!-- MEMES:END -->
 
 --- 
 
