@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cosmic Orange iPhone 17 Pro allegedly changes color to pink](https://appleinsider.com/articles/25/10/18/cosmic-orange-iphone-17-pro-allegedly-changes-color-to-pink?utm_source=rss)
- - [A new &lpar;artificial&rpar; era for Google Photos](https://www.androidauthority.com/authority-insights-podcast-009-3608297/)
- - [Samsung canceling the Galaxy S26 Edge proves it was only committed to copying Apple](https://www.androidauthority.com/samsung-galaxy-s26-edge-copy-apple-3607777/)<!-- TECH:END -->
+ - [The 15 Best Soundbars We’ve Tested in 2025: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
+ - [Pokémon Legends: Z-A makes a big, welcome change for shiny hunters](https://www.theverge.com/games/802089/pokemon-legends-z-a-shiny-hunting)
+ - [An interview with Cloudflare CEO Matthew Prince on the company&#39;s new Content Signals Policy, which lets sites fine tune how their data can be used by crawlers &lpar;Samuel Axon/Ars Technica&rpar;](http://www.techmeme.com/251018/p8#a251018p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
