@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s the little things: 4 quality-of-life updates I want to see in Gemini](https://www.androidauthority.com/gemini-quality-of-life-updates-3607636/)
- - [Gear News of the Week: Honor Teases a Bizarre Robot Phone, and Kohler Debuts a Toilet Sensor](https://www.wired.com/story/gear-news-of-the-week-honor-teases-a-bizarre-robot-phone-and-kohler-debuts-a-toilet-sensor/)
- - [Early M5 MacBook Pro benchmarks show a big boost over the M4](https://appleinsider.com/articles/25/10/17/early-m5-macbook-pro-benchmarks-show-a-big-boost-over-the-m4?utm_source=rss)<!-- TECH:END -->
+ - [Cosmic Orange iPhone 17 Pro allegedly changes color to pink](https://appleinsider.com/articles/25/10/18/cosmic-orange-iphone-17-pro-allegedly-changes-color-to-pink?utm_source=rss)
+ - [A new &lpar;artificial&rpar; era for Google Photos](https://www.androidauthority.com/authority-insights-podcast-009-3608297/)
+ - [Samsung canceling the Galaxy S26 Edge proves it was only committed to copying Apple](https://www.androidauthority.com/samsung-galaxy-s26-edge-copy-apple-3607777/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
