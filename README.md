@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TiVo won the court battles, but lost the TV war](https://www.theverge.com/tech/802254/tivo-time-warp-patent-courtoom-battles-lost-tv-war)
- - [Two Wikipedia contributors disarmed a gunman who threatened to kill himself at WikiConference to protest a policy banning editors who identify as pedophiles &lpar;Andy Newman/New York Times&rpar;](http://www.techmeme.com/251018/p10#a251018p10)
- - [Motorola’s Razr Ultra and the Marshall Emberton II top this week’s best deals](https://www.theverge.com/tech/801962/motorola-razr-ultra-2025-foldable-marshall-emberton-ii-speaker-deal-sale)<!-- TECH:END -->
+ - [WhatsApp updates its Business API terms to ban general-purpose chatbots starting January 15, 2026, affecting WhatsApp assistants of OpenAI, Perplexity, others &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251018/p11#a251018p11)
+ - [Amazon&#39;s Ring Cameras Push Deeper Into Police and Government Surveillance](https://www.cnet.com/home/security/amazons-ring-cameras-push-deeper-into-police-and-government-surveillance/#ftag=CAD590a51e)
+ - [Apple Vision Pro Developer Strap could get a surprise upgrade](https://appleinsider.com/articles/25/10/18/apple-vision-pro-developer-strap-could-get-a-surprise-upgrade?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
