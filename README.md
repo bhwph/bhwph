@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge bars NSO Group from targeting WhatsApp users and cuts the ~$168M damages verdict awarded to Meta by a jury in May to $4M, ruling it was excessive &lpar;Carly Nairn/Courthouse News Service&rpar;](http://www.techmeme.com/251017/p39#a251017p39)
- - [Google says North Korea hackers are using &quot;EtherHiding&quot; to embed malware on blockchains, the first time it has seen a nation-state threat actor using the method &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251017/p38#a251017p38)
- - [Facebook’s new button lets its AI look at photos you haven&amp;#8217;t uploaded yet](https://www.theverge.com/ai-artificial-intelligence/802102/meta-facebook-opt-in-ai-edits-photos-camera-roll)<!-- TECH:END -->
+ - [Shares of ISU Petasys, a South Korea-based multi-layer PCB supplier for AI servers used by Alphabet, Nvidia, Microsoft, and others, are up 215% so far this year &lpar;John Kang/Forbes&rpar;](http://www.techmeme.com/251018/p4#a251018p4)
+ - [South Korea restricts travel to Cambodia over online scam center kidnappings; the UK and US sanction Cambodia&#39;s Prince Group for allegedly running scam centers &lpar;Christian Davies/Financial Times&rpar;](http://www.techmeme.com/251018/p3#a251018p3)
+ - [Mexico-based fintech Plata, approved for a banking license in December 2024, raised $250M at a $3.1B valuation, as it seeks to transition to a full-fledged bank &lpar;Bloomberg&rpar;](http://www.techmeme.com/251018/p2#a251018p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
