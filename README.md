@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Peacemaker season 3 might not happen. Here&#39;s why that&#39;s a huge mistake.](https://www.polygon.com/peacemaker-season-3-james-gunn-opinion/)
- - [How to evolve Inkay in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-inkay-evolve-malamar-how-to/)
- - [Cherry Falls at 25: Still a subversive slasher](https://www.polygon.com/cherry-falls-slasher-movie-at-25/)<!-- GAME:END -->
+ - [It got a lot of love, but Arc Raiders &#39;was absolutely not ready&#39; to release after its popular April playtest, says design director: &#39;There were some bad bugs&#39;](https://www.pcgamer.com/games/third-person-shooter/it-got-a-lot-of-love-but-arc-raiders-was-absolutely-not-ready-to-release-after-its-popular-april-playtest-says-design-director-there-were-some-bad-bugs/)
+ - [Don&#39;t count on Arc Raiders ever getting a first-person mode: &#39;Once you start being able to put your face right up against an asset, it kind of falls apart&#39;](https://www.pcgamer.com/games/third-person-shooter/dont-count-on-arc-raiders-ever-getting-a-first-person-mode-once-you-start-being-able-to-put-your-face-right-up-against-an-asset-it-kind-of-falls-apart/)
+ - [The sleeper hit of the Fall might be this mad lad&#39;s hyper realistic traffic management sim that uses real census data and a &#39;distance-based gravity model&#39; to produce millions of NPC commuters](https://www.pcgamer.com/games/city-builder/the-sleeper-hit-of-the-fall-might-be-this-mad-lads-hyper-realistic-traffic-management-sim-that-uses-real-census-data-and-a-distance-based-gravity-model-to-produce-millions-of-npc-commuters/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
