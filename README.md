@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 15 Best Soundbars We’ve Tested in 2025: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
- - [Pokémon Legends: Z-A makes a big, welcome change for shiny hunters](https://www.theverge.com/games/802089/pokemon-legends-z-a-shiny-hunting)
- - [An interview with Cloudflare CEO Matthew Prince on the company&#39;s new Content Signals Policy, which lets sites fine tune how their data can be used by crawlers &lpar;Samuel Axon/Ars Technica&rpar;](http://www.techmeme.com/251018/p8#a251018p8)<!-- TECH:END -->
+ - [TiVo won the court battles, but lost the TV war](https://www.theverge.com/tech/802254/tivo-time-warp-patent-courtoom-battles-lost-tv-war)
+ - [Two Wikipedia contributors disarmed a gunman who threatened to kill himself at WikiConference to protest a policy banning editors who identify as pedophiles &lpar;Andy Newman/New York Times&rpar;](http://www.techmeme.com/251018/p10#a251018p10)
+ - [Motorola’s Razr Ultra and the Marshall Emberton II top this week’s best deals](https://www.theverge.com/tech/801962/motorola-razr-ultra-2025-foldable-marshall-emberton-ii-speaker-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
