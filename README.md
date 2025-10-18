@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play spills the beans on what apps and games are coming to Android XR](https://www.androidauthority.com/google-play-apps-games-android-xr-early-listings-3608434/)
- - [Best Indoor Garden Systems: We&#39;ve Been Testing All Year &lpar;2025&rpar;](https://www.wired.com/gallery/best-indoor-gardening-systems/)
- - [Dreamdata, which offers a B2B marketing analytics platform, raised a $55M Series B led by PeakSpan, bringing its total funding to $67M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251017/p34#a251017p34)<!-- TECH:END -->
+ - [Google says North Korea hackers are using &quot;EtherHiding&quot; to embed malware on blockchains, the first time it has seen a nation-state threat actor using the method &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251017/p38#a251017p38)
+ - [Facebook’s new button lets its AI look at photos you haven&amp;#8217;t uploaded yet](https://www.theverge.com/ai-artificial-intelligence/802102/meta-facebook-opt-in-ai-edits-photos-camera-roll)
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
