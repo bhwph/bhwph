@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Aaron Paul took two years to perform Dispatch, his new video game](https://www.polygon.com/aaron-paul-gaming-role-dispatch/)
- - [This wild mod for Metal Gear Solid 5 massively expands its Subsistence system and makes enemies learn new tactics within missions rather than across them](https://www.pcgamer.com/games/action/this-wild-mod-for-metal-gear-solid-5-massively-expands-its-subsistence-system-and-makes-enemies-learn-new-tactics-within-missions-rather-than-across-them/)
- - [Will there be a Black Phone 3? The sequel&#39;s writer and director weigh in](https://www.polygon.com/will-there-be-a-black-phone-3-scott-derrickson-c-robert-cargill-interview/)<!-- GAME:END -->
+ - [Warframe&#39;s new quest answers an important question: how do you mod?](https://www.polygon.com/warframe-the-teacher-interview/)
+ - [I played communist Germany&#39;s only arcade cabinet and you can too, comrade](https://www.pcgamer.com/games/i-played-communist-germanys-only-arcade-cabinet-and-you-can-too-comrade/)
+ - [Pokémon Legends: Z-A has fans begging for legit voice acting](https://www.polygon.com/pokemon-legends-za-voice-acting-franchise-game-freak-switch/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
