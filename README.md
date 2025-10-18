@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shares of bitcoin mining companies pivoting to AI and HPC infrastructure have soared in 2025, with a fund tracking mining firms up 150% year-to-date &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/251018/p12#a251018p12)
- - [WhatsApp updates its Business API terms to ban general-purpose chatbots starting January 15, 2026, affecting WhatsApp assistants of OpenAI, Perplexity, others &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251018/p11#a251018p11)
- - [Amazon&#39;s Ring Cameras Push Deeper Into Police and Government Surveillance](https://www.cnet.com/home/security/amazons-ring-cameras-push-deeper-into-police-and-government-surveillance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US military has adopted an aggressive push to embrace AI; the top US Army commander in South Korea says &quot;Chat and I&quot; have become &quot;really close lately&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/251018/p13#a251018p13)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 19, #861](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-19-861/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 19, #1583](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-19-1583/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
