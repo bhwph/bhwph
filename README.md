@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Red Alert 2 meme](http://9gag.com/gag/aoyqXbX)
- - 😝 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
- - 👉 [Bro...](http://9gag.com/gag/ayNVGPW)<!-- MEMES:END -->
+ - 6️⃣ [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
+ - 😝 [Red Alert 2 meme](http://9gag.com/gag/aoyqXbX)
+ - 👉 [Really?](http://9gag.com/gag/a5Qy8OE)<!-- MEMES:END -->
 
 --- 
 
