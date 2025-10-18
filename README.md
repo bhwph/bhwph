@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It got a lot of love, but Arc Raiders &#39;was absolutely not ready&#39; to release after its popular April playtest, says design director: &#39;There were some bad bugs&#39;](https://www.pcgamer.com/games/third-person-shooter/it-got-a-lot-of-love-but-arc-raiders-was-absolutely-not-ready-to-release-after-its-popular-april-playtest-says-design-director-there-were-some-bad-bugs/)
- - [Don&#39;t count on Arc Raiders ever getting a first-person mode: &#39;Once you start being able to put your face right up against an asset, it kind of falls apart&#39;](https://www.pcgamer.com/games/third-person-shooter/dont-count-on-arc-raiders-ever-getting-a-first-person-mode-once-you-start-being-able-to-put-your-face-right-up-against-an-asset-it-kind-of-falls-apart/)
- - [The sleeper hit of the Fall might be this mad lad&#39;s hyper realistic traffic management sim that uses real census data and a &#39;distance-based gravity model&#39; to produce millions of NPC commuters](https://www.pcgamer.com/games/city-builder/the-sleeper-hit-of-the-fall-might-be-this-mad-lads-hyper-realistic-traffic-management-sim-that-uses-real-census-data-and-a-distance-based-gravity-model-to-produce-millions-of-npc-commuters/)<!-- GAME:END -->
+ - [The Chainsaw Man movie mixes hand-drawn animation with CGI — just like Demon Slayer: Infinity Castle](https://www.polygon.com/mappa-chainsaw-man-ufotable-demon-slayer-infinity-castle-3d-cg/)
+ - [Total conversion mod for The Simpsons: Hit &amp; Run turns it into the Futurama game of our dreams](https://www.pcgamer.com/games/action/total-conversion-mod-for-the-simpsons-hit-and-run-turns-it-into-the-futurama-game-of-our-dreams/)
+ - [Just in case you thought reviving dead games seemed easy enough, GOG had to hire a private investigator to find an IP holder living off the grid for its preservation program](https://www.pcgamer.com/games/just-in-case-you-thought-reviving-dead-games-seemed-easy-enough-gog-had-to-hire-a-private-investigator-to-find-an-ip-holder-living-off-the-grid-for-its-preservation-program/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
