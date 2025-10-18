@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lovense Lush Mini Review: A Dual-Stimulation Vibrator](https://www.wired.com/review/lovense-lush-mini/)
- - [Inside Hyperliquid, a booming DEX for perpetual crypto futures still controlled by a small insider group, raising questions about how decentralized it really is &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/251018/p5#a251018p5)
- - [Shares of ISU Petasys, a South Korea-based multi-layer PCB supplier for AI servers used by Alphabet, Nvidia, Microsoft, and others, are up 215% so far this year &lpar;John Kang/Forbes&rpar;](http://www.techmeme.com/251018/p4#a251018p4)<!-- TECH:END -->
+ - [It’s the little things: 4 quality-of-life updates I want to see in Gemini](https://www.androidauthority.com/gemini-quality-of-life-updates-3607636/)
+ - [Gear News of the Week: Honor Teases a Bizarre Robot Phone, and Kohler Debuts a Toilet Sensor](https://www.wired.com/story/gear-news-of-the-week-honor-teases-a-bizarre-robot-phone-and-kohler-debuts-a-toilet-sensor/)
+ - [Early M5 MacBook Pro benchmarks show a big boost over the M4](https://appleinsider.com/articles/25/10/17/early-m5-macbook-pro-benchmarks-show-a-big-boost-over-the-m4?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
