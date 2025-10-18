@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Really?](http://9gag.com/gag/a5Qy8OE)
- - 😝 [Meanwhile in capital of romania](http://9gag.com/gag/aGyNXqn)
- - 👉 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)<!-- MEMES:END -->
+ - 6️⃣ [Before auto tune you needed a church choir](http://9gag.com/gag/agmZPZq)
+ - 😝 [Two power chords credit @misiurka fam](http://9gag.com/gag/avyXYLq)
+ - 👉 [Flag](http://9gag.com/gag/a9yNQBZ)<!-- MEMES:END -->
 
 --- 
 
