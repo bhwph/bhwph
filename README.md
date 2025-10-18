@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to evolve Eevee in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-eevee-evolution-glaceon-leafon-espeon-umbreon-sylveon/)
- - [Red Dead Redemption 2 Goes Full Mortal Kombat Mode With Tuberculosis Cough Fatality](https://kotaku.com/red-dead-redemption-2-mortal-kombat-mod-2000636690)
- - [Where to find the different Flabébé colors in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-flabebe-forms-colors-locations-where-to-find/)<!-- GAME:END -->
+ - [2027 is shaping up to be the biggest year for videogame movies yet, with the live-action Zelda movie, A Minecraft Movie sequel, Death Stranding, and more heavy-hitters planned](https://www.pcgamer.com/movies-tv/2027-is-shaping-up-to-the-the-biggest-year-for-videogame-movies-yet-with-the-live-action-zelda-movie-a-minecraft-movie-sequel-death-stranding-and-more-heavy-hitters-planned/)
+ - [Chickenhare &amp; the Treasure of Spiking-Beard: From Screen to Game](https://news.xbox.com/en-us/2025/10/17/chickenhare-amp-the-treasure-of-spiking-beard/)
+ - [How to evolve Eevee in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-eevee-evolution-glaceon-leafon-espeon-umbreon-sylveon/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
