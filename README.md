@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Millennium Falcon Set Is Going for Peanuts, Amazon Crushes LEGO Star Wars Stock Prices](https://kotaku.com/millennium-falcon-set-is-going-for-peanuts-amazon-crushes-lego-star-wars-stock-prices-2000636914)
- - [Helluva Boss&#39; Halloween episode is a scary standout](https://www.polygon.com/helluva-boss-ghostfers-animated-adult-horror-what-to-watch/)
- - [Drive a truck filled with explosives across horrible terrain in this gnarly mix of Snowrunner and Baby Steps—inspired by one of Hollywood&#39;s most misunderstood films](https://www.pcgamer.com/games/sim/drive-a-truck-filled-with-explosives-across-horrible-terrain-in-this-gnarly-mix-of-snowrunner-and-baby-steps-inspired-by-one-of-hollywoods-most-misunderstood-films/)<!-- GAME:END -->
+ - [Aaron Paul took two years to perform Dispatch, his new video game](https://www.polygon.com/aaron-paul-gaming-role-dispatch/)
+ - [This wild mod for Metal Gear Solid 5 massively expands its Subsistence system and makes enemies learn new tactics within missions rather than across them](https://www.pcgamer.com/games/action/this-wild-mod-for-metal-gear-solid-5-massively-expands-its-subsistence-system-and-makes-enemies-learn-new-tactics-within-missions-rather-than-across-them/)
+ - [Will there be a Black Phone 3? The sequel&#39;s writer and director weigh in](https://www.polygon.com/will-there-be-a-black-phone-3-scott-derrickson-c-robert-cargill-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
