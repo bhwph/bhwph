@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shoulder blade pain](http://9gag.com/gag/a0eWrmL)
- - 😝 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
- - 👉 [Really?](http://9gag.com/gag/a5Qy8OE)<!-- MEMES:END -->
+ - 6️⃣ [Better not speak freely in the Big 2030](http://9gag.com/gag/aVv1pbP)
+ - 😝 [I showed you my](http://9gag.com/gag/agmZPBn)
+ - 👉 [Meanwhile in capital of romania](http://9gag.com/gag/aGyNXqn)<!-- MEMES:END -->
 
 --- 
 
