@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for October 18 &lpar;#1582&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-18-2025/)
  - [2027 is shaping up to be the biggest year for videogame movies yet, with the live-action Zelda movie, A Minecraft Movie sequel, Death Stranding, and more heavy-hitters planned](https://www.pcgamer.com/movies-tv/2027-is-shaping-up-to-the-the-biggest-year-for-videogame-movies-yet-with-the-live-action-zelda-movie-a-minecraft-movie-sequel-death-stranding-and-more-heavy-hitters-planned/)
- - [Chickenhare &amp; the Treasure of Spiking-Beard: From Screen to Game](https://news.xbox.com/en-us/2025/10/17/chickenhare-amp-the-treasure-of-spiking-beard/)
- - [How to evolve Eevee in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-eevee-evolution-glaceon-leafon-espeon-umbreon-sylveon/)<!-- GAME:END -->
+ - [Chickenhare &amp; the Treasure of Spiking-Beard: From Screen to Game](https://news.xbox.com/en-us/2025/10/17/chickenhare-amp-the-treasure-of-spiking-beard/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
