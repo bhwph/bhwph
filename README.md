@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 Best Housewarming Gifts We Can&#39;t Stop Using &lpar;2025&rpar;: Coasters, Blenders, Sheets](https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home-2025/)
- - [Best Fire TV Stick for 2025: Fire Stick 4K Max, Cube and More](https://www.cnet.com/tech/home-entertainment/best-fire-tv-stick/#ftag=CAD590a51e)
- - [Organizers say over 7 million showed up to No Kings protests](https://www.theverge.com/news/802321/organizers-say-over-7-million-showed-up-to-no-kings-protests)<!-- TECH:END -->
+ - [You need to read the epic Argentinian horror novel Our Share of Night](https://www.theverge.com/entertainment/802340/you-need-to-read-the-epic-argentinian-horror-novel-our-share-of-night)
+ - [March of the frogs](https://www.theverge.com/policy/802315/portland-no-kings-october-ice-protests-frog-antifa)
+ - [&#39;Tracker&#39;: How to Watch Season 3, Episode 1 Without Cable](https://www.cnet.com/tech/services-and-software/tracker-how-to-watch-season-3-episode-1-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
