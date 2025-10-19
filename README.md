@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro...](http://9gag.com/gag/ayNVGPW)
- - 😝 [College student&#39;s last call to campus security desperately plead for help before she was murdered by &#39;unidentified man&#39;](http://9gag.com/gag/adB4mr2)
- - 👉 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)<!-- MEMES:END -->
+ - 6️⃣ [Flag](http://9gag.com/gag/a9yNQBZ)
+ - 😝 [Mad respect](http://9gag.com/gag/abAm96b)
+ - 👉 [When the chef sneaks to see if you are enjoying the food](http://9gag.com/gag/aLnNq2z)<!-- MEMES:END -->
 
 --- 
 
