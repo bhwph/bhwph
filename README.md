@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Clock is ticking...](http://9gag.com/gag/a9yN9xD)
- - 😝 [Meanwhile in capital of romania](http://9gag.com/gag/aGyNXqn)
- - 👉 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)<!-- MEMES:END -->
+ - 6️⃣ [Mad respect](http://9gag.com/gag/abAm96b)
+ - 😝 [This is how I see the world when I walk through the city](http://9gag.com/gag/aE0Nr0O)
+ - 👉 [For those who doesn&#39;t know what private equities do](http://9gag.com/gag/a7o64Be)<!-- MEMES:END -->
 
 --- 
 
