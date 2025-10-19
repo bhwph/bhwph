@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for October 19 &lpar;#1583&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-19-2025/)
- - [All Mega Evolutions and Mega Stone locations in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-mega-evolutions-list-stones-locations/)
- - [Final Fantasy 7 Rebirth director says all that timewasting filler was good actually](https://www.pcgamer.com/games/rpg/final-fantasy-7-rebirth-director-says-all-that-timewasting-filler-was-good-actually/)<!-- GAME:END -->
+ - [Formula 1 Cars Are Selling for Pennies, LEGO Offloads Remaining Stock During the Austin GP](https://kotaku.com/formula-1-cars-are-selling-for-pennies-lego-offloads-remaining-stock-during-the-austin-gp-2000636932)
+ - [Forget Mini PCs, Apple Quietly Clears Stock of the Latest Mac Mini at a New Record Low](https://kotaku.com/forget-mini-pcs-apple-quietly-clears-stock-of-the-latest-mac-mini-at-a-new-record-low-2000636927)
+ - [Society is the sickest possible movie about the sickness of society](https://www.polygon.com/society-best-horror-to-stream/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
