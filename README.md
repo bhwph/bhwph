@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You need to read the epic Argentinian horror novel Our Share of Night](https://www.theverge.com/entertainment/802340/you-need-to-read-the-epic-argentinian-horror-novel-our-share-of-night)
- - [March of the frogs](https://www.theverge.com/policy/802315/portland-no-kings-october-ice-protests-frog-antifa)
- - [&#39;Tracker&#39;: How to Watch Season 3, Episode 1 Without Cable](https://www.cnet.com/tech/services-and-software/tracker-how-to-watch-season-3-episode-1-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MLS playoff matches free to all Apple TV subscribers](https://appleinsider.com/articles/25/10/19/mls-playoff-matches-free-to-all-apple-tv-subscribers?utm_source=rss)
+ - [OpenAI&#39;s Broadcom deal shows how the AI startup is diversifying its chip suppliers, including Nvidia chips for training and Broadcom chips for inference &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/251019/p11#a251019p11)
+ - [Some Apple engineers are concerned about the state of Siri&#39;s iOS 26.4 update](https://appleinsider.com/articles/25/10/19/siris-long-awaited-update-allegedly-concerns-ios-264-testers?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
