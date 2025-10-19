@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dell Goes 4x Cheaper Than a MacBook, Now Listing Its Windows 11 Pro 1TB Laptop for Nearly 70% Off](https://kotaku.com/dell-goes-4x-cheaper-than-a-macbook-now-listing-its-windows-11-pro-1tb-laptop-for-nearly-70-off-2000636937)
- - [Shovel Knight dev&#39;s next game doesn&#39;t have a single parry, pulling from Castlevania and Bloodborne instead of Sekiro: &#39;Every game has a parry now … even Doom has Dark Souls stuff in it&#39;](https://www.pcgamer.com/games/adventure/shovel-knight-devs-next-game-doesnt-have-a-single-parry-pulling-from-castlevania-and-bloodborne-instead-of-sekiro-every-game-has-a-parry-now-even-doom-has-dark-souls-stuff-in-it/)
- - [GTA 6 might be worth $100 if it has a twerk button](https://www.polygon.com/gta-6-100-twerk-button/)<!-- GAME:END -->
+ - [Bedazzled at 25: Brendan Fraser&#39;s Faustian remake is a worthy Halloween rewatch](https://www.polygon.com/bedazzled-2000-remake-anniversary-brendan-fraser-hulu/)
+ - [Arc Raiders designer says Marathon&#39;s reception&#39;was a great A/B test&#39;: &#39;They made decisions that we didn&#39;t, and vice versa … we could compare and contrast how some of those things shook out&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-designer-says-marathons-receptionwas-a-great-a-b-test-they-made-decisions-that-we-didnt-and-vice-versa-we-could-compare-and-contrast-how-some-of-those-things-shook-out/)
+ - [D&amp;D’s new books may fix Forgotten Realms&#39; notoriously ‘bad’ Netheril adventure](https://www.polygon.com/dnd-dungeons-dragons-heroes-faerun-adventures-forgotten-realms-netheril-fall/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
