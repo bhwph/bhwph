@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bedazzled at 25: Brendan Fraser&#39;s Faustian remake is a worthy Halloween rewatch](https://www.polygon.com/bedazzled-2000-remake-anniversary-brendan-fraser-hulu/)
- - [Arc Raiders designer says Marathon&#39;s reception&#39;was a great A/B test&#39;: &#39;They made decisions that we didn&#39;t, and vice versa … we could compare and contrast how some of those things shook out&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-designer-says-marathons-receptionwas-a-great-a-b-test-they-made-decisions-that-we-didnt-and-vice-versa-we-could-compare-and-contrast-how-some-of-those-things-shook-out/)
- - [D&amp;D’s new books may fix Forgotten Realms&#39; notoriously ‘bad’ Netheril adventure](https://www.polygon.com/dnd-dungeons-dragons-heroes-faerun-adventures-forgotten-realms-netheril-fall/)<!-- GAME:END -->
+ - [If emulating classic DOS games seems like a pain, there&#39;s a DOSBox fork &#39;aiming for simplicity and ease of use&#39;, now standalone for the first time](https://www.pcgamer.com/games/if-emulating-classic-dos-games-seems-like-a-pain-theres-a-dosbox-fork-aiming-for-simplicity-and-ease-of-use-now-standalone-for-the-first-time/)
+ - [Hearthstone and Warcraft Rumble devs join the over 1900 Blizzard workers to unionize: &#39;We deserve to be heard and respected&#39;](https://www.pcgamer.com/gaming-industry/hearthstone-and-warcraft-rumble-devs-join-the-over-1900-blizzard-workers-to-unionize-we-deserve-to-be-heard-and-respected/)
+ - [Resident Evil Survival Unit is all about fan service](https://www.polygon.com/resident-evil-survival-unit-preview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
