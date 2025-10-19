@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ByteDance&#39;s Cici, an overseas counterpart of China&#39;s most popular AI chatbot app Doubao, is quietly gaining traction in the UK, Mexico, and Southeast Asia &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/251019/p7#a251019p7)
- - [I brought Nova Launcher’s best feature to my new launcher, but I don’t think you should](https://www.androidauthority.com/nova-launcher-best-feature-sesame-shortcuts-3608155/)
- - [How to Protect Yourself Against Getting Locked Out of Google, Dropbox, iCloud, OneDrive](https://www.wired.com/story/how-to-protect-yourself-against-getting-locked-out-of-your-cloud-accounts/)<!-- TECH:END -->
+ - [Microsoft, OpenAI, and Anthropic are providing millions to the American Federation of Teachers to build AI training hubs aimed at educating 400,000 teachers &lpar;Jocelyn Gecker/Associated Press&rpar;](http://www.techmeme.com/251019/p8#a251019p8)
+ - [This weekend is your last chance to get a month of Disney Plus starting at $9.99](https://www.theverge.com/tech/801979/disney-plus-premium-october-price-hike-deal)
+ - [Jona Health Review: Microbiome Decoder for Health Conditions](https://www.wired.com/review/jona-microbiome-test/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
