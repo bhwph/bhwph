@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When the chef sneaks to see if you are enjoying the food](http://9gag.com/gag/aLnNq2z)
- - 😝 [You get what you deserve.](http://9gag.com/gag/a1mq49v)
- - 👉 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)<!-- MEMES:END -->
+ - 6️⃣ [When you miss the jump in a video game](http://9gag.com/gag/aE0NrgG)
+ - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
+ - 👉 [Really?](http://9gag.com/gag/a5Qy8OE)<!-- MEMES:END -->
 
 --- 
 
