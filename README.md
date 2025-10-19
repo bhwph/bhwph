@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These 6 lesser-known free apps make my life easier](https://www.androidauthority.com/lesser-known-useful-apps-3607263/)
- - [The Zipper Is Getting Its First Major Upgrade in 100 Years](https://www.wired.com/story/the-zipper-is-getting-its-first-major-upgrade-in-100-years/)
- - [Whatever you do, don’t buy these 6 Google gadgets right now](https://www.androidauthority.com/dont-buy-these-google-gadgets-october-2025-3608007/)<!-- TECH:END -->
+ - [ByteDance&#39;s Cici, an overseas counterpart of China&#39;s most popular AI chatbot app Doubao, is quietly gaining traction in the UK, Mexico, and Southeast Asia &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/251019/p7#a251019p7)
+ - [I brought Nova Launcher’s best feature to my new launcher, but I don’t think you should](https://www.androidauthority.com/nova-launcher-best-feature-sesame-shortcuts-3608155/)
+ - [How to Protect Yourself Against Getting Locked Out of Google, Dropbox, iCloud, OneDrive](https://www.wired.com/story/how-to-protect-yourself-against-getting-locked-out-of-your-cloud-accounts/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
