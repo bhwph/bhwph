@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for October 19 &lpar;#1583&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-19-2025/)
  - [All Mega Evolutions and Mega Stone locations in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-mega-evolutions-list-stones-locations/)
- - [Final Fantasy 7 Rebirth director says all that timewasting filler was good actually](https://www.pcgamer.com/games/rpg/final-fantasy-7-rebirth-director-says-all-that-timewasting-filler-was-good-actually/)
- - [The Chainsaw Man movie mixes hand-drawn animation with CGI — just like Demon Slayer: Infinity Castle](https://www.polygon.com/mappa-chainsaw-man-ufotable-demon-slayer-infinity-castle-3d-cg/)<!-- GAME:END -->
+ - [Final Fantasy 7 Rebirth director says all that timewasting filler was good actually](https://www.pcgamer.com/games/rpg/final-fantasy-7-rebirth-director-says-all-that-timewasting-filler-was-good-actually/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
