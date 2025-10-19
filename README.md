@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
- - 😝 [Flag](http://9gag.com/gag/a9yNQBZ)
- - 👉 [Asking the important questions](http://9gag.com/gag/a5QymQN)<!-- MEMES:END -->
+ - 6️⃣ [Flag](http://9gag.com/gag/a9yNQBZ)
+ - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
+ - 👉 [I showed you my](http://9gag.com/gag/agmZPBn)<!-- MEMES:END -->
 
 --- 
 
