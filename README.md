@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at some US energy companies linked to AI infrastructure, such as Sam Altman-backed Oklo, whose stocks have soared despite having little to no revenue &lpar;Jinjoo Lee/Wall Street Journal&rpar;](http://www.techmeme.com/251019/p5#a251019p5)
- - [Counsel Health, which uses a medical AI chatbot and human physicians to provide virtual care, raised a $25M Series A led by Andreessen Horowitz and GV &lpar;Emma Beavins/Fierce Healthcare&rpar;](http://www.techmeme.com/251019/p4#a251019p4)
- - [Paris-based Upciti, which offers city operations software and hardware to over 150 municipalities in 17 countries, raised a $20M Series A led by Notion Capital &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251019/p3#a251019p3)<!-- TECH:END -->
+ - [These 6 lesser-known free apps make my life easier](https://www.androidauthority.com/lesser-known-useful-apps-3607263/)
+ - [The Zipper Is Getting Its First Major Upgrade in 100 Years](https://www.wired.com/story/the-zipper-is-getting-its-first-major-upgrade-in-100-years/)
+ - [Whatever you do, don’t buy these 6 Google gadgets right now](https://www.androidauthority.com/dont-buy-these-google-gadgets-october-2025-3608007/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
