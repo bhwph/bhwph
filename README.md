@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
- - 😝 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
- - 👉 [Red Alert 2 meme](http://9gag.com/gag/aoyqXbX)<!-- MEMES:END -->
+ - 6️⃣ [Clock is ticking...](http://9gag.com/gag/a9yN9xD)
+ - 😝 [Meanwhile in capital of romania](http://9gag.com/gag/aGyNXqn)
+ - 👉 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)<!-- MEMES:END -->
 
 --- 
 
