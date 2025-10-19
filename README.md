@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Formula 1 Cars Are Selling for Pennies, LEGO Offloads Remaining Stock During the Austin GP](https://kotaku.com/formula-1-cars-are-selling-for-pennies-lego-offloads-remaining-stock-during-the-austin-gp-2000636932)
- - [Forget Mini PCs, Apple Quietly Clears Stock of the Latest Mac Mini at a New Record Low](https://kotaku.com/forget-mini-pcs-apple-quietly-clears-stock-of-the-latest-mac-mini-at-a-new-record-low-2000636927)
- - [Society is the sickest possible movie about the sickness of society](https://www.polygon.com/society-best-horror-to-stream/)<!-- GAME:END -->
+ - [Tron: Ares&#39; box office failure reveals a bigger problem of Disney&#39;s own making](https://www.polygon.com/tron-ares-box-office-failure-live-action-disney-problems/)
+ - [Warhammer 40,000: Boltgun&#39;s free typing spinoff doubles its wordcount with 3 new levels and over 400 extra phrases](https://www.pcgamer.com/games/fps/warhammer-40-000-boltguns-free-typing-spinoff-doubles-its-wordcount-with-3-new-levels-and-over-400-extra-phrases/)
+ - [How Clair Obscur&#39;s developers made Expedition 33 extremely French](https://www.polygon.com/clair-obscur-expedition-33-sandfall-interactive-interview-french-af/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
