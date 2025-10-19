@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
- - 😝 [When you miss the jump in a video game](http://9gag.com/gag/aE0NrgG)
- - 👉 [Flag](http://9gag.com/gag/a9yNQBZ)<!-- MEMES:END -->
+ - 6️⃣ [How does microwave work &lpar;02:12&rpar;](http://9gag.com/gag/a0eWA3L)
+ - 😝 [Started as one, now we&#39;re a whole train](http://9gag.com/gag/an7WA85)
+ - 👉 [And the soup will not cure but induce erectile disfunction](http://9gag.com/gag/an78eBb)<!-- MEMES:END -->
 
 --- 
 
