@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Chainsaw Man movie mixes hand-drawn animation with CGI — just like Demon Slayer: Infinity Castle](https://www.polygon.com/mappa-chainsaw-man-ufotable-demon-slayer-infinity-castle-3d-cg/)
- - [Total conversion mod for The Simpsons: Hit &amp; Run turns it into the Futurama game of our dreams](https://www.pcgamer.com/games/action/total-conversion-mod-for-the-simpsons-hit-and-run-turns-it-into-the-futurama-game-of-our-dreams/)
- - [Just in case you thought reviving dead games seemed easy enough, GOG had to hire a private investigator to find an IP holder living off the grid for its preservation program](https://www.pcgamer.com/games/just-in-case-you-thought-reviving-dead-games-seemed-easy-enough-gog-had-to-hire-a-private-investigator-to-find-an-ip-holder-living-off-the-grid-for-its-preservation-program/)<!-- GAME:END -->
+ - [All Mega Evolutions and Mega Stone locations in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-mega-evolutions-list-stones-locations/)
+ - [Final Fantasy 7 Rebirth director says all that timewasting filler was good actually](https://www.pcgamer.com/games/rpg/final-fantasy-7-rebirth-director-says-all-that-timewasting-filler-was-good-actually/)
+ - [The Chainsaw Man movie mixes hand-drawn animation with CGI — just like Demon Slayer: Infinity Castle](https://www.polygon.com/mappa-chainsaw-man-ufotable-demon-slayer-infinity-castle-3d-cg/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
