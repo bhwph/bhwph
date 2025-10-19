@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US military has adopted an aggressive push to embrace AI; the top US Army commander in South Korea says &quot;Chat and I&quot; have become &quot;really close lately&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/251018/p13#a251018p13)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 19, #861](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-19-861/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 19, #1583](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-19-1583/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Robinhood is expanding beyond commission-free trading into retirement accounts, tokenized equities, and sports betting, with some 27M people using its app &lpar;Bloomberg&rpar;](http://www.techmeme.com/251018/p15#a251018p15)
+ - [A profile of Anton Pavlovsky, CEO of Kyiv-based Headway Inc, which develops gamified educational apps and has 160M users across its five-product portfolio &lpar;Martina Di Licosa/Forbes&rpar;](http://www.techmeme.com/251018/p14#a251018p14)
+ - [US military has adopted an aggressive push to embrace AI; the top US Army commander in South Korea says &quot;Chat and I&quot; have become &quot;really close lately&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/251018/p13#a251018p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
