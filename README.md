@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Asking the important questions](http://9gag.com/gag/a5QymQN)
- - 😝 [I never would have guessed ...](http://9gag.com/gag/a9yNQNj)
- - 👉 [Really?](http://9gag.com/gag/a5Qy8OE)<!-- MEMES:END -->
+ - 6️⃣ [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
+ - 😝 [Flag](http://9gag.com/gag/a9yNQBZ)
+ - 👉 [Asking the important questions](http://9gag.com/gag/a5QymQN)<!-- MEMES:END -->
 
 --- 
 
