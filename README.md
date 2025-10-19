@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Flag](http://9gag.com/gag/a9yNQBZ)
- - 😝 [Mad respect](http://9gag.com/gag/abAm96b)
- - 👉 [When the chef sneaks to see if you are enjoying the food](http://9gag.com/gag/aLnNq2z)<!-- MEMES:END -->
+ - 6️⃣ [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
+ - 😝 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
+ - 👉 [Red Alert 2 meme](http://9gag.com/gag/aoyqXbX)<!-- MEMES:END -->
 
 --- 
 
