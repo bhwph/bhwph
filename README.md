@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tron: Ares&#39; box office failure reveals a bigger problem of Disney&#39;s own making](https://www.polygon.com/tron-ares-box-office-failure-live-action-disney-problems/)
- - [Warhammer 40,000: Boltgun&#39;s free typing spinoff doubles its wordcount with 3 new levels and over 400 extra phrases](https://www.pcgamer.com/games/fps/warhammer-40-000-boltguns-free-typing-spinoff-doubles-its-wordcount-with-3-new-levels-and-over-400-extra-phrases/)
- - [How Clair Obscur&#39;s developers made Expedition 33 extremely French](https://www.polygon.com/clair-obscur-expedition-33-sandfall-interactive-interview-french-af/)<!-- GAME:END -->
+ - [Dell Goes 4x Cheaper Than a MacBook, Now Listing Its Windows 11 Pro 1TB Laptop for Nearly 70% Off](https://kotaku.com/dell-goes-4x-cheaper-than-a-macbook-now-listing-its-windows-11-pro-1tb-laptop-for-nearly-70-off-2000636937)
+ - [Shovel Knight dev&#39;s next game doesn&#39;t have a single parry, pulling from Castlevania and Bloodborne instead of Sekiro: &#39;Every game has a parry now … even Doom has Dark Souls stuff in it&#39;](https://www.pcgamer.com/games/adventure/shovel-knight-devs-next-game-doesnt-have-a-single-parry-pulling-from-castlevania-and-bloodborne-instead-of-sekiro-every-game-has-a-parry-now-even-doom-has-dark-souls-stuff-in-it/)
+ - [GTA 6 might be worth $100 if it has a twerk button](https://www.polygon.com/gta-6-100-twerk-button/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
