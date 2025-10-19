@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft, OpenAI, and Anthropic are providing millions to the American Federation of Teachers to build AI training hubs aimed at educating 400,000 teachers &lpar;Jocelyn Gecker/Associated Press&rpar;](http://www.techmeme.com/251019/p8#a251019p8)
- - [This weekend is your last chance to get a month of Disney Plus starting at $9.99](https://www.theverge.com/tech/801979/disney-plus-premium-october-price-hike-deal)
- - [Jona Health Review: Microbiome Decoder for Health Conditions](https://www.wired.com/review/jona-microbiome-test/)<!-- TECH:END -->
+ - [11 Best Housewarming Gifts We Can&#39;t Stop Using &lpar;2025&rpar;: Coasters, Blenders, Sheets](https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home-2025/)
+ - [Best Fire TV Stick for 2025: Fire Stick 4K Max, Cube and More](https://www.cnet.com/tech/home-entertainment/best-fire-tv-stick/#ftag=CAD590a51e)
+ - [Organizers say over 7 million showed up to No Kings protests](https://www.theverge.com/news/802321/organizers-say-over-7-million-showed-up-to-no-kings-protests)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
