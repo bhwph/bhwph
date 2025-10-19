@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prisma Photonics, which develops AI-based tech for monitoring infrastructure using existing optical fiber networks, raised $30M, taking total funding to $80M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/251019/p1#a251019p1)
- - [Sources: Chinese companies including Ant Group and JD.com pause plans to issue stablecoins in Hong Kong after instructions from regulators not to move ahead &lpar;Financial Times&rpar;](http://www.techmeme.com/251018/p17#a251018p17)
- - [A profile of Credo, which makes active electrical cables to connect AI servers and whose stock price has more than doubled this year, after soaring 245% in 2024 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251018/p16#a251018p16)<!-- TECH:END -->
+ - [A look at some US energy companies linked to AI infrastructure, such as Sam Altman-backed Oklo, whose stocks have soared despite having little to no revenue &lpar;Jinjoo Lee/Wall Street Journal&rpar;](http://www.techmeme.com/251019/p5#a251019p5)
+ - [Counsel Health, which uses a medical AI chatbot and human physicians to provide virtual care, raised a $25M Series A led by Andreessen Horowitz and GV &lpar;Emma Beavins/Fierce Healthcare&rpar;](http://www.techmeme.com/251019/p4#a251019p4)
+ - [Paris-based Upciti, which offers city operations software and hardware to over 150 municipalities in 17 countries, raised a $20M Series A led by Notion Capital &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251019/p3#a251019p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
