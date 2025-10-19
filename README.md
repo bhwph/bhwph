@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Flag](http://9gag.com/gag/a9yNQBZ)
- - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
- - 👉 [I showed you my](http://9gag.com/gag/agmZPBn)<!-- MEMES:END -->
+ - 6️⃣ [When the chef sneaks to see if you are enjoying the food](http://9gag.com/gag/aLnNq2z)
+ - 😝 [You get what you deserve.](http://9gag.com/gag/a1mq49v)
+ - 👉 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)<!-- MEMES:END -->
 
 --- 
 
