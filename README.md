@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MLS playoff matches free to all Apple TV subscribers](https://appleinsider.com/articles/25/10/19/mls-playoff-matches-free-to-all-apple-tv-subscribers?utm_source=rss)
- - [OpenAI&#39;s Broadcom deal shows how the AI startup is diversifying its chip suppliers, including Nvidia chips for training and Broadcom chips for inference &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/251019/p11#a251019p11)
- - [Some Apple engineers are concerned about the state of Siri&#39;s iOS 26.4 update](https://appleinsider.com/articles/25/10/19/siris-long-awaited-update-allegedly-concerns-ios-264-testers?utm_source=rss)<!-- TECH:END -->
+ - [X is testing a new way of opening links without fully covering an X post, allowing users to see the Like, Repost, and other buttons, starting on iOS &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/251019/p14#a251019p14)
+ - [X plans a Handle Marketplace for Premium+ and Business subscribers to search for and request inactive usernames; rare handles can cost from $2,500 to $1M+ &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/251019/p13#a251019p13)
+ - [Scenes From Saturday&#39;s Nationwide ‘No Kings’ Protests](https://www.wired.com/story/no-kings-protests-photos/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
