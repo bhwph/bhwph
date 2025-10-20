@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How luxury brands&#39; stiffest competition is coming from secondhand online resellers like The RealReal and Fashionphile, driven by Gen Z and millennial consumers &lpar;Carol Ryan/Wall Street Journal&rpar;](http://www.techmeme.com/251020/p16#a251020p16)
- - [OpenEvidence, which makes an ad-supported AI chatbot for medical practitioners, raised $200M at a $6B valuation, up from $3.5B after raising $210M in July &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251020/p15#a251020p15)
- - [Ariel Emanuel&#39;s new company MARI acquires NYC- and London-based theater ticketing app TodayTix from PE firm Great Hill; TodayTix sells ~10M tickets per year &lpar;Michael Paulson/New York Times&rpar;](http://www.techmeme.com/251020/p14#a251020p14)<!-- TECH:END -->
+ - [The 14 Best Gifts for Plant Lovers We’d Buy Ourselves &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-plant-lovers/)
+ - [Zocdoc CEO: ‘Dr. Google is going to be replaced by Dr. AI’](https://www.theverge.com/podcast/801767/zocdoc-ceo-oliver-kharraz-ai-medical-healthcare-doctors)
+ - [These nonprofits lobbied to regulate OpenAI — then the subpoenas came](https://www.theverge.com/ai-artificial-intelligence/801994/openai-subpoenas-intimidation-tactics-nonprofits-elon-musk-restructuring)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
