@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Started as one, now we&#39;re a whole train](http://9gag.com/gag/an7WA85)
- - 😝 [How does microwave work &lpar;02:12&rpar;](http://9gag.com/gag/a0eWA3L)
- - 👉 [Just for the giggles](http://9gag.com/gag/amobDnj)<!-- MEMES:END -->
+ - 6️⃣ [Flag](http://9gag.com/gag/a9yNQBZ)
+ - 😝 [Asking the important questions](http://9gag.com/gag/a5QymQN)
+ - 👉 [I never would have guessed ...](http://9gag.com/gag/a9yNQNj)<!-- MEMES:END -->
 
 --- 
 
