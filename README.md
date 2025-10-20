@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic announces Claude Code on the web and in the Claude iOS app, available in beta as a research preview for Pro and Max users &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/251020/p27#a251020p27)
- - [What to Know About the Shocking Louvre Jewelry Heist](https://www.wired.com/story/louvre-jewelry-theft-what-to-know/)
- - [DeepSeek releases DeepSeek-OCR, a vision language model designed for efficient vision-text compression, enabling longer contexts with less compute &lpar;Jonathan Kemper/The Decoder&rpar;](http://www.techmeme.com/251020/p26#a251020p26)<!-- TECH:END -->
+ - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)
+ - [Google is selling refurb Pixel 8 phones for $489 — but is it worth it?](https://www.androidauthority.com/google-pixel-8-refurbished-3608757/)
+ - [An eye implant and smart glasses restore some lost vision](https://www.theverge.com/news/802905/eye-implant-smart-glasses-restores-vision)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
