@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Flag](http://9gag.com/gag/a9yNQBZ)
- - 😝 [Meme time](http://9gag.com/gag/awyGqyQ)
- - 👉 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)<!-- MEMES:END -->
+ - 6️⃣ [Meme time](http://9gag.com/gag/awyGqyQ)
+ - 😝 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
+ - 👉 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)<!-- MEMES:END -->
 
 --- 
 
