@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Beyond Wall Street soon](http://9gag.com/gag/ae9PoBm)
- - 😝 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
- - 👉 [Flag](http://9gag.com/gag/a9yNQBZ)<!-- MEMES:END -->
+ - 6️⃣ [Worth seeing again](http://9gag.com/gag/aZZoqwn)
+ - 😝 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
+ - 👉 [Deserve](http://9gag.com/gag/a9yZjKW)<!-- MEMES:END -->
 
 --- 
 
