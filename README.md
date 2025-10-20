@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
- - 😝 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
+ - 6️⃣ [Flag](http://9gag.com/gag/a9yNQBZ)
+ - 😝 [Meme time](http://9gag.com/gag/awyGqyQ)
  - 👉 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)<!-- MEMES:END -->
 
 --- 
