@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A cheap SanDisk memory card was just found completely unscathed inside an underwater camera found among OceanGate submersible wreckage](https://www.pcgamer.com/hardware/a-cheap-sandisk-memory-card-was-just-found-completely-unscathed-inside-an-underwater-camera-found-among-oceangate-submersible-wreckage/)
- - [Today&#39;s Wordle clues, hints and answer for October 20 &lpar;#1584&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-20-2025/)
- - [Lana Del Rey might have written a Bond theme for 007 First Light](https://www.pcgamer.com/games/action/lana-del-rey-might-have-written-a-bond-theme-for-007-first-light/)<!-- GAME:END -->
+ - [Sonic Team talks the road ahead for Sonic racing](https://www.polygon.com/sonic-team-takashi-iizuka-interview/)
+ - [Duck-themed extraction shooter Escape From Duckov sold 500,000 Steam copies in its first 3 days](https://www.pcgamer.com/games/action/duck-themed-extraction-shooter-escape-from-duckov-sold-500-000-steam-copies-in-its-first-3-days/)
+ - [Fortnite‘s Map Will Reportedly Turn Into Springfield From The Simpsons Next Month](https://kotaku.com/fortnite-simpsons-mini-season-springfield-update-leak-november-2000637296)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
