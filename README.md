@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic Team talks the road ahead for Sonic racing](https://www.polygon.com/sonic-team-takashi-iizuka-interview/)
- - [Duck-themed extraction shooter Escape From Duckov sold 500,000 Steam copies in its first 3 days](https://www.pcgamer.com/games/action/duck-themed-extraction-shooter-escape-from-duckov-sold-500-000-steam-copies-in-its-first-3-days/)
- - [Fortnite‘s Map Will Reportedly Turn Into Springfield From The Simpsons Next Month](https://kotaku.com/fortnite-simpsons-mini-season-springfield-update-leak-november-2000637296)<!-- GAME:END -->
+ - [EA Quietly Announces A Nearly Decade-Old Sims Game Is Shutting Down Soon](https://kotaku.com/sims-mobile-shutting-down-servers-closing-free-game-ea-delisted-2000637355)
+ - [A Ton Of Great Switch Games Are Ridiculously Cheap Right Now](https://kotaku.com/switch-2-sale-cyberpunk-2077-roguelike-eshop-deals-2000637360)
+ - [How to get a Metal Coat in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-za-plza-metal-coat-how-to-get-where-to-find/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
