@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)
- - [Google is selling refurb Pixel 8 phones for $489 — but is it worth it?](https://www.androidauthority.com/google-pixel-8-refurbished-3608757/)
- - [An eye implant and smart glasses restore some lost vision](https://www.theverge.com/news/802905/eye-implant-smart-glasses-restores-vision)<!-- TECH:END -->
+ - [Google confirms when Android 16 QPR2 Beta 3 will return &lpar;Update: It’s back&rpar;](https://www.androidauthority.com/android-16-qpr2-beta-3-return-3608643/)
+ - [Study: brain-computer interface company Science&#39;s PRIMA device, which includes a retinal implant and special glasses, restored vision in some blind patients &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/251020/p31#a251020p31)
+ - [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
