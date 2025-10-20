@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US tech giants are on a data center building spree, sparking fury worldwide; research says ~60% of the 1,244 largest global centers in June were outside the US &lpar;Paul Mozur/New York Times&rpar;](http://www.techmeme.com/251020/p11#a251020p11)
- - [Apple services hit as Amazon Web Services suffers outage](https://appleinsider.com/articles/25/10/20/apple-services-hit-as-amazon-web-services-suffers-outage?utm_source=rss)
- - [A lawyer says 55 Chinese iPhone and iPad users filed an antitrust complaint in China alleging Apple abuses its market dominance by restricting app distribution &lpar;Reuters&rpar;](http://www.techmeme.com/251020/p10#a251020p10)<!-- TECH:END -->
+ - [How luxury brands&#39; stiffest competition is coming from secondhand online resellers like The RealReal and Fashionphile, driven by Gen Z and millennial consumers &lpar;Carol Ryan/Wall Street Journal&rpar;](http://www.techmeme.com/251020/p16#a251020p16)
+ - [OpenEvidence, which makes an ad-supported AI chatbot for medical practitioners, raised $200M at a $6B valuation, up from $3.5B after raising $210M in July &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251020/p15#a251020p15)
+ - [Ariel Emanuel&#39;s new company MARI acquires NYC- and London-based theater ticketing app TodayTix from PE firm Great Hill; TodayTix sells ~10M tickets per year &lpar;Michael Paulson/New York Times&rpar;](http://www.techmeme.com/251020/p14#a251020p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
