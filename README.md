@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba Cloud details a GPU pooling system that it claims reduced the number of Nvidia H20 required by 82% when serving dozens of LLMs of up to 72B parameters &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/251019/p16#a251019p16)
- - [Q&amp;A with Jimmy Wales on Wikipedia&#39;s decentralized model, right-wing attacks and political pressure, Elon Musk, protecting volunteer editors, and more &lpar;Lulu Garcia-Navarro/New York Times&rpar;](http://www.techmeme.com/251019/p15#a251019p15)
- - [X is changing how it handles links to try and keep you in the app](https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app)<!-- TECH:END -->
+ - [CoMind, which is developing a non-invasive brain monitoring device with tech similar to Lidar, raised $60M led by Plural, bringing its total funding to $102.5M &lpar;Financial Times&rpar;](http://www.techmeme.com/251020/p3#a251020p3)
+ - [Counterpoint: iPhone 17 series outsold iPhone 16 by ~14% in the first 10 days of sales in the US and China; base iPhone 17 sales doubled over iPhone 16 in China &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/251020/p2#a251020p2)
+ - [A look at Opera&#39;s Neon, a $20-per-month agentic AI browser that can take over browsing tasks, but its three built-in AI chatbots can be confusing and unreliable &lpar;The Verge&rpar;](http://www.techmeme.com/251020/p1#a251020p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
