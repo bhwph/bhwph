@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Legend](http://9gag.com/gag/aqyB95L)
- - 😝 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
- - 👉 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)<!-- MEMES:END -->
+ - 6️⃣ [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
+ - 😝 [You get what you deserve.](http://9gag.com/gag/a1mq49v)
+ - 👉 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)<!-- MEMES:END -->
 
 --- 
 
