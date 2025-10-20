@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M5 MacBook Pro vs M4 MacBook Pro: Incremental but welcome upgrade](https://appleinsider.com/inside/macbook-pro/vs/m5-macbook-pro-vs-m4-macbook-pro-incremental-but-welcome-upgrade?utm_source=rss)
- - [Apple TV branding &amp; content push, Sonos updates, &amp; Wi-Fi 8 on HomeKit Insider](https://appleinsider.com/articles/25/10/20/apple-tv-branding-content-push-sonos-updates-wi-fi-8-on-homekit-insider?utm_source=rss)
- - [CleanSpark shares jump 12%+ after the bitcoin miner expands into AI infrastructure, hiring Humain&#39;s president Jeffrey Thomas as SVP of AI data centers &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/251020/p23#a251020p23)<!-- TECH:END -->
+ - [Anthropic announces Claude Code on the web and in the Claude iOS app, available in beta as a research preview for Pro and Max users &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/251020/p27#a251020p27)
+ - [What to Know About the Shocking Louvre Jewelry Heist](https://www.wired.com/story/louvre-jewelry-theft-what-to-know/)
+ - [DeepSeek releases DeepSeek-OCR, a vision language model designed for efficient vision-text compression, enabling longer contexts with less compute &lpar;Jonathan Kemper/The Decoder&rpar;](http://www.techmeme.com/251020/p26#a251020p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
