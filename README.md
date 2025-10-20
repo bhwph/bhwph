@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoMind, which is developing a non-invasive brain monitoring device with tech similar to Lidar, raised $60M led by Plural, bringing its total funding to $102.5M &lpar;Financial Times&rpar;](http://www.techmeme.com/251020/p3#a251020p3)
- - [Counterpoint: iPhone 17 series outsold iPhone 16 by ~14% in the first 10 days of sales in the US and China; base iPhone 17 sales doubled over iPhone 16 in China &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/251020/p2#a251020p2)
- - [A look at Opera&#39;s Neon, a $20-per-month agentic AI browser that can take over browsing tasks, but its three built-in AI chatbots can be confusing and unreliable &lpar;The Verge&rpar;](http://www.techmeme.com/251020/p1#a251020p1)<!-- TECH:END -->
+ - [Gemini for TV appears on another new device, and it’s still not the Google TV Streamer](https://www.androidauthority.com/gemini-for-tv-sony-bravia-3608500/)
+ - [AWS is currently experiencing a major outage that has taken down many services, including Amazon, Alexa, Snapchat, Fortnite, and Signal; AWS is investigating &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251020/p6#a251020p6)
+ - [Blackstone President Jonathan Gray says AI risk is &quot;top of our list&quot; when evaluating deals; sources: the firm backed down from buying companies vulnerable to AI &lpar;Financial Times&rpar;](http://www.techmeme.com/251020/p5#a251020p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
