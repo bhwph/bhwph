@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You get what you deserve.](http://9gag.com/gag/a1mq49v)
+ - 6️⃣ [Beyond Wall Street soon](http://9gag.com/gag/ae9PoBm)
  - 😝 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
- - 👉 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)<!-- MEMES:END -->
+ - 👉 [Flag](http://9gag.com/gag/a9yNQBZ)<!-- MEMES:END -->
 
 --- 
 
