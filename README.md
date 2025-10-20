@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meme time](http://9gag.com/gag/awyGqyQ)
+ - 6️⃣ [Legend](http://9gag.com/gag/aqyB95L)
  - 😝 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
- - 👉 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)<!-- MEMES:END -->
+ - 👉 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)<!-- MEMES:END -->
 
 --- 
 
