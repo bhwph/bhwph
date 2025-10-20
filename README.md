@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini for TV appears on another new device, and it’s still not the Google TV Streamer](https://www.androidauthority.com/gemini-for-tv-sony-bravia-3608500/)
- - [AWS is currently experiencing a major outage that has taken down many services, including Amazon, Alexa, Snapchat, Fortnite, and Signal; AWS is investigating &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251020/p6#a251020p6)
- - [Blackstone President Jonathan Gray says AI risk is &quot;top of our list&quot; when evaluating deals; sources: the firm backed down from buying companies vulnerable to AI &lpar;Financial Times&rpar;](http://www.techmeme.com/251020/p5#a251020p5)<!-- TECH:END -->
+ - [US tech giants are on a data center building spree, sparking fury worldwide; research says ~60% of the 1,244 largest global centers in June were outside the US &lpar;Paul Mozur/New York Times&rpar;](http://www.techmeme.com/251020/p11#a251020p11)
+ - [Apple services hit as Amazon Web Services suffers outage](https://appleinsider.com/articles/25/10/20/apple-services-hit-as-amazon-web-services-suffers-outage?utm_source=rss)
+ - [A lawyer says 55 Chinese iPhone and iPad users filed an antitrust complaint in China alleging Apple abuses its market dominance by restricting app distribution &lpar;Reuters&rpar;](http://www.techmeme.com/251020/p10#a251020p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
