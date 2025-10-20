@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 14 Best Gifts for Plant Lovers We’d Buy Ourselves &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-plant-lovers/)
- - [Zocdoc CEO: ‘Dr. Google is going to be replaced by Dr. AI’](https://www.theverge.com/podcast/801767/zocdoc-ceo-oliver-kharraz-ai-medical-healthcare-doctors)
- - [These nonprofits lobbied to regulate OpenAI — then the subpoenas came](https://www.theverge.com/ai-artificial-intelligence/801994/openai-subpoenas-intimidation-tactics-nonprofits-elon-musk-restructuring)<!-- TECH:END -->
+ - [M5 MacBook Pro vs M4 MacBook Pro: Incremental but welcome upgrade](https://appleinsider.com/inside/macbook-pro/vs/m5-macbook-pro-vs-m4-macbook-pro-incremental-but-welcome-upgrade?utm_source=rss)
+ - [Apple TV branding &amp; content push, Sonos updates, &amp; Wi-Fi 8 on HomeKit Insider](https://appleinsider.com/articles/25/10/20/apple-tv-branding-content-push-sonos-updates-wi-fi-8-on-homekit-insider?utm_source=rss)
+ - [CleanSpark shares jump 12%+ after the bitcoin miner expands into AI infrastructure, hiring Humain&#39;s president Jeffrey Thomas as SVP of AI data centers &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/251020/p23#a251020p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
