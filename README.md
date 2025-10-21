@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
- - 😝 [The pulsing](http://9gag.com/gag/a0ez8pZ)
- - 👉 [Early Black Friday Sale in California](http://9gag.com/gag/aqyB9YY)<!-- MEMES:END -->
+ - 6️⃣ [Every 9gagger can relate.](http://9gag.com/gag/aByjRLZ)
+ - 😝 [*Casually steals your Job*](http://9gag.com/gag/a2v9EQ9)
+ - 👉 [Doesn&#39;t everyone do this?](http://9gag.com/gag/ae9PXn5)<!-- MEMES:END -->
 
 --- 
 
