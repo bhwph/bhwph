@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
- - 😝 [Legend](http://9gag.com/gag/aqyB95L)
- - 👉 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)<!-- MEMES:END -->
+ - 6️⃣ [Legend](http://9gag.com/gag/aqyB95L)
+ - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
+ - 👉 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)<!-- MEMES:END -->
 
 --- 
 
