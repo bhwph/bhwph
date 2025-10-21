@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
- - 😝 [You get what you deserve.](http://9gag.com/gag/a1mq49v)
- - 👉 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)<!-- MEMES:END -->
+ - 6️⃣ [A knight to remember](http://9gag.com/gag/amoKNA2)
+ - 😝 [No agenda](http://9gag.com/gag/a2v9z7O)
+ - 👉 [*Casually steals your Job*](http://9gag.com/gag/a2v9EQ9)<!-- MEMES:END -->
 
 --- 
 
