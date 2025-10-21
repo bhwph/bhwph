@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal Amazon documents and sources: executives believe Amazon is on the cusp of replacing 500K+ jobs with robots and aims to automate 75% of its operations &lpar;New York Times&rpar;](http://www.techmeme.com/251021/p7#a251021p7)
- - [Coinbase agrees to acquire Echo, a blockchain platform to let crypto companies quickly raise capital, for ~$375M, marking Coinbase&#39;s 8th acquisition in 2025 &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/251021/p6#a251021p6)
- - [Bread Delivery Service Wildgrain Is $40 Off Right Now](https://www.wired.com/story/wildgrain-promo-code-2025/)<!-- TECH:END -->
+ - [The new Xbox is not an Xbox](https://www.theverge.com/podcast/803160/the-new-xbox-is-not-an-xbox)
+ - [Carbon accounting authority Greenhouse Gas Protocol proposes its first update in a decade to tighten its rules, threatening US giants like Amazon and Meta &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/251021/p16#a251021p16)
+ - [Brian Chesky says Airbnb didn&#39;t integrate its app with ChatGPT because ChatGPT integrations aren&#39;t &quot;quite ready&quot; yet, and he advised Sam Altman on ChatGPT apps &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251021/p15#a251021p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
