@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Xbox is not an Xbox](https://www.theverge.com/podcast/803160/the-new-xbox-is-not-an-xbox)
- - [Carbon accounting authority Greenhouse Gas Protocol proposes its first update in a decade to tighten its rules, threatening US giants like Amazon and Meta &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/251021/p16#a251021p16)
- - [Brian Chesky says Airbnb didn&#39;t integrate its app with ChatGPT because ChatGPT integrations aren&#39;t &quot;quite ready&quot; yet, and he advised Sam Altman on ChatGPT apps &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251021/p15#a251021p15)<!-- TECH:END -->
+ - [Want to switch from T-Mobile? New survey reveals it’s not just you.](https://www.androidauthority.com/t-mobile-happy-survey-results-3608849/)
+ - [Microsoft’s emergency Windows 11 update fixes a nasty system recovery bug](https://www.theverge.com/news/803373/microsoft-windows-11-emergency-update-usb-mouse-keyboard-recovery-environment-issues)
+ - [M5 iPad Pro review roundup: The best tablet gets better](https://appleinsider.com/articles/25/10/21/m5-ipad-pro-review-roundup-the-best-tablet-gets-better?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
