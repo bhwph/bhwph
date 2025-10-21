@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A knight to remember](http://9gag.com/gag/amoKNA2)
- - 😝 [No agenda](http://9gag.com/gag/a2v9z7O)
- - 👉 [*Casually steals your Job*](http://9gag.com/gag/a2v9EQ9)<!-- MEMES:END -->
+ - 6️⃣ [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 😝 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
+ - 👉 [Be aware in public guys](http://9gag.com/gag/an78qdz)<!-- MEMES:END -->
 
 --- 
 
