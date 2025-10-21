@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lana del Rey fans have figured out she’s doing the Bond theme for 007: First Light](https://www.polygon.com/lana-del-rey-bond-theme-007-first-light/)
- - [All Playground Basketball codes for October 2025: coins](https://www.pcgamer.com/games/roblox/playground-basketball-codes/)
- - [Adam Driver and Steven Soderbergh tried to make a Star Wars movie, but Disney said no](https://www.polygon.com/adam-driver-steven-soderbergh-ben-solo-star-wars-movie-disney/)<!-- GAME:END -->
+ - [This utterly mesmerising beehive PC desk build took six months of painstaking labour and hypnotically simulates the bittersweet rise and fall of bee colonies in real time](https://www.pcgamer.com/hardware/pc-cases/this-utterly-mesmerising-beehive-pc-desk-build-took-six-months-of-painstaking-labour-and-hypnotically-simulates-the-bittersweet-rise-and-fall-of-bee-colonies-in-real-time/)
+ - [How the GTA 6 &#39;twerk button&#39; fooled Google&#39;s AI search](https://www.polygon.com/gta-6-twerk-button-meme-rumor-interview/)
+ - [Seagate’s 1TB Storage Card Is Now Practically Free Storage for Xbox at $0.10 per GB](https://kotaku.com/seagates-1tb-storage-card-is-now-practically-free-storage-for-xbox-at-0-10-per-gb-2000637348)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
