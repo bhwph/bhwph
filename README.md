@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix reports Q3 revenue up 17% YoY to $11.51B, matching est., operating margin below est. due to Brazilian tax dispute expense; NFLX drops 5%+ after hours &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/251021/p41#a251021p41)
- - [This Smart Warming Mug Is Marked Down by $60](https://www.wired.com/story/ember-travel-mug-deal-1025/)
- - [Folding iPad release may have been delayed until 2029](https://appleinsider.com/articles/25/10/21/folding-ipad-release-may-have-been-delayed-until-2029?utm_source=rss)<!-- TECH:END -->
+ - [The iPhone 17’s selfie camera is to blame for delayed Project Indigo support](https://www.theverge.com/tech/803712/adobe-project-indigo-camera-app-iphone-17-support)
+ - [Save big on a new Apple MacBook Air laptop](https://www.androidauthority.com/apple-macbook-air-deal-3-3608614/)
+ - [Sources: Anthropic is in discussions with Google about a deal that would provide Anthropic with computing power valued in the high tens of billions of dollars &lpar;Bloomberg&rpar;](http://www.techmeme.com/251021/p48#a251021p48)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
