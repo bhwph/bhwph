@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want to switch from T-Mobile? New survey reveals it’s not just you.](https://www.androidauthority.com/t-mobile-happy-survey-results-3608849/)
- - [Microsoft’s emergency Windows 11 update fixes a nasty system recovery bug](https://www.theverge.com/news/803373/microsoft-windows-11-emergency-update-usb-mouse-keyboard-recovery-environment-issues)
- - [M5 iPad Pro review roundup: The best tablet gets better](https://appleinsider.com/articles/25/10/21/m5-ipad-pro-review-roundup-the-best-tablet-gets-better?utm_source=rss)<!-- TECH:END -->
+ - [Samsung rolls out a Perplexity TV app, which works alongside Samsung&#39;s Vision AI Companion, on its 2025 TVs; 2023 and 2024 TV models will get it later this year &lpar;Artie Beaty/ZDNET&rpar;](http://www.techmeme.com/251021/p30#a251021p30)
+ - [YouTube launches its likeness detection tech, letting eligible creators in its Partner Program request the removal of AI-generated content with their likeness &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/251021/p29#a251021p29)
+ - [A US judge orders Mark Zuckerberg, Evan Spiegel, and Adam Mosseri to testify in the &quot;first bellwether trial&quot; over child social media safety, set for January &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251021/p28#a251021p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
