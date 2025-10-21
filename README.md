@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nexos.ai, which helps companies adopt AI tools by acting as a middleman between employees and AI systems, raised a €30M Series A co-led by Index and Evantic &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251021/p3#a251021p3)
- - [Analysis: agencies have hired hundreds of thousands of &quot;chatters&quot; to impersonate 4M+ OnlyFans creators, as many Filipino chatters struggle with mental health &lpar;Michael Beltran/Nikkei Asia&rpar;](http://www.techmeme.com/251021/p2#a251021p2)
- - [From flights to events: Google Wallet now supports Android 16’s Live Updates](https://www.androidauthority.com/google-wallet-android-16-live-updates-3608801/)<!-- TECH:END -->
+ - [Internal Amazon documents and sources: executives believe Amazon is on the cusp of replacing 500K+ jobs with robots and aims to automate 75% of its operations &lpar;New York Times&rpar;](http://www.techmeme.com/251021/p7#a251021p7)
+ - [Coinbase agrees to acquire Echo, a blockchain platform to let crypto companies quickly raise capital, for ~$375M, marking Coinbase&#39;s 8th acquisition in 2025 &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/251021/p6#a251021p6)
+ - [Bread Delivery Service Wildgrain Is $40 Off Right Now](https://www.wired.com/story/wildgrain-promo-code-2025/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
