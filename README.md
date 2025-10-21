@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Check Out This Really Awesome Moment From Arc Raiders’ Server Slam This Weekend](https://kotaku.com/arc-raiders-leaper-server-slam-pvpve-extraction-2000637774)
- - [Dropout&#39;s Superfan tier makes the subscription more expensive for fans who want to pay more](https://www.polygon.com/dropout-superfan-optional-price-increase/)
- - [The Sinking City 2 is delayed into 2026 because of the war in Ukraine, but not just that: Making a survival horror game requires &#39;a completely different kind of design thinking&#39; than adventure games, and that &#39;definitely makes development slower&#39;](https://www.pcgamer.com/games/horror/the-sinking-city-2-is-delayed-into-2026-because-of-the-war-in-ukraine-but-not-just-that-making-a-survival-horror-game-requires-a-completely-different-kind-of-design-thinking-than-adventure-games-and-that-definitely-makes-development-slower/)<!-- GAME:END -->
+ - [Palworld studio Pocketpair says its new publishing division won&#39;t handle games that use generative AI: &#39;We don&#39;t believe in it&#39;](https://www.pcgamer.com/software/ai/palworld-studio-pocketpair-says-its-new-publishing-division-wont-handle-games-that-use-generative-ai-we-dont-believe-in-it/)
+ - [HP 17-Inch High-End Laptop Drops $2230, Now It’s Cheaper Than a Budget Laptop](https://kotaku.com/hp-17-inch-high-end-laptop-drops-2230-now-its-cheaper-than-a-budget-laptop-2000637790)
+ - [This Free Halloween MMO Is Wonderful, But Only Around For A Limited Time](https://kotaku.com/halloween-game-spooky-free-pumpkins-fall-ghosts-2000637783)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
