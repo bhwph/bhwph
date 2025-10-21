@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms when Android 16 QPR2 Beta 3 will return &lpar;Update: It’s back&rpar;](https://www.androidauthority.com/android-16-qpr2-beta-3-return-3608643/)
- - [Study: brain-computer interface company Science&#39;s PRIMA device, which includes a retinal implant and special glasses, restored vision in some blind patients &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/251020/p31#a251020p31)
- - [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)<!-- TECH:END -->
+ - [Everett Randle, a former partner at Kleiner Perkins, joins VC firm Benchmark as general partner, following a slew of personnel departures at Benchmark &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/251020/p35#a251020p35)
+ - [Google’s new deadline for Epic consequences is October 29th](https://www.theverge.com/news/803143/googles-new-deadline-for-epic-consequences-is-october-29th)
+ - [Bryan Cranston and SAG-AFTRA say OpenAI is taking their deepfake concerns seriously](https://www.theverge.com/news/803141/openai-sora-bryan-cranston-deepfakes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
