@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung rolls out a Perplexity TV app, which works alongside Samsung&#39;s Vision AI Companion, on its 2025 TVs; 2023 and 2024 TV models will get it later this year &lpar;Artie Beaty/ZDNET&rpar;](http://www.techmeme.com/251021/p30#a251021p30)
- - [YouTube launches its likeness detection tech, letting eligible creators in its Partner Program request the removal of AI-generated content with their likeness &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/251021/p29#a251021p29)
- - [A US judge orders Mark Zuckerberg, Evan Spiegel, and Adam Mosseri to testify in the &quot;first bellwether trial&quot; over child social media safety, set for January &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251021/p28#a251021p28)<!-- TECH:END -->
+ - [Apple Vision Pro M5 review roundup: faster, comfier, still not for everyone](https://appleinsider.com/articles/25/10/21/apple-vision-pro-m5-review-roundup-faster-comfier-still-not-for-everyone?utm_source=rss)
+ - [Catch a Samsung Galaxy S25 Ultra at a $470 discount!](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-14-3608617/)
+ - [Google Fi plans an AI call quality feature to filter out background sounds like wind next month, and will bring full RCS support on the web in December &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/251021/p35#a251021p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
