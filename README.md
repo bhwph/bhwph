@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are the Vampire: The Masquerade – Bloodlines 2 unlock times for your region](https://www.pcgamer.com/games/rpg/bloodlines-2-launch-time-release-date/)
- - [Lay’s Says 42% Of People Didn’t Know Its Potato Chips Were Made From Actual Potatoes](https://kotaku.com/lays-says-42-of-people-didnt-know-its-potato-chips-were-made-from-actual-potatoes-2000637402)
- - [Here Are The 10 Most Popular Free Demos From October’s Steam Next Fest](https://kotaku.com/steam-next-fest-october-2025-might-magic-yapyap-half-sword-2000637407)<!-- GAME:END -->
+ - [Festival of Accord: Dreamspell comes to Monster Hunter Wilds starting October 22](https://blog.playstation.com/2025/10/20/festival-of-accord-dreamspell-comes-to-monster-hunter-wilds-starting-october-22/)
+ - [Dyson Quietly Clears Out the Supersonic, Salon-Grade Hair Dryer Now Going for Peanuts](https://kotaku.com/dyson-quietly-clears-out-the-supersonic-salon-grade-hair-dryer-now-going-for-peanuts-2000637346)
+ - [Where Shadows Fall, Legends Rise: Ninja Gaiden 4 is Available Today for Xbox](https://news.xbox.com/en-us/2025/10/20/ninja-gaiden-4-is-available-today-for-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
