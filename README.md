@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
- - 😝 [Legend](http://9gag.com/gag/aqyB95L)
+ - 6️⃣ [Harmless pranks are the best kind \ud83d\ude02](http://9gag.com/gag/ayNZ7wr)
+ - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
  - 👉 [Post Something](http://9gag.com/gag/aYQZj6O)<!-- MEMES:END -->
 
 --- 
