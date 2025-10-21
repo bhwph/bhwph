@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Bethesda designer says Starfield fell flat because of its reliance on procgen planets: &#39;I don&#39;t think it&#39;s in the same calibre as the other two, Fallout or Skyrim&#39;](https://www.pcgamer.com/games/rpg/former-bethesda-designer-says-starfield-fell-flat-because-of-its-reliance-on-procgen-planets-i-dont-think-its-in-the-same-calibre-as-the-other-two-fallout-or-skyrim/)
- - [How to evolve Riolu in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-riolu-evolve-lucario-how-to/)
- - [Not Enough People Are Playing Xbox’s New Weird, Short, And Very Good Exclusive Game](https://kotaku.com/keeper-the-kotaku-review-xbox-game-pass-how-long-is-it-good-price-2000637702)<!-- GAME:END -->
+ - [Check Out This Really Awesome Moment From Arc Raiders’ Server Slam This Weekend](https://kotaku.com/arc-raiders-leaper-server-slam-pvpve-extraction-2000637774)
+ - [Dropout&#39;s Superfan tier makes the subscription more expensive for fans who want to pay more](https://www.polygon.com/dropout-superfan-optional-price-increase/)
+ - [The Sinking City 2 is delayed into 2026 because of the war in Ukraine, but not just that: Making a survival horror game requires &#39;a completely different kind of design thinking&#39; than adventure games, and that &#39;definitely makes development slower&#39;](https://www.pcgamer.com/games/horror/the-sinking-city-2-is-delayed-into-2026-because-of-the-war-in-ukraine-but-not-just-that-making-a-survival-horror-game-requires-a-completely-different-kind-of-design-thinking-than-adventure-games-and-that-definitely-makes-development-slower/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
