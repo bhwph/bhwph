@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
- - 😝 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
+ - 6️⃣ [Harmless pranks are the best kind \ud83d\ude02](http://9gag.com/gag/ayNZ7wr)
+ - 😝 [Legend](http://9gag.com/gag/aqyB95L)
  - 👉 [The pulsing](http://9gag.com/gag/a0ez8pZ)<!-- MEMES:END -->
 
 --- 
