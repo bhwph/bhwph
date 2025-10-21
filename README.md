@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
- - 😝 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
- - 👉 [Be aware in public guys](http://9gag.com/gag/an78qdz)<!-- MEMES:END -->
+ - 😝 [The pulsing](http://9gag.com/gag/a0ez8pZ)
+ - 👉 [Early Black Friday Sale in California](http://9gag.com/gag/aqyB9YY)<!-- MEMES:END -->
 
 --- 
 
