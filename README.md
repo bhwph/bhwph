@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best modern platformer I&#39;ve played is getting a huge 10-year anniversary update, and the devs reckon there&#39;s &#39;no way anyone 100%s it&#39;](https://www.pcgamer.com/games/action/the-best-modern-platformer-ive-played-is-getting-a-huge-10-year-anniversary-update-and-the-devs-reckon-theres-no-way-anyone-100-percent-s-it/)
- - [Former God of War exec says the blockbuster games industry needs to steer away from spectacle and focus on what matters: &#39;if it&#39;s not fun, it&#39;s not worth the investment&#39;](https://www.pcgamer.com/gaming-industry/god-of-war-producer-says-the-blockbuster-games-industry-needs-to-steer-away-from-spectacle-and-focus-on-what-matters-if-its-not-fun-its-not-worth-the-investment/)
- - [Today&#39;s Wordle clues, hints and answer for October 21 &lpar;#1585&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-21-2025/)<!-- GAME:END -->
+ - [Lana del Rey fans have figured out she’s doing the Bond theme for 007: First Light](https://www.polygon.com/lana-del-rey-bond-theme-007-first-light/)
+ - [All Playground Basketball codes for October 2025: coins](https://www.pcgamer.com/games/roblox/playground-basketball-codes/)
+ - [Adam Driver and Steven Soderbergh tried to make a Star Wars movie, but Disney said no](https://www.polygon.com/adam-driver-steven-soderbergh-ben-solo-star-wars-movie-disney/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
