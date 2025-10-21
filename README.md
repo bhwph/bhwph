@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This utterly mesmerising beehive PC desk build took six months of painstaking labour and hypnotically simulates the bittersweet rise and fall of bee colonies in real time](https://www.pcgamer.com/hardware/pc-cases/this-utterly-mesmerising-beehive-pc-desk-build-took-six-months-of-painstaking-labour-and-hypnotically-simulates-the-bittersweet-rise-and-fall-of-bee-colonies-in-real-time/)
- - [How the GTA 6 &#39;twerk button&#39; fooled Google&#39;s AI search](https://www.polygon.com/gta-6-twerk-button-meme-rumor-interview/)
- - [Seagate’s 1TB Storage Card Is Now Practically Free Storage for Xbox at $0.10 per GB](https://kotaku.com/seagates-1tb-storage-card-is-now-practically-free-storage-for-xbox-at-0-10-per-gb-2000637348)<!-- GAME:END -->
+ - [This 4.8-Star Ryzen 7 Mini PC Is the Cheapest Way to Run Windows 11 Pro, Costs Nothing Next to a Mac Mini](https://kotaku.com/this-4-8-star-ryzen-7-mini-pc-is-the-cheapest-way-to-run-windows-11-pro-costs-nothing-next-to-a-mac-mini-2000636172)
+ - [MSI MAG Z890 Tomahawk WiFi review](https://www.pcgamer.com/hardware/motherboards/msi-mag-z890-tomahawk-wifi-review/)
+ - [Jurassic World Evolution 3 review: A beautiful and satisfying sim](https://www.polygon.com/jurassic-world-evolution-3-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
