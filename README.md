@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The pulsing](http://9gag.com/gag/a0ez8pZ)
+ - 6️⃣ [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
  - 😝 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
- - 👉 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)<!-- MEMES:END -->
+ - 👉 [The pulsing](http://9gag.com/gag/a0ez8pZ)<!-- MEMES:END -->
 
 --- 
 
