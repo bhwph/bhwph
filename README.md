@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Every 9gagger can relate.](http://9gag.com/gag/aByjRLZ)
- - 😝 [*Casually steals your Job*](http://9gag.com/gag/a2v9EQ9)
- - 👉 [Doesn&#39;t everyone do this?](http://9gag.com/gag/ae9PXn5)<!-- MEMES:END -->
+ - 6️⃣ [The pulsing](http://9gag.com/gag/a0ez8pZ)
+ - 😝 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
+ - 👉 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)<!-- MEMES:END -->
 
 --- 
 
