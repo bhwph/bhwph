@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro M5 review roundup: faster, comfier, still not for everyone](https://appleinsider.com/articles/25/10/21/apple-vision-pro-m5-review-roundup-faster-comfier-still-not-for-everyone?utm_source=rss)
- - [Catch a Samsung Galaxy S25 Ultra at a $470 discount!](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-14-3608617/)
- - [Google Fi plans an AI call quality feature to filter out background sounds like wind next month, and will bring full RCS support on the web in December &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/251021/p35#a251021p35)<!-- TECH:END -->
+ - [Netflix reports Q3 revenue up 17% YoY to $11.51B, matching est., operating margin below est. due to Brazilian tax dispute expense; NFLX drops 5%+ after hours &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/251021/p41#a251021p41)
+ - [This Smart Warming Mug Is Marked Down by $60](https://www.wired.com/story/ember-travel-mug-deal-1025/)
+ - [Folding iPad release may have been delayed until 2029](https://appleinsider.com/articles/25/10/21/folding-ipad-release-may-have-been-delayed-until-2029?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
