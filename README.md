@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This 4.8-Star Ryzen 7 Mini PC Is the Cheapest Way to Run Windows 11 Pro, Costs Nothing Next to a Mac Mini](https://kotaku.com/this-4-8-star-ryzen-7-mini-pc-is-the-cheapest-way-to-run-windows-11-pro-costs-nothing-next-to-a-mac-mini-2000636172)
- - [MSI MAG Z890 Tomahawk WiFi review](https://www.pcgamer.com/hardware/motherboards/msi-mag-z890-tomahawk-wifi-review/)
- - [Jurassic World Evolution 3 review: A beautiful and satisfying sim](https://www.polygon.com/jurassic-world-evolution-3-review/)<!-- GAME:END -->
+ - [Former Bethesda designer says Starfield fell flat because of its reliance on procgen planets: &#39;I don&#39;t think it&#39;s in the same calibre as the other two, Fallout or Skyrim&#39;](https://www.pcgamer.com/games/rpg/former-bethesda-designer-says-starfield-fell-flat-because-of-its-reliance-on-procgen-planets-i-dont-think-its-in-the-same-calibre-as-the-other-two-fallout-or-skyrim/)
+ - [How to evolve Riolu in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-riolu-evolve-lucario-how-to/)
+ - [Not Enough People Are Playing Xbox’s New Weird, Short, And Very Good Exclusive Game](https://kotaku.com/keeper-the-kotaku-review-xbox-game-pass-how-long-is-it-good-price-2000637702)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
