@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Harmless pranks are the best kind \ud83d\ude02](http://9gag.com/gag/ayNZ7wr)
+ - 6️⃣ [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
  - 😝 [Legend](http://9gag.com/gag/aqyB95L)
- - 👉 [The pulsing](http://9gag.com/gag/a0ez8pZ)<!-- MEMES:END -->
+ - 👉 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)<!-- MEMES:END -->
 
 --- 
 
