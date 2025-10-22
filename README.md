@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Slimes are scrambling to rewrite their own holy book](http://9gag.com/gag/azxognp)
+ - 6️⃣ [The pulsing](http://9gag.com/gag/a0ez8pZ)
  - 😝 [Post Something](http://9gag.com/gag/aYQZj6O)
- - 👉 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)<!-- MEMES:END -->
+ - 👉 [Jeremy Clarkson died last night...](http://9gag.com/gag/a4PmKG6)<!-- MEMES:END -->
 
 --- 
 
