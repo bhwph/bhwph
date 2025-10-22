@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 17’s selfie camera is to blame for delayed Project Indigo support](https://www.theverge.com/tech/803712/adobe-project-indigo-camera-app-iphone-17-support)
- - [Save big on a new Apple MacBook Air laptop](https://www.androidauthority.com/apple-macbook-air-deal-3-3608614/)
- - [Sources: Anthropic is in discussions with Google about a deal that would provide Anthropic with computing power valued in the high tens of billions of dollars &lpar;Bloomberg&rpar;](http://www.techmeme.com/251021/p48#a251021p48)<!-- TECH:END -->
+ - [In an experiment, ChatGPT-4o, Claude Sonnet 4.5, and DeepSeek-V3.2-Exp expressed secular, Western liberal values regardless of the language of the questions &lpar;Kelsey Piper/The Argument&rpar;](http://www.techmeme.com/251021/p51#a251021p51)
+ - [Nomad Stratos Band review: Titanium &amp; FKM is a winning combo for Apple Watch](https://appleinsider.com/articles/25/10/22/nomad-stratos-band-review-titanium-fkm-is-a-winning-combo-for-apple-watch?utm_source=rss)
+ - [OpenAI rolls out ChatGPT Atlas browser with built-in AI tools](https://appleinsider.com/articles/25/10/22/openai-rolls-out-chatgpt-atlas-browser-with-built-in-ai-tools?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
