@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I Hope My Outer Worlds 2 Companions Really Do Try To Kill Me](https://kotaku.com/outer-worlds-2-companion-list-faction-loyalty-2000638303)
- - [How to fish in Escape From Duckov and where to cast your line out in Ground Zero](https://www.pcgamer.com/games/action/escape-from-duckov-fishing-how-to/)
- - [This One New Battlefield 6 Skin Is Causing A Meltdown](https://kotaku.com/new-battlefield-6-skin-is-causing-community-meltdown-grounded-ea-2000638294)<!-- GAME:END -->
+ - [Cards Against Humanity settles $15 million lawsuit against SpaceX, but Elon Musk &#39;did the legal equivalent of throwing dust in our eyes and kicking us in the balls&#39; so backers are getting a card set about Musk instead of money](https://www.pcgamer.com/games/card-games/cards-against-humanity-settles-usd15-million-lawsuit-against-spacex-but-elon-musk-did-the-legal-equivalent-of-throwing-dust-in-our-eyes-and-kicking-us-in-the-balls-so-backers-are-getting-a-card-set-about-musk-instead-of-money/)
+ - [Escape From Duckov might look like a parody, but it&#39;s a full-fledged, full-featured singleplayer bottling of extraction shooter juice](https://www.pcgamer.com/games/third-person-shooter/escape-from-duckov-might-look-like-a-parody-but-its-a-full-fledged-full-featured-singleplayer-bottling-of-extraction-shooter-juice/)
+ - [Steam&#39;s latest &#39;experiment&#39; is a new way of discovering games that&#39;s actually really convenient and useful](https://www.pcgamer.com/games/steams-latest-experiment-is-a-new-way-of-discovering-games-thats-actually-really-convenient-and-useful/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
