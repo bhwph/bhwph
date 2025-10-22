@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Harmless pranks are the best kind \ud83d\ude02](http://9gag.com/gag/ayNZ7wr)
- - 😝 [Slimes are scrambling to rewrite their own holy book](http://9gag.com/gag/azxognp)
- - 👉 [Jeremy Clarkson died last night...](http://9gag.com/gag/a4PmKG6)<!-- MEMES:END -->
+ - 6️⃣ [When you think you can take on a UFC fighter](http://9gag.com/gag/aByjQ4A)
+ - 😝 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
+ - 👉 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)<!-- MEMES:END -->
 
 --- 
 
