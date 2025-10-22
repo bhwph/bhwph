@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A teen&#39;s parents allege OpenAI loosened ChatGPT&#39;s suicide-talk rules to boost engagement before their son died by suicide using a method discussed with ChatGPT &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251022/p39#a251022p39)
- - [GM ridiculously thinks that not offering CarPlay in future cars is &#39;Jobsian&#39;](https://appleinsider.com/articles/25/10/22/gm-ridiculously-thinks-that-not-offering-carplay-in-future-cars-is-jobsian?utm_source=rss)
- - [Tesla’s revenues rebound as consumers race to claim expiring tax credit](https://www.theverge.com/news/803886/tesla-q3-2025-earnings-revenue-profit-ev-elon-musk)<!-- TECH:END -->
+ - [Q&amp;A with GM CEO Mary Barra and CPO Sterling Anderson on GM&#39;s plans for AI and autonomous driving, ditching Apple CarPlay and Android Auto on all its cars, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251022/p42#a251022p42)
+ - [Fandom&amp;#8217;s CEO has left the company](https://www.theverge.com/entertainment/804821/fandom-ceo-perkins-miller-departure)
+ - [Owners of Luxury Smart Beds Literally Lost Sleep Due to AWS Outage](https://www.cnet.com/health/sleep/owners-of-luxury-smart-beds-literally-lost-sleep-due-to-aws-outage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
