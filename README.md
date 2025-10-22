@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The pulsing](http://9gag.com/gag/a0ez8pZ)
- - 😝 [Post Something](http://9gag.com/gag/aYQZj6O)
- - 👉 [Jeremy Clarkson died last night...](http://9gag.com/gag/a4PmKG6)<!-- MEMES:END -->
+ - 6️⃣ [Sony-Ericsson bluetooth remote control CAR-100](http://9gag.com/gag/aYQZbPv)
+ - 😝 [Mildly interesting](http://9gag.com/gag/aVv4Qbv)
+ - 👉 [I miss Top Gear humor !](http://9gag.com/gag/a87QbjY)<!-- MEMES:END -->
 
 --- 
 
