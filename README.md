@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just a dad recognizing another dad&#39;s excellent work. Love to see it](http://9gag.com/gag/aAyqVX2)
- - 😝 [We must watch](http://9gag.com/gag/aVv4Wq8)
- - 👉 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)<!-- MEMES:END -->
+ - 6️⃣ [Guess if real or AI](http://9gag.com/gag/aXPQbo2)
+ - 😝 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
+ - 👉 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)<!-- MEMES:END -->
 
 --- 
 
