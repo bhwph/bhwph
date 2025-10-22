@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Catfish burger](http://9gag.com/gag/aGy6wKX)
+ - 6️⃣ [We must watch](http://9gag.com/gag/aVv4Wq8)
  - 😝 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
- - 👉 [Mad Honey](http://9gag.com/gag/azxoL0K)<!-- MEMES:END -->
+ - 👉 [Just a dad recognizing another dad&#39;s excellent work. Love to see it](http://9gag.com/gag/aAyqVX2)<!-- MEMES:END -->
 
 --- 
 
