@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Air vs. iPhone 17 Pro: Reevaluating after two weeks](https://appleinsider.com/articles/25/10/22/iphone-air-vs-iphone-17-pro-reevaluating-after-two-weeks?utm_source=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 22&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-22-2025-3608692/)
- - [This denim-clad flagship rocks a unique rear woofer and Bose-tuned audio](https://www.androidauthority.com/redmi-k90-pro-max-rear-woofer-3609224/)<!-- TECH:END -->
+ - [Android Auto users are celebrating a subtle but welcome Google Maps change](https://www.androidauthority.com/android-auto-google-maps-suggested-destinations-dropdown-3609254/)
+ - [Starbridge, which helps businesses monitor public sector opportunities by consolidating fragmented data, raised a $42M Series A led by David Sacks&#39; Craft &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251022/p27#a251022p27)
+ - [After the iPhone Fold, expect bezel-free &amp; flip models in 2027 and 2028](https://appleinsider.com/articles/25/10/22/after-the-iphone-fold-expect-bezel-free-flip-models-in-2027-and-2028?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
