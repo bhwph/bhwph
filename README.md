@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you think you can take on a UFC fighter](http://9gag.com/gag/aByjQ4A)
- - 😝 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
- - 👉 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)<!-- MEMES:END -->
+ - 6️⃣ [The pulsing](http://9gag.com/gag/a0ez8pZ)
+ - 😝 [Be aware in public guys](http://9gag.com/gag/an78qdz)
+ - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
 
 --- 
 
