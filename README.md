@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Report Finds Efforts to Slow Climate Change Are Working—Just Not Fast Enough](https://www.wired.com/story/new-report-finds-efforts-to-slow-climate-change-are-working-just-not-fast-enough/)
- - [56 of the Best TV Shows on Netflix That Will Keep You Entertained](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2025/#ftag=CAD590a51e)
- - [Sources: Sequoia COO Sumaiya Balbale resigned after the firm refused to discipline partner Shaun Maguire over his comments calling Zohran Mamdani &quot;an Islamist&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/251021/p57#a251021p57)<!-- TECH:END -->
+ - [The first major OnePlus 15 price leak has encouraging news](https://www.androidauthority.com/oneplus-15-price-leak-3609107/)
+ - [Sesame, which is developing an AI agent with a natural-sounding human voice and smart glasses, raised a $250M Series B and opens an early beta of its iOS app &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251022/p5#a251022p5)
+ - [Japanese regulators&#39; plan to cull the smallest listings on the Tokyo Stock Exchange is spurring a record number of startup buyouts in Japan, while IPOs slump &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p4#a251022p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
