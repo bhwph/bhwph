@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Killer meltdown in court after receiving life sentence while his mother curses the victim&#39;s family](http://9gag.com/gag/a6Z4dKe)
- - 😝 [The interface developer is an idiot](http://9gag.com/gag/abAKXLv)
- - 👉 [I miss Top Gear humor !](http://9gag.com/gag/a87QbjY)<!-- MEMES:END -->
+ - 6️⃣ [He almost meet the creator](http://9gag.com/gag/avy4pEq)
+ - 😝 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)
+ - 👉 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)<!-- MEMES:END -->
 
 --- 
 
