@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Effulgence RPG is a game made entirely of ASCII art where you convert your enemies&#39; raw parts into new weapons, and if that doesn&#39;t convince you to give its demo a look I don&#39;t know what will](https://www.pcgamer.com/games/rpg/effulgence-rpg-is-a-game-made-entirely-of-ascii-art-where-you-convert-your-enemies-raw-parts-into-new-weapons-and-if-that-doesnt-convince-you-to-give-its-demo-a-look-i-dont-know-what-will/)
- - [Scuf Valor Pro review](https://www.pcgamer.com/hardware/game-pads/scuf-valor-pro-review/)
- - [Luigi&#39;s Mansion is coming to Nintendo Switch 2 for Halloween](https://www.polygon.com/luigis-mansion-nintendo-switch-2-gamecube-library/)<!-- GAME:END -->
+ - [A Bunch Of Creepy And Scary PS5 And PS4 Games Are On Sale Right Now](https://kotaku.com/a-bunch-of-creepy-and-scary-ps5-and-ps4-games-are-on-sale-right-now-2000638262)
+ - [Critical Role Campaign 4 is redefining Tieflings in Dungeons &amp; Dragons](https://www.polygon.com/critical-role-campaign-4-demons-tieflings-tyranny/)
+ - [The first Star Wars story set after Rise of Skywalker is a big letdown](https://www.polygon.com/star-wars-the-last-order-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
