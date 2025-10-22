@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an experiment, ChatGPT-4o, Claude Sonnet 4.5, and DeepSeek-V3.2-Exp expressed secular, Western liberal values regardless of the language of the questions &lpar;Kelsey Piper/The Argument&rpar;](http://www.techmeme.com/251021/p51#a251021p51)
- - [Nomad Stratos Band review: Titanium &amp; FKM is a winning combo for Apple Watch](https://appleinsider.com/articles/25/10/22/nomad-stratos-band-review-titanium-fkm-is-a-winning-combo-for-apple-watch?utm_source=rss)
- - [OpenAI rolls out ChatGPT Atlas browser with built-in AI tools](https://appleinsider.com/articles/25/10/22/openai-rolls-out-chatgpt-atlas-browser-with-built-in-ai-tools?utm_source=rss)<!-- TECH:END -->
+ - [Samsung&#39;s Galaxy XR headset includes an Explorer Pack that bundles a year of Google AI Pro, YouTube Premium, Play Pass, and more with purchases through year-end &lpar;Matt Horne/Android Authority&rpar;](http://www.techmeme.com/251021/p55#a251021p55)
+ - [How to make your own external SSD: Boost your Mac&#39;s storage cheaply](https://appleinsider.com/inside/accessories-and-io/tips/how-to-make-your-own-external-ssd-boost-your-macs-storage-cheaply?utm_source=rss)
+ - [Hands-on with the Samsung Galaxy XR: micro-OLED displays are good, eye tracking works well, lighter than the Vision Pro, Android XR looks a lot like visionOS &lpar;The Shortcut&rpar;](http://www.techmeme.com/251021/p54#a251021p54)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
