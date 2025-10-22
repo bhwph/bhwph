@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want a foldable phone? The Samsung Galaxy Z Fold 7 hits record-low price](https://www.androidauthority.com/samsung-galaxy-z-fold-7-deal-7-3609309/)
- - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
- - [Headwolf Titan 1 makes a strong case for choosing an Android tablet for your mobile gaming fix](https://www.androidauthority.com/titan-1-android-tablet-launch-3609279/)<!-- TECH:END -->
+ - [TikTok pushes merchants to use a new ad-buying tool that promotes videos linking to TikTok Shop rather than merchants&#39; own sites, frustrating some merchants &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/251022/p35#a251022p35)
+ - [JBL’s Rad Clip-On Bluetooth Speaker Is $20 Off](https://www.wired.com/story/jbl-clip-5-deal-1025/)
+ - [Apple removes controversial dating safety apps Tea and TeaOnHer from the App Store for failing to meet requirements around content moderation and user privacy &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251022/p34#a251022p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
