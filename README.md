@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He almost meet the creator](http://9gag.com/gag/avy4pEq)
- - 😝 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)
+ - 6️⃣ [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
+ - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
  - 👉 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)<!-- MEMES:END -->
 
 --- 
