@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
- - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
- - 👉 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)<!-- MEMES:END -->
+ - 6️⃣ [Catfish burger](http://9gag.com/gag/aGy6wKX)
+ - 😝 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
+ - 👉 [Mad Honey](http://9gag.com/gag/azxoL0K)<!-- MEMES:END -->
 
 --- 
 
