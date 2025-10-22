@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Chainsaw Man movie is perfect for newcomers, but may leave fans feeling frustrated](https://www.polygon.com/chainsaw-man-the-movie-reze-arc-review/)
- - [Today&#39;s Wordle clues, hints and answer for October 22 &lpar;#1586&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-22-2025/)
- - [All security camera locations in Vampire: The Masquerade – Bloodlines 2](https://www.pcgamer.com/games/rpg/bloodlines-2-security-camera-locations/)<!-- GAME:END -->
+ - [Effulgence RPG is a game made entirely of ASCII art where you convert your enemies&#39; raw parts into new weapons, and if that doesn&#39;t convince you to give its demo a look I don&#39;t know what will](https://www.pcgamer.com/games/rpg/effulgence-rpg-is-a-game-made-entirely-of-ascii-art-where-you-convert-your-enemies-raw-parts-into-new-weapons-and-if-that-doesnt-convince-you-to-give-its-demo-a-look-i-dont-know-what-will/)
+ - [Scuf Valor Pro review](https://www.pcgamer.com/hardware/game-pads/scuf-valor-pro-review/)
+ - [Luigi&#39;s Mansion is coming to Nintendo Switch 2 for Halloween](https://www.polygon.com/luigis-mansion-nintendo-switch-2-gamecube-library/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
