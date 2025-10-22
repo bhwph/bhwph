@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese chipmaker YMTC considers an IPO in China at an up to ~$40B valuation as soon as 2026, in what could be one of China&#39;s biggest IPOs in years &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p15#a251022p15)
- - [Researchers detail systemic vulnerabilities in AI agentic browsers, including Perplexity&#39;s Comet and Fellou, related to indirect prompt injection attacks &lpar;Brave&rpar;](http://www.techmeme.com/251022/p14#a251022p14)
- - [The Pixel Watch 4 has erased all my battery life worries](https://www.androidauthority.com/pixel-watch-4-erased-all-my-battery-life-worries-3608941/)<!-- TECH:END -->
+ - [iPhone Air vs. iPhone 17 Pro: Reevaluating after two weeks](https://appleinsider.com/articles/25/10/22/iphone-air-vs-iphone-17-pro-reevaluating-after-two-weeks?utm_source=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 22&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-22-2025-3608692/)
+ - [This denim-clad flagship rocks a unique rear woofer and Bose-tuned audio](https://www.androidauthority.com/redmi-k90-pro-max-rear-woofer-3609224/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
