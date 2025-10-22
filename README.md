@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Seattle, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-seattle-wa/#ftag=CAD590a51e)
- - [EBU/BBC study: 45% of responses from top AI assistants misrepresented news content with at least one significant issue and 31% showed serious sourcing problems &lpar;Olivia Le Poidevin/Reuters&rpar;](http://www.techmeme.com/251022/p11#a251022p11)
- - [Electricity demand from data centers powering the AI boom has caused a gas turbine supply crunch, as the US becomes the epicenter of new gas-fired power plants &lpar;Financial Times&rpar;](http://www.techmeme.com/251022/p10#a251022p10)<!-- TECH:END -->
+ - [Sources: Chinese chipmaker YMTC considers an IPO in China at an up to ~$40B valuation as soon as 2026, in what could be one of China&#39;s biggest IPOs in years &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p15#a251022p15)
+ - [Researchers detail systemic vulnerabilities in AI agentic browsers, including Perplexity&#39;s Comet and Fellou, related to indirect prompt injection attacks &lpar;Brave&rpar;](http://www.techmeme.com/251022/p14#a251022p14)
+ - [The Pixel Watch 4 has erased all my battery life worries](https://www.androidauthority.com/pixel-watch-4-erased-all-my-battery-life-worries-3608941/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
