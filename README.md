@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The pulsing](http://9gag.com/gag/a0ez8pZ)
- - 😝 [Be aware in public guys](http://9gag.com/gag/an78qdz)
- - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
+ - 6️⃣ [Killer meltdown in court after receiving life sentence while his mother curses the victim&#39;s family](http://9gag.com/gag/a6Z4dKe)
+ - 😝 [The interface developer is an idiot](http://9gag.com/gag/abAKXLv)
+ - 👉 [I miss Top Gear humor !](http://9gag.com/gag/a87QbjY)<!-- MEMES:END -->
 
 --- 
 
