@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto users are celebrating a subtle but welcome Google Maps change](https://www.androidauthority.com/android-auto-google-maps-suggested-destinations-dropdown-3609254/)
- - [Starbridge, which helps businesses monitor public sector opportunities by consolidating fragmented data, raised a $42M Series A led by David Sacks&#39; Craft &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251022/p27#a251022p27)
- - [After the iPhone Fold, expect bezel-free &amp; flip models in 2027 and 2028](https://appleinsider.com/articles/25/10/22/after-the-iphone-fold-expect-bezel-free-flip-models-in-2027-and-2028?utm_source=rss)<!-- TECH:END -->
+ - [Want a foldable phone? The Samsung Galaxy Z Fold 7 hits record-low price](https://www.androidauthority.com/samsung-galaxy-z-fold-7-deal-7-3609309/)
+ - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
+ - [Headwolf Titan 1 makes a strong case for choosing an Android tablet for your mobile gaming fix](https://www.androidauthority.com/titan-1-android-tablet-launch-3609279/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
