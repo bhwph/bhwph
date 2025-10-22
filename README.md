@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We must watch](http://9gag.com/gag/aVv4Wq8)
- - 😝 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
- - 👉 [Just a dad recognizing another dad&#39;s excellent work. Love to see it](http://9gag.com/gag/aAyqVX2)<!-- MEMES:END -->
+ - 6️⃣ [Just a dad recognizing another dad&#39;s excellent work. Love to see it](http://9gag.com/gag/aAyqVX2)
+ - 😝 [We must watch](http://9gag.com/gag/aVv4Wq8)
+ - 👉 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)<!-- MEMES:END -->
 
 --- 
 
