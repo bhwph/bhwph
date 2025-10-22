@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok pushes merchants to use a new ad-buying tool that promotes videos linking to TikTok Shop rather than merchants&#39; own sites, frustrating some merchants &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/251022/p35#a251022p35)
- - [JBL’s Rad Clip-On Bluetooth Speaker Is $20 Off](https://www.wired.com/story/jbl-clip-5-deal-1025/)
- - [Apple removes controversial dating safety apps Tea and TeaOnHer from the App Store for failing to meet requirements around content moderation and user privacy &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251022/p34#a251022p34)<!-- TECH:END -->
+ - [A teen&#39;s parents allege OpenAI loosened ChatGPT&#39;s suicide-talk rules to boost engagement before their son died by suicide using a method discussed with ChatGPT &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251022/p39#a251022p39)
+ - [GM ridiculously thinks that not offering CarPlay in future cars is &#39;Jobsian&#39;](https://appleinsider.com/articles/25/10/22/gm-ridiculously-thinks-that-not-offering-carplay-in-future-cars-is-jobsian?utm_source=rss)
+ - [Tesla’s revenues rebound as consumers race to claim expiring tax credit](https://www.theverge.com/news/803886/tesla-q3-2025-earnings-revenue-profit-ev-elon-musk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
