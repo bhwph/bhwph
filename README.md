@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI adds Sky team to give ChatGPT real control on your Mac](https://appleinsider.com/articles/25/10/23/openai-adds-sky-team-to-give-chatgpt-real-control-on-your-mac?utm_source=rss)
- - [Cosmic Orange iPhone 17 Pro&#39;s color-changing is probably not the owner&#39;s fault](https://appleinsider.com/articles/25/10/23/cosmic-orange-iphone-17-pros-color-changing-is-probably-not-the-owners-fault?utm_source=rss)
- - [PUBG maker Krafton is turning into an &amp;#8216;AI first&amp;#8217; developer](https://www.theverge.com/news/805509/krafton-pubg-ai-first-developer-agentic-gpu-cluster)<!-- TECH:END -->
+ - [Apple&#39;s Houston AI server plant is shipping hardware to data centers early](https://appleinsider.com/articles/25/10/23/apples-houston-ai-server-plant-is-shipping-hardware-to-data-centers-early?utm_source=rss)
+ - [The Amazon Fire TV Stick 4K Plus just came out and it’s already 40% off!](https://www.androidauthority.com/amazon-fire-tv-stick-4k-plus-deal-3609664/)
+ - [Trump says he canceled plans for a &quot;surge&quot; of National Guard to San Francisco after speaking to &quot;great people like Jensen Huang, Marc Benioff, and others&quot; &lpar;Kate Rogers/CNBC&rpar;](http://www.techmeme.com/251023/p44#a251023p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
