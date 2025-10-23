@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Catfish burger](http://9gag.com/gag/aGy6wKX)
- - 😝 [China ?](http://9gag.com/gag/an78X5B)
- - 👉 [For all the mechanics out there](http://9gag.com/gag/avy4gBb)<!-- MEMES:END -->
+ - 6️⃣ [It ain&#39;t me](http://9gag.com/gag/aGy6wpG)
+ - 😝 [Hmmmm..](http://9gag.com/gag/aMVDrEA)
+ - 👉 [THICC](http://9gag.com/gag/avy40wd)<!-- MEMES:END -->
 
 --- 
 
