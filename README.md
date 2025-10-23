@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Same Snake, Different Oil: Wellness Influencers and the Rise of Health Misinformation](https://www.cnet.com/health/features/same-snake-different-oil-wellness-influencers-rise-health-misinformation/#ftag=CAD590a51e)
- - [I Asked Personal Trainers: What Is the One Piece of Fitness Tech You Can&#39;t Stop Recommending?](https://www.cnet.com/health/fitness/asked-personal-trainers-what-one-piece-fitness-tech-cant-stop-recommending/#ftag=CAD590a51e)
- - [This is fine: Google Photos could soon let you turn yourself into a meme](https://www.androidauthority.com/google-photos-meme-generator-apk-teardown-3609502/)<!-- TECH:END -->
+ - [Ukraine says it has now deployed 30K free physical security keys, called YubiKeys, including 22K to access battle system Delta, up from ~10K in April 2022 &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/251023/p14#a251023p14)
+ - [GM is dropping Android Auto to make way for Gemini](https://www.androidauthority.com/gm-cars-android-auto-gemini-3609532/)
+ - [Europe&#39;s startup ecosystem, which had 35,000 early-stage companies in the EU and the UK in 2024, per Atomico, is hindered by complex and varying regulations &lpar;Niki Kitsantonis/New York Times&rpar;](http://www.techmeme.com/251023/p13#a251023p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
