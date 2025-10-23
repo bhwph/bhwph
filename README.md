@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guess if real or AI](http://9gag.com/gag/aXPQbo2)
- - 😝 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
- - 👉 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)<!-- MEMES:END -->
+ - 6️⃣ [Catfish burger](http://9gag.com/gag/aGy6wKX)
+ - 😝 [China ?](http://9gag.com/gag/an78X5B)
+ - 👉 [For all the mechanics out there](http://9gag.com/gag/avy4gBb)<!-- MEMES:END -->
 
 --- 
 
