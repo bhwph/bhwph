@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fujifilm updates its entry-level X-T30 with 6K video and a film simulation dial](https://www.theverge.com/news/805200/fujifilm-x-t30-iii-digital-camera-film-simulation-6k-ai-subject-detection)
- - [Ugreen NASync DH2300 review: Easily ditch Google Drive and iCloud storage](https://appleinsider.com/articles/25/10/23/ugreen-nasync-dh2300-review-easily-ditch-google-drive-and-icloud-storage?utm_source=rss)
- - [Mega Evolution is coming to Pokémon TCG Pocket](https://www.theverge.com/entertainment/805244/pokemon-tcg-pocket-mega-rising)<!-- TECH:END -->
+ - [Samsung may not start mass producing the Galaxy S26 Plus until January](https://www.androidauthority.com/galaxy-s26-plus-mass-production-delayed-3609633/)
+ - [ChatGPT maker is bringing its video creation app to Android — maybe sooner than you’d think](https://www.androidauthority.com/sora-android-app-3609668/)
+ - [Shades of Epic vs. Apple: UK App Store users win $2 billion lawsuit](https://appleinsider.com/articles/25/10/23/shades-of-epic-vs-apple-uk-app-store-users-win-2-billion-lawsuit?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
