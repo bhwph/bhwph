@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Counter-Strike cosmetics economy loses nearly $2 billion in value overnight](https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/)
- - [Bethesda Bringing Fallout 4 To Switch 2 Next Year](https://kotaku.com/bethesda-fallout-4-switch-2-2026-anniversary-edition-trailer-xbox-ps5-2000638638)
- - [Fallout 4 is getting the Skyrim treatment with a 10th anniversary edition that includes all the expansions and a mountain of Creation content](https://www.pcgamer.com/games/rpg/fallout-4-is-getting-the-skyrim-treatment-with-a-10th-anniversary-edition-that-includes-all-the-expansions-and-a-mountain-of-creation-content/)<!-- GAME:END -->
+ - [Path of Exile 2 director says he would be &#39;beyond shocked&#39; if it didn&#39;t come out in 2026: &#39;We never intended to be in early access this long&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-2-director-says-he-would-be-beyond-shocked-if-it-didnt-come-out-in-2026-we-never-intended-to-be-in-early-access-this-long/)
+ - [Noir shooter Mouse: P.I. For Hire finally has a release date](https://www.polygon.com/mouse-pi-for-hire-release-date/)
+ - [Buckle Up, Xbox – Pacific Drive Launches Today with Game Pass](https://news.xbox.com/en-us/2025/10/23/pacific-drive-xbox-launch-game-pass/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
