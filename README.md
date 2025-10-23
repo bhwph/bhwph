@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [So much for Xbox full screen experience, it looks like the ROG Xbox Ally X might get much better performance on Linux with faux-SteamOS operating system Bazzite](https://www.pcgamer.com/hardware/handheld-gaming-pcs/so-much-for-xbox-full-screen-experience-it-looks-like-the-rog-xbox-ally-x-might-get-much-better-performance-on-linux-with-faux-steamos-operating-system-bazzite/)
- - [D&amp;D brings back Dragonlance creators and Joe Manganiello for new project](https://www.polygon.com/dnd-dungeons-dragons-dragonlance-manganiello-hickman-weis/)
- - [Rainbow Six Siege X creative director talks PvE and cheating: &#39;we need to be faster&#39; to combat cheat makers, but they&#39;ll never be eliminated entirely](https://www.pcgamer.com/games/fps/rainbow-six-siege-x-creative-director-talks-pve-and-cheating-we-need-to-be-faster-to-combat-cheat-makers-but-theyll-never-be-eliminated-entirely/)<!-- GAME:END -->
+ - [Google claims it has made a &#39;major breakthrough&#39; in quantum computing with an algorithm 13,000X faster than a traditional equivalent, although not everyone is convinced](https://www.pcgamer.com/hardware/google-claims-it-has-made-a-major-breakthrough-in-quantum-computing-with-an-algorithm-13-000x-faster-than-a-traditional-equivalent-although-not-everyone-is-convinced/)
+ - [Amazon Offloads Samsung’s AirPods Pro Rival, Now Cheaper Than Budget ANC Earbuds](https://kotaku.com/amazon-offloads-samsungs-airpods-pro-rival-now-cheaper-than-budget-anc-earbuds-2000638386)
+ - [Everything is an Xbox now, so I see no reason to buy Xbox again](https://www.pcgamer.com/hardware/everything-is-an-xbox-now-so-i-see-no-reason-to-buy-xbox-again/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
