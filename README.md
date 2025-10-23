@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It ain&#39;t me](http://9gag.com/gag/aGy6wpG)
- - 😝 [Hmmmm..](http://9gag.com/gag/aMVDrEA)
- - 👉 [THICC](http://9gag.com/gag/avy40wd)<!-- MEMES:END -->
+ - 6️⃣ [Catfish burger](http://9gag.com/gag/aGy6wKX)
+ - 😝 [Future Grades be LIKE](http://9gag.com/gag/an78XyE)
+ - 👉 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)<!-- MEMES:END -->
 
 --- 
 
