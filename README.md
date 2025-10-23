@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nexperia&#39;s China unit has resumed chip sales to local distributors, with transactions now settled in yuan instead of foreign currencies such as the USD &lpar;Reuters&rpar;](http://www.techmeme.com/251023/p5#a251023p5)
- - [Top AI researchers and executives in SV are working 80 to 100 hours a week, driven by intense competition, as AI&#39;s rapid progress compresses product timelines &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251023/p4#a251023p4)
- - [It looks like Google just locked out GrapheneOS users from the Pixel Camera app](https://www.androidauthority.com/grapheneos-pixel-camera-app-3609484/)<!-- TECH:END -->
+ - [Same Snake, Different Oil: Wellness Influencers and the Rise of Health Misinformation](https://www.cnet.com/health/features/same-snake-different-oil-wellness-influencers-rise-health-misinformation/#ftag=CAD590a51e)
+ - [I Asked Personal Trainers: What Is the One Piece of Fitness Tech You Can&#39;t Stop Recommending?](https://www.cnet.com/health/fitness/asked-personal-trainers-what-one-piece-fitness-tech-cant-stop-recommending/#ftag=CAD590a51e)
+ - [This is fine: Google Photos could soon let you turn yourself into a meme](https://www.androidauthority.com/google-photos-meme-generator-apk-teardown-3609502/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
