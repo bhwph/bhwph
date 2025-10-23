@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One smart ring brand is gone from the US, and another just cut a deal](https://www.androidauthority.com/ultrahuman-us-ban-3609467/)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Oct. 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-oct-23/#ftag=CAD590a51e)
- - [Elon Musk says Tesla&#39;s AI5 chip will be made by Samsung in Texas and TSMC in Arizona, with the &quot;oversupply&quot; of chips not used by Tesla going to his data centers &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251022/p48#a251022p48)<!-- TECH:END -->
+ - [Sources: Nexperia&#39;s China unit has resumed chip sales to local distributors, with transactions now settled in yuan instead of foreign currencies such as the USD &lpar;Reuters&rpar;](http://www.techmeme.com/251023/p5#a251023p5)
+ - [Top AI researchers and executives in SV are working 80 to 100 hours a week, driven by intense competition, as AI&#39;s rapid progress compresses product timelines &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251023/p4#a251023p4)
+ - [It looks like Google just locked out GrapheneOS users from the Pixel Camera app](https://www.androidauthority.com/grapheneos-pixel-camera-app-3609484/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
