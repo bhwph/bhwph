@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Path of Exile 2 director says he would be &#39;beyond shocked&#39; if it didn&#39;t come out in 2026: &#39;We never intended to be in early access this long&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-2-director-says-he-would-be-beyond-shocked-if-it-didnt-come-out-in-2026-we-never-intended-to-be-in-early-access-this-long/)
- - [Noir shooter Mouse: P.I. For Hire finally has a release date](https://www.polygon.com/mouse-pi-for-hire-release-date/)
- - [Buckle Up, Xbox – Pacific Drive Launches Today with Game Pass](https://news.xbox.com/en-us/2025/10/23/pacific-drive-xbox-launch-game-pass/)<!-- GAME:END -->
+ - [Valve&#39;s latest Counter-Strike 2 update flashbangs entire skins market, headshots speculators, and clutch defuses inflationary market prices](https://www.pcgamer.com/games/fps/valves-latest-counter-strike-2-update-flashbangs-entire-skins-market-headshots-speculators-and-clutch-defuses-inflationary-market-prices/)
+ - [Does Chainsaw Man — The Movie: Reze Arc have a post-credits scene?](https://www.polygon.com/chainsaw-man-movie-reze-arc-post-credits-scene/)
+ - [Fatshark celebrates 10 years of &#39;Tide, reveals Darktide is getting another new class and Vermintide 2 a new map](https://www.pcgamer.com/games/action/fatshark-celebrates-10-years-of-tide-reveals-darktide-is-getting-another-new-class-and-vermintide-2-a-new-map/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
