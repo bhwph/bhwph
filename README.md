@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [About them sticks:](http://9gag.com/gag/a5Qvd0G)
- - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
- - 👉 [Watching sports be like](http://9gag.com/gag/aW4PO66)<!-- MEMES:END -->
+ - 6️⃣ [Took me a sec](http://9gag.com/gag/a1mBZQ8)
+ - 😝 [Self written joke](http://9gag.com/gag/azxoENN)
+ - 👉 [King fruit](http://9gag.com/gag/a34eL78)<!-- MEMES:END -->
 
 --- 
 
