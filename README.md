@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [THICC](http://9gag.com/gag/avy40wd)
- - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
- - 👉 [About them sticks:](http://9gag.com/gag/a5Qvd0G)<!-- MEMES:END -->
+ - 6️⃣ [King fruit](http://9gag.com/gag/a34eL78)
+ - 😝 [Mad Honey](http://9gag.com/gag/azxoL0K)
+ - 👉 [Self written joke](http://9gag.com/gag/azxoENN)<!-- MEMES:END -->
 
 --- 
 
