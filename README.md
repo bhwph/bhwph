@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rainbow Six Siege X creative director talks PvE and cheating: &#39;we need to be faster&#39; to combat cheat makers, but they&#39;ll never be eliminated entirely](https://www.pcgamer.com/games/fps/rainbow-six-siege-x-creative-director-talks-pve-and-cheating-we-need-to-be-faster-to-combat-cheat-makers-but-theyll-never-be-eliminated-entirely/)
- - [Today&#39;s Wordle clues, hints and answer for October 23 &lpar;#1587&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-23-2025/)
- - [This Ring Alarm for 3 Bedrooms Hits a New Record Low, Amazon Dumps Stock of Its Own Brand](https://kotaku.com/this-ring-alarm-for-3-bedrooms-hits-a-new-record-low-amazon-dumps-stock-of-its-own-brand-2000638348)<!-- GAME:END -->
+ - [So much for Xbox full screen experience, it looks like the ROG Xbox Ally X might get much better performance on Linux with faux-SteamOS operating system Bazzite](https://www.pcgamer.com/hardware/handheld-gaming-pcs/so-much-for-xbox-full-screen-experience-it-looks-like-the-rog-xbox-ally-x-might-get-much-better-performance-on-linux-with-faux-steamos-operating-system-bazzite/)
+ - [D&amp;D brings back Dragonlance creators and Joe Manganiello for new project](https://www.polygon.com/dnd-dungeons-dragons-dragonlance-manganiello-hickman-weis/)
+ - [Rainbow Six Siege X creative director talks PvE and cheating: &#39;we need to be faster&#39; to combat cheat makers, but they&#39;ll never be eliminated entirely](https://www.pcgamer.com/games/fps/rainbow-six-siege-x-creative-director-talks-pve-and-cheating-we-need-to-be-faster-to-combat-cheat-makers-but-theyll-never-be-eliminated-entirely/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
