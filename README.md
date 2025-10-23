@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anker Clears Out Soundcore Boom 3i Speaker at an All-Time Low, Prime Day Didn’t Even Go This Low](https://kotaku.com/enjoy-better-bigger-sound-with-the-soundcore-boom-3i-speaker-for-just-89-2000637765)
- - [Critical Role&#39;s Whitney Moore says she&#39;s &#39;made the mistake of thinking that I could out-troll&#39; prank extraordinaire Sam Riegel at the table](https://www.pcgamer.com/games/rpg/critical-roles-whitney-moore-says-shes-made-the-mistake-of-thinking-that-i-could-out-troll-prank-extraordinaire-sam-riegel-at-the-table/)
- - [Stranger Things season 5 will get a theatrical release for finale](https://www.polygon.com/stranger-things-season-5-series-finale-movie-theaters/)<!-- GAME:END -->
+ - [Counter-Strike cosmetics economy loses nearly $2 billion in value overnight](https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/)
+ - [Bethesda Bringing Fallout 4 To Switch 2 Next Year](https://kotaku.com/bethesda-fallout-4-switch-2-2026-anniversary-edition-trailer-xbox-ps5-2000638638)
+ - [Fallout 4 is getting the Skyrim treatment with a 10th anniversary edition that includes all the expansions and a mountain of Creation content](https://www.pcgamer.com/games/rpg/fallout-4-is-getting-the-skyrim-treatment-with-a-10th-anniversary-edition-that-includes-all-the-expansions-and-a-mountain-of-creation-content/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
