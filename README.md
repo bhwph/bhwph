@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guess if real or AI](http://9gag.com/gag/aXPQbo2)
- - 😝 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
- - 👉 [I think i downloaded the wrong Wizard of Oz movie](http://9gag.com/gag/ary9e8V)<!-- MEMES:END -->
+ - 6️⃣ [THICC](http://9gag.com/gag/avy40wd)
+ - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
+ - 👉 [About them sticks:](http://9gag.com/gag/a5Qvd0G)<!-- MEMES:END -->
 
 --- 
 
