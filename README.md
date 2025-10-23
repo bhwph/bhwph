@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is considering buying HBO owner Warner Bros. to bolster its streaming catalog](https://appleinsider.com/articles/25/10/23/apple-is-considering-buying-hbo-owner-warner-bros-to-bolster-its-streaming-catalog?utm_source=rss)
- - [Google Photos preps for its annual recap, alongside a long-lost navigation feature](https://www.androidauthority.com/google-photos-yearly-recap-floating-navigation-bar-apk-teardown-3609561/)
- - [The ChatGPT Atlas browser still feels like Googling with extra steps](https://www.theverge.com/ai-artificial-intelligence/804931/openai-chatgpt-atlas-hands-on-google-search)<!-- TECH:END -->
+ - [Fujifilm updates its entry-level X-T30 with 6K video and a film simulation dial](https://www.theverge.com/news/805200/fujifilm-x-t30-iii-digital-camera-film-simulation-6k-ai-subject-detection)
+ - [Ugreen NASync DH2300 review: Easily ditch Google Drive and iCloud storage](https://appleinsider.com/articles/25/10/23/ugreen-nasync-dh2300-review-easily-ditch-google-drive-and-icloud-storage?utm_source=rss)
+ - [Mega Evolution is coming to Pokémon TCG Pocket](https://www.theverge.com/entertainment/805244/pokemon-tcg-pocket-mega-rising)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
