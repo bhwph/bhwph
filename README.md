@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cards Against Humanity settles $15 million lawsuit against SpaceX, but Elon Musk &#39;did the legal equivalent of throwing dust in our eyes and kicking us in the balls&#39; so backers are getting a card set about Musk instead of money](https://www.pcgamer.com/games/card-games/cards-against-humanity-settles-usd15-million-lawsuit-against-spacex-but-elon-musk-did-the-legal-equivalent-of-throwing-dust-in-our-eyes-and-kicking-us-in-the-balls-so-backers-are-getting-a-card-set-about-musk-instead-of-money/)
- - [Escape From Duckov might look like a parody, but it&#39;s a full-fledged, full-featured singleplayer bottling of extraction shooter juice](https://www.pcgamer.com/games/third-person-shooter/escape-from-duckov-might-look-like-a-parody-but-its-a-full-fledged-full-featured-singleplayer-bottling-of-extraction-shooter-juice/)
- - [Steam&#39;s latest &#39;experiment&#39; is a new way of discovering games that&#39;s actually really convenient and useful](https://www.pcgamer.com/games/steams-latest-experiment-is-a-new-way-of-discovering-games-thats-actually-really-convenient-and-useful/)<!-- GAME:END -->
+ - [This Ring Alarm for 3 Bedrooms Hits a New Record Low, Amazon Dumps Stock of Its Own Brand](https://kotaku.com/this-ring-alarm-for-3-bedrooms-hits-a-new-record-low-amazon-dumps-stock-of-its-own-brand-2000638348)
+ - [It feels sacrilegious to say it, but Ninja Gaiden 4 is at its best when it goes full Devil May Cry](https://www.pcgamer.com/games/action/it-feels-sacrilegious-to-say-it-but-ninja-gaiden-4-is-at-its-best-when-it-goes-full-devil-may-cry/)
+ - [Jackery 1500W Power Station Is Going for Peanuts, and Amazon Adds 2 Free Solar Panels on Top](https://kotaku.com/jackery-1500w-power-station-is-going-for-peanuts-and-amazon-adds-2-free-solar-panels-on-top-2000638342)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
