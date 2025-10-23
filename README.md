@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
- - 😝 [King fruit](http://9gag.com/gag/a34eL78)
- - 👉 [My spirit animal](http://9gag.com/gag/ary943d)<!-- MEMES:END -->
+ - 6️⃣ [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
+ - 😝 [Just to make this clear](http://9gag.com/gag/aPAzyqG)
+ - 👉 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)<!-- MEMES:END -->
 
 --- 
 
