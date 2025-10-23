@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with GM CEO Mary Barra and CPO Sterling Anderson on GM&#39;s plans for AI and autonomous driving, ditching Apple CarPlay and Android Auto on all its cars, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251022/p42#a251022p42)
- - [Fandom&amp;#8217;s CEO has left the company](https://www.theverge.com/entertainment/804821/fandom-ceo-perkins-miller-departure)
- - [Owners of Luxury Smart Beds Literally Lost Sleep Due to AWS Outage](https://www.cnet.com/health/sleep/owners-of-luxury-smart-beds-literally-lost-sleep-due-to-aws-outage/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: quantum computing companies including IonQ, Rigetti, and D-Wave are in talks to give the US Commerce Dept. equity in exchange for $10M+ each in funding &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/251022/p47#a251022p47)
+ - [Sources: a16z is aiming to raise $6B for its growth fund, $3B for AI deals, and $1B for American Dynamism; the $10B total would be its largest fundraise to date &lpar;Financial Times&rpar;](http://www.techmeme.com/251022/p46#a251022p46)
+ - [Amazon claims the headline isn&amp;#8217;t robots taking jobs as it reveals new cost-cutting robots](https://www.theverge.com/news/805098/amazon-robots-ai-warehouses)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
