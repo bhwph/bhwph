@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukraine says it has now deployed 30K free physical security keys, called YubiKeys, including 22K to access battle system Delta, up from ~10K in April 2022 &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/251023/p14#a251023p14)
- - [GM is dropping Android Auto to make way for Gemini](https://www.androidauthority.com/gm-cars-android-auto-gemini-3609532/)
- - [Europe&#39;s startup ecosystem, which had 35,000 early-stage companies in the EU and the UK in 2024, per Atomico, is hindered by complex and varying regulations &lpar;Niki Kitsantonis/New York Times&rpar;](http://www.techmeme.com/251023/p13#a251023p13)<!-- TECH:END -->
+ - [Apple is considering buying HBO owner Warner Bros. to bolster its streaming catalog](https://appleinsider.com/articles/25/10/23/apple-is-considering-buying-hbo-owner-warner-bros-to-bolster-its-streaming-catalog?utm_source=rss)
+ - [Google Photos preps for its annual recap, alongside a long-lost navigation feature](https://www.androidauthority.com/google-photos-yearly-recap-floating-navigation-bar-apk-teardown-3609561/)
+ - [The ChatGPT Atlas browser still feels like Googling with extra steps](https://www.theverge.com/ai-artificial-intelligence/804931/openai-chatgpt-atlas-hands-on-google-search)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
