@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Google claims it has made a &#39;major breakthrough&#39; in quantum computing with an algorithm 13,000X faster than a traditional equivalent, although not everyone is convinced](https://www.pcgamer.com/hardware/google-claims-it-has-made-a-major-breakthrough-in-quantum-computing-with-an-algorithm-13-000x-faster-than-a-traditional-equivalent-although-not-everyone-is-convinced/)
- - [Amazon Offloads Samsung’s AirPods Pro Rival, Now Cheaper Than Budget ANC Earbuds](https://kotaku.com/amazon-offloads-samsungs-airpods-pro-rival-now-cheaper-than-budget-anc-earbuds-2000638386)
- - [Everything is an Xbox now, so I see no reason to buy Xbox again](https://www.pcgamer.com/hardware/everything-is-an-xbox-now-so-i-see-no-reason-to-buy-xbox-again/)<!-- GAME:END -->
+ - [Anker Clears Out Soundcore Boom 3i Speaker at an All-Time Low, Prime Day Didn’t Even Go This Low](https://kotaku.com/enjoy-better-bigger-sound-with-the-soundcore-boom-3i-speaker-for-just-89-2000637765)
+ - [Critical Role&#39;s Whitney Moore says she&#39;s &#39;made the mistake of thinking that I could out-troll&#39; prank extraordinaire Sam Riegel at the table](https://www.pcgamer.com/games/rpg/critical-roles-whitney-moore-says-shes-made-the-mistake-of-thinking-that-i-could-out-troll-prank-extraordinaire-sam-riegel-at-the-table/)
+ - [Stranger Things season 5 will get a theatrical release for finale](https://www.polygon.com/stranger-things-season-5-series-finale-movie-theaters/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
