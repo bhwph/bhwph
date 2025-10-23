@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Houston AI server plant is shipping hardware to data centers early](https://appleinsider.com/articles/25/10/23/apples-houston-ai-server-plant-is-shipping-hardware-to-data-centers-early?utm_source=rss)
- - [The Amazon Fire TV Stick 4K Plus just came out and it’s already 40% off!](https://www.androidauthority.com/amazon-fire-tv-stick-4k-plus-deal-3609664/)
- - [Trump says he canceled plans for a &quot;surge&quot; of National Guard to San Francisco after speaking to &quot;great people like Jensen Huang, Marc Benioff, and others&quot; &lpar;Kate Rogers/CNBC&rpar;](http://www.techmeme.com/251023/p44#a251023p44)<!-- TECH:END -->
+ - [Microsoft Edge’s new Copilot Mode turns on more AI features](https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch)
+ - [Nintendo&amp;#8217;s chips make this Lego Game Boy upgrade kit the most authentic](https://www.theverge.com/games/805673/nintendos-chips-make-this-lego-game-boy-upgrade-kit-the-most-authentic)
+ - [EA strikes a partnership with Stability AI to build game developer tools that serve as &quot;smarter paintbrushes&quot; &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251023/p50#a251023p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
