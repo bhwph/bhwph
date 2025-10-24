@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung allows bootloader unlocking on Galaxy XR after killing it on phones](https://www.androidauthority.com/samsung-galaxy-xr-bootloader-unlocking-3609841/)
- - [ChatGPT’s Atlas browser is already prepping a post-launch glow-up](https://www.androidauthority.com/chatgpt-atlas-browser-new-features-3609848/)
- - [Snapdragon 6s Gen 4 revealed: Budget phones just got a gaming, emulation boost](https://www.androidauthority.com/snapdragon-6s-gen-4-3609820/)<!-- TECH:END -->
+ - [Last year’s £1,300 Xperia 1 VI just got its penultimate Android OS update](https://www.androidauthority.com/sony-xperia-1-vi-android-16-3609882/)
+ - [One UI 8.5 could ensure you never miss an important notification](https://www.androidauthority.com/samsung-one-ui-8-5-prioritize-notifications-3609870/)
+ - [The Pixel 10 Pro is great, but here’s why I’m sticking with the Pixel 9 Pro](https://www.androidauthority.com/pixel-9-pro-just-as-good-pixel-10-pro-3608734/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
