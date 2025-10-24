@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Liquidmetal, and why has Apple been interested in it for a decade?](https://appleinsider.com/articles/25/10/24/what-is-liquidmetal-and-why-has-apple-been-interested-in-it-for-a-decade?utm_source=rss)
- - [Tether CEO Paolo Ardoino says the company expects to earn close to $15B in profit in 2025, up from around $13B in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251024/p12#a251024p12)
- - [Wyze’s new battery video doorbell undercuts Google’s latest Nest model by more than $100](https://www.androidauthority.com/wyze-battery-video-doorbell-3610027/)<!-- TECH:END -->
+ - [Eufy’s X10 Pro Omni robovac is matching its Prime Day low for a limited time](https://www.theverge.com/tech/806364/eufy-x10-pro-omni-robot-vacuum-mop-amazon-deal-sale)
+ - [Aspiring content creators should get this DJI Mic 2 deal!](https://www.androidauthority.com/dji-mic-2-deal-3-3609965/)
+ - [Neato’s cloud is shutting down, leaving its robovacs stuck in manual mode](https://www.theverge.com/news/806246/neato-robovac-cloud-shutdown)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
