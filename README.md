@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Edge’s new Copilot Mode turns on more AI features](https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch)
- - [Nintendo&amp;#8217;s chips make this Lego Game Boy upgrade kit the most authentic](https://www.theverge.com/games/805673/nintendos-chips-make-this-lego-game-boy-upgrade-kit-the-most-authentic)
- - [EA strikes a partnership with Stability AI to build game developer tools that serve as &quot;smarter paintbrushes&quot; &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251023/p50#a251023p50)<!-- TECH:END -->
+ - [How iCloud backups helped expose a mob-and NBA-linked poker cheating scandal](https://appleinsider.com/articles/25/10/24/how-icloud-backups-helped-expose-a-mob-and-nba-linked-poker-cheating-scandal?utm_source=rss)
+ - [US Energy Secretary Chris Wright urges FERC to limit the process for connecting data centers to power grids to 60 days, a process that typically takes years &lpar;Bloomberg&rpar;](http://www.techmeme.com/251023/p53#a251023p53)
+ - [The ‘Surge’ of Troops May Not Come to San Francisco, but the City Is Ready Anyway](https://www.wired.com/story/san-francisco-troops-protests-ice/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
