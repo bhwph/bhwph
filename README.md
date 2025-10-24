@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Elite Series 2 Core Controller Is Selling Fast as Amazon Clears Out Stock at an All-Time Low](https://kotaku.com/xbox-elite-series-2-core-controller-is-selling-fast-as-amazon-clears-out-stock-at-an-all-time-low-2000638568)
- - [This inventive 2024 slasher will shock and disturb even the most jaded horror fans](https://www.polygon.com/in-a-violent-nature-horror-movies-streaming-2025/)
- - [&#39;Everything is on the table&#39;: Trump administration reportedly considering curbs on exports made using US software to China](https://www.pcgamer.com/software/everything-is-on-the-table-trump-administration-reportedly-considering-curbs-on-exports-made-using-us-software-to-china/)<!-- GAME:END -->
+ - [Pumped up kicks: Nike&#39;s prototype powered footwear system aims to be &#39;a second set of calf muscles&#39; to give everyday athletes a real-life sprint mode](https://www.pcgamer.com/hardware/pumped-up-kicks-nikes-prototype-powered-footwear-system-aims-to-be-a-second-set-of-calf-muscles-to-give-everyday-athletes-a-real-life-sprint-mode/)
+ - [This eufy C10 Self-Emptying Robot Vacuum Drops Over 50%, Practically Free Compared to Dyson](https://kotaku.com/this-eufy-c10-self-emptying-robot-vacuum-drops-over-50-practically-free-compared-to-dyson-2000638356)
+ - [A Duck With A Gun Has Replaced Battlefield 6 In The Top 5 Most-Played Steam Games](https://kotaku.com/escape-from-duckov-battlefield-6-bf6-steam-extraction-2000638836)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
