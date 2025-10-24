@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It Took Me Eight Years To Discover My Favorite Switch Feature](https://kotaku.com/switch-2-hidden-shortcut-screen-brightness-2000638888)
- - [Pokémon Legends Z-A fans are holding on to Bois the Heracross for good reason](https://www.polygon.com/pokemon-legends-za-heracross-bois-mega-evolution-trade-fandom/)
- - [D.Va&#39;s Boosters make her the ultimate flying tank](https://www.polygon.com/skill-check-dvas-boosters-make-her-the-ultimate-flying-tank/)<!-- GAME:END -->
+ - [Halo Combat Evolved Remake Leaks, Includes New Weapons, 4 Player Co-Op And More](https://kotaku.com/halo-1-remake-combat-evolved-trailer-hwc-teaser-xbox-ps5-2000638911)
+ - [EA is making Battlefield 6 challenges less horrendous, but due to &#39;the scale of challenges,&#39; it&#39;ll take a while](https://www.pcgamer.com/games/fps/ea-is-making-battlefield-6-challenges-less-horrendous-but-due-to-the-scale-of-challenges-itll-take-a-while/)
+ - [Last Halloween&#39;s &#39;spooky&#39; Discord notifications confused so many people that it added a pop-up explaining them this year](https://www.pcgamer.com/hardware/gaming-audio/last-halloweens-spooky-discord-notifications-confused-so-many-people-that-it-added-a-pop-up-explaining-them-this-year/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
