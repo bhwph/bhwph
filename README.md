@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I wouldn&#39;t trust her either, tbh](http://9gag.com/gag/aND8KjA)
- - 😝 [Just to make this clear](http://9gag.com/gag/aPAzyqG)
- - 👉 [A man was enjoying a quiet coffee with his daughter at Starbucks. Bunch of women thought he was a predator with an underage girl, spread the photos on Facebook,created groups to track him, get his employment details etc, till someone told them that they are father and daughter](http://9gag.com/gag/a9yZLro)<!-- MEMES:END -->
+ - 6️⃣ [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
+ - 😝 [A man was enjoying a quiet coffee with his daughter at Starbucks. Bunch of women thought he was a predator with an underage girl, spread the photos on Facebook,created groups to track him, get his employment details etc, till someone told them that they are father and daughter](http://9gag.com/gag/a9yZLro)
+ - 👉 [King fruit](http://9gag.com/gag/a34eL78)<!-- MEMES:END -->
 
 --- 
 
