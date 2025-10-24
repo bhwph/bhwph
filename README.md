@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
- - 😝 [A man was enjoying a quiet coffee with his daughter at Starbucks. Bunch of women thought he was a predator with an underage girl, spread the photos on Facebook,created groups to track him, get his employment details etc, till someone told them that they are father and daughter](http://9gag.com/gag/a9yZLro)
- - 👉 [King fruit](http://9gag.com/gag/a34eL78)<!-- MEMES:END -->
+ - 😝 [Self written joke](http://9gag.com/gag/azxoENN)
+ - 👉 [Just to make this clear](http://9gag.com/gag/aPAzyqG)<!-- MEMES:END -->
 
 --- 
 
