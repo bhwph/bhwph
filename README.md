@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Instruments of Destruction Explodes onto Xbox Series X|S Today](https://news.xbox.com/en-us/2025/10/24/instruments-of-destruction-explodes-onto-xbox-series-xs-today/)
- - [Today&#39;s Wordle clues, hints and answer for October 24 &lpar;#1588&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-24-2025/)
- - [Xbox boss Phil Spencer says &#39;nurturing and protecting creative teams that want to go take risks&#39; is the priority, admits &#39;we don&#39;t always succeed at that&#39;](https://www.pcgamer.com/gaming-industry/xbox-boss-phil-spencer-says-nurturing-and-protecting-creative-teams-that-want-to-go-take-risks-is-the-priority-admits-we-dont-always-succeed-at-that/)<!-- GAME:END -->
+ - [Xbox Elite Series 2 Core Controller Is Selling Fast as Amazon Clears Out Stock at an All-Time Low](https://kotaku.com/xbox-elite-series-2-core-controller-is-selling-fast-as-amazon-clears-out-stock-at-an-all-time-low-2000638568)
+ - [This inventive 2024 slasher will shock and disturb even the most jaded horror fans](https://www.polygon.com/in-a-violent-nature-horror-movies-streaming-2025/)
+ - [&#39;Everything is on the table&#39;: Trump administration reportedly considering curbs on exports made using US software to China](https://www.pcgamer.com/software/everything-is-on-the-table-trump-administration-reportedly-considering-curbs-on-exports-made-using-us-software-to-china/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
