@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Gaming Headsets for Xbox, PS5, Switch, and PC &lpar;2025&rpar;](https://www.wired.com/gallery/best-gaming-headsets/)
- - [OpenAI launches a &quot;company knowledge&quot; ChatGPT update to let Business, Enterprise, and Education users search for data in connected apps like Slack and GitHub &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251024/p9#a251024p9)
- - [DJI’s new Osmo Mobile 8 adds pet tracking and 360-degree camera pans](https://www.theverge.com/news/806093/dji-osmo-mobile-8-smartphone-gimbal-tracking-module)<!-- TECH:END -->
+ - [What is Liquidmetal, and why has Apple been interested in it for a decade?](https://appleinsider.com/articles/25/10/24/what-is-liquidmetal-and-why-has-apple-been-interested-in-it-for-a-decade?utm_source=rss)
+ - [Tether CEO Paolo Ardoino says the company expects to earn close to $15B in profit in 2025, up from around $13B in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251024/p12#a251024p12)
+ - [Wyze’s new battery video doorbell undercuts Google’s latest Nest model by more than $100](https://www.androidauthority.com/wyze-battery-video-doorbell-3610027/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
