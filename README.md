@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That looks expensive](http://9gag.com/gag/aQzBnLq)
- - 😝 [Finally some good news](http://9gag.com/gag/apRzvrW)
- - 👉 [I wouldn&#39;t trust her either, tbh](http://9gag.com/gag/aND8KjA)<!-- MEMES:END -->
+ - 6️⃣ [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
+ - 😝 [From the Achives](http://9gag.com/gag/aXPQwEd)
+ - 👉 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)<!-- MEMES:END -->
 
 --- 
 
