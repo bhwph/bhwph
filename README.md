@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He is genuine shocked](http://9gag.com/gag/aVv4XzP)
- - 😝 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
- - 👉 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)<!-- MEMES:END -->
+ - 6️⃣ [Autumn \ud83c\udf41](http://9gag.com/gag/ayNZdWY)
+ - 😝 [Teachers reacting to their myspace era](http://9gag.com/gag/aGy6RrX)
+ - 👉 [Chonky](http://9gag.com/gag/aW4P6P2)<!-- MEMES:END -->
 
 --- 
 
