@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Autumn \ud83c\udf41](http://9gag.com/gag/ayNZdWY)
- - 😝 [Teachers reacting to their myspace era](http://9gag.com/gag/aGy6RrX)
- - 👉 [Chonky](http://9gag.com/gag/aW4P6P2)<!-- MEMES:END -->
+ - 6️⃣ [That looks expensive](http://9gag.com/gag/aQzBnLq)
+ - 😝 [Finally some good news](http://9gag.com/gag/apRzvrW)
+ - 👉 [I wouldn&#39;t trust her either, tbh](http://9gag.com/gag/aND8KjA)<!-- MEMES:END -->
 
 --- 
 
