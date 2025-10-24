@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Philippine government made him pay the bail, then placed his trial on hold... Indefinitely &lpar;For forever&rpar;](http://9gag.com/gag/aD2rme9)
- - 😝 [Self written joke](http://9gag.com/gag/azxoENN)
- - 👉 [Wth happened?!](http://9gag.com/gag/amoK8Qo)<!-- MEMES:END -->
+ - 6️⃣ [Wth happened?!](http://9gag.com/gag/amoK8Qo)
+ - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
+ - 👉 [The Philippine government made him pay the bail, then placed his trial on hold... Indefinitely &lpar;For forever&rpar;](http://9gag.com/gag/aD2rme9)<!-- MEMES:END -->
 
 --- 
 
