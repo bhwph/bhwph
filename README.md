@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pumped up kicks: Nike&#39;s prototype powered footwear system aims to be &#39;a second set of calf muscles&#39; to give everyday athletes a real-life sprint mode](https://www.pcgamer.com/hardware/pumped-up-kicks-nikes-prototype-powered-footwear-system-aims-to-be-a-second-set-of-calf-muscles-to-give-everyday-athletes-a-real-life-sprint-mode/)
- - [This eufy C10 Self-Emptying Robot Vacuum Drops Over 50%, Practically Free Compared to Dyson](https://kotaku.com/this-eufy-c10-self-emptying-robot-vacuum-drops-over-50-practically-free-compared-to-dyson-2000638356)
- - [A Duck With A Gun Has Replaced Battlefield 6 In The Top 5 Most-Played Steam Games](https://kotaku.com/escape-from-duckov-battlefield-6-bf6-steam-extraction-2000638836)<!-- GAME:END -->
+ - [8BitDo Pro 3 review](https://www.pcgamer.com/hardware/controllers/8bitdo-pro-3-review/)
+ - [Battlefield 6 Is Making Its In-Game Challenges A Lot Less Annoying](https://kotaku.com/battlefield-6-challenges-grind-injector-30-kills-change-season-one-update-ea-2000638854)
+ - [Quantum computing might get a morsel of the financial love the Trump administration gave Intel, as the US government reportedly considers becoming a shareholder in several companies](https://www.pcgamer.com/hardware/quantum-computing-might-get-a-morsel-of-the-financial-love-the-trump-administration-gave-intel-as-the-us-government-reportedly-considers-becoming-a-shareholder-in-several-companies/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
