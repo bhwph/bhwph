@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [8BitDo Pro 3 review](https://www.pcgamer.com/hardware/controllers/8bitdo-pro-3-review/)
- - [Battlefield 6 Is Making Its In-Game Challenges A Lot Less Annoying](https://kotaku.com/battlefield-6-challenges-grind-injector-30-kills-change-season-one-update-ea-2000638854)
- - [Quantum computing might get a morsel of the financial love the Trump administration gave Intel, as the US government reportedly considers becoming a shareholder in several companies](https://www.pcgamer.com/hardware/quantum-computing-might-get-a-morsel-of-the-financial-love-the-trump-administration-gave-intel-as-the-us-government-reportedly-considers-becoming-a-shareholder-in-several-companies/)<!-- GAME:END -->
+ - [It Took Me Eight Years To Discover My Favorite Switch Feature](https://kotaku.com/switch-2-hidden-shortcut-screen-brightness-2000638888)
+ - [Pokémon Legends Z-A fans are holding on to Bois the Heracross for good reason](https://www.polygon.com/pokemon-legends-za-heracross-bois-mega-evolution-trade-fandom/)
+ - [D.Va&#39;s Boosters make her the ultimate flying tank](https://www.polygon.com/skill-check-dvas-boosters-make-her-the-ultimate-flying-tank/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
