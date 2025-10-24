@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Last year’s £1,300 Xperia 1 VI just got its penultimate Android OS update](https://www.androidauthority.com/sony-xperia-1-vi-android-16-3609882/)
- - [One UI 8.5 could ensure you never miss an important notification](https://www.androidauthority.com/samsung-one-ui-8-5-prioritize-notifications-3609870/)
- - [The Pixel 10 Pro is great, but here’s why I’m sticking with the Pixel 9 Pro](https://www.androidauthority.com/pixel-9-pro-just-as-good-pixel-10-pro-3608734/)<!-- TECH:END -->
+ - [Sources: banks are preparing to launch a $38B debt sale to fund Oracle data centers, including $23.25B for a Texas data center and $14.75B for a Wisconsin site &lpar;Jeannine Amodeo/Bloomberg&rpar;](http://www.techmeme.com/251024/p8#a251024p8)
+ - [Best Laptop Stands &lpar;2025&rpar;: 25+ Models Tested and Reviewed](https://www.wired.com/gallery/best-laptop-stands/)
+ - [ChatGPT enters the browser wars](https://www.theverge.com/podcast/806031/chatgpt-atlas-ai-browser-wars-vergecast-warner-bros-discovery-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
