@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eufy’s X10 Pro Omni robovac is matching its Prime Day low for a limited time](https://www.theverge.com/tech/806364/eufy-x10-pro-omni-robot-vacuum-mop-amazon-deal-sale)
- - [Aspiring content creators should get this DJI Mic 2 deal!](https://www.androidauthority.com/dji-mic-2-deal-3-3609965/)
- - [Neato’s cloud is shutting down, leaving its robovacs stuck in manual mode](https://www.theverge.com/news/806246/neato-robovac-cloud-shutdown)<!-- TECH:END -->
+ - [DJI’s excellent Osmo Pocket 3 is over $200 off in its first sale since tariffs](https://www.theverge.com/tech/806400/dji-osmo-pocket-3-creator-combo-deal-sale-price-after-tariffs)
+ - [Source: President Trump has picked Michael Selig, the chief counsel for the SEC&#39;s crypto task force, to chair the CFTC, amid a crypto push &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/251024/p17#a251024p17)
+ - [Nothing attempts to justify its move to put bloatware on your next phone](https://www.androidauthority.com/nothing-phone-third-party-partner-apps-3610093/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
