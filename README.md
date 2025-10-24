@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keep it or ditch it? Here’s what Pixel 10 Pro Fold owners are deciding](https://www.androidauthority.com/pixel-10-pro-fold-user-feedback-3609816/)
- - [Does Your Internet Connection Feel Slower Than It Should Be? Here’s How to Test It and Use the Result](https://www.cnet.com/home/internet/does-your-internet-connection-feel-slow-heres-how-to-test-it/#ftag=CAD590a51e)
- - [A US judge says Meta lawyers told staff to block or remove parts of internal teen mental health research to limit liability; Meta says no findings were removed &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/251023/p56#a251023p56)<!-- TECH:END -->
+ - [Samsung allows bootloader unlocking on Galaxy XR after killing it on phones](https://www.androidauthority.com/samsung-galaxy-xr-bootloader-unlocking-3609841/)
+ - [ChatGPT’s Atlas browser is already prepping a post-launch glow-up](https://www.androidauthority.com/chatgpt-atlas-browser-new-features-3609848/)
+ - [Snapdragon 6s Gen 4 revealed: Budget phones just got a gaming, emulation boost](https://www.androidauthority.com/snapdragon-6s-gen-4-3609820/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
