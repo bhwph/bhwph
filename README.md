@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
- - 😝 [King fruit](http://9gag.com/gag/a34eL78)
- - 👉 [He is genuine shocked](http://9gag.com/gag/aVv4XzP)<!-- MEMES:END -->
+ - 6️⃣ [Finally some good news](http://9gag.com/gag/apRzvrW)
+ - 😝 [Self written joke](http://9gag.com/gag/azxoENN)
+ - 👉 [Just to make this clear](http://9gag.com/gag/aPAzyqG)<!-- MEMES:END -->
 
 --- 
 
