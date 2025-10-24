@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Combat Evolved Remake Leaks, Includes New Weapons, 4 Player Co-Op And More](https://kotaku.com/halo-1-remake-combat-evolved-trailer-hwc-teaser-xbox-ps5-2000638911)
- - [EA is making Battlefield 6 challenges less horrendous, but due to &#39;the scale of challenges,&#39; it&#39;ll take a while](https://www.pcgamer.com/games/fps/ea-is-making-battlefield-6-challenges-less-horrendous-but-due-to-the-scale-of-challenges-itll-take-a-while/)
- - [Last Halloween&#39;s &#39;spooky&#39; Discord notifications confused so many people that it added a pop-up explaining them this year](https://www.pcgamer.com/hardware/gaming-audio/last-halloweens-spooky-discord-notifications-confused-so-many-people-that-it-added-a-pop-up-explaining-them-this-year/)<!-- GAME:END -->
+ - [Electronic Arts signs a deal with Stability AI: &#39;We’re evolving how we work so that AI becomes a trusted ally&#39;](https://www.pcgamer.com/software/ai/electronic-arts-signs-a-deal-with-stability-ai-were-evolving-how-we-work-so-that-ai-becomes-a-trusted-ally/)
+ - [Xbox fully surrenders the console wars: &#39;Halo is on PlayStation going forward,&#39; a fact that just doesn&#39;t seem real](https://www.pcgamer.com/games/halo/xbox-fully-surrenders-the-console-wars-halo-is-on-playstation-going-forward-a-fact-that-just-doesnt-seem-real/)
+ - [Should you pick the Crabble Claw or Raptidon Fin for Inez&#39;s graft in Outer Worlds 2?](https://www.polygon.com/outer-worlds-2-inez-graft-choice-crabble-claw-raptidon-fin/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
