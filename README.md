@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
- - 😝 [Self written joke](http://9gag.com/gag/azxoENN)
- - 👉 [Just to make this clear](http://9gag.com/gag/aPAzyqG)<!-- MEMES:END -->
+ - 6️⃣ [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
+ - 😝 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
+ - 👉 [Good night sleep tight and sweet dreams](http://9gag.com/gag/ary9KZB)<!-- MEMES:END -->
 
 --- 
 
