@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
+ - 6️⃣ [Man want only one thing and it&#39;s d!sgusting!](http://9gag.com/gag/a9yZ7K0)
  - 😝 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
- - 👉 [Good night sleep tight and sweet dreams](http://9gag.com/gag/ary9KZB)<!-- MEMES:END -->
+ - 👉 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)<!-- MEMES:END -->
 
 --- 
 
