@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dispatch is a Telltale game for management sim nerds](https://www.polygon.com/dispatch-impressions-episodes-1-2/)
- - [Why you need to watch The Shining before It: Welcome to Derry](https://www.polygon.com/it-welcome-to-derry-stephen-king-movie-the-shining/)
- - [Skyrim&#39;s shouts are therapy in RPG form](https://www.polygon.com/skyrim-shouts-therapy-rpg/)<!-- GAME:END -->
+ - [Skill Check: Hitman&#39;s distraction mechanic shows other stealth games who&#39;s boss](https://www.polygon.com/hitman-distraction-world-of-assassination/)
+ - [One Yu-Gi-Oh card is the cornerstone of my strategy — and always will be](https://www.polygon.com/yu-gi-oh-magic-card-strategy/)
+ - [Dispatch&#39;s superheroic efforts have changed my mind about its episodic release schedule](https://www.pcgamer.com/games/adventure/dispatchs-superheroic-efforts-have-changed-my-mind-about-its-episodic-release-schedule/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
