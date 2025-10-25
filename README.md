@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy’s stories and gameplay depend on one crucial skill](https://www.polygon.com/final-fantasy-summoning/)
- - [Today&#39;s Wordle clues, hints and answer for October 25 &lpar;#1589&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-25-2025/)
- - [Vermintide&#39;s developers only realized they were wading into a cursed subgenre after they started making a first-person melee game: &#39;I was so scared&#39;](https://www.pcgamer.com/games/action/vermintides-developers-only-realized-they-were-wading-into-a-cursed-subgenre-after-they-started-making-a-first-person-melee-game-i-was-so-scared/)<!-- GAME:END -->
+ - [Unicorn Wars redefines &quot;not for children&quot; animation in gruesome, memorable ways](https://www.polygon.com/unicorn-wars-horror-best-animated-movies-for-adults/)
+ - [3 movie masterpieces you can watch for free on Tubi right now](https://www.polygon.com/movie-masterpieces-free-watch-tubi/)
+ - [Battlefield had a messy predecessor, Codename Eagle, that predates even DICE’s involvement in the series](https://www.pcgamer.com/games/fps/battlefield-had-a-messy-predecessor-codename-eagle-that-predates-even-dices-involvement-in-the-series/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
