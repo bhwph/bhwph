@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [From the Achives](http://9gag.com/gag/aXPQwEd)
- - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
- - 👉 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)<!-- MEMES:END -->
+ - 6️⃣ [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
+ - 😝 [I wouldn&#39;t trust her either, tbh](http://9gag.com/gag/aND8KjA)
+ - 👉 [Michael Myers tries to return a purse to a nice lady](http://9gag.com/gag/aO8AVBy)<!-- MEMES:END -->
 
 --- 
 
