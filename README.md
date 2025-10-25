@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is the Galaxy XR really an Apple Vision Pro killer?](https://www.androidauthority.com/authority-insights-podcast-010-3609795/)
- - [Google Chrome is the worst browser for non-techies — here’s why](https://www.androidauthority.com/google-chrome-worst-browser-non-techies-3609185/)
- - [Google is working on another huge multitasking upgrade for Android tablets](https://www.androidauthority.com/android-tablets-drag-to-bubble-gesture-3610159/)<!-- TECH:END -->
+ - [ICE is building a social media panopticon](https://www.theverge.com/policy/806425/ice-social-media-surveillance-free-speech-assault)
+ - [Sources: OpenAI is developing AI tools to generate music from text and audio prompts, including capabilities such as adding guitar accompaniment to vocal tracks &lpar;The Information&rpar;](http://www.techmeme.com/251025/p9#a251025p9)
+ - [Foxconn plans to expand AirPods production in India](https://appleinsider.com/articles/25/10/25/foxconn-plans-to-expand-airpods-production-in-india?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
