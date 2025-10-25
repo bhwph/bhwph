@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Glasgow-based Chemify, which combines AI with robotics and chemistry to rapidly make novel molecules for pharmaceutical companies, raised a $50M Series B &lpar;Alex Scott/Chemical &amp; Engineering News&rpar;](http://www.techmeme.com/251025/p12#a251025p12)
  - [Tech left teens fighting over scraps, and now it wants those too](https://www.theverge.com/report/806728/tech-left-teens-fighting-over-scraps-robots-taking-jobs)
- - [Pave Bank, which lets businesses manage both fiat and digital assets in real time, raised a $39M Series A led by Accel, with Tether and others participating &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/251025/p11#a251025p11)
- - [Premier League Soccer: Stream Brentford vs. Liverpool Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-brentford-vs-liverpool-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pave Bank, which lets businesses manage both fiat and digital assets in real time, raised a $39M Series A led by Accel, with Tether and others participating &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/251025/p11#a251025p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
