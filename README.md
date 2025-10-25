@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Final Fantasy’s stories and gameplay depend on one crucial skill](https://www.polygon.com/final-fantasy-summoning/)
  - [Today&#39;s Wordle clues, hints and answer for October 25 &lpar;#1589&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-25-2025/)
- - [Vermintide&#39;s developers only realized they were wading into a cursed subgenre after they started making a first-person melee game: &#39;I was so scared&#39;](https://www.pcgamer.com/games/action/vermintides-developers-only-realized-they-were-wading-into-a-cursed-subgenre-after-they-started-making-a-first-person-melee-game-i-was-so-scared/)
- - [Don&#39;t expect Vermintide 3 any time soon, as Fatshark plans to keep supporting the existing game: &#39;Vermintide will keep on going&#39;](https://www.pcgamer.com/games/action/dont-expect-vermintide-3-any-time-soon-as-fatshark-plans-to-keep-supporting-the-existing-game-vermintide-will-keep-on-going/)<!-- GAME:END -->
+ - [Vermintide&#39;s developers only realized they were wading into a cursed subgenre after they started making a first-person melee game: &#39;I was so scared&#39;](https://www.pcgamer.com/games/action/vermintides-developers-only-realized-they-were-wading-into-a-cursed-subgenre-after-they-started-making-a-first-person-melee-game-i-was-so-scared/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
