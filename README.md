@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oreo maker Mondelez has spent $40M+ on an AI tool, developed with Publicis and Accenture, to cut costs for the production of marketing content by 30% to 50% &lpar;Jessica DiNapoli/Reuters&rpar;](http://www.techmeme.com/251024/p22#a251024p22)
- - [Sam Altman’s next startup eyes using sound waves to read your brain](https://www.theverge.com/column/806666/sam-altman-merge-labs-brain-computer-interface-startup-hire)
- - [Why Starlink Sends So Many Copyright Warnings to Its Users](https://www.cnet.com/home/internet/why-starlink-sends-so-many-copyright-warnings-to-its-users/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bored Ape Yacht Club is making a comeback — as a metaverse](https://www.theverge.com/tech/806492/bored-ape-yacht-club-bayc-crypto-metaverse-otherside-yuga-labs)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Oct. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-oct-25/#ftag=CAD590a51e)
+ - [Oreo maker Mondelez has spent $40M+ on an AI tool, developed with Publicis and Accenture, to cut costs for the production of marketing content by 30% to 50% &lpar;Jessica DiNapoli/Reuters&rpar;](http://www.techmeme.com/251024/p22#a251024p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
