@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skill Check: Hitman&#39;s distraction mechanic shows other stealth games who&#39;s boss](https://www.polygon.com/hitman-distraction-world-of-assassination/)
- - [One Yu-Gi-Oh card is the cornerstone of my strategy — and always will be](https://www.polygon.com/yu-gi-oh-magic-card-strategy/)
- - [Dispatch&#39;s superheroic efforts have changed my mind about its episodic release schedule](https://www.pcgamer.com/games/adventure/dispatchs-superheroic-efforts-have-changed-my-mind-about-its-episodic-release-schedule/)<!-- GAME:END -->
+ - [How Halo 2&#39;s E3 demo changed everything](https://www.polygon.com/dual-weilding-mechanic-halo2-e3-demo/)
+ - [Vampire in Brooklyn at 30: Wes Craven and Eddie Murphy&#39;s underrated horror masterpiece](https://www.polygon.com/wes-craven-vampire-in-brooklyn-30th-anniversary/)
+ - [The Outer Worlds 2 has a helmet that makes it look like an arcade game, including an &#39;insert coins to continue&#39; option](https://www.pcgamer.com/games/rpg/outer-worlds-2-new-point-of-view-mk2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
