@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [An enthusiast built a camera capable of capturing 2 BILLION frames per second\u2014and it was able to capture the movement of light.](http://9gag.com/gag/amoKzMd)
- - 😝 [So that&#39;s the portal to Beastie Boy videos](http://9gag.com/gag/aZZopPW)
- - 👉 [Finally some good news](http://9gag.com/gag/apRzvrW)<!-- MEMES:END -->
+ - 6️⃣ [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
+ - 😝 [9gaggers won\u2019t be able to relate](http://9gag.com/gag/an78N3z)
+ - 👉 [Busting makes him feel good...](http://9gag.com/gag/ayNZ8YM)<!-- MEMES:END -->
 
 --- 
 
