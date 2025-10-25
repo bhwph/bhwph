@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
- - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
- - 👉 [The Philippine government made him pay the bail, then placed his trial on hold... Indefinitely &lpar;For forever&rpar;](http://9gag.com/gag/aD2rme9)<!-- MEMES:END -->
+ - 6️⃣ [From the Achives](http://9gag.com/gag/aXPQwEd)
+ - 😝 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
+ - 👉 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)<!-- MEMES:END -->
 
 --- 
 
