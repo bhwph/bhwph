@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Mattresses for Sex &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-for-sex/)
- - [I tried switching an eSIM from my Android phone, and it was still a nightmare](https://www.androidauthority.com/switching-esim-in-2025-still-hard-3609017/)
- - [OpenAI Atlas Browser Hands On: I’m Not Convinced the Web Needs a Chatbot Tour Guide](https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/)<!-- TECH:END -->
+ - [Is the Galaxy XR really an Apple Vision Pro killer?](https://www.androidauthority.com/authority-insights-podcast-010-3609795/)
+ - [Google Chrome is the worst browser for non-techies — here’s why](https://www.androidauthority.com/google-chrome-worst-browser-non-techies-3609185/)
+ - [Google is working on another huge multitasking upgrade for Android tablets](https://www.androidauthority.com/android-tablets-drag-to-bubble-gesture-3610159/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
