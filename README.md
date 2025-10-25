@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini’s Canvas tool can now turn your doc into a full presentation in seconds](https://www.androidauthority.com/gemini-canvas-presentations-3610150/)
- - [Sources detail how Sam Altman, Jensen Huang, Marc Benioff, and others brokered a call between SF Mayor Daniel Lurie and Trump to stop National Guard deployment &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251024/p20#a251024p20)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 25, #397](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-25-397/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oreo maker Mondelez has spent $40M+ on an AI tool, developed with Publicis and Accenture, to cut costs for the production of marketing content by 30% to 50% &lpar;Jessica DiNapoli/Reuters&rpar;](http://www.techmeme.com/251024/p22#a251024p22)
+ - [Sam Altman’s next startup eyes using sound waves to read your brain](https://www.theverge.com/column/806666/sam-altman-merge-labs-brain-computer-interface-startup-hire)
+ - [Why Starlink Sends So Many Copyright Warnings to Its Users](https://www.cnet.com/home/internet/why-starlink-sends-so-many-copyright-warnings-to-its-users/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
