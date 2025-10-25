@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PowerWash Simulator 2 introduces a new tool that makes washing mud from a billboard more enjoyable than ever](https://www.pcgamer.com/games/sim/powerwash-simulator-2-introduces-a-new-tool-that-makes-washing-mud-from-a-billboard-more-enjoyable-than-ever/)
- - [AirPods Pro With ANC Are Going for Pennies, Now 3x Cheaper Than the AirPods Max](https://kotaku.com/airpods-pro-with-anc-are-going-for-pennies-now-3x-cheaper-than-the-airpods-max-2000638986)
- - [This 2TB Laptop Is 75% Off on Amazon, Dell Quietly Drops $2,700 From the Original Price](https://kotaku.com/this-2tb-laptop-is-75-off-on-amazon-dell-quietly-drops-2700-from-the-original-price-2000638980)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for October 25 &lpar;#1589&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-25-2025/)
+ - [Vermintide&#39;s developers only realized they were wading into a cursed subgenre after they started making a first-person melee game: &#39;I was so scared&#39;](https://www.pcgamer.com/games/action/vermintides-developers-only-realized-they-were-wading-into-a-cursed-subgenre-after-they-started-making-a-first-person-melee-game-i-was-so-scared/)
+ - [Don&#39;t expect Vermintide 3 any time soon, as Fatshark plans to keep supporting the existing game: &#39;Vermintide will keep on going&#39;](https://www.pcgamer.com/games/action/dont-expect-vermintide-3-any-time-soon-as-fatshark-plans-to-keep-supporting-the-existing-game-vermintide-will-keep-on-going/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
