@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Glasgow-based Chemify, which combines AI with robotics and chemistry to rapidly make novel molecules for pharmaceutical companies, raised a $50M Series B &lpar;Alex Scott/Chemical &amp; Engineering News&rpar;](http://www.techmeme.com/251025/p12#a251025p12)
- - [Tech left teens fighting over scraps, and now it wants those too](https://www.theverge.com/report/806728/tech-left-teens-fighting-over-scraps-robots-taking-jobs)
- - [Pave Bank, which lets businesses manage both fiat and digital assets in real time, raised a $39M Series A led by Accel, with Tether and others participating &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/251025/p11#a251025p11)<!-- TECH:END -->
+ - [Kyrgyzstan launches a national stablecoin and a CBDC in partnership with Binance; CZ says a national cryptocurrency reserve includes Binance&#39;s BNB token &lpar;Aigerim Turgunbaeva/Reuters&rpar;](http://www.techmeme.com/251025/p13#a251025p13)
+ - [When to Watch &#39;The Fantastic Four: First Steps&#39; on Disney Plus](https://www.cnet.com/tech/services-and-software/when-to-watch-the-fantastic-four-first-steps-on-disney-plus/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 26, #868](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-26-868/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
