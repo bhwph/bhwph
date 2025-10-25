@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [From the Achives](http://9gag.com/gag/aXPQwEd)
- - 😝 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
- - 👉 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)<!-- MEMES:END -->
+ - 6️⃣ [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
+ - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
+ - 👉 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)<!-- MEMES:END -->
 
 --- 
 
