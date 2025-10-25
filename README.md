@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice](http://9gag.com/gag/abAK0mB)
- - 😝 [Just a little guy.](http://9gag.com/gag/agm6qmW)
- - 👉 [Old school hip hop is king.](http://9gag.com/gag/aGy6DbK)<!-- MEMES:END -->
+ - 6️⃣ [What Thee??](http://9gag.com/gag/awyPnrQ)
+ - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
+ - 👉 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)<!-- MEMES:END -->
 
 --- 
 
