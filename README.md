@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch CEO Dan Clancy apologizes for TwitchCon assault of Emiru and his interview comments on the incident: &#39;We failed, both in allowing it to occur, and in our response following&#39;](https://www.pcgamer.com/gaming-industry/twitch-ceo-dan-clancy-apologizes-for-twitchcon-assault-of-emiru-and-his-interview-comments-on-the-incident-we-failed-both-in-allowing-it-to-occur-and-in-our-response-following/)
- - [Somehow, Heroes of Newerth returned: One of the first standalone MOBAs is back, but fans are mixed on its new look and bizarre launcher](https://www.pcgamer.com/games/moba/somehow-heroes-of-newerth-returned-one-of-the-first-standalone-mobas-is-back-but-fans-are-mixed-on-its-new-look-and-bizarre-launcher/)
- - [Spooky Express is a Halloween delight, and you can try it for free](https://www.polygon.com/spooky-express-halloween-games/)<!-- GAME:END -->
+ - [A game jam game about pudgy chainsmoking dads seems to be Steam&#39;s latest co-op hit, hitting 100,000 concurrent players on its first weekend](https://www.pcgamer.com/games/adventure/a-game-jam-game-about-pudgy-chainsmoking-dads-seems-to-be-steams-latest-co-op-hit-hitting-100-000-concurrent-players-on-its-first-weekend/)
+ - [The multi-billion dollar, 15-hour AWS outage that brought the internet to its knees last week was apparently caused by a single software bug](https://www.pcgamer.com/software/the-multi-billion-dollar-15-hour-aws-outage-that-brought-the-internet-to-its-knees-last-week-was-apparently-caused-by-a-single-software-bug/)
+ - [Europa Universalis lead Johan Andersson says Paradox&#39;s DLC model has been &#39;pretty f***ing great&#39;: &#39;You decide what&#39;s going in, you decide the scope, you decide exactly when you can release&#39;](https://www.pcgamer.com/games/strategy/europa-universalis-lead-johan-andersson-says-paradoxs-dlc-model-has-been-pretty-f-ing-great-you-decide-whats-going-in-you-decide-the-scope-you-decide-exactly-when-you-can-release/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
