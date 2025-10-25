@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
- - 😝 [I wouldn&#39;t trust her either, tbh](http://9gag.com/gag/aND8KjA)
- - 👉 [Michael Myers tries to return a purse to a nice lady](http://9gag.com/gag/aO8AVBy)<!-- MEMES:END -->
+ - 6️⃣ [I wouldn&#39;t trust her either, tbh](http://9gag.com/gag/aND8KjA)
+ - 😝 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
+ - 👉 [Busting makes him feel good...](http://9gag.com/gag/ayNZ8YM)<!-- MEMES:END -->
 
 --- 
 
