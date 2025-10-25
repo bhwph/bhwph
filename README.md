@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unicorn Wars redefines &quot;not for children&quot; animation in gruesome, memorable ways](https://www.polygon.com/unicorn-wars-horror-best-animated-movies-for-adults/)
- - [3 movie masterpieces you can watch for free on Tubi right now](https://www.polygon.com/movie-masterpieces-free-watch-tubi/)
- - [Battlefield had a messy predecessor, Codename Eagle, that predates even DICE’s involvement in the series](https://www.pcgamer.com/games/fps/battlefield-had-a-messy-predecessor-codename-eagle-that-predates-even-dices-involvement-in-the-series/)<!-- GAME:END -->
+ - [Dispatch is a Telltale game for management sim nerds](https://www.polygon.com/dispatch-impressions-episodes-1-2/)
+ - [Why you need to watch The Shining before It: Welcome to Derry](https://www.polygon.com/it-welcome-to-derry-stephen-king-movie-the-shining/)
+ - [Skyrim&#39;s shouts are therapy in RPG form](https://www.polygon.com/skyrim-shouts-therapy-rpg/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
