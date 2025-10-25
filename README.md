@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Couples Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-couples-sex-toys/)
- - [Ready to Ride? These Are the Best Exercise Bikes of 2025, Tested by a Fitness Expert](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)
- - [How Changpeng Zhao&#39;s pardon frees him to refocus on reclaiming ground in the US market, where Binance.US only has a 0.75% share of bitcoin trading volume &lpar;Bloomberg&rpar;](http://www.techmeme.com/251025/p6#a251025p6)<!-- TECH:END -->
+ - [Best Mattresses for Sex &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-for-sex/)
+ - [I tried switching an eSIM from my Android phone, and it was still a nightmare](https://www.androidauthority.com/switching-esim-in-2025-still-hard-3609017/)
+ - [OpenAI Atlas Browser Hands On: I’m Not Convinced the Web Needs a Chatbot Tour Guide](https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
