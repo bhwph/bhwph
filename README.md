@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Electronic Arts signs a deal with Stability AI: &#39;We’re evolving how we work so that AI becomes a trusted ally&#39;](https://www.pcgamer.com/software/ai/electronic-arts-signs-a-deal-with-stability-ai-were-evolving-how-we-work-so-that-ai-becomes-a-trusted-ally/)
- - [Xbox fully surrenders the console wars: &#39;Halo is on PlayStation going forward,&#39; a fact that just doesn&#39;t seem real](https://www.pcgamer.com/games/halo/xbox-fully-surrenders-the-console-wars-halo-is-on-playstation-going-forward-a-fact-that-just-doesnt-seem-real/)
- - [Should you pick the Crabble Claw or Raptidon Fin for Inez&#39;s graft in Outer Worlds 2?](https://www.polygon.com/outer-worlds-2-inez-graft-choice-crabble-claw-raptidon-fin/)<!-- GAME:END -->
+ - [PowerWash Simulator 2 introduces a new tool that makes washing mud from a billboard more enjoyable than ever](https://www.pcgamer.com/games/sim/powerwash-simulator-2-introduces-a-new-tool-that-makes-washing-mud-from-a-billboard-more-enjoyable-than-ever/)
+ - [AirPods Pro With ANC Are Going for Pennies, Now 3x Cheaper Than the AirPods Max](https://kotaku.com/airpods-pro-with-anc-are-going-for-pennies-now-3x-cheaper-than-the-airpods-max-2000638986)
+ - [This 2TB Laptop Is 75% Off on Amazon, Dell Quietly Drops $2,700 From the Original Price](https://kotaku.com/this-2tb-laptop-is-75-off-on-amazon-dell-quietly-drops-2700-from-the-original-price-2000638980)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
