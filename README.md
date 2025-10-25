@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Halo 2&#39;s E3 demo changed everything](https://www.polygon.com/dual-weilding-mechanic-halo2-e3-demo/)
- - [Vampire in Brooklyn at 30: Wes Craven and Eddie Murphy&#39;s underrated horror masterpiece](https://www.polygon.com/wes-craven-vampire-in-brooklyn-30th-anniversary/)
- - [The Outer Worlds 2 has a helmet that makes it look like an arcade game, including an &#39;insert coins to continue&#39; option](https://www.pcgamer.com/games/rpg/outer-worlds-2-new-point-of-view-mk2/)<!-- GAME:END -->
+ - [Twitch CEO Dan Clancy apologizes for TwitchCon assault of Emiru and his interview comments on the incident: &#39;We failed, both in allowing it to occur, and in our response following&#39;](https://www.pcgamer.com/gaming-industry/twitch-ceo-dan-clancy-apologizes-for-twitchcon-assault-of-emiru-and-his-interview-comments-on-the-incident-we-failed-both-in-allowing-it-to-occur-and-in-our-response-following/)
+ - [Somehow, Heroes of Newerth returned: One of the first standalone MOBAs is back, but fans are mixed on its new look and bizarre launcher](https://www.pcgamer.com/games/moba/somehow-heroes-of-newerth-returned-one-of-the-first-standalone-mobas-is-back-but-fans-are-mixed-on-its-new-look-and-bizarre-launcher/)
+ - [Spooky Express is a Halloween delight, and you can try it for free](https://www.polygon.com/spooky-express-halloween-games/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
