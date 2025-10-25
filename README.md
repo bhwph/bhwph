@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [9gaggers won\u2019t be able to relate](http://9gag.com/gag/an78N3z)
- - 😝 [An enthusiast built a camera capable of capturing 2 BILLION frames per second\u2014and it was able to capture the movement of light.](http://9gag.com/gag/amoKzMd)
- - 👉 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)<!-- MEMES:END -->
+ - 6️⃣ [Nice](http://9gag.com/gag/abAK0mB)
+ - 😝 [Just a little guy.](http://9gag.com/gag/agm6qmW)
+ - 👉 [Old school hip hop is king.](http://9gag.com/gag/aGy6DbK)<!-- MEMES:END -->
 
 --- 
 
