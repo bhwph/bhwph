@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi says surging memory chip prices have raised the cost of making smartphones, after pricing of its new Redmi K90 series disappointed Chinese consumers &lpar;Reuters&rpar;](http://www.techmeme.com/251025/p5#a251025p5)
- - [Grab is investing an undisclosed amount in May Mobility as part of a multiyear deal, which includes bringing robotaxis to Southeast Asia as soon as 2026 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251025/p4#a251025p4)
- - [Shares of Japanese optical fiber maker Fujikura are up ~171% YTD, outpacing the Nikkei&#39;s 22% and lifting its market cap to $33B+ amid the AI data center boom &lpar;Junko Fujita/Reuters&rpar;](http://www.techmeme.com/251025/p3#a251025p3)<!-- TECH:END -->
+ - [6 Best Couples Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-couples-sex-toys/)
+ - [Ready to Ride? These Are the Best Exercise Bikes of 2025, Tested by a Fitness Expert](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)
+ - [How Changpeng Zhao&#39;s pardon frees him to refocus on reclaiming ground in the US market, where Binance.US only has a 0.75% share of bitcoin trading volume &lpar;Bloomberg&rpar;](http://www.techmeme.com/251025/p6#a251025p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
