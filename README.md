@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ICE is building a social media panopticon](https://www.theverge.com/policy/806425/ice-social-media-surveillance-free-speech-assault)
- - [Sources: OpenAI is developing AI tools to generate music from text and audio prompts, including capabilities such as adding guitar accompaniment to vocal tracks &lpar;The Information&rpar;](http://www.techmeme.com/251025/p9#a251025p9)
- - [Foxconn plans to expand AirPods production in India](https://appleinsider.com/articles/25/10/25/foxconn-plans-to-expand-airpods-production-in-india?utm_source=rss)<!-- TECH:END -->
+ - [A profile of Wikipedia co-founder Larry Sanger, who left in 2002 and whose claims that Wikipedia has a liberal bias are fueling the right&#39;s campaign against it &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/251025/p10#a251025p10)
+ - [AirTags and cheap gaming laptops headline our favorite deals this week](https://www.theverge.com/tech/806174/apple-airtag-hulu-with-live-tv-deal-sale)
+ - [What does nearly $6,000 of gaming laptop get you?](https://www.theverge.com/tech/806052/msi-titan-18-ai-rtx-5090-gaming-laptop-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
