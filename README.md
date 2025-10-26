@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disco Elysium&#39;s Visual Calculus makes you feel like a real detective](https://www.polygon.com/disco-elysium-skills-visual-calculus/)
- - [Before Paradox became king of grand strategy, it made a Baldur&#39;s Gate-inspired RPG doomed by &#39;bugs, many and diverse, some more interesting than the gameplay&#39;](https://www.pcgamer.com/games/before-paradox-became-king-of-grand-strategy-it-made-a-baldurs-gate-inspired-rpg-doomed-by-bugs-many-and-diverse-some-more-interesting-than-the-gameplay/)
- - [Black Phone 2 writer: Everyone &#39;is a Christian&#39; when they watch horror movies](https://www.polygon.com/black-phone-2-writer-horror-movie-audiences-are-christians/)<!-- GAME:END -->
+ - [Trails of Cold Steel uses ultimate skills as character arcs](https://www.polygon.com/emma-millstein-trails-of-cold-steel-series/)
+ - [Before Twilight, there was The Little Vampire](https://www.polygon.com/before-twilight-there-was-the-little-vampire/)
+ - [It&#39;s Helldivers 2&#39;s Liberty Day, so break out your shovels and play Arrowhead&#39;s patriotic new Whack-a-Terminid browser game before it&#39;s gone](https://www.pcgamer.com/games/action/its-helldivers-2s-liberty-day-so-break-out-your-shovels-and-play-arrowheads-patriotic-new-whack-a-terminid-browser-game-before-its-gone/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
