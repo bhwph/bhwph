@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
- - 😝 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
- - 👉 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)<!-- MEMES:END -->
+ - 6️⃣ [He didn&#39;t choose it. It chose him](http://9gag.com/gag/aE0yRqx)
+ - 😝 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
+ - 👉 [Salman Alabama](http://9gag.com/gag/aD2rj6G)<!-- MEMES:END -->
 
 --- 
 
