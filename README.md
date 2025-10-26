@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ultra Chad](http://9gag.com/gag/adBrqpB)
- - 😝 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
- - 👉 [Best glue ever](http://9gag.com/gag/a5Qvnpr)<!-- MEMES:END -->
+ - 6️⃣ [Best glue ever](http://9gag.com/gag/a5Qvnpr)
+ - 😝 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
+ - 👉 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)<!-- MEMES:END -->
 
 --- 
 
