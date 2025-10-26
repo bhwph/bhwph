@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He didn&#39;t choose it. It chose him](http://9gag.com/gag/aE0yRqx)
- - 😝 [Health care](http://9gag.com/gag/apRzL8b)
- - 👉 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)<!-- MEMES:END -->
+ - 6️⃣ [Best glue ever](http://9gag.com/gag/a5Qvnpr)
+ - 😝 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
+ - 👉 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)<!-- MEMES:END -->
 
 --- 
 
