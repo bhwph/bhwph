@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D&#39;s Epic Level Handbook still rules, 20 years later](https://www.polygon.com/dungeons-and-dragons-epic-spellcasting/)
- - [The Outer Worlds 2&#39;s weirdest weapon is a flashing rainbow sword that turns combat into a rhythm game I&#39;m terrible at](https://www.pcgamer.com/games/outer-worlds-2-spectrum-dance-saber/)
- - [Pokémon Legends: Z-A Mega Evolutions, broken down by zodiac signs](https://www.polygon.com/pokemon-legends-za-mega-evolution-zodiac-astrology/)<!-- GAME:END -->
+ - [Disco Elysium&#39;s Visual Calculus makes you feel like a real detective](https://www.polygon.com/disco-elysium-skills-visual-calculus/)
+ - [Before Paradox became king of grand strategy, it made a Baldur&#39;s Gate-inspired RPG doomed by &#39;bugs, many and diverse, some more interesting than the gameplay&#39;](https://www.pcgamer.com/games/before-paradox-became-king-of-grand-strategy-it-made-a-baldurs-gate-inspired-rpg-doomed-by-bugs-many-and-diverse-some-more-interesting-than-the-gameplay/)
+ - [Black Phone 2 writer: Everyone &#39;is a Christian&#39; when they watch horror movies](https://www.polygon.com/black-phone-2-writer-horror-movie-audiences-are-christians/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
