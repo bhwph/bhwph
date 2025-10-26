@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Artemis: $10B+ was moved through stablecoins in August, up from $6B in February and more than double YoY, following President Trump&#39;s signing of the Genius Act &lpar;Judy Lagrou/Bloomberg&rpar;](http://www.techmeme.com/251026/p14#a251026p14)
  - [Flare Audio Sonic Lens review: A five-millimeter experiment in over-engineering](https://appleinsider.com/articles/25/10/26/flare-audio-sonic-lens-review-a-five-millimeter-experiment-in-over-engineering?utm_source=rss)
- - [Treasury Secretary Scott Bessent says Trump and Xi will &quot;consummate&quot; a TikTok deal on Thursday in South Korea, confirming a final US-China agreement on the sale &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/251026/p13#a251026p13)
- - [Q&amp;A with Zocdoc CEO Oliver Kharraz on the patient scheduling platform&#39;s telehealth expansion, its policy of not providing medical advice through AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251026/p12#a251026p12)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 27, #869](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-27-869/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
