@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
+ - 6️⃣ [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
  - 😝 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
- - 👉 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)<!-- MEMES:END -->
+ - 👉 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)<!-- MEMES:END -->
 
 --- 
 
