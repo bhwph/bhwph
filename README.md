@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Trails of Cold Steel uses ultimate skills as character arcs](https://www.polygon.com/emma-millstein-trails-of-cold-steel-series/)
- - [Before Twilight, there was The Little Vampire](https://www.polygon.com/before-twilight-there-was-the-little-vampire/)
- - [It&#39;s Helldivers 2&#39;s Liberty Day, so break out your shovels and play Arrowhead&#39;s patriotic new Whack-a-Terminid browser game before it&#39;s gone](https://www.pcgamer.com/games/action/its-helldivers-2s-liberty-day-so-break-out-your-shovels-and-play-arrowheads-patriotic-new-whack-a-terminid-browser-game-before-its-gone/)<!-- GAME:END -->
+ - [It: Welcome to Derry fixes one of the worst scenes from the movies](https://www.polygon.com/it-welcome-to-derry-shokopiwah-tribe-explained/)
+ - [Europa Universalis 2&#39;s launch was a desperate gambit for Paradox&#39;s survival: &#39;It needs to be done so it&#39;s sold in the US market before Christmas, because we need the money else we cannot pay people&#39;](https://www.pcgamer.com/games/strategy/europa-universalis-2s-launch-was-a-desperate-gambit-for-paradoxs-survival-it-needs-to-be-done-so-its-sold-in-the-us-market-before-christmas-because-we-need-the-money-else-we-cannot-pay-people/)
+ - [Tina Romero&#39;s Queens of the Dead captures her father&#39;s political spirit](https://www.polygon.com/queens-of-the-dead-political-message-romero-zombie-films/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
