@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It: Welcome to Derry fixes one of the worst scenes from the movies](https://www.polygon.com/it-welcome-to-derry-shokopiwah-tribe-explained/)
- - [Europa Universalis 2&#39;s launch was a desperate gambit for Paradox&#39;s survival: &#39;It needs to be done so it&#39;s sold in the US market before Christmas, because we need the money else we cannot pay people&#39;](https://www.pcgamer.com/games/strategy/europa-universalis-2s-launch-was-a-desperate-gambit-for-paradoxs-survival-it-needs-to-be-done-so-its-sold-in-the-us-market-before-christmas-because-we-need-the-money-else-we-cannot-pay-people/)
- - [Tina Romero&#39;s Queens of the Dead captures her father&#39;s political spirit](https://www.polygon.com/queens-of-the-dead-political-message-romero-zombie-films/)<!-- GAME:END -->
+ - [New EcoFlow Delta 3 Goes for Peanuts, Amazon Clears Out 4.7-Rated Portable Power Station](https://kotaku.com/new-ecoflow-delta-3-goes-for-peanuts-amazon-clears-out-4-7-rated-portable-power-station-2000639124)
+ - [Sony Quietly Liquidates XM4 Stock at New Record Low, Amazon Just Sold 10K Units](https://kotaku.com/sony-quietly-liquidates-xm4-stock-at-new-record-low-amazon-just-sold-10k-units-2000639122)
+ - [Dyson Dumps Supersonic Hair Dryer Stock, Now Selling for Pennies Against What Salons Charge](https://kotaku.com/dyson-dumps-supersonic-hair-dryer-stock-now-selling-for-pennies-against-what-salons-charge-2000639117)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
