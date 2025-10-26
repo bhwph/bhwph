@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best glue ever](http://9gag.com/gag/a5Qvnpr)
+ - 6️⃣ [Ultra Chad](http://9gag.com/gag/adBrqpB)
  - 😝 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
- - 👉 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)<!-- MEMES:END -->
+ - 👉 [Best glue ever](http://9gag.com/gag/a5Qvnpr)<!-- MEMES:END -->
 
 --- 
 
