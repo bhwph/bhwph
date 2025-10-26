@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These 8 Hidden Health Benefits of Green Tea Will Make You Put Your Coffee Down](https://www.cnet.com/health/nutrition/hidden-health-benefits-green-tea-make-put-coffee-down/#ftag=CAD590a51e)
- - [The US AI data center boom is consuming capital, power, and people that the rest of the economy needs, and is crowding out Trump&#39;s manufacturing revival plans &lpar;Bloomberg&rpar;](http://www.techmeme.com/251026/p5#a251026p5)
- - [Google Home’s latest update fixes annoying bugs you probably noticed after the big revamp](https://www.androidauthority.com/google-home-4-1-update-3610178/)<!-- TECH:END -->
+ - [I use YouTube daily and the new video UI is driving me nuts](https://www.androidauthority.com/new-youtube-ui-mess-3609732/)
+ - [A First Ride With the Maeving RM2 Electric Motorcycle](https://www.wired.com/story/maeving-rm2-electric-motorcycle/)
+ - [If the Galaxy S26 leaks are true, I’d tell small phone fans to buy this instead](https://www.androidauthority.com/samsung-galaxy-s26-leaks-true-buy-this-phone-3608871/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
