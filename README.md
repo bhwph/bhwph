@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These 8 Hidden Health Benefits of Green Tea Will Make You Put Your Coffee Down](https://www.cnet.com/health/nutrition/hidden-health-benefits-green-tea-make-put-coffee-down/#ftag=CAD590a51e)
  - [The US AI data center boom is consuming capital, power, and people that the rest of the economy needs, and is crowding out Trump&#39;s manufacturing revival plans &lpar;Bloomberg&rpar;](http://www.techmeme.com/251026/p5#a251026p5)
- - [Google Home’s latest update fixes annoying bugs you probably noticed after the big revamp](https://www.androidauthority.com/google-home-4-1-update-3610178/)
- - [Defakto, which lets enterprises secure automated interactions between internal systems and AI agents or other non-human actors, raised a $30.75M Series B &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251026/p4#a251026p4)<!-- TECH:END -->
+ - [Google Home’s latest update fixes annoying bugs you probably noticed after the big revamp](https://www.androidauthority.com/google-home-4-1-update-3610178/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
