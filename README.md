@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This stylish found-footage film takes a dark, surprising look at possession](https://www.polygon.com/late-night-with-the-devil-halloween-what-to-stream-horror/)
- - [Today&#39;s Wordle clues, hints and answer for October 26 &lpar;#1590&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-26-2025/)
- - [Darktide&#39;s narrative will be expanded as part of future updates: &#39;We are definitely going to be adding to the story of the game&#39;](https://www.pcgamer.com/games/fps/darktides-narrative-will-be-expanded-as-part-of-future-updates-we-are-definitely-going-to-be-adding-to-the-story-of-the-game/)<!-- GAME:END -->
+ - [D&amp;D&#39;s Epic Level Handbook still rules, 20 years later](https://www.polygon.com/dungeons-and-dragons-epic-spellcasting/)
+ - [The Outer Worlds 2&#39;s weirdest weapon is a flashing rainbow sword that turns combat into a rhythm game I&#39;m terrible at](https://www.pcgamer.com/games/outer-worlds-2-spectrum-dance-saber/)
+ - [Pokémon Legends: Z-A Mega Evolutions, broken down by zodiac signs](https://www.polygon.com/pokemon-legends-za-mega-evolution-zodiac-astrology/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
