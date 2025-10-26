@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
- - 😝 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
+ - 6️⃣ [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
+ - 😝 [He didn&#39;t choose it. It chose him](http://9gag.com/gag/aE0yRqx)
  - 👉 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)<!-- MEMES:END -->
 
 --- 
