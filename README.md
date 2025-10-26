@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This stylish found-footage film takes a dark, surprising look at possession](https://www.polygon.com/late-night-with-the-devil-halloween-what-to-stream-horror/)
  - [Today&#39;s Wordle clues, hints and answer for October 26 &lpar;#1590&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-26-2025/)
- - [Darktide&#39;s narrative will be expanded as part of future updates: &#39;We are definitely going to be adding to the story of the game&#39;](https://www.pcgamer.com/games/fps/darktides-narrative-will-be-expanded-as-part-of-future-updates-we-are-definitely-going-to-be-adding-to-the-story-of-the-game/)
- - [A game jam game about pudgy chainsmoking dads seems to be Steam&#39;s latest co-op hit, hitting 100,000 concurrent players on its first weekend](https://www.pcgamer.com/games/adventure/a-game-jam-game-about-pudgy-chainsmoking-dads-seems-to-be-steams-latest-co-op-hit-hitting-100-000-concurrent-players-on-its-first-weekend/)<!-- GAME:END -->
+ - [Darktide&#39;s narrative will be expanded as part of future updates: &#39;We are definitely going to be adding to the story of the game&#39;](https://www.pcgamer.com/games/fps/darktides-narrative-will-be-expanded-as-part-of-future-updates-we-are-definitely-going-to-be-adding-to-the-story-of-the-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
