@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Darktide&#39;s narrative will be expanded as part of future updates: &#39;We are definitely going to be adding to the story of the game&#39;](https://www.pcgamer.com/games/fps/darktides-narrative-will-be-expanded-as-part-of-future-updates-we-are-definitely-going-to-be-adding-to-the-story-of-the-game/)
  - [A game jam game about pudgy chainsmoking dads seems to be Steam&#39;s latest co-op hit, hitting 100,000 concurrent players on its first weekend](https://www.pcgamer.com/games/adventure/a-game-jam-game-about-pudgy-chainsmoking-dads-seems-to-be-steams-latest-co-op-hit-hitting-100-000-concurrent-players-on-its-first-weekend/)
- - [The multi-billion dollar, 15-hour AWS outage that brought the internet to its knees last week was apparently caused by a single software bug](https://www.pcgamer.com/software/the-multi-billion-dollar-15-hour-aws-outage-that-brought-the-internet-to-its-knees-last-week-was-apparently-caused-by-a-single-software-bug/)
- - [Europa Universalis lead Johan Andersson says Paradox&#39;s DLC model has been &#39;pretty f***ing great&#39;: &#39;You decide what&#39;s going in, you decide the scope, you decide exactly when you can release&#39;](https://www.pcgamer.com/games/strategy/europa-universalis-lead-johan-andersson-says-paradoxs-dlc-model-has-been-pretty-f-ing-great-you-decide-whats-going-in-you-decide-the-scope-you-decide-exactly-when-you-can-release/)<!-- GAME:END -->
+ - [The multi-billion dollar, 15-hour AWS outage that brought the internet to its knees last week was apparently caused by a single software bug](https://www.pcgamer.com/software/the-multi-billion-dollar-15-hour-aws-outage-that-brought-the-internet-to-its-knees-last-week-was-apparently-caused-by-a-single-software-bug/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
