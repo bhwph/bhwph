@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Nest Cam Indoor and Outdoor 2K Review: Slick, Smart, and Secure](https://www.wired.com/review/google-nest-cam-indoor-outdoor-2k-2025/)
- - [You Still Shouldn’t Use a Browser Password Manager](https://www.wired.com/story/browser-password-managers/)
- - [iPad Pro rumored to get iPhone 17 Pro vapor chamber cooling in early 2027](https://appleinsider.com/articles/25/10/26/ipad-pro-rumored-to-get-iphone-17-pro-vapor-chamber-cooling-in-early-2027?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Apple is working on a vapor chamber for the next iPad Pro in 2027 and plans to start selling ads in its Maps app as early as next year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251026/p8#a251026p8)
+ - [iPad Pro rumored to get iPhone 17 Pro vapor chamber cooling in early 2027](https://appleinsider.com/articles/25/10/26/ipad-pro-rumored-to-get-iphone-17-pro-vapor-chamber-cooling-in-early-2027?utm_source=rss)
+ - [Best GoPro Camera &lpar;2025&rpar;: Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
