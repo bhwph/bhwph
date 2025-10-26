@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is working on a vapor chamber for the next iPad Pro in 2027 and plans to start selling ads in its Maps app as early as next year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251026/p8#a251026p8)
- - [iPad Pro rumored to get iPhone 17 Pro vapor chamber cooling in early 2027](https://appleinsider.com/articles/25/10/26/ipad-pro-rumored-to-get-iphone-17-pro-vapor-chamber-cooling-in-early-2027?utm_source=rss)
- - [Best GoPro Camera &lpar;2025&rpar;: Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)<!-- TECH:END -->
+ - [You need to listen to the brutally oppressive I’ve Seen All I Need to See](https://www.theverge.com/column/806767/you-need-to-listen-to-the-body-ive-seen-all-i-need-to-see)
+ - [Best Internet Providers in New Jersey](https://www.cnet.com/home/internet/best-internet-providers-in-new-jersey/#ftag=CAD590a51e)
+ - [Swift releases Swift SDK preview for Android, allowing developers to build Android apps in Swift and making it easier to share code across iOS and Android &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/251026/p10#a251026p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
