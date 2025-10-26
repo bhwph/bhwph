@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
- - 😝 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
- - 👉 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)<!-- MEMES:END -->
+ - 6️⃣ [The big naturals](http://9gag.com/gag/ary9bO0)
+ - 😝 [So, he just nuked CS skin marketplace overnight.](http://9gag.com/gag/a87QpYe)
+ - 👉 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)<!-- MEMES:END -->
 
 --- 
 
