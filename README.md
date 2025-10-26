@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I use YouTube daily and the new video UI is driving me nuts](https://www.androidauthority.com/new-youtube-ui-mess-3609732/)
- - [A First Ride With the Maeving RM2 Electric Motorcycle](https://www.wired.com/story/maeving-rm2-electric-motorcycle/)
- - [If the Galaxy S26 leaks are true, I’d tell small phone fans to buy this instead](https://www.androidauthority.com/samsung-galaxy-s26-leaks-true-buy-this-phone-3608871/)<!-- TECH:END -->
+ - [Google Nest Cam Indoor and Outdoor 2K Review: Slick, Smart, and Secure](https://www.wired.com/review/google-nest-cam-indoor-outdoor-2k-2025/)
+ - [You Still Shouldn’t Use a Browser Password Manager](https://www.wired.com/story/browser-password-managers/)
+ - [iPad Pro rumored to get iPhone 17 Pro vapor chamber cooling in early 2027](https://appleinsider.com/articles/25/10/26/ipad-pro-rumored-to-get-iphone-17-pro-vapor-chamber-cooling-in-early-2027?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
