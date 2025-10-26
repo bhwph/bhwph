@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He didn&#39;t choose it. It chose him](http://9gag.com/gag/aE0yRqx)
- - 😝 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
- - 👉 [Salman Alabama](http://9gag.com/gag/aD2rj6G)<!-- MEMES:END -->
+ - 6️⃣ [Salman Alabama](http://9gag.com/gag/aD2rj6G)
+ - 😝 [Ultra Chad](http://9gag.com/gag/adBrqpB)
+ - 👉 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)<!-- MEMES:END -->
 
 --- 
 
