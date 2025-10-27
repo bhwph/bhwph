@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anker’s New 160W Prime Charger Just Hit Record Low for the First Time, and It’s Already Running Low on Stock](https://kotaku.com/ankers-new-160w-prime-charger-just-hit-record-low-for-the-first-time-and-its-already-running-low-on-stock-2000639096)
- - [The Outer Worlds 2 Mocks You For Buying The $100 Version](https://kotaku.com/outer-worlds-2-obsidian-flaws-consumerism-skip-dialogue-2000639250)
- - [The best horror games to play over Halloween](https://www.pcgamer.com/games/horror/best-halloween-horror-games/)<!-- GAME:END -->
+ - [Halo Gets Sucked Into ICE’s Recruitment Meme War](https://kotaku.com/department-homeland-security-halo-ice-pokemon-video-dhs-2000639308)
+ - [Guillermo del Toro’s Frankenstein monster design was inspired by C-3PO](https://www.polygon.com/guillermo-del-toro-frankenstein-monster-design-c3po/)
+ - [The Battlefield 6 battle royale mode, Redsec, is out with BF6 season 1](https://www.polygon.com/battlefield-6-battle-royale-release-date-redsec-free-to-play/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
