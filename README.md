@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
- - 😝 [He didn&#39;t choose it. It chose him](http://9gag.com/gag/aE0yRqx)
- - 👉 [Deer Friend](http://9gag.com/gag/aE0yBnK)<!-- MEMES:END -->
+ - 6️⃣ [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - 😝 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
+ - 👉 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)<!-- MEMES:END -->
 
 --- 
 
