@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well well well](http://9gag.com/gag/azxoXpq)
+ - 6️⃣ [Nice shot](http://9gag.com/gag/awyPQQ1)
  - 😝 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
- - 👉 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)<!-- MEMES:END -->
+ - 👉 [Good quality tents](http://9gag.com/gag/aE0yxOM)<!-- MEMES:END -->
 
 --- 
 
