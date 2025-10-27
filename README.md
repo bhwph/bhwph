@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The rumored new title for Sonic 4 is wild](https://www.polygon.com/sonic-the-hedgehog-4-movie-title-rumor/)
- - [JBL Drops the Charge 6 to Record Low, 28-Hour Waterproof Speaker Now Going for Peanuts](https://kotaku.com/jbl-drops-the-charge-6-to-record-low-28-hour-waterproof-speaker-now-going-for-peanuts-2000639223)
- - [Black Friday gaming laptop deals 2025: The best discounts on laptops at every size and power level](https://www.pcgamer.com/black-friday-gaming-laptop-deals/)<!-- GAME:END -->
+ - [Anker’s New 160W Prime Charger Just Hit Record Low for the First Time, and It’s Already Running Low on Stock](https://kotaku.com/ankers-new-160w-prime-charger-just-hit-record-low-for-the-first-time-and-its-already-running-low-on-stock-2000639096)
+ - [The Outer Worlds 2 Mocks You For Buying The $100 Version](https://kotaku.com/outer-worlds-2-obsidian-flaws-consumerism-skip-dialogue-2000639250)
+ - [The best horror games to play over Halloween](https://www.pcgamer.com/games/horror/best-halloween-horror-games/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
