@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
+ - 6️⃣ [Well well well](http://9gag.com/gag/azxoXpq)
  - 😝 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
- - 👉 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)<!-- MEMES:END -->
+ - 👉 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)<!-- MEMES:END -->
 
 --- 
 
