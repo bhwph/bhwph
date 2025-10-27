@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for October 27 &lpar;#1591&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-27-2025/)
- - [The GOAT of Elden Ring weapon mods made it so we can actually use the sick golden ghost weapons Margit killed us with so many times](https://www.pcgamer.com/games/rpg/the-goat-of-elden-ring-weapon-mods-made-it-so-we-can-actually-use-the-sick-golden-ghost-weapons-margit-killed-us-with-so-many-times/)
- - [Five new Steam games you probably missed &lpar;October 27, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-october-27-2025/)<!-- GAME:END -->
+ - [The rumored new title for Sonic 4 is wild](https://www.polygon.com/sonic-the-hedgehog-4-movie-title-rumor/)
+ - [JBL Drops the Charge 6 to Record Low, 28-Hour Waterproof Speaker Now Going for Peanuts](https://kotaku.com/jbl-drops-the-charge-6-to-record-low-28-hour-waterproof-speaker-now-going-for-peanuts-2000639223)
+ - [Black Friday gaming laptop deals 2025: The best discounts on laptops at every size and power level](https://www.pcgamer.com/black-friday-gaming-laptop-deals/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
