@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Citigroup and Coinbase say they are exploring on-chain stablecoin payments and simpler crypto-fiat transfers for Citi&#39;s institutional clients &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251027/p22#a251027p22)
- - [Meta launches &quot;ghost posts&quot; on Threads, letting users share &quot;unfiltered thoughts&quot; in posts that disappear after 24 hours; replies will appear as a DM &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/251027/p21#a251027p21)
- - [Qualcomm is turning parts from cellphone chips into AI chips to rival Nvidia](https://www.theverge.com/news/807078/qualcomm-ai-chips-launch-hexagon-npus)<!-- TECH:END -->
+ - [GM isn’t ready to rip off the CarPlay/Android Auto band-aid quite yet](https://www.theverge.com/news/807189/gm-isnt-ready-to-rip-off-the-carplay-android-auto-band-aid-quite-yet)
+ - [Filing: iRobot says its last potential buyer withdrew from the process and its financials remain dire, following Amazon abandoning a 2024 bid; IRBT drops 33%+ &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251027/p29#a251027p29)
+ - [Sources: Microsoft&#39;s next Xbox will run Windows, letting users play PlayStation titles on Steam and the full Xbox console library, without a multiplayer paywall &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/251027/p28#a251027p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
