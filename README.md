@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New EcoFlow Delta 3 Goes for Peanuts, Amazon Clears Out 4.7-Rated Portable Power Station](https://kotaku.com/new-ecoflow-delta-3-goes-for-peanuts-amazon-clears-out-4-7-rated-portable-power-station-2000639124)
- - [Sony Quietly Liquidates XM4 Stock at New Record Low, Amazon Just Sold 10K Units](https://kotaku.com/sony-quietly-liquidates-xm4-stock-at-new-record-low-amazon-just-sold-10k-units-2000639122)
- - [Dyson Dumps Supersonic Hair Dryer Stock, Now Selling for Pennies Against What Salons Charge](https://kotaku.com/dyson-dumps-supersonic-hair-dryer-stock-now-selling-for-pennies-against-what-salons-charge-2000639117)<!-- GAME:END -->
+ - [The GOAT of Elden Ring weapon mods made it so we can actually use the sick golden ghost weapons Margit killed us with so many times](https://www.pcgamer.com/games/rpg/the-goat-of-elden-ring-weapon-mods-made-it-so-we-can-actually-use-the-sick-golden-ghost-weapons-margit-killed-us-with-so-many-times/)
+ - [Five new Steam games you probably missed &lpar;October 27, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-october-27-2025/)
+ - [Emergency dispatch simulator 911 Operator is free on Steam for a limited time](https://www.pcgamer.com/games/sim/emergency-dispatch-simulator-911-operator-is-free-on-steam-for-a-limited-time/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
