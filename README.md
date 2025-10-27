@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Gets Sucked Into ICE’s Recruitment Meme War](https://kotaku.com/department-homeland-security-halo-ice-pokemon-video-dhs-2000639308)
- - [Guillermo del Toro’s Frankenstein monster design was inspired by C-3PO](https://www.polygon.com/guillermo-del-toro-frankenstein-monster-design-c3po/)
- - [The Battlefield 6 battle royale mode, Redsec, is out with BF6 season 1](https://www.polygon.com/battlefield-6-battle-royale-release-date-redsec-free-to-play/)<!-- GAME:END -->
+ - [EA employees are reportedly frustrated by a mandate to use AI, mocking the policy in Slack and suspecting it&#39;s being used as justification for layoffs](https://www.pcgamer.com/gaming-industry/ea-employees-are-reportedly-frustrated-by-a-mandate-to-use-ai-mocking-the-policy-in-slack-and-suspecting-its-being-used-as-justification-for-layoffs/)
+ - [Pokémon Legends: Z-A Has A Terrifying Death Trap Fans Keep Warning Others To Avoid](https://kotaku.com/pokemon-legends-za-wild-zone-17-pyroar-alpha-memes-2000639332)
+ - [Chainsaw Man movie box office: Sony dominates the weekend with another anime blockbuster](https://www.polygon.com/chainsaw-man-movie-reze-arc-box-office-weekend-premiere/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
