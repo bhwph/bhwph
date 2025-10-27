@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - 😝 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
- - 👉 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)<!-- MEMES:END -->
+ - 6️⃣ [Legend ^_^](http://9gag.com/gag/aoyAOvx)
+ - 😝 [Be a good listener](http://9gag.com/gag/avy4GLM)
+ - 👉 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)<!-- MEMES:END -->
 
 --- 
 
