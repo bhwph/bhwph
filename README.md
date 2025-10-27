@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Halloween Candy, Ranked From Worst To Best](https://kotaku.com/halloween-candy-ranking-worst-best-list-chocolate-bar-1851679251)
- - [Where to buy berries in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-za-plza-berry-shop-locations-where-to-buy/)
- - [Halo’s Controversial Level ‘The Library’ Is Great The Way It Is](https://kotaku.com/halo-combat-evolved-remake-the-library-2000639359)<!-- GAME:END -->
+ - [Netflix Is Reportedly Making A Crash Bandicoot Series And He Better Not Talk](https://kotaku.com/netflix-making-crash-bandicoot-animated-series-talking-report-cartoon-2000639396)
+ - [Here&#39;s the Battlefield Redsec release time for your region](https://www.pcgamer.com/games/fps/battlefield-redsec-release-date-launch-times/)
+ - [&#39;Arbitrary Measures&#39; quest walkthrough in The Outer Worlds 2](https://www.polygon.com/outer-worlds-2-arbitrary-measures-quest-walkthrough-tristan/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
