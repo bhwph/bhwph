@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Upgrade your Apple Home with the compact retrofit Nuki Smart Lock](https://appleinsider.com/articles/25/10/27/upgrade-your-apple-home-with-the-compact-retrofit-nuki-smart-lock?utm_source=rss)
- - [iPhone Air production change orders may not be true](https://appleinsider.com/articles/25/10/27/iphone-air-production-change-orders-may-not-be-true?utm_source=rss)
- - [If you can’t afford a vacation, an AI app will sell you pictures of one](https://www.theverge.com/ai-artificial-intelligence/806486/if-you-cant-afford-a-vacation-an-ai-app-will-sell-you-pictures-of-one)<!-- TECH:END -->
+ - [Citigroup and Coinbase say they are exploring on-chain stablecoin payments and simpler crypto-fiat transfers for Citi&#39;s institutional clients &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251027/p22#a251027p22)
+ - [Meta launches &quot;ghost posts&quot; on Threads, letting users share &quot;unfiltered thoughts&quot; in posts that disappear after 24 hours; replies will appear as a DM &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/251027/p21#a251027p21)
+ - [Qualcomm is turning parts from cellphone chips into AI chips to rival Nvidia](https://www.theverge.com/news/807078/qualcomm-ai-chips-launch-hexagon-npus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
