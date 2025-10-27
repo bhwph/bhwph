@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM isn’t ready to rip off the CarPlay/Android Auto band-aid quite yet](https://www.theverge.com/news/807189/gm-isnt-ready-to-rip-off-the-carplay-android-auto-band-aid-quite-yet)
- - [Filing: iRobot says its last potential buyer withdrew from the process and its financials remain dire, following Amazon abandoning a 2024 bid; IRBT drops 33%+ &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251027/p29#a251027p29)
- - [Sources: Microsoft&#39;s next Xbox will run Windows, letting users play PlayStation titles on Steam and the full Xbox console library, without a multiplayer paywall &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/251027/p28#a251027p28)<!-- TECH:END -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [The All-Clad Pizza Oven Is $800 Off Right Now](https://www.wired.com/story/all-clad-pizza-oven-deal-october-2025/)
+ - [The Best Deals From the All-Clad Factory Seconds Sale on Kitchen Essentials &lpar;2025&rpar;](https://www.wired.com/story/all-clad-sale-october-2025/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
