@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Bill Ready, who became Pinterest&#39;s CEO in 2022, about changes during his tenure, winning over Gen Z, Pinterest&#39;s business model, AI content, and more &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/251027/p5#a251027p5)
- - [Samsung’s tri-fold may launch very soon, but miss a key market](https://www.androidauthority.com/samsung-galaxy-tri-fold-launch-soon-3610249/)
- - [An interview with Mauro Porcini, who became Samsung&#39;s first Chief Design Officer in April, about creating a &quot;consistent experience&quot; across devices, and more &lpar;Verity Burns/Wired&rpar;](http://www.techmeme.com/251027/p4#a251027p4)<!-- TECH:END -->
+ - [Nothing just teased a new phone that my not be ‘new’ at all](https://www.androidauthority.com/nothing-phone-3a-launch-teaser-3610276/)
+ - [Indonesia and other developing countries are becoming AI hubs amid the multitrillion-dollar spending boom, in part driven by an &quot;AI decolonization&quot; philosophy &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/251027/p9#a251027p9)
+ - [One of Samsung’s biggest rivals just kicked off its stable Android 16 rollout](https://www.androidauthority.com/big-brand-kick-off-stable-android-16-3610297/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
