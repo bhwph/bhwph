@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why?](http://9gag.com/gag/aGy619z)
- - 😝 [Back when we had to invent our own fun. Good times](http://9gag.com/gag/adBr7Gd)
- - 👉 [I thought that we are smarter here...](http://9gag.com/gag/a87Qy1Y)<!-- MEMES:END -->
+ - 6️⃣ [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - 😝 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
+ - 👉 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)<!-- MEMES:END -->
 
 --- 
 
