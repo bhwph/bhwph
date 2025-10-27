@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM launches Digital Asset Haven, a digital assets platform built with crypto wallet provider Dfns for financial institutions, governments, and companies &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/251027/p15#a251027p15)
- - [iPhone 18 Pro variable aperture camera rumor surfaces once again](https://appleinsider.com/articles/25/10/27/iphone-18-pro-variable-aperture-camera-rumor-surfaces-once-again?utm_source=rss)
- - [Flare Audio Sonic Lens review: A five-millimeter experiment in over-engineering](https://appleinsider.com/articles/25/10/26/flare-audio-sonic-lens-review-a-five-millimeter-experiment-in-over-engineering?utm_source=rss)<!-- TECH:END -->
+ - [Upgrade your Apple Home with the compact retrofit Nuki Smart Lock](https://appleinsider.com/articles/25/10/27/upgrade-your-apple-home-with-the-compact-retrofit-nuki-smart-lock?utm_source=rss)
+ - [iPhone Air production change orders may not be true](https://appleinsider.com/articles/25/10/27/iphone-air-production-change-orders-may-not-be-true?utm_source=rss)
+ - [If you can’t afford a vacation, an AI app will sell you pictures of one](https://www.theverge.com/ai-artificial-intelligence/806486/if-you-cant-afford-a-vacation-an-ai-app-will-sell-you-pictures-of-one)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
