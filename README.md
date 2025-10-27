@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best glue ever](http://9gag.com/gag/a5Qvnpr)
- - 😝 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
- - 👉 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)<!-- MEMES:END -->
+ - 6️⃣ [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
+ - 😝 [He didn&#39;t choose it. It chose him](http://9gag.com/gag/aE0yRqx)
+ - 👉 [Deer Friend](http://9gag.com/gag/aE0yBnK)<!-- MEMES:END -->
 
 --- 
 
