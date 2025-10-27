@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing just teased a new phone that my not be ‘new’ at all](https://www.androidauthority.com/nothing-phone-3a-launch-teaser-3610276/)
- - [Indonesia and other developing countries are becoming AI hubs amid the multitrillion-dollar spending boom, in part driven by an &quot;AI decolonization&quot; philosophy &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/251027/p9#a251027p9)
- - [One of Samsung’s biggest rivals just kicked off its stable Android 16 rollout](https://www.androidauthority.com/big-brand-kick-off-stable-android-16-3610297/)<!-- TECH:END -->
+ - [IBM launches Digital Asset Haven, a digital assets platform built with crypto wallet provider Dfns for financial institutions, governments, and companies &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/251027/p15#a251027p15)
+ - [iPhone 18 Pro variable aperture camera rumor surfaces once again](https://appleinsider.com/articles/25/10/27/iphone-18-pro-variable-aperture-camera-rumor-surfaces-once-again?utm_source=rss)
+ - [Flare Audio Sonic Lens review: A five-millimeter experiment in over-engineering](https://appleinsider.com/articles/25/10/26/flare-audio-sonic-lens-review-a-five-millimeter-experiment-in-over-engineering?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
