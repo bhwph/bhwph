@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA employees are reportedly frustrated by a mandate to use AI, mocking the policy in Slack and suspecting it&#39;s being used as justification for layoffs](https://www.pcgamer.com/gaming-industry/ea-employees-are-reportedly-frustrated-by-a-mandate-to-use-ai-mocking-the-policy-in-slack-and-suspecting-its-being-used-as-justification-for-layoffs/)
- - [Pokémon Legends: Z-A Has A Terrifying Death Trap Fans Keep Warning Others To Avoid](https://kotaku.com/pokemon-legends-za-wild-zone-17-pyroar-alpha-memes-2000639332)
- - [Chainsaw Man movie box office: Sony dominates the weekend with another anime blockbuster](https://www.polygon.com/chainsaw-man-movie-reze-arc-box-office-weekend-premiere/)<!-- GAME:END -->
+ - [Every Halloween Candy, Ranked From Worst To Best](https://kotaku.com/halloween-candy-ranking-worst-best-list-chocolate-bar-1851679251)
+ - [Where to buy berries in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-za-plza-berry-shop-locations-where-to-buy/)
+ - [Halo’s Controversial Level ‘The Library’ Is Great The Way It Is](https://kotaku.com/halo-combat-evolved-remake-the-library-2000639359)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
