@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice shot](http://9gag.com/gag/awyPQQ1)
- - 😝 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
- - 👉 [Good quality tents](http://9gag.com/gag/aE0yxOM)<!-- MEMES:END -->
+ - 6️⃣ [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
+ - 😝 [The moment birds flock hit Saudia AK31 aircraft](http://9gag.com/gag/ae9yeRj)
+ - 👉 [Deer Friend](http://9gag.com/gag/aE0yBnK)<!-- MEMES:END -->
 
 --- 
 
