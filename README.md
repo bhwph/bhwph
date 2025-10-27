@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [The All-Clad Pizza Oven Is $800 Off Right Now](https://www.wired.com/story/all-clad-pizza-oven-deal-october-2025/)
- - [The Best Deals From the All-Clad Factory Seconds Sale on Kitchen Essentials &lpar;2025&rpar;](https://www.wired.com/story/all-clad-sale-october-2025/)<!-- TECH:END -->
+ - [3 great Samsung TV deals that actually make them affordable](https://www.androidauthority.com/samsung-tv-deals-3610624/)
+ - [NextEra Energy and Google sign a 25-year power supply deal, which includes restarting the 615MW Duane Arnold nuclear plant in Iowa, shut down in 2020 &lpar;Vallari Srivastava/Reuters&rpar;](http://www.techmeme.com/251027/p35#a251027p35)
+ - [Sources: Forge Global, a leading platform for trading stakes in private startups, is exploring a sale, after its stock fell 90% since its 2021 IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/251027/p34#a251027p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
