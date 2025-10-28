@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Govee Clears Out Neon Rope Gaming Lights, Making It Cheaper Than Ever to Build Your Dream Setup](https://kotaku.com/govee-clears-out-neon-rope-gaming-lights-making-it-cheaper-than-ever-to-build-your-dream-setup-2000639411)
- - [Do we really need another Halo: Combat Evolved remake?](https://www.polygon.com/halo-campaign-evolved/)
- - [Pokémon Is Almost Single-Handedly Keeping Physical Games Alive](https://kotaku.com/pokemon-legends-z-a-physical-games-switch-2-2000639564)<!-- GAME:END -->
+ - [Capcom doubles down on its decision to go pay-per-view during the Street Fighter League despite the fact that nobody really likes it](https://www.pcgamer.com/games/fighting/capcom-doubles-down-on-its-decision-to-go-pay-per-view-during-the-street-fighter-league-finals-despite-the-fact-that-nobody-really-likes-it/)
+ - [One Piece will end a 27-year tradition in 2026](https://www.polygon.com/one-piece-anime-ends-ongoing-two-seasons-2026/)
+ - [Chaos Zero Nightmare is a gacha game where you don&#39;t need pulls to have fun](https://www.polygon.com/chaos-zero-nightmare-gacha-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
