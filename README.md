@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
- - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - 👉 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)<!-- MEMES:END -->
+ - 6️⃣ [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - 😝 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
+ - 👉 [Deer Friend](http://9gag.com/gag/aE0yBnK)<!-- MEMES:END -->
 
 --- 
 
