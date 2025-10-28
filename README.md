@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [3 great Samsung TV deals that actually make them affordable](https://www.androidauthority.com/samsung-tv-deals-3610624/)
- - [NextEra Energy and Google sign a 25-year power supply deal, which includes restarting the 615MW Duane Arnold nuclear plant in Iowa, shut down in 2020 &lpar;Vallari Srivastava/Reuters&rpar;](http://www.techmeme.com/251027/p35#a251027p35)
- - [Sources: Forge Global, a leading platform for trading stakes in private startups, is exploring a sale, after its stock fell 90% since its 2021 IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/251027/p34#a251027p34)<!-- TECH:END -->
+ - [Elon Musk&#39;s Grokipedia Pushes Far-Right Talking Points](https://www.wired.com/story/elon-musk-launches-grokipedia-wikipedia-competitor/)
+ - [Elon Musk’s Grokipedia contains copied Wikipedia pages](https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied)
+ - [Apple Says a Digital Version of Your Passport Is Coming Soon to iPhones](https://www.cnet.com/tech/services-and-software/apple-says-a-digital-version-of-your-passport-is-coming-soon-to-iphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
