@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Despite mass layoffs and a previous pay cut, Microsoft&#39;s CEO is taking home nearly $100 million this year](https://www.pcgamer.com/hardware/despite-mass-layoffs-and-a-previous-pay-cut-microsofts-ceo-is-taking-home-nearly-usd100-million-this-year/)
- - [Beats Solo 4 Just Became Apple’s Cheapest Headphones, Thanks to Amazon’s Price Drop Ahead of Black Friday](https://kotaku.com/beats-solo-4-just-became-apples-cheapest-headphones-thanks-to-amazons-price-drop-ahead-of-black-friday-2000639260)
- - [&#39;This isn&#39;t a one-time effort&#39;: The Sims patch set to fix over 150 of the community&#39;s most reported bugs, from making kids look more like their parents and ensuring nude Sims no longer wear hats](https://www.pcgamer.com/games/the-sims/this-isnt-a-one-time-effort-the-sims-patch-set-to-fix-over-150-of-the-communitys-most-reported-bugs-from-making-kids-look-more-like-their-parents-and-ensuring-nude-sims-no-longer-wear-hats/)<!-- GAME:END -->
+ - [Govee Clears Out Neon Rope Gaming Lights, Making It Cheaper Than Ever to Build Your Dream Setup](https://kotaku.com/govee-clears-out-neon-rope-gaming-lights-making-it-cheaper-than-ever-to-build-your-dream-setup-2000639411)
+ - [Do we really need another Halo: Combat Evolved remake?](https://www.polygon.com/halo-campaign-evolved/)
+ - [Pokémon Is Almost Single-Handedly Keeping Physical Games Alive](https://kotaku.com/pokemon-legends-z-a-physical-games-switch-2-2000639564)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
