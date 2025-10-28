@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says OpenAI has committed to spend about $1.4T on infrastructure so far, equating to roughly 30GW of data center capacity &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/251028/p46#a251028p46)
- - [Uber, Stellantis, Nvidia, and Foxconn make a robotaxi deal](https://www.theverge.com/news/808042/uber-stellantis-nvidia-and-foxconn-make-a-robotaxi-deal)
- - [Uber plans a fleet of 100,000 autonomous vehicles powered by Nvidia&#39;s new Drive AGX Hyperion 10, starting in 2027 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251028/p45#a251028p45)<!-- TECH:END -->
+ - [Release candidate betas of iOS 26.1, macOS Tahoe 26.1 developer betas are out now](https://appleinsider.com/articles/25/10/28/fifth-ios-261-macos-tahoe-261-developer-betas-are-out-now?utm_source=rss)
+ - [What the Trump family stands to gain from Changpeng Zhao’s pardon](https://www.theverge.com/column/808369/changpeng-zhao-binance-pardon-trump)
+ - [China claims it has completed the first phase of construction of the first underwater data center, which is powered by wind energy and cooled by seawater &lpar;Anna Lagos/Wired&rpar;](http://www.techmeme.com/251028/p49#a251028p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
