@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breaking: This is our first real look at Samsung’s tri-fold Galaxy &lpar;Updated: More images and video!&rpar;](https://www.androidauthority.com/samsung-galaxy-tri-fold-leak-3610686/)
- - [20% Off LG Promo Code &amp; Coupons | October 2025](https://www.wired.com/story/lg-promo-code/)
- - [Home Depot Promo Codes: 10% Off | October 2025](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
+ - [Pixel Camera finally works again on GrapheneOS — and no downgrade is needed](https://www.androidauthority.com/grapheneos-pixel-camera-crash-fix-3610717/)
+ - [EU officials are scrambling to resolve a growing trade clash with China over rare earths and chips, as the bloc gets caught between Beijing and Washington &lpar;Financial Times&rpar;](http://www.techmeme.com/251028/p2#a251028p2)
+ - [First look: DJI’s Romo robot vacuum](https://www.theverge.com/tech/807461/dji-romo-robot-vacuum-europe-launch-specs-price-first-look)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
