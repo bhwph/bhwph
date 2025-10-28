@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 😝 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
- - 👉 [Deer Friend](http://9gag.com/gag/aE0yBnK)<!-- MEMES:END -->
+ - 6️⃣ [Caw, caw!](http://9gag.com/gag/aByjxo1)
+ - 😝 [Staaaairs](http://9gag.com/gag/awyPAXx)
+ - 👉 [Don&#39;t double tap it](http://9gag.com/gag/amoK79y)<!-- MEMES:END -->
 
 --- 
 
