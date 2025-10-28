@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to add third-party cards to Apple Wallet app in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-add-third-party-cards-to-apple-wallet-app-in-ios-26?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Oct. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-oct-28/#ftag=CAD590a51e)
- - [Farewell, Pixel Watch: The OG wearable is getting its last-ever update](https://www.androidauthority.com/pixel-watch-final-update-october-2025-3610673/)<!-- TECH:END -->
+ - [Breaking: This is our first real look at Samsung’s tri-fold Galaxy](https://www.androidauthority.com/samsung-galaxy-tri-fold-leak-3610686/)
+ - [Google starts rolling out YouTube-style age checks for Play Store](https://www.androidauthority.com/google-play-store-age-verification-rollout-3610677/)
+ - [How to add third-party cards to Apple Wallet app in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-add-third-party-cards-to-apple-wallet-app-in-ios-26?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
