@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Prank](http://9gag.com/gag/aZZoLE3)
+ - 6️⃣ [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
  - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
- - 👉 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)<!-- MEMES:END -->
+ - 👉 [Magic \u2728](http://9gag.com/gag/a6Z4O19)<!-- MEMES:END -->
 
 --- 
 
