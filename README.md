@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [ID@Xbox Showcase – October 2025: Everything Announced and Revealed](https://news.xbox.com/en-us/2025/10/28/id-xbox-showcase-october-2025-everything-announced-recap/)
- - [What background to pick in The Outer Worlds 2](https://www.polygon.com/outer-worlds-2-what-background-to-pick/)
- - [The 2024 games &lpar;and movie&rpar; eligible for the 2025 Game Awards](https://www.polygon.com/goty-game-awards-2024-games-eligible-2025/)<!-- GAME:END -->
+ - [Amazon Games is making major layoffs as it shifts focus away from MMOs to its Luna cloud gaming platform: &#39;We have made the difficult decision to halt a significant amount of our first-party AAA game development&#39;](https://www.pcgamer.com/gaming-industry/amazon-games-is-making-major-layoffs-as-it-shifts-focus-away-from-mmos-to-its-luna-cloud-gaming-platform-we-have-made-the-difficult-decision-to-halt-a-significant-amount-of-our-first-party-aaa-game-development/)
+ - [Newly Revealed Action-RPG Loulan: The Cursed Sand Looks Sick](https://kotaku.com/loulan-cursed-sand-ps5-pc-action-rpg-single-player-2000639711)
+ - [The programmer of legendary emulator ZSNES just resurfaced after 24 years to give his first-ever interview and spill the secrets of its magical netplay, snowy UI and unbelievable speed on 1997 PCs](https://www.pcgamer.com/gaming-industry/the-programmer-of-legendary-emulator-zsnes-just-resurfaced-after-24-years-to-give-his-first-ever-interview-and-spill-the-secrets-of-its-magical-netplay-snowy-ui-and-unbelievable-speed-on-1997-pcs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
