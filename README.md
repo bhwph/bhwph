@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Release candidate betas of iOS 26.1, macOS Tahoe 26.1 developer betas are out now](https://appleinsider.com/articles/25/10/28/fifth-ios-261-macos-tahoe-261-developer-betas-are-out-now?utm_source=rss)
- - [What the Trump family stands to gain from Changpeng Zhao’s pardon](https://www.theverge.com/column/808369/changpeng-zhao-binance-pardon-trump)
- - [China claims it has completed the first phase of construction of the first underwater data center, which is powered by wind energy and cooled by seawater &lpar;Anna Lagos/Wired&rpar;](http://www.techmeme.com/251028/p49#a251028p49)<!-- TECH:END -->
+ - [YouTube will restrict more content showing &amp;#8216;graphic violence&amp;#8217; in video games](https://www.theverge.com/news/808545/youtube-graphic-video-game-violence-age-restriction)
+ - [During Nvidia&#39;s first ever GTC conference in Washington, DC, Jensen Huang praised Trump&#39;s policies and emphasized themes of patriotism and US national interests &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251028/p53#a251028p53)
+ - [This ASUS TUF Gaming Monitor is too good for just $129.99](https://www.androidauthority.com/asus-tuf-gaming-27-inch-monitor-vg279qe5a-deal-3610894/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
