@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Caw, caw!](http://9gag.com/gag/aByjxo1)
- - 😝 [Staaaairs](http://9gag.com/gag/awyPAXx)
- - 👉 [Don&#39;t double tap it](http://9gag.com/gag/amoK79y)<!-- MEMES:END -->
+ - 6️⃣ [Nice shot](http://9gag.com/gag/awyPQQ1)
+ - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
+ - 👉 [Good quality tents](http://9gag.com/gag/aE0yxOM)<!-- MEMES:END -->
 
 --- 
 
