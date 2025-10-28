@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huge Switch emulator update finally improves performance on 8 Elite devices](https://www.androidauthority.com/eden-update-snapdragon-8-elite-3610737/)
- - [xAI&#39;s Grokipedia says Grok fact-checked its entries and some &quot;content is adapted from Wikipedia&quot;; some pages, like the PS5&#39;s, are almost identical to Wikipedia &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251028/p8#a251028p8)
- - [One UI 8.5 could let you share the secret sauce behind your great photos](https://www.androidauthority.com/one-ui-8-5-pro-camera-presets-sharing-apk-teardown-3610734/)<!-- TECH:END -->
+ - [An analysis of 30+ US data center proposals in 14 states: in most cases, local officials signed NDAs and worked with apparent shell companies to hide details &lpar;Natalie Kainz/NBC News&rpar;](http://www.techmeme.com/251028/p20#a251028p20)
+ - [Best Vacuum Cleaner &lpar;2025&rpar;: Cordless Vacuums, Robot Vacuums, Dysons](https://www.wired.com/gallery/best-vacuum-cleaner/)
+ - [The government shutdown is delaying new gadgets](https://www.theverge.com/report/807850/government-shutdown-fcc-clearance-delaying-tech-products)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
