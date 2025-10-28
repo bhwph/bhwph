@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Camera finally works again on GrapheneOS — and no downgrade is needed](https://www.androidauthority.com/grapheneos-pixel-camera-crash-fix-3610717/)
- - [EU officials are scrambling to resolve a growing trade clash with China over rare earths and chips, as the bloc gets caught between Beijing and Washington &lpar;Financial Times&rpar;](http://www.techmeme.com/251028/p2#a251028p2)
- - [First look: DJI’s Romo robot vacuum](https://www.theverge.com/tech/807461/dji-romo-robot-vacuum-europe-launch-specs-price-first-look)<!-- TECH:END -->
+ - [Huge Switch emulator update finally improves performance on 8 Elite devices](https://www.androidauthority.com/eden-update-snapdragon-8-elite-3610737/)
+ - [xAI&#39;s Grokipedia says Grok fact-checked its entries and some &quot;content is adapted from Wikipedia&quot;; some pages, like the PS5&#39;s, are almost identical to Wikipedia &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251028/p8#a251028p8)
+ - [One UI 8.5 could let you share the secret sauce behind your great photos](https://www.androidauthority.com/one-ui-8-5-pro-camera-presets-sharing-apk-teardown-3610734/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
