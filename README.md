@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Services expected to top $100 billion annually -- for now](https://appleinsider.com/articles/25/10/28/apples-services-expected-to-top-100-billion-annually----for-now?utm_source=rss)
- - [Apple crosses a $4T market cap in intra-day trading, making it only the third public company ever to reach the milestone; AAPL is up 56% since its April low &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/251028/p28#a251028p28)
- - [4 Best Music Streaming Services &lpar;2025&rpar;: Spotify, Apple Music, and More Compared](https://www.wired.com/gallery/best-music-streaming-apps/)<!-- TECH:END -->
+ - [The BrickBoy upgrade kit costs more than twice as much as the Lego Game Boy](https://www.theverge.com/news/808051/brickboy-lego-game-boy-emulator-upgrade-kit-kickstarter)
+ - [GitHub plans to launch Agent HQ, a hub to let developers access third-party AI coding agents, including Claude and OpenAI&#39;s Codex, in the coming months &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/251028/p37#a251028p37)
+ - [You’ll be able to pay with PayPal in ChatGPT next year](https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
