@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Mega Rising expansion release time in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-mega-rising-expansion-release-time-date-pdt-edt-cet/)
  - [Today&#39;s Wordle clues, hints and answer for October 28 &lpar;#1592&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-28-2025/)
- - [Loulan: The Cursed Sand is coming to PS5](https://blog.playstation.com/2025/10/27/loulan-the-cursed-sand-is-coming-to-ps5/)
- - [This 10,000 Pa Robot Vacuum and Mop with 70-Day Self-Emptying Is Selling for Peanuts, Roborock Demolishes the Competition](https://kotaku.com/this-10000-pa-robot-vacuum-and-mop-with-70-day-self-emptying-is-selling-for-peanuts-roborock-demolishes-the-competition-2000639314)<!-- GAME:END -->
+ - [Loulan: The Cursed Sand is coming to PS5](https://blog.playstation.com/2025/10/27/loulan-the-cursed-sand-is-coming-to-ps5/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
