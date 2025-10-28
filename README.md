@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [China #1](http://9gag.com/gag/ae9yMxv)
- - 😝 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
- - 👉 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)<!-- MEMES:END -->
+ - 6️⃣ [Nice shot](http://9gag.com/gag/awyPQQ1)
+ - 😝 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
+ - 👉 [Redo of healer](http://9gag.com/gag/a6Z4oBL)<!-- MEMES:END -->
 
 --- 
 
