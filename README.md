@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How many seasons will Pluribus be? Vince Gilligan reveals the answer](https://www.polygon.com/how-many-seasons-will-pluribus-be/)
- - [Mega Rising expansion release time in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-mega-rising-expansion-release-time-date-pdt-edt-cet/)
- - [Today&#39;s Wordle clues, hints and answer for October 28 &lpar;#1592&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-28-2025/)<!-- GAME:END -->
+ - [Despite mass layoffs and a previous pay cut, Microsoft&#39;s CEO is taking home nearly $100 million this year](https://www.pcgamer.com/hardware/despite-mass-layoffs-and-a-previous-pay-cut-microsofts-ceo-is-taking-home-nearly-usd100-million-this-year/)
+ - [Beats Solo 4 Just Became Apple’s Cheapest Headphones, Thanks to Amazon’s Price Drop Ahead of Black Friday](https://kotaku.com/beats-solo-4-just-became-apples-cheapest-headphones-thanks-to-amazons-price-drop-ahead-of-black-friday-2000639260)
+ - [&#39;This isn&#39;t a one-time effort&#39;: The Sims patch set to fix over 150 of the community&#39;s most reported bugs, from making kids look more like their parents and ensuring nude Sims no longer wear hats](https://www.pcgamer.com/games/the-sims/this-isnt-a-one-time-effort-the-sims-patch-set-to-fix-over-150-of-the-communitys-most-reported-bugs-from-making-kids-look-more-like-their-parents-and-ensuring-nude-sims-no-longer-wear-hats/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
