@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Maybe a little justice?](http://9gag.com/gag/aLnV04g)
- - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 👉 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)<!-- MEMES:END -->
+ - 6️⃣ [Prank](http://9gag.com/gag/aZZoLE3)
+ - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
+ - 👉 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)<!-- MEMES:END -->
 
 --- 
 
