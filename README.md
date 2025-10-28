@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom doubles down on its decision to go pay-per-view during the Street Fighter League despite the fact that nobody really likes it](https://www.pcgamer.com/games/fighting/capcom-doubles-down-on-its-decision-to-go-pay-per-view-during-the-street-fighter-league-finals-despite-the-fact-that-nobody-really-likes-it/)
- - [One Piece will end a 27-year tradition in 2026](https://www.polygon.com/one-piece-anime-ends-ongoing-two-seasons-2026/)
- - [Chaos Zero Nightmare is a gacha game where you don&#39;t need pulls to have fun](https://www.polygon.com/chaos-zero-nightmare-gacha-game/)<!-- GAME:END -->
+ - [ID@Xbox Showcase – October 2025: Everything Announced and Revealed](https://news.xbox.com/en-us/2025/10/28/id-xbox-showcase-october-2025-everything-announced-recap/)
+ - [What background to pick in The Outer Worlds 2](https://www.polygon.com/outer-worlds-2-what-background-to-pick/)
+ - [The 2024 games &lpar;and movie&rpar; eligible for the 2025 Game Awards](https://www.polygon.com/goty-game-awards-2024-games-eligible-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
