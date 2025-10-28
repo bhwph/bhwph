@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Games is making major layoffs as it shifts focus away from MMOs to its Luna cloud gaming platform: &#39;We have made the difficult decision to halt a significant amount of our first-party AAA game development&#39;](https://www.pcgamer.com/gaming-industry/amazon-games-is-making-major-layoffs-as-it-shifts-focus-away-from-mmos-to-its-luna-cloud-gaming-platform-we-have-made-the-difficult-decision-to-halt-a-significant-amount-of-our-first-party-aaa-game-development/)
- - [Newly Revealed Action-RPG Loulan: The Cursed Sand Looks Sick](https://kotaku.com/loulan-cursed-sand-ps5-pc-action-rpg-single-player-2000639711)
- - [The programmer of legendary emulator ZSNES just resurfaced after 24 years to give his first-ever interview and spill the secrets of its magical netplay, snowy UI and unbelievable speed on 1997 PCs](https://www.pcgamer.com/gaming-industry/the-programmer-of-legendary-emulator-zsnes-just-resurfaced-after-24-years-to-give-his-first-ever-interview-and-spill-the-secrets-of-its-magical-netplay-snowy-ui-and-unbelievable-speed-on-1997-pcs/)<!-- GAME:END -->
+ - [All Battlefield 6 Season 1 battle pass rewards](https://www.polygon.com/battlefield-6-season-1-battle-pass-rewards-list/)
+ - [Apple Unloads 2025 iPads, Now Cheaper than Most Budget Android Tablets](https://kotaku.com/apple-unloads-2025-ipads-now-cheaper-than-most-budget-android-tablets-2000639562)
+ - [Amazon’s Once Massively Popular MMO Is Going On Life Support](https://kotaku.com/new-world-amazon-mmo-shutting-down-servers-2026-layoffs-new-content-2000639761)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
