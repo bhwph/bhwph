@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of 30+ US data center proposals in 14 states: in most cases, local officials signed NDAs and worked with apparent shell companies to hide details &lpar;Natalie Kainz/NBC News&rpar;](http://www.techmeme.com/251028/p20#a251028p20)
- - [Best Vacuum Cleaner &lpar;2025&rpar;: Cordless Vacuums, Robot Vacuums, Dysons](https://www.wired.com/gallery/best-vacuum-cleaner/)
- - [The government shutdown is delaying new gadgets](https://www.theverge.com/report/807850/government-shutdown-fcc-clearance-delaying-tech-products)<!-- TECH:END -->
+ - [Apple&#39;s Services expected to top $100 billion annually -- for now](https://appleinsider.com/articles/25/10/28/apples-services-expected-to-top-100-billion-annually----for-now?utm_source=rss)
+ - [Apple crosses a $4T market cap in intra-day trading, making it only the third public company ever to reach the milestone; AAPL is up 56% since its April low &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/251028/p28#a251028p28)
+ - [4 Best Music Streaming Services &lpar;2025&rpar;: Spotify, Apple Music, and More Compared](https://www.wired.com/gallery/best-music-streaming-apps/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
