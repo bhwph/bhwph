@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s Grokipedia Pushes Far-Right Talking Points](https://www.wired.com/story/elon-musk-launches-grokipedia-wikipedia-competitor/)
- - [Elon Musk’s Grokipedia contains copied Wikipedia pages](https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied)
- - [Apple Says a Digital Version of Your Passport Is Coming Soon to iPhones](https://www.cnet.com/tech/services-and-software/apple-says-a-digital-version-of-your-passport-is-coming-soon-to-iphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to add third-party cards to Apple Wallet app in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-add-third-party-cards-to-apple-wallet-app-in-ios-26?utm_source=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Oct. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-oct-28/#ftag=CAD590a51e)
+ - [Farewell, Pixel Watch: The OG wearable is getting its last-ever update](https://www.androidauthority.com/pixel-watch-final-update-october-2025-3610673/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
