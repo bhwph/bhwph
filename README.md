@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
+ - 6️⃣ [Aaahhhhh come on maaaaannn](http://9gag.com/gag/agm6XWq)
  - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
  - 👉 [Prank](http://9gag.com/gag/aZZoLE3)<!-- MEMES:END -->
 
