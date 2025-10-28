@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breaking: This is our first real look at Samsung’s tri-fold Galaxy](https://www.androidauthority.com/samsung-galaxy-tri-fold-leak-3610686/)
- - [Google starts rolling out YouTube-style age checks for Play Store](https://www.androidauthority.com/google-play-store-age-verification-rollout-3610677/)
- - [How to add third-party cards to Apple Wallet app in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-add-third-party-cards-to-apple-wallet-app-in-ios-26?utm_source=rss)<!-- TECH:END -->
+ - [Breaking: This is our first real look at Samsung’s tri-fold Galaxy &lpar;Updated: More images and video!&rpar;](https://www.androidauthority.com/samsung-galaxy-tri-fold-leak-3610686/)
+ - [20% Off LG Promo Code &amp; Coupons | October 2025](https://www.wired.com/story/lg-promo-code/)
+ - [Home Depot Promo Codes: 10% Off | October 2025](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
