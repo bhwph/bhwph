@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The BrickBoy upgrade kit costs more than twice as much as the Lego Game Boy](https://www.theverge.com/news/808051/brickboy-lego-game-boy-emulator-upgrade-kit-kickstarter)
- - [GitHub plans to launch Agent HQ, a hub to let developers access third-party AI coding agents, including Claude and OpenAI&#39;s Codex, in the coming months &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/251028/p37#a251028p37)
- - [You’ll be able to pay with PayPal in ChatGPT next year](https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases)<!-- TECH:END -->
+ - [Sam Altman says OpenAI has committed to spend about $1.4T on infrastructure so far, equating to roughly 30GW of data center capacity &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/251028/p46#a251028p46)
+ - [Uber, Stellantis, Nvidia, and Foxconn make a robotaxi deal](https://www.theverge.com/news/808042/uber-stellantis-nvidia-and-foxconn-make-a-robotaxi-deal)
+ - [Uber plans a fleet of 100,000 autonomous vehicles powered by Nvidia&#39;s new Drive AGX Hyperion 10, starting in 2027 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251028/p45#a251028p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
