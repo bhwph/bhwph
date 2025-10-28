@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tensile Strength of a Steel Rod](http://9gag.com/gag/aD2rxnx)
- - 😝 [The moment birds flock hit Saudia AK31 aircraft](http://9gag.com/gag/ae9yeRj)
- - 👉 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)<!-- MEMES:END -->
+ - 6️⃣ [China #1](http://9gag.com/gag/ae9yMxv)
+ - 😝 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
+ - 👉 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)<!-- MEMES:END -->
 
 --- 
 
