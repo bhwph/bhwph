@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Don&#39;t double tap it](http://9gag.com/gag/amoK79y)
- - 😝 [Staaaairs](http://9gag.com/gag/awyPAXx)
- - 👉 [Dr Sleeper is putting everyone to sleep, literally](http://9gag.com/gag/a9yZKeW)<!-- MEMES:END -->
+ - 6️⃣ [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
+ - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - 👉 [Prank](http://9gag.com/gag/aZZoLE3)<!-- MEMES:END -->
 
 --- 
 
