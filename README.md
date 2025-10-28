@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix Is Reportedly Making A Crash Bandicoot Series And He Better Not Talk](https://kotaku.com/netflix-making-crash-bandicoot-animated-series-talking-report-cartoon-2000639396)
- - [Here&#39;s the Battlefield Redsec release time for your region](https://www.pcgamer.com/games/fps/battlefield-redsec-release-date-launch-times/)
- - [&#39;Arbitrary Measures&#39; quest walkthrough in The Outer Worlds 2](https://www.polygon.com/outer-worlds-2-arbitrary-measures-quest-walkthrough-tristan/)<!-- GAME:END -->
+ - [This 10,000 Pa Robot Vacuum and Mop with 70-Day Self-Emptying Is Selling for Peanuts, Roborock Demolishes the Competition](https://kotaku.com/this-10000-pa-robot-vacuum-and-mop-with-70-day-self-emptying-is-selling-for-peanuts-roborock-demolishes-the-competition-2000639314)
+ - [Civilization 7 will get &#39;one of the most requested features&#39; since launch: The option to play as one civ from start to finish](https://www.pcgamer.com/games/strategy/civilization-7-will-get-one-of-the-most-requested-features-since-launch-the-option-to-play-as-one-civ-from-start-to-finish/)
+ - [This Windows 11 Mini PC Sells for Pennies on Amazon, Now 3x Cheaper Than Mac Mini](https://kotaku.com/this-windows-11-mini-pc-sells-for-pennies-on-amazon-now-3x-cheaper-than-mac-mini-2000639301)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
