@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [China #1](http://9gag.com/gag/ae9yMxv)
- - 😝 [Here we go](http://9gag.com/gag/aLnVgnA)
- - 👉 [Peace](http://9gag.com/gag/an785YV)<!-- MEMES:END -->
+ - 6️⃣ [Prank](http://9gag.com/gag/aZZoLE3)
+ - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
+ - 👉 [China #1](http://9gag.com/gag/ae9yMxv)<!-- MEMES:END -->
 
 --- 
 
