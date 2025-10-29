@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A fake livestream featuring an AI-generated, crypto-promoting Jensen Huang was broadcast at the same time as the Nvidia GTC keynote, gaining 5x more live views than the real thing](https://www.pcgamer.com/software/ai/nvidias-gtc-keynote-was-overshadowed-as-120-000-viewers-fell-for-a-deepfake-stream-instead/)
- - [The action games that have delivered genuine action in 2025](https://www.polygon.com/best-action-games-of-2025/)
- - [Not content with dominating the market for AI GPUs, Nvidia is turning its attention to QPUs for quantum computing](https://www.pcgamer.com/hardware/graphics-cards/not-content-with-dominating-the-market-for-ai-gpus-nvidia-is-turning-its-attention-to-qpus-for-quantum-computing/)<!-- GAME:END -->
+ - [Should you save the hostages in The Outer Worlds 2?](https://www.polygon.com/outer-worlds-2-should-you-save-the-hostages-orb-puzzle/)
+ - [Adventure Time fans are making a case for its place in the comedy hall of fame](https://www.polygon.com/adventure-time-funniest-moments-best-show/)
+ - [Arc Raiders&#39; preload isn&#39;t working on the Epic Games store due to &#39;an unforeseen issue&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-preload-isnt-working-on-the-epic-games-store-due-to-an-unforeseen-issue/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
