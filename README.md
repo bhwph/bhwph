@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube will restrict more content showing &amp;#8216;graphic violence&amp;#8217; in video games](https://www.theverge.com/news/808545/youtube-graphic-video-game-violence-age-restriction)
- - [During Nvidia&#39;s first ever GTC conference in Washington, DC, Jensen Huang praised Trump&#39;s policies and emphasized themes of patriotism and US national interests &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251028/p53#a251028p53)
- - [This ASUS TUF Gaming Monitor is too good for just $129.99](https://www.androidauthority.com/asus-tuf-gaming-27-inch-monitor-vg279qe5a-deal-3610894/)<!-- TECH:END -->
+ - [GitHub updates VS Code with Plan Mode for building step-by-step project approaches, MCP Registry integration, definable project rules via AGENTS.md, and more &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/251028/p58#a251028p58)
+ - [Samsung&#39;s Wild-Looking Tri-Fold Phone Makes Its Debut at the APEC Summit in S. Korea](https://www.cnet.com/tech/mobile/samsungs-wild-looking-tri-fold-phone-makes-its-debut-at-the-apec-summit-in-s-korea/#ftag=CAD590a51e)
+ - [Insta360 X4 Air launches with 8K 360 video at a friendlier price](https://www.androidauthority.com/insta360-x4-air-8k-360-launch-price-3611023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
