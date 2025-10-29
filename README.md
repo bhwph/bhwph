@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
- - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
- - 👉 [Magic \u2728](http://9gag.com/gag/a6Z4O19)<!-- MEMES:END -->
+ - 6️⃣ [China #1](http://9gag.com/gag/ae9yMxv)
+ - 😝 [Here we go](http://9gag.com/gag/aLnVgnA)
+ - 👉 [Peace](http://9gag.com/gag/an785YV)<!-- MEMES:END -->
 
 --- 
 
