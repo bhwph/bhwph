@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Should you save the hostages in The Outer Worlds 2?](https://www.polygon.com/outer-worlds-2-should-you-save-the-hostages-orb-puzzle/)
- - [Adventure Time fans are making a case for its place in the comedy hall of fame](https://www.polygon.com/adventure-time-funniest-moments-best-show/)
- - [Arc Raiders&#39; preload isn&#39;t working on the Epic Games store due to &#39;an unforeseen issue&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-preload-isnt-working-on-the-epic-games-store-due-to-an-unforeseen-issue/)<!-- GAME:END -->
+ - [PowerWash Simulator 2 review](https://www.pcgamer.com/games/sim/powerwash-simulator-2-review/)
+ - [Monster Hunter Wilds is getting outsold by its 4-year-old predecessor](https://www.polygon.com/monster-hunter-wilds-sales-less-monster-hunter-rise/)
+ - [The Outer Worlds 2&#39;s first big choice is fatally flawed](https://www.polygon.com/the-outer-worlds-2-first-big-choice/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
