@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US FEC filings and public statements: a handful of crypto super PACs have amassed ~$263M ahead of the 2026 midterms; Fairshake remains the biggest at $141M &lpar;Bloomberg&rpar;](http://www.techmeme.com/251029/p12#a251029p12)
- - [Android Auto could soon get a long-overdue feature for music lovers, and here’s a look](https://www.androidauthority.com/android-auto-multiple-media-cards-on-dashboard-apk-teardown-3611157/)
- - [Some ad buyers say brands are increasingly spending on Reddit due to the site&#39;s prominence in AI-powered search results and its growing audience &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/251029/p11#a251029p11)<!-- TECH:END -->
+ - [A look at the FGC-9, a 3D-printed semiautomatic gun created by a German incel that scholars and lawmakers say is the most popular &quot;ghost gun&quot; outside the US &lpar;Samanth Subramanian/Bloomberg&rpar;](http://www.techmeme.com/251029/p16#a251029p16)
+ - [French lawmakers vote to raise France&#39;s digital services tax on US tech giants to 6%, up from 3%; the French government opposes the move, fearing US retaliation &lpar;Politico&rpar;](http://www.techmeme.com/251029/p15#a251029p15)
+ - [The Pixel 10a might fix one of my biggest Pixel 9a complaints](https://www.androidauthority.com/google-pixel-10a-fixing-biggest-pixel-9a-complaint-3610900/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
