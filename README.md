@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Rich people problems](http://9gag.com/gag/avy4znd)
- - 😝 [American nightmare](http://9gag.com/gag/aMVDYAM)
- - 👉 [Prank](http://9gag.com/gag/aZZoLE3)<!-- MEMES:END -->
+ - 6️⃣ [This is true](http://9gag.com/gag/agm6Bdv)
+ - 😝 [Rich people problems](http://9gag.com/gag/avy4znd)
+ - 👉 [The realization](http://9gag.com/gag/awyPMKx)<!-- MEMES:END -->
 
 --- 
 
