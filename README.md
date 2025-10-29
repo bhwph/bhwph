@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber plans to launch its first robotaxi in the San Francisco Bay Area in late 2026, built on Lucid&#39;s Gravity SUV, after testing 100 cars in the coming months &lpar;Dee-Ann Durbin/Associated Press&rpar;](http://www.techmeme.com/251029/p25#a251029p25)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 29&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-29-2025-3610491/)
- - [Sorry OnePlus, but I’m not buying your excuse for the OnePlus 15 downgrades](https://www.androidauthority.com/oneplus-not-buying-excuse-oneplus-15-downgrades-3610397/)<!-- TECH:END -->
+ - [Jamf goes from public to private in $2.2B acquisition deal](https://appleinsider.com/articles/25/10/29/jamf-goes-from-public-to-private-in-22b-acquisition-deal?utm_source=rss)
+ - [Amazon&#39;s $100 Echo Dot Max and $220 Echo Studio review: the devices run Alexa+, which works well, and have good audio quality, but the Studio is underwhelming &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/251029/p33#a251029p33)
+ - [Google Gemini for Home is rolling out in the US — here&amp;#8217;s how to get early access](https://www.theverge.com/news/808858/google-gemini-for-home-early-access-launch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
