@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [LEGO Clears Out Some Star Wars Sets, Ahsoka Tano’s Duel on Peridea Is Going for Peanuts](https://kotaku.com/lego-clears-out-some-star-wars-sets-ahsoka-tanos-duel-on-peridea-is-going-for-peanuts-2000639650)
- - [One of the most shocking moments in Critical Role&#39;s 4th D&amp;D campaign was planned from the jump—yet with enough left to chance that Alexander Ward &#39;did leave the table thinking I&#39;d really f*cked up&#39;](https://www.pcgamer.com/games/rpg/one-of-the-most-shocking-moments-in-critical-roles-4th-d-and-d-campaign-was-planned-from-the-jump-yet-with-enough-left-to-chance-that-alexander-ward-did-leave-the-table-thinking-id-really-f-cked-up/)
- - [Magical Randy Pitchford summons the ghost of games discourse past, says games &#39;Haven&#39;t even had our Citizen Kane yet&#39;](https://www.pcgamer.com/games/fps/magical-randy-pitchford-summons-the-ghost-of-games-discourse-past-says-games-havent-even-had-our-citizen-kane-yet/)<!-- GAME:END -->
+ - [A fake livestream featuring an AI-generated, crypto-promoting Jensen Huang was broadcast at the same time as the Nvidia GTC keynote, gaining 5x more live views than the real thing](https://www.pcgamer.com/software/ai/nvidias-gtc-keynote-was-overshadowed-as-120-000-viewers-fell-for-a-deepfake-stream-instead/)
+ - [The action games that have delivered genuine action in 2025](https://www.polygon.com/best-action-games-of-2025/)
+ - [Not content with dominating the market for AI GPUs, Nvidia is turning its attention to QPUs for quantum computing](https://www.pcgamer.com/hardware/graphics-cards/not-content-with-dominating-the-market-for-ai-gpus-nvidia-is-turning-its-attention-to-qpus-for-quantum-computing/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
