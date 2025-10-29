@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Freeloading at it&#39;s finest](http://9gag.com/gag/aoyAe1g)
- - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
- - 👉 [Good quality tents](http://9gag.com/gag/aE0yxOM)<!-- MEMES:END -->
+ - 6️⃣ [After a divorce and many years without a home, i finally can start again to live... Wish me luck, my fellow degenerates.](http://9gag.com/gag/awyPBBr)
+ - 😝 [Here we go](http://9gag.com/gag/aLnVgnA)
+ - 👉 [Why boring is good](http://9gag.com/gag/aByjg0A)<!-- MEMES:END -->
 
 --- 
 
