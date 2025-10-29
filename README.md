@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jamf goes from public to private in $2.2B acquisition deal](https://appleinsider.com/articles/25/10/29/jamf-goes-from-public-to-private-in-22b-acquisition-deal?utm_source=rss)
- - [Amazon&#39;s $100 Echo Dot Max and $220 Echo Studio review: the devices run Alexa+, which works well, and have good audio quality, but the Studio is underwhelming &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/251029/p33#a251029p33)
- - [Google Gemini for Home is rolling out in the US — here&amp;#8217;s how to get early access](https://www.theverge.com/news/808858/google-gemini-for-home-early-access-launch)<!-- TECH:END -->
+ - [Android 16’s spread continues as latest brand shares its rollout plans](https://www.androidauthority.com/oppo-coloros-16-rollout-schedule-3611336/)
+ - [Halo on PlayStation might be what Xbox needs to survive](https://www.theverge.com/entertainment/809053/halo-playstation-xbox-multiplatform-strategy)
+ - [Apple joins the advisory board for The Game Awards](https://appleinsider.com/articles/25/10/29/apple-joins-the-advisory-board-for-the-game-awards?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
