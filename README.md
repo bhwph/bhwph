@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Based razer](http://9gag.com/gag/aW4PxLn)
- - 😝 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)
- - 👉 [No context](http://9gag.com/gag/a0ezRyX)<!-- MEMES:END -->
+ - 6️⃣ [Rich people problems](http://9gag.com/gag/avy4znd)
+ - 😝 [American nightmare](http://9gag.com/gag/aMVDYAM)
+ - 👉 [Prank](http://9gag.com/gag/aZZoLE3)<!-- MEMES:END -->
 
 --- 
 
