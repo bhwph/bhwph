@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel Watch 3 Is $100 Off](https://www.wired.com/story/pixel-watch-3-deal-1025/)
- - [AI Agents Are Terrible Freelance Workers](https://www.wired.com/story/ai-agents-are-terrible-freelance-workers/)
- - [The Outer Worlds 2&amp;#8217;s satire has a Microsoft-shaped problem](https://www.theverge.com/entertainment/809022/the-outer-worlds-2-corporate-satire-interview-xbox)<!-- TECH:END -->
+ - [The Microsoft Azure Outage Shows the Harsh Reality of Cloud Failures](https://www.wired.com/story/the-microsoft-azure-outage-shows-the-harsh-reality-of-cloud-failures/)
+ - [Alphabet reports YouTube&#39;s Q3 ad revenue rose 15% YoY to $10.26B, vs. $10.01B est., and Google&#39;s advertising revenue reached $74.18B, up from $65.85B a year ago &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251029/p47#a251029p47)
+ - [Love the TrimUI Smart Pro? An upgraded gaming handheld may launch soon](https://www.androidauthority.com/trimui-smart-pro-s-details-3611402/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
