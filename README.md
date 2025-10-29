@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sublime Security, which uses AI agents to protect against phishing and other email threats, raised a $150M Series C, bringing its total funding to $240M+ &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/251029/p1#a251029p1)
- - [Withings’ urine scanning health tracker is now available for $350](https://www.theverge.com/news/808381/withings-u-scan-toilet-urine-test-health-nutrio-calci)
- - [Foxconn says it plans to deploy Nvidia&#39;s Isaac GR00T N model of humanoid robots at its factory in Houston, Texas, which produces AI servers for Nvidia &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/251028/p61#a251028p61)<!-- TECH:END -->
+ - [A survey of 16K+ creators in eight countries: 86% use creative GenAI tools, 60% use multiple, 48% use them for ideation, and 52% for creating video and more &lpar;Adobe Newsroom&rpar;](http://www.techmeme.com/251029/p10#a251029p10)
+ - [USC sues Google in Texas federal court, alleging that Google Earth, Maps, and Google Street View violate its patents for overlaying 2D images onto 3D models &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251029/p9#a251029p9)
+ - [Rainfall Buries a Mega-Airport in Mexico](https://www.wired.com/story/rainfall-buries-a-mega-airport-in-mexico/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
