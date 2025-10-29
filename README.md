@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Prank](http://9gag.com/gag/aZZoLE3)
- - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
- - 👉 [China #1](http://9gag.com/gag/ae9yMxv)<!-- MEMES:END -->
+ - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - 👉 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)<!-- MEMES:END -->
 
 --- 
 
