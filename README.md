@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16’s spread continues as latest brand shares its rollout plans](https://www.androidauthority.com/oppo-coloros-16-rollout-schedule-3611336/)
- - [Halo on PlayStation might be what Xbox needs to survive](https://www.theverge.com/entertainment/809053/halo-playstation-xbox-multiplatform-strategy)
- - [Apple joins the advisory board for The Game Awards](https://appleinsider.com/articles/25/10/29/apple-joins-the-advisory-board-for-the-game-awards?utm_source=rss)<!-- TECH:END -->
+ - [The Pixel Watch 3 Is $100 Off](https://www.wired.com/story/pixel-watch-3-deal-1025/)
+ - [AI Agents Are Terrible Freelance Workers](https://www.wired.com/story/ai-agents-are-terrible-freelance-workers/)
+ - [The Outer Worlds 2&amp;#8217;s satire has a Microsoft-shaped problem](https://www.theverge.com/entertainment/809022/the-outer-worlds-2-corporate-satire-interview-xbox)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
