@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arc Raiders launch times and release date](https://www.pcgamer.com/games/rpg/arc-raiders-launch-times-release-date/)
- - [Arc Raiders: Everything You Need To Know Before Launch](https://kotaku.com/arc-raiders-pvpve-extraction-maps-embark-studios-2000639945)
- - [MTG Avatar exclusive preview: More Ally and Shrine cards](https://www.polygon.com/mtg-avatar-previews-spoilers-ally-shrine/)<!-- GAME:END -->
+ - [Prepare for Resident Evil Requiem with a story recap from Capcom](https://blog.playstation.com/2025/10/29/prepare-for-resident-evil-requiem-with-a-story-recap-from-capcom/)
+ - [Steam Next Fest’s Most Unlikely Breakout Only Requires A Fraction Of Your Screen And Attention](https://kotaku.com/steam-next-fests-most-unlikely-breakout-only-requires-a-fraction-of-your-screen-and-attention-2000639943)
+ - [The Battlefield 6 Honeymoon Is Over](https://kotaku.com/battlefield-6-season-one-small-map-battle-royale-reactions-negative-review-ea-2000639948)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
