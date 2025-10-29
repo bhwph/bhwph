@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)
- - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
- - 👉 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)<!-- MEMES:END -->
+ - 6️⃣ [Based razer](http://9gag.com/gag/aW4PxLn)
+ - 😝 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)
+ - 👉 [No context](http://9gag.com/gag/a0ezRyX)<!-- MEMES:END -->
 
 --- 
 
