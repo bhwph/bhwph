@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Microsoft Azure Outage Shows the Harsh Reality of Cloud Failures](https://www.wired.com/story/the-microsoft-azure-outage-shows-the-harsh-reality-of-cloud-failures/)
- - [Alphabet reports YouTube&#39;s Q3 ad revenue rose 15% YoY to $10.26B, vs. $10.01B est., and Google&#39;s advertising revenue reached $74.18B, up from $65.85B a year ago &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251029/p47#a251029p47)
- - [Love the TrimUI Smart Pro? An upgraded gaming handheld may launch soon](https://www.androidauthority.com/trimui-smart-pro-s-details-3611402/)<!-- TECH:END -->
+ - [Mark Zuckerberg says Threads has 150M DAUs, up from 100M+ in December 2024, and Meta has rolled out ads globally in the Threads feed with plans to add video ads &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251029/p56#a251029p56)
+ - [Meta repents again to Republicans in hearing over moderation, while Google stands its ground](https://www.theverge.com/policy/809613/senate-commerce-jawboning-tech-speech-hearing)
+ - [Trump administration charges influencer and congressional candidate over ICE protests](https://www.theverge.com/news/809401/kat-abughazaleh-ice-indicted)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
