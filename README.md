@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [After a divorce and many years without a home, i finally can start again to live... Wish me luck, my fellow degenerates.](http://9gag.com/gag/awyPBBr)
- - 😝 [Here we go](http://9gag.com/gag/aLnVgnA)
- - 👉 [Why boring is good](http://9gag.com/gag/aByjg0A)<!-- MEMES:END -->
+ - 6️⃣ [American nightmare](http://9gag.com/gag/aMVDYAM)
+ - 😝 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
+ - 👉 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)<!-- MEMES:END -->
 
 --- 
 
