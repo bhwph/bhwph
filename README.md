@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for October 29 &lpar;#1593&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-29-2025/)
- - [Twitch heard you wanted more vtubers so it signed a deal with the most popular vtuber agency in the world](https://www.pcgamer.com/gaming-industry/twitch-heard-you-wanted-more-vtubers-so-it-signed-a-deal-with-the-most-popular-vtuber-agency-in-the-world/)
- - [Ninja Offloads the 6-in-1 DualZone Air Fryer, Now 50% Off if You Buy on Amazon](https://kotaku.com/ninja-offloads-the-6-in-1-dualzone-air-fryer-now-50-off-if-you-buy-on-amazon-2000639745)<!-- GAME:END -->
+ - [LEGO Clears Out Some Star Wars Sets, Ahsoka Tano’s Duel on Peridea Is Going for Peanuts](https://kotaku.com/lego-clears-out-some-star-wars-sets-ahsoka-tanos-duel-on-peridea-is-going-for-peanuts-2000639650)
+ - [One of the most shocking moments in Critical Role&#39;s 4th D&amp;D campaign was planned from the jump—yet with enough left to chance that Alexander Ward &#39;did leave the table thinking I&#39;d really f*cked up&#39;](https://www.pcgamer.com/games/rpg/one-of-the-most-shocking-moments-in-critical-roles-4th-d-and-d-campaign-was-planned-from-the-jump-yet-with-enough-left-to-chance-that-alexander-ward-did-leave-the-table-thinking-id-really-f-cked-up/)
+ - [Magical Randy Pitchford summons the ghost of games discourse past, says games &#39;Haven&#39;t even had our Citizen Kane yet&#39;](https://www.pcgamer.com/games/fps/magical-randy-pitchford-summons-the-ghost-of-games-discourse-past-says-games-havent-even-had-our-citizen-kane-yet/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
