@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PowerWash Simulator 2 review](https://www.pcgamer.com/games/sim/powerwash-simulator-2-review/)
- - [Monster Hunter Wilds is getting outsold by its 4-year-old predecessor](https://www.polygon.com/monster-hunter-wilds-sales-less-monster-hunter-rise/)
- - [The Outer Worlds 2&#39;s first big choice is fatally flawed](https://www.polygon.com/the-outer-worlds-2-first-big-choice/)<!-- GAME:END -->
+ - [Arc Raiders launch times and release date](https://www.pcgamer.com/games/rpg/arc-raiders-launch-times-release-date/)
+ - [Arc Raiders: Everything You Need To Know Before Launch](https://kotaku.com/arc-raiders-pvpve-extraction-maps-embark-studios-2000639945)
+ - [MTG Avatar exclusive preview: More Ally and Shrine cards](https://www.polygon.com/mtg-avatar-previews-spoilers-ally-shrine/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
