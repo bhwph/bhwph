@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [China #1](http://9gag.com/gag/ae9yMxv)
+ - 6️⃣ [Freeloading at it&#39;s finest](http://9gag.com/gag/aoyAe1g)
  - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
- - 👉 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)<!-- MEMES:END -->
+ - 👉 [Good quality tents](http://9gag.com/gag/aE0yxOM)<!-- MEMES:END -->
 
 --- 
 
