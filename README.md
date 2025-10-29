@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Battlefield 6 Season 1 battle pass rewards](https://www.polygon.com/battlefield-6-season-1-battle-pass-rewards-list/)
- - [Apple Unloads 2025 iPads, Now Cheaper than Most Budget Android Tablets](https://kotaku.com/apple-unloads-2025-ipads-now-cheaper-than-most-budget-android-tablets-2000639562)
- - [Amazon’s Once Massively Popular MMO Is Going On Life Support](https://kotaku.com/new-world-amazon-mmo-shutting-down-servers-2026-layoffs-new-content-2000639761)<!-- GAME:END -->
+ - [Ninja Offloads the 6-in-1 DualZone Air Fryer, Now 50% Off if You Buy on Amazon](https://kotaku.com/ninja-offloads-the-6-in-1-dualzone-air-fryer-now-50-off-if-you-buy-on-amazon-2000639745)
+ - [This 512GB Lenovo Laptop Now Costs $399 Instead of $1,999, Amazon Clears Out Final Stock](https://kotaku.com/this-lenovo-laptop-with-512gb-now-costs-399-instead-of-1999-amazon-clears-out-final-stock-2000639731)
+ - [Forget AirPods, the Galaxy Buds 3 Pro Are Selling for Pennies and Amazon Sold 30K Units](https://kotaku.com/forget-airpods-the-galaxy-buds-3-pro-are-selling-for-pennies-and-amazon-sold-30k-units-2000639654)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
