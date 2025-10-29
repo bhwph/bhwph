@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the FGC-9, a 3D-printed semiautomatic gun created by a German incel that scholars and lawmakers say is the most popular &quot;ghost gun&quot; outside the US &lpar;Samanth Subramanian/Bloomberg&rpar;](http://www.techmeme.com/251029/p16#a251029p16)
- - [French lawmakers vote to raise France&#39;s digital services tax on US tech giants to 6%, up from 3%; the French government opposes the move, fearing US retaliation &lpar;Politico&rpar;](http://www.techmeme.com/251029/p15#a251029p15)
- - [The Pixel 10a might fix one of my biggest Pixel 9a complaints](https://www.androidauthority.com/google-pixel-10a-fixing-biggest-pixel-9a-complaint-3610900/)<!-- TECH:END -->
+ - [Uber plans to launch its first robotaxi in the San Francisco Bay Area in late 2026, built on Lucid&#39;s Gravity SUV, after testing 100 cars in the coming months &lpar;Dee-Ann Durbin/Associated Press&rpar;](http://www.techmeme.com/251029/p25#a251029p25)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 29&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-29-2025-3610491/)
+ - [Sorry OnePlus, but I’m not buying your excuse for the OnePlus 15 downgrades](https://www.androidauthority.com/oneplus-not-buying-excuse-oneplus-15-downgrades-3610397/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
