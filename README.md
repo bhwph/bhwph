@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just two guys having a beer and a laugh](http://9gag.com/gag/agm65Z6)
- - 😝 [Eye of class 5 hurricane Melissa](http://9gag.com/gag/aRB90BQ)
- - 👉 [After a divorce and many years without a home, i finally can start again to live... Wish me luck, my fellow degenerates.](http://9gag.com/gag/awyPBBr)<!-- MEMES:END -->
+ - 6️⃣ [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)
+ - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
+ - 👉 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)<!-- MEMES:END -->
 
 --- 
 
