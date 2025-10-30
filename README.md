@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is true](http://9gag.com/gag/agm6Bdv)
- - 😝 [Rich people problems](http://9gag.com/gag/avy4znd)
+ - 6️⃣ [This pistol is not for the faint of heart](http://9gag.com/gag/aByjmvx)
+ - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
  - 👉 [The realization](http://9gag.com/gag/awyPMKx)<!-- MEMES:END -->
 
 --- 
