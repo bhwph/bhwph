@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Slashes 5-Star Rated HP 17″ Laptop Bundle by 75% in Massive Clearance Push, Comes With $200 Free Accessories](https://kotaku.com/amazon-slashes-5-star-rated-hp-17%e2%80%b3-laptop-bundle-by-75-in-massive-clearance-push-comes-with-200-free-accessories-2000639982)
- - [How to use the Automechanical Targeting Module in The Outer Worlds 2](https://www.pcgamer.com/games/rpg/outer-worlds-2-automechanical-targeting-module/)
- - [Anker’s 12-in-1 Docking Station Goes for Pennies, and It Works as a Monitor Stand Too](https://kotaku.com/ankers-12-in-1-docking-station-goes-for-pennies-and-it-works-as-a-monitor-stand-too-2000640096)<!-- GAME:END -->
+ - [Best guns in Battlefield 6 Season 1](https://www.polygon.com/battlefield-6-bf6-best-guns/)
+ - [Game of the Year voters have so much to learn from the Oscars](https://www.polygon.com/game-of-the-year-voting/)
+ - [Battlefield 6 players are review bombing Redsec, but not because it&#39;s bad](https://www.polygon.com/battlefield-6-bf6-redsec-review-bomb-steam/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
