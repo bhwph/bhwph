@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best guns in Battlefield 6 Season 1](https://www.polygon.com/battlefield-6-bf6-best-guns/)
- - [Game of the Year voters have so much to learn from the Oscars](https://www.polygon.com/game-of-the-year-voting/)
- - [Battlefield 6 players are review bombing Redsec, but not because it&#39;s bad](https://www.polygon.com/battlefield-6-bf6-redsec-review-bomb-steam/)<!-- GAME:END -->
+ - [Amazon Is Abandoning One Of Its Biggest Games, But Not Before The Devs Got To Say Goodbye](https://kotaku.com/new-world-aeternum-mmo-amazon-shut-down-goodbye-message-2000640173)
+ - [Jurassic World Evolution 3 Is The Best Jurassic Park Game Ever Made](https://kotaku.com/jurassic-world-evolution-3-best-jurassic-park-game-ever-pc-park-sim-baby-dinosaurs-2000639737)
+ - [Grokipedia claims to be &#39;a massive improvement over Wikipedia&#39; but sure loves to copy its homework](https://www.pcgamer.com/software/ai/grokipedia-claims-to-be-a-massive-improvement-over-wikipedia-but-sure-loves-to-copy-its-homework/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
