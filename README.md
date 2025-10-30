@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [“I Sweated So Much I Never Needed to Pee”: Life in China’s Relentless Gig Economy](https://www.wired.com/story/made-in-china-i-deliver-parcels-in-beijing-author-interview/)
- - [The Motorola Razr Ultra is my favorite flip phone, and it’s $400 off](https://www.androidauthority.com/motorola-razr-ultra-deal-4-3611637/)
- - [Adobe&#39;s New AI Is All About Audio. How to Create Music for Your Videos with Firefly](https://www.cnet.com/tech/services-and-software/adobes-new-ai-is-all-about-audio-how-to-create-music-for-your-videos-with-firefly/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube now rewards your likes with fun animations](https://www.theverge.com/news/810319/youtube-like-button-animation-genre-user-interface-update)
+ - [The ICC plans to switch from Microsoft Office to Open Desk, a European open source alternative, amid concerns about public bodies&#39; reliance on US tech companies &lpar;Maximilian Henning/Euractiv&rpar;](http://www.techmeme.com/251030/p36#a251030p36)
+ - [Vivo X300 launch finally brings OriginOS to the rest of the world](https://www.theverge.com/news/810314/vivo-x300-launch-finally-brings-originos-to-the-rest-of-the-world)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
