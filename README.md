@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Is Abandoning One Of Its Biggest Games, But Not Before The Devs Got To Say Goodbye](https://kotaku.com/new-world-aeternum-mmo-amazon-shut-down-goodbye-message-2000640173)
- - [Jurassic World Evolution 3 Is The Best Jurassic Park Game Ever Made](https://kotaku.com/jurassic-world-evolution-3-best-jurassic-park-game-ever-pc-park-sim-baby-dinosaurs-2000639737)
- - [Grokipedia claims to be &#39;a massive improvement over Wikipedia&#39; but sure loves to copy its homework](https://www.pcgamer.com/software/ai/grokipedia-claims-to-be-a-massive-improvement-over-wikipedia-but-sure-loves-to-copy-its-homework/)<!-- GAME:END -->
+ - [Where to find pets in The Outer Worlds 2](https://www.polygon.com/outer-worlds-2-pet-location-how-to-get/)
+ - [Taylor Sheridan and Peter Berg are making the Call of Duty movie](https://www.polygon.com/taylor-sheridan-activision-paramount-call-of-duty-movie/)
+ - [Friday Night Lights Creator Is Making The Call Of Duty Movie](https://kotaku.com/friday-night-lights-creator-yellowstone-call-of-duty-movie-paramount-2000640211)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
