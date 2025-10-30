@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A crucial data analysis feature is coming to NotebookLM very soon](https://www.androidauthority.com/notebooklm-google-sheets-support-3611612/)
- - [OpenAI&#39;s Sora app adds new features, including &quot;character cameos&quot; to create AI deepfakes of pets, illustrations, and more, clip stitching, and leaderboards &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251030/p22#a251030p22)
- - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)<!-- TECH:END -->
+ - [Anker NEBULA Capsule 3 Projector plummets to new all-time low price!](https://www.androidauthority.com/anker-nebula-capsule-3-projector-deal-3611639/)
+ - [Animal Crossing: New Horizons is getting a big Switch 2 upgrade in January](https://www.theverge.com/news/809975/animal-crossing-new-horizons-is-getting-a-big-switch-2-upgrade-in-january)
+ - [5 Best Smart Christmas Lights of 2025: From Twinkly to Govee](https://www.wired.com/gallery/best-smart-christmas-lights/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
