@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Everything but work](http://9gag.com/gag/a4PmEVA)
- - 😝 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
- - 👉 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s over my friend... we can sell crack and cocaine together](http://9gag.com/gag/apRzg8E)
+ - 😝 [How the hell is he still alive?](http://9gag.com/gag/aVv4712)
+ - 👉 [Say again, bro](http://9gag.com/gag/aXPQoWP)<!-- MEMES:END -->
 
 --- 
 
