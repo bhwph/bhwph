@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump and Xi Jinping agree a yearlong truce that rolls back many contentious tariffs and retaliatory measures; the current deal expired on November 10 &lpar;New York Times&rpar;](http://www.techmeme.com/251030/p12#a251030p12)
- - [Elon Musk&#39;s lawyer pledges to fight OpenAI&#39;s for-profit restructuring and says California&#39;s and Delaware&#39;s AGs &quot;cannot sanitize OpenAI&#39;s unlawful conduct&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/251030/p11#a251030p11)
- - [I’m a OnePlus fan, but the OnePlus 15 broke my heart](https://www.androidauthority.com/oneplus-15-broke-my-heart-3611292/)<!-- TECH:END -->
+ - [A crucial data analysis feature is coming to NotebookLM very soon](https://www.androidauthority.com/notebooklm-google-sheets-support-3611612/)
+ - [OpenAI&#39;s Sora app adds new features, including &quot;character cameos&quot; to create AI deepfakes of pets, illustrations, and more, clip stitching, and leaderboards &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251030/p22#a251030p22)
+ - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
