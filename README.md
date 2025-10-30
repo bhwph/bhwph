@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [So, Almost All Of Pokémon’s Mega Evolutions Are X And Y-Shaped, Right?](https://kotaku.com/pokemon-legends-z-a-mega-evolutions-x-y-shaped-tahk0-2000640231)
- - [Should you choose Security Ops or Central Dispatch in The Outer Worlds 2?](https://www.polygon.com/outer-worlds-2-security-ops-central-dispatch-should-you-choose/)
- - [The creator of your dad&#39;s favorite TV show is writing the Call of Duty movie](https://www.pcgamer.com/movies-tv/the-creator-of-your-dads-favorite-tv-show-is-writing-the-call-of-duty-movie/)<!-- GAME:END -->
+ - [Bugonia ending explained: Is Emma Stone&#39;s character an alien?](https://www.polygon.com/bugonia-ending-explained-spoilers-interview-behind-the-scenes/)
+ - [Roblox, which is being sued by 2 US states for endangering children, earns praise from the US Attorney General Alliance for &#39;promoting safe, more positive digital experiences&#39;](https://www.pcgamer.com/games/roblox-which-is-being-sued-by-2-us-states-for-endangering-children-earns-praise-from-the-us-attorney-general-alliance-for-promoting-safe-more-positive-digital-experiences/)
+ - [17 Excellent Horror Games You Can Play For Free With Game Pass This Halloween](https://kotaku.com/game-pass-horror-halloween-pc-resident-evil-2000640197)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
