@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Simpler times](http://9gag.com/gag/a2v97be)
- - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
- - 👉 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)<!-- MEMES:END -->
+ - 6️⃣ [Nature is healing](http://9gag.com/gag/adBrg0j)
+ - 😝 [Based razer](http://9gag.com/gag/aW4PxLn)
+ - 👉 [Everything but work](http://9gag.com/gag/a4PmEVA)<!-- MEMES:END -->
 
 --- 
 
