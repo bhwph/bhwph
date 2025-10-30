@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher season 4 review: Liam Hemsworth becomes Geralt in time for The Witcher to fully become an ensemble show where he&#39;s basically supporting cast](https://www.pcgamer.com/movies-tv/the-witcher-season-4-review-liam-hemsworth-becomes-geralt-in-time-for-the-witcher-to-fully-become-an-ensemble-piece-where-hes-basically-supporting-cast/)
- - [&#39;We did it all for you&#39;: New World&#39;s final expansion contains a hidden goodbye from the developers](https://www.pcgamer.com/games/mmo/we-did-it-all-for-you-new-worlds-final-expansion-contains-a-hidden-goodbye-from-the-developers/)
- - [Today&#39;s Wordle clues, hints and answer for October 30 &lpar;#1594&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-30-2025/)<!-- GAME:END -->
+ - [RRR director S.S. Rajamouli teases the future of the Bahaabuli series](https://www.polygon.com/ss-rajamouli-baahubali-epic-release/)
+ - [The best Arc Raiders skills you should unlock first](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-best-skills/)
+ - [How to find and use Field Crates in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-field-crate-locations-down-to-earth/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
