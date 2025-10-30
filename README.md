@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GitHub says TypeScript surpassed Python and JavaScript in August 2025 to become the most used language among its 180M+ developers; India added 5.2M devs in 2025 &lpar;The GitHub Blog&rpar;](http://www.techmeme.com/251030/p4#a251030p4)
- - [KitchenAid Promo Code: 25% Off in November 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Google’s Halloween Doodle lets you play PAC-MAN in spooky style](https://www.androidauthority.com/google-pac-man-halloween-2025-edition-doodle-3611564/)<!-- TECH:END -->
+ - [President Trump and Xi Jinping agree a yearlong truce that rolls back many contentious tariffs and retaliatory measures; the current deal expired on November 10 &lpar;New York Times&rpar;](http://www.techmeme.com/251030/p12#a251030p12)
+ - [Elon Musk&#39;s lawyer pledges to fight OpenAI&#39;s for-profit restructuring and says California&#39;s and Delaware&#39;s AGs &quot;cannot sanitize OpenAI&#39;s unlawful conduct&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/251030/p11#a251030p11)
+ - [I’m a OnePlus fan, but the OnePlus 15 broke my heart](https://www.androidauthority.com/oneplus-15-broke-my-heart-3611292/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
