@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This pistol is not for the faint of heart](http://9gag.com/gag/aByjmvx)
- - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
- - 👉 [The realization](http://9gag.com/gag/awyPMKx)<!-- MEMES:END -->
+ - 6️⃣ [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
+ - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
+ - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
 
 --- 
 
