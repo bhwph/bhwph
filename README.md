@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nature is healing](http://9gag.com/gag/adBrg0j)
- - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
- - 👉 [Simpler times](http://9gag.com/gag/a2v97be)<!-- MEMES:END -->
+ - 6️⃣ [Everything but work](http://9gag.com/gag/a4PmEVA)
+ - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
+ - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
 
 --- 
 
