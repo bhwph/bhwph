@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker NEBULA Capsule 3 Projector plummets to new all-time low price!](https://www.androidauthority.com/anker-nebula-capsule-3-projector-deal-3611639/)
- - [Animal Crossing: New Horizons is getting a big Switch 2 upgrade in January](https://www.theverge.com/news/809975/animal-crossing-new-horizons-is-getting-a-big-switch-2-upgrade-in-january)
- - [5 Best Smart Christmas Lights of 2025: From Twinkly to Govee](https://www.wired.com/gallery/best-smart-christmas-lights/)<!-- TECH:END -->
+ - [“I Sweated So Much I Never Needed to Pee”: Life in China’s Relentless Gig Economy](https://www.wired.com/story/made-in-china-i-deliver-parcels-in-beijing-author-interview/)
+ - [The Motorola Razr Ultra is my favorite flip phone, and it’s $400 off](https://www.androidauthority.com/motorola-razr-ultra-deal-4-3611637/)
+ - [Adobe&#39;s New AI Is All About Audio. How to Create Music for Your Videos with Firefly](https://www.cnet.com/tech/services-and-software/adobes-new-ai-is-all-about-audio-how-to-create-music-for-your-videos-with-firefly/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
