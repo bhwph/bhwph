@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Everything but work](http://9gag.com/gag/a4PmEVA)
- - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
- - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
+ - 6️⃣ [Simpler times](http://9gag.com/gag/a2v97be)
+ - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
+ - 👉 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)<!-- MEMES:END -->
 
 --- 
 
