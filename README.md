@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung teases Galaxy S26 with next-gen AI, Exynos chip, and new camera sensors](https://www.androidauthority.com/samsung-galaxy-s26-spec-confirmation-q3-2025-earnings-3611552/)
- - [Life sciences group Thermo Fisher agrees to acquire PE-owned drug trial software maker Clario for $9.4B in an all-cash deal expected to close by mid-2026 &lpar;Oliver Barnes/Financial Times&rpar;](http://www.techmeme.com/251030/p1#a251030p1)
- - [How to use Reduce Interruptions on iOS 26 and what it does](https://appleinsider.com/inside/ios-18/tips/how-to-use-reduce-interruptions-on-ios-18-and-what-it-does?utm_source=rss)<!-- TECH:END -->
+ - [KitchenAid Promo Code: 25% Off in November 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+ - [Google’s Halloween Doodle lets you play PAC-MAN in spooky style](https://www.androidauthority.com/google-pac-man-halloween-2025-edition-doodle-3611564/)
+ - [Sources detail how Binance boosted the Trump family&#39;s World Liberty Financial by facilitating a $2B purchase of USD1 and building its tech ahead of CZ&#39;s pardon &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251030/p3#a251030p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
