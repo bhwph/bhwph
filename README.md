@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s over my friend... we can sell crack and cocaine together](http://9gag.com/gag/apRzg8E)
- - 😝 [How the hell is he still alive?](http://9gag.com/gag/aVv4712)
- - 👉 [Say again, bro](http://9gag.com/gag/aXPQoWP)<!-- MEMES:END -->
+ - 6️⃣ [The realization](http://9gag.com/gag/awyPMKx)
+ - 😝 [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
+ - 👉 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)<!-- MEMES:END -->
 
 --- 
 
