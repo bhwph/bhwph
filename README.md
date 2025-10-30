@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube now rewards your likes with fun animations](https://www.theverge.com/news/810319/youtube-like-button-animation-genre-user-interface-update)
- - [The ICC plans to switch from Microsoft Office to Open Desk, a European open source alternative, amid concerns about public bodies&#39; reliance on US tech companies &lpar;Maximilian Henning/Euractiv&rpar;](http://www.techmeme.com/251030/p36#a251030p36)
- - [Vivo X300 launch finally brings OriginOS to the rest of the world](https://www.theverge.com/news/810314/vivo-x300-launch-finally-brings-originos-to-the-rest-of-the-world)<!-- TECH:END -->
+ - [Gboard is getting a new feature to help keep your GIF spam topical](https://www.androidauthority.com/google-gboard-trending-gifs-3611849/)
+ - [Amazon reports Q3 AWS revenue up 20% YoY to $33B, vs. $32.42B est., and AWS operating income up 9.5% YoY to $11.4B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251030/p40#a251030p40)
+ - [It’s official: Google’s Clock app is dropping support for non-Pixel smartwatches](https://www.androidauthority.com/google-clock-drops-non-pixel-watch-support-3611834/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
