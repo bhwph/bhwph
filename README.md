@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
- - 😝 [This pistol is not for the faint of heart](http://9gag.com/gag/aByjmvx)
- - 👉 [Everything but work](http://9gag.com/gag/a4PmEVA)<!-- MEMES:END -->
+ - 6️⃣ [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
+ - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
+ - 👉 [The realization](http://9gag.com/gag/awyPMKx)<!-- MEMES:END -->
 
 --- 
 
