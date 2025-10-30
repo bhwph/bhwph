@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Prepare for Resident Evil Requiem with a story recap from Capcom](https://blog.playstation.com/2025/10/29/prepare-for-resident-evil-requiem-with-a-story-recap-from-capcom/)
- - [Steam Next Fest’s Most Unlikely Breakout Only Requires A Fraction Of Your Screen And Attention](https://kotaku.com/steam-next-fests-most-unlikely-breakout-only-requires-a-fraction-of-your-screen-and-attention-2000639943)
- - [The Battlefield 6 Honeymoon Is Over](https://kotaku.com/battlefield-6-season-one-small-map-battle-royale-reactions-negative-review-ea-2000639948)<!-- GAME:END -->
+ - [Samsung Is Dumping Its 512GB microSD Memory Card, Now Selling for Mere Pennies on the Dollar](https://kotaku.com/samsung-is-dumping-its-512gb-microsd-memory-card-now-selling-for-mere-pennies-on-the-dollar-2000640014)
+ - [London Skyline LEGO Set Is Nearly Free, Amazon Slashes Price on 4.8-Rated Build](https://kotaku.com/london-skyline-lego-set-is-nearly-free-amazon-slashes-price-on-4-8-rated-build-2000640003)
+ - [Philips Clears Hue Bulb Starter Kit Stock, Now Selling at All-Time Low for Early Black Friday](https://kotaku.com/philips-clears-hue-bulb-starter-kit-stock-now-selling-at-all-time-low-for-early-black-friday-2000639968)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
