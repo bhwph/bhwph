@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gboard is getting a new feature to help keep your GIF spam topical](https://www.androidauthority.com/google-gboard-trending-gifs-3611849/)
- - [Amazon reports Q3 AWS revenue up 20% YoY to $33B, vs. $32.42B est., and AWS operating income up 9.5% YoY to $11.4B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251030/p40#a251030p40)
- - [It’s official: Google’s Clock app is dropping support for non-Pixel smartwatches](https://www.androidauthority.com/google-clock-drops-non-pixel-watch-support-3611834/)<!-- TECH:END -->
+ - [Apple is probably done releasing Macs in 2025](https://appleinsider.com/articles/25/10/30/apple-is-probably-done-releasing-macs-in-2025?utm_source=rss)
+ - [Tim Cook didn&#39;t have much to say about reports of low iPhone Air sales](https://appleinsider.com/articles/25/10/30/tim-cook-didnt-have-much-to-say-about-reports-of-low-iphone-air-sales?utm_source=rss)
+ - [Historical trend broken, AAPL makes big gains after earnings](https://appleinsider.com/articles/25/10/30/historical-trend-broken-aapl-makes-big-gains-after-earnings?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
