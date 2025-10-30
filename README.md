@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find pets in The Outer Worlds 2](https://www.polygon.com/outer-worlds-2-pet-location-how-to-get/)
- - [Taylor Sheridan and Peter Berg are making the Call of Duty movie](https://www.polygon.com/taylor-sheridan-activision-paramount-call-of-duty-movie/)
- - [Friday Night Lights Creator Is Making The Call Of Duty Movie](https://kotaku.com/friday-night-lights-creator-yellowstone-call-of-duty-movie-paramount-2000640211)<!-- GAME:END -->
+ - [So, Almost All Of Pokémon’s Mega Evolutions Are X And Y-Shaped, Right?](https://kotaku.com/pokemon-legends-z-a-mega-evolutions-x-y-shaped-tahk0-2000640231)
+ - [Should you choose Security Ops or Central Dispatch in The Outer Worlds 2?](https://www.polygon.com/outer-worlds-2-security-ops-central-dispatch-should-you-choose/)
+ - [The creator of your dad&#39;s favorite TV show is writing the Call of Duty movie](https://www.pcgamer.com/movies-tv/the-creator-of-your-dads-favorite-tv-show-is-writing-the-call-of-duty-movie/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
