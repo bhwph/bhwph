@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Outer Worlds 2 interactive maps](https://www.polygon.com/map/the-outer-worlds-2-interactive-maps-free-market-horizon-point-station/)
- - [GTA 6 Denies Union Busting After Firing Dozens Of Developers](https://kotaku.com/gta-6-rockstar-games-union-busting-delay-2000640525)
- - [Condemned: Criminal Origins, the best game about beating people to death with a lead pipe I&#39;ve ever played, has been delisted from Steam and Xbox, and fans are hoping that means a remaster is on the way](https://www.pcgamer.com/games/horror/condemned-criminal-origins-the-best-game-about-beating-people-to-death-with-a-lead-pipe-ive-ever-played-has-been-delisted-from-steam-and-xbox-and-fans-are-hoping-that-means-a-remaster-is-on-the-way/)<!-- GAME:END -->
+ - [Jurassic Park Rebirth, Ballad of a Small Player, and the best movies on streaming this week](https://www.polygon.com/new-movies-on-streaming-jurassic-park-rebirth-ballad-of-a-small-player/)
+ - [Where to find compression coils for &quot;Hazard a Gas&quot; in The Outer Worlds 2](https://www.polygon.com/outer-worlds-2-compression-coil-locations-hazard-gas-where-to-find/)
+ - [Forget the Stinky Gas Generator, Jackery’s 1500W Power Station Is Going for Pennies on Amazon](https://kotaku.com/forget-the-stinky-gas-generator-jackerys-1500w-power-station-is-going-for-pennies-on-amazon-2000640169)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
