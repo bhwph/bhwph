@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [The realization](http://9gag.com/gag/awyPMKx)
- - 😝 [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
- - 👉 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)<!-- MEMES:END -->
+ - 😝 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
+ - 👉 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)<!-- MEMES:END -->
 
 --- 
 
