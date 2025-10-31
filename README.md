@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for October 31 &lpar;#1595&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-31-2025/)
- - [Arc Raiders&#39; use of AI highlights the tension and confusion over where machine learning ends and generative AI begins](https://www.pcgamer.com/gaming-industry/arc-raiders-use-of-ai-highlights-the-tension-and-confusion-over-where-machine-learning-ends-and-generative-ai-begins/)
- - [The Horus Heresy books reading order: Where to start and where to stop with Warhammer 40,000&#39;s massive prequel series](https://www.pcgamer.com/games/the-horus-heresy-books-reading-order-where-to-start-and-where-to-stop-with-warhammer-40-000s-massive-prequel-series/)<!-- GAME:END -->
+ - [The Iconic Spider-Man 2 Train Scene Comes to LEGO, Now Selling for Pennies on Amazon](https://kotaku.com/the-iconic-spider-man-2-train-scene-comes-to-lego-now-selling-for-pennies-on-amazon-2000640308)
+ - [How to complete A First Foothold in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-a-first-foothold-quest-walkthrough/)
+ - [Anime-based therapy is being trialed in Japan](https://www.pcgamer.com/gaming-industry/game-development/anime-based-therapy-is-being-trialed-in-japan/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
