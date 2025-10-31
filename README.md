@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tether reports that it has generated profits of over $10B during the first three quarters of 2025 and it has issued an additional $17B in USDT during Q3 &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/251031/p16#a251031p16)
- - [What Apple could buy, instead of spending $3.4 billion on tariffs in 2025](https://appleinsider.com/articles/25/10/31/what-apple-could-buy-instead-of-spending-34-billion-on-tariffs-in-2025?utm_source=rss)
- - [Leaked Samsung Pass build adds passport, ID storage, and more](https://www.androidauthority.com/samsung-pass-passport-id-storage-leak-3611987/)<!-- TECH:END -->
+ - [Dolby Atmos arrives in the new, affordable China-exclusive Hyundai Elexio](https://www.theverge.com/tech/811718/dolby-atmos-arrives-in-the-new-affordable-china-exclusive-hyundai-elexio)
+ - [Apple commits to aid following Hurricane Melissa&#39;s deadly Caribbean impact](https://appleinsider.com/articles/25/10/31/apple-commits-to-aid-following-hurricane-melissas-deadly-caribbean-impact?utm_source=rss)
+ - [Boom or bubble? Google wants to help you beat the market](https://www.androidauthority.com/google-finance-earnings-feature-3612127/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
