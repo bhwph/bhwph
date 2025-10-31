@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Gloo, a developer of AI tools for Christian churches with ex-Intel CEO Pat Gelsinger as its head of technology, seeks an $873.4M valuation in its US IPO &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/251030/p61#a251030p61)
- - [US officials want to ban your Wi-Fi router for national security reasons](https://www.androidauthority.com/tp-link-wi-fi-router-ban-us-3611910/)
- - [Amazon CEO Andy Jassy says the 14,000-person layoffs were due to &quot;culture&quot; and &quot;removing layers&quot; from its internal structure, not really AI or financial factors &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/251030/p60#a251030p60)<!-- TECH:END -->
+ - [Samsung says it&#39;s partnering with Nvidia to build an &quot;AI Megafactory&quot; and deploy over 50K of Nvidia&#39;s most advanced GPUs to embed AI in its chipmaking process &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251031/p3#a251031p3)
+ - [Ofcom chief Melanie Dawes warns social media companies to prove their algorithms protect under-18s from seeing harmful content, or face enforcement action &lpar;Dan Thomas/Financial Times&rpar;](http://www.techmeme.com/251031/p2#a251031p2)
+ - [15% Off Dyson Promo Codes | November 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
