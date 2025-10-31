@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dolby Atmos arrives in the new, affordable China-exclusive Hyundai Elexio](https://www.theverge.com/tech/811718/dolby-atmos-arrives-in-the-new-affordable-china-exclusive-hyundai-elexio)
- - [Apple commits to aid following Hurricane Melissa&#39;s deadly Caribbean impact](https://appleinsider.com/articles/25/10/31/apple-commits-to-aid-following-hurricane-melissas-deadly-caribbean-impact?utm_source=rss)
- - [Boom or bubble? Google wants to help you beat the market](https://www.androidauthority.com/google-finance-earnings-feature-3612127/)<!-- TECH:END -->
+ - [Samsung is working on a follow-up to its best mid-ranger of 2025](https://www.androidauthority.com/samsung-galaxy-a57-model-number-3612174/)
+ - [What Apple could buy, instead of spending $3.4 billion on tariffs in 2025](https://appleinsider.com/articles/25/10/31/what-apple-could-buy-instead-of-spending-34-billion-on-tariffs-in-2025?utm_source=rss)
+ - [Microsoft&#39;s Q1 earnings, showing that it had a $3.1B net loss from its OpenAI stake, imply OpenAI lost $11.5B during the quarter based on Microsoft&#39;s 27% stake &lpar;Matt Rosoff/The Register&rpar;](http://www.techmeme.com/251031/p19#a251031p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
