@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Leo just playing himself on screen](http://9gag.com/gag/azxoeyx)
- - 😝 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)
+ - 6️⃣ [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)
+ - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
  - 👉 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)<!-- MEMES:END -->
 
 --- 
