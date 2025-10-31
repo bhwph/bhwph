@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Iconic Spider-Man 2 Train Scene Comes to LEGO, Now Selling for Pennies on Amazon](https://kotaku.com/the-iconic-spider-man-2-train-scene-comes-to-lego-now-selling-for-pennies-on-amazon-2000640308)
- - [How to complete A First Foothold in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-a-first-foothold-quest-walkthrough/)
- - [Anime-based therapy is being trialed in Japan](https://www.pcgamer.com/gaming-industry/game-development/anime-based-therapy-is-being-trialed-in-japan/)<!-- GAME:END -->
+ - [Elon Musk suggested a novel use for &#39;bored&#39; Tesla cars during a recent earnings call: combining their processing power to create a huge distributed 100 gigawatt AI inference fleet](https://www.pcgamer.com/software/ai/elon-musk-suggested-a-novel-use-for-bored-tesla-cars-during-a-recent-earnings-call-combining-their-processing-power-to-create-a-huge-distributed-100-gigawatt-ai-inference-fleet/)
+ - [Deus Ex&#39;s OG art director has seen the remaster: &#39;Oh, what the f***, No. This did not need to happen&#39;](https://www.pcgamer.com/games/rpg/deus-exs-og-art-director-has-seen-the-remaster-oh-what-the-f-no-this-did-not-need-to-happen/)
+ - [Does Arc Raiders use AI voices like Embark Studios did with The Finals?](https://www.polygon.com/arc-raiders-ai-voices-the-finals-embark-studios/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
