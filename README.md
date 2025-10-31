@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Simpler times](http://9gag.com/gag/a2v97be)
- - 😝 [Dragonbal.](http://9gag.com/gag/an78gvL)
+ - 6️⃣ [Strike](http://9gag.com/gag/axyQoPD)
+ - 😝 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)
  - 👉 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)<!-- MEMES:END -->
 
 --- 
