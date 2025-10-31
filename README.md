@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 6️⃣ [Leo just playing himself on screen](http://9gag.com/gag/azxoeyx)
  - 😝 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)
- - 👉 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)<!-- MEMES:END -->
+ - 👉 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)<!-- MEMES:END -->
 
 --- 
 
