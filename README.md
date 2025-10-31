@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elon Musk suggested a novel use for &#39;bored&#39; Tesla cars during a recent earnings call: combining their processing power to create a huge distributed 100 gigawatt AI inference fleet](https://www.pcgamer.com/software/ai/elon-musk-suggested-a-novel-use-for-bored-tesla-cars-during-a-recent-earnings-call-combining-their-processing-power-to-create-a-huge-distributed-100-gigawatt-ai-inference-fleet/)
- - [Deus Ex&#39;s OG art director has seen the remaster: &#39;Oh, what the f***, No. This did not need to happen&#39;](https://www.pcgamer.com/games/rpg/deus-exs-og-art-director-has-seen-the-remaster-oh-what-the-f-no-this-did-not-need-to-happen/)
- - [Does Arc Raiders use AI voices like Embark Studios did with The Finals?](https://www.polygon.com/arc-raiders-ai-voices-the-finals-embark-studios/)<!-- GAME:END -->
+ - [Vote for the best horror game of the year from our 6 nominees](https://www.polygon.com/best-horror-games-of-2025/)
+ - [Japanese patent officials reject one of Nintendo&#39;s Pokémon patent applications for being too similar to ARK, Monster Hunter, and—embarrasingly—Pokémon Go](https://www.pcgamer.com/gaming-industry/japanese-patent-officials-reject-one-of-nintendos-pokemon-patent-applications-for-being-too-similar-to-ark-monster-hunter-and-embarrasingly-pokemon-go/)
+ - [Official PlayStation Podcast Episode 527: Pod x Pit](https://blog.playstation.com/2025/10/31/official-playstation-podcast-episode-527-pod-x-pit/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
