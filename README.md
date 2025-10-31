@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vote for the best horror game of the year from our 6 nominees](https://www.polygon.com/best-horror-games-of-2025/)
- - [Japanese patent officials reject one of Nintendo&#39;s Pokémon patent applications for being too similar to ARK, Monster Hunter, and—embarrasingly—Pokémon Go](https://www.pcgamer.com/gaming-industry/japanese-patent-officials-reject-one-of-nintendos-pokemon-patent-applications-for-being-too-similar-to-ark-monster-hunter-and-embarrasingly-pokemon-go/)
- - [Official PlayStation Podcast Episode 527: Pod x Pit](https://blog.playstation.com/2025/10/31/official-playstation-podcast-episode-527-pod-x-pit/)<!-- GAME:END -->
+ - [The Outer Worlds 2 interactive maps](https://www.polygon.com/map/the-outer-worlds-2-interactive-maps-free-market-horizon-point-station/)
+ - [GTA 6 Denies Union Busting After Firing Dozens Of Developers](https://kotaku.com/gta-6-rockstar-games-union-busting-delay-2000640525)
+ - [Condemned: Criminal Origins, the best game about beating people to death with a lead pipe I&#39;ve ever played, has been delisted from Steam and Xbox, and fans are hoping that means a remaster is on the way](https://www.pcgamer.com/games/horror/condemned-criminal-origins-the-best-game-about-beating-people-to-death-with-a-lead-pipe-ive-ever-played-has-been-delisted-from-steam-and-xbox-and-fans-are-hoping-that-means-a-remaster-is-on-the-way/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
