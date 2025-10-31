@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
+ - 6️⃣ [This pistol is not for the faint of heart](http://9gag.com/gag/aByjmvx)
  - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
- - 👉 [Simpler times](http://9gag.com/gag/a2v97be)<!-- MEMES:END -->
+ - 👉 [Nature is healing](http://9gag.com/gag/adBrg0j)<!-- MEMES:END -->
 
 --- 
 
