@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Play Store summaries save you from skimming app reviews](https://www.androidauthority.com/play-store-ai-generated-review-summaries-3611995/)
- - [Sources: ex-xAI researcher Eric Zelikman is raising $1B at a $5B valuation for Humans&amp;, which aims to train AI that is better at collaborating with humans &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/251031/p12#a251031p12)
- - [Sound Blaster’s modular hub is a reconfigurable Stream Deck for audio](https://www.theverge.com/news/811357/creative-sound-blaster-reimagine-modular-audio-hub-kickstarter)<!-- TECH:END -->
+ - [Tether reports that it has generated profits of over $10B during the first three quarters of 2025 and it has issued an additional $17B in USDT during Q3 &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/251031/p16#a251031p16)
+ - [What Apple could buy, instead of spending $3.4 billion on tariffs in 2025](https://appleinsider.com/articles/25/10/31/what-apple-could-buy-instead-of-spending-34-billion-on-tariffs-in-2025?utm_source=rss)
+ - [Leaked Samsung Pass build adds passport, ID storage, and more](https://www.androidauthority.com/samsung-pass-passport-id-storage-leak-3611987/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
