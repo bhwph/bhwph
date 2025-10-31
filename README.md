@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia CEO Jensen Huang says he still hopes to sell the company&#39;s Blackwell chips to China &quot;someday&quot;, but points out the decision is up to President Trump &lpar;Reuters&rpar;](http://www.techmeme.com/251031/p7#a251031p7)
- - [The Best Mattresses for Stomach Sleepers, According to a Sleep Science Coach &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-for-stomach-sleepers/)
- - [5 changes the Galaxy S26 needs to win over frustrated fans](https://www.androidauthority.com/changes-samsung-galaxy-s26-needs-win-frustrated-fans-3611655/)<!-- TECH:END -->
+ - [18 Cozy Games I&#39;ve Played for Hours, Plus Fun Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-cozy-games/)
+ - [MacBook Pro M5 review: Iterative, yes, but worth every penny](https://appleinsider.com/articles/25/10/31/macbook-pro-m5-review-iterative-yes-but-worth-every-penny?utm_source=rss)
+ - [Upgrade your old outlet with this Anker extender for a mere $15.99](https://www.androidauthority.com/anker-wall-charger-300j-outlet-extender-3611982/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
