@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Strike](http://9gag.com/gag/axyQoPD)
+ - 6️⃣ [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
  - 😝 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)
- - 👉 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)<!-- MEMES:END -->
+ - 👉 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)<!-- MEMES:END -->
 
 --- 
 
