@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bugonia ending explained: Is Emma Stone&#39;s character an alien?](https://www.polygon.com/bugonia-ending-explained-spoilers-interview-behind-the-scenes/)
- - [Roblox, which is being sued by 2 US states for endangering children, earns praise from the US Attorney General Alliance for &#39;promoting safe, more positive digital experiences&#39;](https://www.pcgamer.com/games/roblox-which-is-being-sued-by-2-us-states-for-endangering-children-earns-praise-from-the-us-attorney-general-alliance-for-promoting-safe-more-positive-digital-experiences/)
- - [17 Excellent Horror Games You Can Play For Free With Game Pass This Halloween](https://kotaku.com/game-pass-horror-halloween-pc-resident-evil-2000640197)<!-- GAME:END -->
+ - [Anker’s Open-Ear Headphones Slash 53% Off, Now Nearly Free for Early Black Friday](https://kotaku.com/ankers-open-ear-headphones-slash-53-off-now-nearly-free-for-early-black-friday-2000640322)
+ - [How to get Stareweed in 99 Nights in the Forest](https://www.pcgamer.com/roblox/99-nights-in-the-forest-stareweed/)
+ - [HP Monster Laptop &lpar;64 GB RAM, 2 TB SSD&rpar; Hits Mid-Range Pricing After Amazon’s Massive $2,300 Price Cut](https://kotaku.com/hp-monster-laptop-64-gb-ram-2-tb-ssd-hits-mid-range-pricing-after-amazons-massive-2300-price-cut-2000640236)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
