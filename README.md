@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
- - 😝 [The realization](http://9gag.com/gag/awyPMKx)
+ - 6️⃣ [Simpler times](http://9gag.com/gag/a2v97be)
+ - 😝 [Dragonbal.](http://9gag.com/gag/an78gvL)
  - 👉 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)<!-- MEMES:END -->
 
 --- 
