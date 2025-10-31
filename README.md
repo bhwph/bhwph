@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This pistol is not for the faint of heart](http://9gag.com/gag/aByjmvx)
- - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
- - 👉 [Nature is healing](http://9gag.com/gag/adBrg0j)<!-- MEMES:END -->
+ - 6️⃣ [Say again, bro](http://9gag.com/gag/aXPQoWP)
+ - 😝 [Fake it till you make it.](http://9gag.com/gag/a4Pm1mQ)
+ - 👉 [Goal of the Year in 2004 in the Netherlands, Zlatan Ibrahimovi\u0107.](http://9gag.com/gag/axyQBOn)<!-- MEMES:END -->
 
 --- 
 
