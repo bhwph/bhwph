@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [18 Cozy Games I&#39;ve Played for Hours, Plus Fun Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-cozy-games/)
- - [MacBook Pro M5 review: Iterative, yes, but worth every penny](https://appleinsider.com/articles/25/10/31/macbook-pro-m5-review-iterative-yes-but-worth-every-penny?utm_source=rss)
- - [Upgrade your old outlet with this Anker extender for a mere $15.99](https://www.androidauthority.com/anker-wall-charger-300j-outlet-extender-3611982/)<!-- TECH:END -->
+ - [New Play Store summaries save you from skimming app reviews](https://www.androidauthority.com/play-store-ai-generated-review-summaries-3611995/)
+ - [Sources: ex-xAI researcher Eric Zelikman is raising $1B at a $5B valuation for Humans&amp;, which aims to train AI that is better at collaborating with humans &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/251031/p12#a251031p12)
+ - [Sound Blaster’s modular hub is a reconfigurable Stream Deck for audio](https://www.theverge.com/news/811357/creative-sound-blaster-reimagine-modular-audio-hub-kickstarter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
