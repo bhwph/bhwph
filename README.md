@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Simpler times](http://9gag.com/gag/a2v97be)
- - 😝 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
- - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
+ - 6️⃣ [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
+ - 😝 [The realization](http://9gag.com/gag/awyPMKx)
+ - 👉 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)<!-- MEMES:END -->
 
 --- 
 
