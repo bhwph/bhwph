@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)
- - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
- - 👉 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)<!-- MEMES:END -->
+ - 6️⃣ [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
+ - 😝 [The cat climbed in to meet her dog friend&#39;s new babies.](http://9gag.com/gag/aoyAKbn)
+ - 👉 [Bread? Why does my tummy hurts?](http://9gag.com/gag/aqyBeGM)<!-- MEMES:END -->
 
 --- 
 
