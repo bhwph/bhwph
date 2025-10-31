@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want to Stay Active as You Age? These Exercises Can Help](https://www.cnet.com/health/fitness/want-to-stay-active-as-you-age-these-exercises-can-help/#ftag=CAD590a51e)
- - [This leaked OnePlus flagship looks like a better bet than the OnePlus 15](https://www.androidauthority.com/oneplus-15-t-s-small-flagship-leak-3611928/)
- - [Doomscrolling on the go? One UI 8.5 could help save your limited data plan &lpar;APK teardown&rpar;](https://www.androidauthority.com/one-ui-8-5-adaptive-data-saver-apk-teardown-3611924/)<!-- TECH:END -->
+ - [Nvidia CEO Jensen Huang says he still hopes to sell the company&#39;s Blackwell chips to China &quot;someday&quot;, but points out the decision is up to President Trump &lpar;Reuters&rpar;](http://www.techmeme.com/251031/p7#a251031p7)
+ - [The Best Mattresses for Stomach Sleepers, According to a Sleep Science Coach &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-for-stomach-sleepers/)
+ - [5 changes the Galaxy S26 needs to win over frustrated fans](https://www.androidauthority.com/changes-samsung-galaxy-s26-needs-win-frustrated-fans-3611655/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
