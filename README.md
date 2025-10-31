@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Say again, bro](http://9gag.com/gag/aXPQoWP)
- - 😝 [Fake it till you make it.](http://9gag.com/gag/a4Pm1mQ)
- - 👉 [Goal of the Year in 2004 in the Netherlands, Zlatan Ibrahimovi\u0107.](http://9gag.com/gag/axyQBOn)<!-- MEMES:END -->
+ - 6️⃣ [Simpler times](http://9gag.com/gag/a2v97be)
+ - 😝 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
+ - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
 
 --- 
 
