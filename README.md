@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hummm...](http://9gag.com/gag/aE0yqj9)
- - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
+ - 6️⃣ [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
+ - 😝 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
  - 👉 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)<!-- MEMES:END -->
 
 --- 
