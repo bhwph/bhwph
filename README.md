@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Coinbase is in late stage talks to buy stablecoin infra startup BVNK in a ~$2B deal; Coinbase expects to close the deal later this year or early 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251031/p23#a251031p23)
- - [In its Q3 earnings, Alphabet said the profit included &quot;net gains on equity securities of $10.7B,&quot; in part from a private company, which sources say is Anthropic &lpar;Bloomberg&rpar;](http://www.techmeme.com/251031/p22#a251031p22)
- - [YouTube execs flat-out deny claims Biden admin pushed for censorship](https://www.androidauthority.com/youtube-censorship-pressure-3612111/)<!-- TECH:END -->
+ - [Tech companies, including Meta and xAI, are using SPVs to raise tens of billions for AI data centers, letting them keep the debt off their balance sheets &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/251031/p25#a251031p25)
+ - [Here’s how you can score a Mint Mobile plan for just $10 per month](https://www.androidauthority.com/mint-mobile-discount-3612214/)
+ - [At TwitchCon, I Learned the Secret of Why Some Twitch Games Become Smash Hits](https://www.cnet.com/tech/services-and-software/at-twitchcon-i-learned-the-secret-of-why-some-twitch-games-become-smash-hits/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
