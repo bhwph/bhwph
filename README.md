@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Leo just playing himself on screen](http://9gag.com/gag/azxoeyx)
- - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
- - 👉 [Last scroll before soul disconnects](http://9gag.com/gag/aqyByop)<!-- MEMES:END -->
+ - 6️⃣ [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
+ - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
+ - 👉 [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)<!-- MEMES:END -->
 
 --- 
 
