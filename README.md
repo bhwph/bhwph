@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best noir movies to stream this Noirvember](https://www.polygon.com/noirvember-streaming-what-to-watch-classics-neo-noir-recommendations/)
- - [Brendan Greene&#39;s open-world survival roguelike hikes into early access later this month, and it&#39;ll actually let you save your run through its brutal wilderness](https://www.pcgamer.com/games/survival-crafting/brendan-greenes-open-world-survival-roguelike-hikes-into-early-access-later-this-month-and-itll-actually-let-you-save-your-run-through-its-brutal-wilderness/)
- - [D&amp;D&#39;s new Forgotten Realms campaign setting should have been a single book](https://www.polygon.com/dungeons-dragons-dnd-forgotten-realms-adventures-heroes-review-impressions/)<!-- GAME:END -->
+ - [Is GTA 6 coming to Switch 2? What we know so far](https://www.polygon.com/gta-6-switch-2-release-graphics-rockstar-power/)
+ - [GOG&#39;s preservation program now includes Splinter Cell, Resident Evil HD and, er, Spore, while you can also get 95% of XCOM 2 in its Autumn Sale](https://www.pcgamer.com/games/gogs-preservation-program-now-includes-splinter-cell-resident-evil-hd-and-er-spore-while-you-can-also-get-95-percent-of-xcom-2-in-its-autumn-sale/)
+ - [Outer Worlds 2 makes being a villain fun](https://www.polygon.com/outer-worlds-2-best-way-to-play-supervillain/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
