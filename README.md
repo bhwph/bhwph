@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Witcher season 4 episode 5: Showrunner reveals the inspiration for the &#39;soup episode&#39;](https://www.polygon.com/the-witcher-season-4-episode-5-musical-animation/)
  - [Anker’s 60k mAh Power Bank Returns to Its All-Time Low Price, Charges Your iPhone 10 Times](https://kotaku.com/ankers-60k-mah-power-bank-returns-to-its-all-time-low-price-charges-your-iphone-10-times-2000639699)
- - [The proof is undeniable: People will still pay for great shooters](https://www.pcgamer.com/games/fps/the-proof-is-undeniable-people-will-still-pay-for-great-shooters/)
- - [Here&#39;s everything you can get in Arc Raiders from Twitch Drops and Discord Quests](https://www.pcgamer.com/games/third-person-shooter/heres-everything-you-can-get-in-arc-raiders-from-twitch-drops-and-discord-quests/)<!-- GAME:END -->
+ - [The proof is undeniable: People will still pay for great shooters](https://www.pcgamer.com/games/fps/the-proof-is-undeniable-people-will-still-pay-for-great-shooters/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
