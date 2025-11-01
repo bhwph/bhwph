@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jurassic Park Rebirth, Ballad of a Small Player, and the best movies on streaming this week](https://www.polygon.com/new-movies-on-streaming-jurassic-park-rebirth-ballad-of-a-small-player/)
- - [Where to find compression coils for &quot;Hazard a Gas&quot; in The Outer Worlds 2](https://www.polygon.com/outer-worlds-2-compression-coil-locations-hazard-gas-where-to-find/)
- - [Forget the Stinky Gas Generator, Jackery’s 1500W Power Station Is Going for Pennies on Amazon](https://kotaku.com/forget-the-stinky-gas-generator-jackerys-1500w-power-station-is-going-for-pennies-on-amazon-2000640169)<!-- GAME:END -->
+ - [Anker’s 60k mAh Power Bank Returns to Its All-Time Low Price, Charges Your iPhone 10 Times](https://kotaku.com/ankers-60k-mah-power-bank-returns-to-its-all-time-low-price-charges-your-iphone-10-times-2000639699)
+ - [The proof is undeniable: People will still pay for great shooters](https://www.pcgamer.com/games/fps/the-proof-is-undeniable-people-will-still-pay-for-great-shooters/)
+ - [Here&#39;s everything you can get in Arc Raiders from Twitch Drops and Discord Quests](https://www.pcgamer.com/games/third-person-shooter/heres-everything-you-can-get-in-arc-raiders-from-twitch-drops-and-discord-quests/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
