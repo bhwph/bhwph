@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [35 Best Family Board Games &lpar;2025&rpar;: Catan, Ticket to Ride, Codenames](https://www.wired.com/gallery/best-family-board-games/)
- - [LG’s brilliant B5 OLED TV is already down to just $530 for Black Friday](https://www.theverge.com/tech/811935/lg-b5-oled-tv-black-friday-doorbuster-deal-sale)
- - [9 Best Rain Jackets &lpar;2025&rpar;: Cheap, Eco-Friendly, Hiking, and Running](https://www.wired.com/story/best-rain-jackets/)<!-- TECH:END -->
+ - [Turkish state media reports that Faruk Fatih Ozer, the former CEO of failed crypto exchange Thodex, has been found dead in his prison cell &lpar;Baris Balci/Bloomberg&rpar;](http://www.techmeme.com/251101/p14#a251101p14)
+ - [Epomaker Galaxy 68 review: Vanilla mechanical best skipped by Mac users](https://appleinsider.com/articles/25/11/01/epomaker-galaxy-68-review-vanilla-mechanical-best-skipped-by-mac-users?utm_source=rss)
+ - [&#39;The Chair Company&#39;: When You Can Watch Episode 4](https://www.cnet.com/tech/services-and-software/the-chair-company-when-you-can-watch-episode-4/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
