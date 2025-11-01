@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Mortal Kombat: Legacy Kollection saved lost MK media](https://www.polygon.com/mortal-kombat-legacy-collection-ultimate-mk3-wavenet-interview/)
- - [Pokémon Gen 10 should combine the best elements of past games](https://www.polygon.com/pokemon-gen-10-wind-waves-most-wanted-features/)
- - [Can you name every Warhammer PC game in five minutes? No, you definitely can&#39;t, and frankly I&#39;ll be amazed if you can even get half](https://www.pcgamer.com/games/can-you-name-every-warhammer-pc-game-in-five-minutes-no-you-definitely-cant-and-frankly-ill-be-amazed-if-you-can-even-get-half/)<!-- GAME:END -->
+ - [Build and defend your little time-looping castle town in Super Fantasy Kingdom](https://www.pcgamer.com/games/roguelike/build-and-defend-your-little-time-looping-castle-town-in-super-fantasy-kingdom/)
+ - [Beloved boomer shooter Dusk celebrates coming to Xbox with new &#39;Dusk Gulch&#39; level riffing on Halo&#39;s best multiplayer map](https://www.pcgamer.com/games/fps/beloved-boomer-shooter-dusk-celebrates-coming-to-xbox-with-new-dusk-gulch-level-riffing-on-halos-best-multiplayer-map/)
+ - [How Mortal Kombat: Legacy Kollection saved lost MK media](https://www.polygon.com/mortal-kombat-legacy-collection-ultimate-mk3-wavenet-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
