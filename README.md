@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Nov. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-nov-1/#ftag=CAD590a51e)
  - [Tech companies, including Meta and xAI, are using SPVs to raise tens of billions for AI data centers, letting them keep the debt off their balance sheets &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/251031/p25#a251031p25)
- - [Here’s how you can score a Mint Mobile plan for just $10 per month](https://www.androidauthority.com/mint-mobile-discount-3612214/)
- - [At TwitchCon, I Learned the Secret of Why Some Twitch Games Become Smash Hits](https://www.cnet.com/tech/services-and-software/at-twitchcon-i-learned-the-secret-of-why-some-twitch-games-become-smash-hits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kim Kardashian Denies the Moon Landing and NASA Corrects Her Publicly](https://www.cnet.com/science/kim-kardashian-denies-the-moon-landing-and-nasa-corrects-her-publicly/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
