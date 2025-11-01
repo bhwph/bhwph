@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Hummm...](http://9gag.com/gag/aE0yqj9)
- - 😝 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
- - 👉 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)<!-- MEMES:END -->
+ - 😝 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)
+ - 👉 [Bro was like: you sure about that?](http://9gag.com/gag/aByjZ91)<!-- MEMES:END -->
 
 --- 
 
