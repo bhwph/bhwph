@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don&#39;t know this actor but damn, he is good.](http://9gag.com/gag/aZZoZwz)
- - 😝 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)
+ - 6️⃣ [A perfect car for a ninja](http://9gag.com/gag/a7oPOdq)
+ - 😝 [You can just do things &lpar;especially if you don&#39;t have that long to live&rpar;](http://9gag.com/gag/aXPQPGb)
  - 👉 [At a pet store, two polite dogs are offered treats by a friendly employee. Instead of immediately snatching them, they both look up at their owner with the sweetest, most patient expressions, waiting for permission.](http://9gag.com/gag/a7oPoR2)<!-- MEMES:END -->
 
 --- 
