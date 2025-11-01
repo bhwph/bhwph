@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shares of Seagate and Western Digital have sharply outperformed the broader market in 2025, surging ~200% on AI-related infrastructure demand for hard drives &lpar;Shashwat Chauhan/Reuters&rpar;](http://www.techmeme.com/251101/p5#a251101p5)
- - [Vista Equity Partners buys a majority stake in Nexthink, which uses AI to let businesses track employees&#39; device and app performance, valuing Nexthink at $3B &lpar;Paula Doenecke/Bloomberg&rpar;](http://www.techmeme.com/251101/p4#a251101p4)
- - [Vodafone agrees to acquire Skaylink, a German company specializing in managing cloud deployments on Microsoft Azure and AWS, for €175M from PE firm Waterland &lpar;Yamini Kalia/Reuters&rpar;](http://www.techmeme.com/251101/p3#a251101p3)<!-- TECH:END -->
+ - [A $20K Humanoid Robot to Help Around the House? The Price Isn&#39;t the Only Caveat](https://www.cnet.com/tech/a-20k-humanoid-robot-to-help-around-the-house-the-price-isnt-the-only-caveat/#ftag=CAD590a51e)
+ - [Despite the hype around large AI models, many companies like Meta are using small models for routine tasks, finding them more practical and cost-effective &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/251101/p6#a251101p6)
+ - [Shares of Seagate and Western Digital have sharply outperformed the broader market in 2025, surging ~200% on AI-related infrastructure demand for hard drives &lpar;Shashwat Chauhan/Reuters&rpar;](http://www.techmeme.com/251101/p5#a251101p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
