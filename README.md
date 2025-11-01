@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Crash test](http://9gag.com/gag/amoKoeo)
- - 😝 [I&#39;m built different](http://9gag.com/gag/aXPQLvz)
- - 👉 [That hand....](http://9gag.com/gag/awyPyGQ)<!-- MEMES:END -->
+ - 6️⃣ [Hummm...](http://9gag.com/gag/aE0yqj9)
+ - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
+ - 👉 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)<!-- MEMES:END -->
 
 --- 
 
