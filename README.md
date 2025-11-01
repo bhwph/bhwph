@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto is borrowing a key new Apple CarPlay feature](https://www.androidauthority.com/authority-insights-podcast-011-3612047/)
- - [I Went Hands-On With the OnePlus 15&#39;s Camera and You Need to See the Results](https://www.cnet.com/tech/mobile/i-went-hands-on-with-the-oneplus-15s-camera-and-you-need-to-see-the-results/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Nottingham Forest vs. Man United From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-man-united-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [35 Best Family Board Games &lpar;2025&rpar;: Catan, Ticket to Ride, Codenames](https://www.wired.com/gallery/best-family-board-games/)
+ - [LG’s brilliant B5 OLED TV is already down to just $530 for Black Friday](https://www.theverge.com/tech/811935/lg-b5-oled-tv-black-friday-doorbuster-deal-sale)
+ - [9 Best Rain Jackets &lpar;2025&rpar;: Cheap, Eco-Friendly, Hiking, and Running](https://www.wired.com/story/best-rain-jackets/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
