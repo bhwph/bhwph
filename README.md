@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Build and defend your little time-looping castle town in Super Fantasy Kingdom](https://www.pcgamer.com/games/roguelike/build-and-defend-your-little-time-looping-castle-town-in-super-fantasy-kingdom/)
- - [Beloved boomer shooter Dusk celebrates coming to Xbox with new &#39;Dusk Gulch&#39; level riffing on Halo&#39;s best multiplayer map](https://www.pcgamer.com/games/fps/beloved-boomer-shooter-dusk-celebrates-coming-to-xbox-with-new-dusk-gulch-level-riffing-on-halos-best-multiplayer-map/)
- - [How Mortal Kombat: Legacy Kollection saved lost MK media](https://www.polygon.com/mortal-kombat-legacy-collection-ultimate-mk3-wavenet-interview/)<!-- GAME:END -->
+ - [How to customize your Sidekick in Fortnite](https://www.polygon.com/fortnite-sidekick-customize-appearance-how-to/)
+ - [&#39;Skinballs,&#39; a Saints Row test NPC that looks like four floating scoops of ice cream, has been preserved as part of a museum collection](https://www.pcgamer.com/games/action/skinballs-a-saints-row-test-npc-that-looks-like-four-floating-scoops-of-ice-cream-has-been-preserved-as-part-of-a-museum-collection/)
+ - [Nightmare on Elm Street 2 at 40: Ahead of its time in more ways than one](https://www.polygon.com/a-nightmare-on-elm-street-2-freddys-revenge/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
