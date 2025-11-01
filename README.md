@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 😝 [The cat climbed in to meet her dog friend&#39;s new babies.](http://9gag.com/gag/aoyAKbn)
- - 👉 [Bread? Why does my tummy hurts?](http://9gag.com/gag/aqyBeGM)<!-- MEMES:END -->
+ - 6️⃣ [Leo just playing himself on screen](http://9gag.com/gag/azxoeyx)
+ - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 👉 [Last scroll before soul disconnects](http://9gag.com/gag/aqyByop)<!-- MEMES:END -->
 
 --- 
 
