@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hummm...](http://9gag.com/gag/aE0yqj9)
- - 😝 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)
- - 👉 [Bro was like: you sure about that?](http://9gag.com/gag/aByjZ91)<!-- MEMES:END -->
+ - 6️⃣ [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
+ - 😝 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
+ - 👉 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)<!-- MEMES:END -->
 
 --- 
 
