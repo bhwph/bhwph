@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 😝 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
- - 👉 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)<!-- MEMES:END -->
+ - 6️⃣ [Crash test](http://9gag.com/gag/amoKoeo)
+ - 😝 [I&#39;m built different](http://9gag.com/gag/aXPQLvz)
+ - 👉 [That hand....](http://9gag.com/gag/awyPyGQ)<!-- MEMES:END -->
 
 --- 
 
