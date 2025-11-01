@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A major change to One Piece marks the end of anime&#39;s golden age](https://www.polygon.com/one-piece-anime-seasonal-26-episodes-end-of-an-era/)
- - [The Dwarf Fortress of survival gaming has been in continual development for 33 years, and its creator doesn&#39;t think he&#39;ll ever stop updating it: &#39;When I accomplish one feature, I always have two more waiting&#39;](https://www.pcgamer.com/games/survival-crafting/the-dwarf-fortress-of-survival-gaming-has-been-in-continual-development-for-33-years-and-its-creator-doesnt-think-hell-ever-stop-updating-it-when-i-accomplish-one-feature-i-always-have-two-more-waiting/)
- - [Fortnite&#39;s The Simpsons collab is also bringing new items to Rocket League](https://www.polygon.com/the-simpsons-rocket-league-car-fortnite/)<!-- GAME:END -->
+ - [How Mortal Kombat: Legacy Kollection saved lost MK media](https://www.polygon.com/mortal-kombat-legacy-collection-ultimate-mk3-wavenet-interview/)
+ - [Pokémon Gen 10 should combine the best elements of past games](https://www.polygon.com/pokemon-gen-10-wind-waves-most-wanted-features/)
+ - [Can you name every Warhammer PC game in five minutes? No, you definitely can&#39;t, and frankly I&#39;ll be amazed if you can even get half](https://www.pcgamer.com/games/can-you-name-every-warhammer-pc-game-in-five-minutes-no-you-definitely-cant-and-frankly-ill-be-amazed-if-you-can-even-get-half/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
