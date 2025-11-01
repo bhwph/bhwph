@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Last scroll before soul disconnects](http://9gag.com/gag/aqyByop)
- - 😝 [Best Picture award](http://9gag.com/gag/azxo2RK)
+ - 6️⃣ [Hummm...](http://9gag.com/gag/aE0yqj9)
+ - 😝 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
  - 👉 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)<!-- MEMES:END -->
 
 --- 
