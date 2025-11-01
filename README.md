@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The White House says China has agreed to effectively end rare earth export controls issued in 2025 and 2022, and will also close probes of US chip companies &lpar;Hadriana Lowenkron/Bloomberg&rpar;](http://www.techmeme.com/251101/p16#a251101p16)
- - [Q&amp;A with Sam Altman and Satya Nadella about the Microsoft-OpenAI partnership, OpenAI&#39;s restructuring and $100B revenue target for 2027, $3T AI buildout, more &lpar;@bg2pod&rpar;](http://www.techmeme.com/251101/p15#a251101p15)
- - [Google’s Pixel Watch 3 and Anker’s two-headed USB-C cable are our favorite deals this week](https://www.theverge.com/tech/811879/google-pixel-watch-3-anker-140w-usb-c-cable-deal-sale)<!-- TECH:END -->
+ - [Microsoft&#39;s AI tools still lag behind OpenAI&#39;s, as Microsoft struggles to create a cohesive AI experience and add new features by integrating OpenAI models &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/251101/p18#a251101p18)
+ - [Grokipedia content often closely mirrors Wikipedia except for some political topics but its use of AI makes it better than Wikipedia on obscure entries &lpar;Business Insider&rpar;](http://www.techmeme.com/251101/p17#a251101p17)
+ - [The White House says China has agreed to effectively end rare earth export controls issued in 2025 and 2022, and will also close probes of US chip companies &lpar;Hadriana Lowenkron/Bloomberg&rpar;](http://www.techmeme.com/251101/p16#a251101p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
