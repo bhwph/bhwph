@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 😝 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
+ - 6️⃣ [How does he do it?](http://9gag.com/gag/aXPQLOb)
+ - 😝 [Bet you didn&#39;t know &lpar;true mostly in rural zone like south Jutland, I&#39;ve been told&rpar;](http://9gag.com/gag/aVv4beM)
  - 👉 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)<!-- MEMES:END -->
 
 --- 
