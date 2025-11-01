@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher season 4 episode 5: Showrunner reveals the inspiration for the &#39;soup episode&#39;](https://www.polygon.com/the-witcher-season-4-episode-5-musical-animation/)
- - [Anker’s 60k mAh Power Bank Returns to Its All-Time Low Price, Charges Your iPhone 10 Times](https://kotaku.com/ankers-60k-mah-power-bank-returns-to-its-all-time-low-price-charges-your-iphone-10-times-2000639699)
- - [The proof is undeniable: People will still pay for great shooters](https://www.pcgamer.com/games/fps/the-proof-is-undeniable-people-will-still-pay-for-great-shooters/)<!-- GAME:END -->
+ - [The best noir movies to stream this Noirvember](https://www.polygon.com/noirvember-streaming-what-to-watch-classics-neo-noir-recommendations/)
+ - [Brendan Greene&#39;s open-world survival roguelike hikes into early access later this month, and it&#39;ll actually let you save your run through its brutal wilderness](https://www.pcgamer.com/games/survival-crafting/brendan-greenes-open-world-survival-roguelike-hikes-into-early-access-later-this-month-and-itll-actually-let-you-save-your-run-through-its-brutal-wilderness/)
+ - [D&amp;D&#39;s new Forgotten Realms campaign setting should have been a single book](https://www.polygon.com/dungeons-dragons-dnd-forgotten-realms-adventures-heroes-review-impressions/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
