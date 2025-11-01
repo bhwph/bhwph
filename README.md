@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Nov. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-nov-1/#ftag=CAD590a51e)
- - [Tech companies, including Meta and xAI, are using SPVs to raise tens of billions for AI data centers, letting them keep the debt off their balance sheets &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/251031/p25#a251031p25)
- - [Kim Kardashian Denies the Moon Landing and NASA Corrects Her Publicly](https://www.cnet.com/science/kim-kardashian-denies-the-moon-landing-and-nasa-corrects-her-publicly/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Shares of Seagate and Western Digital have sharply outperformed the broader market in 2025, surging ~200% on AI-related infrastructure demand for hard drives &lpar;Shashwat Chauhan/Reuters&rpar;](http://www.techmeme.com/251101/p5#a251101p5)
+ - [Vista Equity Partners buys a majority stake in Nexthink, which uses AI to let businesses track employees&#39; device and app performance, valuing Nexthink at $3B &lpar;Paula Doenecke/Bloomberg&rpar;](http://www.techmeme.com/251101/p4#a251101p4)
+ - [Vodafone agrees to acquire Skaylink, a German company specializing in managing cloud deployments on Microsoft Azure and AWS, for €175M from PE firm Waterland &lpar;Yamini Kalia/Reuters&rpar;](http://www.techmeme.com/251101/p3#a251101p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
