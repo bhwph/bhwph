@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Great Tree Test: Best Artificial Christmas Trees 2025](https://www.wired.com/gallery/best-fake-christmas-trees/)
- - [I’m my family’s tech expert, and this is the cheap Android phone I told my mom to buy](https://www.androidauthority.com/how-to-choose-phone-for-parent-3611323/)
- - [Peacock: 13 of the Best Movies to Stream Right Now](https://www.cnet.com/culture/entertainment/peacock-best-movies-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android Auto is borrowing a key new Apple CarPlay feature](https://www.androidauthority.com/authority-insights-podcast-011-3612047/)
+ - [I Went Hands-On With the OnePlus 15&#39;s Camera and You Need to See the Results](https://www.cnet.com/tech/mobile/i-went-hands-on-with-the-oneplus-15s-camera-and-you-need-to-see-the-results/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Nottingham Forest vs. Man United From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-man-united-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
