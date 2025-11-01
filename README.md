@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Is GTA 6 coming to Switch 2? What we know so far](https://www.polygon.com/gta-6-switch-2-release-graphics-rockstar-power/)
- - [GOG&#39;s preservation program now includes Splinter Cell, Resident Evil HD and, er, Spore, while you can also get 95% of XCOM 2 in its Autumn Sale](https://www.pcgamer.com/games/gogs-preservation-program-now-includes-splinter-cell-resident-evil-hd-and-er-spore-while-you-can-also-get-95-percent-of-xcom-2-in-its-autumn-sale/)
- - [Outer Worlds 2 makes being a villain fun](https://www.polygon.com/outer-worlds-2-best-way-to-play-supervillain/)<!-- GAME:END -->
+ - [A major change to One Piece marks the end of anime&#39;s golden age](https://www.polygon.com/one-piece-anime-seasonal-26-episodes-end-of-an-era/)
+ - [The Dwarf Fortress of survival gaming has been in continual development for 33 years, and its creator doesn&#39;t think he&#39;ll ever stop updating it: &#39;When I accomplish one feature, I always have two more waiting&#39;](https://www.pcgamer.com/games/survival-crafting/the-dwarf-fortress-of-survival-gaming-has-been-in-continual-development-for-33-years-and-its-creator-doesnt-think-hell-ever-stop-updating-it-when-i-accomplish-one-feature-i-always-have-two-more-waiting/)
+ - [Fortnite&#39;s The Simpsons collab is also bringing new items to Rocket League](https://www.polygon.com/the-simpsons-rocket-league-car-fortnite/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
