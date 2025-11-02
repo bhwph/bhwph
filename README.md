@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s AI tools still lag behind OpenAI&#39;s, as Microsoft struggles to create a cohesive AI experience and add new features by integrating OpenAI models &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/251101/p18#a251101p18)
- - [Grokipedia content often closely mirrors Wikipedia except for some political topics but its use of AI makes it better than Wikipedia on obscure entries &lpar;Business Insider&rpar;](http://www.techmeme.com/251101/p17#a251101p17)
- - [The White House says China has agreed to effectively end rare earth export controls issued in 2025 and 2022, and will also close probes of US chip companies &lpar;Hadriana Lowenkron/Bloomberg&rpar;](http://www.techmeme.com/251101/p16#a251101p16)<!-- TECH:END -->
+ - [How Google Cloud has become one of Alphabet&#39;s fastest-growing businesses under Thomas Kurian, driven by investments in AI, data centers, custom chips, and more &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/251101/p20#a251101p20)
+ - [A profile of Aaron Greenspan, who has spent years on a crusade to expose what he believes are financial problems at Tesla and at big tech companies &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/251101/p19#a251101p19)
+ - [Microsoft&#39;s AI tools still lag behind OpenAI&#39;s, as Microsoft struggles to create a cohesive AI experience and add new features by integrating OpenAI models &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/251101/p18#a251101p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
