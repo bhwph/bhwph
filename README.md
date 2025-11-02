@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of David Bailey, Trump&#39;s informal crypto advisor who organizes the Bitcoin Conference, as he seeks to turn a Utah health clinic into a bitcoin bank &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/251102/p6#a251102p6)
- - [LiberNovo Omni Review: A Motorized Office Chair](https://www.wired.com/review/libernovo-omni/)
- - [The perfect grocery list-making app doesn’t exist](https://www.theverge.com/tech/809152/grocery-list-app-paprika-better-meal-google-keep)<!-- TECH:END -->
+ - [M5 MacBook Air, iPad, iPhone 17e: Apple&#39;s plans for the first half of 2026](https://appleinsider.com/articles/25/11/02/m5-macbook-air-ipad-iphone-17e-apples-plans-for-the-first-half-of-2026?utm_source=rss)
+ - [Online harassers are using AI tools to create more realistic death threats, posting hyper-realistic AI-generated images and sounds to social media platforms &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/251102/p7#a251102p7)
+ - [5 Best Live TV Streaming Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-live-tv-streaming-services/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
