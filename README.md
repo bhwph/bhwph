@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
+ - 6️⃣ [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
  - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 👉 [Drunk talent](http://9gag.com/gag/a6Z4XEe)<!-- MEMES:END -->
+ - 👉 [NOW - Ten people were reportedly stabbed on a train in Huntingdon, England.](http://9gag.com/gag/aW4P7G3)<!-- MEMES:END -->
 
 --- 
 
