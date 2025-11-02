@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gachiakuta violent world makes it stand out as a shonen anime](https://www.polygon.com/gachiakuta-anime-shonen-review/)
- - [Life is Strange: Dust is the sequel the franchise deserved](https://www.polygon.com/life-is-strange-dust-graphic-novel/)
- - [PSA: Look out sweaty PvPers, Arc Raiders&#39; foliage looks a little different depending on your graphics settings](https://www.pcgamer.com/games/third-person-shooter/psa-look-out-sweaty-pvpers-arc-raiders-foliage-looks-a-little-different-depending-on-your-graphics-settings/)<!-- GAME:END -->
+ - [Mortal Kombat: Legacy Kollection launches to mixed reviews on Steam](https://www.pcgamer.com/games/fighting/mortal-kombat-legacy-kollection-launches-to-mixed-reviews-on-steam/)
+ - [Loot envy is at an all time high in Path of Exile as lucky players print the rarest items in the game while everyone else sifts through trash](https://www.pcgamer.com/games/rpg/loot-envy-is-at-an-all-time-high-in-path-of-exile-as-lucky-players-print-the-rarest-items-in-the-game-while-everyone-else-sifts-through-trash/)
+ - [Arc Raiders players stuck in login queues and long matchmaking times as it blows past its Steam player peak of 330,000](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-players-stuck-in-login-queues-and-long-matchmaking-times-as-it-blows-past-its-steam-player-peak-of-330-000/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
