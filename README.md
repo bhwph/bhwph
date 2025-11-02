@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jacob&#39;s Ladder at 35: A war-horror hybrid that holds up](https://www.polygon.com/jacobs-ladder-35th-anniversary-tim-robbins-horror/)
- - [MCM Comic Con cosplayers never fail to amaze me with their outfits, and hopefully next year my inspiration manifests into my own weekend pass](https://www.pcgamer.com/gaming-industry/events-conferences/mcm-comic-con-cosplayers-never-fail-to-amaze-me-with-their-outfits-and-hopefully-next-year-my-inspiration-manifests-into-my-own-weekend-pass/)
- - [Outer Worlds 2 handles companions better than Baldur’s Gate 3](https://www.polygon.com/outer-worlds-2-companions-better-bg3-baldurs-gate-3/)<!-- GAME:END -->
+ - [Why you should watch Shawshank Redemption before It: Welcome to Derry episode 3](https://www.polygon.com/it-welcome-to-derry-stephen-king-movie-the-shawshank-redemption/)
+ - [Vince Gilligan’s new sci-fi show Pluribus was 10 years in the making](https://www.polygon.com/pluribus-origin-vince-gilligan-interview/)
+ - [Debate: What is the greatest boss theme of all time?](https://www.pcgamer.com/games/debate-what-is-the-greatest-boss-theme-of-all-time/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
