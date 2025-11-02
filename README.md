@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Copenhagen-based Formalize, whose compliance software serves organizations in 80+ countries, raised a €30M Series B co-led by Acton Capital and Blackfin Tech &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251102/p3#a251102p3)
- - [Nexperia&#39;s China unit says it has &quot;sufficient inventories&quot; to sustain order fulfillment &quot;through year-end and beyond&quot;, after the parent suspended wafer supplies &lpar;Reuters&rpar;](http://www.techmeme.com/251102/p2#a251102p2)
- - [Analysis: sports volumes on Kalshi approach $1B a week, with open interest in sports contracts regularly above $100M, significantly higher than other categories &lpar;Financial Times&rpar;](http://www.techmeme.com/251102/p4#a251102p4)<!-- TECH:END -->
+ - [The Pixel 10 Pro’s new voice typing is wild, and it’s changed how I use my phone](https://www.androidauthority.com/pixel-10-pro-new-voice-typing-3608473/)
+ - [AI browsers can bypass some paywalls; OpenAI&#39;s Atlas seems to avoid content from companies suing OpenAI, providing summaries or alternate reporting instead &lpar;Columbia Journalism Review&rpar;](http://www.techmeme.com/251102/p5#a251102p5)
+ - [Here&#39;s What Azteca Stadium Will Look Like for the 2026 World Cup](https://www.wired.com/story/heres-what-estadio-azteca-will-look-like-for-the-2026-world-cup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
