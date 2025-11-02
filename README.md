@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You can just do things &lpar;especially if you don&#39;t have that long to live&rpar;](http://9gag.com/gag/aXPQPGb)
- - 😝 [At a pet store, two polite dogs are offered treats by a friendly employee. Instead of immediately snatching them, they both look up at their owner with the sweetest, most patient expressions, waiting for permission.](http://9gag.com/gag/a7oPoR2)
- - 👉 [The important questions must be asked.](http://9gag.com/gag/a2v9vGE)<!-- MEMES:END -->
+ - 6️⃣ [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
+ - 😝 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)
+ - 👉 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)<!-- MEMES:END -->
 
 --- 
 
