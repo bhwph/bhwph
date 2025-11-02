@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Remedy is &#39;not satisfied&#39; with its Q3 results after FBC: Firebreak&#39;s flop, and has &#39;moved development resources&#39; to other games in production](https://www.pcgamer.com/games/fps/remedy-is-not-satisfied-with-its-q3-results-after-fbc-firebreaks-flop-and-has-moved-development-resources-to-other-games-in-production/)
  - [&#39;I sometimes lie in bed thinking about it&#39;: Rockstar co-founder Dan Houser explains why open world spy game Agent never worked out](https://www.pcgamer.com/gaming-industry/game-development/i-sometimes-lie-in-bed-thinking-about-it-rockstar-co-founder-dan-houser-explains-why-open-world-spy-game-agent-never-worked-out/)
- - [Doom designer Sandy Petersen alleges former Xbox boss Don Mattrick killed Ensemble Studios and its Halo MMO to protect his personal stock bonus: &#39;Don started as an EA hatchet man so what would you expect?&#39;](https://www.pcgamer.com/gaming-industry/doom-designer-sandy-petersen-alleges-former-xbox-boss-don-mattrick-killed-ensemble-studios-and-its-halo-mmo-to-protect-his-personal-stock-bonus-don-started-as-an-ea-hatchet-man-so-what-would-you-expect/)
- - [Reliably good puzzle game-maker Draknek and Friends just released a spooky new game](https://www.pcgamer.com/games/reliably-good-puzzle-game-maker-draknek-and-friends-just-released-a-spooky-new-game/)<!-- GAME:END -->
+ - [Doom designer Sandy Petersen alleges former Xbox boss Don Mattrick killed Ensemble Studios and its Halo MMO to protect his personal stock bonus: &#39;Don started as an EA hatchet man so what would you expect?&#39;](https://www.pcgamer.com/gaming-industry/doom-designer-sandy-petersen-alleges-former-xbox-boss-don-mattrick-killed-ensemble-studios-and-its-halo-mmo-to-protect-his-personal-stock-bonus-don-started-as-an-ea-hatchet-man-so-what-would-you-expect/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
