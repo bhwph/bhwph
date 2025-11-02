@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [NOW - Ten people were reportedly stabbed on a train in Huntingdon, England.](http://9gag.com/gag/aW4P7G3)
- - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 👉 [Guys will see thing like this and just say `Hell yeah`](http://9gag.com/gag/avy41KZ)<!-- MEMES:END -->
+ - 😝 [Crash test](http://9gag.com/gag/amoKoeo)
+ - 👉 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)<!-- MEMES:END -->
 
 --- 
 
