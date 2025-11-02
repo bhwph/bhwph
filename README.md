@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: California Highway Patrol finds $200,000 in stolen Apple products](https://appleinsider.com/articles/25/11/02/crime-blotter-california-highway-patrol-finds-200000-in-stolen-apple-products?utm_source=rss)
- - [Aura Ink Review &lpar;2025&rpar;: Newspaper-Style Realism](https://www.wired.com/review/aura-ink/)
- - [If Gemini really wants to be everywhere, it should start with these 6 blind spots](https://www.androidauthority.com/where-i-want-gemini-to-appear-3611194/)<!-- TECH:END -->
+ - [A profile of David Bailey, Trump&#39;s informal crypto advisor who organizes the Bitcoin Conference, as he seeks to turn a Utah health clinic into a bitcoin bank &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/251102/p6#a251102p6)
+ - [LiberNovo Omni Review: A Motorized Office Chair](https://www.wired.com/review/libernovo-omni/)
+ - [The perfect grocery list-making app doesn’t exist](https://www.theverge.com/tech/809152/grocery-list-app-paprika-better-meal-google-keep)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
