@@ -128,8 +128,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Copenhagen-based Formalize, whose compliance software serves organizations in 80+ countries, raised a €30M Series B co-led by Acton Capital and Blackfin Tech &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251102/p3#a251102p3)
- - [Apple Watch Ultra 3 falls to best $699 price with early Black Friday deal](https://appleinsider.com/articles/25/11/02/apple-watch-ultra-3-falls-to-best-699-price-with-early-black-friday-deal?utm_source=rss)
- - [Nexperia&#39;s China unit says it has &quot;sufficient inventories&quot; to sustain order fulfillment &quot;through year-end and beyond&quot;, after the parent suspended wafer supplies &lpar;Reuters&rpar;](http://www.techmeme.com/251102/p2#a251102p2)<!-- TECH:END -->
+ - [Nexperia&#39;s China unit says it has &quot;sufficient inventories&quot; to sustain order fulfillment &quot;through year-end and beyond&quot;, after the parent suspended wafer supplies &lpar;Reuters&rpar;](http://www.techmeme.com/251102/p2#a251102p2)
+ - [Analysis: sports volumes on Kalshi approach $1B a week, with open interest in sports contracts regularly above $100M, significantly higher than other categories &lpar;Financial Times&rpar;](http://www.techmeme.com/251102/p4#a251102p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
