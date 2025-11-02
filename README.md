@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 10 Pro’s new voice typing is wild, and it’s changed how I use my phone](https://www.androidauthority.com/pixel-10-pro-new-voice-typing-3608473/)
- - [AI browsers can bypass some paywalls; OpenAI&#39;s Atlas seems to avoid content from companies suing OpenAI, providing summaries or alternate reporting instead &lpar;Columbia Journalism Review&rpar;](http://www.techmeme.com/251102/p5#a251102p5)
- - [Here&#39;s What Azteca Stadium Will Look Like for the 2026 World Cup](https://www.wired.com/story/heres-what-estadio-azteca-will-look-like-for-the-2026-world-cup/)<!-- TECH:END -->
+ - [Crime blotter: California Highway Patrol finds $200,000 in stolen Apple products](https://appleinsider.com/articles/25/11/02/crime-blotter-california-highway-patrol-finds-200000-in-stolen-apple-products?utm_source=rss)
+ - [Aura Ink Review &lpar;2025&rpar;: Newspaper-Style Realism](https://www.wired.com/review/aura-ink/)
+ - [If Gemini really wants to be everywhere, it should start with these 6 blind spots](https://www.androidauthority.com/where-i-want-gemini-to-appear-3611194/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
