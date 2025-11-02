@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Those are not rookie numbers](http://9gag.com/gag/a87QAKY)
- - 😝 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)
- - 👉 [This cafe hires people with Down syndrome not just to work, but to show the world their humanity and break the stigma, one smile at a time](http://9gag.com/gag/a9yZ6Bo)<!-- MEMES:END -->
+ - 6️⃣ [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
+ - 😝 [Run](http://9gag.com/gag/a87Qmj3)
+ - 👉 [Guys will see thing like this and just say `Hell yeah`](http://9gag.com/gag/avy41KZ)<!-- MEMES:END -->
 
 --- 
 
