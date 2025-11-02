@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M5 MacBook Air, iPad, iPhone 17e: Apple&#39;s plans for the first half of 2026](https://appleinsider.com/articles/25/11/02/m5-macbook-air-ipad-iphone-17e-apples-plans-for-the-first-half-of-2026?utm_source=rss)
- - [Online harassers are using AI tools to create more realistic death threats, posting hyper-realistic AI-generated images and sounds to social media platforms &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/251102/p7#a251102p7)
- - [5 Best Live TV Streaming Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-live-tv-streaming-services/)<!-- TECH:END -->
+ - [You need to watch the found footage classic, Lake Mungo](https://www.theverge.com/column/812150/watch-the-found-footage-classic-horror-mokumentary-lake-mungo)
+ - [An Italian law requiring porn sites, including Pornhub, YouPorn, and OnlyFans, to verify the ages of their users will go into effect on November 12 &lpar;Jackson Chen/Engadget&rpar;](http://www.techmeme.com/251102/p8#a251102p8)
+ - [M5 MacBook Air, iPad, iPhone 17e: Apple&#39;s plans for the first half of 2026](https://appleinsider.com/articles/25/11/02/m5-macbook-air-ipad-iphone-17e-apples-plans-for-the-first-half-of-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
