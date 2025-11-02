@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 😝 [Run](http://9gag.com/gag/a87Qmj3)
+ - 6️⃣ [NOW - Ten people were reportedly stabbed on a train in Huntingdon, England.](http://9gag.com/gag/aW4P7G3)
+ - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
  - 👉 [Guys will see thing like this and just say `Hell yeah`](http://9gag.com/gag/avy41KZ)<!-- MEMES:END -->
 
 --- 
