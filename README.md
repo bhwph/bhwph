@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why you should watch Shawshank Redemption before It: Welcome to Derry episode 3](https://www.polygon.com/it-welcome-to-derry-stephen-king-movie-the-shawshank-redemption/)
- - [Vince Gilligan’s new sci-fi show Pluribus was 10 years in the making](https://www.polygon.com/pluribus-origin-vince-gilligan-interview/)
- - [Debate: What is the greatest boss theme of all time?](https://www.pcgamer.com/games/debate-what-is-the-greatest-boss-theme-of-all-time/)<!-- GAME:END -->
+ - [Gachiakuta violent world makes it stand out as a shonen anime](https://www.polygon.com/gachiakuta-anime-shonen-review/)
+ - [Life is Strange: Dust is the sequel the franchise deserved](https://www.polygon.com/life-is-strange-dust-graphic-novel/)
+ - [PSA: Look out sweaty PvPers, Arc Raiders&#39; foliage looks a little different depending on your graphics settings](https://www.pcgamer.com/games/third-person-shooter/psa-look-out-sweaty-pvpers-arc-raiders-foliage-looks-a-little-different-depending-on-your-graphics-settings/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
