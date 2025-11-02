@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to customize your Sidekick in Fortnite](https://www.polygon.com/fortnite-sidekick-customize-appearance-how-to/)
- - [&#39;Skinballs,&#39; a Saints Row test NPC that looks like four floating scoops of ice cream, has been preserved as part of a museum collection](https://www.pcgamer.com/games/action/skinballs-a-saints-row-test-npc-that-looks-like-four-floating-scoops-of-ice-cream-has-been-preserved-as-part-of-a-museum-collection/)
- - [Nightmare on Elm Street 2 at 40: Ahead of its time in more ways than one](https://www.polygon.com/a-nightmare-on-elm-street-2-freddys-revenge/)<!-- GAME:END -->
+ - [&#39;I sometimes lie in bed thinking about it&#39;: Rockstar co-founder Dan Houser explains why open world spy game Agent never worked out](https://www.pcgamer.com/gaming-industry/game-development/i-sometimes-lie-in-bed-thinking-about-it-rockstar-co-founder-dan-houser-explains-why-open-world-spy-game-agent-never-worked-out/)
+ - [Doom designer Sandy Petersen alleges former Xbox boss Don Mattrick killed Ensemble Studios and its Halo MMO to protect his personal stock bonus: &#39;Don started as an EA hatchet man so what would you expect?&#39;](https://www.pcgamer.com/gaming-industry/doom-designer-sandy-petersen-alleges-former-xbox-boss-don-mattrick-killed-ensemble-studios-and-its-halo-mmo-to-protect-his-personal-stock-bonus-don-started-as-an-ea-hatchet-man-so-what-would-you-expect/)
+ - [Reliably good puzzle game-maker Draknek and Friends just released a spooky new game](https://www.pcgamer.com/games/reliably-good-puzzle-game-maker-draknek-and-friends-just-released-a-spooky-new-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
