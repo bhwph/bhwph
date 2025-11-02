@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mafia: The Old Country&#39;s creators couldn&#39;t avoid politics in telling an authentic mob tale](https://www.polygon.com/mafia-the-old-country-italy-sicily-research-interview/)
- - [Game developers have suddenly become obsessed with eggs for some reason, and you can play two ovoid games for free right now](https://www.pcgamer.com/games/game-developers-have-suddenly-become-obsessed-with-eggs-for-some-reason-and-you-can-play-two-ovoid-games-for-free-right-now/)
- - [The GOTY 2025 race has remained surprisingly static for six months](https://www.polygon.com/goty-game-of-the-year-frontrunner-six-months-later/)<!-- GAME:END -->
+ - [Jacob&#39;s Ladder at 35: A war-horror hybrid that holds up](https://www.polygon.com/jacobs-ladder-35th-anniversary-tim-robbins-horror/)
+ - [MCM Comic Con cosplayers never fail to amaze me with their outfits, and hopefully next year my inspiration manifests into my own weekend pass](https://www.pcgamer.com/gaming-industry/events-conferences/mcm-comic-con-cosplayers-never-fail-to-amaze-me-with-their-outfits-and-hopefully-next-year-my-inspiration-manifests-into-my-own-weekend-pass/)
+ - [Outer Worlds 2 handles companions better than Baldur’s Gate 3](https://www.polygon.com/outer-worlds-2-companions-better-bg3-baldurs-gate-3/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
