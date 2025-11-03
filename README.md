@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Duo gets another chance at life, but don’t be too excited](https://www.androidauthority.com/google-duo-final-meet-transition-3612312/)
- - [Two months later, the Pixel 10’s worst feature finally lived up to the hype](https://www.androidauthority.com/two-months-later-pixel-10-magic-cue-delivered-3610389/)
- - [Alphabet&#39;s X is increasingly spinning out independent companies via a dedicated Series X Capital fund, which has raised $500M+ with a minority Alphabet stake &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/251103/p9#a251103p9)<!-- TECH:END -->
+ - [Move over vapor chambers, we now have Snapdragon flagships with liquid cooling](https://www.androidauthority.com/redmagic-11-pro-release-3612317/)
+ - [The UK CMA says it will launch an in-depth investigation into Getty and Shutterstock&#39;s proposed merger after their proposed remedies failed to address concerns &lpar;Raechel Thankam Job/Reuters&rpar;](http://www.techmeme.com/251103/p19#a251103p19)
+ - [T-Mobile’s latest freebie is perfect for winters, here’s how to get one](https://www.androidauthority.com/t-mobile-tuesday-free-beanie-3612349/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
