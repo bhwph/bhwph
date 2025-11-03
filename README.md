@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find Rusted Tools in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-rusted-tools-locations/)
- - [A Surprise Departure Shows The Problem With The Game Pass ‘Backlog’](https://kotaku.com/a-surprise-departure-shows-the-problem-with-the-game-pass-backlog-2000640806)
- - [It looks like a NUC, it smells like a NUC, but this is not a NUC: Asus ditches the Intel naming for new AMD-powered mini PC, but restricts its GPU choice](https://www.pcgamer.com/hardware/gaming-pcs/it-looks-like-a-nuc-it-smells-like-a-nuc-but-this-is-not-a-nuc-asus-ditches-the-intel-naming-for-new-amd-powered-mini-pc-but-restricts-its-gpu-choice/)<!-- GAME:END -->
+ - [The Outer Worlds 2 interactive maps](https://www.polygon.com/map/the-outer-worlds-2-interactive-maps-free-market-horizon-point-station/)
+ - [Samsung and other memory manufacturers reportedly leave DDR5 buyers hanging as prices expected to surge 30–50% every quarter from the end of 2025 through the first half of 2026](https://www.pcgamer.com/hardware/samsung-and-other-memory-manufacturers-reportedly-leave-ddr5-buyers-hanging-as-prices-expected-to-surge-30-50-percent-every-quarter-in-2026/)
+ - [Trump says that nobody &#39;other than the United States&#39; should have Nvidia&#39;s Blackwell AI chips](https://www.pcgamer.com/software/ai/trump-says-that-nobody-other-than-the-united-states-should-have-access-to-nvidias-blackwell-ai-chips/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
