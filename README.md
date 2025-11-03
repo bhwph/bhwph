@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Move over vapor chambers, we now have Snapdragon flagships with liquid cooling](https://www.androidauthority.com/redmagic-11-pro-release-3612317/)
- - [The UK CMA says it will launch an in-depth investigation into Getty and Shutterstock&#39;s proposed merger after their proposed remedies failed to address concerns &lpar;Raechel Thankam Job/Reuters&rpar;](http://www.techmeme.com/251103/p19#a251103p19)
- - [T-Mobile’s latest freebie is perfect for winters, here’s how to get one](https://www.androidauthority.com/t-mobile-tuesday-free-beanie-3612349/)<!-- TECH:END -->
+ - [As part of the AWS deal, OpenAI says it will immediately begin running workloads on AWS infrastructure, tapping hundreds of thousands of Nvidia GPUs in the US &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251103/p23#a251103p23)
+ - [5 Best Digital Photo Frames &lpar;2025&rpar;: Aura, Skylight, Nixplay](https://www.wired.com/gallery/best-digital-photo-frames/)
+ - [OpenAI and AWS agree to a seven year deal in which OpenAI will pay $38B for AI compute, including training its models on Amazon&#39;s servers and using its CPUs &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/251103/p22#a251103p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
