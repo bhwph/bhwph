@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This cafe hires people with Down syndrome not just to work, but to show the world their humanity and break the stigma, one smile at a time](http://9gag.com/gag/a9yZ6Bo)
- - 😝 [This is next level petty and brilliant](http://9gag.com/gag/a2v9wVd)
- - 👉 [Prison rules - my old meme collection](http://9gag.com/gag/adBrOYD)<!-- MEMES:END -->
+ - 6️⃣ [Good News](http://9gag.com/gag/aAyq6v9)
+ - 😝 [Australia](http://9gag.com/gag/aGy689X)
+ - 👉 [He stepped on his tail…](https://www.reddit.com/r/funny/comments/1on6ddm/he_stepped_on_his_tail/)<!-- MEMES:END -->
 
 --- 
 
