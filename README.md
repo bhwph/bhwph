@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube TV’s Disney drama just got some users a $60 apology](https://www.androidauthority.com/youtube-tv-10-dollar-credit-disney-channels-3612262/)
- - [In a reply to Elon Musk&#39;s post of &quot;you stole a non-profit&quot;, Sam Altman says OpenAI&#39;s structure is needed to create &quot;what should be the largest non-profit ever&quot; &lpar;Lauren Edmonds/Business Insider&rpar;](http://www.techmeme.com/251102/p14#a251102p14)
- - [AYANEO teases its first gaming phone with the soul of a handheld](https://www.androidauthority.com/ayaneo-phone-3612256/)<!-- TECH:END -->
+ - [We found a hidden Google Wallet feature that could change the way you commute](https://www.androidauthority.com/google-wallet-express-transit-card-3612267/)
+ - [At APEC, Xi Jinping proposed a World Artificial Intelligence Cooperation Organization for global AI regulation; state media says it could be based in Shanghai &lpar;Reuters&rpar;](http://www.techmeme.com/251102/p15#a251102p15)
+ - [YouTube TV’s Disney drama just got some users a $60 apology](https://www.androidauthority.com/youtube-tv-10-dollar-credit-disney-channels-3612262/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
