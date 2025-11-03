@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - 😝 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)
- - 👉 [Australia](http://9gag.com/gag/aGy689X)<!-- MEMES:END -->
+ - 6️⃣ [Australia](http://9gag.com/gag/aGy689X)
+ - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - 👉 [Best chips](http://9gag.com/gag/a6Z495e)<!-- MEMES:END -->
 
 --- 
 
