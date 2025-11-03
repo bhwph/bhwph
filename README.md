@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s AI just talked its way into maybe its biggest trouble yet](https://www.androidauthority.com/google-gemma-ai-controversy-3612406/)
- - [Lambda announces a multibillion-dollar agreement with Microsoft for AI infrastructure powered by Nvidia chips; the specific deal value was not disclosed &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251103/p32#a251103p32)
- - [Japanese trade association CODA, representing Studio Ghibli, Square Enix and others, demands that OpenAI stop using their copyrighted content to train Sora 2 &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251103/p31#a251103p31)<!-- TECH:END -->
+ - [France threatens to ban Shein and refers it to Paris prosecutor after an investigation found that sex dolls &quot;resembling children&quot; were being sold on the site &lpar;Liz Alderman/New York Times&rpar;](http://www.techmeme.com/251103/p36#a251103p36)
+ - [3 more Google platforms lose Disney content as YouTube TV spat continues](https://www.androidauthority.com/google-disney-content-pulled-3612513/)
+ - [Apple brings its App Store to the web](https://www.theverge.com/news/812731/apple-app-store-web-iphone-mac-ipad)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
