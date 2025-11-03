@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [LEGO Friends Is the Last Advent Calendar Left, and Amazon Is Offering 40% Off to Clear Inventory](https://kotaku.com/lego-friends-is-the-last-advent-calendar-left-and-amazon-is-offering-40-off-to-clear-inventory-2000640654)
- - [How to complete With a Trace in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-with-a-trace-quest-walkthrough/)
- - [As players debate whether to purchase Possessor&lpar;s&rpar; after Heart Machine lays off staff a week before launch, its creators and publisher respond: &#39;As a developer who is slated for lay off—please buy this game!&#39;](https://www.pcgamer.com/games/action/as-players-debate-whether-to-purchase-possessor-s-after-heart-machine-lays-off-staff-a-week-before-launch-its-creators-and-publisher-respond-as-a-developer-who-is-slated-for-lay-off-please-buy-this-game/)<!-- GAME:END -->
+ - [One Piece and Dragon Ball anime studio plans big global expansion](https://www.polygon.com/toei-animation-expansion-global-one-piece-dragon-ball-anime/)
+ - [This Dual 14″ Laptop Screen Extender Goes for Peanuts, Amazon Clears Out Stock Before Black Friday](https://kotaku.com/this-dual-14-laptop-screen-extender-goes-for-peanuts-amazon-clears-out-stock-before-black-friday-2000640775)
+ - [Schedule 1&#39;s Halloween update arrived two days late because the developer thought he should &#39;probably play it safe&#39; and test it first](https://www.pcgamer.com/games/schedule-1s-halloween-update-arrived-two-days-late-because-the-developer-thought-he-should-probably-play-it-safe-and-test-it-first/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
