@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 😝 [Champaigne for my real friends, real pain for my sham friends.](http://9gag.com/gag/aE0yVR9)
- - 👉 [Good News](http://9gag.com/gag/aAyq6v9)<!-- MEMES:END -->
+ - 6️⃣ [So I&#39;m not fat, I only got ghost on my back all this time](http://9gag.com/gag/aRB9L7B)
+ - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - 👉 [Fail](http://9gag.com/gag/aYQZOvx)<!-- MEMES:END -->
 
 --- 
 
