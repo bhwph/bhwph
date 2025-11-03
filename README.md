@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech’s latest keyboard dabbles in enthusiast features](https://www.theverge.com/tech/810124/logitech-alto-keys-k98m-mechanical-keyboard-price-specs-impressions)
- - [A profile of Mark Gubrud, who coined the term AGI in a 1997 research paper, which argued that breakthrough technologies will redefine international conflicts &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/251103/p4#a251103p4)
- - [Cologne-based Octonomy, which helps companies deploy AI in complex workflows, raised a $20M seed led by Macquarie Capital, bringing its total raised to $25M &lpar;Amelia Isaacs/Pathfounders&rpar;](http://www.techmeme.com/251103/p3#a251103p3)<!-- TECH:END -->
+ - [Google Duo gets another chance at life, but don’t be too excited](https://www.androidauthority.com/google-duo-final-meet-transition-3612312/)
+ - [Two months later, the Pixel 10’s worst feature finally lived up to the hype](https://www.androidauthority.com/two-months-later-pixel-10-magic-cue-delivered-3610389/)
+ - [Alphabet&#39;s X is increasingly spinning out independent companies via a dedicated Series X Capital fund, which has raised $500M+ with a minority Alphabet stake &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/251103/p9#a251103p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
