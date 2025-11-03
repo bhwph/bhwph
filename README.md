@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As part of the AWS deal, OpenAI says it will immediately begin running workloads on AWS infrastructure, tapping hundreds of thousands of Nvidia GPUs in the US &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251103/p23#a251103p23)
- - [5 Best Digital Photo Frames &lpar;2025&rpar;: Aura, Skylight, Nixplay](https://www.wired.com/gallery/best-digital-photo-frames/)
- - [OpenAI and AWS agree to a seven year deal in which OpenAI will pay $38B for AI compute, including training its models on Amazon&#39;s servers and using its CPUs &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/251103/p22#a251103p22)<!-- TECH:END -->
+ - [Toronto-based quantum computing company Xanadu says it will go public in the US and Canada via a SPAC, in a deal that values the combined business at ~$3.6B &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/251103/p25#a251103p25)
+ - [The Apple Watch SE 3 is on sale for a record low price of $199](https://www.theverge.com/tech/812446/apple-watch-se-3-amazon-fire-tablet-hd-10-deal-sale)
+ - [Revisit your favorite Nintendo DS games on this affordable Android clamshell](https://www.androidauthority.com/anbernic-rg-ds-launch-3612376/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
