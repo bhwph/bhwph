@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good News](http://9gag.com/gag/aAyq6v9)
- - 😝 [Australia](http://9gag.com/gag/aGy689X)
- - 👉 [He stepped on his tail…](https://www.reddit.com/r/funny/comments/1on6ddm/he_stepped_on_his_tail/)<!-- MEMES:END -->
+ - 6️⃣ [Fail](http://9gag.com/gag/aYQZOvx)
+ - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - 👉 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)<!-- MEMES:END -->
 
 --- 
 
