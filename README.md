@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mortal Kombat: Legacy Kollection launches to mixed reviews on Steam](https://www.pcgamer.com/games/fighting/mortal-kombat-legacy-kollection-launches-to-mixed-reviews-on-steam/)
- - [Loot envy is at an all time high in Path of Exile as lucky players print the rarest items in the game while everyone else sifts through trash](https://www.pcgamer.com/games/rpg/loot-envy-is-at-an-all-time-high-in-path-of-exile-as-lucky-players-print-the-rarest-items-in-the-game-while-everyone-else-sifts-through-trash/)
- - [Arc Raiders players stuck in login queues and long matchmaking times as it blows past its Steam player peak of 330,000](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-players-stuck-in-login-queues-and-long-matchmaking-times-as-it-blows-past-its-steam-player-peak-of-330-000/)<!-- GAME:END -->
+ - [Amazon Liquidates RTX 5070 GPUs, Asus Model at New Record Low for Early Black Friday](https://kotaku.com/amazon-liquidates-rtx-5070-gpus-asus-model-at-new-record-low-for-early-black-friday-2000640678)
+ - [ASUS Dumps Its 14-Inch Vivobook at 40% Off, Now Cheaper Than Most Budget Laptops](https://kotaku.com/asus-dumps-its-14-inch-vivobook-at-40-off-now-cheaper-than-most-budget-laptops-2000640675)
+ - [Five new Steam games you probably missed &lpar;November 3, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-3-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
