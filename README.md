@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One Piece and Dragon Ball anime studio plans big global expansion](https://www.polygon.com/toei-animation-expansion-global-one-piece-dragon-ball-anime/)
- - [This Dual 14″ Laptop Screen Extender Goes for Peanuts, Amazon Clears Out Stock Before Black Friday](https://kotaku.com/this-dual-14-laptop-screen-extender-goes-for-peanuts-amazon-clears-out-stock-before-black-friday-2000640775)
- - [Schedule 1&#39;s Halloween update arrived two days late because the developer thought he should &#39;probably play it safe&#39; and test it first](https://www.pcgamer.com/games/schedule-1s-halloween-update-arrived-two-days-late-because-the-developer-thought-he-should-probably-play-it-safe-and-test-it-first/)<!-- GAME:END -->
+ - [Where to find Rusted Tools in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-rusted-tools-locations/)
+ - [A Surprise Departure Shows The Problem With The Game Pass ‘Backlog’](https://kotaku.com/a-surprise-departure-shows-the-problem-with-the-game-pass-backlog-2000640806)
+ - [It looks like a NUC, it smells like a NUC, but this is not a NUC: Asus ditches the Intel naming for new AMD-powered mini PC, but restricts its GPU choice](https://www.pcgamer.com/hardware/gaming-pcs/it-looks-like-a-nuc-it-smells-like-a-nuc-but-this-is-not-a-nuc-asus-ditches-the-intel-naming-for-new-amd-powered-mini-pc-but-restricts-its-gpu-choice/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
