@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Liquidates RTX 5070 GPUs, Asus Model at New Record Low for Early Black Friday](https://kotaku.com/amazon-liquidates-rtx-5070-gpus-asus-model-at-new-record-low-for-early-black-friday-2000640678)
- - [ASUS Dumps Its 14-Inch Vivobook at 40% Off, Now Cheaper Than Most Budget Laptops](https://kotaku.com/asus-dumps-its-14-inch-vivobook-at-40-off-now-cheaper-than-most-budget-laptops-2000640675)
- - [Five new Steam games you probably missed &lpar;November 3, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-3-2025/)<!-- GAME:END -->
+ - [LEGO Friends Is the Last Advent Calendar Left, and Amazon Is Offering 40% Off to Clear Inventory](https://kotaku.com/lego-friends-is-the-last-advent-calendar-left-and-amazon-is-offering-40-off-to-clear-inventory-2000640654)
+ - [How to complete With a Trace in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-with-a-trace-quest-walkthrough/)
+ - [As players debate whether to purchase Possessor&lpar;s&rpar; after Heart Machine lays off staff a week before launch, its creators and publisher respond: &#39;As a developer who is slated for lay off—please buy this game!&#39;](https://www.pcgamer.com/games/action/as-players-debate-whether-to-purchase-possessor-s-after-heart-machine-lays-off-staff-a-week-before-launch-its-creators-and-publisher-respond-as-a-developer-who-is-slated-for-lay-off-please-buy-this-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
