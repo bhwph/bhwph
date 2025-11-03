@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite&#39;s The Simpsons season is almost perfect but missing one thing](https://www.polygon.com/fortnite-the-simpsons-back-bling-matt-groening/)
- - [Turn-Based Combat Is Finally Coming To This 10-Year-Old RPG](https://kotaku.com/pillars-eternity-3-turn-based-mode-update-avowed-crpg-2000640875)
- - [Arc Raiders Players Are Getting Free Tokens But Frustrations Over Pricey Cosmetics Remain](https://kotaku.com/arc-raiders-gifts-premium-currency-after-server-struggles-2000640888)<!-- GAME:END -->
+ - [Best Arc Raiders skills to unlock](https://www.polygon.com/arc-raiders-skill-tree-best-unlock-mobility-survival-conditioning/)
+ - [Arc Raiders: The Sickest, Silliest, And Most Spectacular Moments From The Game So Far](https://kotaku.com/arc-raiders-embark-pvp-toxic-betrayal-leaper-2000640905)
+ - [Fortnite Fans Beg Each Other Not To Buy Sidekicks: ‘The Greed On Display Is Disgusting’](https://kotaku.com/fortnite-fans-beg-each-other-not-to-buy-sidekicks-the-greed-on-display-is-disgusting-2000640910)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
