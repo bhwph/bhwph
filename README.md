@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Outer Worlds 2 interactive maps](https://www.polygon.com/map/the-outer-worlds-2-interactive-maps-free-market-horizon-point-station/)
- - [Samsung and other memory manufacturers reportedly leave DDR5 buyers hanging as prices expected to surge 30–50% every quarter from the end of 2025 through the first half of 2026](https://www.pcgamer.com/hardware/samsung-and-other-memory-manufacturers-reportedly-leave-ddr5-buyers-hanging-as-prices-expected-to-surge-30-50-percent-every-quarter-in-2026/)
- - [Trump says that nobody &#39;other than the United States&#39; should have Nvidia&#39;s Blackwell AI chips](https://www.pcgamer.com/software/ai/trump-says-that-nobody-other-than-the-united-states-should-have-access-to-nvidias-blackwell-ai-chips/)<!-- GAME:END -->
+ - [Fortnite&#39;s The Simpsons season is almost perfect but missing one thing](https://www.polygon.com/fortnite-the-simpsons-back-bling-matt-groening/)
+ - [Turn-Based Combat Is Finally Coming To This 10-Year-Old RPG](https://kotaku.com/pillars-eternity-3-turn-based-mode-update-avowed-crpg-2000640875)
+ - [Arc Raiders Players Are Getting Free Tokens But Frustrations Over Pricey Cosmetics Remain](https://kotaku.com/arc-raiders-gifts-premium-currency-after-server-struggles-2000640888)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
