@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [NOW - Ten people were reportedly stabbed on a train in Huntingdon, England.](http://9gag.com/gag/aW4P7G3)
- - 😝 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
- - 👉 [Another black day](http://9gag.com/gag/a87QmE1)<!-- MEMES:END -->
+ - 6️⃣ [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
+ - 😝 [Champaigne for my real friends, real pain for my sham friends.](http://9gag.com/gag/aE0yVR9)
+ - 👉 [Good News](http://9gag.com/gag/aAyq6v9)<!-- MEMES:END -->
 
 --- 
 
