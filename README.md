@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Palantir&#39;s four-month &quot;Meritocracy Fellowship&quot; for high school graduates, which offers a path to a job at Palantir without a university degree &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/251102/p12#a251102p12)
- - [The best new movies to stream this week](https://www.theverge.com/entertainment/812193/the-best-new-movies-to-stream-this-week)
- - [Keychron Q16 HE 8K Review: Premium ceramic feel is great, just wired is not](https://appleinsider.com/articles/25/11/02/keychron-q16-he-8k-review-premium-ceramic-feel-is-great-just-wired-is-not?utm_source=rss)<!-- TECH:END -->
+ - [YouTube TV’s Disney drama just got some users a $60 apology](https://www.androidauthority.com/youtube-tv-10-dollar-credit-disney-channels-3612262/)
+ - [In a reply to Elon Musk&#39;s post of &quot;you stole a non-profit&quot;, Sam Altman says OpenAI&#39;s structure is needed to create &quot;what should be the largest non-profit ever&quot; &lpar;Lauren Edmonds/Business Insider&rpar;](http://www.techmeme.com/251102/p14#a251102p14)
+ - [AYANEO teases its first gaming phone with the soul of a handheld](https://www.androidauthority.com/ayaneo-phone-3612256/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
