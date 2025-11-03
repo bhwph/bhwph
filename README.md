@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [France threatens to ban Shein and refers it to Paris prosecutor after an investigation found that sex dolls &quot;resembling children&quot; were being sold on the site &lpar;Liz Alderman/New York Times&rpar;](http://www.techmeme.com/251103/p36#a251103p36)
- - [3 more Google platforms lose Disney content as YouTube TV spat continues](https://www.androidauthority.com/google-disney-content-pulled-3612513/)
- - [Apple brings its App Store to the web](https://www.theverge.com/news/812731/apple-app-store-web-iphone-mac-ipad)<!-- TECH:END -->
+ - [Apple releases version 26.1 of its full family of OSes, including a &quot;tinted&quot; option for the Liquid Glass design to reduce transparency and increase contrast &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/251103/p40#a251103p40)
+ - [Old Nest Thermostats can get back online with this third-party project](https://www.androidauthority.com/nest-thermostat-firmware-3612578/)
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
