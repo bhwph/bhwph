@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Champaigne for my real friends, real pain for my sham friends.](http://9gag.com/gag/aE0yVR9)
- - 😝 [I&#39;m this old](http://9gag.com/gag/ajPG1B1)
- - 👉 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)<!-- MEMES:END -->
+ - 6️⃣ [This cafe hires people with Down syndrome not just to work, but to show the world their humanity and break the stigma, one smile at a time](http://9gag.com/gag/a9yZ6Bo)
+ - 😝 [This is next level petty and brilliant](http://9gag.com/gag/a2v9wVd)
+ - 👉 [Prison rules - my old meme collection](http://9gag.com/gag/adBrOYD)<!-- MEMES:END -->
 
 --- 
 
