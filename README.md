@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon rolls out Alexa+ on the Amazon Music app on iOS and Android, letting Alexa+ Early Access users request obscure information or complex recommendations &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251104/p13#a251104p13)
- - [Your smart home questions, answered](https://www.theverge.com/podcast/813012/smart-home-questions-hotline-vergecast)
- - [I’ve used every new Samsung phone: These are the best ones to buy in 2025](https://www.androidauthority.com/the-best-samsung-phones-3607380/)<!-- TECH:END -->
+ - [Beacon Software, which buys niche software businesses and uses AI to transform them, raised a $250M Series B led by GC, Lightspeed, and D1 at a $1B valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251104/p16#a251104p16)
+ - [Teardown reveals the liquid-cooled secrets behind the ‘most powerful phone on the planet’](https://www.androidauthority.com/jre-redmagic-pro-11-teardown-3612856/)
+ - [Google’s entire Pixel 10 lineup is up to 25 percent off for the first time](https://www.theverge.com/tech/813137/google-pixel-10-pro-fold-motherboard-nintendo-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
