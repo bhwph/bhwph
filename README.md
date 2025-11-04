@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This leaked One UI 8.5 feature is my favorite so far, and here’s why it makes a huge difference](https://www.androidauthority.com/samsung-one-ui-8-5-leaked-quick-settings-3611644/)
- - [The EV Battery Tech That’s Worth the Hype, According to Experts](https://www.wired.com/story/the-ev-battery-tech-thats-worth-the-hype-according-to-experts/)
- - [The Galaxy S26 series could be bad news for your wallet](https://www.androidauthority.com/samsung-galaxy-s26-price-increase-3612699/)<!-- TECH:END -->
+ - [A profile of nonprofit Common Crawl, which scraped billions of web pages since 2013, including paywalled articles, to build an archive used by OpenAI and others &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/251104/p10#a251104p10)
+ - [It’s not just you: Reddit is down for many users](https://www.androidauthority.com/reddit-is-down-3612790/)
+ - [Looking to save big? Here are 5 Verizon deals I recommend checking out this month](https://www.androidauthority.com/verizon-deals-recommended-nov-3610948/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
