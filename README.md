@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ayaneo is teasing a &#39;mobile phone truly made for gamers&#39; and I hope it keeps its promises](https://www.pcgamer.com/hardware/ayaneo-is-teasing-a-mobile-phone-truly-made-for-gamers-and-i-hope-it-keeps-its-promises/)
- - [Technology IP firm files lawsuits against AMD for &#39;its extensive and unauthorized use of our semiconductor portfolio,&#39; citing the move as a &#39;business highlight&#39;](https://www.pcgamer.com/hardware/processors/technology-ip-firm-files-lawsuits-against-amd-for-its-extensive-and-unauthorized-use-of-our-semiconductor-portfolio-citing-the-move-as-a-business-highlight/)
- - [2025&#39;s best survival game just got a huge update that adds an ultra-hard mode and one of the community&#39;s most requested features](https://www.pcgamer.com/games/survival-crafting/2025s-best-survival-game-just-got-a-huge-update-that-adds-an-ultra-hard-mode-and-one-of-the-communitys-most-requested-features/)<!-- GAME:END -->
+ - [Best weapons in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-best-weapons-tier-list/)
+ - [Dwarf Fortress&#39; Siege Update is out now, renewing Bay 12 Games&#39; quest to create a simulation more complex than life itself](https://www.pcgamer.com/games/strategy/dwarf-fortress-siege-update-is-out-now-renewing-bay-12-games-quest-to-create-a-simulation-more-complex-than-life-itself/)
+ - [This new Warhammer roguelike from the developer of Boltgun is also the official next game in the Vampire Survivors series](https://www.pcgamer.com/games/roguelike/this-new-warhammer-roguelike-from-the-developer-of-boltgun-is-also-the-official-next-game-in-the-vampire-survivors-series/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
