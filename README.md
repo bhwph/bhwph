@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [... and he&#39;s right.](http://9gag.com/gag/aE0yWd9)
- - 😝 [The Matrix is a system, Neo](http://9gag.com/gag/a9yZ58Z)
- - 👉 [This is how you do it](http://9gag.com/gag/aAyqKrd)<!-- MEMES:END -->
+ - 6️⃣ [Going to the opposite end of the spectrum](http://9gag.com/gag/abAK4Pp)
+ - 😝 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
+ - 👉 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)<!-- MEMES:END -->
 
 --- 
 
