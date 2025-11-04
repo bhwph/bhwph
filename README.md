@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best weapons in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-best-weapons-tier-list/)
- - [Dwarf Fortress&#39; Siege Update is out now, renewing Bay 12 Games&#39; quest to create a simulation more complex than life itself](https://www.pcgamer.com/games/strategy/dwarf-fortress-siege-update-is-out-now-renewing-bay-12-games-quest-to-create-a-simulation-more-complex-than-life-itself/)
- - [This new Warhammer roguelike from the developer of Boltgun is also the official next game in the Vampire Survivors series](https://www.pcgamer.com/games/roguelike/this-new-warhammer-roguelike-from-the-developer-of-boltgun-is-also-the-official-next-game-in-the-vampire-survivors-series/)<!-- GAME:END -->
+ - [Warhammer meets Vampire Survivors in new a brand-new roguelite](https://www.polygon.com/warhammer-survivors-vampire-survivors-roguelite-trailer/)
+ - [Toasty CPU? This microwave PC build demonstrates that you ain&#39;t seen nothing yet](https://www.pcgamer.com/hardware/toasty-cpu-this-microwave-pc-build-quips-that-you-aint-seen-nothing-yet/)
+ - [New Trailer Finally Gives Us A Decent Look At Metroid Prime 4](https://kotaku.com/metroid-prime-4-trailer-nintendo-switch-release-date-2000641104)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
