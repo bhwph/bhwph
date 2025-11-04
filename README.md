@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [20% Off Chewy Promo Codes | November 2025](https://www.wired.com/story/chewy-promo-code/)
- - [The Best Holiday Cooking Kits and Classes to Delight Every Food Lovers in 2025](https://www.cnet.com/news/best-food-kits-and-experiences/#ftag=CAD590a51e)
- - [YouTube TV says it’s ready to restore Disney channels on this condition](https://www.androidauthority.com/youtube-tv-restore-disney-channels-3612654/)<!-- TECH:END -->
+ - [It’s something at least: Nothing offers a half-hearted fix to its latest bloatware problem](https://www.androidauthority.com/nothing-phone-3a-bloatware-update-3612682/)
+ - [Nintendo reports Q2 revenue of $3.7B, vs. ~$3B est., and net profit of ~$667M, vs. ~$412M est.; it now expects 19M Switch 2 sales by March 2026, up from 15M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/251104/p1#a251104p1)
+ - [This upcoming ‘Air’ phone is looking way too serious for its name](https://www.androidauthority.com/huawei-mate-70-air-serious-leak-3612535/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
