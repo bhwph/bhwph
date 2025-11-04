@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Budget-Friendly Mac Mini Alternative, This Windows 11 Pro Mini PC Selling for Peanuts at Amazon](https://kotaku.com/budget-friendly-mac-mini-alternative-this-windows-11-pro-mini-pc-selling-for-peanuts-at-amazon-2000640954)
- - [HP 17-Inch Laptop with Ryzen 5 Nearly Free &lpar;71% Off&rpar;, Amazon Clearing Stock for Early Black Friday](https://kotaku.com/hp-17-inch-laptop-with-ryzen-5-nearly-free-71-off-amazon-clearing-stock-for-early-black-friday-2000640936)
- - [&#39;One of the chillest communities I’ve ever encountered&#39;: Arc Raiders solos are choosing love over war, and it&#39;s beautiful](https://www.pcgamer.com/games/third-person-shooter/one-of-the-chillest-communities-ive-ever-encountered-arc-raiders-is-becoming-the-anti-tarkov-as-solo-players-choose-love-over-war/)<!-- GAME:END -->
+ - [Ayaneo is teasing a &#39;mobile phone truly made for gamers&#39; and I hope it keeps its promises](https://www.pcgamer.com/hardware/ayaneo-is-teasing-a-mobile-phone-truly-made-for-gamers-and-i-hope-it-keeps-its-promises/)
+ - [Technology IP firm files lawsuits against AMD for &#39;its extensive and unauthorized use of our semiconductor portfolio,&#39; citing the move as a &#39;business highlight&#39;](https://www.pcgamer.com/hardware/processors/technology-ip-firm-files-lawsuits-against-amd-for-its-extensive-and-unauthorized-use-of-our-semiconductor-portfolio-citing-the-move-as-a-business-highlight/)
+ - [2025&#39;s best survival game just got a huge update that adds an ultra-hard mode and one of the community&#39;s most requested features](https://www.pcgamer.com/games/survival-crafting/2025s-best-survival-game-just-got-a-huge-update-that-adds-an-ultra-hard-mode-and-one-of-the-communitys-most-requested-features/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
