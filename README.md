@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It keeps getting better and BETTER and BETTER!](http://9gag.com/gag/aqyB68M)
- - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - 👉 [Me eating at a 3-star Michelin restaurant](http://9gag.com/gag/aVv4EYO)<!-- MEMES:END -->
+ - 6️⃣ [... and he&#39;s right.](http://9gag.com/gag/aE0yWd9)
+ - 😝 [The Matrix is a system, Neo](http://9gag.com/gag/a9yZ58Z)
+ - 👉 [This is how you do it](http://9gag.com/gag/aAyqKrd)<!-- MEMES:END -->
 
 --- 
 
