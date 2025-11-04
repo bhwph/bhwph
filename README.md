@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer meets Vampire Survivors in new a brand-new roguelite](https://www.polygon.com/warhammer-survivors-vampire-survivors-roguelite-trailer/)
- - [Toasty CPU? This microwave PC build demonstrates that you ain&#39;t seen nothing yet](https://www.pcgamer.com/hardware/toasty-cpu-this-microwave-pc-build-quips-that-you-aint-seen-nothing-yet/)
- - [New Trailer Finally Gives Us A Decent Look At Metroid Prime 4](https://kotaku.com/metroid-prime-4-trailer-nintendo-switch-release-date-2000641104)<!-- GAME:END -->
+ - [I think I&#39;ve found the best early loot spot in Arc Raiders and nobody seems to know about it](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-loot-spot/)
+ - [Arc Raiders is a surprisingly friendly extraction shooter for solo players](https://www.polygon.com/arc-raiders-solo-extraction-shooter-experience/)
+ - [Nice Day for Fishing: Creating the World of Epic NPC Man’s Azerim](https://news.xbox.com/en-us/2025/11/04/nice-day-for-fishing-creating-the-world-of-epic-npc-mans-azerim/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
