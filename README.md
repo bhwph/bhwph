@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me eating at a 3-star Michelin restaurant](http://9gag.com/gag/aVv4EYO)
- - 😝 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
- - 👉 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)<!-- MEMES:END -->
+ - 6️⃣ [Best chips](http://9gag.com/gag/a6Z495e)
+ - 😝 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
+ - 👉 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)<!-- MEMES:END -->
 
 --- 
 
