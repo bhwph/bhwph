@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Australia](http://9gag.com/gag/aGy689X)
- - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - 👉 [Best chips](http://9gag.com/gag/a6Z495e)<!-- MEMES:END -->
+ - 6️⃣ [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - 😝 [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)
+ - 👉 [First day as winter caretaker at this awesome hotel. Going to write a book and spend some family time. Wish me luck guys!](http://9gag.com/gag/ary9Z1B)<!-- MEMES:END -->
 
 --- 
 
