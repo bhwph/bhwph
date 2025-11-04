@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s something at least: Nothing offers a half-hearted fix to its latest bloatware problem](https://www.androidauthority.com/nothing-phone-3a-bloatware-update-3612682/)
- - [Nintendo reports Q2 revenue of $3.7B, vs. ~$3B est., and net profit of ~$667M, vs. ~$412M est.; it now expects 19M Switch 2 sales by March 2026, up from 15M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/251104/p1#a251104p1)
- - [This upcoming ‘Air’ phone is looking way too serious for its name](https://www.androidauthority.com/huawei-mate-70-air-serious-leak-3612535/)<!-- TECH:END -->
+ - [This leaked One UI 8.5 feature is my favorite so far, and here’s why it makes a huge difference](https://www.androidauthority.com/samsung-one-ui-8-5-leaked-quick-settings-3611644/)
+ - [The EV Battery Tech That’s Worth the Hype, According to Experts](https://www.wired.com/story/the-ev-battery-tech-thats-worth-the-hype-according-to-experts/)
+ - [The Galaxy S26 series could be bad news for your wallet](https://www.androidauthority.com/samsung-galaxy-s26-price-increase-3612699/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
