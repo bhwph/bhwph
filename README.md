@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why aren&#39;t we funding this?!](http://9gag.com/gag/ary9Zo5)
- - 😝 [Prey for me](http://9gag.com/gag/a87QDQZ)
- - 👉 [My brain refusing to accept how quickly time flies](http://9gag.com/gag/a1mB5q8)<!-- MEMES:END -->
+ - 6️⃣ [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
+ - 😝 [If You Can&#39;t Reach A Wall, Its Possible To Get Stuck Floating In The Space Station](http://9gag.com/gag/abAKOnO)
+ - 👉 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)<!-- MEMES:END -->
 
 --- 
 
