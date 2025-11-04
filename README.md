@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A joint Databroker Files investigation shows commercially traded mobile phone location data allows the tracking of millions of Europeans, including EU officials &lpar;netzpolitik.org&rpar;](http://www.techmeme.com/251104/p30#a251104p30)
- - [Sora is finally live on Android, and you don’t need an invite to start creating](https://www.androidauthority.com/openai-sora-android-app-3612943/)
- - [Deck your house in Govee’s smart string lights, which are cheaper ahead of the holidays](https://www.theverge.com/tech/813488/govee-christmas-lights-2-holidays-2025-deal-sale)<!-- TECH:END -->
+ - [Your Stream Deck’s ‘device not supported’ error should fix itself if you log in](https://www.theverge.com/tech/813814/your-stream-decks-device-not-supported-error-should-fix-itself-if-you-log-in)
+ - [Super Micro reports Q1 revenue down 15% YoY to $5B, vs. $6.09B est., and forecasts Q2 profit below estimates; SMCI drops 9%+ after hours &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251104/p35#a251104p35)
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
