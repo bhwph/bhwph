@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best chips](http://9gag.com/gag/a6Z495e)
- - 😝 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
- - 👉 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)<!-- MEMES:END -->
+ - 6️⃣ [It keeps getting better and BETTER and BETTER!](http://9gag.com/gag/aqyB68M)
+ - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - 👉 [Me eating at a 3-star Michelin restaurant](http://9gag.com/gag/aVv4EYO)<!-- MEMES:END -->
 
 --- 
 
