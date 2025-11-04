@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Outer Worlds 2&#39;s most ambitious &lpar;but cut&rpar; feature would have added years to development](https://www.polygon.com/outer-worlds-2-cut-feature-obsidian-interview/)
- - [Final Fantasy Tactics Modders Are Making Sure The Remaster Gets The Bonus Content It Deserves](https://kotaku.com/final-fantasy-tactics-modders-are-making-sure-the-remaster-gets-the-bonus-content-it-deserves-2000641168)
- - [Out on PS VR2 this month: VRacer Hoverbike, Audio Trip, Roboquest VR, Shadowgate VR: The Mines of Mythrok](https://blog.playstation.com/2025/11/04/out-on-ps-vr2-this-month-vracer-hoverbike-audio-trip-roboquest-vr-shadowgate-vr-the-mines-of-mythrok/)<!-- GAME:END -->
+ - [Bend fire and lightning with Avatar&#39;s Azula in Magic: The Gathering](https://www.pcgamer.com/games/card-games/bend-fire-and-lightning-with-avatars-azula-in-magic-the-gathering/)
+ - [The tech industry came for Steam and whiffed so hard that it&#39;s had to admit that it didn&#39;t even really like making games in the first place](https://www.pcgamer.com/gaming-industry/tech-indurstry-vs-steam/)
+ - [My favorite genre of Arc Raiders videos so far is people discovering why Leapers are called that](https://www.pcgamer.com/games/third-person-shooter/my-favorite-genre-of-arc-raiders-videos-so-far-is-people-discovering-why-leapers-are-called-that/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
