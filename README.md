@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beacon Software, which buys niche software businesses and uses AI to transform them, raised a $250M Series B led by GC, Lightspeed, and D1 at a $1B valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251104/p16#a251104p16)
- - [Teardown reveals the liquid-cooled secrets behind the ‘most powerful phone on the planet’](https://www.androidauthority.com/jre-redmagic-pro-11-teardown-3612856/)
- - [Google’s entire Pixel 10 lineup is up to 25 percent off for the first time](https://www.theverge.com/tech/813137/google-pixel-10-pro-fold-motherboard-nintendo-deal-sale)<!-- TECH:END -->
+ - [First developer beta of iOS 26.2 arrives, but macOS Tahoe is missing](https://appleinsider.com/articles/25/11/04/first-developer-beta-of-ios-262-arrives-but-macos-tahoe-is-missing?utm_source=rss)
+ - [Sources: Amazon sent a cease-and-desist to Perplexity, demanding it to stop letting Comet make purchases on users&#39; behalf, accusing it of computer fraud &lpar;Bloomberg&rpar;](http://www.techmeme.com/251104/p25#a251104p25)
+ - [Google’s entire Fitbit lineup is already seeing steep discounts for Black Friday](https://www.theverge.com/tech/813053/fitbit-fitness-tracker-deals-black-friday-sale-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
