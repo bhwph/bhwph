@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I think I&#39;ve found the best early loot spot in Arc Raiders and nobody seems to know about it](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-loot-spot/)
- - [Arc Raiders is a surprisingly friendly extraction shooter for solo players](https://www.polygon.com/arc-raiders-solo-extraction-shooter-experience/)
- - [Nice Day for Fishing: Creating the World of Epic NPC Man’s Azerim](https://news.xbox.com/en-us/2025/11/04/nice-day-for-fishing-creating-the-world-of-epic-npc-mans-azerim/)<!-- GAME:END -->
+ - [Outer Worlds 2&#39;s most ambitious &lpar;but cut&rpar; feature would have added years to development](https://www.polygon.com/outer-worlds-2-cut-feature-obsidian-interview/)
+ - [Final Fantasy Tactics Modders Are Making Sure The Remaster Gets The Bonus Content It Deserves](https://kotaku.com/final-fantasy-tactics-modders-are-making-sure-the-remaster-gets-the-bonus-content-it-deserves-2000641168)
+ - [Out on PS VR2 this month: VRacer Hoverbike, Audio Trip, Roboquest VR, Shadowgate VR: The Mines of Mythrok](https://blog.playstation.com/2025/11/04/out-on-ps-vr2-this-month-vracer-hoverbike-audio-trip-roboquest-vr-shadowgate-vr-the-mines-of-mythrok/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
