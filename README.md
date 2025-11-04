@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of nonprofit Common Crawl, which scraped billions of web pages since 2013, including paywalled articles, to build an archive used by OpenAI and others &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/251104/p10#a251104p10)
- - [It’s not just you: Reddit is down for many users](https://www.androidauthority.com/reddit-is-down-3612790/)
- - [Looking to save big? Here are 5 Verizon deals I recommend checking out this month](https://www.androidauthority.com/verizon-deals-recommended-nov-3610948/)<!-- TECH:END -->
+ - [Amazon rolls out Alexa+ on the Amazon Music app on iOS and Android, letting Alexa+ Early Access users request obscure information or complex recommendations &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251104/p13#a251104p13)
+ - [Your smart home questions, answered](https://www.theverge.com/podcast/813012/smart-home-questions-hotline-vergecast)
+ - [I’ve used every new Samsung phone: These are the best ones to buy in 2025](https://www.androidauthority.com/the-best-samsung-phones-3607380/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
