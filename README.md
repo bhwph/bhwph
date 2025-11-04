@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [All the work that women have been doing](http://9gag.com/gag/a9yZvvK)
- - 😝 [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)
- - 👉 [A valuable lesson](http://9gag.com/gag/adBrQnQ)<!-- MEMES:END -->
+ - 6️⃣ [Me eating at a 3-star Michelin restaurant](http://9gag.com/gag/aVv4EYO)
+ - 😝 [Best chips](http://9gag.com/gag/a6Z495e)
+ - 👉 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)<!-- MEMES:END -->
 
 --- 
 
