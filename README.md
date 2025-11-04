@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Arc Raiders skills to unlock](https://www.polygon.com/arc-raiders-skill-tree-best-unlock-mobility-survival-conditioning/)
- - [Arc Raiders: The Sickest, Silliest, And Most Spectacular Moments From The Game So Far](https://kotaku.com/arc-raiders-embark-pvp-toxic-betrayal-leaper-2000640905)
- - [Fortnite Fans Beg Each Other Not To Buy Sidekicks: ‘The Greed On Display Is Disgusting’](https://kotaku.com/fortnite-fans-beg-each-other-not-to-buy-sidekicks-the-greed-on-display-is-disgusting-2000640910)<!-- GAME:END -->
+ - [Budget-Friendly Mac Mini Alternative, This Windows 11 Pro Mini PC Selling for Peanuts at Amazon](https://kotaku.com/budget-friendly-mac-mini-alternative-this-windows-11-pro-mini-pc-selling-for-peanuts-at-amazon-2000640954)
+ - [HP 17-Inch Laptop with Ryzen 5 Nearly Free &lpar;71% Off&rpar;, Amazon Clearing Stock for Early Black Friday](https://kotaku.com/hp-17-inch-laptop-with-ryzen-5-nearly-free-71-off-amazon-clearing-stock-for-early-black-friday-2000640936)
+ - [&#39;One of the chillest communities I’ve ever encountered&#39;: Arc Raiders solos are choosing love over war, and it&#39;s beautiful](https://www.pcgamer.com/games/third-person-shooter/one-of-the-chillest-communities-ive-ever-encountered-arc-raiders-is-becoming-the-anti-tarkov-as-solo-players-choose-love-over-war/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
