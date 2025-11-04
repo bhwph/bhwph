@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [First developer beta of iOS 26.2 arrives, but macOS Tahoe is missing](https://appleinsider.com/articles/25/11/04/first-developer-beta-of-ios-262-arrives-but-macos-tahoe-is-missing?utm_source=rss)
- - [Sources: Amazon sent a cease-and-desist to Perplexity, demanding it to stop letting Comet make purchases on users&#39; behalf, accusing it of computer fraud &lpar;Bloomberg&rpar;](http://www.techmeme.com/251104/p25#a251104p25)
- - [Google’s entire Fitbit lineup is already seeing steep discounts for Black Friday](https://www.theverge.com/tech/813053/fitbit-fitness-tracker-deals-black-friday-sale-2025)<!-- TECH:END -->
+ - [A joint Databroker Files investigation shows commercially traded mobile phone location data allows the tracking of millions of Europeans, including EU officials &lpar;netzpolitik.org&rpar;](http://www.techmeme.com/251104/p30#a251104p30)
+ - [Sora is finally live on Android, and you don’t need an invite to start creating](https://www.androidauthority.com/openai-sora-android-app-3612943/)
+ - [Deck your house in Govee’s smart string lights, which are cheaper ahead of the holidays](https://www.theverge.com/tech/813488/govee-christmas-lights-2-holidays-2025-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
