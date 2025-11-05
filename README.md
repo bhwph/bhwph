@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 11 is running into activation issues with some US carriers](https://www.androidauthority.com/apple-watch-series-11-verizon-activate-3613200/)
- - [Google Maps plans to replace Assistant with Gemini on Android and iOS, giving users a &quot;hands-free, conversational driving experience&quot;, in the &quot;coming weeks&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251105/p33#a251105p33)
- - [Why upgrade? Here’s an amazing deal on the Google Pixel Watch 3 &lpar;45mm&rpar;](https://www.androidauthority.com/google-pixel-watch-3-deal-2-3613161/)<!-- TECH:END -->
+ - [Google’s agentic AI Mode experiment has learned some new tricks](https://www.androidauthority.com/google-ai-mode-concert-tickets-beauty-appointments-3613235/)
+ - [T-Mobile makes satellite 911 texting free for everyone — even Verizon and AT&amp;T users](https://www.androidauthority.com/t-mobile-text-to-911-available-to-all-3613251/)
+ - [WEB WAR III](https://www.theverge.com/tech/813944/browser-wars-chatgpt-gemini-chrome)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
