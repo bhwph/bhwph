@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin dropped below $100K for the first time since June on Tuesday; ETH also fell as much as 15% on Tuesday, and many altcoins are down 50%+ this year &lpar;Bloomberg&rpar;](http://www.techmeme.com/251104/p41#a251104p41)
- - [100 lucky US Mobile users will get a free Pixel 10 when signing up for ‘Protect’ insurance](https://www.androidauthority.com/us-mobile-protect-3613057/)
- - [Beelink Mate mini 80Gbps Dock review: Port expansion without the bandwidth limit](https://appleinsider.com/articles/25/11/05/beelink-mate-mini-80gbps-dock-review-port-expansion-without-the-bandwidth-limit?utm_source=rss)<!-- TECH:END -->
+ - [Qualcomm’s next flagship chip might come in two flavors, just to complicate things further?](https://www.androidauthority.com/snapdragon-8-elite-gen-6-standard-pro-rumor-3612968/)
+ - [Google Play Store now lets you buy digital gift cards for Disney, AMC, Starbucks, and more](https://www.androidauthority.com/google-play-store-digital-gift-cards-3613071/)
+ - [iOS 26: How to customize the iPhone&#39;s Lock Screen clock](https://appleinsider.com/inside/ios-26/tips/ios-26-how-to-customize-the-iphones-lock-screen-clock?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
