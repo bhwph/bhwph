@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s Edge 70 is the blueprint for future thin phones](https://www.theverge.com/gadgets/813377/motorola-edge-70-review)
- - [How ideology-driven AI chatbots like Grok and Gab&#39;s Arya position themselves as alternatives to mainstream chatbots accused of liberal bias &lpar;New York Times&rpar;](http://www.techmeme.com/251105/p10#a251105p10)
- - [Sources detail a leadership vacuum and staff cuts at the NSA, eroding morale among its analysts and weakening the agency&#39;s long-term cyber capabilities &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/251105/p9#a251105p9)<!-- TECH:END -->
+ - [Singapore-based Video Rebirth, founded by Tencent AI veteran Liu Wei to develop AI video generation models, raised a $50M seed from Qiming, ActozSoft, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/251105/p14#a251105p14)
+ - [Is uBlock Origin dead on Chrome? New update says yes, but here’s how to get the ad blocker back](https://www.androidauthority.com/chrome-142-ublock-origin-workaround-3613115/)
+ - [Insiders detail how Nepal&#39;s Gen Z protests, born on Discord servers, TikTok feeds, and encrypted messaging apps, ended with an online poll to pick the new PM &lpar;Tulsi Rauniyar/Wired&rpar;](http://www.techmeme.com/251105/p13#a251105p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
