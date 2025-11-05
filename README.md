@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All rift anomaly locations in The Outer Worlds 2](https://www.polygon.com/outer-worlds-2-rift-anomaly-locations-all/)
- - [Do the titles of these games contain a colon, a dash, both, or neither? Test your punctuational prowess in our latest quiz!](https://www.pcgamer.com/games/do-the-titles-of-these-games-contain-a-colon-a-dash-both-or-neither-test-your-punctuational-prowess-in-our-latest-quiz/)
- - [Vivziepop says Hazbin Hotel season 2 is &quot;what the show is meant to be&quot;](https://www.polygon.com/video/vivziepop-hazbin-hotel-interview-season-2-overview/)<!-- GAME:END -->
+ - [Top Twitch Streamer Sues Emiru And Asmongold For Defamation Over Sexual Assault Allegations](https://kotaku.com/emiru-asmongold-mizkif-defamation-lawsuit-sexual-assault-otk-2000641443)
+ - [Sonic‘s Latest Outing Is A Grim Fall Guys Knock-Off With $60 Skins](https://kotaku.com/sonics-latest-outing-is-a-grim-fall-guys-knock-off-with-60-skins-2000641427)
+ - [Where to find all high security lockboxes in The Outer Worlds 2](https://www.polygon.com/the-outer-worlds-2-high-security-lockbox-where-to-find-how-to-open/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
