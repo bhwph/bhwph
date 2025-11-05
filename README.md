@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Y&#39;all motherf***ers want a photo](http://9gag.com/gag/axyQb6b)
- - 😝 [... and he&#39;s right.](http://9gag.com/gag/aE0yWd9)
- - 👉 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)<!-- MEMES:END -->
+ - 6️⃣ [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
+ - 😝 [Just a hug.](http://9gag.com/gag/a6Z4nKN)
+ - 👉 [Dont try this at home](http://9gag.com/gag/aRB9oV5)<!-- MEMES:END -->
 
 --- 
 
