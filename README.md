@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bend fire and lightning with Avatar&#39;s Azula in Magic: The Gathering](https://www.pcgamer.com/games/card-games/bend-fire-and-lightning-with-avatars-azula-in-magic-the-gathering/)
- - [The tech industry came for Steam and whiffed so hard that it&#39;s had to admit that it didn&#39;t even really like making games in the first place](https://www.pcgamer.com/gaming-industry/tech-indurstry-vs-steam/)
- - [My favorite genre of Arc Raiders videos so far is people discovering why Leapers are called that](https://www.pcgamer.com/games/third-person-shooter/my-favorite-genre-of-arc-raiders-videos-so-far-is-people-discovering-why-leapers-are-called-that/)<!-- GAME:END -->
+ - [Bose QuietComfort Ultra Priced Like an Old Model, Amazon Quietly Dumps Its ANC Headphones](https://kotaku.com/bose-quietcomfort-ultra-priced-like-an-old-model-amazon-quietly-dumps-its-anc-headphones-2000641239)
+ - [Apple Backs This Anker MacBook Pro Charger, and It’s 5 Times Cheaper on Amazon Than Its Official Site](https://kotaku.com/apple-backs-this-anker-macbook-pro-charger-and-its-5-times-cheaper-on-amazon-than-its-official-site-2000641232)
+ - [&#39;In a true RPG, you need to think about what is happening&#39;: RPGs have been coddling us, says Outer Worlds 2 director, who&#39;s glad to see games like Baldur&#39;s Gate 3 let players make mistakes](https://www.pcgamer.com/games/rpg/in-a-true-rpg-you-need-to-think-about-what-is-happening-rpgs-have-been-coddling-us-says-outer-worlds-2-director-whos-glad-to-see-games-like-baldurs-gate-3-let-players-make-mistakes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
