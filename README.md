@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It keeps getting better and BETTER and BETTER!](http://9gag.com/gag/aqyB68M)
- - 😝 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
- - 👉 [It Morphing Time!!](http://9gag.com/gag/avy46qn)<!-- MEMES:END -->
+ - 6️⃣ [Creepy](http://9gag.com/gag/aPAzoAR)
+ - 😝 [My favorite is beech.](http://9gag.com/gag/aW4PnD2)
+ - 👉 [0_0](http://9gag.com/gag/axyQ691)<!-- MEMES:END -->
 
 --- 
 
