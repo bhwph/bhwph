@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
- - 😝 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)
+ - 6️⃣ [Pure genius](http://9gag.com/gag/abAKx1b)
+ - 😝 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
  - 👉 [Dont try this at home](http://9gag.com/gag/aRB9oV5)<!-- MEMES:END -->
 
 --- 
