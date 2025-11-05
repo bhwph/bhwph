@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Stream Deck’s ‘device not supported’ error should fix itself if you log in](https://www.theverge.com/tech/813814/your-stream-decks-device-not-supported-error-should-fix-itself-if-you-log-in)
- - [Super Micro reports Q1 revenue down 15% YoY to $5B, vs. $6.09B est., and forecasts Q2 profit below estimates; SMCI drops 9%+ after hours &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251104/p35#a251104p35)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)<!-- TECH:END -->
+ - [Apple inadvertently leaked front-end source code of new App Store on the web](https://appleinsider.com/articles/25/11/05/apple-inadvertently-leaked-front-end-source-code-of-new-app-store-on-the-web?utm_source=rss)
+ - [Shares of Asian AI-linked companies fall, tracking declines in US peers, as investors worry about stretched valuations; SoftBank falls 9%+, Advantest 7%+ &lpar;Lee Ying Shan/CNBC&rpar;](http://www.techmeme.com/251104/p40#a251104p40)
+ - [Sources detail Musk&#39;s time at xAI after he left DOGE: he oversaw the design of the racy chatbot Ani, employees turned over biometric data to train avatars, more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251104/p39#a251104p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
