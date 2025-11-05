@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Creepy](http://9gag.com/gag/aPAzoAR)
- - 😝 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
- - 👉 [Is this the worst browngrading we\u2019ve seen so far?](http://9gag.com/gag/aO8AZQ2)<!-- MEMES:END -->
+ - 6️⃣ [My man....](http://9gag.com/gag/aO8ADM3)
+ - 😝 [Pure genius](http://9gag.com/gag/abAKx1b)
+ - 👉 [Some still exist](http://9gag.com/gag/aLnVAo6)<!-- MEMES:END -->
 
 --- 
 
