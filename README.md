@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Turns out 9 PM is still the sweet spot](http://9gag.com/gag/abAKWBO)
- - 😝 [My man....](http://9gag.com/gag/aO8ADM3)
- - 👉 [Lol](http://9gag.com/gag/a5Qvz9r)<!-- MEMES:END -->
+ - 6️⃣ [It keeps getting better and BETTER and BETTER!](http://9gag.com/gag/aqyB68M)
+ - 😝 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
+ - 👉 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)<!-- MEMES:END -->
 
 --- 
 
