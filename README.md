@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is planning to use a custom version of Google Gemini for Apple Intelligence](https://www.theverge.com/news/814654/apple-intelligence-google-gemini-ai-siri)
- - [The nostalgia and surprise of returning to Animal Crossing: New Horizons](https://www.theverge.com/games/814497/animal-crossing-new-horizons-acnh-2025-return)
- - [Sources: data center startup Crusoe is arranging an employee share sale involving ~$120M worth of shares that values it at ~$13B, up from $10B+ just weeks ago &lpar;The Information&rpar;](http://www.techmeme.com/251105/p44#a251105p44)<!-- TECH:END -->
+ - [Bumble reports Q3 revenue down 10% YoY to $246.2M, total paying users down 16% to 3.6M, and forecasts Q4 revenue below estimates; BMBL falls 15%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/251105/p51#a251105p51)
+ - [Google Gemini’s Deep Research can look into your emails, drive, and chats](https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized)
+ - [Google’s new Pixel theme packs are nearly ready to customize your phone with one tap](https://www.androidauthority.com/pixel-theme-packs-3613362/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
