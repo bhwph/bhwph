@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [It keeps getting better and BETTER and BETTER!](http://9gag.com/gag/aqyB68M)
- - 😝 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
- - 👉 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)<!-- MEMES:END -->
+ - 😝 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
+ - 👉 [It Morphing Time!!](http://9gag.com/gag/avy46qn)<!-- MEMES:END -->
 
 --- 
 
