@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My man....](http://9gag.com/gag/aO8ADM3)
- - 😝 [Pure genius](http://9gag.com/gag/abAKx1b)
- - 👉 [Some still exist](http://9gag.com/gag/aLnVAo6)<!-- MEMES:END -->
+ - 6️⃣ [Pure genius](http://9gag.com/gag/abAKx1b)
+ - 😝 [Some still exist](http://9gag.com/gag/aLnVAo6)
+ - 👉 [ZLM! I think the more appropriate term is mortally challenged.](http://9gag.com/gag/an78xpz)<!-- MEMES:END -->
 
 --- 
 
