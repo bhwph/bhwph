@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm’s next flagship chip might come in two flavors, just to complicate things further?](https://www.androidauthority.com/snapdragon-8-elite-gen-6-standard-pro-rumor-3612968/)
- - [Google Play Store now lets you buy digital gift cards for Disney, AMC, Starbucks, and more](https://www.androidauthority.com/google-play-store-digital-gift-cards-3613071/)
- - [iOS 26: How to customize the iPhone&#39;s Lock Screen clock](https://appleinsider.com/inside/ios-26/tips/ios-26-how-to-customize-the-iphones-lock-screen-clock?utm_source=rss)<!-- TECH:END -->
+ - [Google&#39;s proposed Epic settlement includes reduced app store fees globally and a new program for alternative app stores to become first-class Android citizens &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251105/p3#a251105p3)
+ - [Google and Epic Games reached an agreement to settle Epic&#39;s 2020 antitrust lawsuit, with proposed changes to Android and Google Play pending court approval &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/251105/p2#a251105p2)
+ - [Canon Promo Codes: 10% Off | November 2025](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
