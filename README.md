@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Creepy](http://9gag.com/gag/aPAzoAR)
- - 😝 [My favorite is beech.](http://9gag.com/gag/aW4PnD2)
- - 👉 [0_0](http://9gag.com/gag/axyQ691)<!-- MEMES:END -->
+ - 😝 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
+ - 👉 [Is this the worst browngrading we\u2019ve seen so far?](http://9gag.com/gag/aO8AZQ2)<!-- MEMES:END -->
 
 --- 
 
