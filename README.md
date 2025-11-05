@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&amp;#8217;s grocery store dreams are reshaping Whole Foods](https://www.theverge.com/news/814454/amazon-whole-foods-fulfillment-concept-store)
- - [Zohran Mamdani&#39;s Campaign Figured Out How to Channel Fandom](https://www.wired.com/story/zohran-mamdani-campaign-fandom/)
- - [Metro by T-Mobile is overhauling its insurance, with plans starting at just $3 a month](https://www.androidauthority.com/metro-by-t-mobile-protection-3613304/)<!-- TECH:END -->
+ - [Apple is planning to use a custom version of Google Gemini for Apple Intelligence](https://www.theverge.com/news/814654/apple-intelligence-google-gemini-ai-siri)
+ - [The nostalgia and surprise of returning to Animal Crossing: New Horizons](https://www.theverge.com/games/814497/animal-crossing-new-horizons-acnh-2025-return)
+ - [Sources: data center startup Crusoe is arranging an employee share sale involving ~$120M worth of shares that values it at ~$13B, up from $10B+ just weeks ago &lpar;The Information&rpar;](http://www.techmeme.com/251105/p44#a251105p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
