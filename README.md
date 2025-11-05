@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MindsEye loses its free-roam mode, gains a dodge roll, and rebrands itself as &#39;Powered by Arcadia&#39; whatever that means](https://www.pcgamer.com/games/action/mindseye-loses-its-free-roam-mode-gains-a-dodge-roll-and-rebrands-itself-as-powered-by-arcadia-whatever-that-means/)
- - [The Fitbit Charge 6 Can Help You Achieve a Healthier Lifestyle at $60 off](https://kotaku.com/the-fitbit-charge-6-can-help-you-achieve-a-healthier-lifestyle-at-60-off-2000641230)
- - [Segway Offloads Its Safe Ninebot Electric Scooter, Now Selling for the Price of a Basic Budget Model](https://kotaku.com/segway-offloads-its-safe-ninebot-electric-scooter-now-selling-for-the-price-of-a-basic-budget-model-2000641237)<!-- GAME:END -->
+ - [Tiny PS5 build reduces size of original console by 60%, making it look like a mini PC while slashing its power draw and temps too](https://www.pcgamer.com/hardware/tiny-ps5-build-reduces-size-of-original-console-by-60-percent-making-it-look-like-a-mini-pc-while-slashing-its-power-draw-and-thermals-too/)
+ - [The Nintendo Store finally has an app, and it&#39;s hiding a long-requested feature](https://www.polygon.com/nintendo-store-app-launch-game-activity/)
+ - [MindsEye loses its free-roam mode, gains a dodge roll, and rebrands itself as &#39;Powered by Arcadia&#39; whatever that means](https://www.pcgamer.com/games/action/mindseye-loses-its-free-roam-mode-gains-a-dodge-roll-and-rebrands-itself-as-powered-by-arcadia-whatever-that-means/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
