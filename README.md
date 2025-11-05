@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel&#39;s new Wonder Man trailer has big hints about its twist](https://www.polygon.com/marvel-wonder-man-trailer-disney-plus/)
- - [Creating Dark Quest 4: The Making of a Modern Dark Fantasy Adventure](https://news.xbox.com/en-us/2025/11/05/creating-dark-quest-4-the-making-of-a-modern-dark-fantasy-adventure/)
- - [One Piece&#39;s God Valley flashback proves you shouldn&#39;t believe in legends](https://www.polygon.com/one-piece-chapter-1164-god-valley-flashback-history-lies-truth/)<!-- GAME:END -->
+ - [All rift anomaly locations in The Outer Worlds 2](https://www.polygon.com/outer-worlds-2-rift-anomaly-locations-all/)
+ - [Do the titles of these games contain a colon, a dash, both, or neither? Test your punctuational prowess in our latest quiz!](https://www.pcgamer.com/games/do-the-titles-of-these-games-contain-a-colon-a-dash-both-or-neither-test-your-punctuational-prowess-in-our-latest-quiz/)
+ - [Vivziepop says Hazbin Hotel season 2 is &quot;what the show is meant to be&quot;](https://www.polygon.com/video/vivziepop-hazbin-hotel-interview-season-2-overview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
