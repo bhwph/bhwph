@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s proposed Epic settlement includes reduced app store fees globally and a new program for alternative app stores to become first-class Android citizens &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251105/p3#a251105p3)
- - [Google and Epic Games reached an agreement to settle Epic&#39;s 2020 antitrust lawsuit, with proposed changes to Android and Google Play pending court approval &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/251105/p2#a251105p2)
- - [Canon Promo Codes: 10% Off | November 2025](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
+ - [Motorola’s Edge 70 is the blueprint for future thin phones](https://www.theverge.com/gadgets/813377/motorola-edge-70-review)
+ - [How ideology-driven AI chatbots like Grok and Gab&#39;s Arya position themselves as alternatives to mainstream chatbots accused of liberal bias &lpar;New York Times&rpar;](http://www.techmeme.com/251105/p10#a251105p10)
+ - [Sources detail a leadership vacuum and staff cuts at the NSA, eroding morale among its analysts and weakening the agency&#39;s long-term cyber capabilities &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/251105/p9#a251105p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
