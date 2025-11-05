@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netherlands-based Nebius unveils Token Factory, a platform to let companies use open source AI models like GPT-oss, in a bid to compete with AWS and Azure &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251105/p25#a251105p25)
- - [Armis, which helps businesses secure and manage IoT devices, raised $435M at a $6.1B valuation, up from $4.2B after raising a $200M Series D in October 2024 &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251105/p24#a251105p24)
- - [Hot subpoena summer](https://www.theverge.com/cs/features/804409/perez-hilton-lively-baldoni-subpoena)<!-- TECH:END -->
+ - [Apple Watch Series 11 is running into activation issues with some US carriers](https://www.androidauthority.com/apple-watch-series-11-verizon-activate-3613200/)
+ - [Google Maps plans to replace Assistant with Gemini on Android and iOS, giving users a &quot;hands-free, conversational driving experience&quot;, in the &quot;coming weeks&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251105/p33#a251105p33)
+ - [Why upgrade? Here’s an amazing deal on the Google Pixel Watch 3 &lpar;45mm&rpar;](https://www.androidauthority.com/google-pixel-watch-3-deal-2-3613161/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
