@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tiny PS5 build reduces size of original console by 60%, making it look like a mini PC while slashing its power draw and temps too](https://www.pcgamer.com/hardware/tiny-ps5-build-reduces-size-of-original-console-by-60-percent-making-it-look-like-a-mini-pc-while-slashing-its-power-draw-and-thermals-too/)
- - [The Nintendo Store finally has an app, and it&#39;s hiding a long-requested feature](https://www.polygon.com/nintendo-store-app-launch-game-activity/)
- - [MindsEye loses its free-roam mode, gains a dodge roll, and rebrands itself as &#39;Powered by Arcadia&#39; whatever that means](https://www.pcgamer.com/games/action/mindseye-loses-its-free-roam-mode-gains-a-dodge-roll-and-rebrands-itself-as-powered-by-arcadia-whatever-that-means/)<!-- GAME:END -->
+ - [Most of Arc Raiders&#39; Mobility skills don&#39;t work how you think they do, so I guess it&#39;s time to start building your Expedition caravan to respec](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-respec-mobility-skills/)
+ - [New Five Nights at Freddy&#39;s 2 trailer shows off Springtrap, Balloon Boy, and more](https://www.polygon.com/five-nights-at-freddys-2-trailer-springtrap/)
+ - [Disneyland joins Fortnite with special new island and games](https://www.polygon.com/fortnite-disneyland-game-rush-map-star-wars-marvel/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
