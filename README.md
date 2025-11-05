@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Most of Arc Raiders&#39; Mobility skills don&#39;t work how you think they do, so I guess it&#39;s time to start building your Expedition caravan to respec](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-respec-mobility-skills/)
- - [New Five Nights at Freddy&#39;s 2 trailer shows off Springtrap, Balloon Boy, and more](https://www.polygon.com/five-nights-at-freddys-2-trailer-springtrap/)
- - [Disneyland joins Fortnite with special new island and games](https://www.polygon.com/fortnite-disneyland-game-rush-map-star-wars-marvel/)<!-- GAME:END -->
+ - [Marvel&#39;s new Wonder Man trailer has big hints about its twist](https://www.polygon.com/marvel-wonder-man-trailer-disney-plus/)
+ - [Creating Dark Quest 4: The Making of a Modern Dark Fantasy Adventure](https://news.xbox.com/en-us/2025/11/05/creating-dark-quest-4-the-making-of-a-modern-dark-fantasy-adventure/)
+ - [One Piece&#39;s God Valley flashback proves you shouldn&#39;t believe in legends](https://www.polygon.com/one-piece-chapter-1164-god-valley-flashback-history-lies-truth/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
