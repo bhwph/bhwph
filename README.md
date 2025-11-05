@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
- - 😝 [If You Can&#39;t Reach A Wall, Its Possible To Get Stuck Floating In The Space Station](http://9gag.com/gag/abAKOnO)
- - 👉 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)<!-- MEMES:END -->
+ - 6️⃣ [Turns out 9 PM is still the sweet spot](http://9gag.com/gag/abAKWBO)
+ - 😝 [My man....](http://9gag.com/gag/aO8ADM3)
+ - 👉 [Lol](http://9gag.com/gag/a5Qvz9r)<!-- MEMES:END -->
 
 --- 
 
