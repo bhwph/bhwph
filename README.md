@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore-based Video Rebirth, founded by Tencent AI veteran Liu Wei to develop AI video generation models, raised a $50M seed from Qiming, ActozSoft, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/251105/p14#a251105p14)
- - [Is uBlock Origin dead on Chrome? New update says yes, but here’s how to get the ad blocker back](https://www.androidauthority.com/chrome-142-ublock-origin-workaround-3613115/)
- - [Insiders detail how Nepal&#39;s Gen Z protests, born on Discord servers, TikTok feeds, and encrypted messaging apps, ended with an online poll to pick the new PM &lpar;Tulsi Rauniyar/Wired&rpar;](http://www.techmeme.com/251105/p13#a251105p13)<!-- TECH:END -->
+ - [Netherlands-based Nebius unveils Token Factory, a platform to let companies use open source AI models like GPT-oss, in a bid to compete with AWS and Azure &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251105/p25#a251105p25)
+ - [Armis, which helps businesses secure and manage IoT devices, raised $435M at a $6.1B valuation, up from $4.2B after raising a $200M Series D in October 2024 &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251105/p24#a251105p24)
+ - [Hot subpoena summer](https://www.theverge.com/cs/features/804409/perez-hilton-lively-baldoni-subpoena)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
