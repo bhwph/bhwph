@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I have this weird super power that lets me see IQs](http://9gag.com/gag/aPAz84q)
- - 😝 [Bro is a magician](http://9gag.com/gag/agm68xw)
- - 👉 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)<!-- MEMES:END -->
+ - 6️⃣ [Y&#39;all motherf***ers want a photo](http://9gag.com/gag/axyQb6b)
+ - 😝 [... and he&#39;s right.](http://9gag.com/gag/aE0yWd9)
+ - 👉 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)<!-- MEMES:END -->
 
 --- 
 
