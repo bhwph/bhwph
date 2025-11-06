@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trick or Treat?](http://9gag.com/gag/amoKMjy)
- - 😝 [Meanwhile in Brazil. lol](http://9gag.com/gag/ajPGxMx)
+ - 6️⃣ [Imagine having such striking and intense eyes and being asked to tone it down. She was like a cat in human form. Alexandria Daddario has eyes like that.](http://9gag.com/gag/ajPGK9Q)
+ - 😝 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)
  - 👉 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)<!-- MEMES:END -->
 
 --- 
