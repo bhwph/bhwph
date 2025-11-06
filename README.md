@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Great, now even malware is using LLMs to rewrite its code, says Google, as it documents new phase of &#39;AI abuse&#39;](https://www.pcgamer.com/software/ai/great-now-even-malware-is-using-llms-to-rewrite-its-code-says-google-as-it-documents-new-phase-of-ai-abuse/)
- - [You can watch RAM prices going up almost in real-time on Amazon and it&#39;s only likely to get worse](https://www.pcgamer.com/hardware/memory/you-can-watch-ram-prices-going-up-almost-in-real-time-on-amazon-and-its-only-likely-to-get-worse/)
- - [How to unlock the Applied Esoterica badge in Peak](https://www.pcgamer.com/games/sim/peak-applied-esoterica-badge-unlock/)<!-- GAME:END -->
+ - [Gremlins 3 announced for 2027 theatrical release by Warner Bros.](https://www.polygon.com/gremlins-3-movie-release-date-2027/)
+ - [Pokémon Legends: Z-A‘s DLC Is Coming Next Month And It Looks Sick](https://kotaku.com/pokemon-legends-za-mega-dimension-dlc-new-raichu-2000641644)
+ - [I&#39;m not here to make friends: I will fill you with bullets if I see you in Arc Raiders](https://www.pcgamer.com/games/action/im-not-here-to-make-friends-i-will-fill-you-with-bullets-if-i-see-you-in-arc-raiders/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
