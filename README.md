@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pure genius](http://9gag.com/gag/abAKx1b)
+ - 6️⃣ [Good morning, humans](http://9gag.com/gag/aByjE5D)
  - 😝 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
- - 👉 [Dont try this at home](http://9gag.com/gag/aRB9oV5)<!-- MEMES:END -->
+ - 👉 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)<!-- MEMES:END -->
 
 --- 
 
