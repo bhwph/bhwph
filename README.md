@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stank](http://9gag.com/gag/aZZojmW)
- - 😝 [You can run but you can&#39;t hide](http://9gag.com/gag/aXPQWb2)
- - 👉 [Signs](http://9gag.com/gag/aRB92AB)<!-- MEMES:END -->
+ - 6️⃣ [Imagine having such striking and intense eyes and being asked to tone it down. She was like a cat in human form. Alexandria Daddario has eyes like that.](http://9gag.com/gag/ajPGK9Q)
+ - 😝 [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
+ - 👉 [My eyes are down here](http://9gag.com/gag/aKGnOgW)<!-- MEMES:END -->
 
 --- 
 
