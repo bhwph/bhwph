@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AI boom is driving coordinated innovation in the US as it builds fabs and energy infrastructure that could have lasting value even if the bubble bursts &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251106/p9#a251106p9)
- - [License plate surveillance company Flock Safety faces bipartisan pressure from lawmakers and local organizers over its data handling and cybersecurity practices &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/251106/p8#a251106p8)
- - [Microsoft built a simulated marketplace to test hundreds of AI agents, finding that businesses could manipulate agents into buying their products and more &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251106/p7#a251106p7)<!-- TECH:END -->
+ - [Leak hints Galaxy S26 Ultra’s 60W charging won’t fizzle out early like S25 Ultra’s 45W charging](https://www.androidauthority.com/samsung-galaxy-s26-ultra-60w-fast-charging-speed-leak-3613523/)
+ - [Tinder’s AI can find better matches by scanning your camera roll](https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test)
+ - [10 Best Travel Pillows for Planes and Hotels &lpar;2025&rpar;, Travel Tested](https://www.wired.com/gallery/best-travel-pillows/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
