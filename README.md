@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dont try this at home](http://9gag.com/gag/aRB9oV5)
- - 😝 [Good morning, humans](http://9gag.com/gag/aByjE5D)
- - 👉 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)<!-- MEMES:END -->
+ - 6️⃣ [Stank](http://9gag.com/gag/aZZojmW)
+ - 😝 [You can run but you can&#39;t hide](http://9gag.com/gag/aXPQWb2)
+ - 👉 [Signs](http://9gag.com/gag/aRB92AB)<!-- MEMES:END -->
 
 --- 
 
