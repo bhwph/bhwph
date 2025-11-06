@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good morning, humans](http://9gag.com/gag/aByjE5D)
- - 😝 [Dont ride and text &lpar;credit Boli blog&rpar;](http://9gag.com/gag/adBrezZ)
- - 👉 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)<!-- MEMES:END -->
+ - 6️⃣ [Trick or Treat?](http://9gag.com/gag/amoKMjy)
+ - 😝 [Meanwhile in Brazil. lol](http://9gag.com/gag/ajPGxMx)
+ - 👉 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)<!-- MEMES:END -->
 
 --- 
 
