@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bumble reports Q3 revenue down 10% YoY to $246.2M, total paying users down 16% to 3.6M, and forecasts Q4 revenue below estimates; BMBL falls 15%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/251105/p51#a251105p51)
- - [Google Gemini’s Deep Research can look into your emails, drive, and chats](https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized)
- - [Google’s new Pixel theme packs are nearly ready to customize your phone with one tap](https://www.androidauthority.com/pixel-theme-packs-3613362/)<!-- TECH:END -->
+ - [Sources and docs: after Marc Andreessen donated $5M+ to Trump&#39;s 2024 campaign, most CFPB probes have stalled, including three into Andreessen-backed companies &lpar;Jake Pearson/ProPublica&rpar;](http://www.techmeme.com/251105/p59#a251105p59)
+ - [iOS 26.2 beta 1 seemingly pulled for devices using C1 modem](https://appleinsider.com/articles/25/11/06/ios-262-beta-1-seemingly-pulled-for-devices-using-c1-modem?utm_source=rss)
+ - [KiiBoom Cybrix 16 review: 16 keys, tons of usefulness](https://appleinsider.com/articles/25/11/06/kiiboom-cybrix-16-review-16-keys-tons-of-usefulness?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
