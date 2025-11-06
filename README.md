@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My eyes are down here](http://9gag.com/gag/aKGnOgW)
- - 😝 [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
- - 👉 [Good morning, humans](http://9gag.com/gag/aByjE5D)<!-- MEMES:END -->
+ - 6️⃣ [Really worth it](http://9gag.com/gag/aZZozMp)
+ - 😝 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)
+ - 👉 [My eyes are down here](http://9gag.com/gag/aKGnOgW)<!-- MEMES:END -->
 
 --- 
 
