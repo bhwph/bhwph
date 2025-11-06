@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Top Twitch Streamer Sues Emiru And Asmongold For Defamation Over Sexual Assault Allegations](https://kotaku.com/emiru-asmongold-mizkif-defamation-lawsuit-sexual-assault-otk-2000641443)
- - [Sonic‘s Latest Outing Is A Grim Fall Guys Knock-Off With $60 Skins](https://kotaku.com/sonics-latest-outing-is-a-grim-fall-guys-knock-off-with-60-skins-2000641427)
- - [Where to find all high security lockboxes in The Outer Worlds 2](https://www.polygon.com/the-outer-worlds-2-high-security-lockbox-where-to-find-how-to-open/)<!-- GAME:END -->
+ - [Dell Begins Black Friday with 70% Off This 1TB SSD Windows Laptop, Prime Gets Nearly $2,300 Off](https://kotaku.com/dell-begins-black-friday-with-70-off-this-1tb-ssd-windows-laptop-prime-gets-nearly-2300-off-2000641504)
+ - [Rockstar says the employees it fired were leaking information, but it&#39;s not going to escape union busting accusations that easily](https://www.pcgamer.com/games/grand-theft-auto/rockstar-says-the-employees-it-fired-were-leaking-information-but-its-not-going-to-escape-union-busting-accusations-that-easily/)
+ - [Apple Goes All Out with Black Friday Deal, MacBook Air Crashes to a Brand New Record Low](https://kotaku.com/apple-goes-all-out-with-black-friday-deal-macbook-air-crashes-to-a-brand-new-record-low-2000641489)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
