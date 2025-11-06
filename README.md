@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney World Guests Are Dying At An Alarming Rate](https://kotaku.com/disney-world-fourth-death-in-one-month-disneyland-2000641756)
- - [More of Obsidian’s Favorite Character Builds for The Outer Worlds 2](https://news.xbox.com/en-us/2025/11/06/more-obsidian-favorite-character-builds-outer-worlds-2/)
- - [A Game of the Year contender is free to play on Steam this weekend](https://www.polygon.com/kingdom-come-deliverance-2-steam-free-weekend/)<!-- GAME:END -->
+ - [Netflix is reportedly turning the best cooking game, Overcooked, into a reality competition, and if it doesn&#39;t get Nicole Byer from Nailed It! to host, I will riot](https://www.pcgamer.com/movies-tv/netflix-is-reportedly-turning-the-best-cooking-game-overcooked-into-a-reality-competition-and-if-it-doesnt-get-nicole-byer-from-nailed-it-to-host-i-will-riot/)
+ - [An Inside Scoop of the Boxes: Lost Fragments Development Process](https://news.xbox.com/en-us/2025/11/06/an-inside-scoop-of-boxes-lost-fragments-development/)
+ - [The Game Awards is skipping its Future Class in 2025](https://www.polygon.com/the-game-awards-future-class-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
