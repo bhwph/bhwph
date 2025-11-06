@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gremlins 3 announced for 2027 theatrical release by Warner Bros.](https://www.polygon.com/gremlins-3-movie-release-date-2027/)
- - [Pokémon Legends: Z-A‘s DLC Is Coming Next Month And It Looks Sick](https://kotaku.com/pokemon-legends-za-mega-dimension-dlc-new-raichu-2000641644)
- - [I&#39;m not here to make friends: I will fill you with bullets if I see you in Arc Raiders](https://www.pcgamer.com/games/action/im-not-here-to-make-friends-i-will-fill-you-with-bullets-if-i-see-you-in-arc-raiders/)<!-- GAME:END -->
+ - [Lego Star Trek: The Next Generation Enterprise is here and huge](https://www.polygon.com/lego-star-trek-tng-next-generation-enterprise-build/)
+ - [Here’s How You Make Coping Kingdom Hearts Fans Lose Their Shit](https://kotaku.com/kingdom-hearts-4-haley-joel-osment-sora-instagram-story-2000641691)
+ - [Call Of Duty Passed On Spielberg And Now He’s Making Gremlins 3](https://kotaku.com/gremlins-3-announced-2027-speilberg-call-of-duty-sequel-chris-columbus-2000641675)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
