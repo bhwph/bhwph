@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix is reportedly turning the best cooking game, Overcooked, into a reality competition, and if it doesn&#39;t get Nicole Byer from Nailed It! to host, I will riot](https://www.pcgamer.com/movies-tv/netflix-is-reportedly-turning-the-best-cooking-game-overcooked-into-a-reality-competition-and-if-it-doesnt-get-nicole-byer-from-nailed-it-to-host-i-will-riot/)
- - [An Inside Scoop of the Boxes: Lost Fragments Development Process](https://news.xbox.com/en-us/2025/11/06/an-inside-scoop-of-boxes-lost-fragments-development/)
- - [The Game Awards is skipping its Future Class in 2025](https://www.polygon.com/the-game-awards-future-class-2025/)<!-- GAME:END -->
+ - [The Internet Is Not Handling GTA6’s Second Delay Well](https://kotaku.com/grand-theft-auto-6-delay-november-gta6-reaction-news-2000641817)
+ - [GTA 6 release date: The latest news on Rockstar&#39;s next game](https://www.polygon.com/gta-6-release-date/)
+ - [I just learned that before the internet, &#39;online&#39; actually meant &#39;offline&#39; and it&#39;s turned my world upside down](https://www.pcgamer.com/software/i-just-learned-that-before-the-internet-online-actually-meant-offline-and-its-turned-my-world-upside-down/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
