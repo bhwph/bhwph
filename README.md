@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Star Trek: The Next Generation Enterprise is here and huge](https://www.polygon.com/lego-star-trek-tng-next-generation-enterprise-build/)
- - [Here’s How You Make Coping Kingdom Hearts Fans Lose Their Shit](https://kotaku.com/kingdom-hearts-4-haley-joel-osment-sora-instagram-story-2000641691)
- - [Call Of Duty Passed On Spielberg And Now He’s Making Gremlins 3](https://kotaku.com/gremlins-3-announced-2027-speilberg-call-of-duty-sequel-chris-columbus-2000641675)<!-- GAME:END -->
+ - [Disney World Guests Are Dying At An Alarming Rate](https://kotaku.com/disney-world-fourth-death-in-one-month-disneyland-2000641756)
+ - [More of Obsidian’s Favorite Character Builds for The Outer Worlds 2](https://news.xbox.com/en-us/2025/11/06/more-obsidian-favorite-character-builds-outer-worlds-2/)
+ - [A Game of the Year contender is free to play on Steam this weekend](https://www.polygon.com/kingdom-come-deliverance-2-steam-free-weekend/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
