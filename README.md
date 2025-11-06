@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft AI CEO Mustafa Suleyman says Microsoft plans to focus on superintelligence that prioritizes human control; he will lead a new superintelligence team &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/251106/p24#a251106p24)
- - [Peloton issues recall for 833,00 bikes over faulty seat posts](https://www.theverge.com/news/815376/peloton-bike-plus-recall-seat-post)
- - [Microsoft AI CEO Mustafa Suleyman lays out the company&#39;s plans to develop AI self-sufficiency from OpenAI, like releasing its own voice, image, and text models &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/251106/p23#a251106p23)<!-- TECH:END -->
+ - [Apple&#39;s robotics may earn as much as today&#39;s App Store by 2040](https://appleinsider.com/articles/25/11/06/apples-robotics-may-earn-as-much-as-todays-app-store-by-2040?utm_source=rss)
+ - [DualBird, which has created a plug-in for rewritable hardware to accelerate data workloads, raised $25M, including a $16.5M Series A led by Lightspeed &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251106/p32#a251106p32)
+ - [Pebblebee’s new trackers are brighter, louder, thinner, and more colorful](https://www.theverge.com/news/814728/pebblebee-clip-card-5-trackers-apple-find-my-google-hub)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
