@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Kalshi&#39;s NYC HQ on election night, as it handled ~$100M in trades on the mayoral race that day, calling it for Mamdani 36 minutes before any media outlet &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251105/p62#a251105p62)
- - [A profile of OpenAI President Greg Brockman and his role in the company&#39;s $1.4T infrastructure buildout that&#39;s required to reach AGI &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/251105/p61#a251105p61)
- - [Got Poor Internet Access? Verizon&#39;s New $25 Per Month Internet Plan May Help](https://www.cnet.com/home/internet/got-poor-internet-access-verizons-new-25-per-month-internet-plan-may-help/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Shares of Pony.ai and WeRide fell as much as 15% in their Hong Kong trading debut; Pony.ai raised ~$863M in the secondary offering and WeRide raised ~$309M &lpar;Bloomberg&rpar;](http://www.techmeme.com/251106/p4#a251106p4)
+ - [Foursquare founder Dennis Crowley&#39;s new startup Hopscotch Labs releases BeeBot, which combines AI, audio, and location-based social features, on the App Store &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251106/p3#a251106p3)
+ - [Peacock Promo Code &amp; Deals: 16% Off November 2025](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
