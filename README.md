@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Australia &amp; New Zealand power initiatives are an attempt to balance Apple&#39;s consumption](https://appleinsider.com/articles/25/11/06/new-australia-new-zealand-power-initiatives-are-an-attempt-to-balance-apples-consumption?utm_source=rss)
- - [Huawei Mate 70 Air is a little thick for a thin phone](https://www.theverge.com/news/815327/huawei-mate-70-air-is-a-little-thick-for-a-thin-phone)
- - [iPhone 13 mini to iPhone 17: What you get, upgrading after four years](https://appleinsider.com/articles/25/11/06/iphone-13-mini-to-iphone-17-what-you-get-upgrading-after-four-years?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft AI CEO Mustafa Suleyman says Microsoft plans to focus on superintelligence that prioritizes human control; he will lead a new superintelligence team &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/251106/p24#a251106p24)
+ - [Peloton issues recall for 833,00 bikes over faulty seat posts](https://www.theverge.com/news/815376/peloton-bike-plus-recall-seat-post)
+ - [Microsoft AI CEO Mustafa Suleyman lays out the company&#39;s plans to develop AI self-sufficiency from OpenAI, like releasing its own voice, image, and text models &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/251106/p23#a251106p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
