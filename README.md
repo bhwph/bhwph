@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trick or Treat?](http://9gag.com/gag/amoKMjy)
- - 😝 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)
+ - 6️⃣ [Good morning, humans](http://9gag.com/gag/aByjE5D)
+ - 😝 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
  - 👉 [Imagine having such striking and intense eyes and being asked to tone it down. She was like a cat in human form. Alexandria Daddario has eyes like that.](http://9gag.com/gag/ajPGK9Q)<!-- MEMES:END -->
 
 --- 
