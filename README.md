@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shares of Pony.ai and WeRide fell as much as 15% in their Hong Kong trading debut; Pony.ai raised ~$863M in the secondary offering and WeRide raised ~$309M &lpar;Bloomberg&rpar;](http://www.techmeme.com/251106/p4#a251106p4)
- - [Foursquare founder Dennis Crowley&#39;s new startup Hopscotch Labs releases BeeBot, which combines AI, audio, and location-based social features, on the App Store &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251106/p3#a251106p3)
- - [Peacock Promo Code &amp; Deals: 16% Off November 2025](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
+ - [The AI boom is driving coordinated innovation in the US as it builds fabs and energy infrastructure that could have lasting value even if the bubble bursts &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251106/p9#a251106p9)
+ - [License plate surveillance company Flock Safety faces bipartisan pressure from lawmakers and local organizers over its data handling and cybersecurity practices &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/251106/p8#a251106p8)
+ - [Microsoft built a simulated marketplace to test hundreds of AI agents, finding that businesses could manipulate agents into buying their products and more &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251106/p7#a251106p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
