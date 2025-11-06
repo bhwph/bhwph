@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dell Begins Black Friday with 70% Off This 1TB SSD Windows Laptop, Prime Gets Nearly $2,300 Off](https://kotaku.com/dell-begins-black-friday-with-70-off-this-1tb-ssd-windows-laptop-prime-gets-nearly-2300-off-2000641504)
- - [Rockstar says the employees it fired were leaking information, but it&#39;s not going to escape union busting accusations that easily](https://www.pcgamer.com/games/grand-theft-auto/rockstar-says-the-employees-it-fired-were-leaking-information-but-its-not-going-to-escape-union-busting-accusations-that-easily/)
- - [Apple Goes All Out with Black Friday Deal, MacBook Air Crashes to a Brand New Record Low](https://kotaku.com/apple-goes-all-out-with-black-friday-deal-macbook-air-crashes-to-a-brand-new-record-low-2000641489)<!-- GAME:END -->
+ - [In a true nightmare scenario, this anticipated indie has been delayed only hours before launch for a &#39;boring and frustrating&#39; reason](https://www.pcgamer.com/games/action/in-a-true-nightmare-scenario-this-anticipated-indie-has-been-delayed-only-hours-before-launch-for-a-boring-and-frustrating-reason/)
+ - [Ball x Pit just got a Bug x Fix and all the icons in the encyclopedia are full-color now](https://www.pcgamer.com/games/roguelike/ball-x-pit-just-got-a-bug-x-fix-and-all-the-icons-in-the-encyclopedia-are-full-color-now/)
+ - [AirTags Are Going for Nearly Free for Early Black Friday, Amazon Has Sold 10K Units Today](https://kotaku.com/airtags-are-going-for-nearly-free-for-early-black-friday-amazon-has-sold-10k-units-today-2000641512)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
