@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [KPop Demon Hunters 2 might not come until 2029](https://www.polygon.com/kpop-demon-hunters-2-sequel-2029/)
- - [Arc Raiders review](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-review/)
- - [PC Gamer magazine&#39;s new issue is on sale now: Heroes of Might and Magic: Olden Era](https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-heroes-of-might-and-magic-olden-era/)<!-- GAME:END -->
+ - [Great, now even malware is using LLMs to rewrite its code, says Google, as it documents new phase of &#39;AI abuse&#39;](https://www.pcgamer.com/software/ai/great-now-even-malware-is-using-llms-to-rewrite-its-code-says-google-as-it-documents-new-phase-of-ai-abuse/)
+ - [You can watch RAM prices going up almost in real-time on Amazon and it&#39;s only likely to get worse](https://www.pcgamer.com/hardware/memory/you-can-watch-ram-prices-going-up-almost-in-real-time-on-amazon-and-its-only-likely-to-get-worse/)
+ - [How to unlock the Applied Esoterica badge in Peak](https://www.pcgamer.com/games/sim/peak-applied-esoterica-badge-unlock/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
