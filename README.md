@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak hints Galaxy S26 Ultra’s 60W charging won’t fizzle out early like S25 Ultra’s 45W charging](https://www.androidauthority.com/samsung-galaxy-s26-ultra-60w-fast-charging-speed-leak-3613523/)
- - [Tinder’s AI can find better matches by scanning your camera roll](https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test)
- - [10 Best Travel Pillows for Planes and Hotels &lpar;2025&rpar;, Travel Tested](https://www.wired.com/gallery/best-travel-pillows/)<!-- TECH:END -->
+ - [New Australia &amp; New Zealand power initiatives are an attempt to balance Apple&#39;s consumption](https://appleinsider.com/articles/25/11/06/new-australia-new-zealand-power-initiatives-are-an-attempt-to-balance-apples-consumption?utm_source=rss)
+ - [Huawei Mate 70 Air is a little thick for a thin phone](https://www.theverge.com/news/815327/huawei-mate-70-air-is-a-little-thick-for-a-thin-phone)
+ - [iPhone 13 mini to iPhone 17: What you get, upgrading after four years](https://appleinsider.com/articles/25/11/06/iphone-13-mini-to-iphone-17-what-you-get-upgrading-after-four-years?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
