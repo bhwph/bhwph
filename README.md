@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I do that in the planetarium bathroom mirror](http://9gag.com/gag/a6Z424L)
- - 😝 [Trick or Treat?](http://9gag.com/gag/amoKMjy)
- - 👉 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)<!-- MEMES:END -->
+ - 6️⃣ [Dont try this at home](http://9gag.com/gag/aRB9oV5)
+ - 😝 [Good morning, humans](http://9gag.com/gag/aByjE5D)
+ - 👉 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)<!-- MEMES:END -->
 
 --- 
 
