@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now make your own Wordle puzzles](https://www.theverge.com/news/815716/wordle-new-york-times-nyt-creation-tool-puzzles)
- - [David Sacks says there will be &quot;no federal bailout for AI&quot;, as the US has at least five major AI companies and &quot;if one fails, others will take its place&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251106/p37#a251106p37)
- - [Lego’s 3,600-Piece Star Trek Enterprise Is the Holiday Gift to Buy This Year](https://www.wired.com/story/lego-uss-enterprise-2025/)<!-- TECH:END -->
+ - [Sharing YouTube clips in Google Messages may be about to get a lot better](https://www.androidauthority.com/messages-youtube-pip-player-3613751/)
+ - [Save a whopping $600 on the Samsung Galaxy Z Fold 7](https://www.androidauthority.com/samsung-galaxy-z-fold-7-deal-9-3613158/)
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
