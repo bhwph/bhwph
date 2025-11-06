@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sharing YouTube clips in Google Messages may be about to get a lot better](https://www.androidauthority.com/messages-youtube-pip-player-3613751/)
- - [Save a whopping $600 on the Samsung Galaxy Z Fold 7](https://www.androidauthority.com/samsung-galaxy-z-fold-7-deal-9-3613158/)
- - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
+ - [Tesla shareholders approve a $1T pay package for Elon Musk if he hits a series of milestones and expands Tesla&#39;s market cap to $8.5T over the next 10 years &lpar;Becky Peterson/Wall Street Journal&rpar;](http://www.techmeme.com/251106/p46#a251106p46)
+ - [Wordle’s latest update adds a whole new way to play with your friends](https://www.androidauthority.com/create-your-own-wordle-puzzles-3613794/)
+ - [Airbnb reports Q3 revenue up 10% YoY to $4.1B, vs. $4.08B est., Nights and Seats booked up 9% to 133.6M, vs. 131.75M est., forecasts Q4 revenue above estimates &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251106/p45#a251106p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
