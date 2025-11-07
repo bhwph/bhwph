@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [World of Warcraft is getting a new kind of fake money](https://www.theverge.com/news/816714/world-of-warcraft-player-housing-hearthsteel-currency)
- - [Sources: Roelof Botha was ousted by senior Sequoia partners amid concerns about his &quot;imperial style&quot; leadership, AI investment strategy, and internal clashes &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/251107/p23#a251107p23)
- - [If the rumors are correct, Verizon’s ‘bold’ new direction may apparently include mass layoffs](https://www.androidauthority.com/verizon-shutting-down-stores-3613951/)<!-- TECH:END -->
+ - [Apple TV leaders share insights on recent successes and future plans](https://appleinsider.com/articles/25/11/07/apple-tv-leaders-share-insights-on-recent-successes-and-future-plans?utm_source=rss)
+ - [Survey reveals you can’t live without Disney channels on YouTube TV](https://www.androidauthority.com/youtube-channels-disney-poll-results-3614050/)
+ - [Maybe Peloton is its own worst enemy](https://www.theverge.com/gadgets/816352/peloton-q1-2026-earnings-fitness)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
