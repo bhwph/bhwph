@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches Amazon Bazaar, a standalone low-cost shopping app in 12+ markets in Asia, Africa, and Latin America, with most products priced under $10 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251107/p16#a251107p16)
- - [Grab Apple&#39;s M4 Mac mini 512GB for just $689.99 today](https://appleinsider.com/articles/25/11/07/grab-apples-m4-mac-mini-512gb-for-just-68999-today?utm_source=rss)
- - [After devastating typhoon, one phone survived flooding and three days in the mud](https://www.androidauthority.com/phone-survived-typhoon-3613975/)<!-- TECH:END -->
+ - [Steam store pages are wider now](https://www.theverge.com/news/816599/valve-steam-store-pages-wider)
+ - [Your bedtime scrolling habit might not be wrecking your sleep after all](https://www.androidauthority.com/bedtime-screen-time-might-not-be-bad-3614022/)
+ - [Texas sues Roblox for allegedly failing to protect children on its platform](https://www.theverge.com/news/816549/texas-roblox-lawsuit-child-safety)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
