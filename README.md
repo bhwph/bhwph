@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Speaking to shareholders, Elon Musk says Tesla will likely need to build &quot;a gigantic chip fab&quot; for AI chips and &quot;maybe, we&#39;ll do something with Intel&quot; &lpar;Sayantani Ghosh/Reuters&rpar;](http://www.techmeme.com/251107/p3#a251107p3)
- - [AirDoctor Coupon Codes: 40% Off | November 2025](https://www.wired.com/story/surfshark-coupon/)
- - [AirDoctor Coupon Codes: 40% Off | November 2025](https://www.wired.com/story/airdoctor-coupon-code/)<!-- TECH:END -->
+ - [Top Verizon Promo Codes &amp; Deals | November 2025](https://www.wired.com/story/verizon-promo-code/)
+ - [Walmart Promo Codes and Coupons: $10 Off](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
