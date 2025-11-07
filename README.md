@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [OpenAI&#39;s Sam Altman is not looking for government rescue if things go bad: &#39;Taxpayers should not bail out companies that make bad business decisions&#39;](https://www.pcgamer.com/software/ai/openais-sam-altman-is-not-looking-for-government-rescue-if-things-go-bad-taxpayers-should-not-bail-out-companies-that-make-bad-business-decisions/)
- - [Arc Raiders clears up the mystery of Trials, explaining the challenges are unfortunately harder than they first appear: &#39;Here&#39;s the 101&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-clears-up-the-mystery-of-trials-explaining-the-challenges-are-unfortunately-harder-than-they-first-appear-heres-the-101/)
- - [I love Scrappy, but charging $10 for a new hat on a glorified menu in Arc Raiders doesn&#39;t sit right](https://www.pcgamer.com/games/third-person-shooter/i-love-scrappy-but-charging-usd10-for-a-new-hat-on-a-glorified-menu-in-arc-raiders-doesnt-sit-right/)<!-- GAME:END -->
+ - [The memory price crisis has foiled my penny pinching patience and made me regret not upgrading my gaming PC sooner](https://www.pcgamer.com/hardware/memory/the-memory-price-crisis-has-foiled-my-penny-pinching-patience-and-made-me-regret-not-upgrading-my-gaming-pc-sooner/)
+ - [Katamari Damacy&#39;s creator and more artists reimagine 8-bit games in a new art show](https://www.polygon.com/iam8bit-20th-anniversary-art-show-sneak-peek/)
+ - [Arc Raiders Selling $10 Chicken Helmets Reminds Players, Yup, It’s A Live Service Game Alright](https://kotaku.com/arc-raiders-10-chicken-helmet-paid-cosmetic-item-skins-pricey-expensive-2000642065)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
