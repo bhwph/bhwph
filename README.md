@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bring back the iBook, you cowards](https://www.theverge.com/podcast/816270/ibook-cheap-mac-ai-shopping-comet-vergecast)
- - [Apple Vision Pro, iOS 26, and Google isn&#39;t saving Siri, on the AppleInsider Podcast](https://appleinsider.com/articles/25/11/07/apple-vision-pro-ios-26-and-google-isnt-saving-siri-on-the-appleinsider-podcast?utm_source=rss)
- - [13 Best Carry-On Luggage &lpar;2025&rpar;: Away, Travelpro, and More](https://www.wired.com/gallery/best-carry-on-luggage/)<!-- TECH:END -->
+ - [Amazon launches Amazon Bazaar, a standalone low-cost shopping app in 12+ markets in Asia, Africa, and Latin America, with most products priced under $10 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251107/p16#a251107p16)
+ - [Grab Apple&#39;s M4 Mac mini 512GB for just $689.99 today](https://appleinsider.com/articles/25/11/07/grab-apples-m4-mac-mini-512gb-for-just-68999-today?utm_source=rss)
+ - [After devastating typhoon, one phone survived flooding and three days in the mud](https://www.androidauthority.com/phone-survived-typhoon-3613975/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
