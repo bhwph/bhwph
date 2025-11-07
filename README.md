@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla shareholders approve a $1T pay package for Elon Musk if he hits a series of milestones and expands Tesla&#39;s market cap to $8.5T over the next 10 years &lpar;Becky Peterson/Wall Street Journal&rpar;](http://www.techmeme.com/251106/p46#a251106p46)
- - [Wordle’s latest update adds a whole new way to play with your friends](https://www.androidauthority.com/create-your-own-wordle-puzzles-3613794/)
- - [Airbnb reports Q3 revenue up 10% YoY to $4.1B, vs. $4.08B est., Nights and Seats booked up 9% to 133.6M, vs. 131.75M est., forecasts Q4 revenue above estimates &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251106/p45#a251106p45)<!-- TECH:END -->
+ - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
+ - [Block reports Q3 revenue up 2.3% YoY to $6.1B, below $6.3B est., adjusted EPS below est., and a $461.6M net income, up from $283.8M; XYZ drops 11%+ after hours &lpar;Dean Seal/Dow Jones Newswires&rpar;](http://www.techmeme.com/251106/p50#a251106p50)
+ - [Spatial Scenes &amp; Spatial Photos add depth to your memories, but in different ways](https://appleinsider.com/articles/25/11/07/spatial-scenes-spatial-photos-add-depth-to-your-memories-but-in-different-ways?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
