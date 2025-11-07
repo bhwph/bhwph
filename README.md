@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Despite another big delay, Devolver is still hell-bent on releasing a game on the same day as Grand Theft Auto 6: &#39;you can&#39;t escape us&#39;](https://www.pcgamer.com/games/grand-theft-auto/despite-another-big-delay-devolver-is-still-hell-bent-on-releasing-a-game-on-the-same-day-as-grand-theft-auto-6-you-cant-escape-us/)
- - [Amazon Is Rolling Out Its Black Friday Deals, Powerful 16-inch Gaming Laptop Is Now 71% Off](https://kotaku.com/amazon-is-rolling-out-its-black-friday-deals-powerful-16-inch-gaming-laptop-is-now-71-off-2000641711)
- - [Jackery Offloads Its 1500W Power Generator at 55% Off, The Ideal Backup for Winter Outages](https://kotaku.com/jackery-offloads-its-1500w-power-generator-at-55-off-the-ideal-backup-for-winter-outages-2000641816)<!-- GAME:END -->
+ - [Petit Planet is a playlist of cozy gaming&#39;s greatest hits](https://www.polygon.com/petit-planet-beta-impressions-cozy-gaming/)
+ - [Creative Assembly has revealed unique mechanics for the armies in Total War: Warhammer 3&#39;s Tides of Torment DLC, and their unit rosters too](https://www.pcgamer.com/games/strategy/creative-assembly-has-revealed-unique-mechanics-for-the-armies-in-total-war-warhammer-3s-tides-of-torment-dlc-and-their-unit-rosters-too/)
+ - [Pluribus review: Apple&#39;s new sci-fi show isn’t the next Severance, but it might be even better](https://www.polygon.com/pluribus-review-apple-tv-severance/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
