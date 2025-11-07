@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top Verizon Promo Codes &amp; Deals | November 2025](https://www.wired.com/story/verizon-promo-code/)
- - [Walmart Promo Codes and Coupons: $10 Off](https://www.wired.com/story/top-walmart-promo-codes/)
- - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)<!-- TECH:END -->
+ - [I tried to love Gemini Live ahead of its Google Home debut, but I can’t imagine paying for it](https://www.androidauthority.com/google-gemini-live-vs-chatgpt-voice-3612678/)
+ - [How to Follow the Trajectory of Comet 3I/Atlas](https://www.wired.com/story/how-to-follow-the-trajectory-of-comet-3i-atlas/)
+ - [Texas Attorney General Ken Paxton sues Roblox, accusing the company of &quot;flagrantly ignoring&quot; safety laws and calling it a &quot;breeding ground for predators&quot; &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/251107/p7#a251107p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
