@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Internet Is Not Handling GTA6’s Second Delay Well](https://kotaku.com/grand-theft-auto-6-delay-november-gta6-reaction-news-2000641817)
- - [GTA 6 release date: The latest news on Rockstar&#39;s next game](https://www.polygon.com/gta-6-release-date/)
- - [I just learned that before the internet, &#39;online&#39; actually meant &#39;offline&#39; and it&#39;s turned my world upside down](https://www.pcgamer.com/software/i-just-learned-that-before-the-internet-online-actually-meant-offline-and-its-turned-my-world-upside-down/)<!-- GAME:END -->
+ - [Despite another big delay, Devolver is still hell-bent on releasing a game on the same day as Grand Theft Auto 6: &#39;you can&#39;t escape us&#39;](https://www.pcgamer.com/games/grand-theft-auto/despite-another-big-delay-devolver-is-still-hell-bent-on-releasing-a-game-on-the-same-day-as-grand-theft-auto-6-you-cant-escape-us/)
+ - [Amazon Is Rolling Out Its Black Friday Deals, Powerful 16-inch Gaming Laptop Is Now 71% Off](https://kotaku.com/amazon-is-rolling-out-its-black-friday-deals-powerful-16-inch-gaming-laptop-is-now-71-off-2000641711)
+ - [Jackery Offloads Its 1500W Power Generator at 55% Off, The Ideal Backup for Winter Outages](https://kotaku.com/jackery-offloads-its-1500w-power-generator-at-55-off-the-ideal-backup-for-winter-outages-2000641816)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
