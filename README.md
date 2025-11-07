@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Imagine having such striking and intense eyes and being asked to tone it down. She was like a cat in human form. Alexandria Daddario has eyes like that.](http://9gag.com/gag/ajPGK9Q)
- - 😝 [And one for the road...](http://9gag.com/gag/aPAzX1g)
- - 👉 [Cameron Diaz dropping wisdom on aging](http://9gag.com/gag/aPAzeOK)<!-- MEMES:END -->
+ - 6️⃣ [The goal and celebration in slomo](http://9gag.com/gag/aoyAYPe)
+ - 😝 [The perfect trilogy, you cant convince me otherwise.](http://9gag.com/gag/aZZozZX)
+ - 👉 [My eyes are down here](http://9gag.com/gag/aKGnOgW)<!-- MEMES:END -->
 
 --- 
 
