@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried to love Gemini Live ahead of its Google Home debut, but I can’t imagine paying for it](https://www.androidauthority.com/google-gemini-live-vs-chatgpt-voice-3612678/)
- - [How to Follow the Trajectory of Comet 3I/Atlas](https://www.wired.com/story/how-to-follow-the-trajectory-of-comet-3i-atlas/)
- - [Texas Attorney General Ken Paxton sues Roblox, accusing the company of &quot;flagrantly ignoring&quot; safety laws and calling it a &quot;breeding ground for predators&quot; &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/251107/p7#a251107p7)<!-- TECH:END -->
+ - [How Spatial Scenes &amp; Spatial Photos on Apple Vision Pro add depth to your memories](https://appleinsider.com/articles/25/11/07/spatial-scenes-spatial-photos-add-depth-to-your-memories-but-in-different-ways?utm_source=rss)
+ - [What Mac owners need to know about buying Network Attached Storage](https://appleinsider.com/articles/25/11/07/what-mac-owners-need-to-know-about-buying-network-attached-storage?utm_source=rss)
+ - [iPhone 18 Pro to get smaller hole punch for selfie and Face ID camera](https://appleinsider.com/articles/25/11/07/iphone-18-pro-to-get-smaller-hole-punch-for-selfie-and-face-id-camera?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
