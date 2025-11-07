@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The memory price crisis has foiled my penny pinching patience and made me regret not upgrading my gaming PC sooner](https://www.pcgamer.com/hardware/memory/the-memory-price-crisis-has-foiled-my-penny-pinching-patience-and-made-me-regret-not-upgrading-my-gaming-pc-sooner/)
- - [Katamari Damacy&#39;s creator and more artists reimagine 8-bit games in a new art show](https://www.polygon.com/iam8bit-20th-anniversary-art-show-sneak-peek/)
- - [Arc Raiders Selling $10 Chicken Helmets Reminds Players, Yup, It’s A Live Service Game Alright](https://kotaku.com/arc-raiders-10-chicken-helmet-paid-cosmetic-item-skins-pricey-expensive-2000642065)<!-- GAME:END -->
+ - [Take-Two Boss Says Mafia Proves People Want Shorter, Cheaper Games](https://kotaku.com/2k-boss-zelnick-mafia-old-country-sales-single-player-linear-2000642150)
+ - [KPop Demon Hunters scores 5 &#39;Golden&#39; Grammy nominations](https://www.polygon.com/kpop-demon-hunters-golden-2025-grammy-nominations/)
+ - [Daft Punk&#39;s new music video brings Fortnite to life](https://www.polygon.com/daft-punks-new-music-video-fortnite-clip/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
