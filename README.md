@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My eyes are down here](http://9gag.com/gag/aKGnOgW)
- - 😝 [From what I&#39;ve heard this guy told them to make posts on social media promoting Thailand. The `prize` to do so was a private dinner with this guy and more favorable reviews in the this contest. Fatima didn&#39;t comply after consulting her mgt back home. So, this happened.](http://9gag.com/gag/aO8A1jy)
- - 👉 [Kowalski, status report!](http://9gag.com/gag/aGy62W6)<!-- MEMES:END -->
+ - 6️⃣ [Title](http://9gag.com/gag/aLnVd1W)
+ - 😝 [That classic magic](http://9gag.com/gag/a6Z4GVb)
+ - 👉 [Cute Couple](http://9gag.com/gag/ae9y7QQ)<!-- MEMES:END -->
 
 --- 
 
