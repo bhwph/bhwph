@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Spatial Scenes &amp; Spatial Photos on Apple Vision Pro add depth to your memories](https://appleinsider.com/articles/25/11/07/spatial-scenes-spatial-photos-add-depth-to-your-memories-but-in-different-ways?utm_source=rss)
- - [What Mac owners need to know about buying Network Attached Storage](https://appleinsider.com/articles/25/11/07/what-mac-owners-need-to-know-about-buying-network-attached-storage?utm_source=rss)
- - [iPhone 18 Pro to get smaller hole punch for selfie and Face ID camera](https://appleinsider.com/articles/25/11/07/iphone-18-pro-to-get-smaller-hole-punch-for-selfie-and-face-id-camera?utm_source=rss)<!-- TECH:END -->
+ - [Bring back the iBook, you cowards](https://www.theverge.com/podcast/816270/ibook-cheap-mac-ai-shopping-comet-vergecast)
+ - [Apple Vision Pro, iOS 26, and Google isn&#39;t saving Siri, on the AppleInsider Podcast](https://appleinsider.com/articles/25/11/07/apple-vision-pro-ios-26-and-google-isnt-saving-siri-on-the-appleinsider-podcast?utm_source=rss)
+ - [13 Best Carry-On Luggage &lpar;2025&rpar;: Away, Travelpro, and More](https://www.wired.com/gallery/best-carry-on-luggage/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
