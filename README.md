@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mass Effect 2&#39;s nightclub is one of the greatest locations in gaming history](https://www.polygon.com/mass-effect-afterlife-omega-saki-kaska-greatest-location-gaming/)
- - [Petit Planet is a playlist of cozy gaming&#39;s greatest hits](https://www.polygon.com/petit-planet-beta-impressions-cozy-gaming/)
- - [Creative Assembly has revealed unique mechanics for the armies in Total War: Warhammer 3&#39;s Tides of Torment DLC, and their unit rosters too](https://www.pcgamer.com/games/strategy/creative-assembly-has-revealed-unique-mechanics-for-the-armies-in-total-war-warhammer-3s-tides-of-torment-dlc-and-their-unit-rosters-too/)<!-- GAME:END -->
+ - [OpenAI&#39;s Sam Altman is not looking for government rescue if things go bad: &#39;Taxpayers should not bail out companies that make bad business decisions&#39;](https://www.pcgamer.com/software/ai/openais-sam-altman-is-not-looking-for-government-rescue-if-things-go-bad-taxpayers-should-not-bail-out-companies-that-make-bad-business-decisions/)
+ - [Arc Raiders clears up the mystery of Trials, explaining the challenges are unfortunately harder than they first appear: &#39;Here&#39;s the 101&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-clears-up-the-mystery-of-trials-explaining-the-challenges-are-unfortunately-harder-than-they-first-appear-heres-the-101/)
+ - [I love Scrappy, but charging $10 for a new hat on a glorified menu in Arc Raiders doesn&#39;t sit right](https://www.pcgamer.com/games/third-person-shooter/i-love-scrappy-but-charging-usd10-for-a-new-hat-on-a-glorified-menu-in-arc-raiders-doesnt-sit-right/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
