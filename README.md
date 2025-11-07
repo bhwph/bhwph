@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title](http://9gag.com/gag/aLnVd1W)
- - 😝 [That classic magic](http://9gag.com/gag/a6Z4GVb)
- - 👉 [Cute Couple](http://9gag.com/gag/ae9y7QQ)<!-- MEMES:END -->
+ - 6️⃣ [Ay el amour](http://9gag.com/gag/aoyA8DA)
+ - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
+ - 👉 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)<!-- MEMES:END -->
 
 --- 
 
