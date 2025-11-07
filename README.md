@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam store pages are wider now](https://www.theverge.com/news/816599/valve-steam-store-pages-wider)
- - [Your bedtime scrolling habit might not be wrecking your sleep after all](https://www.androidauthority.com/bedtime-screen-time-might-not-be-bad-3614022/)
- - [Texas sues Roblox for allegedly failing to protect children on its platform](https://www.theverge.com/news/816549/texas-roblox-lawsuit-child-safety)<!-- TECH:END -->
+ - [World of Warcraft is getting a new kind of fake money](https://www.theverge.com/news/816714/world-of-warcraft-player-housing-hearthsteel-currency)
+ - [Sources: Roelof Botha was ousted by senior Sequoia partners amid concerns about his &quot;imperial style&quot; leadership, AI investment strategy, and internal clashes &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/251107/p23#a251107p23)
+ - [If the rumors are correct, Verizon’s ‘bold’ new direction may apparently include mass layoffs](https://www.androidauthority.com/verizon-shutting-down-stores-3613951/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
