@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
- - [Block reports Q3 revenue up 2.3% YoY to $6.1B, below $6.3B est., adjusted EPS below est., and a $461.6M net income, up from $283.8M; XYZ drops 11%+ after hours &lpar;Dean Seal/Dow Jones Newswires&rpar;](http://www.techmeme.com/251106/p50#a251106p50)
- - [Spatial Scenes &amp; Spatial Photos add depth to your memories, but in different ways](https://appleinsider.com/articles/25/11/07/spatial-scenes-spatial-photos-add-depth-to-your-memories-but-in-different-ways?utm_source=rss)<!-- TECH:END -->
+ - [Chinese startup Moonshot releases Kimi K2 Thinking, an open-source model it claims beats GPT-5 in agentic capabilities; source: the model cost $4.6M to train &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/251106/p53#a251106p53)
+ - [Sources: the White House has told others in the government it won&#39;t allow Nvidia to sell its scaled-down AI chip B30A to China, despite Trump&#39;s hints he might &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/251106/p52#a251106p52)
+ - [Apple’s latest sci-fi series Pluribus luxuriates in its mystery](https://www.theverge.com/entertainment/815745/pluribus-review-apple-tv)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
