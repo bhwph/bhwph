@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Take-Two Boss Says Mafia Proves People Want Shorter, Cheaper Games](https://kotaku.com/2k-boss-zelnick-mafia-old-country-sales-single-player-linear-2000642150)
- - [KPop Demon Hunters scores 5 &#39;Golden&#39; Grammy nominations](https://www.polygon.com/kpop-demon-hunters-golden-2025-grammy-nominations/)
- - [Daft Punk&#39;s new music video brings Fortnite to life](https://www.polygon.com/daft-punks-new-music-video-fortnite-clip/)<!-- GAME:END -->
+ - [Mass Effect Day sees the Normandy land in No Man&#39;s Sky](https://www.polygon.com/no-mans-sky-mass-effect-day-normandy/)
+ - [BioWare reveals when Amazon&#39;s Mass Effect TV show takes place](https://www.polygon.com/mass-effect-amazon-tv-show-n7-day-2025/)
+ - [Mass Effect boss Mike Gamble slips a hidden message into his N7 Day update, asks fans to stop yelling at him for not sharing more info about the new game](https://www.pcgamer.com/games/rpg/mass-effect-boss-mike-gamble-slips-a-hidden-message-into-his-n7-day-update-asks-fans-to-stop-yelling-at-him-for-not-sharing-more-info-about-the-new-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
