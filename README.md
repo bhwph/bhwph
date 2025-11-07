@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mass Effect Day sees the Normandy land in No Man&#39;s Sky](https://www.polygon.com/no-mans-sky-mass-effect-day-normandy/)
- - [BioWare reveals when Amazon&#39;s Mass Effect TV show takes place](https://www.polygon.com/mass-effect-amazon-tv-show-n7-day-2025/)
- - [Mass Effect boss Mike Gamble slips a hidden message into his N7 Day update, asks fans to stop yelling at him for not sharing more info about the new game](https://www.pcgamer.com/games/rpg/mass-effect-boss-mike-gamble-slips-a-hidden-message-into-his-n7-day-update-asks-fans-to-stop-yelling-at-him-for-not-sharing-more-info-about-the-new-game/)<!-- GAME:END -->
+ - [Arc Raiders: The Kotaku Review](https://kotaku.com/arc-raiders-review-extraction-loot-shooter-embark-2000642198)
+ - [The best Xbox Game Pass games to play this weekend &lpar;Nov. 7-9, 2025&rpar;](https://www.polygon.com/game-pass-games-rec-weekend-nov-7-2025/)
+ - [Halo Infinite‘s Next Update Is Its Last As Devs Tease Multiple Games](https://kotaku.com/halo-infinite-no-more-updates-operation-halo-studios-xbox-2000642195)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
