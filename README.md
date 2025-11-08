@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge declares a mistrial after a jury couldn&#39;t reach a verdict on two brothers charged in 2024 for allegedly stealing $25M in crypto from Ethereum traders &lpar;Bloomberg&rpar;](http://www.techmeme.com/251107/p30#a251107p30)
  - [Google introduces Nested Learning, a new ML approach for continual learning that views models as nested optimization problems to enhance long context processing &lpar;Google Research&rpar;](http://www.techmeme.com/251107/p29#a251107p29)
- - [ARC Raiders Review: An Extraction Shooter Built for Every Type of Player](https://www.cnet.com/tech/gaming/arc-raiders-review-this-is-the-best-extraction-shooter-ive-ever-played/#ftag=CAD590a51e)
- - [AI Ranked the Catchiest Songs in History—Do You Agree With the List?](https://www.cnet.com/tech/services-and-software/ai-has-officially-solved-the-debate-over-the-catchiest-songs-ever/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ARC Raiders Review: An Extraction Shooter Built for Every Type of Player](https://www.cnet.com/tech/gaming/arc-raiders-review-this-is-the-best-extraction-shooter-ive-ever-played/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
