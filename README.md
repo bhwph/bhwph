@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arc Raiders strikes a perfect balance between PvE and PvP](https://www.polygon.com/arc-raiders-pve-pvp-debate/)
- - [You use Steam every day, but how well do you really know it? Our latest quiz tests you on everything from long-lost features to surprise free game releases to the most expensive thing ever sold on the storefront](https://www.pcgamer.com/games/you-use-steam-every-day-but-how-well-do-you-really-know-it-our-latest-quiz-tests-you-on-everything-from-long-lost-features-to-surprise-free-game-releases-to-the-most-expensive-thing-ever-sold-on-the-storefront/)
- - [Finally, Arc Raiders is the extraction shooter for people with jobs, and it&#39;s all the better for it](https://www.pcgamer.com/games/third-person-shooter/finally-arc-raiders-is-the-extraction-shooter-for-people-with-jobs-and-its-all-the-better-for-it/)<!-- GAME:END -->
+ - [Age of Imprisonment is the Zelda story Nintendo needed](https://www.polygon.com/hyrule-warriors-age-of-imprisonment-story-zelda-playable/)
+ - [How a former NASA employee became the world&#39;s foremost author of videogame cookbooks: &#39;It can&#39;t look like you&#39;re eating a Pokémon&#39;](https://www.pcgamer.com/games/how-a-former-nasa-employee-became-the-worlds-foremost-author-of-videogame-cookbooks-it-cant-look-like-youre-eating-a-pokemon/)
+ - [Arc Raiders briefly overtakes Battlefield 6&#39;s concurrent player count on Steam as it proves to be one of the hottest PC games this fall](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-briefly-overtakes-battlefield-6s-concurrent-player-count-on-steam-as-it-proves-to-be-one-of-the-hottest-pc-games-this-fall/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
