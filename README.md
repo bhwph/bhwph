@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Age of Imprisonment is the Zelda story Nintendo needed](https://www.polygon.com/hyrule-warriors-age-of-imprisonment-story-zelda-playable/)
- - [How a former NASA employee became the world&#39;s foremost author of videogame cookbooks: &#39;It can&#39;t look like you&#39;re eating a Pokémon&#39;](https://www.pcgamer.com/games/how-a-former-nasa-employee-became-the-worlds-foremost-author-of-videogame-cookbooks-it-cant-look-like-youre-eating-a-pokemon/)
- - [Arc Raiders briefly overtakes Battlefield 6&#39;s concurrent player count on Steam as it proves to be one of the hottest PC games this fall](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-briefly-overtakes-battlefield-6s-concurrent-player-count-on-steam-as-it-proves-to-be-one-of-the-hottest-pc-games-this-fall/)<!-- GAME:END -->
+ - [Bounty Star is the best new game on Game Pass, and a great mecha farming sim](https://www.polygon.com/bounty-star-mecha-game-ps5-xbox-game-pass/)
+ - [Charlie&#39;s Angels brought the year 2000 to cinematic life 25 years ago](https://www.polygon.com/25-years-ago-a-music-video-director-made-an-action-movie-that/)
+ - [Blue Prince developer announces &#39;a plea for help&#39;: one of the game&#39;s lead playtesters &#39;has only a few months to find a living kidney donor&#39;](https://www.pcgamer.com/games/puzzle/blue-prince-developer-announces-a-plea-for-help-one-of-the-games-lead-playtesters-has-only-a-few-months-to-find-a-living-kidney-donor/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
