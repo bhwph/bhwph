@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bounty Star is the best new game on Game Pass, and a great mecha farming sim](https://www.polygon.com/bounty-star-mecha-game-ps5-xbox-game-pass/)
- - [Charlie&#39;s Angels brought the year 2000 to cinematic life 25 years ago](https://www.polygon.com/25-years-ago-a-music-video-director-made-an-action-movie-that/)
- - [Blue Prince developer announces &#39;a plea for help&#39;: one of the game&#39;s lead playtesters &#39;has only a few months to find a living kidney donor&#39;](https://www.pcgamer.com/games/puzzle/blue-prince-developer-announces-a-plea-for-help-one-of-the-games-lead-playtesters-has-only-a-few-months-to-find-a-living-kidney-donor/)<!-- GAME:END -->
+ - [FromSoftware&#39;s parent company let it slip that we&#39;ll get Elden Ring Nightreign DLC by March at the latest](https://www.pcgamer.com/games/action/fromsoftwares-parent-company-let-it-slip-that-well-get-elden-ring-nightreign-dlc-by-march-at-the-latest/)
+ - [To the rapidly aging person reading this: GameFAQs is 30 years old, and people are sharing their memories of the venerable guide hub](https://www.pcgamer.com/games/to-the-rapidly-aging-person-reading-this-gamefaqs-is-30-years-old-and-people-are-sharing-their-memories-of-the-venerable-guide-hub/)
+ - [Bounty Star is the best new game on Game Pass, and a great mecha farming sim](https://www.polygon.com/bounty-star-mecha-game-ps5-xbox-game-pass/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
