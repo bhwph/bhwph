@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Underrated avian action adventure The Falconeer just got a free remaster that overhauls &#39;literally everything&#39; about it: &#39;I hope and pray this remaster shows the dedication I have for my games&#39;](https://www.pcgamer.com/games/action/underrated-avian-action-adventure-the-falconeer-just-got-a-free-remaster-that-overhauls-literally-everything-about-it-i-hope-and-pray-this-remaster-shows-the-dedication-i-have-for-my-games/)
  - [When will Predator: Badlands be streaming on Hulu?](https://www.polygon.com/predator-badlands-streaming-dan-trachtenberg/)
- - [&#39;Roblox must do more to protect kids from sick and twisted freaks,&#39; Texas attorney general says as he sues Roblox &#39;for putting pixel pedophiles and profits&#39; ahead of safety](https://www.pcgamer.com/games/roblox-must-do-more-to-protect-kids-from-sick-and-twisted-freaks-texas-attorney-general-says-as-he-sues-roblox-for-putting-pixel-pedophiles-and-profits-ahead-of-kids/)
- - [My return to Rust is going well, other than my freakish Guns N&#39; Roses-loving neighbor shooting me every time I try to hang string lights on my roof](https://www.pcgamer.com/games/survival-crafting/my-return-to-rust-is-going-well-other-than-my-freakish-guns-n-roses-loving-neighbor-shooting-me-every-time-i-try-to-hang-string-lights-on-my-roof/)<!-- GAME:END -->
+ - [&#39;Roblox must do more to protect kids from sick and twisted freaks,&#39; Texas attorney general says as he sues Roblox &#39;for putting pixel pedophiles and profits&#39; ahead of safety](https://www.pcgamer.com/games/roblox-must-do-more-to-protect-kids-from-sick-and-twisted-freaks-texas-attorney-general-says-as-he-sues-roblox-for-putting-pixel-pedophiles-and-profits-ahead-of-kids/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
