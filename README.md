@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Underrated avian action adventure The Falconeer just got a free remaster that overhauls &#39;literally everything&#39; about it: &#39;I hope and pray this remaster shows the dedication I have for my games&#39;](https://www.pcgamer.com/games/action/underrated-avian-action-adventure-the-falconeer-just-got-a-free-remaster-that-overhauls-literally-everything-about-it-i-hope-and-pray-this-remaster-shows-the-dedication-i-have-for-my-games/)
- - [When will Predator: Badlands be streaming on Hulu?](https://www.polygon.com/predator-badlands-streaming-dan-trachtenberg/)
- - [&#39;Roblox must do more to protect kids from sick and twisted freaks,&#39; Texas attorney general says as he sues Roblox &#39;for putting pixel pedophiles and profits&#39; ahead of safety](https://www.pcgamer.com/games/roblox-must-do-more-to-protect-kids-from-sick-and-twisted-freaks-texas-attorney-general-says-as-he-sues-roblox-for-putting-pixel-pedophiles-and-profits-ahead-of-kids/)<!-- GAME:END -->
+ - [Hagrid’s Hut Falls to Pocket Change, LEGO Cuts 4.9-Rated Harry Potter Set to Fresh Record Low](https://kotaku.com/hagrids-hut-falls-to-pocket-change-lego-cuts-4-9-rated-harry-potter-set-to-fresh-record-low-2000642277)
+ - [Animal Crossing: New Horizons 3.0 doesn&#39;t mean a long wait for the next Animal Crossing](https://www.polygon.com/animal-crossing-new-horizons-3-0-update-new-animal-crossing-game/)
+ - [After Helldivers 2 stole its thunder, Starship Troopers: Extermination is now cribbing from Arrowhead&#39;s worksheet by adding airstrikes in its next update](https://www.pcgamer.com/games/fps/after-helldivers-2-stole-its-thunder-starship-troopers-extermination-is-now-cribbing-from-arrowheads-worksheet-by-adding-airstrikes-in-its-next-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
