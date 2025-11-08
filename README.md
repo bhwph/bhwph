@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arc Raiders: The Kotaku Review](https://kotaku.com/arc-raiders-review-extraction-loot-shooter-embark-2000642198)
- - [The best Xbox Game Pass games to play this weekend &lpar;Nov. 7-9, 2025&rpar;](https://www.polygon.com/game-pass-games-rec-weekend-nov-7-2025/)
- - [Halo Infinite‘s Next Update Is Its Last As Devs Tease Multiple Games](https://kotaku.com/halo-infinite-no-more-updates-operation-halo-studios-xbox-2000642195)<!-- GAME:END -->
+ - [&#39;Roblox must do more to protect kids from sick and twisted freaks,&#39; Texas attorney general says as he sues Roblox &#39;for putting pixel pedophiles and profits&#39; ahead of safety](https://www.pcgamer.com/games/roblox-must-do-more-to-protect-kids-from-sick-and-twisted-freaks-texas-attorney-general-says-as-he-sues-roblox-for-putting-pixel-pedophiles-and-profits-ahead-of-kids/)
+ - [My return to Rust is going well, other than my freakish Guns N&#39; Roses-loving neighbor shooting me every time I try to hang string lights on my roof](https://www.pcgamer.com/games/survival-crafting/my-return-to-rust-is-going-well-other-than-my-freakish-guns-n-roses-loving-neighbor-shooting-me-every-time-i-try-to-hang-string-lights-on-my-roof/)
+ - [OG Fallout artist Leonard Boyarsky says The Outer Worlds 2 almost had its own &#39;old school Obsidian&#39; evil ending, but it took too much effort for too little payoff: &#39;I love making these types of games, but it is very stressful&#39;](https://www.pcgamer.com/games/rpg/og-fallout-artist-leonard-boyarsky-says-the-outer-worlds-2-almost-had-its-own-old-school-obsidian-evil-ending-but-it-took-too-much-effort-for-too-little-payoff-i-love-making-these-types-of-games-but-it-is-very-stressful/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
