@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ay el amour](http://9gag.com/gag/aoyA8DA)
- - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
- - 👉 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s beginning to look a lot like Christmas....](http://9gag.com/gag/ayNZvGy)
+ - 😝 [A sweet moment with the royal guard and his horse](http://9gag.com/gag/agm6EMr)
+ - 👉 [Happy to know that there are still good people in the world.](http://9gag.com/gag/axyQYzW)<!-- MEMES:END -->
 
 --- 
 
