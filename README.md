@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An account of working at Cursor for 60 days: a largely in-person culture, few scheduled meetings, aggressive recruiting, heavy internal product testing, more &lpar;Brie Wolfson/Colossus&rpar;](http://www.techmeme.com/251108/p5#a251108p5)
- - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in November](https://www.wired.com/story/att-promo-code/)
- - [In DeepSeek&#39;s first public appearance since R1&#39;s success, a senior researcher told a state-run conference he was pessimistic about AI&#39;s impact on humanity &lpar;Reuters&rpar;](http://www.techmeme.com/251108/p4#a251108p4)<!-- TECH:END -->
+ - [What I learned after using a Google TV projector in my bedroom for 30 days](https://www.androidauthority.com/google-tv-projector-bedroom-30-days-3613427/)
+ - [Why Are We All Still Carrying Around Car Keys?](https://www.wired.com/story/why-are-we-all-still-carrying-around-car-keys/)
+ - [Premier League Soccer: Stream Tottenham vs. Man United, Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-tottenham-vs-man-united-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
