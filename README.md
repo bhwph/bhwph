@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV leaders share insights on recent successes and future plans](https://appleinsider.com/articles/25/11/07/apple-tv-leaders-share-insights-on-recent-successes-and-future-plans?utm_source=rss)
- - [Survey reveals you can’t live without Disney channels on YouTube TV](https://www.androidauthority.com/youtube-channels-disney-poll-results-3614050/)
- - [Maybe Peloton is its own worst enemy](https://www.theverge.com/gadgets/816352/peloton-q1-2026-earnings-fitness)<!-- TECH:END -->
+ - [Sources: Samsung is in talks with Barclays to launch a consumer credit card in the US; it&#39;s also exploring a high-yield savings account, BNPL product, and more &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/251107/p28#a251107p28)
+ - [Early Black Friday Deal: Save $100 on OWC Thunderbolt Go Dock for Mac](https://appleinsider.com/articles/25/11/07/early-black-friday-deal-save-100-on-owc-thunderbolt-go-dock-for-mac?utm_source=rss)
+ - [Halo Infinite is about to get its last major update](https://www.theverge.com/news/816960/halo-infinite-end)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
