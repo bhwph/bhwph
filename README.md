@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A sweet moment with the royal guard and his horse](http://9gag.com/gag/agm6EMr)
- - 😝 [Happy to know that there are still good people in the world.](http://9gag.com/gag/axyQYzW)
- - 👉 [Healthy masculinity will save our world](http://9gag.com/gag/aO8Ap0E)<!-- MEMES:END -->
+ - 6️⃣ [Kowalski, status report!](http://9gag.com/gag/aGy62W6)
+ - 😝 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
+ - 👉 [Merry xmass](http://9gag.com/gag/a7oPn3r)<!-- MEMES:END -->
 
 --- 
 
