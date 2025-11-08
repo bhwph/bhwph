@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ready or not, Gemini will soon replace Google Assistant](https://www.androidauthority.com/authority-insights-podcast-012-3613802/)
- - [YouTube Music uploads saved my rare songs — here’s how](https://www.androidauthority.com/youtube-music-personal-uploads-3607287/)
- - [Trump’s Hatred of EVs Is Making Gas Cars More Expensive](https://www.wired.com/story/trumps-anti-climate-agenda-is-making-it-more-expensive-to-own-a-car/)<!-- TECH:END -->
+ - [5 reasons why the next Kindle Scribe has my full attention](https://www.androidauthority.com/reasons-kindle-scribe-colorsoft-has-my-attention-3613001/)
+ - [The Matic robot vacuum is smarter, quieter, and gets the job done](https://www.theverge.com/tech/816645/matic-robot-vacuum-review)
+ - [Formula E&#39;s New Electric Racing Car Is Faster Than a Formula 1 Car. What We Know So Far](https://www.cnet.com/roadshow/news/formula-es-new-electric-racing-car-is-faster-than-a-formula-1-car-what-we-know-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
