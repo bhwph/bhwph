@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Still better than no sex](http://9gag.com/gag/a1mBOGR)
+ - 6️⃣ [Dear lady, I have news for you...](http://9gag.com/gag/ayNZvRp)
  - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
  - 👉 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)<!-- MEMES:END -->
 
