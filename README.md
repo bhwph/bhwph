@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What I learned after using a Google TV projector in my bedroom for 30 days](https://www.androidauthority.com/google-tv-projector-bedroom-30-days-3613427/)
- - [Why Are We All Still Carrying Around Car Keys?](https://www.wired.com/story/why-are-we-all-still-carrying-around-car-keys/)
- - [Premier League Soccer: Stream Tottenham vs. Man United, Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-tottenham-vs-man-united-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ready or not, Gemini will soon replace Google Assistant](https://www.androidauthority.com/authority-insights-podcast-012-3613802/)
+ - [YouTube Music uploads saved my rare songs — here’s how](https://www.androidauthority.com/youtube-music-personal-uploads-3607287/)
+ - [Trump’s Hatred of EVs Is Making Gas Cars More Expensive](https://www.wired.com/story/trumps-anti-climate-agenda-is-making-it-more-expensive-to-own-a-car/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
