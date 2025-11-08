@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 reasons why the next Kindle Scribe has my full attention](https://www.androidauthority.com/reasons-kindle-scribe-colorsoft-has-my-attention-3613001/)
- - [The Matic robot vacuum is smarter, quieter, and gets the job done](https://www.theverge.com/tech/816645/matic-robot-vacuum-review)
- - [Formula E&#39;s New Electric Racing Car Is Faster Than a Formula 1 Car. What We Know So Far](https://www.cnet.com/roadshow/news/formula-es-new-electric-racing-car-is-faster-than-a-formula-1-car-what-we-know-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple TV outage hits launch of Vince Gilligan&#39;s &#39;Pluribus&#39;](https://appleinsider.com/articles/25/11/08/apple-tv-outage-hits-launch-of-vince-gilligans-pluribus?utm_source=rss)
+ - [A look at Dominari Holdings and Yorkville Advisors, two little-known boutique banks that have helped finance the Trump family&#39;s flurry of crypto deals this year &lpar;George Steer/Financial Times&rpar;](http://www.techmeme.com/251108/p8#a251108p8)
+ - [Apple helped kill netbooks. Will it bring them back?](https://www.theverge.com/tech/817277/apple-ipad-killed-the-netbook-cheap-macbook-is-bringing-them-back)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
