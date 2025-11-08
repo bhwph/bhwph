@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge declares a mistrial after a jury couldn&#39;t reach a verdict on two brothers charged in 2024 for allegedly stealing $25M in crypto from Ethereum traders &lpar;Bloomberg&rpar;](http://www.techmeme.com/251107/p30#a251107p30)
- - [Google introduces Nested Learning, a new ML approach for continual learning that views models as nested optimization problems to enhance long context processing &lpar;Google Research&rpar;](http://www.techmeme.com/251107/p29#a251107p29)
- - [ARC Raiders Review: An Extraction Shooter Built for Every Type of Player](https://www.cnet.com/tech/gaming/arc-raiders-review-this-is-the-best-extraction-shooter-ive-ever-played/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vast Data, which develops data storage tools, inks a $1.17B AI deal with CoreWeave; Vast Data, valued at $9.1B in 2023, said it reached $200M ARR by Jan. 2025 &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251108/p2#a251108p2)
+ - [NordVPN Coupons and Deals: 77% Off in November 2025](https://www.wired.com/story/nordvpn-coupon/)
+ - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
