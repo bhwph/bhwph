@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Dear lady, I have news for you...](http://9gag.com/gag/ayNZvRp)
- - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
+ - 😝 [What the heck](http://9gag.com/gag/aByjODO)
  - 👉 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)<!-- MEMES:END -->
 
 --- 
