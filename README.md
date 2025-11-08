@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s beginning to look a lot like Christmas....](http://9gag.com/gag/ayNZvGy)
- - 😝 [A sweet moment with the royal guard and his horse](http://9gag.com/gag/agm6EMr)
- - 👉 [Happy to know that there are still good people in the world.](http://9gag.com/gag/axyQYzW)<!-- MEMES:END -->
+ - 6️⃣ [From what I&#39;ve heard this guy told them to make posts on social media promoting Thailand. The `prize` to do so was a private dinner with this guy and more favorable reviews in the this contest. Fatima didn&#39;t comply after consulting her mgt back home. So, this happened.](http://9gag.com/gag/aO8A1jy)
+ - 😝 [Shut her down real quick](http://9gag.com/gag/abAKQnb)
+ - 👉 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)<!-- MEMES:END -->
 
 --- 
 
