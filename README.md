@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vast Data, which develops data storage tools, inks a $1.17B AI deal with CoreWeave; Vast Data, valued at $9.1B in 2023, said it reached $200M ARR by Jan. 2025 &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251108/p2#a251108p2)
- - [NordVPN Coupons and Deals: 77% Off in November 2025](https://www.wired.com/story/nordvpn-coupon/)
- - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)<!-- TECH:END -->
+ - [An account of working at Cursor for 60 days: a largely in-person culture, few scheduled meetings, aggressive recruiting, heavy internal product testing, more &lpar;Brie Wolfson/Colossus&rpar;](http://www.techmeme.com/251108/p5#a251108p5)
+ - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in November](https://www.wired.com/story/att-promo-code/)
+ - [In DeepSeek&#39;s first public appearance since R1&#39;s success, a senior researcher told a state-run conference he was pessimistic about AI&#39;s impact on humanity &lpar;Reuters&rpar;](http://www.techmeme.com/251108/p4#a251108p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
