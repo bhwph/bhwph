@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [From what I&#39;ve heard this guy told them to make posts on social media promoting Thailand. The `prize` to do so was a private dinner with this guy and more favorable reviews in the this contest. Fatima didn&#39;t comply after consulting her mgt back home. So, this happened.](http://9gag.com/gag/aO8A1jy)
+ - 6️⃣ [A 29 year old woman pretended to be a nurse for 7 months. She treated over 4,000 patients and only got caught after she was offered a promotion](http://9gag.com/gag/aVv4BOn)
  - 😝 [Shut her down real quick](http://9gag.com/gag/abAKQnb)
- - 👉 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)<!-- MEMES:END -->
+ - 👉 [Both beauty and beast](http://9gag.com/gag/awyPe0B)<!-- MEMES:END -->
 
 --- 
 
