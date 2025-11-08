@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hagrid’s Hut Falls to Pocket Change, LEGO Cuts 4.9-Rated Harry Potter Set to Fresh Record Low](https://kotaku.com/hagrids-hut-falls-to-pocket-change-lego-cuts-4-9-rated-harry-potter-set-to-fresh-record-low-2000642277)
- - [Animal Crossing: New Horizons 3.0 doesn&#39;t mean a long wait for the next Animal Crossing](https://www.polygon.com/animal-crossing-new-horizons-3-0-update-new-animal-crossing-game/)
- - [After Helldivers 2 stole its thunder, Starship Troopers: Extermination is now cribbing from Arrowhead&#39;s worksheet by adding airstrikes in its next update](https://www.pcgamer.com/games/fps/after-helldivers-2-stole-its-thunder-starship-troopers-extermination-is-now-cribbing-from-arrowheads-worksheet-by-adding-airstrikes-in-its-next-update/)<!-- GAME:END -->
+ - [Arc Raiders strikes a perfect balance between PvE and PvP](https://www.polygon.com/arc-raiders-pve-pvp-debate/)
+ - [You use Steam every day, but how well do you really know it? Our latest quiz tests you on everything from long-lost features to surprise free game releases to the most expensive thing ever sold on the storefront](https://www.pcgamer.com/games/you-use-steam-every-day-but-how-well-do-you-really-know-it-our-latest-quiz-tests-you-on-everything-from-long-lost-features-to-surprise-free-game-releases-to-the-most-expensive-thing-ever-sold-on-the-storefront/)
+ - [Finally, Arc Raiders is the extraction shooter for people with jobs, and it&#39;s all the better for it](https://www.pcgamer.com/games/third-person-shooter/finally-arc-raiders-is-the-extraction-shooter-for-people-with-jobs-and-its-all-the-better-for-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
