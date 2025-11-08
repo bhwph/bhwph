@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
- - 😝 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)
- - 👉 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)<!-- MEMES:END -->
+ - 6️⃣ [Still better than no sex](http://9gag.com/gag/a1mBOGR)
+ - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
+ - 👉 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)<!-- MEMES:END -->
 
 --- 
 
