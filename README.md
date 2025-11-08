@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A 29 year old woman pretended to be a nurse for 7 months. She treated over 4,000 patients and only got caught after she was offered a promotion](http://9gag.com/gag/aVv4BOn)
- - 😝 [Shut her down real quick](http://9gag.com/gag/abAKQnb)
- - 👉 [Both beauty and beast](http://9gag.com/gag/awyPe0B)<!-- MEMES:END -->
+ - 6️⃣ [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
+ - 😝 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)
+ - 👉 [And one for the road...](http://9gag.com/gag/aPAzX1g)<!-- MEMES:END -->
 
 --- 
 
