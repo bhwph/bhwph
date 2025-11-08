@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kowalski, status report!](http://9gag.com/gag/aGy62W6)
+ - 6️⃣ [What the heck](http://9gag.com/gag/aByjODO)
  - 😝 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
- - 👉 [Merry xmass](http://9gag.com/gag/a7oPn3r)<!-- MEMES:END -->
+ - 👉 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)<!-- MEMES:END -->
 
 --- 
 
