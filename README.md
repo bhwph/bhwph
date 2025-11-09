@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Still better than no sex](http://9gag.com/gag/a1mBOGR)
- - 😝 [I&#39;ll simp myself out](http://9gag.com/gag/apRz8MM)
- - 👉 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)<!-- MEMES:END -->
+ - 6️⃣ [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
+ - 😝 [There is a mutation that causes bones to become 8 times denser than normal that allow people to walk away from car accidents without a single fracture but with a trade off of being unable to swim.](http://9gag.com/gag/aqyBAZp)
+ - 👉 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
 
 --- 
 
