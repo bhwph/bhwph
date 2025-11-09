@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The demand for cold-storage crypto wallets is soaring, as hardware wallet maker Ledger reports its best year, with &quot;triple-digit millions&quot; in 2025 YTD revenue &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251109/p9#a251109p9)
  - [Apple TV outage hits launch of Vince Gilligan&#39;s &#39;Pluribus&#39;](https://appleinsider.com/articles/25/11/08/apple-tv-outage-hits-launch-of-vince-gilligans-pluribus?utm_source=rss)
- - [Apple may limit OLED to M6 Pro, M6 Max versions of MacBook Pro](https://appleinsider.com/articles/25/11/09/apple-may-limit-oled-screen-to-m6-pro-m6-max-versions-of-macbook-pro?utm_source=rss)
- - [A look at Apple&#39;s plans to enhance satellite connectivity in its products, Siri&#39;s Gemini upgrade, new 2026 Macs, a Health+ service, and the future of Fitness+ &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251109/p8#a251109p8)<!-- TECH:END -->
+ - [Apple may limit OLED to M6 Pro, M6 Max versions of MacBook Pro](https://appleinsider.com/articles/25/11/09/apple-may-limit-oled-screen-to-m6-pro-m6-max-versions-of-macbook-pro?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
