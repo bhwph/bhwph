@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Why I love driving around oddball Japan in Promise Mascot Agency](https://www.pcgamer.com/games/sim/why-i-love-driving-around-oddball-japan-in-promise-mascot-agency/)
  - [This point-and-click horror adventure where you play a boy with a lightbulb for a head is currently free to keep on Steam](https://www.pcgamer.com/games/adventure/this-point-and-click-horror-adventure-where-you-play-a-boy-with-a-lightbulb-for-a-head-is-currently-free-to-keep-on-steam/)
- - [Fresh from Space Marine 2, Titus gets promoted to captain in a slick animation that blesses an ad for toy soldiers with all the gravitas of a new Dune movie](https://www.pcgamer.com/games/action/fresh-from-space-marine-2-titus-gets-promoted-to-captain-in-a-slick-animation-that-blesses-an-ad-for-toy-soldiers-with-all-the-gravitas-of-a-new-dune-movie/)
- - [Amazon Slashes This 1500W Power Station to Peanuts, 7 Outlets Save You During Winter Blackouts](https://kotaku.com/amazon-slashes-this-1500w-power-station-to-peanuts-7-outlets-save-you-during-winter-blackouts-2000642286)<!-- GAME:END -->
+ - [Fresh from Space Marine 2, Titus gets promoted to captain in a slick animation that blesses an ad for toy soldiers with all the gravitas of a new Dune movie](https://www.pcgamer.com/games/action/fresh-from-space-marine-2-titus-gets-promoted-to-captain-in-a-slick-animation-that-blesses-an-ad-for-toy-soldiers-with-all-the-gravitas-of-a-new-dune-movie/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
