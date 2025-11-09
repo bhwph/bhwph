@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 apps I urge non-techies to install on their Android phones](https://www.androidauthority.com/best-android-apps-for-non-techies-3613550/)
- - [Israel-based RAAAM, whose &quot;GCRAM&quot; on-chip memory tech aims to deliver up to 10x power savings relative to high-density SRAM, raised a $17M Series A led by NXP &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/251109/p5#a251109p5)
- - [The Venu 4 upped its fitness tools and price tag, and it’s still my favorite Garmin smartwatch](https://www.androidauthority.com/garmin-venu-4-review-3613810/)<!-- TECH:END -->
+ - [Apple has big plans for more satellite features in future iPhones](https://appleinsider.com/articles/25/11/09/apple-has-big-plans-for-more-satellite-features-in-future-iphones?utm_source=rss)
+ - [An interview with Internet Archive founder Brewster Kahle on copyright lawsuits that threatened to bankrupt the nonprofit, fair use, IA&#39;s future, AI, and more &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/251109/p6#a251109p6)
+ - [What Is Adobe Firefly? Here’s How to Use This Powerful Generative AI Tool](https://www.wired.com/story/what-is-adobe-firefly/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
