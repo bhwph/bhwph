@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Still better than no sex](http://9gag.com/gag/a1mBOGR)
- - 😝 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)
- - 👉 [Merry xmass](http://9gag.com/gag/a7oPn3r)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
+ - 😝 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
+ - 👉 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
 
 --- 
 
