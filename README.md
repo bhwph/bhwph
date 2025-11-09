@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
- - 😝 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
- - 👉 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
+ - 6️⃣ [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
+ - 😝 [India number one](http://9gag.com/gag/adBrdzB)
+ - 👉 [I&#39;ll simp myself out](http://9gag.com/gag/apRz8MM)<!-- MEMES:END -->
 
 --- 
 
