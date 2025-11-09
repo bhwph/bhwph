@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tala Health, which plans to roll out AI agents to help clinicians improve patient care next year, raised a $100M seed led by Sofreh Capital &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/251109/p4#a251109p4)
- - [The only upgrade I want from a new Kindle Scribe is a foldable design](https://www.androidauthority.com/kindle-scribe-foldable-design-3613056/)
- - [The Alpha Arena experiment gave six frontier models $10K each to trade crypto derivatives over two weeks: losses ranged from Qwen3 Max&#39;s $652 to GPT-5&#39;s $5,679 &lpar;Sebastian Pellejero/Reuters&rpar;](http://www.techmeme.com/251109/p3#a251109p3)<!-- TECH:END -->
+ - [12 apps I urge non-techies to install on their Android phones](https://www.androidauthority.com/best-android-apps-for-non-techies-3613550/)
+ - [Israel-based RAAAM, whose &quot;GCRAM&quot; on-chip memory tech aims to deliver up to 10x power savings relative to high-density SRAM, raised a $17M Series A led by NXP &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/251109/p5#a251109p5)
+ - [The Venu 4 upped its fitness tools and price tag, and it’s still my favorite Garmin smartwatch](https://www.androidauthority.com/garmin-venu-4-review-3613810/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
