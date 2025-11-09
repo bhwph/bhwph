@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
- - 😝 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
+ - 6️⃣ [British veterans break down live on TV over the state of the country: `Rows and rows of white tombs for what? A country of today? No, I&#39;m sorry. The sacrifice wasn&#39;t worth the result. I fought for freedom, and it&#39;s darn-sight worse now than when I fought.`](http://9gag.com/gag/avy4mgW)
+ - 😝 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
  - 👉 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
 
 --- 
