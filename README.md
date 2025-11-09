@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
- - 😝 [There is a mutation that causes bones to become 8 times denser than normal that allow people to walk away from car accidents without a single fracture but with a trade off of being unable to swim.](http://9gag.com/gag/aqyBAZp)
- - 👉 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
+ - 6️⃣ [Absolutely magical encounter in African wilderness](http://9gag.com/gag/a2v9Gbp)
+ - 😝 [20 years ago today, the greatest cast of all time was assembled](http://9gag.com/gag/adBrb3M)
+ - 👉 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)<!-- MEMES:END -->
 
 --- 
 
