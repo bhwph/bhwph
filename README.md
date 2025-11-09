@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has big plans for more satellite features in future iPhones](https://appleinsider.com/articles/25/11/09/apple-has-big-plans-for-more-satellite-features-in-future-iphones?utm_source=rss)
- - [An interview with Internet Archive founder Brewster Kahle on copyright lawsuits that threatened to bankrupt the nonprofit, fair use, IA&#39;s future, AI, and more &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/251109/p6#a251109p6)
- - [What Is Adobe Firefly? Here’s How to Use This Powerful Generative AI Tool](https://www.wired.com/story/what-is-adobe-firefly/)<!-- TECH:END -->
+ - [Apple TV outage hits launch of Vince Gilligan&#39;s &#39;Pluribus&#39;](https://appleinsider.com/articles/25/11/08/apple-tv-outage-hits-launch-of-vince-gilligans-pluribus?utm_source=rss)
+ - [Apple may limit OLED to M6 Pro, M6 Max versions of MacBook Pro](https://appleinsider.com/articles/25/11/09/apple-may-limit-oled-screen-to-m6-pro-m6-max-versions-of-macbook-pro?utm_source=rss)
+ - [A look at Apple&#39;s plans to enhance satellite connectivity in its products, Siri&#39;s Gemini upgrade, new 2026 Macs, a Health+ service, and the future of Fitness+ &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251109/p8#a251109p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
