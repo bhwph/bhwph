@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rust doubles down on its &#39;controversial&#39; meta changes by wiping everyone&#39;s crafting blueprints to &#39;bring back that sense of discovery&#39;, and it might become a regular thing](https://www.pcgamer.com/games/survival-crafting/rust-doubles-down-on-its-controversial-meta-changes-by-wiping-everyones-crafting-blueprints-to-bring-back-that-sense-of-discovery-and-it-might-become-a-regular-thing/)
- - [Why I love driving around oddball Japan in Promise Mascot Agency](https://www.pcgamer.com/games/sim/why-i-love-driving-around-oddball-japan-in-promise-mascot-agency/)
- - [This point-and-click horror adventure where you play a boy with a lightbulb for a head is currently free to keep on Steam](https://www.pcgamer.com/games/adventure/this-point-and-click-horror-adventure-where-you-play-a-boy-with-a-lightbulb-for-a-head-is-currently-free-to-keep-on-steam/)<!-- GAME:END -->
+ - [Tears of the Kingdom&#39;s engineers keep trying to build the impossible](https://www.polygon.com/hyrule-engineers-autobuild-creations-qr-code-perfect-bike/)
+ - [No Man&#39;s Sky is rerunning all of its expeditions from 2025, while also giving players another chance to add Mass Effect&#39;s Normandy to their spaceship collection](https://www.pcgamer.com/games/survival-crafting/no-mans-sky-is-rerunning-all-of-its-expeditions-from-2025-while-also-giving-players-another-chance-to-add-mass-effects-normandy-to-their-spaceship-collection/)
+ - [The Outer Worlds 2&#39;s best feature is the one Obsidian never added](https://www.polygon.com/the-outer-worlds-2-best-feature/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
