@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tears of the Kingdom&#39;s engineers keep trying to build the impossible](https://www.polygon.com/hyrule-engineers-autobuild-creations-qr-code-perfect-bike/)
- - [No Man&#39;s Sky is rerunning all of its expeditions from 2025, while also giving players another chance to add Mass Effect&#39;s Normandy to their spaceship collection](https://www.pcgamer.com/games/survival-crafting/no-mans-sky-is-rerunning-all-of-its-expeditions-from-2025-while-also-giving-players-another-chance-to-add-mass-effects-normandy-to-their-spaceship-collection/)
- - [The Outer Worlds 2&#39;s best feature is the one Obsidian never added](https://www.polygon.com/the-outer-worlds-2-best-feature/)<!-- GAME:END -->
+ - [Vince Gilligan’s 5 best X-Files episodes &lpar;to watch while you wait for more Pluribus&rpar;](https://www.polygon.com/vince-gilligan-x-files-pluribus/)
+ - [Debate: Which Grand Theft Auto radio station has the best tunes?](https://www.pcgamer.com/games/debate-which-grand-theft-auto-radio-station-has-the-best-tunes/)
+ - [Breaking Bad creator&#39;s new series isn&#39;t &quot;ripped from the headlines&quot;](https://www.polygon.com/video/breaking-bad-creator-s-new-series-isn-t-ripped-from-the-headlines/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
