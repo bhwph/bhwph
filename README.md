@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator isn&#39;t just for nerdy dads anymore: Boeing will start using its tech to train actual pilots](https://www.pcgamer.com/games/sim/microsoft-flight-simulator-isnt-just-for-nerdy-dads-anymore-boeing-will-start-using-its-tech-to-train-actual-pilots/)
- - [Atari 2600 Plus Pac-Man Edition review: A perfect treat for retro game lovers](https://www.polygon.com/atari-2600-plus-pac-man-edition-review/)
- - [In Frankenstein, Mia Goth plays Victor&#39;s mother and his love interest. Here’s how she pulled it off.](https://www.polygon.com/mia-goth-frankenstein-two-roles/)<!-- GAME:END -->
+ - [Before Titan Quest 2 gets a permanent price hike, you can grab the rare singleplayer-friendly Diablo-like on sale](https://www.pcgamer.com/games/rpg/before-titan-quest-2-gets-a-permanent-price-hike-you-can-grab-the-rare-singleplayer-friendly-diablo-like-on-sale/)
+ - [Mick Gordon is asking &#39;how heavy can we get it?&#39; in his first full game soundtrack since Doom Eternal: &#39;I&#39;m really exploring the extremes of distortion with this project&#39;](https://www.pcgamer.com/games/fps/mick-gordon-is-asking-how-heavy-can-we-get-it-in-his-first-full-game-soundtrack-since-doom-eternal-im-really-exploring-the-extremes-of-distortion-with-this-project/)
+ - [Microsoft Flight Simulator isn&#39;t just for nerdy dads anymore: Boeing will start using its tech to train actual pilots](https://www.pcgamer.com/games/sim/microsoft-flight-simulator-isnt-just-for-nerdy-dads-anymore-boeing-will-start-using-its-tech-to-train-actual-pilots/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
