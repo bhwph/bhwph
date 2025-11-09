@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FromSoftware&#39;s parent company let it slip that we&#39;ll get Elden Ring Nightreign DLC by March at the latest](https://www.pcgamer.com/games/action/fromsoftwares-parent-company-let-it-slip-that-well-get-elden-ring-nightreign-dlc-by-march-at-the-latest/)
- - [To the rapidly aging person reading this: GameFAQs is 30 years old, and people are sharing their memories of the venerable guide hub](https://www.pcgamer.com/games/to-the-rapidly-aging-person-reading-this-gamefaqs-is-30-years-old-and-people-are-sharing-their-memories-of-the-venerable-guide-hub/)
- - [Bounty Star is the best new game on Game Pass, and a great mecha farming sim](https://www.polygon.com/bounty-star-mecha-game-ps5-xbox-game-pass/)<!-- GAME:END -->
+ - [Fresh from Space Marine 2, Titus gets promoted to captain in a slick animation that blesses an ad for toy soldiers with all the gravitas of a new Dune movie](https://www.pcgamer.com/games/action/fresh-from-space-marine-2-titus-gets-promoted-to-captain-in-a-slick-animation-that-blesses-an-ad-for-toy-soldiers-with-all-the-gravitas-of-a-new-dune-movie/)
+ - [Amazon Slashes This 1500W Power Station to Peanuts, 7 Outlets Save You During Winter Blackouts](https://kotaku.com/amazon-slashes-this-1500w-power-station-to-peanuts-7-outlets-save-you-during-winter-blackouts-2000642286)
+ - [Stalker dev GSC Game World DMCA&#39;d a Stalker-inspired indie off Steam⁠, and the devs are crying foul: &#39;This is an abuse of power against small independent developers by a large corporation&#39;](https://www.pcgamer.com/games/survival-crafting/stalker-dev-gsc-game-world-dmcad-a-stalker-inspired-indie-off-steam-and-the-devs-are-crying-foul-this-is-an-abuse-of-power-against-small-independent-developers-by-a-large-corporation/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
