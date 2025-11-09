@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dear lady, I have news for you...](http://9gag.com/gag/ayNZvRp)
- - 😝 [What the heck](http://9gag.com/gag/aByjODO)
+ - 6️⃣ [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
+ - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
  - 👉 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)<!-- MEMES:END -->
 
 --- 
