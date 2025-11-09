@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rust doubles down on its &#39;controversial&#39; meta changes by wiping everyone&#39;s crafting blueprints to &#39;bring back that sense of discovery&#39;, and it might become a regular thing](https://www.pcgamer.com/games/survival-crafting/rust-doubles-down-on-its-controversial-meta-changes-by-wiping-everyones-crafting-blueprints-to-bring-back-that-sense-of-discovery-and-it-might-become-a-regular-thing/)
  - [Why I love driving around oddball Japan in Promise Mascot Agency](https://www.pcgamer.com/games/sim/why-i-love-driving-around-oddball-japan-in-promise-mascot-agency/)
- - [This point-and-click horror adventure where you play a boy with a lightbulb for a head is currently free to keep on Steam](https://www.pcgamer.com/games/adventure/this-point-and-click-horror-adventure-where-you-play-a-boy-with-a-lightbulb-for-a-head-is-currently-free-to-keep-on-steam/)
- - [Fresh from Space Marine 2, Titus gets promoted to captain in a slick animation that blesses an ad for toy soldiers with all the gravitas of a new Dune movie](https://www.pcgamer.com/games/action/fresh-from-space-marine-2-titus-gets-promoted-to-captain-in-a-slick-animation-that-blesses-an-ad-for-toy-soldiers-with-all-the-gravitas-of-a-new-dune-movie/)<!-- GAME:END -->
+ - [This point-and-click horror adventure where you play a boy with a lightbulb for a head is currently free to keep on Steam](https://www.pcgamer.com/games/adventure/this-point-and-click-horror-adventure-where-you-play-a-boy-with-a-lightbulb-for-a-head-is-currently-free-to-keep-on-steam/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
