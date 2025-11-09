@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vince Gilligan’s 5 best X-Files episodes &lpar;to watch while you wait for more Pluribus&rpar;](https://www.polygon.com/vince-gilligan-x-files-pluribus/)
- - [Debate: Which Grand Theft Auto radio station has the best tunes?](https://www.pcgamer.com/games/debate-which-grand-theft-auto-radio-station-has-the-best-tunes/)
- - [Breaking Bad creator&#39;s new series isn&#39;t &quot;ripped from the headlines&quot;](https://www.polygon.com/video/breaking-bad-creator-s-new-series-isn-t-ripped-from-the-headlines/)<!-- GAME:END -->
+ - [In Frankenstein, Mia Goth plays Victor&#39;s mother and his love interest. Here’s how she pulled it off.](https://www.polygon.com/mia-goth-frankenstein-two-roles/)
+ - [Street Fighter owes its entire legacy to this one epic anime fight scene](https://www.polygon.com/street-fighter2-animated-movie-ryu-sagat-anime/)
+ - [Minecraft cosplays have come a long way since I started playing over a decade ago, and this year has shown the most creativity I&#39;ve seen yet](https://www.pcgamer.com/games/survival-crafting/minecraft-cosplays-have-come-a-long-way-since-i-started-playing-over-a-decade-ago-and-this-year-has-shown-the-most-creativity-ive-seen-yet/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
