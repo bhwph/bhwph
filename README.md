@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In Frankenstein, Mia Goth plays Victor&#39;s mother and his love interest. Here’s how she pulled it off.](https://www.polygon.com/mia-goth-frankenstein-two-roles/)
- - [Street Fighter owes its entire legacy to this one epic anime fight scene](https://www.polygon.com/street-fighter2-animated-movie-ryu-sagat-anime/)
- - [Minecraft cosplays have come a long way since I started playing over a decade ago, and this year has shown the most creativity I&#39;ve seen yet](https://www.pcgamer.com/games/survival-crafting/minecraft-cosplays-have-come-a-long-way-since-i-started-playing-over-a-decade-ago-and-this-year-has-shown-the-most-creativity-ive-seen-yet/)<!-- GAME:END -->
+ - [Microsoft Flight Simulator isn&#39;t just for nerdy dads anymore: Boeing will start using its tech to train actual pilots](https://www.pcgamer.com/games/sim/microsoft-flight-simulator-isnt-just-for-nerdy-dads-anymore-boeing-will-start-using-its-tech-to-train-actual-pilots/)
+ - [Atari 2600 Plus Pac-Man Edition review: A perfect treat for retro game lovers](https://www.polygon.com/atari-2600-plus-pac-man-edition-review/)
+ - [In Frankenstein, Mia Goth plays Victor&#39;s mother and his love interest. Here’s how she pulled it off.](https://www.polygon.com/mia-goth-frankenstein-two-roles/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
