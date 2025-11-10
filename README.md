@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
- - 😝 [India number one](http://9gag.com/gag/adBrdzB)
- - 👉 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)<!-- MEMES:END -->
+ - 6️⃣ [If it ever comes out](http://9gag.com/gag/aMVDWZM)
+ - 😝 [Oh shit](http://9gag.com/gag/a5Qvyno)
+ - 👉 [Lol....the way he is shocked you have two flippity flappies](http://9gag.com/gag/a4Pmm4p)<!-- MEMES:END -->
 
 --- 
 
