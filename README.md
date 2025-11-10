@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They treat us as 5 years old kid](http://9gag.com/gag/a2v9jx9)
- - 😝 [When US dollars made you forget](http://9gag.com/gag/an78dPn)
- - 👉 [That&#39;s a bit silly](http://9gag.com/gag/an78WYE)<!-- MEMES:END -->
+ - 6️⃣ [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
+ - 😝 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
+ - 👉 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
 
 --- 
 
