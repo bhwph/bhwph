@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Before Titan Quest 2 gets a permanent price hike, you can grab the rare singleplayer-friendly Diablo-like on sale](https://www.pcgamer.com/games/rpg/before-titan-quest-2-gets-a-permanent-price-hike-you-can-grab-the-rare-singleplayer-friendly-diablo-like-on-sale/)
- - [Mick Gordon is asking &#39;how heavy can we get it?&#39; in his first full game soundtrack since Doom Eternal: &#39;I&#39;m really exploring the extremes of distortion with this project&#39;](https://www.pcgamer.com/games/fps/mick-gordon-is-asking-how-heavy-can-we-get-it-in-his-first-full-game-soundtrack-since-doom-eternal-im-really-exploring-the-extremes-of-distortion-with-this-project/)
- - [Microsoft Flight Simulator isn&#39;t just for nerdy dads anymore: Boeing will start using its tech to train actual pilots](https://www.pcgamer.com/games/sim/microsoft-flight-simulator-isnt-just-for-nerdy-dads-anymore-boeing-will-start-using-its-tech-to-train-actual-pilots/)<!-- GAME:END -->
+ - [Sony Is Springing A Surprise Showcase On Fans](https://kotaku.com/playstation-state-of-play-japan-stream-where-when-watch-2000642402)
+ - [Lenovo Joins the Early Black Friday Rush With Its Intel 14-Core Ultra 5 Laptop at Nearly 70% Off](https://kotaku.com/lenovo-joins-the-early-black-friday-rush-with-its-intel-14-core-ultra-5-laptop-at-nearly-70-off-2000642312)
+ - [&#39;The unimaginable has happened&#39;—Dune: Awakening&#39;s player count drops below Funcom&#39;s other survival game released eight years ago, as engagement with Arrakis dries up](https://www.pcgamer.com/games/mmo/the-unimaginable-has-happened-dune-awakenings-player-count-drops-below-funcoms-other-survival-game-released-eight-years-ago-as-engagement-with-arrakis-dries-up/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
