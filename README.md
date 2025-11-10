@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Don’t Buy Your iPad at an Apple Store, Amazon Just Dropped the Base WiFi Model to Pocket Change](https://kotaku.com/dont-buy-your-ipad-at-an-apple-store-amazon-just-dropped-the-base-wifi-model-to-pocket-change-2000642394)
- - [Haikyu!! English dub is finally streaming on Crunchyroll](https://www.polygon.com/haikyu-anime-dub-seasons-streaming-crunchyroll/)
- - [Todd Howard says that Fallout 4&#39;s cinematic dialogue system &#39;really did not resonate&#39; with players, even though Bethesda &#39;spent forever&#39; working on it](https://www.pcgamer.com/games/rpg/todd-howard-says-that-fallout-4s-cinematic-dialogue-system-really-did-not-resonate-with-players-even-though-bethesda-spent-forever-working-on-it/)<!-- GAME:END -->
+ - [Surviving Mars: Relaunched Isn’t Just A Rework, It’s A Whole New Experience](https://news.xbox.com/en-us/2025/11/10/surviving-mars-relaunched-xbox-console/)
+ - [Critical Role performers will take on Brandon Sanderson&#39;s Cosmere RPG](https://www.polygon.com/brandon-sanderson-cosmere-rpg-actual-play/)
+ - [Grand Theft Auto 5 has now sold an incredible 220 million copies](https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-5-has-now-sold-an-incredible-220-million-copies/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
