@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
- - 😝 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
+ - 6️⃣ [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
+ - 😝 [Win stupid prizes](http://9gag.com/gag/an78WKo)
  - 👉 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
 
 --- 
