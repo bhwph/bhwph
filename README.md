@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Is Springing A Surprise Showcase On Fans](https://kotaku.com/playstation-state-of-play-japan-stream-where-when-watch-2000642402)
- - [Lenovo Joins the Early Black Friday Rush With Its Intel 14-Core Ultra 5 Laptop at Nearly 70% Off](https://kotaku.com/lenovo-joins-the-early-black-friday-rush-with-its-intel-14-core-ultra-5-laptop-at-nearly-70-off-2000642312)
- - [&#39;The unimaginable has happened&#39;—Dune: Awakening&#39;s player count drops below Funcom&#39;s other survival game released eight years ago, as engagement with Arrakis dries up](https://www.pcgamer.com/games/mmo/the-unimaginable-has-happened-dune-awakenings-player-count-drops-below-funcoms-other-survival-game-released-eight-years-ago-as-engagement-with-arrakis-dries-up/)<!-- GAME:END -->
+ - [Don’t Buy Your iPad at an Apple Store, Amazon Just Dropped the Base WiFi Model to Pocket Change](https://kotaku.com/dont-buy-your-ipad-at-an-apple-store-amazon-just-dropped-the-base-wifi-model-to-pocket-change-2000642394)
+ - [Haikyu!! English dub is finally streaming on Crunchyroll](https://www.polygon.com/haikyu-anime-dub-seasons-streaming-crunchyroll/)
+ - [Todd Howard says that Fallout 4&#39;s cinematic dialogue system &#39;really did not resonate&#39; with players, even though Bethesda &#39;spent forever&#39; working on it](https://www.pcgamer.com/games/rpg/todd-howard-says-that-fallout-4s-cinematic-dialogue-system-really-did-not-resonate-with-players-even-though-bethesda-spent-forever-working-on-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
