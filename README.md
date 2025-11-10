@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bethesda is already playtesting The Elder Scrolls 6](https://www.polygon.com/elder-scrolls-6-tes6-update-todd-howard/)
- - [Roguelikes, Shooters, And More: Here Are 47 Games Coming Out In November 2025](https://kotaku.com/november-2025-game-releases-rpg-strategy-roguelike-steam-2000640819)
- - [BAT-FAM&#39;s showrunner discusses balancing family and action in the new series](https://www.polygon.com/bat-fam-interview/)<!-- GAME:END -->
+ - [Silksong&#39;s disastrous Chinese translation has received an official fan-made overhaul, and it&#39;s just been pushed live on PC with Patch 4](https://www.pcgamer.com/games/action/silksongs-disastrous-chinese-translation-has-received-an-official-fan-made-overhaul-and-its-just-been-pushed-live-on-pc-with-patch-4/)
+ - [This Game Tests If People Know How Much Porn Characters Have On The Internet, And They’re Failing](https://kotaku.com/rule-34-rule34dle-guessing-game-stream-site-where-play-2000642575)
+ - [Diablo 4 devs refuse to hint at the next expansion but urge fans to watch The Game Awards this year: &#39;Everyone should be watching it&#39;](https://www.pcgamer.com/games/rpg/diablo-4-devs-refuse-to-hint-at-the-next-expansion-but-urge-fans-to-watch-the-game-awards-this-year-everyone-should-be-watching-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
