@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another Galaxy Watch model joins Samsung’s One UI 8 beta](https://www.androidauthority.com/samsung-galaxy-watch-5-one-ui-beta-3614405/)
- - [Canada-based CoLab, which makes collaboration software for manufacturers, raised a $72M Series C led by Intrepid Growth Partners &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/251110/p21#a251110p21)
- - [Ikea&#39;s new Matter lineup, smart home maintenance and more on HomeKit Insider](https://appleinsider.com/articles/25/11/10/ikeas-new-matter-lineup-smart-home-maintenance-and-more-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
+ - [Samsung may give the Galaxy S26 Ultra a larger front camera hole for a good reason](https://www.androidauthority.com/galaxy-s26-larger-front-camera-3614426/)
+ - [Sources: the European Commission is exploring ways to force EU member states to phase out Chinese telecom equipment makers Huawei and ZTE from their networks &lpar;Bloomberg&rpar;](http://www.techmeme.com/251110/p24#a251110p24)
+ - [iPod changed the world in 2001 -- before being killed by the iPhone](https://appleinsider.com/articles/25/11/10/ipod-changed-the-world-in-2001----before-being-killed-by-the-iphone?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
