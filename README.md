@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Surviving Mars: Relaunched Isn’t Just A Rework, It’s A Whole New Experience](https://news.xbox.com/en-us/2025/11/10/surviving-mars-relaunched-xbox-console/)
- - [Critical Role performers will take on Brandon Sanderson&#39;s Cosmere RPG](https://www.polygon.com/brandon-sanderson-cosmere-rpg-actual-play/)
- - [Grand Theft Auto 5 has now sold an incredible 220 million copies](https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-5-has-now-sold-an-incredible-220-million-copies/)<!-- GAME:END -->
+ - [Bethesda is already playtesting The Elder Scrolls 6](https://www.polygon.com/elder-scrolls-6-tes6-update-todd-howard/)
+ - [Roguelikes, Shooters, And More: Here Are 47 Games Coming Out In November 2025](https://kotaku.com/november-2025-game-releases-rpg-strategy-roguelike-steam-2000640819)
+ - [BAT-FAM&#39;s showrunner discusses balancing family and action in the new series](https://www.polygon.com/bat-fam-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
