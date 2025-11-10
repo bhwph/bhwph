@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
- - 😝 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
- - 👉 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
+ - 😝 [India number one](http://9gag.com/gag/adBrdzB)
+ - 👉 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)<!-- MEMES:END -->
 
 --- 
 
