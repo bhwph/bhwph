@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Majestic Labs, which makes patent-pending server architecture that promises more memory capacity, raised $100M, including a $71M Series A led by Bow Wave &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/251110/p20#a251110p20)
- - [Prepare your Steam library: The easiest Windows emulator just hit the Play Store](https://www.androidauthority.com/gamehub-windows-emulator-play-store-3614337/)
- - [Samsung just dropped trainer-led workouts into your phone](https://www.androidauthority.com/samsung-health-ifit-workouts-freebie-offers-3614348/)<!-- TECH:END -->
+ - [Another Galaxy Watch model joins Samsung’s One UI 8 beta](https://www.androidauthority.com/samsung-galaxy-watch-5-one-ui-beta-3614405/)
+ - [Canada-based CoLab, which makes collaboration software for manufacturers, raised a $72M Series C led by Intrepid Growth Partners &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/251110/p21#a251110p21)
+ - [Ikea&#39;s new Matter lineup, smart home maintenance and more on HomeKit Insider](https://appleinsider.com/articles/25/11/10/ikeas-new-matter-lineup-smart-home-maintenance-and-more-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
