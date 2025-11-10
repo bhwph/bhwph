@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
- - 😝 [Win stupid prizes](http://9gag.com/gag/an78WKo)
- - 👉 [He tried his best](http://9gag.com/gag/a34ee23)<!-- MEMES:END -->
+ - 6️⃣ [Worst memory](http://9gag.com/gag/a5QvyVE)
+ - 😝 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
+ - 👉 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
 
 --- 
 
