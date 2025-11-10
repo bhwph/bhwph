@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
- - 😝 [I&#39;ll simp myself out](http://9gag.com/gag/apRz8MM)
- - 👉 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)<!-- MEMES:END -->
+ - 😝 [India number one](http://9gag.com/gag/adBrdzB)
+ - 👉 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)<!-- MEMES:END -->
 
 --- 
 
