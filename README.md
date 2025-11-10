@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Galaxy S26 leak has good news for availability, bad news for your wallet](https://www.androidauthority.com/samsung-galaxy-s26-early-release-leak-3614250/)
- - [I hope Android copies Apple’s next-gen connectivity features](https://www.androidauthority.com/iphone-satellite-android-phones-3614225/)
- - [Apple removes two of the most popular gay dating apps, Blued and Finka, from its App Store in China, citing orders from the country&#39;s Cyberspace Administration &lpar;Wired&rpar;](http://www.techmeme.com/251110/p1#a251110p1)<!-- TECH:END -->
+ - [Baseus’ latest Qi2.2 chargers are smaller, faster, and cheaper for Black Friday](https://www.androidauthority.com/baseus-picogo-qi2-2-chargers-black-friday-3613358/)
+ - [It’s time: 5 major services that desperately need an Android app](https://www.androidauthority.com/major-services-that-need-android-app-3613946/)
+ - [Amazon’s ‘House of David’ Used Over 350 AI Shots in Season 2. Its Creator Isn’t Sorry](https://www.wired.com/story/amazons-house-of-david-used-over-350-ai-shots-in-season-2-its-creator-isnt-sorry/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
