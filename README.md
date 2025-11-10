@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baseus’ latest Qi2.2 chargers are smaller, faster, and cheaper for Black Friday](https://www.androidauthority.com/baseus-picogo-qi2-2-chargers-black-friday-3613358/)
- - [It’s time: 5 major services that desperately need an Android app](https://www.androidauthority.com/major-services-that-need-android-app-3613946/)
- - [Amazon’s ‘House of David’ Used Over 350 AI Shots in Season 2. Its Creator Isn’t Sorry](https://www.wired.com/story/amazons-house-of-david-used-over-350-ai-shots-in-season-2-its-creator-isnt-sorry/)<!-- TECH:END -->
+ - [Microsoft recruits popular US influencers to help boost its Copilot chatbot; Sensor Tower says Copilot has 99M downloads since launch, far below ChatGPT&#39;s 1.4B &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/251110/p13#a251110p13)
+ - [An interview with Ukrainian cyber-crime kingpin Vyacheslav Penchukov, aka Tank, who was arrested in 2022 after spending ~10 years on the FBI&#39;s Most Wanted list &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/251110/p12#a251110p12)
+ - [Blue Origin scrubs second New Glenn launch](https://www.theverge.com/news/817466/blue-origin-new-glenn-second-launch-scrubbed)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
