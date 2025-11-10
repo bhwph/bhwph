@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube TV is paying up: Here’s how to claim your $20 Disney blackout credit](https://www.androidauthority.com/youtube-tv-disney-20-dollar-credit-payout-3614215/)
- - [TikTok Shop sold an estimated $19B worth of products globally in Q3, with US sales up 125% compared to Q2, reaching eBay&#39;s scale two years after its US launch &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/251109/p16#a251109p16)
- - [Financial stress from AI infrastructure spending, overhiring, and recession fears, rather than AI adoption, is likely driving layoffs in the tech sector &lpar;Fast Company&rpar;](http://www.techmeme.com/251109/p15#a251109p15)<!-- TECH:END -->
+ - [Apple removes two of the most popular gay dating apps, Blued and Finka, from its App Store in China, citing orders from the country&#39;s Cyberspace Administration &lpar;Wired&rpar;](http://www.techmeme.com/251110/p1#a251110p1)
+ - [Teardown reveals this new Android flagship is hiding an insane cooling system inside!](https://www.androidauthority.com/redmagic-11-pro-jerryrigeverything-cooling-system-3614229/)
+ - [Apple Pulls China’s Top Gay Dating Apps After Government Order](https://www.wired.com/story/apple-removes-gay-dating-apps-china-app-store/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
