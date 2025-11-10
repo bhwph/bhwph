@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
- - 😝 [India number one](http://9gag.com/gag/adBrdzB)
- - 👉 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)<!-- MEMES:END -->
+ - 6️⃣ [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
+ - 😝 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
+ - 👉 [Meanwhile in Germany. Folks enjoying a Christmas market then some very loud people showed up.](http://9gag.com/gag/abAKdVp)<!-- MEMES:END -->
 
 --- 
 
