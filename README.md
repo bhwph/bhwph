@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft recruits popular US influencers to help boost its Copilot chatbot; Sensor Tower says Copilot has 99M downloads since launch, far below ChatGPT&#39;s 1.4B &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/251110/p13#a251110p13)
- - [An interview with Ukrainian cyber-crime kingpin Vyacheslav Penchukov, aka Tank, who was arrested in 2022 after spending ~10 years on the FBI&#39;s Most Wanted list &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/251110/p12#a251110p12)
- - [Blue Origin scrubs second New Glenn launch](https://www.theverge.com/news/817466/blue-origin-new-glenn-second-launch-scrubbed)<!-- TECH:END -->
+ - [Majestic Labs, which makes patent-pending server architecture that promises more memory capacity, raised $100M, including a $71M Series A led by Bow Wave &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/251110/p20#a251110p20)
+ - [Prepare your Steam library: The easiest Windows emulator just hit the Play Store](https://www.androidauthority.com/gamehub-windows-emulator-play-store-3614337/)
+ - [Samsung just dropped trainer-led workouts into your phone](https://www.androidauthority.com/samsung-health-ifit-workouts-freebie-offers-3614348/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
