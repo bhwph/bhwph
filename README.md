@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung may give the Galaxy S26 Ultra a larger front camera hole for a good reason](https://www.androidauthority.com/galaxy-s26-larger-front-camera-3614426/)
- - [Sources: the European Commission is exploring ways to force EU member states to phase out Chinese telecom equipment makers Huawei and ZTE from their networks &lpar;Bloomberg&rpar;](http://www.techmeme.com/251110/p24#a251110p24)
- - [iPod changed the world in 2001 -- before being killed by the iPhone](https://appleinsider.com/articles/25/11/10/ipod-changed-the-world-in-2001----before-being-killed-by-the-iphone?utm_source=rss)<!-- TECH:END -->
+ - [Deal: The Nightmare Before Christmas Echo Dot bundle is still around!](https://www.androidauthority.com/nightmare-before-christmas-echo-dot-bundle-deal-3614449/)
+ - [Curious when you’ll get Gemini for Home access? Google just shared more info](https://www.androidauthority.com/gemini-on-google-home-rollout-3614460/)
+ - [iPhone Air 2 won&#39;t be out in 2026, claims questionable report](https://appleinsider.com/articles/25/11/10/iphone-air-2-wont-be-out-in-2026-claims-questionable-report?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
