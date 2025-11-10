@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If it ever comes out](http://9gag.com/gag/aMVDWZM)
- - 😝 [Oh shit](http://9gag.com/gag/a5Qvyno)
- - 👉 [Lol....the way he is shocked you have two flippity flappies](http://9gag.com/gag/a4Pmm4p)<!-- MEMES:END -->
+ - 6️⃣ [They treat us as 5 years old kid](http://9gag.com/gag/a2v9jx9)
+ - 😝 [When US dollars made you forget](http://9gag.com/gag/an78dPn)
+ - 👉 [That&#39;s a bit silly](http://9gag.com/gag/an78WYE)<!-- MEMES:END -->
 
 --- 
 
