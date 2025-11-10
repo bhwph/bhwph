@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The Nightmare Before Christmas Echo Dot bundle is still around!](https://www.androidauthority.com/nightmare-before-christmas-echo-dot-bundle-deal-3614449/)
- - [Curious when you’ll get Gemini for Home access? Google just shared more info](https://www.androidauthority.com/gemini-on-google-home-rollout-3614460/)
- - [iPhone Air 2 won&#39;t be out in 2026, claims questionable report](https://appleinsider.com/articles/25/11/10/iphone-air-2-wont-be-out-in-2026-claims-questionable-report?utm_source=rss)<!-- TECH:END -->
+ - [CoreWeave reports Q3 revenue up 134% YoY to $1.36B, vs. $1.29B est., and a net loss of $110M, down from $360M a year ago; CRWV is up 164% since its March IPO &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251110/p31#a251110p31)
+ - [Paramount Plus is getting a price hike in early 2026](https://www.theverge.com/news/818019/paramount-plus-price-increase-us-2026)
+ - [Hot deal: The Samsung Smart Monitor M8 is the perfect monitor/TV hybrid!](https://www.androidauthority.com/samsung-smart-monitor-m8-m80d-deal-3614448/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
