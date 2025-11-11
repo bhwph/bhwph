@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [From the archives](http://9gag.com/gag/apRzz9p)
- - 😝 [Rotten Tomatoes scores](http://9gag.com/gag/agm6bLr)
- - 👉 [But I being poor have only my memes](http://9gag.com/gag/aW4PAQ3)<!-- MEMES:END -->
+ - 6️⃣ [But I being poor have only my memes](http://9gag.com/gag/aW4PAQ3)
+ - 😝 [Niceee](http://9gag.com/gag/a4PmB0A)
+ - 👉 [The cat&#39;s face](http://9gag.com/gag/aByjbBN)<!-- MEMES:END -->
 
 --- 
 
