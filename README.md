@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Damn time flies](http://9gag.com/gag/a9yZZYZ)
- - 😝 [Yup](http://9gag.com/gag/agm6ZOx)
- - 👉 [Daddy](http://9gag.com/gag/aMVDNQA)<!-- MEMES:END -->
+ - 😝 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
+ - 👉 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)<!-- MEMES:END -->
 
 --- 
 
