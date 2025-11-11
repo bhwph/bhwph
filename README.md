@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget Mac Mini, Dell Intel Core Ultra 5 Slim Desktop Hits Its Lowest Price Ahead of Black Friday](https://kotaku.com/prime-members-can-snag-the-dell-slim-desktop-ecs1250-for-580-but-the-deal-ends-midnight-2000633183)
- - [&#39;We want skate to be great&#39;: Full Circle is handing out condolence rewards to players affected by game-breaking bugs, but still hasn&#39;t actually fixed them](https://www.pcgamer.com/games/sports/we-want-skate-to-be-great-full-circle-is-handing-out-condolence-rewards-to-players-affected-by-game-breaking-bugs-but-still-hasnt-actually-fixed-them/)
- - [The Super Mario Galaxy Movie Direct Will Probably Reveal If Yoshi Talks Or Not](https://kotaku.com/the-super-mario-galaxy-movie-direct-will-probably-reveal-if-yoshi-talks-or-not-2000642905)<!-- GAME:END -->
+ - [Arc Raiders’ Ledge Grab Exploit Is Bad, Actually](https://kotaku.com/arc-raiders-ledge-grab-spaceport-exploit-movement-tech-2000642966)
+ - [JBL Selling the Charge 5 at Record Low Pricing, Now Undercuts No-Name Budget Bluetooth Speakers](https://kotaku.com/jbl-selling-charge-5-record-low-pricing-now-undercuts-no-name-budget-bluetooth-speakers-2000642927)
+ - [Obsidian is right: I want less romance in my RPGs, actually](https://www.pcgamer.com/games/rpg/obsidian-is-right-i-want-less-romance-in-my-rpgs-actually/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
