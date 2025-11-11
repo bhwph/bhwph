@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoreWeave reports Q3 revenue up 134% YoY to $1.36B, vs. $1.29B est., and a net loss of $110M, down from $360M a year ago; CRWV is up 164% since its March IPO &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251110/p31#a251110p31)
- - [Paramount Plus is getting a price hike in early 2026](https://www.theverge.com/news/818019/paramount-plus-price-increase-us-2026)
- - [Hot deal: The Samsung Smart Monitor M8 is the perfect monitor/TV hybrid!](https://www.androidauthority.com/samsung-smart-monitor-m8-m80d-deal-3614448/)<!-- TECH:END -->
+ - [Crypto exchange Gemini reports Q3 revenue up 106% YoY to $50.6M, vs. $46.2M est., net loss of $159.5M, up from $90.2M a year ago; GEMI drops 5%+ after hours &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/251110/p35#a251110p35)
+ - [Homepod mini marked as &#39;out of stock&#39; and &#39;discontinued&#39; yet again](https://appleinsider.com/articles/25/11/10/homepod-mini-marked-as-out-of-stock-and-discontinued-yet-again?utm_source=rss)
+ - [Meta introduces Omnilingual Automatic Speech Recognition, a suite of AI models providing automatic speech recognition capabilities for more than 1,600 languages &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251110/p34#a251110p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
