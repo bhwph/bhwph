@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru-based digital lending startup Finnable raised about $28.19M in August 2025 co-led by Z47 and TVS Capital, bringing its total raised to about $60.9M &lpar;Alenjith K Johny/The Economic Times&rpar;](http://www.techmeme.com/251111/p1#a251111p1)
- - [B&amp;H Photo Promo Codes and Deals for November 2025](https://www.wired.com/story/bh-photo-coupon/)
- - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)<!-- TECH:END -->
+ - [A major Chrome rival on Android just got a huge extension boost](https://www.androidauthority.com/microsoft-edge-chrome-extensions-upgrade-3614551/)
+ - [Google Play Store brings a better way to manage apps across all your devices](https://www.androidauthority.com/google-play-store-uninstall-button-3614548/)
+ - [Hackers are abusing Find Hub to track and wipe Android devices](https://www.androidauthority.com/hackers-google-find-hub-wipe-devices-3614535/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
