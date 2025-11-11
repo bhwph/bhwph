@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [But I being poor have only my memes](http://9gag.com/gag/aW4PAQ3)
- - 😝 [Niceee](http://9gag.com/gag/a4PmB0A)
- - 👉 [The cat&#39;s face](http://9gag.com/gag/aByjbBN)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s what friends are for](http://9gag.com/gag/an788gz)
+ - 😝 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)
+ - 👉 [This is actually genius](http://9gag.com/gag/aW4Peb4)<!-- MEMES:END -->
 
 --- 
 
