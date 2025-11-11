@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase confirms that it has called off acquisition talks with stablecoin infra startup BVNK; reports previously put the acquisition price around $2B &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251111/p33#a251111p33)
- - [The 50 Best Shows on Hulu, WIRED&#39;s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [This LG 34-inch Curved Smart Monitor is $50 off right now](https://www.androidauthority.com/lg-34-inch-curved-smart-monitor-deal-3614730/)<!-- TECH:END -->
+ - [China says the December 2020 theft of 127,272 BTC, now worth ~$13B, from Chinese mining pool LuBian is likely a &quot;state-level hacker operation&quot; led by the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/251111/p36#a251111p36)
+ - [This 4K projector is bright, bold, and not for bargain hunters](https://www.androidauthority.com/leica-cine-play-1-plus-launch-3614839/)
+ - [FYI: Some emulators on Android have a clever trick to unlock your phone’s performance](https://www.androidauthority.com/android-emulator-hack-3614776/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
