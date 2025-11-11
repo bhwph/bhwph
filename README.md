@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google adds live video sharing with emergency services in November update](https://www.androidauthority.com/google-live-video-emergency-calls-november-2025-play-services-update-3614522/)
- - [Google is cracking down on apps that secretly drain your battery](https://www.androidauthority.com/google-android-apps-wake-lock-battery-drain-3614511/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Nov. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-nov-11/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bengaluru-based digital lending startup Finnable raised about $28.19M in August 2025 co-led by Z47 and TVS Capital, bringing its total raised to about $60.9M &lpar;Alenjith K Johny/The Economic Times&rpar;](http://www.techmeme.com/251111/p1#a251111p1)
+ - [B&amp;H Photo Promo Codes and Deals for November 2025](https://www.wired.com/story/bh-photo-coupon/)
+ - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
