@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple made a $230 crossbody… sock](https://www.theverge.com/news/818328/apple-iphone-pocket-crossbody-knitted-sock-bag)
- - [World’s first Android 16 e-reader is here, and it fits in your pocket](https://www.androidauthority.com/viwoods-aipaper-reader-launch-3614515/)
- - [4 carriers you should sign up for instead of Mint Mobile](https://www.androidauthority.com/mint-mobile-alternatives-3601267/)<!-- TECH:END -->
+ - [Nebius signs a ~$3B, five-year deal to provide Meta with AI infrastructure and reports a $100M+ loss in Q3, up from a $39.7M loss in Q3 2024 &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/251111/p16#a251111p16)
+ - [Samsung brings a generative AI-powered Bixby to its TVs](https://www.theverge.com/news/818355/samsung-tvs-bixby-generative-ai-conversational)
+ - [Tractive Smart Pet Collar: An Inexpensive Way to Keep Tabs on Your Fur Baby](https://www.wired.com/review/tractive-smart-cat-tracker/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
