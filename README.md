@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
- - 😝 [Daddy](http://9gag.com/gag/aMVDNQA)
- - 👉 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)<!-- MEMES:END -->
+ - 6️⃣ [Worst memory](http://9gag.com/gag/a5QvyVE)
+ - 😝 [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
+ - 👉 [Daddy](http://9gag.com/gag/aMVDNQA)<!-- MEMES:END -->
 
 --- 
 
