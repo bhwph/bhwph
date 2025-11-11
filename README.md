@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When i told her we gonna eat canned sardines tonight](http://9gag.com/gag/aND8q6b)
- - 😝 [India number one](http://9gag.com/gag/adBrdzB)
+ - 6️⃣ [Daddy](http://9gag.com/gag/aMVDNQA)
+ - 😝 [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
  - 👉 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)<!-- MEMES:END -->
 
 --- 
