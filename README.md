@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arc Raiders’ Ledge Grab Exploit Is Bad, Actually](https://kotaku.com/arc-raiders-ledge-grab-spaceport-exploit-movement-tech-2000642966)
- - [JBL Selling the Charge 5 at Record Low Pricing, Now Undercuts No-Name Budget Bluetooth Speakers](https://kotaku.com/jbl-selling-charge-5-record-low-pricing-now-undercuts-no-name-budget-bluetooth-speakers-2000642927)
- - [Obsidian is right: I want less romance in my RPGs, actually](https://www.pcgamer.com/games/rpg/obsidian-is-right-i-want-less-romance-in-my-rpgs-actually/)<!-- GAME:END -->
+ - [Arc Raiders sells 4 million copies, making it &#39;the most successful global launch in Nexon&#39;s history&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-sells-4-million-copies-making-it-the-most-successful-global-launch-in-nexons-history/)
+ - [One Year Later, I’ve Forgotten I Even Own A PS5 Pro](https://kotaku.com/ps5-pro-review-one-year-later-worth-it-price-4k-games-2000642988)
+ - [CD Projekt &#39;hacked time and space&#39; to cast Charles Dance in The Witcher 3, because they needed an announcement before the countdown on their website reached zero](https://www.pcgamer.com/games/the-witcher/cd-projekt-hacked-time-and-space-to-cast-charles-dance-in-the-witcher-3-because-they-needed-an-announcement-before-the-countdown-on-their-website-reached-zero/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
