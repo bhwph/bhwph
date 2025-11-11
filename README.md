@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A major Chrome rival on Android just got a huge extension boost](https://www.androidauthority.com/microsoft-edge-chrome-extensions-upgrade-3614551/)
- - [Google Play Store brings a better way to manage apps across all your devices](https://www.androidauthority.com/google-play-store-uninstall-button-3614548/)
- - [Hackers are abusing Find Hub to track and wipe Android devices](https://www.androidauthority.com/hackers-google-find-hub-wipe-devices-3614535/)<!-- TECH:END -->
+ - [Apple made a $230 crossbody… sock](https://www.theverge.com/news/818328/apple-iphone-pocket-crossbody-knitted-sock-bag)
+ - [World’s first Android 16 e-reader is here, and it fits in your pocket](https://www.androidauthority.com/viwoods-aipaper-reader-launch-3614515/)
+ - [4 carriers you should sign up for instead of Mint Mobile](https://www.androidauthority.com/mint-mobile-alternatives-3601267/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
