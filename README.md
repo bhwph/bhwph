@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is actually genius](http://9gag.com/gag/aW4Peb4)
- - 😝 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
- - 👉 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)<!-- MEMES:END -->
+ - 6️⃣ [From the archives](http://9gag.com/gag/apRzz9p)
+ - 😝 [Rotten Tomatoes scores](http://9gag.com/gag/agm6bLr)
+ - 👉 [But I being poor have only my memes](http://9gag.com/gag/aW4PAQ3)<!-- MEMES:END -->
 
 --- 
 
