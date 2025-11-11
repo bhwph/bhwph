@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [HBO&#39;s V for Vendatta show needs to do one bold thing to succeed](https://www.polygon.com/hbo-v-for-vendetta-show-watchmen/)
- - [PS5 is &quot;only in the middle&quot; of its projected lifespan, Sony says](https://www.polygon.com/ps5-lifespan-2025-earnings-call/)
- - [How To Survive the Alien Swarm in Let Them Come: Onslaught, Out Today](https://news.xbox.com/en-us/2025/11/11/survive-the-alien-swarm-in-let-them-come-onslaught-out-today/)<!-- GAME:END -->
+ - [Fatal Frame II: Crimson Butterfly Remake launches March 12](https://blog.playstation.com/2025/11/11/fatal-frame-ii-crimson-butterfly-remake-launches-march-12/)
+ - [Can Kingdom Come: Deliverance 2 break into the GOTY fight?](https://www.polygon.com/video/kingdom-come-deliverance-2-goty-campaign/)
+ - [Fallout 4 interactive map](https://www.polygon.com/map/fallout-4-interactive-commonwealth-far-harbor-nuka-world-map-locations/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
