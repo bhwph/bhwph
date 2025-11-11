@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nebius signs a ~$3B, five-year deal to provide Meta with AI infrastructure and reports a $100M+ loss in Q3, up from a $39.7M loss in Q3 2024 &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/251111/p16#a251111p16)
- - [Samsung brings a generative AI-powered Bixby to its TVs](https://www.theverge.com/news/818355/samsung-tvs-bixby-generative-ai-conversational)
- - [Tractive Smart Pet Collar: An Inexpensive Way to Keep Tabs on Your Fur Baby](https://www.wired.com/review/tractive-smart-cat-tracker/)<!-- TECH:END -->
+ - [Microsoft AI CEO Mustafa Suleyman says his new superintelligence team will build &quot;frontier-grade research capability&quot; and Microsoft needs AI self-sufficiency &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/251111/p19#a251111p19)
+ - [The iPad Pro at 10: a decade of unrealized potential](https://www.theverge.com/tech/817939/ipad-pro-laptop-computer-2025)
+ - [I found ten amazing Pixel 10 accessories for under $25 each](https://www.androidauthority.com/pixel-10-accessories-csb-3614145/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
