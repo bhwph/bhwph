@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arc Raiders sells 4 million copies, making it &#39;the most successful global launch in Nexon&#39;s history&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-sells-4-million-copies-making-it-the-most-successful-global-launch-in-nexons-history/)
- - [One Year Later, I’ve Forgotten I Even Own A PS5 Pro](https://kotaku.com/ps5-pro-review-one-year-later-worth-it-price-4k-games-2000642988)
- - [CD Projekt &#39;hacked time and space&#39; to cast Charles Dance in The Witcher 3, because they needed an announcement before the countdown on their website reached zero](https://www.pcgamer.com/games/the-witcher/cd-projekt-hacked-time-and-space-to-cast-charles-dance-in-the-witcher-3-because-they-needed-an-announcement-before-the-countdown-on-their-website-reached-zero/)<!-- GAME:END -->
+ - [HBO&#39;s V for Vendatta show needs to do one bold thing to succeed](https://www.polygon.com/hbo-v-for-vendetta-show-watchmen/)
+ - [PS5 is &quot;only in the middle&quot; of its projected lifespan, Sony says](https://www.polygon.com/ps5-lifespan-2025-earnings-call/)
+ - [How To Survive the Alien Swarm in Let Them Come: Onslaught, Out Today](https://news.xbox.com/en-us/2025/11/11/survive-the-alien-swarm-in-let-them-come-onslaught-out-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
