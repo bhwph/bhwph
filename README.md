@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ex-PlayStation boss reckons &#39;growing confidence&#39; of Korean developers &#39;owe something to Stellar Blade&#39;s influence&#39;](https://www.pcgamer.com/games/action/ex-playstation-boss-reckons-growing-confidence-of-korean-developers-owe-something-to-stellar-blades-influence/)
- - [All Build a Roller Coaster codes for November 2025: Money and gear](https://www.pcgamer.com/roblox/build-a-roller-coaster-codes/)
- - [Halo Infinite&#39;s next major update will be its last](https://www.polygon.com/halo-infinite-final-update/)<!-- GAME:END -->
+ - [Forget Mac Mini, Dell Intel Core Ultra 5 Slim Desktop Hits Its Lowest Price Ahead of Black Friday](https://kotaku.com/prime-members-can-snag-the-dell-slim-desktop-ecs1250-for-580-but-the-deal-ends-midnight-2000633183)
+ - [&#39;We want skate to be great&#39;: Full Circle is handing out condolence rewards to players affected by game-breaking bugs, but still hasn&#39;t actually fixed them](https://www.pcgamer.com/games/sports/we-want-skate-to-be-great-full-circle-is-handing-out-condolence-rewards-to-players-affected-by-game-breaking-bugs-but-still-hasnt-actually-fixed-them/)
+ - [The Super Mario Galaxy Movie Direct Will Probably Reveal If Yoshi Talks Or Not](https://kotaku.com/the-super-mario-galaxy-movie-direct-will-probably-reveal-if-yoshi-talks-or-not-2000642905)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
