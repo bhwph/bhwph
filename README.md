@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CMF Watch 3 Pro drops back to its record-low price of just $79](https://www.androidauthority.com/cmf-watch-3-pro-deal-2-3614731/)
- - [Late to the party: Epic Games Launcher is finally Apple Silicon native](https://appleinsider.com/articles/25/11/11/late-to-the-party-epic-games-launcher-is-finally-apple-silicon-native?utm_source=rss)
- - [Launch in an F-18 from the USS Nimitz in the new Apple Vision Pro immersive experience](https://appleinsider.com/articles/25/11/11/launch-in-an-f-18-from-the-uss-nimitz-in-the-new-apple-vision-pro-immersive-experience?utm_source=rss)<!-- TECH:END -->
+ - [Coinbase confirms that it has called off acquisition talks with stablecoin infra startup BVNK; reports previously put the acquisition price around $2B &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251111/p33#a251111p33)
+ - [The 50 Best Shows on Hulu, WIRED&#39;s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [This LG 34-inch Curved Smart Monitor is $50 off right now](https://www.androidauthority.com/lg-34-inch-curved-smart-monitor-deal-3614730/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
