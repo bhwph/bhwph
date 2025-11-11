@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could make game controller that magnetically attaches to iPhone](https://appleinsider.com/articles/22/03/31/apple-could-make-game-controller-that-magnetically-attaches-to-iphone?utm_source=rss)
- - [This DOGE Whistleblower Is Running for Office](https://www.wired.com/story/doge-whistleblower-chuck-borges-running-for-political-office/)
- - [The 30 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)<!-- TECH:END -->
+ - [CMF Watch 3 Pro drops back to its record-low price of just $79](https://www.androidauthority.com/cmf-watch-3-pro-deal-2-3614731/)
+ - [Late to the party: Epic Games Launcher is finally Apple Silicon native](https://appleinsider.com/articles/25/11/11/late-to-the-party-epic-games-launcher-is-finally-apple-silicon-native?utm_source=rss)
+ - [Launch in an F-18 from the USS Nimitz in the new Apple Vision Pro immersive experience](https://appleinsider.com/articles/25/11/11/launch-in-an-f-18-from-the-uss-nimitz-in-the-new-apple-vision-pro-immersive-experience?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
