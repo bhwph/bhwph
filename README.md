@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Silksong&#39;s disastrous Chinese translation has received an official fan-made overhaul, and it&#39;s just been pushed live on PC with Patch 4](https://www.pcgamer.com/games/action/silksongs-disastrous-chinese-translation-has-received-an-official-fan-made-overhaul-and-its-just-been-pushed-live-on-pc-with-patch-4/)
- - [This Game Tests If People Know How Much Porn Characters Have On The Internet, And They’re Failing](https://kotaku.com/rule-34-rule34dle-guessing-game-stream-site-where-play-2000642575)
- - [Diablo 4 devs refuse to hint at the next expansion but urge fans to watch The Game Awards this year: &#39;Everyone should be watching it&#39;](https://www.pcgamer.com/games/rpg/diablo-4-devs-refuse-to-hint-at-the-next-expansion-but-urge-fans-to-watch-the-game-awards-this-year-everyone-should-be-watching-it/)<!-- GAME:END -->
+ - [Arc Raiders players crack its &#39;movement tech&#39; wide open by mastering the ledge grab](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-players-crack-its-movement-tech-wide-open-by-mastering-the-ledge-grab/)
+ - [Critical Role Campaign 4 finally shows more of Aramán, and it&#39;s a lesson in worldbuilding](https://www.polygon.com/critical-role-campaign-4-episode-5-world-araman-npcs/)
+ - [Tavern Keeper&#39;s item design tool is so good one player made a tabletop D&amp;D set where you can actually read the stats on the character sheets](https://www.pcgamer.com/games/sim/tavern-keepers-item-design-tool-is-so-good-one-player-made-a-tabletop-d-and-d-set-where-you-can-actually-read-the-stats-on-the-character-sheets/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
