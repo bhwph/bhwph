@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Daddy](http://9gag.com/gag/aMVDNQA)
- - 😝 [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
- - 👉 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)<!-- MEMES:END -->
+ - 6️⃣ [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
+ - 😝 [Daddy](http://9gag.com/gag/aMVDNQA)
+ - 👉 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)<!-- MEMES:END -->
 
 --- 
 
