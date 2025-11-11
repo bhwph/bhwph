@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI MPG 271QR X50 QD-OLED gaming monitor review](https://www.pcgamer.com/hardware/gaming-monitors/msi-mpg-271qr-x50-qd-oled-gaming-monitor-review/)
- - [Kinesis Gaming Freestyle Edge RGB Plus review](https://www.pcgamer.com/hardware/gaming-keyboards/kinesis-gaming-freestyle-edge-rgb-plus-review/)
- - [Arc Raiders players crack its &#39;movement tech&#39; wide open by mastering the ledge grab](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-players-crack-its-movement-tech-wide-open-by-mastering-the-ledge-grab/)<!-- GAME:END -->
+ - [Ex-PlayStation boss reckons &#39;growing confidence&#39; of Korean developers &#39;owe something to Stellar Blade&#39;s influence&#39;](https://www.pcgamer.com/games/action/ex-playstation-boss-reckons-growing-confidence-of-korean-developers-owe-something-to-stellar-blades-influence/)
+ - [All Build a Roller Coaster codes for November 2025: Money and gear](https://www.pcgamer.com/roblox/build-a-roller-coaster-codes/)
+ - [Halo Infinite&#39;s next major update will be its last](https://www.polygon.com/halo-infinite-final-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
