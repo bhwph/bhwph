@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Damn time flies](http://9gag.com/gag/a9yZZYZ)
+ - 6️⃣ [My taste in movies is truly something else](http://9gag.com/gag/a0ezzZL)
  - 😝 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
- - 👉 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)<!-- MEMES:END -->
+ - 👉 [Science be like](http://9gag.com/gag/ajPG3PR)<!-- MEMES:END -->
 
 --- 
 
