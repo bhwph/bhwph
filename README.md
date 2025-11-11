@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft AI CEO Mustafa Suleyman says his new superintelligence team will build &quot;frontier-grade research capability&quot; and Microsoft needs AI self-sufficiency &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/251111/p19#a251111p19)
- - [The iPad Pro at 10: a decade of unrealized potential](https://www.theverge.com/tech/817939/ipad-pro-laptop-computer-2025)
- - [I found ten amazing Pixel 10 accessories for under $25 each](https://www.androidauthority.com/pixel-10-accessories-csb-3614145/)<!-- TECH:END -->
+ - [Apple could make game controller that magnetically attaches to iPhone](https://appleinsider.com/articles/22/03/31/apple-could-make-game-controller-that-magnetically-attaches-to-iphone?utm_source=rss)
+ - [This DOGE Whistleblower Is Running for Office](https://www.wired.com/story/doge-whistleblower-chuck-borges-running-for-political-office/)
+ - [The 30 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
