@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Worst memory](http://9gag.com/gag/a5QvyVE)
- - 😝 [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
+ - 6️⃣ [Damn time flies](http://9gag.com/gag/a9yZZYZ)
+ - 😝 [Yup](http://9gag.com/gag/agm6ZOx)
  - 👉 [Daddy](http://9gag.com/gag/aMVDNQA)<!-- MEMES:END -->
 
 --- 
