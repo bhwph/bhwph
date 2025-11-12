@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China says the December 2020 theft of 127,272 BTC, now worth ~$13B, from Chinese mining pool LuBian is likely a &quot;state-level hacker operation&quot; led by the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/251111/p36#a251111p36)
- - [This 4K projector is bright, bold, and not for bargain hunters](https://www.androidauthority.com/leica-cine-play-1-plus-launch-3614839/)
- - [FYI: Some emulators on Android have a clever trick to unlock your phone’s performance](https://www.androidauthority.com/android-emulator-hack-3614776/)<!-- TECH:END -->
+ - [The UK proposes laws to protect public services from cyberattacks, including regulating companies providing services to private and public sector organizations &lpar;Catarina Demony/Reuters&rpar;](http://www.techmeme.com/251111/p40#a251111p40)
+ - [Sony Unveils 27-Inch, 240Hz PlayStation Monitor That Charges Your PS5 Controller](https://www.cnet.com/tech/gaming/sony-unveils-27-inch-240hz-playstation-monitor-that-charges-your-ps5-controller/#ftag=CAD590a51e)
+ - [You can now buy Sony&#39;s VR controllers for the Apple Vision Pro](https://appleinsider.com/articles/25/11/11/you-can-now-buy-sonys-vr-controllers-for-the-apple-vision-pro?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
