@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Wilds&#39; first Elder Dragon is finally landing in December along with some much-needed optimisation focused on reducing the game&#39;s ridiculous load on our poor CPUs](https://www.pcgamer.com/games/action/monster-hunter-wilds-first-elder-dragon-is-finally-landing-in-december-along-with-some-much-needed-optimisation-focused-on-reducing-the-games-ridiculous-load-on-our-poor-cpus/)
- - [Sony&#39;s new &#39;PlayStation&#39; gaming monitor is a relatively unexciting 27-inch 1440p model but it does have a DualSense charging hook](https://www.pcgamer.com/hardware/gaming-monitors/sonys-new-playstation-gaming-monitor-is-a-relatively-unexciting-27-inch-1440p-model-but-it-does-have-a-dualsense-charging-hook/)
- - [Coffee Talk will open the doors to its next instalment on March 5, taking us to the series&#39; most exciting location yet](https://www.pcgamer.com/games/sim/coffee-talk-will-open-the-doors-to-its-next-instalment-on-march-5-taking-us-to-the-series-most-exciting-location-yet/)<!-- GAME:END -->
+ - [The Super Mario Galaxy Movie&#39;s first trailer arrives at Nintendo Direct](https://www.polygon.com/super-mario-galaxy-movie-trailer-nintendo-direct/)
+ - [First Super Mario Galaxy Movie Trailer Shows Bowser Jr., Rosalina, And More](https://kotaku.com/mario-galaxy-movie-trailer-rosalina-bowser-jr-direct-2000643447)
+ - [Gore Verbiniski&#39;s new movie features AI zombies, time travel, and a giant horse](https://www.polygon.com/gore-verbinski-good-luck-have-fun-dont-die-trailer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
