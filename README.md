@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fatal Frame II: Crimson Butterfly Remake launches March 12](https://blog.playstation.com/2025/11/11/fatal-frame-ii-crimson-butterfly-remake-launches-march-12/)
- - [Can Kingdom Come: Deliverance 2 break into the GOTY fight?](https://www.polygon.com/video/kingdom-come-deliverance-2-goty-campaign/)
- - [Fallout 4 interactive map](https://www.polygon.com/map/fallout-4-interactive-commonwealth-far-harbor-nuka-world-map-locations/)<!-- GAME:END -->
+ - [EcoFlow Dumps Delta 2 Nearly Free on Amazon, 1800W Portable Power for Peanuts](https://kotaku.com/ecoflow-dumps-delta-2-nearly-free-on-amazon-1800w-portable-power-for-peanuts-2000643078)
+ - [Octopath Traveler 0 preview: novelty over tradition](https://www.polygon.com/octopath-traveler-0-preview/)
+ - [Dell Quietly Offloads 1TB i7 Laptop on Amazon &lpar;73% off&rpar;, While Official Site Stays Full Price](https://kotaku.com/dell-quietly-offloads-1tb-i7-laptop-on-amazon-73-off-while-official-site-stays-full-price-2000643068)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
