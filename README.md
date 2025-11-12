@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
- - 😝 [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)
- - 👉 [The situation in Italy](http://9gag.com/gag/aGy6qV7)<!-- MEMES:END -->
+ - 6️⃣ [A short and witty title does the trick.](http://9gag.com/gag/a2v9VRO)
+ - 😝 [Arguing on the internet is like running in the special Olympics, even if you win you are still retarded.](http://9gag.com/gag/a4Pm8Gm)
+ - 👉 [Amazonian](http://9gag.com/gag/agm6pDg)<!-- MEMES:END -->
 
 --- 
 
