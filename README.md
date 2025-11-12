@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
- - 😝 [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)
- - 👉 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)<!-- MEMES:END -->
+ - 6️⃣ [Wait, you mean I wasn&#39;t supposed to put these in the microwave this whole time](http://9gag.com/gag/ajPGjbw)
+ - 😝 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)
+ - 👉 [The situation in Italy](http://9gag.com/gag/aGy6qV7)<!-- MEMES:END -->
 
 --- 
 
