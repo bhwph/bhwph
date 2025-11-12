@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of 47,000 publicly shared ChatGPT conversations: ~10% related to emotional or mental health, ChatGPT exhibits a &quot;default to yes&quot; behavior, and more &lpar;Washington Post&rpar;](http://www.techmeme.com/251112/p14#a251112p14)
- - [Is a Robot Vacuum Worth It?](https://www.wired.com/story/is-a-robot-vacuum-worth-it/)
- - [Maryland-based Forterra, an autonomous military vehicle software startup founded in 2002, raised $238M, including $50M in debt, at a $1B+ valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/251112/p13#a251112p13)<!-- TECH:END -->
+ - [UN climate talks are getting weird](https://www.theverge.com/report/818223/un-climate-united-nations-climate-change-conference-cop30-ai-trade-energy-costs-are-getting-weird)
+ - [Indian investment app Groww raised ~$748M in its Indian IPO, closing up 29% and giving it a ~$9B market cap; Groww is the first Indian YC-backed startup to IPO &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251112/p19#a251112p19)
+ - [iPhone Fold: All the rumors about Apple&#39;s first foldable, and what it might look like](https://appleinsider.com/articles/25/11/12/iphone-fold-all-the-rumors-about-apples-first-foldable-and-what-it-might-look-like?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
