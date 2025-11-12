@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Anker Docking Station Featuring 14 Ports Hits an All-Time Low With Early Black Friday Discount Despite Being a Brand-New Model](https://kotaku.com/anker-prime-docking-station-feature-14-different-ports-now-going-for-75-off-2000643103)
- - [I&#39;ve never been so happy to be wrong: Marvel Rivals has turned Gambit into a Strategist that&#39;s focused on utility rather than just healing](https://www.pcgamer.com/games/third-person-shooter/ive-never-been-so-happy-to-be-wrong-marvel-rivals-has-turned-gambit-into-a-strategist-thats-focused-on-utility-rather-than-just-healing/)
- - [One of the great web novels is finally getting an anime in 2026](https://www.polygon.com/magic-repo-man-dumped-by-my-party-anime-annnounced-2026/)<!-- GAME:END -->
+ - [What time does the Arc Raiders North Line update release?](https://www.polygon.com/arc-raiders-north-line-update-release-time-cet/)
+ - [Will there be a Chainsaw Man season 2? Here’s everything we know so far](https://www.polygon.com/chainsaw-man-season-2-everything-we-know-release-date/)
+ - [Mario Kart World will never win Game of the Year](https://www.polygon.com/video/mario-kart-world-goty-2025-never/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
