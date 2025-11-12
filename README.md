@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Chinese government is intervening in how SMIC allocates its chip output, prioritizing Huawei amid US export restrictions on advanced chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251111/p42#a251111p42)
- - [Nova Launcher just got another update despite being ‘dead’](https://www.androidauthority.com/nova-launcher-8-1-6-update-3614883/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 12, #415](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-12-415/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nomad Coupons: 80% Off](https://www.wired.com/story/nomad-discount-code/)
+ - [The UK proposes an amendment to the Crime and Policing Bill allowing &quot;authorized testers&quot; to proactively assess AI models for their ability to generate CSAM &lpar;BBC&rpar;](http://www.techmeme.com/251112/p1#a251112p1)
+ - [eBay Coupon Codes and Deals: Up to 60% Off Select Items](https://www.wired.com/story/ebay-coupon-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
