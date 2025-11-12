@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Phil Spencer reminds everyone that Xbox is &#39;one of the largest publishers on Steam&#39; as he congratulates Valve on its new hardware with all the enthusiasm of a man paying his taxes](https://www.pcgamer.com/games/phil-spencer-reminds-everyone-that-xbox-is-one-of-the-largest-publishers-on-steam-as-he-congratulates-valve-on-its-new-hardware-with-all-the-enthusiasm-of-a-man-paying-his-taxes/)
- - [Valve is all over Arm: SteamOS launching for Arm alongside the Steam Frame, new FEX translation layer for x86 and Arm, and Arm games are coming to Steam](https://www.pcgamer.com/hardware/vr-hardware/steamos-launching-for-arm-fex-translation-layer/)
- - [Valve is following the Nintendo hardware playbook with Steam Machine](https://www.polygon.com/valve-steam-machine-cube-design-nintendo-gamecube-size/)<!-- GAME:END -->
+ - [How to collect dangerous objects in a donut storm in Fortnite](https://www.polygon.com/fortnite-collect-dangerous-objects-donut-storm/)
+ - [Half-Life 3 rumors swirl in the wake of Valve&#39;s Steam Machine announcement](https://www.polygon.com/steam-machine-announcement-revives-half-life-3-rumors/)
+ - [Where Winds Meet release time in your time zone](https://www.polygon.com/where-winds-meet-release-time-predownload-est-pst/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
