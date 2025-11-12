@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s what friends are for](http://9gag.com/gag/an788gz)
- - 😝 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)
- - 👉 [This is actually genius](http://9gag.com/gag/aW4Peb4)<!-- MEMES:END -->
+ - 6️⃣ [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
+ - 😝 [This is actually genius](http://9gag.com/gag/aW4Peb4)
+ - 👉 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)<!-- MEMES:END -->
 
 --- 
 
