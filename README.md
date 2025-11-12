@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad Coupons: 80% Off](https://www.wired.com/story/nomad-discount-code/)
- - [The UK proposes an amendment to the Crime and Policing Bill allowing &quot;authorized testers&quot; to proactively assess AI models for their ability to generate CSAM &lpar;BBC&rpar;](http://www.techmeme.com/251112/p1#a251112p1)
- - [eBay Coupon Codes and Deals: Up to 60% Off Select Items](https://www.wired.com/story/ebay-coupon-code/)<!-- TECH:END -->
+ - [NotebookLM’s most beloved feature is coming to Google Drive](https://www.androidauthority.com/google-drive-pdf-notebooklm-audio-overview-3614908/)
+ - [Big AI-infused changes are coming to Pixel notifications — are you onboard?](https://www.androidauthority.com/pixel-notification-organizer-open-thread-3614914/)
+ - [HBO Max Promo Code: 50% Off | November 2025](https://www.wired.com/story/max-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
