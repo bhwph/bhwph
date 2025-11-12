@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My new, new favorite deep Windows lore: in 2004 Microsoft got caught shipping Windows XP with audio files made using cracked software](https://www.pcgamer.com/hardware/my-new-new-favorite-deep-windows-lore-in-2004-microsoft-got-caught-shipping-windows-xp-with-audio-files-made-using-cracked-software/)
- - [This 50-Inch 4K Fire TV Suddenly Drops 40% Off, Amazon Clears Stock for Pocket Change](https://kotaku.com/this-50-inch-4k-fire-tv-suddenly-drops-40-off-amazon-clears-stock-for-pocket-change-2000643083)
- - [EcoFlow Dumps Delta 2 Nearly Free on Amazon, 1800W Portable Power for Peanuts](https://kotaku.com/ecoflow-dumps-delta-2-nearly-free-on-amazon-1800w-portable-power-for-peanuts-2000643078)<!-- GAME:END -->
+ - [Monster Hunter Wilds&#39; first Elder Dragon is finally landing in December along with some much-needed optimisation focused on reducing the game&#39;s ridiculous load on our poor CPUs](https://www.pcgamer.com/games/action/monster-hunter-wilds-first-elder-dragon-is-finally-landing-in-december-along-with-some-much-needed-optimisation-focused-on-reducing-the-games-ridiculous-load-on-our-poor-cpus/)
+ - [Sony&#39;s new &#39;PlayStation&#39; gaming monitor is a relatively unexciting 27-inch 1440p model but it does have a DualSense charging hook](https://www.pcgamer.com/hardware/gaming-monitors/sonys-new-playstation-gaming-monitor-is-a-relatively-unexciting-27-inch-1440p-model-but-it-does-have-a-dualsense-charging-hook/)
+ - [Coffee Talk will open the doors to its next instalment on March 5, taking us to the series&#39; most exciting location yet](https://www.pcgamer.com/games/sim/coffee-talk-will-open-the-doors-to-its-next-instalment-on-march-5-taking-us-to-the-series-most-exciting-location-yet/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
