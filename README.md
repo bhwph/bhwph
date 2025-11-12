@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does the Arc Raiders North Line update release?](https://www.polygon.com/arc-raiders-north-line-update-release-time-cet/)
- - [Will there be a Chainsaw Man season 2? Here’s everything we know so far](https://www.polygon.com/chainsaw-man-season-2-everything-we-know-release-date/)
- - [Mario Kart World will never win Game of the Year](https://www.polygon.com/video/mario-kart-world-goty-2025-never/)<!-- GAME:END -->
+ - [Phil Spencer reminds everyone that Xbox is &#39;one of the largest publishers on Steam&#39; as he congratulates Valve on its new hardware with all the enthusiasm of a man paying his taxes](https://www.pcgamer.com/games/phil-spencer-reminds-everyone-that-xbox-is-one-of-the-largest-publishers-on-steam-as-he-congratulates-valve-on-its-new-hardware-with-all-the-enthusiasm-of-a-man-paying-his-taxes/)
+ - [Valve is all over Arm: SteamOS launching for Arm alongside the Steam Frame, new FEX translation layer for x86 and Arm, and Arm games are coming to Steam](https://www.pcgamer.com/hardware/vr-hardware/steamos-launching-for-arm-fex-translation-layer/)
+ - [Valve is following the Nintendo hardware playbook with Steam Machine](https://www.polygon.com/valve-steam-machine-cube-design-nintendo-gamecube-size/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
