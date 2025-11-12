@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Super Mario Galaxy Movie&#39;s first trailer arrives at Nintendo Direct](https://www.polygon.com/super-mario-galaxy-movie-trailer-nintendo-direct/)
- - [First Super Mario Galaxy Movie Trailer Shows Bowser Jr., Rosalina, And More](https://kotaku.com/mario-galaxy-movie-trailer-rosalina-bowser-jr-direct-2000643447)
- - [Gore Verbiniski&#39;s new movie features AI zombies, time travel, and a giant horse](https://www.polygon.com/gore-verbinski-good-luck-have-fun-dont-die-trailer/)<!-- GAME:END -->
+ - [This Anker Docking Station Featuring 14 Ports Hits an All-Time Low With Early Black Friday Discount Despite Being a Brand-New Model](https://kotaku.com/anker-prime-docking-station-feature-14-different-ports-now-going-for-75-off-2000643103)
+ - [I&#39;ve never been so happy to be wrong: Marvel Rivals has turned Gambit into a Strategist that&#39;s focused on utility rather than just healing](https://www.pcgamer.com/games/third-person-shooter/ive-never-been-so-happy-to-be-wrong-marvel-rivals-has-turned-gambit-into-a-strategist-thats-focused-on-utility-rather-than-just-healing/)
+ - [One of the great web novels is finally getting an anime in 2026](https://www.polygon.com/magic-repo-man-dumped-by-my-party-anime-annnounced-2026/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
