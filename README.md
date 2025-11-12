@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
- - 😝 [This is actually genius](http://9gag.com/gag/aW4Peb4)
- - 👉 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)<!-- MEMES:END -->
+ - 6️⃣ [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
+ - 😝 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
+ - 👉 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)<!-- MEMES:END -->
 
 --- 
 
