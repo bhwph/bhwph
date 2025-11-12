@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve plans to launch Steam Frame, a VR headset with a Snapdragon 8 Gen 3 chip for streaming games from a PC or playing Windows games locally, in 2026 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251112/p33#a251112p33)
- - [Valve unveils a new Steam Machine, a cube-shaped gaming PC with SteamOS, a semi-custom AMD Zen 4 CPU and AMD RDNA 3 GPU, and 16GB of RAM, expected in early 2026 &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251112/p32#a251112p32)
- - [Valve has no news about Steam Deck 2](https://www.theverge.com/news/818313/valve-has-no-news-about-a-steam-deck-2)<!-- TECH:END -->
+ - [Jason Momoa &amp; Kurt Sutter steer Apple TV toward darker prestige drama with &#39;Nomad&#39;](https://appleinsider.com/articles/25/11/12/jason-momoa-kurt-sutter-steer-apple-tv-toward-darker-prestige-drama-with-nomad?utm_source=rss)
+ - [Microsoft’s Surface Laptop Is Marked Down by $350](https://www.wired.com/story/surface-laptop-deal-1125/)
+ - [We tried Valve’s new VR headset, PC, and controller — ask us anything!](https://www.theverge.com/games/818113/valve-steam-frame-machine-controller-vr-headset-pc-ask-us-anything-ama)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
