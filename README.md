@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jason Momoa &amp; Kurt Sutter steer Apple TV toward darker prestige drama with &#39;Nomad&#39;](https://appleinsider.com/articles/25/11/12/jason-momoa-kurt-sutter-steer-apple-tv-toward-darker-prestige-drama-with-nomad?utm_source=rss)
- - [Microsoft’s Surface Laptop Is Marked Down by $350](https://www.wired.com/story/surface-laptop-deal-1125/)
- - [We tried Valve’s new VR headset, PC, and controller — ask us anything!](https://www.theverge.com/games/818113/valve-steam-frame-machine-controller-vr-headset-pc-ask-us-anything-ama)<!-- TECH:END -->
+ - [Former Twitter CEO Parag Agrawal&#39;s Parallel Web Systems, which is building tools for AI agents to search the web, raised a $100M Series A at a $740M valuation &lpar;Tom Dotan/Newcomer&rpar;](http://www.techmeme.com/251112/p42#a251112p42)
+ - [Google’s November Android Canary release is out now for the testing elite](https://www.androidauthority.com/android-canary-2511-3615292/)
+ - [DHS Kept Chicago Police Records for Months in Violation of Domestic Espionage Rules](https://www.wired.com/story/dhs-kept-chicago-police-records-for-months-in-violation-of-domestic-espionage-rules/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
