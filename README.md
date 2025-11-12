@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia&#39;s spy chief said Chinese state hackers probed telecom networks and critical infrastructure; Australia lost $8B+ last year to espionage &lpar;Kirsty Needham/Reuters&rpar;](http://www.techmeme.com/251111/p41#a251111p41)
- - [Octopath Traveler 0 First Impressions: New Tricks, With a Little Less Soul](https://www.cnet.com/tech/gaming/octopath-traveler-0-first-impressions-new-tricks-with-a-little-less-soul/#ftag=CAD590a51e)
- - [November Nights Are Dazzling With These 3 Meteor Showers. How to Watch Like a Pro](https://www.cnet.com/science/space/november-nights-are-dazzling-with-these-three-meteor-showers-how-to-watch-like-a-pro/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the Chinese government is intervening in how SMIC allocates its chip output, prioritizing Huawei amid US export restrictions on advanced chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251111/p42#a251111p42)
+ - [Nova Launcher just got another update despite being ‘dead’](https://www.androidauthority.com/nova-launcher-8-1-6-update-3614883/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 12, #415](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-12-415/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
