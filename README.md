@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UN climate talks are getting weird](https://www.theverge.com/report/818223/un-climate-united-nations-climate-change-conference-cop30-ai-trade-energy-costs-are-getting-weird)
- - [Indian investment app Groww raised ~$748M in its Indian IPO, closing up 29% and giving it a ~$9B market cap; Groww is the first Indian YC-backed startup to IPO &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251112/p19#a251112p19)
- - [iPhone Fold: All the rumors about Apple&#39;s first foldable, and what it might look like](https://appleinsider.com/articles/25/11/12/iphone-fold-all-the-rumors-about-apples-first-foldable-and-what-it-might-look-like?utm_source=rss)<!-- TECH:END -->
+ - [Waymo becomes the first company to offer driverless rides on freeways, launching 24/7 services in San Francisco, Phoenix, and Los Angeles for users who opt in &lpar;Zoe Thomas/Bloomberg&rpar;](http://www.techmeme.com/251112/p26#a251112p26)
+ - [The Smart Pro S is go! TrimUI’s next handheld is up for pre-order](https://www.androidauthority.com/trimui-smart-pro-s-pre-orders-3615046/)
+ - [Analogue says its modernized N64 is finally, finally shipping](https://www.androidauthority.com/analogue-3d-pre-orders-shipping-3615049/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
