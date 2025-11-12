@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
- - 😝 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
- - 👉 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)<!-- MEMES:END -->
+ - 6️⃣ [From the archives](http://9gag.com/gag/apRzz9p)
+ - 😝 [Niceee](http://9gag.com/gag/a4PmB0A)
+ - 👉 [Rotten Tomatoes scores](http://9gag.com/gag/agm6bLr)<!-- MEMES:END -->
 
 --- 
 
