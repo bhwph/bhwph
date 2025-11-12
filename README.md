@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK proposes laws to protect public services from cyberattacks, including regulating companies providing services to private and public sector organizations &lpar;Catarina Demony/Reuters&rpar;](http://www.techmeme.com/251111/p40#a251111p40)
- - [Sony Unveils 27-Inch, 240Hz PlayStation Monitor That Charges Your PS5 Controller](https://www.cnet.com/tech/gaming/sony-unveils-27-inch-240hz-playstation-monitor-that-charges-your-ps5-controller/#ftag=CAD590a51e)
- - [You can now buy Sony&#39;s VR controllers for the Apple Vision Pro](https://appleinsider.com/articles/25/11/11/you-can-now-buy-sonys-vr-controllers-for-the-apple-vision-pro?utm_source=rss)<!-- TECH:END -->
+ - [Australia&#39;s spy chief said Chinese state hackers probed telecom networks and critical infrastructure; Australia lost $8B+ last year to espionage &lpar;Kirsty Needham/Reuters&rpar;](http://www.techmeme.com/251111/p41#a251111p41)
+ - [Octopath Traveler 0 First Impressions: New Tricks, With a Little Less Soul](https://www.cnet.com/tech/gaming/octopath-traveler-0-first-impressions-new-tricks-with-a-little-less-soul/#ftag=CAD590a51e)
+ - [November Nights Are Dazzling With These 3 Meteor Showers. How to Watch Like a Pro](https://www.cnet.com/science/space/november-nights-are-dazzling-with-these-three-meteor-showers-how-to-watch-like-a-pro/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
