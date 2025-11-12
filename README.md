@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A short and witty title does the trick.](http://9gag.com/gag/a2v9VRO)
- - 😝 [Arguing on the internet is like running in the special Olympics, even if you win you are still retarded.](http://9gag.com/gag/a4Pm8Gm)
- - 👉 [Amazonian](http://9gag.com/gag/agm6pDg)<!-- MEMES:END -->
+ - 6️⃣ [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
+ - 😝 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)
+ - 👉 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)<!-- MEMES:END -->
 
 --- 
 
