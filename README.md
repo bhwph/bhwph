@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s time Google lets us customize Maps on Android Auto, colors and all](https://www.androidauthority.com/android-auto-google-maps-customization-3614347/)
- - [This Is the Platform Google Claims Is Behind a &#39;Staggering’ Scam Text Operation](https://www.wired.com/story/lighthouse-google-lawsuit-scam-text-messages/)
- - [Google is trying to take down a group sending you all those spammy texts](https://www.theverge.com/news/818554/google-lighthouse-text-spam-lawsuit)<!-- TECH:END -->
+ - [An analysis of 47,000 publicly shared ChatGPT conversations: ~10% related to emotional or mental health, ChatGPT exhibits a &quot;default to yes&quot; behavior, and more &lpar;Washington Post&rpar;](http://www.techmeme.com/251112/p14#a251112p14)
+ - [Is a Robot Vacuum Worth It?](https://www.wired.com/story/is-a-robot-vacuum-worth-it/)
+ - [Maryland-based Forterra, an autonomous military vehicle software startup founded in 2002, raised $238M, including $50M in debt, at a $1B+ valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/251112/p13#a251112p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
