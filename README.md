@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo becomes the first company to offer driverless rides on freeways, launching 24/7 services in San Francisco, Phoenix, and Los Angeles for users who opt in &lpar;Zoe Thomas/Bloomberg&rpar;](http://www.techmeme.com/251112/p26#a251112p26)
- - [The Smart Pro S is go! TrimUI’s next handheld is up for pre-order](https://www.androidauthority.com/trimui-smart-pro-s-pre-orders-3615046/)
- - [Analogue says its modernized N64 is finally, finally shipping](https://www.androidauthority.com/analogue-3d-pre-orders-shipping-3615049/)<!-- TECH:END -->
+ - [Valve plans to launch Steam Frame, a VR headset with a Snapdragon 8 Gen 3 chip for streaming games from a PC or playing Windows games locally, in 2026 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251112/p33#a251112p33)
+ - [Valve unveils a new Steam Machine, a cube-shaped gaming PC with SteamOS, a semi-custom AMD Zen 4 CPU and AMD RDNA 3 GPU, and 16GB of RAM, expected in early 2026 &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251112/p32#a251112p32)
+ - [Valve has no news about Steam Deck 2](https://www.theverge.com/news/818313/valve-has-no-news-about-a-steam-deck-2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
