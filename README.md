@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [From the archives](http://9gag.com/gag/apRzz9p)
- - 😝 [Niceee](http://9gag.com/gag/a4PmB0A)
- - 👉 [Rotten Tomatoes scores](http://9gag.com/gag/agm6bLr)<!-- MEMES:END -->
+ - 6️⃣ [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)
+ - 😝 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)
+ - 👉 [The situation in Italy](http://9gag.com/gag/aGy6qV7)<!-- MEMES:END -->
 
 --- 
 
