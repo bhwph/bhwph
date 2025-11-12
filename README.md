@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NotebookLM’s most beloved feature is coming to Google Drive](https://www.androidauthority.com/google-drive-pdf-notebooklm-audio-overview-3614908/)
- - [Big AI-infused changes are coming to Pixel notifications — are you onboard?](https://www.androidauthority.com/pixel-notification-organizer-open-thread-3614914/)
- - [HBO Max Promo Code: 50% Off | November 2025](https://www.wired.com/story/max-promo-code/)<!-- TECH:END -->
+ - [It’s time Google lets us customize Maps on Android Auto, colors and all](https://www.androidauthority.com/android-auto-google-maps-customization-3614347/)
+ - [This Is the Platform Google Claims Is Behind a &#39;Staggering’ Scam Text Operation](https://www.wired.com/story/lighthouse-google-lawsuit-scam-text-messages/)
+ - [Google is trying to take down a group sending you all those spammy texts](https://www.theverge.com/news/818554/google-lighthouse-text-spam-lawsuit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
