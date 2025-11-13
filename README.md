@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jeffrey Epstein Claimed Intimate Knowledge of Donald Trump’s Views in Texts With Bill Gates Adviser](https://www.wired.com/story/jeffrey-epstein-claimed-intimate-knowledge-of-donald-trumps-views-in-texts-with-bill-gates-adviser/)
- - [Cursor says it has crossed $1B in annualized revenue, has 300+ employees, and its in-house models &quot;generate more code than almost any other LLMs in the world&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251113/p46#a251113p46)
- - [A new report claims Verizon will soon cut a staggering 15,000 jobs](https://www.androidauthority.com/verizon-job-cut-3615750/)<!-- TECH:END -->
+ - [Apple TV subscribers will get Major League Soccer games for free in 2026](https://appleinsider.com/articles/25/11/13/apple-tv-subscribers-will-get-major-league-soccer-games-for-free-in-2026?utm_source=rss)
+ - [StubHub reports Q3 revenue up 8% YoY to $468.1M, vs. $452M est., gross merchandise sales up 11% to $2.43B; STUB drops 5%+ after hours &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251113/p52#a251113p52)
+ - [Maryland will use Claude across its agencies to help residents apply for food aid, Medicaid, and more, and deploy Percepta tools to speed up housing permits &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/251113/p51#a251113p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
