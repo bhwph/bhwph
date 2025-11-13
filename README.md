@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
- - 😝 [An Islamic regime cleric in Iran tried to secretly film a woman breastfeeding her child and not wearing a hijab at a hospital, with the intention of having her arrested later. So all the other women taught him a lesson!](http://9gag.com/gag/aYQZ5K7)
- - 👉 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)<!-- MEMES:END -->
+ - 6️⃣ [The situation in Italy](http://9gag.com/gag/aGy6qV7)
+ - 😝 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
+ - 👉 [Women](http://9gag.com/gag/aMVD68X)<!-- MEMES:END -->
 
 --- 
 
