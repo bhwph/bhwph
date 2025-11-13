@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Indian messaging app Arattai, which officials are backing as a domestic WhatsApp alternative; Arattai maker Zoho says it had 350K sign-ups in October &lpar;Financial Times&rpar;](http://www.techmeme.com/251113/p20#a251113p20)
- - [Apple Stores extend return policy into January for holiday buyers](https://appleinsider.com/articles/25/11/13/apple-stores-extend-return-policy-into-january-for-holiday-buyers?utm_source=rss)
- - [Nothing Phone &lpar;3a&rpar; Lite Review: Bloating the Brand](https://www.wired.com/review/nothing-phone-3a-lite/)<!-- TECH:END -->
+ - [Apple is about to get a financial windfall from China WeChat Mini users](https://appleinsider.com/articles/25/11/13/apple-is-about-to-get-a-financial-windfall-from-china-wechat-mini-users?utm_source=rss)
+ - [The long-delayed Analogue 3D is shipping later this month](https://www.theverge.com/news/819903/analogue-3d-nintendo-64-console-ship-date-november-18)
+ - [Dresden-based chip startup Ferroelectric Memory raised €100M, including €77M equity led by HV Capital and DTCF, to commercialize energy-saving memory chips &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/251113/p24#a251113p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
