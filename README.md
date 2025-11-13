@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The situation in Italy](http://9gag.com/gag/aGy6qV7)
- - 😝 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
- - 👉 [Women](http://9gag.com/gag/aMVD68X)<!-- MEMES:END -->
+ - 6️⃣ [The missing plot](http://9gag.com/gag/aAyqAro)
+ - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
+ - 👉 [The situation in Italy](http://9gag.com/gag/aGy6qV7)<!-- MEMES:END -->
 
 --- 
 
