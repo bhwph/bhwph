@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The situation in Italy](http://9gag.com/gag/aGy6qV7)
- - 😝 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
- - 👉 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)<!-- MEMES:END -->
+ - 6️⃣ [Sheesh...](http://9gag.com/gag/azxovBZ)
+ - 😝 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
+ - 👉 [Amazonian](http://9gag.com/gag/agm6pDg)<!-- MEMES:END -->
 
 --- 
 
