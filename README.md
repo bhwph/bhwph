@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The missing plot](http://9gag.com/gag/aAyqAro)
+ - 6️⃣ [Philosophy](http://9gag.com/gag/a4Pmy5m)
  - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
- - 👉 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)<!-- MEMES:END -->
+ - 👉 [The missing plot](http://9gag.com/gag/aAyqAro)<!-- MEMES:END -->
 
 --- 
 
