@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
- - 😝 [Philosophy](http://9gag.com/gag/a4Pmy5m)
- - 👉 [The missing plot](http://9gag.com/gag/aAyqAro)<!-- MEMES:END -->
+ - 6️⃣ [Probabilities.](http://9gag.com/gag/a6Z462q)
+ - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
+ - 👉 [In 2007, a home improvement television show literally blew up this family&#39;s house before rebuilding it.](http://9gag.com/gag/abAKw5O)<!-- MEMES:END -->
 
 --- 
 
