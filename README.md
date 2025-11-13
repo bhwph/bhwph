@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
- - 😝 [Sheesh...](http://9gag.com/gag/azxovBZ)
- - 👉 [Women](http://9gag.com/gag/aMVD68X)<!-- MEMES:END -->
+ - 6️⃣ [The situation in Italy](http://9gag.com/gag/aGy6qV7)
+ - 😝 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)
+ - 👉 [Sheesh...](http://9gag.com/gag/azxovBZ)<!-- MEMES:END -->
 
 --- 
 
