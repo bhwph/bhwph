@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Red Dead Redemption coming to Switch 2, PS5, and Xbox Series X with enhancements](https://www.polygon.com/red-dead-redemption-ps5-xbox-nintendo-switch-2/)
- - [Crystal Dynamics Says ‘Painful’ Layoffs Required To ‘Optimize’ Development For Next Tomb Raider](https://kotaku.com/crystal-dynamics-tomb-raider-open-world-layoffs-2000644117)
- - [Dispatch: The Kotaku Review](https://kotaku.com/dispatch-review-adhoc-studios-all-8-episodes-finale-2000644106)<!-- GAME:END -->
+ - [I can&#39;t live without the Steam Deck&#39;s trackpads anymore, and I hope the Steam Controller forces the competition to adopt them](https://www.pcgamer.com/hardware/game-pads/i-cant-live-without-the-steam-decks-trackpads-anymore-and-i-hope-the-steam-controller-forces-the-competition-to-adopt-them/)
+ - [&#39;Do people even go to the main menu anymore in their games?&#39; The Outer Worlds 2&#39;s player-roasting main menu was almost sunk by console gamer habits](https://www.pcgamer.com/games/rpg/do-people-even-go-to-the-main-menu-anymore-in-their-games-the-outer-worlds-2s-player-roasting-main-menu-was-almost-sunk-by-console-gamer-habits/)
+ - [For the third time this year, Crystal Dynamics is making layoffs: Nearly 30 people are being put out of work &#39;to optimize the continued development of our flagship Tomb Raider game&#39;](https://www.pcgamer.com/gaming-industry/for-the-third-time-this-year-crystal-dynamics-is-making-layoffs-nearly-30-people-are-being-put-out-of-work-to-optimize-the-continued-development-of-our-flagship-tomb-raider-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
