@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The situation in Italy](http://9gag.com/gag/aGy6qV7)
- - 😝 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)
- - 👉 [Sheesh...](http://9gag.com/gag/azxovBZ)<!-- MEMES:END -->
+ - 6️⃣ [Yes, yes moooooor!](http://9gag.com/gag/a87Q9b6)
+ - 😝 [Witnessing this incredible talent is truly inspiring](http://9gag.com/gag/aoyAo02)
+ - 👉 [An Islamic regime cleric in Iran tried to secretly film a woman breastfeeding her child and not wearing a hijab at a hospital, with the intention of having her arrested later. So all the other women taught him a lesson!](http://9gag.com/gag/aYQZ5K7)<!-- MEMES:END -->
 
 --- 
 
