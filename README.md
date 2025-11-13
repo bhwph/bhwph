@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is about to get a financial windfall from China WeChat Mini users](https://appleinsider.com/articles/25/11/13/apple-is-about-to-get-a-financial-windfall-from-china-wechat-mini-users?utm_source=rss)
- - [The long-delayed Analogue 3D is shipping later this month](https://www.theverge.com/news/819903/analogue-3d-nintendo-64-console-ship-date-november-18)
- - [Dresden-based chip startup Ferroelectric Memory raised €100M, including €77M equity led by HV Capital and DTCF, to commercialize energy-saving memory chips &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/251113/p24#a251113p24)<!-- TECH:END -->
+ - [Spotify updates shuffle to prioritize variety over strict randomness](https://www.androidauthority.com/spotify-updates-shuffle-3615645/)
+ - [LinkedIn rolls out AI-powered people search to premium users in the US, with plans to expand it to other countries in the coming months &lpar;TechCrunch&rpar;](http://www.techmeme.com/251113/p31#a251113p31)
+ - [The 34 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
