@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Red Queen Bio, spun out of mRNA therapeutics company Helix Nano to focus on preventing AI-enabled bioweapons development, raised a $15M seed led by OpenAI &lpar;Deepa Seetharaman/Reuters&rpar;](http://www.techmeme.com/251113/p43#a251113p43)
- - [The UK CAT refuses Apple permission to appeal a ruling that it abused its dominance by charging unfairly high App Store fees; a lawyer calculates damages at £1B &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/251113/p42#a251113p42)
- - [Apple launches new Mini App Partner Program](https://appleinsider.com/articles/25/11/13/apple-launches-new-mini-app-partner-program?utm_source=rss)<!-- TECH:END -->
+ - [Jeffrey Epstein Claimed Intimate Knowledge of Donald Trump’s Views in Texts With Bill Gates Adviser](https://www.wired.com/story/jeffrey-epstein-claimed-intimate-knowledge-of-donald-trumps-views-in-texts-with-bill-gates-adviser/)
+ - [Cursor says it has crossed $1B in annualized revenue, has 300+ employees, and its in-house models &quot;generate more code than almost any other LLMs in the world&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251113/p46#a251113p46)
+ - [A new report claims Verizon will soon cut a staggering 15,000 jobs](https://www.androidauthority.com/verizon-job-cut-3615750/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
