@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to collect dangerous objects in a donut storm in Fortnite](https://www.polygon.com/fortnite-collect-dangerous-objects-donut-storm/)
- - [Half-Life 3 rumors swirl in the wake of Valve&#39;s Steam Machine announcement](https://www.polygon.com/steam-machine-announcement-revives-half-life-3-rumors/)
- - [Where Winds Meet release time in your time zone](https://www.polygon.com/where-winds-meet-release-time-predownload-est-pst/)<!-- GAME:END -->
+ - [Galaxy Buds 3 Pro With AI Features Are Going for Pennies, Amazon Sets a New All-Time Low](https://kotaku.com/galaxy-buds-3-pro-with-ai-features-are-going-for-pennies-amazon-sets-a-new-all-time-low-2000643596)
+ - [Looks like it&#39;s Tencent&#39;s turn to start turning off the money faucet for Western studios, as Bloodhunt developer Sharkmob says layoffs are coming](https://www.pcgamer.com/gaming-industry/looks-like-its-tencents-turn-to-start-turning-off-the-money-faucet-for-western-studios-as-bloodhunt-developer-sharkmob-says-layoffs-are-coming/)
+ - [Over half of Arc Raiders players on Steam have barely engaged with PvP, and 19% have never even killed another player](https://www.pcgamer.com/games/third-person-shooter/over-half-of-arc-raiders-players-on-steam-have-barely-engaged-with-pvp-and-19-percent-have-never-even-killed-another-player/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
