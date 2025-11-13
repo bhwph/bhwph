@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Is Ubisoft’s Weirdest Delay Yet](https://kotaku.com/ubisoft-assassins-creed-far-cry-stock-announcement-delayed-2000644091)
- - [One Piece&#39;s Good Valley fight proves power-scaling is irrelevant](https://www.polygon.com/one-piece-roger-garp-xebec-god-valley-power-scaling/)
- - [Dispatch review](https://www.pcgamer.com/games/adventure/dispatch-review/)<!-- GAME:END -->
+ - [Red Dead Redemption coming to Switch 2, PS5, and Xbox Series X with enhancements](https://www.polygon.com/red-dead-redemption-ps5-xbox-nintendo-switch-2/)
+ - [Crystal Dynamics Says ‘Painful’ Layoffs Required To ‘Optimize’ Development For Next Tomb Raider](https://kotaku.com/crystal-dynamics-tomb-raider-open-world-layoffs-2000644117)
+ - [Dispatch: The Kotaku Review](https://kotaku.com/dispatch-review-adhoc-studios-all-8-episodes-finale-2000644106)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
