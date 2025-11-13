@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete Prescriptions of the Past in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-prescriptions-of-the-past/)
- - [Xbox Controller Is Selling for Pocket Change, Amazon Drops Its First Real Black Friday Deal](https://kotaku.com/xbox-controller-is-selling-for-pocket-change-amazon-drops-its-first-real-black-friday-deal-2000643938)
- - [There is no stopping Hideo Kojima: Yet another Death Stranding adaptation has been announced, before either of the existing two have been released](https://www.pcgamer.com/games/there-is-no-stopping-hideo-kojima-yet-another-death-stranding-adaptation-has-been-announced-before-either-of-the-existing-two-have-been-released/)<!-- GAME:END -->
+ - [Amazon Quietly Dumps the Forerunner 265, Now Selling the Garmin Watch for Pocket Change](https://kotaku.com/amazon-quietly-dumps-the-forerunner-265-now-selling-the-garmin-watch-for-pocket-change-2000643948)
+ - [Subnautica 2 Publisher Encourages Voluntary Layoffs As It Goes ‘AI First’](https://kotaku.com/subnautica-2-ai-krafton-layoffs-silent-hill-f-difficulty-2000644024)
+ - [Arc Raiders review: the most revolutionary shooter in years](https://www.polygon.com/arc-raiders-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
