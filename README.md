@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Quietly Dumps the Forerunner 265, Now Selling the Garmin Watch for Pocket Change](https://kotaku.com/amazon-quietly-dumps-the-forerunner-265-now-selling-the-garmin-watch-for-pocket-change-2000643948)
- - [Subnautica 2 Publisher Encourages Voluntary Layoffs As It Goes ‘AI First’](https://kotaku.com/subnautica-2-ai-krafton-layoffs-silent-hill-f-difficulty-2000644024)
- - [Arc Raiders review: the most revolutionary shooter in years](https://www.polygon.com/arc-raiders-review/)<!-- GAME:END -->
+ - [This Is Ubisoft’s Weirdest Delay Yet](https://kotaku.com/ubisoft-assassins-creed-far-cry-stock-announcement-delayed-2000644091)
+ - [One Piece&#39;s Good Valley fight proves power-scaling is irrelevant](https://www.polygon.com/one-piece-roger-garp-xebec-god-valley-power-scaling/)
+ - [Dispatch review](https://www.pcgamer.com/games/adventure/dispatch-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
