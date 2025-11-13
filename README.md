@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Twitter CEO Parag Agrawal&#39;s Parallel Web Systems, which is building tools for AI agents to search the web, raised a $100M Series A at a $740M valuation &lpar;Tom Dotan/Newcomer&rpar;](http://www.techmeme.com/251112/p42#a251112p42)
- - [Google’s November Android Canary release is out now for the testing elite](https://www.androidauthority.com/android-canary-2511-3615292/)
- - [DHS Kept Chicago Police Records for Months in Violation of Domestic Espionage Rules](https://www.wired.com/story/dhs-kept-chicago-police-records-for-months-in-violation-of-domestic-espionage-rules/)<!-- TECH:END -->
+ - [Satya Nadella says Microsoft has access to &quot;all&quot; of OpenAI&#39;s custom AI chip work and plans to use it to help develop its own in-house chip &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251112/p47#a251112p47)
+ - [Tavus, which develops enterprise AI agents focused on employee recruitment and training, raised a $40M Series B led by CRV &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251112/p46#a251112p46)
+ - [Sony is making a Horizon MMO — here’s the video and details](https://www.theverge.com/news/819657/horizon-steel-frontiers-mmo-sony-ncsoft-playstation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
