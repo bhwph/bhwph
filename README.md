@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s the Call of Duty: Black Ops 7 release time for your region](https://www.pcgamer.com/games/call-of-duty/black-ops-7-release-date-launch-times/)
- - [While we eagerly await the second coming of Steam Machines, it&#39;s worth remembering what a gloriously awful mess Valve got itself in over a decade ago](https://www.pcgamer.com/hardware/gaming-pcs/while-we-eagerly-await-the-second-coming-of-steam-machines-its-worth-remembering-what-a-gloriously-awful-mess-valve-got-itself-in-over-a-decade-ago/)
- - [Sony Reveals Secret Horizon MMO That Looks Like Monster Hunter But Isn’t Coming To PS5](https://kotaku.com/horizon-steel-frontiers-mmo-ps5-trailer-2000643663)<!-- GAME:END -->
+ - [How to complete Prescriptions of the Past in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-prescriptions-of-the-past/)
+ - [Xbox Controller Is Selling for Pocket Change, Amazon Drops Its First Real Black Friday Deal](https://kotaku.com/xbox-controller-is-selling-for-pocket-change-amazon-drops-its-first-real-black-friday-deal-2000643938)
+ - [There is no stopping Hideo Kojima: Yet another Death Stranding adaptation has been announced, before either of the existing two have been released](https://www.pcgamer.com/games/there-is-no-stopping-hideo-kojima-yet-another-death-stranding-adaptation-has-been-announced-before-either-of-the-existing-two-have-been-released/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
