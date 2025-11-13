@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify updates shuffle to prioritize variety over strict randomness](https://www.androidauthority.com/spotify-updates-shuffle-3615645/)
- - [LinkedIn rolls out AI-powered people search to premium users in the US, with plans to expand it to other countries in the coming months &lpar;TechCrunch&rpar;](http://www.techmeme.com/251113/p31#a251113p31)
- - [The 34 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)<!-- TECH:END -->
+ - [Red Queen Bio, spun out of mRNA therapeutics company Helix Nano to focus on preventing AI-enabled bioweapons development, raised a $15M seed led by OpenAI &lpar;Deepa Seetharaman/Reuters&rpar;](http://www.techmeme.com/251113/p43#a251113p43)
+ - [The UK CAT refuses Apple permission to appeal a ruling that it abused its dominance by charging unfairly high App Store fees; a lawyer calculates damages at £1B &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/251113/p42#a251113p42)
+ - [Apple launches new Mini App Partner Program](https://appleinsider.com/articles/25/11/13/apple-launches-new-mini-app-partner-program?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
