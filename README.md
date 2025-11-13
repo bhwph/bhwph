@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Philosophy](http://9gag.com/gag/a4Pmy5m)
- - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
- - 👉 [The missing plot](http://9gag.com/gag/aAyqAro)<!-- MEMES:END -->
+ - 6️⃣ [On a random Wednesday, Lord Gaben blessed us](http://9gag.com/gag/axyQweM)
+ - 😝 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aXPQ37D)
+ - 👉 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)<!-- MEMES:END -->
 
 --- 
 
