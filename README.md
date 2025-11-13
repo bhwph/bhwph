@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will let ‘experienced users’ keep sideloading Android apps](https://www.theverge.com/news/819835/google-android-sideloading-experienced-users-developer-verification)
- - [A look at Cybathlon, an event by ETH Zurich where researchers team up with people with disabilities in a competition to test brain-computer interfaces &lpar;Oliver Whang/New York Times&rpar;](http://www.techmeme.com/251113/p6#a251113p6)
- - [Samsung&amp;#8217;s trifold gets a name and &amp;#8216;confirmed&amp;#8217; specs](https://www.theverge.com/news/819820/samsungs-trifold-gets-a-name-and-confirmed-specs)<!-- TECH:END -->
+ - [A look at Indian messaging app Arattai, which officials are backing as a domestic WhatsApp alternative; Arattai maker Zoho says it had 350K sign-ups in October &lpar;Financial Times&rpar;](http://www.techmeme.com/251113/p20#a251113p20)
+ - [Apple Stores extend return policy into January for holiday buyers](https://appleinsider.com/articles/25/11/13/apple-stores-extend-return-policy-into-january-for-holiday-buyers?utm_source=rss)
+ - [Nothing Phone &lpar;3a&rpar; Lite Review: Bloating the Brand](https://www.wired.com/review/nothing-phone-3a-lite/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
