@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sheesh...](http://9gag.com/gag/azxovBZ)
- - 😝 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
- - 👉 [Amazonian](http://9gag.com/gag/agm6pDg)<!-- MEMES:END -->
+ - 6️⃣ [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
+ - 😝 [Sheesh...](http://9gag.com/gag/azxovBZ)
+ - 👉 [Women](http://9gag.com/gag/aMVD68X)<!-- MEMES:END -->
 
 --- 
 
