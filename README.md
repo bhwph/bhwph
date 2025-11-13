@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google may finally let you boot At a Glance from your Pixel home screen &lpar;Updated: Confirmed&rpar;](https://www.androidauthority.com/pixel-at-a-glance-remove-from-home-screen-option-3614939/)
- - [Foxglove, which is building a data and observability platform for robotics companies, raised a $40M Series B led by Bessemer, bringing its total funding to $58M &lpar;Steve Crowe/The Robot Report&rpar;](http://www.techmeme.com/251112/p53#a251112p53)
- - [US Attorney Jeanine Pirro launches a federal investigative task force to crack down on overseas crime organizations behind crypto scams targeting Americans &lpar;Salvador Rizzo/Washington Post&rpar;](http://www.techmeme.com/251112/p52#a251112p52)<!-- TECH:END -->
+ - [20% Off Sephora Promo Code](https://www.wired.com/story/sephora-promo-code/)
+ - [Valve just opened the door to Android games on Steam](https://www.androidauthority.com/valve-android-games-steam-3615355/)
+ - [Attentive.ai, maker of Beam AI for automating preconstruction workflows using AI, raised $30.5M Series B led by Insight Partners, bringing total raised to $48M &lpar;Amit Chowdhry/Pulse 2.0&rpar;](http://www.techmeme.com/251113/p3#a251113p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
