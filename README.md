@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GC AI, which provides in-house corporate legal teams with AI tools for common tasks, raised a $60M Series B led by Scale and Northzone at a $555M valuation &lpar;Sara Merken/Reuters&rpar;](http://www.techmeme.com/251112/p50#a251112p50)
- - [ChatGPT 5.1 is smarter, friendlier, and gets your vibe better than ever](https://www.androidauthority.com/chatgpt-5-1-3615324/)
- - [FanDuel and CME Group plan to launch FanDuel Predicts, a prediction market app, in December, bypassing restrictions in US states where gambling is illegal &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/251112/p49#a251112p49)<!-- TECH:END -->
+ - [Google may finally let you boot At a Glance from your Pixel home screen &lpar;Updated: Confirmed&rpar;](https://www.androidauthority.com/pixel-at-a-glance-remove-from-home-screen-option-3614939/)
+ - [Foxglove, which is building a data and observability platform for robotics companies, raised a $40M Series B led by Bessemer, bringing its total funding to $58M &lpar;Steve Crowe/The Robot Report&rpar;](http://www.techmeme.com/251112/p53#a251112p53)
+ - [US Attorney Jeanine Pirro launches a federal investigative task force to crack down on overseas crime organizations behind crypto scams targeting Americans &lpar;Salvador Rizzo/Washington Post&rpar;](http://www.techmeme.com/251112/p52#a251112p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
