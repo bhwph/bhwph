@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [20% Off Sephora Promo Code](https://www.wired.com/story/sephora-promo-code/)
- - [Valve just opened the door to Android games on Steam](https://www.androidauthority.com/valve-android-games-steam-3615355/)
- - [Attentive.ai, maker of Beam AI for automating preconstruction workflows using AI, raised $30.5M Series B led by Insight Partners, bringing total raised to $48M &lpar;Amit Chowdhry/Pulse 2.0&rpar;](http://www.techmeme.com/251113/p3#a251113p3)<!-- TECH:END -->
+ - [Samsung’s tri-fold foldable finally has a name, as more specs leak](https://www.androidauthority.com/samsung-galaxy-z-trifold-name-specs-leak-3615411/)
+ - [Sources: Alibaba is renaming its AI app Tongyi to &quot;Qwen&quot;, aiming to make it more like ChatGPT, and adding agentic-AI shopping features for platforms like Taobao &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/251113/p5#a251113p5)
+ - [Baidu unveils two AI chips: the M100 for efficient MoE inference, launching in 2026, and the M300 for training super-large multimodal models, coming in 2027 &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/251113/p4#a251113p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
