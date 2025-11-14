@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPod Sock reborn, Apple VIsion Pro carrier aviation, and the fate of iPhone Air 2 on the AppleInsider Podcast](https://appleinsider.com/articles/25/11/14/ipod-sock-reborn-apple-vision-pro-carrier-aviation-and-the-fate-of-iphone-air-2-on-the-appleinsider-podcast?utm_source=rss)
- - [Wooldroom Luxury Wooly Mattress Review: Supple but Stinky](https://www.wired.com/review/woolroom-luxury-wooly-mattress/)
- - [India officially notifies its first data protection law to establish a framework for data processing, protection, and governance, including verifiable consent &lpar;The Economic Times&rpar;](http://www.techmeme.com/251114/p10#a251114p10)<!-- TECH:END -->
+ - [Publicly traded Bitcoin miner Bitfarms says it will wind down its BTC operations and pivot to AI infrastructure after posting a net loss of $46M in Q3 &lpar;Logan Hitchcock/Decrypt&rpar;](http://www.techmeme.com/251114/p14#a251114p14)
+ - [Amazon’s Fire Tablets, Tested, So You Don’t Have To &lpar;2025&rpar;](https://www.wired.com/gallery/best-amazon-fire-tablet/)
+ - [Deal: Get the Apple AirPods 4 at a record-low price!](https://www.androidauthority.com/apple-airpods-4-deal-2-3615969/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
