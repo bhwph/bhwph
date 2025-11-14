@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany approves legislation granting Interior Ministry new powers to ban Chinese tech suppliers from critical infrastructure sectors like energy and transport &lpar;Sam Clark/Politico&rpar;](http://www.techmeme.com/251114/p19#a251114p19)
- - [Superman, Sinners, and other 4K Blu-rays are just $12.99 ahead of Black Friday](https://www.theverge.com/tech/821035/superman-sinners-4k-blu-ray-black-friday-deal-sale)
- - [ChatGPT is testing group chats in the most chaotic way](https://www.androidauthority.com/chatgpt-group-chats-3616045/)<!-- TECH:END -->
+ - [Here’s a look at how Android 17 will make alternative app stores easier to use](https://www.androidauthority.com/android-17-registered-app-stores-mockup-3616122/)
+ - [Black Friday 2025: Expert Tips for Finding the Best Deals](https://www.wired.com/story/black-friday-2025-tips-and-tricks/)
+ - [Get ready for the latest reason your next phone will cost more](https://www.androidauthority.com/memory-prices-increasing-3616087/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
