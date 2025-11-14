@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
- - 😝 [The missing plot](http://9gag.com/gag/aAyqAro)
- - 👉 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)<!-- MEMES:END -->
+ - 6️⃣ [FLT certified](http://9gag.com/gag/aVv46xy)
+ - 😝 [We need to try](http://9gag.com/gag/a87Qg5V)
+ - 👉 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)<!-- MEMES:END -->
 
 --- 
 
