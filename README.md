@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We need to try](http://9gag.com/gag/a87Qg5V)
- - 😝 [It&#39;s not that you hate Microsoft. It&#39;s that you don&#39;t hate them enough.](http://9gag.com/gag/aZZoY89)
- - 👉 [FLT certified](http://9gag.com/gag/aVv46xy)<!-- MEMES:END -->
+ - 6️⃣ [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
+ - 😝 [The missing plot](http://9gag.com/gag/aAyqAro)
+ - 👉 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)<!-- MEMES:END -->
 
 --- 
 
