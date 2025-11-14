@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [FLT certified](http://9gag.com/gag/aVv46xy)
- - 😝 [We need to try](http://9gag.com/gag/a87Qg5V)
- - 👉 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)<!-- MEMES:END -->
+ - 6️⃣ [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
+ - 😝 [Probabilities.](http://9gag.com/gag/a6Z462q)
+ - 👉 [A knight&#39;s ....](http://9gag.com/gag/aW4Py7q)<!-- MEMES:END -->
 
 --- 
 
