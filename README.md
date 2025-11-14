@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TerraMaster F2-425 2-bay NAS review: Features beyond its bay count](https://appleinsider.com/articles/25/11/14/terramaster-f2-425-2-bay-nas-review-features-beyond-its-bay-count?utm_source=rss)
- - [Mozilla says it is building AI Window, a Firefox feature that will include an AI assistant and let users choose the model, but offers few additional details &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/251113/p57#a251113p57)
- - [Sources: OneTrust, which sells privacy and compliance software and was last valued at $4.5B in 2023, is exploring a sale, possibly to private equity buyers &lpar;The Information&rpar;](http://www.techmeme.com/251113/p56#a251113p56)<!-- TECH:END -->
+ - [Sources: Amazon and Anthropic support the GAIN AI Act, which would give US buyers first priority on advanced AI chips, joining Microsoft; Nvidia opposes it &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/251113/p59#a251113p59)
+ - [Apple &amp; OpenAI must face baseless xAI lawsuit about alleged anticompetitive collusion](https://appleinsider.com/articles/25/11/14/apple-openai-must-face-baseless-xai-lawsuit-about-alleged-anticompetitive-collusion?utm_source=rss)
+ - [Google Home’s latest update is all about speed, control, and a sleeker interface](https://www.androidauthority.com/google-home-4-3-update-new-features-improvements-3615829/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
