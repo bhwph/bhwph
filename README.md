@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
+ - 6️⃣ [Human safari](http://9gag.com/gag/apRzM7M)
  - 😝 [Probabilities.](http://9gag.com/gag/a6Z462q)
- - 👉 [A knight&#39;s ....](http://9gag.com/gag/aW4Py7q)<!-- MEMES:END -->
+ - 👉 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)<!-- MEMES:END -->
 
 --- 
 
