@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If You Always Lose Your Stuff, These Apple AirTags Are Now Practically Free on Amazon](https://kotaku.com/if-you-always-lose-your-stuff-these-apple-airtags-are-now-practically-free-on-amazon-2000644338)
- - [One small indie developer has accidentally saddled itself with almost 65,000 extra people to thank after initially asking for 100 names to pad out its credits](https://www.pcgamer.com/games/horror/one-small-indie-developer-has-accidentally-saddled-itself-with-almost-65-000-extra-people-to-thank-after-initially-asking-for-100-names-to-pad-out-its-credits/)
- - [If your Windows 10 Extended Security Updates weren&#39;t working, they should now after Microsoft&#39;s latest patch](https://www.pcgamer.com/software/windows/if-your-windows-10-extended-security-updates-werent-working-they-should-now-after-microsofts-latest-patch/)<!-- GAME:END -->
+ - [EA Play: Check Out November’s Offers and Rewards](https://news.xbox.com/en-us/2025/11/14/ea-play-november-2025/)
+ - [Fans Think The Pokémon Animal Crossing Game May Be Set In A Post-Apocalypse](https://kotaku.com/pokemon-pokopia-post-apocalypse-snorlax-pikachu-fuschia-2000644400)
+ - [Even PlayStation&#39;s former CEO says the console era is ending](https://www.polygon.com/shawn-layden-interview-console-era-ending/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
