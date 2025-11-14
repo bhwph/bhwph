@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Probabilities.](http://9gag.com/gag/a6Z462q)
- - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
- - 👉 [In 2007, a home improvement television show literally blew up this family&#39;s house before rebuilding it.](http://9gag.com/gag/abAKw5O)<!-- MEMES:END -->
+ - 6️⃣ [We need to try](http://9gag.com/gag/a87Qg5V)
+ - 😝 [It&#39;s not that you hate Microsoft. It&#39;s that you don&#39;t hate them enough.](http://9gag.com/gag/aZZoY89)
+ - 👉 [FLT certified](http://9gag.com/gag/aVv46xy)<!-- MEMES:END -->
 
 --- 
 
