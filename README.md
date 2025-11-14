@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Publicly traded Bitcoin miner Bitfarms says it will wind down its BTC operations and pivot to AI infrastructure after posting a net loss of $46M in Q3 &lpar;Logan Hitchcock/Decrypt&rpar;](http://www.techmeme.com/251114/p14#a251114p14)
- - [Amazon’s Fire Tablets, Tested, So You Don’t Have To &lpar;2025&rpar;](https://www.wired.com/gallery/best-amazon-fire-tablet/)
- - [Deal: Get the Apple AirPods 4 at a record-low price!](https://www.androidauthority.com/apple-airpods-4-deal-2-3615969/)<!-- TECH:END -->
+ - [It’s not just you: YouTube’s search filters are busted on desktop](https://www.androidauthority.com/its-not-just-you-youtubes-search-filters-are-busted-on-desktop-3616006/)
+ - [Weight-Loss Drug Zepbound Is Being Tested as a Treatment for Long Covid](https://www.wired.com/story/weight-loss-drug-zepbound-is-being-tested-as-a-treatment-for-long-covid/)
+ - [Sources: Stockholm-based vibe coding startup Lovable is in talks to raise funding at a valuation of ~$6B, up from $1.8B in July when it raised a $200M Series A &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/251114/p17#a251114p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
