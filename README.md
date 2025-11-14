@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Eddington, now on HBO Max, is 2025&#39;s most misunderstood movie](https://www.polygon.com/eddington-streaming-hbo-max-best-thrillers/)
- - [GTA 6 delays are a consequence of GTA 5&#39;s success](https://www.polygon.com/gta-6s-delayed-development-cycle-consequence-gta-5-success/)
- - [Spray Paint Simulator Update with More Colors, Better Flow, Smoother](https://news.xbox.com/en-us/2025/11/14/spray-paint-simulator-update/)<!-- GAME:END -->
+ - [Kotaku’s Weekend Guide: 3 Great Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-goodnight-universe-lumines-arise-2000644454)
+ - [Best early city layout in Anno 117: Pax Romana](https://www.polygon.com/anno-117-pax-romana-best-city-layout-early/)
+ - [7 years of delays kept this anime sports RPG from coming out, but players say it was worth the wait: &#39;This game didn&#39;t just score, it hit my soul with a fire tornado of nostalgia&#39;](https://www.pcgamer.com/games/rpg/7-years-of-delays-kept-this-anime-sports-rpg-from-coming-out-but-players-say-it-was-worth-the-wait-this-game-didnt-just-score-it-hit-my-soul-with-a-fire-tornado-of-nostalgia/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
