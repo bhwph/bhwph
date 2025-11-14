@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google finally rolls out Call Recording for Pixel phones worldwide](https://www.androidauthority.com/pixel-call-recording-wider-rollout-3615833/)
- - [Australia-based AI infrastructure company Firmus raised AU$500M, or ~$325M, tripling its valuation to AU$6B in two months, after raising AU$330M in September &lpar;Tess Bennett/Australian Financial Review&rpar;](http://www.techmeme.com/251113/p60#a251113p60)
- - [Sources: Amazon and Anthropic support the GAIN AI Act, which would give US buyers first priority on advanced AI chips, joining Microsoft; Nvidia opposes it &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/251113/p59#a251113p59)<!-- TECH:END -->
+ - [Therabody Promo Code: 15% Off | November 2025](https://www.wired.com/story/therabody-promo-code/)
+ - [Shares of Indian payment startup Pine Labs debuted at ~$2.73, up 9.5% from the ~$2.49 IPO price, after a $440M IPO earlier this week that was 2x oversubscribed &lpar;Soumyajit Saha/Nikkei Asia&rpar;](http://www.techmeme.com/251114/p2#a251114p2)
+ - [20% Off Home Depot Promo Code | November 2025](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
