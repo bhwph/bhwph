@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s not just you: YouTube’s search filters are busted on desktop](https://www.androidauthority.com/its-not-just-you-youtubes-search-filters-are-busted-on-desktop-3616006/)
- - [Weight-Loss Drug Zepbound Is Being Tested as a Treatment for Long Covid](https://www.wired.com/story/weight-loss-drug-zepbound-is-being-tested-as-a-treatment-for-long-covid/)
- - [Sources: Stockholm-based vibe coding startup Lovable is in talks to raise funding at a valuation of ~$6B, up from $1.8B in July when it raised a $200M Series A &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/251114/p17#a251114p17)<!-- TECH:END -->
+ - [Germany approves legislation granting Interior Ministry new powers to ban Chinese tech suppliers from critical infrastructure sectors like energy and transport &lpar;Sam Clark/Politico&rpar;](http://www.techmeme.com/251114/p19#a251114p19)
+ - [Superman, Sinners, and other 4K Blu-rays are just $12.99 ahead of Black Friday](https://www.theverge.com/tech/821035/superman-sinners-4k-blu-ray-black-friday-deal-sale)
+ - [ChatGPT is testing group chats in the most chaotic way](https://www.androidauthority.com/chatgpt-group-chats-3616045/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
