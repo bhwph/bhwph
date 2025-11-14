@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Human safari](http://9gag.com/gag/apRzM7M)
- - 😝 [Probabilities.](http://9gag.com/gag/a6Z462q)
- - 👉 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)<!-- MEMES:END -->
+ - 6️⃣ [We need to try](http://9gag.com/gag/a87Qg5V)
+ - 😝 [An Islamic regime cleric in Iran tried to secretly film a woman breastfeeding her child and not wearing a hijab at a hospital, with the intention of having her arrested later. So all the other women taught him a lesson!](http://9gag.com/gag/aYQZ5K7)
+ - 👉 [...](http://9gag.com/gag/aAyq98o)<!-- MEMES:END -->
 
 --- 
 
