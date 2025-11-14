@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dell Ryzen 7 Laptop Bundle &lpar;32GB RAM, 1TB SSD&rpar; Is Almost 70% Off, Savings You’ll Never See on a MacBook](https://kotaku.com/dell-ryzen-7-laptop-bundle-32gb-ram-1tb-ssd-is-almost-70-off-savings-youll-never-see-on-a-macbook-2000644033)
- - [Metroid Prime 4 preview: putting the &#39;Metroid&#39; in &#39;Metroidvania&#39;](https://www.polygon.com/metroid-prime-4-beyond-preview-switch-2/)
- - [Fortnite Crew Comes to Xbox Game Pass Ultimate November 18 – and Fortnite Comes to Xbox on PC](https://news.xbox.com/en-us/2025/11/14/fortnite-crew-xbox-game-pass-ultimate-pc-play-anywhere/)<!-- GAME:END -->
+ - [If You Always Lose Your Stuff, These Apple AirTags Are Now Practically Free on Amazon](https://kotaku.com/if-you-always-lose-your-stuff-these-apple-airtags-are-now-practically-free-on-amazon-2000644338)
+ - [One small indie developer has accidentally saddled itself with almost 65,000 extra people to thank after initially asking for 100 names to pad out its credits](https://www.pcgamer.com/games/horror/one-small-indie-developer-has-accidentally-saddled-itself-with-almost-65-000-extra-people-to-thank-after-initially-asking-for-100-names-to-pad-out-its-credits/)
+ - [If your Windows 10 Extended Security Updates weren&#39;t working, they should now after Microsoft&#39;s latest patch](https://www.pcgamer.com/software/windows/if-your-windows-10-extended-security-updates-werent-working-they-should-now-after-microsofts-latest-patch/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
