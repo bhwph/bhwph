@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In 2007, a home improvement television show literally blew up this family&#39;s house before rebuilding it.](http://9gag.com/gag/abAKw5O)
- - 😝 [Unforgettable moments in the history of pop](http://9gag.com/gag/aND8EDK)
- - 👉 [Human safari](http://9gag.com/gag/apRzM7M)<!-- MEMES:END -->
+ - 6️⃣ [We need to try](http://9gag.com/gag/a87Qg5V)
+ - 😝 [Human safari](http://9gag.com/gag/apRzM7M)
+ - 👉 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)<!-- MEMES:END -->
 
 --- 
 
