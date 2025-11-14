@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I can&#39;t live without the Steam Deck&#39;s trackpads anymore, and I hope the Steam Controller forces the competition to adopt them](https://www.pcgamer.com/hardware/game-pads/i-cant-live-without-the-steam-decks-trackpads-anymore-and-i-hope-the-steam-controller-forces-the-competition-to-adopt-them/)
- - [&#39;Do people even go to the main menu anymore in their games?&#39; The Outer Worlds 2&#39;s player-roasting main menu was almost sunk by console gamer habits](https://www.pcgamer.com/games/rpg/do-people-even-go-to-the-main-menu-anymore-in-their-games-the-outer-worlds-2s-player-roasting-main-menu-was-almost-sunk-by-console-gamer-habits/)
- - [For the third time this year, Crystal Dynamics is making layoffs: Nearly 30 people are being put out of work &#39;to optimize the continued development of our flagship Tomb Raider game&#39;](https://www.pcgamer.com/gaming-industry/for-the-third-time-this-year-crystal-dynamics-is-making-layoffs-nearly-30-people-are-being-put-out-of-work-to-optimize-the-continued-development-of-our-flagship-tomb-raider-game/)<!-- GAME:END -->
+ - [Players flood back to co-op survival RPG Enshrouded as the new &#39;Wake of the Water&#39; update gets everyone wet](https://www.pcgamer.com/games/survival-crafting/players-flood-back-to-co-op-survival-rpg-enshrouded-as-the-new-wake-of-the-water-update-gets-everyone-wet/)
+ - [The Witcher 3 didn&#39;t originally make you choose between romancing Yennefer or Triss: &#39;This decision was made pretty late&#39;](https://www.pcgamer.com/games/rpg/the-witcher-3-didnt-originally-make-you-choose-between-romancing-yennefer-or-triss-this-decision-was-made-pretty-late/)
+ - [Amazon Offloads Bose Smart Dolby Atmos Soundbar, Now Selling at No-Name Soundbar Prices](https://kotaku.com/amazon-offloads-bose-smart-dolby-atmos-soundbar-now-selling-at-no-name-soundbar-prices-2000644172)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
