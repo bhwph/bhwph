@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s a look at how Android 17 will make alternative app stores easier to use](https://www.androidauthority.com/android-17-registered-app-stores-mockup-3616122/)
- - [Black Friday 2025: Expert Tips for Finding the Best Deals](https://www.wired.com/story/black-friday-2025-tips-and-tricks/)
- - [Get ready for the latest reason your next phone will cost more](https://www.androidauthority.com/memory-prices-increasing-3616087/)<!-- TECH:END -->
+ - [Google Play has a new tool for finding where to watch your next show](https://www.androidauthority.com/google-play-where-to-watch-3616154/)
+ - [OpenAI says ChatGPT will now ditch em dashes if users tell it to; em dashes have become telltale signs that supposedly signals text written by AI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251114/p29#a251114p29)
+ - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
