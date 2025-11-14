@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Play: Check Out November’s Offers and Rewards](https://news.xbox.com/en-us/2025/11/14/ea-play-november-2025/)
- - [Fans Think The Pokémon Animal Crossing Game May Be Set In A Post-Apocalypse](https://kotaku.com/pokemon-pokopia-post-apocalypse-snorlax-pikachu-fuschia-2000644400)
- - [Even PlayStation&#39;s former CEO says the console era is ending](https://www.polygon.com/shawn-layden-interview-console-era-ending/)<!-- GAME:END -->
+ - [Eddington, now on HBO Max, is 2025&#39;s most misunderstood movie](https://www.polygon.com/eddington-streaming-hbo-max-best-thrillers/)
+ - [GTA 6 delays are a consequence of GTA 5&#39;s success](https://www.polygon.com/gta-6s-delayed-development-cycle-consequence-gta-5-success/)
+ - [Spray Paint Simulator Update with More Colors, Better Flow, Smoother](https://news.xbox.com/en-us/2025/11/14/spray-paint-simulator-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
