@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airports and Airlines Are Crawling Out of the Shutdown](https://www.wired.com/story/airports-and-airlines-are-crawling-out-of-the-shutdown/)
- - [These hilarious Galaxy S26 Ultra clones offer unbelievable specs for under $200](https://www.androidauthority.com/samsung-galaxy-s26-ultra-clones-3615899/)
- - [I Cooked an Entire Thanksgiving Dinner With Just Blue Apron Meal Kits. Here&#39;s How It Went](https://www.cnet.com/health/nutrition/cooked-entire-thanksgiving-dinner-blue-apron-meal-kits-how-it-went/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPod Sock reborn, Apple VIsion Pro carrier aviation, and the fate of iPhone Air 2 on the AppleInsider Podcast](https://appleinsider.com/articles/25/11/14/ipod-sock-reborn-apple-vision-pro-carrier-aviation-and-the-fate-of-iphone-air-2-on-the-appleinsider-podcast?utm_source=rss)
+ - [Wooldroom Luxury Wooly Mattress Review: Supple but Stinky](https://www.wired.com/review/woolroom-luxury-wooly-mattress/)
+ - [India officially notifies its first data protection law to establish a framework for data processing, protection, and governance, including verifiable consent &lpar;The Economic Times&rpar;](http://www.techmeme.com/251114/p10#a251114p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
