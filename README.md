@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
- - 😝 [Love her honesty..](http://9gag.com/gag/aPAzb6n)
- - 👉 [The dog, who grew up with cows since he was a puppy, went to another farm for three days and the first thing he did was play with the calf.](http://9gag.com/gag/awyPW3y)<!-- MEMES:END -->
+ - 6️⃣ [MORE POWER](http://9gag.com/gag/a34eXL8)
+ - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
+ - 👉 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)<!-- MEMES:END -->
 
 --- 
 
