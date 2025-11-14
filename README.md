@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV subscribers will get Major League Soccer games for free in 2026](https://appleinsider.com/articles/25/11/13/apple-tv-subscribers-will-get-major-league-soccer-games-for-free-in-2026?utm_source=rss)
- - [StubHub reports Q3 revenue up 8% YoY to $468.1M, vs. $452M est., gross merchandise sales up 11% to $2.43B; STUB drops 5%+ after hours &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251113/p52#a251113p52)
- - [Maryland will use Claude across its agencies to help residents apply for food aid, Medicaid, and more, and deploy Percepta tools to speed up housing permits &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/251113/p51#a251113p51)<!-- TECH:END -->
+ - [TerraMaster F2-425 2-bay NAS review: Features beyond its bay count](https://appleinsider.com/articles/25/11/14/terramaster-f2-425-2-bay-nas-review-features-beyond-its-bay-count?utm_source=rss)
+ - [Mozilla says it is building AI Window, a Firefox feature that will include an AI assistant and let users choose the model, but offers few additional details &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/251113/p57#a251113p57)
+ - [Sources: OneTrust, which sells privacy and compliance software and was last valued at $4.5B in 2023, is exploring a sale, possibly to private equity buyers &lpar;The Information&rpar;](http://www.techmeme.com/251113/p56#a251113p56)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
