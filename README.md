@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Plus will release a Death Stranding anime in 2027](https://www.polygon.com/disney-death-stranding-isolations-anime/)
- - [How much is that Steam Machine in the window? Let&#39;s talk potential pricing for Valve&#39;s new living room gaming box](https://www.pcgamer.com/hardware/gaming-pcs/how-much-is-that-steam-machine-in-the-window-lets-talk-potential-pricing-for-valves-new-living-room-gaming-box/)
- - [This Arc Raiders wallhack will get you behind locked doors so you and your friends can find all the best loot](https://www.pcgamer.com/games/third-person-shooter/this-arc-raiders-wallhack-will-get-you-behind-locked-doors-so-you-and-your-friends-can-find-all-the-best-loot/)<!-- GAME:END -->
+ - [Dell Ryzen 7 Laptop Bundle &lpar;32GB RAM, 1TB SSD&rpar; Is Almost 70% Off, Savings You’ll Never See on a MacBook](https://kotaku.com/dell-ryzen-7-laptop-bundle-32gb-ram-1tb-ssd-is-almost-70-off-savings-youll-never-see-on-a-macbook-2000644033)
+ - [Metroid Prime 4 preview: putting the &#39;Metroid&#39; in &#39;Metroidvania&#39;](https://www.polygon.com/metroid-prime-4-beyond-preview-switch-2/)
+ - [Fortnite Crew Comes to Xbox Game Pass Ultimate November 18 – and Fortnite Comes to Xbox on PC](https://news.xbox.com/en-us/2025/11/14/fortnite-crew-xbox-game-pass-ultimate-pc-play-anywhere/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
