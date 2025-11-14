@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Therabody Promo Code: 15% Off | November 2025](https://www.wired.com/story/therabody-promo-code/)
- - [Shares of Indian payment startup Pine Labs debuted at ~$2.73, up 9.5% from the ~$2.49 IPO price, after a $440M IPO earlier this week that was 2x oversubscribed &lpar;Soumyajit Saha/Nikkei Asia&rpar;](http://www.techmeme.com/251114/p2#a251114p2)
- - [20% Off Home Depot Promo Code | November 2025](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
+ - [Amazon confirms it is not giving up on Android for Fire TV entirely](https://www.androidauthority.com/amazon-fire-tv-os-vega-os-explanation-3615880/)
+ - [So jealous: Samsung phones in one major market will get a ton of system utilities](https://www.androidauthority.com/samsung-smart-manager-app-one-ui-8-5-3615852/)
+ - [Could you live with Android if the Play Store was your only option?](https://www.androidauthority.com/android-play-store-only-open-thread-3615878/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
