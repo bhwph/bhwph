@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil Village harkened back to Resident Evil 4, but what about Resident Evil Requiem? &#39;Resident Evil 2&#39;, says producer](https://www.pcgamer.com/games/horror/resident-evil-village-harkened-back-to-resident-evil-4-but-what-about-resident-evil-requiem-resident-evil-2-says-producer/)
- - [Black Ops 7 campaign review: Maybe the worst Call of Duty campaign ever](https://www.polygon.com/black-ops-7-review-campaign/)
- - [Players flood back to co-op survival RPG Enshrouded as the new &#39;Wake of the Water&#39; update gets everyone wet](https://www.pcgamer.com/games/survival-crafting/players-flood-back-to-co-op-survival-rpg-enshrouded-as-the-new-wake-of-the-water-update-gets-everyone-wet/)<!-- GAME:END -->
+ - [Disney Plus will release a Death Stranding anime in 2027](https://www.polygon.com/disney-death-stranding-isolations-anime/)
+ - [How much is that Steam Machine in the window? Let&#39;s talk potential pricing for Valve&#39;s new living room gaming box](https://www.pcgamer.com/hardware/gaming-pcs/how-much-is-that-steam-machine-in-the-window-lets-talk-potential-pricing-for-valves-new-living-room-gaming-box/)
+ - [This Arc Raiders wallhack will get you behind locked doors so you and your friends can find all the best loot](https://www.pcgamer.com/games/third-person-shooter/this-arc-raiders-wallhack-will-get-you-behind-locked-doors-so-you-and-your-friends-can-find-all-the-best-loot/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
