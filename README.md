@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analog Photography: The Beginner’s Guide to Film Cameras &lpar;2025&rpar;](https://www.wired.com/story/film-photography-beginners-guide/)
- - [Framework’s franken-laptop is back with big chip upgrades and familiar frustrations](https://www.theverge.com/tech/821420/framework-laptop-16-2025-nvidia-rtx5070-review)
- - [This New Car Feature Uses AI to Keep You From Missing Your Exit](https://www.cnet.com/roadshow/news/this-new-car-feature-uses-ai-to-keep-you-from-missing-your-exit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Possessor&lpar;s&rpar; is a fast-paced action game that gets off to a slow start](https://www.theverge.com/games/821117/possessors-review-pc-ps5)
+ - [Apple&#39;s iPhone Pocket Is a $230 Gadget Mankini. We Tried It Out to Size It Up](https://www.cnet.com/tech/mobile/apples-iphone-pocket-is-a-230-gadget-mankini-we-tried-it-out-to-size-it-up/#ftag=CAD590a51e)
+ - [&#39;Landman&#39; Season 2: How to Watch the First Episode of the Oil Drama](https://www.cnet.com/tech/services-and-software/landman-season-2-how-to-watch-the-first-episode-of-the-oil-drama/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
