@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [28 Top Personalized Gifts to Bring Joy and Cheer This Holiday Season](https://www.cnet.com/news/best-personalized-gifts/#ftag=CAD590a51e)
  - [A profile of Meta Chief AI Scientist Yann LeCun, reportedly leaving after being sidelined, who says LLMs are a dead end for AGI and backs world models instead &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/251115/p1#a251115p1)
- - [25% Off DoorDash Promo Code | November 2025](https://www.wired.com/story/doordash-promo-code/)
- - [Sources: Apple is intensifying CEO succession planning as Tim Cook, now 65, may step down as early as next year, with John Ternus seen as the likely successor &lpar;Financial Times&rpar;](http://www.techmeme.com/251114/p35#a251114p35)<!-- TECH:END -->
+ - [25% Off DoorDash Promo Code | November 2025](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
