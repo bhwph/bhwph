@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 😝 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)
+ - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
  - 👉 [Who had Ubisoft for November?](http://9gag.com/gag/azxo3op)<!-- MEMES:END -->
 
 --- 
