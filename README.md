@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku’s Weekend Guide: 3 Great Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-goodnight-universe-lumines-arise-2000644454)
- - [Best early city layout in Anno 117: Pax Romana](https://www.polygon.com/anno-117-pax-romana-best-city-layout-early/)
- - [7 years of delays kept this anime sports RPG from coming out, but players say it was worth the wait: &#39;This game didn&#39;t just score, it hit my soul with a fire tornado of nostalgia&#39;](https://www.pcgamer.com/games/rpg/7-years-of-delays-kept-this-anime-sports-rpg-from-coming-out-but-players-say-it-was-worth-the-wait-this-game-didnt-just-score-it-hit-my-soul-with-a-fire-tornado-of-nostalgia/)<!-- GAME:END -->
+ - [Apple Skips Black Friday at Its Stores, But Quietly Drops the MacBook Air to a New All-Time Low on Amazon](https://kotaku.com/apple-skips-black-friday-at-its-stores-but-quietly-drops-the-macbook-air-to-a-new-all-time-low-on-amazon-2000644485)
+ - [Amazon Drops Its First Major Black Friday Deal on a Power Station, Now Selling for Pennies at 1500W Output](https://kotaku.com/amazon-drops-its-first-major-black-friday-deal-on-a-power-station-now-selling-for-pennies-at-1500w-output-2000644481)
+ - [One of 2025&#39;s best games won&#39;t get a sequel, says its developer: &#39;Each of my projects will be completely standalone&#39;](https://www.pcgamer.com/games/puzzle/my-favorite-game-of-2025-wont-get-a-sequel-says-its-developer-each-of-my-projects-will-be-completely-standalone/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
