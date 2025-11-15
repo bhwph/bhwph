@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vicious director&#39;s panic attacks influenced his filmmaking](https://www.polygon.com/video/vicious-director-panic-attacks-anxiety-interview/)
- - [How to get Go Safari Balls in Pokémon Go](https://www.polygon.com/pokemon-go-guide/483165/go-safari-balls-how-to-get/)
- - [How to get mighty Pokémon in Pokémon Go](https://www.polygon.com/pokemon-go-guide/483905/mighty-pokemon-list-schedule-moves/)<!-- GAME:END -->
+ - [Deborah Ann Woll turned an entire village into a D&amp;D escape room](https://www.polygon.com/deborah-ann-woll-tales-from-woodcreek-escape-room/)
+ - [That weird Pac-Man metroidvania just got a big update, adding a new mode that &#39;significantly lowers the difficulty of combat and exploration&#39;](https://www.pcgamer.com/games/action/that-weird-pac-man-metroidvania-just-got-a-big-update-adding-a-new-mode-that-significantly-lowers-the-difficulty-of-combat-and-exploration/)
+ - [3 Netflix shows you need to binge this November weekend](https://www.polygon.com/netflix-shows-binge-weekend-nov-15-16/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
