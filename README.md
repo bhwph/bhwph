@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Vicious director&#39;s panic attacks influenced his filmmaking](https://www.polygon.com/video/vicious-director-panic-attacks-anxiety-interview/)
  - [How to get Go Safari Balls in Pokémon Go](https://www.polygon.com/pokemon-go-guide/483165/go-safari-balls-how-to-get/)
- - [How to get mighty Pokémon in Pokémon Go](https://www.polygon.com/pokemon-go-guide/483905/mighty-pokemon-list-schedule-moves/)
- - [Pokémon Go &#39;A Grim Beginning&#39; choose a path quest steps: dark or fairy?](https://www.polygon.com/pokemon-go-wild-area-2025-choose-a-path-research-dark-fairy/)<!-- GAME:END -->
+ - [How to get mighty Pokémon in Pokémon Go](https://www.polygon.com/pokemon-go-guide/483905/mighty-pokemon-list-schedule-moves/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
