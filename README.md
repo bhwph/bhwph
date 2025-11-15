@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
- - 😝 [C: Can&#39;t tell.](http://9gag.com/gag/a34e641)
- - 👉 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)<!-- MEMES:END -->
+ - 6️⃣ [Look at those puppies](http://9gag.com/gag/abAKNrE)
+ - 😝 [SLOP](http://9gag.com/gag/aVv4Abn)
+ - 👉 [It&#39;s about time we teach kids life skills regardless of gender](http://9gag.com/gag/awyPw0W)<!-- MEMES:END -->
 
 --- 
 
