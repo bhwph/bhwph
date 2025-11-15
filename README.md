@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play has a new tool for finding where to watch your next show](https://www.androidauthority.com/google-play-where-to-watch-3616154/)
- - [OpenAI says ChatGPT will now ditch em dashes if users tell it to; em dashes have become telltale signs that supposedly signals text written by AI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251114/p29#a251114p29)
- - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)<!-- TECH:END -->
+ - [Sources: Apptronik, a humanoid robot maker backed by Google, is in the process of raising at least $400M led by B Capital at a $5B pre-money valuation &lpar;The Information&rpar;](http://www.techmeme.com/251114/p33#a251114p33)
+ - [YouTube TV, ESPN, and Disney: the latest on the blackout that’s now over](https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates)
+ - [Disney and ESPN are back on YouTube TV](https://www.theverge.com/news/821581/disney-youtube-tv-deal-agreement-espn)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
