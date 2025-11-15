@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Former id Software artist argues performance and optimization is &#39;as much of an art problem&#39; as a tech one: &#39;Killzone 2 looks incredible today. FEAR looks incredible today&#39;](https://www.pcgamer.com/games/fps/former-id-software-artist-argues-performance-and-optimization-is-as-much-of-an-art-problem-as-a-tech-one-killzone-2-looks-incredible-today-fear-looks-incredible-today/)
  - [Mashle season 3: There’s still time to catch up on this hilarious Harry Potter anime parody](https://www.polygon.com/mashle-muscles-magic-review-netflix/)
- - [To celebrate Fallout: New Vegas&#39; 15th birthday, one mad lad lugged a CRT and an Xbox 360 to the fan gathering at the real Goodsprings to play the game outside the Prospector Saloon](https://www.pcgamer.com/games/rpg/to-celebrate-fallout-new-vegas-15th-birthday-one-mad-lad-lugged-a-crt-and-an-xbox-360-to-the-fan-gathering-at-the-real-goodsprings-to-play-the-game-outside-the-prospector-saloon/)
- - [Shortly after Concord&#39;s resurrection by fans, it looks like Sony might be about to kill it again: &#39;Due to worrying legal action we’ve decided to pause invites for the time being&#39;](https://www.pcgamer.com/games/fps/shortly-after-concords-resurrection-by-fans-it-looks-like-sony-might-be-about-to-kill-it-again-due-to-worrying-legal-action-weve-decided-to-pause-invites-for-the-time-being/)<!-- GAME:END -->
+ - [To celebrate Fallout: New Vegas&#39; 15th birthday, one mad lad lugged a CRT and an Xbox 360 to the fan gathering at the real Goodsprings to play the game outside the Prospector Saloon](https://www.pcgamer.com/games/rpg/to-celebrate-fallout-new-vegas-15th-birthday-one-mad-lad-lugged-a-crt-and-an-xbox-360-to-the-fan-gathering-at-the-real-goodsprings-to-play-the-game-outside-the-prospector-saloon/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
