@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Desperately seeking my Arc Raiders missed connection](https://www.polygon.com/arc-raiders-missed-connection/)
- - [Fancy playing Sea of Thieves without the PvP? This pirate-themed survival game just left early access with a big update and a launch discount](https://www.pcgamer.com/games/survival-crafting/fancy-playing-sea-of-thieves-without-the-pvp-this-pirate-themed-survival-game-just-left-early-access-with-a-big-update-and-a-launch-discount/)
- - [Samsung Quietly Unloads Its T9 4TB SSDs on Amazon, Now Selling at a New All-Time Low](https://kotaku.com/samsung-quietly-unloads-its-t9-4tb-ssds-on-amazon-now-selling-at-a-new-all-time-low-2000644574)<!-- GAME:END -->
+ - [Lenovo’s 15-Inch 512GB Laptop Is Nearly Free, Amazon Cuts Prices by 78% and Wants It All Gone](https://kotaku.com/lenovos-15-inch-512gb-laptop-is-nearly-free-amazon-cuts-prices-by-78-and-wants-it-all-gone-2000644589)
+ - [This Pair of Magnetic Wireless Chargers Costs Peanuts, Now Cheaper Than an Apple Charging Cable](https://kotaku.com/this-pair-of-magnetic-wireless-chargers-costs-peanuts-now-cheaper-than-an-apple-charging-cable-2000644584)
+ - [This Tiny Gadget Lets You Connect Your Bluetooth Headphones to the Plane’s Screen, and It Costs Pennies](https://kotaku.com/this-tiny-gadget-lets-you-connect-your-bluetooth-headphones-to-the-planes-screen-and-it-costs-pennies-2000644579)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
