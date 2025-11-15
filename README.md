@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Touchdown! Disney, ESPN and Other Channels Are Back on YouTube TV](https://www.cnet.com/tech/services-and-software/touchdown-disney-espn-and-other-channels-are-back-on-youtube-tv/#ftag=CAD590a51e)
- - [Sources: Apptronik, a humanoid robot maker backed by Google, is in the process of raising at least $400M led by B Capital at a $5B pre-money valuation &lpar;The Information&rpar;](http://www.techmeme.com/251114/p33#a251114p33)
- - [YouTube TV, ESPN, and Disney: the latest on the blackout that’s now over](https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates)<!-- TECH:END -->
+ - [Sources: Apple is intensifying CEO succession planning as Tim Cook, now 65, may step down as early as next year, with John Ternus seen as the likely successor &lpar;Financial Times&rpar;](http://www.techmeme.com/251114/p35#a251114p35)
+ - [Data Center Watch: local opposition blocked or delayed 17 US data center projects worth $98B in Q2 2025, vs. 16 projects worth $64B from May 2024 to March 2025 &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/251114/p34#a251114p34)
+ - [Touchdown! Disney, ESPN and Other Channels Are Back on YouTube TV](https://www.cnet.com/tech/services-and-software/touchdown-disney-espn-and-other-channels-are-back-on-youtube-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
