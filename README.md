@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [C: Can&#39;t tell.](http://9gag.com/gag/a34e641)
- - 😝 [All hail Lord Gaben](http://9gag.com/gag/aAyq8wL)
- - 👉 [The bird even realized he had won](http://9gag.com/gag/aYQZ3Rq)<!-- MEMES:END -->
+ - 6️⃣ [No one reads this anyway](http://9gag.com/gag/a4PmOpw)
+ - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
+ - 👉 [And here we all grew up thinking these goddamn things lived off bananas](http://9gag.com/gag/aGy64yZ)<!-- MEMES:END -->
 
 --- 
 
