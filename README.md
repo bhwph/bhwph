@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deborah Ann Woll turned an entire village into a D&amp;D escape room](https://www.polygon.com/deborah-ann-woll-tales-from-woodcreek-escape-room/)
- - [That weird Pac-Man metroidvania just got a big update, adding a new mode that &#39;significantly lowers the difficulty of combat and exploration&#39;](https://www.pcgamer.com/games/action/that-weird-pac-man-metroidvania-just-got-a-big-update-adding-a-new-mode-that-significantly-lowers-the-difficulty-of-combat-and-exploration/)
- - [3 Netflix shows you need to binge this November weekend](https://www.polygon.com/netflix-shows-binge-weekend-nov-15-16/)<!-- GAME:END -->
+ - [Desperately seeking my Arc Raiders missed connection](https://www.polygon.com/arc-raiders-missed-connection/)
+ - [Fancy playing Sea of Thieves without the PvP? This pirate-themed survival game just left early access with a big update and a launch discount](https://www.pcgamer.com/games/survival-crafting/fancy-playing-sea-of-thieves-without-the-pvp-this-pirate-themed-survival-game-just-left-early-access-with-a-big-update-and-a-launch-discount/)
+ - [Samsung Quietly Unloads Its T9 4TB SSDs on Amazon, Now Selling at a New All-Time Low](https://kotaku.com/samsung-quietly-unloads-its-t9-4tb-ssds-on-amazon-now-selling-at-a-new-all-time-low-2000644574)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
