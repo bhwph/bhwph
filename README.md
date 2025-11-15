@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [28 Top Personalized Gifts to Bring Joy and Cheer This Holiday Season](https://www.cnet.com/news/best-personalized-gifts/#ftag=CAD590a51e)
- - [A profile of Meta Chief AI Scientist Yann LeCun, reportedly leaving after being sidelined, who says LLMs are a dead end for AGI and backs world models instead &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/251115/p1#a251115p1)
- - [25% Off DoorDash Promo Code | November 2025](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
+ - [Should you buy the OnePlus 15 or wait for the Galaxy S26 Ultra?](https://www.androidauthority.com/oneplus-15-vs-galaxy-s26-ultra-3615087/)
+ - [When Will the US Finally Get $15K EVs?](https://www.wired.com/story/when-will-the-us-finally-get-dollar15k-evs/)
+ - [28 Top Personalized Gifts to Bring Joy and Cheer This Holiday Season](https://www.cnet.com/news/best-personalized-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
