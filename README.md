@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s early Black Friday M5 MacBook Pro deal delivers lowest price ever at $1,476](https://appleinsider.com/articles/25/11/14/amazons-early-black-friday-m5-macbook-pro-deal-delivers-lowest-price-ever-at-1478?utm_source=rss)
- - [Apple updates App Review Guidelines to require apps to disclose and obtain users&#39; permission before sharing personal data with third-party AI providers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251115/p5#a251115p5)
- - [Best early Black Friday MacBook Air deals slash up to $600 off](https://appleinsider.com/articles/25/11/15/best-early-black-friday-macbook-air-deals-slash-up-to-600-off?utm_source=rss)<!-- TECH:END -->
+ - [The current AI strategies of China and the US are complementary, as unlike the US, China isn&#39;t &quot;AGI-pilled&quot; yet, focusing on embodied AI and open source models &lpar;Dean W. Ball/Hyperdimensional&rpar;](http://www.techmeme.com/251115/p6#a251115p6)
+ - [Tim Cook could step down as Apple CEO next year](https://www.theverge.com/news/821691/tim-cook-step-down-apple-ceo-next-year)
+ - [A Google Photos AI Editing Feature Isn&#39;t Available in These States. We Asked Lawyers Why](https://www.cnet.com/tech/services-and-software/a-google-photos-ai-editing-feature-isnt-available-in-these-states-we-asked-lawyers-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
