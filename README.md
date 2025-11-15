@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Possessor&lpar;s&rpar; is a fast-paced action game that gets off to a slow start](https://www.theverge.com/games/821117/possessors-review-pc-ps5)
- - [Apple&#39;s iPhone Pocket Is a $230 Gadget Mankini. We Tried It Out to Size It Up](https://www.cnet.com/tech/mobile/apples-iphone-pocket-is-a-230-gadget-mankini-we-tried-it-out-to-size-it-up/#ftag=CAD590a51e)
- - [&#39;Landman&#39; Season 2: How to Watch the First Episode of the Oil Drama](https://www.cnet.com/tech/services-and-software/landman-season-2-how-to-watch-the-first-episode-of-the-oil-drama/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s early Black Friday M5 MacBook Pro deal delivers lowest price ever at $1,476](https://appleinsider.com/articles/25/11/14/amazons-early-black-friday-m5-macbook-pro-deal-delivers-lowest-price-ever-at-1478?utm_source=rss)
+ - [Apple updates App Review Guidelines to require apps to disclose and obtain users&#39; permission before sharing personal data with third-party AI providers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251115/p5#a251115p5)
+ - [Best early Black Friday MacBook Air deals slash up to $600 off](https://appleinsider.com/articles/25/11/15/best-early-black-friday-macbook-air-deals-slash-up-to-600-off?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
