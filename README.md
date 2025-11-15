@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should you buy the OnePlus 15 or wait for the Galaxy S26 Ultra?](https://www.androidauthority.com/oneplus-15-vs-galaxy-s26-ultra-3615087/)
- - [When Will the US Finally Get $15K EVs?](https://www.wired.com/story/when-will-the-us-finally-get-dollar15k-evs/)
- - [28 Top Personalized Gifts to Bring Joy and Cheer This Holiday Season](https://www.cnet.com/news/best-personalized-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The &#39;Secret&#39; to Healthy Aging Isn&#39;t a Secret. It&#39;s These 6 Expert-Backed Vitamins](https://www.cnet.com/health/nutrition/the-secret-to-healthy-aging-isnt-a-secret-its-these-6-expert-backed-vitamins/#ftag=CAD590a51e)
+ - [In the Age of AI, What Does Meaning Look Like?](https://www.cnet.com/tech/services-and-software/in-the-age-of-ai-what-does-meaning-look-like/#ftag=CAD590a51e)
+ - [Hear me out: OPPO doesn’t want OnePlus to succeed](https://www.androidauthority.com/oppo-doesnt-want-oneplus-to-succeed-3613564/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
