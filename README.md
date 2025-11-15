@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The &#39;Secret&#39; to Healthy Aging Isn&#39;t a Secret. It&#39;s These 6 Expert-Backed Vitamins](https://www.cnet.com/health/nutrition/the-secret-to-healthy-aging-isnt-a-secret-its-these-6-expert-backed-vitamins/#ftag=CAD590a51e)
- - [In the Age of AI, What Does Meaning Look Like?](https://www.cnet.com/tech/services-and-software/in-the-age-of-ai-what-does-meaning-look-like/#ftag=CAD590a51e)
- - [Hear me out: OPPO doesn’t want OnePlus to succeed](https://www.androidauthority.com/oppo-doesnt-want-oneplus-to-succeed-3613564/)<!-- TECH:END -->
+ - [Analog Photography: The Beginner’s Guide to Film Cameras &lpar;2025&rpar;](https://www.wired.com/story/film-photography-beginners-guide/)
+ - [Framework’s franken-laptop is back with big chip upgrades and familiar frustrations](https://www.theverge.com/tech/821420/framework-laptop-16-2025-nvidia-rtx5070-review)
+ - [This New Car Feature Uses AI to Keep You From Missing Your Exit](https://www.cnet.com/roadshow/news/this-new-car-feature-uses-ai-to-keep-you-from-missing-your-exit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
