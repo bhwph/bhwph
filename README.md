@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Outer Worlds 2 has a waypoint problem](https://www.polygon.com/outer-worlds-2-maps-bad/)
- - [The life and death of Call of Duty&#39;s most controversial mechanic, the boost jump: &#39;They almost threw me out of the room&#39;](https://www.pcgamer.com/games/call-of-duty/the-life-and-death-of-call-of-dutys-most-controversial-mechanic-the-boost-jump-they-almost-threw-me-out-of-the-room/)
- - [Anno 117: Pax Romana&#39;s best secret is a stunning first-person mode](https://www.polygon.com/anno-117-pax-romana-secret-first-person-mode/)<!-- GAME:END -->
+ - [Mashle season 3: There’s still time to catch up on this hilarious Harry Potter anime parody](https://www.polygon.com/mashle-muscles-magic-review-netflix/)
+ - [To celebrate Fallout: New Vegas&#39; 15th birthday, one mad lad lugged a CRT and an Xbox 360 to the fan gathering at the real Goodsprings to play the game outside the Prospector Saloon](https://www.pcgamer.com/games/rpg/to-celebrate-fallout-new-vegas-15th-birthday-one-mad-lad-lugged-a-crt-and-an-xbox-360-to-the-fan-gathering-at-the-real-goodsprings-to-play-the-game-outside-the-prospector-saloon/)
+ - [Shortly after Concord&#39;s resurrection by fans, it looks like Sony might be about to kill it again: &#39;Due to worrying legal action we’ve decided to pause invites for the time being&#39;](https://www.pcgamer.com/games/fps/shortly-after-concords-resurrection-by-fans-it-looks-like-sony-might-be-about-to-kill-it-again-due-to-worrying-legal-action-weve-decided-to-pause-invites-for-the-time-being/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
