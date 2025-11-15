@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple Skips Black Friday at Its Stores, But Quietly Drops the MacBook Air to a New All-Time Low on Amazon](https://kotaku.com/apple-skips-black-friday-at-its-stores-but-quietly-drops-the-macbook-air-to-a-new-all-time-low-on-amazon-2000644485)
- - [Amazon Drops Its First Major Black Friday Deal on a Power Station, Now Selling for Pennies at 1500W Output](https://kotaku.com/amazon-drops-its-first-major-black-friday-deal-on-a-power-station-now-selling-for-pennies-at-1500w-output-2000644481)
- - [One of 2025&#39;s best games won&#39;t get a sequel, says its developer: &#39;Each of my projects will be completely standalone&#39;](https://www.pcgamer.com/games/puzzle/my-favorite-game-of-2025-wont-get-a-sequel-says-its-developer-each-of-my-projects-will-be-completely-standalone/)<!-- GAME:END -->
+ - [How to get Go Safari Balls in Pokémon Go](https://www.polygon.com/pokemon-go-guide/483165/go-safari-balls-how-to-get/)
+ - [How to get mighty Pokémon in Pokémon Go](https://www.polygon.com/pokemon-go-guide/483905/mighty-pokemon-list-schedule-moves/)
+ - [Pokémon Go &#39;A Grim Beginning&#39; choose a path quest steps: dark or fairy?](https://www.polygon.com/pokemon-go-wild-area-2025-choose-a-path-research-dark-fairy/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
