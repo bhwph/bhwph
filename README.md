@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [MORE POWER](http://9gag.com/gag/a34eXL8)
- - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
- - 👉 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)<!-- MEMES:END -->
+ - 6️⃣ [President of Tanzania. Charges main opponent with treason. Wins election by 97.66%. Shuts down the internet and sends in security forces when people protest. Many people dead](http://9gag.com/gag/ary9QN6)
+ - 😝 [MORE POWER](http://9gag.com/gag/a34eXL8)
+ - 👉 [Who had Ubisoft for November?](http://9gag.com/gag/azxo3op)<!-- MEMES:END -->
 
 --- 
 
