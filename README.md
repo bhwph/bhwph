@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lenovo’s 15-Inch 512GB Laptop Is Nearly Free, Amazon Cuts Prices by 78% and Wants It All Gone](https://kotaku.com/lenovos-15-inch-512gb-laptop-is-nearly-free-amazon-cuts-prices-by-78-and-wants-it-all-gone-2000644589)
- - [This Pair of Magnetic Wireless Chargers Costs Peanuts, Now Cheaper Than an Apple Charging Cable](https://kotaku.com/this-pair-of-magnetic-wireless-chargers-costs-peanuts-now-cheaper-than-an-apple-charging-cable-2000644584)
- - [This Tiny Gadget Lets You Connect Your Bluetooth Headphones to the Plane’s Screen, and It Costs Pennies](https://kotaku.com/this-tiny-gadget-lets-you-connect-your-bluetooth-headphones-to-the-planes-screen-and-it-costs-pennies-2000644579)<!-- GAME:END -->
+ - [The Outer Worlds 2 has a waypoint problem](https://www.polygon.com/outer-worlds-2-maps-bad/)
+ - [The life and death of Call of Duty&#39;s most controversial mechanic, the boost jump: &#39;They almost threw me out of the room&#39;](https://www.pcgamer.com/games/call-of-duty/the-life-and-death-of-call-of-dutys-most-controversial-mechanic-the-boost-jump-they-almost-threw-me-out-of-the-room/)
+ - [Anno 117: Pax Romana&#39;s best secret is a stunning first-person mode](https://www.polygon.com/anno-117-pax-romana-secret-first-person-mode/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
