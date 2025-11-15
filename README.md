@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
- - 👉 [Who had Ubisoft for November?](http://9gag.com/gag/azxo3op)<!-- MEMES:END -->
+ - 6️⃣ [C: Can&#39;t tell.](http://9gag.com/gag/a34e641)
+ - 😝 [All hail Lord Gaben](http://9gag.com/gag/aAyq8wL)
+ - 👉 [The bird even realized he had won](http://9gag.com/gag/aYQZ3Rq)<!-- MEMES:END -->
 
 --- 
 
