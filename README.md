@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Apple product haul worth $320,000 is recovered](https://appleinsider.com/articles/25/11/16/crime-blotter-apple-product-haul-worth-320000-is-recovered?utm_source=rss)
- - [I built my smart home with Google; here’s how it fell apart](https://www.androidauthority.com/i-built-smart-home-with-google-it-fell-apart-3615955/)
- - [How Genes Have Harnessed Physics to Grow Living Things](https://www.wired.com/story/how-genes-have-harnessed-physics-to-grow-living-things/)<!-- TECH:END -->
+ - [7 reasons you might want to jailbreak your Kindle](https://www.androidauthority.com/kindle-jailbreak-reasons-3614190/)
+ - [Marshall Heston 120 Review: Premium Style, Restrained Sound](https://www.wired.com/review/marshall-heston-120/)
+ - [iPhone Air isn&#39;t annual, iPhone Air 2 was never coming in 2026](https://appleinsider.com/articles/25/11/16/iphone-air-isnt-annual-iphone-air-2-was-never-coming-in-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
