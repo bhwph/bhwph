@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Who will be nominated for Game of the Year 2025?](https://www.polygon.com/video/game-of-the-year-2025-nominations-predictions/)
- - [Black Ops 7&#39;s biggest improvement is its most simple, finally giving us upgrades for its unique scorestreaks and equipment](https://www.pcgamer.com/games/call-of-duty/black-ops-7-overclocks-system/)
- - [A Pizza Delivery review: Death Stranding for fans of minimalism](https://www.polygon.com/a-pizza-delivery-review/)<!-- GAME:END -->
+ - [The best artillery-themed party game is celebrating its 30th anniversary, and you can get all the series&#39; best entries for less than five bucks](https://www.pcgamer.com/games/strategy/the-best-artillery-themed-party-game-is-celebrating-its-30th-anniversary-and-you-can-get-all-the-series-best-entries-for-less-than-five-bucks/)
+ - [No wardrobe space, no money? No problem: I&#39;ve just discovered in-game cosplay and now I&#39;ll never look at character creators in the same way](https://www.pcgamer.com/games/no-wardrobe-space-no-money-no-problem-ive-just-discovered-in-game-cosplay-and-now-ill-never-look-at-character-creators-in-the-same-way/)
+ - [SS Rajamouli calls Varanasi&#39;s villain &quot;one of my finest characters&quot;](https://www.polygon.com/ss-rajamoulis-new-movie-varasani-features-a-terrifying-villain-star-says/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
