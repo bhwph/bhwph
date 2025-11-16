@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Plus has an underrated gem in the secretly great Rescuers Down Under](https://www.polygon.com/the-rescuers-down-under-anniversary/)
- - [LG’s 240Hz 34-Inch Curved OLED Monitor Goes at New All-Time Low, Black Friday Has Started Early](https://kotaku.com/lg-drops-major-black-friday-deal-on-its-240hz-34-inch-curved-oled-monitor-now-at-new-all-time-low-2000644620)
- - [Massive 2200W Power Station Slashed 54% Off, Now Priced at Budget Gas Generator Levels Without the Stink and Noise](https://kotaku.com/massive-2200w-power-station-slashed-54-off-now-priced-at-budget-gas-generator-levels-without-the-stink-and-noise-2000644610)<!-- GAME:END -->
+ - [Will we see God in Hazbin Hotel season two?](https://www.polygon.com/video/god-hazbin-hotel-season-two-vivienne-medrano-interview/)
+ - [Slot machine roguelike CloverPit sells 1 million copies, and its developer celebrates the payout by adding its &#39;most requested feature yet&#39;](https://www.pcgamer.com/games/roguelike/slot-machine-roguelike-cloverpit-sells-1-million-copies-and-its-developer-celebrates-the-payout-by-adding-its-most-requested-feature-yet/)
+ - [Disney Plus has an underrated gem in the secretly great Rescuers Down Under](https://www.polygon.com/the-rescuers-down-under-anniversary/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
