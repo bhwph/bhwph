@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Come: Deliverance 2 is the best RPG I’ve ever played](https://www.polygon.com/kingdom-come-deliverance-2-best-rpg-2025/)
- - [The creators of zombie survival hit Vein say its launch was &#39;much larger than expected&#39; and there will be &#39;a bit of a transition period&#39; as it looks toward future updates](https://www.pcgamer.com/games/survival-crafting/the-creators-of-zombie-survival-hit-vein-say-its-launch-was-much-larger-than-expected-and-there-will-be-a-bit-of-a-transition-period-as-it-looks-toward-future-updates/)
- - [Galaxy Z Fold7 Lands Its First Major Black Friday Deal, Samsung Drops Foldable Phone to New All-Time Low](https://kotaku.com/galaxy-z-fold7-lands-its-first-major-black-friday-deal-samsung-drops-foldable-phone-to-new-all-time-low-2000644615)<!-- GAME:END -->
+ - [Who will be nominated for Game of the Year 2025?](https://www.polygon.com/video/game-of-the-year-2025-nominations-predictions/)
+ - [Black Ops 7&#39;s biggest improvement is its most simple, finally giving us upgrades for its unique scorestreaks and equipment](https://www.pcgamer.com/games/call-of-duty/black-ops-7-overclocks-system/)
+ - [A Pizza Delivery review: Death Stranding for fans of minimalism](https://www.polygon.com/a-pizza-delivery-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
