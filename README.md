@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 👉 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)<!-- MEMES:END -->
+ - 6️⃣ [Impossible to forget](http://9gag.com/gag/aGy6WDK)
+ - 😝 [From the archive...](http://9gag.com/gag/a0ezB0d)
+ - 👉 [Handsome young man](http://9gag.com/gag/aRB9Y5q)<!-- MEMES:END -->
 
 --- 
 
