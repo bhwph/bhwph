@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This highly rated robot vacuum just plunged $500 in Amazon’s Black Friday sale](https://www.androidauthority.com/shark-powerdetect-thermacharged-robot-vacuum-deal-3616145/)
- - [Best Organic Mattresses &lpar;2025&rpar;: Birch, Avocado, Naturepedic, More](https://www.wired.com/gallery/best-organic-mattresses/)
- - [The best gifts for dads that have everything &lpar;but deserve more&rpar;](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas)<!-- TECH:END -->
+ - [Keep holiday lights shining with Bluetti&#39;s new Elite 400 &amp; B500K home battery backup &amp; save up to 65% for Black Friday](https://appleinsider.com/articles/25/11/16/keep-holiday-lights-shining-with-bluettis-new-elite-400-b500k-home-battery-backup-save-up-to-65-for-black-friday?utm_source=rss)
+ - [Samsung, SK Group, and others announce billions in domestic investment after US-South Korea trade deal; Samsung plans to invest $310B and SK Group pledged $88B &lpar;Kim Tong-Hyung/Associated Press&rpar;](http://www.techmeme.com/251116/p4#a251116p4)
+ - [The iOS 26 Feature Secretly Extending Your iPhone&#39;s Battery Life](https://www.cnet.com/tech/mobile/the-ios-26-feature-secretly-extending-your-iphones-battery-life/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
