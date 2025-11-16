@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
+ - 6️⃣ [Polio](http://9gag.com/gag/aYQZ38x)
  - 😝 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
- - 👉 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)<!-- MEMES:END -->
+ - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
 
 --- 
 
