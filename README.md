@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nearly two years out, is T-Life finally any good or is it still a mess?](https://www.androidauthority.com/t-life-any-good-3612891/)
- - [NFL Madrid Game: Watch Commanders vs. Dolphins This Morning](https://www.cnet.com/tech/services-and-software/nfl-madrid-game-how-to-watch-commanders-vs-dolphins-this-morning/#ftag=CAD590a51e)
- - [Sources: Vinted is exploring a share sale that could value the company at ~€8B; Vinted says it expects 2025 revenue to cross €1B+, up from €813M in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/251116/p1#a251116p1)<!-- TECH:END -->
+ - [Crime blotter: Apple product haul worth $320,000 is recovered](https://appleinsider.com/articles/25/11/16/crime-blotter-apple-product-haul-worth-320000-is-recovered?utm_source=rss)
+ - [I built my smart home with Google; here’s how it fell apart](https://www.androidauthority.com/i-built-smart-home-with-google-it-fell-apart-3615955/)
+ - [How Genes Have Harnessed Physics to Grow Living Things](https://www.wired.com/story/how-genes-have-harnessed-physics-to-grow-living-things/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
