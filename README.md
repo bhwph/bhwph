@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Massive 2200W Power Station Slashed 54% Off, Now Priced at Budget Gas Generator Levels Without the Stink and Noise](https://kotaku.com/massive-2200w-power-station-slashed-54-off-now-priced-at-budget-gas-generator-levels-without-the-stink-and-noise-2000644610)
- - [Dell Dumps Its Vostro 1TB Laptop for 70% Off, Now Selling for What Generic Budget Laptops Cost](https://kotaku.com/dell-dumps-its-vostro-1tb-laptop-for-70-off-now-selling-for-what-generic-budget-laptops-cost-2000644605)
- - [&#39;We definitely cut some sex scenes&#39;: There could have been an even raunchier version of superhero comedy Dispatch](https://www.pcgamer.com/games/adventure/we-definitely-cut-some-sex-scenes-there-could-have-been-an-even-raunchier-version-of-superhero-comedy-dispatch/)<!-- GAME:END -->
+ - [Disney Plus has an underrated gem in the secretly great Rescuers Down Under](https://www.polygon.com/the-rescuers-down-under-anniversary/)
+ - [LG’s 240Hz 34-Inch Curved OLED Monitor Goes at New All-Time Low, Black Friday Has Started Early](https://kotaku.com/lg-drops-major-black-friday-deal-on-its-240hz-34-inch-curved-oled-monitor-now-at-new-all-time-low-2000644620)
+ - [Massive 2200W Power Station Slashed 54% Off, Now Priced at Budget Gas Generator Levels Without the Stink and Noise](https://kotaku.com/massive-2200w-power-station-slashed-54-off-now-priced-at-budget-gas-generator-levels-without-the-stink-and-noise-2000644610)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
