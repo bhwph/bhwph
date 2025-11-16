@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Polio](http://9gag.com/gag/aYQZ38x)
- - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
+ - 6️⃣ [Do not blink...](http://9gag.com/gag/awyPwn8)
+ - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
  - 👉 [And here we all grew up thinking these goddamn things lived off bananas](http://9gag.com/gag/aGy64yZ)<!-- MEMES:END -->
 
 --- 
