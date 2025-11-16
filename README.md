@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Vinted is exploring a share sale that could value the company at ~€8B; Vinted says it expects 2025 revenue to cross €1B+, up from €813M in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/251116/p1#a251116p1)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Nov. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-nov-16/#ftag=CAD590a51e)
- - [Dealogic: 51 US tech IPOs raised $16.8B in 2025, driven by AI and crypto, above the past three-year average but far below 2021&#39;s 127 IPOs raising $74.4B &lpar;Valida Pau/The Information&rpar;](http://www.techmeme.com/251115/p9#a251115p9)<!-- TECH:END -->
+ - [Nearly two years out, is T-Life finally any good or is it still a mess?](https://www.androidauthority.com/t-life-any-good-3612891/)
+ - [NFL Madrid Game: Watch Commanders vs. Dolphins This Morning](https://www.cnet.com/tech/services-and-software/nfl-madrid-game-how-to-watch-commanders-vs-dolphins-this-morning/#ftag=CAD590a51e)
+ - [Sources: Vinted is exploring a share sale that could value the company at ~€8B; Vinted says it expects 2025 revenue to cross €1B+, up from €813M in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/251116/p1#a251116p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
