@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)
- - 😝 [Polio](http://9gag.com/gag/aYQZ38x)
- - 👉 [Just make them bigger](http://9gag.com/gag/a4PmDLp)<!-- MEMES:END -->
+ - 6️⃣ [Please do not the elk. He will kill you and we will record it.](http://9gag.com/gag/aqyBq6L)
+ - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
+ - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
 
 --- 
 
