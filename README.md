@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Will we see God in Hazbin Hotel season two?](https://www.polygon.com/video/god-hazbin-hotel-season-two-vivienne-medrano-interview/)
- - [Slot machine roguelike CloverPit sells 1 million copies, and its developer celebrates the payout by adding its &#39;most requested feature yet&#39;](https://www.pcgamer.com/games/roguelike/slot-machine-roguelike-cloverpit-sells-1-million-copies-and-its-developer-celebrates-the-payout-by-adding-its-most-requested-feature-yet/)
- - [Disney Plus has an underrated gem in the secretly great Rescuers Down Under](https://www.polygon.com/the-rescuers-down-under-anniversary/)<!-- GAME:END -->
+ - [Kingdom Come: Deliverance 2 is the best RPG I’ve ever played](https://www.polygon.com/kingdom-come-deliverance-2-best-rpg-2025/)
+ - [The creators of zombie survival hit Vein say its launch was &#39;much larger than expected&#39; and there will be &#39;a bit of a transition period&#39; as it looks toward future updates](https://www.pcgamer.com/games/survival-crafting/the-creators-of-zombie-survival-hit-vein-say-its-launch-was-much-larger-than-expected-and-there-will-be-a-bit-of-a-transition-period-as-it-looks-toward-future-updates/)
+ - [Galaxy Z Fold7 Lands Its First Major Black Friday Deal, Samsung Drops Foldable Phone to New All-Time Low](https://kotaku.com/galaxy-z-fold7-lands-its-first-major-black-friday-deal-samsung-drops-foldable-phone-to-new-all-time-low-2000644615)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
