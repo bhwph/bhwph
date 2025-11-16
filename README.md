@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best artillery-themed party game is celebrating its 30th anniversary, and you can get all the series&#39; best entries for less than five bucks](https://www.pcgamer.com/games/strategy/the-best-artillery-themed-party-game-is-celebrating-its-30th-anniversary-and-you-can-get-all-the-series-best-entries-for-less-than-five-bucks/)
- - [No wardrobe space, no money? No problem: I&#39;ve just discovered in-game cosplay and now I&#39;ll never look at character creators in the same way](https://www.pcgamer.com/games/no-wardrobe-space-no-money-no-problem-ive-just-discovered-in-game-cosplay-and-now-ill-never-look-at-character-creators-in-the-same-way/)
- - [SS Rajamouli calls Varanasi&#39;s villain &quot;one of my finest characters&quot;](https://www.polygon.com/ss-rajamoulis-new-movie-varasani-features-a-terrifying-villain-star-says/)<!-- GAME:END -->
+ - [Ubisoft touches up AI art &#39;placeholder&#39; that slipped into Anno 117, but fans are not happy it was there to begin with: &#39;Of all the video games, not Anno&#39;](https://www.pcgamer.com/games/city-builder/ubisoft-touches-up-ai-art-placeholder-that-slipped-into-anno-117-but-fans-are-not-happy-it-was-there-to-begin-with-of-all-the-video-games-not-anno/)
+ - [GTA 6 might throw the 2026 Game of the Year vote into chaos](https://www.polygon.com/gta-6-delay-game-awards-goty-2026/)
+ - [Walton Goggins and Aaron Moten make surprise appearance at New Vegas fan convention in the real-life Goodsprings, remind us that Fallout season 3 is already confirmed](https://www.pcgamer.com/games/fallout/walton-goggins-and-aaron-moten-make-surprise-appearance-at-new-vegas-fan-convention-in-the-real-life-goodsprings-remind-us-that-fallout-season-3-is-already-confirmed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
