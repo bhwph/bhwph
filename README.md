@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 reasons you might want to jailbreak your Kindle](https://www.androidauthority.com/kindle-jailbreak-reasons-3614190/)
- - [Marshall Heston 120 Review: Premium Style, Restrained Sound](https://www.wired.com/review/marshall-heston-120/)
- - [iPhone Air isn&#39;t annual, iPhone Air 2 was never coming in 2026](https://appleinsider.com/articles/25/11/16/iphone-air-isnt-annual-iphone-air-2-was-never-coming-in-2026?utm_source=rss)<!-- TECH:END -->
+ - [This highly rated robot vacuum just plunged $500 in Amazon’s Black Friday sale](https://www.androidauthority.com/shark-powerdetect-thermacharged-robot-vacuum-deal-3616145/)
+ - [Best Organic Mattresses &lpar;2025&rpar;: Birch, Avocado, Naturepedic, More](https://www.wired.com/gallery/best-organic-mattresses/)
+ - [The best gifts for dads that have everything &lpar;but deserve more&rpar;](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
