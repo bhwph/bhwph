@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
+ - 6️⃣ [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
+ - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
+ - 👉 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)<!-- MEMES:END -->
 
 --- 
 
