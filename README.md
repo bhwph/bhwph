@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [One artist is reimagining the first Metal Gear you&#39;ve never played as an anime follow-up to The Phantom Pain](https://www.pcgamer.com/games/action/one-artist-is-reimagining-the-first-metal-gear-youve-never-played-as-an-anime-follow-up-to-the-phantom-pain/)
  - [Ubisoft touches up AI art &#39;placeholder&#39; that slipped into Anno 117, but fans are not happy it was there to begin with: &#39;Of all the video games, not Anno&#39;](https://www.pcgamer.com/games/city-builder/ubisoft-touches-up-ai-art-placeholder-that-slipped-into-anno-117-but-fans-are-not-happy-it-was-there-to-begin-with-of-all-the-video-games-not-anno/)
- - [GTA 6 might throw the 2026 Game of the Year vote into chaos](https://www.polygon.com/gta-6-delay-game-awards-goty-2026/)
- - [Walton Goggins and Aaron Moten make surprise appearance at New Vegas fan convention in the real-life Goodsprings, remind us that Fallout season 3 is already confirmed](https://www.pcgamer.com/games/fallout/walton-goggins-and-aaron-moten-make-surprise-appearance-at-new-vegas-fan-convention-in-the-real-life-goodsprings-remind-us-that-fallout-season-3-is-already-confirmed/)<!-- GAME:END -->
+ - [GTA 6 might throw the 2026 Game of the Year vote into chaos](https://www.polygon.com/gta-6-delay-game-awards-goty-2026/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
