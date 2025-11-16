@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Former id Software artist argues performance and optimization is &#39;as much of an art problem&#39; as a tech one: &#39;Killzone 2 looks incredible today. FEAR looks incredible today&#39;](https://www.pcgamer.com/games/fps/former-id-software-artist-argues-performance-and-optimization-is-as-much-of-an-art-problem-as-a-tech-one-killzone-2-looks-incredible-today-fear-looks-incredible-today/)
- - [Mashle season 3: There’s still time to catch up on this hilarious Harry Potter anime parody](https://www.polygon.com/mashle-muscles-magic-review-netflix/)
- - [To celebrate Fallout: New Vegas&#39; 15th birthday, one mad lad lugged a CRT and an Xbox 360 to the fan gathering at the real Goodsprings to play the game outside the Prospector Saloon](https://www.pcgamer.com/games/rpg/to-celebrate-fallout-new-vegas-15th-birthday-one-mad-lad-lugged-a-crt-and-an-xbox-360-to-the-fan-gathering-at-the-real-goodsprings-to-play-the-game-outside-the-prospector-saloon/)<!-- GAME:END -->
+ - [Massive 2200W Power Station Slashed 54% Off, Now Priced at Budget Gas Generator Levels Without the Stink and Noise](https://kotaku.com/massive-2200w-power-station-slashed-54-off-now-priced-at-budget-gas-generator-levels-without-the-stink-and-noise-2000644610)
+ - [Dell Dumps Its Vostro 1TB Laptop for 70% Off, Now Selling for What Generic Budget Laptops Cost](https://kotaku.com/dell-dumps-its-vostro-1tb-laptop-for-70-off-now-selling-for-what-generic-budget-laptops-cost-2000644605)
+ - [&#39;We definitely cut some sex scenes&#39;: There could have been an even raunchier version of superhero comedy Dispatch](https://www.pcgamer.com/games/adventure/we-definitely-cut-some-sex-scenes-there-could-have-been-an-even-raunchier-version-of-superhero-comedy-dispatch/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
