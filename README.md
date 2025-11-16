@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
- - 😝 [Do not blink...](http://9gag.com/gag/awyPwn8)
- - 👉 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)<!-- MEMES:END -->
+ - 6️⃣ [Polio](http://9gag.com/gag/aYQZ38x)
+ - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
+ - 👉 [And here we all grew up thinking these goddamn things lived off bananas](http://9gag.com/gag/aGy64yZ)<!-- MEMES:END -->
 
 --- 
 
