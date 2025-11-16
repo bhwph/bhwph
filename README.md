@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 16, #419](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-16-419/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 16 #623](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-16-623/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 16, #889](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-16-889/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some experts question Anthropic&#39;s claims of cyberattack breakthroughs using its tools, noting that white-hat hackers report modest gains from AI-aided hacking &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/251115/p7#a251115p7)
+ - [Deepfake Videos Are More Realistic Than Ever. Here&#39;s How to Spot if a Video Is Real or AI](https://www.cnet.com/tech/services-and-software/deepfake-videos-are-more-realistic-than-ever-heres-how-to-spot-if-a-video-is-real-or-ai/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 16 #623](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-16-623/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
