@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GameStop Will Let You Turn In A Deer Head For GTA 6 Discounts In ‘Trade Anything’ Stunt](https://kotaku.com/gamestop-trade-anything-taxidermy-store-credit-2000644850)
- - [Stalker 2 has faction wars now: Enemies &#39;can expand control over new territories&#39; in its 1.7 jumbo patch that also adds mega-hard mode and makes hiding in bushes meaningful](https://www.pcgamer.com/games/fps/stalker-2-has-faction-wars-now-enemies-can-expand-control-over-new-territories-in-its-1-7-jumbo-patch-that-also-adds-mega-hard-mode-and-makes-hiding-in-bushes-meaningful/)
- - [Phasmophobia devs say all that live service malarkey can do one: they focus on making &#39;a fun game that people want to play because it&#39;s fun&#39;](https://www.pcgamer.com/games/phasmophobia-devs-say-all-that-live-service-malarkey-can-do-one-they-focus-on-making-a-fun-game-that-people-want-to-play-because-its-fun/)<!-- GAME:END -->
+ - [The biggest snubs from the 2025 Game Awards nominees](https://www.polygon.com/game-awards-2025-snubs-tga/)
+ - [&#39;I&#39;ve had so many projects that have been discontinued lately&#39;: Nier creator Yoko Taro says he&#39;s been working of plenty games—but they keep getting cancelled before he can announce them](https://www.pcgamer.com/gaming-industry/ive-had-so-many-projects-that-have-been-discontinued-lately-nier-creator-yoko-taro-says-hes-been-working-of-plenty-games-but-they-keep-getting-cancelled-before-he-can-announce-them/)
+ - [Moana’s Live-Action Remake Looks Like A CG Mess In First Trailer](https://kotaku.com/moana-trailer-live-action-remake-rock-dwayne-johnson-2000644899)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
