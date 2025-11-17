@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The biggest snubs from the 2025 Game Awards nominees](https://www.polygon.com/game-awards-2025-snubs-tga/)
- - [&#39;I&#39;ve had so many projects that have been discontinued lately&#39;: Nier creator Yoko Taro says he&#39;s been working of plenty games—but they keep getting cancelled before he can announce them](https://www.pcgamer.com/gaming-industry/ive-had-so-many-projects-that-have-been-discontinued-lately-nier-creator-yoko-taro-says-hes-been-working-of-plenty-games-but-they-keep-getting-cancelled-before-he-can-announce-them/)
- - [Moana’s Live-Action Remake Looks Like A CG Mess In First Trailer](https://kotaku.com/moana-trailer-live-action-remake-rock-dwayne-johnson-2000644899)<!-- GAME:END -->
+ - [Escape From Tarkov Is Finally On Steam And Nobody’s Happy](https://kotaku.com/escape-from-tarkov-steam-1-0-unheard-edition-2000644941)
+ - [&#39;Hytale is saved&#39;: Riot sells cancelled game back to original co-founder, who promises to take it &#39;back to the original vision for Hytale&#39;](https://www.pcgamer.com/games/adventure/hytale-is-saved-riot-sells-cancelled-game-back-to-original-co-founder-who-promises-to-take-it-back-to-the-original-vision-for-hytale/)
+ - [New Survey Says Most Players Around The World Prefer Single-Player Games](https://kotaku.com/new-survey-most-players-around-world-prefer-singleplayer-games-solo-2000644895)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
