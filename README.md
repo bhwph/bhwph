@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A treasure trove of Criterion Collection DVDs are now on half-price sale](https://www.theverge.com/tech/822105/dvd-bluray-movie-criterion-sale-deal)
- - [Ramp says it is now valued at $32B following a $300M raise led by Lightspeed and an employee tender offer, up from a $22.5B valuation in July &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251117/p19#a251117p19)
- - [2TB SSD upgrades for Steam Deck are surprisingly cheap](https://www.theverge.com/gadgets/822070/steam-deck-rog-ally-ssd-2tb-gaming-deal-sale)<!-- TECH:END -->
+ - [Deal alert: Samsung Galaxy S25 FE hits the price we’ve been waiting for — now just $474.99](https://www.androidauthority.com/samsung-galaxy-s25-fe-black-friday-deal-3616502/)
+ - [Third round of iOS 26.2, macOS 26.2 developer betas available for testing](https://appleinsider.com/articles/25/11/17/third-round-of-ios-262-macos-262-developer-betas-available-for-testing?utm_source=rss)
+ - [What’s the Best Hair Straightener for You? It Depends &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-straighteners/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
