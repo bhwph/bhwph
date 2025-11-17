@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 😝 [Is it true?](http://9gag.com/gag/aE0yexp)
- - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
+ - 6️⃣ [Fast and furious on skates, who needs a car](http://9gag.com/gag/aO8AgLN)
+ - 😝 [Momma bringing her kittens to her human.](http://9gag.com/gag/azxo6oz)
+ - 👉 [Well habibi](http://9gag.com/gag/aPAzO7V)<!-- MEMES:END -->
 
 --- 
 
