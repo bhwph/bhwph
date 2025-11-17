@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dyson Hair Dryer with Advanced Heat Control Hits New Record Low, Amazon Is Clearing Out Stock](https://kotaku.com/dyson-hair-dryer-with-advanced-heat-control-hits-new-record-low-amazon-is-clearing-out-stock-2000644762)
- - [Resident Evil Requiem didn&#39;t just start life out as an online multiplayer game, but still retains &#39;some remaining elements&#39; to ensure it&#39;s fun to play](https://www.pcgamer.com/games/horror/resident-evil-requiem-didnt-just-start-life-out-as-an-online-multiplayer-game-but-still-retains-some-remaining-elements-to-ensure-its-fun-to-play/)
- - [US Congressman calls for regulations to &#39;prevent companies from using AI to eliminate jobs to extract greater profit&#39; following Call of Duty: Black Ops 7&#39;s calling card fiasco](https://www.pcgamer.com/games/call-of-duty/us-congressman-calls-for-regulations-to-prevent-companies-from-using-ai-to-eliminate-jobs-to-extract-greater-profit-following-call-of-duty-black-ops-7s-calling-card-fiasco/)<!-- GAME:END -->
+ - [GameStop Will Let You Turn In A Deer Head For GTA 6 Discounts In ‘Trade Anything’ Stunt](https://kotaku.com/gamestop-trade-anything-taxidermy-store-credit-2000644850)
+ - [Stalker 2 has faction wars now: Enemies &#39;can expand control over new territories&#39; in its 1.7 jumbo patch that also adds mega-hard mode and makes hiding in bushes meaningful](https://www.pcgamer.com/games/fps/stalker-2-has-faction-wars-now-enemies-can-expand-control-over-new-territories-in-its-1-7-jumbo-patch-that-also-adds-mega-hard-mode-and-makes-hiding-in-bushes-meaningful/)
+ - [Phasmophobia devs say all that live service malarkey can do one: they focus on making &#39;a fun game that people want to play because it&#39;s fun&#39;](https://www.pcgamer.com/games/phasmophobia-devs-say-all-that-live-service-malarkey-can-do-one-they-focus-on-making-a-fun-game-that-people-want-to-play-because-its-fun/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
