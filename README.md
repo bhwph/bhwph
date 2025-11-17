@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Forgotten Realms books are set after Baldur&#39;s Gate 3 and show Karlach found her happy ending, though one jerk wizard also dodged his comeuppance](https://www.pcgamer.com/games/baldurs-gate/the-new-forgotten-realms-books-are-set-after-baldurs-gate-3-and-show-karlach-found-her-happy-ending-though-one-jerk-wizard-also-dodged-his-comeuppance/)
- - [The Blood of Dawnwalker&#39;s latest gameplay trailer starts out looking like a Witcher spinoff, then the main character starts walking on walls](https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-latest-gameplay-trailer-starts-out-looking-like-a-witcher-spinoff-then-the-main-character-starts-walking-on-walls/)
- - [Five new Steam games you probably missed &lpar;November 17, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-17-2025/)<!-- GAME:END -->
+ - [Dyson Hair Dryer with Advanced Heat Control Hits New Record Low, Amazon Is Clearing Out Stock](https://kotaku.com/dyson-hair-dryer-with-advanced-heat-control-hits-new-record-low-amazon-is-clearing-out-stock-2000644762)
+ - [Resident Evil Requiem didn&#39;t just start life out as an online multiplayer game, but still retains &#39;some remaining elements&#39; to ensure it&#39;s fun to play](https://www.pcgamer.com/games/horror/resident-evil-requiem-didnt-just-start-life-out-as-an-online-multiplayer-game-but-still-retains-some-remaining-elements-to-ensure-its-fun-to-play/)
+ - [US Congressman calls for regulations to &#39;prevent companies from using AI to eliminate jobs to extract greater profit&#39; following Call of Duty: Black Ops 7&#39;s calling card fiasco](https://www.pcgamer.com/games/call-of-duty/us-congressman-calls-for-regulations-to-prevent-companies-from-using-ai-to-eliminate-jobs-to-extract-greater-profit-following-call-of-duty-black-ops-7s-calling-card-fiasco/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
