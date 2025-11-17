@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just make them bigger](http://9gag.com/gag/a4PmDLp)
- - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 👉 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)<!-- MEMES:END -->
+ - 6️⃣ [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - 😝 [Dad&#39;s got some moves](http://9gag.com/gag/aGy6W20)
+ - 👉 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)<!-- MEMES:END -->
 
 --- 
 
