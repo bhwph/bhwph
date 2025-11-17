@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fast and furious on skates, who needs a car](http://9gag.com/gag/aO8AgLN)
- - 😝 [Momma bringing her kittens to her human.](http://9gag.com/gag/azxo6oz)
- - 👉 [Well habibi](http://9gag.com/gag/aPAzO7V)<!-- MEMES:END -->
+ - 6️⃣ [Is it true?](http://9gag.com/gag/aE0yexp)
+ - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
+ - 👉 [Wood cumin cider box.](http://9gag.com/gag/ayNZOqy)<!-- MEMES:END -->
 
 --- 
 
