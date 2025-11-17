@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal alert: Samsung Galaxy S25 FE hits the price we’ve been waiting for — now just $474.99](https://www.androidauthority.com/samsung-galaxy-s25-fe-black-friday-deal-3616502/)
- - [Third round of iOS 26.2, macOS 26.2 developer betas available for testing](https://appleinsider.com/articles/25/11/17/third-round-of-ios-262-macos-262-developer-betas-available-for-testing?utm_source=rss)
- - [What’s the Best Hair Straightener for You? It Depends &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-straighteners/)<!-- TECH:END -->
+ - [Microsoft says it mitigated a 15.7 Tbps DDoS from the Aisuru botnet on a single Australian Azure endpoint in October, the largest cloud DDoS ever recorded &lpar;Pierluigi Paganini/Security Affairs&rpar;](http://www.techmeme.com/251117/p29#a251117p29)
+ - [Bose’s noise-canceling QuietComfort Headphones are more than 50 percent off](https://www.theverge.com/gadgets/822365/bose-noise-canceling-quietcomfort-headphones-amazon-deal-sale)
+ - [Valve wants to make Steam Deck updates as convenient as updating your phone](https://www.androidauthority.com/steam-deck-docked-updates-3616492/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
