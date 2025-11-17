@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says it mitigated a 15.7 Tbps DDoS from the Aisuru botnet on a single Australian Azure endpoint in October, the largest cloud DDoS ever recorded &lpar;Pierluigi Paganini/Security Affairs&rpar;](http://www.techmeme.com/251117/p29#a251117p29)
- - [Bose’s noise-canceling QuietComfort Headphones are more than 50 percent off](https://www.theverge.com/gadgets/822365/bose-noise-canceling-quietcomfort-headphones-amazon-deal-sale)
- - [Valve wants to make Steam Deck updates as convenient as updating your phone](https://www.androidauthority.com/steam-deck-docked-updates-3616492/)<!-- TECH:END -->
+ - [WIRED Roundup: Fandom in Politics, Zuckerberg’s Illegal School, and Nepal’s Discord Revolution](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-fandom-politics-zuckerberg-illegal-school-nepal-discord-revolution/)
+ - [Internal memo: CISA will increase its hiring efforts in 2026 to rebuild after the Trump administration&#39;s cuts and prepare for a potential US conflict with China &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/251117/p34#a251117p34)
+ - [The 4 Things You Need for a Tech Bubble](https://www.wired.com/story/uncanny-valley-podcast-4-things-you-need-for-a-tech-bubble/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
