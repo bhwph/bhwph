@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just make them bigger](http://9gag.com/gag/a4PmDLp)
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
- - 👉 [Identification of a Mercedes Benz factory worker in Argentina in 1959. He&#39;s just a regular guy, stop asking questions.](http://9gag.com/gag/a6Z4P8A)<!-- MEMES:END -->
+ - 6️⃣ [Dad&#39;s got some moves](http://9gag.com/gag/aGy6W20)
+ - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - 👉 [Pure cinema](http://9gag.com/gag/a6Z4vOq)<!-- MEMES:END -->
 
 --- 
 
