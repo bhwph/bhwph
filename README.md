@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jeff Bezos will be co-CEO of AI startup Project Prometheus](https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup)
- - [Galaxy Tab S11 gets its first $150 price drop, and more Samsung tablet deals](https://www.androidauthority.com/samsung-galaxy-tab-s11-black-friday-deal-3616036/)
- - [Despite its upsides, I’ve found ChatGPT 5.1 introduces a few quirky changes as well](https://www.androidauthority.com/chatgpt-5-1-review-3616035/)<!-- TECH:END -->
+ - [Hot deal: Samsung Galaxy Tab S10 FE hits a record-low price at $140 off](https://www.androidauthority.com/samsung-galaxy-tab-s10-fe-black-friday-deal-3616181/)
+ - [This free app finally lets your AirPods Pro play nice with Android phones](https://www.androidauthority.com/apple-airpods-connected-with-android-app-3616352/)
+ - [EcoFlow Delta 3 Ultra Plus review: Premium, but solid power](https://appleinsider.com/articles/25/11/16/ecoflow-delta-3-ultra-plus-review-premium-but-solid-power?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
