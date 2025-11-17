@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One artist is reimagining the first Metal Gear you&#39;ve never played as an anime follow-up to The Phantom Pain](https://www.pcgamer.com/games/action/one-artist-is-reimagining-the-first-metal-gear-youve-never-played-as-an-anime-follow-up-to-the-phantom-pain/)
- - [Ubisoft touches up AI art &#39;placeholder&#39; that slipped into Anno 117, but fans are not happy it was there to begin with: &#39;Of all the video games, not Anno&#39;](https://www.pcgamer.com/games/city-builder/ubisoft-touches-up-ai-art-placeholder-that-slipped-into-anno-117-but-fans-are-not-happy-it-was-there-to-begin-with-of-all-the-video-games-not-anno/)
- - [GTA 6 might throw the 2026 Game of the Year vote into chaos](https://www.polygon.com/gta-6-delay-game-awards-goty-2026/)<!-- GAME:END -->
+ - [The Blood of Dawnwalker&#39;s latest gameplay trailer starts out looking like a Witcher spinoff, then the main character starts walking on walls](https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-latest-gameplay-trailer-starts-out-looking-like-a-witcher-spinoff-then-the-main-character-starts-walking-on-walls/)
+ - [Five new Steam games you probably missed &lpar;November 17, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-17-2025/)
+ - [AirPods Max Alternative, These Bose Ultra Headphones Reach New All-Time Low on Amazon](https://kotaku.com/airpods-max-alternative-these-bose-ultra-headphones-reach-new-all-time-low-on-amazon-2000644687)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
