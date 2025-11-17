@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Escape From Tarkov Is Finally On Steam And Nobody’s Happy](https://kotaku.com/escape-from-tarkov-steam-1-0-unheard-edition-2000644941)
- - [&#39;Hytale is saved&#39;: Riot sells cancelled game back to original co-founder, who promises to take it &#39;back to the original vision for Hytale&#39;](https://www.pcgamer.com/games/adventure/hytale-is-saved-riot-sells-cancelled-game-back-to-original-co-founder-who-promises-to-take-it-back-to-the-original-vision-for-hytale/)
- - [New Survey Says Most Players Around The World Prefer Single-Player Games](https://kotaku.com/new-survey-most-players-around-world-prefer-singleplayer-games-solo-2000644895)<!-- GAME:END -->
+ - [A School Is Banning Kids From Singing KPop Demon Hunters Songs](https://kotaku.com/kpop-demon-hunters-songs-list-singing-ban-school-bbc-2000644973)
+ - [The Game Awards 2025 nominees are here, and—surprise—Clair Obscur: Expedition 33 was nominated for every qualifying category](https://www.pcgamer.com/gaming-industry/events-conferences/the-game-awards-nominations-are-here-and-surprise-clair-obscur-expedition-33-was-nominated-for-every-qualifying-category/)
+ - [Star Wars just revealed a dark truth about Darth Vader’s fractured psyche](https://www.polygon.com/star-wars-master-of-evil-darth-vader-fractured-psyche/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
