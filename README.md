@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot deal: Samsung Galaxy Tab S10 FE hits a record-low price at $140 off](https://www.androidauthority.com/samsung-galaxy-tab-s10-fe-black-friday-deal-3616181/)
- - [This free app finally lets your AirPods Pro play nice with Android phones](https://www.androidauthority.com/apple-airpods-connected-with-android-app-3616352/)
- - [EcoFlow Delta 3 Ultra Plus review: Premium, but solid power](https://appleinsider.com/articles/25/11/16/ecoflow-delta-3-ultra-plus-review-premium-but-solid-power?utm_source=rss)<!-- TECH:END -->
+ - [Meta says its 2Africa subsea cable project remains incomplete in the southern Red Sea segment due to security risks; Google&#39;s Blue-Raman cable is also delayed &lpar;Bloomberg&rpar;](http://www.techmeme.com/251117/p14#a251117p14)
+ - [MSNBC&amp;#8217;s website is now MS.NOW](https://www.theverge.com/news/822028/msnbc-msnow-rebrand-new-website)
+ - [Don&#39;t Donate Torn, Stained Clothes and Sheets—Send Them to Trashie](https://www.wired.com/story/trashie-recycling/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
