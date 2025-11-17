@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Tasks finally gets deadline feature, but it misses an important detail](https://www.androidauthority.com/google-tasks-deadline-release-3616315/)
- - [Europe banned new gas cars after 2035 — now it’s reconsidering](https://www.theverge.com/transportation/820398/eu-gas-car-ban-2035-weaken-climate)
- - [Galaxy S26 series leak tells us just how heavy these phones will be](https://www.androidauthority.com/samsung-galaxy-s26-series-weight-leak-3616301/)<!-- TECH:END -->
+ - [Jeff Bezos will be co-CEO of AI startup Project Prometheus](https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup)
+ - [Galaxy Tab S11 gets its first $150 price drop, and more Samsung tablet deals](https://www.androidauthority.com/samsung-galaxy-tab-s11-black-friday-deal-3616036/)
+ - [Despite its upsides, I’ve found ChatGPT 5.1 introduces a few quirky changes as well](https://www.androidauthority.com/chatgpt-5-1-review-3616035/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
