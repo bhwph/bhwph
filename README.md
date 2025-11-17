@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says its 2Africa subsea cable project remains incomplete in the southern Red Sea segment due to security risks; Google&#39;s Blue-Raman cable is also delayed &lpar;Bloomberg&rpar;](http://www.techmeme.com/251117/p14#a251117p14)
- - [MSNBC&amp;#8217;s website is now MS.NOW](https://www.theverge.com/news/822028/msnbc-msnow-rebrand-new-website)
- - [Don&#39;t Donate Torn, Stained Clothes and Sheets—Send Them to Trashie](https://www.wired.com/story/trashie-recycling/)<!-- TECH:END -->
+ - [A treasure trove of Criterion Collection DVDs are now on half-price sale](https://www.theverge.com/tech/822105/dvd-bluray-movie-criterion-sale-deal)
+ - [Ramp says it is now valued at $32B following a $300M raise led by Lightspeed and an employee tender offer, up from a $22.5B valuation in July &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251117/p19#a251117p19)
+ - [2TB SSD upgrades for Steam Deck are surprisingly cheap](https://www.theverge.com/gadgets/822070/steam-deck-rog-ally-ssd-2tb-gaming-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
