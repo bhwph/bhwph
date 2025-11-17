@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 😝 [Pure cinema](http://9gag.com/gag/a6Z4vOq)
- - 👉 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)<!-- MEMES:END -->
+ - 😝 [Is it true?](http://9gag.com/gag/aE0yexp)
+ - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
 
 --- 
 
