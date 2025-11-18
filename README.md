@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
- - 😝 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
- - 👉 [I lost](http://9gag.com/gag/aByjDox)<!-- MEMES:END -->
+ - 6️⃣ [Triathlon Guinness World Record](https://www.reddit.com/r/funny/comments/1p0mspo/triathlon_guinness_world_record/)
+ - 😝 [She&#39;s freaking out lmfao](http://9gag.com/gag/aW4eBm2)
+ - 👉 [Cloudflare](http://9gag.com/gag/aryDvO7)<!-- MEMES:END -->
 
 --- 
 
