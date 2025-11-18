@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to release Gemini 3 Deep Think to Google AI Ultra subscribers in the coming weeks, once it passes further rounds of safety testing &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251118/p30#a251118p30)
- - [Google launches Antigravity, an &quot;agent-first&quot; coding tool that leverages Gemini 3 Pro and third-party models, available in free public preview &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251118/p29#a251118p29)
- - [Google says Gemini 3 Pro is integrated into the Gemini app, which now has 650M MAUs, and powers Google Search&#39;s AI Mode conversational search feature &lpar;New York Times&rpar;](http://www.techmeme.com/251118/p28#a251118p28)<!-- TECH:END -->
+ - [A massive Cloudflare outage brought down X, ChatGPT, and even Downdetector](https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector)
+ - [macOS Tahoe 26.2 will give M5 Macs a giant machine learning speed boost](https://appleinsider.com/articles/25/11/18/macos-tahoe-262-will-give-m5-macs-a-giant-machine-learning-speed-boost?utm_source=rss)
+ - [Meta is not a monopolist, judge rules](https://www.theverge.com/news/823191/meta-ftc-antitrust-trial-ruling)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
