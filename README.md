@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [I lost](http://9gag.com/gag/aByjDox)
- - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 👉 [Is it true?](http://9gag.com/gag/aE0yexp)<!-- MEMES:END -->
+ - 😝 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)
+ - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
 
 --- 
 
