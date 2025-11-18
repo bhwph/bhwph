@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox plans to require all users to undergo an age estimation process to access chat features, starting January 2026, in an effort to enhance child safety &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251118/p16#a251118p16)
- - [33 Best STEM Toys for Kids &lpar;2025&rpar;: Make Learning Fun](https://www.wired.com/gallery/best-stem-toys-for-kids/)
- - [Lambda, which rents access to AI chips, raised a $1.5B Series E led by TWG Global, after raising $500M in April 2024, taking its total funding to $2.3B &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251118/p15#a251118p15)<!-- TECH:END -->
+ - [It&amp;#8217;s not your job to fix the internet](https://www.theverge.com/podcast/822822/enshittification-cory-doctorow-interview-vergecast)
+ - [Forget smart rings, your next health tracker might dangle even closer](https://www.androidauthority.com/lumia-2-smart-earring-launch-3616614/)
+ - [A Simple WhatsApp Security Flaw Exposed 3.5 Billion Phone Numbers](https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-phone-numbers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
