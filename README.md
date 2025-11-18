@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 15R to arrive soon with a surprise accomplice](https://www.androidauthority.com/oneplus-15r-watch-teaser-3616646/)
- - [The 39 Best Shows on Apple TV, WIRED’s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Q&amp;A with Ring founder Jamie Siminoff on returning to Amazon post-burnout, his goal to &quot;zero out crime&quot;, privacy and the &quot;surveillance panopticon&quot;, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251118/p3#a251118p3)<!-- TECH:END -->
+ - [I hated the Galaxy Buds 3 Pro design, but the Buds 4 Pro might win me back](https://www.androidauthority.com/hated-galaxy-buds-3-pro-design-buds-4-pro-win-me-back-3616442/)
+ - [GlobalFoundries acquires Advanced Micro Foundry, a Singapore-based silicon photonics foundry, for an undisclosed sum, and plans a new R&amp;D center in Singapore &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251118/p4#a251118p4)
+ - [Texting in bed? Google could soon fix this annoying Messages bug](https://www.androidauthority.com/google-messages-gallery-ui-auto-rotate-bug-fix-apk-teardown-3616673/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
