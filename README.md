@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It&amp;#8217;s not your job to fix the internet](https://www.theverge.com/podcast/822822/enshittification-cory-doctorow-interview-vergecast)
- - [Forget smart rings, your next health tracker might dangle even closer](https://www.androidauthority.com/lumia-2-smart-earring-launch-3616614/)
- - [A Simple WhatsApp Security Flaw Exposed 3.5 Billion Phone Numbers](https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-phone-numbers/)<!-- TECH:END -->
+ - [Google plans to release Gemini 3 Deep Think to Google AI Ultra subscribers in the coming weeks, once it passes further rounds of safety testing &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251118/p30#a251118p30)
+ - [Google launches Antigravity, an &quot;agent-first&quot; coding tool that leverages Gemini 3 Pro and third-party models, available in free public preview &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251118/p29#a251118p29)
+ - [Google says Gemini 3 Pro is integrated into the Gemini app, which now has 650M MAUs, and powers Google Search&#39;s AI Mode conversational search feature &lpar;New York Times&rpar;](http://www.techmeme.com/251118/p28#a251118p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
