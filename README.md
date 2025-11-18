@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A School Is Banning Kids From Singing KPop Demon Hunters Songs](https://kotaku.com/kpop-demon-hunters-songs-list-singing-ban-school-bbc-2000644973)
- - [The Game Awards 2025 nominees are here, and—surprise—Clair Obscur: Expedition 33 was nominated for every qualifying category](https://www.pcgamer.com/gaming-industry/events-conferences/the-game-awards-nominations-are-here-and-surprise-clair-obscur-expedition-33-was-nominated-for-every-qualifying-category/)
- - [Star Wars just revealed a dark truth about Darth Vader’s fractured psyche](https://www.polygon.com/star-wars-master-of-evil-darth-vader-fractured-psyche/)<!-- GAME:END -->
+ - [Amazon Liquidates Bose Headphones at 50% Off, Now Cheaper Than Mid-Range No-Name Models](https://kotaku.com/amazon-liquidates-bose-headphones-at-50-off-now-cheaper-than-mid-range-no-name-models-2000644975)
+ - [Amazon’s TV Soundbar Gets Double Price Cuts in Just Days, Now Going for Pocket Change](https://kotaku.com/amazons-tv-soundbar-gets-double-price-cuts-in-just-days-now-going-for-pocket-change-2000644969)
+ - [Legendary game designer, programmer, Space Invaders champion, and LGBTQ trailblazer Rebecca Heineman has died](https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
