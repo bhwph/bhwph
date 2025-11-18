@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [I lost](http://9gag.com/gag/aByjDox)
- - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
- - 👉 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)<!-- MEMES:END -->
+ - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
+ - 👉 [Is it true?](http://9gag.com/gag/aE0yexp)<!-- MEMES:END -->
 
 --- 
 
