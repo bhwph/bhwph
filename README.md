@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Classic wrestling game steals the spotlight at John Cena&#39;s final Raw](https://www.polygon.com/wwe-lil-yachty-psp-smackdown-raw-2006-john-cena-final-raw/)
- - [&#39;Elon [Musk] truly would be the best owner of any game company,&#39; claims former Activision CEO Bobby Kotick with a completely straight face](https://www.pcgamer.com/gaming-industry/game-development/elon-musk-truly-would-be-the-best-owner-of-any-game-company-claims-former-activision-ceo-bobby-kotick-with-a-completely-straight-face/)
- - [Thermaltake View 390 Air review](https://www.pcgamer.com/hardware/pc-cases/thermaltake-view-390-air-review/)<!-- GAME:END -->
+ - [Report: Sony Wants To Beat Nintendo In Japan And Players Are Benefitting](https://kotaku.com/japan-ps5-price-drop-switch-2-competition-2000645253)
+ - [Fallout co-creator Tim Cain says today&#39;s games suffer from trying &#39;to be everything for everyone&#39; when they should be learning from &#39;80s games: &#39;These games were really focused, because they had to be&#39;](https://www.pcgamer.com/gaming-industry/fallout-co-creator-tim-cain-says-todays-games-suffer-from-trying-to-be-everything-for-everyone-when-they-should-be-learning-from-80s-games-these-games-were-really-focused-because-they-had-to-be/)
+ - [PlayStation early Black Friday deals include big PS5 price drops](https://www.polygon.com/playstation-early-black-friday-deals-ps5-consoles-dualsense-controllers/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
