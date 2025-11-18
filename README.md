@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Wood cumin cider box.](http://9gag.com/gag/ayNZOqy)
- - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
+ - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
+ - 👉 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)<!-- MEMES:END -->
 
 --- 
 
