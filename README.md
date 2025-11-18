@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)
- - [Canceled YouTube TV after the Disney blackout? You could have a $60 discount waiting in your inbox](https://www.androidauthority.com/youtube-tv-60-discount-for-canceled-subs-3616915/)
- - [iPhone Pocket hands on: Polarizing, fashion-forward iPhone accessory](https://appleinsider.com/articles/25/11/17/iphone-pocket-hands-on-polarizing-fashion-forward-iphone-accessory?utm_source=rss)<!-- TECH:END -->
+ - [Google’s versatile Sans Flex font is now free to the public](https://www.androidauthority.com/google-sans-flex-free-3617034/)
+ - [YouTube is testing a new way for sharing videos with your friends](https://www.androidauthority.com/youtube-direct-messaging-experiment-3616988/)
+ - [Kraken raised $200M at a $20B valuation, after raising $600M at a $15B valuation in Sept.; prior to the two rounds, Kraken raised only $27M in venture capital &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251118/p49#a251118p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
