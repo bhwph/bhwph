@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I hated the Galaxy Buds 3 Pro design, but the Buds 4 Pro might win me back](https://www.androidauthority.com/hated-galaxy-buds-3-pro-design-buds-4-pro-win-me-back-3616442/)
- - [GlobalFoundries acquires Advanced Micro Foundry, a Singapore-based silicon photonics foundry, for an undisclosed sum, and plans a new R&amp;D center in Singapore &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251118/p4#a251118p4)
- - [Texting in bed? Google could soon fix this annoying Messages bug](https://www.androidauthority.com/google-messages-gallery-ui-auto-rotate-bug-fix-apk-teardown-3616673/)<!-- TECH:END -->
+ - [Roblox plans to require all users to undergo an age estimation process to access chat features, starting January 2026, in an effort to enhance child safety &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251118/p16#a251118p16)
+ - [33 Best STEM Toys for Kids &lpar;2025&rpar;: Make Learning Fun](https://www.wired.com/gallery/best-stem-toys-for-kids/)
+ - [Lambda, which rents access to AI chips, raised a $1.5B Series E led by TWG Global, after raising $500M in April 2024, taking its total funding to $2.3B &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251118/p15#a251118p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
