@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Liquidates Bose Headphones at 50% Off, Now Cheaper Than Mid-Range No-Name Models](https://kotaku.com/amazon-liquidates-bose-headphones-at-50-off-now-cheaper-than-mid-range-no-name-models-2000644975)
- - [Amazon’s TV Soundbar Gets Double Price Cuts in Just Days, Now Going for Pocket Change](https://kotaku.com/amazons-tv-soundbar-gets-double-price-cuts-in-just-days-now-going-for-pocket-change-2000644969)
- - [Legendary game designer, programmer, Space Invaders champion, and LGBTQ trailblazer Rebecca Heineman has died](https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/)<!-- GAME:END -->
+ - [Classic wrestling game steals the spotlight at John Cena&#39;s final Raw](https://www.polygon.com/wwe-lil-yachty-psp-smackdown-raw-2006-john-cena-final-raw/)
+ - [&#39;Elon [Musk] truly would be the best owner of any game company,&#39; claims former Activision CEO Bobby Kotick with a completely straight face](https://www.pcgamer.com/gaming-industry/game-development/elon-musk-truly-would-be-the-best-owner-of-any-game-company-claims-former-activision-ceo-bobby-kotick-with-a-completely-straight-face/)
+ - [Thermaltake View 390 Air review](https://www.pcgamer.com/hardware/pc-cases/thermaltake-view-390-air-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
