@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Triathlon Guinness World Record](https://www.reddit.com/r/funny/comments/1p0mspo/triathlon_guinness_world_record/)
- - 😝 [She&#39;s freaking out lmfao](http://9gag.com/gag/aW4eBm2)
- - 👉 [Cloudflare](http://9gag.com/gag/aryDvO7)<!-- MEMES:END -->
+ - 6️⃣ [The joys of camping](http://9gag.com/gag/ae9qj5j)
+ - 😝 [Older wifu material\u2026](http://9gag.com/gag/aByjDpO)
+ - 👉 [The Look](http://9gag.com/gag/aD2qAw9)<!-- MEMES:END -->
 
 --- 
 
