@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I lost](http://9gag.com/gag/aByjDox)
- - 😝 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)
- - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
+ - 6️⃣ [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
+ - 😝 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
+ - 👉 [I lost](http://9gag.com/gag/aByjDox)<!-- MEMES:END -->
 
 --- 
 
