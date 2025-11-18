@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A massive Cloudflare outage brought down X, ChatGPT, and even Downdetector](https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector)
- - [macOS Tahoe 26.2 will give M5 Macs a giant machine learning speed boost](https://appleinsider.com/articles/25/11/18/macos-tahoe-262-will-give-m5-macs-a-giant-machine-learning-speed-boost?utm_source=rss)
- - [Meta is not a monopolist, judge rules](https://www.theverge.com/news/823191/meta-ftc-antitrust-trial-ruling)<!-- TECH:END -->
+ - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)
+ - [Canceled YouTube TV after the Disney blackout? You could have a $60 discount waiting in your inbox](https://www.androidauthority.com/youtube-tv-60-discount-for-canceled-subs-3616915/)
+ - [iPhone Pocket hands on: Polarizing, fashion-forward iPhone accessory](https://appleinsider.com/articles/25/11/17/iphone-pocket-hands-on-polarizing-fashion-forward-iphone-accessory?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
