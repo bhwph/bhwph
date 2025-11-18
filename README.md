@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 😝 [Pure cinema](http://9gag.com/gag/a6Z4vOq)
+ - 6️⃣ [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
+ - 😝 [I lost](http://9gag.com/gag/aByjDox)
  - 👉 [What if you miss it?](http://9gag.com/gag/a5QvLDL)<!-- MEMES:END -->
 
 --- 
