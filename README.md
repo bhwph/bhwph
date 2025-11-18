@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
- - 😝 [I lost](http://9gag.com/gag/aByjDox)
- - 👉 [What if you miss it?](http://9gag.com/gag/a5QvLDL)<!-- MEMES:END -->
+ - 6️⃣ [I lost](http://9gag.com/gag/aByjDox)
+ - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
+ - 👉 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)<!-- MEMES:END -->
 
 --- 
 
