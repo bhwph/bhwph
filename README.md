@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Sony Wants To Beat Nintendo In Japan And Players Are Benefitting](https://kotaku.com/japan-ps5-price-drop-switch-2-competition-2000645253)
- - [Fallout co-creator Tim Cain says today&#39;s games suffer from trying &#39;to be everything for everyone&#39; when they should be learning from &#39;80s games: &#39;These games were really focused, because they had to be&#39;](https://www.pcgamer.com/gaming-industry/fallout-co-creator-tim-cain-says-todays-games-suffer-from-trying-to-be-everything-for-everyone-when-they-should-be-learning-from-80s-games-these-games-were-really-focused-because-they-had-to-be/)
- - [PlayStation early Black Friday deals include big PS5 price drops](https://www.polygon.com/playstation-early-black-friday-deals-ps5-consoles-dualsense-controllers/)<!-- GAME:END -->
+ - [Valve accidentally steps on the make-up deal it offered to the indie game whose 2024 release was ruined by a Steam bug: &#39;I really get the feeling that Planet Centauri is cursed&#39;](https://www.pcgamer.com/games/valve-accidentally-steps-on-the-make-up-deal-it-offered-to-the-indie-game-whose-2024-release-was-ruined-by-a-steam-bug-i-really-get-the-feeling-that-planet-centauri-is-cursed/)
+ - [Megabonk dev rejects The Game Awards nomination, says vote for other indies](https://www.polygon.com/megabonk-game-awards-best-debut-indie-controversy/)
+ - [Counter-Strike 2 modders surprise drop an excellent Halo 3 multiplayer pack, accidentally proving how badly Valve has squandered Source 2](https://www.pcgamer.com/games/fps/counter-strike-2-modders-surprise-drop-an-excellent-halo-3-multiplayer-pack-accidentally-proving-how-badly-valve-has-squandered-source-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
