@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WIRED Roundup: Fandom in Politics, Zuckerberg’s Illegal School, and Nepal’s Discord Revolution](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-fandom-politics-zuckerberg-illegal-school-nepal-discord-revolution/)
- - [Internal memo: CISA will increase its hiring efforts in 2026 to rebuild after the Trump administration&#39;s cuts and prepare for a potential US conflict with China &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/251117/p34#a251117p34)
- - [The 4 Things You Need for a Tech Bubble](https://www.wired.com/story/uncanny-valley-podcast-4-things-you-need-for-a-tech-bubble/)<!-- TECH:END -->
+ - [Industrial designer &amp; iPhone Air video narrator departs Apple for AI startup](https://appleinsider.com/articles/25/11/18/industrial-designer-iphone-air-video-narrator-departs-apple-for-ai-startup?utm_source=rss)
+ - [Sources: Mira Murati&#39;s Thinking Machines Lab is in talks with potential investors to raise about $5B and is aiming for a valuation of at least $50B &lpar;The Information&rpar;](http://www.techmeme.com/251117/p38#a251117p38)
+ - [Artificial Analysis announces AA-Omniscience, a benchmark for knowledge and hallucination across 40+ topics; Claude 4.1 Opus takes first place in its key metric &lpar;@artificialanlys&rpar;](http://www.techmeme.com/251117/p37#a251117p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
