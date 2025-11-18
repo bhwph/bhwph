@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is it true?](http://9gag.com/gag/aE0yexp)
+ - 6️⃣ [Wood cumin cider box.](http://9gag.com/gag/ayNZOqy)
  - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 👉 [Wood cumin cider box.](http://9gag.com/gag/ayNZOqy)<!-- MEMES:END -->
+ - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
 
 --- 
 
