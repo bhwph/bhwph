@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kitten finds out that human is friend](http://9gag.com/gag/aPAVwQP)
- - 😝 [The Look](http://9gag.com/gag/aD2qAw9)
- - 👉 [Who knew static electricity could be so useful](http://9gag.com/gag/a6Zer0N)<!-- MEMES:END -->
+ - 6️⃣ [She&#39;s met her match](http://9gag.com/gag/abALX0O)
+ - 😝 [Another wife to the college](http://9gag.com/gag/aLnO63A)
+ - 👉 [\u201cEncephalitis lethargica remains one of the most haunting medical mysteries of the twentieth century, a disease that swept across the world and then vanished as suddenly as it appeared.\u201d](http://9gag.com/gag/azxvgMq)<!-- MEMES:END -->
 
 --- 
 
