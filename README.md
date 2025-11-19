@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Plants vs. Zombies: Replanted adds a great quality-of-life feature from the console port: a sun vacuum](https://www.pcgamer.com/games/strategy/plants-vs-zombies-replanted-adds-a-great-quality-of-life-feature-from-the-console-port-a-sun-vacuum/)
- - [&lpar;For Southeast Asia&rpar; PlayStation’s Black Friday Deals 2025](https://blog.playstation.com/2025/11/18/20251119-bf/)
- - [&lpar;For Southeast Asia&rpar; PlayStation’s Black Friday Deals 2025](https://blog.playstation.com/2025/11/18/20251119-bf/)<!-- GAME:END -->
+ - [Epic Games announces sweeping cross-platform collab&#39; bringing Unity&#39;s games and commerce platform to Fortnite](https://www.pcgamer.com/hardware/epic-games-announces-sweeping-cross-platform-collab-bringing-unitys-games-and-commerce-platform-to-fortnite/)
+ - [Major Holiday Survey Reveals Something Special: Your Kids Want You To Play Games With Them](https://kotaku.com/holiday-gift-video-games-in-game-currency-parents-esa-2000645364)
+ - [&#39;No one leaves&#39;—one Arc Raiders player has devoted themselves to turning Stella Montis into an inescapable maze, revelling in the cries of stuck players: &#39;I am the engineer of chaos!&#39;](https://www.pcgamer.com/games/third-person-shooter/no-one-leaves-one-arc-raiders-player-has-devoted-themselves-to-turning-stella-montis-into-an-inescapable-maze-revelling-in-the-cries-of-stuck-players-i-am-the-engineer-of-chaos/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
