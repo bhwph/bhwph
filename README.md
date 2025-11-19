@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bandai Namco&#39;s strategy for Tales remasters misses the point](https://www.polygon.com/tales-of-berseria-resmatered-bandai-namco-release-date/)
- - [Building a Vibe: The Making of Delta Force’s Newest Map, Monument](https://news.xbox.com/en-us/2025/11/19/making-of-delta-forces-newest-map-monument/)
- - [Geoff Keighley denies he&#39;s hiding Half-Life 3 in his Steam wishlist, posts a screenshot to prove it, nobody believes him, and I&#39;m starting to wonder if he&#39;s just messing with us](https://www.pcgamer.com/games/fps/geoff-keighley-denies-hes-hiding-half-life-3-in-his-steam-wishlist-posts-a-screenshot-to-prove-it-nobody-believes-him-and-im-starting-to-wonder-if-hes-just-messing-with-us/)<!-- GAME:END -->
+ - [Sure, why not: The next videogame movie will adapt friendship-ending indie Chained Together](https://www.pcgamer.com/movies-tv/sure-why-not-the-next-videogame-movie-will-adapt-friendship-ending-indie-chained-together/)
+ - [Arc Raiders players are already impatient for more content. Here&#39;s 8 things we think the game could do to expand](https://www.pcgamer.com/games/action/arc-raiders-players-are-already-impatient-for-more-content-heres-8-things-we-think-the-game-could-do-to-expand/)
+ - [A Newly Revealed Version Of One Of KPop Demon Hunters’ Most Popular Songs Is Messing With My Head](https://kotaku.com/kpop-demon-hunters-your-idol-saja-boys-demo-rumi-ejae-2000645529)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
