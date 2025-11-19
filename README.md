@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Porsche Reveals Everything About Its Cayenne Electric—Except for One Vital Thing](https://www.wired.com/story/porsche-reveals-everything-about-its-cayenne-electric-apart-from-one-vital-thing/)
- - [Porsche crowns Cayenne Electric ‘most powerful production Porsche of all time’](https://www.theverge.com/news/823329/porsche-cayenne-electric-turbo-specs-price-range)
- - [Adobe to acquire digital marketing platform Semrush for $1.9 billion](https://www.theverge.com/news/823887/adobe-semrush-acquisition-digital-marketing)<!-- TECH:END -->
+ - [Half-baked constant cookie requests mandated by EU may be getting cut way back](https://appleinsider.com/articles/25/11/19/half-baked-constant-cookie-requests-mandated-by-eu-may-be-getting-cut-way-back?utm_source=rss)
+ - [The Verge’s 2025 holiday gift guide for tinkerers](https://www.theverge.com/tech/800444/best-tool-gift-ideas-2025)
+ - [Lawmakers want to let users sue over harmful social media algorithms](https://www.theverge.com/policy/824054/algorithm-accountability-act-section-230)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
