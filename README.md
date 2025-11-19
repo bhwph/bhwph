@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kitten finds out that human is friend](http://9gag.com/gag/aPAVwQP)
- - 😝 [The Look](http://9gag.com/gag/aD2qAw9)
- - 👉 [Who knew static electricity could be so useful](http://9gag.com/gag/a6Zer0N)<!-- MEMES:END -->
+ - 6️⃣ [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
+ - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
+ - 👉 [Accidental discharge](http://9gag.com/gag/aGy6P67)<!-- MEMES:END -->
 
 --- 
 
