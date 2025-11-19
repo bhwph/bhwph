@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Record-low deals: These Star Wars and Jack Skellington Echo Dot bundles are too cool!](https://www.androidauthority.com/echo-dot-star-wars-jack-skellington-stand-shell-deals-3617453/)
- - [Sources: Coinbase is preparing to launch a prediction market powered by Kalshi to allow its clients to bet on events such as elections and sports &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/251119/p44#a251119p44)
- - [Why some apps disappear, and why free speech rights can&#39;t stop it](https://appleinsider.com/articles/25/11/19/why-some-apps-disappear-and-why-free-speech-rights-cant-stop-it?utm_source=rss)<!-- TECH:END -->
+ - [Nvidia says its AI GPUs are sold out, grows data center by $10B in a single quarter](https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue)
+ - [WIRED Roundup: DHS’s Privacy Breach, AI Romantic Affairs, and Google Sues Text Scammers](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-dhs-privacy-breach-ai-romantic-affairs-google-sues-text-scammers/)
+ - [Chrome is finally getting a highly requested feature that its rivals have long had](https://www.androidauthority.com/chrome-browser-vertical-tabs-3617534/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
