@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung Galaxy Buds 3 Pro Is Going for Peanuts, While AirPods Stay Almost Full Price](https://kotaku.com/samsung-galaxy-buds3-pro-comes-down-80-in-this-early-black-friday-deal-2000645262)
- - [Pokemon Legends: Z-A‘s Latest Mega Evolution Reveal Pretty Much Confirms The Leaks](https://kotaku.com/pokemon-legends-za-mega-dimension-zeraora-trailer-reveal-2000645432)
- - [Borderlands 4 has a &#39;very stupid&#39; glitch that lets you unlock a character&#39;s most powerful abilities before refunding all your skill points, but don&#39;t expect it to be around long as Gearbox says &#39;we&#39;re on it&#39;](https://www.pcgamer.com/games/fps/borderlands-4-has-a-very-stupid-glitch-that-lets-you-unlock-a-characters-most-powerful-abilities-before-refunding-all-your-skill-points-but-dont-expect-it-to-be-around-long-as-gearbox-says-were-on-it/)<!-- GAME:END -->
+ - [Vivienne Medrano unpacks Hazbin Hotel&#39;s s2 finale, teases season 3](https://www.polygon.com/hazbin-hotel-creator-vivienne-medrano-unpacks-season-2s-finale-and-teases-whats-to-expect-in-season-3/)
+ - [Thermal Grizzly Der8enchtable review](https://www.pcgamer.com/hardware/pc-cases/thermal-grizzly-der8enchtable-review/)
+ - [&#39;I like boring, and boring to me is no super exciting new features that will break machines for millions of people around the world&#39; says Linux creator Linus Torvalds](https://www.pcgamer.com/software/i-like-boring-and-boring-to-me-is-no-super-exciting-new-features-that-will-break-machines-for-millions-of-people-around-the-world-says-linux-creator-linus-torvalds/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
