@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not again!](http://9gag.com/gag/aZZ4qBp)
- - 😝 [Another wife to the college](http://9gag.com/gag/aLnO63A)
- - 👉 [She&#39;s met her match](http://9gag.com/gag/abALX0O)<!-- MEMES:END -->
+ - 6️⃣ [Another wife to the college](http://9gag.com/gag/aLnO63A)
+ - 😝 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
+ - 👉 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)<!-- MEMES:END -->
 
 --- 
 
