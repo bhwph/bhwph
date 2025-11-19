@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Another wife to the college](http://9gag.com/gag/aLnO63A)
- - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
- - 👉 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)<!-- MEMES:END -->
+ - 6️⃣ [Why bother anymore?](http://9gag.com/gag/aMV01O1)
+ - 😝 [Security guy, a man of integrity tried to save the player&#39;s life](http://9gag.com/gag/azxvbBm)
+ - 👉 [Spooky Ride](http://9gag.com/gag/a4PB4qv)<!-- MEMES:END -->
 
 --- 
 
