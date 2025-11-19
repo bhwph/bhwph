@@ -122,7 +122,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- GAME:START -->
  - [Plants vs. Zombies: Replanted adds a great quality-of-life feature from the console port: a sun vacuum](https://www.pcgamer.com/games/strategy/plants-vs-zombies-replanted-adds-a-great-quality-of-life-feature-from-the-console-port-a-sun-vacuum/)
  - [&lpar;For Southeast Asia&rpar; PlayStation’s Black Friday Deals 2025](https://blog.playstation.com/2025/11/18/20251119-bf/)
- - [Darktide&#39;s second new class is the Hive Scum, its first dual-wielder and drug fiend](https://www.pcgamer.com/games/fps/darktides-second-new-class-is-the-hive-scum-its-first-dual-wielder-and-drug-fiend/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation’s Black Friday Deals 2025](https://blog.playstation.com/2025/11/18/20251119-bf/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
