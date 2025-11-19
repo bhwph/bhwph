@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is rolling out new digital well-being features like an affirmation journal and says it will also give users badges for limiting their daily screen time &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251119/p4#a251119p4)
- - [YouTube TV will still miss one major sports perk despite Disney deal](https://www.androidauthority.com/youtube-tv-espn-unlimited-mlb-tv-missing-3617187/)
- - [Apple&#39;s M5 MacBook Pro is on sale for record low $1,447, plus save up to $500](https://appleinsider.com/articles/25/11/19/apples-m5-macbook-pro-is-on-sale-for-record-low-1447-plus-save-up-to-500?utm_source=rss)<!-- TECH:END -->
+ - [Gemini may soon offer a richer split-screen experience, but only on specific devices](https://www.androidauthority.com/google-gemini-split-screen-foldables-tablets-3617194/)
+ - [A look at Tsinghua University, which leads China&#39;s AI innovation, with 4,986 AI patents between 2005 and 2024, alumni behind startups like DeepSeek, and more &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/251119/p8#a251119p8)
+ - [As TSMC readies its €10B Germany plant for 2027, its Taiwanese suppliers say they&#39;re struggling with the EU&#39;s complex permitting, labor, and environmental rules &lpar;New York Times&rpar;](http://www.techmeme.com/251119/p7#a251119p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
