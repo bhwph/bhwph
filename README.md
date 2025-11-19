@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)
- - 😝 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
- - 👉 [Another wife to the college](http://9gag.com/gag/aLnO63A)<!-- MEMES:END -->
+ - 6️⃣ [Another wife to the college](http://9gag.com/gag/aLnO63A)
+ - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
+ - 👉 [She&#39;s met her match](http://9gag.com/gag/abALX0O)<!-- MEMES:END -->
 
 --- 
 
