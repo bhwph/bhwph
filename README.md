@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She&#39;s freaking out lmfao](http://9gag.com/gag/aW4eBm2)
- - 😝 [Another wife to the college](http://9gag.com/gag/aLnO63A)
- - 👉 [I lost](http://9gag.com/gag/aByjDox)<!-- MEMES:END -->
+ - 6️⃣ [Kitten finds out that human is friend](http://9gag.com/gag/aPAVwQP)
+ - 😝 [The Look](http://9gag.com/gag/aD2qAw9)
+ - 👉 [Who knew static electricity could be so useful](http://9gag.com/gag/a6Zer0N)<!-- MEMES:END -->
 
 --- 
 
