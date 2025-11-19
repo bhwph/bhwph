@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
- - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 👉 [Accidental discharge](http://9gag.com/gag/aGy6P67)<!-- MEMES:END -->
+ - 6️⃣ [She&#39;s freaking out lmfao](http://9gag.com/gag/aW4eBm2)
+ - 😝 [Another wife to the college](http://9gag.com/gag/aLnO63A)
+ - 👉 [I lost](http://9gag.com/gag/aByjDox)<!-- MEMES:END -->
 
 --- 
 
