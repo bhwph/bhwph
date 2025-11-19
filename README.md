@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a lawsuit, California-based TP-Link says Netgear orchestrated a smear by planting false claims with journalists and influencers about TP-Link&#39;s China ties &lpar;Bloomberg&rpar;](http://www.techmeme.com/251118/p57#a251118p57)
- - [Cloudflare says the November 18 outage was caused by a change to one of its &quot;database systems&#39; permissions&quot;, not by &quot;malicious activity of any kind&quot; &lpar;Matthew Prince/Cloudflare&rpar;](http://www.techmeme.com/251118/p56#a251118p56)
- - [Anthropic&#39;s Claude Sonnet 4.5, Haiku 4.5, and Opus 4.1 are now available in public preview in Microsoft Foundry for Azure customers &lpar;Anthropic&rpar;](http://www.techmeme.com/251118/p55#a251118p55)<!-- TECH:END -->
+ - [New Pixel update means your RCS messages might be visible to your boss](https://www.androidauthority.com/rcs-message-archival-pixel-phones-3617174/)
+ - [A look at Inception Point AI, whose podcast network makes 3,000 AI-made podcasts per week and has 400K subs; an episode needs only 20 listeners to turn a profit &lpar;Tess Patton/The Wrap&rpar;](http://www.techmeme.com/251118/p58#a251118p58)
+ - [Cloudflare explains Tuesday’s outage that temporarily took down ChatGPT](https://www.theverge.com/news/823711/cloudflare-outage-postmortem)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
