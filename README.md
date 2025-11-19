@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s versatile Sans Flex font is now free to the public](https://www.androidauthority.com/google-sans-flex-free-3617034/)
- - [YouTube is testing a new way for sharing videos with your friends](https://www.androidauthority.com/youtube-direct-messaging-experiment-3616988/)
- - [Kraken raised $200M at a $20B valuation, after raising $600M at a $15B valuation in Sept.; prior to the two rounds, Kraken raised only $27M in venture capital &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251118/p49#a251118p49)<!-- TECH:END -->
+ - [In a lawsuit, California-based TP-Link says Netgear orchestrated a smear by planting false claims with journalists and influencers about TP-Link&#39;s China ties &lpar;Bloomberg&rpar;](http://www.techmeme.com/251118/p57#a251118p57)
+ - [Cloudflare says the November 18 outage was caused by a change to one of its &quot;database systems&#39; permissions&quot;, not by &quot;malicious activity of any kind&quot; &lpar;Matthew Prince/Cloudflare&rpar;](http://www.techmeme.com/251118/p56#a251118p56)
+ - [Anthropic&#39;s Claude Sonnet 4.5, Haiku 4.5, and Opus 4.1 are now available in public preview in Microsoft Foundry for Azure customers &lpar;Anthropic&rpar;](http://www.techmeme.com/251118/p55#a251118p55)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
