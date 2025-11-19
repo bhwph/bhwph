@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sure, why not: The next videogame movie will adapt friendship-ending indie Chained Together](https://www.pcgamer.com/movies-tv/sure-why-not-the-next-videogame-movie-will-adapt-friendship-ending-indie-chained-together/)
- - [Arc Raiders players are already impatient for more content. Here&#39;s 8 things we think the game could do to expand](https://www.pcgamer.com/games/action/arc-raiders-players-are-already-impatient-for-more-content-heres-8-things-we-think-the-game-could-do-to-expand/)
- - [A Newly Revealed Version Of One Of KPop Demon Hunters’ Most Popular Songs Is Messing With My Head](https://kotaku.com/kpop-demon-hunters-your-idol-saja-boys-demo-rumi-ejae-2000645529)<!-- GAME:END -->
+ - [Battlefield 6′s New Map Is So Good I Can’t Stop Playing It](https://kotaku.com/battlefield-6s-new-map-review-good-eastwood-big-large-ps5-pc-2000645547)
+ - [&#39;Keep dying to goose pls help&#39;: Where Winds Meet players are being chased around by demonic geese](https://www.pcgamer.com/games/mmo/keep-dying-to-goose-pls-help-where-winds-meet-players-are-being-chased-around-by-demonic-geese/)
+ - [After Krafton denied its CEO consulted with ChatGPT on the Subnautica 2 mess, Krafton CEO says he consulted with ChatGPT on the Subnautica 2 mess](https://www.pcgamer.com/games/after-krafton-denied-its-ceo-consulted-with-chatgpt-on-the-subnautica-2-mess-krafton-ceo-says-he-consulted-with-chatgpt-on-the-subnautica-2-mess/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
