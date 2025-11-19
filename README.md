@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: South Korean antitrust officials visited Arm&#39;s Seoul offices as part of ongoing scrutiny of its licensing practices, following Qualcomm&#39;s complaint &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/251119/p15#a251119p15)
- - [Stop using the wrong Gemini: The one setting you need to change for Gemini 3](https://www.androidauthority.com/how-to-use-gemini-3-3616918/)
- - [Vaping Is ‘Everywhere’ in Schools—Sparking a Bathroom Surveillance Boom](https://www.wired.com/story/vaping-surveillance-school-bathrooms/)<!-- TECH:END -->
+ - [Sources: Adobe nears a $1.9B deal to acquire NYSE-listed Semrush, which helps companies run search engine optimization as AI use increases, paying $12 per share &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p24#a251119p24)
+ - [Meta&#39;s win over the US FTC may mean Meta, Google, Microsoft, and others can resume buying startups to stay ahead of the pack, after a slowdown under Lina Khan &lpar;New York Times&rpar;](http://www.techmeme.com/251119/p23#a251119p23)
+ - [WIRED’s Best E-Readers, Tested and Reviewed &lpar;2025&rpar;: Kobo, Kindle, Boox](https://www.wired.com/gallery/best-ereaders/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
