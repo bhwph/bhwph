@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Adobe nears a $1.9B deal to acquire NYSE-listed Semrush, which helps companies run search engine optimization as AI use increases, paying $12 per share &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p24#a251119p24)
- - [Meta&#39;s win over the US FTC may mean Meta, Google, Microsoft, and others can resume buying startups to stay ahead of the pack, after a slowdown under Lina Khan &lpar;New York Times&rpar;](http://www.techmeme.com/251119/p23#a251119p23)
- - [WIRED’s Best E-Readers, Tested and Reviewed &lpar;2025&rpar;: Kobo, Kindle, Boox](https://www.wired.com/gallery/best-ereaders/)<!-- TECH:END -->
+ - [Porsche Reveals Everything About Its Cayenne Electric—Except for One Vital Thing](https://www.wired.com/story/porsche-reveals-everything-about-its-cayenne-electric-apart-from-one-vital-thing/)
+ - [Porsche crowns Cayenne Electric ‘most powerful production Porsche of all time’](https://www.theverge.com/news/823329/porsche-cayenne-electric-turbo-specs-price-range)
+ - [Adobe to acquire digital marketing platform Semrush for $1.9 billion](https://www.theverge.com/news/823887/adobe-semrush-acquisition-digital-marketing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
