@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Half-baked constant cookie requests mandated by EU may be getting cut way back](https://appleinsider.com/articles/25/11/19/half-baked-constant-cookie-requests-mandated-by-eu-may-be-getting-cut-way-back?utm_source=rss)
- - [The Verge’s 2025 holiday gift guide for tinkerers](https://www.theverge.com/tech/800444/best-tool-gift-ideas-2025)
- - [Lawmakers want to let users sue over harmful social media algorithms](https://www.theverge.com/policy/824054/algorithm-accountability-act-section-230)<!-- TECH:END -->
+ - [Samsung Galaxy Watch Ultra 2025 hot sale: You don’t have to wait for Black Friday!](https://www.androidauthority.com/samsung-galaxy-watch-ultra-2025-deal-3614728/)
+ - [Apple attacks Which&#39;s lawsuit backer in $2 billion UK App Store hearing](https://appleinsider.com/articles/25/11/19/apple-attacks-whichs-lawsuit-backer-in-2-billion-uk-app-store-hearing?utm_source=rss)
+ - [Pixel phones in the US are finally getting this hotspot upgrade unlocked](https://www.androidauthority.com/pixel-6ghz-hotspot-available-in-us-3617450/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
