@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The joys of camping](http://9gag.com/gag/ae9qj5j)
- - 😝 [Older wifu material\u2026](http://9gag.com/gag/aByjDpO)
- - 👉 [The Look](http://9gag.com/gag/aD2qAw9)<!-- MEMES:END -->
+ - 6️⃣ [Kitten finds out that human is friend](http://9gag.com/gag/aPAVwQP)
+ - 😝 [The Look](http://9gag.com/gag/aD2qAw9)
+ - 👉 [Who knew static electricity could be so useful](http://9gag.com/gag/a6Zer0N)<!-- MEMES:END -->
 
 --- 
 
