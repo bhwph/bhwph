@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPadOS 26: How to use Quick Notes or take a screenshot with a swipe](https://appleinsider.com/inside/ipados-26/tips/ipados-26-how-to-use-quick-notes-or-take-a-screenshot-with-a-swipe?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Nov. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-nov-19/#ftag=CAD590a51e)
- - [New Pixel update means your RCS messages might be visible to your boss](https://www.androidauthority.com/rcs-message-archival-pixel-phones-3617174/)<!-- TECH:END -->
+ - [TikTok is rolling out new digital well-being features like an affirmation journal and says it will also give users badges for limiting their daily screen time &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251119/p4#a251119p4)
+ - [YouTube TV will still miss one major sports perk despite Disney deal](https://www.androidauthority.com/youtube-tv-espn-unlimited-mlb-tv-missing-3617187/)
+ - [Apple&#39;s M5 MacBook Pro is on sale for record low $1,447, plus save up to $500](https://appleinsider.com/articles/25/11/19/apples-m5-macbook-pro-is-on-sale-for-record-low-1447-plus-save-up-to-500?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
