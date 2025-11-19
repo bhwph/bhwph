@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Another wife to the college](http://9gag.com/gag/aLnO63A)
- - 😝 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
+ - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
  - 👉 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)<!-- MEMES:END -->
 
 --- 
