@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini may soon offer a richer split-screen experience, but only on specific devices](https://www.androidauthority.com/google-gemini-split-screen-foldables-tablets-3617194/)
- - [A look at Tsinghua University, which leads China&#39;s AI innovation, with 4,986 AI patents between 2005 and 2024, alumni behind startups like DeepSeek, and more &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/251119/p8#a251119p8)
- - [As TSMC readies its €10B Germany plant for 2027, its Taiwanese suppliers say they&#39;re struggling with the EU&#39;s complex permitting, labor, and environmental rules &lpar;New York Times&rpar;](http://www.techmeme.com/251119/p7#a251119p7)<!-- TECH:END -->
+ - [Sources: South Korean antitrust officials visited Arm&#39;s Seoul offices as part of ongoing scrutiny of its licensing practices, following Qualcomm&#39;s complaint &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/251119/p15#a251119p15)
+ - [Stop using the wrong Gemini: The one setting you need to change for Gemini 3](https://www.androidauthority.com/how-to-use-gemini-3-3616918/)
+ - [Vaping Is ‘Everywhere’ in Schools—Sparking a Bathroom Surveillance Boom](https://www.wired.com/story/vaping-surveillance-school-bathrooms/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
