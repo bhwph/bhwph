@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve accidentally steps on the make-up deal it offered to the indie game whose 2024 release was ruined by a Steam bug: &#39;I really get the feeling that Planet Centauri is cursed&#39;](https://www.pcgamer.com/games/valve-accidentally-steps-on-the-make-up-deal-it-offered-to-the-indie-game-whose-2024-release-was-ruined-by-a-steam-bug-i-really-get-the-feeling-that-planet-centauri-is-cursed/)
- - [Megabonk dev rejects The Game Awards nomination, says vote for other indies](https://www.polygon.com/megabonk-game-awards-best-debut-indie-controversy/)
- - [Counter-Strike 2 modders surprise drop an excellent Halo 3 multiplayer pack, accidentally proving how badly Valve has squandered Source 2](https://www.pcgamer.com/games/fps/counter-strike-2-modders-surprise-drop-an-excellent-halo-3-multiplayer-pack-accidentally-proving-how-badly-valve-has-squandered-source-2/)<!-- GAME:END -->
+ - [Darktide&#39;s second new class is the Hive Scum, its first dual-wielder and drug fiend](https://www.pcgamer.com/games/fps/darktides-second-new-class-is-the-hive-scum-its-first-dual-wielder-and-drug-fiend/)
+ - [Half-Life fans are in a frenzy over the prospect of a Half-Life 3 announcement that there&#39;s &lpar;almost&rpar; no good reason to believe is happening](https://www.pcgamer.com/games/fps/half-life-fans-are-in-a-frenzy-over-the-prospect-of-a-half-life-3-announcement-that-theres-almost-no-good-reason-to-believe-is-happening/)
+ - [Despite &#39;Mixed&#39; Steam reviews and a touch of AI slop, strategy city builder Anno 117: Pax Romana has the best launch in series history](https://www.pcgamer.com/games/city-builder/despite-mixed-steam-reviews-and-a-touch-of-ai-slop-strategy-city-builder-anno-117-pax-romana-has-the-best-launch-in-series-history/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
