@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vivienne Medrano unpacks Hazbin Hotel&#39;s s2 finale, teases season 3](https://www.polygon.com/hazbin-hotel-creator-vivienne-medrano-unpacks-season-2s-finale-and-teases-whats-to-expect-in-season-3/)
- - [Thermal Grizzly Der8enchtable review](https://www.pcgamer.com/hardware/pc-cases/thermal-grizzly-der8enchtable-review/)
- - [&#39;I like boring, and boring to me is no super exciting new features that will break machines for millions of people around the world&#39; says Linux creator Linus Torvalds](https://www.pcgamer.com/software/i-like-boring-and-boring-to-me-is-no-super-exciting-new-features-that-will-break-machines-for-millions-of-people-around-the-world-says-linux-creator-linus-torvalds/)<!-- GAME:END -->
+ - [Bandai Namco&#39;s strategy for Tales remasters misses the point](https://www.polygon.com/tales-of-berseria-resmatered-bandai-namco-release-date/)
+ - [Building a Vibe: The Making of Delta Force’s Newest Map, Monument](https://news.xbox.com/en-us/2025/11/19/making-of-delta-forces-newest-map-monument/)
+ - [Geoff Keighley denies he&#39;s hiding Half-Life 3 in his Steam wishlist, posts a screenshot to prove it, nobody believes him, and I&#39;m starting to wonder if he&#39;s just messing with us](https://www.pcgamer.com/games/fps/geoff-keighley-denies-hes-hiding-half-life-3-in-his-steam-wishlist-posts-a-screenshot-to-prove-it-nobody-believes-him-and-im-starting-to-wonder-if-hes-just-messing-with-us/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
