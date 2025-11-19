@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Watch Ultra 2025 hot sale: You don’t have to wait for Black Friday!](https://www.androidauthority.com/samsung-galaxy-watch-ultra-2025-deal-3614728/)
- - [Apple attacks Which&#39;s lawsuit backer in $2 billion UK App Store hearing](https://appleinsider.com/articles/25/11/19/apple-attacks-whichs-lawsuit-backer-in-2-billion-uk-app-store-hearing?utm_source=rss)
- - [Pixel phones in the US are finally getting this hotspot upgrade unlocked](https://www.androidauthority.com/pixel-6ghz-hotspot-available-in-us-3617450/)<!-- TECH:END -->
+ - [Record-low deals: These Star Wars and Jack Skellington Echo Dot bundles are too cool!](https://www.androidauthority.com/echo-dot-star-wars-jack-skellington-stand-shell-deals-3617453/)
+ - [Sources: Coinbase is preparing to launch a prediction market powered by Kalshi to allow its clients to bet on events such as elections and sports &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/251119/p44#a251119p44)
+ - [Why some apps disappear, and why free speech rights can&#39;t stop it](https://appleinsider.com/articles/25/11/19/why-some-apps-disappear-and-why-free-speech-rights-cant-stop-it?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
