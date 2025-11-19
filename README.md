@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic Games announces sweeping cross-platform collab&#39; bringing Unity&#39;s games and commerce platform to Fortnite](https://www.pcgamer.com/hardware/epic-games-announces-sweeping-cross-platform-collab-bringing-unitys-games-and-commerce-platform-to-fortnite/)
- - [Major Holiday Survey Reveals Something Special: Your Kids Want You To Play Games With Them](https://kotaku.com/holiday-gift-video-games-in-game-currency-parents-esa-2000645364)
- - [&#39;No one leaves&#39;—one Arc Raiders player has devoted themselves to turning Stella Montis into an inescapable maze, revelling in the cries of stuck players: &#39;I am the engineer of chaos!&#39;](https://www.pcgamer.com/games/third-person-shooter/no-one-leaves-one-arc-raiders-player-has-devoted-themselves-to-turning-stella-montis-into-an-inescapable-maze-revelling-in-the-cries-of-stuck-players-i-am-the-engineer-of-chaos/)<!-- GAME:END -->
+ - [Samsung Galaxy Buds 3 Pro Is Going for Peanuts, While AirPods Stay Almost Full Price](https://kotaku.com/samsung-galaxy-buds3-pro-comes-down-80-in-this-early-black-friday-deal-2000645262)
+ - [Pokemon Legends: Z-A‘s Latest Mega Evolution Reveal Pretty Much Confirms The Leaks](https://kotaku.com/pokemon-legends-za-mega-dimension-zeraora-trailer-reveal-2000645432)
+ - [Borderlands 4 has a &#39;very stupid&#39; glitch that lets you unlock a character&#39;s most powerful abilities before refunding all your skill points, but don&#39;t expect it to be around long as Gearbox says &#39;we&#39;re on it&#39;](https://www.pcgamer.com/games/fps/borderlands-4-has-a-very-stupid-glitch-that-lets-you-unlock-a-characters-most-powerful-abilities-before-refunding-all-your-skill-points-but-dont-expect-it-to-be-around-long-as-gearbox-says-were-on-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
