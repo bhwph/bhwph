@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This world seems funny](http://9gag.com/gag/ae9q3pm)
+ - 6️⃣ [What a talent......](http://9gag.com/gag/a6ZedZ8)
  - 😝 [The benefit of fasting](http://9gag.com/gag/ae9q31O)
- - 👉 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)<!-- MEMES:END -->
+ - 👉 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)<!-- MEMES:END -->
 
 --- 
 
