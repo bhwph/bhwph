@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Oura Ring 4 has dropped to its lowest price yet for Black Friday](https://www.theverge.com/gadgets/825315/oura-ring-4-black-friday-deal-sale-2025)
- - [This Lightweight Laptop Is Almost Half Off](https://www.wired.com/story/asus-zenbook-a14-deal-1125/)
- - [Smart cameras could be about to get a major upgrade with Matter 1.5](https://www.androidauthority.com/matter-cameras-3617989/)<!-- TECH:END -->
+ - [Got a Pixel 10? Google&#39;s Android Phone Can Now Share Files With Apple&#39;s AirDrop](https://www.wired.com/story/pixel-10-can-now-share-files-with-apples-airdrop/)
+ - [The 27 Best Movies on Apple TV, WIRED’s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [You can get up to 30 percent off Sonos speakers and soundbars right now](https://www.theverge.com/tech/823523/sonos-black-friday-deals-soundbar-speaker-sale-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
