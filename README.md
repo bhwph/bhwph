@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Intrusive thoughts won](http://9gag.com/gag/axyeN4n)
- - 😝 [Night will be long](http://9gag.com/gag/a5Q9NXq)
- - 👉 [The owner came up with a working way to make his dog lose weight.](http://9gag.com/gag/aW4e0Qx)<!-- MEMES:END -->
+ - 6️⃣ [Ask the professor](http://9gag.com/gag/a4PBKyy)
+ - 😝 [What a talent......](http://9gag.com/gag/a6ZedZ8)
+ - 👉 [My husband asking the real questions](http://9gag.com/gag/ajP36WR)<!-- MEMES:END -->
 
 --- 
 
