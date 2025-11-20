@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This world seems funny](http://9gag.com/gag/ae9q3pm)
- - 😝 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)
+ - 6️⃣ [The benefit of fasting](http://9gag.com/gag/ae9q31O)
+ - 😝 [This world seems funny](http://9gag.com/gag/ae9q3pm)
  - 👉 [Irad Cannon used on crowd](http://9gag.com/gag/aYQvpg2)<!-- MEMES:END -->
 
 --- 
