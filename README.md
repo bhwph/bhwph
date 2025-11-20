@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)
- - 😝 [What a talent......](http://9gag.com/gag/a6ZedZ8)
+ - 6️⃣ [Seriously what the hell is she even saying?](http://9gag.com/gag/avyB0PW)
+ - 😝 [This world seems funny](http://9gag.com/gag/ae9q3pm)
  - 👉 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)<!-- MEMES:END -->
 
 --- 
