@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Don’t Get Fooled by Apple’s Official Charger, Anker 20W Charger Costs 6x Less and Works Just as Well](https://kotaku.com/dont-get-fooled-by-apples-official-charger-anker-20w-charger-costs-6x-less-and-works-just-as-well-2000645688)
- - [If You Own a PS5 or Gaming PC, Logitech G29 Racing Wheel and Pedals Is Now Selling for Pennies](https://kotaku.com/if-you-own-a-ps5-or-gaming-pc-logitech-g29-racing-wheel-and-pedals-is-now-selling-for-pennies-2000645663)
- - [All active Where Winds Meet codes and how to redeem them](https://www.pcgamer.com/games/action/where-winds-meet-codes/)<!-- GAME:END -->
+ - [LEGO Tuxedo Cat Is Now Almost Free Compared to Its Previous Prices for Black Friday, Final Boxes Are Selling Out Fast](https://kotaku.com/this-lego-tuxedo-cat-for-20-off-makes-the-perfect-gift-for-animal-lovers-this-holiday-2000645591)
+ - [Bloodborne&#39;s soundtrack gets deluxe release for 10th anniversary](https://www.polygon.com/bloodborne-10th-anniversary-soundtrack-vinyl-release-pre-order/)
+ - [This Marshall Acton III Bluetooth Speaker Drops 40% Off, Amazon Clears Them Out on Black Friday’s Opening Day](https://kotaku.com/this-marshall-acton-iii-bluetooth-speaker-drops-40-off-amazon-clears-them-out-on-black-fridays-opening-day-2000645713)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
