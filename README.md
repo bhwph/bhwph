@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Drops This 2-Pack 65W Charger Block to Nearly Free and It Charges 3 Devices at Once](https://kotaku.com/amazon-drops-this-2-pack-65w-charger-block-to-nearly-free-and-it-charges-3-devices-at-once-2000645753)
- - [Rust developer has &#39;no plans&#39; for Linux or Proton support, says games that support them are &#39;not serious about anti-cheat&#39;](https://www.pcgamer.com/games/survival-crafting/rust-developer-has-no-plans-for-linux-or-proton-support-says-games-that-support-them-are-not-serious-about-anti-cheat/)
- - [WoW game director steps in to reassure players that its AddOn overhaul is a work in progress, and the temporary death of cosmetic mods is simply &#39;collateral damage that we are working on repairing&#39;](https://www.pcgamer.com/games/world-of-warcraft/wow-game-director-steps-in-to-reassure-players-that-its-addon-overhaul-is-a-work-in-progress-and-the-temporary-death-of-cosmetic-mods-is-simply-collateral-damage-that-we-are-working-on-repairing/)<!-- GAME:END -->
+ - [Xbox Partner Preview | Raji: Kaliyuga – Breaking Down a Sequel Adding So Much More Than a New Story](https://news.xbox.com/en-us/2025/11/20/raji-kaliyuga-xbox-partner-preview/)
+ - [Xbox Partner Preview | Breaking Down the Background and Boss Fight in the New Tides of Annihilation Gameplay Trailer](https://news.xbox.com/en-us/2025/11/20/tides-of-annihilation-xbox-partner-preview/)
+ - [Xbox Partner Preview | Eminem Takes Center Stage in Hitman World of Assassination’s Latest Elusive Target Mission](https://news.xbox.com/en-us/2025/11/20/hitman-xbox-partner-preview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
