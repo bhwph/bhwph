@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [LEGO Tuxedo Cat Is Now Almost Free Compared to Its Previous Prices for Black Friday, Final Boxes Are Selling Out Fast](https://kotaku.com/this-lego-tuxedo-cat-for-20-off-makes-the-perfect-gift-for-animal-lovers-this-holiday-2000645591)
- - [Bloodborne&#39;s soundtrack gets deluxe release for 10th anniversary](https://www.polygon.com/bloodborne-10th-anniversary-soundtrack-vinyl-release-pre-order/)
- - [This Marshall Acton III Bluetooth Speaker Drops 40% Off, Amazon Clears Them Out on Black Friday’s Opening Day](https://kotaku.com/this-marshall-acton-iii-bluetooth-speaker-drops-40-off-amazon-clears-them-out-on-black-fridays-opening-day-2000645713)<!-- GAME:END -->
+ - [Amazon Drops This 2-Pack 65W Charger Block to Nearly Free and It Charges 3 Devices at Once](https://kotaku.com/amazon-drops-this-2-pack-65w-charger-block-to-nearly-free-and-it-charges-3-devices-at-once-2000645753)
+ - [Rust developer has &#39;no plans&#39; for Linux or Proton support, says games that support them are &#39;not serious about anti-cheat&#39;](https://www.pcgamer.com/games/survival-crafting/rust-developer-has-no-plans-for-linux-or-proton-support-says-games-that-support-them-are-not-serious-about-anti-cheat/)
+ - [WoW game director steps in to reassure players that its AddOn overhaul is a work in progress, and the temporary death of cosmetic mods is simply &#39;collateral damage that we are working on repairing&#39;](https://www.pcgamer.com/games/world-of-warcraft/wow-game-director-steps-in-to-reassure-players-that-its-addon-overhaul-is-a-work-in-progress-and-the-temporary-death-of-cosmetic-mods-is-simply-collateral-damage-that-we-are-working-on-repairing/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
