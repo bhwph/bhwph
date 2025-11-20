@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 32 best gifts that your teen will actually use](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025)
- - [Paradromics says it received FDA approval for a human trial of its Connexus brain implant, aimed at restoring speech to those with severe motor impairments &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/251120/p35#a251120p35)
- - [Swatch&#39;s New OpenAI-Powered Tool Lets You Design Your Own Watch](https://www.wired.com/story/swatchs-new-openai-powered-tool-lets-you-design-your-own-watch/)<!-- TECH:END -->
+ - [The Oura Ring 4 has dropped to its lowest price yet for Black Friday](https://www.theverge.com/gadgets/825315/oura-ring-4-black-friday-deal-sale-2025)
+ - [This Lightweight Laptop Is Almost Half Off](https://www.wired.com/story/asus-zenbook-a14-deal-1125/)
+ - [Smart cameras could be about to get a major upgrade with Matter 1.5](https://www.androidauthority.com/matter-cameras-3617989/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
