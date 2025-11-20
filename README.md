@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tell us: What is the best phone for casual users in 2025?](https://www.androidauthority.com/best-phone-casual-users-open-thread-3617760/)
- - [40% Off Chewy Promo Code | November 2025](https://www.wired.com/story/chewy-promo-code/)
- - [China&#39;s transport, logistics, and ride-hailing sectors are accelerating the mass adoption of autonomous vehicles, threatening the jobs of millions of drivers &lpar;Edward White/Financial Times&rpar;](http://www.techmeme.com/251120/p6#a251120p6)<!-- TECH:END -->
+ - [What&#39;s the Best Way to Make Coffee? I Asked 10 Experts and They &lpar;Almost&rpar; All Agreed](https://www.cnet.com/news/whats-the-best-way-to-make-coffee-i-asked-10-experts-and-they-almost-all-agreed/#ftag=CAD590a51e)
+ - [Another Galaxy Watch generation is getting the latest One UI 8 stable update](https://www.androidauthority.com/galaxy-watch-6-one-ui-8-stable-update-3617784/)
+ - [How scientists are exploring the use of quantum sensors, developed by startups like Q-CTRL, as a secure GPS alternative with military and civilian applications &lpar;Mike Cherney/Wall Street Journal&rpar;](http://www.techmeme.com/251120/p8#a251120p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
