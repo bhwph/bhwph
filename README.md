@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Limited-time offer: CMF Headphone Pro drops to just $79 for the first time](https://www.androidauthority.com/cmf-headphone-pro-black-friday-deal-3617513/)
- - [The sequel to one of 2025’s best camera phones could have bonkers hardware](https://www.androidauthority.com/vivo-x300-ultra-dual-200mp-leak-3617812/)
- - [Rare find: OnePlus Watch 3 hits its lowest price yet at $249.99](https://www.androidauthority.com/oneplus-watch-3-black-friday-deal-3617499/)<!-- TECH:END -->
+ - [Sources: SoftBank plans to invest up to $3B to remodel an EV plant in Lordstown, Ohio, that will produce equipment for OpenAI&#39;s forthcoming US data centers &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/251120/p27#a251120p27)
+ - [Bose-Infused Baseus Inspire XH1 Headphones Exceeded My Expectations](https://www.cnet.com/tech/mobile/bose-infused-baseus-inspire-xh1-headphones-exceeded-my-expectations/#ftag=CAD590a51e)
+ - [Waymo Adds 3 New Cities to Its Roster. Everything to Know About the Robotaxi Service](https://www.cnet.com/roadshow/news/waymo-adds-3-new-cities-to-its-roster-everything-to-know-about-the-robotaxi-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
