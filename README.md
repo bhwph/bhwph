@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo reports Q2 revenue up 15% YoY to $20.45B, vs. $20B est., net profit down 5% to $340M, vs. $382M est., but adjusted net profit up 25% to $512M &lpar;P.R. Venkat/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p58#a251119p58)
- - [Dell UltraSharp 32 6K Monitor review: Cross-platform productivity champion](https://appleinsider.com/articles/25/11/20/dell-ultrasharp-32-6k-monitor-review-cross-platform-productivity-champion?utm_source=rss)
- - [Nvidia CEO Dismisses Concerns of an AI Bubble. Investors Remain Skeptical](https://www.wired.com/story/nvidia-third-quarter-2026-earnings/)<!-- TECH:END -->
+ - [Function Health, a health tracking tech company, raised a $298M Series B led by Redpoint Ventures at a $2.5B valuation, bringing its total funding to $350M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/251119/p61#a251119p61)
+ - [This new USB stick promises to end your smart home chaos for just $49](https://www.androidauthority.com/home-assistant-connect-zbt-2-3617640/)
+ - [Australia vs. England Livestream: How to Watch 1st Test Ashes Cricket From Anywhere for Free](https://www.cnet.com/tech/services-and-software/australia-vs-england-livestream-how-to-watch-1st-test-ashes-cricket-from-anywhere-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
