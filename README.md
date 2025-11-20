@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The benefit of fasting](http://9gag.com/gag/ae9q31O)
- - 😝 [This world seems funny](http://9gag.com/gag/ae9q3pm)
- - 👉 [Irad Cannon used on crowd](http://9gag.com/gag/aYQvpg2)<!-- MEMES:END -->
+ - 6️⃣ [This world seems funny](http://9gag.com/gag/ae9q3pm)
+ - 😝 [The benefit of fasting](http://9gag.com/gag/ae9q31O)
+ - 👉 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)<!-- MEMES:END -->
 
 --- 
 
