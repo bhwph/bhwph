@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Handgun Wrecking Everyone In Arc Raiders Has Been Put In Nerf Jail](https://kotaku.com/arc-raiders-embark-studios-1-3-0-venerator-wall-key-2000645901)
- - [Open-World RPG Where Winds Meet Has It All: Evil Geese, AI Chatbots, And A $40,000 Skin](https://kotaku.com/where-winds-meet-game-reddit-steam-reviews-2000645900)
- - [The Game Awards needs to add a Best Horror Game category](https://www.polygon.com/game-awards-best-horror-game-category/)<!-- GAME:END -->
+ - [We Saw 12 Games During The Latest Xbox Showcase And Some Of Them Definitely Have My Attention Now](https://kotaku.com/xbox-showcase-november-2025-reanimal-trailer-free-demo-2000645835)
+ - [Anticipated anime action RPG halts updates just 3 months after launch because of poor sales: &#39;The game wasn’t fun enough to sustain a consistent, healthy player base&#39;](https://www.pcgamer.com/games/action/anticipated-anime-action-rpg-halts-updates-just-3-months-after-launch-because-of-poor-sales-the-game-wasnt-fun-enough-to-sustain-a-consistent-healthy-player-base/)
+ - [Expedition 33 Star Uses Award Speech To Say What Everyone’s Thinking](https://kotaku.com/expedition-33-verso-actor-ben-starr-speech-awards-layoffs-2000645930)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
