@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6′s New Map Is So Good I Can’t Stop Playing It](https://kotaku.com/battlefield-6s-new-map-review-good-eastwood-big-large-ps5-pc-2000645547)
- - [&#39;Keep dying to goose pls help&#39;: Where Winds Meet players are being chased around by demonic geese](https://www.pcgamer.com/games/mmo/keep-dying-to-goose-pls-help-where-winds-meet-players-are-being-chased-around-by-demonic-geese/)
- - [After Krafton denied its CEO consulted with ChatGPT on the Subnautica 2 mess, Krafton CEO says he consulted with ChatGPT on the Subnautica 2 mess](https://www.pcgamer.com/games/after-krafton-denied-its-ceo-consulted-with-chatgpt-on-the-subnautica-2-mess-krafton-ceo-says-he-consulted-with-chatgpt-on-the-subnautica-2-mess/)<!-- GAME:END -->
+ - [Govee Dumps Color Floor Lamps, Now Selling at New All-Time Low for Prime Members](https://kotaku.com/govee-dumps-color-floor-lamps-now-selling-at-new-all-time-low-for-prime-members-2000645559)
+ - [I became a full-time paramedic for strangers in Arc Raiders, and ended up showered with more rare loot than I could carry](https://www.pcgamer.com/games/third-person-shooter/i-became-a-full-time-paramedic-for-strangers-in-arc-raiders-and-ended-up-showered-with-more-rare-loot-than-i-could-carry/)
+ - [LG’s Ultrafine 27-Inch 4K Monitor Sells for Peanuts, Amazon Dumps Stock With Zero Margin](https://kotaku.com/lgs-ultrafine-27-inch-4k-monitor-sells-for-peanuts-amazon-dumps-stock-with-zero-margin-2000645574)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
