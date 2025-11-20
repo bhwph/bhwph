@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank plans to invest up to $3B to remodel an EV plant in Lordstown, Ohio, that will produce equipment for OpenAI&#39;s forthcoming US data centers &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/251120/p27#a251120p27)
- - [Bose-Infused Baseus Inspire XH1 Headphones Exceeded My Expectations](https://www.cnet.com/tech/mobile/bose-infused-baseus-inspire-xh1-headphones-exceeded-my-expectations/#ftag=CAD590a51e)
- - [Waymo Adds 3 New Cities to Its Roster. Everything to Know About the Robotaxi Service](https://www.cnet.com/roadshow/news/waymo-adds-3-new-cities-to-its-roster-everything-to-know-about-the-robotaxi-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 32 best gifts that your teen will actually use](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025)
+ - [Paradromics says it received FDA approval for a human trial of its Connexus brain implant, aimed at restoring speech to those with severe motor impairments &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/251120/p35#a251120p35)
+ - [Swatch&#39;s New OpenAI-Powered Tool Lets You Design Your Own Watch](https://www.wired.com/story/swatchs-new-openai-powered-tool-lets-you-design-your-own-watch/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
