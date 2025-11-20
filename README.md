@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What&#39;s the Best Way to Make Coffee? I Asked 10 Experts and They &lpar;Almost&rpar; All Agreed](https://www.cnet.com/news/whats-the-best-way-to-make-coffee-i-asked-10-experts-and-they-almost-all-agreed/#ftag=CAD590a51e)
- - [Another Galaxy Watch generation is getting the latest One UI 8 stable update](https://www.androidauthority.com/galaxy-watch-6-one-ui-8-stable-update-3617784/)
- - [How scientists are exploring the use of quantum sensors, developed by startups like Q-CTRL, as a secure GPS alternative with military and civilian applications &lpar;Mike Cherney/Wall Street Journal&rpar;](http://www.techmeme.com/251120/p8#a251120p8)<!-- TECH:END -->
+ - [Limited-time offer: CMF Headphone Pro drops to just $79 for the first time](https://www.androidauthority.com/cmf-headphone-pro-black-friday-deal-3617513/)
+ - [The sequel to one of 2025’s best camera phones could have bonkers hardware](https://www.androidauthority.com/vivo-x300-ultra-dual-200mp-leak-3617812/)
+ - [Rare find: OnePlus Watch 3 hits its lowest price yet at $249.99](https://www.androidauthority.com/oneplus-watch-3-black-friday-deal-3617499/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
