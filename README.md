@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia says its AI GPUs are sold out, grows data center by $10B in a single quarter](https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue)
- - [WIRED Roundup: DHS’s Privacy Breach, AI Romantic Affairs, and Google Sues Text Scammers](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-dhs-privacy-breach-ai-romantic-affairs-google-sues-text-scammers/)
- - [Chrome is finally getting a highly requested feature that its rivals have long had](https://www.androidauthority.com/chrome-browser-vertical-tabs-3617534/)<!-- TECH:END -->
+ - [Lenovo reports Q2 revenue up 15% YoY to $20.45B, vs. $20B est., net profit down 5% to $340M, vs. $382M est., but adjusted net profit up 25% to $512M &lpar;P.R. Venkat/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p58#a251119p58)
+ - [Dell UltraSharp 32 6K Monitor review: Cross-platform productivity champion](https://appleinsider.com/articles/25/11/20/dell-ultrasharp-32-6k-monitor-review-cross-platform-productivity-champion?utm_source=rss)
+ - [Nvidia CEO Dismisses Concerns of an AI Bubble. Investors Remain Skeptical](https://www.wired.com/story/nvidia-third-quarter-2026-earnings/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
