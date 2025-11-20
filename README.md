@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Big AI companies and the people that supply big AI companies are once again investing billions of dollars in one another: this time, Nvidia, Microsoft and Anthropic](https://www.pcgamer.com/software/ai/big-ai-companies-and-the-people-that-supply-big-ai-companies-are-once-again-investing-billions-of-dollars-in-one-another-this-time-nvidia-microsoft-and-anthropic/)
- - [How to unlock all machines in Kirby Air Riders](https://www.polygon.com/kirby-air-riders-unlock-all-machines-vehicles-legendary/)
- - [How to unlock every character in Kirby Air Riders](https://www.polygon.com/kirby-air-riders-character-list-unlock-all-colors-requirements/)<!-- GAME:END -->
+ - [Don’t Get Fooled by Apple’s Official Charger, Anker 20W Charger Costs 6x Less and Works Just as Well](https://kotaku.com/dont-get-fooled-by-apples-official-charger-anker-20w-charger-costs-6x-less-and-works-just-as-well-2000645688)
+ - [If You Own a PS5 or Gaming PC, Logitech G29 Racing Wheel and Pedals Is Now Selling for Pennies](https://kotaku.com/if-you-own-a-ps5-or-gaming-pc-logitech-g29-racing-wheel-and-pedals-is-now-selling-for-pennies-2000645663)
+ - [All active Where Winds Meet codes and how to redeem them](https://www.pcgamer.com/games/action/where-winds-meet-codes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
