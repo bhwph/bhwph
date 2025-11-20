@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy user loses life after phone fails to reach emergency hotline &lpar;Updated: Official statement&rpar;](https://www.androidauthority.com/samsung-used-dies-australia-outdated-phone-3617246/)
- - [Now Bar could make your work commute a little easier in One UI 8.5](https://www.androidauthority.com/samsung-one-ui-8-5-now-bar-additions-3617679/)
- - [20% Off Brooks Promo Code &amp; Deals for November 2025](https://www.wired.com/story/brooks-promo-code/)<!-- TECH:END -->
+ - [Tell us: What is the best phone for casual users in 2025?](https://www.androidauthority.com/best-phone-casual-users-open-thread-3617760/)
+ - [40% Off Chewy Promo Code | November 2025](https://www.wired.com/story/chewy-promo-code/)
+ - [China&#39;s transport, logistics, and ride-hailing sectors are accelerating the mass adoption of autonomous vehicles, threatening the jobs of millions of drivers &lpar;Edward White/Financial Times&rpar;](http://www.techmeme.com/251120/p6#a251120p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
