@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why bother anymore?](http://9gag.com/gag/aMV01O1)
- - 😝 [Security guy, a man of integrity tried to save the player&#39;s life](http://9gag.com/gag/azxvbBm)
- - 👉 [Spooky Ride](http://9gag.com/gag/a4PB4qv)<!-- MEMES:END -->
+ - 6️⃣ [Are we that old bro?](http://9gag.com/gag/aAyLRA0)
+ - 😝 [Ask the professor](http://9gag.com/gag/a4PBKyy)
+ - 👉 [Why bother anymore?](http://9gag.com/gag/aMV01O1)<!-- MEMES:END -->
 
 --- 
 
