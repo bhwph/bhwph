@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Seriously what the hell is she even saying?](http://9gag.com/gag/avyB0PW)
- - 😝 [This world seems funny](http://9gag.com/gag/ae9q3pm)
- - 👉 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)<!-- MEMES:END -->
+ - 6️⃣ [40....love](http://9gag.com/gag/azxvExm)
+ - 😝 [Man only want one thing and it&#39;s disgusting.](http://9gag.com/gag/ae9q3ZO)
+ - 👉 [It`s wednesday my degens :&rpar;](http://9gag.com/gag/aYQvb5O)<!-- MEMES:END -->
 
 --- 
 
