@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Partner Preview | Raji: Kaliyuga – Breaking Down a Sequel Adding So Much More Than a New Story](https://news.xbox.com/en-us/2025/11/20/raji-kaliyuga-xbox-partner-preview/)
- - [Xbox Partner Preview | Breaking Down the Background and Boss Fight in the New Tides of Annihilation Gameplay Trailer](https://news.xbox.com/en-us/2025/11/20/tides-of-annihilation-xbox-partner-preview/)
- - [Xbox Partner Preview | Eminem Takes Center Stage in Hitman World of Assassination’s Latest Elusive Target Mission](https://news.xbox.com/en-us/2025/11/20/hitman-xbox-partner-preview/)<!-- GAME:END -->
+ - [Monster Handgun Wrecking Everyone In Arc Raiders Has Been Put In Nerf Jail](https://kotaku.com/arc-raiders-embark-studios-1-3-0-venerator-wall-key-2000645901)
+ - [Open-World RPG Where Winds Meet Has It All: Evil Geese, AI Chatbots, And A $40,000 Skin](https://kotaku.com/where-winds-meet-game-reddit-steam-reviews-2000645900)
+ - [The Game Awards needs to add a Best Horror Game category](https://www.polygon.com/game-awards-best-horror-game-category/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
