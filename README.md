@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge sentences William Lonergan Hill, a co-founder of crypto mixer Samourai Wallet, to four years in prison for laundering $200M+ in illegal transactions &lpar;Miles J. Herszenhorn/Bloomberg&rpar;](http://www.techmeme.com/251119/p62#a251119p62)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Nov. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-nov-20/#ftag=CAD590a51e)
- - [Function Health, a health tracking tech company, raised a $298M Series B led by Redpoint Ventures at a $2.5B valuation, bringing its total funding to $350M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/251119/p61#a251119p61)<!-- TECH:END -->
+ - [Galaxy user loses life after phone fails to reach emergency hotline &lpar;Updated: Official statement&rpar;](https://www.androidauthority.com/samsung-used-dies-australia-outdated-phone-3617246/)
+ - [Now Bar could make your work commute a little easier in One UI 8.5](https://www.androidauthority.com/samsung-one-ui-8-5-now-bar-additions-3617679/)
+ - [20% Off Brooks Promo Code &amp; Deals for November 2025](https://www.wired.com/story/brooks-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
