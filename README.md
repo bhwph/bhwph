@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After 10 years, Google Photos may be getting this basic UI feature](https://www.androidauthority.com/google-photos-editor-theme-3618363/)
- - [Foxconn Chair Young Liu says the company will spend $2B to $3B per year in AI in the next three to five years and is discussing potential investments with Japan &lpar;Reuters&rpar;](http://www.techmeme.com/251121/p7#a251121p7)
- - [Google Tasks could soon give you a better way to sort tasks &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-tasks-sort-deadline-apk-teardown-3618348/)<!-- TECH:END -->
+ - [As Kalshi and Polymarket race to scale during a Trump-era regulatory opening, critics warn that expanding gambling in the US could have unintended consequences &lpar;Bloomberg&rpar;](http://www.techmeme.com/251121/p8#a251121p8)
+ - [Here’s how you can AirDrop files from your Pixel to an iPhone using Quick Share](https://www.androidauthority.com/pixel-quick-share-iphone-mac-airdrop-how-to-3618037/)
+ - [If you needed a nudge to buy a Kindle, Black Friday just shoved](https://www.androidauthority.com/amazon-kindle-black-friday-deals-3618321/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
