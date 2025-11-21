@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Posha vs. Thermomix: Kitchen Robots Face Off on Thanksgiving Sides](https://www.wired.com/story/i-tasked-rival-robots-with-cooking-my-thanksgiving-dinner/)
- - [I signed up for Trump Mobile two weeks ago and I still don’t have my SIM](https://www.theverge.com/tech/825190/trump-mobile-service-customer-care-sim)
- - [Q&amp;A with Roblox co-founder and CEO David Baszucki on using face scans to verify age, having a chat function on Roblox, AI content moderation at scale, and more &lpar;New York Times&rpar;](http://www.techmeme.com/251121/p13#a251121p13)<!-- TECH:END -->
+ - [Google starts rolling out ads in AI mode; the ads look similar to the citations in AI answers but with a &quot;sponsored&quot; label &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/251121/p18#a251121p18)
+ - [Sources: Meta plans to test an AI-powered personalized daily briefing, designed to compete with ChatGPT&#39;s Pulse, with some Facebook users in NYC and SF &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/251121/p17#a251121p17)
+ - [Public anxiety about Apple&#39;s Digital ID greatly overstates actual risks](https://appleinsider.com/articles/25/11/21/public-anxiety-about-apples-digital-id-greatly-overstates-actual-risks?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
