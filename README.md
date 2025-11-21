@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The SEC drops its 2023 case against SolarWinds and its CISO Tim Brown, which alleged they concealed vulnerabilities ahead of the Russia-linked 2020 cyberattack &lpar;Chris Prentice/Reuters&rpar;](http://www.techmeme.com/251120/p55#a251120p55)
- - [Filings: Meta&#39;s board agreed to a $190M settlement with investors over claims that Zuckerberg and other board members mishandled the Cambridge Analytica scandal &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/251120/p54#a251120p54)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Nov. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-nov-21/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GE HealthCare acquires Intelerad, which sells cloud imaging software and digital workflow tools primarily to outpatient and ambulatory sites, for $2.3B &lpar;Brock E.W. Turner/Axios&rpar;](http://www.techmeme.com/251121/p5#a251121p5)
+ - [KitchenAid Promo Code: $250 Off in November 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+ - [AirDoctor Coupon Codes: 40% Off | November 2025](https://www.wired.com/story/airdoctor-coupon-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
