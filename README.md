@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [40....love](http://9gag.com/gag/azxvExm)
- - 😝 [Man only want one thing and it&#39;s disgusting.](http://9gag.com/gag/ae9q3ZO)
- - 👉 [It`s wednesday my degens :&rpar;](http://9gag.com/gag/aYQvb5O)<!-- MEMES:END -->
+ - 6️⃣ [This world seems funny](http://9gag.com/gag/ae9q3pm)
+ - 😝 [Almost everyone was let go, including me, but I&#39;m not even mad. It was worth it, even if just to make a lesson to the CEO - if your company operates on six-digit revenue, don&#39;t fire your only IT guy](http://9gag.com/gag/adBW6Pd)
+ - 👉 [Bro,just reject me next time.](http://9gag.com/gag/aryDeBy)<!-- MEMES:END -->
 
 --- 
 
