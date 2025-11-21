@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where is Maurice&#39;s Black Market Vending Machine in Borderlands 4](https://www.polygon.com/borderlands-4-maurices-black-market-vending-legendary-machine-location/)
- - [Sony Quietly Offloads Millions of PS5 Slim With Disc Drive, Now Selling at All-Time Low on Amazon](https://kotaku.com/sony-quietly-offloads-millions-of-ps5-slim-with-disc-drive-now-selling-at-all-time-low-on-amazon-2000646168)
- - [Pools brings liminal terror to PS5 and PS VR2 on Nov 25](https://blog.playstation.com/2025/11/21/pools-brings-liminal-terror-to-ps5-and-ps-vr2-on-nov-25/)<!-- GAME:END -->
+ - [This brilliantly strategic roguelike challenges you to build a whole city on wheels and keep it one step ahead of an unending horde of monsters](https://www.pcgamer.com/games/roguelike/this-brilliantly-strategic-roguelike-challenges-you-to-build-a-whole-city-on-wheels-and-keep-it-one-step-ahead-of-an-unending-horde-of-monsters/)
+ - [ASUS TUF F16 Gaming Laptop &lpar;RTX 4050&rpar; Takes a Black Friday Price Hit That Makes Zero Sense](https://kotaku.com/save-a-massive-350-on-the-16-inch-asus-tuf-gaming-laptop-at-amazon-today-2000645816)
+ - [Hytale honcho says early access will be $20 because &#39;charging more didn’t feel right&#39;: He doesn&#39;t think the game is good yet, but &#39;my team and I will push hard to make it good, then great&#39;](https://www.pcgamer.com/games/rpg/hytale-honcho-says-early-access-will-be-usd20-because-charging-more-didnt-feel-right-he-doesnt-think-the-game-is-good-yet-but-my-team-and-i-will-push-hard-to-make-it-good-then-great/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
