@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where the rumored budget MacBook fits in Apple&#39;s laptop lineup](https://appleinsider.com/articles/25/11/21/where-the-rumored-budget-macbook-fits-in-apples-laptop-lineup?utm_source=rss)
- - [Best Black Friday Google Pixel Deals &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-google-pixel-deals-2025/)
- - [Google wants to use your emails to train its AI -- here&#39;s how to turn that off](https://appleinsider.com/inside/macos/tips/google-wants-to-use-your-emails-to-train-its-ai----heres-how-to-turn-that-off?utm_source=rss)<!-- TECH:END -->
+ - [Catch a $70 discount on the Apple iPad 11-inch in holiday sales](https://www.androidauthority.com/apple-ipad-11-inch-deal-3618604/)
+ - [Google Photos is fixing its mistake and finally bringing back this missing tool](https://www.androidauthority.com/google-photos-perspective-3618673/)
+ - [MediaWorld Accidentally Sold iPads for 15 Euros. Then It Asked for Them Back](https://www.wired.com/story/mediaworld-accidentally-sold-ipads-for-euro15-then-it-asked-for-them-back/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
