@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This brilliantly strategic roguelike challenges you to build a whole city on wheels and keep it one step ahead of an unending horde of monsters](https://www.pcgamer.com/games/roguelike/this-brilliantly-strategic-roguelike-challenges-you-to-build-a-whole-city-on-wheels-and-keep-it-one-step-ahead-of-an-unending-horde-of-monsters/)
- - [ASUS TUF F16 Gaming Laptop &lpar;RTX 4050&rpar; Takes a Black Friday Price Hit That Makes Zero Sense](https://kotaku.com/save-a-massive-350-on-the-16-inch-asus-tuf-gaming-laptop-at-amazon-today-2000645816)
- - [Hytale honcho says early access will be $20 because &#39;charging more didn’t feel right&#39;: He doesn&#39;t think the game is good yet, but &#39;my team and I will push hard to make it good, then great&#39;](https://www.pcgamer.com/games/rpg/hytale-honcho-says-early-access-will-be-usd20-because-charging-more-didnt-feel-right-he-doesnt-think-the-game-is-good-yet-but-my-team-and-i-will-push-hard-to-make-it-good-then-great/)<!-- GAME:END -->
+ - [Popular Sims Pirate Vanishes, Leaving Sadness And Controversy Behind](https://kotaku.com/sims-4-updater-piracy-anadius-simmerella-patreon-2000646287)
+ - [D&amp;D’s new Forgotten Realms books deliver a solid Rime of the Frostmaiden sequel](https://www.polygon.com/dnd-forgotten-realms-adventures-faerun-icewind-dale-rime-frostmaiden/)
+ - [Spikeball Smash Brings the Party to Xbox Today](https://news.xbox.com/en-us/2025/11/21/spikeball-smash-brings-the-party-to-xbox-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
