@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)
- - 😝 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
- - 👉 [Husbands be like](http://9gag.com/gag/apRnB2B)<!-- MEMES:END -->
+ - 6️⃣ [What a talent......](http://9gag.com/gag/a6ZedZ8)
+ - 😝 [Husbands be like](http://9gag.com/gag/apRnB2B)
+ - 👉 [1954. A black worker in a South African diamond mine behind an X-ray machine. They were scanned at the end of each shift to prevent them from swallowing diamonds and smuggling them out.](http://9gag.com/gag/aXPm9xd)<!-- MEMES:END -->
 
 --- 
 
