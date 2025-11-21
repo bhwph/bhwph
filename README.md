@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Man only want one thing and it&#39;s disgusting.](http://9gag.com/gag/ae9q3ZO)
- - 😝 [It`s wednesday my degens :&rpar;](http://9gag.com/gag/aYQvb5O)
- - 👉 [Damn boys](http://9gag.com/gag/aD2q3Yx)<!-- MEMES:END -->
+ - 6️⃣ [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
+ - 😝 [Bro,just reject me next time.](http://9gag.com/gag/aryDeBy)
+ - 👉 [What a talent......](http://9gag.com/gag/a6ZedZ8)<!-- MEMES:END -->
 
 --- 
 
