@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Kalshi and Polymarket race to scale during a Trump-era regulatory opening, critics warn that expanding gambling in the US could have unintended consequences &lpar;Bloomberg&rpar;](http://www.techmeme.com/251121/p8#a251121p8)
- - [Here’s how you can AirDrop files from your Pixel to an iPhone using Quick Share](https://www.androidauthority.com/pixel-quick-share-iphone-mac-airdrop-how-to-3618037/)
- - [If you needed a nudge to buy a Kindle, Black Friday just shoved](https://www.androidauthority.com/amazon-kindle-black-friday-deals-3618321/)<!-- TECH:END -->
+ - [IBM and Cisco plan to link quantum computers over long distances and aim to provide a proof-of-concept by 2030, potentially paving the way for quantum internet &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251121/p11#a251121p11)
+ - [The Nama M1 Is the Best Nut Milk Maker We’ve Tested in 2025](https://www.wired.com/gallery/the-best-nut-milk-maker/)
+ - [5 essential products that should be in your everyday carry backpack](https://www.androidauthority.com/essential-products-everyday-backpack-3616784/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
