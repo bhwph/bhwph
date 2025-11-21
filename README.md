@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Almost everyone was let go, including me, but I&#39;m not even mad. It was worth it, even if just to make a lesson to the CEO - if your company operates on six-digit revenue, don&#39;t fire your only IT guy](http://9gag.com/gag/adBW6Pd)
- - 😝 [Husbands be like](http://9gag.com/gag/apRnB2B)
- - 👉 [Have a nice day](http://9gag.com/gag/azxvEbx)<!-- MEMES:END -->
+ - 6️⃣ [Have a nice day](http://9gag.com/gag/azxvEbx)
+ - 😝 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
+ - 👉 [Husbands be like](http://9gag.com/gag/apRnB2B)<!-- MEMES:END -->
 
 --- 
 
