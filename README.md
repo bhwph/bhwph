@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google starts rolling out ads in AI mode; the ads look similar to the citations in AI answers but with a &quot;sponsored&quot; label &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/251121/p18#a251121p18)
- - [Sources: Meta plans to test an AI-powered personalized daily briefing, designed to compete with ChatGPT&#39;s Pulse, with some Facebook users in NYC and SF &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/251121/p17#a251121p17)
- - [Public anxiety about Apple&#39;s Digital ID greatly overstates actual risks](https://appleinsider.com/articles/25/11/21/public-anxiety-about-apples-digital-id-greatly-overstates-actual-risks?utm_source=rss)<!-- TECH:END -->
+ - [Where the rumored budget MacBook fits in Apple&#39;s laptop lineup](https://appleinsider.com/articles/25/11/21/where-the-rumored-budget-macbook-fits-in-apples-laptop-lineup?utm_source=rss)
+ - [Best Black Friday Google Pixel Deals &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-google-pixel-deals-2025/)
+ - [Google wants to use your emails to train its AI -- here&#39;s how to turn that off](https://appleinsider.com/inside/macos/tips/google-wants-to-use-your-emails-to-train-its-ai----heres-how-to-turn-that-off?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
