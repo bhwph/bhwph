@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
- - 😝 [Almost everyone was let go, including me, but I&#39;m not even mad. It was worth it, even if just to make a lesson to the CEO - if your company operates on six-digit revenue, don&#39;t fire your only IT guy](http://9gag.com/gag/adBW6Pd)
- - 👉 [The benefit of fasting](http://9gag.com/gag/ae9q31O)<!-- MEMES:END -->
+ - 6️⃣ [Man only want one thing and it&#39;s disgusting.](http://9gag.com/gag/ae9q3ZO)
+ - 😝 [It`s wednesday my degens :&rpar;](http://9gag.com/gag/aYQvb5O)
+ - 👉 [Damn boys](http://9gag.com/gag/aD2q3Yx)<!-- MEMES:END -->
 
 --- 
 
