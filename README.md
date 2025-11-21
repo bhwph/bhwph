@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Catch a $70 discount on the Apple iPad 11-inch in holiday sales](https://www.androidauthority.com/apple-ipad-11-inch-deal-3618604/)
- - [Google Photos is fixing its mistake and finally bringing back this missing tool](https://www.androidauthority.com/google-photos-perspective-3618673/)
- - [MediaWorld Accidentally Sold iPads for 15 Euros. Then It Asked for Them Back](https://www.wired.com/story/mediaworld-accidentally-sold-ipads-for-euro15-then-it-asked-for-them-back/)<!-- TECH:END -->
+ - [T-Mobile Tuesdays may drop its coziest freebie yet](https://www.androidauthority.com/t-mobile-tuesday-blanket-freebie-3618772/)
+ - [Apple TV’s Black Friday offer will let you binge for 6 months at half price](https://www.androidauthority.com/apple-tv-black-friday-3618768/)
+ - [A look at AMD&#39;s pivot to AI chips in 2022 under CEO Lisa Su, increasing AMD&#39;s market value from $90B to $335B+ in three years, as the chipmaker takes on Nvidia &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251121/p27#a251121p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
