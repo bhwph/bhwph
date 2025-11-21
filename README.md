@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM and Cisco plan to link quantum computers over long distances and aim to provide a proof-of-concept by 2030, potentially paving the way for quantum internet &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251121/p11#a251121p11)
- - [The Nama M1 Is the Best Nut Milk Maker We’ve Tested in 2025](https://www.wired.com/gallery/the-best-nut-milk-maker/)
- - [5 essential products that should be in your everyday carry backpack](https://www.androidauthority.com/essential-products-everyday-backpack-3616784/)<!-- TECH:END -->
+ - [Posha vs. Thermomix: Kitchen Robots Face Off on Thanksgiving Sides](https://www.wired.com/story/i-tasked-rival-robots-with-cooking-my-thanksgiving-dinner/)
+ - [I signed up for Trump Mobile two weeks ago and I still don’t have my SIM](https://www.theverge.com/tech/825190/trump-mobile-service-customer-care-sim)
+ - [Q&amp;A with Roblox co-founder and CEO David Baszucki on using face scans to verify age, having a chat function on Roblox, AI content moderation at scale, and more &lpar;New York Times&rpar;](http://www.techmeme.com/251121/p13#a251121p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
