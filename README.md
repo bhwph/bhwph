@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We Saw 12 Games During The Latest Xbox Showcase And Some Of Them Definitely Have My Attention Now](https://kotaku.com/xbox-showcase-november-2025-reanimal-trailer-free-demo-2000645835)
- - [Anticipated anime action RPG halts updates just 3 months after launch because of poor sales: &#39;The game wasn’t fun enough to sustain a consistent, healthy player base&#39;](https://www.pcgamer.com/games/action/anticipated-anime-action-rpg-halts-updates-just-3-months-after-launch-because-of-poor-sales-the-game-wasnt-fun-enough-to-sustain-a-consistent-healthy-player-base/)
- - [Expedition 33 Star Uses Award Speech To Say What Everyone’s Thinking](https://kotaku.com/expedition-33-verso-actor-ben-starr-speech-awards-layoffs-2000645930)<!-- GAME:END -->
+ - [Skip GoPro, This Insta360 8K 360° Action Camera Drops to New Record Low on Amazon](https://kotaku.com/skip-gopro-this-insta360-8k-360-action-camera-drops-to-new-record-low-on-amazon-2000645958)
+ - [This 14-in-1 USB-C Hub Goes Nearly Free on Amazon, Anker Dumps Final Units for Black Friday](https://kotaku.com/this-14-in-1-usb-c-hub-goes-nearly-free-on-amazon-anker-dumps-final-units-for-black-friday-2000645975)
+ - [We used to be a society &lpar;with a good Windows Task Manager icon&rpar;](https://www.pcgamer.com/software/windows/we-used-to-be-a-society-with-a-good-windows-task-manager-icon/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
