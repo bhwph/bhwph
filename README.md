@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This world seems funny](http://9gag.com/gag/ae9q3pm)
+ - 6️⃣ [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
  - 😝 [Almost everyone was let go, including me, but I&#39;m not even mad. It was worth it, even if just to make a lesson to the CEO - if your company operates on six-digit revenue, don&#39;t fire your only IT guy](http://9gag.com/gag/adBW6Pd)
- - 👉 [Bro,just reject me next time.](http://9gag.com/gag/aryDeBy)<!-- MEMES:END -->
+ - 👉 [The benefit of fasting](http://9gag.com/gag/ae9q31O)<!-- MEMES:END -->
 
 --- 
 
