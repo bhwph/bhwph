@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [DJI Clears Out Mic Mini Bundle, Now Selling for Pennies for Content Creators’ Top Choice Mic](https://kotaku.com/dji-clears-out-mic-mini-bundle-now-selling-for-pennies-for-content-creators-top-choice-mic-2000646115)
- - [Ubisoft hasn&#39;t exploded or been bought by Tencent: Its finances were delayed because of maths nerds, AC Shadows is &#39;Overperforming&#39;, and it&#39;s got one upcoming game you don&#39;t know about, thank you](https://www.pcgamer.com/gaming-industry/ubisoft-hasnt-exploded-or-been-bought-by-tencent-its-finances-were-delayed-because-of-maths-nerds-ac-shadows-is-overperforming-and-its-got-one-upcoming-game-you-dont-know-about-thank-you/)
- - [This 4-Pack of Govee Smart Light Bulbs Is Nearly Free, Amazon Prices Them Like Regular Budget Bulbs](https://kotaku.com/this-4-pack-of-govee-smart-light-bulbs-is-nearly-free-amazon-prices-them-like-regular-budget-bulbs-2000646086)<!-- GAME:END -->
+ - [Where is Maurice&#39;s Black Market Vending Machine in Borderlands 4](https://www.polygon.com/borderlands-4-maurices-black-market-vending-legendary-machine-location/)
+ - [Sony Quietly Offloads Millions of PS5 Slim With Disc Drive, Now Selling at All-Time Low on Amazon](https://kotaku.com/sony-quietly-offloads-millions-of-ps5-slim-with-disc-drive-now-selling-at-all-time-low-on-amazon-2000646168)
+ - [Pools brings liminal terror to PS5 and PS VR2 on Nov 25](https://blog.playstation.com/2025/11/21/pools-brings-liminal-terror-to-ps5-and-ps-vr2-on-nov-25/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
