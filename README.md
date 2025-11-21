@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tineco Goes Nuts, Floor One S5 Wet Dry Vacuum and Mop Now 42% Off Original Price](https://kotaku.com/tineco-goes-nuts-floor-one-s5-wet-dry-vacuum-and-mop-now-42-off-original-price-2000645964)
- - [Skip GoPro, This Insta360 8K 360° Action Camera Drops to New Record Low on Amazon](https://kotaku.com/skip-gopro-this-insta360-8k-360-action-camera-drops-to-new-record-low-on-amazon-2000645958)
- - [This 14-in-1 USB-C Hub Goes Nearly Free on Amazon, Anker Dumps Final Units for Black Friday](https://kotaku.com/this-14-in-1-usb-c-hub-goes-nearly-free-on-amazon-anker-dumps-final-units-for-black-friday-2000645975)<!-- GAME:END -->
+ - [DJI Clears Out Mic Mini Bundle, Now Selling for Pennies for Content Creators’ Top Choice Mic](https://kotaku.com/dji-clears-out-mic-mini-bundle-now-selling-for-pennies-for-content-creators-top-choice-mic-2000646115)
+ - [Ubisoft hasn&#39;t exploded or been bought by Tencent: Its finances were delayed because of maths nerds, AC Shadows is &#39;Overperforming&#39;, and it&#39;s got one upcoming game you don&#39;t know about, thank you](https://www.pcgamer.com/gaming-industry/ubisoft-hasnt-exploded-or-been-bought-by-tencent-its-finances-were-delayed-because-of-maths-nerds-ac-shadows-is-overperforming-and-its-got-one-upcoming-game-you-dont-know-about-thank-you/)
+ - [This 4-Pack of Govee Smart Light Bulbs Is Nearly Free, Amazon Prices Them Like Regular Budget Bulbs](https://kotaku.com/this-4-pack-of-govee-smart-light-bulbs-is-nearly-free-amazon-prices-them-like-regular-budget-bulbs-2000646086)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
