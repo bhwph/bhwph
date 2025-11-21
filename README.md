@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
- - 😝 [Bro,just reject me next time.](http://9gag.com/gag/aryDeBy)
- - 👉 [What a talent......](http://9gag.com/gag/a6ZedZ8)<!-- MEMES:END -->
+ - 6️⃣ [Husbands be like](http://9gag.com/gag/apRnB2B)
+ - 😝 [Almost everyone was let go, including me, but I&#39;m not even mad. It was worth it, even if just to make a lesson to the CEO - if your company operates on six-digit revenue, don&#39;t fire your only IT guy](http://9gag.com/gag/adBW6Pd)
+ - 👉 [This world seems funny](http://9gag.com/gag/ae9q3pm)<!-- MEMES:END -->
 
 --- 
 
