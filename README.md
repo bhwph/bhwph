@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GE HealthCare acquires Intelerad, which sells cloud imaging software and digital workflow tools primarily to outpatient and ambulatory sites, for $2.3B &lpar;Brock E.W. Turner/Axios&rpar;](http://www.techmeme.com/251121/p5#a251121p5)
- - [KitchenAid Promo Code: $250 Off in November 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [AirDoctor Coupon Codes: 40% Off | November 2025](https://www.wired.com/story/airdoctor-coupon-code/)<!-- TECH:END -->
+ - [After 10 years, Google Photos may be getting this basic UI feature](https://www.androidauthority.com/google-photos-editor-theme-3618363/)
+ - [Foxconn Chair Young Liu says the company will spend $2B to $3B per year in AI in the next three to five years and is discussing potential investments with Japan &lpar;Reuters&rpar;](http://www.techmeme.com/251121/p7#a251121p7)
+ - [Google Tasks could soon give you a better way to sort tasks &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-tasks-sort-deadline-apk-teardown-3618348/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
