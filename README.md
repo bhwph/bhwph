@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Popular Sims Pirate Vanishes, Leaving Sadness And Controversy Behind](https://kotaku.com/sims-4-updater-piracy-anadius-simmerella-patreon-2000646287)
- - [D&amp;D’s new Forgotten Realms books deliver a solid Rime of the Frostmaiden sequel](https://www.polygon.com/dnd-forgotten-realms-adventures-faerun-icewind-dale-rime-frostmaiden/)
- - [Spikeball Smash Brings the Party to Xbox Today](https://news.xbox.com/en-us/2025/11/21/spikeball-smash-brings-the-party-to-xbox-today/)<!-- GAME:END -->
+ - [Someone Built The Independence Day Ship In No Man’s Sky And It’s As Terrifying As It Is Awesome](https://kotaku.com/no-mans-sky-corvette-independence-day-ship-build-2000646306)
+ - [Analogue 3D, the best way to play N64 games, is coming back in stock](https://www.polygon.com/analogue-3d-n64-console-price-in-stock-order/)
+ - [The best Xbox Game Pass games to play this weekend &lpar;Nov. 21-23 2025&rpar;](https://www.polygon.com/game-pass-games-rec-weekend-nov-21-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
