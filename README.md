@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
- - 😝 [What a talent......](http://9gag.com/gag/a6ZedZ8)
+ - 6️⃣ [Have a nice day](http://9gag.com/gag/azxvEbx)
+ - 😝 [Husbands be like](http://9gag.com/gag/apRnB2B)
  - 👉 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)<!-- MEMES:END -->
 
 --- 
