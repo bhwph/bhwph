@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Have a nice day](http://9gag.com/gag/azxvEbx)
- - 😝 [Husbands be like](http://9gag.com/gag/apRnB2B)
- - 👉 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)<!-- MEMES:END -->
+ - 6️⃣ [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)
+ - 😝 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
+ - 👉 [Husbands be like](http://9gag.com/gag/apRnB2B)<!-- MEMES:END -->
 
 --- 
 
