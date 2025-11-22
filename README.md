@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&#39;s Black Friday TV deals knock up to $2,100 off OLED, The Frame sets](https://appleinsider.com/articles/25/11/22/samsungs-black-friday-tv-deals-knock-up-to-2100-off-oled-the-frame-sets?utm_source=rss)
- - [Q&amp;A with Fei-Fei Li on ImageNet, her startup World Labs&#39; focus on spatial intelligence, superintelligence, regulation, AI bubble, US-China AI arms race, more &lpar;Mishal Husain/Bloomberg&rpar;](http://www.techmeme.com/251122/p7#a251122p7)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Nov. 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-nov-22/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 apps to use instead of Google Fit](https://www.androidauthority.com/google-fit-alternatives-3617258/)
+ - [Valve Says Steam Machine Isn&#39;t a Console—but It Is](https://www.wired.com/story/valve-says-steam-machine-isnt-a-console-but-it-is/)
+ - [AirDrop comes to Android — what Apple service should Google support next?](https://www.androidauthority.com/android-airdrop-support-open-thread-3618447/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
