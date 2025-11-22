@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo says California authorized it to operate across the entire Bay Area and Sacramento, and between LA and San Diego, where it plans to expand to in mid-2026 &lpar;Aidin Vaziri/San Francisco Chronicle&rpar;](http://www.techmeme.com/251121/p31#a251121p31)
- - [‘Jmail’ is like any other inbox, except this one has Jeffrey Epstein’s emails](https://www.theverge.com/news/826901/jeffrey-epstein-files-emails-gmail-jmail)
- - [Figure AI&#39;s former head of product safety sues the humanoid robot startup, alleging he was unlawfully terminated after warning executives about product safety &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/251121/p30#a251121p30)<!-- TECH:END -->
+ - [Sources: China&#39;s Moonshot AI, developer of the Kimi models, is raising several hundred million dollars at a ~$4B valuation and is aiming for an IPO in H2 2026 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251121/p33#a251121p33)
+ - [Sources: the White House has put on hold a draft executive order that would seek to preempt state AI laws, following bipartisan backlash &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/251121/p32#a251121p32)
+ - [Waymo says California authorized it to operate across the entire Bay Area and Sacramento, and between LA and San Diego, where it plans to expand to in mid-2026 &lpar;Aidin Vaziri/San Francisco Chronicle&rpar;](http://www.techmeme.com/251121/p31#a251121p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
