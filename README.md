@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [ED-209](http://9gag.com/gag/aKGXP6Q)
+ - 6️⃣ [1934. Chicago. The body of mobster John Dillinger is viewed by visitors at the public morgue. About 15,000 people were curious about the body](http://9gag.com/gag/aYQveQq)
  - 😝 [Why does this keep happening?](http://9gag.com/gag/ae9qpqO)
- - 👉 [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)<!-- MEMES:END -->
+ - 👉 [Just minding your own business](http://9gag.com/gag/aLnOBAW)<!-- MEMES:END -->
 
 --- 
 
