@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ll quit watching YouTube before I give it my ID](https://www.androidauthority.com/youtube-id-collection-invasive-3615756/)
- - [Best Indoor TV Antenna &lpar;2025&rpar;: Mohu, Clearstream, One for All](https://www.wired.com/gallery/best-tv-antennas/)
- - [Forestrike trained me to become an incredible pixelated fighter](https://www.theverge.com/games/826331/forestrike-review-nintendo-switch-steam)<!-- TECH:END -->
+ - [Researchers say Russia-aligned Pravda network is engaging in &quot;LLM grooming&quot;, flooding the internet with disinformation to influence chatbots like ChatGPT &lpar;Aisha Down/The Guardian&rpar;](http://www.techmeme.com/251122/p10#a251122p10)
+ - [The Segway E3 Pro May Just Be the Best Entry-Level Electric Scooter for Commuters](https://www.cnet.com/roadshow/news/segway-e3-pro-review-may-just-be-the-best-entry-level-electric-scooter-for-commuters/#ftag=CAD590a51e)
+ - [&#39;Landman&#39; Season 2: When Episode 2 Drops on Paramount Plus](https://www.cnet.com/tech/services-and-software/landman-season-2-when-episode-2-drops-on-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
