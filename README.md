@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s entire DualSense lineup is $20 off, including the limited edition models](https://www.theverge.com/gadgets/826320/ps5-dualsense-wireless-controller-black-friday-deal-sale-2025)
- - [Apple TV Black Friday deal: Get the streaming service for $5.99/mo for 6 months](https://appleinsider.com/articles/25/11/22/apple-tv-black-friday-deal-get-the-streaming-service-for-599-per-month-for-6-months?utm_source=rss)
- - [How the launch of Gemini 3, which surged ahead of models from OpenAI and other competitors on benchmark tests, has pushed Google ahead in the AI race &lpar;Katherine Blunt/Wall Street Journal&rpar;](http://www.techmeme.com/251122/p11#a251122p11)<!-- TECH:END -->
+ - [12 Great Horror Movies You Shouldn&#39;t Skip on Prime Video](https://www.cnet.com/tech/services-and-software/12-great-horror-movies-you-shouldnt-skip-on-prime-video/#ftag=CAD590a51e)
+ - [Hikawa iPhone grip accessory sells out fast from the online Apple Store](https://appleinsider.com/articles/25/11/22/hikawa-iphone-grip-sells-out-fast-from-the-online-apple-store?utm_source=rss)
+ - [85+ Early Black Friday Deals on TVs, Laptops and AirPods to Grab Before the Holiday Rush Begins](https://www.cnet.com/deals/early-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
