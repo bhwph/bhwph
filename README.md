@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone Built The Independence Day Ship In No Man’s Sky And It’s As Terrifying As It Is Awesome](https://kotaku.com/no-mans-sky-corvette-independence-day-ship-build-2000646306)
- - [Analogue 3D, the best way to play N64 games, is coming back in stock](https://www.polygon.com/analogue-3d-n64-console-price-in-stock-order/)
- - [The best Xbox Game Pass games to play this weekend &lpar;Nov. 21-23 2025&rpar;](https://www.polygon.com/game-pass-games-rec-weekend-nov-21-2025/)<!-- GAME:END -->
+ - [Call of Duty: Black Ops 7 review](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-7-review/)
+ - [Amazon Decided Money Doesn’t Matter, Now Selling the Echo Dot With Alexa Built-In for Pocket Change](https://kotaku.com/amazon-decided-money-doesnt-matter-now-selling-the-echo-dot-with-alexa-built-in-for-pocket-change-2000646337)
+ - [GigaBash’s Long-Awaited Gamera DLC Introduces Two New Characters](https://news.xbox.com/en-us/2025/11/21/gigabashs-long-awaited-gamera-dlc-introduces-two-new-characters/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
