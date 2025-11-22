@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [1934. Chicago. The body of mobster John Dillinger is viewed by visitors at the public morgue. About 15,000 people were curious about the body](http://9gag.com/gag/aYQveQq)
- - 😝 [Why does this keep happening?](http://9gag.com/gag/ae9qpqO)
- - 👉 [Just minding your own business](http://9gag.com/gag/aLnOBAW)<!-- MEMES:END -->
+ - 😝 [Just minding your own business](http://9gag.com/gag/aLnOBAW)
+ - 👉 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)<!-- MEMES:END -->
 
 --- 
 
