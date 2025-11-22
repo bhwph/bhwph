@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Dumps PS Portal at Cost Price, Zero-Margin Black Friday Gamble Against Nintendo Switch 2](https://kotaku.com/sony-dumps-ps-portal-at-cost-price-zero-margin-black-friday-gamble-against-nintendo-switch-2-2000646430)
- - [Blue Prince dev Tonda Ros talks sequel speculation, awards, and localization](https://www.polygon.com/blue-prince-goty-localization-sequel/)
- - [Doom: The Dark Ages&#39; latest update overhauls its customisable arena mode, and id Software wants to add the best player-made slaughter-fests as selectable presets](https://www.pcgamer.com/games/fps/doom-the-dark-ages-latest-update-overhauls-its-customisable-arena-mode-and-id-software-wants-to-add-the-best-player-made-slaughter-fests-as-selectable-presets/)<!-- GAME:END -->
+ - [Apple Swallows Its Pride, MacBook Air Falls to All-Time Low and Goes 2x Cheaper Than Pro](https://kotaku.com/apple-swallows-its-pride-macbook-air-falls-to-all-time-low-and-goes-2x-cheaper-than-pro-2000646450)
+ - [Black Ops 7 vs. Battlefield 6: Which 2025 shooter is better?](https://www.polygon.com/black-ops-7-battlefield-6-similarities/)
+ - [5 months after launch, cooperative shooter FBC Firebreak finally has integrated voice chat, but its Vampire Survivors-style wave mode is delayed until next year](https://www.pcgamer.com/games/fps/5-months-after-launch-cooperative-shooter-fbc-firebreak-finally-has-integrated-voice-chat-but-its-vampire-survivors-style-wave-mode-is-delayed-until-next-year/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
