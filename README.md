@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Black Ops 7 review](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-7-review/)
- - [Amazon Decided Money Doesn’t Matter, Now Selling the Echo Dot With Alexa Built-In for Pocket Change](https://kotaku.com/amazon-decided-money-doesnt-matter-now-selling-the-echo-dot-with-alexa-built-in-for-pocket-change-2000646337)
- - [GigaBash’s Long-Awaited Gamera DLC Introduces Two New Characters](https://news.xbox.com/en-us/2025/11/21/gigabashs-long-awaited-gamera-dlc-introduces-two-new-characters/)<!-- GAME:END -->
+ - [Sony Dumps PS Portal at Cost Price, Zero-Margin Black Friday Gamble Against Nintendo Switch 2](https://kotaku.com/sony-dumps-ps-portal-at-cost-price-zero-margin-black-friday-gamble-against-nintendo-switch-2-2000646430)
+ - [Blue Prince dev Tonda Ros talks sequel speculation, awards, and localization](https://www.polygon.com/blue-prince-goty-localization-sequel/)
+ - [Doom: The Dark Ages&#39; latest update overhauls its customisable arena mode, and id Software wants to add the best player-made slaughter-fests as selectable presets](https://www.pcgamer.com/games/fps/doom-the-dark-ages-latest-update-overhauls-its-customisable-arena-mode-and-id-software-wants-to-add-the-best-player-made-slaughter-fests-as-selectable-presets/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
