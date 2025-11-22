@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Have a nice day](http://9gag.com/gag/azxvEbx)
- - 😝 [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)
+ - 😝 [A timelapse of sleeping seals](http://9gag.com/gag/apRnBM9)
  - 👉 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)<!-- MEMES:END -->
 
 --- 
