@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is OPPO trying to ruin OnePlus? Survey reveals a grim answer &lpar;for OnePlus&rpar;](https://www.androidauthority.com/oppo-ruin-oneplus-survey-results-3618440/)
- - [This is how Google convinced me to pay for a more expensive Google One plan](https://www.androidauthority.com/how-google-convinced-me-pay-expensive-google-one-plan-3616996/)
- - [The Climate Impact of Owning a Dog](https://www.wired.com/story/the-climate-paradox-of-having-a-dog/)<!-- TECH:END -->
+ - [I’ll quit watching YouTube before I give it my ID](https://www.androidauthority.com/youtube-id-collection-invasive-3615756/)
+ - [Best Indoor TV Antenna &lpar;2025&rpar;: Mohu, Clearstream, One for All](https://www.wired.com/gallery/best-tv-antennas/)
+ - [Forestrike trained me to become an incredible pixelated fighter](https://www.theverge.com/games/826331/forestrike-review-nintendo-switch-steam)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
