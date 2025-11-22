@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Italy&#39;s competition authority closes its July 2024 probe into Google&#39;s alleged unfair practices over users&#39; personal data after Google adopted remedies &lpar;Gianluca Semeraro/Reuters&rpar;](http://www.techmeme.com/251121/p34#a251121p34)
  - [Sources: China&#39;s Moonshot AI, developer of the Kimi models, is raising several hundred million dollars at a ~$4B valuation and is aiming for an IPO in H2 2026 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251121/p33#a251121p33)
- - [Sources: the White House has put on hold a draft executive order that would seek to preempt state AI laws, following bipartisan backlash &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/251121/p32#a251121p32)
- - [Waymo says California authorized it to operate across the entire Bay Area and Sacramento, and between LA and San Diego, where it plans to expand to in mid-2026 &lpar;Aidin Vaziri/San Francisco Chronicle&rpar;](http://www.techmeme.com/251121/p31#a251121p31)<!-- TECH:END -->
+ - [Sources: the White House has put on hold a draft executive order that would seek to preempt state AI laws, following bipartisan backlash &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/251121/p32#a251121p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
