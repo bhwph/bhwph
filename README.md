@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers say Russia-aligned Pravda network is engaging in &quot;LLM grooming&quot;, flooding the internet with disinformation to influence chatbots like ChatGPT &lpar;Aisha Down/The Guardian&rpar;](http://www.techmeme.com/251122/p10#a251122p10)
- - [The Segway E3 Pro May Just Be the Best Entry-Level Electric Scooter for Commuters](https://www.cnet.com/roadshow/news/segway-e3-pro-review-may-just-be-the-best-entry-level-electric-scooter-for-commuters/#ftag=CAD590a51e)
- - [&#39;Landman&#39; Season 2: When Episode 2 Drops on Paramount Plus](https://www.cnet.com/tech/services-and-software/landman-season-2-when-episode-2-drops-on-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony’s entire DualSense lineup is $20 off, including the limited edition models](https://www.theverge.com/gadgets/826320/ps5-dualsense-wireless-controller-black-friday-deal-sale-2025)
+ - [Apple TV Black Friday deal: Get the streaming service for $5.99/mo for 6 months](https://appleinsider.com/articles/25/11/22/apple-tv-black-friday-deal-get-the-streaming-service-for-599-per-month-for-6-months?utm_source=rss)
+ - [How the launch of Gemini 3, which surged ahead of models from OpenAI and other competitors on benchmark tests, has pushed Google ahead in the AI race &lpar;Katherine Blunt/Wall Street Journal&rpar;](http://www.techmeme.com/251122/p11#a251122p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
