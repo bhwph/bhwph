@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 apps to use instead of Google Fit](https://www.androidauthority.com/google-fit-alternatives-3617258/)
- - [Valve Says Steam Machine Isn&#39;t a Console—but It Is](https://www.wired.com/story/valve-says-steam-machine-isnt-a-console-but-it-is/)
- - [AirDrop comes to Android — what Apple service should Google support next?](https://www.androidauthority.com/android-airdrop-support-open-thread-3618447/)<!-- TECH:END -->
+ - [Is OPPO trying to ruin OnePlus? Survey reveals a grim answer &lpar;for OnePlus&rpar;](https://www.androidauthority.com/oppo-ruin-oneplus-survey-results-3618440/)
+ - [This is how Google convinced me to pay for a more expensive Google One plan](https://www.androidauthority.com/how-google-convinced-me-pay-expensive-google-one-plan-3616996/)
+ - [The Climate Impact of Owning a Dog](https://www.wired.com/story/the-climate-paradox-of-having-a-dog/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
