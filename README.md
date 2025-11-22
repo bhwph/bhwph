@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile Tuesdays may drop its coziest freebie yet](https://www.androidauthority.com/t-mobile-tuesday-blanket-freebie-3618772/)
- - [Apple TV’s Black Friday offer will let you binge for 6 months at half price](https://www.androidauthority.com/apple-tv-black-friday-3618768/)
- - [A look at AMD&#39;s pivot to AI chips in 2022 under CEO Lisa Su, increasing AMD&#39;s market value from $90B to $335B+ in three years, as the chipmaker takes on Nvidia &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251121/p27#a251121p27)<!-- TECH:END -->
+ - [Waymo says California authorized it to operate across the entire Bay Area and Sacramento, and between LA and San Diego, where it plans to expand to in mid-2026 &lpar;Aidin Vaziri/San Francisco Chronicle&rpar;](http://www.techmeme.com/251121/p31#a251121p31)
+ - [‘Jmail’ is like any other inbox, except this one has Jeffrey Epstein’s emails](https://www.theverge.com/news/826901/jeffrey-epstein-files-emails-gmail-jmail)
+ - [Figure AI&#39;s former head of product safety sues the humanoid robot startup, alleging he was unlawfully terminated after warning executives about product safety &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/251121/p30#a251121p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
