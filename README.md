@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Italy&#39;s competition authority closes its July 2024 probe into Google&#39;s alleged unfair practices over users&#39; personal data after Google adopted remedies &lpar;Gianluca Semeraro/Reuters&rpar;](http://www.techmeme.com/251121/p34#a251121p34)
- - [Sources: China&#39;s Moonshot AI, developer of the Kimi models, is raising several hundred million dollars at a ~$4B valuation and is aiming for an IPO in H2 2026 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251121/p33#a251121p33)
- - [Sources: the White House has put on hold a draft executive order that would seek to preempt state AI laws, following bipartisan backlash &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/251121/p32#a251121p32)<!-- TECH:END -->
+ - [New York-based emergency alerts platform RapidSOS raised $100M led by Apax Digital Funds, a source says at a $1B+ valuation, for US and international expansion &lpar;Bloomberg&rpar;](http://www.techmeme.com/251122/p3#a251122p3)
+ - [Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans](https://www.wired.com/story/total-wireless-promo-code/)
+ - [Finland-based NestAI raised €100M led by Finland&#39;s sovereign fund Tesi and Nokia to build AI products for defense applications, including for unmanned vehicles &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251122/p2#a251122p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
