@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Great Horror Movies You Shouldn&#39;t Skip on Prime Video](https://www.cnet.com/tech/services-and-software/12-great-horror-movies-you-shouldnt-skip-on-prime-video/#ftag=CAD590a51e)
- - [Hikawa iPhone grip accessory sells out fast from the online Apple Store](https://appleinsider.com/articles/25/11/22/hikawa-iphone-grip-sells-out-fast-from-the-online-apple-store?utm_source=rss)
- - [85+ Early Black Friday Deals on TVs, Laptops and AirPods to Grab Before the Holiday Rush Begins](https://www.cnet.com/deals/early-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How a semiconductor investment boom is turning Arizona into &quot;America&#39;s Semiconductor HQ&quot;, attracting more than $200B in investments in the last five years &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/251122/p13#a251122p13)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 23, #896](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-23-896/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 23, #630](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-23-630/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
