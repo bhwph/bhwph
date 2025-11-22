@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
- - 😝 [Just minding your own business](http://9gag.com/gag/aLnOBAW)
+ - 6️⃣ [A timelapse of sleeping seals](http://9gag.com/gag/apRnBM9)
+ - 😝 [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)
  - 👉 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)<!-- MEMES:END -->
 
 --- 
