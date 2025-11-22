@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
- - 😝 [A timelapse of sleeping seals](http://9gag.com/gag/apRnBM9)
+ - 6️⃣ [ED-209](http://9gag.com/gag/aKGXP6Q)
+ - 😝 [Why does this keep happening?](http://9gag.com/gag/ae9qpqO)
  - 👉 [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)<!-- MEMES:END -->
 
 --- 
