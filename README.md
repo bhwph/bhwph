@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple Swallows Its Pride, MacBook Air Falls to All-Time Low and Goes 2x Cheaper Than Pro](https://kotaku.com/apple-swallows-its-pride-macbook-air-falls-to-all-time-low-and-goes-2x-cheaper-than-pro-2000646450)
- - [Black Ops 7 vs. Battlefield 6: Which 2025 shooter is better?](https://www.polygon.com/black-ops-7-battlefield-6-similarities/)
- - [5 months after launch, cooperative shooter FBC Firebreak finally has integrated voice chat, but its Vampire Survivors-style wave mode is delayed until next year](https://www.pcgamer.com/games/fps/5-months-after-launch-cooperative-shooter-fbc-firebreak-finally-has-integrated-voice-chat-but-its-vampire-survivors-style-wave-mode-is-delayed-until-next-year/)<!-- GAME:END -->
+ - [EcoFlow Goes Full Chaos Mode on the Delta 2 Power Station, 1800W of Portable Power for Pocket Change](https://kotaku.com/ecoflow-goes-full-chaos-mode-on-the-delta-2-power-station-1800w-of-portable-power-for-pocket-change-2000646495)
+ - [Kirby Air Riders embraces the lost art of unlockables](https://www.polygon.com/kirby-air-riders-unlockables/)
+ - [How well do you know Arc Raiders&#39; maps? Only a Topside expert will get all 15 locations in our latest quiz](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-geoguesser-quiz/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
