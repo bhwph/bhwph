@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bad runner](http://9gag.com/gag/aLnO9yM)
- - 😝 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
- - 👉 [South Park like interaction\u2026 Except it\u2019s not](http://9gag.com/gag/aryDO8K)<!-- MEMES:END -->
+ - 6️⃣ [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
+ - 😝 [The beacons are lit](http://9gag.com/gag/a1m8X4G)
+ - 👉 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)<!-- MEMES:END -->
 
 --- 
 
