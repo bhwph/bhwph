@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AirPods 4 Drop Again After Yesterday’s Drop, Someone at Apple Hit the Panic Button Twice](https://kotaku.com/airpods-4-drop-again-after-yesterdays-drop-someone-at-apple-hit-the-panic-button-twice-2000646693)
- - [Toy Story is 30, so we&#39;re looking back at how it was nearly canceled](https://www.polygon.com/toy-story-30th-anniversary-almost-canceled-pixar/)
- - [I grew up thinking Pyramid Head was one of the scariest video game villains ever, but thanks to cosplay, I no longer have to hide in fear](https://www.pcgamer.com/games/i-grew-up-thinking-pyramid-head-was-one-of-the-scariest-video-game-villains-ever-but-thanks-to-cosplay-i-no-longer-have-to-hide-in-fear/)<!-- GAME:END -->
+ - [The Berlin Apartment review: What Remains of Edith Finch except with, y&#39;know, nazis](https://www.polygon.com/berlin-apartment-review-indie-game/)
+ - [This GTA 6 fan&#39;s fascinating deep-dive into co-protagonist Jason&#39;s military background is a must-read for all you lore heads out there](https://www.pcgamer.com/games/grand-theft-auto/this-gta-6-fans-fascinating-deep-dive-into-co-protagonist-jasons-military-background-is-a-must-read-for-all-you-lore-heads-out-there/)
+ - [Dyson Shows No Pride on Airwrap Origin, Selling Premium Hair Tool at Zero Margin Just to Move Stock](https://kotaku.com/dyson-shows-no-pride-on-airwrap-origin-selling-premium-hair-tool-at-zero-margin-just-to-move-stock-2000646715)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
