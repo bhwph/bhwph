@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arbiter, which is using AI to automate healthcare administrative tasks, emerges from stealth with a $52M seed from multiple family offices at a $400M valuation &lpar;Rebecca Torrence/Business Insider&rpar;](http://www.techmeme.com/251123/p2#a251123p2)
- - [X starts rolling out About This Account globally, letting users see the country or region where an X account is based by tapping the signup date on the profile &lpar;Nikita Bier/@nikitabier&rpar;](http://www.techmeme.com/251123/p1#a251123p1)
- - [A US bankruptcy judge ordered Indian edtech startup Byju&#39;s founder Byju Raveendran on Nov. 20 to pay $1B+ to US lenders, over missing funds from Byju&#39;s US unit &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251122/p14#a251122p14)<!-- TECH:END -->
+ - [An in-depth look at the humanoid robotics industry, which currently relies heavily on hype to rally interest and investors, as AI fuels the humanoid boom &lpar;James Vincent/Harper&#39;s&rpar;](http://www.techmeme.com/251123/p7#a251123p7)
+ - [Bedrock Data, which has debuted ArgusAI to show enterprises what data their AI models access during training and to prevent data leakage, raised a $25M Series A &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251123/p6#a251123p6)
+ - [Deblock, an app that lets users manage fiat and digital assets in one place by linking a bank account with a self-owned crypto wallet, raised a €30M Series A &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251123/p5#a251123p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
