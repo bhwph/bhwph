@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The original Dawn of War games have 109 new Steam achievements after 20 years—if you have the definitive edition, at least](https://www.pcgamer.com/games/rts/the-original-dawn-of-war-games-have-109-new-steam-achievements-after-20-years-if-you-have-the-definitive-edition-at-least/)
  - [Constance is a metroidvania that wants its monsters to mean something](https://www.pcgamer.com/games/action/constance-is-a-metroidvania-that-wants-its-monsters-to-mean-something/)
- - [The League of Legends trading card game is surprisingly good because it embraces the best trends in card games](https://www.pcgamer.com/games/board-games/the-league-of-legends-trading-card-game-is-surprisingly-good-because-it-embraces-the-best-trends-in-card-games/)
- - [Amazon Is Going Nuts on Govee Uplighter Lamp, Now Selling for Pocket Change at Black Friday](https://kotaku.com/amazon-is-going-nuts-on-govee-uplighter-lamp-now-selling-for-pocket-change-at-black-friday-2000646562)<!-- GAME:END -->
+ - [The League of Legends trading card game is surprisingly good because it embraces the best trends in card games](https://www.pcgamer.com/games/board-games/the-league-of-legends-trading-card-game-is-surprisingly-good-because-it-embraces-the-best-trends-in-card-games/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
