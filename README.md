@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The original Dawn of War games have 109 new Steam achievements after 20 years—if you have the definitive edition, at least](https://www.pcgamer.com/games/rts/the-original-dawn-of-war-games-have-109-new-steam-achievements-after-20-years-if-you-have-the-definitive-edition-at-least/)
- - [Constance is a metroidvania that wants its monsters to mean something](https://www.pcgamer.com/games/action/constance-is-a-metroidvania-that-wants-its-monsters-to-mean-something/)
- - [The League of Legends trading card game is surprisingly good because it embraces the best trends in card games](https://www.pcgamer.com/games/board-games/the-league-of-legends-trading-card-game-is-surprisingly-good-because-it-embraces-the-best-trends-in-card-games/)<!-- GAME:END -->
+ - [Amazon Makes Zero-Profit Play on DualSense Edge, Sony’s Pro Controller Drops to Black Friday Chaos](https://kotaku.com/amazon-makes-zero-profit-play-on-dualsense-edge-sonys-pro-controller-drops-to-black-friday-chaos-2000646641)
+ - [GTA 6 needs to borrow one of Red Dead Redemption 2&#39;s underrated features](https://www.polygon.com/gta-6-red-dead-redemption-2-camp/)
+ - [Mafia: The Old Country&#39;s Free Ride update is out now, replacing its empty open world with an extremely basic one](https://www.pcgamer.com/games/action/mafia-the-old-countrys-free-ride-update-is-out-now-replacing-its-empty-open-world-with-an-extremely-basic-one/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
