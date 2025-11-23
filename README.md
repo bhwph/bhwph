@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Berlin Apartment review: What Remains of Edith Finch except with, y&#39;know, nazis](https://www.polygon.com/berlin-apartment-review-indie-game/)
- - [This GTA 6 fan&#39;s fascinating deep-dive into co-protagonist Jason&#39;s military background is a must-read for all you lore heads out there](https://www.pcgamer.com/games/grand-theft-auto/this-gta-6-fans-fascinating-deep-dive-into-co-protagonist-jasons-military-background-is-a-must-read-for-all-you-lore-heads-out-there/)
- - [Dyson Shows No Pride on Airwrap Origin, Selling Premium Hair Tool at Zero Margin Just to Move Stock](https://kotaku.com/dyson-shows-no-pride-on-airwrap-origin-selling-premium-hair-tool-at-zero-margin-just-to-move-stock-2000646715)<!-- GAME:END -->
+ - [Does Fortnite&#39;s Simpsons season really have a cheating problem?](https://www.polygon.com/video/fortnite-simpsons-cheaters/)
+ - [This absurdly stylish side scroller feels like playing two different genres of retro shooter at the same time, and I love it](https://www.pcgamer.com/games/action/this-absurdly-stylish-side-scroller-feels-like-playing-two-different-genres-of-retro-shooter-at-the-same-time-and-i-love-it/)
+ - [Stranger Things 5 Vol. 1 trailer unleashes a Demogorgon army](https://www.polygon.com/stranger-things-5-trailer-volume-1-release-date-netflix/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
