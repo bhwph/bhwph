@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ryanair sm admin is savage](http://9gag.com/gag/aByb13P)
+ - 6️⃣ [I rate it 3.6](http://9gag.com/gag/a9y4YrL)
  - 😝 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
- - 👉 [This is awkward.](http://9gag.com/gag/an701qB)<!-- MEMES:END -->
+ - 👉 [Bad runner](http://9gag.com/gag/aLnO9yM)<!-- MEMES:END -->
 
 --- 
 
