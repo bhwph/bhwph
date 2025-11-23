@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Does Fortnite&#39;s Simpsons season really have a cheating problem?](https://www.polygon.com/video/fortnite-simpsons-cheaters/)
- - [This absurdly stylish side scroller feels like playing two different genres of retro shooter at the same time, and I love it](https://www.pcgamer.com/games/action/this-absurdly-stylish-side-scroller-feels-like-playing-two-different-genres-of-retro-shooter-at-the-same-time-and-i-love-it/)
- - [Stranger Things 5 Vol. 1 trailer unleashes a Demogorgon army](https://www.polygon.com/stranger-things-5-trailer-volume-1-release-date-netflix/)<!-- GAME:END -->
+ - [Great moments in PC gaming: Chilling in my Zen Garden in Plants Vs. Zombies](https://www.pcgamer.com/games/strategy/great-moments-in-pc-gaming-chilling-in-my-zen-garden-in-plants-vs-zombies/)
+ - [Valve coder confirms the Steam Machine will be priced like a PC, albeit at a &#39;good deal&#39;: &#39;If you build a PC from parts and get to basically the same level of performance, that’s the general price window that we aim to be at&#39;](https://www.pcgamer.com/hardware/valve-coder-confirms-the-steam-machine-will-be-priced-like-a-pc-albeit-at-a-good-deal-if-you-build-a-pc-from-parts-and-get-to-basically-the-same-level-of-performance-thats-the-general-price-window-that-we-aim-to-be-at/)
+ - [Does Fortnite&#39;s Simpsons season really have a cheating problem?](https://www.polygon.com/video/fortnite-simpsons-cheaters/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
