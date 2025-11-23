@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Eating cold ravioli really brings out the inner architect](http://9gag.com/gag/avyBrWX)
- - 😝 [Damn, this actually made me feel bad.](http://9gag.com/gag/a1m8dLb)
- - 👉 [How many reps, yes](http://9gag.com/gag/an701mn)<!-- MEMES:END -->
+ - 6️⃣ [It could happen to anyone..](http://9gag.com/gag/a9y473j)
+ - 😝 [WOMP WOMP](http://9gag.com/gag/avyBPME)
+ - 👉 [Engineers who worked on the Leopard tank upgrade testing brakes](http://9gag.com/gag/aLnOMgP)<!-- MEMES:END -->
 
 --- 
 
