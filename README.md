@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shocker: Elon Musk spends a lot of time on X posting bad political takes](https://www.theverge.com/tech/827125/elon-musk-x-posts-politics-himself)
- - [&#39;Landman&#39; Season 2: When Episode 2 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/landman-season-2-when-episode-2-hits-paramount-plus/#ftag=CAD590a51e)
- - [How a semiconductor investment boom is turning Arizona into &quot;America&#39;s Semiconductor HQ&quot;, attracting more than $200B in investments in the last five years &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/251122/p13#a251122p13)<!-- TECH:END -->
+ - [A US bankruptcy judge ordered Indian edtech startup Byju&#39;s founder Byju Raveendran on Nov. 20 to pay $1B+ to US lenders, over missing funds from Byju&#39;s US unit &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251122/p14#a251122p14)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 23, #426](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-23-426/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Nov. 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-nov-23/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
