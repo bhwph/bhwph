@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EcoFlow Goes Full Chaos Mode on the Delta 2 Power Station, 1800W of Portable Power for Pocket Change](https://kotaku.com/ecoflow-goes-full-chaos-mode-on-the-delta-2-power-station-1800w-of-portable-power-for-pocket-change-2000646495)
- - [Kirby Air Riders embraces the lost art of unlockables](https://www.polygon.com/kirby-air-riders-unlockables/)
- - [How well do you know Arc Raiders&#39; maps? Only a Topside expert will get all 15 locations in our latest quiz](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-geoguesser-quiz/)<!-- GAME:END -->
+ - [Constance is a metroidvania that wants its monsters to mean something](https://www.pcgamer.com/games/action/constance-is-a-metroidvania-that-wants-its-monsters-to-mean-something/)
+ - [The League of Legends trading card game is surprisingly good because it embraces the best trends in card games](https://www.pcgamer.com/games/board-games/the-league-of-legends-trading-card-game-is-surprisingly-good-because-it-embraces-the-best-trends-in-card-games/)
+ - [Amazon Is Going Nuts on Govee Uplighter Lamp, Now Selling for Pocket Change at Black Friday](https://kotaku.com/amazon-is-going-nuts-on-govee-uplighter-lamp-now-selling-for-pocket-change-at-black-friday-2000646562)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
