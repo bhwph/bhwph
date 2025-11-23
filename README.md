@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just minding your own business](http://9gag.com/gag/aLnOBAW)
- - 😝 [1934. Chicago. The body of mobster John Dillinger is viewed by visitors at the public morgue. About 15,000 people were curious about the body](http://9gag.com/gag/aYQveQq)
- - 👉 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)<!-- MEMES:END -->
+ - 6️⃣ [Stunning](http://9gag.com/gag/aQzDnLz)
+ - 😝 [Why does this keep happening?](http://9gag.com/gag/ae9qpqO)
+ - 👉 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)<!-- MEMES:END -->
 
 --- 
 
