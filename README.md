@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I rate it 3.6](http://9gag.com/gag/a9y4YrL)
- - 😝 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
- - 👉 [Bad runner](http://9gag.com/gag/aLnO9yM)<!-- MEMES:END -->
+ - 6️⃣ [Arrested 71 times still on the streets !!](http://9gag.com/gag/a5Q974r)
+ - 😝 [Bad runner](http://9gag.com/gag/aLnO9yM)
+ - 👉 [WOMP WOMP](http://9gag.com/gag/avyBPME)<!-- MEMES:END -->
 
 --- 
 
