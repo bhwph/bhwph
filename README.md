@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X&#39;s new About This Account feature reveals that some top accounts, including many MAGA influencers, are based in countries like Russia, India, and Nigeria &lpar;Jack Revell/The Daily Beast&rpar;](http://www.techmeme.com/251123/p11#a251123p11)
- - [Sources: iOS 27 will be a Snow Leopard-style update focused on bug fixes and performance, plus new AI features; FT&#39;s retirement report on Tim Cook was premature &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251123/p10#a251123p10)
- - [Best Internet Providers in Los Angeles, California](https://www.cnet.com/home/internet/best-internet-providers-in-los-angeles-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s $749 Black Friday MacBook Air deal is selling fast, grab $250 savings now](https://appleinsider.com/articles/25/11/23/amazons-749-black-friday-macbook-air-deal-is-selling-fast-grab-250-savings-now?utm_source=rss)
+ - [Apple CEO Tim Cook isn&#39;t retiring in 2026](https://appleinsider.com/articles/25/11/23/apple-ceo-tim-cook-isnt-retiring-in-2026?utm_source=rss)
+ - [Flying for the Holidays? Streaming Services Are Free on These Airlines](https://www.cnet.com/tech/services-and-software/flying-for-the-holidays-streaming-services-are-free-on-these-airlines/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
