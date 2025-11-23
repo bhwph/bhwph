@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Makes Zero-Profit Play on DualSense Edge, Sony’s Pro Controller Drops to Black Friday Chaos](https://kotaku.com/amazon-makes-zero-profit-play-on-dualsense-edge-sonys-pro-controller-drops-to-black-friday-chaos-2000646641)
- - [GTA 6 needs to borrow one of Red Dead Redemption 2&#39;s underrated features](https://www.polygon.com/gta-6-red-dead-redemption-2-camp/)
- - [Mafia: The Old Country&#39;s Free Ride update is out now, replacing its empty open world with an extremely basic one](https://www.pcgamer.com/games/action/mafia-the-old-countrys-free-ride-update-is-out-now-replacing-its-empty-open-world-with-an-extremely-basic-one/)<!-- GAME:END -->
+ - [Amazon Pushes the TP-Link WiFi Extender to Peanuts as It Dumps Remaining Stock After 10K+ Sold Last Month](https://kotaku.com/amazon-pushes-the-tp-link-wifi-extender-to-peanuts-as-it-dumps-remaining-stock-after-10k-sold-last-month-2000645602)
+ - [Jackery Decided Margins Don’t Matter, 300W Power Station Now Cheaper Than Fancy Power Banks](https://kotaku.com/jackery-decided-margins-dont-matter-300w-power-station-now-cheaper-than-fancy-power-banks-2000646676)
+ - [Slots &amp; Daggers is a Slay the Spire slot machine](https://www.polygon.com/slots-daggers-slay-the-spire-impressions/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
