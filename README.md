@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chip companies in South Korea, Taiwan, and China have been raising pay and bonuses as global competition intensifies for a limited pool of chip engineers &lpar;June Yoon/Financial Times&rpar;](http://www.techmeme.com/251123/p8#a251123p8)
- - [Google’s letting us remove At a Glance on Pixels, but why stop there?](https://www.androidauthority.com/pixel-hide-search-bar-3617699/)
- - [I Tested an AI Food Scanning App for 6 Weeks. This Is What I Learned About Ultra-Processed Foods](https://www.cnet.com/health/nutrition/tested-ai-food-scanning-app-6-weeks-what-learned-about-ultra-processed-foods/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I moved and needed a robot vacuum — here’s why I spent less than $300 and don’t regret it](https://www.androidauthority.com/buying-robot-vacuum-3616736/)
+ - [Game Theory Explains How Algorithms Can Drive Up Prices](https://www.wired.com/story/game-theory-explains-how-algorithms-can-drive-up-prices/)
+ - [Do Galaxy Watch owners actually use Gemini? Survey reveals surprising results](https://www.androidauthority.com/gemini-on-galaxy-watch-poll-results-3618483/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
