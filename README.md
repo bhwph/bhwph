@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I moved and needed a robot vacuum — here’s why I spent less than $300 and don’t regret it](https://www.androidauthority.com/buying-robot-vacuum-3616736/)
- - [Game Theory Explains How Algorithms Can Drive Up Prices](https://www.wired.com/story/game-theory-explains-how-algorithms-can-drive-up-prices/)
- - [Do Galaxy Watch owners actually use Gemini? Survey reveals surprising results](https://www.androidauthority.com/gemini-on-galaxy-watch-poll-results-3618483/)<!-- TECH:END -->
+ - [iOS 27 rumored to be focused on stability, like macOS X Snow Leopard was](https://appleinsider.com/articles/25/11/23/ios-27-rumored-to-be-focused-on-stability-like-macos-x-snow-leopard-was?utm_source=rss)
+ - [11 Best MagSafe Wallets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-wallets/)
+ - [Apple CEO Tim Cook isn&#39;t retiring in 2026](https://appleinsider.com/articles/25/11/23/apple-ceo-tim-cook-isnt-retiring-in-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
