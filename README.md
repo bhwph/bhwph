@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Pushes the TP-Link WiFi Extender to Peanuts as It Dumps Remaining Stock After 10K+ Sold Last Month](https://kotaku.com/amazon-pushes-the-tp-link-wifi-extender-to-peanuts-as-it-dumps-remaining-stock-after-10k-sold-last-month-2000645602)
- - [Jackery Decided Margins Don’t Matter, 300W Power Station Now Cheaper Than Fancy Power Banks](https://kotaku.com/jackery-decided-margins-dont-matter-300w-power-station-now-cheaper-than-fancy-power-banks-2000646676)
- - [Slots &amp; Daggers is a Slay the Spire slot machine](https://www.polygon.com/slots-daggers-slay-the-spire-impressions/)<!-- GAME:END -->
+ - [AirPods 4 Drop Again After Yesterday’s Drop, Someone at Apple Hit the Panic Button Twice](https://kotaku.com/airpods-4-drop-again-after-yesterdays-drop-someone-at-apple-hit-the-panic-button-twice-2000646693)
+ - [Toy Story is 30, so we&#39;re looking back at how it was nearly canceled](https://www.polygon.com/toy-story-30th-anniversary-almost-canceled-pixar/)
+ - [I grew up thinking Pyramid Head was one of the scariest video game villains ever, but thanks to cosplay, I no longer have to hide in fear](https://www.pcgamer.com/games/i-grew-up-thinking-pyramid-head-was-one-of-the-scariest-video-game-villains-ever-but-thanks-to-cosplay-i-no-longer-have-to-hide-in-fear/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
