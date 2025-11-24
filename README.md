@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An era of Android is ending: Google Assistant gets its sunset timeline](https://www.androidauthority.com/google-assistant-end-of-life-3618932/)
- - [Why I regret skipping a case and screen protector for my Pixel 10 Pro](https://www.androidauthority.com/regret-skipping-pixel-10-pro-case-screen-protector-why-3617996/)
- - [A $100 Billion Chip Project Forced a 91-Year-Old Woman From Her Home](https://www.wired.com/story/micron-superfab-evicts-91-year-old-new-york/)<!-- TECH:END -->
+ - [Apple promotes iPhone 17 Pro vapor chamber cooling in dynamic ad](https://appleinsider.com/articles/25/11/24/apple-promotes-iphone-17-pro-vapor-chamber-cooling-in-dynamic-ad?utm_source=rss)
+ - [Analysis: as crypto sheds $1T+, the Trump family&#39;s fortune has fallen to ~$6.7B from $7.7B in early September; President Trump&#39;s TMTG stake fell by ~$800M &lpar;Bloomberg&rpar;](http://www.techmeme.com/251124/p13#a251124p13)
+ - [Best Apple Watch &lpar;2025&rpar;: Buyer’s Guide to the Series 11, SE 3, and Ultra 3](https://www.wired.com/gallery/best-apple-watch/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
