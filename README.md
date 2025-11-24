@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not stop for a school bus.](http://9gag.com/gag/ajP3qz1)
- - 😝 [The beacons are lit](http://9gag.com/gag/a1m8X4G)
+ - 6️⃣ [How many reps, yes](http://9gag.com/gag/an701mn)
+ - 😝 [Bad runner](http://9gag.com/gag/aLnO9yM)
  - 👉 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)<!-- MEMES:END -->
 
 --- 
