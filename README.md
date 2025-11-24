@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Frodo the Grey](http://9gag.com/gag/aVv9qPw)
- - 😝 [Valve, the creator of Steam and iconic games like Half-Life, Dota 2, Counter-Strike, Portal, Left 4 Dead etc., generated $17 billion in revenue in 2025 with a workforce of roughly 336 employees, amounting to over $50 million in revenue per employee.](http://9gag.com/gag/abALzXv)
- - 👉 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)<!-- MEMES:END -->
+ - 6️⃣ [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
+ - 😝 [Frodo the Grey](http://9gag.com/gag/aVv9qPw)
+ - 👉 [Engineers who worked on the Leopard tank upgrade testing brakes](http://9gag.com/gag/aLnOMgP)<!-- MEMES:END -->
 
 --- 
 
