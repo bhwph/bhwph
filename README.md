@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic’s new model is its latest frontier in the AI agent battle — but it’s still facing cybersecurity concerns](https://www.theverge.com/ai-artificial-intelligence/828003/anthropics-new-claude-opus-4-5-model-ai-agents-cybersecurity)
- - [Anthropic unveils two Claude Code upgrades: a new plan mode that creates more precise plans, and support for Claude Code in the Claude desktop app &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/251124/p32#a251124p32)
- - [Sources: Apple cut dozens of sales roles to streamline sales to businesses, schools, and governments; Apple says the changes affect &quot;a small number of roles&quot; &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251124/p31#a251124p31)<!-- TECH:END -->
+ - [Sources: Italian police raided two Amazon sites on Monday as part of a growing investigation into alleged customs and tax fraud involving Chinese imports &lpar;Emilio Parodi/Reuters&rpar;](http://www.techmeme.com/251124/p39#a251124p39)
+ - [Deal alert: The Sony WH-1000XM6 headphones get their biggest price cut](https://www.androidauthority.com/sony-wh-1000xm6-headphones-deal-3619126/)
+ - [A US judge issues a temporary restraining order blocking OpenAI from using the word &quot;cameo&quot; for Sora features, following a trademark lawsuit by video app Cameo &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251124/p38#a251124p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
