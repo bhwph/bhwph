@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOD and the intelligence community awarded Enabled Intelligence a seven-year, up to $708M data labeling contract in September, beating out Scale AI &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/251124/p25#a251124p25)
- - [Indie game developers have a new sales pitch: being ‘AI free’](https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders)
- - [HBO Max is offering one of the best Black Friday deals we’ve seen this year](https://www.theverge.com/gadgets/827608/hbo-max-black-friday-deal-streaming-sale-2025)<!-- TECH:END -->
+ - [Anthropic’s new model is its latest frontier in the AI agent battle — but it’s still facing cybersecurity concerns](https://www.theverge.com/ai-artificial-intelligence/828003/anthropics-new-claude-opus-4-5-model-ai-agents-cybersecurity)
+ - [Anthropic unveils two Claude Code upgrades: a new plan mode that creates more precise plans, and support for Claude Code in the Claude desktop app &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/251124/p32#a251124p32)
+ - [Sources: Apple cut dozens of sales roles to streamline sales to businesses, schools, and governments; Apple says the changes affect &quot;a small number of roles&quot; &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251124/p31#a251124p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
