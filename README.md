@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 10 Best Home Arcade Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-home-arcade-machines/)
- - [Amazon Is Using Specialized AI Agents for Deep Bug Hunting](https://www.wired.com/story/amazon-autonomous-threat-analysis/)
- - [Segway Navimow Black Friday: Enjoy massive discounts and upgrade your lawn care](https://www.androidauthority.com/segway-navimow-black-friday-3618847/)<!-- TECH:END -->
+ - [AWS announces a commitment to invest up to $50B to build AI and HPC infrastructure for the US government, starting in 2026 and adding nearly 1.3 GW of capacity &lpar;Eric Revell/Fox Business&rpar;](http://www.techmeme.com/251124/p21#a251124p21)
+ - [Sam Altman and Jony Ive say they have settled on a design for OpenAI&#39;s device, speaking to Laurene Powell Jobs; Ive says it could debut in &quot;less than&quot; two years &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251124/p20#a251124p20)
+ - [Jony Ive and Sam Altman say they finally have an AI hardware prototype](https://www.theverge.com/news/827607/openai-hardware-prototype-chatgpt-jony-ive-sam-altman)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
