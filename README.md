@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
- - 😝 [The beacons are lit](http://9gag.com/gag/a1m8X4G)
- - 👉 [I can see fast and furious reference](http://9gag.com/gag/aGyrDmn)<!-- MEMES:END -->
+ - 6️⃣ [Bad runner](http://9gag.com/gag/aLnO9yM)
+ - 😝 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
+ - 👉 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)<!-- MEMES:END -->
 
 --- 
 
