@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Prayz da lawd](http://9gag.com/gag/aKGXVVW)
+ - 6️⃣ [The beacons are lit](http://9gag.com/gag/a1m8X4G)
  - 😝 [It could happen to anyone..](http://9gag.com/gag/a9y473j)
- - 👉 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)<!-- MEMES:END -->
+ - 👉 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)<!-- MEMES:END -->
 
 --- 
 
