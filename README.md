@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save 40% on any Plex Pass with Black Friday &amp; Cyber Monday deals](https://appleinsider.com/articles/25/11/24/save-40-on-any-plex-pass-with-black-friday-cyber-monday-deals?utm_source=rss)
- - [YouTuber exposes the most censored and surveilled Android phones in the world](https://www.androidauthority.com/north-korean-smartphones-3618863/)
- - [Apple&#39;s DMA compliance isn&#39;t &quot;malicious&quot;, but an effort to balance Apple&#39;s privacy focus with the EU&#39;s mandate, as iOS 26.2 iPhone/Watch Wi-Fi sync changes show &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/251124/p1#a251124p1)<!-- TECH:END -->
+ - [Samsung could reimagine Bixby on Galaxy S26 with a Gemini rival](https://www.androidauthority.com/galaxy-s26-gemini-bixby-3618888/)
+ - [Survey reveals why Google’s Wicked Pixel Drop was a total letdown](https://www.androidauthority.com/november-pixel-drop-wicked-poll-results-3618873/)
+ - [Europe Is Bending the Knee to the US on Tech Policy](https://www.wired.com/story/europe-bends-us-digital-policies-eu-ai-act/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
