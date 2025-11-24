@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 is &#39;an inspiration&#39; for CD Projekt, but it&#39;s all-in on big open worlds: &#39;We are definitely not going to make a game like Larian did&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3-is-an-inspiration-for-cd-projekt-but-its-all-in-on-big-open-worlds-we-are-definitely-not-going-to-make-a-game-like-larian-did/)
- - [HP Went Full Liquidation on 17″ Laptop &lpar;i5, 32GB RAM, 1TB SSD&rpar;, 71% Off Turns $3K Into Pocket Change](https://kotaku.com/hp-went-full-liquidation-on-17-laptop-i5-32gb-ram-1tb-ssd-71-off-turns-3k-into-pocket-change-2000646751)
- - [Roborock Qrevo CurvX Drops to All-Time Low, 22,000Pa Beast With Auto Hot Water Cleaning Falls to Record Pricing](https://kotaku.com/roborock-qrevo-curvx-drops-to-all-time-low-22000pa-beast-with-auto-hot-water-cleaning-falls-to-record-pricing-2000646746)<!-- GAME:END -->
+ - [Xbox full screen experience is no longer just for handheld gaming PCs, but the feature is rolling out gradually and we&#39;re not having much luck with workarounds](https://www.pcgamer.com/hardware/handheld-gaming-pcs/xbox-full-screen-experience-is-no-longer-just-for-handheld-gaming-pcs-but-the-feature-is-rolling-out-gradually-and-were-not-having-much-luck-with-workarounds/)
+ - [Anker 6-Port 250W Desktop Charger Hits All Time Low, Never Hunt for Outlets Again at Pennies Pricing](https://kotaku.com/anker-6-port-250w-desktop-charger-hits-all-time-low-never-hunt-for-outlets-again-at-pennies-pricing-2000646804)
+ - [Tragically, Udo Kier Dies Before Completing His Role For Next Kojima Game](https://kotaku.com/tragically-udo-kier-dies-before-completing-his-role-for-next-kojima-game-2000646813)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
