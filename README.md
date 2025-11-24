@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS announces a commitment to invest up to $50B to build AI and HPC infrastructure for the US government, starting in 2026 and adding nearly 1.3 GW of capacity &lpar;Eric Revell/Fox Business&rpar;](http://www.techmeme.com/251124/p21#a251124p21)
- - [Sam Altman and Jony Ive say they have settled on a design for OpenAI&#39;s device, speaking to Laurene Powell Jobs; Ive says it could debut in &quot;less than&quot; two years &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251124/p20#a251124p20)
- - [Jony Ive and Sam Altman say they finally have an AI hardware prototype](https://www.theverge.com/news/827607/openai-hardware-prototype-chatgpt-jony-ive-sam-altman)<!-- TECH:END -->
+ - [The US DOD and the intelligence community awarded Enabled Intelligence a seven-year, up to $708M data labeling contract in September, beating out Scale AI &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/251124/p25#a251124p25)
+ - [Indie game developers have a new sales pitch: being ‘AI free’](https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders)
+ - [HBO Max is offering one of the best Black Friday deals we’ve seen this year](https://www.theverge.com/gadgets/827608/hbo-max-black-friday-deal-streaming-sale-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
