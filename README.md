@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mammoth Tusk Restoration](http://9gag.com/gag/awy9ng1)
- - 😝 [Are You This Old ?](http://9gag.com/gag/aO8nzBr)
- - 👉 [It tracks](http://9gag.com/gag/a87vyM1)<!-- MEMES:END -->
+ - 6️⃣ [Are You This Old ?](http://9gag.com/gag/aO8nzBr)
+ - 😝 [It tracks](http://9gag.com/gag/a87vyM1)
+ - 👉 [Peace Plan?](http://9gag.com/gag/an70bW5)<!-- MEMES:END -->
 
 --- 
 
