@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox full screen experience is no longer just for handheld gaming PCs, but the feature is rolling out gradually and we&#39;re not having much luck with workarounds](https://www.pcgamer.com/hardware/handheld-gaming-pcs/xbox-full-screen-experience-is-no-longer-just-for-handheld-gaming-pcs-but-the-feature-is-rolling-out-gradually-and-were-not-having-much-luck-with-workarounds/)
- - [Anker 6-Port 250W Desktop Charger Hits All Time Low, Never Hunt for Outlets Again at Pennies Pricing](https://kotaku.com/anker-6-port-250w-desktop-charger-hits-all-time-low-never-hunt-for-outlets-again-at-pennies-pricing-2000646804)
- - [Tragically, Udo Kier Dies Before Completing His Role For Next Kojima Game](https://kotaku.com/tragically-udo-kier-dies-before-completing-his-role-for-next-kojima-game-2000646813)<!-- GAME:END -->
+ - [PlayStation’s Big Black Friday Sale Includes Some Fantastic PS5 Exclusives](https://kotaku.com/playstation-5-ps5-exclusives-big-black-friday-sale-death-stranding-astro-bot-spider-man-2000646983)
+ - [Call of Duty: Black Ops 7 and Warzone Season 1 goes live Dec 4, full details revealed](https://blog.playstation.com/2025/11/24/call-of-duty-black-ops-7-and-warzone-season-1-goes-live-dec-4-full-details-revealed/)
+ - [Timesplitters Remake Finally Launches After Messy Decade Long Development](https://kotaku.com/timesplitters-rewind-remake-out-now-launch-pc-ps4-trailer-2000646972)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
