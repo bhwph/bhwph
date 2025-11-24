@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Great moments in PC gaming: Chilling in my Zen Garden in Plants Vs. Zombies](https://www.pcgamer.com/games/strategy/great-moments-in-pc-gaming-chilling-in-my-zen-garden-in-plants-vs-zombies/)
- - [Valve coder confirms the Steam Machine will be priced like a PC, albeit at a &#39;good deal&#39;: &#39;If you build a PC from parts and get to basically the same level of performance, that’s the general price window that we aim to be at&#39;](https://www.pcgamer.com/hardware/valve-coder-confirms-the-steam-machine-will-be-priced-like-a-pc-albeit-at-a-good-deal-if-you-build-a-pc-from-parts-and-get-to-basically-the-same-level-of-performance-thats-the-general-price-window-that-we-aim-to-be-at/)
- - [Does Fortnite&#39;s Simpsons season really have a cheating problem?](https://www.polygon.com/video/fortnite-simpsons-cheaters/)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 is &#39;an inspiration&#39; for CD Projekt, but it&#39;s all-in on big open worlds: &#39;We are definitely not going to make a game like Larian did&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3-is-an-inspiration-for-cd-projekt-but-its-all-in-on-big-open-worlds-we-are-definitely-not-going-to-make-a-game-like-larian-did/)
+ - [HP Went Full Liquidation on 17″ Laptop &lpar;i5, 32GB RAM, 1TB SSD&rpar;, 71% Off Turns $3K Into Pocket Change](https://kotaku.com/hp-went-full-liquidation-on-17-laptop-i5-32gb-ram-1tb-ssd-71-off-turns-3k-into-pocket-change-2000646751)
+ - [Roborock Qrevo CurvX Drops to All-Time Low, 22,000Pa Beast With Auto Hot Water Cleaning Falls to Record Pricing](https://kotaku.com/roborock-qrevo-curvx-drops-to-all-time-low-22000pa-beast-with-auto-hot-water-cleaning-falls-to-record-pricing-2000646746)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
