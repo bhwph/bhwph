@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung could reimagine Bixby on Galaxy S26 with a Gemini rival](https://www.androidauthority.com/galaxy-s26-gemini-bixby-3618888/)
- - [Survey reveals why Google’s Wicked Pixel Drop was a total letdown](https://www.androidauthority.com/november-pixel-drop-wicked-poll-results-3618873/)
- - [Europe Is Bending the Knee to the US on Tech Policy](https://www.wired.com/story/europe-bends-us-digital-policies-eu-ai-act/)<!-- TECH:END -->
+ - [An era of Android is ending: Google Assistant gets its sunset timeline](https://www.androidauthority.com/google-assistant-end-of-life-3618932/)
+ - [Why I regret skipping a case and screen protector for my Pixel 10 Pro](https://www.androidauthority.com/regret-skipping-pixel-10-pro-case-screen-protector-why-3617996/)
+ - [A $100 Billion Chip Project Forced a 91-Year-Old Woman From Her Home](https://www.wired.com/story/micron-superfab-evicts-91-year-old-new-york/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
