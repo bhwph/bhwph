@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple promotes iPhone 17 Pro vapor chamber cooling in dynamic ad](https://appleinsider.com/articles/25/11/24/apple-promotes-iphone-17-pro-vapor-chamber-cooling-in-dynamic-ad?utm_source=rss)
- - [Analysis: as crypto sheds $1T+, the Trump family&#39;s fortune has fallen to ~$6.7B from $7.7B in early September; President Trump&#39;s TMTG stake fell by ~$800M &lpar;Bloomberg&rpar;](http://www.techmeme.com/251124/p13#a251124p13)
- - [Best Apple Watch &lpar;2025&rpar;: Buyer’s Guide to the Series 11, SE 3, and Ultra 3](https://www.wired.com/gallery/best-apple-watch/)<!-- TECH:END -->
+ - [The 10 Best Home Arcade Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-home-arcade-machines/)
+ - [Amazon Is Using Specialized AI Agents for Deep Bug Hunting](https://www.wired.com/story/amazon-autonomous-threat-analysis/)
+ - [Segway Navimow Black Friday: Enjoy massive discounts and upgrade your lawn care](https://www.androidauthority.com/segway-navimow-black-friday-3618847/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
