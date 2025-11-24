@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It could happen to anyone..](http://9gag.com/gag/a9y473j)
- - 😝 [WOMP WOMP](http://9gag.com/gag/avyBPME)
- - 👉 [Engineers who worked on the Leopard tank upgrade testing brakes](http://9gag.com/gag/aLnOMgP)<!-- MEMES:END -->
+ - 6️⃣ [Prayz da lawd](http://9gag.com/gag/aKGXVVW)
+ - 😝 [It could happen to anyone..](http://9gag.com/gag/a9y473j)
+ - 👉 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)<!-- MEMES:END -->
 
 --- 
 
