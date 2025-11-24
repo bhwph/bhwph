@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Are You This Old ?](http://9gag.com/gag/aO8nzBr)
- - 😝 [It tracks](http://9gag.com/gag/a87vyM1)
- - 👉 [Peace Plan?](http://9gag.com/gag/an70bW5)<!-- MEMES:END -->
+ - 6️⃣ [Not stop for a school bus.](http://9gag.com/gag/ajP3qz1)
+ - 😝 [The beacons are lit](http://9gag.com/gag/a1m8X4G)
+ - 👉 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)<!-- MEMES:END -->
 
 --- 
 
