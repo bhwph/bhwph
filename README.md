@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Looking to save big on a new wireless carrier? Here are the 5 best Black Friday deals](https://www.androidauthority.com/black-friday-carrier-deals-3617405/)
- - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
- - [One of our favorite Switch 2 controllers is 20 percent off right now](https://www.theverge.com/gadgets/827225/8bitdo-ultimate-2-bluetooth-controller-black-friday-deal-sale-2025)<!-- TECH:END -->
+ - [The ping pong movie is very stressful](https://www.theverge.com/entertainment/828746/marty-supreme-movie-review)
+ - [Two years later, Google Photos may finally gain this cool iOS photo trick &lpar;Update: In testing&rpar;](https://www.androidauthority.com/google-photos-to-sticker-testing-on-android-3617732/)
+ - [Get six months of Apple TV at its 2022 price for Black Friday](https://www.theverge.com/gadgets/828621/apple-tv-black-friday-discount-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
