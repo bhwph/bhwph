@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Logitech Pushes MX Master 3S Wireless Mouse Into Black Friday Giveaway Mode After Last Month’s Sales Wipe Out Most Stock](https://kotaku.com/logitech-pushes-mx-master-3s-wireless-mouse-into-black-friday-giveaway-mode-after-last-months-sales-wipe-out-most-stock-2000647070)
- - [Xbox Is Taunting Fans With The Worst $80 Purchase Of Their Lives](https://kotaku.com/xbox-official-crocs-jibbitz-halo-doom-fallout-2000647263)
- - [Amazon Quietly Liquidates Ugreen Nexode 65W, 4-Port Fast Charger Almost Free Now](https://kotaku.com/amazon-quietly-liquidates-ugreen-nexode-65w-4-port-fast-charger-almost-free-now-2000647211)<!-- GAME:END -->
+ - [Knives Out 3 director Rian Johnson keeps raising his difficulty level](https://www.polygon.com/wake-up-dead-man-knives-out-director-rian-johnson-interview/)
+ - [Microsoft Goes Beyond Laptop Deals, MS Office Pro 2021 Lifetime License Is Nearly Free at 90% Off for Black Friday](https://kotaku.com/act-fast-to-snag-the-microsoft-office-professional-2021-at-a-180-discount-at-stacksocial-today-2000647013)
+ - [Step Inside a Horror Experience That Knows Your Fears in A.I.L.A, Out Today](https://news.xbox.com/en-us/2025/11/25/step-inside-a-horror-experience-that-knows-your-fears-in-a-i-l-a-out-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
