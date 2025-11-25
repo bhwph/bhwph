@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Italian police raided two Amazon sites on Monday as part of a growing investigation into alleged customs and tax fraud involving Chinese imports &lpar;Emilio Parodi/Reuters&rpar;](http://www.techmeme.com/251124/p39#a251124p39)
- - [Deal alert: The Sony WH-1000XM6 headphones get their biggest price cut](https://www.androidauthority.com/sony-wh-1000xm6-headphones-deal-3619126/)
- - [A US judge issues a temporary restraining order blocking OpenAI from using the word &quot;cameo&quot; for Sora features, following a trademark lawsuit by video app Cameo &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251124/p38#a251124p38)<!-- TECH:END -->
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
+ - [Investors have pulled $3.5B from US-listed bitcoin ETFs so far in November, almost equaling the previous monthly record for outflows of $3.6B set in February &lpar;Bloomberg&rpar;](http://www.techmeme.com/251124/p48#a251124p48)
+ - [SmartWings smart roller shades review: bring in natural light to your Apple Home](https://appleinsider.com/articles/25/11/25/smartwings-smart-roller-shades-review-bring-in-natural-light-to-your-apple-home?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
