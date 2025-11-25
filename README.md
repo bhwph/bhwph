@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Odyssey G9 gaming monitor sees an unparalleled 46% price drop](https://www.androidauthority.com/samsung-odyssey-g9-monitor-deal-2-3619481/)
- - [Gemini’s ChatGPT-style ‘projects’ are taking shape in some unexpected ways](https://www.androidauthority.com/google-gemini-projects-3619440/)
- - [The Nothing &lpar;1&rpar; Headset Is Discounted Early for Black Friday](https://www.wired.com/story/nothing-1-headset-deal-1125/)<!-- TECH:END -->
+ - [Harmonic, an AI math startup co-founded by Vlad Tenev, raised a $120M Series C led by Ribbit at a $1.45B valuation, bringing its total funding to $295M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251125/p26#a251125p26)
+ - [The Best Deals from Huckberry&#39;s 2025 Black Friday Sale](https://www.wired.com/story/huckberry-black-friday-sale-2025/)
+ - [You can grab two months of Paramount Plus with Showtime for $2.99 a month](https://www.theverge.com/gadgets/827612/paramount-plus-black-friday-deal-sale-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
