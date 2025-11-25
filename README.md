@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony XM6 Headphones Hit an All-Time Low for Black Friday as Amazon Clears the Warehouse](https://kotaku.com/sony-xm6-headphones-drop-lower-than-expected-for-black-friday-as-amazon-clears-the-warehouse-2000647074)
- - [Google Pushes the Pixel Tablet Into Wild Black Friday Pricing, Margin Clearly Isn’t a Priority](https://kotaku.com/google-pushes-the-pixel-tablet-into-wild-black-friday-pricing-margin-clearly-isnt-a-priority-2000646912)
- - [The Steam Deck LCD 256 GB is 20% off for Black Friday](https://www.polygon.com/valve-black-friday-deal-steam-deck-sale/)<!-- GAME:END -->
+ - [Samsung Tab S10 FE Drops to Record Low for Pennies, Might Be Time to Offload That iPad Now](https://kotaku.com/samsung-tab-s10-fe-drops-to-record-low-for-pennies-might-be-time-to-offload-that-ipad-now-2000647199)
+ - [Samsung Quietly Clears 32″ 165Hz Gaming Monitor, Odyssey Curved Display Now Goes 40% Off](https://kotaku.com/samsung-quietly-clears-32-165hz-gaming-monitor-odyssey-curved-display-now-goes-40-off-2000647195)
+ - [Disappeared survival horror Cold Fear magically returns in GOG&#39;s immortal games lineup, with 4K, crash fixes, and support for modern controllers](https://www.pcgamer.com/games/horror/disappeared-survival-horror-cold-fear-magically-returns-in-gogs-immortal-games-lineup-with-4k-crash-fixes-and-support-for-modern-controllers/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
