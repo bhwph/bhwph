@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ping pong movie is very stressful](https://www.theverge.com/entertainment/828746/marty-supreme-movie-review)
- - [Two years later, Google Photos may finally gain this cool iOS photo trick &lpar;Update: In testing&rpar;](https://www.androidauthority.com/google-photos-to-sticker-testing-on-android-3617732/)
- - [Get six months of Apple TV at its 2022 price for Black Friday](https://www.theverge.com/gadgets/828621/apple-tv-black-friday-discount-deal-sale)<!-- TECH:END -->
+ - [Samsung Odyssey G9 gaming monitor sees an unparalleled 46% price drop](https://www.androidauthority.com/samsung-odyssey-g9-monitor-deal-2-3619481/)
+ - [Gemini’s ChatGPT-style ‘projects’ are taking shape in some unexpected ways](https://www.androidauthority.com/google-gemini-projects-3619440/)
+ - [The Nothing &lpar;1&rpar; Headset Is Discounted Early for Black Friday](https://www.wired.com/story/nothing-1-headset-deal-1125/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
