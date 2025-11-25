@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Harmonic, an AI math startup co-founded by Vlad Tenev, raised a $120M Series C led by Ribbit at a $1.45B valuation, bringing its total funding to $295M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251125/p26#a251125p26)
- - [The Best Deals from Huckberry&#39;s 2025 Black Friday Sale](https://www.wired.com/story/huckberry-black-friday-sale-2025/)
- - [You can grab two months of Paramount Plus with Showtime for $2.99 a month](https://www.theverge.com/gadgets/827612/paramount-plus-black-friday-deal-sale-2025)<!-- TECH:END -->
+ - [Google Pixel Tablet now $249, bringing back its record-low price for Black Friday](https://www.androidauthority.com/google-pixel-tablet-deal-4-3619477/)
+ - [The fallout from Google’s beef with Disney looks like it’s nearly finally over](https://www.androidauthority.com/movies-anywhere-google-3619535/)
+ - [Google is integrating Nano Banana right into its app’s search bar](https://www.androidauthority.com/google-search-ai-mode-nano-banana-3619520/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
