@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung Tab S10 FE Drops to Record Low for Pennies, Might Be Time to Offload That iPad Now](https://kotaku.com/samsung-tab-s10-fe-drops-to-record-low-for-pennies-might-be-time-to-offload-that-ipad-now-2000647199)
- - [Samsung Quietly Clears 32″ 165Hz Gaming Monitor, Odyssey Curved Display Now Goes 40% Off](https://kotaku.com/samsung-quietly-clears-32-165hz-gaming-monitor-odyssey-curved-display-now-goes-40-off-2000647195)
- - [Disappeared survival horror Cold Fear magically returns in GOG&#39;s immortal games lineup, with 4K, crash fixes, and support for modern controllers](https://www.pcgamer.com/games/horror/disappeared-survival-horror-cold-fear-magically-returns-in-gogs-immortal-games-lineup-with-4k-crash-fixes-and-support-for-modern-controllers/)<!-- GAME:END -->
+ - [Logitech Pushes MX Master 3S Wireless Mouse Into Black Friday Giveaway Mode After Last Month’s Sales Wipe Out Most Stock](https://kotaku.com/logitech-pushes-mx-master-3s-wireless-mouse-into-black-friday-giveaway-mode-after-last-months-sales-wipe-out-most-stock-2000647070)
+ - [Xbox Is Taunting Fans With The Worst $80 Purchase Of Their Lives](https://kotaku.com/xbox-official-crocs-jibbitz-halo-doom-fallout-2000647263)
+ - [Amazon Quietly Liquidates Ugreen Nexode 65W, 4-Port Fast Charger Almost Free Now](https://kotaku.com/amazon-quietly-liquidates-ugreen-nexode-65w-4-port-fast-charger-almost-free-now-2000647211)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
