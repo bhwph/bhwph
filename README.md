@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation’s Big Black Friday Sale Includes Some Fantastic PS5 Exclusives](https://kotaku.com/playstation-5-ps5-exclusives-big-black-friday-sale-death-stranding-astro-bot-spider-man-2000646983)
- - [Call of Duty: Black Ops 7 and Warzone Season 1 goes live Dec 4, full details revealed](https://blog.playstation.com/2025/11/24/call-of-duty-black-ops-7-and-warzone-season-1-goes-live-dec-4-full-details-revealed/)
- - [Timesplitters Remake Finally Launches After Messy Decade Long Development](https://kotaku.com/timesplitters-rewind-remake-out-now-launch-pc-ps4-trailer-2000646972)<!-- GAME:END -->
+ - [Tile Mate 4-Pack Hits Record Low, iPhone and Android Users Get Four Trackers for One AirTag Money](https://kotaku.com/tile-mate-4-pack-hits-record-low-iphone-and-android-users-get-four-trackers-for-one-airtag-money-2000647050)
+ - [Live-action Far Cry TV series starring It&#39;s Always Sunny&#39;s Rob Mac will mimic the games&#39; standalone format, with each season given &#39;a new setting following a new cast of characters&#39;](https://www.pcgamer.com/movies-tv/live-action-far-cry-tv-series-starring-its-always-sunnys-rob-mac-will-mimic-the-games-standalone-format-with-each-season-given-a-new-setting-following-a-new-cast-of-characters/)
+ - [Amazon Sells eufy Solar Camera at Break-Even, 50% Off Means No Profit Just to Offload Stock](https://kotaku.com/amazon-sells-eufy-solar-camera-at-break-even-50-off-means-no-profit-just-to-offload-stock-2000647046)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
