@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Your motivation for the week](http://9gag.com/gag/a5Q9nVL)
- - 😝 [Happy Tuesday......](http://9gag.com/gag/avyBObE)
- - 👉 [The lying truth](http://9gag.com/gag/an70jdn)<!-- MEMES:END -->
+ - 6️⃣ [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
+ - 😝 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
+ - 👉 [Your motivation for the week](http://9gag.com/gag/a5Q9nVL)<!-- MEMES:END -->
 
 --- 
 
