@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says this Pixel 10 Pro camera bug is fixed, but users disagree. Are you facing issues?](https://www.androidauthority.com/google-pixel-10-pro-telephoto-video-stuttering-poll-3619339/)
- - [Survey suggests Android users are loving AirDrop but fear Apple’s wrath](https://www.androidauthority.com/apple-block-airdrop-android-poll-results-3619326/)
- - [I just bought an Oura Ring 4 for $49. Here’s how you can too](https://www.androidauthority.com/i-bought-oura-ring-4-deal-49-dollars-how-you-can-too-3619036/)<!-- TECH:END -->
+ - [Save $300 on Google Pixel 10 Pro XL at its lowest price of the year](https://www.androidauthority.com/pixel-10-pro-xl-black-friday-deal-3619153/)
+ - [Huawei Mate 80 Pro Max has the world’s brightest phone screen](https://www.theverge.com/news/828543/huawei-mate-80-pro-max-dual-layer-oled-display-8000-nits)
+ - [China is aggressively deploying AI and robotics to maintain its status as the world&#39;s manufacturing hub, and major companies are pioneering AI &quot;dark factories&quot; &lpar;Brian Spegele/Wall Street Journal&rpar;](http://www.techmeme.com/251125/p12#a251125p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
