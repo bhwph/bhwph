@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $300 on Google Pixel 10 Pro XL at its lowest price of the year](https://www.androidauthority.com/pixel-10-pro-xl-black-friday-deal-3619153/)
- - [Huawei Mate 80 Pro Max has the world’s brightest phone screen](https://www.theverge.com/news/828543/huawei-mate-80-pro-max-dual-layer-oled-display-8000-nits)
- - [China is aggressively deploying AI and robotics to maintain its status as the world&#39;s manufacturing hub, and major companies are pioneering AI &quot;dark factories&quot; &lpar;Brian Spegele/Wall Street Journal&rpar;](http://www.techmeme.com/251125/p12#a251125p12)<!-- TECH:END -->
+ - [Looking to save big on a new wireless carrier? Here are the 5 best Black Friday deals](https://www.androidauthority.com/black-friday-carrier-deals-3617405/)
+ - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
+ - [One of our favorite Switch 2 controllers is 20 percent off right now](https://www.theverge.com/gadgets/827225/8bitdo-ultimate-2-bluetooth-controller-black-friday-deal-sale-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
