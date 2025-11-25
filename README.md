@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Despite Krafton ownership, Last Epoch dev won&#39;t charge for its first expansion and isn&#39;t pivoting to AI: &#39;To be clear, our development approach is not changing&#39;](https://www.pcgamer.com/games/rpg/despite-krafton-ownership-last-epoch-dev-wont-charge-for-its-first-expansion-and-isnt-pivoting-to-ai-to-be-clear-our-development-approach-is-not-changing/)
- - [Elden Ring Nightreign&#39;s DLC Scholar class is cooler than it sounds](https://www.polygon.com/elden-ring-nightreign-forsaken-hollows-dlc-scholar-nightfarer-gameplay/)
- - [After its &#39;make FPS great again&#39; controversy, Splitgate 2 is relaunching with a humbler tone: &#39;The goal is to grow over time, not aim for a massive splash on day 1&#39;](https://www.pcgamer.com/games/fps/after-its-make-fps-great-again-controversy-splitgate-2-is-relaunching-with-a-humbler-tone-the-goal-is-to-grow-over-time-not-aim-for-a-massive-splash-on-day-1/)<!-- GAME:END -->
+ - [Every Battlefield 6 Map Ranked From Worst To Best](https://kotaku.com/every-battlefield-6-map-ranked-from-worst-to-best-2000647370)
+ - [Apple Quietly Liquidates Millions of Mac Mini M4 on Amazon, Compact Desktop Now Selling for Pennies](https://kotaku.com/apple-quietly-liquidates-millions-of-mac-mini-m4-on-amazon-compact-desktop-now-selling-for-pennies-2000647379)
+ - [Dispatch’s Best Scene Almost Looked A Lot Different](https://kotaku.com/dispatch-episode-5-bar-fight-scene-making-of-song-prism-2000647373)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
