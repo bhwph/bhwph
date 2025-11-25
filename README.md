@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poland&#39;s antitrust office UOKiK is probing whether Apple&#39;s ATT limits third-party data collection in mobile ads while giving Apple&#39;s own ads service an edge &lpar;Anna Wlodarczak-Semczuk/Reuters&rpar;](http://www.techmeme.com/251125/p5#a251125p5)
- - [Spotify could be planning to take more out of your wallet soon](https://www.androidauthority.com/spotify-us-price-hike-rumor-3619323/)
- - [A look at NY&#39;s RAISE Act, requiring AI companies to publish safety protocols and disclose serious incidents, as its co-sponsor is targeted by a pro-AI super PAC &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251125/p4#a251125p4)<!-- TECH:END -->
+ - [Google says this Pixel 10 Pro camera bug is fixed, but users disagree. Are you facing issues?](https://www.androidauthority.com/google-pixel-10-pro-telephoto-video-stuttering-poll-3619339/)
+ - [Survey suggests Android users are loving AirDrop but fear Apple’s wrath](https://www.androidauthority.com/apple-block-airdrop-android-poll-results-3619326/)
+ - [I just bought an Oura Ring 4 for $49. Here’s how you can too](https://www.androidauthority.com/i-bought-oura-ring-4-deal-49-dollars-how-you-can-too-3619036/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
