@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Knives Out 3 director Rian Johnson keeps raising his difficulty level](https://www.polygon.com/wake-up-dead-man-knives-out-director-rian-johnson-interview/)
- - [Microsoft Goes Beyond Laptop Deals, MS Office Pro 2021 Lifetime License Is Nearly Free at 90% Off for Black Friday](https://kotaku.com/act-fast-to-snag-the-microsoft-office-professional-2021-at-a-180-discount-at-stacksocial-today-2000647013)
- - [Step Inside a Horror Experience That Knows Your Fears in A.I.L.A, Out Today](https://news.xbox.com/en-us/2025/11/25/step-inside-a-horror-experience-that-knows-your-fears-in-a-i-l-a-out-today/)<!-- GAME:END -->
+ - [Despite Krafton ownership, Last Epoch dev won&#39;t charge for its first expansion and isn&#39;t pivoting to AI: &#39;To be clear, our development approach is not changing&#39;](https://www.pcgamer.com/games/rpg/despite-krafton-ownership-last-epoch-dev-wont-charge-for-its-first-expansion-and-isnt-pivoting-to-ai-to-be-clear-our-development-approach-is-not-changing/)
+ - [Elden Ring Nightreign&#39;s DLC Scholar class is cooler than it sounds](https://www.polygon.com/elden-ring-nightreign-forsaken-hollows-dlc-scholar-nightfarer-gameplay/)
+ - [After its &#39;make FPS great again&#39; controversy, Splitgate 2 is relaunching with a humbler tone: &#39;The goal is to grow over time, not aim for a massive splash on day 1&#39;](https://www.pcgamer.com/games/fps/after-its-make-fps-great-again-controversy-splitgate-2-is-relaunching-with-a-humbler-tone-the-goal-is-to-grow-over-time-not-aim-for-a-massive-splash-on-day-1/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
