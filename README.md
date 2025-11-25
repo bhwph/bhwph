@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tile Mate 4-Pack Hits Record Low, iPhone and Android Users Get Four Trackers for One AirTag Money](https://kotaku.com/tile-mate-4-pack-hits-record-low-iphone-and-android-users-get-four-trackers-for-one-airtag-money-2000647050)
- - [Live-action Far Cry TV series starring It&#39;s Always Sunny&#39;s Rob Mac will mimic the games&#39; standalone format, with each season given &#39;a new setting following a new cast of characters&#39;](https://www.pcgamer.com/movies-tv/live-action-far-cry-tv-series-starring-its-always-sunnys-rob-mac-will-mimic-the-games-standalone-format-with-each-season-given-a-new-setting-following-a-new-cast-of-characters/)
- - [Amazon Sells eufy Solar Camera at Break-Even, 50% Off Means No Profit Just to Offload Stock](https://kotaku.com/amazon-sells-eufy-solar-camera-at-break-even-50-off-means-no-profit-just-to-offload-stock-2000647046)<!-- GAME:END -->
+ - [Sony XM6 Headphones Hit an All-Time Low for Black Friday as Amazon Clears the Warehouse](https://kotaku.com/sony-xm6-headphones-drop-lower-than-expected-for-black-friday-as-amazon-clears-the-warehouse-2000647074)
+ - [Google Pushes the Pixel Tablet Into Wild Black Friday Pricing, Margin Clearly Isn’t a Priority](https://kotaku.com/google-pushes-the-pixel-tablet-into-wild-black-friday-pricing-margin-clearly-isnt-a-priority-2000646912)
+ - [The Steam Deck LCD 256 GB is 20% off for Black Friday](https://www.polygon.com/valve-black-friday-deal-steam-deck-sale/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
