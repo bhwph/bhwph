@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s November 21 labor law has granted legal status to millions of gig workers, but benefits are unclear and access to social security remains elusive &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251125/p2#a251125p2)
- - [Internal memo: Amazon asks engineers to use its in-house AI coding assistant Kiro over third-party tools like Cursor, aiming to gather feedback for improvement &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/251125/p1#a251125p1)
- - [Spotify Wrapped 2025 page goes live, could drop as early as next week!](https://www.androidauthority.com/spotify-wrapped-2025-release-teaser-3619284/)<!-- TECH:END -->
+ - [Poland&#39;s antitrust office UOKiK is probing whether Apple&#39;s ATT limits third-party data collection in mobile ads while giving Apple&#39;s own ads service an edge &lpar;Anna Wlodarczak-Semczuk/Reuters&rpar;](http://www.techmeme.com/251125/p5#a251125p5)
+ - [Spotify could be planning to take more out of your wallet soon](https://www.androidauthority.com/spotify-us-price-hike-rumor-3619323/)
+ - [A look at NY&#39;s RAISE Act, requiring AI companies to publish safety protocols and disclose serious incidents, as its co-sponsor is targeted by a pro-AI super PAC &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251125/p4#a251125p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
