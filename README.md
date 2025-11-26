@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [France says it plans legal complaints against AliExpress and Joom over the sales of childlike sex dolls; Temu, Wish, eBay, and more are also under investigation &lpar;Financial Times&rpar;](http://www.techmeme.com/251126/p20#a251126p20)
- - [Sources: ByteDance is in talks to sell game studio Moonton, which it acquired for ~$4B in 2021, to Saudi Arabia-based Savvy Games; Moonton makes Mobile Legends &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p19#a251126p19)
- - [The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters &lpar;2025&rpar;](https://www.wired.com/gallery/best-star-wars-gifts/)<!-- TECH:END -->
+ - [Top 5 Black Friday deals on Thunderbolt 5, 4 docks knock up to $145 off](https://appleinsider.com/articles/25/11/26/top-5-black-friday-deals-on-thunderbolt-5-4-docks-knock-up-to-145-off?utm_source=rss)
+ - [The excellent Chipolo POP tracker bundle is at an all-time low price in this holiday steal](https://www.androidauthority.com/chipolo-pop-bluetooth-tracker-deal-3619887/)
+ - [Dreame’s Black Friday deals slash flagship cleaning tech by up to 61%](https://www.androidauthority.com/dreame-black-friday-deals-3619603/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
