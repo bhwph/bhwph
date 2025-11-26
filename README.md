@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top 5 Black Friday deals on Thunderbolt 5, 4 docks knock up to $145 off](https://appleinsider.com/articles/25/11/26/top-5-black-friday-deals-on-thunderbolt-5-4-docks-knock-up-to-145-off?utm_source=rss)
- - [The excellent Chipolo POP tracker bundle is at an all-time low price in this holiday steal](https://www.androidauthority.com/chipolo-pop-bluetooth-tracker-deal-3619887/)
- - [Dreame’s Black Friday deals slash flagship cleaning tech by up to 61%](https://www.androidauthority.com/dreame-black-friday-deals-3619603/)<!-- TECH:END -->
+ - [Amazon drops Apple&#39;s iPad 11 to $274, a new record low price](https://appleinsider.com/articles/25/11/26/amazon-drops-apples-ipad-11-to-274-a-new-record-low-price?utm_source=rss)
+ - [Enjoy exceptional 54% discount on Sony WH-1000XM4 headphones now](https://www.androidauthority.com/sony-wh-1000xm4-headphones-deal-3-3619918/)
+ - [Microsoft’s latest 13-inch Surface Laptop is down to $549.99, a new record low price](https://www.theverge.com/gadgets/830182/microsoft-surface-laptop-black-friday-2025-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
