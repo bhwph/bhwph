@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Tablet now $249, bringing back its record-low price for Black Friday](https://www.androidauthority.com/google-pixel-tablet-deal-4-3619477/)
- - [The fallout from Google’s beef with Disney looks like it’s nearly finally over](https://www.androidauthority.com/movies-anywhere-google-3619535/)
- - [Google is integrating Nano Banana right into its app’s search bar](https://www.androidauthority.com/google-search-ai-mode-nano-banana-3619520/)<!-- TECH:END -->
+ - [Sources: a new network of super PACs plans to raise ~$50M to counter the Leading the Future super PAC and back candidates who prioritize AI regulations &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/251125/p36#a251125p36)
+ - [Hands on with Kuxiu&#39;s range of 25W Qi2.2 MagSafe chargers](https://appleinsider.com/articles/25/11/26/hands-on-with-kuxius-range-of-25w-qi22-magsafe-chargers?utm_source=rss)
+ - [Filing: OpenAI denies liability in a suit alleging ChatGPT gave info about suicide methods to a 16-year-old who died by suicide, arguing he misused the chatbot &lpar;Angela Yang/NBC News&rpar;](http://www.techmeme.com/251125/p35#a251125p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
