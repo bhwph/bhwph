@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)
+ - 6️⃣ [Dedication to the hustle is next level](http://9gag.com/gag/aW4e184)
  - 😝 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
- - 👉 [To be worse than...](http://9gag.com/gag/aPAV9LR)<!-- MEMES:END -->
+ - 👉 [Man of culture](http://9gag.com/gag/aGyreMz)<!-- MEMES:END -->
 
 --- 
 
