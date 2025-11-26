@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Roborock Q7 M5+ Falls 40% Off, Self-Empty for 7 Weeks While You Forget It Even Exists](https://kotaku.com/roborock-q7-m5-falls-40-off-self-empty-for-7-weeks-while-you-forget-it-even-exists-2000647624)
- - [Charlie Cox Still Isn’t Ready To Take Credit For His Award-Nominated Clair Obscur Performance Because Game Performances Are Complicated](https://kotaku.com/charlie-cox-clair-obscur-expedition-33-gustave-game-awards-2000647664)
- - [The Ugly Stepsister, now on Hulu, is a fairy-tale version of The Substance](https://www.polygon.com/the-ugly-stepsister-on-hulu/)<!-- GAME:END -->
+ - [Wizards delays MTG&#39;s Monster Hunter Secret Lair following fan backlash](https://www.polygon.com/magic-mtg-monster-hunter-secret-lair-delay/)
+ - [Marvel Rivals’ New Mode Sounds Like The Stuff That Crashes Your PC](https://kotaku.com/marvel-rivals-new-18-36-player-mode-annihilation-trailer-2000647688)
+ - [Epic boss Tim Sweeney thinks stores like Steam should stop labelling games as being made with AI: &#39;It makes no sense,&#39; he says, because &#39;AI will be involved in nearly all future production&#39;](https://www.pcgamer.com/software/ai/epic-boss-tim-sweeney-thinks-stores-like-steam-should-stop-labelling-games-as-being-made-with-ai-it-makes-no-sense-he-says-because-ai-will-be-involved-in-nearly-all-future-production/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
