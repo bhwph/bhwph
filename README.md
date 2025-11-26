@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How is this possible?](http://9gag.com/gag/a34zKQ3)
- - 😝 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
- - 👉 [Those puppies are adorable](http://9gag.com/gag/aYQv427)<!-- MEMES:END -->
+ - 6️⃣ [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)
+ - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
+ - 👉 [Don&#39;t be the first one to sleep.....](http://9gag.com/gag/axyezE2)<!-- MEMES:END -->
 
 --- 
 
