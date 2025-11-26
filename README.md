@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon 8 Gen 5 brings major upgrades for affordable flagships, but one downgrade](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-5-launch-3618923/)
- - [Qualcomm reveals its not-so-elite Snapdragon 8 Gen 5](https://www.theverge.com/news/828959/qualcomm-snapdragon-8-gen-5)
- - [M5 MacBook Pro with 24GB RAM plunges to record low $1,569 &lpar;$230 off&rpar;](https://appleinsider.com/articles/25/11/26/m5-macbook-pro-with-24gb-ram-plunges-to-record-low-1569-230-off?utm_source=rss)<!-- TECH:END -->
+ - [Some food bloggers warn Google&#39;s AI Overviews and AI food pics are burying their real, tested recipes, setting home cooks up for disaster this Thanksgiving &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p6#a251126p6)
+ - [Finally, WhatsApp is working on the one status tool users actually need &lpar;APK teardown&rpar;](https://www.androidauthority.com/whatsapp-status-save-as-draft-apk-teardown-3619668/)
+ - [OnePlus Promo Code: $70 Off | November 2025](https://www.wired.com/story/oneplus-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
