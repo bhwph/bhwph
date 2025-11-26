@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Naver agrees to acquire Dunamu, which runs South Korea&#39;s biggest crypto exchange Upbit, in a $10.3B all-stock deal; Upbit has 80%+ market share in South Korea &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p12#a251126p12)
- - [As an Android expert, these are the 6 Black Friday Android phone deals I would actually buy](https://www.androidauthority.com/best-black-friday-android-phone-deals-expert-recommendations-3619438/)
- - [Good enough is good enough: Survey shows Pixel Launcher packs everything users need](https://www.androidauthority.com/pixel-launcher-features-poll-results-3619661/)<!-- TECH:END -->
+ - [Sources: ByteDance bought more Nvidia chips than any other Chinese company in 2025, but Chinese regulators now block it from using the chips in new data centers &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/251126/p18#a251126p18)
+ - [14 Best Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)
+ - [Phone or power bank? More top Android brands are working on 10,000mAh phones.](https://www.androidauthority.com/android-10000mah-phones-leaks-3619744/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
