@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Activates No-Margin Mode on the eero 7 Dual-Band Mesh WiFi 7 Routers for Black Friday](https://kotaku.com/amazon-just-dropped-its-eero-7-dual-band-mesh-wi-fi-7-router-3-pack-by-20-thanks-to-black-friday-2000647269)
- - [Wake Up Dead Man brings some horror into the Knives Out series](https://www.polygon.com/wake-up-dead-man-netflix-review/)
- - [Fire Max 11 Tablet Now Costs Pocket Change, Amazon Goes Zero Profit on Its Own Tablet](https://kotaku.com/fire-max-11-tablet-now-costs-pocket-change-amazon-goes-zero-profit-on-its-own-tablet-2000647543)<!-- GAME:END -->
+ - [I&#39;m impatiently waiting for Fallout Season 2 by calculating the odds of my favorite New Vegas characters making an appearance](https://www.pcgamer.com/movies-tv/im-impatiently-waiting-for-fallout-season-2-by-calculating-the-odds-of-my-favorite-new-vegas-characters-making-an-appearance/)
+ - [Forget Mac Mini, Amazon Drops This 4.6-Star Intel i7 Gaming Mini PC to a Record Low as It Clears Out Stock &lpar;32GB RAM, 1TB SSD&rpar;](https://kotaku.com/this-intel-i7-mini-gaming-pc-32gb-ram-1tb-ssd-comes-down-by-almost-40-for-black-friday-2000647427)
+ - [The Slow Collapse Of Embracer Continues As It Sells More Studios](https://kotaku.com/embracer-sells-studios-collapse-nintendo-classics-black-ops-7-update-2000647577)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
