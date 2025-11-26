@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Military Wants to Fix Its Own Equipment. Defense Contractors Are Trying to Shoot That Down](https://www.wired.com/story/subscription-us-military-right-to-repair/)
- - [Pentagon contractors want to blow up military right to repair](https://www.theverge.com/news/830715/military-contractors-right-to-repair-ndaa-data-as-a-service)
- - [Upgrade to smart lighting: Govee bulbs drop to record-low price](https://www.androidauthority.com/govee-led-smart-light-bulbs-deal-3619915/)<!-- TECH:END -->
+ - [Your Galaxy Watch 6 just got a major upgrade in the US with One UI 8 Watch](https://www.androidauthority.com/samsung-galaxy-watch-6-one-ui-8-watch-us-rollout-3619703/)
+ - [YouTube TV is finally restoring these missing channels after a nearly two-month absence](https://www.androidauthority.com/youtube-tv-missing-channels-3620011/)
+ - [14 Early Black Friday Deals at Best Buy &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-best-buy-deals/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
