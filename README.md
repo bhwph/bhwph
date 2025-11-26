@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Roborock Saros 10R Crashes $600 Off, 22,000 Pa Suction With Self-Emptying Station Hits All-Time Low](https://kotaku.com/roborock-saros-10r-crashes-600-off-22000-pa-suction-with-self-emptying-station-hits-all-time-low-2000647321)
- - [Samsung T7 SSD Goes for Pocket Change Now, 2TB Drive Selling 68% Off Original Price](https://kotaku.com/samsung-t7-ssd-goes-for-pocket-change-now-2tb-drive-selling-68-off-original-price-2000647374)
- - [Amazon Offloads 65W 3-Port Block Charger, 2-Pack Selling for 4x Cheaper Than One Apple Charger](https://kotaku.com/amazon-offloads-65w-3-port-block-charger-2-pack-selling-for-4x-cheaper-than-one-apple-charger-2000647316)<!-- GAME:END -->
+ - [PS5 Digital Edition &lpar;Slim&rpar; Hits No-Margin Price as Sony Offloads the Last Units After Moving 20K+ Units Last Month](https://kotaku.com/this-100-off-black-friday-deal-on-the-playstation-5-digital-slim-edition-is-going-fast-at-amazon-2000647329)
+ - [AMD&#39;s Ryzen 7 9800X3D is now down to £390 this Black Friday, making the champion of all gaming CPUs the cheapest it&#39;s ever been](https://www.pcgamer.com/hardware/processors/amds-ryzen-7-9800x3d-is-now-down-to-gbp390-this-black-friday-making-the-champion-of-all-gaming-cpus-the-cheapest-its-ever-been/)
+ - [LEGO Takes Zero-Profit Gamble on Minecraft Set, 40K Units Cleared Already at Pocket Change](https://kotaku.com/lego-takes-zero-profit-gamble-on-minecraft-set-40k-units-cleared-already-at-pocket-change-2000647525)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
