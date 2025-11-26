@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some food bloggers warn Google&#39;s AI Overviews and AI food pics are burying their real, tested recipes, setting home cooks up for disaster this Thanksgiving &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p6#a251126p6)
- - [Finally, WhatsApp is working on the one status tool users actually need &lpar;APK teardown&rpar;](https://www.androidauthority.com/whatsapp-status-save-as-draft-apk-teardown-3619668/)
- - [OnePlus Promo Code: $70 Off | November 2025](https://www.wired.com/story/oneplus-promo-code/)<!-- TECH:END -->
+ - [Naver agrees to acquire Dunamu, which runs South Korea&#39;s biggest crypto exchange Upbit, in a $10.3B all-stock deal; Upbit has 80%+ market share in South Korea &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p12#a251126p12)
+ - [As an Android expert, these are the 6 Black Friday Android phone deals I would actually buy](https://www.androidauthority.com/best-black-friday-android-phone-deals-expert-recommendations-3619438/)
+ - [Good enough is good enough: Survey shows Pixel Launcher packs everything users need](https://www.androidauthority.com/pixel-launcher-features-poll-results-3619661/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
