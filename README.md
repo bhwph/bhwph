@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ByteDance bought more Nvidia chips than any other Chinese company in 2025, but Chinese regulators now block it from using the chips in new data centers &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/251126/p18#a251126p18)
- - [14 Best Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)
- - [Phone or power bank? More top Android brands are working on 10,000mAh phones.](https://www.androidauthority.com/android-10000mah-phones-leaks-3619744/)<!-- TECH:END -->
+ - [France says it plans legal complaints against AliExpress and Joom over the sales of childlike sex dolls; Temu, Wish, eBay, and more are also under investigation &lpar;Financial Times&rpar;](http://www.techmeme.com/251126/p20#a251126p20)
+ - [Sources: ByteDance is in talks to sell game studio Moonton, which it acquired for ~$4B in 2021, to Saudi Arabia-based Savvy Games; Moonton makes Mobile Legends &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p19#a251126p19)
+ - [The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters &lpar;2025&rpar;](https://www.wired.com/gallery/best-star-wars-gifts/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
