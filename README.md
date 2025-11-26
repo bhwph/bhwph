@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon drops Apple&#39;s iPad 11 to $274, a new record low price](https://appleinsider.com/articles/25/11/26/amazon-drops-apples-ipad-11-to-274-a-new-record-low-price?utm_source=rss)
- - [Enjoy exceptional 54% discount on Sony WH-1000XM4 headphones now](https://www.androidauthority.com/sony-wh-1000xm4-headphones-deal-3-3619918/)
- - [Microsoft’s latest 13-inch Surface Laptop is down to $549.99, a new record low price](https://www.theverge.com/gadgets/830182/microsoft-surface-laptop-black-friday-2025-deal-sale)<!-- TECH:END -->
+ - [The US Military Wants to Fix Its Own Equipment. Defense Contractors Are Trying to Shoot That Down](https://www.wired.com/story/subscription-us-military-right-to-repair/)
+ - [Pentagon contractors want to blow up military right to repair](https://www.theverge.com/news/830715/military-contractors-right-to-repair-ndaa-data-as-a-service)
+ - [Upgrade to smart lighting: Govee bulbs drop to record-low price](https://www.androidauthority.com/govee-led-smart-light-bulbs-deal-3619915/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
