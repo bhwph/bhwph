@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cool it yo](http://9gag.com/gag/a5Q9R5O)
- - 😝 [Mexican budget fireworks...](http://9gag.com/gag/azxv93z)
- - 👉 [Everything is vodka in Poland](http://9gag.com/gag/aKGXjo1)<!-- MEMES:END -->
+ - 6️⃣ [How is this possible?](http://9gag.com/gag/a34zKQ3)
+ - 😝 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
+ - 👉 [Those puppies are adorable](http://9gag.com/gag/aYQv427)<!-- MEMES:END -->
 
 --- 
 
