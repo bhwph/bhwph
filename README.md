@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT’s Voice Mode moves into chats for faster, more natural conversations](https://www.androidauthority.com/chatgpt-voice-mode-in-chat-3619633/)
- - [Charm.io: TikTok Shop reached $10B+ in US sales across 600K creators between January and October, up from $5B YoY; global sales are on par with eBay&#39;s &lpar;Emmett Lindner/New York Times&rpar;](http://www.techmeme.com/251125/p38#a251125p38)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Nov. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-nov-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snapdragon 8 Gen 5 brings major upgrades for affordable flagships, but one downgrade](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-5-launch-3618923/)
+ - [Qualcomm reveals its not-so-elite Snapdragon 8 Gen 5](https://www.theverge.com/news/828959/qualcomm-snapdragon-8-gen-5)
+ - [M5 MacBook Pro with 24GB RAM plunges to record low $1,569 &lpar;$230 off&rpar;](https://appleinsider.com/articles/25/11/26/m5-macbook-pro-with-24gb-ram-plunges-to-record-low-1569-230-off?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
