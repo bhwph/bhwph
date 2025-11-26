@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wizards delays MTG&#39;s Monster Hunter Secret Lair following fan backlash](https://www.polygon.com/magic-mtg-monster-hunter-secret-lair-delay/)
- - [Marvel Rivals’ New Mode Sounds Like The Stuff That Crashes Your PC](https://kotaku.com/marvel-rivals-new-18-36-player-mode-annihilation-trailer-2000647688)
- - [Epic boss Tim Sweeney thinks stores like Steam should stop labelling games as being made with AI: &#39;It makes no sense,&#39; he says, because &#39;AI will be involved in nearly all future production&#39;](https://www.pcgamer.com/software/ai/epic-boss-tim-sweeney-thinks-stores-like-steam-should-stop-labelling-games-as-being-made-with-ai-it-makes-no-sense-he-says-because-ai-will-be-involved-in-nearly-all-future-production/)<!-- GAME:END -->
+ - [The standout Steam Black Friday deal is undoubtedly Doom: The Dark Ages for 50% off](https://www.pcgamer.com/games/fps/the-standout-steam-black-friday-deal-is-undoubtedly-doom-the-dark-ages-for-50-percent-off/)
+ - [Account Behind Viral AI GTA 6 Bait Claims It Was ‘Just A Joke’](https://kotaku.com/account-behind-viral-ai-gta-6-bait-claims-it-was-just-a-joke-2000647720)
+ - [The best Game Pass co-op games to play with family on Thanksgiving](https://www.polygon.com/game-pass-games-rec-thanksgiving-holiday-weekend-nov-26-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
