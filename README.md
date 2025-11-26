@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m impatiently waiting for Fallout Season 2 by calculating the odds of my favorite New Vegas characters making an appearance](https://www.pcgamer.com/movies-tv/im-impatiently-waiting-for-fallout-season-2-by-calculating-the-odds-of-my-favorite-new-vegas-characters-making-an-appearance/)
- - [Forget Mac Mini, Amazon Drops This 4.6-Star Intel i7 Gaming Mini PC to a Record Low as It Clears Out Stock &lpar;32GB RAM, 1TB SSD&rpar;](https://kotaku.com/this-intel-i7-mini-gaming-pc-32gb-ram-1tb-ssd-comes-down-by-almost-40-for-black-friday-2000647427)
- - [The Slow Collapse Of Embracer Continues As It Sells More Studios](https://kotaku.com/embracer-sells-studios-collapse-nintendo-classics-black-ops-7-update-2000647577)<!-- GAME:END -->
+ - [Roborock Q7 M5+ Falls 40% Off, Self-Empty for 7 Weeks While You Forget It Even Exists](https://kotaku.com/roborock-q7-m5-falls-40-off-self-empty-for-7-weeks-while-you-forget-it-even-exists-2000647624)
+ - [Charlie Cox Still Isn’t Ready To Take Credit For His Award-Nominated Clair Obscur Performance Because Game Performances Are Complicated](https://kotaku.com/charlie-cox-clair-obscur-expedition-33-gustave-game-awards-2000647664)
+ - [The Ugly Stepsister, now on Hulu, is a fairy-tale version of The Substance](https://www.polygon.com/the-ugly-stepsister-on-hulu/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
