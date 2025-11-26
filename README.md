@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
- - 😝 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
- - 👉 [Your motivation for the week](http://9gag.com/gag/a5Q9nVL)<!-- MEMES:END -->
+ - 6️⃣ [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
+ - 😝 [Man of culture](http://9gag.com/gag/aGyreMz)
+ - 👉 [To be worse than...](http://9gag.com/gag/aPAV9LR)<!-- MEMES:END -->
 
 --- 
 
