@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 Digital Edition &lpar;Slim&rpar; Hits No-Margin Price as Sony Offloads the Last Units After Moving 20K+ Units Last Month](https://kotaku.com/this-100-off-black-friday-deal-on-the-playstation-5-digital-slim-edition-is-going-fast-at-amazon-2000647329)
- - [AMD&#39;s Ryzen 7 9800X3D is now down to £390 this Black Friday, making the champion of all gaming CPUs the cheapest it&#39;s ever been](https://www.pcgamer.com/hardware/processors/amds-ryzen-7-9800x3d-is-now-down-to-gbp390-this-black-friday-making-the-champion-of-all-gaming-cpus-the-cheapest-its-ever-been/)
- - [LEGO Takes Zero-Profit Gamble on Minecraft Set, 40K Units Cleared Already at Pocket Change](https://kotaku.com/lego-takes-zero-profit-gamble-on-minecraft-set-40k-units-cleared-already-at-pocket-change-2000647525)<!-- GAME:END -->
+ - [Amazon Activates No-Margin Mode on the eero 7 Dual-Band Mesh WiFi 7 Routers for Black Friday](https://kotaku.com/amazon-just-dropped-its-eero-7-dual-band-mesh-wi-fi-7-router-3-pack-by-20-thanks-to-black-friday-2000647269)
+ - [Wake Up Dead Man brings some horror into the Knives Out series](https://www.polygon.com/wake-up-dead-man-netflix-review/)
+ - [Fire Max 11 Tablet Now Costs Pocket Change, Amazon Goes Zero Profit on Its Own Tablet](https://kotaku.com/fire-max-11-tablet-now-costs-pocket-change-amazon-goes-zero-profit-on-its-own-tablet-2000647543)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
