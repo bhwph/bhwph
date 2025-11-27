@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anker Prioritizes Sell-Through Over Profit as the 14-Port Prime Docking Station Hits Its Lowest Price](https://kotaku.com/save-over-100-on-the-14-in-1-160w-anker-prime-docking-station-with-black-friday-today-2000647671)
- - [Dangerous security flaws could potentially affect millions of Asus PC and router owners - here&#39;s how to protect yourself](https://www.pcgamer.com/hardware/dangerous-security-flaws-could-potentially-affect-millions-of-asus-pc-and-router-owners-heres-how-to-protect-yourself/)
- - [Anker Handed Amazon Millions of MagSafe Power Banks to Clear, Now Going for Black Friday Record Low](https://kotaku.com/anker-handed-amazon-millions-of-magsafe-power-banks-to-clear-now-going-for-black-friday-record-low-2000648111)<!-- GAME:END -->
+ - [This FPS is basically Spongebob meets Duke Nukem, and it&#39;s only $10 on Steam](https://www.pcgamer.com/games/fps/this-fps-is-basically-spongebob-meets-duke-nukem-and-its-only-usd10-on-steam/)
+ - [Razer Ergonomic Gaming Chair Just Hit a Black Friday Record Low, Not Even Prime Day Went This Low](https://kotaku.com/bag-the-razer-iskur-v2-x-ergonomic-gaming-chair-while-its-going-for-just-250-on-amazon-2000647135)
+ - [It took a full 10 years but one of Ubisoft&#39;s most popular games finally has achievements on Steam](https://www.pcgamer.com/games/fps/it-took-a-full-10-years-but-one-of-ubisofts-most-popular-games-finally-has-achievements-on-steam/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
