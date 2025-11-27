@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pink! Pink! Pink!](http://9gag.com/gag/a34zRVv)
- - 😝 [How fg get away with this lol](http://9gag.com/gag/abALrnB)
+ - 6️⃣ [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
+ - 😝 [The word is Kakistocracy in case you are asking why](http://9gag.com/gag/aMV0x9G)
  - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
 
 --- 
