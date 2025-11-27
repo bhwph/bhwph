@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Everything is vodka in Poland](http://9gag.com/gag/aKGXjo1)
- - 😝 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
- - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
+ - 6️⃣ [People have been accusing JC Staff of using AI for their animation. They are factually wrong.](http://9gag.com/gag/azxv1bp)
+ - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
+ - 👉 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)<!-- MEMES:END -->
 
 --- 
 
