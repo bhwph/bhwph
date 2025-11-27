@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Typical 9Gagger reaction](http://9gag.com/gag/aW4ex42)
- - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
- - 👉 [Bros got a point](http://9gag.com/gag/adBW8jD)<!-- MEMES:END -->
+ - 6️⃣ [9th century female torso from india](http://9gag.com/gag/awy9o44)
+ - 😝 [Bros got a point](http://9gag.com/gag/adBW8jD)
+ - 👉 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)<!-- MEMES:END -->
 
 --- 
 
