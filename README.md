@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
- - 😝 [The word is Kakistocracy in case you are asking why](http://9gag.com/gag/aMV0x9G)
- - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
+ - 6️⃣ [Typical 9Gagger reaction](http://9gag.com/gag/aW4ex42)
+ - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
+ - 👉 [Bros got a point](http://9gag.com/gag/adBW8jD)<!-- MEMES:END -->
 
 --- 
 
