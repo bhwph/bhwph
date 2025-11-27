@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It was worth it if he gets to hit](http://9gag.com/gag/awy9AX1)
- - 😝 [Just Asking](http://9gag.com/gag/agmp5Wq)
+ - 6️⃣ [Pink! Pink! Pink!](http://9gag.com/gag/a34zRVv)
+ - 😝 [How fg get away with this lol](http://9gag.com/gag/abALrnB)
  - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
 
 --- 
