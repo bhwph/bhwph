@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fitbit Adopts Zero-Profit Play on Charge 6 Fitness Tracker This Black Friday, Selling at New All-Time Low](https://kotaku.com/fitbit-adopts-zero-profit-play-on-charge-6-fitness-tracker-this-black-friday-selling-at-new-all-time-low-2000647751)
- - [Samsung Quietly Supplies Amazon Millions of Galaxy Buds 3 Pro to Clear Stock, Now at New All-Time Low](https://kotaku.com/samsung-quietly-supplies-amazon-millions-of-galaxy-buds-3-pro-to-clear-stock-now-at-new-all-time-low-2000647746)
- - [Pokémon Go Tour 2026 heads to Kalos](https://www.polygon.com/pokemon-go-tour-2026-kalos-event/)<!-- GAME:END -->
+ - [How to find the missing kids in 99 Nights in the Forest](https://www.pcgamer.com/games/roblox/99-nights-in-the-forest-missing-kid-locations/)
+ - [Zootopia 2 creators address the post-credits scene and Zootopia 3](https://www.polygon.com/zootopia-2-post-credits-scene-explained-director-interview-sequel/)
+ - [Fitbit Adopts Zero-Profit Play on Charge 6 Fitness Tracker This Black Friday, Selling at New All-Time Low](https://kotaku.com/fitbit-adopts-zero-profit-play-on-charge-6-fitness-tracker-this-black-friday-selling-at-new-all-time-low-2000647751)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
