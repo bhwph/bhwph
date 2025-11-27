@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [20% Off LG Promo Code &amp; Coupons | November 2025](https://www.wired.com/story/lg-promo-code/)
- - [1Password Coupon: Score a Free Trial in November](https://www.wired.com/story/1password-coupon/)
- - [15% Off Dyson Promo Codes | November 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
+ - [Thanksgiving Flash Deal: Mac mini M4 24GB sinks to record low $649](https://appleinsider.com/articles/25/11/27/thanksgiving-flash-deal-mac-mini-m4-24gb-sinks-to-record-low-649?utm_source=rss)
+ - [An MIT study finds that AI can replace 11.7% of the US labor market, or ~$1.2T in wages, based on the &quot;Iceberg Index&quot;, which measures job automation potential &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251127/p7#a251127p7)
+ - [30% Off Canon Promo Codes | November 2025](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
