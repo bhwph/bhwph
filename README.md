@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
+ - 6️⃣ [Bros got a point](http://9gag.com/gag/adBW8jD)
  - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
- - 👉 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)<!-- MEMES:END -->
+ - 👉 [Typical 9Gagger reaction](http://9gag.com/gag/aW4ex42)<!-- MEMES:END -->
 
 --- 
 
