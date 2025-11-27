@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Let’s play roulette: Samsung Galaxy S25 Ultra showing different awesome deals for different people!](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-17-3619476/)
- - [Record-low price: This ultra-slim portable 10,000mAh charger is now just $21](https://www.androidauthority.com/iniu-portable-charger-portable-charger-deal-3620042/)
- - [The USPTO issues new guidelines clarifying that generative AI is considered a tool that assists human inventors and cannot itself be considered an inventor &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251127/p19#a251127p19)<!-- TECH:END -->
+ - [Google Maps is making sure you ‘know before you go’ on this holiday weekend’s travels](https://www.androidauthority.com/know-before-you-go-3620311/)
+ - [Snag the Ray-Ban Meta Wayfarer smart glasses at a 20% discount!](https://www.androidauthority.com/ray-ban-meta-gen-1-wayfarer-3620316/)
+ - [Sources detail how Anduril&#39;s fast-moving approach with its defense tech led to setbacks; Ukraine stopped using Anduril&#39;s Altius drones in 2024 due to problems &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251127/p20#a251127p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
