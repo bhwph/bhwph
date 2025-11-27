@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [People have been accusing JC Staff of using AI for their animation. They are factually wrong.](http://9gag.com/gag/azxv1bp)
- - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
- - 👉 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)<!-- MEMES:END -->
+ - 6️⃣ [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 😝 [Not having Malevola romance option was the only thing I didn&#39;t like about Dispatch](http://9gag.com/gag/aGyrZ57)
+ - 👉 [It was worth it if he gets to hit](http://9gag.com/gag/awy9AX1)<!-- MEMES:END -->
 
 --- 
 
