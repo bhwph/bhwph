@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find the missing kids in 99 Nights in the Forest](https://www.pcgamer.com/games/roblox/99-nights-in-the-forest-missing-kid-locations/)
- - [Zootopia 2 creators address the post-credits scene and Zootopia 3](https://www.polygon.com/zootopia-2-post-credits-scene-explained-director-interview-sequel/)
- - [Fitbit Adopts Zero-Profit Play on Charge 6 Fitness Tracker This Black Friday, Selling at New All-Time Low](https://kotaku.com/fitbit-adopts-zero-profit-play-on-charge-6-fitness-tracker-this-black-friday-selling-at-new-all-time-low-2000647751)<!-- GAME:END -->
+ - [The Sims&#39; biggest sex mod creator says that around 300,000 people use it—that&#39;s more than some of Steam&#39;s top games: &#39;It doesn&#39;t make sense to me&#39;](https://www.pcgamer.com/games/the-sims/the-sims-biggest-sex-mod-creator-says-that-around-300-000-people-use-it-thats-more-than-some-of-steams-top-games-it-doesnt-make-sense-to-me/)
+ - [Vampire: The Masquerade – Bloodlines 2 didn&#39;t sell as well as Paradox expected, and the publisher is taking the blame: &#39;The responsibility lies fully with us&#39;](https://www.pcgamer.com/games/rpg/vampire-the-masquerade-bloodlines-2-didnt-sell-as-well-as-paradox-expected-and-the-publisher-is-taking-the-blame-the-responsibility-lies-fully-with-us/)
+ - [Where to find laboratory reagents in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-laboratory-reagents-locations/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
