@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This FPS is basically Spongebob meets Duke Nukem, and it&#39;s only $10 on Steam](https://www.pcgamer.com/games/fps/this-fps-is-basically-spongebob-meets-duke-nukem-and-its-only-usd10-on-steam/)
- - [Razer Ergonomic Gaming Chair Just Hit a Black Friday Record Low, Not Even Prime Day Went This Low](https://kotaku.com/bag-the-razer-iskur-v2-x-ergonomic-gaming-chair-while-its-going-for-just-250-on-amazon-2000647135)
- - [It took a full 10 years but one of Ubisoft&#39;s most popular games finally has achievements on Steam](https://www.pcgamer.com/games/fps/it-took-a-full-10-years-but-one-of-ubisofts-most-popular-games-finally-has-achievements-on-steam/)<!-- GAME:END -->
+ - [The ZX Spectrum is one of the most iconic PCs of all time, and it could be making a fun LEGO-based comeback](https://www.pcgamer.com/hardware/the-zx-spectrum-is-one-of-the-most-iconic-pcs-of-all-time-and-it-could-be-making-a-fun-lego-based-comeback/)
+ - [What time does the Fortnite Zero Hour Chapter Finale live event start?](https://www.polygon.com/fortnite-zero-hour-chapter-finale-live-event-start-time/)
+ - [What My Video Game Family Is Bringing To Thanksgiving](https://kotaku.com/what-my-video-game-family-is-bringing-to-thanksgiving-1845758556)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
