@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Galaxy Watch 6 just got a major upgrade in the US with One UI 8 Watch](https://www.androidauthority.com/samsung-galaxy-watch-6-one-ui-8-watch-us-rollout-3619703/)
- - [YouTube TV is finally restoring these missing channels after a nearly two-month absence](https://www.androidauthority.com/youtube-tv-missing-channels-3620011/)
- - [14 Early Black Friday Deals at Best Buy &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-best-buy-deals/)<!-- TECH:END -->
+ - [The best Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
+ - [Intel denies allegations in a TSMC lawsuit that VP Wei-Jen Lo likely leaked trade secrets after retiring from TSMC and joining Intel &lpar;Reuters&rpar;](http://www.techmeme.com/251126/p30#a251126p30)
+ - [The best Black Friday deals we’ve found on TVs, laptops, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
