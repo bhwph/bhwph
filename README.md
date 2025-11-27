@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The standout Steam Black Friday deal is undoubtedly Doom: The Dark Ages for 50% off](https://www.pcgamer.com/games/fps/the-standout-steam-black-friday-deal-is-undoubtedly-doom-the-dark-ages-for-50-percent-off/)
- - [Account Behind Viral AI GTA 6 Bait Claims It Was ‘Just A Joke’](https://kotaku.com/account-behind-viral-ai-gta-6-bait-claims-it-was-just-a-joke-2000647720)
- - [The best Game Pass co-op games to play with family on Thanksgiving](https://www.polygon.com/game-pass-games-rec-thanksgiving-holiday-weekend-nov-26-2025/)<!-- GAME:END -->
+ - [Fitbit Adopts Zero-Profit Play on Charge 6 Fitness Tracker This Black Friday, Selling at New All-Time Low](https://kotaku.com/fitbit-adopts-zero-profit-play-on-charge-6-fitness-tracker-this-black-friday-selling-at-new-all-time-low-2000647751)
+ - [Samsung Quietly Supplies Amazon Millions of Galaxy Buds 3 Pro to Clear Stock, Now at New All-Time Low](https://kotaku.com/samsung-quietly-supplies-amazon-millions-of-galaxy-buds-3-pro-to-clear-stock-now-at-new-all-time-low-2000647746)
+ - [Pokémon Go Tour 2026 heads to Kalos](https://www.polygon.com/pokemon-go-tour-2026-kalos-event/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
