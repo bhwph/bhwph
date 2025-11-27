@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK proposes a &quot;no gain, no loss&quot; tax rule for crypto lending and liquidity pools in DeFi, deferring capital gains tax until a true economic disposal occurs &lpar;CoinDesk&rpar;](http://www.techmeme.com/251127/p17#a251127p17)
- - [Watch how Apple made its new puppet-packed holiday ad](https://www.theverge.com/news/831431/apple-a-critter-carol-holiday-ad-puppets-practical-effects)
- - [I tested over 30 USB-C wall chargers and these are the best ones you should buy in 2025](https://www.androidauthority.com/best-usb-c-wall-chargers-3496950/)<!-- TECH:END -->
+ - [Let’s play roulette: Samsung Galaxy S25 Ultra showing different awesome deals for different people!](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-17-3619476/)
+ - [Record-low price: This ultra-slim portable 10,000mAh charger is now just $21](https://www.androidauthority.com/iniu-portable-charger-portable-charger-deal-3620042/)
+ - [The USPTO issues new guidelines clarifying that generative AI is considered a tool that assists human inventors and cannot itself be considered an inventor &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251127/p19#a251127p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
