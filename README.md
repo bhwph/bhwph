@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I wish the Play Store copies this time-saving feature for large game updates](https://www.androidauthority.com/honor-play-store-large-game-updates-3620100/)
- - [Alibaba starts selling Quark S1, its first smart glasses powered by its Qwen AI models, for ~$537 in China, and plans to release international versions in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251127/p9#a251127p9)
- - [The Best Artificial Christmas Trees, as Blind-Judged By Interior Designers](https://www.wired.com/gallery/best-judged-fake-christmas-trees/)<!-- TECH:END -->
+ - [Android is adding a new Wi-Fi hotspot option that maximizes speed and compatibility](https://www.androidauthority.com/android-new-dual-band-wifi-hotspot-option-3620037/)
+ - [My AI shopping assistants are stuck in the past](https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past)
+ - [Intel says star hire from TSMC didn&amp;#8217;t steal secrets](https://www.theverge.com/news/831353/intel-tsmc-wei-jen-lo-trade-secrets)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
