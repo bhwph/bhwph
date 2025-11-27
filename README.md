@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)
- - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
- - 👉 [Don&#39;t be the first one to sleep.....](http://9gag.com/gag/axyezE2)<!-- MEMES:END -->
+ - 6️⃣ [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)
+ - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 👉 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)<!-- MEMES:END -->
 
 --- 
 
