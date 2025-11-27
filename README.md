@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How fg get away with this lol](http://9gag.com/gag/abALrnB)
- - 😝 [Not having Malevola romance option was the only thing I didn&#39;t like about Dispatch](http://9gag.com/gag/aGyrZ57)
- - 👉 [People have been accusing JC Staff of using AI for their animation. They are factually wrong.](http://9gag.com/gag/azxv1bp)<!-- MEMES:END -->
+ - 6️⃣ [Everything is vodka in Poland](http://9gag.com/gag/aKGXjo1)
+ - 😝 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
+ - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
 
 --- 
 
