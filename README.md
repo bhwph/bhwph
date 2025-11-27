@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thanksgiving Flash Deal: Mac mini M4 24GB sinks to record low $649](https://appleinsider.com/articles/25/11/27/thanksgiving-flash-deal-mac-mini-m4-24gb-sinks-to-record-low-649?utm_source=rss)
- - [An MIT study finds that AI can replace 11.7% of the US labor market, or ~$1.2T in wages, based on the &quot;Iceberg Index&quot;, which measures job automation potential &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251127/p7#a251127p7)
- - [30% Off Canon Promo Codes | November 2025](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
+ - [I wish the Play Store copies this time-saving feature for large game updates](https://www.androidauthority.com/honor-play-store-large-game-updates-3620100/)
+ - [Alibaba starts selling Quark S1, its first smart glasses powered by its Qwen AI models, for ~$537 in China, and plans to release international versions in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251127/p9#a251127p9)
+ - [The Best Artificial Christmas Trees, as Blind-Judged By Interior Designers](https://www.wired.com/gallery/best-judged-fake-christmas-trees/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
