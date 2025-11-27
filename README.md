@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps is making sure you ‘know before you go’ on this holiday weekend’s travels](https://www.androidauthority.com/know-before-you-go-3620311/)
- - [Snag the Ray-Ban Meta Wayfarer smart glasses at a 20% discount!](https://www.androidauthority.com/ray-ban-meta-gen-1-wayfarer-3620316/)
- - [Sources detail how Anduril&#39;s fast-moving approach with its defense tech led to setbacks; Ukraine stopped using Anduril&#39;s Altius drones in 2024 due to problems &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251127/p20#a251127p20)<!-- TECH:END -->
+ - [Germany-based Quantum Systems, which sells surveillance drones that are being used by Ukraine, raised €180M, tripling its valuation to €3B since May &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/251127/p21#a251127p21)
+ - [Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 28, #901](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-28-901/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
