@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fire TV Stick HD Gets a 49% Black Friday Cut as Amazon Stops Caring About the Price on This Streaming Device](https://kotaku.com/amazon-takes-almost-half-off-its-fire-tv-stick-hd-selling-it-for-pennies-2000647772)
- - [Asus Offloads 16″ Gaming Laptop &lpar;RTX 4050, 512GB, Core 5&rpar;, Now Cheaper Than Generic Budget Models](https://kotaku.com/asus-offloads-16-gaming-laptop-rtx-4050-512gb-core-5-now-cheaper-than-generic-budget-models-2000648091)
- - [The best flops worth celebrating on Turkey Day](https://www.polygon.com/turkey-day/)<!-- GAME:END -->
+ - [Anker Prioritizes Sell-Through Over Profit as the 14-Port Prime Docking Station Hits Its Lowest Price](https://kotaku.com/save-over-100-on-the-14-in-1-160w-anker-prime-docking-station-with-black-friday-today-2000647671)
+ - [Dangerous security flaws could potentially affect millions of Asus PC and router owners - here&#39;s how to protect yourself](https://www.pcgamer.com/hardware/dangerous-security-flaws-could-potentially-affect-millions-of-asus-pc-and-router-owners-heres-how-to-protect-yourself/)
+ - [Anker Handed Amazon Millions of MagSafe Power Banks to Clear, Now Going for Black Friday Record Low](https://kotaku.com/anker-handed-amazon-millions-of-magsafe-power-banks-to-clear-now-going-for-black-friday-record-low-2000648111)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
