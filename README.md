@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of &quot;Rey&quot;, the admin of cybercriminal group Scattered LAPSUS$ Hunters, a 15-year-old from Amman, Jordan who cooperated with European police since June &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/251127/p15#a251127p15)
- - [6 Best Smart Speakers &lpar;2025&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
- - [Black Friday Temu coupon knocks 30% off $39+](https://appleinsider.com/articles/25/11/27/black-friday-temu-coupon-knocks-30-off-39?utm_source=rss)<!-- TECH:END -->
+ - [The UK proposes a &quot;no gain, no loss&quot; tax rule for crypto lending and liquidity pools in DeFi, deferring capital gains tax until a true economic disposal occurs &lpar;CoinDesk&rpar;](http://www.techmeme.com/251127/p17#a251127p17)
+ - [Watch how Apple made its new puppet-packed holiday ad](https://www.theverge.com/news/831431/apple-a-critter-carol-holiday-ad-puppets-practical-effects)
+ - [I tested over 30 USB-C wall chargers and these are the best ones you should buy in 2025](https://www.androidauthority.com/best-usb-c-wall-chargers-3496950/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
