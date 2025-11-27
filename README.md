@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bros got a point](http://9gag.com/gag/adBW8jD)
- - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
- - 👉 [Typical 9Gagger reaction](http://9gag.com/gag/aW4ex42)<!-- MEMES:END -->
+ - 6️⃣ [It was worth it if he gets to hit](http://9gag.com/gag/awy9AX1)
+ - 😝 [Just Asking](http://9gag.com/gag/agmp5Wq)
+ - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
 
 --- 
 
