@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims&#39; biggest sex mod creator says that around 300,000 people use it—that&#39;s more than some of Steam&#39;s top games: &#39;It doesn&#39;t make sense to me&#39;](https://www.pcgamer.com/games/the-sims/the-sims-biggest-sex-mod-creator-says-that-around-300-000-people-use-it-thats-more-than-some-of-steams-top-games-it-doesnt-make-sense-to-me/)
- - [Vampire: The Masquerade – Bloodlines 2 didn&#39;t sell as well as Paradox expected, and the publisher is taking the blame: &#39;The responsibility lies fully with us&#39;](https://www.pcgamer.com/games/rpg/vampire-the-masquerade-bloodlines-2-didnt-sell-as-well-as-paradox-expected-and-the-publisher-is-taking-the-blame-the-responsibility-lies-fully-with-us/)
- - [Where to find laboratory reagents in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-laboratory-reagents-locations/)<!-- GAME:END -->
+ - [Fire TV Stick HD Gets a 49% Black Friday Cut as Amazon Stops Caring About the Price on This Streaming Device](https://kotaku.com/amazon-takes-almost-half-off-its-fire-tv-stick-hd-selling-it-for-pennies-2000647772)
+ - [Asus Offloads 16″ Gaming Laptop &lpar;RTX 4050, 512GB, Core 5&rpar;, Now Cheaper Than Generic Budget Models](https://kotaku.com/asus-offloads-16-gaming-laptop-rtx-4050-512gb-core-5-now-cheaper-than-generic-budget-models-2000648091)
+ - [The best flops worth celebrating on Turkey Day](https://www.polygon.com/turkey-day/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
