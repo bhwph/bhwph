@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android is adding a new Wi-Fi hotspot option that maximizes speed and compatibility](https://www.androidauthority.com/android-new-dual-band-wifi-hotspot-option-3620037/)
- - [My AI shopping assistants are stuck in the past](https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past)
- - [Intel says star hire from TSMC didn&amp;#8217;t steal secrets](https://www.theverge.com/news/831353/intel-tsmc-wei-jen-lo-trade-secrets)<!-- TECH:END -->
+ - [A profile of &quot;Rey&quot;, the admin of cybercriminal group Scattered LAPSUS$ Hunters, a 15-year-old from Amman, Jordan who cooperated with European police since June &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/251127/p15#a251127p15)
+ - [6 Best Smart Speakers &lpar;2025&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
+ - [Black Friday Temu coupon knocks 30% off $39+](https://appleinsider.com/articles/25/11/27/black-friday-temu-coupon-knocks-30-off-39?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
