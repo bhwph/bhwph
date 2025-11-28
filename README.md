@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Intel may start shipping a portion of Apple&#39;s lowest-end M chips as early as 2027; Apple is evaluating Intel&#39;s 18A process for the chip production &lpar;@mingchikuo&rpar;](http://www.techmeme.com/251128/p14#a251128p14)
- - [Best Black Friday AirTag deals: 4-pack drops to $62.99, single tag hits $17.97](https://appleinsider.com/articles/25/11/28/best-black-friday-airtag-deals-4-pack-drops-to-6299-single-tag-hits-1797?utm_source=rss)
- - [My favorite Nintendo Switch 2 accessories are heavily discounted for Black Friday](https://www.theverge.com/gadgets/829211/nintendo-switch-2-black-friday-accessories-deal-sale)<!-- TECH:END -->
+ - [Discover the lowest price on the Apple iPad 11-inch!](https://www.androidauthority.com/apple-ipad-11-inch-a16-deal-3620626/)
+ - [The Oura Ring 4 is still at its lowest price ever for Black Friday](https://www.theverge.com/gadgets/832303/oura-ring-4-smart-wearable-black-friday-deal-sale-2025)
+ - [Hallmark’s Mario and Toad Christmas ornaments are less than $10 for Black Friday](https://www.theverge.com/gadgets/832239/black-friday-mario-toad-nintendo-christmas-ornaments-deal-sale-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
