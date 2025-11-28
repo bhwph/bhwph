@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany-based Quantum Systems, which sells surveillance drones that are being used by Ukraine, raised €180M, tripling its valuation to €3B since May &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/251127/p21#a251127p21)
- - [Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 28, #901](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-28-901/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Motorola, which spun out its struggling smartphone business in 2011, successfully refocused on critical communication equipment, giving it a $60B market cap &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/251127/p23#a251127p23)
+ - [The Best Smart-Home Gifts for the Holidays 2025](https://www.cnet.com/home/smart-home/best-smart-home-gifts/#ftag=CAD590a51e)
+ - [Best Google Smart-Home Devices in 2025](https://www.cnet.com/home/smart-home/best-google-smart-home-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
