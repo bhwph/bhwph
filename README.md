@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s tri-fold may be cheaper than expected, but don’t celebrate yet](https://www.androidauthority.com/samsung-tri-fold-foldable-new-price-leak-3620378/)
- - [Gemini 3 Pro is so good, Google had to tighten free tier limits to keep up](https://www.androidauthority.com/gemini-3-pro-high-demand-free-tier-limit-3620382/)
- - [The 13 Best GoPro and Camera Deals for Black Friday &lpar;2025&rpar;](https://www.wired.com/story/black-friday-camera-deals-2025/)<!-- TECH:END -->
+ - [Herman Miller Has Tempting Black Friday Discounts on Its Office Chairs](https://www.wired.com/story/black-friday-herman-miller-sale-november-2025-1/)
+ - [The Ninja Slushi Black Friday Deal Is the Lowest We&#39;ve Seen](https://www.wired.com/story/ninja-slushi-black-friday-deal-2025-1/)
+ - [The Dell 14 Plus Just Hit a New Rock Bottom Price &lpar;2025&rpar;](https://www.wired.com/story/dell-14-plus-black-friday-2025-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
