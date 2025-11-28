@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discover the lowest price on the Apple iPad 11-inch!](https://www.androidauthority.com/apple-ipad-11-inch-a16-deal-3620626/)
- - [The Oura Ring 4 is still at its lowest price ever for Black Friday](https://www.theverge.com/gadgets/832303/oura-ring-4-smart-wearable-black-friday-deal-sale-2025)
- - [Hallmark’s Mario and Toad Christmas ornaments are less than $10 for Black Friday](https://www.theverge.com/gadgets/832239/black-friday-mario-toad-nintendo-christmas-ornaments-deal-sale-2025)<!-- TECH:END -->
+ - [YouTube inadvertently reminds viewers pause ads exist, immediately gets ratioed](https://www.androidauthority.com/youtube-pause-ads-2-3620658/)
+ - [I&amp;#8217;m a laptop reviewer, and these are the Black Friday deals I&amp;#8217;d shop—many are over $400 off](https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025)
+ - [135 Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
