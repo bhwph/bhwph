@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung 65″ OLED S90F TV Hits All-Time Low, 2025 Model Now Cheaper Than Last Year’s Version](https://kotaku.com/samsung-65-oled-s90f-tv-hits-all-time-low-2025-model-now-cheaper-than-last-years-version-2000648184)
- - [Step aside, Doom: Mad lad plays Minecraft using a receipt printer for reasons known only to him and God](https://www.pcgamer.com/games/survival-crafting/step-aside-doom-mad-lad-plays-minecraft-using-a-receipt-printer-for-reasons-known-only-to-him-and-god/)
- - [Fortnite&#39;s Kill Bill collaboration censors the Pussy Wagon, because I guess you can&#39;t say &#39;Pussy Wagon&#39; in Fortnite](https://www.pcgamer.com/games/battle-royale/fortnites-kill-bill-collaboration-censors-the-pussy-wagon-because-i-guess-you-cant-say-pussy-wagon-in-fortnite/)<!-- GAME:END -->
+ - [Ring-a-ding-ding! A Fallout: New Vegas beta full of cut content has been unearthed](https://www.pcgamer.com/games/rpg/ring-a-ding-ding-a-fallout-new-vegas-beta-full-of-cut-content-has-been-unearthed/)
+ - [Apple Runs Secret iPad Air Sale on Amazon, Best Apple Tablet Now Going for All-Time Low](https://kotaku.com/apple-quietly-ditches-ipad-air-pride-on-amazon-own-site-still-pretends-nothing-changed-2000648171)
+ - [Amazon Gave Up on Fire 10-Inch HD Tablet, Own Hardware Burned With Zero Margin](https://kotaku.com/amazon-gave-up-on-fire-10-inch-hd-tablet-own-hardware-burned-with-zero-margin-2000648193)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
