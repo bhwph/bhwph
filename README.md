@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iRobot’s Black Friday deals drop feature-packed robot vacs to as low as $149](https://www.androidauthority.com/irobot-roomba-black-friday-deals-3620331/)
- - [We handpicked 50 Black Friday deals you can get for under $50](https://www.theverge.com/gadgets/829553/black-friday-best-cheap-tech-deals-under-50-2025)
- - [The 17 Best GoPro and Camera Deals for Black Friday &lpar;2025&rpar;](https://www.wired.com/story/black-friday-camera-deals-2025/)<!-- TECH:END -->
+ - [Sources: Intel may start shipping a portion of Apple&#39;s lowest-end M chips as early as 2027; Apple is evaluating Intel&#39;s 18A process for the chip production &lpar;@mingchikuo&rpar;](http://www.techmeme.com/251128/p14#a251128p14)
+ - [Best Black Friday AirTag deals: 4-pack drops to $62.99, single tag hits $17.97](https://appleinsider.com/articles/25/11/28/best-black-friday-airtag-deals-4-pack-drops-to-6299-single-tag-hits-1797?utm_source=rss)
+ - [My favorite Nintendo Switch 2 accessories are heavily discounted for Black Friday](https://www.theverge.com/gadgets/829211/nintendo-switch-2-black-friday-accessories-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
