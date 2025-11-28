@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)
- - 😝 [Bros got a point](http://9gag.com/gag/adBW8jD)
- - 👉 [9th century female torso from india](http://9gag.com/gag/awy9o44)<!-- MEMES:END -->
+ - 6️⃣ [Think before you share](http://9gag.com/gag/aoyGMEA)
+ - 😝 [One of the best pieces of story telling I have seen in a stand up](http://9gag.com/gag/avyB59M)
+ - 👉 [I believe him](http://9gag.com/gag/aLnOp4g)<!-- MEMES:END -->
 
 --- 
 
