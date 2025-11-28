@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
- - 😝 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)
- - 👉 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)<!-- MEMES:END -->
+ - 6️⃣ [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
+ - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 👉 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)<!-- MEMES:END -->
 
 --- 
 
