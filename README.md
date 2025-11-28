@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube inadvertently reminds viewers pause ads exist, immediately gets ratioed](https://www.androidauthority.com/youtube-pause-ads-2-3620658/)
- - [I&amp;#8217;m a laptop reviewer, and these are the Black Friday deals I&amp;#8217;d shop—many are over $400 off](https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025)
- - [135 Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025-1/)<!-- TECH:END -->
+ - [DeepSeek says its new DeepSeekMath-V2 model got gold-medal level status on the International Mathematical Olympiad 2025 and Chinese Mathematical Olympiad 2024 &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/251128/p19#a251128p19)
+ - [You can get a four-pack of AirTags for just over $60, the lowest price ever](https://www.theverge.com/gadgets/832483/black-friday-apple-airtags-deal-sale-2025)
+ - [20 Best Black Friday Deals at Best Buy &lpar;2025&rpar; on Hot Tech](https://www.wired.com/story/early-black-friday-best-buy-deals-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
