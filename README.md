@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Best Black Friday Switch, PS5, Xbox, and PC deals &lpar;2025&rpar;](https://www.polygon.com/black-friday-gaming-deals-2025/)
  - [Last Epoch players turn on the action RPG for announcing a paid DLC class, tanking its Steam reviews: &#39;go play Path of Exile instead&#39;](https://www.pcgamer.com/games/rpg/last-epoch-players-turn-on-the-action-rpg-for-announcing-a-paid-dlc-class-tanking-its-steam-reviews-go-play-path-of-exile-instead/)
- - [Ring-a-ding-ding! A Fallout: New Vegas beta full of cut content has been unearthed](https://www.pcgamer.com/games/rpg/ring-a-ding-ding-a-fallout-new-vegas-beta-full-of-cut-content-has-been-unearthed/)
- - [Apple Runs Secret iPad Air Sale on Amazon, Best Apple Tablet Now Going for All-Time Low](https://kotaku.com/apple-quietly-ditches-ipad-air-pride-on-amazon-own-site-still-pretends-nothing-changed-2000648171)<!-- GAME:END -->
+ - [Ring-a-ding-ding! A Fallout: New Vegas beta full of cut content has been unearthed](https://www.pcgamer.com/games/rpg/ring-a-ding-ding-a-fallout-new-vegas-beta-full-of-cut-content-has-been-unearthed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
