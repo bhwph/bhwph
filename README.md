@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nothing Headphone &lpar;1&rpar; Clearly Can’t Make Profit at This Record Low, Now Over 2× Cheaper Than AirPods Max](https://kotaku.com/nothing-headphone-1-come-down-to-their-lowest-price-yet-for-black-friday-2000647680)
- - [The AI slop-hose comes to Let It Die as its surprise sequel reveals &#39;voices, music, and graphics&#39; shaped by the tech](https://www.pcgamer.com/games/roguelike/the-ai-slop-hose-comes-to-let-it-die-as-its-surprise-sequel-reveals-voices-music-and-graphics-shaped-by-the-tech/)
- - [Portable Gaming Monitor &lpar;FHD, 15″, IPS&rpar; Hits Rock Bottom, Amazon Offloads Stock at New Record Low](https://kotaku.com/portable-gaming-monitor-fhd-15-ips-hits-rock-bottom-amazon-offloads-stock-at-new-record-low-2000648418)<!-- GAME:END -->
+ - [Lenovo Idea Tab Hits an All-Time Low, Now the Cheapest Android Tablet With Pencil and Case Included](https://kotaku.com/get-a-headstart-on-your-2025-holiday-tech-shopping-with-the-ai-powered-lenovo-idea-tab-2000636961)
+ - [Best Dravec 45 loadout in Black Ops 7](https://www.polygon.com/black-ops-7-bo7-dravec-45-loadout-best-build-code/)
+ - [Magic: The Gathering Black Friday 2025 deals to shop](https://www.polygon.com/black-friday-2025-magic-the-gathering-deals/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
