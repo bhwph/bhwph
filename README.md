@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In a major plot twist, Intel could soon be making chips for Apple once again, only this time, it&#39;ll be the Arm-based M-series](https://www.pcgamer.com/hardware/in-a-major-plot-twist-intel-could-soon-be-making-chips-for-apple-once-again-only-this-time-itll-be-the-arm-based-m-series/)
- - [Good news: You can hold on to that Noctua cooler a little bit longer, as it&#39;ll still work with Intel Nova Lake](https://www.pcgamer.com/hardware/good-news-you-can-hold-on-to-that-noctua-cooler-a-little-bit-longer-as-itll-still-work-with-intel-nova-lake/)
- - [GOG says it&#39;s &#39;proud to give Horses a home&#39; after the horror game was rejected by Steam, but commenters won&#39;t let it forget the time it rejected another horror game](https://www.pcgamer.com/games/horror/gog-says-its-proud-to-give-horses-a-home-after-the-horror-game-was-rejected-by-steam-but-commenters-wont-let-it-forget-the-time-it-rejected-another-horror-game/)<!-- GAME:END -->
+ - [Silksong devs felt they didn&#39;t &#39;have a lot of control&#39; over its release date and sympathize with all the games that were delayed to avoid it: &#39;To some extent that probably is unfortunate&#39;](https://www.pcgamer.com/games/action/silksong-devs-felt-they-didnt-have-a-lot-of-control-over-its-release-date-and-sympathize-with-all-the-games-that-were-delayed-to-avoid-it-to-some-extent-that-probably-is-unfortunate/)
+ - [Revived survival RPG Hytale already has a release date after springing back to life, but the owner is reminding everyone the game &#39;isn&#39;t good yet&#39;](https://www.pcgamer.com/games/survival-crafting/revived-survival-rpg-hytale-already-has-a-release-date-after-springing-back-to-life-but-the-owner-is-reminding-everyone-the-game-isnt-good-yet/)
+ - [I freed myself from my organizational sins by simply sticking my desk clutter where I don&#39;t have to see it, and you can do the same with this $9 Black Friday deal on nano tape](https://www.pcgamer.com/hardware/i-freed-myself-from-my-organizational-sins-by-simply-sticking-my-desk-clutter-where-i-dont-have-to-see-it-and-you-can-do-the-same-with-this-usd9-black-friday-deal-on-nano-tape/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
