@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)
- - 😝 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
- - 👉 [Bros got a point](http://9gag.com/gag/adBW8jD)<!-- MEMES:END -->
+ - 6️⃣ [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 😝 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
+ - 👉 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)<!-- MEMES:END -->
 
 --- 
 
