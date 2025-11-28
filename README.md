@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nexperia warns customers face impending production halts and urges its Chinese unit to reengage, says it hadn&#39;t got &quot;any meaningful response&quot; despite outreach &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/251128/p4#a251128p4)
- - [Australia passes a law requiring global streamers with 1M+ Australian subscribers to spend 10% of their local outlay or 7.5% of revenue on Australian originals &lpar;Jesse Whittock/Deadline&rpar;](http://www.techmeme.com/251128/p3#a251128p3)
- - [OpenAI&#39;s data center partners are set to rack up nearly $100B in debt; sources say banks may lend another $38B to Oracle and Vantage to build more OpenAI sites &lpar;Financial Times&rpar;](http://www.techmeme.com/251128/p2#a251128p2)<!-- TECH:END -->
+ - [Samsung’s tri-fold may be cheaper than expected, but don’t celebrate yet](https://www.androidauthority.com/samsung-tri-fold-foldable-new-price-leak-3620378/)
+ - [Gemini 3 Pro is so good, Google had to tighten free tier limits to keep up](https://www.androidauthority.com/gemini-3-pro-high-demand-free-tier-limit-3620382/)
+ - [The 13 Best GoPro and Camera Deals for Black Friday &lpar;2025&rpar;](https://www.wired.com/story/black-friday-camera-deals-2025/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
