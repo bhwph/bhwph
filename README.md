@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
- - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 👉 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)<!-- MEMES:END -->
+ - 6️⃣ [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
+ - 😝 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
+ - 👉 [Escape](http://9gag.com/gag/aoyGMx3)<!-- MEMES:END -->
 
 --- 
 
