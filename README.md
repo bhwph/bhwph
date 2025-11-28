@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
- - 😝 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
- - 👉 [Escape](http://9gag.com/gag/aoyGMx3)<!-- MEMES:END -->
+ - 6️⃣ [My car got an Owie](https://www.reddit.com/r/funny/comments/1p97too/my_car_got_an_owie/)
+ - 😝 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
+ - 👉 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)<!-- MEMES:END -->
 
 --- 
 
