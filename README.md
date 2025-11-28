@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Herman Miller Has Tempting Black Friday Discounts on Its Office Chairs](https://www.wired.com/story/black-friday-herman-miller-sale-november-2025-1/)
- - [The Ninja Slushi Black Friday Deal Is the Lowest We&#39;ve Seen](https://www.wired.com/story/ninja-slushi-black-friday-deal-2025-1/)
- - [The Dell 14 Plus Just Hit a New Rock Bottom Price &lpar;2025&rpar;](https://www.wired.com/story/dell-14-plus-black-friday-2025-1/)<!-- TECH:END -->
+ - [Epic CEO Tim Sweeney says Steam should drop its ‘Made with AI’ tags](https://www.theverge.com/news/831747/tim-sweeney-epic-ceo-steam-game-stores-made-with-ai)
+ - [This is the only Qi2 3-in-1 charger I’d buy for my Pixel 10 on Black Friday](https://www.androidauthority.com/only-qi2-3-in-1-charger-id-buy-for-pixel-10-black-friday-3620470/)
+ - [17 Best Black Friday Deals at Best Buy &lpar;2025&rpar; on Hot Tech](https://www.wired.com/story/early-black-friday-best-buy-deals-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
