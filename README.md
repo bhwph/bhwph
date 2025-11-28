@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Think before you share](http://9gag.com/gag/aoyGMEA)
- - 😝 [One of the best pieces of story telling I have seen in a stand up](http://9gag.com/gag/avyB59M)
- - 👉 [I believe him](http://9gag.com/gag/aLnOp4g)<!-- MEMES:END -->
+ - 6️⃣ [9th century female torso from india](http://9gag.com/gag/awy9o44)
+ - 😝 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
+ - 👉 [Bros got a point](http://9gag.com/gag/adBW8jD)<!-- MEMES:END -->
 
 --- 
 
