@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lenovo Idea Tab Hits an All-Time Low, Now the Cheapest Android Tablet With Pencil and Case Included](https://kotaku.com/get-a-headstart-on-your-2025-holiday-tech-shopping-with-the-ai-powered-lenovo-idea-tab-2000636961)
- - [Best Dravec 45 loadout in Black Ops 7](https://www.polygon.com/black-ops-7-bo7-dravec-45-loadout-best-build-code/)
- - [Magic: The Gathering Black Friday 2025 deals to shop](https://www.polygon.com/black-friday-2025-magic-the-gathering-deals/)<!-- GAME:END -->
+ - [In a major plot twist, Intel could soon be making chips for Apple once again, only this time, it&#39;ll be the Arm-based M-series](https://www.pcgamer.com/hardware/in-a-major-plot-twist-intel-could-soon-be-making-chips-for-apple-once-again-only-this-time-itll-be-the-arm-based-m-series/)
+ - [Good news: You can hold on to that Noctua cooler a little bit longer, as it&#39;ll still work with Intel Nova Lake](https://www.pcgamer.com/hardware/good-news-you-can-hold-on-to-that-noctua-cooler-a-little-bit-longer-as-itll-still-work-with-intel-nova-lake/)
+ - [GOG says it&#39;s &#39;proud to give Horses a home&#39; after the horror game was rejected by Steam, but commenters won&#39;t let it forget the time it rejected another horror game](https://www.pcgamer.com/games/horror/gog-says-its-proud-to-give-horses-a-home-after-the-horror-game-was-rejected-by-steam-but-commenters-wont-let-it-forget-the-time-it-rejected-another-horror-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
