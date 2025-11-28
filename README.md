@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [9th century female torso from india](http://9gag.com/gag/awy9o44)
+ - 6️⃣ [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)
  - 😝 [Bros got a point](http://9gag.com/gag/adBW8jD)
- - 👉 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)<!-- MEMES:END -->
+ - 👉 [9th century female torso from india](http://9gag.com/gag/awy9o44)<!-- MEMES:END -->
 
 --- 
 
