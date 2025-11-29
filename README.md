@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I wish this $169 deal was around for the viral TikTok skincare wand when I got one](https://www.theverge.com/gadgets/833268/medicube-booster-pro-serum-black-friday-deal-sale)
- - [The Best Apple Black Friday Deals &lpar;2025&rpar;](https://www.wired.com/story/apple-black-friday-deals-2025-1/)
- - [14 Best Black Friday Phone Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-phone-deals-2025/)<!-- TECH:END -->
+ - [Airbus issues an order to revert 6,000 A320-series planes to old software, after an incident revealed that intense solar radiation corrupted flight control data &lpar;Nadeem Badshah/The Guardian&rpar;](http://www.techmeme.com/251129/p8#a251129p8)
+ - [The Super Mario Galaxy bundle for the Switch is still 20 percent off](https://www.theverge.com/gadgets/832513/black-friday-super-mario-galaxy-bundle-switch-deal-sale-2025)
+ - [These are my picks for the best Black Friday deals on Garmin watches](https://www.theverge.com/gadgets/833297/best-garmin-watch-black-friday-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
