@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Day After Black Friday Ends, Microsoft Suddenly Offloads Xbox Controllers at Record Low](https://kotaku.com/day-after-black-friday-ends-microsoft-suddenly-offloads-xbox-controllers-at-record-low-2000648669)
- - [Castlevania’s Dracula is &lpar;almost&rpar; the best Dracula adaptation](https://www.polygon.com/castlevania-dracula-adaptations-ranked/)
- - [This spiritual successor to Desert Strike has exploded into Steam early access with a 98% positive rating, and its developer plans to represent the whole Strike series in future updates](https://www.pcgamer.com/games/action/this-spiritual-successor-to-desert-strike-has-exploded-into-steam-early-access-with-a-98-percent-positive-rating-and-its-developer-plans-to-represent-the-whole-strike-series-in-future-updates/)<!-- GAME:END -->
+ - [Sony Is Still Holding the PlayStation 5 Console at Its Lowest Price, but Stock Is Too Thin to Promise a Cyber Monday Run](https://kotaku.com/the-playstation-5-has-come-down-by-100-for-black-friday-2000648496)
+ - [10 years later, The Order: 1886 still deserves a sequel](https://www.polygon.com/the-order-1886-wishing-for-a-sequel-decade-later/)
+ - [The Long Dark&#39;s final episode has been pushed back yet again, but at least it has an actual release date now](https://www.pcgamer.com/games/survival-crafting/the-long-darks-final-episode-has-been-pushed-back-yet-again-but-at-least-it-has-an-actual-release-date-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
