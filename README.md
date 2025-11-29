@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
- - 😝 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)
- - 👉 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)<!-- MEMES:END -->
+ - 6️⃣ [Technologia](http://9gag.com/gag/ae9qAPp)
+ - 😝 [A game made with passion and love 10 years ago in 2015. No in-game purchases, free main game quality, 2 free DLCs and a free next-gen upgrade.](http://9gag.com/gag/avyBAqM)
+ - 👉 [Romani Schmomani](http://9gag.com/gag/a34zEO3)<!-- MEMES:END -->
 
 --- 
 
