@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Seagate Goes Zero-Profit on 2TB External Hard Drive, 500,000 Photo Storage at New Record Low](https://kotaku.com/seagate-goes-zero-profit-on-2tb-external-hard-drive-500000-photo-storage-at-new-record-low-2000648741)
- - [LEGO Goes Zero-Margin Beyond Its Star Wars Line, Jurassic World Dinosaur Falls to Year-End Clearance Pricing After Black Friday](https://kotaku.com/black-friday-drops-legos-jurassic-world-dinosaur-fossils-t-rex-skull-by-38-2000648149)
- - [Cabernet is a high society RPG with serious bite, and 2025&#39;s best vampire game](https://www.polygon.com/cabernet-impressions-vampire-game/)<!-- GAME:END -->
+ - [Sonos Beam With Dolby Atmos Hits Record Low on Amazon, Black Soundbar for Cyber Monday at Zero Margin](https://kotaku.com/sonos-beam-with-dolby-atmos-hits-record-low-on-amazon-black-soundbar-for-cyber-monday-at-zero-margin-2000648759)
+ - [Can you figure out which Arc Raiders items are the most valuable? Know your worth in our latest quiz!](https://www.pcgamer.com/games/third-person-shooter/can-you-figure-out-which-arc-raiders-items-are-the-most-valuable-know-your-worth-in-our-latest-quiz/)
+ - [Digital Picture Frame Hits 55% Off on Amazon, 60K Photo Storage Cheaper Than Basic Wall Frames Now](https://kotaku.com/digital-picture-frame-hits-55-off-on-amazon-60k-photo-storage-cheaper-than-basic-wall-frames-now-2000648754)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
