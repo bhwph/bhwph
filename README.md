@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek says its new DeepSeekMath-V2 model got gold-medal level status on the International Mathematical Olympiad 2025 and Chinese Mathematical Olympiad 2024 &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/251128/p19#a251128p19)
- - [You can get a four-pack of AirTags for just over $60, the lowest price ever](https://www.theverge.com/gadgets/832483/black-friday-apple-airtags-deal-sale-2025)
- - [20 Best Black Friday Deals at Best Buy &lpar;2025&rpar; on Hot Tech](https://www.wired.com/story/early-black-friday-best-buy-deals-1/)<!-- TECH:END -->
+ - [Our favorite gear from Apple, Bose, Sony and more is at all-time low prices for Black Friday — up to 58% off](https://www.theverge.com/gadgets/832710/black-friday-all-time-low-prices-headphones-gaming-tv-deal-sale-2025)
+ - [9 Best Black Friday Laptop Deals &lpar;2025&rpar;: MacBooks, Gaming Laptops, and More](https://www.wired.com/story/best-black-friday-laptop-deals-2025/)
+ - [The Super Mario Galaxy bundle for the Switch is 20 percent off today only](https://www.theverge.com/gadgets/832513/black-friday-super-mario-galaxy-bundle-switch-deal-sale-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
