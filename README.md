@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Better than Samsung and Google’s best? This might be my phone of the year](https://www.androidauthority.com/oppo-find-x9-pro-hands-on-3615032/)
- - [Tractive Smart Cat and Dog Trackers Are 40 Percent Off Right Now &lpar;2025&rpar;](https://www.wired.com/story/tractive-smart-pet-collar-black-friday-2025/)
- - [6 ways I use Google Maps even when not navigating](https://www.androidauthority.com/ways-use-google-maps-besides-navigation-3616772/)<!-- TECH:END -->
+ - [Unit 42 details how underground hacking forums advertise and sell custom, jailbroken, and open-source AI hacking tools such as WormGPT and KawaiiGPT &lpar;Derek B. Johnson/CyberScoop&rpar;](http://www.techmeme.com/251129/p4#a251129p4)
+ - [Best Digital Notebook Black Friday Sales &lpar;2025&rpar;: ReMarkable, Kobo, Kindle](https://www.wired.com/story/digital-notebook-black-friday-sales/)
+ - [I reviewed the Samsung Galaxy Tab S11 Ultra, and there’s one big reason to buy it](https://www.androidauthority.com/samsung-galaxy-tab-s11-ultra-review-3616532/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
