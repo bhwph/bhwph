@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These 50 handpicked Black Friday deals are still available for $50 or less](https://www.theverge.com/gadgets/829553/black-friday-best-cheap-tech-deals-under-50-2025)
- - [The 187 best Black Friday deals you can still shop — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
- - [AirPods are still available for $69, grab holiday discounts of up to $150 off](https://appleinsider.com/articles/25/11/29/airpods-are-still-available-for-69-grab-holiday-discounts-of-up-to-150-off?utm_source=rss)<!-- TECH:END -->
+ - [The 192 best Black Friday deals you can still shop — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
+ - [Range, which uses AI to offer flat-fee financial planning services to mass affluent households, raised a $60M Series C led by Scale Venture Partners &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/251129/p1#a251129p1)
+ - [The Verge’s guide to Black Friday 2025](https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
