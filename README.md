@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Hyperice Black Friday Deals &lpar;2025&rpar;](https://www.wired.com/story/hyperice-black-friday-deals-2025/)
- - [35 Best Black Friday Deals Under $100 &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-deals-under-100-2025/)
- - [The Android phone you should buy your dad is just $349](https://www.theverge.com/gadgets/833639/google-pixel-9a-black-friday-cyber-monday-2025-deal-sale)<!-- TECH:END -->
+ - [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
+ - [New West KnifeWorks Knives Are 20 Percent off Right Now &lpar;2025&rpar;](https://www.wired.com/story/new-west-knifeworks-black-friday-2025/)
+ - [21 Best GoPro and Camera Deals for Black Friday &lpar;2025&rpar;](https://www.wired.com/story/black-friday-camera-deals-2025-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
