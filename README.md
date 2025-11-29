@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Technologia](http://9gag.com/gag/ae9qAPp)
- - 😝 [A game made with passion and love 10 years ago in 2015. No in-game purchases, free main game quality, 2 free DLCs and a free next-gen upgrade.](http://9gag.com/gag/avyBAqM)
- - 👉 [Romani Schmomani](http://9gag.com/gag/a34zEO3)<!-- MEMES:END -->
+ - 6️⃣ [Reminder of a perfect casting](http://9gag.com/gag/a1m81vD)
+ - 😝 [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
+ - 👉 [When your drug dealer wants to recruit you, but you need to stay cool so he doesn&#39;t change his mind](http://9gag.com/gag/aqyVGR7)<!-- MEMES:END -->
 
 --- 
 
