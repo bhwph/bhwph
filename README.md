@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Fortnite Chapter 7 Season 1 start?](https://www.polygon.com/fortnite-chapter-7-season-1-release-time-start-maintenance-est-pst/)
- - [Tsukihime&#39;s remake is a terrific visual novel about vampires](https://www.polygon.com/tsukihime-remake-visual-novel-vampire-ps4-switch/)
- - [GTA San Andreas modders tease fully-fledged standalone indie game inspired by Stardew Valley, Graveyard Keeper, Mafia and Schedule I](https://www.pcgamer.com/games/gta-san-andreas-modders-tease-fully-fledged-standalone-indie-game-inspired-by-stardew-valley-graveyard-keeper-mafia-and-schedule-i/)<!-- GAME:END -->
+ - [Fallout co-creator Tim Cain says canon is &#39;whatever the owner of the IP says it is&#39; but that&#39;s okay because &#39;the best part of interpretation is you can&#39;t be wrong&#39;](https://www.pcgamer.com/games/rpg/fallout-co-creator-tim-cain-says-canon-is-whatever-the-owner-of-the-ip-says-it-is-but-thats-okay-because-the-best-part-of-interpretation-is-you-cant-be-wrong/)
+ - [We used to be a society in which PC gamers had little speakers on their desks instead of RGB headsets—here are 2 speaker deals that I like](https://www.pcgamer.com/hardware/we-used-to-be-a-society-in-which-pc-gamers-had-little-speakers-on-their-desks-instead-of-rgb-headsets-here-are-2-speaker-deals-that-i-like/)
+ - [What time does Fortnite Chapter 7 Season 1 start?](https://www.polygon.com/fortnite-chapter-7-season-1-release-time-start-maintenance-est-pst/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
