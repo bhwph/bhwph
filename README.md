@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at ChatGPT&#39;s impact on US stocks three years after its release: AI mania revived Big Tech, making an already concentrated S&amp;P 500 even more top heavy &lpar;Bloomberg&rpar;](http://www.techmeme.com/251129/p3#a251129p3)
- - [The 194 best Black Friday deals you can still shop — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
- - [The best Black Friday deals you can still get on AirTags, iPad, and other Apple gear](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)<!-- TECH:END -->
+ - [Better than Samsung and Google’s best? This might be my phone of the year](https://www.androidauthority.com/oppo-find-x9-pro-hands-on-3615032/)
+ - [Tractive Smart Cat and Dog Trackers Are 40 Percent Off Right Now &lpar;2025&rpar;](https://www.wired.com/story/tractive-smart-pet-collar-black-friday-2025/)
+ - [6 ways I use Google Maps even when not navigating](https://www.androidauthority.com/ways-use-google-maps-besides-navigation-3616772/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
