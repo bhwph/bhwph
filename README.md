@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Reminder of a perfect casting](http://9gag.com/gag/a1m81vD)
+ - 6️⃣ [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
  - 😝 [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
- - 👉 [When your drug dealer wants to recruit you, but you need to stay cool so he doesn&#39;t change his mind](http://9gag.com/gag/aqyVGR7)<!-- MEMES:END -->
+ - 👉 [Many men still don&#39;t know this](http://9gag.com/gag/aQzDX7d)<!-- MEMES:END -->
 
 --- 
 
