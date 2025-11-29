@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don&#39;t Get Suckered by Black Friday Laptop Deals. Just Get the MacBook Air &lpar;2025&rpar;](https://www.wired.com/story/best-macbook-black-friday-deal-2025-1/)
- - [Basepaws Pet Test Kits Are Half Off Right Now &lpar;2025&rpar;](https://www.wired.com/story/basepaws-dna-test-black-friday-2025/)
- - [The 5 best ways to watch YouTube without ads and interruptions](https://www.androidauthority.com/watch-youtube-without-ads-3618540/)<!-- TECH:END -->
+ - [I wish this $169 deal was around for the viral TikTok skincare wand when I got one](https://www.theverge.com/gadgets/833268/medicube-booster-pro-serum-black-friday-deal-sale)
+ - [The Best Apple Black Friday Deals &lpar;2025&rpar;](https://www.wired.com/story/apple-black-friday-deals-2025-1/)
+ - [14 Best Black Friday Phone Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-phone-deals-2025/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
