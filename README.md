@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
- - 😝 [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
- - 👉 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)<!-- MEMES:END -->
+ - 6️⃣ [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)
+ - 😝 [Technologia](http://9gag.com/gag/ae9qAPp)
+ - 👉 [Romani Schmomani](http://9gag.com/gag/a34zEO3)<!-- MEMES:END -->
 
 --- 
 
