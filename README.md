@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Silksong devs felt they didn&#39;t &#39;have a lot of control&#39; over its release date and sympathize with all the games that were delayed to avoid it: &#39;To some extent that probably is unfortunate&#39;](https://www.pcgamer.com/games/action/silksong-devs-felt-they-didnt-have-a-lot-of-control-over-its-release-date-and-sympathize-with-all-the-games-that-were-delayed-to-avoid-it-to-some-extent-that-probably-is-unfortunate/)
- - [Revived survival RPG Hytale already has a release date after springing back to life, but the owner is reminding everyone the game &#39;isn&#39;t good yet&#39;](https://www.pcgamer.com/games/survival-crafting/revived-survival-rpg-hytale-already-has-a-release-date-after-springing-back-to-life-but-the-owner-is-reminding-everyone-the-game-isnt-good-yet/)
- - [I freed myself from my organizational sins by simply sticking my desk clutter where I don&#39;t have to see it, and you can do the same with this $9 Black Friday deal on nano tape](https://www.pcgamer.com/hardware/i-freed-myself-from-my-organizational-sins-by-simply-sticking-my-desk-clutter-where-i-dont-have-to-see-it-and-you-can-do-the-same-with-this-usd9-black-friday-deal-on-nano-tape/)<!-- GAME:END -->
+ - [LEGO Had No Plan to Slash Pac-Man Arcade Set, Then Went Nuclear at Black Friday’s Final Hour to Clear Stock](https://kotaku.com/lego-had-no-plan-to-slash-pac-man-arcade-set-then-went-nuclear-at-black-fridays-final-hour-to-clear-stock-2000648482)
+ - [Amazon Doesn’t Care About Margins on Echo Show, Now Selling 15″ Smart Home Hub at Pure Cost](https://kotaku.com/amazon-doesnt-care-about-margins-on-echo-show-now-selling-15-smart-home-hub-at-pure-cost-2000648491)
+ - [Tempest Rising&#39;s next update will add massive superweapons that&#39;ll let you &#39;unload devastating payloads onto the enemy&#39;](https://www.pcgamer.com/games/strategy/tempest-risings-next-update-will-add-massive-superweapons-thatll-let-you-unload-devastating-payloads-onto-the-enemy/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
