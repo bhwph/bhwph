@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Is Still Holding the PlayStation 5 Console at Its Lowest Price, but Stock Is Too Thin to Promise a Cyber Monday Run](https://kotaku.com/the-playstation-5-has-come-down-by-100-for-black-friday-2000648496)
- - [10 years later, The Order: 1886 still deserves a sequel](https://www.polygon.com/the-order-1886-wishing-for-a-sequel-decade-later/)
- - [The Long Dark&#39;s final episode has been pushed back yet again, but at least it has an actual release date now](https://www.pcgamer.com/games/survival-crafting/the-long-darks-final-episode-has-been-pushed-back-yet-again-but-at-least-it-has-an-actual-release-date-now/)<!-- GAME:END -->
+ - [Seagate Goes Zero-Profit on 2TB External Hard Drive, 500,000 Photo Storage at New Record Low](https://kotaku.com/seagate-goes-zero-profit-on-2tb-external-hard-drive-500000-photo-storage-at-new-record-low-2000648741)
+ - [LEGO Goes Zero-Margin Beyond Its Star Wars Line, Jurassic World Dinosaur Falls to Year-End Clearance Pricing After Black Friday](https://kotaku.com/black-friday-drops-legos-jurassic-world-dinosaur-fossils-t-rex-skull-by-38-2000648149)
+ - [Cabernet is a high society RPG with serious bite, and 2025&#39;s best vampire game](https://www.polygon.com/cabernet-impressions-vampire-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
