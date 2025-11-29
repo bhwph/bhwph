@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unit 42 details how underground hacking forums advertise and sell custom, jailbroken, and open-source AI hacking tools such as WormGPT and KawaiiGPT &lpar;Derek B. Johnson/CyberScoop&rpar;](http://www.techmeme.com/251129/p4#a251129p4)
- - [Best Digital Notebook Black Friday Sales &lpar;2025&rpar;: ReMarkable, Kobo, Kindle](https://www.wired.com/story/digital-notebook-black-friday-sales/)
- - [I reviewed the Samsung Galaxy Tab S11 Ultra, and there’s one big reason to buy it](https://www.androidauthority.com/samsung-galaxy-tab-s11-ultra-review-3616532/)<!-- TECH:END -->
+ - [Don&#39;t Get Suckered by Black Friday Laptop Deals. Just Get the MacBook Air &lpar;2025&rpar;](https://www.wired.com/story/best-macbook-black-friday-deal-2025-1/)
+ - [Basepaws Pet Test Kits Are Half Off Right Now &lpar;2025&rpar;](https://www.wired.com/story/basepaws-dna-test-black-friday-2025/)
+ - [The 5 best ways to watch YouTube without ads and interruptions](https://www.androidauthority.com/watch-youtube-without-ads-3618540/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
