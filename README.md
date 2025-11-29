@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to upgrade the Taming Flute in 99 Nights in the Forest](https://www.pcgamer.com/games/roblox/99-nights-in-the-forest-how-to-upgrade-taming-flute/)
- - [Every animal you can tame in 99 Nights in the Forest](https://www.pcgamer.com/games/roblox/99-nights-in-the-forest-animal-taming/)
- - [LEGO Had No Plan to Slash Pac-Man Arcade Set, Then Went Nuclear at Black Friday’s Final Hour to Clear Stock](https://kotaku.com/lego-had-no-plan-to-slash-pac-man-arcade-set-then-went-nuclear-at-black-fridays-final-hour-to-clear-stock-2000648482)<!-- GAME:END -->
+ - [Cyber Monday gaming monitor deals 2025: Cheap screens, OLED, ultrawide, or 4K, it&#39;s all here](https://www.pcgamer.com/cyber-monday-gaming-monitor-deals/)
+ - [Cyber Monday gaming PC deals 2025: discounts across Nvidia GeForce and AMD Radeon rigs](https://www.pcgamer.com/cyber-monday-gaming-pc-deals/)
+ - [Cyber Monday gaming laptop deals 2025: The best discounts on gaming laptops, no matter your budget](https://www.pcgamer.com/cyber-monday-gaming-laptop-deals/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
