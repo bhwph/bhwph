@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonos Beam With Dolby Atmos Hits Record Low on Amazon, Black Soundbar for Cyber Monday at Zero Margin](https://kotaku.com/sonos-beam-with-dolby-atmos-hits-record-low-on-amazon-black-soundbar-for-cyber-monday-at-zero-margin-2000648759)
- - [Can you figure out which Arc Raiders items are the most valuable? Know your worth in our latest quiz!](https://www.pcgamer.com/games/third-person-shooter/can-you-figure-out-which-arc-raiders-items-are-the-most-valuable-know-your-worth-in-our-latest-quiz/)
- - [Digital Picture Frame Hits 55% Off on Amazon, 60K Photo Storage Cheaper Than Basic Wall Frames Now](https://kotaku.com/digital-picture-frame-hits-55-off-on-amazon-60k-photo-storage-cheaper-than-basic-wall-frames-now-2000648754)<!-- GAME:END -->
+ - [What time does Fortnite Chapter 7 Season 1 start?](https://www.polygon.com/fortnite-chapter-7-season-1-release-time-start-maintenance-est-pst/)
+ - [Tsukihime&#39;s remake is a terrific visual novel about vampires](https://www.polygon.com/tsukihime-remake-visual-novel-vampire-ps4-switch/)
+ - [GTA San Andreas modders tease fully-fledged standalone indie game inspired by Stardew Valley, Graveyard Keeper, Mafia and Schedule I](https://www.pcgamer.com/games/gta-san-andreas-modders-tease-fully-fledged-standalone-indie-game-inspired-by-stardew-valley-graveyard-keeper-mafia-and-schedule-i/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
