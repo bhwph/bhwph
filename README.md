@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 192 best Black Friday deals you can still shop — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
- - [Range, which uses AI to offer flat-fee financial planning services to mass affluent households, raised a $60M Series C led by Scale Venture Partners &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/251129/p1#a251129p1)
- - [The Verge’s guide to Black Friday 2025](https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025)<!-- TECH:END -->
+ - [A look at ChatGPT&#39;s impact on US stocks three years after its release: AI mania revived Big Tech, making an already concentrated S&amp;P 500 even more top heavy &lpar;Bloomberg&rpar;](http://www.techmeme.com/251129/p3#a251129p3)
+ - [The 194 best Black Friday deals you can still shop — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
+ - [The best Black Friday deals you can still get on AirTags, iPad, and other Apple gear](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
