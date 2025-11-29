@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Reminder of a perfect casting](http://9gag.com/gag/a1m81vD)
- - 😝 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
- - 👉 [So it&#39;s the Elcipse for Europe](http://9gag.com/gag/a6ZeEZA)<!-- MEMES:END -->
+ - 6️⃣ [A game made with passion and love 10 years ago in 2015. No in-game purchases, free main game quality, 2 free DLCs and a free next-gen upgrade.](http://9gag.com/gag/avyBAqM)
+ - 😝 [Man knows his shit.](http://9gag.com/gag/aAyL0xd)
+ - 👉 [Cycle of life](http://9gag.com/gag/apRngxM)<!-- MEMES:END -->
 
 --- 
 
