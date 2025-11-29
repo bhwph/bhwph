@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
- - 😝 [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
- - 👉 [Many men still don&#39;t know this](http://9gag.com/gag/aQzDX7d)<!-- MEMES:END -->
+ - 6️⃣ [Reminder of a perfect casting](http://9gag.com/gag/a1m81vD)
+ - 😝 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
+ - 👉 [So it&#39;s the Elcipse for Europe](http://9gag.com/gag/a6ZeEZA)<!-- MEMES:END -->
 
 --- 
 
