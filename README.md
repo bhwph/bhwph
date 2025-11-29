@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [LEGO Had No Plan to Slash Pac-Man Arcade Set, Then Went Nuclear at Black Friday’s Final Hour to Clear Stock](https://kotaku.com/lego-had-no-plan-to-slash-pac-man-arcade-set-then-went-nuclear-at-black-fridays-final-hour-to-clear-stock-2000648482)
- - [Amazon Doesn’t Care About Margins on Echo Show, Now Selling 15″ Smart Home Hub at Pure Cost](https://kotaku.com/amazon-doesnt-care-about-margins-on-echo-show-now-selling-15-smart-home-hub-at-pure-cost-2000648491)
- - [Tempest Rising&#39;s next update will add massive superweapons that&#39;ll let you &#39;unload devastating payloads onto the enemy&#39;](https://www.pcgamer.com/games/strategy/tempest-risings-next-update-will-add-massive-superweapons-thatll-let-you-unload-devastating-payloads-onto-the-enemy/)<!-- GAME:END -->
+ - [How to upgrade the Taming Flute in 99 Nights in the Forest](https://www.pcgamer.com/games/roblox/99-nights-in-the-forest-how-to-upgrade-taming-flute/)
+ - [Every animal you can tame in 99 Nights in the Forest](https://www.pcgamer.com/games/roblox/99-nights-in-the-forest-animal-taming/)
+ - [LEGO Had No Plan to Slash Pac-Man Arcade Set, Then Went Nuclear at Black Friday’s Final Hour to Clear Stock](https://kotaku.com/lego-had-no-plan-to-slash-pac-man-arcade-set-then-went-nuclear-at-black-fridays-final-hour-to-clear-stock-2000648482)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
