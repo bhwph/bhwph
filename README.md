@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Monday gaming monitor deals 2025: Cheap screens, OLED, ultrawide, or 4K, it&#39;s all here](https://www.pcgamer.com/cyber-monday-gaming-monitor-deals/)
- - [Cyber Monday gaming PC deals 2025: discounts across Nvidia GeForce and AMD Radeon rigs](https://www.pcgamer.com/cyber-monday-gaming-pc-deals/)
- - [Cyber Monday gaming laptop deals 2025: The best discounts on gaming laptops, no matter your budget](https://www.pcgamer.com/cyber-monday-gaming-laptop-deals/)<!-- GAME:END -->
+ - [Day After Black Friday Ends, Microsoft Suddenly Offloads Xbox Controllers at Record Low](https://kotaku.com/day-after-black-friday-ends-microsoft-suddenly-offloads-xbox-controllers-at-record-low-2000648669)
+ - [Castlevania’s Dracula is &lpar;almost&rpar; the best Dracula adaptation](https://www.polygon.com/castlevania-dracula-adaptations-ranked/)
+ - [This spiritual successor to Desert Strike has exploded into Steam early access with a 98% positive rating, and its developer plans to represent the whole Strike series in future updates](https://www.pcgamer.com/games/action/this-spiritual-successor-to-desert-strike-has-exploded-into-steam-early-access-with-a-98-percent-positive-rating-and-its-developer-plans-to-represent-the-whole-strike-series-in-future-updates/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
