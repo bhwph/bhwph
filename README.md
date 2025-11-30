@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
- - [New West KnifeWorks Knives Are 20 Percent off Right Now &lpar;2025&rpar;](https://www.wired.com/story/new-west-knifeworks-black-friday-2025/)
- - [21 Best GoPro and Camera Deals for Black Friday &lpar;2025&rpar;](https://www.wired.com/story/black-friday-camera-deals-2025-1/)<!-- TECH:END -->
+ - [The 202 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available)
+ - [Anker’s handy little 3-port charger is just 35 bucks](https://www.theverge.com/gadgets/833697/anker-prime-charger-67w-3-port)
+ - [The best gaming headset I tried this year is $60 off for Black Friday](https://www.theverge.com/gadgets/829932/wireless-pc-gaming-headset-fractal-scape-deal-sale-black-friday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
