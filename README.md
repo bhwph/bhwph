@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Fortnite Chapter 7 Season 1 battle pass skins](https://www.polygon.com/fortnite-chapter-7-season-1-battle-pass-skins-list/)
- - [One of the best Warhammer books is getting a deluxe reprint](https://www.pcgamer.com/games/one-of-the-best-warhammer-books-is-getting-a-deluxe-reprint/)
- - [Fortnite Chapter 7 Season 1 map and loot pool](https://www.polygon.com/fortnite-chapter-7-season-1-pacific-break-map-weapons-loot-poi/)<!-- GAME:END -->
+ - [Forget Nintendo, Sony Goes No-Margin on the PlayStation Portal Remote Player as It Hits an All-Time Low After Black Friday](https://kotaku.com/forget-nintendo-sony-goes-no-margin-on-the-playstation-portal-remote-player-as-it-hits-an-all-time-low-after-black-friday-2000648779)
+ - [BG3&#39;s Astarion subverts the &#39;sexy vampire&#39; trope in a meaningful way](https://www.polygon.com/bg3-baldurs-gate-3-astarion-sexy-vampire-trope/)
+ - [This cyberpunk platformer with an Overwhelmingly Positive Steam rating just got a completely free expansion](https://www.pcgamer.com/games/action/this-cyberpunk-platformer-with-an-overwhelmingly-positive-steam-rating-just-got-a-completely-free-expansion/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
