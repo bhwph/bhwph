@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Couldn&#39;t leave the little guy behind](http://9gag.com/gag/awy9yL1)
- - 😝 [Aaaaooooooooooo..](http://9gag.com/gag/a2vA1bw)
- - 👉 [Karen vs. Man](http://9gag.com/gag/a1m8Ppw)<!-- MEMES:END -->
+ - 6️⃣ [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
+ - 😝 [The tenth thanksgiving celebration among them](http://9gag.com/gag/aE0jqdn)
+ - 👉 [Aaaaooooooooooo..](http://9gag.com/gag/a2vA1bw)<!-- MEMES:END -->
 
 --- 
 
