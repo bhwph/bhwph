@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our Definitive List of the 180 Black Friday Deals](https://www.wired.com/story/black-friday-deals-2025-3/)
- - [20 Best Black Friday TV Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-tv-deals-2025-2/)
- - [Screaming Cyber Monday deals on Bose, Sony, and Apple headphones and earbuds](https://www.theverge.com/gadgets/831125/best-black-friday-headphone-earbud-deals-2025)<!-- TECH:END -->
+ - [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025)
+ - [The Best Red Light Therapy Mask You Can Buy Is Currently on Sale](https://www.wired.com/story/best-current-body-cyber-monday-deals-2025/)
+ - [Nintendo Switch 2 Black Friday Deals: Bundles, Controllers, Earbuds](https://www.wired.com/story/nintendo-switch-2-black-friday-deals/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
