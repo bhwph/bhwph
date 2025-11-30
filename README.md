@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
- - 😝 [The tenth thanksgiving celebration among them](http://9gag.com/gag/aE0jqdn)
- - 👉 [Aaaaooooooooooo..](http://9gag.com/gag/a2vA1bw)<!-- MEMES:END -->
+ - 6️⃣ [C. Can&#39;t tell](http://9gag.com/gag/an707B0)
+ - 😝 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)
+ - 👉 [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)<!-- MEMES:END -->
 
 --- 
 
