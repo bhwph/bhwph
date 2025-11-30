@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [C. Can&#39;t tell](http://9gag.com/gag/an707B0)
- - 😝 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)
- - 👉 [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)<!-- MEMES:END -->
+ - 6️⃣ [At the Christmas market in Switzerland](http://9gag.com/gag/a2vAKXE)
+ - 😝 [POV you are an engineer about to leak state secrets and f*ck up your entire life](http://9gag.com/gag/aQzDzG8)
+ - 👉 [The way he tracked it under the car, pure precision, flawless](http://9gag.com/gag/avyBQYM)<!-- MEMES:END -->
 
 --- 
 
