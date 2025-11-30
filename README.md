@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Couldn&#39;t leave the little guy behind](http://9gag.com/gag/awy9yL1)
- - 😝 [C. Can&#39;t tell](http://9gag.com/gag/an707B0)
+ - 6️⃣ [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
+ - 😝 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)
  - 👉 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)<!-- MEMES:END -->
 
 --- 
