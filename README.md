@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung 83″ OLED S85F 4K Smart TV &lpar;2025&rpar; at 42% Off, Time to Throw Out Your 65″ and Upgrade](https://kotaku.com/samsung-83-oled-s85f-4k-smart-tv-2025-at-42-off-time-to-throw-out-your-65-and-upgrade-2000648809)
- - [Galaxy Buds 3 Pro Go for New All-Time Low, Samsung Wants to Sell 10x More Than AirPods This Cyber Monday](https://kotaku.com/galaxy-buds-3-pro-go-for-new-all-time-low-samsung-wants-to-sell-10x-more-than-airpods-this-cyber-monday-2000648805)
- - [Govee 200ft Outdoor Lights Crash to All-Time Low, Year-Round Lighting Cheaper Than Budget Holiday Lights](https://kotaku.com/govee-200ft-outdoor-lights-crash-to-all-time-low-year-round-lighting-cheaper-than-budget-holiday-lights-2000648801)<!-- GAME:END -->
+ - [One of the best Warhammer books is getting a deluxe reprint](https://www.pcgamer.com/games/one-of-the-best-warhammer-books-is-getting-a-deluxe-reprint/)
+ - [Fortnite Chapter 7 Season 1 map and loot pool](https://www.polygon.com/fortnite-chapter-7-season-1-pacific-break-map-weapons-loot-poi/)
+ - [Pokémon Go Pikipek Community Day event guide](https://www.polygon.com/pokemon-go-pikipek-community-day-shiny-toucannon-moveset/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
