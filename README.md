@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Many men still don&#39;t know this](http://9gag.com/gag/aQzDX7d)
- - 😝 [When your drug dealer wants to recruit you, but you need to stay cool so he doesn&#39;t change his mind](http://9gag.com/gag/aqyVGR7)
- - 👉 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)<!-- MEMES:END -->
+ - 6️⃣ [Versatile role](http://9gag.com/gag/axyeyZ1)
+ - 😝 [Awesome scene](http://9gag.com/gag/aMV0EjP)
+ - 👉 [The tenth thanksgiving celebration among them](http://9gag.com/gag/aE0jqdn)<!-- MEMES:END -->
 
 --- 
 
