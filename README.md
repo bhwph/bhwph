@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 😝 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)
+ - 6️⃣ [And even here, so much is removed.](http://9gag.com/gag/aVv9vzM)
+ - 😝 [Modders are the savior](http://9gag.com/gag/azxvxWB)
  - 👉 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)<!-- MEMES:END -->
 
 --- 
