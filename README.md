@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Versatile role](http://9gag.com/gag/axyeyZ1)
- - 😝 [Awesome scene](http://9gag.com/gag/aMV0EjP)
- - 👉 [The tenth thanksgiving celebration among them](http://9gag.com/gag/aE0jqdn)<!-- MEMES:END -->
+ - 6️⃣ [The way he tracked it under the car, pure precision, flawless](http://9gag.com/gag/avyBQYM)
+ - 😝 [Versatile role](http://9gag.com/gag/axyeyZ1)
+ - 👉 [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)<!-- MEMES:END -->
 
 --- 
 
