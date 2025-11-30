@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [At the Christmas market in Switzerland](http://9gag.com/gag/a2vAKXE)
- - 😝 [POV you are an engineer about to leak state secrets and f*ck up your entire life](http://9gag.com/gag/aQzDzG8)
- - 👉 [The way he tracked it under the car, pure precision, flawless](http://9gag.com/gag/avyBQYM)<!-- MEMES:END -->
+ - 6️⃣ [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)
+ - 😝 [Karen vs. Man](http://9gag.com/gag/a1m8Ppw)
+ - 👉 [And even here, so much is removed.](http://9gag.com/gag/aVv9vzM)<!-- MEMES:END -->
 
 --- 
 
