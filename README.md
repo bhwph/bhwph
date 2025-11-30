@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 202 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available)
- - [Anker’s handy little 3-port charger is just 35 bucks](https://www.theverge.com/gadgets/833697/anker-prime-charger-67w-3-port)
- - [The best gaming headset I tried this year is $60 off for Black Friday](https://www.theverge.com/gadgets/829932/wireless-pc-gaming-headset-fractal-scape-deal-sale-black-friday)<!-- TECH:END -->
+ - [An interview with Google DeepMind Nobel laureate John Jumper on the creative &quot;off-label&quot; uses for AlphaFold, combining AlphaFold&#39;s power with LLMs, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/251129/p11#a251129p11)
+ - [The 201 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 30, #433](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-30-433/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
