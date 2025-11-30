@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025)
- - [The Best Red Light Therapy Mask You Can Buy Is Currently on Sale](https://www.wired.com/story/best-current-body-cyber-monday-deals-2025/)
- - [Nintendo Switch 2 Black Friday Deals: Bundles, Controllers, Earbuds](https://www.wired.com/story/nintendo-switch-2-black-friday-deals/)<!-- TECH:END -->
+ - [Sources: Databricks is raising $5B and expects sales to grow 55% this year, putting its post-money valuation at $134B, as AI costs squeeze gross profit margins &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/251130/p9#a251130p9)
+ - [This deal on smart glasses was too good for my husband to pass up](https://www.theverge.com/gadgets/834064/echo-frames-cyber-monday-deal-echo-spot)
+ - [The Best Black Friday Soundbar Deals](https://www.wired.com/story/black-friday-soundbar-deals-2025/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
