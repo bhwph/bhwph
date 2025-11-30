@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Rocco Fridge Isn&#39;t So Smart, But It Sure Is Pretty](https://www.wired.com/story/you-have-8-hours-to-save-on-this-stunning-smart-fridge/)
- - [8 common Android features that originated from third party apps](https://www.androidauthority.com/android-features-from-third-party-apps-3618307/)
- - [The Petkit PuraMax 2 Is $100 Off Right Now &lpar;2025&rpar;](https://www.wired.com/story/petkit-puramax-2-black-friday-2025/)<!-- TECH:END -->
+ - [Our Definitive List of the 180 Black Friday Deals](https://www.wired.com/story/black-friday-deals-2025-3/)
+ - [20 Best Black Friday TV Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-tv-deals-2025-2/)
+ - [Screaming Cyber Monday deals on Bose, Sony, and Apple headphones and earbuds](https://www.theverge.com/gadgets/831125/best-black-friday-headphone-earbud-deals-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
