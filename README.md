@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside the GTA mod that was so well-written its creators axed it to make their own game—and then returned to finish the job due to public demand](https://www.pcgamer.com/games/grand-theft-auto/inside-the-gta-mod-that-was-so-well-written-its-creators-axed-it-to-make-their-own-game-and-then-returned-to-finish-the-job-due-to-public-demand/)
- - [Confession time: What&#39;s that one videogame song that always gets stuck in your head?](https://www.pcgamer.com/games/confession-time-whats-that-one-videogame-song-that-always-gets-stuck-in-your-head/)
- - [After 13 years, Euro Truck Simulator 2 smashes its all-time concurrent player peak on Steam by dropping two DLCs with, let me check my notes here, more Europe and more trucks](https://www.pcgamer.com/games/sim/after-13-years-euro-truck-simulator-2-smashes-its-all-time-concurrent-player-peak-on-steam-by-dropping-two-dlcs-with-let-me-check-my-notes-here-more-europe-and-more-trucks/)<!-- GAME:END -->
+ - [Palworld publishing boss says &#39;I haven&#39;t really touched so-called AAA titles&#39;, adding that they tend to be &#39;overwhelmingly about graphic quality and fidelity&#39;](https://www.pcgamer.com/games/survival-crafting/palworld-publishing-boss-says-i-havent-really-touched-so-called-aaa-titles-adding-that-they-tend-to-be-overwhelmingly-about-graphic-quality-and-fidelity/)
+ - [It feels weird to type these words, but Alienware&#39;s Cyber Monday deals are offering some of the best available prices on prebuilt Nvidia gaming PCs](https://www.pcgamer.com/hardware/gaming-pcs/it-feels-weird-to-type-these-words-but-alienwares-cyber-monday-deals-are-offering-some-of-the-best-available-prices-on-prebuilt-nvidia-gaming-pcs/)
+ - [Inside the GTA mod that was so well-written its creators axed it to make their own game—and then returned to finish the job due to public demand](https://www.pcgamer.com/games/grand-theft-auto/inside-the-gta-mod-that-was-so-well-written-its-creators-axed-it-to-make-their-own-game-and-then-returned-to-finish-the-job-due-to-public-demand/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
