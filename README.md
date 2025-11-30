@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’d ditch my Pixel for this upcoming phone, but three things are holding me back](https://www.androidauthority.com/pixel-9a-vs-oneplus-15r-3620440/)
- - [Best Black Friday Christmas Tree Deals &lpar;and Lights, Too&rpar; of 2025](https://www.wired.com/story/black-friday-christmas-tree-deals/)
- - [The Rare Earth Metal Driving Tensions Between the US and China](https://www.wired.com/story/yttrium-rare-earth-metal-china-us/)<!-- TECH:END -->
+ - [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025)
+ - [Why the timing is perfect for Android on PCs &lpar;but it might still fail&rpar;](https://www.androidauthority.com/aluminium-os-timing-is-right-3619449/)
+ - [The Oceans Are Going to Rise—but When?](https://www.wired.com/story/the-oceans-are-going-to-rise-but-when/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
