@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gang gang](http://9gag.com/gag/aD2qYNd)
- - 😝 [When your drug dealer wants to recruit you, but you need to stay cool so he doesn&#39;t change his mind](http://9gag.com/gag/aqyVGR7)
- - 👉 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)<!-- MEMES:END -->
+ - 6️⃣ [Couldn&#39;t leave the little guy behind](http://9gag.com/gag/awy9yL1)
+ - 😝 [Aaaaooooooooooo..](http://9gag.com/gag/a2vA1bw)
+ - 👉 [Karen vs. Man](http://9gag.com/gag/a1m8Ppw)<!-- MEMES:END -->
 
 --- 
 
