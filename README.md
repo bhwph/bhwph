@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game of the Year prediction markets have become a multimillion-dollar business](https://www.polygon.com/game-of-the-year-goty-gambling-prediction-markets-kalshi-polymarket/)
- - [Apple Makes a Zero-Profit Move as AirPods Pro 3 Hits an All-Time Low Close to Pro 2 Discount Pricing](https://kotaku.com/apple-makes-a-zero-profit-move-as-airpods-pro-3-hits-an-all-time-low-close-to-pro-2-discount-pricing-2000648773)
- - [Watch one of the most slept-on horror movies of the last decade while it&#39;s still streaming](https://www.polygon.com/the-first-omen-2024-review-hulu/)<!-- GAME:END -->
+ - [1980&#39;s bizarre monster-mashup cartoon Drak Pack deserves a reboot](https://www.polygon.com/drak-pack-1980-reboot-forgotten-lost-animation-best-of-the-1980s/)
+ - [Gone are the days of buying Minecraft clothing from supermarkets, Very Cool have released a collaboration to save us all from getting another low-quality printed tee](https://www.pcgamer.com/games/survival-crafting/gone-are-the-days-of-buying-minecraft-clothing-from-supermarkets-very-cool-have-released-a-collaboration-to-save-us-all-from-getting-another-low-quality-printed-tee/)
+ - [Dyson Has V11 Vacuum Black Friday Leftovers, Now Near Zero Profit to Clear Stock for Cyber Monday](https://kotaku.com/dyson-has-v11-vacuum-black-friday-leftovers-now-near-zero-profit-to-clear-stock-for-cyber-monday-2000648918)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
