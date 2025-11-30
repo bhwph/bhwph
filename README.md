@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout co-creator Tim Cain says canon is &#39;whatever the owner of the IP says it is&#39; but that&#39;s okay because &#39;the best part of interpretation is you can&#39;t be wrong&#39;](https://www.pcgamer.com/games/rpg/fallout-co-creator-tim-cain-says-canon-is-whatever-the-owner-of-the-ip-says-it-is-but-thats-okay-because-the-best-part-of-interpretation-is-you-cant-be-wrong/)
- - [We used to be a society in which PC gamers had little speakers on their desks instead of RGB headsets—here are 2 speaker deals that I like](https://www.pcgamer.com/hardware/we-used-to-be-a-society-in-which-pc-gamers-had-little-speakers-on-their-desks-instead-of-rgb-headsets-here-are-2-speaker-deals-that-i-like/)
- - [What time does Fortnite Chapter 7 Season 1 start?](https://www.polygon.com/fortnite-chapter-7-season-1-release-time-start-maintenance-est-pst/)<!-- GAME:END -->
+ - [Samsung 83″ OLED S85F 4K Smart TV &lpar;2025&rpar; at 42% Off, Time to Throw Out Your 65″ and Upgrade](https://kotaku.com/samsung-83-oled-s85f-4k-smart-tv-2025-at-42-off-time-to-throw-out-your-65-and-upgrade-2000648809)
+ - [Galaxy Buds 3 Pro Go for New All-Time Low, Samsung Wants to Sell 10x More Than AirPods This Cyber Monday](https://kotaku.com/galaxy-buds-3-pro-go-for-new-all-time-low-samsung-wants-to-sell-10x-more-than-airpods-this-cyber-monday-2000648805)
+ - [Govee 200ft Outdoor Lights Crash to All-Time Low, Year-Round Lighting Cheaper Than Budget Holiday Lights](https://kotaku.com/govee-200ft-outdoor-lights-crash-to-all-time-low-year-round-lighting-cheaper-than-budget-holiday-lights-2000648801)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
