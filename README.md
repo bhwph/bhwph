@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI faces rising pressure from rivals three years after ChatGPT&#39;s debut; Similarweb says Gemini users chat longer per visit than ChatGPT and Claude users &lpar;Financial Times&rpar;](http://www.techmeme.com/251130/p4#a251130p4)
- - [Alibaba Technical Report: Qwen3-VL beats GPT-5 and Gemini 2.5 Pro on visual tasks and has 100% accuracy on &quot;needle-in-a-haystack&quot; tests for 30-minute videos &lpar;Jonathan Kemper/The Decoder&rpar;](http://www.techmeme.com/251130/p3#a251130p3)
- - [Best MacBook Pro Cyber Monday deals start at just $1,299, save up to $500](https://appleinsider.com/articles/25/11/30/best-macbook-pro-cyber-monday-deals-start-at-just-1299-save-up-to-500?utm_source=rss)<!-- TECH:END -->
+ - [I’d ditch my Pixel for this upcoming phone, but three things are holding me back](https://www.androidauthority.com/pixel-9a-vs-oneplus-15r-3620440/)
+ - [Best Black Friday Christmas Tree Deals &lpar;and Lights, Too&rpar; of 2025](https://www.wired.com/story/black-friday-christmas-tree-deals/)
+ - [The Rare Earth Metal Driving Tensions Between the US and China](https://www.wired.com/story/yttrium-rare-earth-metal-china-us/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
