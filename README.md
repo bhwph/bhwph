@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)
- - 😝 [Karen vs. Man](http://9gag.com/gag/a1m8Ppw)
- - 👉 [And even here, so much is removed.](http://9gag.com/gag/aVv9vzM)<!-- MEMES:END -->
+ - 6️⃣ [Couldn&#39;t leave the little guy behind](http://9gag.com/gag/awy9yL1)
+ - 😝 [C. Can&#39;t tell](http://9gag.com/gag/an707B0)
+ - 👉 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)<!-- MEMES:END -->
 
 --- 
 
