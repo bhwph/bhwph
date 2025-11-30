@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [All Fortnite Chapter 7 Season 1 battle pass skins](https://www.polygon.com/fortnite-chapter-7-season-1-battle-pass-skins-list/)
  - [One of the best Warhammer books is getting a deluxe reprint](https://www.pcgamer.com/games/one-of-the-best-warhammer-books-is-getting-a-deluxe-reprint/)
- - [Fortnite Chapter 7 Season 1 map and loot pool](https://www.polygon.com/fortnite-chapter-7-season-1-pacific-break-map-weapons-loot-poi/)
- - [Pokémon Go Pikipek Community Day event guide](https://www.polygon.com/pokemon-go-pikipek-community-day-shiny-toucannon-moveset/)<!-- GAME:END -->
+ - [Fortnite Chapter 7 Season 1 map and loot pool](https://www.polygon.com/fortnite-chapter-7-season-1-pacific-break-map-weapons-loot-poi/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
