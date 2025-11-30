@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [1980&#39;s bizarre monster-mashup cartoon Drak Pack deserves a reboot](https://www.polygon.com/drak-pack-1980-reboot-forgotten-lost-animation-best-of-the-1980s/)
- - [Gone are the days of buying Minecraft clothing from supermarkets, Very Cool have released a collaboration to save us all from getting another low-quality printed tee](https://www.pcgamer.com/games/survival-crafting/gone-are-the-days-of-buying-minecraft-clothing-from-supermarkets-very-cool-have-released-a-collaboration-to-save-us-all-from-getting-another-low-quality-printed-tee/)
- - [Dyson Has V11 Vacuum Black Friday Leftovers, Now Near Zero Profit to Clear Stock for Cyber Monday](https://kotaku.com/dyson-has-v11-vacuum-black-friday-leftovers-now-near-zero-profit-to-clear-stock-for-cyber-monday-2000648918)<!-- GAME:END -->
+ - [Confession time: What&#39;s that one videogame song that always gets stuck in your head?](https://www.pcgamer.com/games/confession-time-whats-that-one-videogame-song-that-always-gets-stuck-in-your-head/)
+ - [After 13 years, Euro Truck Simulator 2 smashes its all-time concurrent player peak on Steam by dropping two DLCs with, let me check my notes here, more Europe and more trucks](https://www.pcgamer.com/games/sim/after-13-years-euro-truck-simulator-2-smashes-its-all-time-concurrent-player-peak-on-steam-by-dropping-two-dlcs-with-let-me-check-my-notes-here-more-europe-and-more-trucks/)
+ - [Which vampires have the best vampire teeth?](https://www.polygon.com/best-vampire-teeth-ranked/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
