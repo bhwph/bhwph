@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget Nintendo, Sony Goes No-Margin on the PlayStation Portal Remote Player as It Hits an All-Time Low After Black Friday](https://kotaku.com/forget-nintendo-sony-goes-no-margin-on-the-playstation-portal-remote-player-as-it-hits-an-all-time-low-after-black-friday-2000648779)
- - [BG3&#39;s Astarion subverts the &#39;sexy vampire&#39; trope in a meaningful way](https://www.polygon.com/bg3-baldurs-gate-3-astarion-sexy-vampire-trope/)
- - [This cyberpunk platformer with an Overwhelmingly Positive Steam rating just got a completely free expansion](https://www.pcgamer.com/games/action/this-cyberpunk-platformer-with-an-overwhelmingly-positive-steam-rating-just-got-a-completely-free-expansion/)<!-- GAME:END -->
+ - [Game of the Year prediction markets have become a multimillion-dollar business](https://www.polygon.com/game-of-the-year-goty-gambling-prediction-markets-kalshi-polymarket/)
+ - [Apple Makes a Zero-Profit Move as AirPods Pro 3 Hits an All-Time Low Close to Pro 2 Discount Pricing](https://kotaku.com/apple-makes-a-zero-profit-move-as-airpods-pro-3-hits-an-all-time-low-close-to-pro-2-discount-pricing-2000648773)
+ - [Watch one of the most slept-on horror movies of the last decade while it&#39;s still streaming](https://www.polygon.com/the-first-omen-2024-review-hulu/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
