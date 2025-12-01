@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Runway says its new text-to-video AI generator has &amp;#8216;unprecedented&amp;#8217; accuracy](https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch)
- - [Apple smart display rumors, Matter camera &amp; a new tracking card on HomeKit Insider](https://appleinsider.com/articles/25/12/01/apple-smart-display-rumors-matter-camera-a-new-tracking-card-on-homekit-insider?utm_source=rss)
- - [The Best Pokémon Cyber Monday Deals That Make Great Gifts &lpar;2025&rpar;](https://www.wired.com/story/best-pokemon-black-friday-deals-2025/)<!-- TECH:END -->
+ - [Best Hyperice Cyber Monday Deals &lpar;2025&rpar;](https://www.wired.com/story/hyperice-cyber-monday-deals-2025/)
+ - [Today is your last chance to score Cyber Monday deals on Disney Plus, Hulu, and HBO Max](https://www.theverge.com/gadgets/834862/best-cyber-monday-streaming-deals-disney-plus-hulu-paramount-hbo-max-2025)
+ - [Michael Saylor&#39;s Strategy creates a $1.44B cash reserve funded by stock sales after cutting full-year profit and BTC yield targets due to bitcoin price drops &lpar;Stephen Alpher/CoinDesk&rpar;](http://www.techmeme.com/251201/p21#a251201p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
