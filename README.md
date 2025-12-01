@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld publishing boss says &#39;I haven&#39;t really touched so-called AAA titles&#39;, adding that they tend to be &#39;overwhelmingly about graphic quality and fidelity&#39;](https://www.pcgamer.com/games/survival-crafting/palworld-publishing-boss-says-i-havent-really-touched-so-called-aaa-titles-adding-that-they-tend-to-be-overwhelmingly-about-graphic-quality-and-fidelity/)
- - [It feels weird to type these words, but Alienware&#39;s Cyber Monday deals are offering some of the best available prices on prebuilt Nvidia gaming PCs](https://www.pcgamer.com/hardware/gaming-pcs/it-feels-weird-to-type-these-words-but-alienwares-cyber-monday-deals-are-offering-some-of-the-best-available-prices-on-prebuilt-nvidia-gaming-pcs/)
- - [Inside the GTA mod that was so well-written its creators axed it to make their own game—and then returned to finish the job due to public demand](https://www.pcgamer.com/games/grand-theft-auto/inside-the-gta-mod-that-was-so-well-written-its-creators-axed-it-to-make-their-own-game-and-then-returned-to-finish-the-job-due-to-public-demand/)<!-- GAME:END -->
+ - [Amazon Goes Full Liquidation on Fitbit Charge 6, Now at Record Low for Cyber Monday](https://kotaku.com/amazon-goes-full-liquidation-on-fitbit-charge-6-now-at-record-low-for-cyber-monday-2000648957)
+ - [Fortnite players are accusing it of using AI-generated art: &#39;I&#39;m done with this game&#39;](https://www.pcgamer.com/games/battle-royale/fortnite-players-are-accusing-it-of-using-ai-generated-art-im-done-with-this-game/)
+ - [Fortnite&#39;s latest live event drew in 10.5 million players to see Godzilla, Hatsune Miku, Homer Simpson, and countless other characters fight a giant squid man](https://www.pcgamer.com/games/third-person-shooter/fortnites-latest-live-event-drew-in-10-5-million-players-to-see-godzilla-hatsune-miku-homer-simpson-and-countless-other-characters-fight-a-giant-squid-man/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
