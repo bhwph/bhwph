@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD has just launched the Ryzen 7 9850X3D with zero fanfare, and I think I understand why](https://www.pcgamer.com/hardware/processors/amd-has-just-launched-the-ryzen-7-9850x3d-with-zero-fanfare-and-i-think-i-understand-why/)
- - [Seagate Is Selling Xbox Storage With No Profit Left as the Expansion Card Drops Just Below $0.10 per GB](https://kotaku.com/seagate-is-selling-xbox-storage-with-no-profit-left-as-the-expansion-card-drops-just-below-0-10-per-gb-2000648963)
- - [Microsoft confirms that its new AI agent in Windows 11 hallucinates like every other chatbot and poses security risks to users](https://www.pcgamer.com/software/windows/microsoft-confirms-that-its-new-ai-agent-in-windows-11-hallucinates-like-every-other-chatbot-and-poses-security-risks-to-users/)<!-- GAME:END -->
+ - [Rockstar co-founder compares AI to &#39;mad cow disease,&#39; and says the execs pushing it aren&#39;t &#39;fully-rounded humans&#39;](https://www.pcgamer.com/software/ai/rockstar-co-founder-compares-ai-to-mad-cow-disease-and-says-the-execs-pushing-it-arent-fully-rounded-humans/)
+ - [LEGO Goes Zero Profit on Hogwarts Castle, Harry Potter Set Now Selling at Bargain Price for Cyber Monday](https://kotaku.com/lego-goes-zero-profit-on-hogwarts-castle-harry-potter-set-now-selling-at-bargain-price-for-cyber-monday-2000649106)
+ - [TIL the Wayback Machine saves 150,000 gigabytes of webpages every day and lives in a church in San Francisco](https://www.pcgamer.com/hardware/til-the-wayback-machine-saves-150-000-gigabytes-of-webpages-every-day-and-lives-in-a-church-in-san-francisco/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
