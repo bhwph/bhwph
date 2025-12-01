@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite&#39;s new rolling is as busted as it is great](https://www.polygon.com/fornite-rolling-ragdoll-down-but-not-out-glitch/)
- - [What time does Genshin Impact version &#39;Luna 3&#39; release?](https://www.polygon.com/genshin-impact-version-6-2-luna-iii-3-release-times-maintenance-end/)
- - [ARC Raiders Is So Good I Keep Playing No Matter How Much I Suck](https://kotaku.com/arc-raiders-extraction-shooter-constantly-dying-2000649095)<!-- GAME:END -->
+ - [A Sonic Spin-Off Movie Is Officially In The Works, Coming In 2028](https://kotaku.com/sonic-hedgehog-live-action-movie-spin-off-shadow-4-5-2000649220)
+ - [Nightreign‘s Deadliest Field Boss Is Not Who I Expected](https://kotaku.com/nightreigns-bell-bearing-carion-draconic-tree-sentinel-2000649218)
+ - [Proving truly nothing is sacred, Microsoft has included the Copilot AI logo on this year&#39;s ugly Windows Christmas sweater](https://www.pcgamer.com/software/windows/proving-truly-nothing-is-sacred-microsoft-has-included-the-copilot-ai-logo-on-this-years-ugly-windows-christmas-sweater/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
