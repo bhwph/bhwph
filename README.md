@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Persona-adjacent turn-based tactics RPG Demonschool just got its second big patch, seems like now is the time to dive in](https://www.pcgamer.com/games/rpg/persona-adjacent-turn-based-tactics-rpg-demonschool-just-got-its-second-big-patch-seems-like-now-is-the-time-to-dive-in/)
  - [Amazon Goes Full Liquidation on Fitbit Charge 6, Now at Record Low for Cyber Monday](https://kotaku.com/amazon-goes-full-liquidation-on-fitbit-charge-6-now-at-record-low-for-cyber-monday-2000648957)
- - [Fortnite players are accusing it of using AI-generated art: &#39;I&#39;m done with this game&#39;](https://www.pcgamer.com/games/battle-royale/fortnite-players-are-accusing-it-of-using-ai-generated-art-im-done-with-this-game/)
- - [Fortnite&#39;s latest live event drew in 10.5 million players to see Godzilla, Hatsune Miku, Homer Simpson, and countless other characters fight a giant squid man](https://www.pcgamer.com/games/third-person-shooter/fortnites-latest-live-event-drew-in-10-5-million-players-to-see-godzilla-hatsune-miku-homer-simpson-and-countless-other-characters-fight-a-giant-squid-man/)<!-- GAME:END -->
+ - [Fortnite players are accusing it of using AI-generated art: &#39;I&#39;m done with this game&#39;](https://www.pcgamer.com/games/battle-royale/fortnite-players-are-accusing-it-of-using-ai-generated-art-im-done-with-this-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
