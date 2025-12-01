@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My friend: &#39;&#39;I had a dream where I climbed Mount Everest and touched the clouds, what did you dream about lately?&#39;&#39; Me:](http://9gag.com/gag/aZZ41Pp)
+ - 6️⃣ [You know what, I can fix her.](http://9gag.com/gag/avyByrO)
  - 😝 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 👉 [Bro already banned from every pysco movie](http://9gag.com/gag/ae9q4wW)<!-- MEMES:END -->
+ - 👉 [Modders are the savior](http://9gag.com/gag/azxvxWB)<!-- MEMES:END -->
 
 --- 
 
