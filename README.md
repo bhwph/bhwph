@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Cyber Monday Coffee Subscription Deals &lpar;2025&rpar;: Atlas, Trade](https://www.wired.com/story/best-cyber-monday-coffee-subscription-deals-2025/)
- - [Add a splash of color with the Logitech POP Mouse at a record-low price](https://www.androidauthority.com/logitech-pop-mouse-deal-2-3621065/)
- - [This $5 Kindle page-turning remote is all I’m buying for Cyber Monday](https://www.theverge.com/gadgets/834864/kindle-remote-page-turner-cyber-monday-deal-sale-2025)<!-- TECH:END -->
+ - [Last chance to save over 60% on these highly rated JBL headphones for Cyber Monday](https://www.androidauthority.com/jbl-live-670nc-headphones-deal-3621104/)
+ - [Vanguard will allow ETFs and mutual funds that primarily hold cryptocurrencies to be traded on its platform starting Tuesday, reversing a longstanding position &lpar;Emily Graffeo/Bloomberg&rpar;](http://www.techmeme.com/251201/p26#a251201p26)
+ - [Affordable home cinema: NEBULA Capsule 3 portable projector 40% off!](https://www.androidauthority.com/anker-nebula-capsule-3-projector-3621063/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
