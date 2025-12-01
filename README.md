@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S26 leak drops side-by-side specs — here’s what might be changing](https://www.androidauthority.com/samsung-galaxy-s26-vs-s25-spec-sheet-leaked-3620822/)
- - [The 65 Best Black Friday Outdoor Deals &lpar;2025&rpar;](https://www.wired.com/story/best-rei-cyber-week-outdoor-deals-2025/)
- - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)<!-- TECH:END -->
+ - [The Best Cyber Monday Streaming Deals &lpar;2025&rpar;: HBO Max, Disney+, Apple](https://www.wired.com/story/cyber-monday-streaming-deals-2025/)
+ - [39 Best Cyber Monday Tech Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-tech-deals-2025/)
+ - [Runway launches Gen 4.5, a new text-to-video AI model that produces HD videos from written prompts and excels at physics; Gen 4.5 tops Video Arena&#39;s leaderboard &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251201/p13#a251201p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
