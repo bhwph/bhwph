@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona-adjacent turn-based tactics RPG Demonschool just got its second big patch, seems like now is the time to dive in](https://www.pcgamer.com/games/rpg/persona-adjacent-turn-based-tactics-rpg-demonschool-just-got-its-second-big-patch-seems-like-now-is-the-time-to-dive-in/)
- - [Amazon Goes Full Liquidation on Fitbit Charge 6, Now at Record Low for Cyber Monday](https://kotaku.com/amazon-goes-full-liquidation-on-fitbit-charge-6-now-at-record-low-for-cyber-monday-2000648957)
- - [Fortnite players are accusing it of using AI-generated art: &#39;I&#39;m done with this game&#39;](https://www.pcgamer.com/games/battle-royale/fortnite-players-are-accusing-it-of-using-ai-generated-art-im-done-with-this-game/)<!-- GAME:END -->
+ - [AMD has just launched the Ryzen 7 9850X3D with zero fanfare, and I think I understand why](https://www.pcgamer.com/hardware/processors/amd-has-just-launched-the-ryzen-7-9850x3d-with-zero-fanfare-and-i-think-i-understand-why/)
+ - [Seagate Is Selling Xbox Storage With No Profit Left as the Expansion Card Drops Just Below $0.10 per GB](https://kotaku.com/seagate-is-selling-xbox-storage-with-no-profit-left-as-the-expansion-card-drops-just-below-0-10-per-gb-2000648963)
+ - [Microsoft confirms that its new AI agent in Windows 11 hallucinates like every other chatbot and poses security risks to users](https://www.pcgamer.com/software/windows/microsoft-confirms-that-its-new-ai-agent-in-windows-11-hallucinates-like-every-other-chatbot-and-poses-security-risks-to-users/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
