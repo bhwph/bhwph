@@ -127,8 +127,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney Plus, Hulu, and HBO Max are all over 60 percent off for Cyber Monday](https://www.theverge.com/gadgets/829306/best-black-friday-streaming-deals-hulu-disney-plus-paramount-hbo-max-2025)
- - [Black Friday across the pond: Save on these UK Apple deals](https://appleinsider.com/articles/25/11/30/black-friday-across-the-pond-save-on-these-uk-apple-deals?utm_source=rss)
+ - [Q&amp;A with ex-Intel CEO Pat Gelsinger on the &quot;decay&quot; at Intel, the Chip Act&#39;s terrible execution, the irony of Lip-Bu Tan broadly following his strategy, and more &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/251130/p12#a251130p12)
+ - [Anker’s Laptop Power Bank is  $32 off for Cyber Monday, its biggest discount yet](https://www.theverge.com/gadgets/834269/anker-laptop-power-bank-cyber-monday-deal-sale-2025)
  - [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
