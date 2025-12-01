@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s guide to Cyber Monday 2025](https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025)
- - [Netflix kills casting from phones](https://www.theverge.com/news/834655/netflix-phone-casting-chromecast-support-killed)
- - [The Best Cyber Monday Mattress and Bedding Deals &lpar;2025&rpar;](https://www.wired.com/story/best-cyber-monday-mattress-deals-2025/)<!-- TECH:END -->
+ - [Galaxy S26 leak drops side-by-side specs — here’s what might be changing](https://www.androidauthority.com/samsung-galaxy-s26-vs-s25-spec-sheet-leaked-3620822/)
+ - [The 65 Best Black Friday Outdoor Deals &lpar;2025&rpar;](https://www.wired.com/story/best-rei-cyber-week-outdoor-deals-2025/)
+ - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
