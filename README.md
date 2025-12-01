@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Hyperice Cyber Monday Deals &lpar;2025&rpar;](https://www.wired.com/story/hyperice-cyber-monday-deals-2025/)
- - [Today is your last chance to score Cyber Monday deals on Disney Plus, Hulu, and HBO Max](https://www.theverge.com/gadgets/834862/best-cyber-monday-streaming-deals-disney-plus-hulu-paramount-hbo-max-2025)
- - [Michael Saylor&#39;s Strategy creates a $1.44B cash reserve funded by stock sales after cutting full-year profit and BTC yield targets due to bitcoin price drops &lpar;Stephen Alpher/CoinDesk&rpar;](http://www.techmeme.com/251201/p21#a251201p21)<!-- TECH:END -->
+ - [Best Cyber Monday Coffee Subscription Deals &lpar;2025&rpar;: Atlas, Trade](https://www.wired.com/story/best-cyber-monday-coffee-subscription-deals-2025/)
+ - [Add a splash of color with the Logitech POP Mouse at a record-low price](https://www.androidauthority.com/logitech-pop-mouse-deal-2-3621065/)
+ - [This $5 Kindle page-turning remote is all I’m buying for Cyber Monday](https://www.theverge.com/gadgets/834864/kindle-remote-page-turner-cyber-monday-deal-sale-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
