@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kiss revealed their faces without makeup with the song Lick it up 1983](http://9gag.com/gag/a6ZeZgA)
- - 😝 [Bot-lickers](http://9gag.com/gag/a34z5Le)
- - 👉 [Modders are the savior](http://9gag.com/gag/azxvxWB)<!-- MEMES:END -->
+ - 6️⃣ [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
+ - 😝 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
+ - 👉 [Bot-lickers](http://9gag.com/gag/a34z5Le)<!-- MEMES:END -->
 
 --- 
 
