@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Cyber Monday Streaming Deals &lpar;2025&rpar;: HBO Max, Disney+, Apple](https://www.wired.com/story/cyber-monday-streaming-deals-2025/)
- - [39 Best Cyber Monday Tech Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-tech-deals-2025/)
- - [Runway launches Gen 4.5, a new text-to-video AI model that produces HD videos from written prompts and excels at physics; Gen 4.5 tops Video Arena&#39;s leaderboard &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251201/p13#a251201p13)<!-- TECH:END -->
+ - [Runway says its new text-to-video AI generator has &amp;#8216;unprecedented&amp;#8217; accuracy](https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch)
+ - [Apple smart display rumors, Matter camera &amp; a new tracking card on HomeKit Insider](https://appleinsider.com/articles/25/12/01/apple-smart-display-rumors-matter-camera-a-new-tracking-card-on-homekit-insider?utm_source=rss)
+ - [The Best Pokémon Cyber Monday Deals That Make Great Gifts &lpar;2025&rpar;](https://www.wired.com/story/best-pokemon-black-friday-deals-2025/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
