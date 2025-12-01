@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [20 Best Cyber Monday TV Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-tv-deals-2025-2/)
- - [The Best Apple Black Friday Deals &lpar;2025&rpar;](https://www.wired.com/story/apple-black-friday-deals-2025-1/)
- - [‘Smartphone pinky’ is a growing problem. Have you experienced it?](https://www.androidauthority.com/smartphone-hand-pain-open-thread-3620454/)<!-- TECH:END -->
+ - [The Verge’s guide to Cyber Monday 2025](https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025)
+ - [Netflix kills casting from phones](https://www.theverge.com/news/834655/netflix-phone-casting-chromecast-support-killed)
+ - [The Best Cyber Monday Mattress and Bedding Deals &lpar;2025&rpar;](https://www.wired.com/story/best-cyber-monday-mattress-deals-2025/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
