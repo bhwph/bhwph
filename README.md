@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [On its 35th anniversary, Misery serves as a timeless cautionary tale](https://www.polygon.com/misery-35th-anniversary-stephen-king/)
- - [A fan-created Stranger Things season 5 Volume 2 trailer pulls together unseen scenes](https://www.polygon.com/stranger-things-season-5-volume-2-trailer-fan-cut/)
- - [Seagate Goes Beyond SSDs, Dropping 2TB External Hard Drive to $0.03 per GB for PlayStation, Xbox, PC, and Mac](https://kotaku.com/seagate-goes-beyond-ssds-dropping-2tb-external-hard-drive-to-0-03-per-gb-for-playstation-xbox-pc-and-mac-2000648968)<!-- GAME:END -->
+ - [Fortnite&#39;s new rolling is as busted as it is great](https://www.polygon.com/fornite-rolling-ragdoll-down-but-not-out-glitch/)
+ - [What time does Genshin Impact version &#39;Luna 3&#39; release?](https://www.polygon.com/genshin-impact-version-6-2-luna-iii-3-release-times-maintenance-end/)
+ - [ARC Raiders Is So Good I Keep Playing No Matter How Much I Suck](https://kotaku.com/arc-raiders-extraction-shooter-constantly-dying-2000649095)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
