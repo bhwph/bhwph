@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rockstar co-founder compares AI to &#39;mad cow disease,&#39; and says the execs pushing it aren&#39;t &#39;fully-rounded humans&#39;](https://www.pcgamer.com/software/ai/rockstar-co-founder-compares-ai-to-mad-cow-disease-and-says-the-execs-pushing-it-arent-fully-rounded-humans/)
- - [LEGO Goes Zero Profit on Hogwarts Castle, Harry Potter Set Now Selling at Bargain Price for Cyber Monday](https://kotaku.com/lego-goes-zero-profit-on-hogwarts-castle-harry-potter-set-now-selling-at-bargain-price-for-cyber-monday-2000649106)
- - [TIL the Wayback Machine saves 150,000 gigabytes of webpages every day and lives in a church in San Francisco](https://www.pcgamer.com/hardware/til-the-wayback-machine-saves-150-000-gigabytes-of-webpages-every-day-and-lives-in-a-church-in-san-francisco/)<!-- GAME:END -->
+ - [On its 35th anniversary, Misery serves as a timeless cautionary tale](https://www.polygon.com/misery-35th-anniversary-stephen-king/)
+ - [A fan-created Stranger Things season 5 Volume 2 trailer pulls together unseen scenes](https://www.polygon.com/stranger-things-season-5-volume-2-trailer-fan-cut/)
+ - [Seagate Goes Beyond SSDs, Dropping 2TB External Hard Drive to $0.03 per GB for PlayStation, Xbox, PC, and Mac](https://kotaku.com/seagate-goes-beyond-ssds-dropping-2tb-external-hard-drive-to-0-03-per-gb-for-playstation-xbox-pc-and-mac-2000648968)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
