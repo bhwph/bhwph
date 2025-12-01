@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s central bank reaffirmed its stance on crypto, calling virtual currency activity illegal and saying stablecoins fail KYC and anti-money-laundering rules &lpar;Reuters&rpar;](http://www.techmeme.com/251201/p2#a251201p2)
- - [Newegg Promo Code: 10% Off in December 2025](https://www.wired.com/story/newegg-promo-code/)
- - [Netflix quietly killed casting from phones to newer Chromecasts and Google TV Streamer](https://www.androidauthority.com/netflix-casting-chromecast-google-tv-streamer-3620784/)<!-- TECH:END -->
+ - [20 Best Cyber Monday TV Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-tv-deals-2025-2/)
+ - [The Best Apple Black Friday Deals &lpar;2025&rpar;](https://www.wired.com/story/apple-black-friday-deals-2025-1/)
+ - [‘Smartphone pinky’ is a growing problem. Have you experienced it?](https://www.androidauthority.com/smartphone-hand-pain-open-thread-3620454/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
