@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Sonic Spin-Off Movie Is Officially In The Works, Coming In 2028](https://kotaku.com/sonic-hedgehog-live-action-movie-spin-off-shadow-4-5-2000649220)
- - [Nightreign‘s Deadliest Field Boss Is Not Who I Expected](https://kotaku.com/nightreigns-bell-bearing-carion-draconic-tree-sentinel-2000649218)
- - [Proving truly nothing is sacred, Microsoft has included the Copilot AI logo on this year&#39;s ugly Windows Christmas sweater](https://www.pcgamer.com/software/windows/proving-truly-nothing-is-sacred-microsoft-has-included-the-copilot-ai-logo-on-this-years-ugly-windows-christmas-sweater/)<!-- GAME:END -->
+ - [This Sexy TV Series Makes One Of The Straightest Sports Gay](https://kotaku.com/heated-rivalry-show-book-watch-cast-hockey-2000649249)
+ - [Step into a new adventure with the upcoming DualSense Wireless Controller – Genshin Impact Limited Edition](https://blog.playstation.com/2025/12/01/step-into-a-new-adventure-with-the-upcoming-dualsense-wireless-controller-genshin-impact-limited-edition/)
+ - [All Pump N&#39; Run gas station locations in Fortnite Chapter 7 Season 1](https://www.polygon.com/all-pump-n-run-gas-station-locations-in-fortnite-chapter-7/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
