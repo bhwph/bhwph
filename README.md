@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Animaj, a startup in Disney&#39;s Accelerator Program, uses AI to drastically speed up the animation process, while also claiming to let artists stay in control &lpar;Corinne Reichert/CNET&rpar;](http://www.techmeme.com/251130/p14#a251130p14)
- - [That popular YouTube alternative on Android TV was secretly distributing infected builds](https://www.androidauthority.com/smarttube-malware-fix-3620773/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 1, #434](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-1-434/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China&#39;s central bank reaffirmed its stance on crypto, calling virtual currency activity illegal and saying stablecoins fail KYC and anti-money-laundering rules &lpar;Reuters&rpar;](http://www.techmeme.com/251201/p2#a251201p2)
+ - [Newegg Promo Code: 10% Off in December 2025](https://www.wired.com/story/newegg-promo-code/)
+ - [Netflix quietly killed casting from phones to newer Chromecasts and Google TV Streamer](https://www.androidauthority.com/netflix-casting-chromecast-google-tv-streamer-3620784/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
