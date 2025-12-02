@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign Forsaken Hollows release date and time revealed](https://www.polygon.com/elden-ring-nightreign-forsaken-hollows-release-date-time/)
- - [Lost Twins 2 Water Update Offers Challenging New Puzzles and Improved Gameplay](https://news.xbox.com/en-us/2025/12/02/lost-twins-2-water-update/)
- - [GameStop celebrates $30k trade-in by calling its critics &quot;trolls&quot;](https://www.polygon.com/gamestop-trade-in-values-prices-money-pokemon-card-gengar-psa-10/)<!-- GAME:END -->
+ - [Complete list of City Trial checklist missions in Kirby Air Riders](https://www.polygon.com/kirby-air-riders-city-trial-checklist-missions-complete-list-rewards/)
+ - [Stranger Things 5 sets a new record for Netflix](https://www.polygon.com/stranger-things-5-netflix-viewer-record/)
+ - [SpongeBob SquarePants is coming to The Sims 4](https://www.polygon.com/the-sims-4-spongebob-squarepants-kits-announcement/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
