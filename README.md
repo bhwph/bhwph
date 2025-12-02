@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
- - 😝 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
- - 👉 [Coming home from college and forgetting how to dress for family events](http://9gag.com/gag/aoyG3ee)<!-- MEMES:END -->
+ - 6️⃣ [No need subtitle](http://9gag.com/gag/ajP3L9g)
+ - 😝 [I N C L U S I V I T Y](http://9gag.com/gag/an70ngV)
+ - 👉 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)<!-- MEMES:END -->
 
 --- 
 
