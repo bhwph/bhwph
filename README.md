@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Memory crisis and sky-high DRAM prices could run past 2028 as Samsung and SK Hynix opt to &#39;minimize the risk of oversupply&#39;](https://www.pcgamer.com/hardware/memory/memory-crisis-and-sky-high-dram-prices-could-run-past-2028-as-samsung-and-sk-hynix-opt-to-minimize-the-risk-of-oversupply/)
- - [Black Ops 7 Season 1 release date and roadmap](https://www.pcgamer.com/games/call-of-duty/black-ops-7-season-1-release-date-roadmap-warzone/)
- - [Vince Gilligan explains how the Others put Carol in &quot;time out&quot;](https://www.polygon.com/video/vince-gilligan-pluribus-exodus-the-others/)<!-- GAME:END -->
+ - [Pokémon Legends: Z-A Is Giving An Old Favorite A Second Mega Evolution](https://kotaku.com/pokemon-legends-za-mega-dimension-evolution-lucario-z-2000649602)
+ - [Forget Meta Quest, Sony Clears Out the PlayStation VR2 Bundle at Its Lowest Price Even After Cyber Monday](https://kotaku.com/forget-meta-quest-sony-clears-out-the-playstation-vr2-bundle-at-its-lowest-price-even-after-cyber-monday-2000649573)
+ - [Alien Isolation Fans, You’re Going To Love Routine, A Very Scary Sci-Fi Horror Game](https://kotaku.com/routine-alien-isolation-sci-fi-horror-review-creepy-scary-moon-xbox-pc-2000649242)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
