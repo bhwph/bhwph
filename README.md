@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Warden 308 loadout in Black Ops 7](https://www.pcgamer.com/games/call-of-duty/black-ops-7-warden-308-loadout/)
- - [This Is The ‘Easiest’ Way To Kill A Leaper In Arc Raiders](https://kotaku.com/arc-raiders-leaper-kill-spaceport-trials-into-the-fray-2000649665)
- - [Fallout 76: Burning Springs Expansion Out Today, Adding New Locations, Quests, and The Ghoul](https://fallout.bethesda.net/en/article/7H7bDc4y2k9IAcK8wRlXsk/fallout-76-burning-springs-play-now#new_tab)<!-- GAME:END -->
+ - [Elden Ring Nightreign Forsaken Hollows release date and time revealed](https://www.polygon.com/elden-ring-nightreign-forsaken-hollows-release-date-time/)
+ - [Lost Twins 2 Water Update Offers Challenging New Puzzles and Improved Gameplay](https://news.xbox.com/en-us/2025/12/02/lost-twins-2-water-update/)
+ - [GameStop celebrates $30k trade-in by calling its critics &quot;trolls&quot;](https://www.polygon.com/gamestop-trade-in-values-prices-money-pokemon-card-gengar-psa-10/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
