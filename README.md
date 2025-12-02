@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: OpenAI CEO Sam Altman declares a &quot;code red&quot; to shift more resources into improving ChatGPT amid rising competition, delaying other plans like ads &lpar;The Information&rpar;](http://www.techmeme.com/251201/p35#a251201p35)
- - [The best Apple deals you can still shop in Cyber Monday’s final hours](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)
- - [These Verge-approved gifts are still available for up to 60 percent off for Cyber Monday](https://www.theverge.com/gadgets/833050/cyber-monday-2025-gift-ideas-deal-sale)<!-- TECH:END -->
+ - [20% Off Brooks Promo Code &amp; Deals for December 2025](https://www.wired.com/story/brooks-promo-code/)
+ - [60% HP Discount Codes &amp; Coupons December 2025](https://www.wired.com/story/hp-coupon-code/)
+ - [Logitech Promo Code: $25 Off This Holiday Season](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
