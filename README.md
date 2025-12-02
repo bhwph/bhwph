@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No need subtitle](http://9gag.com/gag/ajP3L9g)
- - 😝 [I N C L U S I V I T Y](http://9gag.com/gag/an70ngV)
- - 👉 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)<!-- MEMES:END -->
+ - 6️⃣ [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
+ - 😝 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
+ - 👉 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)<!-- MEMES:END -->
 
 --- 
 
