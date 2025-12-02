@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Breed...Now...](http://9gag.com/gag/a6ZeXR2)
- - 😝 [Bot-lickers](http://9gag.com/gag/a34z5Le)
- - 👉 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)<!-- MEMES:END -->
+ - 6️⃣ [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
+ - 😝 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
+ - 👉 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)<!-- MEMES:END -->
 
 --- 
 
