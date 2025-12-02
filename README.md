@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kiss revealed their faces without makeup with the song Lick it up 1983](http://9gag.com/gag/a6ZeZgA)
- - 😝 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
- - 👉 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)<!-- MEMES:END -->
+ - 6️⃣ [POV](http://9gag.com/gag/ajP37yq)
+ - 😝 [Mahhamed explained in less than 2 minutes](http://9gag.com/gag/aMV0BG6)
+ - 👉 [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)<!-- MEMES:END -->
 
 --- 
 
