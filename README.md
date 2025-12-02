@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)
  - 😝 [Meta](http://9gag.com/gag/aBybLnz)
- - 👉 [Forget Elf on a shelf. It&#39;s stripper on a whipper](http://9gag.com/gag/ajP3O1G)<!-- MEMES:END -->
+ - 👉 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)<!-- MEMES:END -->
 
 --- 
 
