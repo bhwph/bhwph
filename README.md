@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dutch judge clears the way for a major App Store damages fight](https://appleinsider.com/articles/25/12/02/dutch-judge-clears-the-way-for-a-major-app-store-damages-fight?utm_source=rss)
- - [Nothing is letting fans sign up for a chance to attend the Phone 3a Community Edition launch](https://www.androidauthority.com/phone-3a-community-edition-launch-date-3621491/)
- - [Good news for custom ROMs: Google just released the Android 16 QPR2 source code](https://www.androidauthority.com/android-16-qpr2-source-code-3621513/)<!-- TECH:END -->
+ - [Google is experimentally replacing news headlines with AI clickbait nonsense](https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense)
+ - [Natural disasters across Asia prompt Apple CEO Tim Cook to promise donations](https://appleinsider.com/articles/25/12/02/natural-disasters-across-asia-prompt-apple-ceo-tim-cook-to-promise-donations?utm_source=rss)
+ - [Amazon’s bet that AI benchmarks don’t matter](https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
