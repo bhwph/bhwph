@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
- - [AWS and Google Cloud announce a jointly built multicloud networking solution and a new open interoperability spec; AWS plans a rollout with Azure later in 2026 &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/251201/p34#a251201p34)
- - [Samsung shares just how tough the Galaxy Z TriFold really is](https://www.androidauthority.com/samsung-galaxy-z-trifold-fold-rating-durability-3621138/)<!-- TECH:END -->
+ - [Internal memo: OpenAI CEO Sam Altman declares a &quot;code red&quot; to shift more resources into improving ChatGPT amid rising competition, delaying other plans like ads &lpar;The Information&rpar;](http://www.techmeme.com/251201/p35#a251201p35)
+ - [The best Apple deals you can still shop in Cyber Monday’s final hours](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)
+ - [These Verge-approved gifts are still available for up to 60 percent off for Cyber Monday](https://www.theverge.com/gadgets/833050/cyber-monday-2025-gift-ideas-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
