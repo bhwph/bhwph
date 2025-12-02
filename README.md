@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Legends: Z-A Is Giving An Old Favorite A Second Mega Evolution](https://kotaku.com/pokemon-legends-za-mega-dimension-evolution-lucario-z-2000649602)
- - [Forget Meta Quest, Sony Clears Out the PlayStation VR2 Bundle at Its Lowest Price Even After Cyber Monday](https://kotaku.com/forget-meta-quest-sony-clears-out-the-playstation-vr2-bundle-at-its-lowest-price-even-after-cyber-monday-2000649573)
- - [Alien Isolation Fans, You’re Going To Love Routine, A Very Scary Sci-Fi Horror Game](https://kotaku.com/routine-alien-isolation-sci-fi-horror-review-creepy-scary-moon-xbox-pc-2000649242)<!-- GAME:END -->
+ - [Reports of Windows 10&#39;s death appear to have been greatly exaggerated as 29% of Steam users still cling on](https://www.pcgamer.com/software/operating-systems/reports-of-windows-10s-death-appear-to-have-been-greatly-exaggerated-as-29-percent-of-steam-users-still-cling-on/)
+ - [HBO Rolls Out The 4K Red Carpet For Mad Men By Leaving The Barf Machine In](https://kotaku.com/hbo-rolls-out-the-red-carpet-for-mad-men-by-leaving-the-barf-machine-in-2000649617)
+ - [AMD graphics card prices could rise by $40 thanks to the RAM supply crisis, but the extra you pay could be even more](https://www.pcgamer.com/hardware/graphics-cards/amd-graphics-card-prices-could-rise-by-usd40-thanks-to-the-ram-supply-crisis-but-the-extra-you-pay-could-be-even-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
