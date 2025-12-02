@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
- - 😝 [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)
+ - 6️⃣ [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
+ - 😝 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
  - 👉 [Coming home from college and forgetting how to dress for family events](http://9gag.com/gag/aoyG3ee)<!-- MEMES:END -->
 
 --- 
