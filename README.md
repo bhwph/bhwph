@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung says the Galaxy Z TriFold will go on sale in South Korea on December 12 for ~$2,440, in China this year, and in the US as early as Q1 2026 &lpar;Heekyong Yang/Reuters&rpar;](http://www.techmeme.com/251201/p32#a251201p32)
- - [22 Best Cyber Monday Deals at Best Buy &lpar;2025&rpar; on Hot Tech](https://www.wired.com/story/cyber-monday-best-buy-deals/)
- - [Samsung unveils the Galaxy Z TriFold, with a 6.5-inch outer screen, a 10-inch 120Hz inner screen, three rear cameras, and a 3.9mm profile at its thinnest point &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/251201/p31#a251201p31)<!-- TECH:END -->
+ - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
+ - [AWS and Google Cloud announce a jointly built multicloud networking solution and a new open interoperability spec; AWS plans a rollout with Azure later in 2026 &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/251201/p34#a251201p34)
+ - [Samsung shares just how tough the Galaxy Z TriFold really is](https://www.androidauthority.com/samsung-galaxy-z-trifold-fold-rating-durability-3621138/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
