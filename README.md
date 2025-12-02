@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Reports of Windows 10&#39;s death appear to have been greatly exaggerated as 29% of Steam users still cling on](https://www.pcgamer.com/software/operating-systems/reports-of-windows-10s-death-appear-to-have-been-greatly-exaggerated-as-29-percent-of-steam-users-still-cling-on/)
- - [HBO Rolls Out The 4K Red Carpet For Mad Men By Leaving The Barf Machine In](https://kotaku.com/hbo-rolls-out-the-red-carpet-for-mad-men-by-leaving-the-barf-machine-in-2000649617)
- - [AMD graphics card prices could rise by $40 thanks to the RAM supply crisis, but the extra you pay could be even more](https://www.pcgamer.com/hardware/graphics-cards/amd-graphics-card-prices-could-rise-by-usd40-thanks-to-the-ram-supply-crisis-but-the-extra-you-pay-could-be-even-more/)<!-- GAME:END -->
+ - [Best Warden 308 loadout in Black Ops 7](https://www.pcgamer.com/games/call-of-duty/black-ops-7-warden-308-loadout/)
+ - [This Is The ‘Easiest’ Way To Kill A Leaper In Arc Raiders](https://kotaku.com/arc-raiders-leaper-kill-spaceport-trials-into-the-fray-2000649665)
+ - [Fallout 76: Burning Springs Expansion Out Today, Adding New Locations, Quests, and The Ghoul](https://fallout.bethesda.net/en/article/7H7bDc4y2k9IAcK8wRlXsk/fallout-76-burning-springs-play-now#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
