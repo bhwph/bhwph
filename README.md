@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tested the Pixel 10 Pro camera against the Pixel 8 Pro, and the results surprised me](https://www.androidauthority.com/pixel-10-pro-vs-pixel-8-pro-camera-3614875/)
- - [Google’s Recorder app update tweaks a key audio feature](https://www.androidauthority.com/googles-recorder-app-update-tweaks-a-key-audio-feature-3621211/)
- - [UK pension funds are cutting exposure to US equities over worries about growing concentration in a few tech stocks and a potential bubble in the AI sector &lpar;Financial Times&rpar;](http://www.techmeme.com/251202/p8#a251202p8)<!-- TECH:END -->
+ - [Apple owes its greatest strength in AI to Giannandrea](https://appleinsider.com/articles/25/12/02/apple-owes-its-greatest-strength-in-ai-to-giannandrea?utm_source=rss)
+ - [Paris-based AI voice startup Gradium, spun out of the nonprofit AI lab Kyutai, raised $70M led by FirstMark and Eurazeo, after launching in September &lpar;Bloomberg&rpar;](http://www.techmeme.com/251202/p16#a251202p16)
+ - [DRAM it! Raspberry Pi raises prices](https://www.theverge.com/news/836221/raspberry-pi-price-increases-ram-costs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
