@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Sexy TV Series Makes One Of The Straightest Sports Gay](https://kotaku.com/heated-rivalry-show-book-watch-cast-hockey-2000649249)
- - [Step into a new adventure with the upcoming DualSense Wireless Controller – Genshin Impact Limited Edition](https://blog.playstation.com/2025/12/01/step-into-a-new-adventure-with-the-upcoming-dualsense-wireless-controller-genshin-impact-limited-edition/)
- - [All Pump N&#39; Run gas station locations in Fortnite Chapter 7 Season 1](https://www.polygon.com/all-pump-n-run-gas-station-locations-in-fortnite-chapter-7/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Step into a new adventure with the upcoming DualSense Wireless Controller – Genshin Impact Limited Edition](https://blog.playstation.com/2025/12/01/20251201-genshincontroller/)
+ - [&lpar;For Southeast Asia&rpar; Step into a new adventure with the upcoming DualSense Wireless Controller – Genshin Impact Limited Edition](https://blog.playstation.com/2025/12/01/20251201-genshincontroller/)
+ - [Sometimes, an FPS really is better with a controller](https://www.pcgamer.com/games/fps/sometimes-an-fps-really-is-better-with-a-controller/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
