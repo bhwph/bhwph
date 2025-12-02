@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)
- - 😝 [Meta](http://9gag.com/gag/aBybLnz)
- - 👉 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)<!-- MEMES:END -->
+ - 6️⃣ [75% cute and 85% charisma](http://9gag.com/gag/aE0jMWo)
+ - 😝 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
+ - 👉 [He is likely to be deported](http://9gag.com/gag/avyBWdM)<!-- MEMES:END -->
 
 --- 
 
