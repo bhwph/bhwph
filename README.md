@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
- - 😝 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 👉 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)<!-- MEMES:END -->
+ - 6️⃣ [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
+ - 😝 [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)
+ - 👉 [Coming home from college and forgetting how to dress for family events](http://9gag.com/gag/aoyG3ee)<!-- MEMES:END -->
 
 --- 
 
