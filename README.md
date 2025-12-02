@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple owes its greatest strength in AI to Giannandrea](https://appleinsider.com/articles/25/12/02/apple-owes-its-greatest-strength-in-ai-to-giannandrea?utm_source=rss)
- - [Paris-based AI voice startup Gradium, spun out of the nonprofit AI lab Kyutai, raised $70M led by FirstMark and Eurazeo, after launching in September &lpar;Bloomberg&rpar;](http://www.techmeme.com/251202/p16#a251202p16)
- - [DRAM it! Raspberry Pi raises prices](https://www.theverge.com/news/836221/raspberry-pi-price-increases-ram-costs)<!-- TECH:END -->
+ - [Vista Equity-backed infrastructure software company LogicMonitor acquires Catchpoint, which monitors user experiences across the internet, for $250M+ in cash &lpar;Liana Baker/Bloomberg&rpar;](http://www.techmeme.com/251202/p23#a251202p23)
+ - [Apple Watch saves hiker after a blindfolded mountain fall](https://appleinsider.com/articles/25/12/02/apple-watch-saves-hiker-after-a-blindfolded-mountain-fall?utm_source=rss)
+ - [YouTube launches Recap, which lets users review their most notable video habits over the past year, in the US, ahead of a global rollout next week &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251202/p22#a251202p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
