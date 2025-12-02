@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [20% Off Brooks Promo Code &amp; Deals for December 2025](https://www.wired.com/story/brooks-promo-code/)
- - [60% HP Discount Codes &amp; Coupons December 2025](https://www.wired.com/story/hp-coupon-code/)
- - [Logitech Promo Code: $25 Off This Holiday Season](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
+ - [The Galaxy Z TriFold is all set for the US market with these offers](https://www.androidauthority.com/galaxy-z-trifold-us-availability-offers-3621193/)
+ - [CANI files a CA ballot measure to let an oversight board review and undo nonprofit conversions in science and tech since Jan. 2024, indirectly targeting OpenAI &lpar;Keach Hagey/Wall Street Journal&rpar;](http://www.techmeme.com/251202/p6#a251202p6)
+ - [Sources: Apple doesn&#39;t plan to comply with India&#39;s mandate to preload a state-owned cyber safety app on iPhones and will raise its concerns with New Delhi &lpar;Reuters&rpar;](http://www.techmeme.com/251202/p5#a251202p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
