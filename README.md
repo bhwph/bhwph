@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is developing a new LLM codenamed Garlic, which performs well when compared to Gemini 3 and Opus 4.5 in coding and reasoning tasks &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251202/p34#a251202p34)
- - [AWS launches DevOps Agent, an AI-enabled tool designed to help clients quickly identify root causes of outages and implement fixes, available in preview &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251202/p33#a251202p33)
- - [Amazon launches second generation of its Nova AI models, including Nova Lite, Nova Pro, Nova Sonic, and Nova Omni, a fully multimodal reasoning model &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251202/p32#a251202p32)<!-- TECH:END -->
+ - [YouTube joins the Wrapped party and rolls out its first Recap](https://www.androidauthority.com/youtube-recap-launch-3621397/)
+ - [Motorola Edge 70 Ultra finally comes into view with its first leaked image](https://www.androidauthority.com/motorola-edge-70-ultra-render-leak-3621448/)
+ - [Apptopia: ChatGPT referrals to retailer mobile apps increased 28% YoY during the Black Friday weekend in 2025; Amazon&#39;s share of ChatGPT referrals grew to 54% &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251202/p47#a251202p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
