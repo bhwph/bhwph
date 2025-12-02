@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube joins the Wrapped party and rolls out its first Recap](https://www.androidauthority.com/youtube-recap-launch-3621397/)
- - [Motorola Edge 70 Ultra finally comes into view with its first leaked image](https://www.androidauthority.com/motorola-edge-70-ultra-render-leak-3621448/)
- - [Apptopia: ChatGPT referrals to retailer mobile apps increased 28% YoY during the Black Friday weekend in 2025; Amazon&#39;s share of ChatGPT referrals grew to 54% &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251202/p47#a251202p47)<!-- TECH:END -->
+ - [Dutch judge clears the way for a major App Store damages fight](https://appleinsider.com/articles/25/12/02/dutch-judge-clears-the-way-for-a-major-app-store-damages-fight?utm_source=rss)
+ - [Nothing is letting fans sign up for a chance to attend the Phone 3a Community Edition launch](https://www.androidauthority.com/phone-3a-community-edition-launch-date-3621491/)
+ - [Good news for custom ROMs: Google just released the Android 16 QPR2 source code](https://www.androidauthority.com/android-16-qpr2-source-code-3621513/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
