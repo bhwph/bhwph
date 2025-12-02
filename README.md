@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vista Equity-backed infrastructure software company LogicMonitor acquires Catchpoint, which monitors user experiences across the internet, for $250M+ in cash &lpar;Liana Baker/Bloomberg&rpar;](http://www.techmeme.com/251202/p23#a251202p23)
- - [Apple Watch saves hiker after a blindfolded mountain fall](https://appleinsider.com/articles/25/12/02/apple-watch-saves-hiker-after-a-blindfolded-mountain-fall?utm_source=rss)
- - [YouTube launches Recap, which lets users review their most notable video habits over the past year, in the US, ahead of a global rollout next week &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251202/p22#a251202p22)<!-- TECH:END -->
+ - [Sources: OpenAI is developing a new LLM codenamed Garlic, which performs well when compared to Gemini 3 and Opus 4.5 in coding and reasoning tasks &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251202/p34#a251202p34)
+ - [AWS launches DevOps Agent, an AI-enabled tool designed to help clients quickly identify root causes of outages and implement fixes, available in preview &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251202/p33#a251202p33)
+ - [Amazon launches second generation of its Nova AI models, including Nova Lite, Nova Pro, Nova Sonic, and Nova Omni, a fully multimodal reasoning model &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251202/p32#a251202p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
