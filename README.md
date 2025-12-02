@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [75% cute and 85% charisma](http://9gag.com/gag/aE0jMWo)
- - 😝 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
- - 👉 [He is likely to be deported](http://9gag.com/gag/avyBWdM)<!-- MEMES:END -->
+ - 6️⃣ [Breed...Now...](http://9gag.com/gag/a6ZeXR2)
+ - 😝 [Bot-lickers](http://9gag.com/gag/a34z5Le)
+ - 👉 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)<!-- MEMES:END -->
 
 --- 
 
