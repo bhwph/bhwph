@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [POV](http://9gag.com/gag/ajP37yq)
- - 😝 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
- - 👉 [Mahhamed explained in less than 2 minutes](http://9gag.com/gag/aMV0BG6)<!-- MEMES:END -->
+ - 6️⃣ [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
+ - 😝 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
+ - 👉 [Bot-lickers](http://9gag.com/gag/a34z5Le)<!-- MEMES:END -->
 
 --- 
 
