@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Hive Scum build in Warhammer 40K: Darktide](https://www.pcgamer.com/games/fps/warhammer-40k-darktide-hive-scum-build-best/)
- - [The PC game releases we&#39;re most excited about in December](https://www.pcgamer.com/games/pc-game-releases-december-2025/)
- - [&lpar;For Southeast Asia&rpar; Step into a new adventure with the upcoming DualSense Wireless Controller – Genshin Impact Limited Edition](https://blog.playstation.com/2025/12/01/20251201-genshincontroller/)<!-- GAME:END -->
+ - [Memory crisis and sky-high DRAM prices could run past 2028 as Samsung and SK Hynix opt to &#39;minimize the risk of oversupply&#39;](https://www.pcgamer.com/hardware/memory/memory-crisis-and-sky-high-dram-prices-could-run-past-2028-as-samsung-and-sk-hynix-opt-to-minimize-the-risk-of-oversupply/)
+ - [Black Ops 7 Season 1 release date and roadmap](https://www.pcgamer.com/games/call-of-duty/black-ops-7-season-1-release-date-roadmap-warzone/)
+ - [Vince Gilligan explains how the Others put Carol in &quot;time out&quot;](https://www.polygon.com/video/vince-gilligan-pluribus-exodus-the-others/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
