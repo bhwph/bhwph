@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hard To Unlock Battlefield 6 Skin Seemingly Makes You Easier To Kill](https://kotaku.com/battlefield-6-tank-skin-bug-ea-horses-banned-humble-mlb-show-mobile-port-2000650096)
- - [This Ray-Ban Meta smart glasses detector helpfully lights up the word &#39;glasshole&#39; when the specs are nearby, just so we&#39;re all aware of exactly what we&#39;re dealing with](https://www.pcgamer.com/hardware/this-ray-ban-meta-smart-glasses-detector-helpfully-lights-up-the-word-glasshole-when-the-specs-are-nearby-just-so-were-all-aware-of-exactly-what-were-dealing-with/)
- - [Amazon Is Practically Giving Away the 2025 Xbox Wireless Controller, Keeping Its Black Friday Price to Empty the Warehouse](https://kotaku.com/amazon-xbox-wireless-controller-2025-black-friday-price-clearance-2000648975)<!-- GAME:END -->
+ - [Everything You Need To Know About Elden Ring Nightreign‘s DLC](https://kotaku.com/nightreigh-forsaken-hollows-dlc-launch-time-patch-notes-2000650150)
+ - [Final Fantasy VII’s Aerith Asks You To Stop Sending Actors Your ‘Smut’](https://kotaku.com/final-fantasy-7-remake-rebirth-aerith-voice-actor-smut-2000650164)
+ - [New Resident Evil Requiem gameplay is giving classic RE1 vibes](https://www.polygon.com/resident-evil-requiem-zombies-new-footage-re9-capcom/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
