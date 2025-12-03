@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia&#39;s Roskomnadzor blocks access to Roblox, claiming that it is &quot;rife with inappropriate content&quot; and spreading &quot;LGBT propaganda&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251203/p27#a251203p27)
- - [Duolingo’s Year in Review is here, and mine proves the app won’t make you fluent](https://www.androidauthority.com/duolingo-year-in-review-2025-3621782/)
- - [Linux usage on Steam hits a record high for the second month in a row](https://www.theverge.com/news/837364/linux-usage-steam-hardware-survey-november-2025)<!-- TECH:END -->
+ - [OpenAI agrees to buy Poland-based Neptune, which makes tools for analyzing progress during AI model training; the transaction will be in stock &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251203/p29#a251203p29)
+ - [The ugly Pebble 2 Duo is the smartwatch for me](https://www.theverge.com/gadgets/837388/pebble-2-duo-review)
+ - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
