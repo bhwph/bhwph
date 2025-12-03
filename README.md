@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube says it will comply with Australia&#39;s social media ban for under-16s, after rejecting its inclusion in the crackdown and calling the regulation &quot;rushed&quot; &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/251202/p61#a251202p61)
- - [Google quietly restores a lost Pixel unlocking convenience with latest Android 16 update](https://www.androidauthority.com/pixel-screen-off-fingerprint-unlock-restored-3621578/)
- - [After a backlash, India says its pre-installed cybersecurity app is optional for users, who &quot;have complete freedom to activate, or delete the app at any time&quot; &lpar;Shruti Srivastava/Bloomberg&rpar;](http://www.techmeme.com/251202/p60#a251202p60)<!-- TECH:END -->
+ - [Waymo&#39;s self-driving cars appear to be bending traffic laws and growing impatient with pedestrians as the company seeks to make them &quot;confidently assertive&quot; &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/251203/p4#a251203p4)
+ - [30% VistaPrint Coupon &amp; Promo Codes | December 2025](https://www.wired.com/story/vistaprint-coupon-code/)
+ - [20% Squarespace Promo Codes | December 2025](https://www.wired.com/story/squarespace-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
