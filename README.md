@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 things we still don’t know about the Samsung Galaxy Z TriFold](https://www.androidauthority.com/samsung-galaxy-z-trifold-things-we-dont-know-3621348/)
- - [A look at startups like AGI and Plato, which build replicas of websites to let AI agents learn to navigate and complete specific tasks, like booking flights &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/251203/p10#a251203p10)
- - [Google seems to have nuked another useful Google Home feature](https://www.androidauthority.com/google-call-home-quietly-gone-3621613/)<!-- TECH:END -->
+ - [iPhone 17e has same OLED screen as iPhone 16e, with slimmer bezels](https://appleinsider.com/articles/25/12/03/iphone-17e-has-same-oled-screen-as-iphone-16e-with-slimmer-bezels?utm_source=rss)
+ - [This $50 Android TV box is getting Gemini before your flagship TV](https://www.androidauthority.com/walmart-onn-4k-pro-gemini-update-3621710/)
+ - [Sources and docs: Palantir&#39;s Immigration OS helps ICE track undocumented immigrants and deport them; a decade ago, Alex Karp said Trump&#39;s plans made &quot;no sense&quot; &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/251203/p16#a251203p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
