@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything You Need To Know About Elden Ring Nightreign‘s DLC](https://kotaku.com/nightreigh-forsaken-hollows-dlc-launch-time-patch-notes-2000650150)
- - [Final Fantasy VII’s Aerith Asks You To Stop Sending Actors Your ‘Smut’](https://kotaku.com/final-fantasy-7-remake-rebirth-aerith-voice-actor-smut-2000650164)
- - [New Resident Evil Requiem gameplay is giving classic RE1 vibes](https://www.polygon.com/resident-evil-requiem-zombies-new-footage-re9-capcom/)<!-- GAME:END -->
+ - [Russia bans Roblox over extremist content and &#39;LGBT propaganda&#39;](https://www.pcgamer.com/games/russia-bans-roblox-over-extremist-content-and-lgbt-propaganda/)
+ - [Ron Gilbert canceled his Zelda-inspired RPG, in part because a good publisher is hard to come by these days: &#39;It&#39;s like they have formulas that they apply to games to try to figure out how much money they could make&#39;](https://www.pcgamer.com/games/rpg/ron-gilbert-canceled-his-zelda-inspired-rpg-in-part-because-a-good-publisher-is-hard-to-come-by-these-days-its-like-they-have-formulas-that-they-apply-to-games-to-try-to-figure-out-how-much-money-they-could-make/)
+ - [Where Winds Meet players are tricking AI NPCs into giving away quest rewards](https://www.polygon.com/where-winds-meet-ai-npcs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
