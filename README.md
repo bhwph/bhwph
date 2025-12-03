@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is experimentally replacing news headlines with AI clickbait nonsense](https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense)
- - [Natural disasters across Asia prompt Apple CEO Tim Cook to promise donations](https://appleinsider.com/articles/25/12/02/natural-disasters-across-asia-prompt-apple-ceo-tim-cook-to-promise-donations?utm_source=rss)
- - [Amazon’s bet that AI benchmarks don’t matter](https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter)<!-- TECH:END -->
+ - [Filing: JD.com&#39;s JingDong Industrials, or JDi, a supply chain technology and services provider in China, aims to raise up to ~$420M in its Hong Kong IPO &lpar;Reuters&rpar;](http://www.techmeme.com/251202/p59#a251202p59)
+ - [How to stream &#39;A Charlie Brown Christmas&#39; for free in 2025](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-stream-a-charlie-brown-christmas-for-free-in-2025?utm_source=rss)
+ - [Sources: Anthropic has tapped a law firm to begin work on its IPO, which could come as soon as 2026, and has held preliminary talks with big investment banks &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/251202/p58#a251202p58)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
