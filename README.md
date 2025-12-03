@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI agrees to buy Poland-based Neptune, which makes tools for analyzing progress during AI model training; the transaction will be in stock &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251203/p29#a251203p29)
- - [The ugly Pebble 2 Duo is the smartwatch for me](https://www.theverge.com/gadgets/837388/pebble-2-duo-review)
- - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [Netflix sells game studio Spry Fox back to its co-founders, David Edery and Daniel Cook; the streamer has shrunk its six-studio gaming operation down to three &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/251203/p34#a251203p34)
+ - [Apple&amp;#8217;s head of UI design is leaving for Meta](https://www.theverge.com/news/837654/apple-meta-alan-dye-designer)
+ - [Apple&#39;s human interface design chief Alan Dye poached by Meta](https://appleinsider.com/articles/25/12/03/apples-human-interface-design-chief-alan-dye-poached-by-meta?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
