@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: multiple Microsoft divisions lowered how much salespeople are supposed to grow sales of certain AI products after missing growth targets, a rare move &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/251203/p21#a251203p21)
- - [India&amp;#8217;s government backs down after Apple refuses order to preinstall app](https://www.theverge.com/news/837209/india-sanchar-saathi-app-requirement-dropped)
- - [This keyboard and trackball combo are for the tinkerers](https://www.theverge.com/tech/819894/zsa-voyager-keyboard-navigator-trackball-mechanical-ergonomic)<!-- TECH:END -->
+ - [Russia&#39;s Roskomnadzor blocks access to Roblox, claiming that it is &quot;rife with inappropriate content&quot; and spreading &quot;LGBT propaganda&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251203/p27#a251203p27)
+ - [Duolingo’s Year in Review is here, and mine proves the app won’t make you fluent](https://www.androidauthority.com/duolingo-year-in-review-2025-3621782/)
+ - [Linux usage on Steam hits a record high for the second month in a row](https://www.theverge.com/news/837364/linux-usage-steam-hardware-survey-november-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
