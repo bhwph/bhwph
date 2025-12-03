@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
- - 😝 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
- - 👉 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)<!-- MEMES:END -->
+ - 6️⃣ [No need subtitle](http://9gag.com/gag/ajP3L9g)
+ - 😝 [After 80 hours, it&#39;s finished](http://9gag.com/gag/a9y48Y1)
+ - 👉 [Got to love corporate](http://9gag.com/gag/amoOmQj)<!-- MEMES:END -->
 
 --- 
 
