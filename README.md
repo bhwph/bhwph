@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17e has same OLED screen as iPhone 16e, with slimmer bezels](https://appleinsider.com/articles/25/12/03/iphone-17e-has-same-oled-screen-as-iphone-16e-with-slimmer-bezels?utm_source=rss)
- - [This $50 Android TV box is getting Gemini before your flagship TV](https://www.androidauthority.com/walmart-onn-4k-pro-gemini-update-3621710/)
- - [Sources and docs: Palantir&#39;s Immigration OS helps ICE track undocumented immigrants and deport them; a decade ago, Alex Karp said Trump&#39;s plans made &quot;no sense&quot; &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/251203/p16#a251203p16)<!-- TECH:END -->
+ - [Sources: multiple Microsoft divisions lowered how much salespeople are supposed to grow sales of certain AI products after missing growth targets, a rare move &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/251203/p21#a251203p21)
+ - [India&amp;#8217;s government backs down after Apple refuses order to preinstall app](https://www.theverge.com/news/837209/india-sanchar-saathi-app-requirement-dropped)
+ - [This keyboard and trackball combo are for the tinkerers](https://www.theverge.com/tech/819894/zsa-voyager-keyboard-navigator-trackball-mechanical-ergonomic)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
