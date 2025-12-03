@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix sells game studio Spry Fox back to its co-founders, David Edery and Daniel Cook; the streamer has shrunk its six-studio gaming operation down to three &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/251203/p34#a251203p34)
- - [Apple&amp;#8217;s head of UI design is leaving for Meta](https://www.theverge.com/news/837654/apple-meta-alan-dye-designer)
- - [Apple&#39;s human interface design chief Alan Dye poached by Meta](https://appleinsider.com/articles/25/12/03/apples-human-interface-design-chief-alan-dye-poached-by-meta?utm_source=rss)<!-- TECH:END -->
+ - [Google TV with Gemini needs this new Alexa Plus feature, like, yesterday](https://www.androidauthority.com/alexa-plus-scene-3621874/)
+ - [Satellites keep photobombing the Hubble telescope, and it’s getting worse](https://www.theverge.com/news/837652/hubble-telescope-satellite-light-pollution)
+ - [Salesforce reports Q3 revenue up 8.6% YoY to $10.26B, vs. $10.27B est., and forecasts Q4 revenue above estimates; CRM jumps 5%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251203/p36#a251203p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
