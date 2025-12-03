@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Complete list of City Trial checklist missions in Kirby Air Riders](https://www.polygon.com/kirby-air-riders-city-trial-checklist-missions-complete-list-rewards/)
- - [Stranger Things 5 sets a new record for Netflix](https://www.polygon.com/stranger-things-5-netflix-viewer-record/)
- - [SpongeBob SquarePants is coming to The Sims 4](https://www.polygon.com/the-sims-4-spongebob-squarepants-kits-announcement/)<!-- GAME:END -->
+ - [It turns out Saudi Arabia will own 93.4 percent of EA if the buyout goes through, which is effectively all of it](https://www.pcgamer.com/gaming-industry/it-turns-out-saudi-arabia-will-own-93-4-percent-of-ea-if-the-buyout-goes-through-which-is-effectively-all-of-it/)
+ - [This year&#39;s Digimon Story Time Stranger may have looked like a traditional JRPG, but its commitment to raising weird little guys gave it an anarchic, constantly surprising energy that Pokémon couldn&#39;t match](https://www.pcgamer.com/games/rpg/this-years-digimon-story-time-stranger-may-have-looked-like-a-traditional-jrpg-but-its-commitment-to-raising-weird-little-guys-gave-it-an-anarchic-constantly-surprising-energy-that-pokemon-couldnt-match/)
+ - [Surprise! Saudi Arabia Will Own 93 Percent Of EA When The Deal Is Done](https://kotaku.com/ea-saudi-arabia-ownership-trump-jared-kushner-2000649726)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
