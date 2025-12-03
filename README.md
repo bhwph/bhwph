@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
- - 😝 [Internet Immediately Finds Gun a Dumb TikToker Threw Off Bridge - apologies for posting shitter but i thought you&#39;d appreciate the story](http://9gag.com/gag/aAyLKgZ)
- - 👉 [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)<!-- MEMES:END -->
+ - 6️⃣ [Way better than twilight](http://9gag.com/gag/aAyLExd)
+ - 😝 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
+ - 👉 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)<!-- MEMES:END -->
 
 --- 
 
