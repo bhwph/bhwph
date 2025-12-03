@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [DUI](http://9gag.com/gag/aAyLK50)
- - 😝 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
- - 👉 [No need subtitle](http://9gag.com/gag/ajP3L9g)<!-- MEMES:END -->
+ - 6️⃣ [Way better than twilight](http://9gag.com/gag/aAyLExd)
+ - 😝 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
+ - 👉 [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)<!-- MEMES:END -->
 
 --- 
 
