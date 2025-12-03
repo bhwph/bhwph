@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo&#39;s self-driving cars appear to be bending traffic laws and growing impatient with pedestrians as the company seeks to make them &quot;confidently assertive&quot; &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/251203/p4#a251203p4)
- - [30% VistaPrint Coupon &amp; Promo Codes | December 2025](https://www.wired.com/story/vistaprint-coupon-code/)
- - [20% Squarespace Promo Codes | December 2025](https://www.wired.com/story/squarespace-promo-code/)<!-- TECH:END -->
+ - [Google seems to have nuked another useful Google Home feature](https://www.androidauthority.com/google-call-home-quietly-gone-3621613/)
+ - [This Wear OS app makes it easy to transfer files and sideload watch faces](https://www.androidauthority.com/wear-apk-install-app-3621609/)
+ - [Google is replacing Discover news headlines with laughably awful AI-generated titles](https://www.androidauthority.com/google-discover-ai-headlines-3621603/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
