@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung’s 32″ Odyssey Gaming Monitor at 42% Off Leaves No Margin for Cyber Week, Sticking With Its Black Friday Pricing Strategy](https://kotaku.com/samsungs-32-odyssey-gaming-monitor-at-42-off-leaves-no-margin-for-cyber-week-sticking-with-its-black-friday-pricing-strategy-2000649664)
- - [Gran Turismo 7 Spec III &amp; Power Pack DLC available December 4](https://blog.playstation.com/2025/12/03/gran-turismo-7-spec-iii-power-pack-dlc-available-december-4/)
- - [Mario Kart World’s New Update Does The Most Obnoxious Thing](https://kotaku.com/mario-kart-world-update-1-4-0-patch-notes-track-volume-2000650066)<!-- GAME:END -->
+ - [Hard To Unlock Battlefield 6 Skin Seemingly Makes You Easier To Kill](https://kotaku.com/battlefield-6-tank-skin-bug-ea-horses-banned-humble-mlb-show-mobile-port-2000650096)
+ - [This Ray-Ban Meta smart glasses detector helpfully lights up the word &#39;glasshole&#39; when the specs are nearby, just so we&#39;re all aware of exactly what we&#39;re dealing with](https://www.pcgamer.com/hardware/this-ray-ban-meta-smart-glasses-detector-helpfully-lights-up-the-word-glasshole-when-the-specs-are-nearby-just-so-were-all-aware-of-exactly-what-were-dealing-with/)
+ - [Amazon Is Practically Giving Away the 2025 Xbox Wireless Controller, Keeping Its Black Friday Price to Empty the Warehouse](https://kotaku.com/amazon-xbox-wireless-controller-2025-black-friday-price-clearance-2000648975)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
