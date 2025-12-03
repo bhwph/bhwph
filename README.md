@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No need subtitle](http://9gag.com/gag/ajP3L9g)
- - 😝 [After 80 hours, it&#39;s finished](http://9gag.com/gag/a9y48Y1)
- - 👉 [Got to love corporate](http://9gag.com/gag/amoOmQj)<!-- MEMES:END -->
+ - 6️⃣ [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)
+ - 😝 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
+ - 👉 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)<!-- MEMES:END -->
 
 --- 
 
