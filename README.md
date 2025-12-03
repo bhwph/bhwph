@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Way better than twilight](http://9gag.com/gag/aAyLExd)
- - 😝 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
- - 👉 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)<!-- MEMES:END -->
+ - 6️⃣ [Cultural enrichment](http://9gag.com/gag/amoOmA6)
+ - 😝 [I hope 9gag won&#39;t delete this, it&#39;s funny](http://9gag.com/gag/aPAVodw)
+ - 👉 [No need subtitle](http://9gag.com/gag/ajP3L9g)<!-- MEMES:END -->
 
 --- 
 
