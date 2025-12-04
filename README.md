@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - 😝 [French f**ker](http://9gag.com/gag/apRnPjn)
- - 👉 [My New Favorite Sport.](http://9gag.com/gag/an70EBE)<!-- MEMES:END -->
+ - 6️⃣ [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
+ - 😝 [A fitting end](http://9gag.com/gag/abAL4PB)
+ - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
 
 --- 
 
