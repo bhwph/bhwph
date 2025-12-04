@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google TV with Gemini needs this new Alexa Plus feature, like, yesterday](https://www.androidauthority.com/alexa-plus-scene-3621874/)
- - [Satellites keep photobombing the Hubble telescope, and it’s getting worse](https://www.theverge.com/news/837652/hubble-telescope-satellite-light-pollution)
- - [Salesforce reports Q3 revenue up 8.6% YoY to $10.26B, vs. $10.27B est., and forecasts Q4 revenue above estimates; CRM jumps 5%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251203/p36#a251203p36)<!-- TECH:END -->
+ - [California Governor sees Apple CEO&#39;s dealings with Trump as part of his job](https://appleinsider.com/articles/25/12/04/california-governor-sees-apple-ceos-dealings-with-trump-as-part-of-his-job?utm_source=rss)
+ - [Snowflake and Anthropic announce a multi-year $200M deal to make Anthropic&#39;s Claude models available on Snowflake and deploy AI agents across enterprises &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/251203/p44#a251203p44)
+ - [Antigravity’s 360-degree drone is here to help you forget DJI](https://www.theverge.com/news/837922/antigravity-360-us-release-price-best-buy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
