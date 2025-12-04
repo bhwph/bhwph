@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU is probing Meta over WhatsApp’s AI chatbot restrictions](https://www.theverge.com/news/838020/meta-whatsapp-eu-antitrust-investigation-ai-tools)
- - [Sources: Amazon, the USPS&#39; top customer with $6B+ in revenue in 2025, is considering ending its deal at the end of 2026 and expanding its own delivery network &lpar;Jacob Bogage/Washington Post&rpar;](http://www.techmeme.com/251204/p20#a251204p20)
- - [You can finally force most apps to dark mode on your Pixel; here’s how](https://www.androidauthority.com/how-to-use-expanded-dark-mode-3622062/)<!-- TECH:END -->
+ - [Nvidia’s new RTX 50-series GPU driver restores PhysX support for popular games](https://www.theverge.com/news/838043/nvidia-rtx-50-series-physx-support-driver)
+ - [Sources: Meta plans deep budget cuts to its metaverse efforts in 2026, potentially as high as 30% and most likely including layoffs as early as January &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251204/p27#a251204p27)
+ - [Yahoo is using AI to recap football games in real time](https://www.theverge.com/ai-artificial-intelligence/837950/yahoo-sports-game-breakdowns-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
