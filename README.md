@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lunar Strike is a thoughtful, combat-free, speculative sci-fi survival game that&#39;s heavily grounded in real science](https://www.pcgamer.com/gaming-industry/events-conferences/lunar-strike-is-a-thoughtful-combat-free-speculative-sci-fi-survival-game-thats-heavily-grounded-in-real-science/)
- - [Cairn finally has a release date, so get ready to scramble your way through this atmospheric climbing game](https://www.pcgamer.com/gaming-industry/events-conferences/cairn-finally-has-a-release-date-so-get-ready-to-scramble-your-way-through-this-atmospheric-climbing-game/)
- - [Turn small puppers into huge doggos in new deckbuilding roguelike Dogpile, out now](https://www.pcgamer.com/gaming-industry/events-conferences/turn-small-puppers-into-huge-doggos-in-new-deckbuilding-roguelike-dogpile-out-now/)<!-- GAME:END -->
+ - [&#39;Everything is bigger&#39; in Slay the Spire 2, which has been crowned our Most Wanted game](https://www.pcgamer.com/gaming-industry/events-conferences/everything-is-bigger-in-slay-the-spire-2-which-has-been-crowned-our-most-wanted-game/)
+ - [Capture the heart of hectic sea battles in upcoming pirate themed survival crafting adventure, Windrose](https://www.pcgamer.com/gaming-industry/events-conferences/capture-the-heart-of-hectic-sea-battles-in-upcoming-pirate-themed-survival-crafting-adventure-windrose/)
+ - [Five Nights at Freddy&#39;s 2 review: a messy movie, lost in FNAF lore](https://www.polygon.com/five-nights-at-freddys-2-fnaf-movie-review-for-gamers/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
