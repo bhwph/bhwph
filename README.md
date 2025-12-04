@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of Circle to Search’s key features is getting continuous scrolling on Pixels](https://www.androidauthority.com/circle-to-search-continous-translation-3621994/)
- - [Google’s 2025 search recap is here, and the top results might surprise you](https://www.androidauthority.com/google-year-in-search-2025-3621989/)
- - [Thoughts on AI progress and why AI labs&#39; actions hint at a worldview in which AI models will continue to fare poorly at generalization and on-the-job learning &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/251204/p6#a251204p6)<!-- TECH:END -->
+ - [Sources: Beijing-based Cambricon plans to more than triple its AI chip production to 500K units in 2026, including 300K of its advanced Siyuan 590 and 690 chips &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/251204/p11#a251204p11)
+ - [Take my money: These are the 7 apps I gladly pay for every month](https://www.androidauthority.com/android-apps-i-pay-for-3621229/)
+ - [Google DeepMind&#39;s mechanistic interpretability team details why it shifted from fully reverse-engineering neural nets to a focus on &quot;pragmatic interpretability&quot; &lpar;AI Alignment Forum&rpar;](http://www.techmeme.com/251204/p10#a251204p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
