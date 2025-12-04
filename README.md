@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well it is what it is](http://9gag.com/gag/aBybEjz)
- - 😝 [The woman who drove a snowplow through a pro-Palestinian demonstration blocking a street in Toronto was found not guilty and received only a one-day suspension from her job.](http://9gag.com/gag/aBybPPx)
- - 👉 [It&#39;s true](http://9gag.com/gag/aBybPnZ)<!-- MEMES:END -->
+ - 6️⃣ [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
+ - 😝 [French f**ker](http://9gag.com/gag/apRnPjn)
+ - 👉 [My New Favorite Sport.](http://9gag.com/gag/an70EBE)<!-- MEMES:END -->
 
 --- 
 
