@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The woman who drove a snowplow through a pro-Palestinian demonstration blocking a street in Toronto was found not guilty and received only a one-day suspension from her job.](http://9gag.com/gag/aBybPPx)
- - 😝 [It&#39;s true](http://9gag.com/gag/aBybPnZ)
- - 👉 [He put his paw on the button and won&#39;t let go](http://9gag.com/gag/a87veX6)<!-- MEMES:END -->
+ - 6️⃣ [Food is not a drug, but that cheese pull is addictive](http://9gag.com/gag/aE0jDBo)
+ - 😝 [He put his paw on the button and won&#39;t let go](http://9gag.com/gag/a87veX6)
+ - 👉 [Just wanted to share some positive message. Now excuse me, I am going to suck some like a good OP would.](http://9gag.com/gag/avyBEPn)<!-- MEMES:END -->
 
 --- 
 
