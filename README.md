@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Galaxy Watch 6 just got a major upgrade in the US with One UI 8 Watch &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-6-one-ui-8-watch-us-rollout-3619703/)
- - [Jon M. Chu Says AI Couldn’t Have Made One of Wicked’s Best Moments](https://www.wired.com/story/big-interview-event-jon-chu-wicked/)
- - [Need a charge? Here’s a hot deal on the Anker SOLIX C300 DC Power Bank Station](https://www.androidauthority.com/anker-solix-c300-dc-power-bank-station-deal-3622324/)<!-- TECH:END -->
+ - [The PlayStation 5 Pro has never been cheaper than right now](https://www.androidauthority.com/playstation-5-pro-deal-2-3622321/)
+ - [Cloudflare Has Blocked 416 Billion AI Bot Requests Since July 1](https://www.wired.com/story/big-interview-event-matthew-prince-cloudflare/)
+ - [Apple says general counsel Kate Adams and policy chief Lisa Jackson will retire, and Jennifer Newstead, Meta&#39;s former chief legal officer, will replace Adams &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251204/p45#a251204p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
