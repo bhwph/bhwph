@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA 4 Is 17 Years Old But Looks Practically Next-Gen Thanks To A New Mod](https://kotaku.com/gta-4-grand-theft-auto-iv-rtx-remix-mod-download-comparison-pc-2000650202)
- - [GameStop gives someone a historic $30,000 trade-in payout for an ultra-rare Pokémon card, then takes aim at the &#39;trolls&#39; for some reason](https://www.pcgamer.com/games/card-games/gamestop-gives-someone-a-historic-usd30-000-trade-in-payout-for-an-ultra-rare-pokemon-card-then-takes-aim-at-the-trolls-for-some-reason/)
- - [Finance Bro Thinks It Would Be Cool To Turn Your Entire Life Into The Stock Market](https://kotaku.com/finance-bro-thinks-it-would-be-cool-to-turn-your-entire-life-into-the-stock-market-2000650201)<!-- GAME:END -->
+ - [Pixel 10 Drops to Record Low Only 3 Months After Launch, Now Cheaper Than Mid-Range Android Phones](https://kotaku.com/pixel-10-drops-to-record-low-only-3-months-after-launch-now-cheaper-than-mid-range-android-phones-2000650110)
+ - [A weird, never-released NES horror JRPG no one knew about 2 years ago is now translated and fully playable](https://www.pcgamer.com/games/horror/a-weird-never-released-nes-horror-jrpg-no-one-knew-about-2-years-ago-is-now-translated-and-fully-playable/)
+ - [Our newest quiz should be a cakewalk: All you gotta do is name the game each cake is from!](https://www.pcgamer.com/games/our-newest-quiz-should-be-a-cakewalk-all-you-gotta-do-is-name-the-game-each-cake-is-from/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
