@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Horses review: the banned Steam game isn&#39;t that scandalous](https://www.polygon.com/horses-banned-game-review/)
- - [&#39;This is a race towards who can get more and more of the world’s 7.5 billion people to become subscribers&#39;: IBM&#39;s CEO says the AI industry isn&#39;t a bubble](https://www.pcgamer.com/software/ai/this-is-a-race-towards-who-can-get-more-and-more-of-the-worlds-7-5-billion-people-to-become-subscribers-ibms-ceo-says-the-ai-industry-isnt-a-bubble/)
- - [Ghost In The Shell Director Is Obsessed With Fallout 4 And Killing The Brotherhood](https://kotaku.com/fallout-4-mamoru-oshii-ghost-in-the-shell-angels-egg-2000650505)<!-- GAME:END -->
+ - [How to open the Temple Entrance door in Metroid Prime 4: Beyond](https://www.polygon.com/metroid-prime-4-temple-entrance-door-puzzle-solution/)
+ - [Amazon Pushes the Razer Customizable Gaming Keypad to Its Lowest Price as Stock Runs Out](https://kotaku.com/amazon-pushes-the-razer-customizable-gaming-keypad-to-its-lowest-price-as-stock-runs-out-2000650248)
+ - [Call Of Duty: Black Ops 7 Can’t Catch A Break: ‘All Year Call Of Duty’s Numbers Have Been Quite Low’](https://kotaku.com/black-ops-7-helldivers-2-lava-skyblivion-delay-2000650525)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
