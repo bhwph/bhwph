@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to open the Temple Entrance door in Metroid Prime 4: Beyond](https://www.polygon.com/metroid-prime-4-temple-entrance-door-puzzle-solution/)
- - [Amazon Pushes the Razer Customizable Gaming Keypad to Its Lowest Price as Stock Runs Out](https://kotaku.com/amazon-pushes-the-razer-customizable-gaming-keypad-to-its-lowest-price-as-stock-runs-out-2000650248)
- - [Call Of Duty: Black Ops 7 Can’t Catch A Break: ‘All Year Call Of Duty’s Numbers Have Been Quite Low’](https://kotaku.com/black-ops-7-helldivers-2-lava-skyblivion-delay-2000650525)<!-- GAME:END -->
+ - [Magic&#39;s Final Fantasy 1 Scene Box goes all in on D&amp;D-inspired Party mechanics](https://www.polygon.com/magic-final-fantasy-1-scene-box-legendary-commander/)
+ - [All amiibo unlocks and rewards in Metroid Prime 4: Beyond](https://www.polygon.com/metroid-prime-4-amiibo-unlocks-rewards/)
+ - [Where to find mushrooms in Arc Raiders](https://www.polygon.com/arc-raiders-mushrooms-location-where-to-find/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
