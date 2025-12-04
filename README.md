@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well said, lady](http://9gag.com/gag/apRnPeB)
- - 😝 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)
- - 👉 [It&#39;s good to have a supportive friends](http://9gag.com/gag/aW4ebZA)<!-- MEMES:END -->
+ - 6️⃣ [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
+ - 😝 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)
+ - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
 
 --- 
 
