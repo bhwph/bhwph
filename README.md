@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
- - 😝 [A fitting end](http://9gag.com/gag/abAL4PB)
- - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
+ - 6️⃣ [The woman who drove a snowplow through a pro-Palestinian demonstration blocking a street in Toronto was found not guilty and received only a one-day suspension from her job.](http://9gag.com/gag/aBybPPx)
+ - 😝 [It&#39;s true](http://9gag.com/gag/aBybPnZ)
+ - 👉 [He put his paw on the button and won&#39;t let go](http://9gag.com/gag/a87veX6)<!-- MEMES:END -->
 
 --- 
 
