@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
- - 😝 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)
- - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
+ - 6️⃣ [Well it is what it is](http://9gag.com/gag/aBybEjz)
+ - 😝 [The woman who drove a snowplow through a pro-Palestinian demonstration blocking a street in Toronto was found not guilty and received only a one-day suspension from her job.](http://9gag.com/gag/aBybPPx)
+ - 👉 [It&#39;s true](http://9gag.com/gag/aBybPnZ)<!-- MEMES:END -->
 
 --- 
 
