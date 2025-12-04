@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom is finally available to read digitally on the Shonen Jump app](https://www.polygon.com/kingdom-manga-read-online-shonen-jump-app/)
- - [PC Gamer magazine&#39;s new issue is on sale now: Dinolords](https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-dinolords/)
- - [8 Metroid Prime 4: Beyond beginner&#39;s tips to give you an ESP-ecially good start](https://www.polygon.com/metroid-prime-4-beyond-beginner-tips-tricks/)<!-- GAME:END -->
+ - [DJI Clears Out Its Mic Mini Combo at 50% Off, Even Cheaper Than Black Friday and Cyber Monday](https://kotaku.com/dji-mic-mini-combo-50-off-cheaper-than-black-friday-2000650220)
+ - [Amazon Clears JBL Go 4 Tiny Bluetooth Speaker Leftover Cyber Monday Stock, Goes to Record Low](https://kotaku.com/amazon-clears-jbl-go-4-tiny-bluetooth-speaker-leftover-cyber-monday-stock-goes-to-record-low-2000650147)
+ - [The fact Arc Raiders players are griping about its thin endgame—despite the fact only 5% of players have reached it—is proof you can min-max the fun out of anything](https://www.pcgamer.com/games/third-person-shooter/the-fact-arc-raiders-players-are-griping-about-its-thin-endgame-despite-the-fact-only-5-percent-of-players-have-reached-it-is-proof-you-can-min-max-the-fun-out-of-anything/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
