@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic&#39;s Final Fantasy 1 Scene Box goes all in on D&amp;D-inspired Party mechanics](https://www.polygon.com/magic-final-fantasy-1-scene-box-legendary-commander/)
- - [All amiibo unlocks and rewards in Metroid Prime 4: Beyond](https://www.polygon.com/metroid-prime-4-amiibo-unlocks-rewards/)
- - [Where to find mushrooms in Arc Raiders](https://www.polygon.com/arc-raiders-mushrooms-location-where-to-find/)<!-- GAME:END -->
+ - [Lunar Strike is a thoughtful, combat-free, speculative sci-fi survival game that&#39;s heavily grounded in real science](https://www.pcgamer.com/gaming-industry/events-conferences/lunar-strike-is-a-thoughtful-combat-free-speculative-sci-fi-survival-game-thats-heavily-grounded-in-real-science/)
+ - [Cairn finally has a release date, so get ready to scramble your way through this atmospheric climbing game](https://www.pcgamer.com/gaming-industry/events-conferences/cairn-finally-has-a-release-date-so-get-ready-to-scramble-your-way-through-this-atmospheric-climbing-game/)
+ - [Turn small puppers into huge doggos in new deckbuilding roguelike Dogpile, out now](https://www.pcgamer.com/gaming-industry/events-conferences/turn-small-puppers-into-huge-doggos-in-new-deckbuilding-roguelike-dogpile-out-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
