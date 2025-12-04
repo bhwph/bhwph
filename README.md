@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify wants to be the next big video service](https://www.theverge.com/column/837829/spotify-video-service)
- - [OnePlus launches US preorders for the $899.99+ OnePlus 15 after receiving FCC clearance, which had been delayed due to the US government shutdown &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251204/p32#a251204p32)
- - [Did the December Pixel update break some gesture input? You’re not alone](https://www.androidauthority.com/december-pixel-update-one-handed-mode-notification-panel-issue-3622198/)<!-- TECH:END -->
+ - [Russia shutters FaceTime as it tightens control over apps &amp; communication](https://appleinsider.com/articles/25/12/04/russia-shutters-facetime-as-it-tightens-control-over-apps-communication?utm_source=rss)
+ - [Ray-Ban’s Meta smart glasses are even cheaper than they were on Black Friday](https://www.theverge.com/tech/838261/ray-ban-meta-smart-glasses-cyber-week-2025-deal-sale)
+ - [Amazon’s Kindle Scribe Colorsoft drops just in time for holiday gifting](https://www.androidauthority.com/kindle-scribe-colorsoft-available-december-10-3622281/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
