@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple replacing Alan Dye with Stephen Lemay may fix Jony Ive&#39;s mistake by restoring the Jobsian &quot;design is how it works&quot; ethos in Apple&#39;s UI design &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/251204/p3#a251204p3)
- - [Nomad Goods Promo Codes: 25% Off](https://www.wired.com/story/nomad-discount-code/)
- - [Paris-based CRM unicorn Brevo, formerly known as Sendinblue, raised €500M and says it surpassed €200M in ARR in 2025 &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251204/p2#a251204p2)<!-- TECH:END -->
+ - [One of Circle to Search’s key features is getting continuous scrolling on Pixels](https://www.androidauthority.com/circle-to-search-continous-translation-3621994/)
+ - [Google’s 2025 search recap is here, and the top results might surprise you](https://www.androidauthority.com/google-year-in-search-2025-3621989/)
+ - [Thoughts on AI progress and why AI labs&#39; actions hint at a worldview in which AI models will continue to fare poorly at generalization and on-the-job learning &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/251204/p6#a251204p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
