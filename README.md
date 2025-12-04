@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [DJI Clears Out Its Mic Mini Combo at 50% Off, Even Cheaper Than Black Friday and Cyber Monday](https://kotaku.com/dji-mic-mini-combo-50-off-cheaper-than-black-friday-2000650220)
- - [Amazon Clears JBL Go 4 Tiny Bluetooth Speaker Leftover Cyber Monday Stock, Goes to Record Low](https://kotaku.com/amazon-clears-jbl-go-4-tiny-bluetooth-speaker-leftover-cyber-monday-stock-goes-to-record-low-2000650147)
- - [The fact Arc Raiders players are griping about its thin endgame—despite the fact only 5% of players have reached it—is proof you can min-max the fun out of anything](https://www.pcgamer.com/games/third-person-shooter/the-fact-arc-raiders-players-are-griping-about-its-thin-endgame-despite-the-fact-only-5-percent-of-players-have-reached-it-is-proof-you-can-min-max-the-fun-out-of-anything/)<!-- GAME:END -->
+ - [Horses review: the banned Steam game isn&#39;t that scandalous](https://www.polygon.com/horses-banned-game-review/)
+ - [&#39;This is a race towards who can get more and more of the world’s 7.5 billion people to become subscribers&#39;: IBM&#39;s CEO says the AI industry isn&#39;t a bubble](https://www.pcgamer.com/software/ai/this-is-a-race-towards-who-can-get-more-and-more-of-the-worlds-7-5-billion-people-to-become-subscribers-ibms-ceo-says-the-ai-industry-isnt-a-bubble/)
+ - [Ghost In The Shell Director Is Obsessed With Fallout 4 And Killing The Brotherhood](https://kotaku.com/fallout-4-mamoru-oshii-ghost-in-the-shell-angels-egg-2000650505)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
