@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia shutters FaceTime as it tightens control over apps &amp; communication](https://appleinsider.com/articles/25/12/04/russia-shutters-facetime-as-it-tightens-control-over-apps-communication?utm_source=rss)
- - [Ray-Ban’s Meta smart glasses are even cheaper than they were on Black Friday](https://www.theverge.com/tech/838261/ray-ban-meta-smart-glasses-cyber-week-2025-deal-sale)
- - [Amazon’s Kindle Scribe Colorsoft drops just in time for holiday gifting](https://www.androidauthority.com/kindle-scribe-colorsoft-available-december-10-3622281/)<!-- TECH:END -->
+ - [Your Galaxy Watch 6 just got a major upgrade in the US with One UI 8 Watch &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-6-one-ui-8-watch-us-rollout-3619703/)
+ - [Jon M. Chu Says AI Couldn’t Have Made One of Wicked’s Best Moments](https://www.wired.com/story/big-interview-event-jon-chu-wicked/)
+ - [Need a charge? Here’s a hot deal on the Anker SOLIX C300 DC Power Bank Station](https://www.androidauthority.com/anker-solix-c300-dc-power-bank-station-deal-3622324/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
