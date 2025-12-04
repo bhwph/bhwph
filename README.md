@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pixel 10 Drops to Record Low Only 3 Months After Launch, Now Cheaper Than Mid-Range Android Phones](https://kotaku.com/pixel-10-drops-to-record-low-only-3-months-after-launch-now-cheaper-than-mid-range-android-phones-2000650110)
- - [A weird, never-released NES horror JRPG no one knew about 2 years ago is now translated and fully playable](https://www.pcgamer.com/games/horror/a-weird-never-released-nes-horror-jrpg-no-one-knew-about-2-years-ago-is-now-translated-and-fully-playable/)
- - [Our newest quiz should be a cakewalk: All you gotta do is name the game each cake is from!](https://www.pcgamer.com/games/our-newest-quiz-should-be-a-cakewalk-all-you-gotta-do-is-name-the-game-each-cake-is-from/)<!-- GAME:END -->
+ - [8 Metroid Prime 4: Beyond beginner&#39;s tips to give you an ESP-ecially good start](https://www.polygon.com/metroid-prime-4-beyond-beginner-tips-tricks/)
+ - [Where to find town upgrades in Octopath Traveler 0](https://www.polygon.com/octopath-traveler-0-town-upgrades-recipes-blueprint-where-to-find/)
+ - [All original Octopath Traveler companion locations in Octopath Traveler 0](https://www.polygon.com/octopath-traveler-0-original-game-companions-locations/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
