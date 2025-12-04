@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Beijing-based Cambricon plans to more than triple its AI chip production to 500K units in 2026, including 300K of its advanced Siyuan 590 and 690 chips &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/251204/p11#a251204p11)
- - [Take my money: These are the 7 apps I gladly pay for every month](https://www.androidauthority.com/android-apps-i-pay-for-3621229/)
- - [Google DeepMind&#39;s mechanistic interpretability team details why it shifted from fully reverse-engineering neural nets to a focus on &quot;pragmatic interpretability&quot; &lpar;AI Alignment Forum&rpar;](http://www.techmeme.com/251204/p10#a251204p10)<!-- TECH:END -->
+ - [The EU is probing Meta over WhatsApp’s AI chatbot restrictions](https://www.theverge.com/news/838020/meta-whatsapp-eu-antitrust-investigation-ai-tools)
+ - [Sources: Amazon, the USPS&#39; top customer with $6B+ in revenue in 2025, is considering ending its deal at the end of 2026 and expanding its own delivery network &lpar;Jacob Bogage/Washington Post&rpar;](http://www.techmeme.com/251204/p20#a251204p20)
+ - [You can finally force most apps to dark mode on your Pixel; here’s how](https://www.androidauthority.com/how-to-use-expanded-dark-mode-3622062/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
