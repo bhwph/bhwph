@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
- - 😝 [Well well well ...](http://9gag.com/gag/a0eDn3B)
- - 👉 [Whats the reason for recent RAM price hike ?](http://9gag.com/gag/aqyVx6M)<!-- MEMES:END -->
+ - 6️⃣ [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - 😝 [The hardest english word to pronounce](http://9gag.com/gag/ajP3xMp)
+ - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
 
 --- 
 
