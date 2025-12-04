@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia’s new RTX 50-series GPU driver restores PhysX support for popular games](https://www.theverge.com/news/838043/nvidia-rtx-50-series-physx-support-driver)
- - [Sources: Meta plans deep budget cuts to its metaverse efforts in 2026, potentially as high as 30% and most likely including layoffs as early as January &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251204/p27#a251204p27)
- - [Yahoo is using AI to recap football games in real time](https://www.theverge.com/ai-artificial-intelligence/837950/yahoo-sports-game-breakdowns-ai)<!-- TECH:END -->
+ - [Spotify wants to be the next big video service](https://www.theverge.com/column/837829/spotify-video-service)
+ - [OnePlus launches US preorders for the $899.99+ OnePlus 15 after receiving FCC clearance, which had been delayed due to the US government shutdown &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251204/p32#a251204p32)
+ - [Did the December Pixel update break some gesture input? You’re not alone](https://www.androidauthority.com/december-pixel-update-one-handed-mode-notification-panel-issue-3622198/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
