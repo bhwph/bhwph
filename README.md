@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well said, lady](http://9gag.com/gag/apRnPeB)
- - 😝 [The hardest english word to pronounce](http://9gag.com/gag/ajP3xMp)
- - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
+ - 6️⃣ [The hardest english word to pronounce](http://9gag.com/gag/ajP3xMp)
+ - 😝 [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - 👉 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
 
 --- 
 
