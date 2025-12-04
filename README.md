@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Reverse uno card](http://9gag.com/gag/axyeOpb)
- - 😝 [Some people just dont learn](http://9gag.com/gag/a9y48NL)
- - 👉 [Well said, lady](http://9gag.com/gag/apRnPeB)<!-- MEMES:END -->
+ - 6️⃣ [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
+ - 😝 [Well well well ...](http://9gag.com/gag/a0eDn3B)
+ - 👉 [Whats the reason for recent RAM price hike ?](http://9gag.com/gag/aqyVx6M)<!-- MEMES:END -->
 
 --- 
 
