@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [California Governor sees Apple CEO&#39;s dealings with Trump as part of his job](https://appleinsider.com/articles/25/12/04/california-governor-sees-apple-ceos-dealings-with-trump-as-part-of-his-job?utm_source=rss)
- - [Snowflake and Anthropic announce a multi-year $200M deal to make Anthropic&#39;s Claude models available on Snowflake and deploy AI agents across enterprises &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/251203/p44#a251203p44)
- - [Antigravity’s 360-degree drone is here to help you forget DJI](https://www.theverge.com/news/837922/antigravity-360-us-release-price-best-buy)<!-- TECH:END -->
+ - [Samsung’s mysterious ‘First Look’ event in January teases major reveals](https://www.androidauthority.com/samsung-first-look-event-ces-2026-3621969/)
+ - [The Trump administration orders enhanced vetting of H-1B applicants and their families for past work in &quot;censorship&quot;, including fact-checking and online safety &lpar;Humeyra Pamuk/Reuters&rpar;](http://www.techmeme.com/251203/p48#a251203p48)
+ - [Seattle-based Gradial, which makes AI tools that automate enterprise marketing workflows, raised a $35M Series B led by VMG Partners at a $350M valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/251203/p47#a251203p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
