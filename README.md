@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well said, lady](http://9gag.com/gag/apRnPeB)
- - 😝 [Reverse uno card](http://9gag.com/gag/axyeOpb)
- - 👉 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)<!-- MEMES:END -->
+ - 6️⃣ [Reverse uno card](http://9gag.com/gag/axyeOpb)
+ - 😝 [Some people just dont learn](http://9gag.com/gag/a9y48NL)
+ - 👉 [Well said, lady](http://9gag.com/gag/apRnPeB)<!-- MEMES:END -->
 
 --- 
 
