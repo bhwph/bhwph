@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [HP 17.3″ Ryzen 5 Laptop at 70% Off Leaves No Margin Behind, Brand-New Winows 11 Pro PC Priced Like Refurbished](https://kotaku.com/hp-17-3-ryzen-5-laptop-at-70-off-leaves-no-margin-behind-brand-new-winows-11-pro-pc-priced-like-refurbished-2000650841)
- - [Elden Ring Nightreign&#39;s Forsaken Hollows DLC is magical and terrifying](https://www.polygon.com/elden-ring-nightreign-forsaken-hollows-gameplay-map-mysteries/)
- - [Dragon Age Day Comes And Goes In Complete Silence Just One Year After Veilguard](https://kotaku.com/dragon-age-the-veilguard-day-bioware-layoffs-december-4-2000650888)<!-- GAME:END -->
+ - [&#39;We ended up flipping a coin&#39;: Slay the Spire devs left it up to pure chance whether they&#39;d make a sequel or something else](https://www.pcgamer.com/games/card-games/we-ended-up-flipping-a-coin-slay-the-spire-devs-left-it-up-to-pure-chance-whether-theyd-make-a-sequel-or-something-else/)
+ - [Avatar: Frontier’s of Pandora’s third-person mode was lot harder to develop than you’d think](https://www.polygon.com/avatar-frontiers-pandora-third-person-mode-ubisoft-interview/)
+ - [How to kill Oscar in Black Ops 7 Zombies and get the LGM-1 wonder weapon](https://www.polygon.com/black-ops-7-bo7-oscar-zombies-astra-malorum-how-to-kill/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
