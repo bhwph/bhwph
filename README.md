@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He looks happy](http://9gag.com/gag/aZZ4jy9)
- - 😝 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - 👉 [Perfectly balanced..](http://9gag.com/gag/a87v236)<!-- MEMES:END -->
+ - 6️⃣ [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - 😝 [Haripur Pakistan&#39;s &#39;Fire Mountain&#39; Continues to Burn Decades After 1955 Gas Blast](http://9gag.com/gag/aNDGVOv)
+ - 👉 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)<!-- MEMES:END -->
 
 --- 
 
