@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - 6️⃣ [But wait there&#39;s more \ud83d\udc80](http://9gag.com/gag/a2vADL9)
  - 😝 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
- - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
+ - 👉 [Her cooking skills are unmatched](http://9gag.com/gag/aQzD2Gz)<!-- MEMES:END -->
 
 --- 
 
