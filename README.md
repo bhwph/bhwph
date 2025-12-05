@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Should we tell her?](http://9gag.com/gag/aryDZwV)
- - 😝 [Best examples?](http://9gag.com/gag/axyePZb)
- - 👉 [Well said, lady](http://9gag.com/gag/apRnPeB)<!-- MEMES:END -->
+ - 6️⃣ [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - 😝 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
+ - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
 
 --- 
 
