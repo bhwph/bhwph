@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This portable Google TV projector might be the perfect compromise for a secondary screen](https://www.androidauthority.com/epson-lifestudio-flex-plus-review-3619610/)
- - [I bought the cheaper Pixel Buds, and I regret nothing](https://www.androidauthority.com/google-pixel-buds-2a-perfect-replacement-3620717/)
- - [Microsoft finally has a better looking Run dialog for Windows 11](https://www.theverge.com/news/838798/microsoft-windows-11-run-dialog-new-ui-dark-mode)<!-- TECH:END -->
+ - [Netflix agrees to buy WBD&#39;s studios and streaming business in an $82.7B cash and stock deal; the transaction is expected to close after Q3 2026 &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/251205/p13#a251205p13)
+ - [The Best Meal Replacement Shakes for Total Life Optimization &lpar;2025&rpar;](https://www.wired.com/gallery/best-liquid-meal-replacements/)
+ - [EU fines X $140 million over ‘deceptive’ blue checkmarks](https://www.theverge.com/news/645154/eu-fines-x-dsa-violations-xai-elon-musk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
