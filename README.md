@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [LoTR](http://9gag.com/gag/aO8nPVr)
- - 😝 [Just a friendly reminder to know your limits when playing party games](http://9gag.com/gag/an70DZ5)
- - 👉 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)<!-- MEMES:END -->
+ - 6️⃣ [If your life seems difficult, there are worse things](http://9gag.com/gag/a1m8L2Y)
+ - 😝 [Stay happy](http://9gag.com/gag/aKGXemQ)
+ - 👉 [His own worst enemy](http://9gag.com/gag/aD2qXbx)<!-- MEMES:END -->
 
 --- 
 
