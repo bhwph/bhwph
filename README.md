@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The NHTSA asks Waymo about its self-driving vehicles illegally passing school buses, including 19 times in Texas this year, as part of a probe opened in October &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/251204/p57#a251204p57)
- - [Sources: Masayoshi Son plans with the White House to build &quot;Trump Industrial Parks&quot; in the US to produce AI infrastructure parts, funded by Japan&#39;s trade deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251204/p56#a251204p56)
- - [How to buy a used Mac and not get ripped off](https://appleinsider.com/articles/25/12/05/how-to-buy-a-used-mac-and-not-get-ripped-off?utm_source=rss)<!-- TECH:END -->
+ - [Similarweb: generative AI platforms were averaging ~7B monthly web visits as of September 2025, up 76% YoY, rivaling the traffic of major social networks &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/251205/p3#a251205p3)
+ - [Womanizer Coupons: Save 15% in December](https://www.wired.com/story/womanizer-coupon/)
+ - [CEO Matthew Prince says Cloudflare has blocked 416B AI bot requests for its customers since July 1, and that Google can see 3.2x more internet pages than OpenAI &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/251205/p2#a251205p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
