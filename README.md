@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just a friendly reminder to know your limits when playing party games](http://9gag.com/gag/an70DZ5)
- - 😝 [LoTR](http://9gag.com/gag/aO8nPVr)
- - 👉 [He looks happy](http://9gag.com/gag/aZZ4jy9)<!-- MEMES:END -->
+ - 6️⃣ [Takes a lot of work to make crack](http://9gag.com/gag/a2vAb2Y)
+ - 😝 [Stay happy](http://9gag.com/gag/aKGXemQ)
+ - 👉 [His own worst enemy](http://9gag.com/gag/aD2qXbx)<!-- MEMES:END -->
 
 --- 
 
