@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [During Nvidia&#39;s formative years, its CEO reckons it &#39;had a mission statement for a company that has no chance of success&#39; but it was fine because Sega&#39;s CEO thought &#39;Jensen was a young man he liked&#39;](https://www.pcgamer.com/hardware/graphics-cards/during-nvidias-formative-years-its-ceo-reckons-it-had-a-mission-statement-for-a-company-that-has-no-chance-of-success-but-it-was-fine-because-segas-ceo-thought-jensen-was-a-young-man-he-liked/)
- - [Yep, Cloudflare was just down. Again](https://www.pcgamer.com/hardware/yep-cloudflare-was-just-down-again/)
- - [Govee Liquidates TV Backlight for More Immersive Movies, Now Selling at Record Low on Amazon](https://kotaku.com/govee-liquidates-tv-backlight-for-more-immersive-movies-now-selling-at-record-low-on-amazon-2000650582)<!-- GAME:END -->
+ - [Sandisk WD Blue SN5100 NVMe SSD review](https://www.pcgamer.com/hardware/ssds/sandisk-wd-blue-sn5100-nvme-ssd-review/)
+ - [Apple Quickly Drops M4 Mac Mini Price Again After Its Post-Black Friday Hike to Rival Windows Mini PC Holiday Deals](https://kotaku.com/apple-m4-mac-mini-price-drop-post-black-friday-holiday-windows-mini-pc-deals-2000650662)
+ - [Netflix Could Be About To Buy HBO, Warner, And Batman Himself](https://kotaku.com/netflix-warner-bros-deal-batman-hbo-max-2000650875)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
