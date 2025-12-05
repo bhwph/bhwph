@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumor suggest obvious: iPhone Fold to be eSIM only](https://appleinsider.com/articles/25/12/05/rumor-suggest-obvious-iphone-fold-to-be-esim-only?utm_source=rss)
- - [The NYT sues Perplexity, claiming the AI startup violated its copyrights and failed to stop using its content despite repeated demands over the past 18 months &lpar;New York Times&rpar;](http://www.techmeme.com/251205/p18#a251205p18)
- - [Netflix has lined up a $59B unsecured bridge loan from Wells Fargo, HSBC, and BNP Paribas for its WBD deal, one of the largest ever unsecured bridge loans &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p17#a251205p17)<!-- TECH:END -->
+ - [Latest trademark suggests Starlink Mobile cellular service may be inevitable, but when?](https://www.androidauthority.com/starlink-mobile-3622645/)
+ - [The clock may have finally run out on this long-running Wear OS brand](https://www.androidauthority.com/mobvoi-ticwatch-lineup-dead-3622682/)
+ - [Here’s What You Should Know About Launching an AI Startup](https://www.wired.com/story/artificial-intelligence-startups-daydream-fashion-recommendations/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
