@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sandisk WD Blue SN5100 NVMe SSD review](https://www.pcgamer.com/hardware/ssds/sandisk-wd-blue-sn5100-nvme-ssd-review/)
- - [Apple Quickly Drops M4 Mac Mini Price Again After Its Post-Black Friday Hike to Rival Windows Mini PC Holiday Deals](https://kotaku.com/apple-m4-mac-mini-price-drop-post-black-friday-holiday-windows-mini-pc-deals-2000650662)
- - [Netflix Could Be About To Buy HBO, Warner, And Batman Himself](https://kotaku.com/netflix-warner-bros-deal-batman-hbo-max-2000650875)<!-- GAME:END -->
+ - [HP 17.3″ Ryzen 5 Laptop at 70% Off Leaves No Margin Behind, Brand-New Winows 11 Pro PC Priced Like Refurbished](https://kotaku.com/hp-17-3-ryzen-5-laptop-at-70-off-leaves-no-margin-behind-brand-new-winows-11-pro-pc-priced-like-refurbished-2000650841)
+ - [Elden Ring Nightreign&#39;s Forsaken Hollows DLC is magical and terrifying](https://www.polygon.com/elden-ring-nightreign-forsaken-hollows-gameplay-map-mysteries/)
+ - [Dragon Age Day Comes And Goes In Complete Silence Just One Year After Veilguard](https://kotaku.com/dragon-age-the-veilguard-day-bioware-layoffs-december-4-2000650888)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
