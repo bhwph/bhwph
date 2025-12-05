@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WBD confirms that Warner Bros. Games will be acquired by Netflix along with its wider streaming and television business &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/251205/p30#a251205p30)
- - [Google Play Books is turning 15, and you can get bonus Play Points to celebrate](https://www.androidauthority.com/google-play-books-bonus-points-3622866/)
- - [Gboard’s Expressive redesign and emoji tweaks finally start appearing](https://www.androidauthority.com/gboard-material-3-expressive-rollout-3622810/)<!-- TECH:END -->
+ - [Welcome to the big leagues, Netflix](https://www.theverge.com/entertainment/839480/netflix-warner-bros-acquisition-hbo-theatrical-releases-layoffs)
+ - [Amazon&#39;s top holiday deals: AirPods 4 ANC $99, $450 off iPad Pro, Apple Watch $199, Mac from $499, more](https://appleinsider.com/articles/25/12/05/amazons-top-holiday-deals-airpods-4-anc-99-450-off-ipad-pro-apple-watch-199-mac-from-499-more?utm_source=rss)
+ - [Time to check your old Assistant speaker — more third-party models are getting Gemini](https://www.androidauthority.com/gemini-third-party-speakers-displays-3622891/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
