@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The council of men approves](http://9gag.com/gag/avyBv8q)
- - 😝 [Happens to everyone pal](http://9gag.com/gag/agmp2Zw)
- - 👉 [Takes a lot of work to make crack](http://9gag.com/gag/a2vAb2Y)<!-- MEMES:END -->
+ - 6️⃣ [Just a friendly reminder to know your limits when playing party games](http://9gag.com/gag/an70DZ5)
+ - 😝 [LoTR](http://9gag.com/gag/aO8nPVr)
+ - 👉 [He looks happy](http://9gag.com/gag/aZZ4jy9)<!-- MEMES:END -->
 
 --- 
 
