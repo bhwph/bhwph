@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The hardest english word to pronounce](http://9gag.com/gag/ajP3xMp)
- - 😝 [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - 6️⃣ [He looks happy](http://9gag.com/gag/aZZ4jy9)
+ - 😝 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)
  - 👉 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
 
 --- 
