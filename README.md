@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We ended up flipping a coin&#39;: Slay the Spire devs left it up to pure chance whether they&#39;d make a sequel or something else](https://www.pcgamer.com/games/card-games/we-ended-up-flipping-a-coin-slay-the-spire-devs-left-it-up-to-pure-chance-whether-theyd-make-a-sequel-or-something-else/)
- - [Avatar: Frontier’s of Pandora’s third-person mode was lot harder to develop than you’d think](https://www.polygon.com/avatar-frontiers-pandora-third-person-mode-ubisoft-interview/)
- - [How to kill Oscar in Black Ops 7 Zombies and get the LGM-1 wonder weapon](https://www.polygon.com/black-ops-7-bo7-oscar-zombies-astra-malorum-how-to-kill/)<!-- GAME:END -->
+ - [The Lord of the Rings trilogy returns to movie theaters in 2026, with a 4D twist](https://www.polygon.com/lord-of-the-rings-extended-editions-2026-theatrical-release-4dx-dbox/)
+ - [Dell Adds a 4.6-Star Mini PC at 71% Off to Its Clearance Push, Going Beyond Just Laptop Deals](https://kotaku.com/dell-adds-a-4-6-star-mini-pc-at-71-off-to-its-clearance-push-going-beyond-just-laptop-deals-2000650934)
+ - [Netflix Says It’s Not Destroying Hollywood: ‘We’re Saving’ It](https://kotaku.com/netflix-warner-bros-acquisition-batman-hbo-2000651036)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
