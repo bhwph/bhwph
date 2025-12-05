@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The PlayStation 5 Pro has never been cheaper than right now](https://www.androidauthority.com/playstation-5-pro-deal-2-3622321/)
- - [Cloudflare Has Blocked 416 Billion AI Bot Requests Since July 1](https://www.wired.com/story/big-interview-event-matthew-prince-cloudflare/)
- - [Apple says general counsel Kate Adams and policy chief Lisa Jackson will retire, and Jennifer Newstead, Meta&#39;s former chief legal officer, will replace Adams &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251204/p45#a251204p45)<!-- TECH:END -->
+ - [David Hogg to Democratic Establishment: Get the Message or Get Voted Out](https://www.wired.com/story/big-interview-event-david-hogg/)
+ - [Docusign reports Q3 revenue up 8% YoY to $818.4M, vs. $807.1M est., and forecasts Q4 revenue below estimates; DOCU drops 6%+ after hours &lpar;Arvelisse Bonilla Ramos/Bloomberg&rpar;](http://www.techmeme.com/251204/p52#a251204p52)
+ - [Chinese AI chipmaker Moore Threads raised ~$1.13B in the year&#39;s second-largest onshore IPO, valuing it at ~$7.6B, with the retail portion oversubscribed 2,750x &lpar;Bloomberg&rpar;](http://www.techmeme.com/251204/p51#a251204p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
