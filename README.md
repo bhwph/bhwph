@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix agrees to buy WBD&#39;s studios and streaming business in an $82.7B cash and stock deal; the transaction is expected to close after Q3 2026 &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/251205/p13#a251205p13)
- - [The Best Meal Replacement Shakes for Total Life Optimization &lpar;2025&rpar;](https://www.wired.com/gallery/best-liquid-meal-replacements/)
- - [EU fines X $140 million over ‘deceptive’ blue checkmarks](https://www.theverge.com/news/645154/eu-fines-x-dsa-violations-xai-elon-musk)<!-- TECH:END -->
+ - [Rumor suggest obvious: iPhone Fold to be eSIM only](https://appleinsider.com/articles/25/12/05/rumor-suggest-obvious-iphone-fold-to-be-esim-only?utm_source=rss)
+ - [The NYT sues Perplexity, claiming the AI startup violated its copyrights and failed to stop using its content despite repeated demands over the past 18 months &lpar;New York Times&rpar;](http://www.techmeme.com/251205/p18#a251205p18)
+ - [Netflix has lined up a $59B unsecured bridge loan from Wells Fargo, HSBC, and BNP Paribas for its WBD deal, one of the largest ever unsecured bridge loans &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p17#a251205p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
