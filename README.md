@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Everything is bigger&#39; in Slay the Spire 2, which has been crowned our Most Wanted game](https://www.pcgamer.com/gaming-industry/events-conferences/everything-is-bigger-in-slay-the-spire-2-which-has-been-crowned-our-most-wanted-game/)
- - [Capture the heart of hectic sea battles in upcoming pirate themed survival crafting adventure, Windrose](https://www.pcgamer.com/gaming-industry/events-conferences/capture-the-heart-of-hectic-sea-battles-in-upcoming-pirate-themed-survival-crafting-adventure-windrose/)
- - [Five Nights at Freddy&#39;s 2 review: a messy movie, lost in FNAF lore](https://www.polygon.com/five-nights-at-freddys-2-fnaf-movie-review-for-gamers/)<!-- GAME:END -->
+ - [Govee Liquidates TV Backlight for More Immersive Movies, Now Selling at Record Low on Amazon](https://kotaku.com/govee-liquidates-tv-backlight-for-more-immersive-movies-now-selling-at-record-low-on-amazon-2000650582)
+ - [Ditch Your PS5 Slim, PlayStation 5 Pro at New Record Low If You Want to Play at Pro Level](https://kotaku.com/ditch-your-ps5-slim-playstation-5-pro-at-new-record-low-if-you-want-to-play-at-pro-level-2000650592)
+ - [AMD Quietly Offloads Ryzen 9 9950X via Amazon, Now at All-Time Low Long After Black Friday Ended](https://kotaku.com/amd-quietly-offloads-ryzen-9-9950x-via-amazon-now-at-all-time-low-long-after-black-friday-ended-2000650568)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
