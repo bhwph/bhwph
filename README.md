@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well said, lady](http://9gag.com/gag/apRnPeB)
- - 😝 [Haripur Pakistan&#39;s &#39;Fire Mountain&#39; Continues to Burn Decades After 1955 Gas Blast](http://9gag.com/gag/aNDGVOv)
- - 👉 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)<!-- MEMES:END -->
+ - 6️⃣ [Should we tell her?](http://9gag.com/gag/aryDZwV)
+ - 😝 [Best examples?](http://9gag.com/gag/axyePZb)
+ - 👉 [Well said, lady](http://9gag.com/gag/apRnPeB)<!-- MEMES:END -->
 
 --- 
 
