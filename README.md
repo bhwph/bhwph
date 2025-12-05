@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - 😝 [He looks happy](http://9gag.com/gag/aZZ4jy9)
- - 👉 [Neck stiff or pain? Do this now.](http://9gag.com/gag/aKGXYG6)<!-- MEMES:END -->
+ - 6️⃣ [The council of men approves](http://9gag.com/gag/avyBv8q)
+ - 😝 [Happens to everyone pal](http://9gag.com/gag/agmp2Zw)
+ - 👉 [Takes a lot of work to make crack](http://9gag.com/gag/a2vAb2Y)<!-- MEMES:END -->
 
 --- 
 
