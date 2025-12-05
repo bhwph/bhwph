@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Microsoft Excel&#39;s evolution, as it remains the most widely used spreadsheet software with 500M paying users despite competition from Google and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p7#a251205p7)
- - [A profile of Amazon CTO Werner Vogels, who said his 2025 re:Invent keynote was his last to make room for other voices and warned devs about &quot;verification debt&quot; &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/251205/p6#a251205p6)
- - [A look back at five years of Meta&#39;s Oversight Board, whose rulings on the relatively small number of cases it hears have generally had limited impact &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/251205/p5#a251205p5)<!-- TECH:END -->
+ - [This portable Google TV projector might be the perfect compromise for a secondary screen](https://www.androidauthority.com/epson-lifestudio-flex-plus-review-3619610/)
+ - [I bought the cheaper Pixel Buds, and I regret nothing](https://www.androidauthority.com/google-pixel-buds-2a-perfect-replacement-3620717/)
+ - [Microsoft finally has a better looking Run dialog for Windows 11](https://www.theverge.com/news/838798/microsoft-windows-11-run-dialog-new-ui-dark-mode)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
