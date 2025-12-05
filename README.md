@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest trademark suggests Starlink Mobile cellular service may be inevitable, but when?](https://www.androidauthority.com/starlink-mobile-3622645/)
- - [The clock may have finally run out on this long-running Wear OS brand](https://www.androidauthority.com/mobvoi-ticwatch-lineup-dead-3622682/)
- - [Here’s What You Should Know About Launching an AI Startup](https://www.wired.com/story/artificial-intelligence-startups-daydream-fashion-recommendations/)<!-- TECH:END -->
+ - [The Luigi Mangione trial is all about narrative control](https://www.theverge.com/policy/839054/luigi-mangione-evidence-suppression-new-york-internet-fandom-media)
+ - [This tiny e-reader wants to hitch a ride on the back of your Pixel 10](https://www.androidauthority.com/xteink-x4-launch-magnetic-e-reader-3622803/)
+ - [Vice President JD Vance, US Secretary of State Marco Rubio, and FCC Chairman Brendan Carr denounce the EU&#39;s €120M X fine &lpar;Liv McMahon/BBC&rpar;](http://www.techmeme.com/251205/p25#a251205p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
