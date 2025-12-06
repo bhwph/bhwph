@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s been over 30 years since this came out.Still one of the best animes out there](http://9gag.com/gag/a87vV1O)
- - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
- - 👉 [A title and a title](http://9gag.com/gag/aKGXOV1)<!-- MEMES:END -->
+ - 6️⃣ [First date idea?](http://9gag.com/gag/a5Q9qoq)
+ - 😝 [Will Smith Eating Spaghetti 2.9 Years Later](http://9gag.com/gag/aXPm2Lb)
+ - 👉 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)<!-- MEMES:END -->
 
 --- 
 
