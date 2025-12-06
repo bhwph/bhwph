@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FNAF 2 sets up a huge Scream reunion, Matthew Lillard says](https://www.polygon.com/fnaf-2-five-nights-at-freddys-matthew-lillard-scream-reunion/)
- - [Scholar remembrance quest walkthrough in Elden Ring Nightreign The Forsaken Hollows](https://www.polygon.com/elden-ring-nightreign-scholar-remembrance-quest-walkthrough/)
- - [Pokémon Go December 2025 Community Day event guide](https://www.polygon.com/pokemon-go-december-2025-community-day-weekend-event-schedule/)<!-- GAME:END -->
+ - [Pluribus episode 6 theory reveals Carol is more danger than the other survivors](https://www.polygon.com/carol-is-in-a-lot-more-danger-in-pluribus-than-she-thinks/)
+ - [Cities: Skylines 2 finally gets its asset editor in a parting gift from the series&#39; original developers](https://www.pcgamer.com/games/city-builder/cities-skylines-2-finally-gets-its-asset-editor-in-a-parting-gift-from-the-series-original-developers/)
+ - [HD-2D still hasn’t lived up to its full potential](https://www.polygon.com/chrono-trigger-final-fantasy-hd-2d-remakes-square-enix/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
