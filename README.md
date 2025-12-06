@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [FNAF 2 sets up a huge Scream reunion, Matthew Lillard says](https://www.polygon.com/fnaf-2-five-nights-at-freddys-matthew-lillard-scream-reunion/)
  - [Scholar remembrance quest walkthrough in Elden Ring Nightreign The Forsaken Hollows](https://www.polygon.com/elden-ring-nightreign-scholar-remembrance-quest-walkthrough/)
- - [Pokémon Go December 2025 Community Day event guide](https://www.polygon.com/pokemon-go-december-2025-community-day-weekend-event-schedule/)
- - [New Fallout clip gives us a glimpse of an iconic Fallout: New Vegas location](https://www.pcgamer.com/movies-tv/new-fallout-clip-gives-us-a-glimpse-of-an-iconic-fallout-new-vegas-location/)<!-- GAME:END -->
+ - [Pokémon Go December 2025 Community Day event guide](https://www.polygon.com/pokemon-go-december-2025-community-day-weekend-event-schedule/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
