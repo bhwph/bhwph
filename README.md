@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Go sports!](http://9gag.com/gag/aGyrOzZ)
- - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
- - 👉 [Something About Market Caps](http://9gag.com/gag/aYQvR52)<!-- MEMES:END -->
+ - 6️⃣ [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 😝 [Just a friendly reminder to know your limits when playing party games](http://9gag.com/gag/an70DZ5)
+ - 👉 [At Restaurant !](http://9gag.com/gag/avyB9g5)<!-- MEMES:END -->
 
 --- 
 
