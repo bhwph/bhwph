@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US really doesn&#39;t want more ICEBlock apps in the App Store](https://appleinsider.com/articles/25/12/06/the-us-really-doesnt-want-more-iceblock-apps-in-the-app-store?utm_source=rss)
- - [Tested: My Pixel 10 runs faster with the Android 16 QPR2 update](https://www.androidauthority.com/android-16-qpr2-performance-test-3622602/)
- - [Horses deserves to be played, even if it&amp;#8217;s not very good](https://www.theverge.com/games/839464/horses-review-santa-ragione-steam-epic-bans)<!-- TECH:END -->
+ - [India&#39;s request for satellite-aided iPhone location data is a privacy nightmare](https://appleinsider.com/articles/25/12/06/indias-request-for-satellite-aided-iphone-location-data-is-a-privacy-nightmare?utm_source=rss)
+ - [The tech world is sleeping on the most exciting Bluetooth feature in years](https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google)
+ - [Some Reddit moderators say a surge of AI slop on the site is eroding its authenticity and could lead to a feedback loop of AI models training on AI content &lpar;Kat Tenbarge/Wired&rpar;](http://www.techmeme.com/251206/p6#a251206p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
