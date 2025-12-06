@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at various quirks in AI-generated prose, mainly influenced by &quot;overfitting&quot; in AI models, as humans increasingly mimic AI language in writing and speech &lpar;Sam Kriss/New York Times&rpar;](http://www.techmeme.com/251206/p4#a251206p4)
- - [Amazon is blowing out M4 iPad Pro inventory with discounts up to $600 off](https://appleinsider.com/articles/25/12/06/amazon-is-blowing-out-m4-ipad-pro-inventory-with-discounts-up-to-600-off?utm_source=rss)
- - [Short seller Grizzly shorts London-listed Trustpilot, alleging the review site pressures businesses to pay for subscriptions; Trustpilot refutes the claims &lpar;Bloomberg&rpar;](http://www.techmeme.com/251206/p3#a251206p3)<!-- TECH:END -->
+ - [Unpopular opinion: Google shouldn’t build Aluminum OS](https://www.androidauthority.com/google-aluminum-os-vs-interoperability-3621643/)
+ - [The world’s first Android 16 e-reader just got colorful](https://www.androidauthority.com/worlds-first-android-16-e-reader-got-colorful-3622935/)
+ - [A look at various quirks in AI-generated prose, mainly influenced by &quot;overfitting&quot; in AI models, as humans increasingly mimic AI language in writing and speech &lpar;Sam Kriss/New York Times&rpar;](http://www.techmeme.com/251206/p4#a251206p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
