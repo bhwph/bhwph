@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro had a moment of clarity](http://9gag.com/gag/ayNmQOV)
- - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
- - 👉 [Thx Carol](http://9gag.com/gag/aKGXK3O)<!-- MEMES:END -->
+ - 6️⃣ [Wtf](http://9gag.com/gag/a4PBWZm)
+ - 😝 [Bro will never recover from this](http://9gag.com/gag/aD2qXrw)
+ - 👉 [Wood.rar](http://9gag.com/gag/aryD8Mp)<!-- MEMES:END -->
 
 --- 
 
