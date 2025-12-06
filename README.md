@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kirby Air Riders&#39;s City Trial challenges are bite-sized gaming perfection](https://www.polygon.com/kirby-air-riders-quick-races-city-trial-challenges/)
- - [Magic&#39;s best argument for Universes Beyond might be Tidus from Final Fantasy 10](https://www.polygon.com/magic-the-gathering-final-fantasy-tidus-universes-beyond/)
- - [Stranger Things season 5 still needs to deliver on Robin and Will&#39;s heart-to-heart](https://www.polygon.com/stranger-things-5-volume-one-will-robin/)<!-- GAME:END -->
+ - [Why doesn’t The Game Awards have a nickname like the Oscars?](https://www.polygon.com/game-awards-nickname-oscars-of-gaming/)
+ - [I&#39;ve been roleplaying in MMORPGs like WoW for 16 years, it&#39;s the reason I&#39;m here writing this headline—and there&#39;s never been a better time to try it out yourself](https://www.pcgamer.com/games/mmo/ive-been-roleplaying-in-mmorpgs-like-wow-for-16-years-its-the-reason-im-here-writing-this-headline-and-theres-never-been-a-better-time-to-try-it-out-yourself/)
+ - [The Hundred Line: Last Defense Academy is 2025&#39;s best RPG you haven&#39;t played](https://www.polygon.com/hundred-line-last-defense-academy-2025-best-rpg/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
