@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Go sports!](http://9gag.com/gag/aGyrOzZ)
- - 😝 [He looks happy](http://9gag.com/gag/aZZ4jy9)
- - 👉 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)<!-- MEMES:END -->
+ - 6️⃣ [Bro had a moment of clarity](http://9gag.com/gag/ayNmQOV)
+ - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 👉 [Thx Carol](http://9gag.com/gag/aKGXK3O)<!-- MEMES:END -->
 
 --- 
 
