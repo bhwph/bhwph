@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A technical deep dive into Amazon&#39;s Trainium3 accelerator, including its server SKUs&#39; specifications, silicon design, power budget, and bill of materials &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/251206/p8#a251206p8)
- - [Apple’s chip chief might be the next exec to leave](https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave)
- - [Apple chip chief Johny Srouji rumored to consider his own exit](https://appleinsider.com/articles/25/12/06/apple-chip-chief-johny-srouji-rumored-to-consider-his-own-exit?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 7 #644](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-7-644/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 7, #910](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-7-910/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 7, #1632](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-7-1632/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
