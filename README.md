@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why doesn’t The Game Awards have a nickname like the Oscars?](https://www.polygon.com/game-awards-nickname-oscars-of-gaming/)
- - [I&#39;ve been roleplaying in MMORPGs like WoW for 16 years, it&#39;s the reason I&#39;m here writing this headline—and there&#39;s never been a better time to try it out yourself](https://www.pcgamer.com/games/mmo/ive-been-roleplaying-in-mmorpgs-like-wow-for-16-years-its-the-reason-im-here-writing-this-headline-and-theres-never-been-a-better-time-to-try-it-out-yourself/)
- - [The Hundred Line: Last Defense Academy is 2025&#39;s best RPG you haven&#39;t played](https://www.polygon.com/hundred-line-last-defense-academy-2025-best-rpg/)<!-- GAME:END -->
+ - [Players are piling in to the Guild Wars remaster, and it&#39;s giving the servers trouble: &#39;Demand for Guild Wars Reforged blew past our projections&#39;](https://www.pcgamer.com/games/mmo/players-are-piling-in-to-the-guild-wars-remaster-and-its-giving-the-servers-trouble-demand-for-guild-wars-reforged-blew-past-our-projections/)
+ - [Arc Raiders finally lifts the curtain on its Expedition rewards, showing us what players can expect to get for retiring and prestiging their Raiders later this month](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-finally-lifts-the-curtain-on-its-expedition-rewards-showing-us-what-players-can-expect-to-get-for-retiring-and-prestiging-their-raiders-later-this-month/)
+ - [Samba Schutte explains his Pluribus character&#39;s secret backstory](https://www.polygon.com/pluribus-koumba-diabate-secret-backstory-samba-schutte-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
