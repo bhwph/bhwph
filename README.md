@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Welcome to the big leagues, Netflix](https://www.theverge.com/entertainment/839480/netflix-warner-bros-acquisition-hbo-theatrical-releases-layoffs)
- - [Amazon&#39;s top holiday deals: AirPods 4 ANC $99, $450 off iPad Pro, Apple Watch $199, Mac from $499, more](https://appleinsider.com/articles/25/12/05/amazons-top-holiday-deals-airpods-4-anc-99-450-off-ipad-pro-apple-watch-199-mac-from-499-more?utm_source=rss)
- - [Time to check your old Assistant speaker — more third-party models are getting Gemini](https://www.androidauthority.com/gemini-third-party-speakers-displays-3622891/)<!-- TECH:END -->
+ - [Seattle-based Yoodli, which sells AI-powered communication training software, raised a $40M Series B led by WestBridge Capital, valuing the startup at $300M+ &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251205/p34#a251205p34)
+ - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
+ - [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
