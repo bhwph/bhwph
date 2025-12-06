@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s request for satellite-aided iPhone location data is a privacy nightmare](https://appleinsider.com/articles/25/12/06/indias-request-for-satellite-aided-iphone-location-data-is-a-privacy-nightmare?utm_source=rss)
- - [The tech world is sleeping on the most exciting Bluetooth feature in years](https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google)
- - [Some Reddit moderators say a surge of AI slop on the site is eroding its authenticity and could lead to a feedback loop of AI models training on AI content &lpar;Kat Tenbarge/Wired&rpar;](http://www.techmeme.com/251206/p6#a251206p6)<!-- TECH:END -->
+ - [Sources: Apple&#39;s chip chief Johny Srouji told Tim Cook that he is seriously considering leaving soon; some execs floated elevating him to the CTO role &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251206/p7#a251206p7)
+ - [&#39;It: Welcome to Derry&#39; Release Schedule: When Does Episode 7 Come Out?](https://www.cnet.com/tech/services-and-software/it-welcome-to-derry-release-schedule-when-does-episode-7-come-out/#ftag=CAD590a51e)
+ - [The Nintendo Switch 2 and Ninja’s Creami are the best deals of the week](https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
