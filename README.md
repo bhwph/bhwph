@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [First date idea?](http://9gag.com/gag/a5Q9qoq)
- - 😝 [Will Smith Eating Spaghetti 2.9 Years Later](http://9gag.com/gag/aXPm2Lb)
- - 👉 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)<!-- MEMES:END -->
+ - 6️⃣ [Go sports!](http://9gag.com/gag/aGyrOzZ)
+ - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 👉 [Something About Market Caps](http://9gag.com/gag/aYQvR52)<!-- MEMES:END -->
 
 --- 
 
