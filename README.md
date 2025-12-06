@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [DualSense Chroma Teal Controller Goes to Record Low, Now Cheaper Than Third-Party Options and Seriously More Stylish](https://kotaku.com/dualsense-chroma-teal-controller-goes-to-record-low-now-cheaper-than-third-party-options-and-seriously-more-stylish-2000651134)
- - [Every Metroid game ranked, including Metroid Prime 4: Beyond](https://www.polygon.com/metroid-games-ranked-2025/)
- - [Tempest Rising&#39;s playable third faction has invaded its beta branch, as its developer commences testing for the next two weeks](https://www.pcgamer.com/games/strategy/tempest-risings-playable-third-faction-has-invaded-its-beta-branch-as-its-developer-commences-testing-for-the-next-two-weeks/)<!-- GAME:END -->
+ - [Kirby Air Riders&#39;s City Trial challenges are bite-sized gaming perfection](https://www.polygon.com/kirby-air-riders-quick-races-city-trial-challenges/)
+ - [Magic&#39;s best argument for Universes Beyond might be Tidus from Final Fantasy 10](https://www.polygon.com/magic-the-gathering-final-fantasy-tidus-universes-beyond/)
+ - [Stranger Things season 5 still needs to deliver on Robin and Will&#39;s heart-to-heart](https://www.polygon.com/stranger-things-5-volume-one-will-robin/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
