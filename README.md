@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unpopular opinion: Google shouldn’t build Aluminum OS](https://www.androidauthority.com/google-aluminum-os-vs-interoperability-3621643/)
- - [The world’s first Android 16 e-reader just got colorful](https://www.androidauthority.com/worlds-first-android-16-e-reader-got-colorful-3622935/)
- - [A look at various quirks in AI-generated prose, mainly influenced by &quot;overfitting&quot; in AI models, as humans increasingly mimic AI language in writing and speech &lpar;Sam Kriss/New York Times&rpar;](http://www.techmeme.com/251206/p4#a251206p4)<!-- TECH:END -->
+ - [The Pocket AIR Mini has forever raised my expectations for budget gaming handhelds](https://www.androidauthority.com/ayaneo-pocket-air-mini-review-3618995/)
+ - [Why Tehran Is Running Out of Water](https://www.wired.com/story/why-tehran-is-running-out-of-water-iran-climate-change-drought-extreme-weather/)
+ - [A look at Phreeli, a privacy-focused phone carrier that lets users sign up with only a ZIP code and uses an encryption system based on &quot;zero-knowledge proofs&quot; &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/251206/p5#a251206p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
