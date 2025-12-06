@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Lord of the Rings trilogy returns to movie theaters in 2026, with a 4D twist](https://www.polygon.com/lord-of-the-rings-extended-editions-2026-theatrical-release-4dx-dbox/)
- - [Dell Adds a 4.6-Star Mini PC at 71% Off to Its Clearance Push, Going Beyond Just Laptop Deals](https://kotaku.com/dell-adds-a-4-6-star-mini-pc-at-71-off-to-its-clearance-push-going-beyond-just-laptop-deals-2000650934)
- - [Netflix Says It’s Not Destroying Hollywood: ‘We’re Saving’ It](https://kotaku.com/netflix-warner-bros-acquisition-batman-hbo-2000651036)<!-- GAME:END -->
+ - [New Fallout clip gives us a glimpse of an iconic Fallout: New Vegas location](https://www.pcgamer.com/movies-tv/new-fallout-clip-gives-us-a-glimpse-of-an-iconic-fallout-new-vegas-location/)
+ - [Todd Howard says AI can&#39;t replace human &#39;creative intention,&#39; but it&#39;s part of Bethesda&#39;s &#39;toolset for how we build our worlds or check things&#39;](https://www.pcgamer.com/gaming-industry/todd-howard-says-ai-cant-replace-human-creative-intention-but-its-part-of-bethesdas-toolset-for-how-we-build-our-worlds-or-check-things/)
+ - [Tron: Ares, Mission Impossible: The Final Reckoning, and the best movies on streaming this week](https://www.polygon.com/tron-ares-mission-impossible-the-final-reckoning-and-every-movie-new-to-streaming-this-weekend/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
