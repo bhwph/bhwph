@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If your life seems difficult, there are worse things](http://9gag.com/gag/a1m8L2Y)
- - 😝 [Stay happy](http://9gag.com/gag/aKGXemQ)
- - 👉 [His own worst enemy](http://9gag.com/gag/aD2qXbx)<!-- MEMES:END -->
+ - 6️⃣ [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
+ - 😝 [LoTR](http://9gag.com/gag/aO8nPVr)
+ - 👉 [Wood.rar](http://9gag.com/gag/aryD8Mp)<!-- MEMES:END -->
 
 --- 
 
