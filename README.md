@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Microsoft is in talks to design future custom chips with Broadcom, which would involve Microsoft switching its business from Marvell &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/251206/p1#a251206p1)
- - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Dec. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-dec-6/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at various quirks in AI-generated prose, mainly influenced by &quot;overfitting&quot; in AI models, as humans increasingly mimic AI language in writing and speech &lpar;Sam Kriss/New York Times&rpar;](http://www.techmeme.com/251206/p4#a251206p4)
+ - [Amazon is blowing out M4 iPad Pro inventory with discounts up to $600 off](https://appleinsider.com/articles/25/12/06/amazon-is-blowing-out-m4-ipad-pro-inventory-with-discounts-up-to-600-off?utm_source=rss)
+ - [Short seller Grizzly shorts London-listed Trustpilot, alleging the review site pressures businesses to pay for subscriptions; Trustpilot refutes the claims &lpar;Bloomberg&rpar;](http://www.techmeme.com/251206/p3#a251206p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
