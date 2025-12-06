@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pocket AIR Mini has forever raised my expectations for budget gaming handhelds](https://www.androidauthority.com/ayaneo-pocket-air-mini-review-3618995/)
- - [Why Tehran Is Running Out of Water](https://www.wired.com/story/why-tehran-is-running-out-of-water-iran-climate-change-drought-extreme-weather/)
- - [A look at Phreeli, a privacy-focused phone carrier that lets users sign up with only a ZIP code and uses an encryption system based on &quot;zero-knowledge proofs&quot; &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/251206/p5#a251206p5)<!-- TECH:END -->
+ - [The US really doesn&#39;t want more ICEBlock apps in the App Store](https://appleinsider.com/articles/25/12/06/the-us-really-doesnt-want-more-iceblock-apps-in-the-app-store?utm_source=rss)
+ - [Tested: My Pixel 10 runs faster with the Android 16 QPR2 update](https://www.androidauthority.com/android-16-qpr2-performance-test-3622602/)
+ - [Horses deserves to be played, even if it&amp;#8217;s not very good](https://www.theverge.com/games/839464/horses-review-santa-ragione-steam-epic-bans)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
