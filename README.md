@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Fallout clip gives us a glimpse of an iconic Fallout: New Vegas location](https://www.pcgamer.com/movies-tv/new-fallout-clip-gives-us-a-glimpse-of-an-iconic-fallout-new-vegas-location/)
- - [Todd Howard says AI can&#39;t replace human &#39;creative intention,&#39; but it&#39;s part of Bethesda&#39;s &#39;toolset for how we build our worlds or check things&#39;](https://www.pcgamer.com/gaming-industry/todd-howard-says-ai-cant-replace-human-creative-intention-but-its-part-of-bethesdas-toolset-for-how-we-build-our-worlds-or-check-things/)
- - [Tron: Ares, Mission Impossible: The Final Reckoning, and the best movies on streaming this week](https://www.polygon.com/tron-ares-mission-impossible-the-final-reckoning-and-every-movie-new-to-streaming-this-weekend/)<!-- GAME:END -->
+ - [Scholar remembrance quest walkthrough in Elden Ring Nightreign The Forsaken Hollows](https://www.polygon.com/elden-ring-nightreign-scholar-remembrance-quest-walkthrough/)
+ - [Pokémon Go December 2025 Community Day event guide](https://www.polygon.com/pokemon-go-december-2025-community-day-weekend-event-schedule/)
+ - [New Fallout clip gives us a glimpse of an iconic Fallout: New Vegas location](https://www.pcgamer.com/movies-tv/new-fallout-clip-gives-us-a-glimpse-of-an-iconic-fallout-new-vegas-location/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
