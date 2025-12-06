@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wtf](http://9gag.com/gag/a4PBWZm)
- - 😝 [Bro will never recover from this](http://9gag.com/gag/aD2qXrw)
- - 👉 [Wood.rar](http://9gag.com/gag/aryD8Mp)<!-- MEMES:END -->
+ - 6️⃣ [Walrus floating casually in the pool](http://9gag.com/gag/aE0jXgx)
+ - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)<!-- MEMES:END -->
 
 --- 
 
