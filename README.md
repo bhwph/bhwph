@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pluribus episode 6 theory reveals Carol is more danger than the other survivors](https://www.polygon.com/carol-is-in-a-lot-more-danger-in-pluribus-than-she-thinks/)
- - [Cities: Skylines 2 finally gets its asset editor in a parting gift from the series&#39; original developers](https://www.pcgamer.com/games/city-builder/cities-skylines-2-finally-gets-its-asset-editor-in-a-parting-gift-from-the-series-original-developers/)
- - [HD-2D still hasn’t lived up to its full potential](https://www.polygon.com/chrono-trigger-final-fantasy-hd-2d-remakes-square-enix/)<!-- GAME:END -->
+ - [DualSense Chroma Teal Controller Goes to Record Low, Now Cheaper Than Third-Party Options and Seriously More Stylish](https://kotaku.com/dualsense-chroma-teal-controller-goes-to-record-low-now-cheaper-than-third-party-options-and-seriously-more-stylish-2000651134)
+ - [Every Metroid game ranked, including Metroid Prime 4: Beyond](https://www.polygon.com/metroid-games-ranked-2025/)
+ - [Tempest Rising&#39;s playable third faction has invaded its beta branch, as its developer commences testing for the next two weeks](https://www.pcgamer.com/games/strategy/tempest-risings-playable-third-faction-has-invaded-its-beta-branch-as-its-developer-commences-testing-for-the-next-two-weeks/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
