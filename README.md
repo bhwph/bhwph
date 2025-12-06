@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
- - 😝 [LoTR](http://9gag.com/gag/aO8nPVr)
- - 👉 [Wood.rar](http://9gag.com/gag/aryD8Mp)<!-- MEMES:END -->
+ - 😝 [`Four men`](http://9gag.com/gag/aGyr7K5)
+ - 👉 [Photogenic](http://9gag.com/gag/agmpEXx)<!-- MEMES:END -->
 
 --- 
 
