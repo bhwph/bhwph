@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 7 #644](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-7-644/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 7, #910](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-7-910/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 7, #1632](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-7-1632/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Digital asset treasuries, one of the hottest trends in public markets in H1 2025, saw a dramatic reversal in H2; SharpLink stock has fallen 86% from its peak &lpar;Monique Mulima/Bloomberg&rpar;](http://www.techmeme.com/251206/p11#a251206p11)
+ - [Best Space Heaters in 2025](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)
+ - [The 5 Best Sunrise Alarm Clocks and How to Choose One](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
