@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Also mountain climbing. Or eating broccoli.](http://9gag.com/gag/aW4e9y3)
- - 😝 [Almost year 2026 we are doomed](http://9gag.com/gag/a2vAGpZ)
- - 👉 [The good old days](http://9gag.com/gag/axye4QY)<!-- MEMES:END -->
+ - 6️⃣ [What could possibly go wrong?](http://9gag.com/gag/aXPme7d)
+ - 😝 [We need intolerance more than ever](http://9gag.com/gag/avyBD0X)
+ - 👉 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)<!-- MEMES:END -->
 
 --- 
 
