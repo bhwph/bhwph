@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One in three: Here’s why Samsung is the king of Android](https://www.androidauthority.com/samsung-king-of-android-3622011/)
- - [As Key Talent Abandons Apple, Meet the New Generation of Leaders Taking On the Old Guard](https://www.wired.com/story/can-hardware-guy-john-ternus-revive-apple-with-this-new-gen-of-design-and-ai-chiefs/)
- - [India&#39;s digital transformation has exposed citizens to scams like &quot;digital arrests&quot;, where victims are coerced into transferring funds under false accusations &lpar;Bloomberg&rpar;](http://www.techmeme.com/251207/p6#a251207p6)<!-- TECH:END -->
+ - [The Best Gifts for Book Lovers &lpar;2025&rpar;: E-Readers, Cozy Accessories, Book Sets](https://www.wired.com/story/gifts-for-book-lovers/)
+ - [4 reasons Plex is turning into the thing it replaced](https://www.androidauthority.com/plex-restrictions-reasons-to-switch-3622348/)
+ - [What Are Gravel Running Shoes? &lpar;2025&rpar;](https://www.wired.com/story/what-are-gravel-running-shoes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
