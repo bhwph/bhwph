@@ -120,8 +120,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Felicia Day says her New Vegas character &#39;is one of the best roles I&#39;ve ever got to play,&#39; but the actor won&#39;t be in Fallout Season 2](https://www.pcgamer.com/movies-tv/felicia-day-says-her-new-vegas-character-is-one-of-the-best-roles-ive-ever-got-to-play-but-the-actor-wont-be-in-fallout-season-2/)
  - [The Boys season 5&#39;s first trailer and release date revealed at CCXP](https://www.polygon.com/the-boys-season-5-trailer-release-date/)
- - [Official PlayStation Podcast Episode 529: Sumptuous Victuals](https://blog.playstation.com/2025/12/06/official-playstation-podcast-episode-529-sumptuous-victuals/)
  - [Official PlayStation Podcast Episode 529: Sumptuous Victuals](https://blog.playstation.com/2025/12/06/official-playstation-podcast-episode-529-sumptuous-victuals/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
