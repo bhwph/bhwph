@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)
- - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
- - 👉 [At Restaurant !](http://9gag.com/gag/avyB9g5)<!-- MEMES:END -->
+ - 😝 [At Restaurant !](http://9gag.com/gag/avyB9g5)
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)<!-- MEMES:END -->
 
 --- 
 
