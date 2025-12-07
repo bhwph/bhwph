@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Batman Forever is the most underrated Batman movie — and it&#39;s streaming now on Paramount Plus](https://www.polygon.com/batman-forever-underrated-tim-burton-joel-schumacher/)
- - [Viking RTS Northgard is now Northgard: Definitive Edition, thanks to an update that folds in its major DLC and adds a bunch of new stuff free to existing players](https://www.pcgamer.com/games/strategy/viking-rts-northgard-is-now-northgard-definitive-edition-thanks-to-an-update-that-folds-in-its-major-dlc-and-adds-a-bunch-of-new-stuff-free-to-existing-players/)
- - [The Game Awards jury is more diverse than ever, but the nominees aren’t](https://www.polygon.com/the-game-awards-jury-2025-diversity/)<!-- GAME:END -->
+ - [The evil Santa canon: 9 Christmas horror movies where Santa Claus is the killer](https://www.polygon.com/evil-santa-claus-canonhorrormovies/)
+ - [Descenders Next gets a big multiplayer update as its developer apologises for taking so long with it: &#39;We&#39;re slowly working on getting the feel and flow of Descenders back into Descenders Next&#39;](https://www.pcgamer.com/games/racing/descenders-next-gets-a-big-multiplayer-update-as-its-developer-apologises-for-taking-so-long-with-it-were-slowly-working-on-getting-the-feel-and-flow-of-descenders-back-into-descenders-next/)
+ - [Octopath Traveler 0&#39;s influence system is a bad deal for NPCs](https://www.polygon.com/octopath-traveler-0-influence-system-mugging-npc/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
