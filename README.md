@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Nutcracker](http://9gag.com/gag/aVv9BoK)
- - 😝 [A normal person](http://9gag.com/gag/azxv44q)
- - 👉 [At Restaurant !](http://9gag.com/gag/avyB9g5)<!-- MEMES:END -->
+ - 6️⃣ [A normal person](http://9gag.com/gag/azxv44q)
+ - 😝 [Wtf](http://9gag.com/gag/a4PBWZm)
+ - 👉 [Wood.rar](http://9gag.com/gag/aryD8Mp)<!-- MEMES:END -->
 
 --- 
 
