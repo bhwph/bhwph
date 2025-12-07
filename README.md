@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [At Restaurant !](http://9gag.com/gag/avyB9g5)
- - 😝 [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)
- - 👉 [Respect](http://9gag.com/gag/a5Q9xZr)<!-- MEMES:END -->
+ - 6️⃣ [Also mountain climbing. Or eating broccoli.](http://9gag.com/gag/aW4e9y3)
+ - 😝 [Almost year 2026 we are doomed](http://9gag.com/gag/a2vAGpZ)
+ - 👉 [The good old days](http://9gag.com/gag/axye4QY)<!-- MEMES:END -->
 
 --- 
 
