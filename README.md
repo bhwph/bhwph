@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The evil Santa canon: 9 Christmas horror movies where Santa Claus is the killer](https://www.polygon.com/evil-santa-claus-canonhorrormovies/)
- - [Descenders Next gets a big multiplayer update as its developer apologises for taking so long with it: &#39;We&#39;re slowly working on getting the feel and flow of Descenders back into Descenders Next&#39;](https://www.pcgamer.com/games/racing/descenders-next-gets-a-big-multiplayer-update-as-its-developer-apologises-for-taking-so-long-with-it-were-slowly-working-on-getting-the-feel-and-flow-of-descenders-back-into-descenders-next/)
- - [Octopath Traveler 0&#39;s influence system is a bad deal for NPCs](https://www.polygon.com/octopath-traveler-0-influence-system-mugging-npc/)<!-- GAME:END -->
+ - [Metroid Prime 4: Beyond gives Samus her very own fangirl](https://www.polygon.com/metroid-prime-4-beyond-nora-armstrong/)
+ - [Cool Shirtz had one goal and one goal only when it came to creating the Minecraft collaboration: To design clothes people can wear &#39;not just to represent the game, but to become it&#39;](https://www.pcgamer.com/games/cool-shirtz-had-one-goal-and-one-goal-only-when-it-came-to-creating-the-minecraft-collaboration-to-design-clothes-people-can-wear-not-just-to-represent-the-game-but-to-become-it/)
+ - [Edward Scissorhands at 35: A singularly personal Tim Burton film](https://www.polygon.com/35-years-ago-tim-burton-unleashed-his-most-personal-creation-with-edward-scissorhands/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
