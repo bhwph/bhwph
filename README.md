@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
- - 😝 [At Restaurant !](http://9gag.com/gag/avyB9g5)
- - 👉 [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)<!-- MEMES:END -->
+ - 6️⃣ [At Restaurant !](http://9gag.com/gag/avyB9g5)
+ - 😝 [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)
+ - 👉 [Respect](http://9gag.com/gag/a5Q9xZr)<!-- MEMES:END -->
 
 --- 
 
