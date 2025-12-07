@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s digital transformation has exposed citizens to scams like &quot;digital arrests&quot;, where victims are coerced into transferring funds under false accusations &lpar;Bloomberg&rpar;](http://www.techmeme.com/251207/p6#a251207p6)
- - [Simular, which is building AI agents for Mac and Windows PCs, raised a $21.5M Series A led by Felicis; Simular has released its 1.0 version for macOS &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/251207/p5#a251207p5)
- - [Excelsior Sciences, which aims to use AI and robots for small-molecule drug discovery and development, raised a $70M Series A from Khosla Ventures and others &lpar;Aayushi Pratap/Chemical &amp; ...&rpar;](http://www.techmeme.com/251207/p4#a251207p4)<!-- TECH:END -->
+ - [One in three: Here’s why Samsung is the king of Android](https://www.androidauthority.com/samsung-king-of-android-3622011/)
+ - [As Key Talent Abandons Apple, Meet the New Generation of Leaders Taking On the Old Guard](https://www.wired.com/story/can-hardware-guy-john-ternus-revive-apple-with-this-new-gen-of-design-and-ai-chiefs/)
+ - [India&#39;s digital transformation has exposed citizens to scams like &quot;digital arrests&quot;, where victims are coerced into transferring funds under false accusations &lpar;Bloomberg&rpar;](http://www.techmeme.com/251207/p6#a251207p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
