@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Google Glass got right — and really, really wrong](https://www.theverge.com/podcast/839712/google-glass-smart-glasses-version-history)
- - [A love letter to glory days of iPhone gaming](https://www.theverge.com/games/839050/simogo-legacy-collection-review-switch-steam)
- - [Justin Bieber threatens Apple with &#39;rear naked choke hold&#39; over Messages UI](https://appleinsider.com/articles/25/12/07/justin-bieber-threatens-apple-with-rear-naked-choke-hold-over-messages-ui?utm_source=rss)<!-- TECH:END -->
+ - [Essential AI, whose CEO co-wrote Google&#39;s Attention Is All You Need paper, unveils Rnj-1, an 8B-parameter open model with SWE-bench performance close to GPT-4o &lpar;Ashish Vaswani/Essential AI&rpar;](http://www.techmeme.com/251207/p9#a251207p9)
+ - [Nikita Bier accuses the European Commission of trying to deceptively amplify the reach of its post about the €120M fine on X; X terminates the EC&#39;s ad account &lpar;Bjarke Smith-Meyer/Politico&rpar;](http://www.techmeme.com/251207/p8#a251207p8)
+ - [Prime Video: The 30 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-on-prime-video-dec-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
