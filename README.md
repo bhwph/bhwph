@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pluribus episode 6 led me to a disturbing new theory about Apple’s sci-fi show](https://www.polygon.com/pluribus-episode-6-theory-aliens/)
  - [Legendary D&amp;D show pivots to Critical Role&#39;s Daggerheart — and I&#39;m following them](https://www.polygon.com/acquisitions-incorporated-leaving-dnd-for-daggerheart-reboot/)
- - [Forget the GTA 6 delay, one modder is quietly building an entire Grand Theft Auto multiverse inside GTA 5](https://www.pcgamer.com/games/grand-theft-auto/forget-the-gta-6-delay-one-modder-is-quietly-building-an-entire-grand-theft-auto-multiverse-inside-gta-5/)
- - [Road to Empress is a wild interactive drama I can&#39;t put down](https://www.polygon.com/road-to-empress-game-review-impressions/)<!-- GAME:END -->
+ - [Forget the GTA 6 delay, one modder is quietly building an entire Grand Theft Auto multiverse inside GTA 5](https://www.pcgamer.com/games/grand-theft-auto/forget-the-gta-6-delay-one-modder-is-quietly-building-an-entire-grand-theft-auto-multiverse-inside-gta-5/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
