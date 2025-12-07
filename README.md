@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital asset treasuries, one of the hottest trends in public markets in H1 2025, saw a dramatic reversal in H2; SharpLink stock has fallen 86% from its peak &lpar;Monique Mulima/Bloomberg&rpar;](http://www.techmeme.com/251206/p11#a251206p11)
- - [Best Space Heaters in 2025](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)
- - [The 5 Best Sunrise Alarm Clocks and How to Choose One](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple HomeKit Devices to Buy in December 2025](https://www.cnet.com/home/smart-home/best-apple-homekit-siri-devices/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 7, #440](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-7-440/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Dec. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-dec-7/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
