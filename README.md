@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wood.rar](http://9gag.com/gag/aryD8Mp)
- - 😝 [Just a friendly reminder to know your limits when playing party games](http://9gag.com/gag/an70DZ5)
- - 👉 [At Restaurant !](http://9gag.com/gag/avyB9g5)<!-- MEMES:END -->
+ - 6️⃣ [Wtf](http://9gag.com/gag/a4PBWZm)
+ - 😝 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 👉 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)<!-- MEMES:END -->
 
 --- 
 
