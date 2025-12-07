@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Gifts for Book Lovers &lpar;2025&rpar;: E-Readers, Cozy Accessories, Book Sets](https://www.wired.com/story/gifts-for-book-lovers/)
- - [4 reasons Plex is turning into the thing it replaced](https://www.androidauthority.com/plex-restrictions-reasons-to-switch-3622348/)
- - [What Are Gravel Running Shoes? &lpar;2025&rpar;](https://www.wired.com/story/what-are-gravel-running-shoes/)<!-- TECH:END -->
+ - [What Google Glass got right — and really, really wrong](https://www.theverge.com/podcast/839712/google-glass-smart-glasses-version-history)
+ - [A love letter to glory days of iPhone gaming](https://www.theverge.com/games/839050/simogo-legacy-collection-review-switch-steam)
+ - [Justin Bieber threatens Apple with &#39;rear naked choke hold&#39; over Messages UI](https://appleinsider.com/articles/25/12/07/justin-bieber-threatens-apple-with-rear-naked-choke-hold-over-messages-ui?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
