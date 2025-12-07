@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What could possibly go wrong?](http://9gag.com/gag/aXPme7d)
- - 😝 [We need intolerance more than ever](http://9gag.com/gag/avyBD0X)
- - 👉 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)<!-- MEMES:END -->
+ - 6️⃣ [The Nutcracker](http://9gag.com/gag/aVv9BoK)
+ - 😝 [The foodtrucks are run by the most lovely people. There is american bbq, mexican food and Wednesdays there is always spare rib day.](http://9gag.com/gag/aGyrorZ)
+ - 👉 [I was there... I dit it](http://9gag.com/gag/avyBDdX)<!-- MEMES:END -->
 
 --- 
 
