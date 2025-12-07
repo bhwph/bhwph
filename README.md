@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese smartphone makers are promoting apps to help users switch from iOS in a race for market share, as Apple struggles to roll out AI features in China &lpar;Financial Times&rpar;](http://www.techmeme.com/251207/p1#a251207p1)
  - [In recent months, several companies like Airtable, Handshake, and Opendoor have announced that they are &quot;refounding&quot;, as they scramble to add new AI features &lpar;Lora Kelley/New York Times&rpar;](http://www.techmeme.com/251206/p12#a251206p12)
- - [Best Apple HomeKit Devices to Buy in December 2025](https://www.cnet.com/home/smart-home/best-apple-homekit-siri-devices/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 7, #440](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-7-440/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple HomeKit Devices to Buy in December 2025](https://www.cnet.com/home/smart-home/best-apple-homekit-siri-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
