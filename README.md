@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Players are piling in to the Guild Wars remaster, and it&#39;s giving the servers trouble: &#39;Demand for Guild Wars Reforged blew past our projections&#39;](https://www.pcgamer.com/games/mmo/players-are-piling-in-to-the-guild-wars-remaster-and-its-giving-the-servers-trouble-demand-for-guild-wars-reforged-blew-past-our-projections/)
- - [Arc Raiders finally lifts the curtain on its Expedition rewards, showing us what players can expect to get for retiring and prestiging their Raiders later this month](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-finally-lifts-the-curtain-on-its-expedition-rewards-showing-us-what-players-can-expect-to-get-for-retiring-and-prestiging-their-raiders-later-this-month/)
- - [Samba Schutte explains his Pluribus character&#39;s secret backstory](https://www.polygon.com/pluribus-koumba-diabate-secret-backstory-samba-schutte-interview/)<!-- GAME:END -->
+ - [The Boys season 5&#39;s first trailer and release date revealed at CCXP](https://www.polygon.com/the-boys-season-5-trailer-release-date/)
+ - [Official PlayStation Podcast Episode 529: Sumptuous Victuals](https://blog.playstation.com/2025/12/06/official-playstation-podcast-episode-529-sumptuous-victuals/)
+ - [Official PlayStation Podcast Episode 529: Sumptuous Victuals](https://blog.playstation.com/2025/12/06/official-playstation-podcast-episode-529-sumptuous-victuals/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
