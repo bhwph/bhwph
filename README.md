@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Metroid Prime 4: Beyond gives Samus her very own fangirl](https://www.polygon.com/metroid-prime-4-beyond-nora-armstrong/)
- - [Cool Shirtz had one goal and one goal only when it came to creating the Minecraft collaboration: To design clothes people can wear &#39;not just to represent the game, but to become it&#39;](https://www.pcgamer.com/games/cool-shirtz-had-one-goal-and-one-goal-only-when-it-came-to-creating-the-minecraft-collaboration-to-design-clothes-people-can-wear-not-just-to-represent-the-game-but-to-become-it/)
- - [Edward Scissorhands at 35: A singularly personal Tim Burton film](https://www.polygon.com/35-years-ago-tim-burton-unleashed-his-most-personal-creation-with-edward-scissorhands/)<!-- GAME:END -->
+ - [Legendary D&amp;D show pivots to Critical Role&#39;s Daggerheart — and I&#39;m following them](https://www.polygon.com/acquisitions-incorporated-leaving-dnd-for-daggerheart-reboot/)
+ - [Forget the GTA 6 delay, one modder is quietly building an entire Grand Theft Auto multiverse inside GTA 5](https://www.pcgamer.com/games/grand-theft-auto/forget-the-gta-6-delay-one-modder-is-quietly-building-an-entire-grand-theft-auto-multiverse-inside-gta-5/)
+ - [Road to Empress is a wild interactive drama I can&#39;t put down](https://www.polygon.com/road-to-empress-game-review-impressions/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
