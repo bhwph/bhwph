@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We need intolerance more than ever](http://9gag.com/gag/avyBD0X)
- - 😝 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)
- - 👉 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)<!-- MEMES:END -->
+ - 6️⃣ [Its crazy to me that the right way to preserve paper posters... involves soap and water...](http://9gag.com/gag/aqyVdVM)
+ - 😝 [When you come home happy from your fulfilling work](http://9gag.com/gag/a6ZexR9)
+ - 👉 [Not a single lie was spoken](http://9gag.com/gag/ajP3dbp)<!-- MEMES:END -->
 
 --- 
 
