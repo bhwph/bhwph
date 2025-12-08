@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s ugly, it’s beautiful, it’s how you know a game might be a classic](https://www.theverge.com/entertainment/840080/square-enix-hd2d-games-octopath-dragon-quest)
- - [ICEBlock developer sues Trump administration over App Store removal](https://www.theverge.com/news/840164/iceblock-joshua-aaron-sues-trump-administration-apple-app-store-removeal)
- - [Google says it&#39;s working to create two different categories of AI-powered smart glasses: one with screens launching in 2026 and another that&#39;s audio-focused &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/251208/p27#a251208p27)<!-- TECH:END -->
+ - [Pebble teaser hints at a mystery launch happening tomorrow](https://www.androidauthority.com/new-pebble-smartwatch-teaser-3623280/)
+ - [Anthropic launches a Slack integration for Claude Code, expanding on the existing Claude app for Slack, launching in beta as a research preview &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/251208/p35#a251208p35)
+ - [Apple and Google&#39;s iPhone-Android switching update starts to roll out](https://appleinsider.com/articles/25/12/08/apple-and-googles-iphone-android-switching-update-starts-to-roll-out?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
