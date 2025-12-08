@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s &#39;Severance,&#39; &#39;Slow Horses,&#39; and latest hit &#39;Pluribus&#39; nominated for Golden Globes](https://appleinsider.com/articles/25/12/08/apples-severance-slow-horses-and-latest-hit-pluribus-nominated-for-golden-globes?utm_source=rss)
- - [Internal memo: Johny Srouji, who oversees Apple&#39;s chip division, tells staff that &quot;I don&#39;t plan on leaving anytime soon&quot; &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251208/p22#a251208p22)
- - [Facebook and Instagram will let European users see fewer personal ads](https://www.theverge.com/news/839927/meta-facebook-instagram-eu-ad-model-choice)<!-- TECH:END -->
+ - [It’s ugly, it’s beautiful, it’s how you know a game might be a classic](https://www.theverge.com/entertainment/840080/square-enix-hd2d-games-octopath-dragon-quest)
+ - [ICEBlock developer sues Trump administration over App Store removal](https://www.theverge.com/news/840164/iceblock-joshua-aaron-sues-trump-administration-apple-app-store-removeal)
+ - [Google says it&#39;s working to create two different categories of AI-powered smart glasses: one with screens launching in 2026 and another that&#39;s audio-focused &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/251208/p27#a251208p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
