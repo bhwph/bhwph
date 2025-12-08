@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S25 gets iOS-like Quick Settings customizations with latest beta update](https://www.androidauthority.com/samsung-one-ui-8-5-quick-settings-customizations-3623172/)
- - [Paramount launches a hostile bid to acquire WBD, offering WBD shareholders $30/share in a $108B all-cash deal; sources say WBD rejected the same bid last week &lpar;CNBC&rpar;](http://www.techmeme.com/251208/p17#a251208p17)
- - [Take a guess: This was the best-selling Android phone globally last quarter](https://www.androidauthority.com/best-selling-android-phone-global-q3-2025-3623080/)<!-- TECH:END -->
+ - [Apple&#39;s &#39;Severance,&#39; &#39;Slow Horses,&#39; and latest hit &#39;Pluribus&#39; nominated for Golden Globes](https://appleinsider.com/articles/25/12/08/apples-severance-slow-horses-and-latest-hit-pluribus-nominated-for-golden-globes?utm_source=rss)
+ - [Internal memo: Johny Srouji, who oversees Apple&#39;s chip division, tells staff that &quot;I don&#39;t plan on leaving anytime soon&quot; &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251208/p22#a251208p22)
+ - [Facebook and Instagram will let European users see fewer personal ads](https://www.theverge.com/news/839927/meta-facebook-instagram-eu-ad-model-choice)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
