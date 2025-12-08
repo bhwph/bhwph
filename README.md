@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken Director Katsuhiro Harada Is Leaving Bandai Namco After 31 Years](https://kotaku.com/tekken-director-bandai-namco-katsuhiro-harada-leaves-2000651368)
- - [LEGO Pushes Star Wars Millennium Falcon to a Record Low to Offload the Last Remaining Stock Before Christmas](https://kotaku.com/lego-pushes-star-wars-millennium-falcon-to-a-record-low-to-offload-the-last-remaining-stock-before-christmas-2000651151)
- - [Starsand Island is a warm, familiar farming sim hug that comes with all of the weird jank that seems to haunt 3D cosy games](https://www.pcgamer.com/games/sim/starsand-island-is-a-warm-familiar-farming-sim-hug-that-comes-with-all-of-the-weird-jank-that-seems-to-haunt-3d-cosy-games/)<!-- GAME:END -->
+ - [Demon Slayer: Infinity Castle gets Golden Globes nomination](https://www.polygon.com/demon-slayer-kpop-demon-hunter-golden-globes-award-nominations/)
+ - [World of Warcraft players are already discovering new tech with its player housing—turns out, you can sit anywhere as long as you&#39;re able to fit a chair inside](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-players-are-already-discovering-new-tech-with-its-player-housing-turns-out-you-can-sit-anywhere-as-long-as-youre-able-to-fit-a-chair-inside/)
+ - [Elon Musk Robot Looks Drunk](https://kotaku.com/tesla-robot-optimus-kojima-od-boys-season-5-trailer-2000651373)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
