@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The foodtrucks are run by the most lovely people. There is american bbq, mexican food and Wednesdays there is always spare rib day.](http://9gag.com/gag/aGyrorZ)
- - 😝 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)
- - 👉 [What country is this?](http://9gag.com/gag/adBWdM9)<!-- MEMES:END -->
+ - 6️⃣ [Respect](http://9gag.com/gag/a5Q9xZr)
+ - 😝 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
+ - 👉 [Something About Market Caps](http://9gag.com/gag/aYQvR52)<!-- MEMES:END -->
 
 --- 
 
