@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AirPods 4 Are Now Cheaper Than Renewed Models at 45% Off as Apple Continues Its Clearance Push](https://kotaku.com/airpods-4-are-now-cheaper-than-renewed-models-at-45-off-as-apple-continues-its-clearance-push-2000651052)
- - [Tekken boss announces retirement after 30 years in the most Harada way imaginable: a lengthy social media post and hour-long mixtape](https://www.pcgamer.com/games/fighting/tekken-boss-announces-retirement-after-30-years-in-the-most-harada-way-imaginable-a-lengthy-social-media-post-and-hour-long-mixtape/)
- - [Baldur&#39;s Gate 3 fan discovers the game has nearly 237 hours of spoken dialogue in it—and a whopping 14 hours are narrator Amelia Tyler&#39;s alone, though Astarion gives her a run for her money](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-fan-discovers-the-game-has-nearly-237-hours-of-spoken-dialogue-in-it-and-a-whopping-14-hours-are-narrator-amelia-tylers-alone-though-astarion-gives-her-a-run-for-her-money/)<!-- GAME:END -->
+ - [Tekken Director Katsuhiro Harada Is Leaving Bandai Namco After 31 Years](https://kotaku.com/tekken-director-bandai-namco-katsuhiro-harada-leaves-2000651368)
+ - [LEGO Pushes Star Wars Millennium Falcon to a Record Low to Offload the Last Remaining Stock Before Christmas](https://kotaku.com/lego-pushes-star-wars-millennium-falcon-to-a-record-low-to-offload-the-last-remaining-stock-before-christmas-2000651151)
+ - [Starsand Island is a warm, familiar farming sim hug that comes with all of the weird jank that seems to haunt 3D cosy games](https://www.pcgamer.com/games/sim/starsand-island-is-a-warm-familiar-farming-sim-hug-that-comes-with-all-of-the-weird-jank-that-seems-to-haunt-3d-cosy-games/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
