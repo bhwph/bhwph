@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing reportedly halts Nothing OS 4.0 rollout for ‘urgent fix’](https://www.androidauthority.com/nothing-os-4-0-rollout-paused-3623014/)
- - [A look at an &quot;etiquette camp&quot; for young founders in San Francisco, which teaches them how to dress, act, and talk, amid shifting expectations for tech founders &lpar;Lisa Bonos/Washington Post&rpar;](http://www.techmeme.com/251207/p15#a251207p15)
- - [Impressions from a test ride in London in a car using Wayve&#39;s self-driving tech; Wayve has raised $1.3B since launch and is testing cars with Level 2+ autonomy &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/251207/p14#a251207p14)<!-- TECH:END -->
+ - [The upcoming Motion Cues feature for Pixels just got a new name &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-motion-cues-pixels-new-name-apk-teardown-3623023/)
+ - [30% Off Samsung Promo Code | December 2025](https://www.wired.com/story/samsung-promo-codes/)
+ - [Here’s your first look at the slick animation for Android’s NameDrop-style contact sharing feature](https://www.androidauthority.com/android-name-drop-contact-sharing-animation-3623020/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
