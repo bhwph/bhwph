@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is bringing seamless cross-device storage sharing with latest beta update](https://www.androidauthority.com/samsung-one-ui-8-5-storage-share-3623129/)
- - [An OpenAI survey of 9,000 workers at 100 companies: it saves workers ~40 to 60 minutes per day on average for professional tasks; OpenAI has 1M business clients &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251208/p14#a251208p14)
- - [Perplexing: Samsung’s latest beta update seems to be ghosting Bixby upgrades](https://www.androidauthority.com/samsung-one-ui-8-5-missing-bixby-upgrades-3623126/)<!-- TECH:END -->
+ - [Galaxy S25 gets iOS-like Quick Settings customizations with latest beta update](https://www.androidauthority.com/samsung-one-ui-8-5-quick-settings-customizations-3623172/)
+ - [Paramount launches a hostile bid to acquire WBD, offering WBD shareholders $30/share in a $108B all-cash deal; sources say WBD rejected the same bid last week &lpar;CNBC&rpar;](http://www.techmeme.com/251208/p17#a251208p17)
+ - [Take a guess: This was the best-selling Android phone globally last quarter](https://www.androidauthority.com/best-selling-android-phone-global-q3-2025-3623080/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
