@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus temporarily pulls AI tool after censorship claims](https://www.androidauthority.com/oneplus-ai-writer-censorship-technical-issue-3623046/)
- - [Google might soon limit this popular Pixel Watch feature when you choose extra security](https://www.androidauthority.com/google-pixel-watch-unlock-android-advanced-protection-mode-apk-teardown-3623051/)
- - [How Pathway, a startup developing an alternative to the transformer, aims to use its Dragon Hatchling architecture to create a new class of adaptive AI systems &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/251208/p2#a251208p2)<!-- TECH:END -->
+ - [Binance receives three licenses from Abu Dhabi&#39;s financial regulator, allowing comprehensive operations across its exchange, clearing, and brokerage arms &lpar;Alex Dooler/Bloomberg&rpar;](http://www.techmeme.com/251208/p8#a251208p8)
+ - [Adding Google Gemini to my Kindle was the biggest upgrade to my reading experience](https://www.androidauthority.com/google-gemini-kindle-koreader-3620741/)
+ - [The Longest Solar Eclipse for 100 Years Is Coming. Don’t Miss It](https://www.wired.com/story/the-longest-solar-eclipse-for-100-years-is-coming-dont-miss-it/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
