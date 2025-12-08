@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Respect](http://9gag.com/gag/a5Q9xZr)
- - 😝 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
+ - 6️⃣ [We need intolerance more than ever](http://9gag.com/gag/avyBD0X)
+ - 😝 [Respect](http://9gag.com/gag/a5Q9xZr)
  - 👉 [Something About Market Caps](http://9gag.com/gag/aYQvR52)<!-- MEMES:END -->
 
 --- 
