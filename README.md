@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Respect](http://9gag.com/gag/a5Q9xZr)
- - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
- - 👉 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)<!-- MEMES:END -->
+ - 6️⃣ [When you are honest on job interview](http://9gag.com/gag/aVv91oP)
+ - 😝 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)
+ - 👉 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)<!-- MEMES:END -->
 
 --- 
 
