@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 Season 20 release time and roadmap](https://www.pcgamer.com/games/fps/overwatch-2-season-20-release-date-roadmap/)
- - [Frieren: Beyond Journey&#39;s End season 2 gets a release date](https://www.polygon.com/frieren-season-2-release-date-january-2026/)
- - [There&#39;s a mod that lets you play Hades 1 in Hades 2](https://www.pcgamer.com/games/action/theres-a-mod-that-lets-you-play-hades-1-in-hades-2/)<!-- GAME:END -->
+ - [AirPods 4 Are Now Cheaper Than Renewed Models at 45% Off as Apple Continues Its Clearance Push](https://kotaku.com/airpods-4-are-now-cheaper-than-renewed-models-at-45-off-as-apple-continues-its-clearance-push-2000651052)
+ - [Tekken boss announces retirement after 30 years in the most Harada way imaginable: a lengthy social media post and hour-long mixtape](https://www.pcgamer.com/games/fighting/tekken-boss-announces-retirement-after-30-years-in-the-most-harada-way-imaginable-a-lengthy-social-media-post-and-hour-long-mixtape/)
+ - [Baldur&#39;s Gate 3 fan discovers the game has nearly 237 hours of spoken dialogue in it—and a whopping 14 hours are narrator Amelia Tyler&#39;s alone, though Astarion gives her a run for her money](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-fan-discovers-the-game-has-nearly-237-hours-of-spoken-dialogue-in-it-and-a-whopping-14-hours-are-narrator-amelia-tylers-alone-though-astarion-gives-her-a-run-for-her-money/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
