@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The upcoming Motion Cues feature for Pixels just got a new name &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-motion-cues-pixels-new-name-apk-teardown-3623023/)
- - [30% Off Samsung Promo Code | December 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [Here’s your first look at the slick animation for Android’s NameDrop-style contact sharing feature](https://www.androidauthority.com/android-name-drop-contact-sharing-animation-3623020/)<!-- TECH:END -->
+ - [OnePlus temporarily pulls AI tool after censorship claims](https://www.androidauthority.com/oneplus-ai-writer-censorship-technical-issue-3623046/)
+ - [Google might soon limit this popular Pixel Watch feature when you choose extra security](https://www.androidauthority.com/google-pixel-watch-unlock-android-advanced-protection-mode-apk-teardown-3623051/)
+ - [How Pathway, a startup developing an alternative to the transformer, aims to use its Dragon Hatchling architecture to create a new class of adaptive AI systems &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/251208/p2#a251208p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
