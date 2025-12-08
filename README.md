@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X cuts off the European Commission’s ad account after being fined €120 million](https://www.theverge.com/news/839742/x-cuts-off-the-european-commissions-ad-account)
- - [Sources: Aaru, which uses AI to simulate user behavior, has raised a Series A led by Redpoint Ventures at multiple valuation tiers, including a $1B tier &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251207/p11#a251207p11)
- - [Evercore increases its Apple price target to $325 as it raises AI expectations](https://appleinsider.com/articles/25/12/07/evercore-increases-its-apple-price-target-to-325-as-it-raises-ai-expectations?utm_source=rss)<!-- TECH:END -->
+ - [You need to watch the modern horror masterpiece, His House](https://www.theverge.com/entertainment/839753/watch-modern-horror-masterpiece-his-house)
+ - [President Trump says Netflix&#39;s planned acquisition of WBD will have &quot;to go through a process&quot; and he will be personally involved in the decision-making process &lpar;Bloomberg&rpar;](http://www.techmeme.com/251207/p13#a251207p13)
+ - [An interview with Headspace CEO Tom Pickett on its AI chatbot Ebb, which he insists isn&#39;t for serious mental health issues, Ebb&#39;s upgrade to voice, and more &lpar;Emma Jacobs/Financial Times&rpar;](http://www.techmeme.com/251207/p12#a251207p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
