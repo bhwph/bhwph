@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Demon Slayer: Infinity Castle gets Golden Globes nomination](https://www.polygon.com/demon-slayer-kpop-demon-hunter-golden-globes-award-nominations/)
- - [World of Warcraft players are already discovering new tech with its player housing—turns out, you can sit anywhere as long as you&#39;re able to fit a chair inside](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-players-are-already-discovering-new-tech-with-its-player-housing-turns-out-you-can-sit-anywhere-as-long-as-youre-able-to-fit-a-chair-inside/)
- - [Elon Musk Robot Looks Drunk](https://kotaku.com/tesla-robot-optimus-kojima-od-boys-season-5-trailer-2000651373)<!-- GAME:END -->
+ - [Sheetz&#39;s new gamer program entices players with rewards](https://www.polygon.com/sheetz-launches/)
+ - [Death Howl draws on Soulslikes to create a brutal tactics game](https://www.polygon.com/death-howl-xbox-game-pass-recommendation/)
+ - [How Brok: The Brawl Bar and Natal Tail Evolve a Beloved Universe](https://news.xbox.com/en-us/2025/12/08/brok-brawl-and-natal-tail-evolve-a-beloved-universe/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
