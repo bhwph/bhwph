@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance receives three licenses from Abu Dhabi&#39;s financial regulator, allowing comprehensive operations across its exchange, clearing, and brokerage arms &lpar;Alex Dooler/Bloomberg&rpar;](http://www.techmeme.com/251208/p8#a251208p8)
- - [Adding Google Gemini to my Kindle was the biggest upgrade to my reading experience](https://www.androidauthority.com/google-gemini-kindle-koreader-3620741/)
- - [The Longest Solar Eclipse for 100 Years Is Coming. Don’t Miss It](https://www.wired.com/story/the-longest-solar-eclipse-for-100-years-is-coming-dont-miss-it/)<!-- TECH:END -->
+ - [Samsung is bringing seamless cross-device storage sharing with latest beta update](https://www.androidauthority.com/samsung-one-ui-8-5-storage-share-3623129/)
+ - [An OpenAI survey of 9,000 workers at 100 companies: it saves workers ~40 to 60 minutes per day on average for professional tasks; OpenAI has 1M business clients &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251208/p14#a251208p14)
+ - [Perplexing: Samsung’s latest beta update seems to be ghosting Bixby upgrades](https://www.androidauthority.com/samsung-one-ui-8-5-missing-bixby-upgrades-3623126/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
