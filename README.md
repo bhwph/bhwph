@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump says the US will allow Nvidia to ship H200 chips to &quot;approved customers&quot; in China and elsewhere, and that Xi Jinping &quot;responded positively&quot; &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/251208/p38#a251208p38)
- - [Trump Says He&#39;ll Sign Executive Order Preempting State AI Regulations](https://www.cnet.com/tech/services-and-software/trump-executive-order-preempts-state-ai-regulations/#ftag=CAD590a51e)
- - [Your YouTube Recap personality might be rarer than you think](https://www.androidauthority.com/how-rare-youtube-recap-personality-3623345/)<!-- TECH:END -->
+ - [The US FDA qualifies the first AI drug development tool, AIM-NASH, to help doctors assess a severe form of fatty liver disease in drug trials &lpar;Sahil Pandey/Reuters&rpar;](http://www.techmeme.com/251208/p47#a251208p47)
+ - [David Sacks says AI preemption won&#39;t apply to state laws on child safety, communities won&#39;t be forced to host data centers they don&#39;t want, and more &lpar;David Sacks/@davidsacks&rpar;](http://www.techmeme.com/251208/p46#a251208p46)
+ - [President Trump says the &quot;same approach&quot; used to let Nvidia ship H200 chips to China will also apply to &quot;AMD, Intel, and other GREAT American Companies&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251208/p45#a251208p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
