@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fal, which hosts generative AI models for developers, raised a $140M Series D led by Sequoia, a source says at a $4.5B valuation, up from $1.5B in July &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/251209/p17#a251209p17)
- - [Satya Nadella says Microsoft plans to spend $17.5B on AI and cloud computing in India over four years, its largest ever Asia investment, after meeting with Modi &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/251209/p16#a251209p16)
- - [If you&#39;ve got a 20-year-old Mac mini, you can run a newly discovered MacOS 7.6](https://appleinsider.com/articles/25/12/09/unreleased-30-year-old-mac-os-for-chrp-can-run-on-your-20-year-old-mac?utm_source=rss)<!-- TECH:END -->
+ - [Some of Ikea’s Matter-compatible smart devices are now available in the US](https://www.theverge.com/news/840727/ikea-smart-home-matter-thread-sensors-now-available)
+ - [Some Biden-era officials say access to Nvidia chips could help China&#39;s AI companies buy time while China&#39;s chip makers improve their chips&#39; performance &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/251209/p26#a251209p26)
+ - [Stripe and Paradigm launch a public trial for their blockchain project Tempo, targeting real-world stablecoin payments, with Kalshi and UBS as new partners &lpar;Bloomberg&rpar;](http://www.techmeme.com/251209/p25#a251209p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
