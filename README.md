@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [21 Best Gifts for Cooks &lpar;2025&rpar;: Vitamix, Frying Pans, Air Fryers](https://www.wired.com/gallery/gift-for-the-home-chef-2025/)
- - [Sources: Meta is pursuing a new Llama successor and frontier AI model, codenamed Avocado, set for release in Q1 2026, and it could be a proprietary model &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/251209/p13#a251209p13)
- - [The 26 Best Advent Calendars &lpar;2025&rpar;: It&#39;s OK if You Start Late](https://www.wired.com/gallery/best-advent-calendar/)<!-- TECH:END -->
+ - [Fal, which hosts generative AI models for developers, raised a $140M Series D led by Sequoia, a source says at a $4.5B valuation, up from $1.5B in July &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/251209/p17#a251209p17)
+ - [Satya Nadella says Microsoft plans to spend $17.5B on AI and cloud computing in India over four years, its largest ever Asia investment, after meeting with Modi &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/251209/p16#a251209p16)
+ - [If you&#39;ve got a 20-year-old Mac mini, you can run a newly discovered MacOS 7.6](https://appleinsider.com/articles/25/12/09/unreleased-30-year-old-mac-os-for-chrp-can-run-on-your-20-year-old-mac?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
