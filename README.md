@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [RAM price hikes: the latest on the global memory shortage](https://www.theverge.com/news/839353/pc-ram-shortage-pricing-spike-news)
- - [Menlo Ventures: business spending on generative AI hit $37B in 2025, up from $11.5B in 2024; Anthropic&#39;s share of enterprise LLM spend grew from 24% to 40% YoY &lpar;Menlo Ventures&rpar;](http://www.techmeme.com/251209/p35#a251209p35)
- - [Google Photos launches new video editing tools, including specialized templates with preset music and text overlays, as well as a redesigned video editor &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/251209/p34#a251209p34)<!-- TECH:END -->
+ - [Wake Up Dead Man digs deep for a darker, more powerful Knives Out](https://www.theverge.com/entertainment/840977/wake-up-dead-man-review-netflix-knives-out)
+ - [The 51 Best Shows on Hulu, WIRED’s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [The AirPods Pro 3 are back to their lowest price ahead of the holidays](https://www.theverge.com/gadgets/841059/apple-airpods-pro-3-silent-hill-f-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
