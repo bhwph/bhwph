@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We are Sydney Sweeney](http://9gag.com/gag/a4PBrPd)
- - 😝 [Steve Carell left the office after season 7 because his contract ended but the real reason is complex, he said he wanted to focus on his family but turns out NBC never renewed his contract due to leadership change. Moral Lesson, Companies are never loyal...](http://9gag.com/gag/azxvDVm)
- - 👉 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)<!-- MEMES:END -->
+ - 6️⃣ [Just like that spool of wire, woman wouldn&#39;t get it](http://9gag.com/gag/avyBBeb)
+ - 😝 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
+ - 👉 [Bamboozled](http://9gag.com/gag/a5Q9vMN)<!-- MEMES:END -->
 
 --- 
 
