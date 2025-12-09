@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Visible Promo Code: Save $400 in December 2025](https://www.wired.com/story/visible-promo-code/)
- - [Google and Apple team up to make switching between Android and iPhone easier](https://www.androidauthority.com/google-apple-android-iphone-switching-3623422/)
- - [Logitech Promo Codes and Deals: Up to 50% Off This Holiday Season](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
+ - [This smartphone adds a microSD slot, removable battery, and more, but removes… Android?](https://www.androidauthority.com/new-jolla-phone-3623421/)
+ - [Pixel 10 users are facing another major display bug after the December update](https://www.androidauthority.com/pixel-10-display-unresponsive-bug-3623438/)
+ - [You can put the best part of Fairphone&amp;#8217;s new headphones into the older model](https://www.theverge.com/news/839481/fairphone-xl-wireless-headphones-repairable-modular)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
