@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scientists at NeurIPS, which drew a record 26,000 attendees this year, say key questions about how AI models work and how to measure them remain unresolved &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/251208/p52#a251208p52)
- - [Italy-based humanoid robotics startup Generative Bionics raised €70M led by CDP Venture Capital, with participation from Tether, AMD Ventures, and others &lpar;Daniele Lepido/Bloomberg&rpar;](http://www.techmeme.com/251208/p51#a251208p51)
- - [Google confirms Pixel 9 Pro display faults, announces free repairs](https://www.androidauthority.com/google-pixel-9-pro-extended-repair-program-3623411/)<!-- TECH:END -->
+ - [Visible Promo Code: Save $400 in December 2025](https://www.wired.com/story/visible-promo-code/)
+ - [Google and Apple team up to make switching between Android and iPhone easier](https://www.androidauthority.com/google-apple-android-iphone-switching-3623422/)
+ - [Logitech Promo Codes and Deals: Up to 50% Off This Holiday Season](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
