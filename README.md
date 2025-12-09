@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some of Ikea’s Matter-compatible smart devices are now available in the US](https://www.theverge.com/news/840727/ikea-smart-home-matter-thread-sensors-now-available)
- - [Some Biden-era officials say access to Nvidia chips could help China&#39;s AI companies buy time while China&#39;s chip makers improve their chips&#39; performance &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/251209/p26#a251209p26)
- - [Stripe and Paradigm launch a public trial for their blockchain project Tempo, targeting real-world stablecoin payments, with Kalshi and UBS as new partners &lpar;Bloomberg&rpar;](http://www.techmeme.com/251209/p25#a251209p25)<!-- TECH:END -->
+ - [RAM price hikes: the latest on the global memory shortage](https://www.theverge.com/news/839353/pc-ram-shortage-pricing-spike-news)
+ - [Menlo Ventures: business spending on generative AI hit $37B in 2025, up from $11.5B in 2024; Anthropic&#39;s share of enterprise LLM spend grew from 24% to 40% YoY &lpar;Menlo Ventures&rpar;](http://www.techmeme.com/251209/p35#a251209p35)
+ - [Google Photos launches new video editing tools, including specialized templates with preset music and text overlays, as well as a redesigned video editor &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/251209/p34#a251209p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
