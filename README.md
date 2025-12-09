@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wake Up Dead Man digs deep for a darker, more powerful Knives Out](https://www.theverge.com/entertainment/840977/wake-up-dead-man-review-netflix-knives-out)
- - [The 51 Best Shows on Hulu, WIRED’s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [The AirPods Pro 3 are back to their lowest price ahead of the holidays](https://www.theverge.com/gadgets/841059/apple-airpods-pro-3-silent-hill-f-deal-sale)<!-- TECH:END -->
+ - [Google Photos for web offers two choices on how to handle RAW image editing](https://www.androidauthority.com/google-photos-web-raw-file-editing-3623800/)
+ - [Amazon Echo Auto deal: Add Alexa to your car for just $15!](https://www.androidauthority.com/amazon-echo-auto-deal-3-3623788/)
+ - [Sources: Nvidia&#39;s H200 chips for China, mainly manufactured in Taiwan, will travel to the US for an unusual national security review before they are exported &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251209/p44#a251209p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
