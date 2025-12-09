@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sheetz&#39;s new gamer program entices players with rewards](https://www.polygon.com/sheetz-launches/)
- - [Death Howl draws on Soulslikes to create a brutal tactics game](https://www.polygon.com/death-howl-xbox-game-pass-recommendation/)
- - [How Brok: The Brawl Bar and Natal Tail Evolve a Beloved Universe](https://news.xbox.com/en-us/2025/12/08/brok-brawl-and-natal-tail-evolve-a-beloved-universe/)<!-- GAME:END -->
+ - [Microsoft killed the promising Perfect Dark reboot, but Take-Two has snapped up its leads for a new 2K studio](https://www.pcgamer.com/gaming-industry/microsoft-killed-the-promising-perfect-dark-reboot-but-take-two-has-snapped-up-its-leads-for-a-new-2k-studio/)
+ - [Windows 3.1 included a red and yellow &#39;Hot Dog Stand&#39; color scheme so garish it was long assumed to be a joke, so I tracked down Microsoft&#39;s original UI designer to get the true story](https://www.pcgamer.com/software/windows/windows-3-1-included-a-red-and-yellow-hot-dog-stand-color-scheme-so-garish-it-was-long-assumed-to-be-a-joke-so-i-tracked-down-the-original-designer-to-get-the-true-story/)
+ - [How to get Stone in The Forge](https://www.pcgamer.com/roblox/the-forge-how-to-get-stone/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
