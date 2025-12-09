@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How i meet your mother](http://9gag.com/gag/adBW44j)
- - 😝 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)
- - 👉 [Steve Carell left the office after season 7 because his contract ended but the real reason is complex, he said he wanted to focus on his family but turns out NBC never renewed his contract due to leadership change. Moral Lesson, Companies are never loyal...](http://9gag.com/gag/azxvDVm)<!-- MEMES:END -->
+ - 6️⃣ [Money\u2019s tight](http://9gag.com/gag/aLnOVDv)
+ - 😝 [Looks expensive](http://9gag.com/gag/aAyLqDR)
+ - 👉 [How i meet your mother](http://9gag.com/gag/adBW44j)<!-- MEMES:END -->
 
 --- 
 
