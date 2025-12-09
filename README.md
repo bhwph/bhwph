@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bamboozled](http://9gag.com/gag/a5Q9vMN)
- - 😝 [True](http://9gag.com/gag/a2vAAWp)
- - 👉 [Old meme of the year. Shooting stars](http://9gag.com/gag/aKGXX6Q)<!-- MEMES:END -->
+ - 6️⃣ [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
+ - 😝 [Idiocracy is an American documentary](http://9gag.com/gag/axyenD1)
+ - 👉 [Seriously though?](http://9gag.com/gag/amoOdDV)<!-- MEMES:END -->
 
 --- 
 
