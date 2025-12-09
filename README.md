@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Clears Out PlayStation VR2 at Its Lowest Price as Holiday Stock Dump Begins, While Meta Quest Stays Full Price](https://kotaku.com/sony-clears-out-playstation-vr2-at-its-lowest-price-as-holiday-stock-dump-begins-while-meta-quest-stays-full-price-2000651622)
- - [New Doctor Who spinoff blows up in ratings after Disney dumped the franchise](https://www.polygon.com/doctor-who-spin-off-ratings-war-land-sea/)
- - [Philips and AOC announce the &#39;world&#39;s first&#39; 1,000 Hz dual-mode gaming monitors](https://www.pcgamer.com/hardware/gaming-monitors/philips-and-aoc-announce-the-worlds-first-1-000-hz-dual-mode-gaming-monitors/)<!-- GAME:END -->
+ - [Kirby Air Riders: The Kotaku Review](https://kotaku.com/kirby-air-riders-review-switch-sakurai-2000651657)
+ - [AMD Ryzen 9 Gets Another Price Drop After Black Friday as Amazon Clears Out Best-Selling CPU Stock](https://kotaku.com/amd-ryzen-9-gets-another-price-drop-after-black-friday-as-amazon-clears-out-best-selling-cpu-stock-2000651635)
+ - [Moonlighter 2 and Silksong composer reveals the process of &#39;hand drawing&#39; video game music](https://www.polygon.com/moonlighter-2-soundtrack-christopher-larkin/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
