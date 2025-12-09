@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This smartphone adds a microSD slot, removable battery, and more, but removes… Android?](https://www.androidauthority.com/new-jolla-phone-3623421/)
- - [Pixel 10 users are facing another major display bug after the December update](https://www.androidauthority.com/pixel-10-display-unresponsive-bug-3623438/)
- - [You can put the best part of Fairphone&amp;#8217;s new headphones into the older model](https://www.theverge.com/news/839481/fairphone-xl-wireless-headphones-repairable-modular)<!-- TECH:END -->
+ - [Google Zero is under investigation by the EU](https://www.theverge.com/news/840547/google-zero-eu-antitrust-investigation-ai-content)
+ - [These huge, new E Ink posters turn your wall into a Kindle-like gallery](https://www.androidauthority.com/pocketbook-e-ink-poster-launch-3623471/)
+ - [You can now download the One UI 8.5 beta on your Samsung phone, here’s how](https://www.androidauthority.com/samsung-one-ui-8-5-beta-download-how-to-3623185/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
