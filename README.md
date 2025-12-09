@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Multiplayer Game Reportedly Got 10x Fewer Players Than It Was Hoping For](https://kotaku.com/king-meat-glowmade-layoffs-keighley-mrbeast-trailer-2000651722)
- - [Somehow the Assassin&#39;s Creed: Black Flag remake continues to leak, thanks to a PEGI rating for something called Black Flag Resynced](https://www.pcgamer.com/games/assassins-creed/somehow-the-assassins-creed-black-flag-remake-continues-to-leak-thanks-to-a-pegi-rating-for-something-called-black-flag-resynced/)
- - [GTA Online&#39;s new Mission Creator is a big clue for GTA 6](https://www.polygon.com/gta-6-online-mission-creator-twitch-role-playing-custom-content-rockstar/)<!-- GAME:END -->
+ - [Magic: The Gathering Reveals 38 Marvel Super Hero Cards Including Hulk, Doctor Doom, And Cap](https://kotaku.com/magic-gathering-mtg-horn-greed-heroic-intervention-2000651812)
+ - [AirPods Pro 3 Return to Black Friday Record Low on Amazon, Apple Store Still Charges Full Price](https://kotaku.com/airpods-pro-3-return-to-black-friday-record-low-on-amazon-apple-store-still-charges-full-price-2000651653)
+ - [The Outer Worlds and Ancestors: The Humankind Odyssey are being delisted from GOG](https://www.pcgamer.com/games/the-outer-worlds-and-ancestors-the-humankind-odyssey-are-being-delisted-from-gog/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
