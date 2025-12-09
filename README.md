@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Zero is under investigation by the EU](https://www.theverge.com/news/840547/google-zero-eu-antitrust-investigation-ai-content)
- - [These huge, new E Ink posters turn your wall into a Kindle-like gallery](https://www.androidauthority.com/pocketbook-e-ink-poster-launch-3623471/)
- - [You can now download the One UI 8.5 beta on your Samsung phone, here’s how](https://www.androidauthority.com/samsung-one-ui-8-5-beta-download-how-to-3623185/)<!-- TECH:END -->
+ - [21 Best Gifts for Cooks &lpar;2025&rpar;: Vitamix, Frying Pans, Air Fryers](https://www.wired.com/gallery/gift-for-the-home-chef-2025/)
+ - [Sources: Meta is pursuing a new Llama successor and frontier AI model, codenamed Avocado, set for release in Q1 2026, and it could be a proprietary model &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/251209/p13#a251209p13)
+ - [The 26 Best Advent Calendars &lpar;2025&rpar;: It&#39;s OK if You Start Late](https://www.wired.com/gallery/best-advent-calendar/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
