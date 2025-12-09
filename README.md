@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)
- - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
- - 👉 [Shocking footage of 7.5 magnitude earthquake in Japan](http://9gag.com/gag/a34zp97)<!-- MEMES:END -->
+ - 6️⃣ [Respect](http://9gag.com/gag/a5Q9xZr)
+ - 😝 [We need intolerance more than ever](http://9gag.com/gag/avyBD0X)
+ - 👉 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)<!-- MEMES:END -->
 
 --- 
 
