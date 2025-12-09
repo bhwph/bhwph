@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The International Committee of the Red Cross, which runs major research archives, warned that AI models are fabricating research papers, journals, and archives &lpar;Dan Vergano/Scientific American&rpar;](http://www.techmeme.com/251208/p50#a251208p50)
- - [Your Google Play Points might be hiding a secret $200 Pixel 10 Pro discount](https://www.androidauthority.com/google-play-points-pixel-10-pro-200-dollar-discount-3623406/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 9, #442](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-9-442/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Scientists at NeurIPS, which drew a record 26,000 attendees this year, say key questions about how AI models work and how to measure them remain unresolved &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/251208/p52#a251208p52)
+ - [Italy-based humanoid robotics startup Generative Bionics raised €70M led by CDP Venture Capital, with participation from Tether, AMD Ventures, and others &lpar;Daniele Lepido/Bloomberg&rpar;](http://www.techmeme.com/251208/p51#a251208p51)
+ - [Google confirms Pixel 9 Pro display faults, announces free repairs](https://www.androidauthority.com/google-pixel-9-pro-extended-repair-program-3623411/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
