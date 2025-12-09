@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Money\u2019s tight](http://9gag.com/gag/aLnOVDv)
- - 😝 [Looks expensive](http://9gag.com/gag/aAyLqDR)
- - 👉 [How i meet your mother](http://9gag.com/gag/adBW44j)<!-- MEMES:END -->
+ - 6️⃣ [How i meet your mother](http://9gag.com/gag/adBW44j)
+ - 😝 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
+ - 👉 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)<!-- MEMES:END -->
 
 --- 
 
