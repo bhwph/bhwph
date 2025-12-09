@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get netherite horse armor in Minecraft](https://www.pcgamer.com/games/survival-crafting/minecraft-netherite-horse-armor-crafting-recipe/)
- - [How to craft and use a spear in Minecraft](https://www.pcgamer.com/games/survival-crafting/minecraft-spear-crafting-recipe/)
- - [How to find and tame a Nautilus in Minecraft](https://www.pcgamer.com/games/survival-crafting/minecraft-nautilus-location/)<!-- GAME:END -->
+ - [Sony Clears Out PlayStation VR2 at Its Lowest Price as Holiday Stock Dump Begins, While Meta Quest Stays Full Price](https://kotaku.com/sony-clears-out-playstation-vr2-at-its-lowest-price-as-holiday-stock-dump-begins-while-meta-quest-stays-full-price-2000651622)
+ - [New Doctor Who spinoff blows up in ratings after Disney dumped the franchise](https://www.polygon.com/doctor-who-spin-off-ratings-war-land-sea/)
+ - [Philips and AOC announce the &#39;world&#39;s first&#39; 1,000 Hz dual-mode gaming monitors](https://www.pcgamer.com/hardware/gaming-monitors/philips-and-aoc-announce-the-worlds-first-1-000-hz-dual-mode-gaming-monitors/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
