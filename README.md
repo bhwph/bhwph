@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Respect](http://9gag.com/gag/a5Q9xZr)
- - 😝 [We need intolerance more than ever](http://9gag.com/gag/avyBD0X)
- - 👉 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)<!-- MEMES:END -->
+ - 6️⃣ [How i meet your mother](http://9gag.com/gag/adBW44j)
+ - 😝 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)
+ - 👉 [Steve Carell left the office after season 7 because his contract ended but the real reason is complex, he said he wanted to focus on his family but turns out NBC never renewed his contract due to leadership change. Moral Lesson, Companies are never loyal...](http://9gag.com/gag/azxvDVm)<!-- MEMES:END -->
 
 --- 
 
