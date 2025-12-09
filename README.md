@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kirby Air Riders: The Kotaku Review](https://kotaku.com/kirby-air-riders-review-switch-sakurai-2000651657)
- - [AMD Ryzen 9 Gets Another Price Drop After Black Friday as Amazon Clears Out Best-Selling CPU Stock](https://kotaku.com/amd-ryzen-9-gets-another-price-drop-after-black-friday-as-amazon-clears-out-best-selling-cpu-stock-2000651635)
- - [Moonlighter 2 and Silksong composer reveals the process of &#39;hand drawing&#39; video game music](https://www.polygon.com/moonlighter-2-soundtrack-christopher-larkin/)<!-- GAME:END -->
+ - [Amazon Multiplayer Game Reportedly Got 10x Fewer Players Than It Was Hoping For](https://kotaku.com/king-meat-glowmade-layoffs-keighley-mrbeast-trailer-2000651722)
+ - [Somehow the Assassin&#39;s Creed: Black Flag remake continues to leak, thanks to a PEGI rating for something called Black Flag Resynced](https://www.pcgamer.com/games/assassins-creed/somehow-the-assassins-creed-black-flag-remake-continues-to-leak-thanks-to-a-pegi-rating-for-something-called-black-flag-resynced/)
+ - [GTA Online&#39;s new Mission Creator is a big clue for GTA 6](https://www.polygon.com/gta-6-online-mission-creator-twitch-role-playing-custom-content-rockstar/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
