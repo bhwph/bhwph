@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The joker kinda got a point](http://9gag.com/gag/aPAVLyP)
- - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
- - 👉 [Its Wednesday my dudes](http://9gag.com/gag/ajP3v0G)<!-- MEMES:END -->
+ - 6️⃣ [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
+ - 😝 [Saudi Arabia](http://9gag.com/gag/amoOOyv)
+ - 👉 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)<!-- MEMES:END -->
 
 --- 
 
