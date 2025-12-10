@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple Watch Ultra 2 Drops Even Cheaper Than Black Friday in a Year-End Clearance Rush, Already Selling Out Fast](https://kotaku.com/apple-watch-ultra-2-drops-even-cheaper-than-black-friday-in-a-year-end-clearance-rush-already-selling-out-fast-2000651846)
- - [OneXPlayer X1 Air review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/onexplayer-x1-air-review/)
- - [Metroid Prime 4 is the Dragon Age Veilguard of Metroid](https://www.polygon.com/metroid-prime-4-is-the-dragon-age-veilguard-of-metroid/)<!-- GAME:END -->
+ - [All Shift codes for Borderlands 4](https://www.polygon.com/borderlands-4-active-shift-codes-redeem/)
+ - [Ever-opportunistic bitcoin miners in the US are reportedly now transforming their crypto farms into &#39;AI megafactories&#39;](https://www.pcgamer.com/hardware/graphics-cards/ever-opportunistic-bitcoin-miners-in-the-us-are-reportedly-now-transforming-their-crypto-farms-into-ai-megafactories/)
+ - [Anker 12-in-1 Docking Station Returns at Black Friday Pricing After Selling Out, Doubles as a Monitor Stand](https://kotaku.com/anker-12-in-1-docking-station-returns-at-black-friday-pricing-after-selling-out-doubles-as-a-monitor-stand-2000651854)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
