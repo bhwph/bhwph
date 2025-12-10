@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The RSL Collective, backed by Ziff Davis, Yahoo, and others, launches RSL 1.0, to let publishers set licensing and compensation rules for AI web crawlers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251210/p34#a251210p34)
- - [Razer resurrects the first ever gaming mouse as a limited edition](https://www.theverge.com/news/841494/razer-boomslang-20th-anniversary-edition-gaming-mouse-rechargeable-optical)
- - [The best Christmas gifts for gamers and movie lovers](https://www.theverge.com/gadgets/780850/gaming-entertainment-gifts-ideas-2025)<!-- TECH:END -->
+ - [The Echo Spot is just $45, beating its Black Friday price](https://www.theverge.com/gadgets/841593/amazon-echo-spot-nintendo-joy-con-2-wheel-deal-sale)
+ - [The DHS Data Grab Is Putting US Citizens at Risk](https://www.wired.com/story/dhs-data-grab-putting-us-citizens-at-risk/)
+ - [No one knows what to call these things](https://www.theverge.com/gadgets/841536/smart-glasses-ai-glasses-xr-ar-headsets-terminology-wearables)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
