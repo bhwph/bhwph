@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Echo Spot is just $45, beating its Black Friday price](https://www.theverge.com/gadgets/841593/amazon-echo-spot-nintendo-joy-con-2-wheel-deal-sale)
- - [The DHS Data Grab Is Putting US Citizens at Risk](https://www.wired.com/story/dhs-data-grab-putting-us-citizens-at-risk/)
- - [No one knows what to call these things](https://www.theverge.com/gadgets/841536/smart-glasses-ai-glasses-xr-ar-headsets-terminology-wearables)<!-- TECH:END -->
+ - [Amazon is actually making it easier to load e-books you buy onto non-Kindle e-readers](https://www.androidauthority.com/amazon-epub-pdf-3624108/)
+ - [American Film Institute honors Apple TV hits including &#39;Pluribus&#39; and &#39;Severance&#39;](https://appleinsider.com/articles/25/12/10/american-film-institute-honors-apple-tv-hits-including-pluribus-and-severance?utm_source=rss)
+ - [Nick Clegg joins London-based VC firm Hiro Capital as a general partner, and Yann LeCun joins the firm as an adviser; sources: Hiro looks to raise a €500M+ fund &lpar;Financial Times&rpar;](http://www.techmeme.com/251210/p46#a251210p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
