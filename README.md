@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Saudi Arabia](http://9gag.com/gag/amoOOyv)
- - 😝 [Childhood dream achieved!](http://9gag.com/gag/aO8nnL3)
- - 👉 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)<!-- MEMES:END -->
+ - 6️⃣ [Oi mate](http://9gag.com/gag/aKGXX8b)
+ - 😝 [Sometimes you have to learn it the hard way](http://9gag.com/gag/aNDGXm0)
+ - 👉 [4th dimension explained](http://9gag.com/gag/aE0jj2G)<!-- MEMES:END -->
 
 --- 
 
