@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos for web offers two choices on how to handle RAW image editing](https://www.androidauthority.com/google-photos-web-raw-file-editing-3623800/)
- - [Amazon Echo Auto deal: Add Alexa to your car for just $15!](https://www.androidauthority.com/amazon-echo-auto-deal-3-3623788/)
- - [Sources: Nvidia&#39;s H200 chips for China, mainly manufactured in Taiwan, will travel to the US for an unusual national security review before they are exported &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251209/p44#a251209p44)<!-- TECH:END -->
+ - [Silicon Valley Is All About the Hard Sell These Days](https://www.wired.com/story/sam-altman-jimmy-fallon-silicon-valley-hard-sell/)
+ - [Sources: China added AI chips from Chinese groups to its government-approved list of suppliers for the first time, before Trump&#39;s move to allow Nvidia exports &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/251209/p54#a251209p54)
+ - [Take an Amazon Echo Dot Max home at a record-low price](https://www.androidauthority.com/amazon-echo-dot-max-deal-3623829/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
