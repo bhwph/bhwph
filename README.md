@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [4th dimension explained](http://9gag.com/gag/aE0jj2G)
- - 😝 [Sometimes you have to learn it the hard way](http://9gag.com/gag/aNDGXm0)
- - 👉 [Baby it\u2019s cold outside](http://9gag.com/gag/aBybbGZ)<!-- MEMES:END -->
+ - 6️⃣ [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
+ - 😝 [How i meet your mother](http://9gag.com/gag/adBW44j)
+ - 👉 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)<!-- MEMES:END -->
 
 --- 
 
