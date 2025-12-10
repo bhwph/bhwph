@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says the cyber capabilities of its frontier AI models are accelerating and warns that upcoming models are likely to pose a &quot;high&quot; risk &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/251210/p52#a251210p52)
- - [Shoppers get 30% off at Mattel when they check out with Apple Pay](https://appleinsider.com/articles/25/12/10/shoppers-get-30-off-at-mattel-when-they-check-out-with-apple-pay?utm_source=rss)
- - [ANBERNIC confirms everything you want to know about its Game Boy-like handheld](https://www.androidauthority.com/anbernic-rg-477v-official-specs-3624155/)<!-- TECH:END -->
+ - [Google rolls out Preferred Sources globally, letting users customize &quot;top stories&quot; in Search, and launches highlighted links from users&#39; news subscriptions &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/251210/p58#a251210p58)
+ - [This Moto swag might just hint at a new shape for Razr foldables](https://www.androidauthority.com/book-style-razr-3624177/)
+ - [Spotify&amp;#8217;s Prompted Playlists use AI to control your algorithm](https://www.theverge.com/news/842053/spotify-ai-prompted-playlists)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
