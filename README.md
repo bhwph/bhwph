@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Childhood dream achieved!](http://9gag.com/gag/aO8nnL3)
- - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
- - 👉 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)<!-- MEMES:END -->
+ - 6️⃣ [Saudi Arabia](http://9gag.com/gag/amoOOyv)
+ - 😝 [Childhood dream achieved!](http://9gag.com/gag/aO8nnL3)
+ - 👉 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)<!-- MEMES:END -->
 
 --- 
 
