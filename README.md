@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia&#39;s under-16 social media ban excludes Discord, GitHub, LEGO Play, Roblox, Steam, Google Classroom, Facebook Messenger, WhatsApp, and YouTube Kids &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p16#a251210p16)
- - [Pixel 10a leak reveals key specs via Verizon listing](https://www.androidauthority.com/google-pixel-10a-verizon-certification-leak-3623943/)
- - [A Doctor at Apple Reveals 9 Hidden Apple Watch Health Features](https://www.cnet.com/health/medical/hidden-apple-watch-health-features-according-doctor-apple/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Betting exchange Matchbook plans to launch a prediction market platform in the UK in January 2026 as a &quot;road test&quot; before a planned US launch as early as March &lpar;Justina Lee/Bloomberg&rpar;](http://www.techmeme.com/251210/p27#a251210p27)
+ - [McDonald&#39;s Netherlands pulls an AI-generated Christmas ad, made by TBWA\NEBOKO with film production company Sweetshop, after backlash that the ad is distasteful &lpar;Joe Wilkins/Futurism&rpar;](http://www.techmeme.com/251210/p26#a251210p26)
+ - [Cantata Haptique RS90 Universal Remote Review: Not Yet Great](https://www.wired.com/review/cantata-rs90-universal-remote/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
