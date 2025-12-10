@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oi mate](http://9gag.com/gag/aKGXX8b)
+ - 6️⃣ [4th dimension explained](http://9gag.com/gag/aE0jj2G)
  - 😝 [Sometimes you have to learn it the hard way](http://9gag.com/gag/aNDGXm0)
- - 👉 [4th dimension explained](http://9gag.com/gag/aE0jj2G)<!-- MEMES:END -->
+ - 👉 [Baby it\u2019s cold outside](http://9gag.com/gag/aBybbGZ)<!-- MEMES:END -->
 
 --- 
 
