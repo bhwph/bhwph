@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is actually making it easier to load e-books you buy onto non-Kindle e-readers](https://www.androidauthority.com/amazon-epub-pdf-3624108/)
- - [American Film Institute honors Apple TV hits including &#39;Pluribus&#39; and &#39;Severance&#39;](https://appleinsider.com/articles/25/12/10/american-film-institute-honors-apple-tv-hits-including-pluribus-and-severance?utm_source=rss)
- - [Nick Clegg joins London-based VC firm Hiro Capital as a general partner, and Yann LeCun joins the firm as an adviser; sources: Hiro looks to raise a €500M+ fund &lpar;Financial Times&rpar;](http://www.techmeme.com/251210/p46#a251210p46)<!-- TECH:END -->
+ - [OpenAI says the cyber capabilities of its frontier AI models are accelerating and warns that upcoming models are likely to pose a &quot;high&quot; risk &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/251210/p52#a251210p52)
+ - [Shoppers get 30% off at Mattel when they check out with Apple Pay](https://appleinsider.com/articles/25/12/10/shoppers-get-30-off-at-mattel-when-they-check-out-with-apple-pay?utm_source=rss)
+ - [ANBERNIC confirms everything you want to know about its Game Boy-like handheld](https://www.androidauthority.com/anbernic-rg-477v-official-specs-3624155/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
