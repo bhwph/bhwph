@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Notification overload? Your Pixel now has a smarter way to handle it](https://www.androidauthority.com/google-pixel-notification-organizer-rolling-out-3623913/)
- - [Kids and Teen Influencers in Australia Say ‘Bye-Bye’ to Social Media](https://www.wired.com/story/kids-and-teen-influencers-in-australia-say-goodbye-to-social-media/)
- - [Survey of 1,458 US teens: 64% use AI chatbots, and 28% use them daily; 59% say they use ChatGPT, 23% Gemini, 20% Meta AI, 14% Copilot, and 9% Character.ai &lpar;Pew Research Center&rpar;](http://www.techmeme.com/251210/p12#a251210p12)<!-- TECH:END -->
+ - [Australia&#39;s under-16 social media ban excludes Discord, GitHub, LEGO Play, Roblox, Steam, Google Classroom, Facebook Messenger, WhatsApp, and YouTube Kids &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p16#a251210p16)
+ - [Pixel 10a leak reveals key specs via Verizon listing](https://www.androidauthority.com/google-pixel-10a-verizon-certification-leak-3623943/)
+ - [A Doctor at Apple Reveals 9 Hidden Apple Watch Health Features](https://www.cnet.com/health/medical/hidden-apple-watch-health-features-according-doctor-apple/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
