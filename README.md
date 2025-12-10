@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
- - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
- - 👉 [We are Sydney Sweeney](http://9gag.com/gag/a4PBrPd)<!-- MEMES:END -->
+ - 6️⃣ [He left his home, the mosque, and even the sidewalk, choosing instead to pray in the middle of the street! What would you call this?](http://9gag.com/gag/avyB4WO)
+ - 😝 [It&#39;s a trap](http://9gag.com/gag/axyenOD)
+ - 👉 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)<!-- MEMES:END -->
 
 --- 
 
