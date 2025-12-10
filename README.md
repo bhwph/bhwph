@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Han Solo is finally getting his &#39;Old Man Logan&#39; moment](https://www.polygon.com/star-wars-han-solo-hunt-the-falcon-comic-review/)
- - [Ring Battery Video Doorbell Priced Like Basic Doorbell, Amazon Plays Zero Profit on Own Brand](https://kotaku.com/ring-battery-video-doorbell-priced-like-basic-doorbell-amazon-plays-zero-profit-on-own-brand-2000652158)
- - [A Red Dead Redemption 2 fan conducted an in-game census to test Rockstar&#39;s historical accuracy and found it wasn&#39;t half bad: &#39;It&#39;s videogame-ified in a lot of ways, but not as much you might guess&#39;](https://www.pcgamer.com/games/adventure/a-red-dead-redemption-2-fan-conducted-an-in-game-census-to-test-rockstars-historical-accuracy-and-found-it-wasnt-half-bad-its-videogame-ified-in-a-lot-of-ways-but-not-as-much-you-might-guess/)<!-- GAME:END -->
+ - [The Mighty Nein&#39;s changes to Yasha make Critical Role&#39;s best character even more badass](https://www.polygon.com/the-mighty-nein-yasha-changes-critical-roles/)
+ - [The Game Awards 2025 date and time: How and when to watch](https://www.polygon.com/game-awards-2025-how-to-watch-when-time-est-pst/)
+ - [Dust Bunny review: Bryan Fuller and Mads Mikkelsen are at their best on the big screen](https://www.polygon.com/dust-bunny-brings-the-best-of-hannibal-and-bryan-fuller-to-the-silver-screen/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
