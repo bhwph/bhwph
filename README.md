@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Betting exchange Matchbook plans to launch a prediction market platform in the UK in January 2026 as a &quot;road test&quot; before a planned US launch as early as March &lpar;Justina Lee/Bloomberg&rpar;](http://www.techmeme.com/251210/p27#a251210p27)
- - [McDonald&#39;s Netherlands pulls an AI-generated Christmas ad, made by TBWA\NEBOKO with film production company Sweetshop, after backlash that the ad is distasteful &lpar;Joe Wilkins/Futurism&rpar;](http://www.techmeme.com/251210/p26#a251210p26)
- - [Cantata Haptique RS90 Universal Remote Review: Not Yet Great](https://www.wired.com/review/cantata-rs90-universal-remote/)<!-- TECH:END -->
+ - [The RSL Collective, backed by Ziff Davis, Yahoo, and others, launches RSL 1.0, to let publishers set licensing and compensation rules for AI web crawlers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251210/p34#a251210p34)
+ - [Razer resurrects the first ever gaming mouse as a limited edition](https://www.theverge.com/news/841494/razer-boomslang-20th-anniversary-edition-gaming-mouse-rechargeable-optical)
+ - [The best Christmas gifts for gamers and movie lovers](https://www.theverge.com/gadgets/780850/gaming-entertainment-gifts-ideas-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
