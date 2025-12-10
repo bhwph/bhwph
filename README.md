@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DEEP Robotics, a Hangzhou-based startup that builds quadruped and humanoid robots, raised a $70M Series C to expand R&amp;D and production capacity &lpar;Danielle Popov/South China Morning Post&rpar;](http://www.techmeme.com/251209/p57#a251209p57)
- - [Stellantis partners with Estonian ride-hailing service Bolt, which serves 200M+ riders, to test Level 4 driverless vans across Europe in 2026 &lpar;Romolo Tosiani/Reuters&rpar;](http://www.techmeme.com/251209/p56#a251209p56)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-10/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
+ - [Coupang CEO Park Dae-jun resigns after the company incurred South Korea&#39;s largest-ever data breach, in which the personal data of 30M+ people was compromised &lpar;Mark Anderson/Bloomberg&rpar;](http://www.techmeme.com/251210/p4#a251210p4)
+ - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in December](https://www.wired.com/story/att-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
