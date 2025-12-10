@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Shift codes for Borderlands 4](https://www.polygon.com/borderlands-4-active-shift-codes-redeem/)
- - [Ever-opportunistic bitcoin miners in the US are reportedly now transforming their crypto farms into &#39;AI megafactories&#39;](https://www.pcgamer.com/hardware/graphics-cards/ever-opportunistic-bitcoin-miners-in-the-us-are-reportedly-now-transforming-their-crypto-farms-into-ai-megafactories/)
- - [Anker 12-in-1 Docking Station Returns at Black Friday Pricing After Selling Out, Doubles as a Monitor Stand](https://kotaku.com/anker-12-in-1-docking-station-returns-at-black-friday-pricing-after-selling-out-doubles-as-a-monitor-stand-2000651854)<!-- GAME:END -->
+ - [Han Solo is finally getting his &#39;Old Man Logan&#39; moment](https://www.polygon.com/star-wars-han-solo-hunt-the-falcon-comic-review/)
+ - [Ring Battery Video Doorbell Priced Like Basic Doorbell, Amazon Plays Zero Profit on Own Brand](https://kotaku.com/ring-battery-video-doorbell-priced-like-basic-doorbell-amazon-plays-zero-profit-on-own-brand-2000652158)
+ - [A Red Dead Redemption 2 fan conducted an in-game census to test Rockstar&#39;s historical accuracy and found it wasn&#39;t half bad: &#39;It&#39;s videogame-ified in a lot of ways, but not as much you might guess&#39;](https://www.pcgamer.com/games/adventure/a-red-dead-redemption-2-fan-conducted-an-in-game-census-to-test-rockstars-historical-accuracy-and-found-it-wasnt-half-bad-its-videogame-ified-in-a-lot-of-ways-but-not-as-much-you-might-guess/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
