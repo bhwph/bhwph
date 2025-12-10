@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
- - [Coupang CEO Park Dae-jun resigns after the company incurred South Korea&#39;s largest-ever data breach, in which the personal data of 30M+ people was compromised &lpar;Mark Anderson/Bloomberg&rpar;](http://www.techmeme.com/251210/p4#a251210p4)
- - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in December](https://www.wired.com/story/att-promo-code/)<!-- TECH:END -->
+ - [Notification overload? Your Pixel now has a smarter way to handle it](https://www.androidauthority.com/google-pixel-notification-organizer-rolling-out-3623913/)
+ - [Kids and Teen Influencers in Australia Say ‘Bye-Bye’ to Social Media](https://www.wired.com/story/kids-and-teen-influencers-in-australia-say-goodbye-to-social-media/)
+ - [Survey of 1,458 US teens: 64% use AI chatbots, and 28% use them daily; 59% say they use ChatGPT, 23% Gemini, 20% Meta AI, 14% Copilot, and 9% Character.ai &lpar;Pew Research Center&rpar;](http://www.techmeme.com/251210/p12#a251210p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
