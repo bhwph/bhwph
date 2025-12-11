@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Mighty Nein&#39;s changes to Yasha make Critical Role&#39;s best character even more badass](https://www.polygon.com/the-mighty-nein-yasha-changes-critical-roles/)
- - [The Game Awards 2025 date and time: How and when to watch](https://www.polygon.com/game-awards-2025-how-to-watch-when-time-est-pst/)
- - [Dust Bunny review: Bryan Fuller and Mads Mikkelsen are at their best on the big screen](https://www.polygon.com/dust-bunny-brings-the-best-of-hannibal-and-bryan-fuller-to-the-silver-screen/)<!-- GAME:END -->
+ - [Ashes of Creation early access launch times and release date](https://www.pcgamer.com/games/mmo/ashes-of-creation-launch-time-release-date/)
+ - [Think you&#39;re S.P.E.C.I.A.L.? See if you can pass our Fallout Season 1 quiz!](https://www.pcgamer.com/movies-tv/think-youre-s-p-e-c-i-a-l-see-if-you-can-pass-our-fallout-season-1-quiz/)
+ - [Which games might get premiere trailers at Game Awards 2025](https://www.polygon.com/game-awards-2025-tgas-premieres-trailers-predictions-reveals/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
