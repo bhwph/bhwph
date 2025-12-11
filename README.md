@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out Preferred Sources globally, letting users customize &quot;top stories&quot; in Search, and launches highlighted links from users&#39; news subscriptions &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/251210/p58#a251210p58)
- - [This Moto swag might just hint at a new shape for Razr foldables](https://www.androidauthority.com/book-style-razr-3624177/)
- - [Spotify&amp;#8217;s Prompted Playlists use AI to control your algorithm](https://www.theverge.com/news/842053/spotify-ai-prompted-playlists)<!-- TECH:END -->
+ - [Sei partners with Xiaomi to pre-install its crypto wallet and discovery app on all new Xiaomi phones sold outside mainland China and the US, starting in 2026 &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/251210/p65#a251210p65)
+ - [Standalone sports, news, and entertainment packages coming to YouTube TV](https://appleinsider.com/articles/25/12/11/standalone-sports-news-and-entertainment-packages-coming-to-youtube-tv?utm_source=rss)
+ - [A group of state AGs sent a letter to Meta, Microsoft, Google, Apple, and others warning their chatbots&#39; &quot;delusional outputs&quot; could be violating state laws &lpar;Courtney Rozen/Reuters&rpar;](http://www.techmeme.com/251210/p64#a251210p64)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
