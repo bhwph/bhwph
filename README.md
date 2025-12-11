@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These glorious little animations offer the best visual explanation of the benefits of SSDs over hard drives I&#39;ve ever seen](https://www.pcgamer.com/hardware/storage/these-glorious-little-animations-offer-the-best-visual-explanation-of-the-benefits-of-ssds-over-hard-drives-ive-ever-seen/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for December: Assassin’s Creed Mirage, Wo Long: Fallen Dynasty, Skate Story and more](https://blog.playstation.com/2025/12/10/20251211-psplus/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for December: Assassin’s Creed Mirage, Wo Long: Fallen Dynasty, Skate Story and more](https://blog.playstation.com/2025/12/10/20251211-psplus/)<!-- GAME:END -->
+ - [HP 17″ Ryzen 5 Laptop &lpar;32GB RAM, 1TB SSD&rpar; Crashes Nearly 70%, With $199 Worth of Accessories Included for Christmas](https://kotaku.com/hp-17-ryzen-5-laptop-32gb-ram-1tb-ssd-crashes-nearly-70-with-199-worth-of-accessories-included-for-christmas-2000652297)
+ - [The Helldivers 2 x Killzone items return as a Legendary Warbond Dec 18](https://blog.playstation.com/2025/12/11/the-helldivers-2-x-killzone-items-return-as-a-legendary-warbond-dec-18/)
+ - [The winter 2026 anime season will be the best in decades](https://www.polygon.com/anime-winter-2026-season-best-frieren-jujutsu-kaisen/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
