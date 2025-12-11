@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well, well, well](http://9gag.com/gag/ajP3v4w)
- - 😝 [Wedding drinking is all about pacing yourself, don&#39;t peak to early.](http://9gag.com/gag/aYQvvXV)
- - 👉 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)<!-- MEMES:END -->
+ - 6️⃣ [The failure of an officer trying to make it.](http://9gag.com/gag/ayNmAjV)
+ - 😝 [That was an O o moment](http://9gag.com/gag/awy9Dq1)
+ - 👉 [Everything is going to be fine.](http://9gag.com/gag/ajP3j4g)<!-- MEMES:END -->
 
 --- 
 
