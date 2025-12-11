@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [These glorious little animations offer the best visual explanation of the benefits of SSDs over hard drives I&#39;ve ever seen](https://www.pcgamer.com/hardware/storage/these-glorious-little-animations-offer-the-best-visual-explanation-of-the-benefits-of-ssds-over-hard-drives-ive-ever-seen/)
  - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for December: Assassin’s Creed Mirage, Wo Long: Fallen Dynasty, Skate Story and more](https://blog.playstation.com/2025/12/10/20251211-psplus/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for December: Assassin’s Creed Mirage, Wo Long: Fallen Dynasty, Skate Story and more](https://blog.playstation.com/2025/12/10/20251211-psplus/)
- - [Ashes of Creation early access launch times and release date](https://www.pcgamer.com/games/mmo/ashes-of-creation-launch-time-release-date/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for December: Assassin’s Creed Mirage, Wo Long: Fallen Dynasty, Skate Story and more](https://blog.playstation.com/2025/12/10/20251211-psplus/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
