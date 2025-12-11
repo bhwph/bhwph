@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A worse fate for humanity has been averted!!](http://9gag.com/gag/a34zgB3)
- - 😝 [Dog sledding under the northern lights and a full moon is a dream come true](http://9gag.com/gag/aByb59x)
- - 👉 [Who needs fire safety when you have christmas spirit](http://9gag.com/gag/aBybz7D)<!-- MEMES:END -->
+ - 6️⃣ [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
+ - 😝 [Childhood dream achieved!](http://9gag.com/gag/aO8nnL3)
+ - 👉 [Well, well, well](http://9gag.com/gag/ajP3v4w)<!-- MEMES:END -->
 
 --- 
 
