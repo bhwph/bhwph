@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Ai2 research scientist argues that AGI, as commonly conceived, will not emerge because it ignores, among other things, the physical realities of computation &lpar;Tim Dettmers&rpar;](http://www.techmeme.com/251211/p10#a251211p10)
- - [Tired of ads in your notifications? How to use One UI 8.5’s secret feature to block them](https://www.androidauthority.com/samsung-one-ui-8-5-block-app-notifications-excessive-ads-how-to-3623359/)
- - [AYANEO’s first gaming phone is a beautiful tribute to the Xperia Play](https://www.androidauthority.com/ayaneo-pocket-play-announcement-3624283/)<!-- TECH:END -->
+ - [Samsung’s major Galaxy S26 Ultra charging upgrade is hiding in plain sight](https://www.androidauthority.com/samsung-60w-power-adapter-listing-3624323/)
+ - [Medra, which programs robots with AI to conduct and improve biological experiments, raised $52M led by Human Capital, taking its total funding to $63M &lpar;Agnee Ghosh/Bloomberg&rpar;](http://www.techmeme.com/251211/p16#a251211p16)
+ - [Best Merino Wool Clothing &lpar;2025&rpar;: Base Layers, Hoodies, Jackets &amp; More](https://www.wired.com/story/best-merino-wool-clothes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
