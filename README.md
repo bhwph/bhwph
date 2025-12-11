@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy phones are on track for a much needed screen recording upgrade](https://www.androidauthority.com/samsung-one-ui-8-5-screen-recording-upgrade-3624263/)
- - [Q&amp;A with investor Gavin Baker of Atreides Management on the economics of AI, data centers in space, mistakes SaaS companies are making in adopting AI, and more &lpar;Patrick O&#39;Shaughnessy/Invest Like The Best on YouTube&rpar;](http://www.techmeme.com/251211/p9#a251211p9)
- - [Unacademy CEO Gaurav Munjal says the Indian edtech startup&#39;s valuation has fallen from its $3.5B peak three years ago to less than $500M, and confirms M&amp;A talks &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251211/p8#a251211p8)<!-- TECH:END -->
+ - [An Ai2 research scientist argues that AGI, as commonly conceived, will not emerge because it ignores, among other things, the physical realities of computation &lpar;Tim Dettmers&rpar;](http://www.techmeme.com/251211/p10#a251211p10)
+ - [Tired of ads in your notifications? How to use One UI 8.5’s secret feature to block them](https://www.androidauthority.com/samsung-one-ui-8-5-block-app-notifications-excessive-ads-how-to-3623359/)
+ - [AYANEO’s first gaming phone is a beautiful tribute to the Xperia Play](https://www.androidauthority.com/ayaneo-pocket-play-announcement-3624283/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
