@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Galaxy phones for most people could launch earlier than expected](https://www.androidauthority.com/samsung-mid-range-phones-earlier-launch-3624233/)
- - [T-Mobile calls out AT&amp;T for messing up its own customer experience &lpar;Updated: Statement&rpar;](https://www.androidauthority.com/att-verizon-t-life-app-block-3621835/)
- - [US investors are boosting Chinese AI-related tech stocks and adding cash to ETFs tracking China&#39;s tech sector, as US lawmakers push for tighter capital curbs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251211/p3#a251211p3)<!-- TECH:END -->
+ - [Galaxy phones are on track for a much needed screen recording upgrade](https://www.androidauthority.com/samsung-one-ui-8-5-screen-recording-upgrade-3624263/)
+ - [Q&amp;A with investor Gavin Baker of Atreides Management on the economics of AI, data centers in space, mistakes SaaS companies are making in adopting AI, and more &lpar;Patrick O&#39;Shaughnessy/Invest Like The Best on YouTube&rpar;](http://www.techmeme.com/251211/p9#a251211p9)
+ - [Unacademy CEO Gaurav Munjal says the Indian edtech startup&#39;s valuation has fallen from its $3.5B peak three years ago to less than $500M, and confirms M&amp;A talks &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251211/p8#a251211p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
