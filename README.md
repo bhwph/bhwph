@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Relax, grown-ups: VR is doing fine](https://www.theverge.com/column/842359/vr-teens-gaming)
- - [Lawsuit claims ChatGPT put a ‘target’ on murdered woman](https://www.theverge.com/news/842494/openai-chatgpt-wrongful-death-suzanne-adams-delusions)
- - [Worktrace AI, founded by ex-OpenAI product lead Angela Jiang and researcher Deepak Vasisht, launches with a $9.3M seed, and unveils a workflow automation agent &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/251211/p28#a251211p28)<!-- TECH:END -->
+ - [OpenAI&#39;s Fidji Simo says ChatGPT&#39;s &quot;adult mode&quot; is expected to launch in Q1 2026, says OpenAI wants to get better at age prediction before launching the feature &lpar;The Verge&rpar;](http://www.techmeme.com/251211/p37#a251211p37)
+ - [Nothing breaks silence on Nothing OS 4.0 delay, says rollout is on track](https://www.androidauthority.com/nothing-os-4-rollout-delay-response-3624500/)
+ - [Google launches Disco, a Gemini 3-powered experiment that suggests and creates GenTabs, web apps based on the user&#39;s open browser tabs and Gemini chat history &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251211/p36#a251211p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
