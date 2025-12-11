@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That was an O o moment](http://9gag.com/gag/awy9Dq1)
- - 😝 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
- - 👉 [How to deal with oversized children throwing tantrum](http://9gag.com/gag/aMV00ox)<!-- MEMES:END -->
+ - 6️⃣ [Being likable is a skill you gotta master](http://9gag.com/gag/aVv949n)
+ - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - 👉 [Neckflexin Netflix](http://9gag.com/gag/aO8nOKv)<!-- MEMES:END -->
 
 --- 
 
