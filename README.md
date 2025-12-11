@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is testing a new feature that puts you in charge of its algorithm](https://www.androidauthority.com/spotify-prompted-playlist-3624227/)
- - [Operation Bluebird, a Virginia-based startup, has petitioned the USPTO to acquire the &quot;abandoned&quot; Twitter trademark and launch its own social network &lpar;Cyrus Farivar/Ars Technica&rpar;](http://www.techmeme.com/251210/p69#a251210p69)
- - [Attorneys general urge Apple and other tech giants to curb harmful AI outputs](https://appleinsider.com/articles/25/12/11/attorneys-general-urge-apple-and-other-tech-giants-to-curb-harmful-ai-outputs?utm_source=rss)<!-- TECH:END -->
+ - [The best Galaxy phones for most people could launch earlier than expected](https://www.androidauthority.com/samsung-mid-range-phones-earlier-launch-3624233/)
+ - [T-Mobile calls out AT&amp;T for messing up its own customer experience &lpar;Updated: Statement&rpar;](https://www.androidauthority.com/att-verizon-t-life-app-block-3621835/)
+ - [US investors are boosting Chinese AI-related tech stocks and adding cash to ETFs tracking China&#39;s tech sector, as US lawmakers push for tighter capital curbs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251211/p3#a251211p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
