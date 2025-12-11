@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind plans to open its &quot;first automated science laboratory&quot; in the UK in 2026, focused on using AI tools to develop new materials for chips and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/251210/p67#a251210p67)
- - [Sources: the US is working on a settlement that could see ZTE pay $1B+ over alleged foreign bribery from 2018 and earlier; a deal would require China&#39;s approval &lpar;Reuters&rpar;](http://www.techmeme.com/251210/p66#a251210p66)
- - [Sei partners with Xiaomi to pre-install its crypto wallet and discovery app on all new Xiaomi phones sold outside mainland China and the US, starting in 2026 &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/251210/p65#a251210p65)<!-- TECH:END -->
+ - [Spotify is testing a new feature that puts you in charge of its algorithm](https://www.androidauthority.com/spotify-prompted-playlist-3624227/)
+ - [Operation Bluebird, a Virginia-based startup, has petitioned the USPTO to acquire the &quot;abandoned&quot; Twitter trademark and launch its own social network &lpar;Cyrus Farivar/Ars Technica&rpar;](http://www.techmeme.com/251210/p69#a251210p69)
+ - [Attorneys general urge Apple and other tech giants to curb harmful AI outputs](https://appleinsider.com/articles/25/12/11/attorneys-general-urge-apple-and-other-tech-giants-to-curb-harmful-ai-outputs?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
