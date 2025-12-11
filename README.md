@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
- - 😝 [Childhood dream achieved!](http://9gag.com/gag/aO8nnL3)
- - 👉 [Well, well, well](http://9gag.com/gag/ajP3v4w)<!-- MEMES:END -->
+ - 6️⃣ [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
+ - 😝 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
+ - 👉 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)<!-- MEMES:END -->
 
 --- 
 
