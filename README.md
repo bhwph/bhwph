@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mom pick me up, there is a girl here](http://9gag.com/gag/aW4e503)
- - 😝 [Thank you for your service \ud83d\udd96\ud83c\udffe](http://9gag.com/gag/a4PBgOA)
- - 👉 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)<!-- MEMES:END -->
+ - 6️⃣ [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
+ - 😝 [I wonder how many people know this](http://9gag.com/gag/ayNmrZp)
+ - 👉 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)<!-- MEMES:END -->
 
 --- 
 
