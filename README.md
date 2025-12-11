@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stanford researchers develop AI hacking bot Artemis and say it surpassed nine out of 10 penetration testers by rapidly finding bugs in the university&#39;s network &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/251211/p23#a251211p23)
- - [Porsche is bringing Apple Car Key support to two 2026 EVs](https://appleinsider.com/articles/25/12/11/porsche-is-bringing-apple-car-key-support-to-two-2026-evs?utm_source=rss)
- - [Disney and OpenAI sign a deal to bring 200+ Disney characters to Sora; Disney makes a $1B investment in OpenAI and will become a &quot;major&quot; OpenAI customer &lpar;OpenAI&rpar;](http://www.techmeme.com/251211/p22#a251211p22)<!-- TECH:END -->
+ - [Relax, grown-ups: VR is doing fine](https://www.theverge.com/column/842359/vr-teens-gaming)
+ - [Lawsuit claims ChatGPT put a ‘target’ on murdered woman](https://www.theverge.com/news/842494/openai-chatgpt-wrongful-death-suzanne-adams-delusions)
+ - [Worktrace AI, founded by ex-OpenAI product lead Angela Jiang and researcher Deepak Vasisht, launches with a $9.3M seed, and unveils a workflow automation agent &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/251211/p28#a251211p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
