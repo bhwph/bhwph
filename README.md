@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The failure of an officer trying to make it.](http://9gag.com/gag/ayNmAjV)
- - 😝 [That was an O o moment](http://9gag.com/gag/awy9Dq1)
- - 👉 [Everything is going to be fine.](http://9gag.com/gag/ajP3j4g)<!-- MEMES:END -->
+ - 6️⃣ [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
+ - 😝 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
+ - 👉 [Watching a big plane land.](http://9gag.com/gag/a1m8jM2)<!-- MEMES:END -->
 
 --- 
 
