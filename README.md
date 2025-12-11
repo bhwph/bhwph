@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
- - 😝 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
- - 👉 [Watching a big plane land.](http://9gag.com/gag/a1m8jM2)<!-- MEMES:END -->
+ - 6️⃣ [A worse fate for humanity has been averted!!](http://9gag.com/gag/a34zgB3)
+ - 😝 [Dog sledding under the northern lights and a full moon is a dream come true](http://9gag.com/gag/aByb59x)
+ - 👉 [Who needs fire safety when you have christmas spirit](http://9gag.com/gag/aBybz7D)<!-- MEMES:END -->
 
 --- 
 
