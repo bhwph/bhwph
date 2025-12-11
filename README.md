@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s major Galaxy S26 Ultra charging upgrade is hiding in plain sight](https://www.androidauthority.com/samsung-60w-power-adapter-listing-3624323/)
- - [Medra, which programs robots with AI to conduct and improve biological experiments, raised $52M led by Human Capital, taking its total funding to $63M &lpar;Agnee Ghosh/Bloomberg&rpar;](http://www.techmeme.com/251211/p16#a251211p16)
- - [Best Merino Wool Clothing &lpar;2025&rpar;: Base Layers, Hoodies, Jackets &amp; More](https://www.wired.com/story/best-merino-wool-clothes/)<!-- TECH:END -->
+ - [Stanford researchers develop AI hacking bot Artemis and say it surpassed nine out of 10 penetration testers by rapidly finding bugs in the university&#39;s network &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/251211/p23#a251211p23)
+ - [Porsche is bringing Apple Car Key support to two 2026 EVs](https://appleinsider.com/articles/25/12/11/porsche-is-bringing-apple-car-key-support-to-two-2026-evs?utm_source=rss)
+ - [Disney and OpenAI sign a deal to bring 200+ Disney characters to Sora; Disney makes a $1B investment in OpenAI and will become a &quot;major&quot; OpenAI customer &lpar;OpenAI&rpar;](http://www.techmeme.com/251211/p22#a251211p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
