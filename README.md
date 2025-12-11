@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lmao](http://9gag.com/gag/a9y44xL)
- - 😝 [That was an O o moment](http://9gag.com/gag/awy9Dq1)
- - 👉 [And fans are furious](http://9gag.com/gag/an703X0)<!-- MEMES:END -->
+ - 6️⃣ [How to deal with oversized children throwing tantrum](http://9gag.com/gag/aMV00ox)
+ - 😝 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - 👉 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)<!-- MEMES:END -->
 
 --- 
 
