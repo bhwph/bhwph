@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Zotac mini PC has an inventive way of ditching its RTX 5060 Ti&#39;s power cables, and no it&#39;s not the same as the Asus BTF way](https://www.pcgamer.com/hardware/graphics-cards/this-zotac-mini-pc-has-an-inventive-way-of-ditching-its-rtx-5060-tis-power-cables-and-no-its-not-the-same-as-the-asus-btf-way/)
- - [Fans Are Modding Ugly Sonic Back Into The Original Movie](https://kotaku.com/sonic-hedgehog-2019-cut-ugly-redesign-fan-movie-remake-2000652606)
- - [Handheld PC maker Ayaneo unveils its first phone, the Pocket Play, with a hidden controller behind a sliding screen](https://www.pcgamer.com/hardware/handheld-gaming-pcs/handheld-pc-maker-ayaneo-unveils-its-first-phone-the-pocket-play-with-a-hidden-controller-behind-a-sliding-screen/)<!-- GAME:END -->
+ - [Cultic Review](https://www.pcgamer.com/games/fps/cultic-review/)
+ - [The First Supergirl Trailer Has A Great Line About What Makes Her Different From Superman](https://kotaku.com/supergirl-trailer-jason-momoa-lobo-argo-city-2000652693)
+ - [How to evolve Clobbopus in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-za-plza-evolve-clobbopus-grapploct-requirements/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
