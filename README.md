@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney tells Google to stop using its characters in AI images and videos](https://www.androidauthority.com/disney-google-ai-cease-and-desist-3624592/)
- - [Acthung, baby! Google Translate is ready to teach you German, Portuguese, and more](https://www.androidauthority.com/google-translate-german-lessons-3624561/)
- - [AirPods Pro 2 &amp; AirPods Pro 3 get another bug fix firmware update](https://appleinsider.com/articles/25/12/11/airpods-pro-2-airpods-pro-3-get-another-bug-fix-firmware-update?utm_source=rss)<!-- TECH:END -->
+ - [Warnings Mount in Congress Over Expanded US Wiretap Powers](https://www.wired.com/story/warnings-mount-in-congress-over-expanded-us-wiretap-powers/)
+ - [A US judge sentences Terraform Labs co-founder Do Kwon to 15 years in prison; Kwon pleaded guilty to conspiracy and wire fraud charges in August &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/251211/p47#a251211p47)
+ - [RFK Jr.&#39;s Health Department Is Pondering a National Men&#39;s Health Initiative](https://www.wired.com/story/rfk-jrs-health-department-is-pondering-a-national-mens-health-initiative/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
