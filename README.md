@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI&#39;s Fidji Simo says ChatGPT&#39;s &quot;adult mode&quot; is expected to launch in Q1 2026, says OpenAI wants to get better at age prediction before launching the feature &lpar;The Verge&rpar;](http://www.techmeme.com/251211/p37#a251211p37)
- - [Nothing breaks silence on Nothing OS 4.0 delay, says rollout is on track](https://www.androidauthority.com/nothing-os-4-rollout-delay-response-3624500/)
- - [Google launches Disco, a Gemini 3-powered experiment that suggests and creates GenTabs, web apps based on the user&#39;s open browser tabs and Gemini chat history &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251211/p36#a251211p36)<!-- TECH:END -->
+ - [Disney tells Google to stop using its characters in AI images and videos](https://www.androidauthority.com/disney-google-ai-cease-and-desist-3624592/)
+ - [Acthung, baby! Google Translate is ready to teach you German, Portuguese, and more](https://www.androidauthority.com/google-translate-german-lessons-3624561/)
+ - [AirPods Pro 2 &amp; AirPods Pro 3 get another bug fix firmware update](https://appleinsider.com/articles/25/12/11/airpods-pro-2-airpods-pro-3-get-another-bug-fix-firmware-update?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
