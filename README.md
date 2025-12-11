@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
- - 😝 [Saudi Arabia](http://9gag.com/gag/amoOOyv)
- - 👉 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)<!-- MEMES:END -->
+ - 6️⃣ [That was an O o moment](http://9gag.com/gag/awy9Dq1)
+ - 😝 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
+ - 👉 [How to deal with oversized children throwing tantrum](http://9gag.com/gag/aMV00ox)<!-- MEMES:END -->
 
 --- 
 
