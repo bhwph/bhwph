@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Open world RPG shooter No Law is going straight on my wishlist after its Game Awards reveal—we spoke to the devs to find out more](https://www.pcgamer.com/games/fps/open-world-rpg-shooter-no-law-is-going-straight-on-my-wishlist-after-its-game-awards-reveal-we-spoke-to-the-devs-to-find-out-more/)
- - [New cyberpunk shooter No Law revealed at The Game Awards](https://www.polygon.com/no-law-the-game-awards-trailer-neon-giant-cyberpunk/)
- - [That sick-looking first person sci-fi game at The Game Awards is actually the sequel to Sons of the Forest](https://www.pcgamer.com/games/survival-crafting/that-sick-looking-first-person-sci-fi-game-at-the-game-awards-is-actually-the-sequel-to-sons-of-the-forest/)<!-- GAME:END -->
+ - [How to access the &#39;Thank You&#39; update in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-thank-you-update-versos-drafts-dlc/)
+ - [Thank You for An Unforgettable Year with Clair Obscur: Expedition 33](https://news.xbox.com/en-us/2025/12/11/clair-obscur-expedition-33-versos-drafts/)
+ - [The 5 biggest announcements and trailers from The Game Awards 2025](https://www.pcgamer.com/gaming-industry/events-conferences/the-game-awards-2025-announcements-trailers/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
