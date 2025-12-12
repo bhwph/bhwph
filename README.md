@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us co-director Bruce Straley explains why he left Naughty Dog 8 years ago](https://www.polygon.com/bruce-straley-naughty-dog-exit-interview/)
- - [How to access the &#39;Thank You&#39; update in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-thank-you-update-versos-drafts-dlc/)
- - [Thank You for An Unforgettable Year with Clair Obscur: Expedition 33](https://news.xbox.com/en-us/2025/12/11/clair-obscur-expedition-33-versos-drafts/)<!-- GAME:END -->
+ - [AMD wants to hire people with experience of Intel&#39;s new silicon tech, but would AMD ever actually make chips with its arch rival?](https://www.pcgamer.com/hardware/processors/amd-wants-to-hire-people-with-experience-of-intels-new-silicon-tech-but-would-amd-ever-actually-make-chips-with-its-arch-rival/)
+ - [Apple AirPods Pro 3 Drops Below Its Black Friday Price, Now as Cheap as the Pro 2 on Sale](https://kotaku.com/apple-airpods-pro-3-is-now-as-cheap-as-the-pro-2-sale-price-and-even-lower-than-its-black-friday-deal-2000652626)
+ - [&#39;Quite a few things have taken us by surprise&#39;: Arc Raiders&#39; wallhacks caught the devs off-guard as heaps of greedy players hunted for exploits](https://www.pcgamer.com/games/third-person-shooter/quite-a-few-things-have-taken-us-by-surprise-arc-raiders-wallhacks-caught-the-devs-off-guard-as-heaps-of-greedy-players-hunted-for-exploits/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
