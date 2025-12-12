@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD wants to hire people with experience of Intel&#39;s new silicon tech, but would AMD ever actually make chips with its arch rival?](https://www.pcgamer.com/hardware/processors/amd-wants-to-hire-people-with-experience-of-intels-new-silicon-tech-but-would-amd-ever-actually-make-chips-with-its-arch-rival/)
- - [Apple AirPods Pro 3 Drops Below Its Black Friday Price, Now as Cheap as the Pro 2 on Sale](https://kotaku.com/apple-airpods-pro-3-is-now-as-cheap-as-the-pro-2-sale-price-and-even-lower-than-its-black-friday-deal-2000652626)
- - [&#39;Quite a few things have taken us by surprise&#39;: Arc Raiders&#39; wallhacks caught the devs off-guard as heaps of greedy players hunted for exploits](https://www.pcgamer.com/games/third-person-shooter/quite-a-few-things-have-taken-us-by-surprise-arc-raiders-wallhacks-caught-the-devs-off-guard-as-heaps-of-greedy-players-hunted-for-exploits/)<!-- GAME:END -->
+ - [Your bloodlust does have consequences in Arc Raiders, as a dev confirms, &#39;we do analyse behaviour and match accordingly&#39;](https://www.pcgamer.com/games/third-person-shooter/your-bloodlust-does-have-consequences-in-arc-raiders-as-a-dev-confirms-we-do-analyse-behaviour-and-match-accordingly/)
+ - [Anker Is Practically Giving Away Its 140W USB-C Charger in a Holiday Clearance Push](https://kotaku.com/anker-is-practically-giving-away-its-140w-usb-c-charger-in-a-holiday-clearance-push-2000652823)
+ - [The Studio Behind Doom Just Unionized](https://kotaku.com/doom-id-software-union-microsoft-xbox-cwa-2000653008)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
