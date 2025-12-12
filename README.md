@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anne Hathaway](http://9gag.com/gag/aAyL9po)
- - 😝 [I&#39;d let her ruin my life](http://9gag.com/gag/a7omg6x)
- - 👉 [Thank you for your service \ud83d\udd96\ud83c\udffe](http://9gag.com/gag/a4PBgOA)<!-- MEMES:END -->
+ - 6️⃣ [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
+ - 😝 [Well, well, well](http://9gag.com/gag/ajP3v4w)
+ - 👉 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)<!-- MEMES:END -->
 
 --- 
 
