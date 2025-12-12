@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Policymakers behind key state AI bills scoff at Trump&#39;s EO; some GOP governors are pushing ahead with their own AI bills; Steve Bannon says Sacks misled Trump &lpar;Axios&rpar;](http://www.techmeme.com/251212/p21#a251212p21)
- - [The 34 best gifts that your teen will actually use](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025)
- - [tvOS 26.2 brings kids mode to the Apple TV app](https://appleinsider.com/articles/25/12/12/tvos-262-brings-kids-mode-to-the-apple-tv-app?utm_source=rss)<!-- TECH:END -->
+ - [AMD CEO Lisa Su Isn’t Afraid of the Competition](https://www.wired.com/story/uncanny-valley-podcast-amd-ceo-lisa-su-isnt-afraid-of-the-competition/)
+ - [Amazon Prime Video pulls its AI recaps, which it began testing in November, for Fallout, Bosch, and other shows after users noticed errors in the Fallout recaps &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251212/p25#a251212p25)
+ - [Android could soon track your medical symptoms in Health Connect](https://www.androidauthority.com/android-health-connect-medical-symptoms-rumor-3625006/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
