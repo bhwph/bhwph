@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anesthesia is a hell of a truth serum sometimes](http://9gag.com/gag/a0eDqLL)
- - 😝 [I mean ...](http://9gag.com/gag/awy9jd1)
- - 👉 [Some human&#39;s mind works in a magical way](http://9gag.com/gag/aD2qeww)<!-- MEMES:END -->
+ - 6️⃣ [Every time I hear a recording of my voice](http://9gag.com/gag/aE0j5eN)
+ - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
+ - 👉 [Good Doggo](http://9gag.com/gag/a6ZeRN2)<!-- MEMES:END -->
 
 --- 
 
