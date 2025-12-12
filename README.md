@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [WTF US Forces seize a Venezuelan oil tanker](http://9gag.com/gag/aD2q9yO)
+ - 6️⃣ [FUERA](http://9gag.com/gag/aMV05G1)
  - 😝 [I&#39;d let her ruin my life](http://9gag.com/gag/a7omg6x)
- - 👉 [Well, well, well](http://9gag.com/gag/ajP3v4w)<!-- MEMES:END -->
+ - 👉 [Anne Hathaway](http://9gag.com/gag/aAyL9po)<!-- MEMES:END -->
 
 --- 
 
