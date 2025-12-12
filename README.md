@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Divinity&#39;s trailer is cool, but I suspect Larian&#39;s body-horror Burning Man splatfest doesn&#39;t set an accurate tone for the full game—and if I&#39;m right, it&#39;ll be weird that it&#39;s happened twice](https://www.pcgamer.com/games/rpg/divinitys-trailer-is-cool-but-i-suspect-larians-body-horror-burning-man-splatfest-doesnt-set-an-accurate-tone-for-the-full-game-and-if-im-right-itll-be-weird-that-its-happened-twice/)
- - [Clair Obscur Gets Free DLC Including A Photo Mode To Celebrate Historic Awards Sweep](https://kotaku.com/clair-obscur-free-dlc-patch-notes-photo-mode-2000653032)
- - [Logitech’s Wireless Gaming Headset Deal Comes Early, Hitting Its Cheapest Price Yet Despite Being Newly Released](https://kotaku.com/logitechs-wireless-gaming-headset-deal-comes-early-hitting-its-cheapest-price-yet-despite-being-newly-released-2000652578)<!-- GAME:END -->
+ - [The Game Awards actually felt like a real awards show this year](https://www.polygon.com/tga-felt-like-a-real-awards-show-this-year/)
+ - [More than 19,000 games launched on Steam this year—but almost half have fewer than 10 reviews](https://www.pcgamer.com/gaming-industry/more-than-19-000-games-launched-on-steam-this-year-but-almost-half-have-fewer-than-10-reviews/)
+ - [Is a return to the Divinity series the right move for Larian after Baldur&#39;s Gate 3? Our team of RPG fans is divided](https://www.pcgamer.com/games/rpg/is-a-return-to-the-divinity-series-the-right-move-for-larian-after-baldurs-gate-3-our-team-of-rpg-fans-is-divided/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
