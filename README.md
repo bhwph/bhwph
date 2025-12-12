@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 9 Pro Fold is finally getting a camera feature it should have had from the start](https://www.androidauthority.com/pixel-9-pro-fold-camera-preview-3624750/)
- - [Tried and tested: The most frequent tech gifts I’ve given over the years](https://www.androidauthority.com/my-most-frequent-tech-gifts-3623529/)
- - [Meet JMGO’s newest, delightfully compact, ultra-short-throw laser projector](https://www.androidauthority.com/jmgo-03-launch-3624625/)<!-- TECH:END -->
+ - [Best Android travel apps in 2025: Planners, AI guides, translators](https://www.androidauthority.com/yesim-android-travel-apps-3624817/)
+ - [Broke your Galaxy Z TriFold display? Here’s how much you’ll pay &lpar;it’s a lot&rpar;](https://www.androidauthority.com/samsung-galaxy-z-trifold-repair-costs-3624801/)
+ - [My defense of a $40 cable paperweight – I’m sorry](https://www.theverge.com/tech/843386/review-cable-paperweight-native-union-weighter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
