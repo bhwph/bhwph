@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Game Awards actually felt like a real awards show this year](https://www.polygon.com/tga-felt-like-a-real-awards-show-this-year/)
- - [More than 19,000 games launched on Steam this year—but almost half have fewer than 10 reviews](https://www.pcgamer.com/gaming-industry/more-than-19-000-games-launched-on-steam-this-year-but-almost-half-have-fewer-than-10-reviews/)
- - [Is a return to the Divinity series the right move for Larian after Baldur&#39;s Gate 3? Our team of RPG fans is divided](https://www.pcgamer.com/games/rpg/is-a-return-to-the-divinity-series-the-right-move-for-larian-after-baldurs-gate-3-our-team-of-rpg-fans-is-divided/)<!-- GAME:END -->
+ - [The Game Awards’ Big ‘One More Thing’ Reveal Didn’t Go Over Well](https://kotaku.com/game-awards-trailers-recap-highguard-titanfall-apex-2000653088)
+ - [Kingdom Come: Deliverance 2 devs tweet &#39;Blame the French!&#39; after losing every Game Awards category to Clair Obscur, but it was in good fun: They partied together after](https://www.pcgamer.com/gaming-industry/events-conferences/kingdom-come-deliverance-2-devs-tweet-blame-the-french-after-losing-every-game-awards-category-to-clair-obscur-but-it-was-in-good-fun-they-partied-together-after/)
+ - [The Okami Account Just Murdered Someone](https://kotaku.com/okami-game-awards-fable-street-fighter-evangelion-2000653066)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
