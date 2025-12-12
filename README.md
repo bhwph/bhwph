@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Announcing 4:LOOP, a new four-player co-op shooter from SIE and Bad Robot Games](https://blog.playstation.com/2025/12/11/announcing-4loop-a-new-four-player-co-op-shooter-from-sie-and-bad-robot-games/)
- - [Baldur&#39;s Gate 3 devs reveal a new Divinity, say it&#39;s their biggest RPG ever](https://www.polygon.com/larian-studios-divinity-original-sin-the-game-awards/)
- - [Coven of the Chicken Foot is The Last of Us director Bruce Straley&#39;s first game since Uncharted 4](https://www.polygon.com/coven-of-the-chicken-foot-game-awards-announcement/)<!-- GAME:END -->
+ - [Open world RPG shooter No Law is going straight on my wishlist after its Game Awards reveal—we spoke to the devs to find out more](https://www.pcgamer.com/games/fps/open-world-rpg-shooter-no-law-is-going-straight-on-my-wishlist-after-its-game-awards-reveal-we-spoke-to-the-devs-to-find-out-more/)
+ - [New cyberpunk shooter No Law revealed at The Game Awards](https://www.polygon.com/no-law-the-game-awards-trailer-neon-giant-cyberpunk/)
+ - [That sick-looking first person sci-fi game at The Game Awards is actually the sequel to Sons of the Forest](https://www.pcgamer.com/games/survival-crafting/that-sick-looking-first-person-sci-fi-game-at-the-game-awards-is-actually-the-sequel-to-sons-of-the-forest/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
