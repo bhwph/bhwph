@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Oracle has pushed back completion dates for some data centers it is building for OpenAI from 2027 to 2028, largely due to labor and material shortages &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251212/p17#a251212p17)
- - [Lowest price ever: M4 MacBook Pro drops to $1,249 &lpar;$350 off&rpar;](https://appleinsider.com/articles/25/12/12/lowest-price-ever-m4-macbook-pro-drops-to-1249-350-off?utm_source=rss)
- - [Kalshi integrates its event trading platform into the popular crypto wallet Phantom; Dune: in November, Kalshi&#39;s trading volume hit $5.8B vs. Polymarket&#39;s $3.7B &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/251212/p16#a251212p16)<!-- TECH:END -->
+ - [Policymakers behind key state AI bills scoff at Trump&#39;s EO; some GOP governors are pushing ahead with their own AI bills; Steve Bannon says Sacks misled Trump &lpar;Axios&rpar;](http://www.techmeme.com/251212/p21#a251212p21)
+ - [The 34 best gifts that your teen will actually use](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025)
+ - [tvOS 26.2 brings kids mode to the Apple TV app](https://appleinsider.com/articles/25/12/12/tvos-262-brings-kids-mode-to-the-apple-tv-app?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
