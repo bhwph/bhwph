@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cultic Review](https://www.pcgamer.com/games/fps/cultic-review/)
- - [The First Supergirl Trailer Has A Great Line About What Makes Her Different From Superman](https://kotaku.com/supergirl-trailer-jason-momoa-lobo-argo-city-2000652693)
- - [How to evolve Clobbopus in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-za-plza-evolve-clobbopus-grapploct-requirements/)<!-- GAME:END -->
+ - [Announcing 4:LOOP, a new four-player co-op shooter from SIE and Bad Robot Games](https://blog.playstation.com/2025/12/11/announcing-4loop-a-new-four-player-co-op-shooter-from-sie-and-bad-robot-games/)
+ - [Baldur&#39;s Gate 3 devs reveal a new Divinity, say it&#39;s their biggest RPG ever](https://www.polygon.com/larian-studios-divinity-original-sin-the-game-awards/)
+ - [Coven of the Chicken Foot is The Last of Us director Bruce Straley&#39;s first game since Uncharted 4](https://www.polygon.com/coven-of-the-chicken-foot-game-awards-announcement/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
