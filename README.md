@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Your bloodlust does have consequences in Arc Raiders, as a dev confirms, &#39;we do analyse behaviour and match accordingly&#39;](https://www.pcgamer.com/games/third-person-shooter/your-bloodlust-does-have-consequences-in-arc-raiders-as-a-dev-confirms-we-do-analyse-behaviour-and-match-accordingly/)
- - [Anker Is Practically Giving Away Its 140W USB-C Charger in a Holiday Clearance Push](https://kotaku.com/anker-is-practically-giving-away-its-140w-usb-c-charger-in-a-holiday-clearance-push-2000652823)
- - [The Studio Behind Doom Just Unionized](https://kotaku.com/doom-id-software-union-microsoft-xbox-cwa-2000653008)<!-- GAME:END -->
+ - [Divinity&#39;s trailer is cool, but I suspect Larian&#39;s body-horror Burning Man splatfest doesn&#39;t set an accurate tone for the full game—and if I&#39;m right, it&#39;ll be weird that it&#39;s happened twice](https://www.pcgamer.com/games/rpg/divinitys-trailer-is-cool-but-i-suspect-larians-body-horror-burning-man-splatfest-doesnt-set-an-accurate-tone-for-the-full-game-and-if-im-right-itll-be-weird-that-its-happened-twice/)
+ - [Clair Obscur Gets Free DLC Including A Photo Mode To Celebrate Historic Awards Sweep](https://kotaku.com/clair-obscur-free-dlc-patch-notes-photo-mode-2000653032)
+ - [Logitech’s Wireless Gaming Headset Deal Comes Early, Hitting Its Cheapest Price Yet Despite Being Newly Released](https://kotaku.com/logitechs-wireless-gaming-headset-deal-comes-early-hitting-its-cheapest-price-yet-despite-being-newly-released-2000652578)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
