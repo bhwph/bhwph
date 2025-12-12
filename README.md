@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Intel tested chipmaking tools this year from CA-based ACM Research, which has deep China ties; ACM&#39;s two overseas units were targeted by US sanctions &lpar;Reuters&rpar;](http://www.techmeme.com/251212/p3#a251212p3)
- - [GPT-5.2 models match GPT-5 and 5.1 with a 400K context window and 128K max output tokens, but have a newer knowledge cutoff of Aug. 31, 2025 vs. Sept. 30, 2024 &lpar;Simon Willison/Simon Willison&#39;s Newsletter&rpar;](http://www.techmeme.com/251212/p2#a251212p2)
- - [Surprise: Samsung has a new camera sensor for its next flagships after all](https://www.androidauthority.com/samsung-new-camera-sensor-global-shutter-3624680/)<!-- TECH:END -->
+ - [Pixel 9 Pro Fold is finally getting a camera feature it should have had from the start](https://www.androidauthority.com/pixel-9-pro-fold-camera-preview-3624750/)
+ - [Tried and tested: The most frequent tech gifts I’ve given over the years](https://www.androidauthority.com/my-most-frequent-tech-gifts-3623529/)
+ - [Meet JMGO’s newest, delightfully compact, ultra-short-throw laser projector](https://www.androidauthority.com/jmgo-03-launch-3624625/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
