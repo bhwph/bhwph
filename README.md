@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warnings Mount in Congress Over Expanded US Wiretap Powers](https://www.wired.com/story/warnings-mount-in-congress-over-expanded-us-wiretap-powers/)
- - [A US judge sentences Terraform Labs co-founder Do Kwon to 15 years in prison; Kwon pleaded guilty to conspiracy and wire fraud charges in August &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/251211/p47#a251211p47)
- - [RFK Jr.&#39;s Health Department Is Pondering a National Men&#39;s Health Initiative](https://www.wired.com/story/rfk-jrs-health-department-is-pondering-a-national-mens-health-initiative/)<!-- TECH:END -->
+ - [The next Star Wars game is the spiritual successor to Knights of the Old Republic](https://www.theverge.com/games/843188/star-wars-fate-of-the-old-republic-casey-hudson)
+ - [Trump signs AI executive order pushing to ban state laws](https://www.theverge.com/ai-artificial-intelligence/841817/trump-signs-ai-executive-order-pushing-to-ban-state-laws)
+ - [On OpenAI&#39;s 10th anniversary, Sam Altman reflects on &quot;a decade of breakthroughs, learnings, and the path toward AGI that benefits all of humanity&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/251211/p51#a251211p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
