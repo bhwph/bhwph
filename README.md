@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
- - 😝 [I wonder how many people know this](http://9gag.com/gag/ayNmrZp)
- - 👉 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)<!-- MEMES:END -->
+ - 6️⃣ [WTF US Forces seize a Venezuelan oil tanker](http://9gag.com/gag/aD2q9yO)
+ - 😝 [I&#39;d let her ruin my life](http://9gag.com/gag/a7omg6x)
+ - 👉 [Well, well, well](http://9gag.com/gag/ajP3v4w)<!-- MEMES:END -->
 
 --- 
 
