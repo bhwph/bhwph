@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Game Awards’ Big ‘One More Thing’ Reveal Didn’t Go Over Well](https://kotaku.com/game-awards-trailers-recap-highguard-titanfall-apex-2000653088)
- - [Kingdom Come: Deliverance 2 devs tweet &#39;Blame the French!&#39; after losing every Game Awards category to Clair Obscur, but it was in good fun: They partied together after](https://www.pcgamer.com/gaming-industry/events-conferences/kingdom-come-deliverance-2-devs-tweet-blame-the-french-after-losing-every-game-awards-category-to-clair-obscur-but-it-was-in-good-fun-they-partied-together-after/)
- - [The Okami Account Just Murdered Someone](https://kotaku.com/okami-game-awards-fable-street-fighter-evangelion-2000653066)<!-- GAME:END -->
+ - [All missile expansion locations in Metroid Prime 4: Beyond](https://www.polygon.com/metroid-prime-4-all-missile-expansion-locations/)
+ - [Pokémon Legends: Z-A – Mega Dimension: The Kotaku Review](https://kotaku.com/pokemon-legends-za-mega-dimension-review-dlc-raichu-2000653106)
+ - [Lorwyn Eclipse set previews include major hints about Magic: The Gathering characters](https://www.polygon.com/lorwyn-eclipsed-previews-short-stories/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
