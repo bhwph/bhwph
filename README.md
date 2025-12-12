@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Android travel apps in 2025: Planners, AI guides, translators](https://www.androidauthority.com/yesim-android-travel-apps-3624817/)
- - [Broke your Galaxy Z TriFold display? Here’s how much you’ll pay &lpar;it’s a lot&rpar;](https://www.androidauthority.com/samsung-galaxy-z-trifold-repair-costs-3624801/)
- - [My defense of a $40 cable paperweight – I’m sorry](https://www.theverge.com/tech/843386/review-cable-paperweight-native-union-weighter)<!-- TECH:END -->
+ - [Serval, which offers an AI-powered IT support assistant, raised a $75M Series B led by Sequoia at a $1B valuation, bringing its total raised to $127M &lpar;Reuters&rpar;](http://www.techmeme.com/251212/p11#a251212p11)
+ - [The Best Permanent Outdoor Lights &lpar;2025&rpar;: Govee, Eufy, Lepro](https://www.wired.com/story/should-you-get-permanent-outdoor-lights/)
+ - [Apple&#39;s ghost town, new iPads, smart rings, and Snow Leopard on the AppleInsider Podcast](https://appleinsider.com/articles/25/12/12/apples-ghost-town-new-ipads-smart-rings-and-snow-leopard-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
