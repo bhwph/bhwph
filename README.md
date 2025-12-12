@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Sweeney: the Ninth Circuit&#39;s decision on Epic v. Apple contempt ruling appeal &quot;completely shuts down&quot; App Store rules allowing Apple to collect &quot;junk fees&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251211/p56#a251211p56)
- - [Reddit files a lawsuit against Australia over its social media ban for under-16s, saying the ban &quot;infringes the implied freedom of political communication&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251211/p55#a251211p55)
- - [In his EO, Trump orders US AG Pam Bondi to create an &quot;AI Litigation Task Force&quot; that meets regularly with David Sacks to challenge &quot;inconsistent&quot; state AI laws &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/251211/p54#a251211p54)<!-- TECH:END -->
+ - [Surprise: Samsung has a new camera sensor for its next flagships after all](https://www.androidauthority.com/samsung-new-camera-sensor-global-shutter-3624680/)
+ - [B&amp;H Photo Promo Codes and Deals for December 2025](https://www.wired.com/story/bh-photo-coupon/)
+ - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
