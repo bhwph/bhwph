@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [FUERA](http://9gag.com/gag/aMV05G1)
+ - 6️⃣ [Anne Hathaway](http://9gag.com/gag/aAyL9po)
  - 😝 [I&#39;d let her ruin my life](http://9gag.com/gag/a7omg6x)
- - 👉 [Anne Hathaway](http://9gag.com/gag/aAyL9po)<!-- MEMES:END -->
+ - 👉 [Thank you for your service \ud83d\udd96\ud83c\udffe](http://9gag.com/gag/a4PBgOA)<!-- MEMES:END -->
 
 --- 
 
