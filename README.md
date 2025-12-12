@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The next Star Wars game is the spiritual successor to Knights of the Old Republic](https://www.theverge.com/games/843188/star-wars-fate-of-the-old-republic-casey-hudson)
- - [Trump signs AI executive order pushing to ban state laws](https://www.theverge.com/ai-artificial-intelligence/841817/trump-signs-ai-executive-order-pushing-to-ban-state-laws)
- - [On OpenAI&#39;s 10th anniversary, Sam Altman reflects on &quot;a decade of breakthroughs, learnings, and the path toward AGI that benefits all of humanity&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/251211/p51#a251211p51)<!-- TECH:END -->
+ - [Tomb Raider announces two new games](https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis)
+ - [A look at French indie game studio Sandfall Interactive, whose critically-acclaimed Clair Obscur: Expedition 33 sold 5M+ copies with a budget of less than $10M &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/251211/p53#a251211p53)
+ - [Google’s new browser experiment turns your open tabs into custom apps](https://www.androidauthority.com/google-disco-gentabs-experiment-3624665/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
