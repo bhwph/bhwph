@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD CEO Lisa Su Isn’t Afraid of the Competition](https://www.wired.com/story/uncanny-valley-podcast-amd-ceo-lisa-su-isnt-afraid-of-the-competition/)
- - [Amazon Prime Video pulls its AI recaps, which it began testing in November, for Fallout, Bosch, and other shows after users noticed errors in the Fallout recaps &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251212/p25#a251212p25)
- - [Android could soon track your medical symptoms in Health Connect](https://www.androidauthority.com/android-health-connect-medical-symptoms-rumor-3625006/)<!-- TECH:END -->
+ - [Parents call for New York governor to sign landmark AI safety bill](https://www.theverge.com/ai-artificial-intelligence/844062/parents-call-for-new-york-governor-to-sign-landmark-ai-safety-bill)
+ - [Source: OpenEvidence, which offers an AI chatbot for doctors, is raising $250M at a $12B valuation, up from $6B in Oct., and has $150M in annualized ad revenue &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251212/p28#a251212p28)
+ - [Make your Android phone half Game Boy with this clip-on controller](https://www.androidauthority.com/gamesir-pocket-1-3625078/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
