@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Serval, which offers an AI-powered IT support assistant, raised a $75M Series B led by Sequoia at a $1B valuation, bringing its total raised to $127M &lpar;Reuters&rpar;](http://www.techmeme.com/251212/p11#a251212p11)
- - [The Best Permanent Outdoor Lights &lpar;2025&rpar;: Govee, Eufy, Lepro](https://www.wired.com/story/should-you-get-permanent-outdoor-lights/)
- - [Apple&#39;s ghost town, new iPads, smart rings, and Snow Leopard on the AppleInsider Podcast](https://appleinsider.com/articles/25/12/12/apples-ghost-town-new-ipads-smart-rings-and-snow-leopard-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Oracle has pushed back completion dates for some data centers it is building for OpenAI from 2027 to 2028, largely due to labor and material shortages &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251212/p17#a251212p17)
+ - [Lowest price ever: M4 MacBook Pro drops to $1,249 &lpar;$350 off&rpar;](https://appleinsider.com/articles/25/12/12/lowest-price-ever-m4-macbook-pro-drops-to-1249-350-off?utm_source=rss)
+ - [Kalshi integrates its event trading platform into the popular crypto wallet Phantom; Dune: in November, Kalshi&#39;s trading volume hit $5.8B vs. Polymarket&#39;s $3.7B &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/251212/p16#a251212p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
