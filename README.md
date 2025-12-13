@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
- - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
- - 👉 [Anne Hathaway](http://9gag.com/gag/aAyL9po)<!-- MEMES:END -->
+ - 😝 [China\u2019s demographic Cliff in one video](http://9gag.com/gag/a7omRKq)
+ - 👉 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)<!-- MEMES:END -->
 
 --- 
 
