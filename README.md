@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\u2018Pulp Fiction,\u2019 \u2018The Mask\u2019 actor Peter Greene found dead at 60 inside his NYC apartment](http://9gag.com/gag/azxvWdq)
- - 😝 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
- - 👉 [I need answers](http://9gag.com/gag/aPAVbGQ)<!-- MEMES:END -->
+ - 6️⃣ [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
+ - 😝 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
+ - 👉 [Anne Hathaway](http://9gag.com/gag/aAyL9po)<!-- MEMES:END -->
 
 --- 
 
