@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good Doggo](http://9gag.com/gag/a6ZeRN2)
- - 😝 [Santa found your wishlist](http://9gag.com/gag/aGyr4gw)
- - 👉 [Totally realistic](http://9gag.com/gag/aGyr4DG)<!-- MEMES:END -->
+ - 6️⃣ [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
+ - 😝 [Yep](http://9gag.com/gag/aBybeON)
+ - 👉 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)<!-- MEMES:END -->
 
 --- 
 
