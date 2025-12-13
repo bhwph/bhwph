@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Legends: Z-A special evolutions guide](https://www.polygon.com/pokemon-legends-z-a-plza-special-evolutions-list-stones-items-trade-all/)
  - [If the only Larian game you&#39;ve played is Baldur&#39;s Gate 3, here&#39;s what you need to know about the Divinity series](https://www.pcgamer.com/games/rpg/divinity-games-order/)
- - [The most promising action game of 2026 finally has a release date, and we now know it&#39;ll launch on PC day one](https://www.pcgamer.com/games/action/the-most-promising-action-game-of-2026-finally-has-a-release-date-and-we-now-know-itll-launch-on-pc-day-one/)
- - [Knives Out 3, Chainsaw Man, and the best movies on streaming this week](https://www.polygon.com/new-movies-on-streaming-knives-out-chainsaw-man-movie/)<!-- GAME:END -->
+ - [The most promising action game of 2026 finally has a release date, and we now know it&#39;ll launch on PC day one](https://www.pcgamer.com/games/action/the-most-promising-action-game-of-2026-finally-has-a-release-date-and-we-now-know-itll-launch-on-pc-day-one/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
