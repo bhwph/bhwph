@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why I love player housing in MMOs](https://www.pcgamer.com/games/mmo/why-i-love-player-housing-in-mmos/)
- - [This &#39;90s CG render-core 3D platformer is finally out in early access after &#39;five years of hermetic grinding&#39; from its solo dev](https://www.pcgamer.com/games/action/this-90s-cg-render-core-3d-platformer-is-finally-out-in-early-access-after-five-years-of-hermetic-grinding-from-its-solo-dev/)
- - [Prolific voice actor Jim Ward, whose credits include Knights of the Old Republic, New Vegas, Grim Fandango, and more, has died](https://www.pcgamer.com/games/prolific-voice-actor-jim-ward-whose-credits-include-knights-of-the-old-republic-new-vegas-grim-fandango-and-more-has-died/)<!-- GAME:END -->
+ - [This roguelite claims to have the dubious honor of being &#39;the world&#39;s first fully playable game created 100% through AI&#39; in a milestone for slop everywhere](https://www.pcgamer.com/games/roguelike/this-roguelite-claims-to-have-the-dubious-honor-of-being-the-worlds-first-fully-playable-game-created-100-percent-through-ai-in-a-milestone-for-slop-everywhere/)
+ - [Fate of the Old Republic director promises release before 2030 even though studio was only recently formed: &#39;I&#39;m not getting any younger&#39;](https://www.pcgamer.com/games/rpg/fate-of-the-old-republic-director-promises-release-before-2030-even-though-studio-was-only-recently-formed-im-not-getting-any-younger/)
+ - [Get in the mood for the rapidly approaching holidays by identifying gaming&#39;s winter wonderlands in our latest quiz](https://www.pcgamer.com/games/get-in-the-mood-for-the-rapidly-approaching-holidays-by-identifying-gamings-winter-wonderlands-in-our-latest-quiz/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
