@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seagate and Western Digital, with stocks each up 200%+ in 2025, will join Nasdaq 100 before the December 22 market open; GlobalFoundries will leave the index &lpar;Isabelle Lee/Bloomberg&rpar;](http://www.techmeme.com/251213/p2#a251213p2)
- - [In a letter to the Trump administration, the GOP Senatorial Committee Chair Sen. Tim Scott said the Netflix-WBD deal raises &quot;significant antitrust problems&quot; &lpar;Semafor&rpar;](http://www.techmeme.com/251213/p1#a251213p1)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Dec. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-dec-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI hopes the Disney deal boosts Sora, which has high costs and limited traction; Sensor Tower: users average 13 minutes per day on Sora vs. 90 on TikTok &lpar;Financial Times&rpar;](http://www.techmeme.com/251213/p6#a251213p6)
+ - [Broadcom&#39;s shares fell 11% on December 12, their biggest single-day drop since January, after the company&#39;s AI sales outlook fell short of investor expectations &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251213/p5#a251213p5)
+ - [Indian IT giant TCS agrees to acquire Coastal Cloud, a Florida-based Salesforce consulting partner, for $700M, in a bid to boost its AI and US customer business &lpar;Mark Haranas/CRN&rpar;](http://www.techmeme.com/251213/p4#a251213p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
