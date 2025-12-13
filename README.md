@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Dec. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-dec-13/#ftag=CAD590a51e)
  - [Google has removed dozens of AI videos from YouTube that depicted Disney characters, after Disney sent a cease-and-desist letter flagging the links &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/251212/p37#a251212p37)
- - [Microsoft expands its bug bounty program so that any critical vulnerability, including in third-party code, impacting its online services is eligible for awards &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251212/p36#a251212p36)
- - [OpenAI quietly adopted Anthropic&#39;s &quot;skills&quot; mechanism in ChatGPT and Codex; ChatGPT&#39;s skills include creating and modifying spreadsheets, docx files, and PDFs &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/251212/p35#a251212p35)<!-- TECH:END -->
+ - [Microsoft expands its bug bounty program so that any critical vulnerability, including in third-party code, impacting its online services is eligible for awards &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251212/p36#a251212p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
