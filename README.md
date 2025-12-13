@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried DJI’s new Osmo 8 gimbal, and it’s now my favorite vlogging accessory](https://www.androidauthority.com/dji-osmo-mobile-8-review-3621304/)
- - [Google is ruining the best thing about the Pixel Watch](https://www.androidauthority.com/google-ruining-best-thing-about-pixel-watch-3625032/)
- - [The Instagram-Fueled Boom in Copycat Vintage Car-Body Shells](https://www.wired.com/story/the-instagram-fueled-boom-in-copycat-vintage-car-body-shells/)<!-- TECH:END -->
+ - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
+ - [Did you know: Pixels and iPhones are actually made by the same company](https://www.androidauthority.com/pixels-iphones-made-by-same-company-3624260/)
+ - [Google Data Centers Are Returning Nuclear Power to Tornado Country](https://www.wired.com/story/google-data-centers-will-bring-nuclear-power-back-to-tornado-country/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
