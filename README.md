@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A University of Cambridge analysis reveals how cheap SMS text message verification to create online accounts fuels global influence and manipulation campaigns &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/251213/p14#a251213p14)
  - [The AI boom is delaying US municipal projects, as ~$4T in AI infra spending through 2030 shifts skilled construction workers to AI data centers &lpar;Brooke Sutherland/Bloomberg&rpar;](http://www.techmeme.com/251213/p13#a251213p13)
- - [How Oracle&#39;s massive Stargate deal with OpenAI has pushed Oracle to the center of the AI boom, turning its market cap into a barometer on AI sentiment &lpar;Bloomberg&rpar;](http://www.techmeme.com/251213/p12#a251213p12)
- - [Paramount&#39;s Hostile Bid for Warner Bros. Aims to Block Netflix&#39;s $83 Billion Offer](https://www.cnet.com/tech/services-and-software/netflix-is-buying-warner-bros-in-83b-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Oracle&#39;s massive Stargate deal with OpenAI has pushed Oracle to the center of the AI boom, turning its market cap into a barometer on AI sentiment &lpar;Bloomberg&rpar;](http://www.techmeme.com/251213/p12#a251213p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
