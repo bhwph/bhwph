@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak teases iOS 26.4 feature updates alongside iOS 27, iOS 28 plans](https://appleinsider.com/articles/25/12/13/leak-teases-ios-264-feature-updates-alongside-ios-27-ios-28-plans?utm_source=rss)
- - [18 Gifts for People Who Are Perpetually Cold &lpar;2025&rpar;](https://www.wired.com/gallery/gift-ideas-for-people-who-are-perpetually-cold-2025/)
- - [Sektori is psychedelic, tough as nails, and worth the pain](https://www.theverge.com/games/840324/sektori-review-pc-ps5-xbox-series-x-s)<!-- TECH:END -->
+ - [This $1,500 robot cooks dinner while I work](https://www.theverge.com/tech/840599/posha-robot-chef-review)
+ - [Sources: The Trump administration is drafting a new cyber strategy that would enlist private companies to mount offensive cyberattacks on foreign adversaries &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/251213/p9#a251213p9)
+ - [The Nex Playground and Pixel Buds 2A top our list of the best deals this week](https://www.theverge.com/gadgets/844093/nex-playground-google-pixel-buds-2a-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
