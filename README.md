@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All missile expansion locations in Metroid Prime 4: Beyond](https://www.polygon.com/metroid-prime-4-all-missile-expansion-locations/)
- - [Pokémon Legends: Z-A – Mega Dimension: The Kotaku Review](https://kotaku.com/pokemon-legends-za-mega-dimension-review-dlc-raichu-2000653106)
- - [Lorwyn Eclipse set previews include major hints about Magic: The Gathering characters](https://www.polygon.com/lorwyn-eclipsed-previews-short-stories/)<!-- GAME:END -->
+ - [If the only Larian game you&#39;ve played is Baldur&#39;s Gate 3, here&#39;s what you need to know about the Divinity series](https://www.pcgamer.com/games/rpg/divinity-games-order/)
+ - [The most promising action game of 2026 finally has a release date, and we now know it&#39;ll launch on PC day one](https://www.pcgamer.com/games/action/the-most-promising-action-game-of-2026-finally-has-a-release-date-and-we-now-know-itll-launch-on-pc-day-one/)
+ - [Knives Out 3, Chainsaw Man, and the best movies on streaming this week](https://www.polygon.com/new-movies-on-streaming-knives-out-chainsaw-man-movie/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
