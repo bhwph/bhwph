@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI hopes the Disney deal boosts Sora, which has high costs and limited traction; Sensor Tower: users average 13 minutes per day on Sora vs. 90 on TikTok &lpar;Financial Times&rpar;](http://www.techmeme.com/251213/p6#a251213p6)
- - [Broadcom&#39;s shares fell 11% on December 12, their biggest single-day drop since January, after the company&#39;s AI sales outlook fell short of investor expectations &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251213/p5#a251213p5)
- - [Indian IT giant TCS agrees to acquire Coastal Cloud, a Florida-based Salesforce consulting partner, for $700M, in a bid to boost its AI and US customer business &lpar;Mark Haranas/CRN&rpar;](http://www.techmeme.com/251213/p4#a251213p4)<!-- TECH:END -->
+ - [I tried DJI’s new Osmo 8 gimbal, and it’s now my favorite vlogging accessory](https://www.androidauthority.com/dji-osmo-mobile-8-review-3621304/)
+ - [Google is ruining the best thing about the Pixel Watch](https://www.androidauthority.com/google-ruining-best-thing-about-pixel-watch-3625032/)
+ - [The Instagram-Fueled Boom in Copycat Vintage Car-Body Shells](https://www.wired.com/story/the-instagram-fueled-boom-in-copycat-vintage-car-body-shells/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
