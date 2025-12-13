@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m never getting any work done ever again, thanks to this website that lets me play thousands of user-made Doom levels in my browser](https://www.pcgamer.com/games/fps/im-never-getting-any-work-done-ever-again-thanks-to-this-website-that-lets-me-play-thousands-of-user-made-doom-levels-in-my-browser/)
- - [Pokémon Legends: Z-A special evolutions guide](https://www.polygon.com/pokemon-legends-z-a-plza-special-evolutions-list-stones-items-trade-all/)
- - [If the only Larian game you&#39;ve played is Baldur&#39;s Gate 3, here&#39;s what you need to know about the Divinity series](https://www.pcgamer.com/games/rpg/divinity-games-order/)<!-- GAME:END -->
+ - [How 007 First Light rethinks what &#39;James Bond&#39; even means](https://www.polygon.com/new-james-bond-007-first-light/)
+ - [Gate Guard Simulator is Papers, Please with fewer terrorists, more geese, and the chance to throw people into a moat](https://www.pcgamer.com/games/sim/gate-guard-simulator-is-papers-please-with-fewer-terrorists-more-geese-and-the-chance-to-throw-people-into-a-moat/)
+ - [Clue turns 40: A perfect whodunit and surprisingly faithful adaptation](https://www.polygon.com/clue-40th-anniversary-knives-out/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
