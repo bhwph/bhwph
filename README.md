@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
- - 😝 [Anesthesia is a hell of a truth serum sometimes](http://9gag.com/gag/a0eDqLL)
- - 👉 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)<!-- MEMES:END -->
+ - 6️⃣ [Good Doggo](http://9gag.com/gag/a6ZeRN2)
+ - 😝 [Santa found your wishlist](http://9gag.com/gag/aGyr4gw)
+ - 👉 [Totally realistic](http://9gag.com/gag/aGyr4DG)<!-- MEMES:END -->
 
 --- 
 
