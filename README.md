@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI quietly adopted Anthropic&#39;s &quot;skills&quot; mechanism in ChatGPT and Codex; ChatGPT&#39;s skills include creating and modifying spreadsheets, docx files, and PDFs &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/251212/p35#a251212p35)
- - [Internal message: SpaceX has authorized an insider share sale at $421/share, valuing the company at ~$800B, and said it&#39;s preparing for a possible IPO in 2026 &lpar;Loren Grush/Bloomberg&rpar;](http://www.techmeme.com/251212/p34#a251212p34)
- - [Prime Video Hits Pause on Hallucinating AI Recaps](https://www.cnet.com/tech/services-and-software/prime-video-hits-pause-on-hallucinating-ai-recaps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google has removed dozens of AI videos from YouTube that depicted Disney characters, after Disney sent a cease-and-desist letter flagging the links &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/251212/p37#a251212p37)
+ - [Microsoft expands its bug bounty program so that any critical vulnerability, including in third-party code, impacting its online services is eligible for awards &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251212/p36#a251212p36)
+ - [OpenAI quietly adopted Anthropic&#39;s &quot;skills&quot; mechanism in ChatGPT and Codex; ChatGPT&#39;s skills include creating and modifying spreadsheets, docx files, and PDFs &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/251212/p35#a251212p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
