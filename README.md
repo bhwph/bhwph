@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After 17 years the most sophisticated bike mod has landed in GTA 4, and it wasn&#39;t easy: &#39;I wanted it to feel like GTA 4 always meant to have bikes—not like some clunky workaround&#39;](https://www.pcgamer.com/games/grand-theft-auto/after-17-years-the-most-sophisticated-bike-mod-has-landed-in-gta-4-and-it-wasnt-easy-i-wanted-it-to-feel-like-gta-4-always-meant-to-have-bikes-not-like-some-clunky-workaround/)
- - [Wake Up Dead Man proves a Knives Out Muppets movie could work — here’s why](https://www.polygon.com/we-deserve-a-knives-out-muppets-movie-and-wake-up-dead-man-proves-it-could-work/)
- - [Race a Kei truck through a collapsing Japan in DriveCrazy, which is like Burnout if you could drive on walls and fight towering kaiju](https://www.pcgamer.com/games/racing/race-a-kei-truck-through-a-collapsing-japan-in-drivecrazy-which-is-like-burnout-if-you-could-drive-on-walls-and-fight-towering-kaiju/)<!-- GAME:END -->
+ - [Why I love player housing in MMOs](https://www.pcgamer.com/games/mmo/why-i-love-player-housing-in-mmos/)
+ - [This &#39;90s CG render-core 3D platformer is finally out in early access after &#39;five years of hermetic grinding&#39; from its solo dev](https://www.pcgamer.com/games/action/this-90s-cg-render-core-3d-platformer-is-finally-out-in-early-access-after-five-years-of-hermetic-grinding-from-its-solo-dev/)
+ - [Prolific voice actor Jim Ward, whose credits include Knights of the Old Republic, New Vegas, Grim Fandango, and more, has died](https://www.pcgamer.com/games/prolific-voice-actor-jim-ward-whose-credits-include-knights-of-the-old-republic-new-vegas-grim-fandango-and-more-has-died/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
