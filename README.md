@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Parents call for New York governor to sign landmark AI safety bill](https://www.theverge.com/ai-artificial-intelligence/844062/parents-call-for-new-york-governor-to-sign-landmark-ai-safety-bill)
- - [Source: OpenEvidence, which offers an AI chatbot for doctors, is raising $250M at a $12B valuation, up from $6B in Oct., and has $150M in annualized ad revenue &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251212/p28#a251212p28)
- - [Make your Android phone half Game Boy with this clip-on controller](https://www.androidauthority.com/gamesir-pocket-1-3625078/)<!-- TECH:END -->
+ - [OpenAI quietly adopted Anthropic&#39;s &quot;skills&quot; mechanism in ChatGPT and Codex; ChatGPT&#39;s skills include creating and modifying spreadsheets, docx files, and PDFs &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/251212/p35#a251212p35)
+ - [Internal message: SpaceX has authorized an insider share sale at $421/share, valuing the company at ~$800B, and said it&#39;s preparing for a possible IPO in 2026 &lpar;Loren Grush/Bloomberg&rpar;](http://www.techmeme.com/251212/p34#a251212p34)
+ - [Prime Video Hits Pause on Hallucinating AI Recaps](https://www.cnet.com/tech/services-and-software/prime-video-hits-pause-on-hallucinating-ai-recaps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
