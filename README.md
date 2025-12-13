@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
- - 😝 [China\u2019s demographic Cliff in one video](http://9gag.com/gag/a7omRKq)
- - 👉 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)<!-- MEMES:END -->
+ - 6️⃣ [He just wanted to be closer to God...](http://9gag.com/gag/a5Q9O8y)
+ - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 👉 [I need answers](http://9gag.com/gag/aPAVbGQ)<!-- MEMES:END -->
 
 --- 
 
