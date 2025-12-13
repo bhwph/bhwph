@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How 007 First Light rethinks what &#39;James Bond&#39; even means](https://www.polygon.com/new-james-bond-007-first-light/)
- - [Gate Guard Simulator is Papers, Please with fewer terrorists, more geese, and the chance to throw people into a moat](https://www.pcgamer.com/games/sim/gate-guard-simulator-is-papers-please-with-fewer-terrorists-more-geese-and-the-chance-to-throw-people-into-a-moat/)
- - [Clue turns 40: A perfect whodunit and surprisingly faithful adaptation](https://www.polygon.com/clue-40th-anniversary-knives-out/)<!-- GAME:END -->
+ - [After 17 years the most sophisticated bike mod has landed in GTA 4, and it wasn&#39;t easy: &#39;I wanted it to feel like GTA 4 always meant to have bikes—not like some clunky workaround&#39;](https://www.pcgamer.com/games/grand-theft-auto/after-17-years-the-most-sophisticated-bike-mod-has-landed-in-gta-4-and-it-wasnt-easy-i-wanted-it-to-feel-like-gta-4-always-meant-to-have-bikes-not-like-some-clunky-workaround/)
+ - [Wake Up Dead Man proves a Knives Out Muppets movie could work — here’s why](https://www.polygon.com/we-deserve-a-knives-out-muppets-movie-and-wake-up-dead-man-proves-it-could-work/)
+ - [Race a Kei truck through a collapsing Japan in DriveCrazy, which is like Burnout if you could drive on walls and fight towering kaiju](https://www.pcgamer.com/games/racing/race-a-kei-truck-through-a-collapsing-japan-in-drivecrazy-which-is-like-burnout-if-you-could-drive-on-walls-and-fight-towering-kaiju/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
