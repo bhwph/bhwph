@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This $1,500 robot cooks dinner while I work](https://www.theverge.com/tech/840599/posha-robot-chef-review)
- - [Sources: The Trump administration is drafting a new cyber strategy that would enlist private companies to mount offensive cyberattacks on foreign adversaries &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/251213/p9#a251213p9)
- - [The Nex Playground and Pixel Buds 2A top our list of the best deals this week](https://www.theverge.com/gadgets/844093/nex-playground-google-pixel-buds-2a-deal-sale)<!-- TECH:END -->
+ - [Walmart&#39;s $74 AirPods 4 deal makes last-minute holiday shopping a breeze](https://appleinsider.com/articles/25/12/13/walmarts-74-airpods-4-deal-makes-last-minute-holiday-shopping-a-breeze?utm_source=rss)
+ - [Blowback over posts about the death of Charlie Kirk has prompted companies to be more aggressive about monitoring employees&#39; social media activity &lpar;Taylor Telford/Washington Post&rpar;](http://www.techmeme.com/251213/p11#a251213p11)
+ - [A Kinect for kids is outselling Xbox to become the hot console this holiday](https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
