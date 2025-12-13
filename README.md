@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
- - 😝 [Yep](http://9gag.com/gag/aBybeON)
- - 👉 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)<!-- MEMES:END -->
+ - 6️⃣ [Some human&#39;s mind works in a magical way](http://9gag.com/gag/aD2qeww)
+ - 😝 [Good Doggo](http://9gag.com/gag/a6ZeRN2)
+ - 👉 [Totally realistic](http://9gag.com/gag/aGyr4DG)<!-- MEMES:END -->
 
 --- 
 
