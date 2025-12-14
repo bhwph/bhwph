@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [DJI Pushes a Final Clear Out on Mini Drones, the Mini 5 Pro Fly More Combo Plus With RC 2 Hits an All-Time Low](https://kotaku.com/dji-pushes-a-final-clear-out-on-mini-drones-the-mini-5-pro-fly-more-combo-plus-with-rc-2-hits-an-all-time-low-2000651839)
- - [Beastro preview: a delicious roguelite riff on cozy gaming](https://www.polygon.com/beastro-preview-roguelite-cozy-game/)
- - [Get up to 90% off historical murder in the Assassin&#39;s Creed franchise sale](https://www.pcgamer.com/games/assassins-creed/get-up-to-90-percent-off-historical-murder-in-the-assassins-creed-franchise-sale/)<!-- GAME:END -->
+ - [Xbox Series X Enters Holiday Clearance Mode After Skipping Black Friday Discounts, Includes a Wireless Controller](https://kotaku.com/xbox-series-x-enters-holiday-clearance-mode-after-skipping-black-friday-discounts-includes-a-wireless-controller-2000653061)
+ - [Where Welcome to Derry ends, this Pennywise game expansion begins](https://www.polygon.com/welcome-to-derry-betrayal-house-on-hill-evil-of-pennywise-review/)
+ - [Cosplay isn&#39;t just about the outfits after all, it&#39;s had a hugely positive impact on Kaho Shibuya: &#39;it was like a therapy for me&#39;](https://www.pcgamer.com/gaming-industry/cosplay-isnt-just-about-the-outfits-after-all-its-had-a-hugely-positive-impact-on-kaho-shibuya-it-was-like-a-therapy-for-me/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
