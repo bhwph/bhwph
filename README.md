@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Double tap on the screen](http://9gag.com/gag/abALNNX)
- - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
- - 👉 [That recoil hit different](http://9gag.com/gag/adBWEgZ)<!-- MEMES:END -->
+ - 6️⃣ [I just leave this here.](http://9gag.com/gag/aGyrXYw)
+ - 😝 [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
+ - 👉 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)<!-- MEMES:END -->
 
 --- 
 
