@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
- - 😝 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
+ - 6️⃣ [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 😝 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
  - 👉 [Stupid is as stupid does](http://9gag.com/gag/ajP3zEw)<!-- MEMES:END -->
 
 --- 
