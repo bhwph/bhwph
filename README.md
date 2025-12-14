@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I need answers](http://9gag.com/gag/aPAVbGQ)
- - 😝 [China\u2019s demographic Cliff in one video](http://9gag.com/gag/a7omRKq)
- - 👉 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)<!-- MEMES:END -->
+ - 6️⃣ [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
+ - 😝 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
+ - 👉 [Double tap on the screen](http://9gag.com/gag/abALNNX)<!-- MEMES:END -->
 
 --- 
 
