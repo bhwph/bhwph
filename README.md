@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
- - 😝 [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
- - 👉 [Double tap on the screen](http://9gag.com/gag/abALNNX)<!-- MEMES:END -->
+ - 6️⃣ [I just leave this here.](http://9gag.com/gag/aGyrXYw)
+ - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
+ - 👉 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)<!-- MEMES:END -->
 
 --- 
 
