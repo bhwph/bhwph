@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Series X Enters Holiday Clearance Mode After Skipping Black Friday Discounts, Includes a Wireless Controller](https://kotaku.com/xbox-series-x-enters-holiday-clearance-mode-after-skipping-black-friday-discounts-includes-a-wireless-controller-2000653061)
- - [Where Welcome to Derry ends, this Pennywise game expansion begins](https://www.polygon.com/welcome-to-derry-betrayal-house-on-hill-evil-of-pennywise-review/)
- - [Cosplay isn&#39;t just about the outfits after all, it&#39;s had a hugely positive impact on Kaho Shibuya: &#39;it was like a therapy for me&#39;](https://www.pcgamer.com/gaming-industry/cosplay-isnt-just-about-the-outfits-after-all-its-had-a-hugely-positive-impact-on-kaho-shibuya-it-was-like-a-therapy-for-me/)<!-- GAME:END -->
+ - [Angeline Era feels like a long-lost PlayStation classic](https://www.polygon.com/angeline-era-impressions/)
+ - [The Silent Night, Deadly Night remake is better than the original, but more nice than naughty](https://www.polygon.com/silent-night-deadly-night-2025-reboot/)
+ - [Final Fantasy 14&#39;s newest raid theme is changing what it means to be a videogame song](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-newest-raid-theme-is-changing-what-it-means-to-be-a-videogame-song/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
