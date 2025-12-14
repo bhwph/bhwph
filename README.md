@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
- - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
- - 👉 [38 years old](http://9gag.com/gag/azxvpZp)<!-- MEMES:END -->
+ - 6️⃣ [Haters gonna hate](http://9gag.com/gag/aKGXo1Q)
+ - 😝 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
+ - 👉 [Stupid is as stupid does](http://9gag.com/gag/ajP3zEw)<!-- MEMES:END -->
 
 --- 
 
