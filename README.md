@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Delivery Hero Chair Kristin Skogen Lund backs CEO Niklas Östberg as the group explores asset sales amid shareholder pressure over its falling stock price &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/251214/p14#a251214p14)
- - [Amazon&#39;s $399 Samsung M8 USB-C monitor deal ends today](https://appleinsider.com/articles/25/12/14/amazons-399-samsung-m8-usb-c-monitor-deal-ends-today?utm_source=rss)
- - [Absynth is back and weirder than ever after 16 years](https://www.theverge.com/entertainment/844432/native-instruments-absynth-6-mpe-brian-eno)<!-- TECH:END -->
+ - [Stocks of private companies like OpenAI and SpaceX are being sold via invitation-only markets to the ultrawealthy before their IPOs, creating a two-tier system &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/251214/p15#a251214p15)
+ - [Grok is spreading misinformation about the Bondi Beach shooting](https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting)
+ - [Delivery Hero Chair Kristin Skogen Lund backs CEO Niklas Östberg as the group explores asset sales amid shareholder pressure over its falling stock price &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/251214/p14#a251214p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
