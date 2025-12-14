@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A University of Cambridge analysis reveals how cheap SMS text message verification to create online accounts fuels global influence and manipulation campaigns &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/251213/p14#a251213p14)
- - [The AI boom is delaying US municipal projects, as ~$4T in AI infra spending through 2030 shifts skilled construction workers to AI data centers &lpar;Brooke Sutherland/Bloomberg&rpar;](http://www.techmeme.com/251213/p13#a251213p13)
- - [How Oracle&#39;s massive Stargate deal with OpenAI has pushed Oracle to the center of the AI boom, turning its market cap into a barometer on AI sentiment &lpar;Bloomberg&rpar;](http://www.techmeme.com/251213/p12#a251213p12)<!-- TECH:END -->
+ - [Despite talk of an existential US-China AI race, the Chinese state and its major companies are spending more to dominate other domains, such as EVs and robotics &lpar;Tim Wu/Financial Times&rpar;](http://www.techmeme.com/251213/p16#a251213p16)
+ - [To build more powerful AI systems, some AI leaders are focusing on pursuing an approach called continual learning, which mimics how people learn over time &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251213/p15#a251213p15)
+ - [&#39;Landman&#39; Season 2, Episode 5: Streaming Release Date and Time](https://www.cnet.com/tech/services-and-software/landman-season-2-release-schedule/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
