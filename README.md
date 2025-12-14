@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Protesters arrested outside NYC Apple Store on Black Friday](https://appleinsider.com/articles/25/12/14/crime-blotter-protesters-arrested-outside-nyc-apple-store-on-black-friday?utm_source=rss)
- - [6 design misses stopping Gemini from catching up to ChatGPT](https://www.androidauthority.com/gemini-app-redesign-vs-chatgpt-3624557/)
- - [I’m using Samsung’s One UI 8.5 beta, and there’s one feature every Android skin needs to copy](https://www.androidauthority.com/samsung-one-ui-8-5-quick-settings-other-android-skins-copy-3624597/)<!-- TECH:END -->
+ - [Foxconn is building a massive factory in KY, but probably not for Apple](https://appleinsider.com/articles/25/12/14/foxconn-is-building-a-massive-factory-in-ky-but-probably-not-for-apple?utm_source=rss)
+ - [Nanit Home Display Review: A Transformative Tablet](https://www.wired.com/review/nanit-home-display/)
+ - [I&amp;#8217;m finally beginning to trust Microsoft&amp;#8217;s handheld Xbox](https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
