@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [China\u2019s demographic Cliff in one video](http://9gag.com/gag/a7omRKq)
- - 😝 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
- - 👉 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)<!-- MEMES:END -->
+ - 6️⃣ [This seafood boil restaurant eventually added a label for their disposable gloves](https://www.reddit.com/r/funny/comments/1pm25p5/this_seafood_boil_restaurant_eventually_added_a/)
+ - 😝 [Oh snap](http://9gag.com/gag/a1m83Bb)
+ - 👉 [Coffee mug.. for rock climbers](http://9gag.com/gag/aqyVPqj)<!-- MEMES:END -->
 
 --- 
 
