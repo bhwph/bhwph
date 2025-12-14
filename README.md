@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Phoenix Point&#39;s Terror from the Void mod is so good Snapshot Games just released a massive patch to make the original game more like the fanmade overhaul](https://www.pcgamer.com/games/strategy/phoenix-points-terror-from-the-void-mod-is-so-good-snapshot-games-just-released-a-massive-patch-to-make-the-original-game-more-like-the-fanmade-overhaul/)
- - [Love wins: This woman has &#39;married&#39; a cardboard cutout of Kazuma Kiryu from the Like a Dragon games](https://www.pcgamer.com/games/action/love-wins-this-woman-has-married-a-cardboard-cutout-of-kazuma-kiryu-from-the-like-a-dragon-games/)
- - [This roguelite claims to have the dubious honor of being &#39;the world&#39;s first fully playable game created 100% through AI&#39; in a milestone for slop everywhere](https://www.pcgamer.com/games/roguelike/this-roguelite-claims-to-have-the-dubious-honor-of-being-the-worlds-first-fully-playable-game-created-100-percent-through-ai-in-a-milestone-for-slop-everywhere/)<!-- GAME:END -->
+ - [DJI Pushes a Final Clear Out on Mini Drones, the Mini 5 Pro Fly More Combo Plus With RC 2 Hits an All-Time Low](https://kotaku.com/dji-pushes-a-final-clear-out-on-mini-drones-the-mini-5-pro-fly-more-combo-plus-with-rc-2-hits-an-all-time-low-2000651839)
+ - [Beastro preview: a delicious roguelite riff on cozy gaming](https://www.polygon.com/beastro-preview-roguelite-cozy-game/)
+ - [Get up to 90% off historical murder in the Assassin&#39;s Creed franchise sale](https://www.pcgamer.com/games/assassins-creed/get-up-to-90-percent-off-historical-murder-in-the-assassins-creed-franchise-sale/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
