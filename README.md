@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Phoenix Point&#39;s Terror from the Void mod is so good Snapshot Games just released a massive patch to make the original game more like the fanmade overhaul](https://www.pcgamer.com/games/strategy/phoenix-points-terror-from-the-void-mod-is-so-good-snapshot-games-just-released-a-massive-patch-to-make-the-original-game-more-like-the-fanmade-overhaul/)
  - [Love wins: This woman has &#39;married&#39; a cardboard cutout of Kazuma Kiryu from the Like a Dragon games](https://www.pcgamer.com/games/action/love-wins-this-woman-has-married-a-cardboard-cutout-of-kazuma-kiryu-from-the-like-a-dragon-games/)
- - [This roguelite claims to have the dubious honor of being &#39;the world&#39;s first fully playable game created 100% through AI&#39; in a milestone for slop everywhere](https://www.pcgamer.com/games/roguelike/this-roguelite-claims-to-have-the-dubious-honor-of-being-the-worlds-first-fully-playable-game-created-100-percent-through-ai-in-a-milestone-for-slop-everywhere/)
- - [Fate of the Old Republic director promises release before 2030 even though studio was only recently formed: &#39;I&#39;m not getting any younger&#39;](https://www.pcgamer.com/games/rpg/fate-of-the-old-republic-director-promises-release-before-2030-even-though-studio-was-only-recently-formed-im-not-getting-any-younger/)<!-- GAME:END -->
+ - [This roguelite claims to have the dubious honor of being &#39;the world&#39;s first fully playable game created 100% through AI&#39; in a milestone for slop everywhere](https://www.pcgamer.com/games/roguelike/this-roguelite-claims-to-have-the-dubious-honor-of-being-the-worlds-first-fully-playable-game-created-100-percent-through-ai-in-a-milestone-for-slop-everywhere/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
