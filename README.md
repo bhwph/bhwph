@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn is building a massive factory in KY, but probably not for Apple](https://appleinsider.com/articles/25/12/14/foxconn-is-building-a-massive-factory-in-ky-but-probably-not-for-apple?utm_source=rss)
- - [Nanit Home Display Review: A Transformative Tablet](https://www.wired.com/review/nanit-home-display/)
- - [I&amp;#8217;m finally beginning to trust Microsoft&amp;#8217;s handheld Xbox](https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later)<!-- TECH:END -->
+ - [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account?utm_source=rss)
+ - [Solve Intelligence, which offers generative AI tools to law firms for IP and patent law work, raised a $40M Series B, bringing its total funding to $55M &lpar;Mike Butcher/Pathfounders&rpar;](http://www.techmeme.com/251214/p12#a251214p12)
+ - [Inside the high drama of the iPhone 4](https://www.theverge.com/podcast/844408/inside-the-high-drama-of-the-iphone-4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
