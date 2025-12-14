@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto casinos have become online gambling havens for teens and problem gamblers, propped up by operators who turn social media influencers into recruiters &lpar;New York Times&rpar;](http://www.techmeme.com/251214/p9#a251214p9)
- - [Alpine A390 Review: Price, Specs, Availability](https://www.wired.com/review/review-alpine-a390/)
- - [For the First Time, AI Analyzes Language as Well as a Human Expert](https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/)<!-- TECH:END -->
+ - [This cheap Android clamshell let me relive the Nintendo DS glory days, and it felt like coming home](https://www.androidauthority.com/anbernic-rg-ds-review-3623951/)
+ - [This one feature fixed the worst part of using Android and Apple together](https://www.androidauthority.com/quick-share-airdrop-best-thing-for-mixed-device-users-3620446/)
+ - [A profile of ASML, Europe&#39;s most valuable company, as it prepares for a transition to High NA EUV, with high-volume manufacturing expected in 2027 and 2028 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251214/p10#a251214p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
