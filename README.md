@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Angeline Era feels like a long-lost PlayStation classic](https://www.polygon.com/angeline-era-impressions/)
- - [The Silent Night, Deadly Night remake is better than the original, but more nice than naughty](https://www.polygon.com/silent-night-deadly-night-2025-reboot/)
- - [Final Fantasy 14&#39;s newest raid theme is changing what it means to be a videogame song](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-newest-raid-theme-is-changing-what-it-means-to-be-a-videogame-song/)<!-- GAME:END -->
+ - [Peak just added an in-game concert starring rapper bbno$, but it&#39;s gone tomorrow](https://www.pcgamer.com/games/adventure/peak-just-added-an-in-game-concert-starring-rapper-bbno-usd-but-its-gone-tomorrow/)
+ - [RPG dev pushes back against Steam review AI accusations: &#39;We poured years of our lives into this game and only worked with real human artists on everything&#39;](https://www.pcgamer.com/games/rpg/rpg-dev-pushes-back-against-steam-review-ai-accusations-we-poured-years-of-our-lives-into-this-game-and-only-worked-with-real-human-artists-on-everything/)
+ - [Angeline Era feels like a long-lost PlayStation classic](https://www.polygon.com/angeline-era-impressions/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
