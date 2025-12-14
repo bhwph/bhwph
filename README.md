@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I just leave this here.](http://9gag.com/gag/aGyrXYw)
- - 😝 [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
- - 👉 [From a hair transplant to Megamind](http://9gag.com/gag/aGyr4qG)<!-- MEMES:END -->
+ - 6️⃣ [That recoil hit different](http://9gag.com/gag/adBWEgZ)
+ - 😝 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)
+ - 👉 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)<!-- MEMES:END -->
 
 --- 
 
