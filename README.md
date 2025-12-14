@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account?utm_source=rss)
- - [Exor rejects Tether&#39;s all-cash offer for its 65.4% controlling stake in Juventus, which valued the Italian soccer club at €1.1B &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/251214/p13#a251214p13)
- - [24 of the Best Board Games for Holiday Gifting in 2025](https://www.cnet.com/culture/entertainment/best-board-games-to-give/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Delivery Hero Chair Kristin Skogen Lund backs CEO Niklas Östberg as the group explores asset sales amid shareholder pressure over its falling stock price &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/251214/p14#a251214p14)
+ - [Amazon&#39;s $399 Samsung M8 USB-C monitor deal ends today](https://appleinsider.com/articles/25/12/14/amazons-399-samsung-m8-usb-c-monitor-deal-ends-today?utm_source=rss)
+ - [Absynth is back and weirder than ever after 16 years](https://www.theverge.com/entertainment/844432/native-instruments-absynth-6-mpe-brian-eno)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
