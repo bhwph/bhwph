@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This cheap Android clamshell let me relive the Nintendo DS glory days, and it felt like coming home](https://www.androidauthority.com/anbernic-rg-ds-review-3623951/)
- - [This one feature fixed the worst part of using Android and Apple together](https://www.androidauthority.com/quick-share-airdrop-best-thing-for-mixed-device-users-3620446/)
- - [A profile of ASML, Europe&#39;s most valuable company, as it prepares for a transition to High NA EUV, with high-volume manufacturing expected in 2027 and 2028 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251214/p10#a251214p10)<!-- TECH:END -->
+ - [Crime blotter: Protesters arrested outside NYC Apple Store on Black Friday](https://appleinsider.com/articles/25/12/14/crime-blotter-protesters-arrested-outside-nyc-apple-store-on-black-friday?utm_source=rss)
+ - [6 design misses stopping Gemini from catching up to ChatGPT](https://www.androidauthority.com/gemini-app-redesign-vs-chatgpt-3624557/)
+ - [I’m using Samsung’s One UI 8.5 beta, and there’s one feature every Android skin needs to copy](https://www.androidauthority.com/samsung-one-ui-8-5-quick-settings-other-android-skins-copy-3624597/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
