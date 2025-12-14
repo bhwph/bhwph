@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh snap](http://9gag.com/gag/a1m83Bb)
- - 😝 [Tribute](http://9gag.com/gag/aD2qKOx)
- - 👉 [Damn right!](http://9gag.com/gag/apRn4n5)<!-- MEMES:END -->
+ - 6️⃣ [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 😝 [That&#39;s the spirit!](http://9gag.com/gag/aVv9Abw)
+ - 👉 [38 years old](http://9gag.com/gag/azxvpZp)<!-- MEMES:END -->
 
 --- 
 
