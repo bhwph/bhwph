@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
- - 😝 [This is the kind of AI we need more of](http://9gag.com/gag/an70PmB)
- - 👉 [Stupid is as stupid does](http://9gag.com/gag/ajP3zEw)<!-- MEMES:END -->
+ - 6️⃣ [Double tap on the screen](http://9gag.com/gag/abALNNX)
+ - 😝 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)
+ - 👉 [That recoil hit different](http://9gag.com/gag/adBWEgZ)<!-- MEMES:END -->
 
 --- 
 
