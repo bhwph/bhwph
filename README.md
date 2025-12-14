@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Microsoft AI CEO Mustafa Suleyman on defining superintelligence, its application in the medical field, universal basic income, regulation, and more &lpar;Mishal Husain/Bloomberg&rpar;](http://www.techmeme.com/251213/p17#a251213p17)
- - [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account?utm_source=rss)
- - [Despite talk of an existential US-China AI race, the Chinese state and its major companies are spending more to dominate other domains, such as EVs and robotics &lpar;Tim Wu/Financial Times&rpar;](http://www.techmeme.com/251213/p16#a251213p16)<!-- TECH:END -->
+ - [SuperCircle, which offers an AI-powered reverse logistics and recycling management service for retail brands, raised a $24M+ Series A led by Foundry Group &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251214/p6#a251214p6)
+ - [Amazon rolls out Ask This Book to the Kindle iOS app, letting readers ask questions about plot or characters; authors can&#39;t opt out &lpar;Will McCurdy/PCMag&rpar;](http://www.techmeme.com/251214/p5#a251214p5)
+ - [Qargo, which offers a cloud-based transport management service for carriers, freight forwarders, and third-party logistics, raised a $33M Series B led by Sofina &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251214/p4#a251214p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
