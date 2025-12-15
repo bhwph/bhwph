@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Warhammer Conference continues making deep dives into grim peril: &#39;it makes the papers themselves more approachable for a non-academic audience&#39;](https://www.pcgamer.com/games/the-warhammer-conference-continues-making-deep-dives-into-grim-peril-it-makes-the-papers-themselves-more-approachable-for-a-non-academic-audience/)
- - [Silent Hill f&#39;s lead actor was worried her first stream of the game would &#39;end with an apology press conference,&#39; but she ended up loving it and got millions of viewers](https://www.pcgamer.com/games/horror/silent-hill-fs-lead-actor-was-worried-her-first-stream-of-the-game-would-end-with-an-apology-press-conference-but-she-ended-up-loving-it-and-got-millions-of-viewers/)
- - [Peak just added an in-game concert starring rapper bbno$, but it&#39;s gone tomorrow](https://www.pcgamer.com/games/adventure/peak-just-added-an-in-game-concert-starring-rapper-bbno-usd-but-its-gone-tomorrow/)<!-- GAME:END -->
+ - [Fallout: New Vegas modders are having a field day restoring cut content found in the recently leaked beta](https://www.pcgamer.com/games/fallout/fallout-new-vegas-modders-are-having-a-field-day-restoring-cut-content-found-in-the-recently-leaked-beta/)
+ - [It: Welcome to Derry season 2: Cast, plot, timeline, and release date theories](https://www.polygon.com/it-welcome-to-derry-season-2-everything-we-know-so-far/)
+ - [Off the back of Divinity&#39;s new trailer Divinity: Original Sin 2 just shot back up the Steam charts, have fun in Fort Joy everybody](https://www.pcgamer.com/games/rpg/off-the-back-of-divinitys-new-trailer-divinity-original-sin-2-just-shot-back-up-the-steam-charts-have-fun-in-fort-joy-everybody/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
