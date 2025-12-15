@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Enjoy some european culture](http://9gag.com/gag/aW4ewLn)
- - 😝 [Every damn time.](http://9gag.com/gag/ajP3bq0)
- - 👉 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)<!-- MEMES:END -->
+ - 6️⃣ [Maybe im weak minded..but, i just cant anymore](http://9gag.com/gag/agmpWV6)
+ - 😝 [That 70s vibe](http://9gag.com/gag/a2vAebE)
+ - 👉 [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)<!-- MEMES:END -->
 
 --- 
 
