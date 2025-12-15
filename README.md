@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - 😝 [Hot pocket.](http://9gag.com/gag/amoO3Zj)
- - 👉 [Maybe im weak minded..but, i just cant anymore](http://9gag.com/gag/agmpWV6)<!-- MEMES:END -->
+ - 6️⃣ [Enjoy some european culture](http://9gag.com/gag/aW4ewLn)
+ - 😝 [Every damn time.](http://9gag.com/gag/ajP3bq0)
+ - 👉 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)<!-- MEMES:END -->
 
 --- 
 
