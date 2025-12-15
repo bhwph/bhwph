@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin-based Mirelo, whose AI models can interpret video content to add matching sound effects, raised a $41M seed led by Index and a16z, after a $3M pre-seed &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251215/p16#a251215p16)
- - [Tech whistleblowers like Yaël Eisenstat say coming forward has unexpectedly derailed their lives and careers; Meta is in litigation with Sarah Wynn-Williams &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/251215/p15#a251215p15)
- - [Kindle app now answers questions about the book you’re reading](https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios)<!-- TECH:END -->
+ - [A simple trick to avoid T-Mobile’s T-Life app just stopped working](https://www.androidauthority.com/t-mobile-closes-t-life-app-cash-workaround-3625285/)
+ - [Lightspeed raised a record $9B across six funds to invest in AI, with $3.3B to back breakout companies like Anthropic; Lightspeed has backed 165 AI startups &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/251215/p19#a251215p19)
+ - [Nvidia launches Nemotron 3, a family of AI models using a hybrid mixture-of-experts architecture and the Mamba-Transformer design, in 30B, 100B, and ~500B sizes &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/251215/p18#a251215p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
