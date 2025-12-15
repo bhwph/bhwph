@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Reddit says in its lawsuit against Australia&#39;s social media ban that it is &quot;a collection of public fora&quot; and social interaction isn&#39;t its &quot;sole purpose&quot; &lpar;Lauren Edmonds/Business Insider&rpar;](http://www.techmeme.com/251215/p7#a251215p7)
- - [Surprise! Galaxy Watch 4 starts getting One UI 8 Watch, likely its last update](https://www.androidauthority.com/samsung-galaxy-watch-4-one-ui-8-watch-3625204/)
- - [7 features from other phones I want to see on Google’s Pixels](https://www.androidauthority.com/7-features-from-other-phone-brands-i-want-on-pixels-3621256/)<!-- TECH:END -->
+ - [Berlin-based Mirelo, whose AI models can interpret video content to add matching sound effects, raised a $41M seed led by Index and a16z, after a $3M pre-seed &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251215/p16#a251215p16)
+ - [Tech whistleblowers like Yaël Eisenstat say coming forward has unexpectedly derailed their lives and careers; Meta is in litigation with Sarah Wynn-Williams &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/251215/p15#a251215p15)
+ - [Kindle app now answers questions about the book you’re reading](https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
