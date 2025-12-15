@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stocks of private companies like OpenAI and SpaceX are being sold via invitation-only markets to the ultrawealthy before their IPOs, creating a two-tier system &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/251214/p15#a251214p15)
- - [Grok is spreading misinformation about the Bondi Beach shooting](https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting)
- - [Delivery Hero Chair Kristin Skogen Lund backs CEO Niklas Östberg as the group explores asset sales amid shareholder pressure over its falling stock price &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/251214/p14#a251214p14)<!-- TECH:END -->
+ - [An interview with Marcos Galperin, CEO of MercadoLibre, which has a $105B market cap, on his upcoming resignation, MercadoLibre&#39;s rivalry with Amazon, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/251214/p18#a251214p18)
+ - [iRobot files for Chapter 11 bankruptcy after reaching a restructuring support agreement to hand control to its secured lender and key supplier, Shenzhen Picea &lpar;Bloomberg&rpar;](http://www.techmeme.com/251214/p17#a251214p17)
+ - [You need to listen to Sudan Archives&amp;#8217; violin opus for the club](https://www.theverge.com/entertainment/844447/sudan-archives-the-bpm)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
