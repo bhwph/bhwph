@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI MEG X870E Godlike X Edition review](https://www.pcgamer.com/hardware/motherboards/msi-meg-x870e-godlike-x-edition-review/)
- - [Fallout: New Vegas modders are having a field day restoring cut content found in the recently leaked beta](https://www.pcgamer.com/games/fallout/fallout-new-vegas-modders-are-having-a-field-day-restoring-cut-content-found-in-the-recently-leaked-beta/)
- - [It: Welcome to Derry season 2: Cast, plot, timeline, and release date theories](https://www.polygon.com/it-welcome-to-derry-season-2-everything-we-know-so-far/)<!-- GAME:END -->
+ - [Bose QuietComfort Headphones Drop 53% Off as This Limited-Edition Color Is Cleared Out Before Christmas](https://kotaku.com/bose-quietcomfort-headphones-drop-53-off-as-this-limited-edition-color-is-cleared-out-before-christmas-2000653257)
+ - [Silent Hill f cleans up at Horror Game Awards](https://www.polygon.com/silent-hill-f-horror-game-awards/)
+ - [Apple M4 MacBook Air Joins the Holiday Price War at an All-Time Low to Compete With Windows PC Deals](https://kotaku.com/apple-m4-macbook-air-joins-the-holiday-price-war-at-an-all-time-low-to-compete-with-windows-pc-deals-2000653263)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
