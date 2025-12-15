@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Dragoneer raised $4.3B for its seventh VC fund and now has over $30B in AUM; it raised $3.8B for its sixth private fund in 2022 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251215/p23#a251215p23)
- - [Inside FileMaker Pro -- the massive hit few realize is Apple&#39;s](https://appleinsider.com/articles/25/12/12/filemaker-pro----the-massive-hit-no-one-realises-is-apples?utm_source=rss)
- - [GNOME bans AI-generated extensions](https://www.theverge.com/news/844655/gnome-linux-ai-shell-extensions-ban)<!-- TECH:END -->
+ - [Cozy Earth Is Offering 40 Percent off Pajamas Right Now](https://www.wired.com/story/cozy-earth-pajamas-flash-deal-december-2025/)
+ - [Lidar manufacturer Luminar files for Chapter 11 bankruptcy and says it reached a deal to sell its semiconductor subsidiary to Quantum Computing Inc. for $110M &lpar;Reshmi Basu/Bloomberg&rpar;](http://www.techmeme.com/251215/p29#a251215p29)
+ - [Cadillac and Chevy are getting native Apple Music](https://www.theverge.com/transportation/844697/gm-cadillac-chevy-apple-music-native)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
