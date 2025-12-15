@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cozy Earth Is Offering 40 Percent off Pajamas Right Now](https://www.wired.com/story/cozy-earth-pajamas-flash-deal-december-2025/)
- - [Lidar manufacturer Luminar files for Chapter 11 bankruptcy and says it reached a deal to sell its semiconductor subsidiary to Quantum Computing Inc. for $110M &lpar;Reshmi Basu/Bloomberg&rpar;](http://www.techmeme.com/251215/p29#a251215p29)
- - [Cadillac and Chevy are getting native Apple Music](https://www.theverge.com/transportation/844697/gm-cadillac-chevy-apple-music-native)<!-- TECH:END -->
+ - [The US FTC, along with 21 states and DC, files an amended complaint against Uber, alleging deceptive billing and cancellation practices related to Uber One &lpar;Reuters&rpar;](http://www.techmeme.com/251215/p33#a251215p33)
+ - [iPhone Fold Touch ID rumor appears again, suggesting Face ID too thick](https://appleinsider.com/articles/25/12/15/iphone-fold-touch-id-rumor-appears-again-suggesting-face-id-too-thick?utm_source=rss)
+ - [Apple&#39;s 2026 executive shuffle is only the beginning as Cook nears retirement](https://appleinsider.com/articles/25/12/15/apples-2026-executive-shuffle-is-only-the-beginning-as-cook-nears-retirement?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
