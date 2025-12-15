@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at iRobot, founded in 1990, and its slow collapse after regulatory pressure killed Amazon&#39;s $1.7B acquisition in 2024, and the rising Chinese competition &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/251214/p21#a251214p21)
  - [Investigation: after Trump&#39;s return to office, the SEC eased up on or dismissed 60%+ of ongoing crypto cases, including ones involving Trump-linked companies &lpar;New York Times&rpar;](http://www.techmeme.com/251214/p20#a251214p20)
- - [Waze may be finally catching up to Google Maps with this highly-requested feature](https://www.androidauthority.com/waze-traffic-lights-support-3625151/)
- - [How UAE&#39;s growing interest in crypto drew Michael Saylor, Changpeng Zhao and other crypto executives to Abu Dhabi, hoping to secure deals with Emirati investors &lpar;Angus Berwick/Wall Street Journal&rpar;](http://www.techmeme.com/251214/p19#a251214p19)<!-- TECH:END -->
+ - [Waze may be finally catching up to Google Maps with this highly-requested feature](https://www.androidauthority.com/waze-traffic-lights-support-3625151/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
