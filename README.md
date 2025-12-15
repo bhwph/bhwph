@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Over the Garden Wall&#39;s live-action/puppets spiritual sequel is ‘ready to hatch,’ creator says](https://www.polygon.com/over-the-garden-wall-spiritual-sequel/)
- - [ASUS Goes on Clearance With Its ROG Strix G16 Gaming Laptop &lpar;RTX 5060, 32GB RAM, 1TB SSD&rpar; for the Holidays](https://kotaku.com/asus-goes-on-clearance-with-its-rog-strix-g16-gaming-laptop-rtx-5060-32gb-ram-1tb-ssd-for-the-holidays-2000653340)
- - [Arc Raiders&#39; Cold Snap event will turn &#39;every raid into a high-stakes survival run&#39; as frostbite drives players into what little shelter remains](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-cold-snap-event-will-turn-every-raid-into-a-high-stakes-survival-run-as-frostbite-drives-players-into-what-little-shelter-remains/)<!-- GAME:END -->
+ - [Clair Obscur&#39;s new DLC is making players sweat with how difficult the new bosses are](https://www.polygon.com/clair-obscur-expedition-33-free-update-dlc-difficulty/)
+ - [Fortnite chapter 7 just added Bigfoot as an NPC, but why?](https://www.polygon.com/fortnite-bigfoot-npc-chapter-7-season-1/)
+ - [James Cameron&#39;s favorite sci-fi anime, Patlabor, is getting a follow-up series](https://www.polygon.com/patlabor-ezy-anime-8-episode-series-ova/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
