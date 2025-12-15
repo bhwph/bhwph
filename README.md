@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Maybe we should follow in their footsteps](http://9gag.com/gag/aYQv9Aw)
- - 😝 [Can you find him?](http://9gag.com/gag/a6ZePOL)
- - 👉 [\u201cThe cutscene couldn\u2019t be that important.\u201d Right after:](http://9gag.com/gag/aW4erRd)<!-- MEMES:END -->
+ - 6️⃣ [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
+ - 😝 [They must be Mormon](http://9gag.com/gag/aAyLjD2)
+ - 👉 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)<!-- MEMES:END -->
 
 --- 
 
