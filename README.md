@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US FTC, along with 21 states and DC, files an amended complaint against Uber, alleging deceptive billing and cancellation practices related to Uber One &lpar;Reuters&rpar;](http://www.techmeme.com/251215/p33#a251215p33)
- - [iPhone Fold Touch ID rumor appears again, suggesting Face ID too thick](https://appleinsider.com/articles/25/12/15/iphone-fold-touch-id-rumor-appears-again-suggesting-face-id-too-thick?utm_source=rss)
- - [Apple&#39;s 2026 executive shuffle is only the beginning as Cook nears retirement](https://appleinsider.com/articles/25/12/15/apples-2026-executive-shuffle-is-only-the-beginning-as-cook-nears-retirement?utm_source=rss)<!-- TECH:END -->
+ - [Apple TV adds Google Cast streaming, but only on Android](https://www.theverge.com/news/844867/apple-tv-google-cast-android)
+ - [Most of you are fine with the Pixel 10’s battery life, survey shows](https://www.androidauthority.com/google-pixel-10-battery-satisfaction-3625431/)
+ - [Sources: Disney&#39;s Sora deal is entirely in OpenAI stock rather than a cash licensing fee; Disney has the option to buy additional stock beyond the $1B stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/251215/p36#a251215p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
