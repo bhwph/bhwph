@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur&#39;s new DLC is making players sweat with how difficult the new bosses are](https://www.polygon.com/clair-obscur-expedition-33-free-update-dlc-difficulty/)
- - [Fortnite chapter 7 just added Bigfoot as an NPC, but why?](https://www.polygon.com/fortnite-bigfoot-npc-chapter-7-season-1/)
- - [James Cameron&#39;s favorite sci-fi anime, Patlabor, is getting a follow-up series](https://www.polygon.com/patlabor-ezy-anime-8-episode-series-ova/)<!-- GAME:END -->
+ - [Clair Obscur: Expedition 33 gets another GOTY nomination at NY Game Awards](https://www.polygon.com/new-york-game-awards-goty-nominations-clair-obscur/)
+ - [All silk spool fragment locations in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-spool-fragment-locations/)
+ - [Bungie’s Marathon Resurfaces With $40 Price Tag And A March 2026 Release Date](https://kotaku.com/marathon-release-date-price-battle-pass-proximity-chat-2000653472)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
