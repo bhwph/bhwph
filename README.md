@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just The Two Of Us](http://9gag.com/gag/aPAVEzw)
- - 😝 [I can do beer, hold my this](http://9gag.com/gag/a5Q98Mg)
- - 👉 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)<!-- MEMES:END -->
+ - 6️⃣ [Maybe we should follow in their footsteps](http://9gag.com/gag/aYQv9Aw)
+ - 😝 [Can you find him?](http://9gag.com/gag/a6ZePOL)
+ - 👉 [\u201cThe cutscene couldn\u2019t be that important.\u201d Right after:](http://9gag.com/gag/aW4erRd)<!-- MEMES:END -->
 
 --- 
 
