@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unexplained iOS 26 photo bug is leaving some Android users red-faced](https://www.androidauthority.com/ios-26-android-photos-bug-3625179/)
- - [Apple&#39;s M4 MacBook Air with 24GB RAM plunges to $899 with free 2-day shipping](https://appleinsider.com/articles/25/12/15/apples-m4-macbook-air-with-24gb-ram-plunges-to-899-with-free-2-day-shipping?utm_source=rss)
- - [How Nvidia&#39;s lobbying efforts grew after Howard Lutnick brokered Jensen Huang&#39;s access to Trump, ending with the president&#39;s approval of the H200 sales to China &lpar;Financial Times&rpar;](http://www.techmeme.com/251215/p2#a251215p2)<!-- TECH:END -->
+ - [Filing: Reddit says in its lawsuit against Australia&#39;s social media ban that it is &quot;a collection of public fora&quot; and social interaction isn&#39;t its &quot;sole purpose&quot; &lpar;Lauren Edmonds/Business Insider&rpar;](http://www.techmeme.com/251215/p7#a251215p7)
+ - [Surprise! Galaxy Watch 4 starts getting One UI 8 Watch, likely its last update](https://www.androidauthority.com/samsung-galaxy-watch-4-one-ui-8-watch-3625204/)
+ - [7 features from other phones I want to see on Google’s Pixels](https://www.androidauthority.com/7-features-from-other-phone-brands-i-want-on-pixels-3621256/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
