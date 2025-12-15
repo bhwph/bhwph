@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A simple trick to avoid T-Mobile’s T-Life app just stopped working](https://www.androidauthority.com/t-mobile-closes-t-life-app-cash-workaround-3625285/)
- - [Lightspeed raised a record $9B across six funds to invest in AI, with $3.3B to back breakout companies like Anthropic; Lightspeed has backed 165 AI startups &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/251215/p19#a251215p19)
- - [Nvidia launches Nemotron 3, a family of AI models using a hybrid mixture-of-experts architecture and the Mamba-Transformer design, in 30B, 100B, and ~500B sizes &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/251215/p18#a251215p18)<!-- TECH:END -->
+ - [Source: Dragoneer raised $4.3B for its seventh VC fund and now has over $30B in AUM; it raised $3.8B for its sixth private fund in 2022 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251215/p23#a251215p23)
+ - [Inside FileMaker Pro -- the massive hit few realize is Apple&#39;s](https://appleinsider.com/articles/25/12/12/filemaker-pro----the-massive-hit-no-one-realises-is-apples?utm_source=rss)
+ - [GNOME bans AI-generated extensions](https://www.theverge.com/news/844655/gnome-linux-ai-shell-extensions-ban)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
