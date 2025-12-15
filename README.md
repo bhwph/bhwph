@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at iRobot, founded in 1990, and its slow collapse after regulatory pressure killed Amazon&#39;s $1.7B acquisition in 2024, and the rising Chinese competition &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/251214/p21#a251214p21)
- - [Investigation: after Trump&#39;s return to office, the SEC eased up on or dismissed 60%+ of ongoing crypto cases, including ones involving Trump-linked companies &lpar;New York Times&rpar;](http://www.techmeme.com/251214/p20#a251214p20)
- - [Waze may be finally catching up to Google Maps with this highly-requested feature](https://www.androidauthority.com/waze-traffic-lights-support-3625151/)<!-- TECH:END -->
+ - [iRobot files for bankruptcy](https://www.theverge.com/news/844460/irobot-files-for-bankruptcy)
+ - [Filing: Oracle signed ~$150B of data center leases in the three months ending November 30, raising its total data center and cloud capacity commitments to $248B &lpar;Martin Peers/The Information&rpar;](http://www.techmeme.com/251215/p1#a251215p1)
+ - [Google starts rolling out a new way to use NotebookLM](https://www.androidauthority.com/google-gemini-notebooklm-shortcut-3625157/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
