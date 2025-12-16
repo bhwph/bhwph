@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [2026 is already shaping up to be a bad year to buy a new smartphone](https://www.androidauthority.com/smartphone-forecast-2026-counterpoint-research-3625489/)
- - [This laptop is powered by your Samsung phone, and it just got a big upgrade](https://www.androidauthority.com/nexdock-sixth-generation-samsung-dex-3625481/)
- - [How the rise of AI has divided Hollywood, as some oppose the use of the technology while others say they are exploring ways to utilize AI tools &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/251216/p3#a251216p3)<!-- TECH:END -->
+ - [Google proves it hasn’t forgotten the original Pixel Buds Pro with new update](https://www.androidauthority.com/google-pixel-buds-pro-update-3625500/)
+ - [Spot the fake: Can you figure out which photos were made with AI?](https://www.androidauthority.com/ai-generated-images-test-3624376/)
+ - [Here’s why I ditched ChatGPT and moved to local AI](https://www.androidauthority.com/reasons-to-run-local-ai-3620233/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
