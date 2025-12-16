@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete Paving the Way in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-paving-the-way-enelica-building/)
- - [Sony’s Final PlayStation VR2 Clearance for Holidays, Last Units Are Hitting Their Lowest Price Ever](https://kotaku.com/sonys-final-playstation-vr2-clearance-for-holidays-last-units-are-hitting-their-lowest-price-ever-2000653520)
- - [Hollow Knight: Silksong‘s Sea Of Sorrows DLC Announced, Plus A Free Switch 2 Upgrade For The Original Game](https://kotaku.com/hollow-knight-silksong-dlc-sea-of-sorrows-switch-2-2000653816)<!-- GAME:END -->
+ - [The Last of Us director Bruce Straley has some harsh words for generative AI](https://www.polygon.com/bruce-straley-generative-ai-interview/)
+ - [Fallout Season 2 review roundup: Is the show is &#39;spinning its wheels&#39; or is it &#39;a hell of a lot of fun&#39;?](https://www.pcgamer.com/movies-tv/fallout-season-2-review-roundup-is-the-show-is-spinning-its-wheels-or-is-it-a-hell-of-a-lot-of-fun/)
+ - [How to complete The Stench of Corruption in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-the-stench-of-corruption-walkthrough/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
