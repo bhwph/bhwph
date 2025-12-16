@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Druid leveling build in Path of Exile 2](https://www.polygon.com/path-of-exile-2-poe2-leveling-wolf-druid/)
- - [The Head Of Larian Responds To Gen AI Backlash, Says It’s ‘Not A Replacement’ For ‘Skill Or Craft’](https://kotaku.com/larian-gen-ai-divinity-baldurs-gate-3-rpg-2000653912)
- - [Strange Jigsaws review: the best puzzle game everyone missed in 2025](https://www.polygon.com/strange-jigsaws-best-puzzle-game-hidden-gem-missed/)<!-- GAME:END -->
+ - [Larian’s AI Use Has Even Baldur’s Gate 3 Diehards Speaking Out](https://kotaku.com/larian-baldurs-gate-3-divinity-ai-swen-vincke-reaction-2000653934)
+ - [Magic: The Gathering Avatar Beginner Box is the perfect gift for new players](https://www.polygon.com/magic-the-gathering-avatar-beginner-box-review/)
+ - [Get a head start on Fallout Season 2: the new Fallout Shelter update adds The Ghoul, Lucy, and Maximus in a Vault under New Vegas](https://www.pcgamer.com/games/fallout/get-a-head-start-on-fallout-season-2-the-new-fallout-shelter-update-adds-the-ghoul-lucy-and-maximus-in-a-vault-under-new-vegas/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
