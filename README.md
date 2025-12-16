@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google proves it hasn’t forgotten the original Pixel Buds Pro with new update](https://www.androidauthority.com/google-pixel-buds-pro-update-3625500/)
- - [Spot the fake: Can you figure out which photos were made with AI?](https://www.androidauthority.com/ai-generated-images-test-3624376/)
- - [Here’s why I ditched ChatGPT and moved to local AI](https://www.androidauthority.com/reasons-to-run-local-ai-3620233/)<!-- TECH:END -->
+ - [iPad mini 8 rumored to use the iPhone 18 A20 Pro chip](https://appleinsider.com/articles/25/12/16/ipad-mini-8-now-believed-to-use-the-iphone-18-a20-pro-chip?utm_source=rss)
+ - [Visa says it will allow US banks to settle transactions using Circle&#39;s USDC stablecoin over Solana, the US&#39; first full deployment of a stablecoin settlement &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251216/p11#a251216p11)
+ - [New UK lawsuit takes another shot at Amazon&#39;s and Apple&#39;s alleged price fixing](https://appleinsider.com/articles/25/12/16/new-uk-lawsuit-takes-another-shot-at-amazons-and-apples-alleged-price-fixing?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
