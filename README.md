@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI Power 2000 Power Station drops back to Black Friday prices](https://www.androidauthority.com/dji-power-2000-power-station-deal-3625652/)
- - [Hong Kong-based RedotPay, a fintech focused on stablecoin-based payments, raised a $107M Series B led by Goodwater Capital, bringing its total raised to ~$200M &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/251216/p32#a251216p32)
- - [Larian’s CEO says the studio isn’t ‘trimming down teams to replace them with AI’](https://www.theverge.com/news/845713/larian-ceo-divinity-ai-swen-vincke)<!-- TECH:END -->
+ - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
+ - [Last-minute holiday deals: Apple Watch Series 11 $299, iPad $279, Mac from $479](https://appleinsider.com/articles/25/12/16/last-minute-holiday-deals-apple-watch-series-11-299-ipad-279-mac-from-479?utm_source=rss)
+ - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
