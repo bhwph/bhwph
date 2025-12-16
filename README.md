@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - 😝 [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
- - 👉 [Can you find him?](http://9gag.com/gag/a6ZePOL)<!-- MEMES:END -->
+ - 6️⃣ [2025 Update](http://9gag.com/gag/ajP3p3G)
+ - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
+ - 👉 [KABOOM?](http://9gag.com/gag/aO8ngg3)<!-- MEMES:END -->
 
 --- 
 
