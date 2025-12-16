@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [2025 Update](http://9gag.com/gag/ajP3p3G)
- - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - 👉 [KABOOM?](http://9gag.com/gag/aO8ngg3)<!-- MEMES:END -->
+ - 6️⃣ [British girl at train station](http://9gag.com/gag/ae9qXrq)
+ - 😝 [2025 Update](http://9gag.com/gag/ajP3p3G)
+ - 👉 [The window has now aids](http://9gag.com/gag/a0eDmbz)<!-- MEMES:END -->
 
 --- 
 
