@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Don&#39;t ask me who I would kill first](http://9gag.com/gag/aQzD0m2)
+ - 6️⃣ [This is bait](http://9gag.com/gag/a5Q9mZV)
  - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
- - 👉 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)<!-- MEMES:END -->
+ - 👉 [Good job!](http://9gag.com/gag/aNDXmDK)<!-- MEMES:END -->
 
 --- 
 
