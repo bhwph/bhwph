@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad mini 8 rumored to use the iPhone 18 A20 Pro chip](https://appleinsider.com/articles/25/12/16/ipad-mini-8-now-believed-to-use-the-iphone-18-a20-pro-chip?utm_source=rss)
- - [Visa says it will allow US banks to settle transactions using Circle&#39;s USDC stablecoin over Solana, the US&#39; first full deployment of a stablecoin settlement &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251216/p11#a251216p11)
- - [New UK lawsuit takes another shot at Amazon&#39;s and Apple&#39;s alleged price fixing](https://appleinsider.com/articles/25/12/16/new-uk-lawsuit-takes-another-shot-at-amazons-and-apples-alleged-price-fixing?utm_source=rss)<!-- TECH:END -->
+ - [Q&amp;A with Rivian founder and CEO RJ Scaringe on founding Rivian in 2009, production challenges, the VW partnership, autonomy, AI, EVs, chips, CarPlay, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251216/p15#a251216p15)
+ - [Adobe updates Firefly&#39;s app to add a prompt-based video editor using Runway&#39;s Aleph model, and adds image and video models from Black Forest Labs and others &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251216/p14#a251216p14)
+ - [Moto G Power 2026 lands with a beefier battery for your budget buck](https://www.androidauthority.com/moto-g-power-2026-announced-3625545/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
