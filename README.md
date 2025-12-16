@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us director Bruce Straley has some harsh words for generative AI](https://www.polygon.com/bruce-straley-generative-ai-interview/)
- - [Fallout Season 2 review roundup: Is the show is &#39;spinning its wheels&#39; or is it &#39;a hell of a lot of fun&#39;?](https://www.pcgamer.com/movies-tv/fallout-season-2-review-roundup-is-the-show-is-spinning-its-wheels-or-is-it-a-hell-of-a-lot-of-fun/)
- - [How to complete The Stench of Corruption in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-the-stench-of-corruption-walkthrough/)<!-- GAME:END -->
+ - [Best Druid leveling build in Path of Exile 2](https://www.polygon.com/path-of-exile-2-poe2-leveling-wolf-druid/)
+ - [The Head Of Larian Responds To Gen AI Backlash, Says It’s ‘Not A Replacement’ For ‘Skill Or Craft’](https://kotaku.com/larian-gen-ai-divinity-baldurs-gate-3-rpg-2000653912)
+ - [Strange Jigsaws review: the best puzzle game everyone missed in 2025](https://www.polygon.com/strange-jigsaws-best-puzzle-game-hidden-gem-missed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
