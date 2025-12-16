@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything is gambling now](https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast)
- - [The cost-per-watt of compute for orbital solar data centers is $51.10/W vs. just $15.85/W for terrestrial sites; SpaceX is uniquely positioned to try orbital &lpar;Andrew McCalip&rpar;](http://www.techmeme.com/251216/p17#a251216p17)
- - [Instagram is putting Reels on your TV](https://www.theverge.com/news/845124/instagram-reels-tv-app)<!-- TECH:END -->
+ - [Larry Ellison&amp;#8217;s big dumb gift to his large adult son](https://www.theverge.com/entertainment/845532/larry-ellison-paramount-wb-netflix-takeover-oracle)
+ - [Leona Health, maker of an AI-copilot that integrates with doctors&#39; WhatsApp accounts in LATAM to manage patient communications, raised a $14M seed led by a16z &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251216/p27#a251216p27)
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
