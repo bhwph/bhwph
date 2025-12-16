@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV adds Google Cast streaming, but only on Android](https://www.theverge.com/news/844867/apple-tv-google-cast-android)
- - [Most of you are fine with the Pixel 10’s battery life, survey shows](https://www.androidauthority.com/google-pixel-10-battery-satisfaction-3625431/)
- - [Sources: Disney&#39;s Sora deal is entirely in OpenAI stock rather than a cash licensing fee; Disney has the option to buy additional stock beyond the $1B stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/251215/p36#a251215p36)<!-- TECH:END -->
+ - [Sources: the US has paused a tech trade deal with the UK, signed in September, over disagreements about the UK&#39;s digital regulations and food safety rules &lpar;New York Times&rpar;](http://www.techmeme.com/251215/p43#a251215p43)
+ - [Silksong is getting a free expansion next year](https://www.theverge.com/news/845189/hollow-knight-silksong-sea-of-sorrow-dlc-expansion-switch-2)
+ - [Allen Institute for AI launches Bolmo 7B and Bolmo 1B, claiming they are &quot;the first fully open byte-level language models&quot;, built on its Olmo 3 models &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/251215/p42#a251215p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
