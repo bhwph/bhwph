@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
- - 😝 [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
- - 👉 [Such a nice lady!](http://9gag.com/gag/awy9RR1)<!-- MEMES:END -->
+ - 6️⃣ [Maybe we should follow in their footsteps](http://9gag.com/gag/aYQv9Aw)
+ - 😝 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
+ - 👉 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)<!-- MEMES:END -->
 
 --- 
 
