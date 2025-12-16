@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Such a nice lady!](http://9gag.com/gag/awy9RR1)
- - 😝 [KABOOM?](http://9gag.com/gag/aO8ngg3)
- - 👉 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)<!-- MEMES:END -->
+ - 6️⃣ [This is bait](http://9gag.com/gag/a5Q9mZV)
+ - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
+ - 👉 [KABOOM?](http://9gag.com/gag/aO8ngg3)<!-- MEMES:END -->
 
 --- 
 
