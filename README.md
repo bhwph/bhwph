@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Rivian founder and CEO RJ Scaringe on founding Rivian in 2009, production challenges, the VW partnership, autonomy, AI, EVs, chips, CarPlay, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251216/p15#a251216p15)
- - [Adobe updates Firefly&#39;s app to add a prompt-based video editor using Runway&#39;s Aleph model, and adds image and video models from Black Forest Labs and others &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251216/p14#a251216p14)
- - [Moto G Power 2026 lands with a beefier battery for your budget buck](https://www.androidauthority.com/moto-g-power-2026-announced-3625545/)<!-- TECH:END -->
+ - [Everything is gambling now](https://www.theverge.com/podcast/845198/prediction-markets-mcp-vergecast)
+ - [The cost-per-watt of compute for orbital solar data centers is $51.10/W vs. just $15.85/W for terrestrial sites; SpaceX is uniquely positioned to try orbital &lpar;Andrew McCalip&rpar;](http://www.techmeme.com/251216/p17#a251216p17)
+ - [Instagram is putting Reels on your TV](https://www.theverge.com/news/845124/instagram-reels-tv-app)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
