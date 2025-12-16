@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Classic british](http://9gag.com/gag/aBybq1N)
- - 😝 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
- - 👉 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)<!-- MEMES:END -->
+ - 6️⃣ [Well that escalated quickly](http://9gag.com/gag/aNDXmeA)
+ - 😝 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
+ - 👉 [Good job!](http://9gag.com/gag/aNDXmDK)<!-- MEMES:END -->
 
 --- 
 
