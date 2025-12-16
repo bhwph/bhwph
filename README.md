@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur: Expedition 33 gets another GOTY nomination at NY Game Awards](https://www.polygon.com/new-york-game-awards-goty-nominations-clair-obscur/)
- - [All silk spool fragment locations in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-spool-fragment-locations/)
- - [Bungie’s Marathon Resurfaces With $40 Price Tag And A March 2026 Release Date](https://kotaku.com/marathon-release-date-price-battle-pass-proximity-chat-2000653472)<!-- GAME:END -->
+ - [Silksong has sold more than 7 million copies in 3 months—and no, that&#39;s not counting Game Pass](https://www.pcgamer.com/games/action/silksong-has-sold-more-than-7-million-copies-in-3-months-and-no-thats-not-counting-game-pass/)
+ - [Hollow Knight: Silksong DLC is coming in 2026](https://www.polygon.com/hollow-knight-silksong-free-dlc-sea-of-sorrow-expansion/)
+ - [Bose QuietComfort Ultra Drops to New All-Time Low, Now Cheaper Than Basic QuietComfort Model​](https://kotaku.com/bose-quietcomfort-ultra-drops-to-new-all-time-low-now-cheaper-than-basic-quietcomfort-model-2000653515)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
