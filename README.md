@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Missing out, on what the world has to offer](http://9gag.com/gag/ayNmOrX)
- - 😝 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
- - 👉 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)<!-- MEMES:END -->
+ - 6️⃣ [Classic british](http://9gag.com/gag/aBybq1N)
+ - 😝 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
+ - 👉 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)<!-- MEMES:END -->
 
 --- 
 
