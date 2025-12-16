@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Silksong has sold more than 7 million copies in 3 months—and no, that&#39;s not counting Game Pass](https://www.pcgamer.com/games/action/silksong-has-sold-more-than-7-million-copies-in-3-months-and-no-thats-not-counting-game-pass/)
- - [Hollow Knight: Silksong DLC is coming in 2026](https://www.polygon.com/hollow-knight-silksong-free-dlc-sea-of-sorrow-expansion/)
- - [Bose QuietComfort Ultra Drops to New All-Time Low, Now Cheaper Than Basic QuietComfort Model​](https://kotaku.com/bose-quietcomfort-ultra-drops-to-new-all-time-low-now-cheaper-than-basic-quietcomfort-model-2000653515)<!-- GAME:END -->
+ - [How to complete Paving the Way in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-paving-the-way-enelica-building/)
+ - [Sony’s Final PlayStation VR2 Clearance for Holidays, Last Units Are Hitting Their Lowest Price Ever](https://kotaku.com/sonys-final-playstation-vr2-clearance-for-holidays-last-units-are-hitting-their-lowest-price-ever-2000653520)
+ - [Hollow Knight: Silksong‘s Sea Of Sorrows DLC Announced, Plus A Free Switch 2 Upgrade For The Original Game](https://kotaku.com/hollow-knight-silksong-dlc-sea-of-sorrows-switch-2-2000653816)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
