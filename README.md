@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Watch 4 finally gets a Google-approved charging alternative](https://www.androidauthority.com/pixel-watch-4-third-party-mous-charger-3625465/)
- - [CoreWeave&#39;s market value fell $33B in six weeks amid construction delays at its Denton, TX AI data center, criticism from short seller Jim Chanos, and more &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/251215/p45#a251215p45)
- - [OpenAI&#39;s chief communications officer Hannah Wong will leave in January; Wong joined in 2021 and led PR during Sam Altman&#39;s brief ouster and return in 2023 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251215/p44#a251215p44)<!-- TECH:END -->
+ - [Hoka Coupon Codes: 10% Off | December 2025](https://www.wired.com/story/hoka-coupon-code/)
+ - [60% HP Discount Codes &amp; Coupons December 2025](https://www.wired.com/story/hp-coupon-code/)
+ - [50% Off Chewy Promo Code | December 2025](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
