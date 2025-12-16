@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Larry Ellison&amp;#8217;s big dumb gift to his large adult son](https://www.theverge.com/entertainment/845532/larry-ellison-paramount-wb-netflix-takeover-oracle)
- - [Leona Health, maker of an AI-copilot that integrates with doctors&#39; WhatsApp accounts in LATAM to manage patient communications, raised a $14M seed led by a16z &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251216/p27#a251216p27)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)<!-- TECH:END -->
+ - [DJI Power 2000 Power Station drops back to Black Friday prices](https://www.androidauthority.com/dji-power-2000-power-station-deal-3625652/)
+ - [Hong Kong-based RedotPay, a fintech focused on stablecoin-based payments, raised a $107M Series B led by Goodwater Capital, bringing its total raised to ~$200M &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/251216/p32#a251216p32)
+ - [Larian’s CEO says the studio isn’t ‘trimming down teams to replace them with AI’](https://www.theverge.com/news/845713/larian-ceo-divinity-ai-swen-vincke)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
