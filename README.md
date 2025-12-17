@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonos Offloads Ace ANC Headphones With Spatial Audio, Apple and Bose Suddenly Look Overpriced](https://kotaku.com/sonos-offloads-ace-anc-headphones-with-spatial-audio-apple-and-bose-suddenly-look-overpriced-2000654149)
- - [Arc Raiders blueprints are easier to get than they&#39;ve ever been right now](https://www.polygon.com/arc-raiders-blueprint-drop-rate-increased/)
- - [Hades 2 is &#39;just more Hades&#39;, and you know what—good, more for me, I never liked my co-workers anyway &lpar;I say, coping through my teeth&rpar;](https://www.pcgamer.com/games/roguelike/hades-2-is-just-more-hades-and-you-know-what-good-more-for-me-i-never-liked-my-co-workers-anyway-i-say-coping-through-my-teeth/)<!-- GAME:END -->
+ - [Kingston sounds the SSD pricing alarm as the company has seen a 246% increase in NAND wafer prices, with the biggest increase &#39;within the last 60 days&#39;](https://www.pcgamer.com/hardware/memory/kingston-sounds-the-ssd-pricing-alarm-as-the-company-has-seen-a-246-percent-increase-in-nand-wafer-prices-with-the-biggest-increase-within-the-last-60-days/)
+ - [These Game Devs Want To Know How Many Dudes It Would Take To Fight 100 Toddlers](https://kotaku.com/how-many-dudes-crashlands-butterscotch-shenanigans-interview-2000652567)
+ - [Nvidia is reportedly looking to cut gaming GPU production by up to 40% in 2026 due to VRAM supply issues, but it&#39;s not as bad news as you might think. Not yet, at least](https://www.pcgamer.com/hardware/graphics-cards/nvidia-is-reportedly-looking-to-cut-gaming-gpu-production-by-up-to-40-percent-in-2026-due-to-vram-supply-issues-but-its-not-as-bad-news-as-you-might-think-not-yet-at-least/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
