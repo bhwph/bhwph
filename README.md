@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arctic&#39;s new MX-7 thermal paste looks seriously good and I&#39;m already regretting buying a ginormous tube of MX-4](https://www.pcgamer.com/hardware/arctics-new-mx-7-thermal-paste-looks-seriously-good-and-im-already-regretting-buying-a-ginormous-tube-of-mx-4/)
- - [Spider-Man: Brand New Day Trailer Leaks Days After Avengers: Doomsday’s](https://kotaku.com/spider-man-brand-new-day-trailer-leaks-avengers-doomsday-2000654144)
- - [Firefox is becoming an AI browser and the internet is not at all happy about it](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)<!-- GAME:END -->
+ - [Sonos Offloads Ace ANC Headphones With Spatial Audio, Apple and Bose Suddenly Look Overpriced](https://kotaku.com/sonos-offloads-ace-anc-headphones-with-spatial-audio-apple-and-bose-suddenly-look-overpriced-2000654149)
+ - [Arc Raiders blueprints are easier to get than they&#39;ve ever been right now](https://www.polygon.com/arc-raiders-blueprint-drop-rate-increased/)
+ - [Hades 2 is &#39;just more Hades&#39;, and you know what—good, more for me, I never liked my co-workers anyway &lpar;I say, coping through my teeth&rpar;](https://www.pcgamer.com/games/roguelike/hades-2-is-just-more-hades-and-you-know-what-good-more-for-me-i-never-liked-my-co-workers-anyway-i-say-coping-through-my-teeth/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
