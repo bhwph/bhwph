@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pornhub is being extorted by ShinyHunters after the search and watch history of its Premium members was reportedly stolen in a recent Mixpanel data breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/251217/p41#a251217p41)
- - [Video game hardware sales had a historically bad November in the US](https://www.theverge.com/news/846693/video-game-hardware-sales-november-2025-circana)
- - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)<!-- TECH:END -->
+ - [Micron reports Q1 revenue up 57% YoY to $13.64B, vs. $12.84B est., net income up 180% to $5.24B, and Q2 revenue forecast above est.; MU jumps 5%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251217/p44#a251217p44)
+ - [‘Wicked’ Director Jon M. Chu on ‘What Makes Art Beautiful’ in the AI Era](https://www.wired.com/story/uncanny-valley-podcast-wicked-director-jon-m-chu/)
+ - [Deals: Samsung Galaxy Z Fold 7 vs Google Pixel 10 Pro Fold](https://www.androidauthority.com/samsung-galaxy-z-fold-7-google-pixel-10-pro-fold-deals-3626136/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
