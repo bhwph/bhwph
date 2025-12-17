@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Peaceful Life and Such](http://9gag.com/gag/ayNA7vq)
- - 😝 [Every time. Every single time.](http://9gag.com/gag/a9yejZ1)
+ - 6️⃣ [Idk if it&#39;s a repost or not but I find this hilarious.](http://9gag.com/gag/agmby5q)
+ - 😝 [Peaceful Life and Such](http://9gag.com/gag/ayNA7vq)
  - 👉 [Fighting a zombie in a wheelchair](http://9gag.com/gag/aZZ499n)<!-- MEMES:END -->
 
 --- 
