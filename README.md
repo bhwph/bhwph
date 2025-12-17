@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Terminator: Survivors delayed indefinitely, axes multiplayer](https://www.polygon.com/terminator-survivors-delay-multiplayer-cancelled-announcement/)
- - [How to Ensure a Fun, Safe and Welcoming Gaming Experience for Your Kids on Xbox This Holiday Season](https://news.xbox.com/en-us/2025/12/17/xbox-family-settings-holiday-2025/)
- - [A location shown in Fallout Season 2 Episode 1 got me pointing at the screen like Leo—and it has nothing to do with New Vegas](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-1-locations/)<!-- GAME:END -->
+ - [Arctic&#39;s new MX-7 thermal paste looks seriously good and I&#39;m already regretting buying a ginormous tube of MX-4](https://www.pcgamer.com/hardware/arctics-new-mx-7-thermal-paste-looks-seriously-good-and-im-already-regretting-buying-a-ginormous-tube-of-mx-4/)
+ - [Spider-Man: Brand New Day Trailer Leaks Days After Avengers: Doomsday’s](https://kotaku.com/spider-man-brand-new-day-trailer-leaks-avengers-doomsday-2000654144)
+ - [Firefox is becoming an AI browser and the internet is not at all happy about it](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
