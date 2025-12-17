@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dimension 20: Gladlands trailer reveals a Mad Max-inspired world](https://www.polygon.com/dimension-20-gladlands-trailer-brennan-lee-mulligan-mad-max/)
- - [Six Xbox Game Pass titles to dive into during the holidays](https://www.pcgamer.com/games/six-xbox-game-pass-titles-to-dive-into-during-the-holidays/)
- - [Black Ops 7 was still the best-selling game of November](https://www.polygon.com/black-ops-7-november-2025-best-selling-game/)<!-- GAME:END -->
+ - [Arc Raiders’ Cold Snap Update Really Juiced The Blueprint Economy](https://kotaku.com/arc-raiders-cold-snap-update-blueprint-drop-rate-2000654257)
+ - [Everything You Need To Know About Animal Crossing: New Horizons’ Big Free Update](https://kotaku.com/everything-you-need-to-know-animal-crossing-kappn-update-switch-2-2000654252)
+ - [15 years ago, Tron: Legacy eliminated the coolest part of Tron](https://www.polygon.com/tron-legacy-15-year-anniversary/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
