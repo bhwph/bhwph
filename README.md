@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Failed hard](http://9gag.com/gag/aNDGyp3)
- - 😝 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
- - 👉 [Such a nice lady!](http://9gag.com/gag/awy9RR1)<!-- MEMES:END -->
+ - 6️⃣ [Giant snowman being constructed in Qunli music park in China](http://9gag.com/gag/a879d2p)
+ - 😝 [Grandpa living his best life, taking naps in the middle of his onion field](http://9gag.com/gag/aYQBN72)
+ - 👉 [So they&#39;re basically a hydraulic system?](http://9gag.com/gag/apRXEe5)<!-- MEMES:END -->
 
 --- 
 
