@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon 8 Elite Gen 5 or 10,000mAh battery? You won’t have to choose with this phone.](https://www.androidauthority.com/snapdragon-8-elite-gen-5-10000mah-phone-3625923/)
- - [More than 500 writers, actors, and technologists launch the Creators Coalition on AI to push standards for how AI is trained and used across creative industries &lpar;Chris Gardner/The Hollywood Reporter&rpar;](http://www.techmeme.com/251217/p8#a251217p8)
- - [Sources: Disney has been hesitant to license its IP to Roblox because it doesn&#39;t consider it a safe platform, bucking the trend followed by Netflix and others &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251217/p7#a251217p7)<!-- TECH:END -->
+ - [Monzo receives an Irish banking license, allowing the London-based digital lender to offer current and savings accounts across the EU &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/251217/p13#a251217p13)
+ - [Bhutan unveils a pledge of up to 10,000 bitcoin to develop Gelephu Mindfulness City; Arkham says Bhutan holds 5,984 bitcoin, ranking 7th among sovereign holders &lpar;Vismaya V/Decrypt&rpar;](http://www.techmeme.com/251217/p12#a251217p12)
+ - [Gemini for Home is horrible, and this video proves it](https://www.androidauthority.com/gemini-phone-home-video-comparison-3625958/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
