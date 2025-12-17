@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Feds say US big tech is targeted by unfair regulations overseas](https://appleinsider.com/articles/25/12/16/feds-say-us-big-tech-is-being-targed-by-unfair-regulations-overseas?utm_source=rss)
- - [Rad Power Bikes files for bankruptcy protection](https://www.theverge.com/news/846201/rad-power-bikes-chapter-11-bankruptcy)
- - [Android is fixing the most annoying part of taking scrolling screenshots](https://www.androidauthority.com/android-scrolling-screenshots-delete-original-3625827/)<!-- TECH:END -->
+ - [Need inspiration? Here are 7 last-minute gift ideas under $100 for techies](https://www.androidauthority.com/last-minute-gift-ideas-for-techies-3626033/)
+ - [Google makes Gemini 3 Flash the default model in Gemini app and Search&#39;s AI mode; it scored 33.7% without tool use on Humanity&#39;s Last Exam vs. GPT-5.2&#39;s 34.5% &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251217/p35#a251217p35)
+ - [Google unveils Gemini 3 Flash, which it says has Pro-grade reasoning with lower latency, outperforming 2.5 Pro &quot;while being 3x faster at a fraction of the cost&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251217/p34#a251217p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
