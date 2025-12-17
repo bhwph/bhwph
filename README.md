@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Mega Evolutions and Mega Stone locations in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-mega-evolutions-list-stones-locations/)
- - [There&#39;s a new Arc Raiders outfit you can only get by playing Embark&#39;s other game, The Finals](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-the-finals-outfit/)
- - [Steam Replay 2025 is live: I spent half my gaming time this year in Bongo Cat, and I regret nothing](https://www.pcgamer.com/games/steam-replay-2025-is-live-i-spent-half-my-gaming-time-this-year-in-bongo-cat-and-i-regret-nothing/)<!-- GAME:END -->
+ - [Arc Raiders players say blueprint drop rates have exploded after Cold Snap update: &#39;Blueprints everywhere!&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-players-say-blueprint-drop-rates-have-exploded-after-cold-snap-update-blueprints-everywhere/)
+ - [Ditch Your Old Soundbar for Good, Sonos Beam Hits Record Low One Week Before Christmas on Amazon](https://kotaku.com/ditch-your-old-soundbar-for-good-sonos-beam-hits-record-low-one-week-before-christmas-on-amazon-2000653981)
+ - [Todd Howard says he&#39;s been offered &#39;a whole bunch&#39; of cameos in the Fallout show but won&#39;t be tempted: &#39;I don&#39;t want to distract&#39;](https://www.pcgamer.com/games/fallout/todd-howard-says-hes-been-offered-a-whole-bunch-of-cameos-in-the-fallout-show-but-wont-be-tempted-i-dont-want-to-distract/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
