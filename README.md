@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Idk if it&#39;s a repost or not but I find this hilarious.](http://9gag.com/gag/agmby5q)
- - 😝 [Peaceful Life and Such](http://9gag.com/gag/ayNA7vq)
- - 👉 [Fighting a zombie in a wheelchair](http://9gag.com/gag/aZZ499n)<!-- MEMES:END -->
+ - 😝 [So they&#39;re basically a hydraulic system?](http://9gag.com/gag/apRXEe5)
+ - 👉 [Could you handle it](http://9gag.com/gag/axy8NVY)<!-- MEMES:END -->
 
 --- 
 
