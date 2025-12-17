@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
- - [Last-minute holiday deals: Apple Watch Series 11 $299, iPad $279, Mac from $479](https://appleinsider.com/articles/25/12/16/last-minute-holiday-deals-apple-watch-series-11-299-ipad-279-mac-from-479?utm_source=rss)
- - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
+ - [Even Trump’s chief of staff was ‘aghast’ at Elon Musk’s deadly USAID cuts](https://www.theverge.com/policy/846054/elon-musk-susie-wiles-doge-usaid)
+ - [Arcade1Up isn&amp;#8217;t dead, maybe](https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade)
+ - [Sources: New York-based data security startup Cyera is raising $400M led by Blackstone, valuing the company at $9B, up from $6B in June &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/251216/p38#a251216p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
