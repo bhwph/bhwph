@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingston sounds the SSD pricing alarm as the company has seen a 246% increase in NAND wafer prices, with the biggest increase &#39;within the last 60 days&#39;](https://www.pcgamer.com/hardware/memory/kingston-sounds-the-ssd-pricing-alarm-as-the-company-has-seen-a-246-percent-increase-in-nand-wafer-prices-with-the-biggest-increase-within-the-last-60-days/)
- - [These Game Devs Want To Know How Many Dudes It Would Take To Fight 100 Toddlers](https://kotaku.com/how-many-dudes-crashlands-butterscotch-shenanigans-interview-2000652567)
- - [Nvidia is reportedly looking to cut gaming GPU production by up to 40% in 2026 due to VRAM supply issues, but it&#39;s not as bad news as you might think. Not yet, at least](https://www.pcgamer.com/hardware/graphics-cards/nvidia-is-reportedly-looking-to-cut-gaming-gpu-production-by-up-to-40-percent-in-2026-due-to-vram-supply-issues-but-its-not-as-bad-news-as-you-might-think-not-yet-at-least/)<!-- GAME:END -->
+ - [Dimension 20: Gladlands trailer reveals a Mad Max-inspired world](https://www.polygon.com/dimension-20-gladlands-trailer-brennan-lee-mulligan-mad-max/)
+ - [Six Xbox Game Pass titles to dive into during the holidays](https://www.pcgamer.com/games/six-xbox-game-pass-titles-to-dive-into-during-the-holidays/)
+ - [Black Ops 7 was still the best-selling game of November](https://www.polygon.com/black-ops-7-november-2025-best-selling-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
