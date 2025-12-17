@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WBD recommends shareholders reject Paramount&#39;s unsolicited cash bid, calling the offer &quot;illusory&quot; and saying it believes Netflix&#39;s proposal is still superior &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251217/p21#a251217p21)
- - [How to Watch the Final Meteor Shower of 2025](https://www.wired.com/story/how-to-watch-the-ursids-meteor-shower/)
- - [People Are Paying to Get Their Chatbots High on ‘Drugs’](https://www.wired.com/story/people-are-paying-to-get-their-chatbots-high-on-drugs/)<!-- TECH:END -->
+ - [Feds say US big tech is targeted by unfair regulations overseas](https://appleinsider.com/articles/25/12/16/feds-say-us-big-tech-is-being-targed-by-unfair-regulations-overseas?utm_source=rss)
+ - [Rad Power Bikes files for bankruptcy protection](https://www.theverge.com/news/846201/rad-power-bikes-chapter-11-bankruptcy)
+ - [Android is fixing the most annoying part of taking scrolling screenshots](https://www.androidauthority.com/android-scrolling-screenshots-delete-original-3625827/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
