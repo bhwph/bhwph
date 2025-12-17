@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gg well played](http://9gag.com/gag/awy9qz8)
- - 😝 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
- - 👉 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)<!-- MEMES:END -->
+ - 6️⃣ [At least they have a black samurai..](http://9gag.com/gag/azxv6qx)
+ - 😝 [Failed hard](http://9gag.com/gag/aNDGyp3)
+ - 👉 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)<!-- MEMES:END -->
 
 --- 
 
