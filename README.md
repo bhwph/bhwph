@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Boooom head shot](http://9gag.com/gag/awyDNGD)
- - 😝 [No thanks I\u2019ll just die](http://9gag.com/gag/a34zVgQ)
+ - 6️⃣ [Good job!](http://9gag.com/gag/aNDXmDK)
+ - 😝 [Boooom head shot](http://9gag.com/gag/awyDNGD)
  - 👉 [KABOOM?](http://9gag.com/gag/aO8ngg3)<!-- MEMES:END -->
 
 --- 
