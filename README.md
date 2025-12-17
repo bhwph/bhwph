@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is bait](http://9gag.com/gag/a5Q9mZV)
- - 😝 [When he realizes..](http://9gag.com/gag/agmpMxn)
- - 👉 [Good job!](http://9gag.com/gag/aNDXmDK)<!-- MEMES:END -->
+ - 6️⃣ [Boooom head shot](http://9gag.com/gag/awyDNGD)
+ - 😝 [No thanks I\u2019ll just die](http://9gag.com/gag/a34zVgQ)
+ - 👉 [KABOOM?](http://9gag.com/gag/aO8ngg3)<!-- MEMES:END -->
 
 --- 
 
