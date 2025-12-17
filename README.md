@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Need inspiration? Here are 7 last-minute gift ideas under $100 for techies](https://www.androidauthority.com/last-minute-gift-ideas-for-techies-3626033/)
- - [Google makes Gemini 3 Flash the default model in Gemini app and Search&#39;s AI mode; it scored 33.7% without tool use on Humanity&#39;s Last Exam vs. GPT-5.2&#39;s 34.5% &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251217/p35#a251217p35)
- - [Google unveils Gemini 3 Flash, which it says has Pro-grade reasoning with lower latency, outperforming 2.5 Pro &quot;while being 3x faster at a fraction of the cost&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251217/p34#a251217p34)<!-- TECH:END -->
+ - [The Oscars will stream on YouTube in 2029](https://www.theverge.com/news/846560/youtube-the-oscars-streaming-2029)
+ - [Android is preparing a hub for all your satellite-connected apps](https://www.androidauthority.com/android-satellite-connectivity-app-hub-3626129/)
+ - [Grab Apple&#39;s M4 MacBook Air for $749, laptops start at just $409](https://appleinsider.com/articles/25/12/17/grab-apples-m4-macbook-air-for-749-laptops-start-at-just-409?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
