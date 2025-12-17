@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Monzo receives an Irish banking license, allowing the London-based digital lender to offer current and savings accounts across the EU &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/251217/p13#a251217p13)
- - [Bhutan unveils a pledge of up to 10,000 bitcoin to develop Gelephu Mindfulness City; Arkham says Bhutan holds 5,984 bitcoin, ranking 7th among sovereign holders &lpar;Vismaya V/Decrypt&rpar;](http://www.techmeme.com/251217/p12#a251217p12)
- - [Gemini for Home is horrible, and this video proves it](https://www.androidauthority.com/gemini-phone-home-video-comparison-3625958/)<!-- TECH:END -->
+ - [WBD recommends shareholders reject Paramount&#39;s unsolicited cash bid, calling the offer &quot;illusory&quot; and saying it believes Netflix&#39;s proposal is still superior &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251217/p21#a251217p21)
+ - [How to Watch the Final Meteor Shower of 2025](https://www.wired.com/story/how-to-watch-the-ursids-meteor-shower/)
+ - [People Are Paying to Get Their Chatbots High on ‘Drugs’](https://www.wired.com/story/people-are-paying-to-get-their-chatbots-high-on-drugs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
