@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ordinary Mongolian Child](http://9gag.com/gag/agmpRx6)
- - 😝 [Can you build a house for me](http://9gag.com/gag/axyepeK)
- - 👉 [I&#39;m today&#39;s society I think they should.](http://9gag.com/gag/aLn36L6)<!-- MEMES:END -->
+ - 6️⃣ [Gg well played](http://9gag.com/gag/awy9qz8)
+ - 😝 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
+ - 👉 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)<!-- MEMES:END -->
 
 --- 
 
