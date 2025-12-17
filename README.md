@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Oscars will stream on YouTube in 2029](https://www.theverge.com/news/846560/youtube-the-oscars-streaming-2029)
- - [Android is preparing a hub for all your satellite-connected apps](https://www.androidauthority.com/android-satellite-connectivity-app-hub-3626129/)
- - [Grab Apple&#39;s M4 MacBook Air for $749, laptops start at just $409](https://appleinsider.com/articles/25/12/17/grab-apples-m4-macbook-air-for-749-laptops-start-at-just-409?utm_source=rss)<!-- TECH:END -->
+ - [Pornhub is being extorted by ShinyHunters after the search and watch history of its Premium members was reportedly stolen in a recent Mixpanel data breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/251217/p41#a251217p41)
+ - [Video game hardware sales had a historically bad November in the US](https://www.theverge.com/news/846693/video-game-hardware-sales-november-2025-circana)
+ - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
