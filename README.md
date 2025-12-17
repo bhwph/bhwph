@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Giant snowman being constructed in Qunli music park in China](http://9gag.com/gag/a879d2p)
- - 😝 [Grandpa living his best life, taking naps in the middle of his onion field](http://9gag.com/gag/aYQBN72)
- - 👉 [So they&#39;re basically a hydraulic system?](http://9gag.com/gag/apRXEe5)<!-- MEMES:END -->
+ - 6️⃣ [Peaceful Life and Such](http://9gag.com/gag/ayNA7vq)
+ - 😝 [Every time. Every single time.](http://9gag.com/gag/a9yejZ1)
+ - 👉 [Fighting a zombie in a wheelchair](http://9gag.com/gag/aZZ499n)<!-- MEMES:END -->
 
 --- 
 
