@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Customer engagement service MoEngage raised $180M in a follow-on Series F, split into a $57M primary and $123M secondary round, weeks after raising $100M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251217/p5#a251217p5)
- - [Android TV just made free content impossible to miss](https://www.androidauthority.com/android-tv-discover-replacement-free-tab-3625908/)
- - [It’s taken a while, but this key NotebookLM feature is finally available for all](https://www.androidauthority.com/notebooklm-chat-history-rollout-3625900/)<!-- TECH:END -->
+ - [Snapdragon 8 Elite Gen 5 or 10,000mAh battery? You won’t have to choose with this phone.](https://www.androidauthority.com/snapdragon-8-elite-gen-5-10000mah-phone-3625923/)
+ - [More than 500 writers, actors, and technologists launch the Creators Coalition on AI to push standards for how AI is trained and used across creative industries &lpar;Chris Gardner/The Hollywood Reporter&rpar;](http://www.techmeme.com/251217/p8#a251217p8)
+ - [Sources: Disney has been hesitant to license its IP to Roblox because it doesn&#39;t consider it a safe platform, bucking the trend followed by Netflix and others &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251217/p7#a251217p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
