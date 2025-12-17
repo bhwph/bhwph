@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [At least they have a black samurai..](http://9gag.com/gag/azxv6qx)
- - 😝 [Failed hard](http://9gag.com/gag/aNDGyp3)
- - 👉 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)<!-- MEMES:END -->
+ - 6️⃣ [That kick!](http://9gag.com/gag/amoyq5j)
+ - 😝 [I&#39;m today&#39;s society I think they should.](http://9gag.com/gag/aLn36L6)
+ - 👉 [It ain&#39;t much, but it&#39;s a good start](http://9gag.com/gag/azxz7om)<!-- MEMES:END -->
 
 --- 
 
