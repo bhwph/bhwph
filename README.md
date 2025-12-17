@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arc Raiders’ Cold Snap Update Really Juiced The Blueprint Economy](https://kotaku.com/arc-raiders-cold-snap-update-blueprint-drop-rate-2000654257)
- - [Everything You Need To Know About Animal Crossing: New Horizons’ Big Free Update](https://kotaku.com/everything-you-need-to-know-animal-crossing-kappn-update-switch-2-2000654252)
- - [15 years ago, Tron: Legacy eliminated the coolest part of Tron](https://www.polygon.com/tron-legacy-15-year-anniversary/)<!-- GAME:END -->
+ - [Here Are 10 Great RPGs You Can Add To Your Collection For Surprisingly Cheap](https://kotaku.com/rpg-sale-cheap-ff12-kingdom-come-2-ps5-switch-2000653958)
+ - [How to evolve Inkay in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-inkay-evolve-malamar-how-to/)
+ - [Why you need to watch The Shining before It: Welcome to Derry](https://www.polygon.com/it-welcome-derry-stephen-king-movie-the-shining/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
