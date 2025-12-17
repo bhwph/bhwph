@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adaptive Security, which uses AI to simulate social engineering attacks and help companies prevent them, raised an $81M Series B led by Bain Capital Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251216/p41#a251216p41)
- - [How to stop your iPhone alarm from going off without sound in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-stop-your-iphone-alarm-from-going-off-without-sound-in-ios-26?utm_source=rss)
- - [You can now build AI-powered mini apps directly from Gemini](https://www.androidauthority.com/gemini-opal-mini-apps-3625879/)<!-- TECH:END -->
+ - [Customer engagement service MoEngage raised $180M in a follow-on Series F, split into a $57M primary and $123M secondary round, weeks after raising $100M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251217/p5#a251217p5)
+ - [Android TV just made free content impossible to miss](https://www.androidauthority.com/android-tv-discover-replacement-free-tab-3625908/)
+ - [It’s taken a while, but this key NotebookLM feature is finally available for all](https://www.androidauthority.com/notebooklm-chat-history-rollout-3625900/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
