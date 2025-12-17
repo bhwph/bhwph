@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Boooom head shot](http://9gag.com/gag/awyDNGD)
+ - 6️⃣ [Failed hard](http://9gag.com/gag/aNDGyp3)
  - 😝 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
- - 👉 [Failed hard](http://9gag.com/gag/aNDGyp3)<!-- MEMES:END -->
+ - 👉 [Such a nice lady!](http://9gag.com/gag/awy9RR1)<!-- MEMES:END -->
 
 --- 
 
