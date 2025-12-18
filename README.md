@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s every new feature for Pixel phones in Android 16 QPR3 Beta 1](https://www.androidauthority.com/android-16-qpr3-beta-1-features-3625332/)
- - [Android 16’s final quarterly beta is here for Pixel phones](https://www.androidauthority.com/android-16-qpr3-beta-1-release-3616907/)
- - [New third-party iOS App Stores in Japan preserve user privacy, child safety](https://appleinsider.com/articles/25/12/18/new-third-party-ios-app-stores-in-japan-preserve-user-privacy-child-safety?utm_source=rss)<!-- TECH:END -->
+ - [Google continues its desktop push by letting Android 16 QPR3 cast external displays](https://www.androidauthority.com/android-16-qpr3-cast-external-displays-3626239/)
+ - [Paying for YouTube Premium? Google’s giving you 40% off the Pixel 10 series](https://www.androidauthority.com/youtube-premium-pixel-10-discount-3626217/)
+ - [Android 16 QPR3 finally lets you see exactly which app is tracking your location](https://www.androidauthority.com/android-16-qpr3-location-indicator-3626212/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
