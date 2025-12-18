@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We&#39;re all big fans of Walton&#39;: Walton Goggins reprised his role as the Ghoul for Fallout 76&#39;s latest expansion, and it was a big hit among the devs](https://www.pcgamer.com/games/fallout/were-all-big-fans-of-walton-walton-goggins-reprised-his-role-as-the-ghoul-for-fallout-76s-latest-expansion-and-it-was-a-big-hit-among-the-devs/)
- - [Forget Mac Mini, Amazon’s 4.5-Star Gaming Mini PC Just Hit All-Time Low and Extra Coupon Makes It Even Cheaper](https://kotaku.com/forget-mac-mini-amazons-4-5-star-gaming-mini-pc-just-hit-all-time-low-and-extra-coupon-makes-it-even-cheaper-2000654507)
- - [Helldivers 2: Festival of Reckoning launches Dec 18](https://blog.playstation.com/2025/12/18/helldivers-2-festival-of-reckoning-launches-dec-18/)<!-- GAME:END -->
+ - [How to shiny hunt in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-shiny-hunting-reset-how-to/)
+ - [Swen Vincke promises an AMA to clear up Larian&#39;s use of generative AI: &#39;You’ll get the opportunity to ask us any questions you have about Divinity and our dev process directly&#39;](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/)
+ - [Miller&#39;s Crossing at 35: The Coen Brothers&#39; movie-nerd gangster fantasia](https://www.polygon.com/millers-crossing-35-coen-brothers-gangster-movie/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
