@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Relatable](http://9gag.com/gag/aAy7Rbg)
- - 😝 [The Earth&#39;s rotation is truly amazing](http://9gag.com/gag/aXPz0RV)
- - 👉 [Javier](http://9gag.com/gag/aQzKqv7)<!-- MEMES:END -->
+ - 6️⃣ [Judge can&#39;t belive his eys](http://9gag.com/gag/aByM9M2)
+ - 😝 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
+ - 👉 [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)<!-- MEMES:END -->
 
 --- 
 
