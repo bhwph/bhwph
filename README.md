@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Salient, which uses AI to automate loan servicing, raised $10M following a $60M Series A in June, pushing its valuation to ~$500M; its ARR hit $25M &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/251218/p42#a251218p42)
- - [Instacart will pay $60M to settle FTC allegations that it used deceptive tactics in its subscription signup and &quot;satisfaction guarantee&quot; advertising &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251218/p41#a251218p41)
- - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/tech/800440/best-gifts-under-100-2025)<!-- TECH:END -->
+ - [Steam’s annual winter sale is here — these are the best games to get](https://www.theverge.com/gadgets/846242/best-steam-winter-sale-game-deals)
+ - [Sources: Meta is developing a new image and video-focused AI model codenamed Mango, expected to be released in H1 2026 along with its new LLM dubbed Avocado &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/251218/p46#a251218p46)
+ - [OpenAI and Anthropic will start predicting when users are underage](https://www.theverge.com/news/847780/openai-anthropic-teen-safety-chatgpt-claude)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
