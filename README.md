@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Javier](http://9gag.com/gag/aQzKqv7)
- - 😝 [Damn, that&#39;s interesting](http://9gag.com/gag/aGyqY07)
- - 👉 [Epic transformation](http://9gag.com/gag/a2vVN9w)<!-- MEMES:END -->
+ - 6️⃣ [Damn, that&#39;s interesting](http://9gag.com/gag/aGyqY07)
+ - 😝 [Cerro El Cono: a strange and mystical mountain deep in the Amazon](http://9gag.com/gag/aoy6zL0)
+ - 👉 [Playing with a blue-ringed octopus is a death wish](http://9gag.com/gag/aByMREN)<!-- MEMES:END -->
 
 --- 
 
