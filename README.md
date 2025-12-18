@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Sweeney says Fortnite will not return to iOS in Japan in 2025, as Apple is &quot;charging a competition-crushing 21% junk fee on third-party in-app payments&quot; &lpar;Tim Sweeney/@timsweeneyepic&rpar;](http://www.techmeme.com/251218/p7#a251218p7)
- - [In a letter, Rocket Internet minority shareholder Scherzer &amp; Co accuses the company of marking down startup valuations to buy out backers at &quot;bargain prices&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/251218/p6#a251218p6)
- - [Manus says it crossed $100M ARR eight months after launch and is growing at 20%+ MoM since Manus 1.5&#39;s release; its total revenue run rate is now over $125M &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/251218/p5#a251218p5)<!-- TECH:END -->
+ - [Sources detail how Tiger Global fueled the COVID-era unicorn bubble that burst ahead of the AI boom; the firm recently shared its $12.7B 2021 fund is now up 16% &lpar;Issie Lapowsky/Rest of World&rpar;](http://www.techmeme.com/251218/p12#a251218p12)
+ - [Filing: Sony and Tencent reach a &quot;confidential settlement&quot; over Tencent&#39;s Light of Motiram, a game that Sony alleged was a &quot;slavish clone&quot; of its Horizon series &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251218/p11#a251218p11)
+ - [Never mind the S26 Ultra, this eagerly anticipated Ultra phone is launching next week](https://www.androidauthority.com/xiaomi-17-ultra-launch-confirmed-3626261/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
