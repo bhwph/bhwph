@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google continues its desktop push by letting Android 16 QPR3 cast external displays](https://www.androidauthority.com/android-16-qpr3-cast-external-displays-3626239/)
- - [Paying for YouTube Premium? Google’s giving you 40% off the Pixel 10 series](https://www.androidauthority.com/youtube-premium-pixel-10-discount-3626217/)
- - [Android 16 QPR3 finally lets you see exactly which app is tracking your location](https://www.androidauthority.com/android-16-qpr3-location-indicator-3626212/)<!-- TECH:END -->
+ - [The ChatGPT app store is here](https://www.theverge.com/news/847067/openai-app-store-directory-sdk-chatgpt)
+ - [How Apple is helping filmmakers and developers create immersive media for the Vision Pro and share best practices &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/251217/p52#a251217p52)
+ - [Sony&amp;#8217;s legal battle against Tencent&amp;#8217;s Horizon ‘clone’ is already over](https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
