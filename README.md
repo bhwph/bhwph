@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Documents: OpenAI has sold 700K+ ChatGPT licenses to ~35 US public universities for students and faculty, who used it 14M+ times in September, beating Copilot &lpar;Bloomberg&rpar;](http://www.techmeme.com/251218/p24#a251218p24)
- - [New iMac with OLED display may launch in 2027](https://appleinsider.com/articles/25/12/18/new-imac-with-oled-display-may-launch-in-2027?utm_source=rss)
- - [Turning off Nothing’s Lock Glimpse feature might actually make things worse](https://www.androidauthority.com/nothing-os-lock-glimpse-battery-life-issue-3626308/)<!-- TECH:END -->
+ - [Boat rental services Boatsetter and GetMyBoat plan to merge; Boatsetter CEO Michael Farb says the combined company is set to have $100M+ in bookings in 2025 &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/251218/p28#a251218p28)
+ - [9 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [Opposed to Data Centers? The Working Families Party Wants You to Run for Office](https://www.wired.com/story/opposed-to-data-centers-the-working-families-party-wants-you-to-run-for-office/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
