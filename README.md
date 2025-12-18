@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happy birthday](http://9gag.com/gag/agmby8n)
- - 😝 [Show me what you got!](http://9gag.com/gag/aAy7YyR)
- - 👉 [Epic transformation](http://9gag.com/gag/a2vVN9w)<!-- MEMES:END -->
+ - 6️⃣ [Mother taking her baby girl for a stroll](http://9gag.com/gag/a6ZzmQm)
+ - 😝 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
+ - 👉 [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)<!-- MEMES:END -->
 
 --- 
 
