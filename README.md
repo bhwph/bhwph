@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Micron reports Q1 revenue up 57% YoY to $13.64B, vs. $12.84B est., net income up 180% to $5.24B, and Q2 revenue forecast above est.; MU jumps 5%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251217/p44#a251217p44)
- - [‘Wicked’ Director Jon M. Chu on ‘What Makes Art Beautiful’ in the AI Era](https://www.wired.com/story/uncanny-valley-podcast-wicked-director-jon-m-chu/)
- - [Deals: Samsung Galaxy Z Fold 7 vs Google Pixel 10 Pro Fold](https://www.androidauthority.com/samsung-galaxy-z-fold-7-google-pixel-10-pro-fold-deals-3626136/)<!-- TECH:END -->
+ - [Here’s every new feature for Pixel phones in Android 16 QPR3 Beta 1](https://www.androidauthority.com/android-16-qpr3-beta-1-features-3625332/)
+ - [Android 16’s final quarterly beta is here for Pixel phones](https://www.androidauthority.com/android-16-qpr3-beta-1-release-3616907/)
+ - [New third-party iOS App Stores in Japan preserve user privacy, child safety](https://appleinsider.com/articles/25/12/18/new-third-party-ios-app-stores-in-japan-preserve-user-privacy-child-safety?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
