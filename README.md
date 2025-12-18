@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why Asians have to make everything about Kung Fu](http://9gag.com/gag/aYQBNm0)
- - 😝 [Happy birthday](http://9gag.com/gag/agmby8n)
+ - 6️⃣ [Happy birthday](http://9gag.com/gag/agmby8n)
+ - 😝 [Show me what you got!](http://9gag.com/gag/aAy7YyR)
  - 👉 [Epic transformation](http://9gag.com/gag/a2vVN9w)<!-- MEMES:END -->
 
 --- 
