@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iRobot’s bankruptcy isn’t the end — it’s a reboot, says its CEO](https://www.theverge.com/report/847340/irobot-bankruptcy-reset-interview-ceo-gary-cohen)
- - [How Atlas Obscura plans to embrace the 3D web](https://www.theverge.com/column/847182/atlas-obscura-society-3d-virtual-lounge)
- - [Rivian launches Universal Hands-Free driving for second-generation R1 EVs, expanding coverage from 135,000 highway miles to 3.5M+ miles across the US and Canada &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/251218/p31#a251218p31)<!-- TECH:END -->
+ - [AirPods Pro 3 are back down to $199 &lpar;$50 off&rpar; at Amazon](https://appleinsider.com/articles/25/12/18/airpods-pro-3-are-back-down-to-199-50-off-at-amazon?utm_source=rss)
+ - [Riot Games found a motherboard security flaw that helps PC cheaters](https://www.theverge.com/news/847539/riot-games-motherboard-security-flaw-pc-cheaters-anti-cheat)
+ - [Netflix hires ESPN anchor Elle Duncan as its first on-air host for live sports and cultural events; she has appeared on SportsCenter, College GameDay, and more &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251218/p36#a251218p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
