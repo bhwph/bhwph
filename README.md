@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Damn, that&#39;s interesting](http://9gag.com/gag/aGyqY07)
- - 😝 [Cerro El Cono: a strange and mystical mountain deep in the Amazon](http://9gag.com/gag/aoy6zL0)
+ - 6️⃣ [The Marvels Of Modern Medical Science](http://9gag.com/gag/aqyO92Y)
+ - 😝 [Tinkerbell actress at Disneyland](http://9gag.com/gag/aqyO94Z)
  - 👉 [Playing with a blue-ringed octopus is a death wish](http://9gag.com/gag/aByMREN)<!-- MEMES:END -->
 
 --- 
