@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wikiflix offers up the classics for all to enjoy: 4,000 public domain movies from the last 100 years—and I want games to get the same treatment](https://www.pcgamer.com/hardware/wikiflix-offers-up-the-classics-for-all-to-enjoy-4-000-public-domain-movies-from-the-last-100-years-and-i-want-games-to-get-the-same-treatment/)
- - [Welcome to Your New ROG Xbox Ally: Essential Tips for Getting Started](https://news.xbox.com/en-us/2025/12/18/rog-xbox-ally-handheld-essential-tips-getting-started/)
- - [Analyst firm says the games market is expected to reach a record-breaking $197 billion by the end of 2025, &#39;driven primarily by stronger-than-expected performance on PC and mobile&#39;](https://www.pcgamer.com/gaming-industry/analyst-firm-says-the-games-market-is-expected-to-reach-a-record-breaking-usd197-billion-by-the-end-of-2025-driven-primarily-by-stronger-than-expected-performance-on-pc-and-mobile/)<!-- GAME:END -->
+ - [Apple Clears Out Beats Studio Pro at Nearly 50% Off as AirPods Max Remain Full Price](https://kotaku.com/apple-clears-out-beats-studio-pro-at-nearly-50-off-as-airpods-max-remain-full-price-2000654289)
+ - [Add it to the pile: G.Skill issues statement on surging DRAM memory prices and the company totally blames AI](https://www.pcgamer.com/hardware/memory/add-it-to-the-pile-g-skill-issues-statement-on-surging-dram-memory-prices-and-totally-blames-ai/)
+ - [Samsung Galaxy Tab A9+ Just Crashed Past Yesterday’s Record Low After Another Sudden Price Drop](https://kotaku.com/samsung-galaxy-tab-a9-just-crashed-past-yesterdays-record-low-after-another-sudden-price-drop-2000654337)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
