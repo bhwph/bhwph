@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boat rental services Boatsetter and GetMyBoat plan to merge; Boatsetter CEO Michael Farb says the combined company is set to have $100M+ in bookings in 2025 &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/251218/p28#a251218p28)
- - [9 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [Opposed to Data Centers? The Working Families Party Wants You to Run for Office](https://www.wired.com/story/opposed-to-data-centers-the-working-families-party-wants-you-to-run-for-office/)<!-- TECH:END -->
+ - [iRobot’s bankruptcy isn’t the end — it’s a reboot, says its CEO](https://www.theverge.com/report/847340/irobot-bankruptcy-reset-interview-ceo-gary-cohen)
+ - [How Atlas Obscura plans to embrace the 3D web](https://www.theverge.com/column/847182/atlas-obscura-society-3d-virtual-lounge)
+ - [Rivian launches Universal Hands-Free driving for second-generation R1 EVs, expanding coverage from 135,000 highway miles to 3.5M+ miles across the US and Canada &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/251218/p31#a251218p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
