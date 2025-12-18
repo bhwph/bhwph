@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ChatGPT app store is here](https://www.theverge.com/news/847067/openai-app-store-directory-sdk-chatgpt)
- - [How Apple is helping filmmakers and developers create immersive media for the Vision Pro and share best practices &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/251217/p52#a251217p52)
- - [Sony&amp;#8217;s legal battle against Tencent&amp;#8217;s Horizon ‘clone’ is already over](https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement)<!-- TECH:END -->
+ - [Tim Sweeney says Fortnite will not return to iOS in Japan in 2025, as Apple is &quot;charging a competition-crushing 21% junk fee on third-party in-app payments&quot; &lpar;Tim Sweeney/@timsweeneyepic&rpar;](http://www.techmeme.com/251218/p7#a251218p7)
+ - [In a letter, Rocket Internet minority shareholder Scherzer &amp; Co accuses the company of marking down startup valuations to buy out backers at &quot;bargain prices&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/251218/p6#a251218p6)
+ - [Manus says it crossed $100M ARR eight months after launch and is growing at 20%+ MoM since Manus 1.5&#39;s release; its total revenue run rate is now over $125M &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/251218/p5#a251218p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
