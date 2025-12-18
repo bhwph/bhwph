@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)
- - 😝 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
- - 👉 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)<!-- MEMES:END -->
+ - 6️⃣ [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
+ - 😝 [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)
+ - 👉 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)<!-- MEMES:END -->
 
 --- 
 
