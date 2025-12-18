@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 3 are back down to $199 &lpar;$50 off&rpar; at Amazon](https://appleinsider.com/articles/25/12/18/airpods-pro-3-are-back-down-to-199-50-off-at-amazon?utm_source=rss)
- - [Riot Games found a motherboard security flaw that helps PC cheaters](https://www.theverge.com/news/847539/riot-games-motherboard-security-flaw-pc-cheaters-anti-cheat)
- - [Netflix hires ESPN anchor Elle Duncan as its first on-air host for live sports and cultural events; she has appeared on SportsCenter, College GameDay, and more &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251218/p36#a251218p36)<!-- TECH:END -->
+ - [Sources: Salient, which uses AI to automate loan servicing, raised $10M following a $60M Series A in June, pushing its valuation to ~$500M; its ARR hit $25M &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/251218/p42#a251218p42)
+ - [Instacart will pay $60M to settle FTC allegations that it used deceptive tactics in its subscription signup and &quot;satisfaction guarantee&quot; advertising &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251218/p41#a251218p41)
+ - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/tech/800440/best-gifts-under-100-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
