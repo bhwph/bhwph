@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As an Android fan, here’s why the iPhone 17 was 2025’s most important smartphone](https://www.androidauthority.com/iphone-17-2025-most-important-smartphone-android-fan-why-3626021/)
- - [FCC Chairman Brendan Carr tells a Senate committee the FCC &quot;is not an independent agency&quot;; the agency removed &quot;independent agency&quot; from its site as he testified &lpar;Axios&rpar;](http://www.techmeme.com/251218/p15#a251218p15)
- - [Google’s making an annoying change to how you uninstall system app updates &lpar;Updated: Reverted back&rpar;](https://www.androidauthority.com/google-play-store-uninstall-button-2-3624705/)<!-- TECH:END -->
+ - [Documents: OpenAI has sold 700K+ ChatGPT licenses to ~35 US public universities for students and faculty, who used it 14M+ times in September, beating Copilot &lpar;Bloomberg&rpar;](http://www.techmeme.com/251218/p24#a251218p24)
+ - [New iMac with OLED display may launch in 2027](https://appleinsider.com/articles/25/12/18/new-imac-with-oled-display-may-launch-in-2027?utm_source=rss)
+ - [Turning off Nothing’s Lock Glimpse feature might actually make things worse](https://www.androidauthority.com/nothing-os-lock-glimpse-battery-life-issue-3626308/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
