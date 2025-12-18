@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Idk if it&#39;s a repost or not but I find this hilarious.](http://9gag.com/gag/agmby5q)
- - 😝 [So they&#39;re basically a hydraulic system?](http://9gag.com/gag/apRXEe5)
- - 👉 [Could you handle it](http://9gag.com/gag/axy8NVY)<!-- MEMES:END -->
+ - 6️⃣ [Damn, that&#39;s interesting](http://9gag.com/gag/aGyqY07)
+ - 😝 [Why Asians have to make everything about Kung Fu](http://9gag.com/gag/aYQBNm0)
+ - 👉 [Cerro El Cono: a strange and mystical mountain deep in the Amazon](http://9gag.com/gag/aoy6zL0)<!-- MEMES:END -->
 
 --- 
 
