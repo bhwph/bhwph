@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple Clears Out Beats Studio Pro at Nearly 50% Off as AirPods Max Remain Full Price](https://kotaku.com/apple-clears-out-beats-studio-pro-at-nearly-50-off-as-airpods-max-remain-full-price-2000654289)
- - [Add it to the pile: G.Skill issues statement on surging DRAM memory prices and the company totally blames AI](https://www.pcgamer.com/hardware/memory/add-it-to-the-pile-g-skill-issues-statement-on-surging-dram-memory-prices-and-totally-blames-ai/)
- - [Samsung Galaxy Tab A9+ Just Crashed Past Yesterday’s Record Low After Another Sudden Price Drop](https://kotaku.com/samsung-galaxy-tab-a9-just-crashed-past-yesterdays-record-low-after-another-sudden-price-drop-2000654337)<!-- GAME:END -->
+ - [&#39;We&#39;re all big fans of Walton&#39;: Walton Goggins reprised his role as the Ghoul for Fallout 76&#39;s latest expansion, and it was a big hit among the devs](https://www.pcgamer.com/games/fallout/were-all-big-fans-of-walton-walton-goggins-reprised-his-role-as-the-ghoul-for-fallout-76s-latest-expansion-and-it-was-a-big-hit-among-the-devs/)
+ - [Forget Mac Mini, Amazon’s 4.5-Star Gaming Mini PC Just Hit All-Time Low and Extra Coupon Makes It Even Cheaper](https://kotaku.com/forget-mac-mini-amazons-4-5-star-gaming-mini-pc-just-hit-all-time-low-and-extra-coupon-makes-it-even-cheaper-2000654507)
+ - [Helldivers 2: Festival of Reckoning launches Dec 18](https://blog.playstation.com/2025/12/18/helldivers-2-festival-of-reckoning-launches-dec-18/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
