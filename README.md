@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)
- - 😝 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
- - 👉 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)<!-- MEMES:END -->
+ - 6️⃣ [Why Asians have to make everything about Kung Fu](http://9gag.com/gag/aYQBNm0)
+ - 😝 [Happy birthday](http://9gag.com/gag/agmby8n)
+ - 👉 [Epic transformation](http://9gag.com/gag/a2vVN9w)<!-- MEMES:END -->
 
 --- 
 
