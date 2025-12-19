@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who owns Trump Mobile?](https://www.theverge.com/tech/848029/trump-mobile-ownership-structure-licensing)
- - [The Fujifilm Instax Mini 12 instant camera is a great gift at $74](https://www.theverge.com/gadgets/847732/fujifilm-instax-mini-12-camera-8bitdo-pro-3-controller-deal-sale)
- - [The TikTok deal is the worst of all possible outcomes, shifting ownership of TikTok to Trump&#39;s allies, while maintaining the supposed problematic links to China &lpar;Karl Bode/Techdirt&rpar;](http://www.techmeme.com/251219/p16#a251219p16)<!-- TECH:END -->
+ - [Netflix is acquiring an avatar company as it moves into party games](https://www.theverge.com/news/848252/netflix-avatar-company-ready-player-me-acquisition)
+ - [Don’t expect Trump Media’s nuclear fusion power plant to generate electricity soon](https://www.theverge.com/report/848205/nuclear-fusion-energy-trump-media-tae)
+ - [Google’s no longer going to force everyone off Assistant by the end of the year](https://www.androidauthority.com/gemini-transition-deadline-3626827/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
