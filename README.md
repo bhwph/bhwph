@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
- - 😝 [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)
- - 👉 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)<!-- MEMES:END -->
+ - 6️⃣ [That girl is more composed than any adult I know](http://9gag.com/gag/aXPzpMV)
+ - 😝 [Old cartoons](http://9gag.com/gag/agmbvAw)
+ - 👉 [A very tired owl at sea, comes to rest](http://9gag.com/gag/a2vVYOD)<!-- MEMES:END -->
 
 --- 
 
