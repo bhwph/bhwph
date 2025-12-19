@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is that video fake? Gemini’s new update aims to solve the AI slop problem](https://www.androidauthority.com/gemini-video-synthid-detection-3626640/)
- - [A Starlink satellite seems to have exploded](https://www.theverge.com/news/847891/a-starlink-satellite-seems-to-have-exploded)
- - [Galaxy Z Fold 8 camera specs leak, and Samsung’s finally on an upgrade streak](https://www.androidauthority.com/samsung-galaxy-z-fold-8-camera-specs-leak-3626630/)<!-- TECH:END -->
+ - [Survey reveals which hidden Pixel camera setting is your favorite](https://www.androidauthority.com/google-pixel-camera-settings-poll-result-3626674/)
+ - [Samsung’s latest Theme Park update puts new theming powers in your hands](https://www.androidauthority.com/samsung-good-lock-theme-park-update-3626643/)
+ - [Did you know: Samsung builds ships and owns a theme park](https://www.androidauthority.com/did-you-know-samsung-ships-theme-park-3625586/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
