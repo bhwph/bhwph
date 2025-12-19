@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I dio miss the old days](http://9gag.com/gag/a0eG9gq)
- - 😝 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
- - 👉 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)<!-- MEMES:END -->
+ - 6️⃣ [Epic transformation](http://9gag.com/gag/a2vVN9w)
+ - 😝 [I found it, S7 E8](http://9gag.com/gag/avyVZNZ)
+ - 👉 [Hope she feels okay now](http://9gag.com/gag/aPA0voV)<!-- MEMES:END -->
 
 --- 
 
