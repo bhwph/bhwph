@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam’s annual winter sale is here — these are the best games to get](https://www.theverge.com/gadgets/846242/best-steam-winter-sale-game-deals)
- - [Sources: Meta is developing a new image and video-focused AI model codenamed Mango, expected to be released in H1 2026 along with its new LLM dubbed Avocado &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/251218/p46#a251218p46)
- - [OpenAI and Anthropic will start predicting when users are underage](https://www.theverge.com/news/847780/openai-anthropic-teen-safety-chatgpt-claude)<!-- TECH:END -->
+ - [TikTok ban: all the news on the app’s shutdown and return in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)
+ - [Asus ProArt PA32QCV Display review: Big screen for big creative work](https://appleinsider.com/articles/25/12/19/asus-proart-pa32qcv-display-review-big-screen-for-big-creative-work?utm_source=rss)
+ - [Sources: Riot Games is working on a major overhaul of League of Legends, internally called League Next, for 2027; Riot confirms a big update is in the works &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/251218/p52#a251218p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
