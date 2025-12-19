@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
- - 😝 [Testing romance novels](http://9gag.com/gag/a879Y8e)
- - 👉 [Business days](http://9gag.com/gag/ayNA5pb)<!-- MEMES:END -->
+ - 6️⃣ [Testing romance novels](http://9gag.com/gag/a879Y8e)
+ - 😝 [Yep...She&#39;s real elf...](http://9gag.com/gag/abAoqVr)
+ - 👉 [&#39;sup, human?](http://9gag.com/gag/aO8OyMD)<!-- MEMES:END -->
 
 --- 
 
