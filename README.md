@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 14 Best Sexy Gifts for Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/best-sexy-gift/)
- - [Court will reconsider App Store class action case worth billions](https://appleinsider.com/articles/25/12/19/court-will-reconsider-app-store-class-action-case-worth-billions?utm_source=rss)
- - [The OnePlus 15 just landed in the US, and it puts your phone’s battery to shame](https://www.androidauthority.com/oneplus-15-us-launch-3626724/)<!-- TECH:END -->
+ - [Sources: Google has formed a new executive council to allocate computing capacity given a critical shortage; members include Thomas Kurian and Demis Hassabis &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/251219/p10#a251219p10)
+ - [Automated Holiday Party Ideas &lpar;2025&rpar;: Ninja, HP Sprocket, Cricut](https://www.wired.com/story/automated-holiday-party-ideas/)
+ - [Six or seven iPhones a year, new iMac Pro, and low-cost MacBooks on the AppleInsider Podcast](https://appleinsider.com/articles/25/12/19/six-or-seven-iphones-a-year-new-imac-pro-and-low-cost-macbooks-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
