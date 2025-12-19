@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [11 Of This Year’s Best Indie Games That Are Deeply Discounted In The Steam Winter Sale](https://kotaku.com/steam-sale-2025-best-indie-games-2000654842)
- - [Pluribus episode 8 answered the series&#39; biggest question. Vince Gilligan explains.](https://www.polygon.com/pluribus-episode-8-recap-reveal-vince-gilligan-interview/)
- - [Getting Started with Xbox Cloud Gaming](https://news.xbox.com/en-us/2025/12/19/getting-started-with-xbox-cloud-gaming/)<!-- GAME:END -->
+ - [That Time I Got Reincarnated as a Slime season 4 gets a huge update](https://www.polygon.com/that-time-i-got-reincarnated-as-a-slime-season-4-release-date-update/)
+ - [Switch 2 Dev Explains Why It’s Ditching Game Key Cards Thanks To Nintendo](https://kotaku.com/switch-2-dev-explains-why-its-ditching-game-key-cards-thanks-to-nintendo-2000654878)
+ - [Avatar has eclipsed Star Wars as a family saga](https://www.polygon.com/avatar-vs-star-wars-family-themes-luke-darth-vader-jake-sully/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
