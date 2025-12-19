@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You won&#39;t be able to play Valorant until you update your motherboard BIOS: &#39;this is a necessary step in our arms race against hardware cheats&#39;](https://www.pcgamer.com/hardware/motherboards/you-wont-be-able-to-play-valorant-until-you-update-your-motherboard-bios-this-is-a-necessary-step-in-our-arms-race-against-hardware-cheats/)
- - [Samsung’s 57″ Odyssey Curved Gaming Monitor Hits a Record Low With Nearly $1,000 Off in a Year-End Clearance Deal](https://kotaku.com/samsungs-57-odyssey-curved-gaming-monitor-hits-a-record-low-with-nearly-1000-off-in-a-year-end-clearance-deal-2000654703)
- - [Microsoft celebrates 10 years of DirectX 12: A decade of updates to the low-level graphics API but it&#39;s still not the master of all things rendering](https://www.pcgamer.com/hardware/microsoft-celebrates-10-years-of-directx-12-a-decade-of-updates-to-the-low-level-graphics-api-but-its-still-not-the-master-of-all-things-rendering/)<!-- GAME:END -->
+ - [Asus Goes Wild on 32″ 4K OLED 240Hz Gaming Monitor, Now Selling $400 Cheaper at Record Low](https://kotaku.com/asus-goes-wild-on-32-4k-oled-240hz-gaming-monitor-now-selling-400-cheaper-at-record-low-2000654822)
+ - [According to Steam, the average PC Gamer writer played 72 games this year &lpar;56% of which were new&rpar; and used a controller more than we&#39;d like to admit](https://www.pcgamer.com/software/platforms/according-to-steam-the-average-pc-gamer-writer-played-72-games-this-year-56-percent-of-which-were-new-and-used-a-controller-more-than-wed-like-to-admit/)
+ - [ASUS Clears Out Gaming Laptops After GPU Deals, Offloading the TUF Gaming F16 &lpar;2024&rpar; Ahead of Christmas](https://kotaku.com/asus-clears-out-gaming-laptops-after-gpu-deals-offloading-the-tuf-gaming-f16-2024-ahead-of-christmas-2000654695)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
