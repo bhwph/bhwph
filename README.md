@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)
- - 😝 [Testing romance novels](http://9gag.com/gag/a879Y8e)
- - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
+ - 6️⃣ [Innocent casualty](http://9gag.com/gag/aE0bGqo)
+ - 😝 [That&#39;s why it&#39;s so good. It&#39;s from 15 years ago.](http://9gag.com/gag/aByMQpD)
+ - 👉 [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)<!-- MEMES:END -->
 
 --- 
 
