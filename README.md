@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur, Blue Prince, and more: Indie Game Awards 2025 full winners list](https://www.polygon.com/indie-game-awards-2025-winners-list/)
- - [Apple Goes to Record Low on AirPods Pro 3 via Amazon, Now Cheaper Than Your Old Pro 2](https://kotaku.com/apple-goes-to-record-low-on-airpods-pro-3-via-amazon-now-cheaper-than-your-old-pro-2-2000654722)
- - [Days after launching their first indie game, everyone responsible for publishing it was laid off: &#39;We had a Slack channel with everyone in it, and then you see them leaving one by one&#39;](https://www.pcgamer.com/gaming-industry/days-after-launching-their-first-indie-game-everyone-responsible-for-publishing-it-was-laid-off-we-had-a-slack-channel-with-everyone-in-it-and-then-you-see-them-leaving-one-by-one/)<!-- GAME:END -->
+ - [You won&#39;t be able to play Valorant until you update your motherboard BIOS: &#39;this is a necessary step in our arms race against hardware cheats&#39;](https://www.pcgamer.com/hardware/motherboards/you-wont-be-able-to-play-valorant-until-you-update-your-motherboard-bios-this-is-a-necessary-step-in-our-arms-race-against-hardware-cheats/)
+ - [Samsung’s 57″ Odyssey Curved Gaming Monitor Hits a Record Low With Nearly $1,000 Off in a Year-End Clearance Deal](https://kotaku.com/samsungs-57-odyssey-curved-gaming-monitor-hits-a-record-low-with-nearly-1000-off-in-a-year-end-clearance-deal-2000654703)
+ - [Microsoft celebrates 10 years of DirectX 12: A decade of updates to the low-level graphics API but it&#39;s still not the master of all things rendering](https://www.pcgamer.com/hardware/microsoft-celebrates-10-years-of-directx-12-a-decade-of-updates-to-the-low-level-graphics-api-but-its-still-not-the-master-of-all-things-rendering/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
