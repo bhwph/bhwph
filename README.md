@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mother taking her baby girl for a stroll](http://9gag.com/gag/a6ZzmQm)
- - 😝 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
- - 👉 [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)<!-- MEMES:END -->
+ - 6️⃣ [I dio miss the old days](http://9gag.com/gag/a0eG9gq)
+ - 😝 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
+ - 👉 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)<!-- MEMES:END -->
 
 --- 
 
