@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to shiny hunt in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-shiny-hunting-reset-how-to/)
- - [Swen Vincke promises an AMA to clear up Larian&#39;s use of generative AI: &#39;You’ll get the opportunity to ask us any questions you have about Divinity and our dev process directly&#39;](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/)
- - [Miller&#39;s Crossing at 35: The Coen Brothers&#39; movie-nerd gangster fantasia](https://www.polygon.com/millers-crossing-35-coen-brothers-gangster-movie/)<!-- GAME:END -->
+ - [Days after launching their first indie game, everyone responsible for publishing it was laid off: &#39;We had a Slack channel with everyone in it, and then you see them leaving one by one&#39;](https://www.pcgamer.com/gaming-industry/days-after-launching-their-first-indie-game-everyone-responsible-for-publishing-it-was-laid-off-we-had-a-slack-channel-with-everyone-in-it-and-then-you-see-them-leaving-one-by-one/)
+ - [We&#39;re hitting peak saturation for first person dungeon crawlers, but Queen&#39;s Domain stands apart from the crowd](https://www.pcgamer.com/games/rpg/were-hitting-peak-saturation-for-first-person-dungeon-crawlers-but-queens-domain-stands-apart-from-the-crowd/)
+ - [Naughty Dog developers reportedly hit with mandatory overtime to finish an internal demo for its upcoming sci-fi game Intergalactic: The Heretic Prophet](https://www.pcgamer.com/games/naughty-dog-developers-reportedly-hit-with-mandatory-overtime-to-finish-an-internal-demo-for-its-upcoming-sci-fi-game-intergalactic-the-heretic-prophet/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
