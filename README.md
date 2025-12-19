@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NotebookLM just gained a big feature for more digestible insights](https://www.androidauthority.com/notebooklm-data-table-support-3626612/)
- - [Samsung unveils the Exynos 2600, the world&#39;s first smartphone SoC built on a 2nm Gate-All-Around process, expected to power some Galaxy S26 and S26 Plus models &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/251219/p2#a251219p2)
- - [The administrator winding down Do Kwon&#39;s Terraform Labs sues Jump Trading for $4B, alleging it unlawfully profited from and contributed to Terraform&#39;s collapse &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/251219/p1#a251219p1)<!-- TECH:END -->
+ - [Is that video fake? Gemini’s new update aims to solve the AI slop problem](https://www.androidauthority.com/gemini-video-synthid-detection-3626640/)
+ - [A Starlink satellite seems to have exploded](https://www.theverge.com/news/847891/a-starlink-satellite-seems-to-have-exploded)
+ - [Galaxy Z Fold 8 camera specs leak, and Samsung’s finally on an upgrade streak](https://www.androidauthority.com/samsung-galaxy-z-fold-8-camera-specs-leak-3626630/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
