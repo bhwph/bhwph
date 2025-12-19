@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google sues data scraping company SerpApi for allegedly using hundreds of millions of fake search requests to access copyrighted material from Google products &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251219/p21#a251219p21)
- - [Australians will be soon able to use Apple Watch hypertension notifications](https://appleinsider.com/articles/25/12/19/australians-will-be-soon-able-to-use-their-apple-watch-hypertension-notifications?utm_source=rss)
- - [iPhone 18 Pro rumors: Under-display Face ID, variable aperture cameras, more](https://appleinsider.com/articles/25/12/19/iphone-18-pro-rumors-under-display-face-id-variable-aperture-cameras-more?utm_source=rss)<!-- TECH:END -->
+ - [Next-generation nuclear reactors could get a boost from the National Defense Authorization Act](https://www.theverge.com/science/848445/nuclear-energy-ndaa-defense-bill)
+ - [The Delaware Supreme Court rules that Elon Musk&#39;s 2018 Tesla CEO pay package, worth around $56B when it vested, must be restored, ending a years-long fight &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/251219/p25#a251219p25)
+ - [Samsung’s Galaxy Z Flip could be Exynos-only for the second straight year](https://www.androidauthority.com/samsung-galaxy-z-flip-8-exynos-rumor-3626906/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
