@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey reveals which hidden Pixel camera setting is your favorite](https://www.androidauthority.com/google-pixel-camera-settings-poll-result-3626674/)
- - [Samsung’s latest Theme Park update puts new theming powers in your hands](https://www.androidauthority.com/samsung-good-lock-theme-park-update-3626643/)
- - [Did you know: Samsung builds ships and owns a theme park](https://www.androidauthority.com/did-you-know-samsung-ships-theme-park-3625586/)<!-- TECH:END -->
+ - [The 14 Best Sexy Gifts for Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/best-sexy-gift/)
+ - [Court will reconsider App Store class action case worth billions](https://appleinsider.com/articles/25/12/19/court-will-reconsider-app-store-class-action-case-worth-billions?utm_source=rss)
+ - [The OnePlus 15 just landed in the US, and it puts your phone’s battery to shame](https://www.androidauthority.com/oneplus-15-us-launch-3626724/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
