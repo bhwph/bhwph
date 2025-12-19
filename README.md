@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok ban: all the news on the app’s shutdown and return in the US](https://www.theverge.com/23651507/tiktok-ban-us-news)
- - [Asus ProArt PA32QCV Display review: Big screen for big creative work](https://appleinsider.com/articles/25/12/19/asus-proart-pa32qcv-display-review-big-screen-for-big-creative-work?utm_source=rss)
- - [Sources: Riot Games is working on a major overhaul of League of Legends, internally called League Next, for 2027; Riot confirms a big update is in the works &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/251218/p52#a251218p52)<!-- TECH:END -->
+ - [Q&amp;A with Sam Altman on OpenAI&#39;s &quot;code red&quot; call, enterprise strategy, product ambitions, IPO plans, ChatGPT&#39;s personalization plans, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/251218/p56#a251218p56)
+ - [The US Senate confirms FDIC acting chairman Travis Hill to lead the agency, which regulates stablecoin issuers and impacts how the crypto industry is banked &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/251218/p55#a251218p55)
+ - [US investors to close deal on 50% ownership of TikTok January 22](https://appleinsider.com/articles/25/12/19/us-investors-to-close-deal-on-50-ownership-of-tiktok-january-22?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
