@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus Goes Wild on 32″ 4K OLED 240Hz Gaming Monitor, Now Selling $400 Cheaper at Record Low](https://kotaku.com/asus-goes-wild-on-32-4k-oled-240hz-gaming-monitor-now-selling-400-cheaper-at-record-low-2000654822)
- - [According to Steam, the average PC Gamer writer played 72 games this year &lpar;56% of which were new&rpar; and used a controller more than we&#39;d like to admit](https://www.pcgamer.com/software/platforms/according-to-steam-the-average-pc-gamer-writer-played-72-games-this-year-56-percent-of-which-were-new-and-used-a-controller-more-than-wed-like-to-admit/)
- - [ASUS Clears Out Gaming Laptops After GPU Deals, Offloading the TUF Gaming F16 &lpar;2024&rpar; Ahead of Christmas](https://kotaku.com/asus-clears-out-gaming-laptops-after-gpu-deals-offloading-the-tuf-gaming-f16-2024-ahead-of-christmas-2000654695)<!-- GAME:END -->
+ - [What free games are on Epic Games Store today &lpar;Dec. 18&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)
+ - [Dangbei DBOX02 Pro review](https://www.pcgamer.com/hardware/gaming-monitors/dangbei-dbox02-pro-review/)
+ - [The worst-selling video games of 2025](https://www.polygon.com/worst-selling-video-games-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
