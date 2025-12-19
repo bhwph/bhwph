@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is acquiring an avatar company as it moves into party games](https://www.theverge.com/news/848252/netflix-avatar-company-ready-player-me-acquisition)
- - [Don’t expect Trump Media’s nuclear fusion power plant to generate electricity soon](https://www.theverge.com/report/848205/nuclear-fusion-energy-trump-media-tae)
- - [Google’s no longer going to force everyone off Assistant by the end of the year](https://www.androidauthority.com/gemini-transition-deadline-3626827/)<!-- TECH:END -->
+ - [Google sues data scraping company SerpApi for allegedly using hundreds of millions of fake search requests to access copyrighted material from Google products &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251219/p21#a251219p21)
+ - [Australians will be soon able to use Apple Watch hypertension notifications](https://appleinsider.com/articles/25/12/19/australians-will-be-soon-able-to-use-their-apple-watch-hypertension-notifications?utm_source=rss)
+ - [iPhone 18 Pro rumors: Under-display Face ID, variable aperture cameras, more](https://appleinsider.com/articles/25/12/19/iphone-18-pro-rumors-under-display-face-id-variable-aperture-cameras-more?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
