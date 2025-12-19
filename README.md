@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What free games are on Epic Games Store today &lpar;Dec. 18&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)
- - [Dangbei DBOX02 Pro review](https://www.pcgamer.com/hardware/gaming-monitors/dangbei-dbox02-pro-review/)
- - [The worst-selling video games of 2025](https://www.polygon.com/worst-selling-video-games-2025/)<!-- GAME:END -->
+ - [11 Of This Year’s Best Indie Games That Are Deeply Discounted In The Steam Winter Sale](https://kotaku.com/steam-sale-2025-best-indie-games-2000654842)
+ - [Pluribus episode 8 answered the series&#39; biggest question. Vince Gilligan explains.](https://www.polygon.com/pluribus-episode-8-recap-reveal-vince-gilligan-interview/)
+ - [Getting Started with Xbox Cloud Gaming](https://news.xbox.com/en-us/2025/12/19/getting-started-with-xbox-cloud-gaming/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
