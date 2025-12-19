@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That girl is more composed than any adult I know](http://9gag.com/gag/aXPzpMV)
- - 😝 [Old cartoons](http://9gag.com/gag/agmbvAw)
- - 👉 [A very tired owl at sea, comes to rest](http://9gag.com/gag/a2vVYOD)<!-- MEMES:END -->
+ - 6️⃣ [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)
+ - 😝 [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)
+ - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
 
 --- 
 
