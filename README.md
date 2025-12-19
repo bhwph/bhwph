@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google has formed a new executive council to allocate computing capacity given a critical shortage; members include Thomas Kurian and Demis Hassabis &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/251219/p10#a251219p10)
- - [Automated Holiday Party Ideas &lpar;2025&rpar;: Ninja, HP Sprocket, Cricut](https://www.wired.com/story/automated-holiday-party-ideas/)
- - [Six or seven iPhones a year, new iMac Pro, and low-cost MacBooks on the AppleInsider Podcast](https://appleinsider.com/articles/25/12/19/six-or-seven-iphones-a-year-new-imac-pro-and-low-cost-macbooks-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [Who owns Trump Mobile?](https://www.theverge.com/tech/848029/trump-mobile-ownership-structure-licensing)
+ - [The Fujifilm Instax Mini 12 instant camera is a great gift at $74](https://www.theverge.com/gadgets/847732/fujifilm-instax-mini-12-camera-8bitdo-pro-3-controller-deal-sale)
+ - [The TikTok deal is the worst of all possible outcomes, shifting ownership of TikTok to Trump&#39;s allies, while maintaining the supposed problematic links to China &lpar;Karl Bode/Techdirt&rpar;](http://www.techmeme.com/251219/p16#a251219p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
