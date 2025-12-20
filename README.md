@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
- - 😝 [Gotta Play Through the Pain](http://9gag.com/gag/aW4AWYq)
- - 👉 [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)<!-- MEMES:END -->
+ - 6️⃣ [Innocent casualty](http://9gag.com/gag/aE0bGqo)
+ - 😝 [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)
+ - 👉 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)<!-- MEMES:END -->
 
 --- 
 
