@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What free games are on Epic Games Store today &lpar;Dec. 18&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)
- - [Test your knowledge of all 14 games we celebrated in the PC Gamer GOTY awards 2025 with our latest quiz](https://www.pcgamer.com/games/test-your-knowledge-of-all-14-games-we-celebrated-in-the-pc-gamer-goty-awards-2025-with-our-latest-quiz/)
- - [One FF7 Magic: The Gathering card proves Universes Beyond can tell meaningful stories](https://www.polygon.com/final-fantasy-magic-the-gathering-zack-fair-design/)<!-- GAME:END -->
+ - [Is the hivemind manipulating Carol in Pluribus episode 8? We asked the cast](https://www.polygon.com/is-the-hivemind-manipulating-carol-in-pluribus-episode-8/)
+ - [Final Fantasy 14&#39;s latest patch has me hopeful for the MMO&#39;s story again—even though Square Enix still has a lot of good will to recover](https://www.pcgamer.com/games/mmo/final-fantasy-14s-latest-patch-has-me-hopeful-for-the-mmos-story-again-even-though-square-enix-still-has-a-lot-of-good-will-to-recover/)
+ - [The 15 best under-the radar indie games of 2025](https://www.polygon.com/best-indie-games-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
