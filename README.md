@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dogpile&amp;#8217;s puzzles mix Balatro, Tetris, and a pile of puppies](https://www.theverge.com/entertainment/848041/dogpile-review-inde-game-steam-balatro-puppies)
- - [You can buy your Xbox Ally an official pair of anti-drift joysticks](https://www.theverge.com/games/848568/xbox-ally-gulikit-tmr-joysticks)
- - [Security company Koi finds browser extensions with 8M+ total installs that collected users&#39; conversations with AI chatbots and sold them for marketing use &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/251220/p8#a251220p8)<!-- TECH:END -->
+ - [The LCD Steam Deck is done](https://www.theverge.com/news/848595/the-lcd-steam-deck-is-done)
+ - [Google says it needs more time to upgrade Assistant to Gemini on most Android devices; Google previously planned to complete the transition by the end of 2025 &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/251220/p10#a251220p10)
+ - [Inside NeurIPS 2025, and how it has transformed from a small academic conference into a massive industry event with 24,000+ attendees, yacht parties, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251220/p9#a251220p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
