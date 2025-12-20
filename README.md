@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Zamasu was right](http://9gag.com/gag/aqyONZL)
- - 😝 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
- - 👉 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)<!-- MEMES:END -->
+ - 6️⃣ [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
+ - 😝 [Avid Music fan.](http://9gag.com/gag/ayNA0Ry)
+ - 👉 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)<!-- MEMES:END -->
 
 --- 
 
