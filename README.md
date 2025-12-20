@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [My Hero Academia has a new special episode coming, presented at Jump Festa](https://www.polygon.com/my-hero-academia-mha-special-episode-announcement-jump-festa/)
  - [Avatar: Fire and Ash&#39;s ending has a Death Star problem](https://www.polygon.com/avatar-fire-and-ash-ending-way-of-water/)
- - [2025 was a monster year for Stephen King movie and TV adaptations… so where are all the games?](https://www.pcgamer.com/movies-tv/2025-was-a-monster-year-for-stephen-king-movie-and-tv-adaptations-so-where-are-all-the-games/)
- - [Tenet released 5 years ago, and it&#39;s only gotten better with age](https://www.polygon.com/tenet-christopher-nolan-year-anniversary-review/)<!-- GAME:END -->
+ - [2025 was a monster year for Stephen King movie and TV adaptations… so where are all the games?](https://www.pcgamer.com/movies-tv/2025-was-a-monster-year-for-stephen-king-movie-and-tv-adaptations-so-where-are-all-the-games/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
