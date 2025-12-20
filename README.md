@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today’s Wordle Made The Internet Crash Out](https://kotaku.com/wordle-word-of-the-day-today-december-19-myrrh-2000654888)
- - [A major overhaul of League of Legends is reportedly coming in 2027: &#39;Once we&#39;re done, it should be the best time ever to get your friends into League&#39;](https://www.pcgamer.com/games/moba/a-major-overhaul-of-league-of-legends-is-reportedly-coming-in-2027-once-were-done-it-should-be-the-best-time-ever-to-get-your-friends-into-league/)
- - [The best Xbox Game Pass games to play this weekend &lpar;Dec. 19-21 2025&rpar;](https://www.polygon.com/game-pass-games-rec-weekend-dec-19-2025/)<!-- GAME:END -->
+ - [Avatar: Fire and Ash&#39;s ending has a Death Star problem](https://www.polygon.com/avatar-fire-and-ash-ending-way-of-water/)
+ - [2025 was a monster year for Stephen King movie and TV adaptations… so where are all the games?](https://www.pcgamer.com/movies-tv/2025-was-a-monster-year-for-stephen-king-movie-and-tv-adaptations-so-where-are-all-the-games/)
+ - [Tenet released 5 years ago, and it&#39;s only gotten better with age](https://www.polygon.com/tenet-christopher-nolan-year-anniversary-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
