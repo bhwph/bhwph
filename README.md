@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [` emotional damage `](http://9gag.com/gag/awyD791)
- - 😝 [Pizza math](http://9gag.com/gag/aQzKnBw)
- - 👉 [Culture](http://9gag.com/gag/aQzKn5e)<!-- MEMES:END -->
+ - 6️⃣ [Culture](http://9gag.com/gag/aQzKn5e)
+ - 😝 [Dudes are the best](http://9gag.com/gag/aYQBW8N)
+ - 👉 [Merry Christmas you filthy animals.](http://9gag.com/gag/a4P8dVZ)<!-- MEMES:END -->
 
 --- 
 
