@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My Hero Academia has a new special episode coming, presented at Jump Festa](https://www.polygon.com/my-hero-academia-mha-special-episode-announcement-jump-festa/)
- - [Avatar: Fire and Ash&#39;s ending has a Death Star problem](https://www.polygon.com/avatar-fire-and-ash-ending-way-of-water/)
- - [2025 was a monster year for Stephen King movie and TV adaptations… so where are all the games?](https://www.pcgamer.com/movies-tv/2025-was-a-monster-year-for-stephen-king-movie-and-tv-adaptations-so-where-are-all-the-games/)<!-- GAME:END -->
+ - [Unbeatable, Rhythm Doctor, and Bits &amp; Bops just made December much groovier](https://www.polygon.com/unbeatable-rhythm-doctor-bits-and-bops-impressions/)
+ - [Stalker 2 gets a new zoning permit in its &#39;Stories Untold&#39; update, adding 8 missions and 7 locations as you explore what&#39;s giving Stalkers &#39;headaches, nosebleeds, and even hallucinations&#39;](https://www.pcgamer.com/games/fps/stalker-2-gets-a-new-zoning-permit-in-its-stories-untold-update-adding-8-missions-and-7-locations-as-you-explore-whats-giving-stalkers-headaches-nosebleeds-and-even-hallucinations/)
+ - [Ne Zha 2 is finally streaming on HBO Max — and it&#39;s a must-watch](https://www.polygon.com/ne-zha-2-hbo-max-2025-top-grossing-animated-film/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
