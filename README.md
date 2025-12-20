@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 13 is the Android Authority Editor’s Choice winner for best phone of 2025](https://www.androidauthority.com/best-phone-2025-editors-choice-android-authority-3626525/)
- - [Trump’s Agriculture Bailout Is Alienating His MAHA Base](https://www.wired.com/story/trumps-agriculture-bailout-is-alienating-his-maha-base/)
- - [The 23 Best Movies on Amazon Prime, WIRED&#39;s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
+ - [Dogpile&amp;#8217;s puzzles mix Balatro, Tetris, and a pile of puppies](https://www.theverge.com/entertainment/848041/dogpile-review-inde-game-steam-balatro-puppies)
+ - [You can buy your Xbox Ally an official pair of anti-drift joysticks](https://www.theverge.com/games/848568/xbox-ally-gulikit-tmr-joysticks)
+ - [Security company Koi finds browser extensions with 8M+ total installs that collected users&#39; conversations with AI chatbots and sold them for marketing use &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/251220/p8#a251220p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
