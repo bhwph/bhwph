@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unbeatable, Rhythm Doctor, and Bits &amp; Bops just made December much groovier](https://www.polygon.com/unbeatable-rhythm-doctor-bits-and-bops-impressions/)
- - [Stalker 2 gets a new zoning permit in its &#39;Stories Untold&#39; update, adding 8 missions and 7 locations as you explore what&#39;s giving Stalkers &#39;headaches, nosebleeds, and even hallucinations&#39;](https://www.pcgamer.com/games/fps/stalker-2-gets-a-new-zoning-permit-in-its-stories-untold-update-adding-8-missions-and-7-locations-as-you-explore-whats-giving-stalkers-headaches-nosebleeds-and-even-hallucinations/)
- - [Ne Zha 2 is finally streaming on HBO Max — and it&#39;s a must-watch](https://www.polygon.com/ne-zha-2-hbo-max-2025-top-grossing-animated-film/)<!-- GAME:END -->
+ - [Meta Quest 3S Becomes the Cheapest VR Headset as PlayStation VR2 Goes Back to Full Price](https://kotaku.com/meta-quest-3s-becomes-the-cheapest-vr-headset-as-playstation-vr2-goes-back-to-full-price-2000654895)
+ - [Arc Raiders is 2025’s best shooter, so brace yourself for more extraction shooters](https://www.polygon.com/arc-raiders-2025-extraction-shooters-floodgates/)
+ - [Co-op smash hit RV There Yet? gets an &#39;unplanned content update for an unplanned game&#39; as the comedy vehicle sim surpasses 4.5 million copies sold](https://www.pcgamer.com/games/adventure/co-op-smash-hit-rv-there-yet-gets-an-unplanned-content-update-for-an-unplanned-game-as-the-comedy-vehicle-sim-surpasses-4-5-million-copies-sold/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
