@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)
- - 😝 [Testing romance novels](http://9gag.com/gag/a879Y8e)
- - 👉 [What a joke: The Epstein list.](http://9gag.com/gag/axy8jGM)<!-- MEMES:END -->
+ - 6️⃣ [Thank good we have co2 tax and banned plastic straws](http://9gag.com/gag/ajPjnMp)
+ - 😝 [Impressive](http://9gag.com/gag/aO8OVOE)
+ - 👉 [Women](http://9gag.com/gag/ary0NgK)<!-- MEMES:END -->
 
 --- 
 
