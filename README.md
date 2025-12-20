@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Gifts for Sleep, as Tested by Our Team](https://www.wired.com/gallery/best-sleep-gifts/)
- - [Did you know: Samsung phones aren’t made where you think](https://www.androidauthority.com/did-you-know-samsung-phones-made-in-3626363/)
- - [ReMarkable thinks this is the year your planner actually works](https://www.androidauthority.com/remarkable-template-refresh-bundle-discounts-3626959/)<!-- TECH:END -->
+ - [The OnePlus 13 is the Android Authority Editor’s Choice winner for best phone of 2025](https://www.androidauthority.com/best-phone-2025-editors-choice-android-authority-3626525/)
+ - [Trump’s Agriculture Bailout Is Alienating His MAHA Base](https://www.wired.com/story/trumps-agriculture-bailout-is-alienating-his-maha-base/)
+ - [The 23 Best Movies on Amazon Prime, WIRED&#39;s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
