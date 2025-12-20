@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Meta&#39;s 2GW Hyperion data center in Louisiana, with the first phase opening in 2028; an analysis shows sales tax breaks on GPUs could total $3.3B+ &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/251220/p6#a251220p6)
- - [OpenAI introduces a framework to evaluate chain-of-thought monitorability and a suite of 13 evaluations designed to measure the monitorability of an AI system &lpar;OpenAI&rpar;](http://www.techmeme.com/251220/p5#a251220p5)
- - [Loop Earplugs Discount Codes and Deals: Save on Ear Buds and Gift Sets](https://www.wired.com/story/loop-earplugs-discount-code/)<!-- TECH:END -->
+ - [The Best Gifts for Sleep, as Tested by Our Team](https://www.wired.com/gallery/best-sleep-gifts/)
+ - [Did you know: Samsung phones aren’t made where you think](https://www.androidauthority.com/did-you-know-samsung-phones-made-in-3626363/)
+ - [ReMarkable thinks this is the year your planner actually works](https://www.androidauthority.com/remarkable-template-refresh-bundle-discounts-3626959/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
