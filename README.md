@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Learn this and do it with your wife on her most stressful days, and your days will be less stressful.](http://9gag.com/gag/aKGyPEj)
- - 😝 [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)
- - 👉 [Pls never change](http://9gag.com/gag/aPA0yDw)<!-- MEMES:END -->
+ - 6️⃣ [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)
+ - 😝 [Ooops](http://9gag.com/gag/aPA04GB)
+ - 👉 [33rd SEA Games Women&#39;s Football Final - Thailand 2025. Offside!!](http://9gag.com/gag/aGyqVDK)<!-- MEMES:END -->
 
 --- 
 
