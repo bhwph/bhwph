@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Is the hivemind manipulating Carol in Pluribus episode 8? We asked the cast](https://www.polygon.com/is-the-hivemind-manipulating-carol-in-pluribus-episode-8/)
- - [Final Fantasy 14&#39;s latest patch has me hopeful for the MMO&#39;s story again—even though Square Enix still has a lot of good will to recover](https://www.pcgamer.com/games/mmo/final-fantasy-14s-latest-patch-has-me-hopeful-for-the-mmos-story-again-even-though-square-enix-still-has-a-lot-of-good-will-to-recover/)
- - [The 15 best under-the radar indie games of 2025](https://www.polygon.com/best-indie-games-2025/)<!-- GAME:END -->
+ - [My Hero Academia&#39;s final season delivers a flawless ending for the most important shonen of the past decade](https://www.polygon.com/my-hero-academia-mha-final-season-review/)
+ - [M. Night Shyamalan&#39;s The Happening is terrible, but the perfect Christmas movie](https://www.polygon.com/m-night-shyamalan-the-happening-best-holiday-streaming-movie/)
+ - [One of the internet&#39;s top experts on Skyrim minutiae hosted a $10,000 charity competition to guess how many trees there are in the Bethesda classic](https://www.pcgamer.com/games/the-elder-scrolls/one-of-the-internets-top-experts-on-skyrim-minutiae-hosted-a-usd10-000-charity-competition-to-guess-how-many-trees-there-are-in-the-bethesda-classic/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
