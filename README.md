@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Next-generation nuclear reactors could get a boost from the National Defense Authorization Act](https://www.theverge.com/science/848445/nuclear-energy-ndaa-defense-bill)
- - [The Delaware Supreme Court rules that Elon Musk&#39;s 2018 Tesla CEO pay package, worth around $56B when it vested, must be restored, ending a years-long fight &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/251219/p25#a251219p25)
- - [Samsung’s Galaxy Z Flip could be Exynos-only for the second straight year](https://www.androidauthority.com/samsung-galaxy-z-flip-8-exynos-rumor-3626906/)<!-- TECH:END -->
+ - [Want to link from Google’s app store to your app? That’ll be $2–4 per install](https://www.theverge.com/news/848540/google-app-fees-external-link-downloads-alternative-payments)
+ - [Razer Kraken Kitty V2 BT Headset deal: The cutest headphones are cheaper than ever](https://www.androidauthority.com/razer-kraken-kitty-v2-bt-headset-deal-3626894/)
+ - [Google is part of Movies Anywhere again](https://www.theverge.com/news/848548/google-youtube-movies-anywhere-back-return)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
