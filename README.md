@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Meta Quest 3S Becomes the Cheapest VR Headset as PlayStation VR2 Goes Back to Full Price](https://kotaku.com/meta-quest-3s-becomes-the-cheapest-vr-headset-as-playstation-vr2-goes-back-to-full-price-2000654895)
- - [Arc Raiders is 2025’s best shooter, so brace yourself for more extraction shooters](https://www.polygon.com/arc-raiders-2025-extraction-shooters-floodgates/)
- - [Co-op smash hit RV There Yet? gets an &#39;unplanned content update for an unplanned game&#39; as the comedy vehicle sim surpasses 4.5 million copies sold](https://www.pcgamer.com/games/adventure/co-op-smash-hit-rv-there-yet-gets-an-unplanned-content-update-for-an-unplanned-game-as-the-comedy-vehicle-sim-surpasses-4-5-million-copies-sold/)<!-- GAME:END -->
+ - [What free games are on Epic Games Store today &lpar;Dec. 18&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)
+ - [Test your knowledge of all 14 games we celebrated in the PC Gamer GOTY awards 2025 with our latest quiz](https://www.pcgamer.com/games/test-your-knowledge-of-all-14-games-we-celebrated-in-the-pc-gamer-goty-awards-2025-with-our-latest-quiz/)
+ - [One FF7 Magic: The Gathering card proves Universes Beyond can tell meaningful stories](https://www.polygon.com/final-fantasy-magic-the-gathering-zack-fair-design/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
