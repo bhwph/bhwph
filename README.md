@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
- - 😝 [Avid Music fan.](http://9gag.com/gag/ayNA0Ry)
- - 👉 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)<!-- MEMES:END -->
+ - 6️⃣ [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)
+ - 😝 [Testing romance novels](http://9gag.com/gag/a879Y8e)
+ - 👉 [What a joke: The Epstein list.](http://9gag.com/gag/axy8jGM)<!-- MEMES:END -->
 
 --- 
 
