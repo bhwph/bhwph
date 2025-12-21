@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Frozen out: Apple cancels &#39;The last Frontier&#39; after just one season](https://appleinsider.com/articles/25/12/21/frozen-out-apple-cancels-the-last-frontier-after-just-one-season?utm_source=rss)
- - [The 35 best gifts that your teen will actually use](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025)
- - [Sources: tech lobbyists say that David Sacks&#39; push for an EO blocking state AI laws undercut their efforts to craft a permanent, bipartisan federal solution &lpar;Politico&rpar;](http://www.techmeme.com/251221/p8#a251221p8)<!-- TECH:END -->
+ - [Sources: The US DHS is investigating whether 6 CISA staffers who were suspended in July misled CISA&#39;s acting director into taking a polygraph, which he failed &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/251221/p11#a251221p11)
+ - [Source: OpenAI&#39;s compute margin has jumped to about 70% in October from about 52% at the end of 2024 and roughly 35% in January 2024 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/251221/p10#a251221p10)
+ - [Some of our favorite gifts will cost you less than $25](https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
