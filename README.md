@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Planners of 2026: Roterunner, Hobonichi, Kokuyo](https://www.wired.com/story/best-paper-planners/)
- - [US CHIPS Act-funded SMART USA Institute, focused on digital twins for chipmaking, says the Department of Commerce will terminate its $285M five-year contract &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/251221/p6#a251221p6)
- - [I love the OnePlus 15, but here are 5 reasons I’d recommend the OnePlus 15R instead](https://www.androidauthority.com/oneplus-15r-better-deal-than-oneplus-15-why-3625169/)<!-- TECH:END -->
+ - [MCON is the first truly mobile controller that covers all of my gaming needs](https://www.androidauthority.com/mcon-review-3625272/)
+ - [The iPhone 16e proves that Apple will never beat Android at budget phones](https://www.androidauthority.com/iphone-16e-cant-beat-android-phones-3624581/)
+ - [5 Best Monitors for the Mac Mini &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-monitors-for-mac-mini/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
