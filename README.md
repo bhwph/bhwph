@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chile fielded an all women team for the UAE SWAT challenge last year and it went about as well as you&#39;d expect.](http://9gag.com/gag/avyVgXn)
- - 😝 [What a joke: The Epstein list.](http://9gag.com/gag/axy8jGM)
- - 👉 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)<!-- MEMES:END -->
+ - 6️⃣ [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)
+ - 😝 [Chile fielded an all women team for the UAE SWAT challenge last year and it went about as well as you&#39;d expect.](http://9gag.com/gag/avyVgXn)
+ - 👉 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)<!-- MEMES:END -->
 
 --- 
 
