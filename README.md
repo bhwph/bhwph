@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [One Piece&#39;s creator teases Laugh Tale will appear in 2026](https://www.polygon.com/one-piece-announcement-jump-festa-2026-oda-message/)
  - [Darktide asked if we want to be scum, and I was the person who said, &#39;actually, yes&#39;](https://www.pcgamer.com/games/fps/darktide-asked-if-we-want-to-be-scum-and-i-was-the-person-who-said-actually-yes/)
- - [Google killed support for the Dreamcast web browser after 25 years](https://www.pcgamer.com/gaming-industry/google-killed-support-for-the-dreamcast-web-browser-after-25-years/)
- - [The New Blood-published &#39;immersive stealth FPS&#39; Blood West is free on Epic—but only for 24 hours](https://www.pcgamer.com/games/fps/the-new-blood-published-immersive-stealth-fps-blood-west-is-free-on-epic-but-only-for-24-hours/)<!-- GAME:END -->
+ - [Google killed support for the Dreamcast web browser after 25 years](https://www.pcgamer.com/gaming-industry/google-killed-support-for-the-dreamcast-web-browser-after-25-years/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
