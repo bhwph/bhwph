@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google advises some employees on visas, including H-1B visas, not to travel outside the US due to processing delays, following new social media screening rules &lpar;Business Insider&rpar;](http://www.techmeme.com/251220/p13#a251220p13)
- - [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025)
- - [These Mac mini deals start at $479, with delivery by Christmas](https://appleinsider.com/articles/25/12/20/these-mac-mini-deals-start-at-479-with-delivery-by-christmas?utm_source=rss)<!-- TECH:END -->
+ - [A profile of Josh Woodward, the head of Google Labs who is credited with turning around the Gemini app, growing its MAUs from 350M in March to 650M by October &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/251220/p15#a251220p15)
+ - [S&amp;P Global: data center deals hit $61B globally in 2025; debt issuance nearly doubled YoY to $182B, with Meta raising $62B debt since 2022, ~50% of that in 2025 &lpar;April Roach/CNBC&rpar;](http://www.techmeme.com/251220/p14#a251220p14)
+ - [&#39;Landman&#39; Season 2, Episode 6: Streaming Release Date and Time](https://www.cnet.com/tech/services-and-software/landman-season-2-release-schedule/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
