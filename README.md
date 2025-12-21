@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Echo, which uses AI agents to build Docker images that eliminate vulnerabilities at the source, raised a $35M Series A, bringing its total funding to $50M &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/251221/p12#a251221p12)
- - [Grab Apple&#39;s M5 MacBook Pro 24GB RAM for $1,499 with free 2-day shipping](https://appleinsider.com/articles/25/12/21/grab-apples-m5-macbook-pro-24gb-ram-for-1499-with-free-2-day-shipping?utm_source=rss)
- - [Frozen Waymos backed up San Francisco traffic during a widespread power outage](https://www.theverge.com/news/848843/waymo-san-francisco-power-outage)<!-- TECH:END -->
+ - [A group of PE firms led by Permira and Warburg Pincus agrees to buy Clearwater Analytics, in a deal valuing the financial software maker at $8.4B including debt &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/251221/p13#a251221p13)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 22, #925](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-22-925/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 22, #1647](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-22-1647/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
