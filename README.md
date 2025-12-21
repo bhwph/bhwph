@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)
- - 😝 [Chile fielded an all women team for the UAE SWAT challenge last year and it went about as well as you&#39;d expect.](http://9gag.com/gag/avyVgXn)
- - 👉 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)<!-- MEMES:END -->
+ - 😝 [BIG but for a petite fairy](http://9gag.com/gag/aW4A6q2)
+ - 👉 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)<!-- MEMES:END -->
 
 --- 
 
