@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [KPop Demon Hunters&#39; 2025 success is a big boost for tween girl culture](https://www.polygon.com/kpop-demon-hunters-tween-girl-culture/)
- - [Elden Ring Nightreign is a deeply flawed multiplayer game I&#39;ve spent over 250 hours in this year](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-is-a-deeply-flawed-multiplayer-game-ive-spent-over-250-hours-in-this-year/)
- - [This dystopian free-running sim is set in a brutalist megacity is being codeveloped by one of the designers of last year&#39;s best FPS](https://www.pcgamer.com/games/this-dystopian-free-running-sim-is-set-in-a-brutalist-megacity-is-being-codeveloped-by-one-of-the-designers-of-last-years-best-fps/)<!-- GAME:END -->
+ - [What free games are on Epic Games Store today &lpar;Dec. 21&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)
+ - [D&amp;D needs more improvisation and luck rolls](https://www.polygon.com/dnd-dungeons-dragons-luck-rolls-critical-role-prep-improvisation/)
+ - [Indie Game Awards pulls two awards from Clair Obscur over generative AI use: &#39;We have a hard stance against gen AI in videogames&#39;](https://www.pcgamer.com/games/rpg/indie-game-awards-pulls-two-awards-from-clair-obscur-over-generative-ai-use-we-have-a-hard-stance-against-gen-ai-in-videogames/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
