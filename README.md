@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [From Andor to Wicked, 2025&#39;s best movies and TV exposed a dark political truth](https://www.polygon.com/2025-movies-tv-theme-explained-propaganda-fascism/)
- - [The process of creating cosplay from scratch is incredibly intimidating to me, but Emily White found a new love for it post-lockdown: &#39;It can take anywhere from a month to a year to bring a costume to life.&#39;](https://www.pcgamer.com/games/the-process-of-creating-cosplay-from-scratch-is-incredibly-intimidating-to-me-but-emily-white-found-a-new-love-for-it-post-lockdown-it-can-take-anywhere-from-a-month-to-a-year-to-bring-a-costume-to-life/)
- - [It&#39;s more important than ever to call out developers for egregious AI usage next year if we want videogames to remain interesting](https://www.pcgamer.com/games/its-more-important-than-ever-to-call-out-developers-for-egregious-ai-usage-next-year-if-we-want-videogames-to-remain-interesting/)<!-- GAME:END -->
+ - [Hideo Kojima&#39;s new favorite manga is a must-read for Metal Gear fans](https://www.polygon.com/miharus-seat-of-war-the-sniper-girl-manga-review/)
+ - [Fallout: New Vegas lead writer worries Caesar&#39;s argument for authoritarianism &#39;was done a little too well,&#39; but still believes &#39;you can&#39;t just make your tyrants cardboard villains&#39;](https://www.pcgamer.com/games/rpg/fallout-new-vegas-lead-writer-worries-caesars-argument-for-authoritarianism-was-done-a-little-too-well-but-still-believes-you-cant-just-make-your-tyrants-cardboard-villains/)
+ - [From Andor to Wicked, 2025&#39;s best movies and TV exposed a dark political truth](https://www.polygon.com/2025-movies-tv-theme-explained-propaganda-fascism/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
