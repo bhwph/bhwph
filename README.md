@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Epstein didn&#39;t](http://9gag.com/gag/aAy7pAR)
- - 😝 [You get what you deserve](http://9gag.com/gag/ary0KP0)
- - 👉 [Fan service](http://9gag.com/gag/a2vVqVD)<!-- MEMES:END -->
+ - 6️⃣ [You get what you deserve](http://9gag.com/gag/ary0KP0)
+ - 😝 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
+ - 👉 [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)<!-- MEMES:END -->
 
 --- 
 
