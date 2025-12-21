@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MacBook Pro M5 With Max Config Drops Record Low, Amazon Drops Margin While Official Site Stays Full Price](https://kotaku.com/macbook-pro-m5-with-max-config-drops-record-low-amazon-drops-margin-while-official-site-stays-full-price-2000655017)
- - [Quake&#39;s third Brutalist Jam now has a whopping 75 maps, and its organiser is  working on a hub to stitch them all together: &#39;this is going to be an insane challenge&#39;](https://www.pcgamer.com/games/fps/quakes-third-brutalist-jam-now-has-a-whopping-75-maps-and-its-organiser-is-working-on-a-hub-to-stitch-them-all-together-this-is-going-to-be-an-insane-challenge/)
- - [3 thriller masterpieces buried on Netflix you need to watch](https://www.polygon.com/3-thriller-masterpieces-netflix-watch-december-2025/)<!-- GAME:END -->
+ - [KPop Demon Hunters&#39; 2025 success is a big boost for tween girl culture](https://www.polygon.com/kpop-demon-hunters-tween-girl-culture/)
+ - [Elden Ring Nightreign is a deeply flawed multiplayer game I&#39;ve spent over 250 hours in this year](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-is-a-deeply-flawed-multiplayer-game-ive-spent-over-250-hours-in-this-year/)
+ - [This dystopian free-running sim is set in a brutalist megacity is being codeveloped by one of the designers of last year&#39;s best FPS](https://www.pcgamer.com/games/this-dystopian-free-running-sim-is-set-in-a-brutalist-megacity-is-being-codeveloped-by-one-of-the-designers-of-last-years-best-fps/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
