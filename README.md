@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)
- - 😝 [BIG but for a petite fairy](http://9gag.com/gag/aW4A6q2)
- - 👉 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)<!-- MEMES:END -->
+ - 6️⃣ [Right to jail](http://9gag.com/gag/aMV6Q61)
+ - 😝 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)
+ - 👉 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)<!-- MEMES:END -->
 
 --- 
 
