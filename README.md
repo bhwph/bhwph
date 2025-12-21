@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Expedition 33&#39;s Indie Game Award GOTY rescinded over gen AI use](https://www.polygon.com/clair-obscur-expedition-33-indie-game-awards-goty-rescinded/)
- - [The 50 best games of 2025, as chosen by Polygon](https://www.polygon.com/best-games-2025/)
- - [My Hero Academia&#39;s final season delivers a flawless ending for the most important shonen of the past decade](https://www.polygon.com/my-hero-academia-mha-final-season-review/)<!-- GAME:END -->
+ - [Great moments in PC gaming: Dark Messiah of Might and Magic&#39;s rooftop chase](https://www.pcgamer.com/games/action/great-moments-in-pc-gaming-dark-messiah-of-might-and-magics-rooftop-chase/)
+ - [NordProtect Online Identity Service Covers Up to $10K in Scam Losses, Now Going for Peanuts](https://kotaku.com/nordprotect-online-identity-service-covers-up-to-10k-in-scam-losses-now-going-for-peanuts-2000655012)
+ - [Expedition 33&#39;s Indie Game Award GOTY rescinded over gen AI use](https://www.polygon.com/clair-obscur-expedition-33-indie-game-awards-goty-rescinded/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
