@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MCON is the first truly mobile controller that covers all of my gaming needs](https://www.androidauthority.com/mcon-review-3625272/)
- - [The iPhone 16e proves that Apple will never beat Android at budget phones](https://www.androidauthority.com/iphone-16e-cant-beat-android-phones-3624581/)
- - [5 Best Monitors for the Mac Mini &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-monitors-for-mac-mini/)<!-- TECH:END -->
+ - [The best thing I bought this year: The Nintendo Switch 2](https://www.theverge.com/gadgets/845477/nintendo-switch-2-game-system-favorite)
+ - [How AIM taught the internet to chat](https://www.theverge.com/podcast/848744/aim-aol-instant-messenger-version-history)
+ - [2025: a year in art on The Verge](https://www.theverge.com/tech/841568/art-2025-best)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
