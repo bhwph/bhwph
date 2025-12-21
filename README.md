@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One Piece&#39;s creator teases Laugh Tale will appear in 2026](https://www.polygon.com/one-piece-announcement-jump-festa-2026-oda-message/)
- - [Darktide asked if we want to be scum, and I was the person who said, &#39;actually, yes&#39;](https://www.pcgamer.com/games/fps/darktide-asked-if-we-want-to-be-scum-and-i-was-the-person-who-said-actually-yes/)
- - [Google killed support for the Dreamcast web browser after 25 years](https://www.pcgamer.com/gaming-industry/google-killed-support-for-the-dreamcast-web-browser-after-25-years/)<!-- GAME:END -->
+ - [MacBook Pro M5 With Max Config Drops Record Low, Amazon Drops Margin While Official Site Stays Full Price](https://kotaku.com/macbook-pro-m5-with-max-config-drops-record-low-amazon-drops-margin-while-official-site-stays-full-price-2000655017)
+ - [Quake&#39;s third Brutalist Jam now has a whopping 75 maps, and its organiser is  working on a hub to stitch them all together: &#39;this is going to be an insane challenge&#39;](https://www.pcgamer.com/games/fps/quakes-third-brutalist-jam-now-has-a-whopping-75-maps-and-its-organiser-is-working-on-a-hub-to-stitch-them-all-together-this-is-going-to-be-an-insane-challenge/)
+ - [3 thriller masterpieces buried on Netflix you need to watch](https://www.polygon.com/3-thriller-masterpieces-netflix-watch-december-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
