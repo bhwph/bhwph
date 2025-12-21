@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Great moments in PC gaming: Dark Messiah of Might and Magic&#39;s rooftop chase](https://www.pcgamer.com/games/action/great-moments-in-pc-gaming-dark-messiah-of-might-and-magics-rooftop-chase/)
- - [NordProtect Online Identity Service Covers Up to $10K in Scam Losses, Now Going for Peanuts](https://kotaku.com/nordprotect-online-identity-service-covers-up-to-10k-in-scam-losses-now-going-for-peanuts-2000655012)
- - [Expedition 33&#39;s Indie Game Award GOTY rescinded over gen AI use](https://www.polygon.com/clair-obscur-expedition-33-indie-game-awards-goty-rescinded/)<!-- GAME:END -->
+ - [Darktide asked if we want to be scum, and I was the person who said, &#39;actually, yes&#39;](https://www.pcgamer.com/games/fps/darktide-asked-if-we-want-to-be-scum-and-i-was-the-person-who-said-actually-yes/)
+ - [Google killed support for the Dreamcast web browser after 25 years](https://www.pcgamer.com/gaming-industry/google-killed-support-for-the-dreamcast-web-browser-after-25-years/)
+ - [The New Blood-published &#39;immersive stealth FPS&#39; Blood West is free on Epic—but only for 24 hours](https://www.pcgamer.com/games/fps/the-new-blood-published-immersive-stealth-fps-blood-west-is-free-on-epic-but-only-for-24-hours/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
