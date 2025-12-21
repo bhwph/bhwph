@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What free games are on Epic Games Store today &lpar;Dec. 21&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)
- - [D&amp;D needs more improvisation and luck rolls](https://www.polygon.com/dnd-dungeons-dragons-luck-rolls-critical-role-prep-improvisation/)
- - [Indie Game Awards pulls two awards from Clair Obscur over generative AI use: &#39;We have a hard stance against gen AI in videogames&#39;](https://www.pcgamer.com/games/rpg/indie-game-awards-pulls-two-awards-from-clair-obscur-over-generative-ai-use-we-have-a-hard-stance-against-gen-ai-in-videogames/)<!-- GAME:END -->
+ - [From Andor to Wicked, 2025&#39;s best movies and TV exposed a dark political truth](https://www.polygon.com/2025-movies-tv-theme-explained-propaganda-fascism/)
+ - [The process of creating cosplay from scratch is incredibly intimidating to me, but Emily White found a new love for it post-lockdown: &#39;It can take anywhere from a month to a year to bring a costume to life.&#39;](https://www.pcgamer.com/games/the-process-of-creating-cosplay-from-scratch-is-incredibly-intimidating-to-me-but-emily-white-found-a-new-love-for-it-post-lockdown-it-can-take-anywhere-from-a-month-to-a-year-to-bring-a-costume-to-life/)
+ - [It&#39;s more important than ever to call out developers for egregious AI usage next year if we want videogames to remain interesting](https://www.pcgamer.com/games/its-more-important-than-ever-to-call-out-developers-for-egregious-ai-usage-next-year-if-we-want-videogames-to-remain-interesting/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
