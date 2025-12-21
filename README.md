@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thank good we have co2 tax and banned plastic straws](http://9gag.com/gag/ajPjnMp)
- - 😝 [Impressive](http://9gag.com/gag/aO8OVOE)
- - 👉 [Women](http://9gag.com/gag/ary0NgK)<!-- MEMES:END -->
+ - 6️⃣ [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
+ - 😝 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
+ - 👉 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)<!-- MEMES:END -->
 
 --- 
 
