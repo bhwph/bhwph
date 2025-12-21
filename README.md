@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
- - 😝 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)
- - 👉 [Us guys understand brother.](http://9gag.com/gag/aD2LmP7)<!-- MEMES:END -->
+ - 6️⃣ [A guy in a burka knew that he&#39;s exempt from being stopped for a check by the cops](http://9gag.com/gag/ary0NMd)
+ - 😝 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)
+ - 👉 [Making kids happy](http://9gag.com/gag/aGyqD2n)<!-- MEMES:END -->
 
 --- 
 
