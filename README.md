@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [200k km on that baby](http://9gag.com/gag/an7315o)
- - 😝 [I know what he really wants to eat](http://9gag.com/gag/axy8Gwn)
- - 👉 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)<!-- MEMES:END -->
+ - 6️⃣ [Epstein didn&#39;t](http://9gag.com/gag/aAy7pAR)
+ - 😝 [You get what you deserve](http://9gag.com/gag/ary0KP0)
+ - 👉 [Fan service](http://9gag.com/gag/a2vVqVD)<!-- MEMES:END -->
 
 --- 
 
