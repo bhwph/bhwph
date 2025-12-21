@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You get what you deserve](http://9gag.com/gag/ary0KP0)
- - 😝 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
- - 👉 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)<!-- MEMES:END -->
+ - 6️⃣ [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
+ - 😝 [One more good reason not to shower, 9gaggers](http://9gag.com/gag/a9ye7O6)
+ - 👉 [Us guys understand brother.](http://9gag.com/gag/aD2LmP7)<!-- MEMES:END -->
 
 --- 
 
