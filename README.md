@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Harvard economist Jason Furman, who consults for OpenAI, on the similarities between the AI boom and the dot-com era, AI&#39;s impact on jobs, and more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251221/p5#a251221p5)
- - [DataLane, which is using AI to build an identity graph to map local businesses across the US, raised a $22.5M Series A led by Amplify Partners &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251221/p4#a251221p4)
- - [Samsung&#39;s 43&quot; Q8F TV dips to $347 today only, save up to $5,000 across line](https://appleinsider.com/articles/25/12/21/samsungs-43-q8f-tv-dips-to-347-today-only-save-up-to-5000-across-line?utm_source=rss)<!-- TECH:END -->
+ - [8 Best Planners of 2026: Roterunner, Hobonichi, Kokuyo](https://www.wired.com/story/best-paper-planners/)
+ - [US CHIPS Act-funded SMART USA Institute, focused on digital twins for chipmaking, says the Department of Commerce will terminate its $285M five-year contract &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/251221/p6#a251221p6)
+ - [I love the OnePlus 15, but here are 5 reasons I’d recommend the OnePlus 15R instead](https://www.androidauthority.com/oneplus-15r-better-deal-than-oneplus-15-why-3625169/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
