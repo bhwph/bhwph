@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber plans to trial driverless taxis in London using Baidu&#39;s Apollo Go RT6 robotaxis, starting in H1 2026 with services available by the end of 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251221/p17#a251221p17)
- - [The internet just made a 300TB copy of Spotify!](https://www.androidauthority.com/spotify-annas-archive-3627023/)
- - [Honey: all the news about PayPal’s alleged scam coupon app](https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees)<!-- TECH:END -->
+ - [Grab Apple&#39;s M4 MacBook Air for $749, laptops start at just $429](https://appleinsider.com/articles/25/12/17/grab-apples-m4-macbook-air-for-749-laptops-start-at-just-409?utm_source=rss)
+ - [Adam Mosseri says &quot;maybe we&#39;ll need&quot; premium longform video for Instagram, and that TikTok&#39;s US sale turmoil has given Meta time to retune algorithms &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/251222/p1#a251222p1)
+ - [Google’s Gemini is about to make its home appliance debut](https://www.androidauthority.com/google-gemini-home-appliances-3627029/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
