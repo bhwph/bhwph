@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet agrees to acquire clean energy developer Intersect for $4.75B in cash, and existing debt, as part of its push to expand its AI data center footprint &lpar;Bloomberg&rpar;](http://www.techmeme.com/251222/p16#a251222p16)
- - [Deals: AirPods Pro 3 $199, Apple Watch Series 11 $299, M4 MacBook Air $749 with delivery by Christmas](https://appleinsider.com/articles/25/12/22/deals-airpods-pro-3-199-apple-watch-series-11-299-m4-macbook-air-749-with-delivery-by-christmas?utm_source=rss)
- - [iPhone Fold crease-free screen glass may not be ready yet](https://appleinsider.com/articles/25/12/22/iphone-fold-crease-free-screen-glass-may-not-be-ready-yet?utm_source=rss)<!-- TECH:END -->
+ - [FanDuel and CME Group launch a prediction market app called FanDuel Predicts in five US states, just days after DraftKings rolled out a similar product &lpar;Denitsa Tsekova/Bloomberg&rpar;](http://www.techmeme.com/251222/p19#a251222p19)
+ - [Italy&#39;s competition watchdog fines Apple €98.6M, saying the company&#39;s ATT rules are &quot;disproportionate&quot; and &quot;harmful&quot; to app developers and advertisers &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/251222/p18#a251222p18)
+ - [Sources: Erebor, Palmer Luckey&#39;s digital bank, raised $350M led by Lux Capital at a $4.35B post-money valuation; it secured FDIC approval last week &lpar;Axios&rpar;](http://www.techmeme.com/251222/p17#a251222p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
