@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur: Expedition 33 Loses Indie Game Awards After Being Accused Of Lying About AI Use](https://kotaku.com/clair-obscur-expedition-33s-loses-indie-game-awards-after-being-accused-of-lying-about-ai-use-2000655119)
- - [This WD External Hard Drive Is Basically a Giveaway at $0.01 per GB, and It’s 18TB, Not 1TB](https://kotaku.com/this-wd-external-hard-drive-is-basically-a-giveaway-at-0-01-per-gb-and-its-18tb-not-1tb-2000655048)
- - [The best soccer games of 2025 weren&#39;t just FC 25 and Football Manager](https://www.polygon.com/soccer-games-2025-despelote-rematch-pup-champs-eafc/)<!-- GAME:END -->
+ - [What free games are on Epic Games Store today &lpar;Dec. 22&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)
+ - [Nintendo is ending the Switch 2 Mario Kart World bundle](https://www.polygon.com/nintendo-switch-2-mario-kart-bundle-production-available-stock/)
+ - [Battlefield 6 fans suspect EA used generative AI in a cosmetics pack for the shooter: &#39;I would literally prefer to have no sticker than some low quality AI generated garbage&#39;](https://www.pcgamer.com/games/fps/battlefield-6-fans-suspect-ea-used-generative-ai-in-a-cosmetics-pack-for-the-shooter-i-would-literally-prefer-to-have-no-sticker-than-some-low-quality-ai-generated-garbage/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
