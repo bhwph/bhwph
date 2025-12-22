@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jump Festa 2026: All the major anime announcements](https://www.polygon.com/jump-festa-2026-all-announcements-one-piece-jjk-mha-bleach-black-clover/)
- - [Obsidian&#39;s Josh Sawyer leads the charge of RPG fans playfully roasting Stranger Things for its D&amp;D rule flubs: &#39;The oldheads are going to catch all these things&#39;](https://www.pcgamer.com/movies-tv/obsidians-josh-sawyer-leads-the-charge-of-rpg-fans-playfully-roasting-stranger-things-for-its-d-and-d-rule-flubs-the-oldheads-are-going-to-catch-all-these-things/)
- - [Five new Steam games you probably missed &lpar;December 22, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-december-22-2025/)<!-- GAME:END -->
+ - [ASUS Goes Final Clearance on AM4 Motherboards, ROG Strix B550-F WiFi II &lpar;3rd Gen Ryzen&rpar; Drops to a Record Low](https://kotaku.com/asus-goes-final-clearance-on-am4-motherboards-rog-strix-b550-f-wifi-ii-3rd-gen-ryzen-drops-to-a-record-low-2000655008)
+ - [DJI Clears Out Microphone Bundle Beyond Drones, Mic 3 &lpar;2 TX + 1 RX + Charging Case&rpar; Hits an All-Time Low](https://kotaku.com/dji-clears-out-microphone-bundle-beyond-drones-mic-3-2-tx-1-rx-charging-case-hits-an-all-time-low-2000654885)
+ - [Over 30 years since release, this classic PC platformer built with the tech that led to Doom just got a remaster](https://www.pcgamer.com/games/action/over-30-years-since-release-this-classic-pc-platformer-built-with-the-tech-that-led-to-doom-just-got-a-remaster/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
