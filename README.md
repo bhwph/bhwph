@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Italy fines Apple $115 million over App Tracking Transparency](https://appleinsider.com/articles/25/12/22/italy-fines-apple-115-million-over-app-tracking-transparency?utm_source=rss)
- - [Sources: Nvidia plans to begin shipping its H200 chips to China before mid-February 2026 and expects initial shipments to be ~40,000 to 80,000 H200 units &lpar;Reuters&rpar;](http://www.techmeme.com/251222/p12#a251222p12)
- - [The Best Japanese Planners &lpar;2026&rpar;: Hobonichi Techo, Kokuyo Jibun Techo](https://www.wired.com/story/japanese-planners-explained/)<!-- TECH:END -->
+ - [Apple cozies up to Samsung as RAM gets ridiculously expensive](https://appleinsider.com/articles/25/12/22/apple-cozies-up-to-samsung-as-ram-gets-ridiculously-expensive?utm_source=rss)
+ - [iPhone Air review three months later: Compromise is good](https://appleinsider.com/articles/25/12/22/iphone-air-review-three-months-later-compromise-is-good?utm_source=rss)
+ - [Boox Note Air 5 C review: An already good e-ink reader made a little bit better](https://appleinsider.com/articles/25/12/22/boox-note-air-5-c-review-an-already-good-e-ink-reader-made-a-little-bit-better?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
