@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a goal, pure class](http://9gag.com/gag/aKGy2PQ)
- - 😝 [Wall-E reference is perfect for this](http://9gag.com/gag/aByMw9z)
- - 👉 [The internet on a good day](http://9gag.com/gag/awyDnGQ)<!-- MEMES:END -->
+ - 6️⃣ [Send help?](http://9gag.com/gag/aQzK91K)
+ - 😝 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
+ - 👉 [Anon outsmarted the science](http://9gag.com/gag/a7oBZ8r)<!-- MEMES:END -->
 
 --- 
 
