@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [ASUS Goes Final Clearance on AM4 Motherboards, ROG Strix B550-F WiFi II &lpar;3rd Gen Ryzen&rpar; Drops to a Record Low](https://kotaku.com/asus-goes-final-clearance-on-am4-motherboards-rog-strix-b550-f-wifi-ii-3rd-gen-ryzen-drops-to-a-record-low-2000655008)
- - [DJI Clears Out Microphone Bundle Beyond Drones, Mic 3 &lpar;2 TX + 1 RX + Charging Case&rpar; Hits an All-Time Low](https://kotaku.com/dji-clears-out-microphone-bundle-beyond-drones-mic-3-2-tx-1-rx-charging-case-hits-an-all-time-low-2000654885)
- - [Over 30 years since release, this classic PC platformer built with the tech that led to Doom just got a remaster](https://www.pcgamer.com/games/action/over-30-years-since-release-this-classic-pc-platformer-built-with-the-tech-that-led-to-doom-just-got-a-remaster/)<!-- GAME:END -->
+ - [Clair Obscur: Expedition 33 Loses Indie Game Awards After Being Accused Of Lying About AI Use](https://kotaku.com/clair-obscur-expedition-33s-loses-indie-game-awards-after-being-accused-of-lying-about-ai-use-2000655119)
+ - [This WD External Hard Drive Is Basically a Giveaway at $0.01 per GB, and It’s 18TB, Not 1TB](https://kotaku.com/this-wd-external-hard-drive-is-basically-a-giveaway-at-0-01-per-gb-and-its-18tb-not-1tb-2000655048)
+ - [The best soccer games of 2025 weren&#39;t just FC 25 and Football Manager](https://www.polygon.com/soccer-games-2025-despelote-rematch-pup-champs-eafc/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
