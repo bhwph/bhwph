@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vince Zampella, former CEO of Infinity Ward, the studio behind Call of Duty, died Sunday at 55 in a single-car crash in Southern California &lpar;NBC Los Angeles&rpar;](http://www.techmeme.com/251222/p22#a251222p22)
- - [Find Hub is finally starting to take proper advantage of Google Maps &lpar;Updated&rpar;](https://www.androidauthority.com/find-hub-maps-3625771/)
- - [Still missing stocking stuffers? This Apple AirTag 4-Pack deal is here to save you!](https://www.androidauthority.com/apple-airtag-4-pack-deal-14-3627321/)<!-- TECH:END -->
+ - [6 Best Dehumidifiers to Keep Your Home Mold-Free &lpar;2026&rpar;](https://www.wired.com/gallery/best-dehumidifier/)
+ - [ChatGPT’s yearly recap sums up your conversations with the chatbot](https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped)
+ - [Not going to lie, ChatGPT’s new year end recap made me feel a bit ashamed](https://www.androidauthority.com/chatgpt-year-end-recap-3627364/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
