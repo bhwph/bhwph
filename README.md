@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Damn that laugh..](http://9gag.com/gag/aQzKMeq)
- - 😝 [50cent is a menace !!](http://9gag.com/gag/ajPjXN1)
+ - 6️⃣ [50cent is a menace !!](http://9gag.com/gag/ajPjXN1)
+ - 😝 [German precision](http://9gag.com/gag/a9yeAbW)
  - 👉 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)<!-- MEMES:END -->
 
 --- 
