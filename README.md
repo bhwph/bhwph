@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FanDuel and CME Group launch a prediction market app called FanDuel Predicts in five US states, just days after DraftKings rolled out a similar product &lpar;Denitsa Tsekova/Bloomberg&rpar;](http://www.techmeme.com/251222/p19#a251222p19)
- - [Italy&#39;s competition watchdog fines Apple €98.6M, saying the company&#39;s ATT rules are &quot;disproportionate&quot; and &quot;harmful&quot; to app developers and advertisers &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/251222/p18#a251222p18)
- - [Sources: Erebor, Palmer Luckey&#39;s digital bank, raised $350M led by Lux Capital at a $4.35B post-money valuation; it secured FDIC approval last week &lpar;Axios&rpar;](http://www.techmeme.com/251222/p17#a251222p17)<!-- TECH:END -->
+ - [Vince Zampella, former CEO of Infinity Ward, the studio behind Call of Duty, died Sunday at 55 in a single-car crash in Southern California &lpar;NBC Los Angeles&rpar;](http://www.techmeme.com/251222/p22#a251222p22)
+ - [Find Hub is finally starting to take proper advantage of Google Maps &lpar;Updated&rpar;](https://www.androidauthority.com/find-hub-maps-3625771/)
+ - [Still missing stocking stuffers? This Apple AirTag 4-Pack deal is here to save you!](https://www.androidauthority.com/apple-airtag-4-pack-deal-14-3627321/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
