@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2K Games chokes out another WWE game just 2 years after launch](https://www.pcgamer.com/games/sports/2k-games-chokes-out-another-wwe-game-just-2-years-after-launch/)
- - [The ill-starred Perfect Dark reboot had &#39;entire chapters&#39; completed before cancellation, says Joanna Dark&#39;s voice actor, who &#39;did not see it coming… it was devastating&#39;](https://www.pcgamer.com/games/fps/the-ill-starred-perfect-dark-reboot-had-entire-chapters-completed-before-cancellation-says-joanna-darks-voice-actor-who-did-not-see-it-coming-it-was-devastating/)
- - [Timothée Chalamet Told To Tap Into His Past As An Xbox 360 Controller Modder For New Ping Pong Movie](https://kotaku.com/timothee-chalamet-told-to-tap-into-his-past-as-an-xbox-360-controller-modder-for-new-ping-pong-movie-2000655176)<!-- GAME:END -->
+ - [Vince Zampella, the co-founder of Infinity Ward and head of Battlefield, dies in car crash](https://www.pcgamer.com/games/vince-zampella-the-co-founder-of-infinity-ward-and-head-of-battlefield-dies-in-car-crash/)
+ - [Steam user asks devs to fix game, gets blasted for pirating it](https://www.polygon.com/steam-game-piracy-farthest-frontier-city-builder-fan/)
+ - [Report: Vince Zampella, Battlefield Boss And Call Of Duty Co-Creator, Killed In Car Crash](https://kotaku.com/report-vince-zampella-battlefield-boss-and-call-of-duty-co-creator-killed-in-car-crash-2000655216)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
