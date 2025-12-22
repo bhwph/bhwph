@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just smile](http://9gag.com/gag/aPA0BwG)
- - 😝 [Just a man enjoying the view](http://9gag.com/gag/aPA0Boq)
- - 👉 [Truth is spoken](http://9gag.com/gag/a5QArLo)<!-- MEMES:END -->
+ - 6️⃣ [What a goal, pure class](http://9gag.com/gag/aKGy2PQ)
+ - 😝 [Wall-E reference is perfect for this](http://9gag.com/gag/aByMw9z)
+ - 👉 [The internet on a good day](http://9gag.com/gag/awyDnGQ)<!-- MEMES:END -->
 
 --- 
 
