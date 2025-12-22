@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You get what you deserve](http://9gag.com/gag/ary0KP0)
- - 😝 [So odd. Yesterday&#39;s Epstein file release included this photo, a drawer with photos in it, including these. And today, it has quietly vanished from the doj&#39;s website. And, it is of trump in both photos. Full sized photo in comments.](http://9gag.com/gag/aVv8eVK)
- - 👉 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)<!-- MEMES:END -->
+ - 6️⃣ [Just smile](http://9gag.com/gag/aPA0BwG)
+ - 😝 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)
+ - 👉 [Truth is spoken](http://9gag.com/gag/a5QArLo)<!-- MEMES:END -->
 
 --- 
 
