@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings: Chinese AI startups Zhipu and MiniMax report 2024 revenue of $44.4M and $30.5M, respectively, as both prepare for Hong Kong IPOs in the coming weeks &lpar;Bloomberg&rpar;](http://www.techmeme.com/251222/p7#a251222p7)
- - [A Christmas Miracle: Finally Making a Cup of Coffee Your Coffee-Snob Cousin Won&#39;t Criticize](https://www.cnet.com/news/best-way-brew-coffee/#ftag=CAD590a51e)
- - [No time, no problem: 5 last-minute digital gifts that actually feel personal](https://www.androidauthority.com/last-minute-digital-gifts-3625963/)<!-- TECH:END -->
+ - [Italy fines Apple $115 million over App Tracking Transparency](https://appleinsider.com/articles/25/12/22/italy-fines-apple-115-million-over-app-tracking-transparency?utm_source=rss)
+ - [Sources: Nvidia plans to begin shipping its H200 chips to China before mid-February 2026 and expects initial shipments to be ~40,000 to 80,000 H200 units &lpar;Reuters&rpar;](http://www.techmeme.com/251222/p12#a251222p12)
+ - [The Best Japanese Planners &lpar;2026&rpar;: Hobonichi Techo, Kokuyo Jibun Techo](https://www.wired.com/story/japanese-planners-explained/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
