@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple cozies up to Samsung as RAM gets ridiculously expensive](https://appleinsider.com/articles/25/12/22/apple-cozies-up-to-samsung-as-ram-gets-ridiculously-expensive?utm_source=rss)
- - [iPhone Air review three months later: Compromise is good](https://appleinsider.com/articles/25/12/22/iphone-air-review-three-months-later-compromise-is-good?utm_source=rss)
- - [Boox Note Air 5 C review: An already good e-ink reader made a little bit better](https://appleinsider.com/articles/25/12/22/boox-note-air-5-c-review-an-already-good-e-ink-reader-made-a-little-bit-better?utm_source=rss)<!-- TECH:END -->
+ - [Alphabet agrees to acquire clean energy developer Intersect for $4.75B in cash, and existing debt, as part of its push to expand its AI data center footprint &lpar;Bloomberg&rpar;](http://www.techmeme.com/251222/p16#a251222p16)
+ - [Deals: AirPods Pro 3 $199, Apple Watch Series 11 $299, M4 MacBook Air $749 with delivery by Christmas](https://appleinsider.com/articles/25/12/22/deals-airpods-pro-3-199-apple-watch-series-11-299-m4-macbook-air-749-with-delivery-by-christmas?utm_source=rss)
+ - [iPhone Fold crease-free screen glass may not be ready yet](https://appleinsider.com/articles/25/12/22/iphone-fold-crease-free-screen-glass-may-not-be-ready-yet?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
