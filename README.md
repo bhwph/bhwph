@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who thought it was a good idea to hire this person](http://9gag.com/gag/aO8Od36)
- - 😝 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
- - 👉 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)<!-- MEMES:END -->
+ - 6️⃣ [Just smile](http://9gag.com/gag/aPA0BwG)
+ - 😝 [Just a man enjoying the view](http://9gag.com/gag/aPA0Boq)
+ - 👉 [Truth is spoken](http://9gag.com/gag/a5QArLo)<!-- MEMES:END -->
 
 --- 
 
