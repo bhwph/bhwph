@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Send help?](http://9gag.com/gag/aQzK91K)
- - 😝 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
- - 👉 [Anon outsmarted the science](http://9gag.com/gag/a7oBZ8r)<!-- MEMES:END -->
+ - 6️⃣ [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
+ - 😝 [The embarrassment bar has been raised... Ah one day she will know she was actually the lucky one](http://9gag.com/gag/a9yeWb0)
+ - 👉 [Damn that laugh..](http://9gag.com/gag/aQzKMeq)<!-- MEMES:END -->
 
 --- 
 
