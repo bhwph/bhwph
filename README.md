@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab Apple&#39;s M4 MacBook Air for $749, laptops start at just $429](https://appleinsider.com/articles/25/12/17/grab-apples-m4-macbook-air-for-749-laptops-start-at-just-409?utm_source=rss)
- - [Adam Mosseri says &quot;maybe we&#39;ll need&quot; premium longform video for Instagram, and that TikTok&#39;s US sale turmoil has given Meta time to retune algorithms &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/251222/p1#a251222p1)
- - [Google’s Gemini is about to make its home appliance debut](https://www.androidauthority.com/google-gemini-home-appliances-3627029/)<!-- TECH:END -->
+ - [Android Auto’s music player is about to look a lot more expressive](https://www.androidauthority.com/android-auto-wavy-progress-bar-apk-teardown-3627067/)
+ - [Google may be bringing a Magic Cue-like feature to all Android devices](https://www.androidauthority.com/android-contextual-suggestions-pixel-magic-cue-3627051/)
+ - [Two 200MP cameras and a 10x camera! This is the Ultra phone to end all Ultra phones.](https://www.androidauthority.com/ultra-phone-10x-camera-200mp-3627039/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
