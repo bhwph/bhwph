@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vince Zampella, the co-founder of Infinity Ward and head of Battlefield, dies in car crash](https://www.pcgamer.com/games/vince-zampella-the-co-founder-of-infinity-ward-and-head-of-battlefield-dies-in-car-crash/)
- - [Steam user asks devs to fix game, gets blasted for pirating it](https://www.polygon.com/steam-game-piracy-farthest-frontier-city-builder-fan/)
- - [Report: Vince Zampella, Battlefield Boss And Call Of Duty Co-Creator, Killed In Car Crash](https://kotaku.com/report-vince-zampella-battlefield-boss-and-call-of-duty-co-creator-killed-in-car-crash-2000655216)<!-- GAME:END -->
+ - [Swen Vincke warns Divinity newcomers that they probably shouldn&#39;t play the early games in the series: &#39;They&#39;re a bit outdated by now,&#39; which is putting it very mildly](https://www.pcgamer.com/games/rpg/swen-vincke-warns-divinity-newcomers-that-they-probably-shouldnt-play-the-early-games-in-the-series-theyre-a-bit-outdated-by-now-which-is-putting-it-very-mildly/)
+ - [I played dozens of retro games this year, and these are the ones I still whole-heartedly recommend going into 2026](https://www.pcgamer.com/games/i-played-dozens-of-retro-games-this-year-and-these-are-the-ones-i-still-whole-heartedly-recommend-going-into-2026/)
+ - [PlayStation holiday sale has great deals on PS4 and PS5 games](https://www.polygon.com/playstation-holiday-sale-2025-ps4-ps5-deals/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
