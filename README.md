@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just smile](http://9gag.com/gag/aPA0BwG)
- - 😝 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)
- - 👉 [Truth is spoken](http://9gag.com/gag/a5QArLo)<!-- MEMES:END -->
+ - 6️⃣ [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)
+ - 😝 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
+ - 👉 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)<!-- MEMES:END -->
 
 --- 
 
