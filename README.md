@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some experts in the human-computer interaction field say making AI chatbots act humanlike creates cognitive dissonance for users over how much to trust them &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/251221/p16#a251221p16)
- - [Samsung’s wide foldable leak hints at a pre-emptive strike on Apple](https://www.androidauthority.com/samsung-wide-foldable-design-specs-leak-3627018/)
- - [Frozen Waymos backed up San Francisco traffic during a widespread power outage](https://www.theverge.com/news/848843/waymo-san-francisco-power-outage)<!-- TECH:END -->
+ - [Uber plans to trial driverless taxis in London using Baidu&#39;s Apollo Go RT6 robotaxis, starting in H1 2026 with services available by the end of 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251221/p17#a251221p17)
+ - [The internet just made a 300TB copy of Spotify!](https://www.androidauthority.com/spotify-annas-archive-3627023/)
+ - [Honey: all the news about PayPal’s alleged scam coupon app](https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
