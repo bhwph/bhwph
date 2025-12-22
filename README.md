@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So odd. Yesterday&#39;s Epstein file release included this photo, a drawer with photos in it, including these. And today, it has quietly vanished from the doj&#39;s website. And, it is of trump in both photos. Full sized photo in comments.](http://9gag.com/gag/aVv8eVK)
- - 😝 [Who thought it was a good idea to hire this person](http://9gag.com/gag/aO8Od36)
- - 👉 [Send help?](http://9gag.com/gag/aQzK91K)<!-- MEMES:END -->
+ - 6️⃣ [Damn that laugh..](http://9gag.com/gag/aQzKMeq)
+ - 😝 [50cent is a menace !!](http://9gag.com/gag/ajPjXN1)
+ - 👉 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)<!-- MEMES:END -->
 
 --- 
 
