@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What free games are on Epic Games Store today &lpar;Dec. 22&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)
- - [Nintendo is ending the Switch 2 Mario Kart World bundle](https://www.polygon.com/nintendo-switch-2-mario-kart-bundle-production-available-stock/)
- - [Battlefield 6 fans suspect EA used generative AI in a cosmetics pack for the shooter: &#39;I would literally prefer to have no sticker than some low quality AI generated garbage&#39;](https://www.pcgamer.com/games/fps/battlefield-6-fans-suspect-ea-used-generative-ai-in-a-cosmetics-pack-for-the-shooter-i-would-literally-prefer-to-have-no-sticker-than-some-low-quality-ai-generated-garbage/)<!-- GAME:END -->
+ - [2K Games chokes out another WWE game just 2 years after launch](https://www.pcgamer.com/games/sports/2k-games-chokes-out-another-wwe-game-just-2-years-after-launch/)
+ - [The ill-starred Perfect Dark reboot had &#39;entire chapters&#39; completed before cancellation, says Joanna Dark&#39;s voice actor, who &#39;did not see it coming… it was devastating&#39;](https://www.pcgamer.com/games/fps/the-ill-starred-perfect-dark-reboot-had-entire-chapters-completed-before-cancellation-says-joanna-darks-voice-actor-who-did-not-see-it-coming-it-was-devastating/)
+ - [Timothée Chalamet Told To Tap Into His Past As An Xbox 360 Controller Modder For New Ping Pong Movie](https://kotaku.com/timothee-chalamet-told-to-tap-into-his-past-as-an-xbox-360-controller-modder-for-new-ping-pong-movie-2000655176)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
