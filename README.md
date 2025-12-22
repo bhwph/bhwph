@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
- - 😝 [The embarrassment bar has been raised... Ah one day she will know she was actually the lucky one](http://9gag.com/gag/a9yeWb0)
- - 👉 [Damn that laugh..](http://9gag.com/gag/aQzKMeq)<!-- MEMES:END -->
+ - 6️⃣ [So odd. Yesterday&#39;s Epstein file release included this photo, a drawer with photos in it, including these. And today, it has quietly vanished from the doj&#39;s website. And, it is of trump in both photos. Full sized photo in comments.](http://9gag.com/gag/aVv8eVK)
+ - 😝 [Who thought it was a good idea to hire this person](http://9gag.com/gag/aO8Od36)
+ - 👉 [Send help?](http://9gag.com/gag/aQzK91K)<!-- MEMES:END -->
 
 --- 
 
