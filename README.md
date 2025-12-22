@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto’s music player is about to look a lot more expressive](https://www.androidauthority.com/android-auto-wavy-progress-bar-apk-teardown-3627067/)
- - [Google may be bringing a Magic Cue-like feature to all Android devices](https://www.androidauthority.com/android-contextual-suggestions-pixel-magic-cue-3627051/)
- - [Two 200MP cameras and a 10x camera! This is the Ultra phone to end all Ultra phones.](https://www.androidauthority.com/ultra-phone-10x-camera-200mp-3627039/)<!-- TECH:END -->
+ - [Filings: Chinese AI startups Zhipu and MiniMax report 2024 revenue of $44.4M and $30.5M, respectively, as both prepare for Hong Kong IPOs in the coming weeks &lpar;Bloomberg&rpar;](http://www.techmeme.com/251222/p7#a251222p7)
+ - [A Christmas Miracle: Finally Making a Cup of Coffee Your Coffee-Snob Cousin Won&#39;t Criticize](https://www.cnet.com/news/best-way-brew-coffee/#ftag=CAD590a51e)
+ - [No time, no problem: 5 last-minute digital gifts that actually feel personal](https://www.androidauthority.com/last-minute-digital-gifts-3625963/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
