@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hideo Kojima&#39;s new favorite manga is a must-read for Metal Gear fans](https://www.polygon.com/miharus-seat-of-war-the-sniper-girl-manga-review/)
- - [Fallout: New Vegas lead writer worries Caesar&#39;s argument for authoritarianism &#39;was done a little too well,&#39; but still believes &#39;you can&#39;t just make your tyrants cardboard villains&#39;](https://www.pcgamer.com/games/rpg/fallout-new-vegas-lead-writer-worries-caesars-argument-for-authoritarianism-was-done-a-little-too-well-but-still-believes-you-cant-just-make-your-tyrants-cardboard-villains/)
- - [From Andor to Wicked, 2025&#39;s best movies and TV exposed a dark political truth](https://www.polygon.com/2025-movies-tv-theme-explained-propaganda-fascism/)<!-- GAME:END -->
+ - [Obsidian&#39;s Josh Sawyer leads the charge of RPG fans playfully roasting Stranger Things for its D&amp;D rule flubs: &#39;The oldheads are going to catch all these things&#39;](https://www.pcgamer.com/movies-tv/obsidians-josh-sawyer-leads-the-charge-of-rpg-fans-playfully-roasting-stranger-things-for-its-d-and-d-rule-flubs-the-oldheads-are-going-to-catch-all-these-things/)
+ - [Five new Steam games you probably missed &lpar;December 22, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-december-22-2025/)
+ - [You might think reimagining Washington DC as a nuclear hellscape for Fallout 3 would have been grim, but it made the lead designer want to set the next game in his hometown: &#39;It&#39;s just kind of fun to blow things up&#39;](https://www.pcgamer.com/games/fallout/you-might-think-reimagining-washington-dc-as-a-nuclear-hellscape-for-fallout-3-would-have-been-grim-but-it-made-the-lead-designer-want-to-set-the-next-game-in-his-hometown-its-just-kind-of-fun-to-blow-things-up/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
