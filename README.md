@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Video Game Industry Pays Tribute To Vince Zampella: ‘The Embodiment Of A Legend’](https://kotaku.com/vince-zampella-death-car-crash-tributes-reactions-2000655379)
- - [What free games are on Epic Games Store today &lpar;Dec. 23&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)
- - [Fallout 4&#39;s lead designer reckons it is the &#39;most replayable&#39; game in the series thanks to its interweaving quests, which I&#39;m sure will go down swimmingly with New Vegas sickos](https://www.pcgamer.com/games/fallout/fallout-4s-lead-designer-reckons-it-is-the-most-replayable-game-in-the-series-thanks-to-its-interweaving-quests-which-im-sure-will-go-down-swimmingly-with-new-vegas-sickos/)<!-- GAME:END -->
+ - [Avatar: The Last Airbender movie pulled from theaters, releasing in 2026 on streaming](https://www.polygon.com/avatar-last-airbender-movie-2026-release-date-streaming-paramount-plus/)
+ - [Microsoft&#39;s year of shame](https://www.pcgamer.com/gaming-industry/microsofts-year-of-shame/)
+ - [Wonder Woman 1984 at 5: The DCEU&#39;s biggest flop is better than you remember](https://www.polygon.com/wonder-woman-1984-dceu-5-year-anniversary/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
