@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [50cent is a menace !!](http://9gag.com/gag/ajPjXN1)
- - 😝 [German precision](http://9gag.com/gag/a9yeAbW)
- - 👉 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)<!-- MEMES:END -->
+ - 6️⃣ [RHM](http://9gag.com/gag/aE0bx1n)
+ - 😝 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
+ - 👉 [Send help?](http://9gag.com/gag/aQzK91K)<!-- MEMES:END -->
 
 --- 
 
