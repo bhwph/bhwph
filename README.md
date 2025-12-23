@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Send help?](http://9gag.com/gag/aQzK91K)
- - 😝 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
+ - 6️⃣ [Who thought it was a good idea to hire this person](http://9gag.com/gag/aO8Od36)
+ - 😝 [Just a man enjoying the view](http://9gag.com/gag/aPA0Boq)
  - 👉 [No freak](http://9gag.com/gag/avyVGOn)<!-- MEMES:END -->
 
 --- 
