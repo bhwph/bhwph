@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York’s landmark AI safety bill was defanged — and universities were part of the push against it](https://www.theverge.com/ai-artificial-intelligence/849293/ai-alliance-universities-colleges-funding-ad-campaign-against-raise-act)
- - [Dozens of Flock AI camera feeds were just out there](https://www.theverge.com/news/849624/flock-ai-camera-feeds-exposed-benn-jordan)
- - [France&#39;s La Poste says it has suffered a suspected DDoS attack in &quot;a major network incident&quot; on Monday, which disrupted its postal and banking services &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251223/p16#a251223p16)<!-- TECH:END -->
+ - [Judge blocks Texas app store age verification law](https://www.theverge.com/news/849752/texas-app-store-accountability-act-age-verification-injunction)
+ - [Data Holds the Key in Slowing Age-Related Illnesses](https://www.wired.com/story/data-holds-the-key-in-slowing-age-related-illnesses/)
+ - [This prepaid carrier will now offer free phones and repayment plans that work like postpaid](https://www.androidauthority.com/verizon-total-repayment-plans-3627579/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
