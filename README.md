@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
- - 😝 [First day on earth?](http://9gag.com/gag/azxzqRj)
- - 👉 [Doesn&#39;t even care](http://9gag.com/gag/aD2LxZx)<!-- MEMES:END -->
+ - 6️⃣ [No freak](http://9gag.com/gag/avyVGOn)
+ - 😝 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
+ - 👉 [Save Ariana Grande](http://9gag.com/gag/a0eG5vz)<!-- MEMES:END -->
 
 --- 
 
