@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Dehumidifiers to Keep Your Home Mold-Free &lpar;2026&rpar;](https://www.wired.com/gallery/best-dehumidifier/)
- - [ChatGPT’s yearly recap sums up your conversations with the chatbot](https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped)
- - [Not going to lie, ChatGPT’s new year end recap made me feel a bit ashamed](https://www.androidauthority.com/chatgpt-year-end-recap-3627364/)<!-- TECH:END -->
+ - [The internet just made a 300TB copy of Spotify! &lpar;Updated: New Spotify statement&rpar;](https://www.androidauthority.com/spotify-annas-archive-3627023/)
+ - [Sources: ByteDance has made preliminary plans to spend ¥160B, or ~$23B, in AI capex in 2026, up from ¥150B in 2025, and has budgeted ~$12.07B for AI processors &lpar;Financial Times&rpar;](http://www.techmeme.com/251222/p27#a251222p27)
+ - [Score a Kindle reader deal: Most are on sale!](https://www.androidauthority.com/amazon-kindle-paperwhite-colorsoft-scribe-deals-3627318/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
