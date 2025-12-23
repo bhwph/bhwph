@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [First day on earth?](http://9gag.com/gag/azxzqRj)
- - 😝 [German precision](http://9gag.com/gag/a9yeAbW)
- - 👉 [Observe, this can save your life someday.](http://9gag.com/gag/a4P8G0v)<!-- MEMES:END -->
+ - 6️⃣ [There&#39;s nothing civil here](http://9gag.com/gag/a7oBr2r)
+ - 😝 [Send help?](http://9gag.com/gag/aQzK91K)
+ - 👉 [Just a man enjoying the view](http://9gag.com/gag/aPA0Boq)<!-- MEMES:END -->
 
 --- 
 
