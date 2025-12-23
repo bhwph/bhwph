@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad Pro &amp; Nintendo Switch 2 are perfect companions with a portable dock](https://appleinsider.com/articles/25/12/23/ipad-pro-nintendo-switch-2-are-perfect-companions-with-a-portable-dock?utm_source=rss)
- - [Hisense wants laser projection to be your next big-screen upgrade](https://www.androidauthority.com/hisense-announces-xr10-px4-pro-projectors-3627438/)
- - [The Pentagon partners with xAI to embed the company&#39;s frontier AI systems, based on the Grok family of models, directly into GenAI.mil as soon as early 2026 &lpar;Bonny Chu/Fox News&rpar;](http://www.techmeme.com/251222/p29#a251222p29)<!-- TECH:END -->
+ - [Galaxy A37, A57 camera specs leak: A big upgrade for the cheaper phone](https://www.androidauthority.com/samsung-galaxy-a37-galaxy-a57-camera-specs-leak-3627453/)
+ - [Despite concerns, Labour MPs and other left-wing UK politicians stay active on X; the UK government says it stopped paid ads on X in 2024, down from £9M in 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/251223/p3#a251223p3)
+ - [30% Off Tempur-Pedic Promo Codes | December 2025](https://www.wired.com/story/tempur-pedic-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
