@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6 Is Scrambling To Address AI Accusations Over Double-Barreled Gun](https://kotaku.com/battlefield-6-ai-stickers-cosmetics-bundle-2000655167)
- - [Swen Vincke warns Divinity newcomers that they probably shouldn&#39;t play the early games in the series: &#39;They&#39;re a bit outdated by now,&#39; which is putting it very mildly](https://www.pcgamer.com/games/rpg/swen-vincke-warns-divinity-newcomers-that-they-probably-shouldnt-play-the-early-games-in-the-series-theyre-a-bit-outdated-by-now-which-is-putting-it-very-mildly/)
- - [I played dozens of retro games this year, and these are the ones I still whole-heartedly recommend going into 2026](https://www.pcgamer.com/games/i-played-dozens-of-retro-games-this-year-and-these-are-the-ones-i-still-whole-heartedly-recommend-going-into-2026/)<!-- GAME:END -->
+ - [LEGO Clears Out the Creative Brick Box at Nearly 50% Off After 80K+ Sold, Build Anything You Want This Holiday](https://kotaku.com/lego-clears-out-the-creative-brick-box-at-nearly-50-off-after-80k-sold-build-anything-you-want-this-holiday-2000655247)
+ - [This neat Windows 11 registry trick boosts NVMe SSD performance up to 80% but it&#39;s only officially available for enterprise users](https://www.pcgamer.com/hardware/ssds/this-neat-windows-11-registry-trick-boosts-nvme-ssd-performance-up-to-80-percent-but-its-only-officially-available-for-enterprise-users/)
+ - [Samsung Galaxy Buds 3 FE &lpar;2025&rpar; Crash to All-Time Low on Amazon With This-Week Delivery, While AirPods Pro 3 Ship in 2026](https://kotaku.com/samsung-galaxy-buds-3-fe-2025-crash-to-an-all-time-low-on-amazon-with-this-week-delivery-while-airpods-pro-3-ship-in-2026-2000655303)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
