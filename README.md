@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge blocks Texas app store age verification law](https://www.theverge.com/news/849752/texas-app-store-accountability-act-age-verification-injunction)
- - [Data Holds the Key in Slowing Age-Related Illnesses](https://www.wired.com/story/data-holds-the-key-in-slowing-age-related-illnesses/)
- - [This prepaid carrier will now offer free phones and repayment plans that work like postpaid](https://www.androidauthority.com/verizon-total-repayment-plans-3627579/)<!-- TECH:END -->
+ - [The Best Unlimited Phone Plan: T-Mobile, AT&amp;T, Verizon Compared](https://www.wired.com/story/best-unlimited-phone-plans/)
+ - [The 50 Best Shows on HBO Max, WIRED’s Picks &lpar;January 2026&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+ - [Marissa Mayer&#39;s new startup Dazzle, which is building next-gen AI personal assistants, raised an $8M seed at a $35M valuation and plans to exit stealth in 2026 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251223/p21#a251223p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
