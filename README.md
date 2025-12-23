@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2025 was the year of the anime blockbuster — so what happens next?](https://www.polygon.com/demon-slayer-infinity-castle-chainsaw-man-reze-arc-anime-blockbuster/)
- - [The Best Video Game Characters Of 2025](https://kotaku.com/the-best-video-game-characters-of-2025-2000655443)
- - [Exodus preview: Archetype team gets real nerdy about its new RPG](https://www.polygon.com/exodus-preview-narrative-story/)<!-- GAME:END -->
+ - [Polish analyst adds fuel to rumors that The Witcher 3 will get new DLC in 2026 to set up The Witcher 4](https://www.pcgamer.com/games/rpg/polish-analyst-adds-fuel-to-rumors-that-the-witcher-3-will-get-new-dlc-in-2026-to-set-up-the-witcher-4/)
+ - [Newly Dubbed Mario Fan Video Perfectly Lampoons AAA Gaming](https://kotaku.com/mario-parody-viral-voice-actor-ue5-instagram-2000655479)
+ - [Electronic Arts shareholders vote overwhelmingly in favor of Saudi-led takeover](https://www.pcgamer.com/gaming-industry/electronic-arts-shareholders-vote-overwhelmingly-in-favor-of-saudi-led-takeover/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
