@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [World first: This Ultra phone will raise the bar with 200MP continuous optical zoom](https://www.androidauthority.com/200mp-continuous-zoom-camera-phone-3627466/)
- - [US companies sold $1.7T of investment-grade bonds in 2025, nearing the $1.8T 2020 record, driven by AI infrastructure borrowing; Goldman says AI makes up ~30% &lpar;Kate Duguid/Financial Times&rpar;](http://www.techmeme.com/251223/p4#a251223p4)
- - [Groupon Promo Codes: 50% Off in January 2026](https://www.wired.com/story/groupon-promo-code/)<!-- TECH:END -->
+ - [Did you know: This is the company behind the largest smartphone factory in the world](https://www.androidauthority.com/did-you-know-largest-smartphone-factory-3627089/)
+ - [How AI can work across scales, from individuals to organizations to economies, like steel and the steam engine before it, as AI arrives as &quot;infinite minds&quot; &lpar;Ivan Zhao/@ivanhzhao&rpar;](http://www.techmeme.com/251223/p5#a251223p5)
+ - [Pixels and iPhones have plenty in common, and a lot of you don’t know about it](https://www.androidauthority.com/pixels-iphones-samsungs-manufacturing-poll-3627461/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
