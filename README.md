@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
- - 😝 [No freak](http://9gag.com/gag/avyVGOn)
- - 👉 [Just a man enjoying the view](http://9gag.com/gag/aPA0Boq)<!-- MEMES:END -->
+ - 6️⃣ [Send help?](http://9gag.com/gag/aQzK91K)
+ - 😝 [Nobody\u2019s been able to give a real explanation for this](http://9gag.com/gag/aGyqeqw)
+ - 👉 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)<!-- MEMES:END -->
 
 --- 
 
