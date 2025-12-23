@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [RHM](http://9gag.com/gag/aE0bx1n)
- - 😝 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
- - 👉 [Send help?](http://9gag.com/gag/aQzK91K)<!-- MEMES:END -->
+ - 6️⃣ [First day on earth?](http://9gag.com/gag/azxzqRj)
+ - 😝 [German precision](http://9gag.com/gag/a9yeAbW)
+ - 👉 [Observe, this can save your life someday.](http://9gag.com/gag/a4P8G0v)<!-- MEMES:END -->
 
 --- 
 
