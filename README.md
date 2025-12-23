@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Unlimited Phone Plan: T-Mobile, AT&amp;T, Verizon Compared](https://www.wired.com/story/best-unlimited-phone-plans/)
- - [The 50 Best Shows on HBO Max, WIRED’s Picks &lpar;January 2026&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Marissa Mayer&#39;s new startup Dazzle, which is building next-gen AI personal assistants, raised an $8M seed at a $35M valuation and plans to exit stealth in 2026 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251223/p21#a251223p21)<!-- TECH:END -->
+ - [The US is imposing visa restrictions on five Europeans, including Thierry Breton, accusing them of pressuring US tech companies to censor certain US viewpoints &lpar;Fatima Hussein/Associated Press&rpar;](http://www.techmeme.com/251223/p22#a251223p22)
+ - [Check your stocking: Google just released Android 16 QPR3 Beta 1.1](https://www.androidauthority.com/android-16-qpr3-beta-1-1-3627665/)
+ - [Hate the new Pixel home screen search UI? Here’s how to bring the old one back](https://www.androidauthority.com/bring-back-old-pixel-launcher-search-ui-3627674/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
