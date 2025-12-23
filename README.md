@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There&#39;s nothing civil here](http://9gag.com/gag/a7oBr2r)
- - 😝 [Send help?](http://9gag.com/gag/aQzK91K)
- - 👉 [Just a man enjoying the view](http://9gag.com/gag/aPA0Boq)<!-- MEMES:END -->
+ - 6️⃣ [Send help?](http://9gag.com/gag/aQzK91K)
+ - 😝 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
+ - 👉 [No freak](http://9gag.com/gag/avyVGOn)<!-- MEMES:END -->
 
 --- 
 
