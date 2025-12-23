@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [LEGO Clears Out the Creative Brick Box at Nearly 50% Off After 80K+ Sold, Build Anything You Want This Holiday](https://kotaku.com/lego-clears-out-the-creative-brick-box-at-nearly-50-off-after-80k-sold-build-anything-you-want-this-holiday-2000655247)
- - [This neat Windows 11 registry trick boosts NVMe SSD performance up to 80% but it&#39;s only officially available for enterprise users](https://www.pcgamer.com/hardware/ssds/this-neat-windows-11-registry-trick-boosts-nvme-ssd-performance-up-to-80-percent-but-its-only-officially-available-for-enterprise-users/)
- - [Samsung Galaxy Buds 3 FE &lpar;2025&rpar; Crash to All-Time Low on Amazon With This-Week Delivery, While AirPods Pro 3 Ship in 2026](https://kotaku.com/samsung-galaxy-buds-3-fe-2025-crash-to-an-all-time-low-on-amazon-with-this-week-delivery-while-airpods-pro-3-ship-in-2026-2000655303)<!-- GAME:END -->
+ - [Five Nights at Freddy&#39;s 2 is one of the worst-rated movies of the year just like Borderlands was last year](https://www.pcgamer.com/movies-tv/five-nights-at-freddys-2-is-one-of-the-worst-rated-movies-of-the-year-just-like-borderlands-was-last-year/)
+ - [EVE Online players destroyed 1,142,260,784,813,930 ISK worth of ships in 2025, which according to my caveman-level maths amounts to over $6 million lost to the void](https://www.pcgamer.com/games/mmo/eve-online-players-destroyed-1-142-260-784-813-930-isk-worth-of-ships-in-2025-which-according-to-my-caveman-level-maths-amounts-to-over-usd6-million-lost-to-the-void/)
+ - [Lenovo’s Ryzen 5 Gaming Laptop Is 81% Off in Year-End Clearance, Priced Like Budget Tablet](https://kotaku.com/lenovos-ryzen-5-gaming-laptop-is-81-off-in-year-end-clearance-priced-like-budget-tablet-2000655266)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
