@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did you know: This is the company behind the largest smartphone factory in the world](https://www.androidauthority.com/did-you-know-largest-smartphone-factory-3627089/)
- - [How AI can work across scales, from individuals to organizations to economies, like steel and the steam engine before it, as AI arrives as &quot;infinite minds&quot; &lpar;Ivan Zhao/@ivanhzhao&rpar;](http://www.techmeme.com/251223/p5#a251223p5)
- - [Pixels and iPhones have plenty in common, and a lot of you don’t know about it](https://www.androidauthority.com/pixels-iphones-samsungs-manufacturing-poll-3627461/)<!-- TECH:END -->
+ - [Apple fined $116 million over app privacy prompts](https://www.theverge.com/news/849528/apple-italy-antitrust-fine-att-app-privacy)
+ - [The Canada Pension Plan Board and Australia&#39;s Goodman agree to invest $2.6B+ in data centers in Frankfurt, Amsterdam, and Paris, starting to build in June 2026 &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/251223/p10#a251223p10)
+ - [Free two-hour delivery from Apple Stores now available for a limited time](https://appleinsider.com/articles/25/12/23/free-two-hour-delivery-from-apple-stores-now-available-for-a-limited-time?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
