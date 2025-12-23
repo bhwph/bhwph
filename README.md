@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple fined $116 million over app privacy prompts](https://www.theverge.com/news/849528/apple-italy-antitrust-fine-att-app-privacy)
- - [The Canada Pension Plan Board and Australia&#39;s Goodman agree to invest $2.6B+ in data centers in Frankfurt, Amsterdam, and Paris, starting to build in June 2026 &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/251223/p10#a251223p10)
- - [Free two-hour delivery from Apple Stores now available for a limited time](https://appleinsider.com/articles/25/12/23/free-two-hour-delivery-from-apple-stores-now-available-for-a-limited-time?utm_source=rss)<!-- TECH:END -->
+ - [ServiceNow agrees to acquire cybersecurity startup Armis for $7.75B, set to close in H2 2026, pending approvals; Insight acquired Armis in a $1.1B deal in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251223/p13#a251223p13)
+ - [Brett Harrison, the former president of FTX US, raised $35M for his new global exchange AX, which offers perpetual futures, a source says at a $187M valuation &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/251223/p12#a251223p12)
+ - [Apple Vision Pro &lpar;M5&rpar; review three-months later: A flawed wonder](https://appleinsider.com/articles/25/12/23/apple-vision-pro-m5-review-three-months-later-a-flawed-wonder?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
