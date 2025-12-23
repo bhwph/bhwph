@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
- - 😝 [Save Ariana Grande](http://9gag.com/gag/a0eG5vz)
- - 👉 [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)<!-- MEMES:END -->
+ - 6️⃣ [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
+ - 😝 [First day on earth?](http://9gag.com/gag/azxzqRj)
+ - 👉 [Doesn&#39;t even care](http://9gag.com/gag/aD2LxZx)<!-- MEMES:END -->
 
 --- 
 
