@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar: The Last Airbender movie pulled from theaters, releasing in 2026 on streaming](https://www.polygon.com/avatar-last-airbender-movie-2026-release-date-streaming-paramount-plus/)
- - [Microsoft&#39;s year of shame](https://www.pcgamer.com/gaming-industry/microsofts-year-of-shame/)
- - [Wonder Woman 1984 at 5: The DCEU&#39;s biggest flop is better than you remember](https://www.polygon.com/wonder-woman-1984-dceu-5-year-anniversary/)<!-- GAME:END -->
+ - [2025 was the year of the anime blockbuster — so what happens next?](https://www.polygon.com/demon-slayer-infinity-castle-chainsaw-man-reze-arc-anime-blockbuster/)
+ - [The Best Video Game Characters Of 2025](https://kotaku.com/the-best-video-game-characters-of-2025-2000655443)
+ - [Exodus preview: Archetype team gets real nerdy about its new RPG](https://www.polygon.com/exodus-preview-narrative-story/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
