@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Nights at Freddy&#39;s 2 is one of the worst-rated movies of the year just like Borderlands was last year](https://www.pcgamer.com/movies-tv/five-nights-at-freddys-2-is-one-of-the-worst-rated-movies-of-the-year-just-like-borderlands-was-last-year/)
- - [EVE Online players destroyed 1,142,260,784,813,930 ISK worth of ships in 2025, which according to my caveman-level maths amounts to over $6 million lost to the void](https://www.pcgamer.com/games/mmo/eve-online-players-destroyed-1-142-260-784-813-930-isk-worth-of-ships-in-2025-which-according-to-my-caveman-level-maths-amounts-to-over-usd6-million-lost-to-the-void/)
- - [Lenovo’s Ryzen 5 Gaming Laptop Is 81% Off in Year-End Clearance, Priced Like Budget Tablet](https://kotaku.com/lenovos-ryzen-5-gaming-laptop-is-81-off-in-year-end-clearance-priced-like-budget-tablet-2000655266)<!-- GAME:END -->
+ - [The Video Game Industry Pays Tribute To Vince Zampella: ‘The Embodiment Of A Legend’](https://kotaku.com/vince-zampella-death-car-crash-tributes-reactions-2000655379)
+ - [What free games are on Epic Games Store today &lpar;Dec. 23&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)
+ - [Fallout 4&#39;s lead designer reckons it is the &#39;most replayable&#39; game in the series thanks to its interweaving quests, which I&#39;m sure will go down swimmingly with New Vegas sickos](https://www.pcgamer.com/games/fallout/fallout-4s-lead-designer-reckons-it-is-the-most-replayable-game-in-the-series-thanks-to-its-interweaving-quests-which-im-sure-will-go-down-swimmingly-with-new-vegas-sickos/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
