@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ServiceNow agrees to acquire cybersecurity startup Armis for $7.75B, set to close in H2 2026, pending approvals; Insight acquired Armis in a $1.1B deal in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251223/p13#a251223p13)
- - [Brett Harrison, the former president of FTX US, raised $35M for his new global exchange AX, which offers perpetual futures, a source says at a $187M valuation &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/251223/p12#a251223p12)
- - [Apple Vision Pro &lpar;M5&rpar; review three-months later: A flawed wonder](https://appleinsider.com/articles/25/12/23/apple-vision-pro-m5-review-three-months-later-a-flawed-wonder?utm_source=rss)<!-- TECH:END -->
+ - [New York’s landmark AI safety bill was defanged — and universities were part of the push against it](https://www.theverge.com/ai-artificial-intelligence/849293/ai-alliance-universities-colleges-funding-ad-campaign-against-raise-act)
+ - [Dozens of Flock AI camera feeds were just out there](https://www.theverge.com/news/849624/flock-ai-camera-feeds-exposed-benn-jordan)
+ - [France&#39;s La Poste says it has suffered a suspected DDoS attack in &quot;a major network incident&quot; on Monday, which disrupted its postal and banking services &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251223/p16#a251223p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
