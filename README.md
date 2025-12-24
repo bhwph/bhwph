@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI staff discussed prioritizing sponsored content in ChatGPT when users ask relevant queries and created mockups with ads in sidebars or as pop-ups &lpar;The Information&rpar;](http://www.techmeme.com/251224/p12#a251224p12)
- - [Steep US tariffs on Chinese chip imports won&#39;t hit Apple until 2027](https://appleinsider.com/articles/25/12/24/steep-us-tariffs-on-chinese-chip-imports-wont-hit-apple-until-2027?utm_source=rss)
- - [55 of the Best TV Shows on Netflix That Will Keep You Entertained](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Beijing-based DP Technology, which develops AI tools used by researchers for tasks like computer-aided drug design and battery design, raised a ~$114M Series C &lpar;Eunice Xu/South China Morning Post&rpar;](http://www.techmeme.com/251224/p13#a251224p13)
+ - [Do Your Dogs Freak Out They Hear Wham&#39;s &#39;Last Christmas?&#39; There&#39;s a Reason for That](https://www.cnet.com/tech/services-and-software/whams-last-christmas-is-stressing-your-pets-out-what-other-holiday-songs-made-the-cut/#ftag=CAD590a51e)
+ - [Those smartphone price hikes we’ve feared look like they’re about to start](https://www.androidauthority.com/smartphone-price-increases-2026-3627848/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
