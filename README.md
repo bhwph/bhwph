@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pluribus creator Vince Gilligan knows how the show ends](https://www.polygon.com/how-will-pluribus-end-vince-gilligan-interview/)
- - [Wait, there was a new live-action Witcher movie? Starring Dolph Lundgren? On Netflix? In October?](https://www.pcgamer.com/movies-tv/wait-there-was-a-new-live-action-witcher-movie-starring-dolph-lundgren-on-netflix-in-october/)
- - [Polish analyst adds fuel to rumors that The Witcher 3 will get new DLC in 2026 to set up The Witcher 4](https://www.pcgamer.com/games/rpg/polish-analyst-adds-fuel-to-rumors-that-the-witcher-3-will-get-new-dlc-in-2026-to-set-up-the-witcher-4/)<!-- GAME:END -->
+ - [Nintendo Switch With Joy-Con Clearance Starts on Amazon, Already Selling Out Fast at Its Lowest Price](https://kotaku.com/nintendo-switch-with-joy-con-clearance-starts-on-amazon-already-selling-out-fast-at-its-lowest-price-2000655473)
+ - [20 years ago, The Christmas Invasion changed Doctor Who forever](https://www.polygon.com/the-christmas-invasion-anniversary-doctor-who-david-tennant-billie-piper/)
+ - [Celebrate the holidays the way Saint Nick intended, by blasting through hordes of enemies in the best Christmas-themed FPS mods](https://www.pcgamer.com/games/fps/celebrate-the-holidays-the-way-saint-nick-intended-by-blasting-through-hordes-of-enemies-in-the-best-christmas-themed-fps-mods/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
