@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice watches it is](http://9gag.com/gag/aXPzYd6)
- - 😝 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)
- - 👉 [Got really lucky. Very blessed.](http://9gag.com/gag/a0eGbVv)<!-- MEMES:END -->
+ - 6️⃣ [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)
+ - 😝 [Because an instant screencap button was TOO perfect.](http://9gag.com/gag/axy8z2n)
+ - 👉 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)<!-- MEMES:END -->
 
 --- 
 
