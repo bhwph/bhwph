@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)
- - 😝 [This is what we needed](http://9gag.com/gag/an73MDn)
- - 👉 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)<!-- MEMES:END -->
+ - 6️⃣ [Peaceful \u270c\ufe0f Community](http://9gag.com/gag/a9yeRvZ)
+ - 😝 [Stay safe](http://9gag.com/gag/awyDXqQ)
+ - 👉 [Go sports!](http://9gag.com/gag/aW4AEox)<!-- MEMES:END -->
 
 --- 
 
