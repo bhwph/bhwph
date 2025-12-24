@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
- - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)
- - [Over the past month, the US paused talks on a tech pact with the UK, canceled a South Korea trade meeting, and threatened the EU over Big Tech regulations &lpar;Politico&rpar;](http://www.techmeme.com/251224/p2#a251224p2)<!-- TECH:END -->
+ - [How many folds does it take to break the Galaxy Z TriFold? These YouTubers are keeping count](https://www.androidauthority.com/galazy-z-trifold-fold-test-3627702/)
+ - [The Pluribus finale showed there&amp;#8217;s a lot more to the story](https://www.theverge.com/entertainment/848379/pluribus-review-season-1-finale)
+ - [YouTube dominates daytime TV streaming, with 6.3M viewers at 11am in October on average, above Netflix&#39;s 2.8M, per Nielsen; prime-time viewership is more even &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/251224/p4#a251224p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
