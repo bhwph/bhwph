@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jeanette Marken, 75, was br*tally att*cked outside the King County Courthouse in downtown Seattle by 42-year-old Fale Vaigalepa Pea. The suspect swung a wooden board with a screw at the end, striking Marken and gouging out her eye. Doctors have told her she will not regain sight](http://9gag.com/gag/ary05o5)
- - 😝 [First day on earth?](http://9gag.com/gag/azxzqRj)
- - 👉 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)<!-- MEMES:END -->
+ - 6️⃣ [More time, less adventure](http://9gag.com/gag/aByM0oQ)
+ - 😝 [Cthulu is pleased](http://9gag.com/gag/aGyqZ3G)
+ - 👉 [Good deed lad does a good deed](http://9gag.com/gag/aRBG3xA)<!-- MEMES:END -->
 
 --- 
 
