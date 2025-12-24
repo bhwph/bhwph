@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Switch With Joy-Con Clearance Starts on Amazon, Already Selling Out Fast at Its Lowest Price](https://kotaku.com/nintendo-switch-with-joy-con-clearance-starts-on-amazon-already-selling-out-fast-at-its-lowest-price-2000655473)
- - [20 years ago, The Christmas Invasion changed Doctor Who forever](https://www.polygon.com/the-christmas-invasion-anniversary-doctor-who-david-tennant-billie-piper/)
- - [Celebrate the holidays the way Saint Nick intended, by blasting through hordes of enemies in the best Christmas-themed FPS mods](https://www.pcgamer.com/games/fps/celebrate-the-holidays-the-way-saint-nick-intended-by-blasting-through-hordes-of-enemies-in-the-best-christmas-themed-fps-mods/)<!-- GAME:END -->
+ - [Samsung outs world&#39;s first 1,040 Hz and 6K 3D gaming monitors ahead of CES](https://www.pcgamer.com/hardware/gaming-monitors/samsung-outs-worlds-first-1-040-hz-and-6k-3d-gaming-monitors-ahead-of-ces/)
+ - [Samsung Galaxy Watch 8 &lpar;2025&rpar; Crashes to a Record Low, No Need to Pay More for Older Models](https://kotaku.com/samsung-galaxy-watch-8-2025-crashes-to-a-record-low-no-need-to-pay-more-for-older-models-2000655518)
+ - [The best game for Zelda fans in 2025 is Pipistrello and the Cursed Yoyo](https://www.polygon.com/zelda-like-game-pipistrello-cursed-yoyo-steam-switch-ps5-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
