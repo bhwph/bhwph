@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Three shining examples of brilliant PC game development in 2025](https://www.pcgamer.com/hardware/three-shining-examples-of-brilliant-pc-game-development-in-2025/)
- - [Blade director reassures suffering fans with soothing words: &#39;Please be patient, it will be a special game&#39;](https://www.pcgamer.com/games/action/blade-director-reassures-suffering-fans-with-soothing-words-please-be-patient-it-will-be-a-special-game/)
- - [Legend of Zelda speedrunner completes four-day 100% marathon](https://www.polygon.com/legend-of-zelda-speedrunner-marathon-100-run-nukie/)<!-- GAME:END -->
+ - [Twas the day before Christmas and Steam is having some serious issues](https://www.pcgamer.com/games/twas-the-day-before-christmas-and-steam-is-down/)
+ - [Best movement in 2025 video games: Silksong, Baby Steps, and more](https://www.polygon.com/best-video-game-movement-2025/)
+ - [Three shining examples of brilliant PC game development in 2025](https://www.pcgamer.com/hardware/three-shining-examples-of-brilliant-pc-game-development-in-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
