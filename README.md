@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Standing Desks of 2025](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
- - [Twelve South PlugBug with Find My review: The ultimate travel charger](https://appleinsider.com/articles/25/12/24/twelve-south-plugbug-with-find-my-review-the-ultimate-travel-charger?utm_source=rss)
- - [Analysis: Oracle has moved $66B of debt for building AI data centers off its balance sheet using SPVs; Meta has moved $30B, xAI moved $20B, and CoreWeave $2.6B &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/251224/p15#a251224p15)<!-- TECH:END -->
+ - [Nvidia agrees to a licensing deal with Groq; CEO Jonathan Ross and other top executives will join Nvidia; Groq says it will continue operating independently &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/251224/p17#a251224p17)
+ - [Merry Christmas and happy holidays from AppleInsider](https://appleinsider.com/articles/25/12/24/merry-christmas-and-happy-holidays-from-appleinsider?utm_source=rss)
+ - [The best classic iPad board games to play with your family &amp; friends](https://appleinsider.com/articles/25/12/24/the-best-classic-ipad-board-games-to-play-with-your-family-friends?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
