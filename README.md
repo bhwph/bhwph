@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A Klaus relationship](http://9gag.com/gag/aQzKRpe)
- - 😝 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)
- - 👉 [A women being rescued by cops from angry mob in Bangladesh. Details are not known if she was a Hindu girl or a women who accidentally exposed her part that gave them a boner](http://9gag.com/gag/an73MbE)<!-- MEMES:END -->
+ - 6️⃣ [A women being rescued by cops from angry mob in Bangladesh. Details are not known if she was a Hindu girl or a women who accidentally exposed her part that gave them a boner](http://9gag.com/gag/an73MbE)
+ - 😝 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)
+ - 👉 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)<!-- MEMES:END -->
 
 --- 
 
