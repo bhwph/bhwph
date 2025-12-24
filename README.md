@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beijing-based DP Technology, which develops AI tools used by researchers for tasks like computer-aided drug design and battery design, raised a ~$114M Series C &lpar;Eunice Xu/South China Morning Post&rpar;](http://www.techmeme.com/251224/p13#a251224p13)
- - [Do Your Dogs Freak Out They Hear Wham&#39;s &#39;Last Christmas?&#39; There&#39;s a Reason for That](https://www.cnet.com/tech/services-and-software/whams-last-christmas-is-stressing-your-pets-out-what-other-holiday-songs-made-the-cut/#ftag=CAD590a51e)
- - [Those smartphone price hikes we’ve feared look like they’re about to start](https://www.androidauthority.com/smartphone-price-increases-2026-3627848/)<!-- TECH:END -->
+ - [Anker’s beefy Laptop Power Bank has returned to its Black Friday low](https://www.theverge.com/gadgets/849637/anker-laptop-power-bank-xbox-series-x-deal-sale)
+ - [Octopath Traveler 0 Review: A Solid JRPG Dragged Down by Forgettable Characters](https://www.cnet.com/tech/gaming/octopath-traveler-0-review-a-solid-jrpg-dragged-down-by-forgettable-characters/#ftag=CAD590a51e)
+ - [New photos show upcoming OnePlus Turbo in the flesh](https://www.androidauthority.com/oneplus-turbo-photos-leaked-3627879/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
