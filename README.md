@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo, which paused its service during blackouts in San Francisco on December 20, says it is updating its fleet to improve navigation during widespread outages &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251223/p28#a251223p28)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-24/#ftag=CAD590a51e)
- - [What Does the &#39;Pluribus&#39; Ending Mean? I Asked Star Rhea Seehorn to Explain](https://www.cnet.com/tech/services-and-software/pluribus-ending-explained-star-rhea-seehorn-interview-apple-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
+ - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)
+ - [Over the past month, the US paused talks on a tech pact with the UK, canceled a South Korea trade meeting, and threatened the EU over Big Tech regulations &lpar;Politico&rpar;](http://www.techmeme.com/251224/p2#a251224p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
