@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Funneling money around](http://9gag.com/gag/aQzK3R8)
- - 😝 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
- - 👉 [Nice watches it is](http://9gag.com/gag/aXPzYd6)<!-- MEMES:END -->
+ - 6️⃣ [Who&#39;s your Daddy](http://9gag.com/gag/aXPzYA9)
+ - 😝 [The drone&#39;s dramatic water landing, complete with a duck-filled audience](http://9gag.com/gag/aVv83vd)
+ - 👉 [Japanese children learn the hard way...](http://9gag.com/gag/ary0G15)<!-- MEMES:END -->
 
 --- 
 
