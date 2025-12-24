@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US is imposing visa restrictions on five Europeans, including Thierry Breton, accusing them of pressuring US tech companies to censor certain US viewpoints &lpar;Fatima Hussein/Associated Press&rpar;](http://www.techmeme.com/251223/p22#a251223p22)
- - [Check your stocking: Google just released Android 16 QPR3 Beta 1.1](https://www.androidauthority.com/android-16-qpr3-beta-1-1-3627665/)
- - [Hate the new Pixel home screen search UI? Here’s how to bring the old one back](https://www.androidauthority.com/bring-back-old-pixel-launcher-search-ui-3627674/)<!-- TECH:END -->
+ - [Starlink says it has reached 9M &quot;active customers&quot; across 155 countries, territories, and other markets, up from 8M on November 5 &lpar;Polly Thompson/Business Insider&rpar;](http://www.techmeme.com/251223/p26#a251223p26)
+ - [The Trump administration plans to replace the lottery system for H-1B visas with a &quot;weighted&quot; system prioritizing higher-paid individuals, starting February 27 &lpar;Aime Williams/Financial Times&rpar;](http://www.techmeme.com/251223/p25#a251223p25)
+ - [Beyerdynamic Aventho 300 review: Vanilla, for better and worse](https://appleinsider.com/articles/25/12/24/beyerdynamic-aventho-300-review-vanilla-for-better-and-worse?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
