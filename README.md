@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chainalysis and TRM Labs estimate that $2.7B was stolen in crypto in 2025 in total, up from $2.2B in 2024; the biggest hack was the $1.4B breach at Bybit &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251224/p7#a251224p7)
- - [NotebookLM is flirting with long lectures and British accents](https://www.androidauthority.com/notebooklm-lectures-british-english-3627721/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 24, #457](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-24-457/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [25 Work From Home Gift Ideas](https://www.wired.com/gallery/work-from-home-gift-ideas/)
+ - [I Tried Vibe Coding With Different Gemini Models. Here&#39;s What I Learned](https://www.cnet.com/tech/services-and-software/i-tried-vibe-coding-with-different-gemini-models-heres-what-i-learned/#ftag=CAD590a51e)
+ - [Samsung Wide Fold vs iPhone Fold: New renders show the battle for the perfect aspect ratio](https://www.androidauthority.com/samsung-wide-fold-vs-iphone-fold-new-renders-leak-3627749/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
