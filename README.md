@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [25 Work From Home Gift Ideas](https://www.wired.com/gallery/work-from-home-gift-ideas/)
- - [I Tried Vibe Coding With Different Gemini Models. Here&#39;s What I Learned](https://www.cnet.com/tech/services-and-software/i-tried-vibe-coding-with-different-gemini-models-heres-what-i-learned/#ftag=CAD590a51e)
- - [Samsung Wide Fold vs iPhone Fold: New renders show the battle for the perfect aspect ratio](https://www.androidauthority.com/samsung-wide-fold-vs-iphone-fold-new-renders-leak-3627749/)<!-- TECH:END -->
+ - [Sources: OpenAI staff discussed prioritizing sponsored content in ChatGPT when users ask relevant queries and created mockups with ads in sidebars or as pop-ups &lpar;The Information&rpar;](http://www.techmeme.com/251224/p12#a251224p12)
+ - [Steep US tariffs on Chinese chip imports won&#39;t hit Apple until 2027](https://appleinsider.com/articles/25/12/24/steep-us-tariffs-on-chinese-chip-imports-wont-hit-apple-until-2027?utm_source=rss)
+ - [55 of the Best TV Shows on Netflix That Will Keep You Entertained](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
