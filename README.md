@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How many folds does it take to break the Galaxy Z TriFold? These YouTubers are keeping count](https://www.androidauthority.com/galazy-z-trifold-fold-test-3627702/)
- - [The Pluribus finale showed there&amp;#8217;s a lot more to the story](https://www.theverge.com/entertainment/848379/pluribus-review-season-1-finale)
- - [YouTube dominates daytime TV streaming, with 6.3M viewers at 11am in October on average, above Netflix&#39;s 2.8M, per Nielsen; prime-time viewership is more even &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/251224/p4#a251224p4)<!-- TECH:END -->
+ - [Chainalysis and TRM Labs estimate that $2.7B was stolen in crypto in 2025 in total, up from $2.2B in 2024; the biggest hack was the $1.4B breach at Bybit &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251224/p7#a251224p7)
+ - [NotebookLM is flirting with long lectures and British accents](https://www.androidauthority.com/notebooklm-lectures-british-english-3627721/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 24, #457](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-24-457/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
