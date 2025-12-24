@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean prosecutors allege China&#39;s CXMT mass-produced 10nm-class DRAM using leaked Samsung tech, indicting 10 employees who previously worked for Samsung &lpar;Heo Kyungjun/The Asia Business Daily&rpar;](http://www.techmeme.com/251223/p27#a251223p27)
- - [Starlink says it has reached 9M &quot;active customers&quot; across 155 countries, territories, and other markets, up from 8M on November 5 &lpar;Polly Thompson/Business Insider&rpar;](http://www.techmeme.com/251223/p26#a251223p26)
- - [The Trump administration plans to replace the lottery system for H-1B visas with a &quot;weighted&quot; system prioritizing higher-paid individuals, starting February 27 &lpar;Aime Williams/Financial Times&rpar;](http://www.techmeme.com/251223/p25#a251223p25)<!-- TECH:END -->
+ - [Waymo, which paused its service during blackouts in San Francisco on December 20, says it is updating its fleet to improve navigation during widespread outages &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251223/p28#a251223p28)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-24/#ftag=CAD590a51e)
+ - [What Does the &#39;Pluribus&#39; Ending Mean? I Asked Star Rhea Seehorn to Explain](https://www.cnet.com/tech/services-and-software/pluribus-ending-explained-star-rhea-seehorn-interview-apple-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
