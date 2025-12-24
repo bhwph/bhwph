@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)
- - 😝 [Because an instant screencap button was TOO perfect.](http://9gag.com/gag/axy8z2n)
- - 👉 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)<!-- MEMES:END -->
+ - 6️⃣ [Funneling money around](http://9gag.com/gag/aQzK3R8)
+ - 😝 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)
+ - 👉 [Its got electrolytes but not much else](http://9gag.com/gag/aPA0jBq)<!-- MEMES:END -->
 
 --- 
 
