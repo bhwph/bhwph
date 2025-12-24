@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Funneling money around](http://9gag.com/gag/aQzK3R8)
- - 😝 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)
- - 👉 [Its got electrolytes but not much else](http://9gag.com/gag/aPA0jBq)<!-- MEMES:END -->
+ - 😝 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
+ - 👉 [Nice watches it is](http://9gag.com/gag/aXPzYd6)<!-- MEMES:END -->
 
 --- 
 
