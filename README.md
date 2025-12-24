@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout Season 2 Episode 2 recap: &#39;Patrolling the Mojave almost makes you wish for a nuclear winter&#39;](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-2-recap-patrolling-the-mojave-almost-makes-you-wish-for-a-nuclear-winter/)
- - [After Game of the Year pull, Expedition 33 devs swear off future AI use](https://www.polygon.com/game-awards-expedition-33-disqualified-did-it-use-ai-response/)
- - [What free games are on Epic Games Store today &lpar;Dec. 24&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)<!-- GAME:END -->
+ - [Three shining examples of brilliant PC game development in 2025](https://www.pcgamer.com/hardware/three-shining-examples-of-brilliant-pc-game-development-in-2025/)
+ - [Blade director reassures suffering fans with soothing words: &#39;Please be patient, it will be a special game&#39;](https://www.pcgamer.com/games/action/blade-director-reassures-suffering-fans-with-soothing-words-please-be-patient-it-will-be-a-special-game/)
+ - [Legend of Zelda speedrunner completes four-day 100% marathon](https://www.polygon.com/legend-of-zelda-speedrunner-marathon-100-run-nukie/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
