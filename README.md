@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jeanette Marken, 75, was br*tally att*cked outside the King County Courthouse in downtown Seattle by 42-year-old Fale Vaigalepa Pea. The suspect swung a wooden board with a screw at the end, striking Marken and gouging out her eye. Doctors have told her she will not regain sight](http://9gag.com/gag/ary05o5)
- - 😝 [Burij Khalifa: $1.5 billion](http://9gag.com/gag/aGyqe47)
- - 👉 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)<!-- MEMES:END -->
+ - 6️⃣ [Nice watches it is](http://9gag.com/gag/aXPzYd6)
+ - 😝 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)
+ - 👉 [Got really lucky. Very blessed.](http://9gag.com/gag/a0eGbVv)<!-- MEMES:END -->
 
 --- 
 
