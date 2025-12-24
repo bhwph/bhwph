@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who&#39;s your Daddy](http://9gag.com/gag/aXPzYA9)
- - 😝 [The drone&#39;s dramatic water landing, complete with a duck-filled audience](http://9gag.com/gag/aVv83vd)
- - 👉 [Japanese children learn the hard way...](http://9gag.com/gag/ary0G15)<!-- MEMES:END -->
+ - 6️⃣ [Jeanette Marken, 75, was br*tally att*cked outside the King County Courthouse in downtown Seattle by 42-year-old Fale Vaigalepa Pea. The suspect swung a wooden board with a screw at the end, striking Marken and gouging out her eye. Doctors have told her she will not regain sight](http://9gag.com/gag/ary05o5)
+ - 😝 [First day on earth?](http://9gag.com/gag/azxzqRj)
+ - 👉 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)<!-- MEMES:END -->
 
 --- 
 
