@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A women being rescued by cops from angry mob in Bangladesh. Details are not known if she was a Hindu girl or a women who accidentally exposed her part that gave them a boner](http://9gag.com/gag/an73MbE)
- - 😝 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)
- - 👉 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)<!-- MEMES:END -->
+ - 6️⃣ [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)
+ - 😝 [A women being rescued by cops from angry mob in Bangladesh. Details are not known if she was a Hindu girl or a women who accidentally exposed her part that gave them a boner](http://9gag.com/gag/an73MbE)
+ - 👉 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)<!-- MEMES:END -->
 
 --- 
 
