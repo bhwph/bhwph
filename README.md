@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung outs world&#39;s first 1,040 Hz and 6K 3D gaming monitors ahead of CES](https://www.pcgamer.com/hardware/gaming-monitors/samsung-outs-worlds-first-1-040-hz-and-6k-3d-gaming-monitors-ahead-of-ces/)
- - [Samsung Galaxy Watch 8 &lpar;2025&rpar; Crashes to a Record Low, No Need to Pay More for Older Models](https://kotaku.com/samsung-galaxy-watch-8-2025-crashes-to-a-record-low-no-need-to-pay-more-for-older-models-2000655518)
- - [The best game for Zelda fans in 2025 is Pipistrello and the Cursed Yoyo](https://www.polygon.com/zelda-like-game-pipistrello-cursed-yoyo-steam-switch-ps5-xbox/)<!-- GAME:END -->
+ - [Fallout Season 2 Episode 2 recap: &#39;Patrolling the Mojave almost makes you wish for a nuclear winter&#39;](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-2-recap-patrolling-the-mojave-almost-makes-you-wish-for-a-nuclear-winter/)
+ - [After Game of the Year pull, Expedition 33 devs swear off future AI use](https://www.polygon.com/game-awards-expedition-33-disqualified-did-it-use-ai-response/)
+ - [What free games are on Epic Games Store today &lpar;Dec. 24&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
