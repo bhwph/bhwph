@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And there it is. Straight from the files.](http://9gag.com/gag/aByMgPN)
- - 😝 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
- - 👉 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)<!-- MEMES:END -->
+ - 6️⃣ [Haha, classic](http://9gag.com/gag/aAy732L)
+ - 😝 [Stay safe](http://9gag.com/gag/awyDXqQ)
+ - 👉 [When you\u2019re starting losing it](http://9gag.com/gag/a5QAREq)<!-- MEMES:END -->
 
 --- 
 
