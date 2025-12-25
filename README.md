@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Against Mac Mini, This Mini Gaming PC &lpar;32GB RAM, 1TB SSD&rpar; Crashes to Its Lowest Price in a Prime-Exclusive Deal](https://kotaku.com/against-mac-mini-this-mini-gaming-pc-32gb-ram-1tb-ssd-crashes-to-its-lowest-price-in-a-prime-exclusive-deal-2000655580)
- - [PC Gamer Hardware Awards: The best gaming laptop of 2025](https://www.pcgamer.com/hardware/gaming-laptops/pc-gamer-hardware-awards-the-best-gaming-laptop-of-2025/)
- - [Steam has been down all Christmas Eve — here&#39;s the issue](https://www.polygon.com/is-steam-down-error-status-loading-winter-sale/)<!-- GAME:END -->
+ - [The PS1 Grinch game’s creepy ending will haunt your holidays forever](https://www.polygon.com/grinch-game-playstation-ending/)
+ - [The best games environments in 2025](https://www.polygon.com/best-games-environments-2025/)
+ - [Tavern Keeper is the management sim of my dreams, and the best thing I&#39;ve played in early access in 2025](https://www.pcgamer.com/games/sim/tavern-keeper-is-the-management-sim-of-my-dreams-and-the-best-thing-ive-played-in-early-access-in-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
