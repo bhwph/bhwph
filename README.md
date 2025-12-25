@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
- - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 👉 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)<!-- MEMES:END -->
+ - 6️⃣ [Top reporter](http://9gag.com/gag/aD2Lgvx)
+ - 😝 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - 👉 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)<!-- MEMES:END -->
 
 --- 
 
