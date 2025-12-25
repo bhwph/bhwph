@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The PS1 Grinch game’s creepy ending will haunt your holidays forever](https://www.polygon.com/grinch-game-playstation-ending/)
- - [The best games environments in 2025](https://www.polygon.com/best-games-environments-2025/)
- - [Tavern Keeper is the management sim of my dreams, and the best thing I&#39;ve played in early access in 2025](https://www.pcgamer.com/games/sim/tavern-keeper-is-the-management-sim-of-my-dreams-and-the-best-thing-ive-played-in-early-access-in-2025/)<!-- GAME:END -->
+ - [What free games are on Epic Games Store today &lpar;Dec. 25&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)
+ - [A massive D&amp;D loot table rewrote my entire campaign](https://www.polygon.com/dnd-dungeons-dragons-loot-table-dm-tpk-tips/)
+ - [I know I&#39;ll get rinsed by rising costs somewhere when building a PC but my favorite product this year was one of a few things that didn&#39;t ask for more money](https://www.pcgamer.com/hardware/cooling/i-know-ill-get-rinsed-by-rising-costs-somewhere-when-building-a-pc-but-my-favorite-product-this-year-was-one-of-a-few-things-that-didnt-ask-for-more-money/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
