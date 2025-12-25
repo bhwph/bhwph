@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
- - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 👉 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)<!-- MEMES:END -->
+ - 😝 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
+ - 👉 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)<!-- MEMES:END -->
 
 --- 
 
