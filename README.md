@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Haha, classic](http://9gag.com/gag/aAy732L)
- - 😝 [Stay safe](http://9gag.com/gag/awyDXqQ)
- - 👉 [When you\u2019re starting losing it](http://9gag.com/gag/a5QAREq)<!-- MEMES:END -->
+ - 6️⃣ [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
+ - 😝 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)
+ - 👉 [The Mashco-Piro, an uncontacted Indigenous tribe in the Peruvian Amazon. Recent drone footage from 2024-2025 shows them near rivers, often painted red for protection. They&#39;re one of the largest such groups, avoiding outside contact](http://9gag.com/gag/a9yeKo6)<!-- MEMES:END -->
 
 --- 
 
