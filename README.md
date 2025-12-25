@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s what a healthy society can look like...](http://9gag.com/gag/avyV8gn)
- - 😝 [Parents in Nordic countries put babies outside in winter for better sleep.](http://9gag.com/gag/aVv80nO)
- - 👉 [Reese Witherspoon&#39;s daughter looks more like Reese Witherspoon than Reese Witherspoon](http://9gag.com/gag/aRBG12B)<!-- MEMES:END -->
+ - 6️⃣ [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
+ - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
+ - 👉 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)<!-- MEMES:END -->
 
 --- 
 
