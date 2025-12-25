@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam has been down all Christmas Eve — here&#39;s the issue](https://www.polygon.com/is-steam-down-error-status-loading-winter-sale/)
- - [Pluribus episode 9 just confirmed a chilling new detail about the hivemind](https://www.polygon.com/pluribus-finale-reveals-all-about-the-hivemind/)
- - [Clair Obscur Expedition 33 beginner’s tips before you start](https://www.polygon.com/clair-obscur-expedition-33-guides/562096/beginners-tips-before-starting/)<!-- GAME:END -->
+ - [Against Mac Mini, This Mini Gaming PC &lpar;32GB RAM, 1TB SSD&rpar; Crashes to Its Lowest Price in a Prime-Exclusive Deal](https://kotaku.com/against-mac-mini-this-mini-gaming-pc-32gb-ram-1tb-ssd-crashes-to-its-lowest-price-in-a-prime-exclusive-deal-2000655580)
+ - [PC Gamer Hardware Awards: The best gaming laptop of 2025](https://www.pcgamer.com/hardware/gaming-laptops/pc-gamer-hardware-awards-the-best-gaming-laptop-of-2025/)
+ - [Steam has been down all Christmas Eve — here&#39;s the issue](https://www.polygon.com/is-steam-down-error-status-loading-winter-sale/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
