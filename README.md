@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I re-created Google&amp;#8217;s cute Gemini ad with my own kid&amp;#8217;s stuffie, and I wish I hadn&amp;#8217;t](https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial)
- - [A look at the humans employed to rescue robotaxis; Waymo uses the Honk app to pay $20 to $24 to manually close robotaxi doors and $60 to $80 to tow its cars &lpar;Lisa Bonos/Washington Post&rpar;](http://www.techmeme.com/251225/p6#a251225p6)
- - [7 smartphone trends I wish would die in 2026](https://www.androidauthority.com/7-smartphone-trends-die-2026-3624290/)<!-- TECH:END -->
+ - [Tesla&#39;s robotaxi service in Austin significantly trails Waymo, deploying an estimated 30 cars with safety drivers, vs. Waymo&#39;s 200 cars without human monitors &lpar;Jack Ewing/New York Times&rpar;](http://www.techmeme.com/251225/p7#a251225p7)
+ - [43 of the Best Movies on Netflix You Should Stream Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/#ftag=CAD590a51e)
+ - [I re-created Google&amp;#8217;s cute Gemini ad with my own kid&amp;#8217;s stuffie, and I wish I hadn&amp;#8217;t](https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
