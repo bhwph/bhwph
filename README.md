@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Peaceful \u270c\ufe0f Community](http://9gag.com/gag/a9yeRvZ)
- - 😝 [Stay safe](http://9gag.com/gag/awyDXqQ)
- - 👉 [Go sports!](http://9gag.com/gag/aW4AEox)<!-- MEMES:END -->
+ - 6️⃣ [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)
+ - 😝 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)
+ - 👉 [Parents in Nordic countries put babies outside in winter for better sleep.](http://9gag.com/gag/aVv80nO)<!-- MEMES:END -->
 
 --- 
 
