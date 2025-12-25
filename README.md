@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)
- - 😝 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)
- - 👉 [Parents in Nordic countries put babies outside in winter for better sleep.](http://9gag.com/gag/aVv80nO)<!-- MEMES:END -->
+ - 6️⃣ [And there it is. Straight from the files.](http://9gag.com/gag/aByMgPN)
+ - 😝 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
+ - 👉 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)<!-- MEMES:END -->
 
 --- 
 
