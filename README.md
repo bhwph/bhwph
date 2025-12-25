@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 😝 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)
- - 👉 [The Mashco-Piro, an uncontacted Indigenous tribe in the Peruvian Amazon. Recent drone footage from 2024-2025 shows them near rivers, often painted red for protection. They&#39;re one of the largest such groups, avoiding outside contact](http://9gag.com/gag/a9yeKo6)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s what a healthy society can look like...](http://9gag.com/gag/avyV8gn)
+ - 😝 [Parents in Nordic countries put babies outside in winter for better sleep.](http://9gag.com/gag/aVv80nO)
+ - 👉 [Reese Witherspoon&#39;s daughter looks more like Reese Witherspoon than Reese Witherspoon](http://9gag.com/gag/aRBG12B)<!-- MEMES:END -->
 
 --- 
 
