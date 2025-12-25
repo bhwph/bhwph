@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 10 Android privacy and security features I check regularly &lpar;and you should too&rpar;](https://www.androidauthority.com/android-security-checklist-3622512/)
- - [‘Wolf DNA’ Lurks in Many Modern Dog Breeds](https://www.wired.com/story/wolf-dna-lurks-in-many-modern-dog-breeds/)
- - [PitchBook: crypto M&amp;A hit $8.6B across 267 deals in 2025 vs. $2.17B in 2024; 11 crypto IPOs raised $14.6B worldwide, up from $310M from four IPOs in 2024 &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251225/p4#a251225p4)<!-- TECH:END -->
+ - [How to Set Up a Smartphone for Elderly Loved Ones](https://www.wired.com/story/how-to-set-up-smartphone-for-parents-grandparents/)
+ - [Get a 10% bonus on top of competitive payouts for your used iPhone](https://appleinsider.com/articles/25/12/25/get-a-10-bonus-on-top-of-competitive-payouts-for-your-used-iphone?utm_source=rss)
+ - [This Two-Faced Watch Band Lets You Hide an Apple Watch Under Your Rolex](https://www.cnet.com/tech/mobile/this-two-faced-watch-band-lets-you-hide-an-apple-watch-under-your-rolex/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
