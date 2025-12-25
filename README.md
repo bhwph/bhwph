@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 😝 [Top reporter](http://9gag.com/gag/aD2Lgvx)
- - 👉 [The Mashco-Piro, an uncontacted Indigenous tribe in the Peruvian Amazon. Recent drone footage from 2024-2025 shows them near rivers, often painted red for protection. They&#39;re one of the largest such groups, avoiding outside contact](http://9gag.com/gag/a9yeKo6)<!-- MEMES:END -->
+ - 6️⃣ [International cheese beef](http://9gag.com/gag/aoy6M9n)
+ - 😝 [Shock and disbelief](http://9gag.com/gag/an7358L)
+ - 👉 [Is an hour a long time?](http://9gag.com/gag/aO8O7pr)<!-- MEMES:END -->
 
 --- 
 
