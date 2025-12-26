@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Flash for free lemonade](http://9gag.com/gag/aAy7GML)
- - 😝 [I can feel this clip](http://9gag.com/gag/a4P83m1)
- - 👉 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)<!-- MEMES:END -->
+ - 6️⃣ [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
+ - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
+ - 👉 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)<!-- MEMES:END -->
 
 --- 
 
