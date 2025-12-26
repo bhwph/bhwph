@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon, Microsoft, and Google pledged a combined $67.5B in Indian investments since October, 80% of those in December, as part of an AI spending frenzy in India &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/251226/p7#a251226p7)
- - [Chinese government data: shipments of foreign-branded mobile phones, primarily iPhones, rose 128.4% YoY in November 2025 to 6.93M units &lpar;Reuters&rpar;](http://www.techmeme.com/251226/p6#a251226p6)
- - [Want to Try Film Photography? Here Are the Analog Cameras You Should Buy](https://www.cnet.com/tech/computing/want-to-try-film-photography-here-are-the-analog-cameras-you-should-buy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cyberpunk 2077: Ultimate Edition and other Nintendo games are up to 50 percent off](https://www.theverge.com/gadgets/850279/cyberpunk-2077-ultimate-edition-and-other-nintendo-games-are-up-to-50-percent-off)
+ - [Google is letting some people change their @gmail address](https://www.theverge.com/news/850237/google-change-your-gmail-address)
+ - [Oracle stock fell 30% this quarter, its steepest drop since Q3 2001, when it slid ~34%, amid skepticism about its ability to open more data centers for OpenAI &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251226/p8#a251226p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
