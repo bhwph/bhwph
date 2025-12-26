@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Worth every penny: The best tech purchases I made in 2025](https://www.androidauthority.com/my-best-tech-purchases-2025-3622540/)
- - [MSI Pro MP165 E6 Review: A No-Frills Portable Monitor at a Great Price](https://www.cnet.com/tech/computing/msi-pro-mp165-e6-review-a-no-frills-portable-monitor-at-a-great-price/#ftag=CAD590a51e)
- - [Purple Promo Codes and Deals: Up to 30% Off](https://www.wired.com/story/purple-promo-code/)<!-- TECH:END -->
+ - [How to buy a refurbished iPhone without getting burned](https://appleinsider.com/articles/25/12/26/how-to-buy-a-refurbished-iphone-without-getting-burned?utm_source=rss)
+ - [Ride1Up Portola e-bike review: A foldable e-bike geared towards the everyman](https://appleinsider.com/articles/25/12/26/ride1up-portola-e-bike-review-a-foldable-e-bike-geared-towards-the-everyman?utm_source=rss)
+ - [First half of 2025 in review on the AppleInsider Podcast](https://appleinsider.com/articles/25/12/26/first-half-of-2025-in-review-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
