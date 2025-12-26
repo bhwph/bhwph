@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
- - 😝 [Give me your best Websites](http://9gag.com/gag/a4P8EYA)
- - 👉 [Meredith&#39;s dating philosophy is unmatched](http://9gag.com/gag/aO8O7ev)<!-- MEMES:END -->
+ - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
+ - 👉 [Top reporter](http://9gag.com/gag/aD2Lgvx)<!-- MEMES:END -->
 
 --- 
 
