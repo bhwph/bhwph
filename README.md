@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [International cheese beef](http://9gag.com/gag/aoy6M9n)
- - 😝 [Shock and disbelief](http://9gag.com/gag/an7358L)
- - 👉 [Is an hour a long time?](http://9gag.com/gag/aO8O7pr)<!-- MEMES:END -->
+ - 6️⃣ [Daddy you know so much](http://9gag.com/gag/aByMm3D)
+ - 😝 [The breakfast hasn&#39;t been delivered on schedule](http://9gag.com/gag/aPA03dQ)
+ - 👉 [Merry Christmas everyone](http://9gag.com/gag/a7oBw8A)<!-- MEMES:END -->
 
 --- 
 
