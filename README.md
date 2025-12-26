@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Top reporter](http://9gag.com/gag/aD2Lgvx)
- - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 👉 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)<!-- MEMES:END -->
+ - 6️⃣ [Flash for free lemonade](http://9gag.com/gag/aAy7GML)
+ - 😝 [I can feel this clip](http://9gag.com/gag/a4P83m1)
+ - 👉 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)<!-- MEMES:END -->
 
 --- 
 
