@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC gaming has a pricing problem, and the memory crisis is compounding it in a way that&#39;s utterly heartbreaking for our hobby](https://www.pcgamer.com/hardware/pc-gaming-has-a-pricing-problem-and-the-memory-crisis-is-compounding-it-in-a-way-thats-utterly-heartbreaking-for-our-hobby/)
- - [&#39;It was definitely interesting&#39;: Persona 5: The Phantom X developer was surprised that people outside of Japan were &#39;cheering&#39; for the Subway Slammer](https://www.pcgamer.com/games/rpg/it-was-definitely-interesting-persona-5-the-phantom-x-developer-was-surprised-that-people-outside-of-japan-were-cheering-for-the-subway-slammer/)
- - [Professor Layton Boss Wants People To Stop Demonizing Generative AI](https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721)<!-- GAME:END -->
+ - [Kotaku’s Weekend Guide: 5 Great Games We Can’t Wait To Get Back To](https://kotaku.com/best-rpggame-recommendations-dec-26-2025-2000655786)
+ - [There Are Still Some Surprisingly Good Deals On A Few Killer Switch Games Right Now](https://kotaku.com/switch-eshop-discounts-rpg-roguelike-indie-2000655765)
+ - [Action RPG players will exploit anything in the name of efficiency, which is why Path of Exile 2 players are locking themselves in the campaign for profit](https://www.pcgamer.com/games/rpg/action-rpg-players-will-exploit-anything-in-the-name-of-efficiency-which-is-why-path-of-exile-2-players-are-locking-themselves-in-the-campaign-for-profit/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
