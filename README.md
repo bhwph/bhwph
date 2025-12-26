@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyberpunk 2077: Ultimate Edition and other Nintendo games are up to 50 percent off](https://www.theverge.com/gadgets/850279/cyberpunk-2077-ultimate-edition-and-other-nintendo-games-are-up-to-50-percent-off)
- - [Google is letting some people change their @gmail address](https://www.theverge.com/news/850237/google-change-your-gmail-address)
- - [Oracle stock fell 30% this quarter, its steepest drop since Q3 2001, when it slid ~34%, amid skepticism about its ability to open more data centers for OpenAI &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251226/p8#a251226p8)<!-- TECH:END -->
+ - [Framework announces another memory price hike — and it likely won’t be its last](https://www.theverge.com/news/850376/framework-ram-memory-ddr5-price-hikes)
+ - [Pixel 8 gets an unexpected camera update for the holidays](https://www.androidauthority.com/google-pixel-8-panorama-mode-ui-3627929/)
+ - [“Just One More Chapter” and Other Lies: 25 Books CNET Staff Are Reading Over the Holiday Break](https://www.cnet.com/deals/cnet-holiday-reading-list/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
