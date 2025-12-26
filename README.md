@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meredith&#39;s dating philosophy is unmatched](http://9gag.com/gag/aO8O7ev)
- - 😝 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
- - 👉 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)<!-- MEMES:END -->
+ - 6️⃣ [Charlie dies. Erika:](http://9gag.com/gag/ae9E5xj)
+ - 😝 [Top reporter](http://9gag.com/gag/aD2Lgvx)
+ - 👉 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)<!-- MEMES:END -->
 
 --- 
 
