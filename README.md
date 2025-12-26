@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes $250 off M4 MacBook Air models, prices from $749](https://appleinsider.com/articles/25/12/26/amazon-slashes-250-off-m4-macbook-air-models-prices-from-749?utm_source=rss)
- - [Coinbase says a former customer service agent was arrested in India, following a May breach where hackers bribed contractors to access sensitive customer data &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/251226/p11#a251226p11)
- - [Super cute UGREEN Uno 30W Charger hits new record-low price](https://www.androidauthority.com/ugreen-uno-30w-charger-deal-2-3627607/)<!-- TECH:END -->
+ - [Rare deal on the Google Pixel Buds Pro 2 saves you 28%](https://www.androidauthority.com/google-pixel-buds-pro-2-deal-3-3627937/)
+ - [Trump’s war on offshore wind faces another lawsuit](https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center)
+ - [This deal on the Samsung Galaxy Watch Ultra &lpar;2025&rpar; is crazy good!](https://www.androidauthority.com/samsung-galaxy-watch-ultra-2025-deal-2-3627938/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
