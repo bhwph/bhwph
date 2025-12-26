@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What free games are on Epic Games Store today &lpar;Dec. 26&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)
- - [Kenneth Shepard’s Top 10 Games Of 2025](https://kotaku.com/kenneth-shepards-top-10-games-of-2025-pokemon-hundred-2000655496)
- - [Samsung microSD Card Drops to $0.13 per GB Record Low, Practically Free Storage Upgrade for Nintendo Switch, Steam Deck, and More](https://kotaku.com/samsung-microsd-card-drops-to-0-13-per-gb-record-low-practically-free-storage-upgrade-for-nintendo-switch-steam-deck-and-more-2000655456)<!-- GAME:END -->
+ - [PC gaming has a pricing problem, and the memory crisis is compounding it in a way that&#39;s utterly heartbreaking for our hobby](https://www.pcgamer.com/hardware/pc-gaming-has-a-pricing-problem-and-the-memory-crisis-is-compounding-it-in-a-way-thats-utterly-heartbreaking-for-our-hobby/)
+ - [&#39;It was definitely interesting&#39;: Persona 5: The Phantom X developer was surprised that people outside of Japan were &#39;cheering&#39; for the Subway Slammer](https://www.pcgamer.com/games/rpg/it-was-definitely-interesting-persona-5-the-phantom-x-developer-was-surprised-that-people-outside-of-japan-were-cheering-for-the-subway-slammer/)
+ - [Professor Layton Boss Wants People To Stop Demonizing Generative AI](https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
