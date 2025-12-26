@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [DJI Slashes the Osmo Gimbal Stabilizer to a Record Low Following Drone Clearance Deals](https://kotaku.com/dji-slashes-the-osmo-gimbal-stabilizer-to-a-record-low-following-drone-clearance-deals-2000655254)
- - [Tears of the Kingdom on Switch 2 was my GOTY](https://www.polygon.com/tears-of-the-kingdom-switch-2-goty-2025/)
- - [PC Gamer Hardware Awards: The best SSD of 2025](https://www.pcgamer.com/hardware/pc-gamer-hardware-awards-the-best-gaming-ssd-of-2025/)<!-- GAME:END -->
+ - [What free games are on Epic Games Store today &lpar;Dec. 26&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)
+ - [Kenneth Shepard’s Top 10 Games Of 2025](https://kotaku.com/kenneth-shepards-top-10-games-of-2025-pokemon-hundred-2000655496)
+ - [Samsung microSD Card Drops to $0.13 per GB Record Low, Practically Free Storage Upgrade for Nintendo Switch, Steam Deck, and More](https://kotaku.com/samsung-microsd-card-drops-to-0-13-per-gb-record-low-practically-free-storage-upgrade-for-nintendo-switch-steam-deck-and-more-2000655456)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
