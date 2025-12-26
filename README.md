@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Abyss explained: Stranger Things reveals the true nature of the Upside Down with another D&amp;D reference](https://www.polygon.com/stranger-things-season-5-abyss-dungeons-and-dragons-explainer/)
- - [Wizards vs sorcerers: Stranger Things season 5 hinges on the difference](https://www.polygon.com/dungeons-and-dragons-spellcasters-sorcerer-stranger-things-season-5/)
- - [The Revenant at 10: Leonardo Dicaprio&#39;s divisive Oscar-winner is better than you remember](https://www.polygon.com/how-about-some-reverence-for-the-revenant/)<!-- GAME:END -->
+ - [Five Nights at Freddy&#39;s 2 and a new Batman are finally streaming this weekend](https://www.polygon.com/new-movies-to-watch-fnaf2-streaming-december-26-2025/)
+ - [Google Pixel 10 and 10 Pro Go on Clearance at All-Time Low Prices to Close Out 2025, Despite Being the Latest Smartphones](https://kotaku.com/google-pixel-10-and-10-pro-go-on-clearance-at-all-time-low-prices-to-close-out-2025-despite-being-the-latest-smartphones-2000655521)
+ - [PC Gamer Hardware Awards: The best gaming handheld of 2025](https://www.pcgamer.com/hardware/handheld-gaming-pcs/pc-gamer-hardware-awards-the-best-gaming-handheld-of-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
