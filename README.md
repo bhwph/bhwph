@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Nights at Freddy&#39;s 2 and a new Batman are finally streaming this weekend](https://www.polygon.com/new-movies-to-watch-fnaf2-streaming-december-26-2025/)
- - [Google Pixel 10 and 10 Pro Go on Clearance at All-Time Low Prices to Close Out 2025, Despite Being the Latest Smartphones](https://kotaku.com/google-pixel-10-and-10-pro-go-on-clearance-at-all-time-low-prices-to-close-out-2025-despite-being-the-latest-smartphones-2000655521)
- - [PC Gamer Hardware Awards: The best gaming handheld of 2025](https://www.pcgamer.com/hardware/handheld-gaming-pcs/pc-gamer-hardware-awards-the-best-gaming-handheld-of-2025/)<!-- GAME:END -->
+ - [DJI Slashes the Osmo Gimbal Stabilizer to a Record Low Following Drone Clearance Deals](https://kotaku.com/dji-slashes-the-osmo-gimbal-stabilizer-to-a-record-low-following-drone-clearance-deals-2000655254)
+ - [Tears of the Kingdom on Switch 2 was my GOTY](https://www.polygon.com/tears-of-the-kingdom-switch-2-goty-2025/)
+ - [PC Gamer Hardware Awards: The best SSD of 2025](https://www.pcgamer.com/hardware/pc-gamer-hardware-awards-the-best-gaming-ssd-of-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
