@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to buy a refurbished iPhone without getting burned](https://appleinsider.com/articles/25/12/26/how-to-buy-a-refurbished-iphone-without-getting-burned?utm_source=rss)
- - [Ride1Up Portola e-bike review: A foldable e-bike geared towards the everyman](https://appleinsider.com/articles/25/12/26/ride1up-portola-e-bike-review-a-foldable-e-bike-geared-towards-the-everyman?utm_source=rss)
- - [First half of 2025 in review on the AppleInsider Podcast](https://appleinsider.com/articles/25/12/26/first-half-of-2025-in-review-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [Amazon, Microsoft, and Google pledged a combined $67.5B in Indian investments since October, 80% of those in December, as part of an AI spending frenzy in India &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/251226/p7#a251226p7)
+ - [Chinese government data: shipments of foreign-branded mobile phones, primarily iPhones, rose 128.4% YoY in November 2025 to 6.93M units &lpar;Reuters&rpar;](http://www.techmeme.com/251226/p6#a251226p6)
+ - [Want to Try Film Photography? Here Are the Analog Cameras You Should Buy](https://www.cnet.com/tech/computing/want-to-try-film-photography-here-are-the-analog-cameras-you-should-buy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
