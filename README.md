@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework announces another memory price hike — and it likely won’t be its last](https://www.theverge.com/news/850376/framework-ram-memory-ddr5-price-hikes)
- - [Pixel 8 gets an unexpected camera update for the holidays](https://www.androidauthority.com/google-pixel-8-panorama-mode-ui-3627929/)
- - [“Just One More Chapter” and Other Lies: 25 Books CNET Staff Are Reading Over the Holiday Break](https://www.cnet.com/deals/cnet-holiday-reading-list/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon slashes $250 off M4 MacBook Air models, prices from $749](https://appleinsider.com/articles/25/12/26/amazon-slashes-250-off-m4-macbook-air-models-prices-from-749?utm_source=rss)
+ - [Coinbase says a former customer service agent was arrested in India, following a May breach where hackers bribed contractors to access sensitive customer data &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/251226/p11#a251226p11)
+ - [Super cute UGREEN Uno 30W Charger hits new record-low price](https://www.androidauthority.com/ugreen-uno-30w-charger-deal-2-3627607/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
