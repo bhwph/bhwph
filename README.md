@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
- - 😝 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 👉 [Top reporter](http://9gag.com/gag/aD2Lgvx)<!-- MEMES:END -->
+ - 6️⃣ [Color this you filthy peasant](http://9gag.com/gag/aPA0ZRQ)
+ - 😝 [Top reporter](http://9gag.com/gag/aD2Lgvx)
+ - 👉 [And there it is. Straight from the files.](http://9gag.com/gag/aByMgPN)<!-- MEMES:END -->
 
 --- 
 
