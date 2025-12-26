@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meredith&#39;s dating philosophy is unmatched](http://9gag.com/gag/aO8O7ev)
- - 😝 [I can feel this clip](http://9gag.com/gag/a4P83m1)
- - 👉 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)<!-- MEMES:END -->
+ - 6️⃣ [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
+ - 😝 [Give me your best Websites](http://9gag.com/gag/a4P8EYA)
+ - 👉 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)<!-- MEMES:END -->
 
 --- 
 
