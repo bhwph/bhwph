@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Merry Christmas to the community, greetings to those of us working tonight, a hug for everyone](http://9gag.com/gag/a9yenX6)
- - 😝 [Eltit](http://9gag.com/gag/agmbBKx)
- - 👉 [Music taste can be a deal breaker, apparently](http://9gag.com/gag/aW4AgEA)<!-- MEMES:END -->
+ - 6️⃣ [Meredith&#39;s dating philosophy is unmatched](http://9gag.com/gag/aO8O7ev)
+ - 😝 [I can feel this clip](http://9gag.com/gag/a4P83m1)
+ - 👉 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)<!-- MEMES:END -->
 
 --- 
 
