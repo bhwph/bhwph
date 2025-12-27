@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
- - 😝 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
- - 👉 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)<!-- MEMES:END -->
+ - 6️⃣ [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
+ - 😝 [Playing CS2 like a pro](http://9gag.com/gag/aYQBVWw)
+ - 👉 [Task Failed Successfully](http://9gag.com/gag/aPA0Z4P)<!-- MEMES:END -->
 
 --- 
 
