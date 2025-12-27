@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft&#39;s rarest death, explained](https://www.polygon.com/minecraft-rarest-death-viral-clip-explained/)
- - [PC Gamer Hardware Awards: The best gaming motherboard of 2025](https://www.pcgamer.com/hardware/processors/pc-gamer-hardware-awards-the-best-gaming-motherboard-of-2025/)
- - [A psychic baby and whacky control scheme undersell the mundane brilliance of one of my favourite games this year](https://www.pcgamer.com/games/adventure/a-psychic-baby-and-whacky-control-scheme-undersell-the-mundane-brilliance-of-one-of-my-favourite-games-this-year/)<!-- GAME:END -->
+ - [Out of all the new hardware that has passed through my hands in 2025, nothing has made an impact like a certain Wi-Fi 7 router has](https://www.pcgamer.com/hardware/networking/out-of-all-the-new-hardware-that-has-passed-through-my-hands-in-2025-nothing-has-made-an-impact-like-a-certain-wi-fi-7-router-has/)
+ - [DCU 2025 releases: How James Gunn launched a cinematic universe by breaking Marvel&#39;s biggest rules](https://www.polygon.com/2025-state-of-the-dcu/)
+ - [Are these Arc Raiders myths true or false? You tell me](https://www.pcgamer.com/games/third-person-shooter/are-these-arc-raiders-myths-true-or-false-you-tell-me/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
