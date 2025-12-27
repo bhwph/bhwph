@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scream 7 star Matthew Lillard is worried he&#39;s ruining the movie](https://www.polygon.com/matthew-lillard-ruin-scream-7-stu-macher/)
- - [PC gaming on Arm chips didn&#39;t quite happen in 2025, but the die is cast for an epic battle with x86 CPUs in the next few years](https://www.pcgamer.com/hardware/processors/pc-gaming-on-arm-chips-didnt-quite-happen-in-2025-but-the-die-is-cast-for-an-epic-battle-with-x86-cpus-in-the-next-few-years/)
- - [The best indie Pokémon-like on PC is free on Epic for a limited time](https://www.pcgamer.com/games/rpg/the-best-indie-pokemon-like-on-pc-is-free-on-epic-for-a-limited-time/)<!-- GAME:END -->
+ - [Umamusume: Pretty Derby made everyone a horse girl in 2025](https://www.polygon.com/umamusume-pretty-derby-2025-retrospective/)
+ - [Slay the Spire gets the best Christmas present a deckbuilder could ask for: a new all-time concurrent player peak on Steam nearly 7 years after release](https://www.pcgamer.com/games/card-games/slay-the-spire-gets-the-best-christmas-present-a-deckbuilder-could-ask-for-a-new-all-time-concurrent-player-peak-on-steam-nearly-7-years-after-release/)
+ - [Scream 7 star Matthew Lillard is worried he&#39;s ruining the movie](https://www.polygon.com/matthew-lillard-ruin-scream-7-stu-macher/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
