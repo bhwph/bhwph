@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As inference splits into prefill and decode, Nvidia&#39;s Groq deal could enable a &quot;Rubin SRAM&quot; variant optimized for ultra-low latency agentic reasoning workloads &lpar;Gavin Baker/@gavinsbaker&rpar;](http://www.techmeme.com/251227/p4#a251227p4)
- - [ServiceNow has spent $12B+ on acquisitions and investments in 2025 amid concerns about revenue growth, projected to fall below 20% in 2026 without acquisitions &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251227/p3#a251227p3)
- - [Facing disruption from GenAI, the $250B Indian IT industry has adapted by focusing on preparatory work AI requires, such as data cleanup and system integration &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/251227/p2#a251227p2)<!-- TECH:END -->
+ - [It’s never too late to resurrect your old Kindle](https://www.androidauthority.com/resurrect-old-kindle-3624301/)
+ - [The US Must Stop Underestimating Drone Warfare](https://www.wired.com/story/the-us-must-stop-underestimating-drone-warfare/)
+ - [As inference splits into prefill and decode, Nvidia&#39;s Groq deal could enable a &quot;Rubin SRAM&quot; variant optimized for ultra-low latency agentic reasoning workloads &lpar;Gavin Baker/@gavinsbaker&rpar;](http://www.techmeme.com/251227/p4#a251227p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
