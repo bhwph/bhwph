@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hyperkin The Competitor Controller Review: A DualSense Copycat](https://www.wired.com/review/hyperkin-the-competitor-controller/)
- - [Prime Video: These Are the 23 Best Sci-Fi TV Shows You Should Stream Now](https://www.cnet.com/tech/services-and-software/prime-video-best-sci-fi-tv-shows-2025/#ftag=CAD590a51e)
- - [I swapped my fancy screen cloth for a car accessory, and I’m never going back](https://www.androidauthority.com/cleaning-phone-microfiber-3623730/)<!-- TECH:END -->
+ - [I&#39;m a Pro Photographer, and Here&#39;s How to Take Film Photos on an Analog Camera](https://www.cnet.com/tech/computing/analog-camera-film-photography-tips-starters-guide/#ftag=CAD590a51e)
+ - [Why you like the Galaxy S25 Edge more than the experts do](https://www.androidauthority.com/galaxy-s25-edge-reviewers-vs-consumers-3626983/)
+ - [8 great games for your Steam Deck from 2025](https://www.theverge.com/entertainment/842024/steam-deck-best-games-2025-verified-playable-valve)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
