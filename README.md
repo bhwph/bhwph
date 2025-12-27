@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bring this back](http://9gag.com/gag/ae9EQob)
+ - 6️⃣ [I&#39;m a villain, not a monster.](http://9gag.com/gag/a0eG46n)
  - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
- - 👉 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)<!-- MEMES:END -->
+ - 👉 [Would](http://9gag.com/gag/ayNAMGy)<!-- MEMES:END -->
 
 --- 
 
