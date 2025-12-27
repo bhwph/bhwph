@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rare deal on the Google Pixel Buds Pro 2 saves you 28%](https://www.androidauthority.com/google-pixel-buds-pro-2-deal-3-3627937/)
- - [Trump’s war on offshore wind faces another lawsuit](https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center)
- - [This deal on the Samsung Galaxy Watch Ultra &lpar;2025&rpar; is crazy good!](https://www.androidauthority.com/samsung-galaxy-watch-ultra-2025-deal-2-3627938/)<!-- TECH:END -->
+ - [Indian IT services provider Coforge agrees to acquire Encora, which offers AI tools for product, cloud, and data engineering, at an enterprise value of $2.35B &lpar;Reuters&rpar;](http://www.techmeme.com/251226/p14#a251226p14)
+ - [Amazon’s newest smart speakers are $20-$30 off!](https://www.androidauthority.com/amazon-echo-dot-max-studio-deals-3627936/)
+ - [Five FaZe Clan influencers exit after failed contract talks with new management; Matt Kalish, who invested $10M, calls FaZe&#39;s current structure &quot;unsustainable&quot; &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/251226/p13#a251226p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
