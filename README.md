@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best gift for Christmas from the wife](http://9gag.com/gag/a4P8ExQ)
+ - 6️⃣ [Bring this back](http://9gag.com/gag/ae9EQob)
  - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
- - 👉 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)<!-- MEMES:END -->
+ - 👉 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)<!-- MEMES:END -->
 
 --- 
 
