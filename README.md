@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s never too late to resurrect your old Kindle](https://www.androidauthority.com/resurrect-old-kindle-3624301/)
- - [The US Must Stop Underestimating Drone Warfare](https://www.wired.com/story/the-us-must-stop-underestimating-drone-warfare/)
- - [As inference splits into prefill and decode, Nvidia&#39;s Groq deal could enable a &quot;Rubin SRAM&quot; variant optimized for ultra-low latency agentic reasoning workloads &lpar;Gavin Baker/@gavinsbaker&rpar;](http://www.techmeme.com/251227/p4#a251227p4)<!-- TECH:END -->
+ - [Hyperkin The Competitor Controller Review: A DualSense Copycat](https://www.wired.com/review/hyperkin-the-competitor-controller/)
+ - [Prime Video: These Are the 23 Best Sci-Fi TV Shows You Should Stream Now](https://www.cnet.com/tech/services-and-software/prime-video-best-sci-fi-tv-shows-2025/#ftag=CAD590a51e)
+ - [I swapped my fancy screen cloth for a car accessory, and I’m never going back](https://www.androidauthority.com/cleaning-phone-microfiber-3623730/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
