@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Would](http://9gag.com/gag/ayNAMGy)
- - 😝 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
- - 👉 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)<!-- MEMES:END -->
+ - 6️⃣ [Color this you filthy peasant](http://9gag.com/gag/aPA0ZRQ)
+ - 😝 [Let it go...](http://9gag.com/gag/aNDXw00)
+ - 👉 [Diversity is strength](http://9gag.com/gag/abAov2B)<!-- MEMES:END -->
 
 --- 
 
