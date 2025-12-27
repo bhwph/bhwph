@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Out of all the new hardware that has passed through my hands in 2025, nothing has made an impact like a certain Wi-Fi 7 router has](https://www.pcgamer.com/hardware/networking/out-of-all-the-new-hardware-that-has-passed-through-my-hands-in-2025-nothing-has-made-an-impact-like-a-certain-wi-fi-7-router-has/)
- - [DCU 2025 releases: How James Gunn launched a cinematic universe by breaking Marvel&#39;s biggest rules](https://www.polygon.com/2025-state-of-the-dcu/)
- - [Are these Arc Raiders myths true or false? You tell me](https://www.pcgamer.com/games/third-person-shooter/are-these-arc-raiders-myths-true-or-false-you-tell-me/)<!-- GAME:END -->
+ - [Scream 7 star Matthew Lillard is worried he&#39;s ruining the movie](https://www.polygon.com/matthew-lillard-ruin-scream-7-stu-macher/)
+ - [PC gaming on Arm chips didn&#39;t quite happen in 2025, but the die is cast for an epic battle with x86 CPUs in the next few years](https://www.pcgamer.com/hardware/processors/pc-gaming-on-arm-chips-didnt-quite-happen-in-2025-but-the-die-is-cast-for-an-epic-battle-with-x86-cpus-in-the-next-few-years/)
+ - [The best indie Pokémon-like on PC is free on Epic for a limited time](https://www.pcgamer.com/games/rpg/the-best-indie-pokemon-like-on-pc-is-free-on-epic-for-a-limited-time/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
