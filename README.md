@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
- - 😝 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
- - 👉 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)<!-- MEMES:END -->
+ - 6️⃣ [Freedom of speech oppressor](http://9gag.com/gag/aByMd9x)
+ - 😝 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
+ - 👉 [Playing CS2 like a pro](http://9gag.com/gag/aYQBVWw)<!-- MEMES:END -->
 
 --- 
 
