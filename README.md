@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let it go...](http://9gag.com/gag/aNDXw00)
- - 😝 [I can feel this clip](http://9gag.com/gag/a4P83m1)
- - 👉 [The real reason for the season](http://9gag.com/gag/ae9EQ75)<!-- MEMES:END -->
+ - 6️⃣ [Freedom of speech oppressor](http://9gag.com/gag/aByMd9x)
+ - 😝 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
+ - 👉 [Playing CS2 like a pro](http://9gag.com/gag/aYQBVWw)<!-- MEMES:END -->
 
 --- 
 
