@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Chinese food delivery giant Meituan&#39;s subsidy war with Alibaba and JD.com, leading Meituan to a big Q3 loss and internal debate over global expansion &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/251227/p8#a251227p8)
- - [Sam Altman is hiring someone to worry about the dangers of AI](https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness)
- - [Amazon drops Apple&#39;s iPad 11 down to $299 during year-end sale](https://appleinsider.com/articles/25/12/27/amazon-drops-apples-ipad-11-down-to-299-during-year-end-sale?utm_source=rss)<!-- TECH:END -->
+ - [A profile of the Digital Security Helpline, run by Access Now, which gives 24/7 help to reporters and others who suspect they are victims of government spyware &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251227/p10#a251227p10)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 28 #665](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-28-665/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 28, #931](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-28-931/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
