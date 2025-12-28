@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Life Stats](https://www.reddit.com/r/funny/comments/1pxscxg/life_stats/)
- - 😝 [So there is a Nvidia RTX 5090 shortage, right?](http://9gag.com/gag/aGyqE3K)
- - 👉 [1/4 day](http://9gag.com/gag/aYQBVLm)<!-- MEMES:END -->
+ - 6️⃣ [Who needs a barber when we can get our hair done by machines, right?](http://9gag.com/gag/azxz2Bz)
+ - 😝 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
+ - 👉 [Special talent](http://9gag.com/gag/an73OzV)<!-- MEMES:END -->
 
 --- 
 
