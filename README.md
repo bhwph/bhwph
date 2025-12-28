@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data center developers, facing grid access wait times of up to seven years, are turning to aeroderivative turbines and diesel generators to power the AI boom &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/251228/p6#a251228p6)
- - [Sources: Bengaluru-based quick grocery delivery startup Zepto confidentially files for a ~$1.3B India IPO; Zepto raised $450M at a $7B valuation in October 2025 &lpar;Pranav Mukul/The Economic Times&rpar;](http://www.techmeme.com/251228/p5#a251228p5)
- - [Behold the Manifold, the Concept that Changed How Mathematicians View Space](https://www.wired.com/story/behold-the-manifold-the-concept-that-changed-how-mathematicians-view-space/)<!-- TECH:END -->
+ - [My best phone purchase of 2025 isn’t an Android after all](https://www.androidauthority.com/my-best-phone-purchase-2025-isnt-android-3626751/)
+ - [The Dollar Is Facing an End to Its Dominance](https://www.wired.com/story/the-dollar-is-facing-an-end-to-its-dominance/)
+ - [When It Snows, Rake Your Roof. Your House Will Thank You](https://www.cnet.com/news/roof-rake-clear-snow-stop-ice-dams-winter-home-maintenance/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
