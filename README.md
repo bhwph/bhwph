@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)
- - 😝 [Special talent](http://9gag.com/gag/an73OzV)
- - 👉 [Who needs a barber when we can get our hair done by machines, right?](http://9gag.com/gag/azxz2Bz)<!-- MEMES:END -->
+ - 6️⃣ [Who needs a barber when we can get our hair done by machines, right?](http://9gag.com/gag/azxz2Bz)
+ - 😝 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)
+ - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
 
 --- 
 
