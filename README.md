@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Diversity is strength](http://9gag.com/gag/abAov2B)
- - 😝 [Remember &#39;89](http://9gag.com/gag/aE0b09p)
- - 👉 [The real reason for the season](http://9gag.com/gag/ae9EQ75)<!-- MEMES:END -->
+ - 6️⃣ [The real reason for the season](http://9gag.com/gag/ae9EQ75)
+ - 😝 [Let it go...](http://9gag.com/gag/aNDXw00)
+ - 👉 [Cat Lover](http://9gag.com/gag/aGyqLxZ)<!-- MEMES:END -->
 
 --- 
 
