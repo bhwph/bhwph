@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: The best gaming keyboard of 2025](https://www.pcgamer.com/hardware/gaming-keyboards/pc-gamer-hardware-awards-the-best-gaming-keyboard-of-2025/)
- - [Umamusume: Pretty Derby made everyone a horse girl in 2025](https://www.polygon.com/umamusume-pretty-derby-2025-retrospective/)
- - [Slay the Spire gets the best Christmas present a deckbuilder could ask for: a new all-time concurrent player peak on Steam nearly 7 years after release](https://www.pcgamer.com/games/card-games/slay-the-spire-gets-the-best-christmas-present-a-deckbuilder-could-ask-for-a-new-all-time-concurrent-player-peak-on-steam-nearly-7-years-after-release/)<!-- GAME:END -->
+ - [Nintendo couldn&#39;t screw up 2025&#39;s Switch 2 launch, no matter how hard it tried](https://www.polygon.com/nintendo-2025-switch-2-year-in-review/)
+ - [A game about giant, helpless teddy bears fleeing a dying world may be a bit on the nose right now, but it&#39;s also my favorite game of 2025](https://www.pcgamer.com/games/adventure/a-game-about-giant-helpless-teddy-bears-fleeing-a-dying-world-may-be-a-bit-on-the-nose-right-now-but-its-also-my-favorite-game-of-2025/)
+ - [PC Gamer Hardware Awards: The best gaming mouse of 2025](https://www.pcgamer.com/hardware/gaming-mice/pc-gamer-hardware-awards-the-best-gaming-mouse-of-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
