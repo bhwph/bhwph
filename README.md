@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC Gamer Hardware Awards: The best gaming keyboard of 2025](https://www.pcgamer.com/hardware/gaming-keyboards/pc-gamer-hardware-awards-the-best-gaming-keyboard-of-2025/)
  - [Umamusume: Pretty Derby made everyone a horse girl in 2025](https://www.polygon.com/umamusume-pretty-derby-2025-retrospective/)
- - [Slay the Spire gets the best Christmas present a deckbuilder could ask for: a new all-time concurrent player peak on Steam nearly 7 years after release](https://www.pcgamer.com/games/card-games/slay-the-spire-gets-the-best-christmas-present-a-deckbuilder-could-ask-for-a-new-all-time-concurrent-player-peak-on-steam-nearly-7-years-after-release/)
- - [Scream 7 star Matthew Lillard is worried he&#39;s ruining the movie](https://www.polygon.com/matthew-lillard-ruin-scream-7-stu-macher/)<!-- GAME:END -->
+ - [Slay the Spire gets the best Christmas present a deckbuilder could ask for: a new all-time concurrent player peak on Steam nearly 7 years after release](https://www.pcgamer.com/games/card-games/slay-the-spire-gets-the-best-christmas-present-a-deckbuilder-could-ask-for-a-new-all-time-concurrent-player-peak-on-steam-nearly-7-years-after-release/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
