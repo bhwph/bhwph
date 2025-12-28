@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m a villain, not a monster.](http://9gag.com/gag/a0eG46n)
- - 😝 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)
- - 👉 [Let it go...](http://9gag.com/gag/aNDXw00)<!-- MEMES:END -->
+ - 6️⃣ [Cat Lover](http://9gag.com/gag/aGyqLxZ)
+ - 😝 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
+ - 👉 [Magic mattress.](http://9gag.com/gag/abAoAEr)<!-- MEMES:END -->
 
 --- 
 
