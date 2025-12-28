@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What free games are on Epic Games Store today &lpar;Dec. 26&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)
- - [2025&#39;s biggest movies share one big message: Don&#39;t trust billionaires](https://www.polygon.com/eat-the-rich-movies-2025-anti-billionaire-messaging-sci-fi-superheroes/)
- - [The Fractal Design Scape feels like a gaming headset from the future, which makes it the best thing I&#39;ve tested in 2035. I mean, this year](https://www.pcgamer.com/hardware/gaming-headsets/the-fractal-design-scape-feels-like-a-gaming-headset-from-the-future-which-makes-it-the-best-thing-ive-tested-in-2035-i-mean-this-year/)<!-- GAME:END -->
+ - [2025’s best video game remakes and remasters](https://www.polygon.com/best-video-game-remakes-remasters-rereleases/)
+ - [Well, this year&#39;s graphics card launches were a right shitshow, eh?](https://www.pcgamer.com/hardware/graphics-cards/well-this-years-graphics-card-launches-were-a-right-shitshow-eh/)
+ - [I hated using oil pastels in school, but this artist has made me want to give them a second chance thanks to their adorable, low-poly video game character paintings](https://www.pcgamer.com/games/i-hated-using-oil-pastels-in-school-but-this-artist-has-made-me-want-to-give-them-a-second-chance-thanks-to-their-adorable-low-poly-video-game-character-paintings/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
