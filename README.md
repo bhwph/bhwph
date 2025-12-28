@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [My best phone purchase of 2025 isn’t an Android after all](https://www.androidauthority.com/my-best-phone-purchase-2025-isnt-android-3626751/)
- - [The Dollar Is Facing an End to Its Dominance](https://www.wired.com/story/the-dollar-is-facing-an-end-to-its-dominance/)
- - [When It Snows, Rake Your Roof. Your House Will Thank You](https://www.cnet.com/news/roof-rake-clear-snow-stop-ice-dams-winter-home-maintenance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Best Drones &lpar;2025&rpar;: Flight-Tested and Reviewed](https://www.wired.com/gallery/best-drones/)
+ - [iPhone Fold and iPhone Air 2: Launch Date, Price, Screen Crease and Everything We Know](https://www.cnet.com/tech/mobile/iphone-fold-and-iphone-air-2-launch-dates-prices-and-everything-we-know/#ftag=CAD590a51e)
+ - [Ranking Android OEMs from worst to best in 2025](https://www.androidauthority.com/android-oems-ranked-2025-3626648/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
