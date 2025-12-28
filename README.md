@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Can&#39;t Stop Gawking at Samsung&#39;s New Wi-Fi Speaker](https://www.cnet.com/tech/home-entertainment/i-cant-stop-gawking-at-samsungs-new-wi-fi-speaker/#ftag=CAD590a51e)
- - [Two new wireless Samsung speakers for 2026 lean into aesthetics](https://www.theverge.com/news/850481/two-new-wireless-samsung-speakers-for-2026-lean-into-aesthetics)
- - [A profile of the Digital Security Helpline, run by Access Now, which gives 24/7 help to reporters and others who suspect they are victims of government spyware &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251227/p10#a251227p10)<!-- TECH:END -->
+ - [China&#39;s draft rules on the use of human-like AI would require companies to inform users they are dealing with AI when they log on and at two-hour intervals &lpar;Bloomberg&rpar;](http://www.techmeme.com/251227/p11#a251227p11)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Dec. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-dec-28/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 28, #461](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-28-461/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
