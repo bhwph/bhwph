@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Remember &#39;89](http://9gag.com/gag/aE0b09p)
- - 😝 [Cat Lover](http://9gag.com/gag/aGyqLxZ)
- - 👉 [Just a kiss on your lips in the moonlight. Just a touch of the fire burnin&#39; so bright](http://9gag.com/gag/aGyqyOG)<!-- MEMES:END -->
+ - 6️⃣ [Life Stats](https://www.reddit.com/r/funny/comments/1pxscxg/life_stats/)
+ - 😝 [So there is a Nvidia RTX 5090 shortage, right?](http://9gag.com/gag/aGyqE3K)
+ - 👉 [1/4 day](http://9gag.com/gag/aYQBVLm)<!-- MEMES:END -->
 
 --- 
 
