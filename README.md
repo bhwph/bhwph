@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Drones &lpar;2025&rpar;: Flight-Tested and Reviewed](https://www.wired.com/gallery/best-drones/)
- - [iPhone Fold and iPhone Air 2: Launch Date, Price, Screen Crease and Everything We Know](https://www.cnet.com/tech/mobile/iphone-fold-and-iphone-air-2-launch-dates-prices-and-everything-we-know/#ftag=CAD590a51e)
- - [Ranking Android OEMs from worst to best in 2025](https://www.androidauthority.com/android-oems-ranked-2025-3626648/)<!-- TECH:END -->
+ - [UK $2 billion App Store ruling appealed -- again](https://appleinsider.com/articles/25/12/28/uk-2-billion-app-store-ruling-appealed----again?utm_source=rss)
+ - [How Much Melatonin Should You Be Taking? &lpar;2026&rpar;](https://www.wired.com/story/how-much-melatonin-should-i-take-2026/)
+ - [Supersonic Jet Engines Will Soon Power AI Data Centers](https://www.cnet.com/roadshow/news/supersonic-jet-engines-will-soon-power-ai-data-centers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
