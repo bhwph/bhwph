@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Avatar 4 without James Cameron? Only person could take over.](https://www.polygon.com/avatar-4-director-james-cameron-replacement-chloe-zhao/)
  - [2025’s best video game remakes and remasters](https://www.polygon.com/best-video-game-remakes-remasters-rereleases/)
- - [Well, this year&#39;s graphics card launches were a right shitshow, eh?](https://www.pcgamer.com/hardware/graphics-cards/well-this-years-graphics-card-launches-were-a-right-shitshow-eh/)
- - [I hated using oil pastels in school, but this artist has made me want to give them a second chance thanks to their adorable, low-poly video game character paintings](https://www.pcgamer.com/games/i-hated-using-oil-pastels-in-school-but-this-artist-has-made-me-want-to-give-them-a-second-chance-thanks-to-their-adorable-low-poly-video-game-character-paintings/)<!-- GAME:END -->
+ - [Well, this year&#39;s graphics card launches were a right shitshow, eh?](https://www.pcgamer.com/hardware/graphics-cards/well-this-years-graphics-card-launches-were-a-right-shitshow-eh/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
