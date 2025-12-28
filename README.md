@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Color this you filthy peasant](http://9gag.com/gag/aPA0ZRQ)
- - 😝 [Let it go...](http://9gag.com/gag/aNDXw00)
- - 👉 [Diversity is strength](http://9gag.com/gag/abAov2B)<!-- MEMES:END -->
+ - 6️⃣ [Best way to keep thieves away is fear i guess](http://9gag.com/gag/a1mnPNb)
+ - 😝 [The real reason for the season](http://9gag.com/gag/ae9EQ75)
+ - 👉 [Let it go...](http://9gag.com/gag/aNDXw00)<!-- MEMES:END -->
 
 --- 
 
