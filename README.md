@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo couldn&#39;t screw up 2025&#39;s Switch 2 launch, no matter how hard it tried](https://www.polygon.com/nintendo-2025-switch-2-year-in-review/)
- - [A game about giant, helpless teddy bears fleeing a dying world may be a bit on the nose right now, but it&#39;s also my favorite game of 2025](https://www.pcgamer.com/games/adventure/a-game-about-giant-helpless-teddy-bears-fleeing-a-dying-world-may-be-a-bit-on-the-nose-right-now-but-its-also-my-favorite-game-of-2025/)
- - [PC Gamer Hardware Awards: The best gaming mouse of 2025](https://www.pcgamer.com/hardware/gaming-mice/pc-gamer-hardware-awards-the-best-gaming-mouse-of-2025/)<!-- GAME:END -->
+ - [What free games are on Epic Games Store today &lpar;Dec. 26&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)
+ - [2025&#39;s biggest movies share one big message: Don&#39;t trust billionaires](https://www.polygon.com/eat-the-rich-movies-2025-anti-billionaire-messaging-sci-fi-superheroes/)
+ - [The Fractal Design Scape feels like a gaming headset from the future, which makes it the best thing I&#39;ve tested in 2035. I mean, this year](https://www.pcgamer.com/hardware/gaming-headsets/the-fractal-design-scape-feels-like-a-gaming-headset-from-the-future-which-makes-it-the-best-thing-ive-tested-in-2035-i-mean-this-year/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
