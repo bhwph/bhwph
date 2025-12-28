@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to prepare a tech emergency kit before the next blackout hits](https://appleinsider.com/inside/ios/tips/how-to-prepare-a-tech-emergency-kit-before-the-next-blackout-hits?utm_source=rss)
- - [You need to read the subversive cosmic horror novella The Ballad of Black Tom](https://www.theverge.com/column/850564/subversive-cosmic-horror-the-ballad-of-black-tom-victor-lavalle)
- - [The terrible Nintendo controller that helped make VR happen](https://www.theverge.com/podcast/850556/nintendo-power-glove-version-history)<!-- TECH:END -->
+ - [LG announces new UltraGear evo gaming monitors with AI upscaling](https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling)
+ - [Year-end price war: Apple&#39;s 1TB M5 MacBook Pro drops to $1,649](https://appleinsider.com/articles/25/12/28/year-end-price-war-apples-1tb-m5-macbook-pro-drops-to-1649?utm_source=rss)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 29, #932](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-29-932/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
