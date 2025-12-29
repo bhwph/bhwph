@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The imbalance](http://9gag.com/gag/a7oB8Ow)
- - 😝 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)
- - 👉 [Yu-Gi-Oh matches be like](http://9gag.com/gag/a879AqQ)<!-- MEMES:END -->
+ - 6️⃣ [Yu-Gi-Oh matches be like](http://9gag.com/gag/a879AqQ)
+ - 😝 [Live your dream](http://9gag.com/gag/agmb1dn)
+ - 👉 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)<!-- MEMES:END -->
 
 --- 
 
