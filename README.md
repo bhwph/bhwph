@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roborock CES teaser features a robot vacuum’s greatest enemy: stairs](https://www.androidauthority.com/stair-climbing-vacuum-3628134/)
- - [The fall of Roomba, CES 2026 preview, &amp; the best smart tech of 2025 on HomeKit Insider](https://appleinsider.com/articles/25/12/29/the-fall-of-roomba-ces-2026-preview-the-best-smart-tech-of-2025-on-homekit-insider?utm_source=rss)
- - [Apple Car Key could make its way to Tesla vehicles](https://appleinsider.com/articles/25/12/29/apple-car-key-could-make-its-way-to-tesla-vehicles?utm_source=rss)<!-- TECH:END -->
+ - [&#39;Pluribus&#39; bomb drops: studio notes changed the finale &amp; Tim Cook&#39;s cookies](https://appleinsider.com/articles/25/12/29/pluribus-bomb-drops-studio-notes-changed-the-finale-tim-cooks-cookies?utm_source=rss)
+ - [Turn your PC into a Super Nintendo with Epilogue&amp;#8217;s new USB dock](https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator)
+ - [Michał Kiciński, co-founder of CD Projekt and DRM-free digital games store GOG, has acquired 100% of the shares in GOG from CD Projekt &lpar;Vikki Blake/Eurogamer.net&rpar;](http://www.techmeme.com/251229/p15#a251229p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
