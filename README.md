@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung and Google partner to bring Google Photos to TizenOS-powered TVs, launching in March 2026 and showing curated memories, ahead of CES 2026 &lpar;Rajesh Pandey/Android Police&rpar;](http://www.techmeme.com/251229/p13#a251229p13)
- - [Robot Coffee Cups? Self-Driving Trivets? AI Researchers Made It Happen](https://www.cnet.com/tech/services-and-software/robot-coffee-cups-self-driving-trivets-ai-researchers-made-it-happen/#ftag=CAD590a51e)
- - [Apple assembly partner victim of a supply chain cyberattack](https://appleinsider.com/articles/25/12/29/apple-assembly-partner-victim-of-a-supply-chain-cyberattack?utm_source=rss)<!-- TECH:END -->
+ - [Roborock CES teaser features a robot vacuum’s greatest enemy: stairs](https://www.androidauthority.com/stair-climbing-vacuum-3628134/)
+ - [The fall of Roomba, CES 2026 preview, &amp; the best smart tech of 2025 on HomeKit Insider](https://appleinsider.com/articles/25/12/29/the-fall-of-roomba-ces-2026-preview-the-best-smart-tech-of-2025-on-homekit-insider?utm_source=rss)
+ - [Apple Car Key could make its way to Tesla vehicles](https://appleinsider.com/articles/25/12/29/apple-car-key-could-make-its-way-to-tesla-vehicles?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
