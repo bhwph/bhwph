@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yu-Gi-Oh matches be like](http://9gag.com/gag/a879AqQ)
- - 😝 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)
+ - 6️⃣ [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
+ - 😝 [Special talent](http://9gag.com/gag/an73OzV)
  - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
 
 --- 
