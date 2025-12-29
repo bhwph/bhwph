@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The imbalance](http://9gag.com/gag/a7oB8Ow)
- - 😝 [Who needs a barber when we can get our hair done by machines, right?](http://9gag.com/gag/azxz2Bz)
- - 👉 [Special talent](http://9gag.com/gag/an73OzV)<!-- MEMES:END -->
+ - 6️⃣ [Yu-Gi-Oh matches be like](http://9gag.com/gag/a879AqQ)
+ - 😝 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)
+ - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
 
 --- 
 
