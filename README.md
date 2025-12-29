@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Pluribus&#39; bomb drops: studio notes changed the finale &amp; Tim Cook&#39;s cookies](https://appleinsider.com/articles/25/12/29/pluribus-bomb-drops-studio-notes-changed-the-finale-tim-cooks-cookies?utm_source=rss)
- - [Turn your PC into a Super Nintendo with Epilogue&amp;#8217;s new USB dock](https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator)
- - [Michał Kiciński, co-founder of CD Projekt and DRM-free digital games store GOG, has acquired 100% of the shares in GOG from CD Projekt &lpar;Vikki Blake/Eurogamer.net&rpar;](http://www.techmeme.com/251229/p15#a251229p15)<!-- TECH:END -->
+ - [A look at the rift in the Democratic party over AI and data centers, as pro-business Democrats oppose the fiery, anti-AI politics of the progressive wing &lpar;Calder McHugh/Politico&rpar;](http://www.techmeme.com/251229/p17#a251229p17)
+ - [Forget dual-screen gaming handhelds; it’s foldable-screen time](https://www.androidauthority.com/foldable-screen-gaming-3628157/)
+ - [Deal: The ARK Uno wireless charger is made of wood, and it is at an all-time low price!](https://www.androidauthority.com/ark-uno-solid-wood-wireless-charger-deal-3628171/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
