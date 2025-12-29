@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey reveals how many of you are swerving YouTube ads — and how](https://www.androidauthority.com/watch-youtube-without-ads-poll-result-3628068/)
- - [SEC filing: Nvidia acquires Intel shares worth $5B, carrying out a transaction announced in September, buying 214.7M shares for $23.28 each &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251229/p9#a251229p9)
- - [Bixby is preparing for a comeback as a worthy Gemini competitor on your Galaxy phone](https://www.androidauthority.com/samsung-bixby-renew-perplexity-ai-3628037/)<!-- TECH:END -->
+ - [Samsung and Google partner to bring Google Photos to TizenOS-powered TVs, launching in March 2026 and showing curated memories, ahead of CES 2026 &lpar;Rajesh Pandey/Android Police&rpar;](http://www.techmeme.com/251229/p13#a251229p13)
+ - [Robot Coffee Cups? Self-Driving Trivets? AI Researchers Made It Happen](https://www.cnet.com/tech/services-and-software/robot-coffee-cups-self-driving-trivets-ai-researchers-made-it-happen/#ftag=CAD590a51e)
+ - [Apple assembly partner victim of a supply chain cyberattack](https://appleinsider.com/articles/25/12/29/apple-assembly-partner-victim-of-a-supply-chain-cyberattack?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
