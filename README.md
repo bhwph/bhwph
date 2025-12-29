@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yu-Gi-Oh matches be like](http://9gag.com/gag/a879AqQ)
- - 😝 [Live your dream](http://9gag.com/gag/agmb1dn)
- - 👉 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)<!-- MEMES:END -->
+ - 6️⃣ [Speech lvl 100 Delusion lvl 100](http://9gag.com/gag/a1mn7bD)
+ - 😝 [Community members shocked and wondering why their publicly funded grocery store became like that after 2 years](http://9gag.com/gag/aqyOR2M)
+ - 👉 [Damn, nature..](http://9gag.com/gag/a6Zz9OL)<!-- MEMES:END -->
 
 --- 
 
