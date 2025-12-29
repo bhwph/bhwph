@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Speech lvl 100 Delusion lvl 100](http://9gag.com/gag/a1mn7bD)
- - 😝 [Community members shocked and wondering why their publicly funded grocery store became like that after 2 years](http://9gag.com/gag/aqyOR2M)
- - 👉 [Damn, nature..](http://9gag.com/gag/a6Zz9OL)<!-- MEMES:END -->
+ - 6️⃣ [Who gave this guys driver licenses](http://9gag.com/gag/a5QA6zG)
+ - 😝 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)
+ - 👉 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)<!-- MEMES:END -->
 
 --- 
 
