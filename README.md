@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Legends: Z-A Leak Is A Fascinating Look At The Game We Didn’t Get](https://kotaku.com/pokemon-legends-za-leak-video-old-build-teraleak-window-2000655988)
- - [RPG fans melt down over &quot;Clair Obscur: Expedition 33-like&quot; claim](https://www.polygon.com/clair-obscur-expedition-33-like-legend-sword-and-fairy-4-remake/)
- - [What The Internet Keeps Getting Wrong About The Most Famous Quote From Star Wars: The Last Jedi](https://kotaku.com/star-wars-last-jedi-kylo-ren-quote-rian-johnson-2000655969)<!-- GAME:END -->
+ - [Rainbow Six Siege servers are back after hackers randomly doled out bans, unbans, rare skins and &#39;billions&#39; in in-game currency](https://www.pcgamer.com/games/fps/rainbow-six-siege-servers-are-back-after-hackers-randomly-doled-out-bans-unbans-rare-skins-and-billions-in-in-game-currency/)
+ - [The Best Video Game Moments Of 2025](https://kotaku.com/best-video-game-moments-scenes-2025-clair-obscur-ending-2000655769)
+ - [GTA 5 Voice Actor Has Been Swatted So Many Times The Cops Know His Name](https://kotaku.com/gta-5-voice-actor-ned-luke-swatted-police-live-streaming-twitch-2000655992)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
