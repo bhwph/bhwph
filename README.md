@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Home Chef Promo Code: 50% Off](https://www.wired.com/story/home-chef-promo-code/)
- - [Forget about Galaxy S26: Samsung could pull an Apple for the Galaxy S28’s GPU](https://www.androidauthority.com/samsung-custom-gpu-galaxy-s28-3628005/)
- - [Sources and a memo: the US DOJ is using a novel reading of a federal anti-fraud law to probe contractors, including Google and Verizon, over their DEI programs &lpar;Lydia Wheeler/Wall Street Journal&rpar;](http://www.techmeme.com/251229/p1#a251229p1)<!-- TECH:END -->
+ - [PitchBook: the biggest US private startups raised $150B in 2025, surpassing the previous high of $92B in 2021, boosted by large funding rounds by AI startups &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/251229/p5#a251229p5)
+ - [I am the biggest fan of Pixel Studio, but I wish it had this one feature](https://www.androidauthority.com/pixel-studio-needs-backup-3624236/)
+ - [The Earth Is Nearing an Environmental Tipping Point](https://www.wired.com/story/the-earth-is-nearing-an-environmental-tipping-point/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
