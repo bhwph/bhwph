@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: the biggest US private startups raised $150B in 2025, surpassing the previous high of $92B in 2021, boosted by large funding rounds by AI startups &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/251229/p5#a251229p5)
- - [I am the biggest fan of Pixel Studio, but I wish it had this one feature](https://www.androidauthority.com/pixel-studio-needs-backup-3624236/)
- - [The Earth Is Nearing an Environmental Tipping Point](https://www.wired.com/story/the-earth-is-nearing-an-environmental-tipping-point/)<!-- TECH:END -->
+ - [Survey reveals how many of you are swerving YouTube ads — and how](https://www.androidauthority.com/watch-youtube-without-ads-poll-result-3628068/)
+ - [SEC filing: Nvidia acquires Intel shares worth $5B, carrying out a transaction announced in September, buying 214.7M shares for $23.28 each &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251229/p9#a251229p9)
+ - [Bixby is preparing for a comeback as a worthy Gemini competitor on your Galaxy phone](https://www.androidauthority.com/samsung-bixby-renew-perplexity-ai-3628037/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
