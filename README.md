@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
- - 😝 [Special talent](http://9gag.com/gag/an73OzV)
- - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
+ - 6️⃣ [Speech lvl 100 Delusion lvl 100](http://9gag.com/gag/a1mn7bD)
+ - 😝 [The imbalance](http://9gag.com/gag/a7oB8Ow)
+ - 👉 [What the world sees](http://9gag.com/gag/aoy63nx)<!-- MEMES:END -->
 
 --- 
 
