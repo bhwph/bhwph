@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [DJI Mic Mini Bundle Enters Clearance at 53% Off, With Direct Osmo Action Camera Connectivity](https://kotaku.com/dji-mic-mini-bundle-enters-clearance-at-53-off-with-direct-osmo-action-camera-connectivity-2000655802)
- - [Every episode of the iconic series The X-Files is about to stream for free](https://www.polygon.com/xfiles-streaming-free-pluto-announcement/)
- - [PlayStation 2025 year in review: PS5 printed money during a quiet year](https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/)<!-- GAME:END -->
+ - [Pokémon Legends: Z-A Leak Is A Fascinating Look At The Game We Didn’t Get](https://kotaku.com/pokemon-legends-za-leak-video-old-build-teraleak-window-2000655988)
+ - [RPG fans melt down over &quot;Clair Obscur: Expedition 33-like&quot; claim](https://www.polygon.com/clair-obscur-expedition-33-like-legend-sword-and-fairy-4-remake/)
+ - [What The Internet Keeps Getting Wrong About The Most Famous Quote From Star Wars: The Last Jedi](https://kotaku.com/star-wars-last-jedi-kylo-ren-quote-rian-johnson-2000655969)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
