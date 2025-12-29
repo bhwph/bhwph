@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Community members shocked and wondering why their publicly funded grocery store became like that after 2 years](http://9gag.com/gag/aqyOR2M)
- - 😝 [The imbalance](http://9gag.com/gag/a7oB8Ow)
- - 👉 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)<!-- MEMES:END -->
+ - 6️⃣ [The imbalance](http://9gag.com/gag/a7oB8Ow)
+ - 😝 [Bruh](http://9gag.com/gag/aByMZGA)
+ - 👉 [Community members shocked and wondering why their publicly funded grocery store became like that after 2 years](http://9gag.com/gag/aqyOR2M)<!-- MEMES:END -->
 
 --- 
 
