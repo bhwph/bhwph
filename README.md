@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung Clears Out Galaxy Tab A9+ at All-Time Low, Now the Budget Tablet Alternative to Apple iPad](https://kotaku.com/samsung-clears-out-galaxy-tab-a9-at-all-time-low-now-the-budget-tablet-alternative-to-apple-ipad-2000655755)
- - [PC Gamer Hardware Awards: The best gaming headset of 2025](https://www.pcgamer.com/hardware/gaming-headsets/pc-gamer-hardware-awards-the-best-gaming-headset-of-2025/)
- - [Avatar 4 without James Cameron? Only person could take over.](https://www.polygon.com/avatar-4-director-james-cameron-replacement-chloe-zhao/)<!-- GAME:END -->
+ - [DJI Mic Mini Bundle Enters Clearance at 53% Off, With Direct Osmo Action Camera Connectivity](https://kotaku.com/dji-mic-mini-bundle-enters-clearance-at-53-off-with-direct-osmo-action-camera-connectivity-2000655802)
+ - [Every episode of the iconic series The X-Files is about to stream for free](https://www.polygon.com/xfiles-streaming-free-pluto-announcement/)
+ - [PlayStation 2025 year in review: PS5 printed money during a quiet year](https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
