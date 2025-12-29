@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar 4 without James Cameron? Only person could take over.](https://www.polygon.com/avatar-4-director-james-cameron-replacement-chloe-zhao/)
- - [2025’s best video game remakes and remasters](https://www.polygon.com/best-video-game-remakes-remasters-rereleases/)
- - [Well, this year&#39;s graphics card launches were a right shitshow, eh?](https://www.pcgamer.com/hardware/graphics-cards/well-this-years-graphics-card-launches-were-a-right-shitshow-eh/)<!-- GAME:END -->
+ - [Samsung Clears Out Galaxy Tab A9+ at All-Time Low, Now the Budget Tablet Alternative to Apple iPad](https://kotaku.com/samsung-clears-out-galaxy-tab-a9-at-all-time-low-now-the-budget-tablet-alternative-to-apple-ipad-2000655755)
+ - [PC Gamer Hardware Awards: The best gaming headset of 2025](https://www.pcgamer.com/hardware/gaming-headsets/pc-gamer-hardware-awards-the-best-gaming-headset-of-2025/)
+ - [Avatar 4 without James Cameron? Only person could take over.](https://www.polygon.com/avatar-4-director-james-cameron-replacement-chloe-zhao/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
