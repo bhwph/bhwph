@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the rift in the Democratic party over AI and data centers, as pro-business Democrats oppose the fiery, anti-AI politics of the progressive wing &lpar;Calder McHugh/Politico&rpar;](http://www.techmeme.com/251229/p17#a251229p17)
- - [Forget dual-screen gaming handhelds; it’s foldable-screen time](https://www.androidauthority.com/foldable-screen-gaming-3628157/)
- - [Deal: The ARK Uno wireless charger is made of wood, and it is at an all-time low price!](https://www.androidauthority.com/ark-uno-solid-wood-wireless-charger-deal-3628171/)<!-- TECH:END -->
+ - [Save $520 on the Samsung Galaxy Z Fold 7 with upgraded storage](https://www.androidauthority.com/samsung-galaxy-z-fold-7-512gb-deal-3628168/)
+ - [Limited-edition AirTags, gift cards up for grabs in Apple&#39;s New Year sale in Japan](https://appleinsider.com/articles/25/12/29/limited-edition-airtags-gift-cards-up-for-grabs-in-apples-new-year-sale-in-japan?utm_source=rss)
+ - [How diamonds are being converted to quantum sensors by inserting tiny imperfections, opening up potential uses in medicine, brain-computer interfaces, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/251229/p18#a251229p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
