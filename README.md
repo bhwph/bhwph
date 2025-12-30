@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [None of us are at good at action RPGs as the Path of Exile 2 player who beat one of its toughest bosses without any gear: &#39;What did I just witness?&#39;](https://www.pcgamer.com/games/rpg/none-of-us-are-at-good-at-action-rpgs-as-the-path-of-exile-2-player-who-beat-one-of-its-toughest-bosses-without-any-gear-what-did-i-just-witness/)
- - [Fallen Aces&#39;s second episode won&#39;t be out this year, but it will feature a first-person car chase with a tommy gun in both hands and a foot-operated steering wheel](https://www.pcgamer.com/games/fps/fallen-acess-second-episode-wont-be-out-this-year-but-it-will-feature-a-first-person-car-chase-with-a-tommy-gun-in-both-hands-and-a-foot-operated-steering-wheel/)
- - [Ryan Coogler&#39;s X-Files reboot coming before Black Panther 3](https://www.polygon.com/ryan-coogler-x-files-reboot-cast-premise/)<!-- GAME:END -->
+ - [Anker 535 Power Station Restocks at 50% Off Black Friday Low, Turning This 9-Port Powerhouse Into a Steal](https://kotaku.com/anker-535-power-station-restocks-at-50-off-black-friday-low-turning-this-9-port-powerhouse-into-a-steal-2000656049)
+ - [Apple Goes All-In on AirTag Clearance, No Need for Budget Trackers as This 4-Pack Deal Hits All-Time Low](https://kotaku.com/apple-goes-all-in-on-airtag-clearance-no-need-for-budget-trackers-as-this-4-pack-deal-hits-all-time-low-2000656018)
+ - [PC Gamer Hardware Awards: The best graphics card of 2025](https://www.pcgamer.com/hardware/graphics-cards/pc-gamer-hardware-awards-the-best-graphics-card-of-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
