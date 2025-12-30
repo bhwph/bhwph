@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They had ordered a bucket of beer](http://9gag.com/gag/a7oBe8z)
- - 😝 [I saved it, but never used it. Maybe it&#39;ll will help one of you degenerates.](http://9gag.com/gag/an73nzq)
- - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
+ - 6️⃣ [Instincts never lie](http://9gag.com/gag/aLn3ePP)
+ - 😝 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
+ - 👉 [DEI &amp; ESG quotas fulfilled](http://9gag.com/gag/a2vV85p)<!-- MEMES:END -->
 
 --- 
 
