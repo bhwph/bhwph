@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best year-end Apple deals: AirTag $19, Apple Watch Ultra 2 $549, $799 MacBook](https://appleinsider.com/articles/25/12/30/best-year-end-apple-deals-airtag-19-apple-watch-ultra-2-549-799-macbook?utm_source=rss)
- - [GameSir put a tiny force feedback steering wheel on its new Swift Drive controller](https://www.theverge.com/news/851259/gamesir-switch-turbo-drive-controller-steering-wheel-wireless-force-feedback)
- - [Anker’s portable backup battery is an even better investment now that it’s nearly half off](https://www.theverge.com/gadgets/851016/anker-521-powerhouse-google-tv-streamer-4k-deal-sale)<!-- TECH:END -->
+ - [Two cybersecurity employees plead guilty to carrying out ransomware attacks](https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware)
+ - [Two ex-staffers of cybersecurity incident response companies Sygnia and DigitalMint plead guilty to targeting US companies in 2023&#39;s BlackCat ransomware attacks &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/251230/p13#a251230p13)
+ - [The sequel to one of Samsung’s most popular phones is coming next week](https://www.androidauthority.com/samsung-galaxy-a17-5g-galaxy-tab-a11-plus-3628499/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
