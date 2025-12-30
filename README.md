@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The massive Pocket Max adds a modular twist we haven’t seen on Android handhelds before](https://www.androidauthority.com/mangmi-pocket-max-android-handheld-modular-magnetic-buttons-3628266/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 30 #667](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-30-667/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 30, #933](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-30-933/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Marko&#39;s best tech of 2025 -- iPad Pro, and an unexpected MacBook Pro](https://appleinsider.com/articles/25/12/30/markos-best-tech-of-2025----ipad-pro-and-an-unexpected-macbook-pro?utm_source=rss)
+ - [Commodore 64 Ultimate Review: An Astonishing Remake](https://www.wired.com/review/commodore-64-ultimate/)
+ - [Sources: Chinese AI startup MiniMax is seeking to raise $600M+ from its Hong Kong IPO, set for January 2026, and has secured Alibaba and the ADIA as backers &lpar;Bloomberg&rpar;](http://www.techmeme.com/251230/p7#a251230p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
