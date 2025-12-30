@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford insists it will continue to support Apple CarPlay](https://appleinsider.com/articles/25/12/30/ford-insists-it-will-continue-to-support-apple-carplay?utm_source=rss)
- - [IDC expects shipments of PCs could shrink by up to 9% YoY in 2026 due to global memory shortages, as demand from AI data centers continues to outstrip supply &lpar;Zak Killian/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251230/p14#a251230p14)
- - [Here’s a stunning deal on the GRECELL 240W Portable Power Station](https://www.androidauthority.com/grecell-240w-portable-power-station-deal-3628167/)<!-- TECH:END -->
+ - [OpenAI’s mysterious hardware project could be a… pen?](https://www.androidauthority.com/openai-jony-ive-hardware-pen-3628586/)
+ - [DJI Osmo Pocket 3 deal: Save $270 and upgrade your video clips](https://www.androidauthority.com/dji-osmo-pocket-3-deal-2-3628525/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 31, #934](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-31-934/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
