@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anker 535 Power Station Restocks at 50% Off Black Friday Low, Turning This 9-Port Powerhouse Into a Steal](https://kotaku.com/anker-535-power-station-restocks-at-50-off-black-friday-low-turning-this-9-port-powerhouse-into-a-steal-2000656049)
- - [Apple Goes All-In on AirTag Clearance, No Need for Budget Trackers as This 4-Pack Deal Hits All-Time Low](https://kotaku.com/apple-goes-all-in-on-airtag-clearance-no-need-for-budget-trackers-as-this-4-pack-deal-hits-all-time-low-2000656018)
- - [PC Gamer Hardware Awards: The best graphics card of 2025](https://www.pcgamer.com/hardware/graphics-cards/pc-gamer-hardware-awards-the-best-graphics-card-of-2025/)<!-- GAME:END -->
+ - [She&#39;s collecting every Pokémon hole card, and no one can stop her](https://www.polygon.com/pokemon-card-bonsly-hole-emily-hopkins/)
+ - [Govee’s 1.8ft LED Backlight Is Back at Nearly 50% Off, RGBIC Wi-Fi Lighting for 55–65″ TVs](https://kotaku.com/govees-1-8ft-led-backlight-is-back-at-nearly-50-off-rgbic-wi-fi-lighting-for-55-65%e2%80%b3-tvs-2000656052)
+ - [Magic: The Gathering&#39;s 25 best cards of 2025, ranked](https://www.polygon.com/best-magic-the-gathering-cards-of-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
