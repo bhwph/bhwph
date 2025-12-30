@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
- - 😝 [Damn, nature..](http://9gag.com/gag/a6Zz9OL)
+ - 6️⃣ [Damn, nature..](http://9gag.com/gag/a6Zz9OL)
+ - 😝 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)
  - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
 
 --- 
