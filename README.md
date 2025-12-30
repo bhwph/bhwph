@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam&#39;s best selling PC games list show 2025 was wild](https://www.polygon.com/steam-best-selling-pc-games-2025/)
- - [Marvel Rivals&#39; Lady Loki costume revealed, confirmed not to be Hela skin](https://www.polygon.com/marvel-rivals-lady-loki-skin-trailer-release-date/)
- - [Some of my favorite childhood platformers are free on Epic for today only, and they&#39;ve all been updated for better crossplay with Steam owners](https://www.pcgamer.com/games/action/some-of-my-favorite-childhood-platformers-are-free-on-epic-for-today-only-and-theyve-all-been-updated-for-better-crossplay-with-steam-owners/)<!-- GAME:END -->
+ - [Pokémon fans keep some seriously weird stuff in their TCG boxes](https://www.polygon.com/pokemon-tcg-trading-card-box-tin-meme-trend/)
+ - [This sequel to a classic NES beat &#39;em up is about to be delisted from Steam, but you can get it for a few bucks in the meantime: &#39;The delisting process is currently underway&#39;](https://www.pcgamer.com/games/action/this-sequel-to-a-classic-nes-beat-em-up-is-about-to-be-delisted-from-steam-but-you-can-get-it-for-a-few-bucks-in-the-meantime-the-delisting-process-is-currently-underway/)
+ - [I can tell World of Warcraft&#39;s player housing is going well by the amount of Star Wars stuff this one player keeps building](https://www.pcgamer.com/games/world-of-warcraft/i-can-tell-world-of-warcrafts-player-housing-is-going-well-by-the-amount-of-star-wars-stuff-this-one-player-keeps-building/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
