@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Damn, nature..](http://9gag.com/gag/a6Zz9OL)
- - 😝 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)
- - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
+ - 6️⃣ [I mean so many slots were empty](http://9gag.com/gag/an73nDB)
+ - 😝 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
+ - 👉 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)<!-- MEMES:END -->
 
 --- 
 
