@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Drew a borzoi](https://www.reddit.com/r/funny/comments/1pzsqok/drew_a_borzoi/)
- - 😝 [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)
- - 👉 [A doggo had trouble socializing with other dogs at the park. No one paid attention to him until a little doggo introduced him to the group.](http://9gag.com/gag/aQzKQBe)<!-- MEMES:END -->
+ - 6️⃣ [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
+ - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
+ - 👉 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)<!-- MEMES:END -->
 
 --- 
 
