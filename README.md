@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zombie Roombas still Matter to HomeKit with support upgrades](https://appleinsider.com/articles/25/12/30/zombie-roombas-still-matter-to-homekit-with-support-upgrades?utm_source=rss)
- - [This fridge-friendly E Ink photo frame might be the answer to your bloated camera roll](https://www.androidauthority.com/picpak-color-e-ink-photo-frame-3628360/)
- - [Sources: SoftBank has completed its $40B investment in OpenAI &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251230/p9#a251230p9)<!-- TECH:END -->
+ - [Best year-end Apple deals: AirTag $19, Apple Watch Ultra 2 $549, $799 MacBook](https://appleinsider.com/articles/25/12/30/best-year-end-apple-deals-airtag-19-apple-watch-ultra-2-549-799-macbook?utm_source=rss)
+ - [GameSir put a tiny force feedback steering wheel on its new Swift Drive controller](https://www.theverge.com/news/851259/gamesir-switch-turbo-drive-controller-steering-wheel-wireless-force-feedback)
+ - [Anker’s portable backup battery is an even better investment now that it’s nearly half off](https://www.theverge.com/gadgets/851016/anker-521-powerhouse-google-tv-streamer-4k-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
