@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [DEI &amp; ESG quotas fulfilled](http://9gag.com/gag/a2vV85p)
- - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - 👉 [Never touch another man without permission](http://9gag.com/gag/a34D528)<!-- MEMES:END -->
+ - 6️⃣ [Minnesota](http://9gag.com/gag/aNDXv9w)
+ - 😝 [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)
+ - 👉 [I can fix her](http://9gag.com/gag/abAo4OO)<!-- MEMES:END -->
 
 --- 
 
