@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Instincts never lie](http://9gag.com/gag/aLn3ePP)
- - 😝 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
- - 👉 [DEI &amp; ESG quotas fulfilled](http://9gag.com/gag/a2vV85p)<!-- MEMES:END -->
+ - 6️⃣ [DEI &amp; ESG quotas fulfilled](http://9gag.com/gag/a2vV85p)
+ - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
+ - 👉 [Never touch another man without permission](http://9gag.com/gag/a34D528)<!-- MEMES:END -->
 
 --- 
 
