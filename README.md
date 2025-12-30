@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $520 on the Samsung Galaxy Z Fold 7 with upgraded storage](https://www.androidauthority.com/samsung-galaxy-z-fold-7-512gb-deal-3628168/)
- - [Limited-edition AirTags, gift cards up for grabs in Apple&#39;s New Year sale in Japan](https://appleinsider.com/articles/25/12/29/limited-edition-airtags-gift-cards-up-for-grabs-in-apples-new-year-sale-in-japan?utm_source=rss)
- - [How diamonds are being converted to quantum sensors by inserting tiny imperfections, opening up potential uses in medicine, brain-computer interfaces, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/251229/p18#a251229p18)<!-- TECH:END -->
+ - [LG is announcing its own Frame-style TV at CES](https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026)
+ - [One UI 8 on the Galaxy Watch 4 Classic is turning a fan favorite into a frustrating mess](https://www.androidauthority.com/samsung-galaxy-watch-4-classic-sensors-failing-3628205/)
+ - [Monday Night Football: How to Watch Rams vs. Falcons Tonight for Free](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-rams-vs-falcons-tonight-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
