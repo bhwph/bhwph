@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung ‘Brain Health’ could launch soon to detect early signs of dementia](https://www.androidauthority.com/samsung-brain-health-service-ces-3628241/)
- - [iPhone could never: The Galaxy S26 Ultra could fix lens flare, yellow skin tones](https://www.androidauthority.com/samsung-galaxy-s26-ultra-lens-flare-3628234/)
- - [Sources: the US has granted an annual license to Samsung and SK Hynix to ship their chip manufacturing equipment to their facilities in China for 2026 &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/251230/p2#a251230p2)<!-- TECH:END -->
+ - [The massive Pocket Max adds a modular twist we haven’t seen on Android handhelds before](https://www.androidauthority.com/mangmi-pocket-max-android-handheld-modular-magnetic-buttons-3628266/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 30 #667](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-30-667/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 30, #933](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-30-933/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
