@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG is announcing its own Frame-style TV at CES](https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026)
- - [One UI 8 on the Galaxy Watch 4 Classic is turning a fan favorite into a frustrating mess](https://www.androidauthority.com/samsung-galaxy-watch-4-classic-sensors-failing-3628205/)
- - [Monday Night Football: How to Watch Rams vs. Falcons Tonight for Free](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-rams-vs-falcons-tonight-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta says Manus, initially based in Beijing and Wuhan, will cut Chinese investor ties after the deal and &quot;will discontinue its services and operations in China&quot; &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251229/p26#a251229p26)
+ - [Shares of Shenzhen-based OneRobotics opened flat in their HK debut after the Chinese home robotics maker raised $210M by selling 22M+ shares at about $9.50 each &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251229/p25#a251229p25)
+ - [Shares of Insilico rose 45% in their Hong Kong trading debut after the AI drug discovery startup raised $293M in an IPO; Insilico reported $85M+ in 2024 revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/251229/p24#a251229p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
