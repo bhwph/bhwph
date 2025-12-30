@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [She&#39;s collecting every Pokémon hole card, and no one can stop her](https://www.polygon.com/pokemon-card-bonsly-hole-emily-hopkins/)
- - [Govee’s 1.8ft LED Backlight Is Back at Nearly 50% Off, RGBIC Wi-Fi Lighting for 55–65″ TVs](https://kotaku.com/govees-1-8ft-led-backlight-is-back-at-nearly-50-off-rgbic-wi-fi-lighting-for-55-65%e2%80%b3-tvs-2000656052)
- - [Magic: The Gathering&#39;s 25 best cards of 2025, ranked](https://www.polygon.com/best-magic-the-gathering-cards-of-2025/)<!-- GAME:END -->
+ - [Steam&#39;s best selling PC games list show 2025 was wild](https://www.polygon.com/steam-best-selling-pc-games-2025/)
+ - [Marvel Rivals&#39; Lady Loki costume revealed, confirmed not to be Hela skin](https://www.polygon.com/marvel-rivals-lady-loki-skin-trailer-release-date/)
+ - [Some of my favorite childhood platformers are free on Epic for today only, and they&#39;ve all been updated for better crossplay with Steam owners](https://www.pcgamer.com/games/action/some-of-my-favorite-childhood-platformers-are-free-on-epic-for-today-only-and-theyve-all-been-updated-for-better-crossplay-with-steam-owners/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
