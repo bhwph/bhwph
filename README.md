@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Minnesota](http://9gag.com/gag/aNDXv9w)
- - 😝 [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)
- - 👉 [I can fix her](http://9gag.com/gag/abAo4OO)<!-- MEMES:END -->
+ - 6️⃣ [Facts hurt](http://9gag.com/gag/ajPjLY0)
+ - 😝 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
+ - 👉 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)<!-- MEMES:END -->
 
 --- 
 
