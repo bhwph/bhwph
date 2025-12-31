@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Goes Clearance on WH-1000XM5 as These Noise Canceling Headphones Drop to a Record Low, No Need for Budget Earbuds](https://kotaku.com/sony-goes-clearance-on-wh-1000xm5-as-these-noise-canceling-headphones-drop-to-a-record-low-no-need-for-budget-earbuds-2000656215)
- - [The Abyss vs Dimension X: Stranger Things big TMNT twist, explained](https://www.polygon.com/the-abyss-vs-dimension-x-stranger-things-tmnt/)
- - [Can you guess which games these bizarre 2025 patch notes are from?](https://www.pcgamer.com/games/can-you-guess-which-games-these-bizarre-2025-patch-notes-are-from/)<!-- GAME:END -->
+ - [Here are 2025&#39;s six highest rated hardware, enjoying tippy-top review scores—plus six dishonorable mentions](https://www.pcgamer.com/hardware/here-are-2025s-six-highest-rated-hardware-enjoying-tippy-top-review-scores-plus-six-dishonorable-mentions/)
+ - [3 movie masterpieces buried on Amazon Prime Video to watch right now](https://www.polygon.com/3-masterpieces-on-prime-video/)
+ - [Sony&#39;s patent for PS5 AI tutorial &#39;ghosts&#39; sound like a nightmare](https://www.polygon.com/sony-ai-tutorial-ghost-player-ps5-patent-how-does-it-work/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
