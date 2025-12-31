@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
+ - 6️⃣ [Dude is passing guys like they are standing still. Yorkshire boy, Todd Kellett at 2025 Enduropale du Touquet, for his third consecutive victory.](http://9gag.com/gag/aAy74N0)
  - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - 👉 [I would rage the shit out of her](http://9gag.com/gag/a4P8zoA)<!-- MEMES:END -->
+ - 👉 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)<!-- MEMES:END -->
 
 --- 
 
