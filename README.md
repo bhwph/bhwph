@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There may be something big coming to Apple Fitness+ in 2026](https://appleinsider.com/articles/25/12/31/there-may-be-something-big-coming-to-apple-fitness-in-2026?utm_source=rss)
- - [We&#39;re Kicking Off 2026 With a Supermoon. When to See It](https://www.cnet.com/science/space/the-new-year-will-kick-off-with-a-supermoon-heres-when-to-see-it/#ftag=CAD590a51e)
- - [How and why the famous &#39;1984&#39; ad was really first shown in 1983](https://appleinsider.com/articles/25/12/31/how-and-why-the-famous-1984-ad-was-really-first-shown-in-1983?utm_source=rss)<!-- TECH:END -->
+ - [Trump Media, owner of Truth Social, plans to distribute a new token to shareholders with partner Crypto.com, expected to operate on the Cronos blockchain &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/251231/p14#a251231p14)
+ - [Survey confirms: You don’t need any ‘elite’ chip for your next phone](https://www.androidauthority.com/snapdragon-8-gen-5-poll-3628582/)
+ - [2025&#39;s Best Home Security Cameras That Don&#39;t Require Subscriptions](https://www.cnet.com/home/security/best-home-security-cameras-without-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
