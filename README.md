@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Together is now streaming on Hulu, and it might make or break your relationship](https://www.polygon.com/together-movie-hulu-recommendation/)
- - [After Star Wars Millennium Falcon, LEGO Shifts Clearance to the Jango Fett Helmet at an All-Time Low](https://kotaku.com/after-star-wars-millennium-falcon-lego-shifts-clearance-to-the-jango-fett-helmet-at-an-all-time-low-2000656181)
- - [GTA 6 was supposed to be 2025&#39;s GOTY — here&#39;s what happened instead](https://www.polygon.com/2025-no-gta-6-rockstar-games/)<!-- GAME:END -->
+ - [Sony Goes Clearance on WH-1000XM5 as These Noise Canceling Headphones Drop to a Record Low, No Need for Budget Earbuds](https://kotaku.com/sony-goes-clearance-on-wh-1000xm5-as-these-noise-canceling-headphones-drop-to-a-record-low-no-need-for-budget-earbuds-2000656215)
+ - [The Abyss vs Dimension X: Stranger Things big TMNT twist, explained](https://www.polygon.com/the-abyss-vs-dimension-x-stranger-things-tmnt/)
+ - [Can you guess which games these bizarre 2025 patch notes are from?](https://www.pcgamer.com/games/can-you-guess-which-games-these-bizarre-2025-patch-notes-are-from/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
