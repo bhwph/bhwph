@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gearing up for the yearly battle of Berlin](http://9gag.com/gag/aGyqBQX)
- - 😝 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
- - 👉 [Working smarter, not harder. An artist used metaverse goggles to overlay digital stencils onto real-world surfaces](http://9gag.com/gag/aqyOQqL)<!-- MEMES:END -->
+ - 6️⃣ [That little girl...](http://9gag.com/gag/azxzO1B)
+ - 😝 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)
+ - 👉 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)<!-- MEMES:END -->
 
 --- 
 
