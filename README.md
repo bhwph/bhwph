@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Media, owner of Truth Social, plans to distribute a new token to shareholders with partner Crypto.com, expected to operate on the Cronos blockchain &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/251231/p14#a251231p14)
- - [Survey confirms: You don’t need any ‘elite’ chip for your next phone](https://www.androidauthority.com/snapdragon-8-gen-5-poll-3628582/)
- - [2025&#39;s Best Home Security Cameras That Don&#39;t Require Subscriptions](https://www.cnet.com/home/security/best-home-security-cameras-without-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel MacBook Air, Apple Watch Series 5, iPhone 11 Pro now vintage](https://appleinsider.com/articles/25/12/31/intel-macbook-air-apple-watch-series-5-iphone-11-pro-now-vintage?utm_source=rss)
+ - [Stadia controllers need to be updated for Bluetooth by today — except, not really](https://www.androidauthority.com/stadia-bluetooth-upgrade-3628926/)
+ - [Sources: Uber is in talks to acquire the parking space reservation app SpotHero; the parking app was last valued at $290M &lpar;The Information&rpar;](http://www.techmeme.com/251231/p15#a251231p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
