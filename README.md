@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That little girl...](http://9gag.com/gag/azxzO1B)
- - 😝 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)
- - 👉 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)<!-- MEMES:END -->
+ - 6️⃣ [For him, it was Tuesday](http://9gag.com/gag/ary0xMy)
+ - 😝 [I&#39;m going to open a daycare](http://9gag.com/gag/amoymzy)
+ - 👉 [Life , may we be guided to the Tr\u00fbth of it](http://9gag.com/gag/a0eGnLd)<!-- MEMES:END -->
 
 --- 
 
