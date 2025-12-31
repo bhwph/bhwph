@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [For him, it was Tuesday](http://9gag.com/gag/ary0xMy)
- - 😝 [I&#39;m going to open a daycare](http://9gag.com/gag/amoymzy)
- - 👉 [Life , may we be guided to the Tr\u00fbth of it](http://9gag.com/gag/a0eGnLd)<!-- MEMES:END -->
+ - 6️⃣ [Public transport in `Modern London..](http://9gag.com/gag/a6ZzBP9)
+ - 😝 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)
+ - 👉 [That little girl...](http://9gag.com/gag/azxzO1B)<!-- MEMES:END -->
 
 --- 
 
