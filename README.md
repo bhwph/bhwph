@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: China&#39;s top DRAM maker CXMT plans to raise $4.2B in a Shanghai IPO; CXMT held a 4% global share in Q2 2025 and targets HBM production by the end of 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/251231/p9#a251231p9)
- - [&#39;Stranger Things 5&#39; Volume 3: When Does the Series Finale Premiere?](https://www.cnet.com/tech/services-and-software/stranger-things-5-volume-3-finale-release-date-netflix/#ftag=CAD590a51e)
- - [Data storage stocks led the S&amp;P 500 in 2025, with SanDisk up 560%+ to become the top performer, followed by Western Digital in second and Seagate in fourth &lpar;Carmen Reinicke/Bloomberg&rpar;](http://www.techmeme.com/251231/p8#a251231p8)<!-- TECH:END -->
+ - [I can’t stand this Google Photos feature anymore](https://www.androidauthority.com/google-photos-locked-folder-feature-3628813/)
+ - [Pixel perfect: The best photos I shot with my Pixel 9 and 10 in 2025](https://www.androidauthority.com/best-photos-i-shot-with-my-pixel-9-and-10-in-2025-3628433/)
+ - [Discovering the Dimensions of a New Cold War](https://www.wired.com/story/discovering-the-dimensions-of-a-new-cold-war/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
