@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Factor Meal Delivery Promo: Free $200 Withings Body-Scan Scale](https://www.wired.com/story/factor-withings-deal/)
- - [The Best Over-the-Counter Sleep Aids &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-sleep-aid/)
- - [3 ways Google makes switching between all my devices effortless](https://www.androidauthority.com/ways-google-makes-switching-between-devices-effortless-3627855/)<!-- TECH:END -->
+ - [There may be something big coming to Apple Fitness+ in 2026](https://appleinsider.com/articles/25/12/31/there-may-be-something-big-coming-to-apple-fitness-in-2026?utm_source=rss)
+ - [We&#39;re Kicking Off 2026 With a Supermoon. When to See It](https://www.cnet.com/science/space/the-new-year-will-kick-off-with-a-supermoon-heres-when-to-see-it/#ftag=CAD590a51e)
+ - [How and why the famous &#39;1984&#39; ad was really first shown in 1983](https://appleinsider.com/articles/25/12/31/how-and-why-the-famous-1984-ad-was-really-first-shown-in-1983?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
