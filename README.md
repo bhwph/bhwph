@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Mobile delays plan to launch its gold-coloured smartphone, initially promised for August 2025, saying the recent US government shutdown delayed deliveries &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/251231/p3#a251231p3)
- - [Walmart Promo Codes and Coupons: Up to 65% Off](https://www.wired.com/story/top-walmart-promo-codes/)
- - [Google Workspace Promo Code: Up to 14% Off in 2026](https://www.wired.com/story/google-workspace-promo-code/)<!-- TECH:END -->
+ - [Filing: China&#39;s top DRAM maker CXMT plans to raise $4.2B in a Shanghai IPO; CXMT held a 4% global share in Q2 2025 and targets HBM production by the end of 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/251231/p9#a251231p9)
+ - [&#39;Stranger Things 5&#39; Volume 3: When Does the Series Finale Premiere?](https://www.cnet.com/tech/services-and-software/stranger-things-5-volume-3-finale-release-date-netflix/#ftag=CAD590a51e)
+ - [Data storage stocks led the S&amp;P 500 in 2025, with SanDisk up 560%+ to become the top performer, followed by Western Digital in second and Seagate in fourth &lpar;Carmen Reinicke/Bloomberg&rpar;](http://www.techmeme.com/251231/p8#a251231p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
