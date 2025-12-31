@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
- - 😝 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - 👉 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)<!-- MEMES:END -->
+ - 6️⃣ [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
+ - 😝 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
+ - 👉 [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)<!-- MEMES:END -->
 
 --- 
 
