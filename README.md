@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)
- - 😝 [I can fix her](http://9gag.com/gag/abAo4OO)
- - 👉 [Engineering Students Build &#39;Popsicle Bridge&#39; That Can Hold 430kg Load...](http://9gag.com/gag/aO8ODX3)<!-- MEMES:END -->
+ - 6️⃣ [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
+ - 😝 [I would rage the shit out of her](http://9gag.com/gag/a4P8zoA)
+ - 👉 [That&#39;s the kind of girl you go on a first date and feel completely comfortable with and have a great time.](http://9gag.com/gag/a879mBY)<!-- MEMES:END -->
 
 --- 
 
