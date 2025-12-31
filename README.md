@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I can’t stand this Google Photos feature anymore](https://www.androidauthority.com/google-photos-locked-folder-feature-3628813/)
- - [Pixel perfect: The best photos I shot with my Pixel 9 and 10 in 2025](https://www.androidauthority.com/best-photos-i-shot-with-my-pixel-9-and-10-in-2025-3628433/)
- - [Discovering the Dimensions of a New Cold War](https://www.wired.com/story/discovering-the-dimensions-of-a-new-cold-war/)<!-- TECH:END -->
+ - [Factor Meal Delivery Promo: Free $200 Withings Body-Scan Scale](https://www.wired.com/story/factor-withings-deal/)
+ - [The Best Over-the-Counter Sleep Aids &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-sleep-aid/)
+ - [3 ways Google makes switching between all my devices effortless](https://www.androidauthority.com/ways-google-makes-switching-between-devices-effortless-3627855/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
