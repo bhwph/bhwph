@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
+ - 6️⃣ [Facts hurt](http://9gag.com/gag/ajPjLY0)
  - 😝 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
- - 👉 [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)<!-- MEMES:END -->
+ - 👉 [I heard you like big, javelin-throwing girls](http://9gag.com/gag/aE0bA6n)<!-- MEMES:END -->
 
 --- 
 
