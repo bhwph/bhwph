@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - 😝 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
- - 👉 [I heard you like big, javelin-throwing girls](http://9gag.com/gag/aE0bA6n)<!-- MEMES:END -->
+ - 6️⃣ [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
+ - 😝 [Single](http://9gag.com/gag/a2vV0Zp)
+ - 👉 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)<!-- MEMES:END -->
 
 --- 
 
