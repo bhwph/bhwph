@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s mysterious hardware project could be a… pen?](https://www.androidauthority.com/openai-jony-ive-hardware-pen-3628586/)
- - [DJI Osmo Pocket 3 deal: Save $270 and upgrade your video clips](https://www.androidauthority.com/dji-osmo-pocket-3-deal-2-3628525/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 31, #934](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-31-934/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: ByteDance plans to spend about $14B on Nvidia&#39;s AI chips in 2026, an increase of about 18% from 2025 &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/251230/p21#a251230p21)
+ - [SoftBank says it has completed a $22.5B investment in OpenAI, finalizing its up to $40B investment commitment announced in March and taking its stake to ~11% &lpar;SoftBank Group Corp.&rpar;](http://www.techmeme.com/251230/p20#a251230p20)
+ - [Filing: Chinese AI startup MiniMax seeks to raise up to ~$538.5M in a Hong Kong IPO, offering 25.4M shares at a price range of ~$19.40 to ~$21.20 per share &lpar;Shivangi Lahiri/Reuters&rpar;](http://www.techmeme.com/251230/p19#a251230p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
