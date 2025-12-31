@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
- - 😝 [I would rage the shit out of her](http://9gag.com/gag/a4P8zoA)
- - 👉 [That&#39;s the kind of girl you go on a first date and feel completely comfortable with and have a great time.](http://9gag.com/gag/a879mBY)<!-- MEMES:END -->
+ - 6️⃣ [Gearing up for the yearly battle of Berlin](http://9gag.com/gag/aGyqBQX)
+ - 😝 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
+ - 👉 [Working smarter, not harder. An artist used metaverse goggles to overlay digital stencils onto real-world surfaces](http://9gag.com/gag/aqyOQqL)<!-- MEMES:END -->
 
 --- 
 
