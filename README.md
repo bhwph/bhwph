@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek researchers detail a new mHC architecture they used to train 3B, 9B, and 27B models, finding it scaled without adding significant computational burden &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/260101/p11#a260101p11)
- - [Why You Might Still Need a Landline, Even in 2026](https://www.cnet.com/tech/mobile/why-you-may-still-need-your-landline/#ftag=CAD590a51e)
- - [Sources: OpenAI ramped up efforts to improve its audio AI models, in preparation for its AI-powered personal device, which is expected to be largely audio-based &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/260101/p10#a260101p10)<!-- TECH:END -->
+ - [LG’s new karaoke-ready party speaker uses AI to remove song vocals](https://www.theverge.com/news/852362/lg-xboom-stage-501-karaoke-launch-ces-2026)
+ - [Analysts need Apple Vision Pro to be a flop, whether Apple considers it one or not](https://appleinsider.com/articles/26/01/01/analysts-need-apple-vision-pro-to-be-a-flop-whether-apple-considers-it-one-or-not?utm_source=rss)
+ - [Ukraine has become a live-fire test range for AI drones like the Bumblebee, provided by a secretive Eric Schmidt-led venture, raising alarms in Kremlin circles &lpar;C.J. Chivers/New York Times&rpar;](http://www.techmeme.com/260101/p12#a260101p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
