@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
- - 😝 [I can fix her](http://9gag.com/gag/abAo4OO)
- - 👉 [Small woman can be useful for others things too? How can we imagine?](http://9gag.com/gag/amoym7X)<!-- MEMES:END -->
+ - 6️⃣ [That little girl...](http://9gag.com/gag/azxzO1B)
+ - 😝 [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
+ - 👉 [Holiday](http://9gag.com/gag/aByMPzD)<!-- MEMES:END -->
 
 --- 
 
