@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Public transport in `Modern London..](http://9gag.com/gag/a6ZzBP9)
- - 😝 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)
- - 👉 [That little girl...](http://9gag.com/gag/azxzO1B)<!-- MEMES:END -->
+ - 6️⃣ [They&#39;re always judging you, Rebecca.](http://9gag.com/gag/aLn3AKW)
+ - 😝 [Yes you](http://9gag.com/gag/aE0boLG)
+ - 👉 [It&#39;s TT, push-up for the day.](http://9gag.com/gag/ayNAWoy)<!-- MEMES:END -->
 
 --- 
 
