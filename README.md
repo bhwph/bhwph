@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They&#39;re always judging you, Rebecca.](http://9gag.com/gag/aLn3AKW)
- - 😝 [Yes you](http://9gag.com/gag/aE0boLG)
- - 👉 [It&#39;s TT, push-up for the day.](http://9gag.com/gag/ayNAWoy)<!-- MEMES:END -->
+ - 6️⃣ [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
+ - 😝 [I can fix her](http://9gag.com/gag/abAo4OO)
+ - 👉 [Small woman can be useful for others things too? How can we imagine?](http://9gag.com/gag/amoym7X)<!-- MEMES:END -->
 
 --- 
 
