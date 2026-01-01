@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 Best Smart Scales &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-scales/)
- - [How to Watch Georgia vs. Ole Miss: Start Time, TV Channel for Sugar Bowl CFP Quarterfinal](https://www.cnet.com/tech/services-and-software/how-to-watch-georgia-vs-ole-miss-start-time-tv-channel-for-sugar-bowl-cfp-quarterfinal/#ftag=CAD590a51e)
- - [I spoke to Arm to find out why your Android phone needs all that AI power](https://www.androidauthority.com/arm-local-ai-interview-3627374/)<!-- TECH:END -->
+ - [Tech startups have started to offer nicotine pouches as a free perk to employees, as some claim the products help them focus despite health hazards &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/260101/p9#a260101p9)
+ - [William&#39;s best tech in 2025: Mac Studio, iPad Pro, and so much from Elgato](https://appleinsider.com/articles/26/01/01/williams-best-tech-in-2025-mac-studio-ipad-pro-and-so-much-from-elgato?utm_source=rss)
+ - [Asus Zenscreen Duo OLED MQ149CD Review: An Excellent but Pricey Dual-Screen Monitor](https://www.cnet.com/tech/computing/asus-zenscreen-duo-oled-mq149cd-review-an-excellent-but-pricey-dual-screen-monitor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
