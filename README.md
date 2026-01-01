@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
+ - 6️⃣ [1st season we intrigue the audience 2nd season is where we start introducing gay characters](http://9gag.com/gag/aD2LV5Z)
  - 😝 [Knock knock](http://9gag.com/gag/aMV6nyW)
  - 👉 [Happy new years from Lithuania!](http://9gag.com/gag/aByMEb1)<!-- MEMES:END -->
 
