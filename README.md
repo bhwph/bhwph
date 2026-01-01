@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI automation can fulfill Thomas Piketty&#39;s predictions on rising economic inequality, and why highly progressive taxes on capital can help slow the spiral &lpar;Philosopher Count&rpar;](http://www.techmeme.com/260101/p14#a260101p14)
- - [Desk tours: Wesley Hilliard&#39;s iPad-centric workflows fully replace the Mac mini](https://appleinsider.com/articles/26/01/01/desk-tours-wesley-hilliards-ipad-centric-workflows-fully-replace-the-mac-mini?utm_source=rss)
- - [A look at US tech laws rolling out in 2026, including California&#39;s SB 53 AI transparency law and Virginia&#39;s new social media limits for minors, effective today &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/260101/p13#a260101p13)<!-- TECH:END -->
+ - [Brookfield is launching a cloud company called Radiant and a new $10B AI fund, and plans to acquire up to $100B in land, data centers, and power assets for AI &lpar;Miles Kruppa/The Information&rpar;](http://www.techmeme.com/260101/p15#a260101p15)
+ - [Oliver&#39;s best tech in 2025: iPhone Air, earbuds, and an iPhone Fold teaser](https://appleinsider.com/articles/26/01/01/olivers-best-tech-in-2025-iphone-air-earbuds-and-an-iphone-fold-teaser?utm_source=rss)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 2 #670](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-2-670/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
