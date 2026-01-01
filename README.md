@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Strava used to be my favorite running app, but now I can’t stand it](https://www.androidauthority.com/strava-no-longer-favorite-app-3626886/)
- - [10 Tech Cleanup Tasks for New Year&#39;s Day](https://www.wired.com/story/10-tech-cleanup-tasks-for-new-years-day/)
- - [Hundreds of megawatts of new data center capacity are being planned in Vernon, a city near LA, which is a key US-Asia cable-linking hub and is becoming crowded &lpar;Nilesh Christopher/Los Angeles Times&rpar;](http://www.techmeme.com/260101/p7#a260101p7)<!-- TECH:END -->
+ - [4 Best Smart Scales &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-scales/)
+ - [How to Watch Georgia vs. Ole Miss: Start Time, TV Channel for Sugar Bowl CFP Quarterfinal](https://www.cnet.com/tech/services-and-software/how-to-watch-georgia-vs-ole-miss-start-time-tv-channel-for-sugar-bowl-cfp-quarterfinal/#ftag=CAD590a51e)
+ - [I spoke to Arm to find out why your Android phone needs all that AI power](https://www.androidauthority.com/arm-local-ai-interview-3627374/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
