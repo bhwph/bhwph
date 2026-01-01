@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
- - 😝 [Happy new year f**kers!! It\u2019s been a ride, alone, shitty job and no life but at least I have you guys](http://9gag.com/gag/ajPjZA1)
+ - 😝 [Fellas, 35 years old. Been married for 7 year. &lpar; It was a love marriage. We were together in a relationship for 10 years. In total 17 years together.&rpar; Recently got sperated. Starting a new life without her on a differeny city. This is all I have got now. Wish me luck.](http://9gag.com/gag/a0eGn9B)
  - 👉 [It&#39;s TT, push-up for the day.](http://9gag.com/gag/ayNAWoy)<!-- MEMES:END -->
 
 --- 
