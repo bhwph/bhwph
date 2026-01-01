@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That little girl...](http://9gag.com/gag/azxzO1B)
- - 😝 [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
+ - 6️⃣ [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
+ - 😝 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
  - 👉 [Holiday](http://9gag.com/gag/aByMPzD)<!-- MEMES:END -->
 
 --- 
