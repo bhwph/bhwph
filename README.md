@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What free games are on Epic Games Store today &lpar;Dec. 31&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)
- - [The 20 most anticipated new anime of 2026](https://www.polygon.com/the-most-anticipated-anime-of-2026/)
- - [Players’ Choice: Vote for December 2025’s best new game](https://blog.playstation.com/2026/01/01/players-choice-vote-for-december-2025s-best-new-game/)<!-- GAME:END -->
+ - [CES 2026: From new Intel chips to far too much AI, here&#39;s everything we expect to see](https://www.pcgamer.com/hardware/ces-2026-from-new-intel-chips-to-far-too-much-ai-heres-everything-we-expect-to-see/)
+ - [Zohran Mamdani&#39;s win made Promise Mascot Agency the most relevant game of 2025](https://www.polygon.com/mamdani-grassroots-campaigning-promise-mascot-agency/)
+ - [What free games are on Epic Games Store today &lpar;Dec. 31&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
