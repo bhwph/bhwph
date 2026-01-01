@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
- - 😝 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
- - 👉 [Holiday](http://9gag.com/gag/aByMPzD)<!-- MEMES:END -->
+ - 6️⃣ [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
+ - 😝 [Happy new year f**kers!! It\u2019s been a ride, alone, shitty job and no life but at least I have you guys](http://9gag.com/gag/ajPjZA1)
+ - 👉 [It&#39;s TT, push-up for the day.](http://9gag.com/gag/ayNAWoy)<!-- MEMES:END -->
 
 --- 
 
