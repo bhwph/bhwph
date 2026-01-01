@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple Watch Series 11 Crashes to Record Low to Wind Down Its 2025 Smartwatch Lineup](https://kotaku.com/apple-watch-series-11-crashes-to-record-low-to-wind-down-its-2025-smartwatch-lineup-2000656173)
- - [Do you know your Doom from your Dune? Put your sci-fi knowledge to the test in our first quiz of 2026!](https://www.pcgamer.com/games/do-you-know-your-doom-from-your-dune-put-your-sci-fi-knowledge-to-the-test-in-our-first-quiz-of-2026/)
- - [50 most anticipated new video games of 2026](https://www.polygon.com/most-anticipated-video-games-new-2026/)<!-- GAME:END -->
+ - [What free games are on Epic Games Store today &lpar;Dec. 31&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)
+ - [The 20 most anticipated new anime of 2026](https://www.polygon.com/the-most-anticipated-anime-of-2026/)
+ - [Players’ Choice: Vote for December 2025’s best new game](https://blog.playstation.com/2026/01/01/players-choice-vote-for-december-2025s-best-new-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
