@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bose Restocks the SoundLink Revolve+ &lpar;Series II&rpar; Speaker at All-Time Low to Start 2026 After Year-End Clearance](https://kotaku.com/bose-restocks-the-soundlink-revolve-series-ii-speaker-at-all-time-low-to-start-2026-after-year-end-clearance-2000654996)
  - [Carolyn Petit’s Top 5 Games Of 2025](https://kotaku.com/best-games-2025-despelote-terminator-2d-absolum-pac-man-shadow-labyrinth-blippo-2000656278)
- - [The 10 best manga I read in 2025 &lpar;that you&#39;ve probably never heard of&rpar;](https://www.polygon.com/best-underrated-manga-2025/)
- - [Here are 2025&#39;s six highest rated hardware, enjoying tippy-top review scores—plus six dishonorable mentions](https://www.pcgamer.com/hardware/here-are-2025s-six-highest-rated-hardware-enjoying-tippy-top-review-scores-plus-six-dishonorable-mentions/)<!-- GAME:END -->
+ - [The 10 best manga I read in 2025 &lpar;that you&#39;ve probably never heard of&rpar;](https://www.polygon.com/best-underrated-manga-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
