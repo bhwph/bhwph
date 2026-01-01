@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
- - 😝 [Happy New Year my fellow Degens!](http://9gag.com/gag/axy8R4W)
- - 👉 [Knock knock](http://9gag.com/gag/aMV6nyW)<!-- MEMES:END -->
+ - 😝 [Knock knock](http://9gag.com/gag/aMV6nyW)
+ - 👉 [Happy new years from Lithuania!](http://9gag.com/gag/aByMEb1)<!-- MEMES:END -->
 
 --- 
 
