@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [1st season we intrigue the audience 2nd season is where we start introducing gay characters](http://9gag.com/gag/aD2LV5Z)
- - 😝 [Knock knock](http://9gag.com/gag/aMV6nyW)
- - 👉 [Happy new years from Lithuania!](http://9gag.com/gag/aByMEb1)<!-- MEMES:END -->
+ - 6️⃣ [Lost Chance](http://9gag.com/gag/aNDXBw6)
+ - 😝 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
+ - 👉 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)<!-- MEMES:END -->
 
 --- 
 
