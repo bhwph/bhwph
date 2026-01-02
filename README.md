@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How I Fell Back In Love With Minecraft After 10 Years Away](https://kotaku.com/minecraft-donut-smp-server-farm-notch-2000656412)
- - [The 12 Best Video Games Of 2025](https://kotaku.com/the-12-best-video-games-of-2025-2000656161)
- - [We Bury the Dead review: An acoustic cover of 28 Years Later](https://www.polygon.com/we-bury-the-dead-review-zombie-movie-daisy-ridley/)<!-- GAME:END -->
+ - [The Surprising Reason This Obscure Star Wars Game’s Price Has Quadrupled](https://kotaku.com/star-wars-racer-revenge-ps4-ps5-port-hacker-limited-run-2000656482)
+ - [Stranger Things star talks fan theories, character deaths, and getting &#39;covered in goop&#39;](https://www.polygon.com/stranger-things-finale-gaten-matarazzo-interview/)
+ - [Microsoft Tells Piggies To Stop Calling It AI Slop](https://kotaku.com/microsoft-ai-slop-satya-nadella-2000656473)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
