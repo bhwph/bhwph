@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Back pain? Do this before bed.](http://9gag.com/gag/an73E4q)
+ - 6️⃣ [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
  - 😝 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)
- - 👉 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)<!-- MEMES:END -->
+ - 👉 [Broccoli Molecule Kills 90% of Cavity Bacteria](http://9gag.com/gag/aNDX4ov)<!-- MEMES:END -->
 
 --- 
 
