@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Next Big Show Finally Has A Trailer Well Worth Watching](https://kotaku.com/marvels-wonder-man-trailer-ben-kingsley-disney-plus-2000656416)
- - [Apple Keeps the M5 iPad Pro at Its Year-End Clearance Pricing, Extending the Lowest Deal Into the New Year](https://kotaku.com/apple-keeps-the-m5-ipad-pro-at-its-year-end-clearance-pricing-extending-the-lowest-deal-into-the-new-year-2000656226)
- - [2026 gaming predictions: GTA 6 chaos, Steam Machine impact, and more](https://www.polygon.com/video-game-predictions-2026-steam-machine-gta6/)<!-- GAME:END -->
+ - [ASUS Goes All-In on Gaming Handheld Console, ROG Xbox Ally 7″ Hits a Record Low as 2026 Begins](https://kotaku.com/asus-goes-all-in-on-gaming-handheld-console-rog-xbox-ally-7-hits-a-record-low-as-2026-begins-2000656361)
+ - [Google Pixel Buds Pro 2 Drop to All-Time Low to Start the New Year, Now Priced Like Older Models Despite Being 2025’s Latest ANC Earbuds](https://kotaku.com/google-pixel-buds-pro-2-drop-to-all-time-low-to-start-the-new-year-now-priced-like-older-models-despite-being-2025s-latest-anc-earbuds-2000656364)
+ - [Marvel’s Next Big Show Finally Has A Trailer Well Worth Watching](https://kotaku.com/marvels-wonder-man-trailer-ben-kingsley-disney-plus-2000656416)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
