@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And then she made pizza rolls](http://9gag.com/gag/aKGyO93)
- - 😝 [It appeared suddenly and moved fast, making it hard to identify clearly. Such sightings are often explained as space rocks, satellites, or shadows caused by camera focus and distance. Because the Moon has no atmosphere, even small objects or light effects can look unusual.](http://9gag.com/gag/an73Eno)
- - 👉 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)<!-- MEMES:END -->
+ - 6️⃣ [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)
+ - 😝 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
+ - 👉 [Who&#39;s paying the loans?](http://9gag.com/gag/aVv8V6v)<!-- MEMES:END -->
 
 --- 
 
