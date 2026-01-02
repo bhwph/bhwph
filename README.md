@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Happy Gloom Year!&#39;: The new Gloomwood update is out, and it includes the game&#39;s &#39;largest, most vertical open area&#39; yet](https://www.pcgamer.com/games/fps/happy-gloom-year-the-new-gloomwood-update-is-out-and-it-includes-the-games-largest-most-vertical-open-area-yet/)
- - [Stranger Things ending explained: Vecna, the Mindflayer, and a cathartic series finale](https://www.polygon.com/stranger-things-ending-explained-season-5-finale-mind-flayer-vecna/)
- - [Pluribus lead Rhea Seehorn&#39;s career began as the &#39;tutorial sorceress&#39; in a Magic The Gathering PC game from 1997](https://www.pcgamer.com/games/card-games/pluribus-lead-rhea-seehorns-career-began-as-the-tutorial-sorceress-in-a-magic-the-gathering-pc-game-from-1997/)<!-- GAME:END -->
+ - [All Genshin Impact 6.3 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-6-3-livestream/)
+ - [Tabletop Simulator announces a free 2.0 update that includes a UI overhaul and a marketplace for paid mods](https://www.pcgamer.com/games/sim/tabletop-simulator-announces-a-free-2-0-update-that-includes-a-ui-overhaul-and-a-marketplace-for-paid-mods/)
+ - [&#39;Happy Gloom Year!&#39;: The new Gloomwood update is out, and it includes the game&#39;s &#39;largest, most vertical open area&#39; yet](https://www.pcgamer.com/games/fps/happy-gloom-year-the-new-gloomwood-update-is-out-and-it-includes-the-games-largest-most-vertical-open-area-yet/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
