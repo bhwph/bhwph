@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Could Tears Of The Kingdom’s Best Ability Be The Key To The Next Zelda Game?](https://kotaku.com/zelda-switch-2-totk-botw-rumor-leak-2000656436)
- - [PS5 jailbreak rumor explodes the price of an old Star Wars game](https://www.polygon.com/ps5-jailbreak-star-wars-racer-revenge-price-ebay-limited-run-games-disc/)
- - [D&amp;D&#39;s most famous vampire is also the secret behind the game&#39;s success](https://www.polygon.com/dnd-dungeons-dragons-vampire-strahd-von-zarovich-ravenloft-success/)<!-- GAME:END -->
+ - [How I Fell Back In Love With Minecraft After 10 Years Away](https://kotaku.com/minecraft-donut-smp-server-farm-notch-2000656412)
+ - [The 12 Best Video Games Of 2025](https://kotaku.com/the-12-best-video-games-of-2025-2000656161)
+ - [We Bury the Dead review: An acoustic cover of 28 Years Later](https://www.polygon.com/we-bury-the-dead-review-zombie-movie-daisy-ridley/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
