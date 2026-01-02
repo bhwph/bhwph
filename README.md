@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yann LeCun says Llama 4&#39;s &quot;results were fudged a little bit&quot;, and that the team used different models for different benchmarks to give better results &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260102/p5#a260102p5)
- - [LG announces the &amp;#8216;world’s lightest 17-inch RTX laptop&amp;#8217;](https://www.theverge.com/news/852628/lg-gram-pro-17-16-laptop-2026-ces)
- - [AI Became a Bogeyman to Gamers in 2025, but Developers Are Mixed on Its Potential](https://www.cnet.com/tech/gaming/in-2025-ai-became-a-bogeyman-to-gamers-but-developers-are-mixed-on-its-potential/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft CEO Satya Nadella is now blogging about AI slop](https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments)
+ - [xAI&#39;s Grok says &quot;lapses in safeguards&quot; led it to create sexualized images of minors in response to user prompts on X; the images have been taken down &lpar;Bloomberg&rpar;](http://www.techmeme.com/260102/p6#a260102p6)
+ - [Raymond James has restarted Apple coverage, and isn&#39;t impressed](https://appleinsider.com/articles/26/01/02/raymond-james-has-restarted-apple-coverage-and-isnt-impressed?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
