@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft CEO Satya Nadella is now blogging about AI slop](https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments)
- - [xAI&#39;s Grok says &quot;lapses in safeguards&quot; led it to create sexualized images of minors in response to user prompts on X; the images have been taken down &lpar;Bloomberg&rpar;](http://www.techmeme.com/260102/p6#a260102p6)
- - [Raymond James has restarted Apple coverage, and isn&#39;t impressed](https://appleinsider.com/articles/26/01/02/raymond-james-has-restarted-apple-coverage-and-isnt-impressed?utm_source=rss)<!-- TECH:END -->
+ - [Filing: OpenAI President and co-founder Greg Brockman donated $25M to Trump&#39;s super PAC, MAGA Inc., in H2 2025; Crypto.com operator Foris DAX donated $20M &lpar;Bill Allison/Bloomberg&rpar;](http://www.techmeme.com/260102/p10#a260102p10)
+ - [iPhone 18 A20 may cost Apple about double per chip what A19 does](https://appleinsider.com/articles/26/01/02/iphone-18-a20-may-cost-apple-about-double-per-chip-what-a19-does?utm_source=rss)
+ - [Uber rewrote its UK driver contracts to act as an agent rather than a supplier of taxi services outside London, to avoid UK&#39;s new 20% &quot;taxi tax&quot; on total fares &lpar;Simon Goodley/The Guardian&rpar;](http://www.techmeme.com/260102/p9#a260102p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
