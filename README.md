@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)
  - 😝 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
- - 👉 [Who&#39;s paying the loans?](http://9gag.com/gag/aVv8V6v)<!-- MEMES:END -->
+ - 👉 [Works, every time!](http://9gag.com/gag/agmb2vW)<!-- MEMES:END -->
 
 --- 
 
