@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Battlefront MacBook Air takes a shelling in Ukraine and keeps on working](https://appleinsider.com/articles/26/01/02/battlefront-macbook-air-takes-a-shelling-in-ukraine-and-keeps-on-working?utm_source=rss)
- - [The 9 most unbelievable Android news stories of 2025](https://www.androidauthority.com/unbelievable-android-news-stories-2025-3628075/)
- - [Welcome to the Future of Noise Canceling](https://www.wired.com/story/welcome-to-the-future-of-noise-canceling/)<!-- TECH:END -->
+ - [Yann LeCun says Llama 4&#39;s &quot;results were fudged a little bit&quot;, and that the team used different models for different benchmarks to give better results &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260102/p5#a260102p5)
+ - [LG announces the &amp;#8216;world’s lightest 17-inch RTX laptop&amp;#8217;](https://www.theverge.com/news/852628/lg-gram-pro-17-16-laptop-2026-ces)
+ - [AI Became a Bogeyman to Gamers in 2025, but Developers Are Mixed on Its Potential](https://www.cnet.com/tech/gaming/in-2025-ai-became-a-bogeyman-to-gamers-but-developers-are-mixed-on-its-potential/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
