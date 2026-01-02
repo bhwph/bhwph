@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [ASUS Goes All-In on Gaming Handheld Console, ROG Xbox Ally 7″ Hits a Record Low as 2026 Begins](https://kotaku.com/asus-goes-all-in-on-gaming-handheld-console-rog-xbox-ally-7-hits-a-record-low-as-2026-begins-2000656361)
- - [Google Pixel Buds Pro 2 Drop to All-Time Low to Start the New Year, Now Priced Like Older Models Despite Being 2025’s Latest ANC Earbuds](https://kotaku.com/google-pixel-buds-pro-2-drop-to-all-time-low-to-start-the-new-year-now-priced-like-older-models-despite-being-2025s-latest-anc-earbuds-2000656364)
- - [Marvel’s Next Big Show Finally Has A Trailer Well Worth Watching](https://kotaku.com/marvels-wonder-man-trailer-ben-kingsley-disney-plus-2000656416)<!-- GAME:END -->
+ - [Could Tears Of The Kingdom’s Best Ability Be The Key To The Next Zelda Game?](https://kotaku.com/zelda-switch-2-totk-botw-rumor-leak-2000656436)
+ - [PS5 jailbreak rumor explodes the price of an old Star Wars game](https://www.polygon.com/ps5-jailbreak-star-wars-racer-revenge-price-ebay-limited-run-games-disc/)
+ - [D&amp;D&#39;s most famous vampire is also the secret behind the game&#39;s success](https://www.polygon.com/dnd-dungeons-dragons-vampire-strahd-von-zarovich-ravenloft-success/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
