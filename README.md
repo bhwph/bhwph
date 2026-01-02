@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
- - 😝 [Works, every time!](http://9gag.com/gag/agmb2vW)
+ - 6️⃣ [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
+ - 😝 [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
  - 👉 [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)<!-- MEMES:END -->
 
 --- 
