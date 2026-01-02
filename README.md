@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
- - 😝 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)
- - 👉 [Broccoli Molecule Kills 90% of Cavity Bacteria](http://9gag.com/gag/aNDX4ov)<!-- MEMES:END -->
+ - 6️⃣ [And then she made pizza rolls](http://9gag.com/gag/aKGyO93)
+ - 😝 [It appeared suddenly and moved fast, making it hard to identify clearly. Such sightings are often explained as space rocks, satellites, or shadows caused by camera focus and distance. Because the Moon has no atmosphere, even small objects or light effects can look unusual.](http://9gag.com/gag/an73Eno)
+ - 👉 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)<!-- MEMES:END -->
 
 --- 
 
