@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI launches Grok Business, priced at $30 per seat/month, for SMBs, and Grok Enterprise, whose price is not listed publicly, for larger organizations &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260102/p12#a260102p12)
- - [Grok is undressing anyone, including minors](https://www.theverge.com/news/853191/grok-explicit-bikini-pictures-minors)
- - [Billion-dollar Bitcoin hacker Ilya Lichtenstein thanks Trump for early prison release](https://www.theverge.com/news/853160/ilya-lichtenstein-released-razzlekhan-bitcoin-hack)<!-- TECH:END -->
+ - [On top of nonconsensual porn images, X users seem to be using Grok to alter images to depict real women being sexually abused, humiliated, hurt, and even killed &lpar;Maggie Harrison Dupré/Futurism&rpar;](http://www.techmeme.com/260102/p14#a260102p14)
+ - [Mumbai-based Knight Fintech, which builds core infrastructure connecting banks, lenders, platforms, and borrowers, raised $23.6M led by Accel &lpar;The Economic Times&rpar;](http://www.techmeme.com/260102/p13#a260102p13)
+ - [Clicks has swapped iPhone keyboard cases for a new MagSafe keyboard battery](https://appleinsider.com/articles/26/01/02/clicks-has-swapped-iphone-keyboard-cases-for-a-new-magsafe-keyboard-battery?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
