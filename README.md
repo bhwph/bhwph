@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Arizona is training talent for its growing chip industry as suppliers fear tighter US immigration policy; Arizona has drawn $200B+ in investments since 2020 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260101/p18#a260101p18)
  - [Samsung’s fan-favorite portable projector just got a bright refresh](https://www.androidauthority.com/samsung-freestyle-plus-launch-3628991/)
- - [Baidu&#39;s AI chip unit Kunlunxin confidentially files for a Hong Kong IPO, paving the way for a spin-off; a recent fundraising reportedly valued it at ~$3B &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/260101/p17#a260101p17)
- - [SpaceX plans to lower its Starlink satellites from orbiting at ~550km to ~480km in 2026 to improve space safety and reduce the likelihood of debris collisions &lpar;Rishabh Jaiswal/Reuters&rpar;](http://www.techmeme.com/260101/p16#a260101p16)<!-- TECH:END -->
+ - [Baidu&#39;s AI chip unit Kunlunxin confidentially files for a Hong Kong IPO, paving the way for a spin-off; a recent fundraising reportedly valued it at ~$3B &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/260101/p17#a260101p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
