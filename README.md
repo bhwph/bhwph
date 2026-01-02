@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She want Ice ?](http://9gag.com/gag/avyVxeM)
- - 😝 [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
- - 👉 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)<!-- MEMES:END -->
+ - 6️⃣ [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
+ - 😝 [She want Ice ?](http://9gag.com/gag/avyVxeM)
+ - 👉 [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)<!-- MEMES:END -->
 
 --- 
 
