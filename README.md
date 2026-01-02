@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [I guess Thomas didn&#39;t make millions from writing](http://9gag.com/gag/a6ZzpO2)
- - 😝 [Dream job](http://9gag.com/gag/aGyqAPG)
+ - 😝 [Nuck Chorris](http://9gag.com/gag/abAoBPL)
  - 👉 [Love the dog just sitting there and be like `oh, he&#39;s at it again`...](http://9gag.com/gag/a4P82eA)<!-- MEMES:END -->
 
 --- 
