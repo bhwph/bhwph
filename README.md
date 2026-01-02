@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung adds much needed brightness to its Freestyle projector](https://www.theverge.com/news/852545/samsung-adds-much-needed-brightness-to-its-freestyle-projector)
- - [Petkit’s first automatic wet food feeder keeps track of how much your pet eats](https://www.theverge.com/news/850992/petkit-ai-camera-yumshare-daily-feast-automatic-wet-food-feeder-eversweet-ultra-fountain)
- - [How Nokia has reinvented itself for the AI revolution by expanding into cloud services, data centers, and optical networks, and by partnering with Nvidia &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260102/p1#a260102p1)<!-- TECH:END -->
+ - [It’s now 2026, and I still don’t have my Trump phone](https://www.androidauthority.com/2026-still-no-trump-phone-3628406/)
+ - [What Is the ‘Super Flu’ That Is Spreading in Europe and the United States?](https://www.wired.com/story/what-is-super-flu-spreading-in-united-states-europe/)
+ - [SpaceX will lower Starlink satellites to reduce collision risk](https://www.theverge.com/news/852570/spacex-will-lower-starlink-satellites-to-reduce-collision-risk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
