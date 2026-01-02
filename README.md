@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s now 2026, and I still don’t have my Trump phone](https://www.androidauthority.com/2026-still-no-trump-phone-3628406/)
- - [What Is the ‘Super Flu’ That Is Spreading in Europe and the United States?](https://www.wired.com/story/what-is-super-flu-spreading-in-united-states-europe/)
- - [SpaceX will lower Starlink satellites to reduce collision risk](https://www.theverge.com/news/852570/spacex-will-lower-starlink-satellites-to-reduce-collision-risk)<!-- TECH:END -->
+ - [Battlefront MacBook Air takes a shelling in Ukraine and keeps on working](https://appleinsider.com/articles/26/01/02/battlefront-macbook-air-takes-a-shelling-in-ukraine-and-keeps-on-working?utm_source=rss)
+ - [The 9 most unbelievable Android news stories of 2025](https://www.androidauthority.com/unbelievable-android-news-stories-2025-3628075/)
+ - [Welcome to the Future of Noise Canceling](https://www.wired.com/story/welcome-to-the-future-of-noise-canceling/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
