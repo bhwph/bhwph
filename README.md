@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo Coupon Codes and Deals: $5,000+ Off](https://www.wired.com/story/lenovo-coupon-code/)
- - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
- - [60% HP Discount Codes &amp; Coupons January 2026](https://www.wired.com/story/hp-coupon-code/)<!-- TECH:END -->
+ - [Samsung adds much needed brightness to its Freestyle projector](https://www.theverge.com/news/852545/samsung-adds-much-needed-brightness-to-its-freestyle-projector)
+ - [Petkit’s first automatic wet food feeder keeps track of how much your pet eats](https://www.theverge.com/news/850992/petkit-ai-camera-yumshare-daily-feast-automatic-wet-food-feeder-eversweet-ultra-fountain)
+ - [How Nokia has reinvented itself for the AI revolution by expanding into cloud services, data centers, and optical networks, and by partnering with Nvidia &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260102/p1#a260102p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
