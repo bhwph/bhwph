@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: OpenAI President and co-founder Greg Brockman donated $25M to Trump&#39;s super PAC, MAGA Inc., in H2 2025; Crypto.com operator Foris DAX donated $20M &lpar;Bill Allison/Bloomberg&rpar;](http://www.techmeme.com/260102/p10#a260102p10)
- - [iPhone 18 A20 may cost Apple about double per chip what A19 does](https://appleinsider.com/articles/26/01/02/iphone-18-a20-may-cost-apple-about-double-per-chip-what-a19-does?utm_source=rss)
- - [Uber rewrote its UK driver contracts to act as an agent rather than a supplier of taxi services outside London, to avoid UK&#39;s new 20% &quot;taxi tax&quot; on total fares &lpar;Simon Goodley/The Guardian&rpar;](http://www.techmeme.com/260102/p9#a260102p9)<!-- TECH:END -->
+ - [xAI launches Grok Business, priced at $30 per seat/month, for SMBs, and Grok Enterprise, whose price is not listed publicly, for larger organizations &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260102/p12#a260102p12)
+ - [Grok is undressing anyone, including minors](https://www.theverge.com/news/853191/grok-explicit-bikini-pictures-minors)
+ - [Billion-dollar Bitcoin hacker Ilya Lichtenstein thanks Trump for early prison release](https://www.theverge.com/news/853160/ilya-lichtenstein-released-razzlekhan-bitcoin-hack)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
