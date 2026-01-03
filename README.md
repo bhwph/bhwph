@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [And we fall for it everytime!!!!](http://9gag.com/gag/avyVd9E)
- - 😝 [Switzerland bar fire: verified photo by Sky News.](http://9gag.com/gag/aPA01XR)
- - 👉 [Is it legally OK?](http://9gag.com/gag/a879zMd)<!-- MEMES:END -->
+ - 😝 [I don\u2019t understand why these salmon in Patagonia are so much bigger than anywhere else in the world, can someone explain?](http://9gag.com/gag/aPA01gB)
+ - 👉 [Magnus calculated 10 moves ahead that he won his 20th world championship and dropped this expression](http://9gag.com/gag/aQzKObz)<!-- MEMES:END -->
 
 --- 
 
