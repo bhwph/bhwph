@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)
- - 😝 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
+ - 6️⃣ [WW1 soldiers with PTSD](http://9gag.com/gag/aAy7OoL)
+ - 😝 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
  - 👉 [Works, every time!](http://9gag.com/gag/agmb2vW)<!-- MEMES:END -->
 
 --- 
