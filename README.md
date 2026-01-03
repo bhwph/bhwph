@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This smart home controller is literally a piece of wood](https://www.theverge.com/tech/852598/mui-board-smart-home-controller-matter)
- - [The Groq deal shows the challenges Nvidia faces as options to deploy its cash flood narrow; its annual free cash flow has risen from $4.2B in 2020 to $80B+ now &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260103/p5#a260103p5)
- - [Framework Laptop 16 &lpar;RTX 5070&rpar; Review: A Dream Come True](https://www.wired.com/review/framework-laptop-16/)<!-- TECH:END -->
+ - [Dating apps are pivoting to Asia as swipe-right fatigue hits the West; India, China, and Indonesia ranked among the top five markets by downloads in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260103/p6#a260103p6)
+ - [The US Invaded Venezuela and Captured Nicolás Maduro. ChatGPT Disagrees](https://www.wired.com/story/us-invaded-venezuela-and-captured-nicolas-maduro-chatgpt-disagrees/)
+ - [I went to the Stranger Things finale in theaters and the strangest thing happened](https://www.theverge.com/streaming/853133/stranger-things-finale-theater-scene-report)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
