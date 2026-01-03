@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And we fall for it everytime!!!!](http://9gag.com/gag/avyVd9E)
- - 😝 [I don\u2019t understand why these salmon in Patagonia are so much bigger than anywhere else in the world, can someone explain?](http://9gag.com/gag/aPA01gB)
- - 👉 [Magnus calculated 10 moves ahead that he won his 20th world championship and dropped this expression](http://9gag.com/gag/aQzKObz)<!-- MEMES:END -->
+ - 6️⃣ [&quot;I&#39;m sure you&#39;re all wondering why I&#39;ve gathered you here today&quot;](https://www.reddit.com/r/funny/comments/1q352e9/im_sure_youre_all_wondering_why_ive_gathered_you/)
+ - 😝 [Interesting experience.](http://9gag.com/gag/amoyVWj)
+ - 👉 [WW1 soldiers with PTSD](http://9gag.com/gag/aAy7OoL)<!-- MEMES:END -->
 
 --- 
 
