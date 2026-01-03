@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why 2026 smartphones won’t have this game-changing camera tech](https://www.androidauthority.com/why-2026-smartphones-wont-have-game-changing-camera-tech-3627733/)
- - [Stop Using Your Keyboard and Start Using Handy, a Free Speech-to-Text App](https://www.wired.com/story/handy-free-speech-to-text-app/)
- - [Blood Feud: Oura’s Health Panels Versus Whoop’s Advanced Labs](https://www.wired.com/story/oura-whoop-blood-labs/)<!-- TECH:END -->
+ - [This smart home controller is literally a piece of wood](https://www.theverge.com/tech/852598/mui-board-smart-home-controller-matter)
+ - [The Groq deal shows the challenges Nvidia faces as options to deploy its cash flood narrow; its annual free cash flow has risen from $4.2B in 2020 to $80B+ now &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260103/p5#a260103p5)
+ - [Framework Laptop 16 &lpar;RTX 5070&rpar; Review: A Dream Come True](https://www.wired.com/review/framework-laptop-16/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
