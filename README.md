@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don\u2019t understand why these salmon in Patagonia are so much bigger than anywhere else in the world, can someone explain?](http://9gag.com/gag/aPA01gB)
- - 😝 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)
- - 👉 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)<!-- MEMES:END -->
+ - 6️⃣ [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
+ - 😝 [WW1 soldiers with PTSD](http://9gag.com/gag/aAy7OoL)
+ - 👉 [How extrovert people die](http://9gag.com/gag/aMV6q2X)<!-- MEMES:END -->
 
 --- 
 
