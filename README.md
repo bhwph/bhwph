@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 3, #467](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-3-467/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Jan. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-3/#ftag=CAD590a51e)
- - [What to expect at CES 2026: laptops with new chips from Intel, Qualcomm, and AMD, more AI integrations, smart home robotics, smart glasses, and more &lpar;The Verge&rpar;](http://www.techmeme.com/260102/p18#a260102p18)<!-- TECH:END -->
+ - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)
+ - [OnePlus Promo Code: $70 Off | January 2026](https://www.wired.com/story/oneplus-promo-code/)
+ - [London is set to become the first city where both US and Chinese robotaxis operate, as Waymo and Baidu prepare to launch their robotaxis in the city in 2026 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260103/p2#a260103p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
