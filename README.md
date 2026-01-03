@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pro Gaming Tip: ` Always look up and check your surroundings `](http://9gag.com/gag/aZZKz93)
- - 😝 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
- - 👉 [How extrovert people die](http://9gag.com/gag/aMV6q2X)<!-- MEMES:END -->
+ - 6️⃣ [WW1 soldiers with PTSD](http://9gag.com/gag/aAy7OoL)
+ - 😝 [Magnus calculated 10 moves ahead that he won his 20th world championship and dropped this expression](http://9gag.com/gag/aQzKObz)
+ - 👉 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)<!-- MEMES:END -->
 
 --- 
 
