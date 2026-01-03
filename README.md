@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)
- - [OnePlus Promo Code: $70 Off | January 2026](https://www.wired.com/story/oneplus-promo-code/)
- - [London is set to become the first city where both US and Chinese robotaxis operate, as Waymo and Baidu prepare to launch their robotaxis in the city in 2026 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260103/p2#a260103p2)<!-- TECH:END -->
+ - [A look at Elon Musk&#39;s bet that Tesla&#39;s future is in its Optimus humanoid robots, which for now rely on human helpers and still face commercial challenges &lpar;Becky Peterson/Wall Street Journal&rpar;](http://www.techmeme.com/260103/p3#a260103p3)
+ - [1Password Coupon: Score a Free Trial in January](https://www.wired.com/story/1password-coupon/)
+ - [30% VistaPrint Coupon &amp; Promo Codes | January 2026](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
