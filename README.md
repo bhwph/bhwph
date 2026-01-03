@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pebble Round 2 cuts the bezel from the decade-old round smartwatch revival](https://appleinsider.com/articles/26/01/03/pebble-round-2-cuts-the-bezel-from-the-decade-old-round-smartwatch-revival?utm_source=rss)
- - [Out of Eggs? A New Fridge Scans Groceries as You Run Low and Adds Them to a List](https://www.cnet.com/news/out-of-eggs-a-new-fridge-scans-groceries-as-you-run-low-and-adds-them-to-a-list/#ftag=CAD590a51e)
- - [Disinformation Floods Social Media After Nicolás Maduro’s Capture](https://www.wired.com/story/disinformation-floods-social-media-after-nicolas-maduros-capture/)<!-- TECH:END -->
+ - [What Happens Next in Venezuela—and the Rest of Latin America?](https://www.wired.com/story/what-happens-next-in-venezuela-and-the-rest-of-latin-america/)
+ - [A new Polymarket account bet $30K on Maduro&#39;s capture just hours before Trump&#39;s announcement, renewing questions on insider information in prediction markets &lpar;Herb Scribner/Axios&rpar;](http://www.techmeme.com/260103/p9#a260103p9)
+ - [Someone made a ton of money betting on Maduro’s capture](https://www.theverge.com/news/853765/someone-made-a-ton-of-money-betting-on-maduros-capture)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
