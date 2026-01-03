@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
- - 😝 [WW1 soldiers with PTSD](http://9gag.com/gag/aAy7OoL)
+ - 6️⃣ [Pro Gaming Tip: ` Always look up and check your surroundings `](http://9gag.com/gag/aZZKz93)
+ - 😝 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
  - 👉 [How extrovert people die](http://9gag.com/gag/aMV6q2X)<!-- MEMES:END -->
 
 --- 
