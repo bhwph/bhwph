@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yuna, Hope of Spira proves Magic’s Universes Beyond can tell deep stories](https://www.polygon.com/yuna-hope-of-spira-universes-beyond/)
- - [The PC game releases we&#39;re most excited about in January](https://www.pcgamer.com/games/pc-game-release-dates-january-2026/)
- - [&#39;It&#39;s a damn miracle we were able to salvage Hytale,&#39; original co-founder and new owner Simon Collins-Laflamme says: After years in development at Riot, &#39;it was barely playable&#39;](https://www.pcgamer.com/games/adventure/its-a-damn-miracle-we-were-able-to-salvage-hytale-original-co-founder-and-new-owner-simon-collins-laflamme-says-after-years-in-development-at-riot-it-was-barely-playable/)<!-- GAME:END -->
+ - [11 under-the-radar indie games to watch out for in 2026](https://www.polygon.com/2026-indie-games-preview/)
+ - [DC vs Marvel in 2026: Can James Gunn and Supergirl beat Avengers: Doomsday](https://www.polygon.com/marvel-versus-dc-movies-2026/)
+ - [Yuna, Hope of Spira proves Magic’s Universes Beyond can tell deep stories](https://www.polygon.com/yuna-hope-of-spira-universes-beyond/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
