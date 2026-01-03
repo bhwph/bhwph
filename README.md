@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All 2026 gaming events and dates, including SGF, GDC, TGS, and more](https://www.polygon.com/gaming-events-2026-video-games-industry/)
- - [Medieval 3 may be on the way, but how many characters can you name in Creative Assembly&#39;s masterpiece, Total War: Three Kingdoms?](https://www.pcgamer.com/games/strategy/medieval-3-may-be-on-the-way-but-how-many-characters-can-you-name-in-creative-assemblys-masterpiece-total-war-three-kingdoms/)
- - [Mamoru Hosoda’s Scarlet turns a Shakespearean tragedy into a message of hope](https://www.polygon.com/mamoru-hosoda-scarlet-hamlet-tragedy-gen-z-covid-19/)<!-- GAME:END -->
+ - [Stranger Things finale proves Mike is a terrible Dungeon Master once and for all](https://www.polygon.com/stranger-things-dungeons-and-dragons-finale-analysis/)
+ - [2025 was so stacked with great games I missed the free, ass-kicking Christmas update to its best singleplayer shooter](https://www.pcgamer.com/games/fps/2025-was-so-stacked-with-great-games-i-missed-the-free-ass-kicking-christmas-update-to-its-best-singleplayer-shooter/)
+ - [New movies on Tubi January 2026: 10 great sci-fi films to stream for free](https://www.polygon.com/10-sci-fi-movies-now-on-tubi/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
