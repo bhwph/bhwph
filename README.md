@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steam Awards 2025 give Game of the Year to Hollow Knight: Silksong](https://www.pcgamer.com/gaming-industry/events-conferences/steam-awards-2025-give-game-of-the-year-to-hollow-knight-silksong/)
  - [&#39;I&#39;m over making other people really wealthy with my own creations&#39;: Fallout co-creator Tim Cain isn&#39;t interested in making a new IP or a sequel to one of his classic RPGs and, at this point, he&#39;s &#39;exasperated with the question&#39;](https://www.pcgamer.com/games/rpg/im-over-making-other-people-really-wealthy-with-my-own-creations-fallout-co-creator-tim-cain-isnt-interested-in-making-a-new-ip-or-a-sequel-to-one-of-his-classic-rpgs-and-at-this-point-hes-exasperated-with-the-question/)
- - [Stranger Things finale proves Mike is a terrible Dungeon Master once and for all](https://www.polygon.com/stranger-things-dungeons-and-dragons-finale-analysis/)
- - [2025 was so stacked with great games I missed the free, ass-kicking Christmas update to its best singleplayer shooter](https://www.pcgamer.com/games/fps/2025-was-so-stacked-with-great-games-i-missed-the-free-ass-kicking-christmas-update-to-its-best-singleplayer-shooter/)<!-- GAME:END -->
+ - [Stranger Things finale proves Mike is a terrible Dungeon Master once and for all](https://www.polygon.com/stranger-things-dungeons-and-dragons-finale-analysis/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
