@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [On top of nonconsensual porn images, X users seem to be using Grok to alter images to depict real women being sexually abused, humiliated, hurt, and even killed &lpar;Maggie Harrison Dupré/Futurism&rpar;](http://www.techmeme.com/260102/p14#a260102p14)
- - [Mumbai-based Knight Fintech, which builds core infrastructure connecting banks, lenders, platforms, and borrowers, raised $23.6M led by Accel &lpar;The Economic Times&rpar;](http://www.techmeme.com/260102/p13#a260102p13)
- - [Clicks has swapped iPhone keyboard cases for a new MagSafe keyboard battery](https://appleinsider.com/articles/26/01/02/clicks-has-swapped-iphone-keyboard-cases-for-a-new-magsafe-keyboard-battery?utm_source=rss)<!-- TECH:END -->
+ - [Ilya Lichtenstein, sentenced in Nov. 2024 to five years in prison for hacking Bitfinex, has been released early due to First Step Act, Trump&#39;s prison-reform law &lpar;CNBC&rpar;](http://www.techmeme.com/260102/p17#a260102p17)
+ - [California launched a free tool on January 1 that lets residents request the deletion of their personal data from over 500 registered data brokers &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/260102/p16#a260102p16)
+ - [Fender Offers Up Its First Wireless Headphones, With Emphasis on Battery Life](https://www.cnet.com/tech/mobile/fender-offers-up-its-first-wireless-headphones-with-emphasis-on-battery-life/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
