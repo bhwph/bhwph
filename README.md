@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to expect at CES 2026: laptops with new chips from Intel, Qualcomm, and AMD, more AI integrations, smart home robotics, smart glasses, and more &lpar;The Verge&rpar;](http://www.techmeme.com/260102/p18#a260102p18)
  - [Ilya Lichtenstein, sentenced in Nov. 2024 to five years in prison for hacking Bitfinex, has been released early due to First Step Act, Trump&#39;s prison-reform law &lpar;CNBC&rpar;](http://www.techmeme.com/260102/p17#a260102p17)
- - [California launched a free tool on January 1 that lets residents request the deletion of their personal data from over 500 registered data brokers &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/260102/p16#a260102p16)
- - [Fender Offers Up Its First Wireless Headphones, With Emphasis on Battery Life](https://www.cnet.com/tech/mobile/fender-offers-up-its-first-wireless-headphones-with-emphasis-on-battery-life/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [California launched a free tool on January 1 that lets residents request the deletion of their personal data from over 500 registered data brokers &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/260102/p16#a260102p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
