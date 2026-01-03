@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [11 under-the-radar indie games to watch out for in 2026](https://www.polygon.com/2026-indie-games-preview/)
- - [DC vs Marvel in 2026: Can James Gunn and Supergirl beat Avengers: Doomsday](https://www.polygon.com/marvel-versus-dc-movies-2026/)
- - [Yuna, Hope of Spira proves Magic’s Universes Beyond can tell deep stories](https://www.polygon.com/yuna-hope-of-spira-universes-beyond/)<!-- GAME:END -->
+ - [All 2026 gaming events and dates, including SGF, GDC, TGS, and more](https://www.polygon.com/gaming-events-2026-video-games-industry/)
+ - [Medieval 3 may be on the way, but how many characters can you name in Creative Assembly&#39;s masterpiece, Total War: Three Kingdoms?](https://www.pcgamer.com/games/strategy/medieval-3-may-be-on-the-way-but-how-many-characters-can-you-name-in-creative-assemblys-masterpiece-total-war-three-kingdoms/)
+ - [Mamoru Hosoda’s Scarlet turns a Shakespearean tragedy into a message of hope](https://www.polygon.com/mamoru-hosoda-scarlet-hamlet-tragedy-gen-z-covid-19/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
