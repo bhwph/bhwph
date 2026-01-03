@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Protect Your iPhone or Android Device From Spyware](https://www.wired.com/story/how-to-protect-your-iphone-or-android-device-from-spyware/)
- - [I love Google Gemini — but not on a screen, in my fridge](https://www.androidauthority.com/i-want-gemini-everywhere-at-home-3627919/)
- - [Premier League Soccer: Stream Aston Villa vs. Nottingham Forest Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-aston-villa-vs-nottingham-forest-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why 2026 smartphones won’t have this game-changing camera tech](https://www.androidauthority.com/why-2026-smartphones-wont-have-game-changing-camera-tech-3627733/)
+ - [Stop Using Your Keyboard and Start Using Handy, a Free Speech-to-Text App](https://www.wired.com/story/handy-free-speech-to-text-app/)
+ - [Blood Feud: Oura’s Health Panels Versus Whoop’s Advanced Labs](https://www.wired.com/story/oura-whoop-blood-labs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
