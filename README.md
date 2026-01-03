@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [True love](http://9gag.com/gag/a2vVL1D)
- - 😝 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
- - 👉 [Switzerland bar fire: verified photo by Sky News.](http://9gag.com/gag/aPA01XR)<!-- MEMES:END -->
+ - 6️⃣ [I don\u2019t understand why these salmon in Patagonia are so much bigger than anywhere else in the world, can someone explain?](http://9gag.com/gag/aPA01gB)
+ - 😝 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)
+ - 👉 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)<!-- MEMES:END -->
 
 --- 
 
