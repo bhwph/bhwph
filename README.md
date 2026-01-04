@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Piplup Community Day Classic event guide](https://www.polygon.com/pokemon-go-piplup-community-day-classic-empoleon-moveset/)
- - [An entire intro where you play as Ashley was cut from the Resident Evil 4 remake](https://www.pcgamer.com/games/resident-evil/an-entire-intro-where-you-play-as-ashley-was-cut-from-the-resident-evil-4-remake/)
- - [Fallout: New Vegas lead writer &#39;loved writing&#39; Yes Man, but thinks his questline may have been a mistake: &#39;It lets you get through the game without getting your hands dirty&#39;](https://www.pcgamer.com/games/fallout/fallout-new-vegas-lead-writer-loved-writing-yes-man-but-thinks-his-questline-may-have-been-a-mistake-it-lets-you-get-through-the-game-without-getting-your-hands-dirty/)<!-- GAME:END -->
+ - [MSI&#39;s brilliant new QD-OLED screen fixes one of the biggest issues with OLED gaming monitors](https://www.pcgamer.com/hardware/gaming-monitors/msis-brilliant-new-qd-oled-screen-fixes-one-of-the-biggest-issues-with-oled-gaming-monitors/)
+ - [MSI MPG 341CQR QD-OLED X36 review](https://www.pcgamer.com/hardware/gaming-monitors/msi-mpg-341cqr-qd-oled-x36-review/)
+ - [Pokémon Go Piplup Community Day Classic event guide](https://www.polygon.com/pokemon-go-piplup-community-day-classic-empoleon-moveset/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
