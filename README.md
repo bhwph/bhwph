@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Imagine being credited as “Fat Ass” in highest rated movie of all time &lpar;Shawshank Redemption&rpar;](https://www.reddit.com/r/funny/comments/1q3gpmx/imagine_being_credited_as_fat_ass_in_highest/)
- - 😝 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)
+ - 6️⃣ [Fatigue](http://9gag.com/gag/amoypZV)
+ - 😝 [I don\u2019t understand why these salmon in Patagonia are so much bigger than anywhere else in the world, can someone explain?](http://9gag.com/gag/aPA01gB)
  - 👉 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)<!-- MEMES:END -->
 
 --- 
