@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SwitchBot just made a robot butler](https://www.androidauthority.com/switchbot-onero-h1-robot-3626360/)
- - [SwitchBot’s new E-Ink Weather Station wants a spot by your front door](https://www.androidauthority.com/switchbot-e-ink-weather-station-3628224/)
- - [Sources: Palo Alto Networks is in talks to acquire Israeli cybersecurity startup Koi for $400M; Koi has raised $48M to date &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/260104/p9#a260104p9)<!-- TECH:END -->
+ - [Aliro arrives – the smart lock standard is set to launch this year](https://www.theverge.com/news/854091/aliro-smart-lock-standard-launches-2026-apple-uwb-nfc)
+ - [How a crew of crypto-focused hackers moved from SIM swap attacks to coordinated, violent home invasions and kidnappings, targeting small-time crypto investors &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/260104/p10#a260104p10)
+ - [LG Brought a Robot That Cooks, Folds Laundry and Empties the Dishwasher to CES](https://www.cnet.com/news/lg-brought-a-robot-that-cooks-folds-laundry-and-empties-the-dishwasher-to-ces/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
