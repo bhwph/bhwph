@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xreal 1S glasses review: a worthy splurge for handheld gamers](https://www.polygon.com/xreal-1s-glasses-neo-review/)
- - [Xbox Series X and PS5 Players Can Grab Battlefield 6 at Its Lowest Price, Over 40% Off to Start the New Year](https://kotaku.com/xbox-series-x-and-ps5-players-can-grab-battlefield-6-at-its-lowest-price-over-40-off-to-start-the-new-year-2000648202)
- - [The Boys&#39; final season needs to copy one brutal twist from the original comic](https://www.polygon.com/the-boys-final-season-comics-ending-billy-butcher/)<!-- GAME:END -->
+ - [Street Sharks revival: The Ultimate TMNT Knockoff deserves another show](https://www.polygon.com/street-sharks-reboot-tmnt-knockoff/)
+ - [What&#39;s coming out in 2026? Here&#39;s your complete guide.](https://www.polygon.com/new-releases-2026/)
+ - [5 GOTY contenders that could challenge GTA 6 for 2026 Game of the Year](https://www.polygon.com/2026-goty-predictions-gta-6/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
