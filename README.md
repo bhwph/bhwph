@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam Awards 2025 give Game of the Year to Hollow Knight: Silksong](https://www.pcgamer.com/gaming-industry/events-conferences/steam-awards-2025-give-game-of-the-year-to-hollow-knight-silksong/)
- - [&#39;I&#39;m over making other people really wealthy with my own creations&#39;: Fallout co-creator Tim Cain isn&#39;t interested in making a new IP or a sequel to one of his classic RPGs and, at this point, he&#39;s &#39;exasperated with the question&#39;](https://www.pcgamer.com/games/rpg/im-over-making-other-people-really-wealthy-with-my-own-creations-fallout-co-creator-tim-cain-isnt-interested-in-making-a-new-ip-or-a-sequel-to-one-of-his-classic-rpgs-and-at-this-point-hes-exasperated-with-the-question/)
- - [Stranger Things finale proves Mike is a terrible Dungeon Master once and for all](https://www.polygon.com/stranger-things-dungeons-and-dragons-finale-analysis/)<!-- GAME:END -->
+ - [Pokémon Go Piplup Community Day Classic event guide](https://www.polygon.com/pokemon-go-piplup-community-day-classic-empoleon-moveset/)
+ - [An entire intro where you play as Ashley was cut from the Resident Evil 4 remake](https://www.pcgamer.com/games/resident-evil/an-entire-intro-where-you-play-as-ashley-was-cut-from-the-resident-evil-4-remake/)
+ - [Fallout: New Vegas lead writer &#39;loved writing&#39; Yes Man, but thinks his questline may have been a mistake: &#39;It lets you get through the game without getting your hands dirty&#39;](https://www.pcgamer.com/games/fallout/fallout-new-vegas-lead-writer-loved-writing-yes-man-but-thinks-his-questline-may-have-been-a-mistake-it-lets-you-get-through-the-game-without-getting-your-hands-dirty/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
