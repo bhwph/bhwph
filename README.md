@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI&#39;s brilliant new QD-OLED screen fixes one of the biggest issues with OLED gaming monitors](https://www.pcgamer.com/hardware/gaming-monitors/msis-brilliant-new-qd-oled-screen-fixes-one-of-the-biggest-issues-with-oled-gaming-monitors/)
- - [MSI MPG 341CQR QD-OLED X36 review](https://www.pcgamer.com/hardware/gaming-monitors/msi-mpg-341cqr-qd-oled-x36-review/)
- - [Pokémon Go Piplup Community Day Classic event guide](https://www.polygon.com/pokemon-go-piplup-community-day-classic-empoleon-moveset/)<!-- GAME:END -->
+ - [Xreal 1S glasses review: a worthy splurge for handheld gamers](https://www.polygon.com/xreal-1s-glasses-neo-review/)
+ - [Xbox Series X and PS5 Players Can Grab Battlefield 6 at Its Lowest Price, Over 40% Off to Start the New Year](https://kotaku.com/xbox-series-x-and-ps5-players-can-grab-battlefield-6-at-its-lowest-price-over-40-off-to-start-the-new-year-2000648202)
+ - [The Boys&#39; final season needs to copy one brutal twist from the original comic](https://www.polygon.com/the-boys-final-season-comics-ending-billy-butcher/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
