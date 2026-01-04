@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fueled partly by US tech companies, governments worldwide are racing to deploy GenAI in schools and universities, even as agencies such as UNICEF urge caution &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/260103/p10#a260103p10)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Jan. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-jan-4/#ftag=CAD590a51e)
- - [Apple&#39;s iPad 11 is down to $299, plus save up to $400 across models](https://appleinsider.com/articles/26/01/03/apples-ipad-11-is-down-to-299-plus-save-up-to-400-across-models?utm_source=rss)<!-- TECH:END -->
+ - [Hulu Promo Codes &amp; Discounts: 20% Off January](https://www.wired.com/story/hulu-promo-code/)
+ - [eBay Coupon Codes and Deals: Up to 60% Off Select Items](https://www.wired.com/story/ebay-coupon-code/)
+ - [EU officials and policymakers say the EC will intensify its enforcement of the DMA and DSA in 2026, a move expected to renew clashes with US Big Tech and Trump &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/260104/p3#a260104p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
