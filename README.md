@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
- - 😝 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)
- - 👉 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)<!-- MEMES:END -->
+ - 6️⃣ [The hero](http://9gag.com/gag/aE0bQZo)
+ - 😝 [100% winning rate](http://9gag.com/gag/apRXV8E)
+ - 👉 [...](http://9gag.com/gag/a5QA5XL)<!-- MEMES:END -->
 
 --- 
 
