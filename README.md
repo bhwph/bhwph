@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [WW1 soldiers with PTSD](http://9gag.com/gag/aAy7OoL)
+ - 6️⃣ [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
  - 😝 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)
  - 👉 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)<!-- MEMES:END -->
 
