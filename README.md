@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [15 Best Electrolyte Powders &lpar;2026&rpar;: Tasty and Effective](https://www.wired.com/gallery/best-electrolyte-powders/)
- - [A New Bridge Links the Strange Math of Infinity to Computer Science](https://www.wired.com/story/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science/)
- - [Protein Bars: Gluten-Free, Whole Foods, Fiber &lpar;2026&rpar;](https://www.wired.com/story/best-protein-bars/)<!-- TECH:END -->
+ - [The wild, intense rise and fall of Flappy Bird](https://www.theverge.com/podcast/853824/flappy-bird-game-version-history)
+ - [You&#39;ll have new ways to charge your gear thanks to Baseus](https://appleinsider.com/articles/26/01/04/youll-have-new-ways-to-charge-your-gear-thanks-to-baseus?utm_source=rss)
+ - [Xreal&#39;s 1S spatial glasses &amp; Neo hub arrive with Real 3D](https://appleinsider.com/articles/26/01/04/xreals-1s-spatial-glasses-neo-hub-arrive-with-real-3d?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
