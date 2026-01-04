@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Magnus calculated 10 moves ahead that he won his 20th world championship and dropped this expression](http://9gag.com/gag/aQzKObz)
- - 😝 [How extrovert people die](http://9gag.com/gag/aMV6q2X)
- - 👉 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)<!-- MEMES:END -->
+ - 6️⃣ [Imagine being credited as “Fat Ass” in highest rated movie of all time &lpar;Shawshank Redemption&rpar;](https://www.reddit.com/r/funny/comments/1q3gpmx/imagine_being_credited_as_fat_ass_in_highest/)
+ - 😝 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)
+ - 👉 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)<!-- MEMES:END -->
 
 --- 
 
