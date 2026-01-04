@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Premier League Soccer: Stream Leeds vs. Man United Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-leeds-vs-man-united-live-from-anywhere/#ftag=CAD590a51e)
  - [Womanizer Coupons: Save 15% in December](https://www.wired.com/story/womanizer-coupon/)
- - [AirDoctor Coupon Codes: 40% Off | January 2026](https://www.wired.com/story/airdoctor-coupon-code/)
- - [Western Digital Promo Code: 10% Off](https://www.wired.com/story/western-digital-promo-code/)<!-- TECH:END -->
+ - [AirDoctor Coupon Codes: 40% Off | January 2026](https://www.wired.com/story/airdoctor-coupon-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
