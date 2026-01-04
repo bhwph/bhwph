@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fatigue](http://9gag.com/gag/amoypZV)
- - 😝 [WW1 soldiers with PTSD](http://9gag.com/gag/aAy7OoL)
- - 👉 [I don\u2019t understand why these salmon in Patagonia are so much bigger than anywhere else in the world, can someone explain?](http://9gag.com/gag/aPA01gB)<!-- MEMES:END -->
+ - 6️⃣ [Magnus calculated 10 moves ahead that he won his 20th world championship and dropped this expression](http://9gag.com/gag/aQzKObz)
+ - 😝 [How extrovert people die](http://9gag.com/gag/aMV6q2X)
+ - 👉 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)<!-- MEMES:END -->
 
 --- 
 
