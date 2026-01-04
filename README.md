@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with Xreal&#39;s Neo, a $99 battery pack and mini-dock that acts as a passthrough converter so the company&#39;s glasses can work with the Nintendo Switch &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/260104/p7#a260104p7)
- - [Xreal unveils the $449 1S, a pair of AR glasses with 1200p, 700 nits brightness, 52 degree FOV, and 16:10 aspect ratio; the 1S can convert any 2D video into 3D &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/260104/p6#a260104p6)
- - [How a New Fridge With Built-In Barcode Scanner Could Change Grocery Shopping Forever](https://www.cnet.com/news/how-a-new-fridge-with-built-in-barcode-scanner-could-change-grocery-shopping-forever/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SwitchBot just made a robot butler](https://www.androidauthority.com/switchbot-onero-h1-robot-3626360/)
+ - [SwitchBot’s new E-Ink Weather Station wants a spot by your front door](https://www.androidauthority.com/switchbot-e-ink-weather-station-3628224/)
+ - [Sources: Palo Alto Networks is in talks to acquire Israeli cybersecurity startup Koi for $400M; Koi has raised $48M to date &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/260104/p9#a260104p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
