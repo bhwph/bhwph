@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Quake modders banded together to release the third Brutalist Map Jam, with two campaigns&#39; worth of FPS goodness in &#39;a megalithic community project more than a year in the making&#39;](https://www.pcgamer.com/games/fps/quake-modders-banded-together-to-release-the-third-brutalist-map-jam-with-two-campaigns-worth-of-fps-goodness-in-a-megalithic-community-project-more-than-a-year-in-the-making/)
  - [&#39;Yeah, that didn&#39;t suck. That was good&#39;: Fallout: New Vegas lead writer says the Survivalist&#39;s journal in Honest Hearts is &#39;one of my favorite bits of content that I&#39;ve written in a game&#39;](https://www.pcgamer.com/games/rpg/yeah-that-didnt-suck-that-was-good-fallout-new-vegas-lead-writer-says-the-survivalists-journal-in-honest-hearts-is-one-of-my-favorite-bits-of-content-that-ive-written-in-a-game/)
- - [&#39;Fine, I&#39;ll do it myself&#39;: Cybertsu had never seen a King of All Cosmos cosplay, so decided to pull off one of the most elaborate headpiece designs, and it&#39;s the best I&#39;ve ever seen](https://www.pcgamer.com/games/puzzle/fine-ill-do-it-myself-cybertsu-had-never-seen-a-king-of-all-cosmos-cosplay-so-decided-to-pull-off-one-of-the-most-elaborate-headpiece-designs-and-its-the-best-ive-ever-seen/)
- - [2026&#39;s next great Steam roguelike is Sol Cesto](https://www.polygon.com/sol-cesto-early-access-recommendation/)<!-- GAME:END -->
+ - [&#39;Fine, I&#39;ll do it myself&#39;: Cybertsu had never seen a King of All Cosmos cosplay, so decided to pull off one of the most elaborate headpiece designs, and it&#39;s the best I&#39;ve ever seen](https://www.pcgamer.com/games/puzzle/fine-ill-do-it-myself-cybertsu-had-never-seen-a-king-of-all-cosmos-cosplay-so-decided-to-pull-off-one-of-the-most-elaborate-headpiece-designs-and-its-the-best-ive-ever-seen/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
