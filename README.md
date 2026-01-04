@@ -128,8 +128,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Fueled partly by US tech companies, governments worldwide are racing to deploy GenAI in schools and universities, even as agencies such as UNICEF urge caution &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/260103/p10#a260103p10)
- - [Apple&#39;s iPad 11 is down to $299, plus save up to $400 across models](https://appleinsider.com/articles/26/01/03/apples-ipad-11-is-down-to-299-plus-save-up-to-400-across-models?utm_source=rss)
- - [Surprise, surprise: Silksong wins Steam’s Game of the Year](https://www.theverge.com/games/853786/hollow-knight-silksong-steamawards-game-of-the-year)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Jan. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-jan-4/#ftag=CAD590a51e)
+ - [Apple&#39;s iPad 11 is down to $299, plus save up to $400 across models](https://appleinsider.com/articles/26/01/03/apples-ipad-11-is-down-to-299-plus-save-up-to-400-across-models?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
