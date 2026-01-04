@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fatigue](http://9gag.com/gag/amoypZV)
- - 😝 [I don\u2019t understand why these salmon in Patagonia are so much bigger than anywhere else in the world, can someone explain?](http://9gag.com/gag/aPA01gB)
+ - 6️⃣ [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
+ - 😝 [...](http://9gag.com/gag/a5QA5XL)
  - 👉 [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)<!-- MEMES:END -->
 
 --- 
