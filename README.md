@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
- - 😝 [100% winning rate](http://9gag.com/gag/apRXV8E)
- - 👉 [Did you just..](http://9gag.com/gag/aNDX2Lr)<!-- MEMES:END -->
+ - 6️⃣ [...](http://9gag.com/gag/a5QA5XL)
+ - 😝 [Before and after](http://9gag.com/gag/aAy7N2p)
+ - 👉 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)<!-- MEMES:END -->
 
 --- 
 
