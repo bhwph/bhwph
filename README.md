@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Premier League Soccer: Stream Leeds vs. Man United Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-leeds-vs-man-united-live-from-anywhere/#ftag=CAD590a51e)
- - [Womanizer Coupons: Save 15% in December](https://www.wired.com/story/womanizer-coupon/)
- - [AirDoctor Coupon Codes: 40% Off | January 2026](https://www.wired.com/story/airdoctor-coupon-code/)<!-- TECH:END -->
+ - [15 Best Electrolyte Powders &lpar;2026&rpar;: Tasty and Effective](https://www.wired.com/gallery/best-electrolyte-powders/)
+ - [A New Bridge Links the Strange Math of Infinity to Computer Science](https://www.wired.com/story/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science/)
+ - [Protein Bars: Gluten-Free, Whole Foods, Fiber &lpar;2026&rpar;](https://www.wired.com/story/best-protein-bars/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
