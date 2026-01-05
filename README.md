@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MTG&#39;s Lorwyn Eclipsed debut is an existential rock opera with puppets](https://www.polygon.com/lorwyn-eclipsed-jim-henson-company-rock-opera-breakdown/)
- - [Cherry may be down but it isn&#39;t out with two new &#39;more than magnetic&#39; TMR gaming keyboards](https://www.pcgamer.com/hardware/gaming-keyboards/cherry-may-be-down-but-it-isnt-out-with-two-new-more-than-magnetic-tmr-gaming-keyboards/)
- - [Xbox to Bring Cloud Gaming to Select Hisense and V homeOS-powered Smart TVs](https://news.xbox.com/en-us/2026/01/05/xbox-bring-cloud-gaming-select-hisense-homeos-powered-smart-tvs/)<!-- GAME:END -->
+ - [Wildgate is free at Epic Games Store for just a few more days](https://www.polygon.com/free-game-on-pc-epic-games-store-jan-1-wildgate/)
+ - [Guy Behind Viral ‘Focus, M’ Gaming Meme Never Expected It To Spread So Fast](https://kotaku.com/guy-behind-viral-focus-m-gaming-meme-never-expected-it-to-spread-so-fast-2000656706)
+ - [Possible GTA 6 Easter egg discovered in Red Dead Redemption 2](https://www.polygon.com/red-dead-redemption-2-spider-webs-puzzle-gta-6-easter-egg/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
