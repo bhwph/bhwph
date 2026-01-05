@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rainbow 6 Siege Hacked Again, This Time With A 6-7 Meme](https://kotaku.com/rainbow-6-siege-hacked-again-six-seven-meme-ubisoft-2000656649)
- - [Samsung Galaxy S25 Ultra Gets Cleared Out at Its Lowest Price Ahead of the S26 Series Launch](https://kotaku.com/samsung-galaxy-s25-ultra-gets-cleared-out-at-its-lowest-price-ahead-of-the-s26-series-launch-2000656572)
- - [Code Vein II hands-on report](https://blog.playstation.com/2026/01/05/code-vein-ii-hands-on-report/)<!-- GAME:END -->
+ - [Red Dead Redemption 2 Players Find Strange Spider Web Mystery Seven Years After Launch](https://kotaku.com/red-dead-redemption-2-spider-web-mystery-seven-years-later-unsolved-gta-6-2000656666)
+ - [The names of some of the most popular SSDs are changing so their new owner Sandisk gets the glory](https://www.pcgamer.com/hardware/ssds/the-names-of-some-of-the-most-popular-ssds-are-changing-so-their-new-owner-sandisk-now-gets-the-glory/)
+ - [Silksong Finally Takes Home A ‘Best Game’ Award As Steam Breaks An All-Time Record](https://kotaku.com/silksong-goty-award-steam-clair-obscur-snub-2000656667)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
