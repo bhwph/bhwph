@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
- - 😝 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)
- - 👉 [7 and you?](http://9gag.com/gag/aAy7m8g)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
+ - 😝 [Before and after](http://9gag.com/gag/aAy7N2p)
+ - 👉 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)<!-- MEMES:END -->
 
 --- 
 
