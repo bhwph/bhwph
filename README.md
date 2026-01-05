@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Claude Code is much more than a coding agent: it is a general-purpose AI agent that can do almost anything on a computer with impressive capabilities &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/260105/p22#a260105p22)
- - [LG&amp;#8217;s CLOiD robot can load the washer for you, slowly](https://www.theverge.com/tech/855233/lg-cloid-robot-laundry-ces-2026-keynote)
- - [At $50 off, the Shokz OpenRun Pro helps you stick to your new year’s goals](https://www.theverge.com/tech/855202/shokz-openrun-pro-bone-conduction-headphones-deal-sale)<!-- TECH:END -->
+ - [Lego unveils the Smart Play platform, with a brick powered by a custom chip that connects to compatible minifigures and tags for interactive lights and sounds &lpar;Jeremy White/Wired&rpar;](http://www.techmeme.com/260105/p25#a260105p25)
+ - [Amazon launches Alexa Plus website to bring the assistant to your browser](https://www.androidauthority.com/amazon-launches-alexa-plus-website-3629512/)
+ - [Hunter Fan Company has a new lineup of Matter accessories for your whole home at CES 2026](https://appleinsider.com/articles/26/01/05/hunter-fan-company-has-a-new-lineup-of-matter-accessories-for-your-whole-home-at-ces-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
