@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm unveils the Dragonwing IQ10 Series, a full-stack robotics architecture integrating hardware, software, and AI for industrial and consumer humanoids &lpar;Katie Collins/CNET&rpar;](http://www.techmeme.com/260105/p17#a260105p17)
- - [Lyte, founded by ex-Apple Face ID engineers, emerges from stealth and raised ~$107M to develop tech to help robots see better and move more safely in the world &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260105/p16#a260105p16)
- - [Twelve South’s Valet is a handsome place to put your stuff](https://www.theverge.com/tech/854124/twelve-south-valet-ces-2026)<!-- TECH:END -->
+ - [Apple&#39;s M5 MacBook Pro drops to $1,399 &lpar;$200 off&rpar; as CES 2026 kicks off](https://appleinsider.com/articles/26/01/05/apples-m5-macbook-pro-drops-to-1399-200-off-as-ces-2026-kicks-off?utm_source=rss)
+ - [Transform your charging with Anker&#39;s new lineup at CES 2026](https://appleinsider.com/articles/26/01/05/transform-your-charging-with-ankers-new-lineup-at-ces-2026?utm_source=rss)
+ - [Keep your home warm with the Google Nest Learning Thermostat, now only $230](https://www.theverge.com/gadgets/854979/google-nest-thermometer-8bitdo-everboom-deals-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
