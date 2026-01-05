@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Screw me.](http://9gag.com/gag/a0eGWoB)
- - 😝 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
- - 👉 [Before and after](http://9gag.com/gag/aAy7N2p)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
+ - 😝 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
+ - 👉 [Safe mode activated](http://9gag.com/gag/apRXjwW)<!-- MEMES:END -->
 
 --- 
 
