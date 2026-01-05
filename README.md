@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taiwan says China&#39;s cyberattacks on its hospitals, banks, energy, and other infrastructure rose 6% YoY in 2025 to an average of 2.63M attacks a day &lpar;Yimou Lee/Reuters&rpar;](http://www.techmeme.com/260105/p2#a260105p2)
- - [This robot companion is a cameraman for your pet](https://www.theverge.com/tech/854457/frontierx-vex-aura-robots-companions-pets)
- - [Motorola ‘Razr Fold’ leak hints at company’s first book-style foldable](https://www.androidauthority.com/motorola-razr-fold-leak-3629297/)<!-- TECH:END -->
+ - [Samsung could finally ditch its lazy camera strategy for the Galaxy S27 Ultra](https://www.androidauthority.com/samsung-galaxy-s27-ultra-camera-refresh-leak-3629330/)
+ - [Zombie or phoenix? The Galaxy S26 Edge seemingly rises again after being proclaimed dead](https://www.androidauthority.com/galaxy-s26-edge-back-from-dead-3629326/)
+ - [Miss BlackBerry? This new Android phone brings a keyboard, headphone jack, more](https://www.androidauthority.com/clicks-communicator-phone-3629279/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
