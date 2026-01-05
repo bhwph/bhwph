@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [OneDrive really out here deleting files like it&#39;s a game](http://9gag.com/gag/axy8Q9Y)
- - 😝 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
- - 👉 [Blind npc...](http://9gag.com/gag/ae9EdEB)<!-- MEMES:END -->
+ - 6️⃣ [In 1995, Sandra Bullock was the first person ever to buy movie theater tickets online, in promotion for her new film The Net](http://9gag.com/gag/ae9EP3O)
+ - 😝 [Screw me.](http://9gag.com/gag/a0eGWoB)
+ - 👉 [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)<!-- MEMES:END -->
 
 --- 
 
