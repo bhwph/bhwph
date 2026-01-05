@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M5 MacBook Pro drops to $1,399 &lpar;$200 off&rpar; as CES 2026 kicks off](https://appleinsider.com/articles/26/01/05/apples-m5-macbook-pro-drops-to-1399-200-off-as-ces-2026-kicks-off?utm_source=rss)
- - [Transform your charging with Anker&#39;s new lineup at CES 2026](https://appleinsider.com/articles/26/01/05/transform-your-charging-with-ankers-new-lineup-at-ces-2026?utm_source=rss)
- - [Keep your home warm with the Google Nest Learning Thermostat, now only $230](https://www.theverge.com/gadgets/854979/google-nest-thermometer-8bitdo-everboom-deals-sale)<!-- TECH:END -->
+ - [Why Claude Code is much more than a coding agent: it is a general-purpose AI agent that can do almost anything on a computer with impressive capabilities &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/260105/p22#a260105p22)
+ - [LG&amp;#8217;s CLOiD robot can load the washer for you, slowly](https://www.theverge.com/tech/855233/lg-cloid-robot-laundry-ces-2026-keynote)
+ - [At $50 off, the Shokz OpenRun Pro helps you stick to your new year’s goals](https://www.theverge.com/tech/855202/shokz-openrun-pro-bone-conduction-headphones-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
