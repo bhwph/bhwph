@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US immigration lawyers, talent managers, and creators say influencers and OnlyFans models now dominate O-1B visas, which are reserved for &quot;exceptional&quot; artists &lpar;Ian Hodgson/Financial Times&rpar;](http://www.techmeme.com/260104/p11#a260104p11)
- - [CES 2026 Live: Tech&#39;s Big Event Kicks Off From Las Vegas](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)
- - [Matter is front-and-center in Xthing&#39;s new lineup of smart locks](https://appleinsider.com/articles/26/01/04/matter-is-front-and-center-in-xthings-new-lineup-of-smart-locks?utm_source=rss)<!-- TECH:END -->
+ - [The new Ultraloq smart lock uses both your face and your palm to let you in](https://www.theverge.com/tech/853844/ultraloq-ces-smart-lock-face-palm-reading)
+ - [Ikea’s new $4 USB-C charger is cheaper than Apple’s and Anker’s](https://www.theverge.com/tech/854333/ikea-sjoss-20w-usb-c-wall-charger)
+ - [Improve your health with Withings new Body Scan 2 &#39;longevity station&#39;](https://appleinsider.com/articles/26/01/05/improve-your-health-with-withings-new-body-scan-2-longevity-station?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
