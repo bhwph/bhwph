@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says 40M+ Americans turn to ChatGPT daily for health information, per an analysis of anonymized interactions, seeing it as an &quot;ally&quot; for health care &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/260105/p14#a260105p14)
- - [African fintech Flutterwave acquires Nigerian open banking startup Mono, sources say in an all-stock deal valued at $25M to $40M; Mono raised $17.5M since 2020 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/260105/p13#a260105p13)
- - [‘Shogun’ Creator Says Season 2 ‘Defies Expectations’](https://www.wired.com/story/shogun-creator-says-season-2-defies-expectations/)<!-- TECH:END -->
+ - [Qualcomm unveils the Dragonwing IQ10 Series, a full-stack robotics architecture integrating hardware, software, and AI for industrial and consumer humanoids &lpar;Katie Collins/CNET&rpar;](http://www.techmeme.com/260105/p17#a260105p17)
+ - [Lyte, founded by ex-Apple Face ID engineers, emerges from stealth and raised ~$107M to develop tech to help robots see better and move more safely in the world &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260105/p16#a260105p16)
+ - [Twelve South’s Valet is a handsome place to put your stuff](https://www.theverge.com/tech/854124/twelve-south-valet-ces-2026)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
