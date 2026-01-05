@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung could finally ditch its lazy camera strategy for the Galaxy S27 Ultra](https://www.androidauthority.com/samsung-galaxy-s27-ultra-camera-refresh-leak-3629330/)
- - [Zombie or phoenix? The Galaxy S26 Edge seemingly rises again after being proclaimed dead](https://www.androidauthority.com/galaxy-s26-edge-back-from-dead-3629326/)
- - [Miss BlackBerry? This new Android phone brings a keyboard, headphone jack, more](https://www.androidauthority.com/clicks-communicator-phone-3629279/)<!-- TECH:END -->
+ - [Chinese automotive chipmaker Black Sesame says its Huashan A2000 chip passed the US Commerce and Defense Departments&#39; &quot;relevant reviews&quot; for global sales &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/260105/p7#a260105p7)
+ - [Samsung Galaxy phones may soon respond to a new “Hey Plex” voice command](https://www.androidauthority.com/samsung-perplexity-hey-plex-hotword-apk-teardown-3629349/)
+ - [A profile of Max Tegmark, the physicist pushing to halt AGI development, who was subpoenaed by OpenAI over the Future of Life Institute&#39;s past ties to Elon Musk &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260105/p6#a260105p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
