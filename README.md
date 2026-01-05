@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Red Dead Redemption 2 Players Find Strange Spider Web Mystery Seven Years After Launch](https://kotaku.com/red-dead-redemption-2-spider-web-mystery-seven-years-later-unsolved-gta-6-2000656666)
- - [The names of some of the most popular SSDs are changing so their new owner Sandisk gets the glory](https://www.pcgamer.com/hardware/ssds/the-names-of-some-of-the-most-popular-ssds-are-changing-so-their-new-owner-sandisk-now-gets-the-glory/)
- - [Silksong Finally Takes Home A ‘Best Game’ Award As Steam Breaks An All-Time Record](https://kotaku.com/silksong-goty-award-steam-clair-obscur-snub-2000656667)<!-- GAME:END -->
+ - [MTG&#39;s Lorwyn Eclipsed debut is an existential rock opera with puppets](https://www.polygon.com/lorwyn-eclipsed-jim-henson-company-rock-opera-breakdown/)
+ - [Cherry may be down but it isn&#39;t out with two new &#39;more than magnetic&#39; TMR gaming keyboards](https://www.pcgamer.com/hardware/gaming-keyboards/cherry-may-be-down-but-it-isnt-out-with-two-new-more-than-magnetic-tmr-gaming-keyboards/)
+ - [Xbox to Bring Cloud Gaming to Select Hisense and V homeOS-powered Smart TVs](https://news.xbox.com/en-us/2026/01/05/xbox-bring-cloud-gaming-select-hisense-homeos-powered-smart-tvs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
