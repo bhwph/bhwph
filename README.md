@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese automotive chipmaker Black Sesame says its Huashan A2000 chip passed the US Commerce and Defense Departments&#39; &quot;relevant reviews&quot; for global sales &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/260105/p7#a260105p7)
- - [Samsung Galaxy phones may soon respond to a new “Hey Plex” voice command](https://www.androidauthority.com/samsung-perplexity-hey-plex-hotword-apk-teardown-3629349/)
- - [A profile of Max Tegmark, the physicist pushing to halt AGI development, who was subpoenaed by OpenAI over the Future of Life Institute&#39;s past ties to Elon Musk &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260105/p6#a260105p6)<!-- TECH:END -->
+ - [OpenAI says 40M+ Americans turn to ChatGPT daily for health information, per an analysis of anonymized interactions, seeing it as an &quot;ally&quot; for health care &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/260105/p14#a260105p14)
+ - [African fintech Flutterwave acquires Nigerian open banking startup Mono, sources say in an all-stock deal valued at $25M to $40M; Mono raised $17.5M since 2020 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/260105/p13#a260105p13)
+ - [‘Shogun’ Creator Says Season 2 ‘Defies Expectations’](https://www.wired.com/story/shogun-creator-says-season-2-defies-expectations/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
