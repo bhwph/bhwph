@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [DJI’s Flagship Drone Joins the Clearance Lineup, Tri-Camera Mavic 4 Pro With RC 2 Drops to an All-Time Low](https://kotaku.com/djis-flagship-drone-joins-the-clearance-lineup-tri-camera-mavic-4-pro-with-rc-2-drops-to-an-all-time-low-2000656507)
- - [If you&#39;re looking for a way to fill the Stranger Things-shaped hole in your heart, the new Minecraft DLC has you covered](https://www.pcgamer.com/games/survival-crafting/if-youre-looking-for-a-way-to-fill-the-stranger-things-shaped-hole-in-your-heart-the-new-minecraft-dlc-has-you-covered/)
- - [You&#39;ve got 1 week left to play Anthem, the game that mortally wounded the one-time king of RPG studios](https://www.pcgamer.com/games/action/youve-got-1-week-left-to-play-anthem-the-game-that-mortally-wounded-the-one-time-king-of-rpg-studios/)<!-- GAME:END -->
+ - [Rainbow 6 Siege Hacked Again, This Time With A 6-7 Meme](https://kotaku.com/rainbow-6-siege-hacked-again-six-seven-meme-ubisoft-2000656649)
+ - [Samsung Galaxy S25 Ultra Gets Cleared Out at Its Lowest Price Ahead of the S26 Series Launch](https://kotaku.com/samsung-galaxy-s25-ultra-gets-cleared-out-at-its-lowest-price-ahead-of-the-s26-series-launch-2000656572)
+ - [Code Vein II hands-on report](https://blog.playstation.com/2026/01/05/code-vein-ii-hands-on-report/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
