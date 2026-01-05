@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lego unveils the Smart Play platform, with a brick powered by a custom chip that connects to compatible minifigures and tags for interactive lights and sounds &lpar;Jeremy White/Wired&rpar;](http://www.techmeme.com/260105/p25#a260105p25)
- - [Amazon launches Alexa Plus website to bring the assistant to your browser](https://www.androidauthority.com/amazon-launches-alexa-plus-website-3629512/)
- - [Hunter Fan Company has a new lineup of Matter accessories for your whole home at CES 2026](https://appleinsider.com/articles/26/01/05/hunter-fan-company-has-a-new-lineup-of-matter-accessories-for-your-whole-home-at-ces-2026?utm_source=rss)<!-- TECH:END -->
+ - [This Braille Label Printer Helps Blind Friends and Family Grab the Right Pill Bottle](https://www.cnet.com/tech/this-braille-label-printer-helps-blind-friends-and-family-grab-the-right-pill-bottle/#ftag=CAD590a51e)
+ - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)
+ - [Hisense Shrinks $30,000 Tech into Smaller TVs for 2026](https://www.cnet.com/tech/home-entertainment/hisense-shrinks-30000-tech-into-smaller-tvs-for-2026/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
