@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dust Bunny review: Bryan Fuller and Mads Mikkelsen are at their best on the big screen](https://www.polygon.com/dust-bunny-brings-best-of-hannibal-and-bryan-fuller-to-the-silver-screen/)
- - [Predator: Badlands is the Disneyfication of an iconic sci-fi horror franchise](https://www.polygon.com/predator-badlands-review/)
- - [Arc Raiders dev says it uses &#39;aggression-based matchmaking&#39; to pair bloodthirsty, PvP-minded players with each other](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-dev-says-it-uses-aggression-based-matchmaking-to-pair-bloodthirsty-pvp-minded-players-with-each-other/)<!-- GAME:END -->
+ - [DJI’s Flagship Drone Joins the Clearance Lineup, Tri-Camera Mavic 4 Pro With RC 2 Drops to an All-Time Low](https://kotaku.com/djis-flagship-drone-joins-the-clearance-lineup-tri-camera-mavic-4-pro-with-rc-2-drops-to-an-all-time-low-2000656507)
+ - [If you&#39;re looking for a way to fill the Stranger Things-shaped hole in your heart, the new Minecraft DLC has you covered](https://www.pcgamer.com/games/survival-crafting/if-youre-looking-for-a-way-to-fill-the-stranger-things-shaped-hole-in-your-heart-the-new-minecraft-dlc-has-you-covered/)
+ - [You&#39;ve got 1 week left to play Anthem, the game that mortally wounded the one-time king of RPG studios](https://www.pcgamer.com/games/action/youve-got-1-week-left-to-play-anthem-the-game-that-mortally-wounded-the-one-time-king-of-rpg-studios/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
