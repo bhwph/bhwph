@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung co-CEO TM Roh says the company has rolled out Gemini-powered AI features to ~400M mobile devices by 2025, and aims to boost the figure to 800M in 2026 &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/260104/p15#a260104p15)
- - [Samsung says Galaxy wearables will soon help detect early signs of dementia](https://www.androidauthority.com/samsung-wearables-dementia-warning-3629267/)
- - [Starlink says it is providing free broadband service to new and existing customers in Venezuela through February 3, 2026 &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260104/p14#a260104p14)<!-- TECH:END -->
+ - [Taiwan says China&#39;s cyberattacks on its hospitals, banks, energy, and other infrastructure rose 6% YoY in 2025 to an average of 2.63M attacks a day &lpar;Yimou Lee/Reuters&rpar;](http://www.techmeme.com/260105/p2#a260105p2)
+ - [This robot companion is a cameraman for your pet](https://www.theverge.com/tech/854457/frontierx-vex-aura-robots-companions-pets)
+ - [Motorola ‘Razr Fold’ leak hints at company’s first book-style foldable](https://www.androidauthority.com/motorola-razr-fold-leak-3629297/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
