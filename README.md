@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Before and after](http://9gag.com/gag/aAy7N2p)
- - 😝 [That was personal](http://9gag.com/gag/aKGyLQ3)
- - 👉 [A fatigue all around the world](http://9gag.com/gag/aO8OjGE)<!-- MEMES:END -->
+ - 6️⃣ [OneDrive really out here deleting files like it&#39;s a game](http://9gag.com/gag/axy8Q9Y)
+ - 😝 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
+ - 👉 [Blind npc...](http://9gag.com/gag/ae9EdEB)<!-- MEMES:END -->
 
 --- 
 
