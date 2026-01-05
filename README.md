@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wildgate is free at Epic Games Store for just a few more days](https://www.polygon.com/free-game-on-pc-epic-games-store-jan-1-wildgate/)
- - [Guy Behind Viral ‘Focus, M’ Gaming Meme Never Expected It To Spread So Fast](https://kotaku.com/guy-behind-viral-focus-m-gaming-meme-never-expected-it-to-spread-so-fast-2000656706)
- - [Possible GTA 6 Easter egg discovered in Red Dead Redemption 2](https://www.polygon.com/red-dead-redemption-2-spider-webs-puzzle-gta-6-easter-egg/)<!-- GAME:END -->
+ - [Great Games, Bad Times: Everything You Need To Know About 2025](https://kotaku.com/2025-best-games-characters-surprises-metacritic-2000656702)
+ - [Jack Black Regrets Being A Jerk When Pixar Asked Him To Be In The Incredibles](https://kotaku.com/the-incredibles-jack-black-regrets-passing-on-syndrome-villian-role-pixar-2000656750)
+ - [Hacker Wipes White Supremacist Websites While Dressed As The Pink Power Ranger](https://kotaku.com/martha-root-hacker-white-supremacists-power-ranger-2000656764)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
