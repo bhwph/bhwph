@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Ultraloq smart lock uses both your face and your palm to let you in](https://www.theverge.com/tech/853844/ultraloq-ces-smart-lock-face-palm-reading)
- - [Ikea’s new $4 USB-C charger is cheaper than Apple’s and Anker’s](https://www.theverge.com/tech/854333/ikea-sjoss-20w-usb-c-wall-charger)
- - [Improve your health with Withings new Body Scan 2 &#39;longevity station&#39;](https://appleinsider.com/articles/26/01/05/improve-your-health-with-withings-new-body-scan-2-longevity-station?utm_source=rss)<!-- TECH:END -->
+ - [Samsung co-CEO TM Roh says the company has rolled out Gemini-powered AI features to ~400M mobile devices by 2025, and aims to boost the figure to 800M in 2026 &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/260104/p15#a260104p15)
+ - [Samsung says Galaxy wearables will soon help detect early signs of dementia](https://www.androidauthority.com/samsung-wearables-dementia-warning-3629267/)
+ - [Starlink says it is providing free broadband service to new and existing customers in Venezuela through February 3, 2026 &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260104/p14#a260104p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
