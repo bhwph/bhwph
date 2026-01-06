@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [New year&#39;s resolution, pushups, gradualy](http://9gag.com/gag/a9ye4ro)
- - 😝 [Just my luck! blue screen of death during worktime?, Window updates during reunion ? :/](http://9gag.com/gag/aqyOVrv)
- - 👉 [This is so wholesome, what a beautiful gift](http://9gag.com/gag/ae9EqO5)<!-- MEMES:END -->
+ - 6️⃣ [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
+ - 😝 [Safe mode activated](http://9gag.com/gag/apRXjwW)
+ - 👉 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)<!-- MEMES:END -->
 
 --- 
 
