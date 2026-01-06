@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I thought I was crazy for thinking Fallout 4 feels like a perfectly crisp fall day, but that&#39;s exactly what Bethesda was aiming for after a &#39;field trip&#39; to a national park: &#39;I was like, this is what our world needs to look like&#39;](https://www.pcgamer.com/games/fallout/i-thought-i-was-crazy-for-thinking-fallout-4-feels-like-a-perfectly-crisp-fall-day-but-thats-exactly-what-bethesda-was-aiming-for-after-a-field-trip-to-a-national-park-i-was-like-this-is-what-our-world-needs-to-look-like/)
- - [Alienware is taking on Razer and Asus with its new ultra slim &#39;covert&#39; gaming laptop tease](https://www.pcgamer.com/hardware/gaming-laptops/alienware-is-taking-on-razer-and-asus-with-its-new-ultra-slim-covert-gaming-laptop-tease/)
- - [Alienware promises it&#39;s not &#39;cutting corners on the things that matter the most&#39; with its new entry-level gaming laptops](https://www.pcgamer.com/hardware/gaming-laptops/alienware-promises-its-not-cutting-corners-on-the-things-that-matter-the-most-with-its-new-entry-level-gaming-laptops/)<!-- GAME:END -->
+ - [Intel&#39;s new top-end Core Ultra Series 3 mobile chips promise up to 77% faster iGPU gaming performance than Lunar Lake, and come with a whole host of friends](https://www.pcgamer.com/hardware/processors/intels-new-top-end-core-ultra-series-3-mobile-chips-promise-up-to-77-percent-faster-igpu-gaming-performance-than-lunar-lake-and-come-with-a-whole-host-of-friends/)
+ - [Nvidia&#39;s promising &#39;4K 240 Hz path traced gaming&#39; with DLSS 4.5 but do you want 6x Multi Frame Gen?](https://www.pcgamer.com/hardware/graphics-cards/nvidias-promising-4k-240-hz-path-traced-gaming-with-dlss-4-5-but-do-you-want-6x-multi-frame-gen/)
+ - [I thought I was crazy for thinking Fallout 4 feels like a perfectly crisp fall day, but that&#39;s exactly what Bethesda was aiming for after a &#39;field trip&#39; to a national park: &#39;I was like, this is what our world needs to look like&#39;](https://www.pcgamer.com/games/fallout/i-thought-i-was-crazy-for-thinking-fallout-4-feels-like-a-perfectly-crisp-fall-day-but-thats-exactly-what-bethesda-was-aiming-for-after-a-field-trip-to-a-national-park-i-was-like-this-is-what-our-world-needs-to-look-like/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
