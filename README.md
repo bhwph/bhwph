@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta hits pause on Ray-Ban Display expansion plans](https://www.theverge.com/news/856216/meta-ray-ban-display-smart-glasses-international-expansion-paused)
- - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)
- - [Meta and Garmin show an early demo of using Meta&#39;s wrist-based neural band inside of a car to control an infotainment system, as part of Garmin&#39;s Unified Cabin &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/260106/p13#a260106p13)<!-- TECH:END -->
+ - [American Airlines partners with AT&amp;T to add free, high-speed satellite-based Wi-Fi across its entire fleet, with a target spring 2026 completion date &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260106/p15#a260106p15)
+ - [First UWB Home Key lock and Adaptive Thermostat lead Aqara&#39;s CES 2026 showcase](https://appleinsider.com/articles/26/01/06/first-uwb-home-key-lock-and-adaptive-thermostat-lead-aqaras-ces-2026-showcase?utm_source=rss)
+ - [Govee’s CES 2026 light show gives us a glimpse into the future of smart lighting](https://www.androidauthority.com/govee-ces-smart-lighting-3629322/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
