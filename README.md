@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia looks to further eradicate motion blur with new G-Sync Pulsar improvements for &#39;4x the effective motion clarity&#39;](https://www.pcgamer.com/hardware/gaming-monitors/nvidia-looks-to-further-eradicate-motion-blur-with-new-g-sync-pulsar-improvements-for-4x-the-effective-motion-clarity/)
- - [Dell&#39;s CES 2026 chat was the most pleasingly un-AI briefing I&#39;ve had in maybe 5 years](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
- - [Intel says its graphics drivers are now &#39;light years ahead of where we were a few years ago&#39;, and they&#39;ll need to be if it&#39;s going to tempt gamers towards its new iGPUs](https://www.pcgamer.com/hardware/processors/intel-says-its-graphics-drivers-are-now-light-years-ahead-of-where-we-were-a-few-years-ago-and-theyll-need-to-be-if-its-going-to-tempt-gamers-towards-its-new-igpus/)<!-- GAME:END -->
+ - [Amazon’s CPU Clearance Kicks Off With the AMD Ryzen 9 9900X at Its Lowest Price &lpar;12-Core, 24-Thread Unlocked Desktop Processor&rpar;](https://kotaku.com/amazons-cpu-clearance-kicks-off-with-the-amd-ryzen-9-9900x-at-its-lowest-price-12-core-24-thread-unlocked-desktop-processor-2000656788)
+ - [An Arc Raiders Player Yelled So Loudly For Help That A Hero Neighbor Tried To Kick Down His Door](https://kotaku.com/an-arc-raiders-player-yelled-so-loudly-for-help-that-a-hero-neighbor-tried-to-kick-down-his-door-2000657122)
+ - [Arc Raiders is looking to nerf the Trigger Nade among other items, but we&#39;re not sure whether it&#39;ll only be weaker against players, not Arcs](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-looking-to-nerf-the-trigger-nade-among-other-items-but-were-not-sure-whether-itll-only-be-weaker-against-players-not-arcs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
