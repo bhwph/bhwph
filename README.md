@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [American Airlines partners with AT&amp;T to add free, high-speed satellite-based Wi-Fi across its entire fleet, with a target spring 2026 completion date &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260106/p15#a260106p15)
- - [First UWB Home Key lock and Adaptive Thermostat lead Aqara&#39;s CES 2026 showcase](https://appleinsider.com/articles/26/01/06/first-uwb-home-key-lock-and-adaptive-thermostat-lead-aqaras-ces-2026-showcase?utm_source=rss)
- - [Govee’s CES 2026 light show gives us a glimpse into the future of smart lighting](https://www.androidauthority.com/govee-ces-smart-lighting-3629322/)<!-- TECH:END -->
+ - [UMG announces a partnership with Nvidia &quot;to pioneer responsible AI for music discovery, creation, and engagement&quot;, centered on Nvidia&#39;s Music Flamingo model &lpar;Dan Rys/Billboard&rpar;](http://www.techmeme.com/260106/p22#a260106p22)
+ - [Marvell says it will acquire networking equipment provider XConn Technologies in a deal worth about $540M; the deal is expected to close in early 2026 &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/260106/p21#a260106p21)
+ - [You can finally bid on a strange assortment of Steve Jobs&#39; personal effects](https://appleinsider.com/articles/26/01/06/you-can-finally-bid-on-a-strange-assortment-of-steve-jobs-personal-effects?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
