@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UMG announces a partnership with Nvidia &quot;to pioneer responsible AI for music discovery, creation, and engagement&quot;, centered on Nvidia&#39;s Music Flamingo model &lpar;Dan Rys/Billboard&rpar;](http://www.techmeme.com/260106/p22#a260106p22)
- - [Marvell says it will acquire networking equipment provider XConn Technologies in a deal worth about $540M; the deal is expected to close in early 2026 &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/260106/p21#a260106p21)
- - [You can finally bid on a strange assortment of Steve Jobs&#39; personal effects](https://appleinsider.com/articles/26/01/06/you-can-finally-bid-on-a-strange-assortment-of-steve-jobs-personal-effects?utm_source=rss)<!-- TECH:END -->
+ - [This robot pool cleaner lifts itself out of the water to charge](https://www.theverge.com/tech/854835/mammotion-spino-s1-pro-robot-pool-cleaner-ces-2026)
+ - [Buyout firm Hg agrees to acquire enterprise financial software maker OneStream in an all-cash deal valued at ~$6.4B that is set to close in H1 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260106/p28#a260106p28)
+ - [AWS implemented a 15% price hike for EC2 Capacity Blocks for ML on January 3; Amazon says it &quot;reflects the supply/demand patterns we expect this quarter&quot; &lpar;Corey Quinn/The Register&rpar;](http://www.techmeme.com/260106/p27#a260106p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
