@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MTG just printed another three-mana Oko, but it&#39;s not as controversial](https://www.polygon.com/mtg-magic-the-gathering-lorwyn-eclipsed-oko-planeswalker/)
- - [Mario Kart World becomes a full-on platformer in wild speedrun](https://www.polygon.com/mario-kart-world-speedrun-free-roam/)
- - [What games did you play over the holidays?](https://www.pcgamer.com/games/what-games-did-you-play-over-the-holidays/)<!-- GAME:END -->
+ - [Fortnite&#39;s next big collab: South Park](https://www.polygon.com/fortnite-south-park-collab-release-date-epic-games/)
+ - [Huh, Arc Raiders&#39; maps are heavily based on real-world locations: &#39;Spaceport was actually done in Tenerife&#39;](https://www.pcgamer.com/games/action/huh-arc-raiders-maps-are-heavily-based-on-real-world-locations-spaceport-is-tenerife/)
+ - [Logan Paul’s Pitch For A Pokémon Game Is Nostalgia Brain Poison](https://kotaku.com/pokemon-red-blue-remake-logan-paul-firered-leafgreen-2000657176)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
