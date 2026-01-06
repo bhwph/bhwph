@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon’s CPU Clearance Kicks Off With the AMD Ryzen 9 9900X at Its Lowest Price &lpar;12-Core, 24-Thread Unlocked Desktop Processor&rpar;](https://kotaku.com/amazons-cpu-clearance-kicks-off-with-the-amd-ryzen-9-9900x-at-its-lowest-price-12-core-24-thread-unlocked-desktop-processor-2000656788)
- - [An Arc Raiders Player Yelled So Loudly For Help That A Hero Neighbor Tried To Kick Down His Door](https://kotaku.com/an-arc-raiders-player-yelled-so-loudly-for-help-that-a-hero-neighbor-tried-to-kick-down-his-door-2000657122)
- - [Arc Raiders is looking to nerf the Trigger Nade among other items, but we&#39;re not sure whether it&#39;ll only be weaker against players, not Arcs](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-looking-to-nerf-the-trigger-nade-among-other-items-but-were-not-sure-whether-itll-only-be-weaker-against-players-not-arcs/)<!-- GAME:END -->
+ - [New Avengers: Doomsday Teaser Brings The Fantastic Four Into The Mix](https://kotaku.com/avengers-doomsday-fantastic-four-wakanda-namor-teaser-2000657142)
+ - [All journal locations in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-all-journal-locations/)
+ - [Hugh Jackman gives Robin Hood the Old Man Logan moment in new movie](https://www.polygon.com/the-death-of-robin-hood-hugh-jackman-trailer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
