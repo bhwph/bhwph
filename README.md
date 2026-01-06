@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus reveals a Hideo Kojima-themed ROG Flow Z13 at CES 2026](https://www.polygon.com/hideo-kojima-rog-flow-z13-kjp-announced/)
- - [Asus ROG Xreal R1 glasses are built for hardcore gamers](https://www.polygon.com/asus-rog-xreal-r1-glasses-ces-2026/)
- - [Cyberpunk 2 director says there&#39;d be no point in giving players more time with Jackie in Cyberpunk 2077: &#39;It&#39;s like saying we should spend more time on Tatooine with farmer Luke before he got involved with all this Jedi stuff&#39;](https://www.pcgamer.com/games/rpg/cyberpunk-2-director-says-thered-be-no-point-in-giving-players-more-time-with-jackie-in-cyberpunk-2077-its-like-saying-we-should-spend-more-time-on-tatooine-with-farmer-luke-before-he-got-involved-with-all-this-jedi-stuff/)<!-- GAME:END -->
+ - [&#39;Quite frankly it was missing one thing&#39;: Alienware has fixed one of the biggest issues with its Area-51 gaming PC](https://www.pcgamer.com/hardware/gaming-pcs/quite-frankly-it-was-missing-one-thing-alienware-has-fixed-one-of-the-biggest-issues-with-its-area-51-gaming-pc/)
+ - [Alienware is taking on Razer and Asus with its new ultra slim &#39;covert&#39; gaming laptop tease](https://www.pcgamer.com/hardware/gaming-laptops/alienware-is-taking-on-razer-and-asus-with-its-new-ultra-slim-covert-gaming-laptop-tease/)
+ - [Alienware promises it&#39;s not &#39;cutting corners on the things that matter the most&#39; with its new entry-level gaming laptops](https://www.pcgamer.com/hardware/gaming-laptops/alienware-promises-its-not-cutting-corners-on-the-things-that-matter-the-most-with-its-new-entry-level-gaming-laptops/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
