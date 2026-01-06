@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Nvidia&#39;s Level 2 driving system, set to roll out to more carmakers in 2026, after a ~40-minute drive around San Francisco in a Mercedes-Benz CLA sedan &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260105/p34#a260105p34)
- - [X faces fresh probes in Europe, India, and Malaysia after Grok generated explicit images of women and children; the UK says it has requested related info from X &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260105/p33#a260105p33)
- - [Rokid’s new smart glasses might be the best Ray-Ban Meta alternative &lpar;for now&rpar;](https://www.androidauthority.com/rokid-ai-glasses-style-3628246/)<!-- TECH:END -->
+ - [Acer Nitro and Aspire get an AMD-powered upgrade at CES](https://www.androidauthority.com/acer-nitro-aspire-ces-2026-3628131/)
+ - [Alienware is working on new slim and cheaper gaming laptops](https://www.theverge.com/news/851926/alienware-is-working-on-new-slim-and-cheaper-gaming-laptops)
+ - [HP crammed an entire desktop computer into this keyboard](https://www.theverge.com/news/851965/hp-crammed-an-entire-desktop-computer-into-this-keyboard)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
