@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Acer Nitro and Aspire get an AMD-powered upgrade at CES](https://www.androidauthority.com/acer-nitro-aspire-ces-2026-3628131/)
- - [Alienware is working on new slim and cheaper gaming laptops](https://www.theverge.com/news/851926/alienware-is-working-on-new-slim-and-cheaper-gaming-laptops)
- - [HP crammed an entire desktop computer into this keyboard](https://www.theverge.com/news/851965/hp-crammed-an-entire-desktop-computer-into-this-keyboard)<!-- TECH:END -->
+ - [AMD unveils two Ryzen AI Max+ chips, the 392 with 12 cores and the 388 with 8 cores, both offering 40 graphics compute units and 60 teraflops of performance &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260105/p40#a260105p40)
+ - [A simple fix for the interface-breaking bug on YouTube Clips](https://appleinsider.com/articles/26/01/06/a-simple-fix-for-the-interface-breaking-bug-on-youtube-clips?utm_source=rss)
+ - [AMD unveils Ryzen AI 400 Series AI PC chips with 12 CPU cores, claiming 1.3x faster multitasking and 1.7x faster content creation than rivals &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/260105/p39#a260105p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
