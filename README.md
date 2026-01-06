@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Avengers: Doomsday Teaser Brings The Fantastic Four Into The Mix](https://kotaku.com/avengers-doomsday-fantastic-four-wakanda-namor-teaser-2000657142)
- - [All journal locations in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-all-journal-locations/)
- - [Hugh Jackman gives Robin Hood the Old Man Logan moment in new movie](https://www.polygon.com/the-death-of-robin-hood-hugh-jackman-trailer/)<!-- GAME:END -->
+ - [MTG just printed another three-mana Oko, but it&#39;s not as controversial](https://www.polygon.com/mtg-magic-the-gathering-lorwyn-eclipsed-oko-planeswalker/)
+ - [Mario Kart World becomes a full-on platformer in wild speedrun](https://www.polygon.com/mario-kart-world-speedrun-free-roam/)
+ - [What games did you play over the holidays?](https://www.pcgamer.com/games/what-games-did-you-play-over-the-holidays/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
