@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This RV will charge your electric truck after towing](https://www.theverge.com/transportation/856487/this-rv-will-charge-your-electric-truck-after-towing)
- - [Dell goes big with UltraSharp 52 Thunderbolt Hub Monitor](https://appleinsider.com/articles/26/01/06/dell-goes-big-with-ultrasharp-52-thunderbolt-hub-monitor?utm_source=rss)
- - [Jensen Huang says he isn&#39;t concerned about a billionaires tax under consideration in California, and plans to remain in Silicon Valley &lpar;Bloomberg&rpar;](http://www.techmeme.com/260106/p32#a260106p32)<!-- TECH:END -->
+ - [In the first successful US prosecution of a spyware operator in 10+ years, pcTattletale founder pleads guilty to promoting surveillance apps for unlawful uses &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/260106/p36#a260106p36)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Influencer content is fuel for an internet-obsessed administration](https://www.theverge.com/tech/856948/nick-shirley-minnesota-daycare-fraud-influencer-media-cycle)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
