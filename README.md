@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This robot pool cleaner lifts itself out of the water to charge](https://www.theverge.com/tech/854835/mammotion-spino-s1-pro-robot-pool-cleaner-ces-2026)
- - [Buyout firm Hg agrees to acquire enterprise financial software maker OneStream in an all-cash deal valued at ~$6.4B that is set to close in H1 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260106/p28#a260106p28)
- - [AWS implemented a 15% price hike for EC2 Capacity Blocks for ML on January 3; Amazon says it &quot;reflects the supply/demand patterns we expect this quarter&quot; &lpar;Corey Quinn/The Register&rpar;](http://www.techmeme.com/260106/p27#a260106p27)<!-- TECH:END -->
+ - [This RV will charge your electric truck after towing](https://www.theverge.com/transportation/856487/this-rv-will-charge-your-electric-truck-after-towing)
+ - [Dell goes big with UltraSharp 52 Thunderbolt Hub Monitor](https://appleinsider.com/articles/26/01/06/dell-goes-big-with-ultrasharp-52-thunderbolt-hub-monitor?utm_source=rss)
+ - [Jensen Huang says he isn&#39;t concerned about a billionaires tax under consideration in California, and plans to remain in Silicon Valley &lpar;Bloomberg&rpar;](http://www.techmeme.com/260106/p32#a260106p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
