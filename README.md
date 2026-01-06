@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD unveils two Ryzen AI Max+ chips, the 392 with 12 cores and the 388 with 8 cores, both offering 40 graphics compute units and 60 teraflops of performance &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260105/p40#a260105p40)
- - [A simple fix for the interface-breaking bug on YouTube Clips](https://appleinsider.com/articles/26/01/06/a-simple-fix-for-the-interface-breaking-bug-on-youtube-clips?utm_source=rss)
- - [AMD unveils Ryzen AI 400 Series AI PC chips with 12 CPU cores, claiming 1.3x faster multitasking and 1.7x faster content creation than rivals &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/260105/p39#a260105p39)<!-- TECH:END -->
+ - [This is how much Motorola’s first book-style foldable phone could cost](https://www.androidauthority.com/motorola-razr-fold-price-leak-3629716/)
+ - [AMD unveils Ryzen AI 400 Series chips for AI PCs, with up to 12 Zen 5 CPU cores and 16 RDNA 3.5 GPU cores, built with TSMC&#39;s N4X node, available in Q1 2026 &lpar;Jake Roach/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260106/p4#a260106p4)
+ - [Nvidia unveils DLSS 4.5 with a new 6x Multi Frame Generation for the RTX 50 series, and a second-generation Super Resolution transformer model for all RTX GPUs &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260106/p3#a260106p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
