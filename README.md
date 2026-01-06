@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s upcoming Galaxy Buds 4 Pro may arrive in a special fruity color](https://www.androidauthority.com/samsung-galaxy-buds-4-pro-color-leak-3629731/)
- - [CES Live Blog, Day 2: More of the Coolest Tech From Las Vegas](https://www.wired.com/live/ces-2026-live-blog/)
- - [These open-ear buds actually have decent noise reduction](https://www.theverge.com/tech/853290/shokz-open-fit-pro-hands-on-ces-2026-headphones-wearables)<!-- TECH:END -->
+ - [The ayes have it: An overwhelming majority of you want this Android Auto feature](https://www.androidauthority.com/android-video-playback-survey-3629758/)
+ - [Score 52% off the Samsung 55-inch Odyssey Ark curved gaming monitor](https://www.androidauthority.com/samsung-odyssey-ark-curved-gaming-monitor-deal-3629801/)
+ - [The AI glasses you might actually wear: XGIMI MemoMind debuts at CES with a feather-light design](https://www.androidauthority.com/xgimi-memomind-ai-glasses-memo-one-air-display-3629774/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
