@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is how much Motorola’s first book-style foldable phone could cost](https://www.androidauthority.com/motorola-razr-fold-price-leak-3629716/)
- - [AMD unveils Ryzen AI 400 Series chips for AI PCs, with up to 12 Zen 5 CPU cores and 16 RDNA 3.5 GPU cores, built with TSMC&#39;s N4X node, available in Q1 2026 &lpar;Jake Roach/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260106/p4#a260106p4)
- - [Nvidia unveils DLSS 4.5 with a new 6x Multi Frame Generation for the RTX 50 series, and a second-generation Super Resolution transformer model for all RTX GPUs &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260106/p3#a260106p3)<!-- TECH:END -->
+ - [Samsung’s upcoming Galaxy Buds 4 Pro may arrive in a special fruity color](https://www.androidauthority.com/samsung-galaxy-buds-4-pro-color-leak-3629731/)
+ - [CES Live Blog, Day 2: More of the Coolest Tech From Las Vegas](https://www.wired.com/live/ces-2026-live-blog/)
+ - [These open-ear buds actually have decent noise reduction](https://www.theverge.com/tech/853290/shokz-open-fit-pro-hands-on-ces-2026-headphones-wearables)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
