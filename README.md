@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Great Games, Bad Times: Everything You Need To Know About 2025](https://kotaku.com/2025-best-games-characters-surprises-metacritic-2000656702)
- - [Jack Black Regrets Being A Jerk When Pixar Asked Him To Be In The Incredibles](https://kotaku.com/the-incredibles-jack-black-regrets-passing-on-syndrome-villian-role-pixar-2000656750)
- - [Hacker Wipes White Supremacist Websites While Dressed As The Pink Power Ranger](https://kotaku.com/martha-root-hacker-white-supremacists-power-ranger-2000656764)<!-- GAME:END -->
+ - [Asus reveals a Hideo Kojima-themed ROG Flow Z13 at CES 2026](https://www.polygon.com/hideo-kojima-rog-flow-z13-kjp-announced/)
+ - [Asus ROG Xreal R1 glasses are built for hardcore gamers](https://www.polygon.com/asus-rog-xreal-r1-glasses-ces-2026/)
+ - [Cyberpunk 2 director says there&#39;d be no point in giving players more time with Jackie in Cyberpunk 2077: &#39;It&#39;s like saying we should spend more time on Tatooine with farmer Luke before he got involved with all this Jedi stuff&#39;](https://www.pcgamer.com/games/rpg/cyberpunk-2-director-says-thered-be-no-point-in-giving-players-more-time-with-jackie-in-cyberpunk-2077-its-like-saying-we-should-spend-more-time-on-tatooine-with-farmer-luke-before-he-got-involved-with-all-this-jedi-stuff/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
