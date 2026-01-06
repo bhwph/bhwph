@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bad ride](http://9gag.com/gag/ayNAZjq)
- - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
- - 👉 [Safe mode activated](http://9gag.com/gag/apRXjwW)<!-- MEMES:END -->
+ - 6️⃣ [This is so wholesome, what a beautiful gift](http://9gag.com/gag/ae9EqO5)
+ - 😝 [Happily socialising before the first cup of coffee is a sign of a psychopath](http://9gag.com/gag/amoyKxo)
+ - 👉 [New year&#39;s resolution, pushups, gradualy](http://9gag.com/gag/a9ye4ro)<!-- MEMES:END -->
 
 --- 
 
