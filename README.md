@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ayes have it: An overwhelming majority of you want this Android Auto feature](https://www.androidauthority.com/android-video-playback-survey-3629758/)
- - [Score 52% off the Samsung 55-inch Odyssey Ark curved gaming monitor](https://www.androidauthority.com/samsung-odyssey-ark-curved-gaming-monitor-deal-3629801/)
- - [The AI glasses you might actually wear: XGIMI MemoMind debuts at CES with a feather-light design](https://www.androidauthority.com/xgimi-memomind-ai-glasses-memo-one-air-display-3629774/)<!-- TECH:END -->
+ - [Meta hits pause on Ray-Ban Display expansion plans](https://www.theverge.com/news/856216/meta-ray-ban-display-smart-glasses-international-expansion-paused)
+ - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)
+ - [Meta and Garmin show an early demo of using Meta&#39;s wrist-based neural band inside of a car to control an infotainment system, as part of Garmin&#39;s Unified Cabin &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/260106/p13#a260106p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
