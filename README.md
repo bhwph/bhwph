@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Braille Label Printer Helps Blind Friends and Family Grab the Right Pill Bottle](https://www.cnet.com/tech/this-braille-label-printer-helps-blind-friends-and-family-grab-the-right-pill-bottle/#ftag=CAD590a51e)
- - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)
- - [Hisense Shrinks $30,000 Tech into Smaller TVs for 2026](https://www.cnet.com/tech/home-entertainment/hisense-shrinks-30000-tech-into-smaller-tvs-for-2026/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Nvidia&#39;s Level 2 driving system, set to roll out to more carmakers in 2026, after a ~40-minute drive around San Francisco in a Mercedes-Benz CLA sedan &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260105/p34#a260105p34)
+ - [X faces fresh probes in Europe, India, and Malaysia after Grok generated explicit images of women and children; the UK says it has requested related info from X &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260105/p33#a260105p33)
+ - [Rokid’s new smart glasses might be the best Ray-Ban Meta alternative &lpar;for now&rpar;](https://www.androidauthority.com/rokid-ai-glasses-style-3628246/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
