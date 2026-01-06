@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Before and after](http://9gag.com/gag/aAy7N2p)
- - 😝 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
+ - 6️⃣ [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
+ - 😝 [Safe mode activated](http://9gag.com/gag/apRXjwW)
  - 👉 [Bad ride](http://9gag.com/gag/ayNAZjq)<!-- MEMES:END -->
 
 --- 
