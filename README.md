@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Audeze slams out the new planar magnetic Maxwell 2 headset with 16 improvements over the original and still-brilliant design](https://www.pcgamer.com/hardware/gaming-headsets/audeze-slams-out-the-new-planar-magnetic-maxwell-2-headset-with-16-improvements-over-the-original-and-still-brilliant-design/)
- - [Final Fantasy 14&#39;s NA servers continue to struggle with DDoS attacks, likely due to a service provider&#39;s wonky nodes](https://www.pcgamer.com/games/mmo/final-fantasy-14s-na-servers-continue-to-struggle-with-ddos-attacks-likely-due-to-a-service-providers-wonky-nodes/)
- - [Just when you think there&#39;s no room for shooters to innovate, here&#39;s one where your health is literally your framerate](https://www.pcgamer.com/games/fps/just-when-you-think-theres-no-room-for-shooters-to-innovate-heres-one-where-your-health-is-literally-your-framerate/)<!-- GAME:END -->
+ - [January Kicks Off 2026 With Some Big Free Games](https://kotaku.com/epic-store-free-games-jan-2026-amazon-prime-2000657707)
+ - [These $200 audiophile earbuds mix planar and dynamic drivers and they look like they might actually be decent for gaming](https://www.pcgamer.com/hardware/earbuds-headphones/these-usd200-audiophile-earbuds-mix-planar-and-dynamic-drivers-and-they-look-like-they-might-actually-be-decent-for-gaming/)
+ - [Google Pixel Watch 4 Gets a Bigger Discount Than the Apple Watch, LTE Model Is Nearly as Cheap as the Wi-Fi Version](https://kotaku.com/google-pixel-watch-4-gets-a-bigger-discount-than-the-apple-watch-lte-model-is-nearly-as-cheap-as-the-wi-fi-version-2000657678)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
