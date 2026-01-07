@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future iPhones may utilize multi-spectral cameras for Apple Intelligence](https://appleinsider.com/articles/26/01/07/future-iphones-may-utilize-multi-spectral-cameras-for-apple-intelligence?utm_source=rss)
- - [London-based data center company GTR raised $1.5B from KKR and ~$400M from Oak Hill to develop its facilities in England, Barcelona, Zurich, and Tel Aviv &lpar;Financial Times&rpar;](http://www.techmeme.com/260107/p19#a260107p19)
- - [Intel spinout and enterprise AI company Articul8 raised over half of a $70M Series B at a $500M pre-money valuation and expects the round to close in Q1 2026 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260107/p18#a260107p18)<!-- TECH:END -->
+ - [Beatbot’s AquaSense X shows how far robotic pool care has come at CES 2026](https://www.androidauthority.com/beatbot-aquasense-x-sora-70-3628299/)
+ - [You can finally grab Oura’s long-teased charging case](https://www.androidauthority.com/oura-ring-charging-case-launch-3630393/)
+ - [Ikea is expanding its Matter support to two stylish lamps](https://www.theverge.com/tech/853143/ikea-smart-home-matter-varmblixt-donut-color-changing-pendant-lamp)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
