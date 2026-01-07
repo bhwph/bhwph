@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Say when](http://9gag.com/gag/aqyOO1R)
- - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
+ - 6️⃣ [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
+ - 😝 [Say when](http://9gag.com/gag/aqyOO1R)
  - 👉 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)<!-- MEMES:END -->
 
 --- 
