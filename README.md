@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lenovo&#39;s Las Vegas Sphere event delivered an absolute barrage of AI announcements, but at least we got this, err, FIFA-themed Legion gaming laptop](https://www.pcgamer.com/hardware/gaming-laptops/lenovos-las-vegas-sphere-event-delivered-an-absolute-barrage-of-ai-announcements-but-at-least-we-got-this-err-fifa-themed-legion-gaming-laptop/)
- - [Fallout Season 2 Episode 4 recap: &#39;More matching jackets&#39;](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-4-recap-more-matching-jackets/)
- - [I&#39;ve seen Nvidia&#39;s G-Sync Pulsar in action and it&#39;s kinda ruined all other gaming monitors for me](https://www.pcgamer.com/hardware/gaming-monitors/ive-seen-nvidias-g-sync-pulsar-in-action-and-its-kinda-ruined-all-other-gaming-monitors-for-me/)<!-- GAME:END -->
+ - [Audeze slams out the new planar magnetic Maxwell 2 headset with 16 improvements over the original and still-brilliant design](https://www.pcgamer.com/hardware/gaming-headsets/audeze-slams-out-the-new-planar-magnetic-maxwell-2-headset-with-16-improvements-over-the-original-and-still-brilliant-design/)
+ - [Final Fantasy 14&#39;s NA servers continue to struggle with DDoS attacks, likely due to a service provider&#39;s wonky nodes](https://www.pcgamer.com/games/mmo/final-fantasy-14s-na-servers-continue-to-struggle-with-ddos-attacks-likely-due-to-a-service-providers-wonky-nodes/)
+ - [Just when you think there&#39;s no room for shooters to innovate, here&#39;s one where your health is literally your framerate](https://www.pcgamer.com/games/fps/just-when-you-think-theres-no-room-for-shooters-to-innovate-heres-one-where-your-health-is-literally-your-framerate/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
