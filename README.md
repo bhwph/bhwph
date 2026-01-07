@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The only reason I miss summer is](http://9gag.com/gag/a2vVAQw)
- - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
- - 👉 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)<!-- MEMES:END -->
+ - 6️⃣ [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
+ - 😝 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)
+ - 👉 [Tongue tricks](http://9gag.com/gag/aO8OAXE)<!-- MEMES:END -->
 
 --- 
 
