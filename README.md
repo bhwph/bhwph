@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Duolingo alternative changed the way I learn languages](https://www.androidauthority.com/duolingo-speak-langugage-learning-3627905/)
- - [GWI: LinkedIn&#39;s 2025 revenue rose to $17B from $7B in 2020 as users doubled to 1.3B; 4.7% of US users checked more than once per day in 2025, from 3.9% in 2020 &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p9#a260107p9)
- - [YouTube’s long unskippable ads may have finally met their match](https://www.androidauthority.com/youtube-unskippable-ads-rules-vietnam-3630307/)<!-- TECH:END -->
+ - [Future iPhones may utilize multi-spectral cameras for Apple Intelligence](https://appleinsider.com/articles/26/01/07/future-iphones-may-utilize-multi-spectral-cameras-for-apple-intelligence?utm_source=rss)
+ - [London-based data center company GTR raised $1.5B from KKR and ~$400M from Oak Hill to develop its facilities in England, Barcelona, Zurich, and Tel Aviv &lpar;Financial Times&rpar;](http://www.techmeme.com/260107/p19#a260107p19)
+ - [Intel spinout and enterprise AI company Articul8 raised over half of a $70M Series B at a $500M pre-money valuation and expects the round to close in Q1 2026 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260107/p18#a260107p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
