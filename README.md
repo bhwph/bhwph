@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It Took Dell To Say What Everyone Else Is Thinking About AI](https://kotaku.com/dell-ces-ai-hardware-llm-gpu-2000657729)
- - [Nvidia&#39;s CEO says bringing new AI tech to older generation GPUs is &#39;within the realm of possibility&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/)
- - [Fans think Amazon&#39;s teasing a New Vegas or Fallout 3 remaster](https://www.polygon.com/fallout-new-vegas-remaster-3-amazon-s2-show-bethesda-announcement/)<!-- GAME:END -->
+ - [Enjoy Discord While You Can](https://kotaku.com/gta-6-discord-union-rockstar-leaks-2000657761)
+ - [Pathologic 3 is one of 2026&#39;s most ambitious reboots](https://www.polygon.com/pathologic-3-is-the-best-in-the-series/)
+ - [Wolfenstein 3 Is In The Works From Indiana Jones And The New Colossus Developers MachineGames](https://kotaku.com/wolfenstein-3-in-development-machinegames-bethesda-2000657758)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
