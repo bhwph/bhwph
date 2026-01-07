@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beatbot’s AquaSense X shows how far robotic pool care has come at CES 2026](https://www.androidauthority.com/beatbot-aquasense-x-sora-70-3628299/)
- - [You can finally grab Oura’s long-teased charging case](https://www.androidauthority.com/oura-ring-charging-case-launch-3630393/)
- - [Ikea is expanding its Matter support to two stylish lamps](https://www.theverge.com/tech/853143/ikea-smart-home-matter-varmblixt-donut-color-changing-pendant-lamp)<!-- TECH:END -->
+ - [Google Messages’ new one-handed-friendly menu begins rollout](https://www.androidauthority.com/google-messages-context-menu-3630538/)
+ - [New Records Reveal the Mess RFK Jr. Left When He Dumped a Dead Bear in Central Park](https://www.wired.com/story/rfk-jr-dead-bear-cub-central-park-photo/)
+ - [The Ancient Art of Nasal Rinsing Might Protect You From a Cold](https://www.wired.com/story/cold-nose-washing-nasal-saline-rinse/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
