@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Enjoy Discord While You Can](https://kotaku.com/gta-6-discord-union-rockstar-leaks-2000657761)
- - [Pathologic 3 is one of 2026&#39;s most ambitious reboots](https://www.polygon.com/pathologic-3-is-the-best-in-the-series/)
- - [Wolfenstein 3 Is In The Works From Indiana Jones And The New Colossus Developers MachineGames](https://kotaku.com/wolfenstein-3-in-development-machinegames-bethesda-2000657758)<!-- GAME:END -->
+ - [I Finally Understand Why People Don’t Finish Games They Love](https://kotaku.com/pokemon-legends-za-mega-dimension-how-long-to-beat-2000657800)
+ - [Forgotten Realms creator Ed Greenwood on RealmsBound’s new approach to D&amp;D](https://www.polygon.com/dnd-realmsbound-forgotten-realms-2026/)
+ - [South Park&#39;s Fortnite crossover is full of deep cuts &lpar;and mech suits&rpar;](https://www.polygon.com/fortnite-south-park-event-skins-sidekicks-trailer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
