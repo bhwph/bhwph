@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 15T spec leak reveals a gigantic battery for a compact phone](https://www.androidauthority.com/oneplus-15t-specs-leak-battery-3630254/)
- - [Samsung warns your next phone and laptop will cost more](https://www.androidauthority.com/samsung-warns-rising-cost-amid-memory-chip-shortage-3630289/)
- - [Google releases January Android Security Bulletin, but Pixel users are still waiting for bug fixes](https://www.androidauthority.com/android-security-bulletin-but-no-pixel-update-3630279/)<!-- TECH:END -->
+ - [This Duolingo alternative changed the way I learn languages](https://www.androidauthority.com/duolingo-speak-langugage-learning-3627905/)
+ - [GWI: LinkedIn&#39;s 2025 revenue rose to $17B from $7B in 2020 as users doubled to 1.3B; 4.7% of US users checked more than once per day in 2025, from 3.9% in 2020 &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p9#a260107p9)
+ - [YouTube’s long unskippable ads may have finally met their match](https://www.androidauthority.com/youtube-unskippable-ads-rules-vietnam-3630307/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
