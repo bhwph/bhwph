@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Larry Page moved assets out of California ahead of the proposed CA wealth tax, meeting an end-of-2025 deadline; a source said he has left the state &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/260106/p43#a260106p43)
- - [Motorola unveils the Razr Fold, its first book-style foldable phone, with a 6.6&quot; front display and an 8.1&quot; 2K LTPO inner screen, expected to launch this summer &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260106/p42#a260106p42)
- - [How folder emoji &amp; customization works in macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-folder-emoji-customization-works-in-macos-tahoe?utm_source=rss)<!-- TECH:END -->
+ - [60% Off Groupon Promo Code | January 2026](https://www.wired.com/story/groupon-promo-code/)
+ - [Dutch fintech Bunq applies to become a US bank; the OCC conditionally approved national trust bank charters for several crypto firms in 2025, including Circle &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/260107/p3#a260107p3)
+ - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
