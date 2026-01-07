@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [January Kicks Off 2026 With Some Big Free Games](https://kotaku.com/epic-store-free-games-jan-2026-amazon-prime-2000657707)
- - [These $200 audiophile earbuds mix planar and dynamic drivers and they look like they might actually be decent for gaming](https://www.pcgamer.com/hardware/earbuds-headphones/these-usd200-audiophile-earbuds-mix-planar-and-dynamic-drivers-and-they-look-like-they-might-actually-be-decent-for-gaming/)
- - [Google Pixel Watch 4 Gets a Bigger Discount Than the Apple Watch, LTE Model Is Nearly as Cheap as the Wi-Fi Version](https://kotaku.com/google-pixel-watch-4-gets-a-bigger-discount-than-the-apple-watch-lte-model-is-nearly-as-cheap-as-the-wi-fi-version-2000657678)<!-- GAME:END -->
+ - [It Took Dell To Say What Everyone Else Is Thinking About AI](https://kotaku.com/dell-ces-ai-hardware-llm-gpu-2000657729)
+ - [Nvidia&#39;s CEO says bringing new AI tech to older generation GPUs is &#39;within the realm of possibility&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/)
+ - [Fans think Amazon&#39;s teasing a New Vegas or Fallout 3 remaster](https://www.polygon.com/fallout-new-vegas-remaster-3-amazon-s2-show-bethesda-announcement/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
