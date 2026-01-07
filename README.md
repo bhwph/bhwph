@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In the first successful US prosecution of a spyware operator in 10+ years, pcTattletale founder pleads guilty to promoting surveillance apps for unlawful uses &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/260106/p36#a260106p36)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Influencer content is fuel for an internet-obsessed administration](https://www.theverge.com/tech/856948/nick-shirley-minnesota-daycare-fraud-influencer-media-cycle)<!-- TECH:END -->
+ - [CES 2026 Live: All the New AI Devices, Home Tech, Robots, Audio, Cars and Computing](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
+ - [How the huge data center buildout is heating up local politics in US towns across red and blue states on issues like water, electricity, and noise &lpar;Evan Halper/Washington Post&rpar;](http://www.techmeme.com/260106/p39#a260106p39)
+ - [Petkit&#39;s Automatic Wet Pet Food Dispenser Is Unlike Anything Else I&#39;ve Seen at CES](https://www.cnet.com/home/kitchen-and-household/ces-2026-petkit-trio-of-new-ai-integrated-pet-tech/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
