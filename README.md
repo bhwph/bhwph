@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages’ new one-handed-friendly menu begins rollout](https://www.androidauthority.com/google-messages-context-menu-3630538/)
- - [New Records Reveal the Mess RFK Jr. Left When He Dumped a Dead Bear in Central Park](https://www.wired.com/story/rfk-jr-dead-bear-cub-central-park-photo/)
- - [The Ancient Art of Nasal Rinsing Might Protect You From a Cold](https://www.wired.com/story/cold-nose-washing-nasal-saline-rinse/)<!-- TECH:END -->
+ - [Fujifilm’s new instant camera captures video with vintage effects](https://www.theverge.com/tech/857798/fujifilm-instax-mini-evo-cinema-printer-instant-camera-video-effects)
+ - [Some of our favorite 4K UHD Blu-rays are three for $33 at Amazon right now](https://www.theverge.com/gadgets/857061/amazon-4k-uhd-blu-ray-promo-genki-moonbase-charger-deal-sale)
+ - [Sources: Anthropic plans to raise $10B led by Singapore&#39;s GIC and Coatue Management at a $350B valuation before the new investment, up from $183B in September &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p31#a260107p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
