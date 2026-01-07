@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
- - 😝 [The only reason I miss summer is](http://9gag.com/gag/a2vVAQw)
- - 👉 [Is this p*rn or just the most polite arrest ever?](http://9gag.com/gag/aoy6o8n)<!-- MEMES:END -->
+ - 6️⃣ [Say when](http://9gag.com/gag/aqyOO1R)
+ - 😝 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
+ - 👉 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)<!-- MEMES:END -->
 
 --- 
 
