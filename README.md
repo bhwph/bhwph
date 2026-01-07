@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Election Deniers Think the Venezuela Attack Is All About 2020](https://www.wired.com/story/election-deniers-think-venezuela-attack-about-2020-election/)
- - [Apple loses Safari designer Marco Triverio to The Browser Company](https://appleinsider.com/articles/26/01/07/apple-loses-safari-designer-marco-triverio-to-the-browser-company?utm_source=rss)
- - [Facer introduces Face Chime and other new features, expansion to RTOS watches](https://www.androidauthority.com/facer-introduces-face-chime-and-other-new-features-expansion-to-rtos-watches-3630677/)<!-- TECH:END -->
+ - [Save up to $400 on iPad Pros with today&#39;s top deals](https://appleinsider.com/articles/26/01/07/save-up-to-400-on-ipad-pros-with-todays-top-deals?utm_source=rss)
+ - [WhatsApp rolls out new group chat features: member tags that show user roles, text stickers generated from any word, and custom event reminders &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260107/p37#a260107p37)
+ - [Be wary of the connection between ChatGPT and Apple Health](https://appleinsider.com/articles/25/12/02/be-wary-of-the-rumored-connection-between-chatgpt-and-apple-health?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
