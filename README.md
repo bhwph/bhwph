@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CES 2026 Live: All the New AI Devices, Home Tech, Robots, Audio, Cars and Computing](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [How the huge data center buildout is heating up local politics in US towns across red and blue states on issues like water, electricity, and noise &lpar;Evan Halper/Washington Post&rpar;](http://www.techmeme.com/260106/p39#a260106p39)
- - [Petkit&#39;s Automatic Wet Pet Food Dispenser Is Unlike Anything Else I&#39;ve Seen at CES](https://www.cnet.com/home/kitchen-and-household/ces-2026-petkit-trio-of-new-ai-integrated-pet-tech/)<!-- TECH:END -->
+ - [Intel is planning a custom Panther Lake CPU for handheld PCs](https://www.theverge.com/tech/857252/intel-handheld-gaming-pc-panther-lake-custom-cpu)
+ - [Lenovo is building an AI assistant that ‘can act on your behalf’](https://www.theverge.com/column/857053/lenovo-ai-assistant-qira)
+ - [Lenovo introduces Qira, a system-level, cross-device AI assistant for both its computers and Motorola smartphones, arriving later this quarter &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/260106/p41#a260106p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
