@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fujifilm’s new instant camera captures video with vintage effects](https://www.theverge.com/tech/857798/fujifilm-instax-mini-evo-cinema-printer-instant-camera-video-effects)
- - [Some of our favorite 4K UHD Blu-rays are three for $33 at Amazon right now](https://www.theverge.com/gadgets/857061/amazon-4k-uhd-blu-ray-promo-genki-moonbase-charger-deal-sale)
- - [Sources: Anthropic plans to raise $10B led by Singapore&#39;s GIC and Coatue Management at a $350B valuation before the new investment, up from $183B in September &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p31#a260107p31)<!-- TECH:END -->
+ - [Election Deniers Think the Venezuela Attack Is All About 2020](https://www.wired.com/story/election-deniers-think-venezuela-attack-about-2020-election/)
+ - [Apple loses Safari designer Marco Triverio to The Browser Company](https://appleinsider.com/articles/26/01/07/apple-loses-safari-designer-marco-triverio-to-the-browser-company?utm_source=rss)
+ - [Facer introduces Face Chime and other new features, expansion to RTOS watches](https://www.androidauthority.com/facer-introduces-face-chime-and-other-new-features-expansion-to-rtos-watches-3630677/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
