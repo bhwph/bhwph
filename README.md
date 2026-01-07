@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
- - 😝 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
- - 👉 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)<!-- MEMES:END -->
+ - 6️⃣ [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
+ - 😝 [The only reason I miss summer is](http://9gag.com/gag/a2vVAQw)
+ - 👉 [Tongue tricks](http://9gag.com/gag/aO8OAXE)<!-- MEMES:END -->
 
 --- 
 
