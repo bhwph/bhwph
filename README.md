@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I Finally Understand Why People Don’t Finish Games They Love](https://kotaku.com/pokemon-legends-za-mega-dimension-how-long-to-beat-2000657800)
- - [Forgotten Realms creator Ed Greenwood on RealmsBound’s new approach to D&amp;D](https://www.polygon.com/dnd-realmsbound-forgotten-realms-2026/)
- - [South Park&#39;s Fortnite crossover is full of deep cuts &lpar;and mech suits&rpar;](https://www.polygon.com/fortnite-south-park-event-skins-sidekicks-trailer/)<!-- GAME:END -->
+ - [PS5 Hyperpop covers and DualSense add a blast of neon to your console](https://www.polygon.com/ps5-new-dualsense-colors-covers-hyperpop-price-preorder/)
+ - [New Backrooms FPS Is Fast, Trippy, And Also You Only Have Five Minutes So Hurry Up!](https://kotaku.com/backrooms-liminal-space-fps-boomer-shooter-oddcore-is-it-good-2000657813)
+ - [Legally Blind 95-Year-Old Grandma Has Better Aim Than All Of Your Battlefield Teammates](https://kotaku.com/zachsmaxed-fps-player-gaming-aimlabs-grandma-2000657812)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
