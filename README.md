@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dell Mini PC Quietly Drops to 75% Off on Amazon, Emerging as a Budget Alternative to the Mac Mini](https://kotaku.com/dell-mini-pc-quietly-drops-to-75-off-on-amazon-emerging-as-a-budget-alternative-to-the-mac-mini-2000657847)
- - [How to get Helium in StarRupture](https://www.pcgamer.com/games/survival-crafting/star-rupture-helium-location/)
- - [Where to find the Stabilizer blueprint in StarRupture](https://www.pcgamer.com/games/survival-crafting/star-rupture-stabilizer-blueprint-location/)<!-- GAME:END -->
+ - [AMD claims Intel&#39;s CES comparisons are &#39;not even a fair fight&#39;; Intel says AMD is &#39;selling ancient silicon&#39;—but they&#39;re both guilty of using confusing tactics](https://www.pcgamer.com/hardware/processors/amd-claims-intels-ces-comparisons-are-not-even-a-fair-fight-intel-says-amd-is-selling-ancient-silicon-but-theyre-both-guilty-of-using-confusing-tactics/)
+ - [Samsung estimates record-breaking $13 billion profits and says memory apocalypse tainted prices are &#39;inevitable&#39;](https://www.pcgamer.com/hardware/memory/samsung-estimates-record-breaking-usd13-billion-profits-and-says-memory-apocalypse-tainted-prices-are-inevitable/)
+ - [DJI Gimbal Stabilizers Go on Clearance as Osmo Mobile 7P With Built-In Extension Rod and Tripod Drops to Its All-Time Low](https://kotaku.com/dji-gimbal-stabilizers-go-on-clearance-as-osmo-mobile-7p-with-built-in-extension-rod-and-tripod-drops-to-its-all-time-low-2000658108)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
