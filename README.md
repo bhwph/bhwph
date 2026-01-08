@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 Hyperpop covers and DualSense add a blast of neon to your console](https://www.polygon.com/ps5-new-dualsense-colors-covers-hyperpop-price-preorder/)
- - [New Backrooms FPS Is Fast, Trippy, And Also You Only Have Five Minutes So Hurry Up!](https://kotaku.com/backrooms-liminal-space-fps-boomer-shooter-oddcore-is-it-good-2000657813)
- - [Legally Blind 95-Year-Old Grandma Has Better Aim Than All Of Your Battlefield Teammates](https://kotaku.com/zachsmaxed-fps-player-gaming-aimlabs-grandma-2000657812)<!-- GAME:END -->
+ - [Okay Asus, you&#39;ve intrigued me: The ROG Zephyrus Duo might finally convince me that dual screen laptops are a good idea](https://www.pcgamer.com/hardware/gaming-laptops/okay-asus-youve-intrigued-me-the-rog-zephyrus-duo-might-finally-convince-me-that-dual-screen-laptops-are-a-good-idea/)
+ - [Where to find the Stator blueprint in StarRupture](https://www.pcgamer.com/games/survival-crafting/where-to-find-the-stator-blueprint-in-starrupture/)
+ - [Europe&#39;s PEGI game rating website leaks a new Life is Strange game, and it sure sounds like Max and Chloe are getting back together](https://www.pcgamer.com/games/adventure/europes-pegi-game-rating-website-leaks-a-new-life-is-strange-game-and-it-sure-sounds-like-max-and-chloe-are-getting-back-together/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
