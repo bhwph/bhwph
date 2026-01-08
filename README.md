@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Missing Subnautica? Try A Game About Digging A Hole](https://www.polygon.com/a-game-about-digging-a-hole-subnautica/)
- - [Free on the Epic Games Store this week: Bloons TD 6](https://www.polygon.com/epic-games-store-free-games-pc-january-8-bloons-td-6/)
- - [Dwarf Fortress kicks off another year of bonkers patch notes with the saddest 6-word story ever told: &#39;Mothers no longer seek ghostly babies&#39;](https://www.pcgamer.com/games/sim/dwarf-fortress-kicks-off-another-year-of-bonkers-patch-notes-with-the-saddest-6-word-story-ever-told-mothers-no-longer-seek-ghostly-babies/)<!-- GAME:END -->
+ - [DICE Awards 2026 nominees announced, lead by Clair Obscur, Ghost of Yotei](https://www.polygon.com/dice-awards-2026-nominees-clair-obscur-ghost-of-yotei/)
+ - [Why A 2025 Prediction For More Witcher 3 DLC Keeps Gaining Momentum](https://kotaku.com/witcher-3-dlc-zerrikania-expansion-rumor-2000658222)
+ - [&#39;Cold Storage&#39; quest walkthrough in Arc Raiders](https://www.polygon.com/arc-raiders-cold-storage-quest-walkthrough/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
