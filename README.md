@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Office colleagues really know how to make a birthday memorable](http://9gag.com/gag/aAy757Z)
- - 😝 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
- - 👉 [Rabid fox](http://9gag.com/gag/a8799rY)<!-- MEMES:END -->
+ - 6️⃣ [Not AI. It&#39;s A series of photos put together. Camera man didn&#39;t survive this time. Full story in comments](http://9gag.com/gag/a9ye0Kj)
+ - 😝 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
+ - 👉 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)<!-- MEMES:END -->
 
 --- 
 
