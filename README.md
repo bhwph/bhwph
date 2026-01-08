@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung says Ballie, a robot announced six years ago but never released, is an &quot;active innovation platform&quot; within the company helping inform other products &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260108/p6#a260108p6)
- - [Sources: to hedge against Beijing approval risk, Nvidia is requiring Chinese customers to pay upfront for H200 chips, with no cancellations, refunds, or changes &lpar;Reuters&rpar;](http://www.techmeme.com/260108/p5#a260108p5)
- - [Surfshark Promo Codes: 87% Off | January 2026](https://www.wired.com/story/surfshark-coupon/)<!-- TECH:END -->
+ - [Bad with directions? Here’s how Google Maps on Android XR could help you never get lost again](https://www.androidauthority.com/google-maps-android-xr-navigation-gemini-3630887/)
+ - [Samsung concludes Galaxy Ring investigation after swelling sent user to hospital](https://www.androidauthority.com/samsung-galaxy-ring-investigation-verdict-3630897/)
+ - [Volvo touts EX60’s range and charging speed ahead of official debut](https://www.theverge.com/transportation/857933/volvo-ex60-range-charging-speed-megacasting-battery)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
