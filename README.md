@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI VP of research Jerry Tworek is leaving, sources say after OpenAI sided with Chief Scientist Jakub Pachocki in a dispute over its research direction &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260108/p40#a260108p40)
- - [Your Kindle is losing this feature thanks to Microsoft](https://www.androidauthority.com/microsoft-word-send-to-kindle-deprecated-3631134/)
- - [The coolest laptops we saw at CES 2026](https://www.theverge.com/tech/858897/ces-2026-best-laptops-asus-dell-acer-msi-hp-lenovo-concepts)<!-- TECH:END -->
+ - [Snowflake agrees to acquire Observe, an observability platform built on Snowflake databases; the deal was previously reported to be valued at around $1B &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/260108/p44#a260108p44)
+ - [The best earbuds we’ve tested for 2026](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [YouTube is giving its search filters a big shake-up](https://www.androidauthority.com/youtube-search-filter-update-3631125/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
