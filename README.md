@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bad with directions? Here’s how Google Maps on Android XR could help you never get lost again](https://www.androidauthority.com/google-maps-android-xr-navigation-gemini-3630887/)
- - [Samsung concludes Galaxy Ring investigation after swelling sent user to hospital](https://www.androidauthority.com/samsung-galaxy-ring-investigation-verdict-3630897/)
- - [Volvo touts EX60’s range and charging speed ahead of official debut](https://www.theverge.com/transportation/857933/volvo-ex60-range-charging-speed-megacasting-battery)<!-- TECH:END -->
+ - [A profile of VC firm Index Ventures, which saw billions in gains from exits in 2025, including Figma, Scale AI, and Dream Games, as it looks ahead to succession &lpar;Bloomberg&rpar;](http://www.techmeme.com/260108/p13#a260108p13)
+ - [I turned my Pixel 10 Pro into a 2026 BlackBerry and LG Wing — seriously](https://www.androidauthority.com/clicks-power-keyboard-hands-on-ces-2026-3630283/)
+ - [Is Craigslist the Last Real Place on the Internet?](https://www.wired.com/story/is-craigslist-the-last-real-place-on-the-internet/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
