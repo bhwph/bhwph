@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel says it&#39;s shipped &#39;slightly north&#39; of 100 million AI PCs, which equates to roughly four &#39;ZOPS&#39;, or &#39;Zetta OPS&#39; of AI processing power](https://www.pcgamer.com/hardware/processors/intel-says-its-shipped-slightly-north-of-100-million-ai-pcs-which-equates-to-roughly-four-zops-or-zetta-ops-of-ai-processing-power/)
- - [The Asus Micro-OLED AR gaming glasses might be the weirdest thing I&#39;ve ever tested at CES, and that&#39;s saying something](https://www.pcgamer.com/hardware/vr-hardware/the-asus-micro-oled-ar-gaming-glasses-might-be-the-weirdest-thing-ive-ever-tested-at-ces-and-thats-saying-something/)
- - [I did some quick and dirty testing of the Intel Arc B390 iGPU in Intel&#39;s new top-end Core Ultra chip and I&#39;m pretty impressed](https://www.pcgamer.com/hardware/processors/i-did-some-quick-and-dirty-testing-of-the-intel-arc-b390-igpu-in-intels-new-top-end-core-ultra-chips-and-im-pretty-impressed/)<!-- GAME:END -->
+ - [Embark CEO says Arc Raiders &#39;should do more with the trading part of the game&#39; and he&#39;s right](https://www.pcgamer.com/games/action/embark-ceo-says-arc-raiders-should-do-more-with-the-trading-part-of-the-game-and-hes-right/)
+ - [Embark CEO says &#39;it would be fun&#39; to have an Arc Raiders TV show or movie after receiving multiple offers, but it&#39;s not in the cards right now](https://www.pcgamer.com/games/third-person-shooter/embark-ceo-says-it-would-be-fun-to-have-an-arc-raiders-tv-show-or-movie-after-receiving-multiple-offers-but-its-not-in-the-cards-right-now/)
+ - [Arc Raider&#39;s defining feature, according to Embark&#39;s CEO, is all the odd player interactions: &#39;We did not expect people to take on roles of Defender of the Swamp&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-defining-feature-according-to-embarks-ceo-is-all-the-odd-player-interactions-we-did-not-expect-people-to-take-on-roles-of-defender-of-the-swamp/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
