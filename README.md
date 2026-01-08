@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TV makers are taking AI too far](https://www.theverge.com/column/858463/tv-too-much-ai)
- - [Chinese AI startup MiniMax raises ~$619M in its Hong Kong IPO, at the top of its marketed range; sources: its institutional offering was oversubscribed by 70x+ &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/260108/p29#a260108p29)
- - [The technology that finally gave robot lawn mowers their autonomy](https://www.androidauthority.com/mova-lidax-ultra-series-3629916/)<!-- TECH:END -->
+ - [Yes, John Ternus is back in the Apple CEO rumor cycle](https://appleinsider.com/articles/26/01/08/yes-john-ternus-is-back-in-the-apple-ceo-rumor-cycle?utm_source=rss)
+ - [Most dubious uses of AI at CES 2026](https://www.theverge.com/tech/858315/most-dubious-ai-tech-ces-2026)
+ - [The MAGA-approved video of an ICE killing](https://www.theverge.com/tech/858710/minneapolis-ice-shooting-trump-video-footage-social-media)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
