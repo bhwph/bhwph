@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
- - 😝 [Movement is still there](http://9gag.com/gag/a9ye0jD)
- - 👉 [This internet is a fun place](http://9gag.com/gag/abAowLL)<!-- MEMES:END -->
+ - 6️⃣ [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
+ - 😝 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
+ - 👉 [Demolish the pillar](http://9gag.com/gag/aD2LLBw)<!-- MEMES:END -->
 
 --- 
 
