@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All White Nevron locations in Clair Obscur Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-white-nevron-locations-kill-spare/)
- - [For Wolfenstein 3 To Be Good, It Needs To Punch Nazis Even Harder](https://kotaku.com/wolfenstein-3-sequel-nazis-trump-ice-machinegames-2000658228)
- - [After 8 years playing D&amp;D, I tried its old-school alternative](https://www.polygon.com/dnd-alternative-dungeon-crawl-classics/)<!-- GAME:END -->
+ - [How to get mushrooms in Schedule 1](https://www.pcgamer.com/games/sim/schedule-1-how-to-get-shrooms/)
+ - [Witcher 3 DLC rumors pick up strength as IGN Poland says it knew about all of this years ago](https://www.pcgamer.com/games/rpg/witcher-3-dlc-rumors-pick-up-strength-as-ign-poland-says-it-knew-about-all-of-this-years-ago/)
+ - [Nintendo Faces Fresh Labor Complaints Three Years After Union-Busting Settlement](https://kotaku.com/nintendo-union-complaint-switch-2-2000658263)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
