@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of VC firm Index Ventures, which saw billions in gains from exits in 2025, including Figma, Scale AI, and Dream Games, as it looks ahead to succession &lpar;Bloomberg&rpar;](http://www.techmeme.com/260108/p13#a260108p13)
- - [I turned my Pixel 10 Pro into a 2026 BlackBerry and LG Wing — seriously](https://www.androidauthority.com/clicks-power-keyboard-hands-on-ces-2026-3630283/)
- - [Is Craigslist the Last Real Place on the Internet?](https://www.wired.com/story/is-craigslist-the-last-real-place-on-the-internet/)<!-- TECH:END -->
+ - [Apple corrals 12 nominations for 32nd Actor Awards, led by &#39;The Studio&#39;](https://appleinsider.com/articles/26/01/08/apple-corrals-12-nominations-for-32nd-actor-awards-led-by-the-studio?utm_source=rss)
+ - [Israeli data security startup Cyera raised a $400M Series F led by Blackstone Growth at a $9B valuation, up from $6B after raising $540M in June 2025 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/260108/p20#a260108p20)
+ - [10 of the coolest tech products we saw at CES 2026](https://www.androidauthority.com/best-tech-products-ces-2026-3629913/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
