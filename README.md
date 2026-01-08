@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $400 on iPad Pros with today&#39;s top deals](https://appleinsider.com/articles/26/01/07/save-up-to-400-on-ipad-pros-with-todays-top-deals?utm_source=rss)
- - [WhatsApp rolls out new group chat features: member tags that show user roles, text stickers generated from any word, and custom event reminders &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260107/p37#a260107p37)
- - [Be wary of the connection between ChatGPT and Apple Health](https://appleinsider.com/articles/25/12/02/be-wary-of-the-rumored-connection-between-chatgpt-and-apple-health?utm_source=rss)<!-- TECH:END -->
+ - [AirVersa AP2 Air Purifier review: Compact Apple Home air purifier with Thread](https://appleinsider.com/articles/26/01/08/airversa-ap2-air-purifier-review-compact-apple-home-air-purifier-with-thread?utm_source=rss)
+ - [Disney Plus is getting vertical video](https://www.theverge.com/tech/858277/disney-plus-vertical-video)
+ - [Ford plans to launch an AI voice assistant on its apps this year before expanding to its vehicles in 2027, and aims to debut Level 3 autonomous driving in 2028 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260107/p42#a260107p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
