@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me with my produce every single time](http://9gag.com/gag/aW4Aedd)
- - 😝 [Say when](http://9gag.com/gag/aqyOO1R)
- - 👉 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)<!-- MEMES:END -->
+ - 6️⃣ [What happened?](http://9gag.com/gag/a7oBmgb)
+ - 😝 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
+ - 👉 [Say when](http://9gag.com/gag/aqyOO1R)<!-- MEMES:END -->
 
 --- 
 
