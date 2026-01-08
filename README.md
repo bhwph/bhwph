@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Based](http://9gag.com/gag/avyVqzM)
- - 😝 [Can someone explain why Stevie Wonder wears a watch?](http://9gag.com/gag/a5QAAXq)
- - 👉 [Dances with smurfs](http://9gag.com/gag/aD2LLN7)<!-- MEMES:END -->
+ - 6️⃣ [Say when](http://9gag.com/gag/aqyOO1R)
+ - 😝 [Is that the consequence of his own actions ?](http://9gag.com/gag/aZZKKzn)
+ - 👉 [Family group activity!](http://9gag.com/gag/aD2L9Xd)<!-- MEMES:END -->
 
 --- 
 
