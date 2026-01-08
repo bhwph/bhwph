@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Illicit crypto addresses received a record $154B in 2025, up 162% YoY, driven by sanctions evasion; Russia&#39;s A7A5 token transacted $93.3B+ in less than one year &lpar;Chainalysis&rpar;](http://www.techmeme.com/260108/p25#a260108p25)
- - [Xbox’s Developer Direct returns on January 22nd with Fable and Forza Horizon 6 gameplay](https://www.theverge.com/news/858471/xbox-developer-direct-forza-horizon-6-fable-beast-of-reincarnation-stream)
- - [The best TVs of CES 2026](https://www.theverge.com/tech/858366/the-best-tvs-of-ces-2026)<!-- TECH:END -->
+ - [TV makers are taking AI too far](https://www.theverge.com/column/858463/tv-too-much-ai)
+ - [Chinese AI startup MiniMax raises ~$619M in its Hong Kong IPO, at the top of its marketed range; sources: its institutional offering was oversubscribed by 70x+ &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/260108/p29#a260108p29)
+ - [The technology that finally gave robot lawn mowers their autonomy](https://www.androidauthority.com/mova-lidax-ultra-series-3629916/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
