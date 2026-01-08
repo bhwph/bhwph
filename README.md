@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What happened?](http://9gag.com/gag/a7oBmgb)
- - 😝 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
- - 👉 [Say when](http://9gag.com/gag/aqyOO1R)<!-- MEMES:END -->
+ - 6️⃣ [Can someone explain why Stevie Wonder wears a watch?](http://9gag.com/gag/a5QAAXq)
+ - 😝 [Say when](http://9gag.com/gag/aqyOO1R)
+ - 👉 [Family group activity!](http://9gag.com/gag/aD2L9Xd)<!-- MEMES:END -->
 
 --- 
 
