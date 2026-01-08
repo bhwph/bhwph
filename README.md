@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chair of Austria&#39;s NATO Enlargement Committee:](http://9gag.com/gag/aAy7AE9)
- - 😝 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
- - 👉 [Say when](http://9gag.com/gag/aqyOO1R)<!-- MEMES:END -->
+ - 6️⃣ [Me with my produce every single time](http://9gag.com/gag/aW4Aedd)
+ - 😝 [Say when](http://9gag.com/gag/aqyOO1R)
+ - 👉 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)<!-- MEMES:END -->
 
 --- 
 
