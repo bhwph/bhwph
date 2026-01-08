@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is quietly making the Pixel Launcher faster with a new shortcut](https://www.androidauthority.com/pixel-launcher-app-opening-shortcut-rollout-3630852/)
- - [How to turn emails, webpages &amp; notes into Reminders with Apple Intelligence](https://appleinsider.com/articles/26/01/08/how-to-turn-emails-webpages-notes-into-reminders-with-apple-intelligence?utm_source=rss)
- - [Sources: OpenAI last fall set aside RSUs worth 10% of the company, which was valued in October at $500B; it has already awarded about $80B in vested equity &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260107/p44#a260107p44)<!-- TECH:END -->
+ - [Samsung says Ballie, a robot announced six years ago but never released, is an &quot;active innovation platform&quot; within the company helping inform other products &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260108/p6#a260108p6)
+ - [Sources: to hedge against Beijing approval risk, Nvidia is requiring Chinese customers to pay upfront for H200 chips, with no cancellations, refunds, or changes &lpar;Reuters&rpar;](http://www.techmeme.com/260108/p5#a260108p5)
+ - [Surfshark Promo Codes: 87% Off | January 2026](https://www.wired.com/story/surfshark-coupon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
