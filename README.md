@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD claims Intel&#39;s CES comparisons are &#39;not even a fair fight&#39;; Intel says AMD is &#39;selling ancient silicon&#39;—but they&#39;re both guilty of using confusing tactics](https://www.pcgamer.com/hardware/processors/amd-claims-intels-ces-comparisons-are-not-even-a-fair-fight-intel-says-amd-is-selling-ancient-silicon-but-theyre-both-guilty-of-using-confusing-tactics/)
- - [Samsung estimates record-breaking $13 billion profits and says memory apocalypse tainted prices are &#39;inevitable&#39;](https://www.pcgamer.com/hardware/memory/samsung-estimates-record-breaking-usd13-billion-profits-and-says-memory-apocalypse-tainted-prices-are-inevitable/)
- - [DJI Gimbal Stabilizers Go on Clearance as Osmo Mobile 7P With Built-In Extension Rod and Tripod Drops to Its All-Time Low](https://kotaku.com/dji-gimbal-stabilizers-go-on-clearance-as-osmo-mobile-7p-with-built-in-extension-rod-and-tripod-drops-to-its-all-time-low-2000658108)<!-- GAME:END -->
+ - [Missing Subnautica? Try A Game About Digging A Hole](https://www.polygon.com/a-game-about-digging-a-hole-subnautica/)
+ - [Free on the Epic Games Store this week: Bloons TD 6](https://www.polygon.com/epic-games-store-free-games-pc-january-8-bloons-td-6/)
+ - [Dwarf Fortress kicks off another year of bonkers patch notes with the saddest 6-word story ever told: &#39;Mothers no longer seek ghostly babies&#39;](https://www.pcgamer.com/games/sim/dwarf-fortress-kicks-off-another-year-of-bonkers-patch-notes-with-the-saddest-6-word-story-ever-told-mothers-no-longer-seek-ghostly-babies/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
