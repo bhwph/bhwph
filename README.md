@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yes, John Ternus is back in the Apple CEO rumor cycle](https://appleinsider.com/articles/26/01/08/yes-john-ternus-is-back-in-the-apple-ceo-rumor-cycle?utm_source=rss)
- - [Most dubious uses of AI at CES 2026](https://www.theverge.com/tech/858315/most-dubious-ai-tech-ces-2026)
- - [The MAGA-approved video of an ICE killing](https://www.theverge.com/tech/858710/minneapolis-ice-shooting-trump-video-footage-social-media)<!-- TECH:END -->
+ - [OpenAI VP of research Jerry Tworek is leaving, sources say after OpenAI sided with Chief Scientist Jakub Pachocki in a dispute over its research direction &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260108/p40#a260108p40)
+ - [Your Kindle is losing this feature thanks to Microsoft](https://www.androidauthority.com/microsoft-word-send-to-kindle-deprecated-3631134/)
+ - [The coolest laptops we saw at CES 2026](https://www.theverge.com/tech/858897/ces-2026-best-laptops-asus-dell-acer-msi-hp-lenovo-concepts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
