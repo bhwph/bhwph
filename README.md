@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
- - 😝 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
- - 👉 [Demolish the pillar](http://9gag.com/gag/aD2LLBw)<!-- MEMES:END -->
+ - 6️⃣ [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
+ - 😝 [Her name was Iryna Zarutska.](http://9gag.com/gag/aMV65d1)
+ - 👉 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)<!-- MEMES:END -->
 
 --- 
 
