@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple corrals 12 nominations for 32nd Actor Awards, led by &#39;The Studio&#39;](https://appleinsider.com/articles/26/01/08/apple-corrals-12-nominations-for-32nd-actor-awards-led-by-the-studio?utm_source=rss)
- - [Israeli data security startup Cyera raised a $400M Series F led by Blackstone Growth at a $9B valuation, up from $6B after raising $540M in June 2025 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/260108/p20#a260108p20)
- - [10 of the coolest tech products we saw at CES 2026](https://www.androidauthority.com/best-tech-products-ces-2026-3629913/)<!-- TECH:END -->
+ - [Illicit crypto addresses received a record $154B in 2025, up 162% YoY, driven by sanctions evasion; Russia&#39;s A7A5 token transacted $93.3B+ in less than one year &lpar;Chainalysis&rpar;](http://www.techmeme.com/260108/p25#a260108p25)
+ - [Xbox’s Developer Direct returns on January 22nd with Fable and Forza Horizon 6 gameplay](https://www.theverge.com/news/858471/xbox-developer-direct-forza-horizon-6-fable-beast-of-reincarnation-stream)
+ - [The best TVs of CES 2026](https://www.theverge.com/tech/858366/the-best-tvs-of-ces-2026)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
