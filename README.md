@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [DICE Awards 2026 nominees announced, lead by Clair Obscur, Ghost of Yotei](https://www.polygon.com/dice-awards-2026-nominees-clair-obscur-ghost-of-yotei/)
- - [Why A 2025 Prediction For More Witcher 3 DLC Keeps Gaining Momentum](https://kotaku.com/witcher-3-dlc-zerrikania-expansion-rumor-2000658222)
- - [&#39;Cold Storage&#39; quest walkthrough in Arc Raiders](https://www.polygon.com/arc-raiders-cold-storage-quest-walkthrough/)<!-- GAME:END -->
+ - [All White Nevron locations in Clair Obscur Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-white-nevron-locations-kill-spare/)
+ - [For Wolfenstein 3 To Be Good, It Needs To Punch Nazis Even Harder](https://kotaku.com/wolfenstein-3-sequel-nazis-trump-ice-machinegames-2000658228)
+ - [After 8 years playing D&amp;D, I tried its old-school alternative](https://www.polygon.com/dnd-alternative-dungeon-crawl-classics/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
