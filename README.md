@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Say when](http://9gag.com/gag/aqyOO1R)
- - 😝 [Is that the consequence of his own actions ?](http://9gag.com/gag/aZZKKzn)
- - 👉 [Family group activity!](http://9gag.com/gag/aD2L9Xd)<!-- MEMES:END -->
+ - 6️⃣ [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
+ - 😝 [Movement is still there](http://9gag.com/gag/a9ye0jD)
+ - 👉 [This internet is a fun place](http://9gag.com/gag/abAowLL)<!-- MEMES:END -->
 
 --- 
 
