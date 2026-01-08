@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Embark CEO says Arc Raiders &#39;should do more with the trading part of the game&#39; and he&#39;s right](https://www.pcgamer.com/games/action/embark-ceo-says-arc-raiders-should-do-more-with-the-trading-part-of-the-game-and-hes-right/)
- - [Embark CEO says &#39;it would be fun&#39; to have an Arc Raiders TV show or movie after receiving multiple offers, but it&#39;s not in the cards right now](https://www.pcgamer.com/games/third-person-shooter/embark-ceo-says-it-would-be-fun-to-have-an-arc-raiders-tv-show-or-movie-after-receiving-multiple-offers-but-its-not-in-the-cards-right-now/)
- - [Arc Raider&#39;s defining feature, according to Embark&#39;s CEO, is all the odd player interactions: &#39;We did not expect people to take on roles of Defender of the Swamp&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-defining-feature-according-to-embarks-ceo-is-all-the-odd-player-interactions-we-did-not-expect-people-to-take-on-roles-of-defender-of-the-swamp/)<!-- GAME:END -->
+ - [Dell Mini PC Quietly Drops to 75% Off on Amazon, Emerging as a Budget Alternative to the Mac Mini](https://kotaku.com/dell-mini-pc-quietly-drops-to-75-off-on-amazon-emerging-as-a-budget-alternative-to-the-mac-mini-2000657847)
+ - [How to get Helium in StarRupture](https://www.pcgamer.com/games/survival-crafting/star-rupture-helium-location/)
+ - [Where to find the Stabilizer blueprint in StarRupture](https://www.pcgamer.com/games/survival-crafting/star-rupture-stabilizer-blueprint-location/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
