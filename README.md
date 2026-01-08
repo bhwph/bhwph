@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Okay Asus, you&#39;ve intrigued me: The ROG Zephyrus Duo might finally convince me that dual screen laptops are a good idea](https://www.pcgamer.com/hardware/gaming-laptops/okay-asus-youve-intrigued-me-the-rog-zephyrus-duo-might-finally-convince-me-that-dual-screen-laptops-are-a-good-idea/)
- - [Where to find the Stator blueprint in StarRupture](https://www.pcgamer.com/games/survival-crafting/where-to-find-the-stator-blueprint-in-starrupture/)
- - [Europe&#39;s PEGI game rating website leaks a new Life is Strange game, and it sure sounds like Max and Chloe are getting back together](https://www.pcgamer.com/games/adventure/europes-pegi-game-rating-website-leaks-a-new-life-is-strange-game-and-it-sure-sounds-like-max-and-chloe-are-getting-back-together/)<!-- GAME:END -->
+ - [I did some quick and dirty testing of the Intel Arc B390 iGPU in Intel&#39;s new top-end Core Ultra chip and I&#39;m pretty impressed](https://www.pcgamer.com/hardware/processors/i-did-some-quick-and-dirty-testing-of-the-intel-arc-b390-igpu-in-intels-new-top-end-core-ultra-chips-and-im-pretty-impressed/)
+ - [The latest Magic: The Gathering trailer is a puppet musical fever dream by The Jim Henson Company](https://www.pcgamer.com/games/card-games/the-latest-magic-the-gathering-trailer-is-a-puppet-musical-fever-dream-by-the-jim-henson-company/)
+ - [&lpar;For Southeast Asia&rpar; Revealing the Hyperpop Collection with three new designs for PS5 accessories, launching this March](https://blog.playstation.com/2026/01/07/20260108-hyperpop/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
