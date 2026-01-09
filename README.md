@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve just found a new cutesy Balatro, but instead of a deck of cards you get to tend to a garden and harvest flowers](https://www.pcgamer.com/games/roguelike/ive-just-found-a-new-cutesy-balatro-but-instead-of-a-deck-of-cards-you-get-to-tend-to-a-garden-and-harvest-flowers/)
- - [LEGO Restocks the Star Wars Millennium Falcon at a Record Low for Another Clearance Run](https://kotaku.com/lego-restocks-the-star-wars-millennium-falcon-at-a-record-low-for-another-clearance-run-2000658280)
- - [All active Heartopia codes for free items](https://www.polygon.com/heartopia-codes-redeem-how-to/)<!-- GAME:END -->
+ - [After Baldur’s Gate 3, Larian Wants Companions To Stop Trying To Immediately Have Sex With You](https://kotaku.com/baldurs-gate-3-romance-sex-scenes-gale-halsin-approval-2000658473)
+ - [Samsung Galaxy Buds 3 FE &lpar;2025&rpar; Drops to All-Time Low With Its First Cut of the Year While AirPods Go Back to Near Full Price](https://kotaku.com/samsung-galaxy-buds-3-fe-2025-drops-to-all-time-low-with-its-first-cut-of-the-year-while-airpods-go-back-to-near-full-price-2000658286)
+ - [Divinity will officially wave goodbye to Original Sin 2&#39;s broken armour system](https://www.pcgamer.com/games/rpg/divinity-will-officially-wave-goodbye-to-original-sin-2s-broken-armour-system/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
