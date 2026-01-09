@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Vergecast Live at CES 2026: What is the point of a robot that falls over?](https://www.theverge.com/podcast/859370/ces-2026-best-tech-vergecast)
- - [Sources say DeepSeek will launch V4, its next-generation model, in the coming weeks and say it outperformed Anthropic&#39;s Claude and OpenAI&#39;s GPT series in coding &lpar;The Information&rpar;](http://www.techmeme.com/260109/p12#a260109p12)
- - [Kia’s EV2 is its smallest and most affordable EV for Europe](https://www.theverge.com/transportation/858912/kia-ev2-announce-specs-range-europe)<!-- TECH:END -->
+ - [Ray-Ban Meta smart glasses can now single out a voice in a nosy crowd](https://www.androidauthority.com/ray-ban-meta-conversation-focus-3631424/)
+ - [The UK&#39;s FCA grants Ripple approval for its Electronic Money Institution license and crypto asset registration, clearing the way for UK expansion &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/260109/p14#a260109p14)
+ - [Anker’s new AeroFit Pro 2 earbuds are already $30 off](https://www.theverge.com/gadgets/859486/anker-aerofit-pro-2-earbuds-donkey-kong-bananza-elgato-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
