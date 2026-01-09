@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
- - 😝 [Office colleagues really know how to make a birthday memorable](http://9gag.com/gag/aAy757Z)
- - 👉 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)<!-- MEMES:END -->
+ - 6️⃣ [Shut her down real quick](http://9gag.com/gag/amoy484)
+ - 😝 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
+ - 👉 [That camera man had one job](http://9gag.com/gag/ary0Q17)<!-- MEMES:END -->
 
 --- 
 
