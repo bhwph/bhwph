@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
+ - 6️⃣ [Best Boi](http://9gag.com/gag/awyDWKQ)
  - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 👉 [What a good boy](http://9gag.com/gag/ajPj4Qq)<!-- MEMES:END -->
+ - 👉 [What\u2019s your opinion about this?](http://9gag.com/gag/a7oBxxq)<!-- MEMES:END -->
 
 --- 
 
