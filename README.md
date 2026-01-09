@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a good boy](http://9gag.com/gag/ajPj4Qq)
- - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 👉 [Chad Clanker](http://9gag.com/gag/a5QAOPV)<!-- MEMES:END -->
+ - 6️⃣ [Chad Clanker](http://9gag.com/gag/a5QAOPV)
+ - 😝 [The legend](http://9gag.com/gag/ayNAb2r)
+ - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
 
 --- 
 
