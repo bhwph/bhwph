@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After Baldur’s Gate 3, Larian Wants Companions To Stop Trying To Immediately Have Sex With You](https://kotaku.com/baldurs-gate-3-romance-sex-scenes-gale-halsin-approval-2000658473)
- - [Samsung Galaxy Buds 3 FE &lpar;2025&rpar; Drops to All-Time Low With Its First Cut of the Year While AirPods Go Back to Near Full Price](https://kotaku.com/samsung-galaxy-buds-3-fe-2025-drops-to-all-time-low-with-its-first-cut-of-the-year-while-airpods-go-back-to-near-full-price-2000658286)
- - [Divinity will officially wave goodbye to Original Sin 2&#39;s broken armour system](https://www.pcgamer.com/games/rpg/divinity-will-officially-wave-goodbye-to-original-sin-2s-broken-armour-system/)<!-- GAME:END -->
+ - [GameStop&#39;s future in turmoil as estimated 400 stores close in 2026](https://www.polygon.com/gamestop-retail-store-closures-2026/)
+ - [Official PlayStation Podcast Episode 531: Dispatching The New Year](https://blog.playstation.com/2026/01/09/official-playstation-podcast-episode-531-dispatching-the-new-year/)
+ - [The best racing games coming in 2026](https://www.polygon.com/racing-games-preview-2026/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
