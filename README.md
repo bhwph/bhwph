@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese AI startup MiniMax jumped as much as 54% in its Hong Kong debut on Friday, after raising ~$619M in its IPO priced at ~$21.17 per share &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/260108/p51#a260108p51)
- - [How to bring back Launchpad on macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-bring-back-launchpad-on-macos-tahoe?utm_source=rss)
- - [Source: Lambda, which rents access to AI chips and is backed by Nvidia, is in talks to raise $350M+ led by Mubadala Capital, ahead of an IPO planned for H2 2026 &lpar;The Information&rpar;](http://www.techmeme.com/260108/p50#a260108p50)<!-- TECH:END -->
+ - [NZXT Discount Codes: 50% Off in January 2026](https://www.wired.com/story/nzxt-discount-code/)
+ - [Skullcandy Discount Codes and Deals: Up to 47% Off Top Products](https://www.wired.com/story/skullcandy-discount-code/)
+ - [Here’s how you’ll finally be able to set up your own Calling Card on Android](https://www.androidauthority.com/caling-cards-android-my-calling-card-setup-3631253/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
