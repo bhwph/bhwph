@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Only talking to you, technically](http://9gag.com/gag/an73oyn)
- - 😝 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
- - 👉 [Nature is beautiful...](http://9gag.com/gag/adBMzBM)<!-- MEMES:END -->
+ - 6️⃣ [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
+ - 😝 [Office colleagues really know how to make a birthday memorable](http://9gag.com/gag/aAy757Z)
+ - 👉 [Family group activity!](http://9gag.com/gag/aD2L9Xd)<!-- MEMES:END -->
 
 --- 
 
