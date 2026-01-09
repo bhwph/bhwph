@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GameStop&#39;s future in turmoil as estimated 400 stores close in 2026](https://www.polygon.com/gamestop-retail-store-closures-2026/)
- - [Official PlayStation Podcast Episode 531: Dispatching The New Year](https://blog.playstation.com/2026/01/09/official-playstation-podcast-episode-531-dispatching-the-new-year/)
- - [The best racing games coming in 2026](https://www.polygon.com/racing-games-preview-2026/)<!-- GAME:END -->
+ - [How to unlock more home plots in Heartopia](https://www.polygon.com/heartopia-home-plots-unlock-how-to/)
+ - [Minecraft&#39;s new baby mobs have turned the chicken into a celebrity](https://www.polygon.com/minecraft-new-baby-mobs-animals-chickens-how-to-find-tame/)
+ - [Flusher locations in Fortnite Chapter 7 Season 1](https://www.polygon.com/fortnite-flusher-port-a-potty-locations-chapter-7/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
