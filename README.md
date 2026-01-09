@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s chip partner TSMC revenue driven to new heights by iPhone &amp; AI](https://appleinsider.com/articles/26/01/09/apples-chip-partner-tsmc-revenue-driven-to-new-heights-by-iphone-ai?utm_source=rss)
- - [Conservative Lawmakers Want Porn Taxes. Critics Say They’re Unconstitutional](https://www.wired.com/story/conservative-lawmakers-want-porn-taxes-critics-say-theyre-unconstitutional/)
- - [The Verge Awards at CES 2026](https://www.theverge.com/tech/858494/ces-2026-best-new-tech-tv-car-wearable)<!-- TECH:END -->
+ - [The Vergecast Live at CES 2026: What is the point of a robot that falls over?](https://www.theverge.com/podcast/859370/ces-2026-best-tech-vergecast)
+ - [Sources say DeepSeek will launch V4, its next-generation model, in the coming weeks and say it outperformed Anthropic&#39;s Claude and OpenAI&#39;s GPT series in coding &lpar;The Information&rpar;](http://www.techmeme.com/260109/p12#a260109p12)
+ - [Kia’s EV2 is its smallest and most affordable EV for Europe](https://www.theverge.com/transportation/858912/kia-ev2-announce-specs-range-europe)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
