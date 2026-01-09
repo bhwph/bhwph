@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock more home plots in Heartopia](https://www.polygon.com/heartopia-home-plots-unlock-how-to/)
- - [Minecraft&#39;s new baby mobs have turned the chicken into a celebrity](https://www.polygon.com/minecraft-new-baby-mobs-animals-chickens-how-to-find-tame/)
- - [Flusher locations in Fortnite Chapter 7 Season 1](https://www.polygon.com/fortnite-flusher-port-a-potty-locations-chapter-7/)<!-- GAME:END -->
+ - [Valve spent 2025 ripping apart Deadlock and putting it back together, and it delivered better live service than most live service games](https://www.pcgamer.com/games/moba/state-of-deadlock-2026/)
+ - [2026 RPG That Lets You Ride Dragons Promises A Map Twice The Size of Skyrim](https://kotaku.com/crimson-desert-map-size-dragon-skyrim-2000658542)
+ - [Baldur&#39;s Gate 3 composer Borislav &#39;Bobby&#39; Slavov is coming back for Divinity: &#39;We wouldn&#39;t be able to stop him even if we wanted to&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3-composer-borislav-bobby-slavov-is-coming-back-for-divinity-we-wouldnt-be-able-to-stop-him-even-if-we-wanted-to/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
