@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Linux researcher and developer says &#39;there are bugs in your kernel right now that won&#39;t be found for years. I know because I analyzed 125,183 of them&#39;](https://www.pcgamer.com/software/linux/linux-researcher-and-developer-says-there-are-bugs-in-your-kernel-right-now-that-wont-be-found-for-years-i-know-because-i-analyzed-125-183-of-them/)
- - [GTA 6 speculation mutates into delay &#39;rumor,&#39; leading to anxious fans and a prediction market betting frenzy for no good reason](https://www.pcgamer.com/games/grand-theft-auto/casual-gta-6-speculation-mutates-into-delay-rumor-leading-to-anxious-fans-and-prediction-market-frenzy-for-no-good-reason/)
- - [&#39;I f**king hate gen AI art,&#39; Hooded Horse chief says: &#39;If we&#39;re publishing the game, no f**king AI assets&#39;](https://www.pcgamer.com/software/ai/i-f-king-hate-gen-ai-art-hooded-horse-chief-says-if-were-publishing-the-game-no-f-king-ai-assets/)<!-- GAME:END -->
+ - [Meet Project Patchouli, an open-source drawing tablet project to &#39;build your own tablet from scratch&#39;](https://www.pcgamer.com/hardware/meet-project-patchouli-an-open-source-drawing-tablet-project-to-build-your-own-tablet-from-scratch/)
+ - [Intel&#39;s new handheld gaming chip rumoured to be called &#39;Core G3 Extreme&#39; and rocks a full-spec Xe3 iGPU with 12 graphics cores](https://www.pcgamer.com/hardware/processors/intels-new-handheld-gaming-chip-rumoured-to-be-called-core-g3-extreme-and-rocks-a-full-spec-xe3-igpu-with-12-graphics-cores/)
+ - [Fire Emblem: Path of Radiance comes to the Nintendo Switch 2](https://www.polygon.com/fire-emblem-path-of-radiance-nintendo-switch-classics/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
