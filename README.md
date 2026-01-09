@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker&#39;s brand-new chargers &amp; docks are up to 25% off this weekend](https://appleinsider.com/articles/26/01/09/ankers-brand-new-chargers-docks-are-up-to-25-off-this-weekend?utm_source=rss)
- - [Amazon files planning documents in Illinois to construct a 225,000 square foot big-box store, a return to a &quot;Target-like&quot; retail concept it previously shelved &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/260109/p18#a260109p18)
- - [T-Mobile takes the crown for best overall experience in latest Opensignal tests](https://www.androidauthority.com/t-mobile-opensignal-mobile-experience-awards-3631499/)<!-- TECH:END -->
+ - [The Samsung Galaxy Watch Is Discounted on Amazon](https://www.wired.com/story/samsung-galaxy-watch8-deal-126/)
+ - [Solawave Wand Fans: Don&#39;t Miss This Buy One, Get One Free Sale](https://www.wired.com/story/solawave-wand-fans-this-buy-one-get-one-free-deal-is-for-you/)
+ - [Tim Cook and Sundar Pichai are cowards](https://www.theverge.com/policy/859902/apple-google-run-by-cowards)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
