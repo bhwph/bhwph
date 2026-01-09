@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Meet Project Patchouli, an open-source drawing tablet project to &#39;build your own tablet from scratch&#39;](https://www.pcgamer.com/hardware/meet-project-patchouli-an-open-source-drawing-tablet-project-to-build-your-own-tablet-from-scratch/)
- - [Intel&#39;s new handheld gaming chip rumoured to be called &#39;Core G3 Extreme&#39; and rocks a full-spec Xe3 iGPU with 12 graphics cores](https://www.pcgamer.com/hardware/processors/intels-new-handheld-gaming-chip-rumoured-to-be-called-core-g3-extreme-and-rocks-a-full-spec-xe3-igpu-with-12-graphics-cores/)
- - [Fire Emblem: Path of Radiance comes to the Nintendo Switch 2](https://www.polygon.com/fire-emblem-path-of-radiance-nintendo-switch-classics/)<!-- GAME:END -->
+ - [I&#39;ve just found a new cutesy Balatro, but instead of a deck of cards you get to tend to a garden and harvest flowers](https://www.pcgamer.com/games/roguelike/ive-just-found-a-new-cutesy-balatro-but-instead-of-a-deck-of-cards-you-get-to-tend-to-a-garden-and-harvest-flowers/)
+ - [LEGO Restocks the Star Wars Millennium Falcon at a Record Low for Another Clearance Run](https://kotaku.com/lego-restocks-the-star-wars-millennium-falcon-at-a-record-low-for-another-clearance-run-2000658280)
+ - [All active Heartopia codes for free items](https://www.polygon.com/heartopia-codes-redeem-how-to/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
