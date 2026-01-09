@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Legendary classic Macintosh game &#39;Dark Castle&#39; is coming back to the Mac](https://appleinsider.com/articles/26/01/09/legendary-classic-macintosh-game-dark-castle-is-coming-back-to-the-mac?utm_source=rss)
- - [Nothing is finally ditching Lock Glimpse, but one model has to wait](https://www.androidauthority.com/nothing-lock-glimpse-removed-3631464/)
- - [Black Mirror has been renewed for another season](https://www.theverge.com/streaming/859699/netflix-black-mirror-season-8)<!-- TECH:END -->
+ - [Anker&#39;s brand-new chargers &amp; docks are up to 25% off this weekend](https://appleinsider.com/articles/26/01/09/ankers-brand-new-chargers-docks-are-up-to-25-off-this-weekend?utm_source=rss)
+ - [Amazon files planning documents in Illinois to construct a 225,000 square foot big-box store, a return to a &quot;Target-like&quot; retail concept it previously shelved &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/260109/p18#a260109p18)
+ - [T-Mobile takes the crown for best overall experience in latest Opensignal tests](https://www.androidauthority.com/t-mobile-opensignal-mobile-experience-awards-3631499/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
