@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snowflake agrees to acquire Observe, an observability platform built on Snowflake databases; the deal was previously reported to be valued at around $1B &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/260108/p44#a260108p44)
- - [The best earbuds we’ve tested for 2026](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [YouTube is giving its search filters a big shake-up](https://www.androidauthority.com/youtube-search-filter-update-3631125/)<!-- TECH:END -->
+ - [I Got Up Close and Personal With Boston Dynamics&#39; New Atlas Robot](https://www.cnet.com/tech/computing/i-got-up-close-and-personal-with-boston-dynamics-new-atlas-robot-at-ces-2026/)
+ - [These Are the Most Head-Turning TVs of CES 2026](https://www.cnet.com/tech/home-entertainment/these-are-the-head-turning-tvs-of-2026/)
+ - [Xbox’s Towerborne is switching from a free-to-play game to a paid one](https://www.theverge.com/news/859176/towerborne-launch-release-date-paid-offline)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
