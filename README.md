@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple might have dissected this Android foldable to recreate its crease-less screen](https://www.androidauthority.com/apple-iphone-fold-crease-less-display-oppo-3631311/)
- - [How Craigslist has stayed relevant for users as a place to find jobs, housing, and personal connections without relying on algorithmic feeds or public profiles &lpar;Jennifer Swann/Wired&rpar;](http://www.techmeme.com/260109/p5#a260109p5)
- - [Future AirPods may gain finer and faster gesture recognition](https://appleinsider.com/articles/26/01/08/future-airpods-may-gain-finer-and-faster-gesture-recognition?utm_source=rss)<!-- TECH:END -->
+ - [Apple&#39;s chip partner TSMC revenue driven to new heights by iPhone &amp; AI](https://appleinsider.com/articles/26/01/09/apples-chip-partner-tsmc-revenue-driven-to-new-heights-by-iphone-ai?utm_source=rss)
+ - [Conservative Lawmakers Want Porn Taxes. Critics Say They’re Unconstitutional](https://www.wired.com/story/conservative-lawmakers-want-porn-taxes-critics-say-theyre-unconstitutional/)
+ - [The Verge Awards at CES 2026](https://www.theverge.com/tech/858494/ces-2026-best-new-tech-tv-car-wearable)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
