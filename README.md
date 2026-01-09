@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ray-Ban Meta smart glasses can now single out a voice in a nosy crowd](https://www.androidauthority.com/ray-ban-meta-conversation-focus-3631424/)
- - [The UK&#39;s FCA grants Ripple approval for its Electronic Money Institution license and crypto asset registration, clearing the way for UK expansion &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/260109/p14#a260109p14)
- - [Anker’s new AeroFit Pro 2 earbuds are already $30 off](https://www.theverge.com/gadgets/859486/anker-aerofit-pro-2-earbuds-donkey-kong-bananza-elgato-deal-sale)<!-- TECH:END -->
+ - [Legendary classic Macintosh game &#39;Dark Castle&#39; is coming back to the Mac](https://appleinsider.com/articles/26/01/09/legendary-classic-macintosh-game-dark-castle-is-coming-back-to-the-mac?utm_source=rss)
+ - [Nothing is finally ditching Lock Glimpse, but one model has to wait](https://www.androidauthority.com/nothing-lock-glimpse-removed-3631464/)
+ - [Black Mirror has been renewed for another season](https://www.theverge.com/streaming/859699/netflix-black-mirror-season-8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
