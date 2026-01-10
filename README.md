@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The legend](http://9gag.com/gag/ayNAb2r)
- - 😝 [Shut her down real quick](http://9gag.com/gag/amoy484)
- - 👉 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)<!-- MEMES:END -->
+ - 6️⃣ [Flirting Class](http://9gag.com/gag/aZZKOZ0)
+ - 😝 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
+ - 👉 [Chad Clanker](http://9gag.com/gag/a5QAOPV)<!-- MEMES:END -->
 
 --- 
 
