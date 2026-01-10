@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve never used a trackball, but Keychron’s Nape Pro looks like the perfect one](https://www.theverge.com/tech/860178/ive-never-used-a-trackball-but-keychrons-nape-pro-looks-like-the-perfect-one)
- - [Indonesia temporarily blocks Grok due to the risk of AI-generated pornographic content, becoming the first country to deny access to the AI tool &lpar;Fransiska Nangoy/Reuters&rpar;](http://www.techmeme.com/260110/p8#a260110p8)
- - [I replaced Windows with Linux and everything’s going great](https://www.theverge.com/tech/858910/linux-diary-gaming-desktop)<!-- TECH:END -->
+ - [A profile of Grubhub parent Wonder, which has raised about $2B and is rolling out robotic meal-assembly tech acquired from Sweetgreen for $186M in November 2025 &lpar;Joshua Brustein/Bloomberg&rpar;](http://www.techmeme.com/260110/p10#a260110p10)
+ - [Livestream FA Cup Soccer 2026: Watch Charlton vs. Chelsea](https://www.cnet.com/tech/services-and-software/fa-cup-soccer-2026-watch-charlton-vs-chelsea/)
+ - [Morgan Stanley survey of audio habits in the US: 50% to 60% of listeners aged 18-44 reported listening to AI-generated music for 2.5 to 3 hours per week &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260110/p9#a260110p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
