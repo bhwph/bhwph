@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
- - 😝 [When blacks get fatigued with you, you know you have gone insane](http://9gag.com/gag/avyVKyO)
- - 👉 [Shut her down real quick](http://9gag.com/gag/amoy484)<!-- MEMES:END -->
+ - 6️⃣ [`no honey, really. he is just a friend from work...`](http://9gag.com/gag/a2vV3w1)
+ - 😝 [Based Japan](http://9gag.com/gag/awyDWnD)
+ - 👉 [Men are simple](http://9gag.com/gag/azxzp8b)<!-- MEMES:END -->
 
 --- 
 
