@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The tipping point: Here’s when buying a NAS make financial sense](https://www.androidauthority.com/cloud-storage-vs-nas-3630469/)
  - [Michael Burry, Anthropic co-founder Jack Clark, and Dwarkesh Patel on the future of AI, whether AI tools improve productivity, job losses due to AI, and more &lpar;The Substack Post&rpar;](http://www.techmeme.com/260110/p6#a260110p6)
- - [Researchers say GPT 4.1, Claude 3.7 Sonnet, Gemini 2.5 Pro, and Grok 3 can reproduce long excerpts from books they were trained on when strategically prompted &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/260110/p5#a260110p5)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 10, #474](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-10-474/)<!-- TECH:END -->
+ - [Researchers say GPT 4.1, Claude 3.7 Sonnet, Gemini 2.5 Pro, and Grok 3 can reproduce long excerpts from books they were trained on when strategically prompted &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/260110/p5#a260110p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
