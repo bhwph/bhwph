@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda: Breath of the Wild’s Great Plateau reinvented the series](https://www.polygon.com/zelda-breath-of-the-wild-great-plateau/)
- - [A classic space sim conceived by Star Citizen&#39;s creator just got an unofficial sequel after 15 years of development: &#39;The project was based on the crazy idea that Microsoft &quot;axed&quot; Christ Roberts&#39; Freelancer&#39;](https://www.pcgamer.com/games/sim/a-classic-space-sim-conceived-by-star-citizens-creator-just-got-an-unofficial-sequel-after-15-years-of-development-the-project-was-based-on-the-crazy-idea-that-microsoft-axed-christ-roberts-freelancer/)
- - [Satoshi Kon&#39;s Paprika opens with a mind-bending credits montage](https://www.polygon.com/dramatic-entrances-the-whimsical-opening-credits-of-satoshi-kons-paprika/)<!-- GAME:END -->
+ - [Red Dead Redemption 2&#39;s snowy tutorial is the most important part of the story](https://www.polygon.com/red-dead-redemption-2-intro-colter/)
+ - [Valorant&#39;s latest update adds a new pistol to spice up early rounds, as Riot plans to take &#39;a holistic look&#39; at the shooter&#39;s arsenal through 2026](https://www.pcgamer.com/games/fps/valorants-latest-update-adds-a-new-pistol-to-spice-up-early-rounds-as-riot-plans-to-take-a-holistic-look-at-the-shooters-arsenal-through-2026/)
+ - [If for some reason you can&#39;t get enough of Stranger Things&#39; Vecna, you can now play as him in Dead by Daylight&#39;s latest crossover](https://www.pcgamer.com/games/horror/if-for-some-reason-you-cant-get-enough-of-stranger-things-vecna-you-can-now-play-as-him-in-dead-by-daylights-latest-crossover/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
