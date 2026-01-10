@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`no honey, really. he is just a friend from work...`](http://9gag.com/gag/a2vV3w1)
- - 😝 [Based Japan](http://9gag.com/gag/awyDWnD)
- - 👉 [Men are simple](http://9gag.com/gag/azxzp8b)<!-- MEMES:END -->
+ - 6️⃣ [The legend](http://9gag.com/gag/ayNAb2r)
+ - 😝 [Shut her down real quick](http://9gag.com/gag/amoy484)
+ - 👉 [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)<!-- MEMES:END -->
 
 --- 
 
