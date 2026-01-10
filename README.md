@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
- - 😝 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
- - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
+ - 6️⃣ [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
+ - 😝 [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)
+ - 👉 [That camera man had one job](http://9gag.com/gag/ary0Q17)<!-- MEMES:END -->
 
 --- 
 
