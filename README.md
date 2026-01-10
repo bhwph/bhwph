@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
- - 😝 [Shut her down real quick](http://9gag.com/gag/amoy484)
- - 👉 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)<!-- MEMES:END -->
+ - 6️⃣ [Dogs have higher body temperature than humans and cats love it.](http://9gag.com/gag/ayNAGvM)
+ - 😝 [It LOOKS delicious!](http://9gag.com/gag/axy852b)
+ - 👉 [ChatGPT is not holding back on the relationship advice](http://9gag.com/gag/aD2Ly7N)<!-- MEMES:END -->
 
 --- 
 
