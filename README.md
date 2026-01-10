@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Luto is an underappreciated 2025 horror gem with the perfect mixture of Stanley Parable narration and P.T. ambience](https://www.pcgamer.com/games/horror/luto-is-an-underappreciated-2025-horror-gem-with-the-perfect-mixture-of-stanley-parable-narration-and-p-t-ambience/)
- - [Tron 3 and a new Predator are finally streaming this weekend](https://www.polygon.com/new-movies-to-watch-tron-ares-predator-badlands-january-9-2026/)
- - [Baldur&#39;s Gate 3&#39;s lead writer hopes we won&#39;t want to save scum in Divinity: &#39;Our ambition is certainly to make failure more interesting&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3s-lead-writer-hopes-we-wont-want-to-save-scum-in-divinity-our-ambition-is-certainly-to-make-failure-more-interesting/)<!-- GAME:END -->
+ - [Zelda: Breath of the Wild’s Great Plateau reinvented the series](https://www.polygon.com/zelda-breath-of-the-wild-great-plateau/)
+ - [A classic space sim conceived by Star Citizen&#39;s creator just got an unofficial sequel after 15 years of development: &#39;The project was based on the crazy idea that Microsoft &quot;axed&quot; Christ Roberts&#39; Freelancer&#39;](https://www.pcgamer.com/games/sim/a-classic-space-sim-conceived-by-star-citizens-creator-just-got-an-unofficial-sequel-after-15-years-of-development-the-project-was-based-on-the-crazy-idea-that-microsoft-axed-christ-roberts-freelancer/)
+ - [Satoshi Kon&#39;s Paprika opens with a mind-bending credits montage](https://www.polygon.com/dramatic-entrances-the-whimsical-opening-credits-of-satoshi-kons-paprika/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
