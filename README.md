@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Jan. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-10/)
- - [CES 2026 Live: Everything Announced From Best of Show to AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [Documents: OpenAI is asking contractors to upload their work from current or previous jobs to evaluate its models, leaving it to them to scrub confidential info &lpar;Wired&rpar;](http://www.techmeme.com/260109/p28#a260109p28)<!-- TECH:END -->
+ - [Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans](https://www.wired.com/story/total-wireless-promo-code/)
+ - [Internal document: Amazon rolled out a manager dashboard that tracks employees&#39; office attendance and how many hours they spend there, after its RTO mandate &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/260110/p4#a260110p4)
+ - [KitchenAid Promo Code: 50% Off This Month](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
