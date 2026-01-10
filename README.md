@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve spent 2025 ripping apart Deadlock and putting it back together, and it delivered better live service than most live service games](https://www.pcgamer.com/games/moba/state-of-deadlock-2026/)
- - [2026 RPG That Lets You Ride Dragons Promises A Map Twice The Size of Skyrim](https://kotaku.com/crimson-desert-map-size-dragon-skyrim-2000658542)
- - [Baldur&#39;s Gate 3 composer Borislav &#39;Bobby&#39; Slavov is coming back for Divinity: &#39;We wouldn&#39;t be able to stop him even if we wanted to&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3-composer-borislav-bobby-slavov-is-coming-back-for-divinity-we-wouldnt-be-able-to-stop-him-even-if-we-wanted-to/)<!-- GAME:END -->
+ - [Luto is an underappreciated 2025 horror gem with the perfect mixture of Stanley Parable narration and P.T. ambience](https://www.pcgamer.com/games/horror/luto-is-an-underappreciated-2025-horror-gem-with-the-perfect-mixture-of-stanley-parable-narration-and-p-t-ambience/)
+ - [Tron 3 and a new Predator are finally streaming this weekend](https://www.polygon.com/new-movies-to-watch-tron-ares-predator-badlands-january-9-2026/)
+ - [Baldur&#39;s Gate 3&#39;s lead writer hopes we won&#39;t want to save scum in Divinity: &#39;Our ambition is certainly to make failure more interesting&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3s-lead-writer-hopes-we-wont-want-to-save-scum-in-divinity-our-ambition-is-certainly-to-make-failure-more-interesting/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
