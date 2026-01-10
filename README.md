@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 5 best Twilight Zone opening monologues of all time](https://www.polygon.com/dramatic-entrances-twilight-zone-opening-monologues-ranked-rod-serling/)
- - [Critical Role&#39;s animated intros are a master class in storytelling](https://www.polygon.com/critical-role-animated-introductions-are-masterpieces/)
- - [&#39;I can finally do the thing I wanted to do in every previous game&#39;: Divinity&#39;s head of design teases a new mechanic without saying what it is](https://www.pcgamer.com/games/rpg/i-can-finally-do-the-thing-i-wanted-to-do-in-every-previous-game-divinitys-head-of-design-teases-a-new-mechanic-without-saying-what-it-is/)<!-- GAME:END -->
+ - [Video game bosses with two health bars are good, actually](https://www.polygon.com/video-game-boss-fights-two-health-bars/)
+ - [Deadlock dev teases the community over its favorite hero that was briefly tested and removed: &#39;We made delicious stock out of his bones and meats&#39;](https://www.pcgamer.com/games/moba/deadlock-dev-teases-the-community-over-its-favorite-hero-that-was-briefly-tested-and-removed-we-made-delicious-stock-out-of-his-bones-and-meats/)
+ - [Larian&#39;s head writer has a simple answer for how AI-generated text helps development: &#39;It doesn&#39;t,&#39; thanks to its best output being &#39;a 3/10 at best&#39; worse than his worst drafts](https://www.pcgamer.com/games/rpg/larians-head-writer-has-a-simple-answer-for-how-ai-generated-text-helps-development-it-doesnt-thanks-to-its-best-output-being-a-3-10-at-best-worse-than-his-worst-drafts/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
