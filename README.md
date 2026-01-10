@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Grubhub parent Wonder, which has raised about $2B and is rolling out robotic meal-assembly tech acquired from Sweetgreen for $186M in November 2025 &lpar;Joshua Brustein/Bloomberg&rpar;](http://www.techmeme.com/260110/p10#a260110p10)
- - [Livestream FA Cup Soccer 2026: Watch Charlton vs. Chelsea](https://www.cnet.com/tech/services-and-software/fa-cup-soccer-2026-watch-charlton-vs-chelsea/)
- - [Morgan Stanley survey of audio habits in the US: 50% to 60% of listeners aged 18-44 reported listening to AI-generated music for 2.5 to 3 hours per week &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260110/p9#a260110p9)<!-- TECH:END -->
+ - [A look at Tether&#39;s role in Venezuela&#39;s economy, which puts it in a prime position to aid the U.S. as it seeks to find funds allegedly stolen by Maduro&#39;s regime &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260110/p12#a260110p12)
+ - [Musk says he&amp;#8217;s going to open-source the new X algorithm next week](https://www.theverge.com/news/860294/elon-musk-open-source-x-algorithm)
+ - [These are the smart home gadgets that impressed me at CES 2026](https://www.theverge.com/tech/860241/best-smart-home-devices-ces-2026-matter-ikea-aqara-amazon)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
