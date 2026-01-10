@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Deals for New Year’s Resolutions: Sleep, Fitness, and More &lpar;2026&rpar;](https://www.wired.com/story/new-years-resolution-deals-2026/)
- - [As an Android fan, there’s only one iOS feature I want Google to copy](https://www.androidauthority.com/android-migration-ios-copy-3616436/)
- - [Fujifilm X-E5 Mirrorless Camera Review: Compact Color Science in a Retro Package](https://www.wired.com/review/fujifilm-xe5-mirrorless-camera/)<!-- TECH:END -->
+ - [What&amp;#8217;s on your desk, Stevie Bonifield?](https://www.theverge.com/gadgets/850479/desk-pc-keyboard-razer-kobo)
+ - [The Playdate gets its Monument Valley](https://www.theverge.com/games/859675/diora-review-playdate-monument-valley)
+ - [Mac mini, the little Mac that could, is 21 years old](https://appleinsider.com/articles/25/01/10/twenty-years-of-the-mac-mini-the-little-mac-that-could?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
