@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 😝 [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)
- - 👉 [That camera man had one job](http://9gag.com/gag/ary0Q17)<!-- MEMES:END -->
+ - 😝 [Shut her down real quick](http://9gag.com/gag/amoy484)
+ - 👉 [The legend](http://9gag.com/gag/ayNAb2r)<!-- MEMES:END -->
 
 --- 
 
