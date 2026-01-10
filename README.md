@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a good boy](http://9gag.com/gag/ajPj4Qq)
- - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 6️⃣ [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
+ - 😝 [When blacks get fatigued with you, you know you have gone insane](http://9gag.com/gag/avyVKyO)
  - 👉 [Shut her down real quick](http://9gag.com/gag/amoy484)<!-- MEMES:END -->
 
 --- 
