@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shut her down real quick](http://9gag.com/gag/amoy484)
- - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
+ - 6️⃣ [Plap...plap...plap...](http://9gag.com/gag/aPA0bPq)
+ - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 👉 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)<!-- MEMES:END -->
 
 --- 
 
