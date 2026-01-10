@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The legend](http://9gag.com/gag/ayNAb2r)
- - 😝 [Shut her down real quick](http://9gag.com/gag/amoy484)
- - 👉 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)<!-- MEMES:END -->
+ - 6️⃣ [What a good boy](http://9gag.com/gag/ajPj4Qq)
+ - 😝 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 👉 [Shut her down real quick](http://9gag.com/gag/amoy484)<!-- MEMES:END -->
 
 --- 
 
