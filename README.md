@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mass Effect 2’s opening death was my first contact with the series](https://www.polygon.com/dramatic-entrances-mass-effect-2-shepard-death/)
- - [MTG&#39;s Dramatic Entrance card explains one of Avatar’s best season 1 moments](https://www.polygon.com/mtg-dramatic-entrance-shadowmoor-card-king-bumi-avatar/)
- - [If you&#39;ve got a spare 200 hours, the massively ambitious sci-fi grand strategy from the creators of X-COM: The Long War just launched out of early access](https://www.pcgamer.com/games/strategy/if-youve-got-a-spare-200-hours-the-massively-ambitious-sci-fi-grand-strategy-from-the-creators-of-x-com-the-long-war-just-launched-out-of-early-access/)<!-- GAME:END -->
+ - [The 5 best Twilight Zone opening monologues of all time](https://www.polygon.com/dramatic-entrances-twilight-zone-opening-monologues-ranked-rod-serling/)
+ - [Critical Role&#39;s animated intros are a master class in storytelling](https://www.polygon.com/critical-role-animated-introductions-are-masterpieces/)
+ - [&#39;I can finally do the thing I wanted to do in every previous game&#39;: Divinity&#39;s head of design teases a new mechanic without saying what it is](https://www.pcgamer.com/games/rpg/i-can-finally-do-the-thing-i-wanted-to-do-in-every-previous-game-divinitys-head-of-design-teases-a-new-mechanic-without-saying-what-it-is/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
