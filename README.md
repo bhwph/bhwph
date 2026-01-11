@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Animal Crossing defined cozy gaming — yet cruelty made the original special](https://www.polygon.com/animal-crossing-tutorial-new-horizons-comparison/)
- - [Sonic the Hedgehog is everywhere when it comes to merch, but finally some more underrated characters are getting airtime thanks to Steady Hands](https://www.pcgamer.com/games/sonic-the-hedgehog-is-everywhere-when-it-comes-to-merch-but-finally-some-more-underrated-characters-are-getting-airtime-thanks-to-steady-hands/)
- - [Portal 2&#39;s opening has one of the best video game jokes ever](https://www.polygon.com/portal-2-tutorial-joke-press-space/)<!-- GAME:END -->
+ - [Final Fantasy Tactics&#39; ending completely redefines its opening cutscene](https://www.polygon.com/final-fantasy-tactics-delita-hero-ending-explained/)
+ - [From Star Wars to Lost: J.J. Abrams is the kind of dramatic entrances](https://www.polygon.com/jj-abrams-dramatic-entrances-star-wars-star-trek-lost/)
+ - [Animal Crossing defined cozy gaming — yet cruelty made the original special](https://www.polygon.com/animal-crossing-tutorial-new-horizons-comparison/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
