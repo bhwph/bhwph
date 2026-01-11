@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Video game bosses with two health bars are good, actually](https://www.polygon.com/video-game-boss-fights-two-health-bars/)
- - [Deadlock dev teases the community over its favorite hero that was briefly tested and removed: &#39;We made delicious stock out of his bones and meats&#39;](https://www.pcgamer.com/games/moba/deadlock-dev-teases-the-community-over-its-favorite-hero-that-was-briefly-tested-and-removed-we-made-delicious-stock-out-of-his-bones-and-meats/)
- - [Larian&#39;s head writer has a simple answer for how AI-generated text helps development: &#39;It doesn&#39;t,&#39; thanks to its best output being &#39;a 3/10 at best&#39; worse than his worst drafts](https://www.pcgamer.com/games/rpg/larians-head-writer-has-a-simple-answer-for-how-ai-generated-text-helps-development-it-doesnt-thanks-to-its-best-output-being-a-3-10-at-best-worse-than-his-worst-drafts/)<!-- GAME:END -->
+ - [Divinity: Original Sin 2&#39;s brilliant armor system is one of a kind in RPGs, and I&#39;m bummed we&#39;ll apparently never see it again](https://www.pcgamer.com/games/rpg/divinity-original-sin-2s-brilliant-armor-system-is-one-of-a-kind-in-rpgs-and-im-bummed-well-apparently-never-see-it-again/)
+ - [Original Fallout lead Tim Cain reckons vitriol around games has always been around, but it&#39;s &#39;more hostile&#39; these days: &#39;I see lot of people arguing past each other, even if that means denying that the other group even exists&#39;](https://www.pcgamer.com/games/rpg/original-fallout-lead-tim-cain-reckons-vitriol-around-games-has-always-been-around-but-its-more-hostile-these-days-i-see-lot-of-people-arguing-past-each-other-even-if-that-means-denying-that-the-other-group-even-exists/)
+ - [&#39;Every year they got f***ing chocolates that we didn&#39;t&#39;: Valve gives a box of sweets to Steam&#39;s biggest breadwinners every year, and Peak&#39;s devs finally got one after years of jealously watching their Slay the Spire office mates enjoy GabeN confections](https://www.pcgamer.com/games/every-year-they-got-f-ing-chocolates-that-we-didnt-valve-gives-a-box-of-sweets-to-steams-biggest-breadwinners-every-year-and-peaks-devs-finally-got-one-after-years-of-jealously-watching-their-slay-the-spire-office-mates-enjoy-gaben-confections/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
