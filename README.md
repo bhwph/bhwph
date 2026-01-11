@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I never expected an AI app to replace my keyboard, but I was wrong](https://www.androidauthority.com/ai-dictation-replaced-keyboard-3630287/)
- - [The Danger of Reducing America&#39;s Venezuela Invasion to a 60-Second Video](https://www.wired.com/story/the-danger-of-reducing-a-americas-venezuela-invasion-to-a-60-second-video/)
- - [Documents and sources: India proposes security rules that would force smartphone makers to share source code, prompting quiet pushback from Apple and Samsung &lpar;Reuters&rpar;](http://www.techmeme.com/260111/p8#a260111p8)<!-- TECH:END -->
+ - [16 Best Heat Protectant Sprays for Wet and Dry Hair &lpar;2026&rpar;](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)
+ - [Crime blotter: Armed robbery, fairground iPads, and a fortune teller](https://appleinsider.com/articles/26/01/11/crime-blotter-armed-robbery-fairground-ipads-and-a-fortune-teller?utm_source=rss)
+ - [Here’s the one thing I want to see from Pixel 11 Pro cameras](https://www.androidauthority.com/one-thing-see-google-pixel-11-pro-cameras-3627240/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
