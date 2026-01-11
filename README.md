@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple secures seven nominations for 37th Producers Guild Awards](https://appleinsider.com/articles/26/01/11/apple-secures-seven-nominations-for-37th-producers-guild-awards?utm_source=rss)
- - [How TiVo killed live TV](https://www.theverge.com/podcast/860321/tivo-tv-streaming-version-history)
- - [I went looking for weird phones and CES 2026 did not disappoint](https://www.theverge.com/tech/859776/ces-2026-phones-clicks-communicator-ikko-samsung-trifold)<!-- TECH:END -->
+ - [Malaysia becomes the second country to limit access to Grok, joining Indonesia, over the chatbot&#39;s generation of sexual content &lpar;Bloomberg&rpar;](http://www.techmeme.com/260111/p15#a260111p15)
+ - [Walmart to expand Wing, Alphabet&#39;s on-demand drone delivery service, to another 150 stores, bringing the total to 270+ stores, covering ~10% of US population &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/260111/p14#a260111p14)
+ - [Walmart partners with Google to offer AI-enhanced shopping, allowing users to purchase Walmart and Sam&#39;s Club items directly on Gemini &lpar;Jaewon Kang/Bloomberg&rpar;](http://www.techmeme.com/260111/p13#a260111p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
