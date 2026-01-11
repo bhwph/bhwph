@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Tether&#39;s role in Venezuela&#39;s economy, which puts it in a prime position to aid the U.S. as it seeks to find funds allegedly stolen by Maduro&#39;s regime &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260110/p12#a260110p12)
- - [Musk says he&amp;#8217;s going to open-source the new X algorithm next week](https://www.theverge.com/news/860294/elon-musk-open-source-x-algorithm)
- - [These are the smart home gadgets that impressed me at CES 2026](https://www.theverge.com/tech/860241/best-smart-home-devices-ces-2026-matter-ikea-aqara-amazon)<!-- TECH:END -->
+ - [9 Ways You&#39;re Using Your Space Heater Wrong, and Why It Causes Fires](https://www.cnet.com/news/ways-space-heaters-cause-fires-in-our-homes-and-how-to-prevent-one/)
+ - [&#39;Landman&#39; Season 2, Episode 9: Streaming Release Date and Time](https://www.cnet.com/tech/services-and-software/landman-season-2-episode-9-release-time/)
+ - [A look at Tether&#39;s role in Venezuela&#39;s economy, which puts it in a prime position to aid the U.S. as it seeks to find funds allegedly stolen by Maduro&#39;s regime &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260110/p12#a260110p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
