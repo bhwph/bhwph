@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
- - 😝 [The real hero wears slippers](http://9gag.com/gag/aByM7qD)
- - 👉 [Postural hypotension](http://9gag.com/gag/amoy3EV)<!-- MEMES:END -->
+ - 6️⃣ [It is proven to reduce stress.](http://9gag.com/gag/aLn3ZYW)
+ - 😝 [Translation: oh shit oh f**k oh shit oh f**k oh shit](http://9gag.com/gag/a9ye97D)
+ - 👉 [Awww... crime rate in space isn&#39;t 100% lesbian women anymore](http://9gag.com/gag/aXPzB1V)<!-- MEMES:END -->
 
 --- 
 
