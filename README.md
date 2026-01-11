@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy Tactics&#39; ending completely redefines its opening cutscene](https://www.polygon.com/final-fantasy-tactics-delita-hero-ending-explained/)
- - [From Star Wars to Lost: J.J. Abrams is the kind of dramatic entrances](https://www.polygon.com/jj-abrams-dramatic-entrances-star-wars-star-trek-lost/)
- - [Animal Crossing defined cozy gaming — yet cruelty made the original special](https://www.polygon.com/animal-crossing-tutorial-new-horizons-comparison/)<!-- GAME:END -->
+ - [&#39;Don’t toil away on the things that don’t really matter&#39;: Peak creator says its rapid development cycle has &#39;proved that there are definitely different, but maybe better ways to make games&#39;](https://www.pcgamer.com/games/adventure/dont-toil-away-on-the-things-that-dont-really-matter-peak-creator-says-its-rapid-development-cycle-has-proved-that-there-are-definitely-different-but-maybe-better-ways-to-make-games/)
+ - [The Elder Scrolls 6 can top Skyrim with a killer intro](https://www.polygon.com/elder-scrolls-6-tes6-setting-story/)
+ - [Epic Games CEO Tim Sweeney argues banning Twitter over its ability to AI-generate pornographic images of minors is just &#39;gatekeepers&#39; attempting to &#39;censor all of their political opponents&#39;](https://www.pcgamer.com/gaming-industry/epic-games-ceo-tim-sweeney-argues-banning-twitter-over-its-ability-to-ai-generate-pornographic-images-of-minors-is-just-gatekeepers-attempting-to-censor-all-of-their-political-opponents/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
