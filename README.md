@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
- - 😝 [Translation: oh shit oh f**k oh shit oh f**k oh shit](http://9gag.com/gag/a9ye97D)
- - 👉 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)<!-- MEMES:END -->
+ - 6️⃣ [Tricky Ticks](http://9gag.com/gag/abAo9jr)
+ - 😝 [The real hero wears slippers](http://9gag.com/gag/aByM7qD)
+ - 👉 [Hit me!](http://9gag.com/gag/aW4Az9n)<!-- MEMES:END -->
 
 --- 
 
