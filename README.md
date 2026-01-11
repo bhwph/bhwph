@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tricky Ticks](http://9gag.com/gag/abAo9jr)
+ - 6️⃣ [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
  - 😝 [The real hero wears slippers](http://9gag.com/gag/aByM7qD)
- - 👉 [Hit me!](http://9gag.com/gag/aW4Az9n)<!-- MEMES:END -->
+ - 👉 [Postural hypotension](http://9gag.com/gag/amoy3EV)<!-- MEMES:END -->
 
 --- 
 
