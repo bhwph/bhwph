@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the history and rise of Markdown, which has been adopted across the tech industry in the decades since its quiet launch in 2004 by John Gruber &lpar;Anil Dash&rpar;](http://www.techmeme.com/260111/p7#a260111p7)
- - [Investigation: Iran&#39;s Islamic Revolutionary Guard Corps used two UK-registered companies to move ~$1B in stablecoins since 2023, evading international sanctions &lpar;TRM Insights&rpar;](http://www.techmeme.com/260111/p6#a260111p6)
- - [Newly listed Chinese AI chipmakers Moore Threads, Biren, and MetaX had stellar stock market debuts, but none has sales above 10% of rival Cambricon &lpar;Financial Times&rpar;](http://www.techmeme.com/260111/p5#a260111p5)<!-- TECH:END -->
+ - [I never expected an AI app to replace my keyboard, but I was wrong](https://www.androidauthority.com/ai-dictation-replaced-keyboard-3630287/)
+ - [The Danger of Reducing America&#39;s Venezuela Invasion to a 60-Second Video](https://www.wired.com/story/the-danger-of-reducing-a-americas-venezuela-invasion-to-a-60-second-video/)
+ - [Documents and sources: India proposes security rules that would force smartphone makers to share source code, prompting quiet pushback from Apple and Samsung &lpar;Reuters&rpar;](http://www.techmeme.com/260111/p8#a260111p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
