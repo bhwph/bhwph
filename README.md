@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher 3&#39;s former lead quest designer says &#39;of course&#39; there is romance in upcoming vampire RPG The Blood of Dawnwalker: &#39;You can expect to build relationships with characters&#39;](https://www.pcgamer.com/games/rpg/the-witcher-3s-former-lead-quest-designer-says-of-course-there-is-romance-in-upcoming-vampire-rpg-the-blood-of-dawnwalker-you-can-expect-to-build-relationships-with-characters/)
- - [Bye Bye Bye: The making of Deadpool &amp; Wolverine’s iconic dance number](https://www.polygon.com/bye-bye-bye-the-making-of-deadpool-wolverines-opening-dance-number/)
- - [Former Assassin&#39;s Creed director doesn&#39;t think the current way of making big budget games is &#39;tenable&#39;: &#39;I think the future lies in smaller teams&#39;](https://www.pcgamer.com/games/assassins-creed/former-assassins-creed-director-doesnt-think-the-current-way-of-making-big-budget-games-is-tenable-i-think-the-future-lies-in-smaller-teams/)<!-- GAME:END -->
+ - [Animal Crossing defined cozy gaming — yet cruelty made the original special](https://www.polygon.com/animal-crossing-tutorial-new-horizons-comparison/)
+ - [Sonic the Hedgehog is everywhere when it comes to merch, but finally some more underrated characters are getting airtime thanks to Steady Hands](https://www.pcgamer.com/games/sonic-the-hedgehog-is-everywhere-when-it-comes-to-merch-but-finally-some-more-underrated-characters-are-getting-airtime-thanks-to-steady-hands/)
+ - [Portal 2&#39;s opening has one of the best video game jokes ever](https://www.polygon.com/portal-2-tutorial-joke-press-space/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
