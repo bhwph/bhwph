@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
- - 😝 [Mashhad has fallen](http://9gag.com/gag/a4P8Dod)
- - 👉 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)<!-- MEMES:END -->
+ - 6️⃣ [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
+ - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
+ - 👉 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)<!-- MEMES:END -->
 
 --- 
 
