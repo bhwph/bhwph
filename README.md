@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [John Woo&#39;s Hard Boiled opens with the best shoot-out ever](https://www.polygon.com/john-woos-hard-boiled-opens-with-the-best-shoot-out-ever/)
- - [Manor Lords&#39; dev is experimenting with a new trading system that allows for &#39;deliberate economic strategies&#39;, including establishing monopolies on resources](https://www.pcgamer.com/games/city-builder/manor-lords-dev-is-experimenting-with-a-new-trading-system-that-allows-for-deliberate-economic-strategies-including-establishing-monopolies-on-resources/)
- - [Anime genres explained: Breaking down the meaning of shonen, isekai, and more](https://www.polygon.com/anime-genres-meaning-list-explained-shonen-shojo-seinin-isekai/)<!-- GAME:END -->
+ - [The Witcher 3&#39;s former lead quest designer says &#39;of course&#39; there is romance in upcoming vampire RPG The Blood of Dawnwalker: &#39;You can expect to build relationships with characters&#39;](https://www.pcgamer.com/games/rpg/the-witcher-3s-former-lead-quest-designer-says-of-course-there-is-romance-in-upcoming-vampire-rpg-the-blood-of-dawnwalker-you-can-expect-to-build-relationships-with-characters/)
+ - [Bye Bye Bye: The making of Deadpool &amp; Wolverine’s iconic dance number](https://www.polygon.com/bye-bye-bye-the-making-of-deadpool-wolverines-opening-dance-number/)
+ - [Former Assassin&#39;s Creed director doesn&#39;t think the current way of making big budget games is &#39;tenable&#39;: &#39;I think the future lies in smaller teams&#39;](https://www.pcgamer.com/games/assassins-creed/former-assassins-creed-director-doesnt-think-the-current-way-of-making-big-budget-games-is-tenable-i-think-the-future-lies-in-smaller-teams/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
