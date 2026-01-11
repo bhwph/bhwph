@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Malaysia becomes the second country to limit access to Grok, joining Indonesia, over the chatbot&#39;s generation of sexual content &lpar;Bloomberg&rpar;](http://www.techmeme.com/260111/p15#a260111p15)
- - [Walmart to expand Wing, Alphabet&#39;s on-demand drone delivery service, to another 150 stores, bringing the total to 270+ stores, covering ~10% of US population &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/260111/p14#a260111p14)
- - [Walmart partners with Google to offer AI-enhanced shopping, allowing users to purchase Walmart and Sam&#39;s Club items directly on Gemini &lpar;Jaewon Kang/Bloomberg&rpar;](http://www.techmeme.com/260111/p13#a260111p13)<!-- TECH:END -->
+ - [The best hardware and accessories of CES 2026 for Apple users](https://appleinsider.com/articles/26/01/11/the-best-hardware-and-accessories-of-ces-2026-for-apple-users?utm_source=rss)
+ - [Instagram says there was no breach and it fixed an issue that let an external party send password reset emails, after reports that 17.5M users&#39; data was exposed &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/260111/p17#a260111p17)
+ - [India wants iOS source code, and they&#39;re not going to get it](https://appleinsider.com/articles/26/01/11/india-wants-ios-source-code-and-theyre-not-going-to-get-it?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
