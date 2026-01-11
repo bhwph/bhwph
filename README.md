@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
- - 😝 [Worth it](http://9gag.com/gag/aLn3xev)
- - 👉 [For your musical enjoyment #51](http://9gag.com/gag/aQzK012)<!-- MEMES:END -->
+ - 6️⃣ [Any better abillities?](http://9gag.com/gag/aAy7862)
+ - 😝 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)
+ - 👉 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)<!-- MEMES:END -->
 
 --- 
 
