@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It LOOKS delicious!](http://9gag.com/gag/axy852b)
+ - 6️⃣ [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
  - 😝 [Worth it](http://9gag.com/gag/aLn3xev)
- - 👉 [Here you go buddy](http://9gag.com/gag/aVv8pLO)<!-- MEMES:END -->
+ - 👉 [For your musical enjoyment #51](http://9gag.com/gag/aQzK012)<!-- MEMES:END -->
 
 --- 
 
