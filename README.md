@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Any better abillities?](http://9gag.com/gag/aAy7862)
- - 😝 [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)
- - 👉 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)<!-- MEMES:END -->
+ - 6️⃣ [Her vs me on our first night together](http://9gag.com/gag/aVv8APw)
+ - 😝 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
+ - 👉 [The legend](http://9gag.com/gag/ayNAb2r)<!-- MEMES:END -->
 
 --- 
 
