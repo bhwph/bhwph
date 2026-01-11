@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After Netflix pulled the rug from under Monument Valley 3 six months after launch, its developer says it&#39;s a &#39;PC first&#39; studio: &#39;we can build more direct relationships with our audience and community&#39;](https://www.pcgamer.com/games/puzzle/after-netflix-pulled-the-rug-from-under-monument-valley-3-six-months-after-launch-its-developer-says-its-a-pc-first-studio-we-can-build-more-direct-relationships-with-our-audience-and-community/)
- - [Divinity: Original Sin 2&#39;s brilliant armor system is one of a kind in RPGs, and I&#39;m bummed we&#39;ll apparently never see it again](https://www.pcgamer.com/games/rpg/divinity-original-sin-2s-brilliant-armor-system-is-one-of-a-kind-in-rpgs-and-im-bummed-well-apparently-never-see-it-again/)
- - [Original Fallout lead Tim Cain reckons vitriol around games has always been around, but it&#39;s &#39;more hostile&#39; these days: &#39;I see lot of people arguing past each other, even if that means denying that the other group even exists&#39;](https://www.pcgamer.com/games/rpg/original-fallout-lead-tim-cain-reckons-vitriol-around-games-has-always-been-around-but-its-more-hostile-these-days-i-see-lot-of-people-arguing-past-each-other-even-if-that-means-denying-that-the-other-group-even-exists/)<!-- GAME:END -->
+ - [John Woo&#39;s Hard Boiled opens with the best shoot-out ever](https://www.polygon.com/john-woos-hard-boiled-opens-with-the-best-shoot-out-ever/)
+ - [Manor Lords&#39; dev is experimenting with a new trading system that allows for &#39;deliberate economic strategies&#39;, including establishing monopolies on resources](https://www.pcgamer.com/games/city-builder/manor-lords-dev-is-experimenting-with-a-new-trading-system-that-allows-for-deliberate-economic-strategies-including-establishing-monopolies-on-resources/)
+ - [Anime genres explained: Breaking down the meaning of shonen, isekai, and more](https://www.polygon.com/anime-genres-meaning-list-explained-shonen-shojo-seinin-isekai/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
