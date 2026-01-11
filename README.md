@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best Heat Protectant Sprays for Wet and Dry Hair &lpar;2026&rpar;](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)
- - [Crime blotter: Armed robbery, fairground iPads, and a fortune teller](https://appleinsider.com/articles/26/01/11/crime-blotter-armed-robbery-fairground-ipads-and-a-fortune-teller?utm_source=rss)
- - [Here’s the one thing I want to see from Pixel 11 Pro cameras](https://www.androidauthority.com/one-thing-see-google-pixel-11-pro-cameras-3627240/)<!-- TECH:END -->
+ - [Apple secures seven nominations for 37th Producers Guild Awards](https://appleinsider.com/articles/26/01/11/apple-secures-seven-nominations-for-37th-producers-guild-awards?utm_source=rss)
+ - [How TiVo killed live TV](https://www.theverge.com/podcast/860321/tivo-tv-streaming-version-history)
+ - [I went looking for weird phones and CES 2026 did not disappoint](https://www.theverge.com/tech/859776/ces-2026-phones-clicks-communicator-ikko-samsung-trifold)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
