@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA 6 is basically a PS5 exclusive at this point](https://www.polygon.com/gta-6-ps5-exclusive-sony-playstation-xbox-microsoft-ads-marketing/)
- - [Three massive isekai anime titles will air in summer 2026](https://www.polygon.com/best-isekai-anime-streaming-2026/)
- - [10 Mysterious Games To Check Out In Steam’s Detective Fest](https://kotaku.com/steam-detective-fest-mystery-investigation-indie-pc-2000658918)<!-- GAME:END -->
+ - [Rockstar Wins Initial Ruling Against Fired GTA 6 Devs: ‘We Regret That We Were Put In A Position Where Dismissals Were Necessary](https://kotaku.com/rockstar-wins-initial-ruling-against-fired-gta-6-devs-we-regret-that-we-were-put-in-a-position-where-dismissals-were-necessary-2000658984)
+ - [Steam dev is deleting his own game after realizing AI is bad](https://www.polygon.com/steam-dev-deleting-own-game-generative-ai/)
+ - [Indie dev is delisting his AI game from Steam because his new girlfriend convinced him it&#39;s evil: &#39;The game existing in its current form is a disgrace to all game makers and players&#39;](https://www.pcgamer.com/games/indie-dev-is-delisting-his-ai-game-from-steam-because-his-new-girlfriend-convinced-him-its-evil-the-game-existing-in-its-current-form-is-a-disgrace-to-all-game-makers-and-players/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
