@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
- - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 👉 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)<!-- MEMES:END -->
+ - 6️⃣ [Mashhad has fallen](http://9gag.com/gag/a4P8Dod)
+ - 😝 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
+ - 👉 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)<!-- MEMES:END -->
 
 --- 
 
