@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Evil Dead Rise director Lee Cronin&#39;s The Mummy looks terrifying](https://www.polygon.com/lee-cronin-the-mummy-movie-trailer/)
- - [Anthem shutdown prompts fans to share their love and regrets](https://www.polygon.com/anthem-shutdown-community-final-moments-bioware-ea/)
- - [&#39;Um, as a favor, if you buy a new one, please sell your gaming PC to our company&#39; says Tokyo-based computer store as it offers &#39;pretty high prices&#39;](https://www.pcgamer.com/hardware/gaming-pcs/um-as-a-favor-if-you-buy-a-new-one-please-sell-your-gaming-pc-to-our-company-says-tokyo-based-computer-store-as-it-offers-pretty-high-prices/)<!-- GAME:END -->
+ - [GTA 6 is basically a PS5 exclusive at this point](https://www.polygon.com/gta-6-ps5-exclusive-sony-playstation-xbox-microsoft-ads-marketing/)
+ - [Three massive isekai anime titles will air in summer 2026](https://www.polygon.com/best-isekai-anime-streaming-2026/)
+ - [10 Mysterious Games To Check Out In Steam’s Detective Fest](https://kotaku.com/steam-detective-fest-mystery-investigation-indie-pc-2000658918)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
