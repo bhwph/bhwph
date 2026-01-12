@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Serves you right](http://9gag.com/gag/adBMme2)
- - 😝 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
- - 👉 [It&#39;s so funny it&#39;s painful](http://9gag.com/gag/ae9EvmB)<!-- MEMES:END -->
+ - 😝 [A swatch or yer fanny](http://9gag.com/gag/avyV3bZ)
+ - 👉 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)<!-- MEMES:END -->
 
 --- 
 
