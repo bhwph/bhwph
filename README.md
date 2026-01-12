@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Gemini tech will be used in the all-new Siri after major Apple AI deal](https://appleinsider.com/articles/26/01/12/google-gemini-tech-will-be-used-in-the-all-new-siri-after-major-apple-ai-deal?utm_source=rss)
- - [Apple&#39;s record-breaking year for Services is a preview for earnings](https://appleinsider.com/articles/26/01/12/apples-record-breaking-year-for-services-is-a-preview-for-earnings?utm_source=rss)
- - [Apple TV &quot;Pluribus&quot; is stepping off the screen and into the real world with merch](https://appleinsider.com/articles/26/01/12/apple-tv-pluribus-is-stepping-off-the-screen-and-into-the-real-world-with-merch?utm_source=rss)<!-- TECH:END -->
+ - [Second developer betas for iOS 26.3, macOS Tahoe 26.3 have arrived](https://appleinsider.com/articles/26/01/12/second-developer-betas-for-ios-263-macos-tahoe-263-have-arrived?utm_source=rss)
+ - [Apple confirms: Gemini will power a new and improved Siri this year](https://www.androidauthority.com/apple-siri-google-gemini-deal-3631890/)
+ - [Smart home at CES 2026 and HomeKit architecture deadline on the latest HomeKit Insider](https://appleinsider.com/articles/26/01/12/smart-home-at-ces-2026-and-homekit-architecture-deadline-on-the-latest-homekit-insider?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
