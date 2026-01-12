@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mashhad has fallen](http://9gag.com/gag/a4P8Dod)
- - 😝 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
- - 👉 [Serves you right](http://9gag.com/gag/adBMme2)<!-- MEMES:END -->
+ - 6️⃣ [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)
+ - 😝 [A swatch or yer fanny](http://9gag.com/gag/avyV3bZ)
+ - 👉 [\u202e\u202e\u202e](http://9gag.com/gag/aNDXx3A)<!-- MEMES:END -->
 
 --- 
 
