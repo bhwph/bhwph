@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Serves you right](http://9gag.com/gag/adBMme2)
- - 😝 [A swatch or yer fanny](http://9gag.com/gag/avyV3bZ)
- - 👉 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)<!-- MEMES:END -->
+ - 6️⃣ [Without.....](http://9gag.com/gag/an73pMn)
+ - 😝 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
+ - 👉 [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)<!-- MEMES:END -->
 
 --- 
 
