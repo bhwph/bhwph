@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
- - 😝 [Mashhad has fallen](http://9gag.com/gag/a4P8Dod)
- - 👉 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)<!-- MEMES:END -->
+ - 6️⃣ [Today, irony died.](http://9gag.com/gag/azxz0dq)
+ - 😝 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
+ - 👉 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
 
 --- 
 
