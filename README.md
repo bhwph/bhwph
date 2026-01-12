@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Fire TV Soundbar Plus Hits New Record Low After Two Price Cuts in One Week &lpar;Newest Model With Built-in Subwoofer, 3.1 Channel, Dolby Atmos&rpar;](https://kotaku.com/amazon-fire-tv-soundbar-plus-hits-new-record-low-after-two-price-cuts-in-one-week-newest-model-with-built-in-subwoofer-3-1-channel-dolby-atmos-2000658522)
- - [Peak dev solves game pricing and possibly all economics: &#39;4 bucks is also kind of 5 bucks, 3 bucks is 2 bucks. And 2 bucks is basically free&#39;](https://www.pcgamer.com/games/adventure/peak-dev-solves-game-pricing-and-possibly-all-economics-4-bucks-is-also-kind-of-5-bucks-3-bucks-is-2-bucks-and-2-bucks-is-basically-free/)
- - [Rhea Seehorn wins Golden Globes award, teases Pluribus season 2 is in the works](https://www.polygon.com/rhea-seehorn-golden-globes-win-season-2-pluribus/)<!-- GAME:END -->
+ - [Arc Raiders in first-person looks utterly terrifying](https://www.polygon.com/arc-raiders-first-person-view-reddit/)
+ - [Google Pixel 9a Drops to All-Time Low to Compete With Samsung Galaxy S25 Deals, Now the Cheapest Gemini-Powered Smartphone](https://kotaku.com/google-pixel-9a-drops-to-all-time-low-to-compete-with-samsung-galaxy-s25-deals-now-the-cheapest-gemini-powered-smartphone-2000658717)
+ - [Forgotten Realms&#39; creator has the perfect antidote to modern D&amp;D&#39;s big problem](https://www.polygon.com/forgotten-realms-creator-ed-greenwood-dnd-problem-realmsbound/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
