@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arc Raiders in first-person looks utterly terrifying](https://www.polygon.com/arc-raiders-first-person-view-reddit/)
- - [Google Pixel 9a Drops to All-Time Low to Compete With Samsung Galaxy S25 Deals, Now the Cheapest Gemini-Powered Smartphone](https://kotaku.com/google-pixel-9a-drops-to-all-time-low-to-compete-with-samsung-galaxy-s25-deals-now-the-cheapest-gemini-powered-smartphone-2000658717)
- - [Forgotten Realms&#39; creator has the perfect antidote to modern D&amp;D&#39;s big problem](https://www.polygon.com/forgotten-realms-creator-ed-greenwood-dnd-problem-realmsbound/)<!-- GAME:END -->
+ - [Comparing Pokémon’s New $200 Lego Pikachu With Mega Bloks’ $50 Version](https://kotaku.com/comparing-legos-new-200-pikachu-set-to-mega-bloks-50-version-2000658904)
+ - [Noctua once again delays its fan-equipped mouse and 140 mm desk fan but we&#39;re still on for the launch of its all-in-one liquid cooler soon](https://www.pcgamer.com/hardware/cooling/noctua-once-again-delays-its-fan-equipped-mouse-and-140-mm-desk-fan-but-were-still-on-for-the-launch-of-its-all-in-one-liquid-cooler-soon/)
+ - [Not-Pokémon With Guns Survival Sim Palworld Is Launching A Not-Pokémon Card Game](https://kotaku.com/palworld-pokemon-card-game-trailer-2000658887)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
