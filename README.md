@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple beat Samsung to be the top phone seller in the world, and here’s why](https://www.androidauthority.com/apple-beat-samsung-top-phone-seller-3631771/)
- - [Eddy Cue says 2025 was a &quot;record-breaking year&quot; for Apple services: December was a monthly TV engagement record, the App Store has 850M+ weekly users, and more &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260112/p16#a260112p16)
- - [Michael Saylor&#39;s Strategy bought 13,627 bitcoin for ~$1.25B between January 5 and 11, taking its total holdings to 687,410, and boosts its USD reserve to $2.25B &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/260112/p15#a260112p15)<!-- TECH:END -->
+ - [Google Gemini tech will be used in the all-new Siri after major Apple AI deal](https://appleinsider.com/articles/26/01/12/google-gemini-tech-will-be-used-in-the-all-new-siri-after-major-apple-ai-deal?utm_source=rss)
+ - [Apple&#39;s record-breaking year for Services is a preview for earnings](https://appleinsider.com/articles/26/01/12/apples-record-breaking-year-for-services-is-a-preview-for-earnings?utm_source=rss)
+ - [Apple TV &quot;Pluribus&quot; is stepping off the screen and into the real world with merch](https://appleinsider.com/articles/26/01/12/apple-tv-pluribus-is-stepping-off-the-screen-and-into-the-real-world-with-merch?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
