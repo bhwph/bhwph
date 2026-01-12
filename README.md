@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anthem players log in to say goodbye to the game they loved before it&#39;s gone forever: &#39;Strong alone, stronger together&#39;](https://www.pcgamer.com/games/action/anthem-players-log-in-to-say-goodbye-to-the-game-they-loved-before-its-gone-forever-strong-alone-stronger-together/)
- - [The sound of this one specific bird from Age of Empires keeps haunting me through pop songs, movies, and across other games](https://www.pcgamer.com/games/the-sound-of-this-one-specific-bird-from-age-of-empires-keeps-haunting-me-through-pop-songs-movies-and-across-other-games/)
- - [Five new Steam games you probably missed &lpar;January 12, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-12-2026/)<!-- GAME:END -->
+ - [Amazon Fire TV Soundbar Plus Hits New Record Low After Two Price Cuts in One Week &lpar;Newest Model With Built-in Subwoofer, 3.1 Channel, Dolby Atmos&rpar;](https://kotaku.com/amazon-fire-tv-soundbar-plus-hits-new-record-low-after-two-price-cuts-in-one-week-newest-model-with-built-in-subwoofer-3-1-channel-dolby-atmos-2000658522)
+ - [Peak dev solves game pricing and possibly all economics: &#39;4 bucks is also kind of 5 bucks, 3 bucks is 2 bucks. And 2 bucks is basically free&#39;](https://www.pcgamer.com/games/adventure/peak-dev-solves-game-pricing-and-possibly-all-economics-4-bucks-is-also-kind-of-5-bucks-3-bucks-is-2-bucks-and-2-bucks-is-basically-free/)
+ - [Rhea Seehorn wins Golden Globes award, teases Pluribus season 2 is in the works](https://www.polygon.com/rhea-seehorn-golden-globes-win-season-2-pluribus/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
