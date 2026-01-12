@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wedbush expects monumental 2026 for Apple despite invisible AI strategy](https://appleinsider.com/articles/26/01/12/wedbush-expects-monumental-2026-for-apple-despite-invisible-ai-strategy?utm_source=rss)
- - [Google brings buy buttons to Gemini and AI search](https://www.theverge.com/news/860446/google-ai-shopping-standard-buy-button-gemini)
- - [Google removes AI Overviews results that gave ‘alarming’ medical advice](https://www.androidauthority.com/google-ai-overviews-pulled-over-wrong-medical-advice-3631747/)<!-- TECH:END -->
+ - [Apple beat Samsung to be the top phone seller in the world, and here’s why](https://www.androidauthority.com/apple-beat-samsung-top-phone-seller-3631771/)
+ - [Eddy Cue says 2025 was a &quot;record-breaking year&quot; for Apple services: December was a monthly TV engagement record, the App Store has 850M+ weekly users, and more &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260112/p16#a260112p16)
+ - [Michael Saylor&#39;s Strategy bought 13,627 bitcoin for ~$1.25B between January 5 and 11, taking its total holdings to 687,410, and boosts its USD reserve to $2.25B &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/260112/p15#a260112p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
