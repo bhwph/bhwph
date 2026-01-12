@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos may finally add a long-awaited video playback feature](https://www.androidauthority.com/google-photos-video-playback-speed-apk-teardown-3631639/)
- - [Galaxy S27 Ultra leak brings primary camera upgrade into focus](https://www.androidauthority.com/galaxy-s27-ultra-primary-camera-leak-3631634/)
- - [OnePlus might have cancelled two eagerly anticipated flagships](https://www.androidauthority.com/oneplus-open-2-canceled-leak-3631611/)<!-- TECH:END -->
+ - [CES 2026 report: AI, autonomy, and robotic products are still finding their way, country-level booths are growing, Nvidia underpinned much of the show, and more &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/260112/p7#a260112p7)
+ - [Fitbit’s AI coach has completely changed my workouts](https://www.androidauthority.com/fitbit-ai-coach-3630732/)
+ - [We asked if YouTube’s unskippable ads have gone too far, and readers didn’t hold back](https://www.androidauthority.com/youtube-unskippable-ads-regulatory-action-survey-results-3631630/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
