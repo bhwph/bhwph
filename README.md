@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [\u202e\u202e\u202e](http://9gag.com/gag/aNDXx3A)
- - 😝 [Serves you right](http://9gag.com/gag/adBMme2)
+ - 6️⃣ [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
+ - 😝 [Mashhad has fallen](http://9gag.com/gag/a4P8Dod)
  - 👉 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)<!-- MEMES:END -->
 
 --- 
