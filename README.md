@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Comparing Pokémon’s New $200 Lego Pikachu With Mega Bloks’ $50 Version](https://kotaku.com/comparing-legos-new-200-pikachu-set-to-mega-bloks-50-version-2000658904)
- - [Noctua once again delays its fan-equipped mouse and 140 mm desk fan but we&#39;re still on for the launch of its all-in-one liquid cooler soon](https://www.pcgamer.com/hardware/cooling/noctua-once-again-delays-its-fan-equipped-mouse-and-140-mm-desk-fan-but-were-still-on-for-the-launch-of-its-all-in-one-liquid-cooler-soon/)
- - [Not-Pokémon With Guns Survival Sim Palworld Is Launching A Not-Pokémon Card Game](https://kotaku.com/palworld-pokemon-card-game-trailer-2000658887)<!-- GAME:END -->
+ - [Evil Dead Rise director Lee Cronin&#39;s The Mummy looks terrifying](https://www.polygon.com/lee-cronin-the-mummy-movie-trailer/)
+ - [Anthem shutdown prompts fans to share their love and regrets](https://www.polygon.com/anthem-shutdown-community-final-moments-bioware-ea/)
+ - [&#39;Um, as a favor, if you buy a new one, please sell your gaming PC to our company&#39; says Tokyo-based computer store as it offers &#39;pretty high prices&#39;](https://www.pcgamer.com/hardware/gaming-pcs/um-as-a-favor-if-you-buy-a-new-one-please-sell-your-gaming-pc-to-our-company-says-tokyo-based-computer-store-as-it-offers-pretty-high-prices/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
