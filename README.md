@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Second developer betas for iOS 26.3, macOS Tahoe 26.3 have arrived](https://appleinsider.com/articles/26/01/12/second-developer-betas-for-ios-263-macos-tahoe-263-have-arrived?utm_source=rss)
- - [Apple confirms: Gemini will power a new and improved Siri this year](https://www.androidauthority.com/apple-siri-google-gemini-deal-3631890/)
- - [Smart home at CES 2026 and HomeKit architecture deadline on the latest HomeKit Insider](https://appleinsider.com/articles/26/01/12/smart-home-at-ces-2026-and-homekit-architecture-deadline-on-the-latest-homekit-insider?utm_source=rss)<!-- TECH:END -->
+ - [January 2026’s Pixel update is here to fix noisy ringback tones and battery drain issues](https://www.androidauthority.com/january-2026-pixel-software-update-3631906/)
+ - [Baseus’ retractable travel adapter is on sale for more than 50 percent off today](https://www.theverge.com/gadgets/860791/baseus-enercore-cg11-6-in-1-universal-travel-adapter-deal-sale)
+ - [UK pushes up a law criminalizing deepfake nudes in response to Grok](https://www.theverge.com/news/860881/uk-ai-x-grok-law-criminalizing-deepfake-nudes-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
