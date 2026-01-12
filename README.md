@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic announces Claude for Healthcare to offer HIPAA-ready tools for providers, insurers, and consumers, and expands its life sciences offerings &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/260111/p20#a260111p20)
- - [ATG, which is developing the AI-powered wealth strategist app Autonomous, emerges from stealth and raises a $15M pre-seed led by Y Combinator CEO Garry Tan &lpar;Geoff Weiss/Business Insider&rpar;](http://www.techmeme.com/260111/p19#a260111p19)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 12, #946](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-12-946/)<!-- TECH:END -->
+ - [A profile of SpaceX president Gwynne Shotwell, who has worked at the company since 2002, and is known as a customer emissary and Musk translator &lpar;Micah Maidenberg/Wall Street Journal&rpar;](http://www.techmeme.com/260111/p21#a260111p21)
+ - [You need to listen to Billy Woods’ horrorcore masterpiece for the A24 crowd](https://www.theverge.com/column/860372/billy-woods-horrorcore-masterpiece-golliwog-a24)
+ - [Anthropic announces Claude for Healthcare to offer HIPAA-ready tools for providers, insurers, and consumers, and expands its life sciences offerings &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/260111/p20#a260111p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
