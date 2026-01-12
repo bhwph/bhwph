@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S26 series might finally make 24MP photos worth using](https://www.androidauthority.com/samsung-galaxy-s26-24mp-shooting-details-3631600/)
- - [A profile of China&#39;s CXMT, whose $4.2B IPO goal would rank among the century&#39;s biggest chip debuts, as the memory chip maker faces US and South Korean curbs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260112/p2#a260112p2)
- - [Galaxy S25 series is doing something Samsung phones almost never do](https://www.androidauthority.com/samsung-galaxy-s25-sales-spike-3631598/)<!-- TECH:END -->
+ - [Google Photos may finally add a long-awaited video playback feature](https://www.androidauthority.com/google-photos-video-playback-speed-apk-teardown-3631639/)
+ - [Galaxy S27 Ultra leak brings primary camera upgrade into focus](https://www.androidauthority.com/galaxy-s27-ultra-primary-camera-leak-3631634/)
+ - [OnePlus might have cancelled two eagerly anticipated flagships](https://www.androidauthority.com/oneplus-open-2-canceled-leak-3631611/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
