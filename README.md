@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer World, Games Workshop&#39;s pub-slash-hobby store celebrating the venerable wargame, is coming to the US](https://www.pcgamer.com/games/board-games/warhammer-world-games-workshops-pub-slash-hobby-store-celebrating-the-venerable-wargame-is-coming-to-the-us/)
- - [&#39;Don’t toil away on the things that don’t really matter&#39;: Peak creator says its rapid development cycle has &#39;proved that there are definitely different, but maybe better ways to make games&#39;](https://www.pcgamer.com/games/adventure/dont-toil-away-on-the-things-that-dont-really-matter-peak-creator-says-its-rapid-development-cycle-has-proved-that-there-are-definitely-different-but-maybe-better-ways-to-make-games/)
- - [The Elder Scrolls 6 can top Skyrim with a killer intro](https://www.polygon.com/elder-scrolls-6-tes6-setting-story/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;January 12, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-12-2026/)
+ - [A dev on Minecraft-like Hytale has already used its creative tools to make a homebrew side-scroller](https://www.pcgamer.com/games/survival-crafting/a-dev-on-minecraft-like-hytale-has-already-used-its-creative-tools-to-make-a-homebrew-side-scroller/)
+ - [Warhammer World, Games Workshop&#39;s pub-slash-hobby store celebrating the venerable wargame, is coming to the US](https://www.pcgamer.com/games/board-games/warhammer-world-games-workshops-pub-slash-hobby-store-celebrating-the-venerable-wargame-is-coming-to-the-us/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
