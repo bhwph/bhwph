@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [January 2026’s Pixel update is here to fix noisy ringback tones and battery drain issues](https://www.androidauthority.com/january-2026-pixel-software-update-3631906/)
- - [Baseus’ retractable travel adapter is on sale for more than 50 percent off today](https://www.theverge.com/gadgets/860791/baseus-enercore-cg11-6-in-1-universal-travel-adapter-deal-sale)
- - [UK pushes up a law criminalizing deepfake nudes in response to Grok](https://www.theverge.com/news/860881/uk-ai-x-grok-law-criminalizing-deepfake-nudes-ai)<!-- TECH:END -->
+ - [Hands-on with Claude Cowork: looks well positioned to bring the powerful capabilities of Claude Code to a wider audience, but risks of prompt injections remain &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260112/p35#a260112p35)
+ - [Meta plans to lay off hundreds of metaverse employees this week](https://www.theverge.com/news/860984/meta-reality-labs-layoffs-metaverse)
+ - [FBI Agent’s Sworn Testimony Contradicts Claims ICE’s Jonathan Ross Made Under Oath](https://www.wired.com/story/fbi-agents-sworn-testimony-contradicts-claims-ices-jonathan-ross-made-under-oath/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
