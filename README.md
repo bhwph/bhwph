@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CES 2026 report: AI, autonomy, and robotic products are still finding their way, country-level booths are growing, Nvidia underpinned much of the show, and more &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/260112/p7#a260112p7)
- - [Fitbit’s AI coach has completely changed my workouts](https://www.androidauthority.com/fitbit-ai-coach-3630732/)
- - [We asked if YouTube’s unskippable ads have gone too far, and readers didn’t hold back](https://www.androidauthority.com/youtube-unskippable-ads-regulatory-action-survey-results-3631630/)<!-- TECH:END -->
+ - [Wedbush expects monumental 2026 for Apple despite invisible AI strategy](https://appleinsider.com/articles/26/01/12/wedbush-expects-monumental-2026-for-apple-despite-invisible-ai-strategy?utm_source=rss)
+ - [Google brings buy buttons to Gemini and AI search](https://www.theverge.com/news/860446/google-ai-shopping-standard-buy-button-gemini)
+ - [Google removes AI Overviews results that gave ‘alarming’ medical advice](https://www.androidauthority.com/google-ai-overviews-pulled-over-wrong-medical-advice-3631747/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
