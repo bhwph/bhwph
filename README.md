@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
+ - 6️⃣ [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)
  - 😝 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
  - 👉 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)<!-- MEMES:END -->
 
