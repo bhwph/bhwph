@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon just got permission to keep your phone locked for longer](https://www.androidauthority.com/verizon-60-days-unlock-ending-3631962/)
- - [Nvidia denies that it asked Chinese customers to pay upfront for H200 chips, saying it &quot;would never require customers to pay for products they do not receive&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/260112/p40#a260112p40)
- - [A late-2025 amendment to California&#39;s wealth tax proposal treats founder control as ownership, a move that could end founder-controlled startups in the state &lpar;Mike Solana/Pirate Wires&rpar;](http://www.techmeme.com/260112/p39#a260112p39)<!-- TECH:END -->
+ - [How to import and export Markdown with Apple Notes in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-import-and-export-markdown-with-apple-notes-in-ios-26?utm_source=rss)
+ - [Chinese chipmaker GigaDevice rose 54% in its Hong Kong debut after raising ~$600M in its IPO, and reported H1 2025 profit of ~$84M, up 14% from H2 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260112/p41#a260112p41)
+ - [Verizon just got permission to keep your phone locked for longer](https://www.androidauthority.com/verizon-60-days-unlock-ending-3631962/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
