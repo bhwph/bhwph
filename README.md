@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
- - 😝 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
- - 👉 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
+ - 6️⃣ [Walk it off like a boss](http://9gag.com/gag/avyq26W)
+ - 😝 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
+ - 👉 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)<!-- MEMES:END -->
 
 --- 
 
