@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Planning to buy an AYN Thor? You don’t have long to lock in a low price](https://www.androidauthority.com/ayn-thor-android-handheld-price-increase-3632062/)
- - [Google Search is hiding a fun surprise for anyone interested in America’s anniversary](https://www.androidauthority.com/google-search-america-anniversary-easter-egg-3632044/)
- - [Flip, which offers an Alexa-like voice AI experience for businesses, raised a $20M Series A, bringing its total funding to $31M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260113/p31#a260113p31)<!-- TECH:END -->
+ - [The US Senate passes the Defiance Act that would allow victims to sue over nonconsensual, sexually explicit AI-generated images, amid furor over Grok images &lpar;Bloomberg&rpar;](http://www.techmeme.com/260113/p38#a260113p38)
+ - [The US FCC waives a rule that forced Verizon to unlock phones 60 days after they are activated, which could make it harder for people to switch from Verizon &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/260113/p37#a260113p37)
+ - [Taiwan issues an arrest warrant for OnePlus CEO Pete Lau for allegedly illegally hiring 70+ Taiwanese engineers, as it tries to stop China from raiding workers &lpar;Li Liu/Bloomberg&rpar;](http://www.techmeme.com/260113/p36#a260113p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
