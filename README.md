@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [Press F for respect.](http://9gag.com/gag/azxz6yK)
  - 😝 [Shot of a lifetime, captured from a car window](http://9gag.com/gag/a7oBj5z)
- - 👉 [Are we there yet?](http://9gag.com/gag/a9yeQ8j)<!-- MEMES:END -->
+ - 👉 [Driverless delivery vans have become a total meme](http://9gag.com/gag/aPA0OLK)<!-- MEMES:END -->
 
 --- 
 
