@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Roblox&#39;s AI-powered age verification system, which expanded globally last week using tech from a company called Persona, faces criticism for misidentifying ages &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/260113/p40#a260113p40)
- - [RFK Jr.’s new food pyramid could be a disaster for the environment — if Americans actually follow it](https://www.theverge.com/report/861326/meat-food-pyramid-protein-nutrition-guideline-climate-beef-whole-milk-tallow)<!-- TECH:END -->
+ - [Sources: AI chipmaker Cerebras is in talks to raise ~$1B, valuing the startup at $22B before the new investment, up from an $8.1B valuation in September 2025 &lpar;The Information&rpar;](http://www.techmeme.com/260113/p46#a260113p46)
+ - [Filing: the US greenlights Nvidia H200 exports to China; the chips will be tested by a 3rd-party lab to confirm their AI capabilities before they can be shipped &lpar;Reuters&rpar;](http://www.techmeme.com/260113/p45#a260113p45)
+ - [Google says it’s working to fix the bug screwing up your volume keys](https://www.androidauthority.com/android-select-to-speak-bug-3632218/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
