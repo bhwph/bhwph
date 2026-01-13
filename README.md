@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Senate passes the Defiance Act that would allow victims to sue over nonconsensual, sexually explicit AI-generated images, amid furor over Grok images &lpar;Bloomberg&rpar;](http://www.techmeme.com/260113/p38#a260113p38)
- - [The US FCC waives a rule that forced Verizon to unlock phones 60 days after they are activated, which could make it harder for people to switch from Verizon &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/260113/p37#a260113p37)
- - [Taiwan issues an arrest warrant for OnePlus CEO Pete Lau for allegedly illegally hiring 70+ Taiwanese engineers, as it tries to stop China from raiding workers &lpar;Li Liu/Bloomberg&rpar;](http://www.techmeme.com/260113/p36#a260113p36)<!-- TECH:END -->
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
+ - [Roblox&#39;s AI-powered age verification system, which expanded globally last week using tech from a company called Persona, faces criticism for misidentifying ages &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/260113/p40#a260113p40)
+ - [RFK Jr.’s new food pyramid could be a disaster for the environment — if Americans actually follow it](https://www.theverge.com/report/861326/meat-food-pyramid-protein-nutrition-guideline-climate-beef-whole-milk-tallow)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
