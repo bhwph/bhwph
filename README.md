@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
- - 😝 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
- - 👉 [Walk it off like a boss](http://9gag.com/gag/avyq26W)<!-- MEMES:END -->
+ - 6️⃣ [Everything done right!](http://9gag.com/gag/agm93Yw)
+ - 😝 [If you want to be happy for the rest of your life.](http://9gag.com/gag/azxy7Yp)
+ - 👉 [Sounds right to me.](http://9gag.com/gag/aGyqPZX)<!-- MEMES:END -->
 
 --- 
 
