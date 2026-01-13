@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft Follows Up Request For Employees To Lay Themselves Off By Doing It Itself](https://kotaku.com/ubisoft-layoffs-division-3-massive-tencent-2000659368)
- - [Arc Raiders&#39; Cold Snap event is over, which means I have my sights set on the next possible event: a toxic swamp and maybe even a volcanic eruption](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-cold-snap-event-is-over-which-means-i-have-my-sights-set-on-the-next-possible-event-a-toxic-swamp-and-maybe-even-a-volcanic-eruption/)
- - [CES 2026 might have been a damp squib in many areas but not when it comes to gaming monitors](https://www.pcgamer.com/hardware/gaming-monitors/ces-2026-might-have-been-a-damp-squib-in-many-areas-but-not-when-it-comes-to-gaming-monitors/)<!-- GAME:END -->
+ - [Jimmy Savile: 28 Years Later star explains his character&#39;s disturbing real-life inspiration](https://www.polygon.com/28-years-later-bone-temple-jack-oconnell-jimmy-savile/)
+ - [Xbox Legend Major Nelson Is Unity’s Latest Layoff](https://kotaku.com/xbox-major-nelson-unity-layoffs-2000659406)
+ - [Scalpers Are Already Trying To Flip The Pokémon Legos](https://kotaku.com/pokemon-lego-scalper-charizard-pikachu-eevee-ebay-price-2000659400)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
