@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung extends its six-year update policy to its cheapest 5G phone](https://www.androidauthority.com/samsung-a07-5g-six-years-updates-3631814/)
- - [PSA: Hate the Ask button in Google Photos? You can get rid of it easily](https://www.androidauthority.com/google-photos-ask-button-disable-3631979/)
- - [A look at WhatsApp&#39;s enormous global reach and influence, and how the messaging app became the dominant platform for everyday conversation worldwide &lpar;Sam Knight/New Yorker&rpar;](http://www.techmeme.com/260113/p4#a260113p4)<!-- TECH:END -->
+ - [Microsoft is retiring its Office Lens app on iOS and Android](https://www.theverge.com/news/861102/microsoft-office-lens-app-end-of-support-retirement)
+ - [Here’s why my Gemini fitness journey turned into a disaster](https://www.androidauthority.com/my-gemini-fitness-journey-problems-3631703/)
+ - [Everything You Need to Know About Importing a Chinese Smartphone](https://www.wired.com/story/tips-on-importing-a-chinese-smartphone/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
