@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Opening a street camera....](http://9gag.com/gag/a34gvq7)
- - 😝 [Directed by Robert B. Weide](http://9gag.com/gag/a4P8eq1)
- - 👉 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)<!-- MEMES:END -->
+ - 6️⃣ [British Humour: No Laugh Track Required &lpar;not amurican humor&rpar;](http://9gag.com/gag/a2vgzYY)
+ - 😝 [You hear that Donald?](http://9gag.com/gag/aqyM45M)
+ - 👉 [Watch a Master do his craft](http://9gag.com/gag/aoyomY0)<!-- MEMES:END -->
 
 --- 
 
