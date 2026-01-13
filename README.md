@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Driverless delivery vans have become a total meme](http://9gag.com/gag/aPA0OLK)
- - 😝 [Are we there yet?](http://9gag.com/gag/a9yeQ8j)
- - 👉 [Without.....](http://9gag.com/gag/an73pMn)<!-- MEMES:END -->
+ - 6️⃣ [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
+ - 😝 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
+ - 👉 [Walk it off like a boss](http://9gag.com/gag/avyq26W)<!-- MEMES:END -->
 
 --- 
 
