@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If I could change one thing in Arc Raiders this year, I&#39;d abolish late spawns](https://www.pcgamer.com/games/third-person-shooter/if-i-could-change-one-thing-in-arc-raiders-this-year-id-abolish-late-spawns/)
- - [Arc Raiders patch nerfs two of the game&#39;s best items](https://www.polygon.com/arc-raiders-patch-notes-weapon-nerfs/)
- - [KonoSuba season 4 is officially confirmed](https://www.polygon.com/konosuba-season-4-confirmed-announcement/)<!-- GAME:END -->
+ - [Ubisoft Follows Up Request For Employees To Lay Themselves Off By Doing It Itself](https://kotaku.com/ubisoft-layoffs-division-3-massive-tencent-2000659368)
+ - [Arc Raiders&#39; Cold Snap event is over, which means I have my sights set on the next possible event: a toxic swamp and maybe even a volcanic eruption](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-cold-snap-event-is-over-which-means-i-have-my-sights-set-on-the-next-possible-event-a-toxic-swamp-and-maybe-even-a-volcanic-eruption/)
+ - [CES 2026 might have been a damp squib in many areas but not when it comes to gaming monitors](https://www.pcgamer.com/hardware/gaming-monitors/ces-2026-might-have-been-a-damp-squib-in-many-areas-but-not-when-it-comes-to-gaming-monitors/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
