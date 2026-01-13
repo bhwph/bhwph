@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is retiring its Office Lens app on iOS and Android](https://www.theverge.com/news/861102/microsoft-office-lens-app-end-of-support-retirement)
- - [Here’s why my Gemini fitness journey turned into a disaster](https://www.androidauthority.com/my-gemini-fitness-journey-problems-3631703/)
- - [Everything You Need to Know About Importing a Chinese Smartphone](https://www.wired.com/story/tips-on-importing-a-chinese-smartphone/)<!-- TECH:END -->
+ - [IDC: in Q4 2025, global PC shipments rose nearly 10% YoY to 76.4M units, helped by Windows 10 end-of-support and OEMs pulling forward inventory amid tariffs &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260113/p15#a260113p15)
+ - [Boston- and Tel Aviv-based Converge Bio, which uses AI trained on molecular data to help pharma and biotech companies develop drugs, raised a $25M Series A &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/260113/p14#a260113p14)
+ - [NYC-based Proxima, which uses AI to design drugs that control protein interactions, raised an $80M seed led by DCVC, with participation from Nvidia and others &lpar;Agnee Ghosh/Bloomberg&rpar;](http://www.techmeme.com/260113/p13#a260113p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
