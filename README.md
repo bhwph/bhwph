@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jimmy Savile: 28 Years Later star explains his character&#39;s disturbing real-life inspiration](https://www.polygon.com/28-years-later-bone-temple-jack-oconnell-jimmy-savile/)
- - [Xbox Legend Major Nelson Is Unity’s Latest Layoff](https://kotaku.com/xbox-major-nelson-unity-layoffs-2000659406)
- - [Scalpers Are Already Trying To Flip The Pokémon Legos](https://kotaku.com/pokemon-lego-scalper-charizard-pikachu-eevee-ebay-price-2000659400)<!-- GAME:END -->
+ - [Fortnite Creative&#39;s new in-game purchases slammed for sketchy pricey bundles](https://www.polygon.com/fortnite-creative-microtransactions-gambling-steal-the-brainrot/)
+ - [EA delays Battlefield 6&#39;s next season a month to &#39;further polish and refine Season 2,&#39; and the only words I want to hear next are &#39;bigger maps&#39;](https://www.pcgamer.com/games/fps/ea-delays-battlefield-6s-next-season-a-month-to-further-polish-and-refine-season-2-and-the-only-words-i-want-to-hear-next-are-bigger-maps/)
+ - [Meta layoffs mean big cuts in VR gaming, as 3 studios close](https://www.polygon.com/meta-layoffs-vr-game-studios-twisted-pixel-sanzaru-games/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
