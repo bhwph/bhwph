@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix will invest ~$12.9B to build an advanced chip packaging plant in South Korea to meet rising memory chip demand, targeting completion by the end of 2027 &lpar;Reuters&rpar;](http://www.techmeme.com/260112/p38#a260112p38)
- - [Trump says Microsoft will &quot;ensure&quot; Americans don&#39;t face higher bills due to data centers&#39; power use and Big Tech must &quot;pay their own way&quot; for their data centers &lpar;Business Insider&rpar;](http://www.techmeme.com/260112/p37#a260112p37)
- - [Cloudflare Says Winter Olympics Cybersecurity Is at Risk in Spat With Italian Regulators](https://www.cnet.com/tech/services-and-software/cloudflare-says-winter-olympics-cybersecurity-is-at-risk-in-spat-with-italian-regulators/)<!-- TECH:END -->
+ - [Verizon just got permission to keep your phone locked for longer](https://www.androidauthority.com/verizon-60-days-unlock-ending-3631962/)
+ - [Nvidia denies that it asked Chinese customers to pay upfront for H200 chips, saying it &quot;would never require customers to pay for products they do not receive&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/260112/p40#a260112p40)
+ - [A late-2025 amendment to California&#39;s wealth tax proposal treats founder control as ownership, a move that could end founder-controlled startups in the state &lpar;Mike Solana/Pirate Wires&rpar;](http://www.techmeme.com/260112/p39#a260112p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
