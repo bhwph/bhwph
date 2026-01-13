@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Press F for respect.](http://9gag.com/gag/azxz6yK)
- - 😝 [Shot of a lifetime, captured from a car window](http://9gag.com/gag/a7oBj5z)
- - 👉 [Driverless delivery vans have become a total meme](http://9gag.com/gag/aPA0OLK)<!-- MEMES:END -->
+ - 6️⃣ [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
+ - 😝 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
+ - 👉 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
 
 --- 
 
