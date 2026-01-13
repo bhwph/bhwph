@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online Players Keep Making Charlie Kirk Assassination Missions And Rockstar Keeps Deleting Them](https://kotaku.com/gta-online-charlie-kirk-killing-assassination-missions-rockstar-deleting-censor-block-2000659038)
- - [TikTok hit Quarantine Zone finally launched today and made the mistake of giving me a large medical hammer](https://www.pcgamer.com/games/sim/tiktok-hit-quarantine-zone-finally-launched-today-and-made-the-mistake-of-giving-me-a-large-medical-hammer/)
- - [Blue Prince, the best game of 2025 &lpar;don&#39;t check our GOTY just trust me&rpar; is on sale on Steam for under $20 for the first time](https://www.pcgamer.com/games/puzzle/blue-prince-the-best-game-of-2025-dont-check-our-goty-just-trust-me-is-on-sale-on-steam-for-under-usd20-for-the-first-time/)<!-- GAME:END -->
+ - [As Arc Raiders Declares Over 12 Million Sales, Trigger ‘Nade And Kettle Get PvP Nerfs](https://kotaku.com/arc-raiders-trigger-nade-kettle-pvp-nerfs-2000659269)
+ - [Amazon Turns This Ryzen 7 Mini Gaming PC Into a Budget Mac Mini Killer at an All-Time Low After a Third Price Cut](https://kotaku.com/amazon-turns-this-ryzen-7-mini-gaming-pc-into-a-budget-mac-mini-killer-at-an-all-time-low-after-a-third-price-cut-2000658985)
+ - [Even Rockstar baulks as a Charlie Kirk assassination mission is created in GTA Online, bans it and censors his name, but there&#39;s more out there](https://www.pcgamer.com/games/grand-theft-auto/even-rockstar-baulks-as-a-charlie-kirk-assassination-mission-is-created-in-gta-online-bans-it-and-censors-his-name-but-theres-more-out-there/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
