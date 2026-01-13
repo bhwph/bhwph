@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to import and export Markdown with Apple Notes in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-import-and-export-markdown-with-apple-notes-in-ios-26?utm_source=rss)
- - [Chinese chipmaker GigaDevice rose 54% in its Hong Kong debut after raising ~$600M in its IPO, and reported H1 2025 profit of ~$84M, up 14% from H2 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260112/p41#a260112p41)
- - [Verizon just got permission to keep your phone locked for longer](https://www.androidauthority.com/verizon-60-days-unlock-ending-3631962/)<!-- TECH:END -->
+ - [Design Within Reach Promo Codes: 30% Off | January 2026](https://www.wired.com/story/design-within-reach-promo-code/)
+ - [Microsoft warns Chinese companies, especially DeepSeek, are winning AI adoption outside the West, gaining significant market share in the Global South &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260113/p3#a260113p3)
+ - [20% Off LG Promo Code &amp; Coupons | January 2026](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
