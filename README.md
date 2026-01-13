@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IDC: in Q4 2025, global PC shipments rose nearly 10% YoY to 76.4M units, helped by Windows 10 end-of-support and OEMs pulling forward inventory amid tariffs &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260113/p15#a260113p15)
- - [Boston- and Tel Aviv-based Converge Bio, which uses AI trained on molecular data to help pharma and biotech companies develop drugs, raised a $25M Series A &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/260113/p14#a260113p14)
- - [NYC-based Proxima, which uses AI to design drugs that control protein interactions, raised an $80M seed led by DCVC, with participation from Nvidia and others &lpar;Agnee Ghosh/Bloomberg&rpar;](http://www.techmeme.com/260113/p13#a260113p13)<!-- TECH:END -->
+ - [Meta confirms it is laying off Reality Labs staff and will &quot;reinvest the savings&quot; in wearables; CTO Andrew Bosworth says 1,000+ staff will be notified Tuesday &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/260113/p22#a260113p22)
+ - [You can&#39;t read much into Mac sales shipment data, but IDC keeps trying](https://appleinsider.com/articles/26/01/13/you-cant-read-much-into-mac-sales-shipment-data-but-idc-keeps-trying?utm_source=rss)
+ - [Latin American VC funding rose 14.3% YoY in 2025 to $4.1B, with early-stage investment up 31.9% YoY to nearly $2B and late-stage/growth deals reaching $1.63B &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260113/p21#a260113p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
