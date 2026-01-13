@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Everything done right!](http://9gag.com/gag/agm93Yw)
- - 😝 [If you want to be happy for the rest of your life.](http://9gag.com/gag/azxy7Yp)
- - 👉 [Sounds right to me.](http://9gag.com/gag/aGyqPZX)<!-- MEMES:END -->
+ - 6️⃣ [Opening a street camera....](http://9gag.com/gag/a34gvq7)
+ - 😝 [Directed by Robert B. Weide](http://9gag.com/gag/a4P8eq1)
+ - 👉 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)<!-- MEMES:END -->
 
 --- 
 
