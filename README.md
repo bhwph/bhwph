@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Today, irony died.](http://9gag.com/gag/azxz0dq)
- - 😝 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
+ - 6️⃣ [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
+ - 😝 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
  - 👉 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
 
 --- 
