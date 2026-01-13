@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [As Arc Raiders Declares Over 12 Million Sales, Trigger ‘Nade And Kettle Get PvP Nerfs](https://kotaku.com/arc-raiders-trigger-nade-kettle-pvp-nerfs-2000659269)
- - [Amazon Turns This Ryzen 7 Mini Gaming PC Into a Budget Mac Mini Killer at an All-Time Low After a Third Price Cut](https://kotaku.com/amazon-turns-this-ryzen-7-mini-gaming-pc-into-a-budget-mac-mini-killer-at-an-all-time-low-after-a-third-price-cut-2000658985)
- - [Even Rockstar baulks as a Charlie Kirk assassination mission is created in GTA Online, bans it and censors his name, but there&#39;s more out there](https://www.pcgamer.com/games/grand-theft-auto/even-rockstar-baulks-as-a-charlie-kirk-assassination-mission-is-created-in-gta-online-bans-it-and-censors-his-name-but-theres-more-out-there/)<!-- GAME:END -->
+ - [If I could change one thing in Arc Raiders this year, I&#39;d abolish late spawns](https://www.pcgamer.com/games/third-person-shooter/if-i-could-change-one-thing-in-arc-raiders-this-year-id-abolish-late-spawns/)
+ - [Arc Raiders patch nerfs two of the game&#39;s best items](https://www.polygon.com/arc-raiders-patch-notes-weapon-nerfs/)
+ - [KonoSuba season 4 is officially confirmed](https://www.polygon.com/konosuba-season-4-confirmed-announcement/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
