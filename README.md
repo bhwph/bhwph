@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite Creative&#39;s new in-game purchases slammed for sketchy pricey bundles](https://www.polygon.com/fortnite-creative-microtransactions-gambling-steal-the-brainrot/)
- - [EA delays Battlefield 6&#39;s next season a month to &#39;further polish and refine Season 2,&#39; and the only words I want to hear next are &#39;bigger maps&#39;](https://www.pcgamer.com/games/fps/ea-delays-battlefield-6s-next-season-a-month-to-further-polish-and-refine-season-2-and-the-only-words-i-want-to-hear-next-are-bigger-maps/)
- - [Meta layoffs mean big cuts in VR gaming, as 3 studios close](https://www.polygon.com/meta-layoffs-vr-game-studios-twisted-pixel-sanzaru-games/)<!-- GAME:END -->
+ - [It&#39;s January 13 and Ubisoft just announced its second round of layoffs for 2026, at Massive Entertainment and Ubisoft Stockholm](https://www.pcgamer.com/gaming-industry/its-january-13-and-ubisoft-just-announced-its-second-round-of-layoffs-for-2026-at-massive-entertainment-and-ubisoft-stockholm/)
+ - [Don’t Let Todd Howard Catch You In This Fallout 4 Mod Or You’ll Die](https://kotaku.com/todd-howard-fallout-4-mod-blurbs-youtube-2000659450)
+ - [Stellar Blade Dev Believes ‘One Person Can Perform The Work Of 100 People’ With AI](https://kotaku.com/stellar-blade-2-gen-ai-shift-up-sequel-2000659439)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
