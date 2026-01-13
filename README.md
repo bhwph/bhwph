@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Walk it off like a boss](http://9gag.com/gag/avyq26W)
- - 😝 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
- - 👉 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)<!-- MEMES:END -->
+ - 6️⃣ [Press F for respect.](http://9gag.com/gag/azxz6yK)
+ - 😝 [Shot of a lifetime, captured from a car window](http://9gag.com/gag/a7oBj5z)
+ - 👉 [Are we there yet?](http://9gag.com/gag/a9yeQ8j)<!-- MEMES:END -->
 
 --- 
 
