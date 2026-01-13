@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Design Within Reach Promo Codes: 30% Off | January 2026](https://www.wired.com/story/design-within-reach-promo-code/)
- - [Microsoft warns Chinese companies, especially DeepSeek, are winning AI adoption outside the West, gaining significant market share in the Global South &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260113/p3#a260113p3)
- - [20% Off LG Promo Code &amp; Coupons | January 2026](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
+ - [Samsung extends its six-year update policy to its cheapest 5G phone](https://www.androidauthority.com/samsung-a07-5g-six-years-updates-3631814/)
+ - [PSA: Hate the Ask button in Google Photos? You can get rid of it easily](https://www.androidauthority.com/google-photos-ask-button-disable-3631979/)
+ - [A look at WhatsApp&#39;s enormous global reach and influence, and how the messaging app became the dominant platform for everyday conversation worldwide &lpar;Sam Knight/New Yorker&rpar;](http://www.techmeme.com/260113/p4#a260113p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
