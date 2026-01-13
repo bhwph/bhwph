@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rockstar Wins Initial Ruling Against Fired GTA 6 Devs: ‘We Regret That We Were Put In A Position Where Dismissals Were Necessary](https://kotaku.com/rockstar-wins-initial-ruling-against-fired-gta-6-devs-we-regret-that-we-were-put-in-a-position-where-dismissals-were-necessary-2000658984)
- - [Steam dev is deleting his own game after realizing AI is bad](https://www.polygon.com/steam-dev-deleting-own-game-generative-ai/)
- - [Indie dev is delisting his AI game from Steam because his new girlfriend convinced him it&#39;s evil: &#39;The game existing in its current form is a disgrace to all game makers and players&#39;](https://www.pcgamer.com/games/indie-dev-is-delisting-his-ai-game-from-steam-because-his-new-girlfriend-convinced-him-its-evil-the-game-existing-in-its-current-form-is-a-disgrace-to-all-game-makers-and-players/)<!-- GAME:END -->
+ - [GTA Online Players Keep Making Charlie Kirk Assassination Missions And Rockstar Keeps Deleting Them](https://kotaku.com/gta-online-charlie-kirk-killing-assassination-missions-rockstar-deleting-censor-block-2000659038)
+ - [TikTok hit Quarantine Zone finally launched today and made the mistake of giving me a large medical hammer](https://www.pcgamer.com/games/sim/tiktok-hit-quarantine-zone-finally-launched-today-and-made-the-mistake-of-giving-me-a-large-medical-hammer/)
+ - [Blue Prince, the best game of 2025 &lpar;don&#39;t check our GOTY just trust me&rpar; is on sale on Steam for under $20 for the first time](https://www.pcgamer.com/games/puzzle/blue-prince-the-best-game-of-2025-dont-check-our-goty-just-trust-me-is-on-sale-on-steam-for-under-usd20-for-the-first-time/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
