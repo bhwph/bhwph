@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s January 13 and Ubisoft just announced its second round of layoffs for 2026, at Massive Entertainment and Ubisoft Stockholm](https://www.pcgamer.com/gaming-industry/its-january-13-and-ubisoft-just-announced-its-second-round-of-layoffs-for-2026-at-massive-entertainment-and-ubisoft-stockholm/)
- - [Don’t Let Todd Howard Catch You In This Fallout 4 Mod Or You’ll Die](https://kotaku.com/todd-howard-fallout-4-mod-blurbs-youtube-2000659450)
- - [Stellar Blade Dev Believes ‘One Person Can Perform The Work Of 100 People’ With AI](https://kotaku.com/stellar-blade-2-gen-ai-shift-up-sequel-2000659439)<!-- GAME:END -->
+ - [How to repair in Hytale](https://www.pcgamer.com/games/survival-crafting/hytale-how-to-repair/)
+ - [Games Workshop says its senior managers aren&#39;t excited about AI, prohibits its use and laments that it&#39;s &#39;included on our phones or laptops whether we like it or not&#39;](https://www.pcgamer.com/software/ai/games-workshop-says-its-senior-managers-arent-excited-about-ai-prohibits-its-use-and-laments-that-its-included-on-our-phones-or-laptops-whether-we-like-it-or-not/)
+ - [Hytale&#39;s developer warned us the adventure sandbox &#39;isn&#39;t good yet,&#39; but it already feels pretty good to me](https://www.pcgamer.com/games/survival-crafting/hytales-developer-warned-us-the-adventure-sandbox-isnt-good-yet-but-it-already-feels-pretty-good-to-me/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
