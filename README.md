@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Animal Crossing’s 3.0 update dropped a little early](https://www.theverge.com/games/861725/animal-crossing-new-horizons-3-0-update-early-launch-nintendo-switch)
- - [Belgian startup Aikido Security, which offers automated security guardrails for developers, raised $60M led by DST Global at a $1B valuation &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/260114/p34#a260114p34)
- - [Source: Microsoft quietly becomes one of Anthropic&#39;s top clients and was recently on pace to spend nearly $500M/year for Anthropic to power Microsoft products &lpar;The Information&rpar;](http://www.techmeme.com/260114/p33#a260114p33)<!-- TECH:END -->
+ - [Samsung Internet for PC expands browser availability to everyone](https://www.androidauthority.com/samsung-internet-for-pc-expands-availability-3632380/)
+ - [Survey reveals the Galaxy Ring swelling scare has changed how you feel about smart rings](https://www.androidauthority.com/galaxy-ring-swelling-smart-rings-poll-result-3632374/)
+ - [Determined not to pay for YouTube Premium? Check out this ad-free VPN hack](https://www.androidauthority.com/youtube-vpn-hack-3632386/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
