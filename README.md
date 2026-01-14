@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI strikes a multibillion-dollar agreement to buy 750 MW of computing capacity from Cerebras over three years; sources: the deal is worth more than $10B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260114/p46#a260114p46)
- - [Thinking of adding a new T-Mobile line? You may qualify for an additional free line](https://www.androidauthority.com/bogo-2026-tmobile-3632408/)
- - [Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later](https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/)<!-- TECH:END -->
+ - [Level up your manicure with the Apple Watch charger](https://appleinsider.com/inside/apple-watch/tips/level-up-your-manicure-with-the-apple-watch-charger?utm_source=rss)
+ - [YouTube now lets parents set time limits on their kids&#39; YouTube Shorts feed, ranging from 15 minutes to two hours, with an option for zero minutes coming soon &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260114/p51#a260114p51)
+ - [Verizon’s wireless network is down for many people nationwide](https://www.theverge.com/news/861956/verizon-is-down-outage-cell-wireless-service-sos-mode)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
