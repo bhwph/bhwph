@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Major memory module manufacturer says: &#39;Trust me, we&#39;re not laughing our way to the bank&#39;](https://www.pcgamer.com/hardware/memory/major-memory-module-manufacturer-says-trust-me-were-not-laughing-our-way-to-the-bank/)
- - [Demon Slayer: Infinity Castle interview: Inside the the creative process and stunning success of 2025&#39;s biggest anime](https://www.polygon.com/ufotable-hikaru-kondo-demon-slayer-infinity-castle-anime-2025/)
- - [UK police apologise to parliament after admitting a major and controversial policy decision was based on AI making stuff up](https://www.pcgamer.com/software/ai/uk-police-apologise-to-parliament-after-admitting-a-major-and-controversial-policy-decision-was-based-on-ai-making-stuff-up/)<!-- GAME:END -->
+ - [PlayStation Plus Game Catalog for January: Resident Evil Village, Like a Dragon: Infinite Wealth, Expeditions: A MudRunner Game and more](https://blog.playstation.com/2026/01/14/playstation-plus-game-catalog-for-january-resident-evil-village-like-a-dragon-infinite-wealth-expeditions-a-mudrunner-game-and-more/)
+ - [What it&#39;s like to return to Animal Crossing: New Horizons after years away](https://www.polygon.com/animal-crossing-new-horizons-returning-home/)
+ - [Rockstar Is Now Selling $200+ GTA Roleplay Mod Bundles On Its New Marketplace](https://kotaku.com/gta-cfx-marketplace-mods-online-rdr2-2000659824)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
