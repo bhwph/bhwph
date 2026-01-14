@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon says it is &quot;aware of an issue impacting wireless voice and data services for some customers&quot;, as thousands of users report no cellular reception &lpar;Jacob Krol/TechRadar&rpar;](http://www.techmeme.com/260114/p42#a260114p42)
- - [This Android handheld delay reveals just how bad the RAM problem really is](https://www.androidauthority.com/ayaneo-pocket-fit-elite-android-halndheld-progress-update-3632421/)
- - [Gemini is winning](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner)<!-- TECH:END -->
+ - [OpenAI strikes a multibillion-dollar agreement to buy 750 MW of computing capacity from Cerebras over three years; sources: the deal is worth more than $10B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260114/p46#a260114p46)
+ - [Thinking of adding a new T-Mobile line? You may qualify for an additional free line](https://www.androidauthority.com/bogo-2026-tmobile-3632408/)
+ - [Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later](https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
