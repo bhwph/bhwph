@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI chipmaker Cerebras is in talks to raise ~$1B, valuing the startup at $22B before the new investment, up from an $8.1B valuation in September 2025 &lpar;The Information&rpar;](http://www.techmeme.com/260113/p46#a260113p46)
- - [Filing: the US greenlights Nvidia H200 exports to China; the chips will be tested by a 3rd-party lab to confirm their AI capabilities before they can be shipped &lpar;Reuters&rpar;](http://www.techmeme.com/260113/p45#a260113p45)
- - [Google says it’s working to fix the bug screwing up your volume keys](https://www.androidauthority.com/android-select-to-speak-bug-3632218/)<!-- TECH:END -->
+ - [Sources: Apple and Qualcomm are scrambling to secure glass cloth fiber, used in chip substrates and PCBs, as the AI boom boosts demand for the component &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260113/p55#a260113p55)
+ - [Best Fiber Internet Providers for January 2026](https://www.cnet.com/home/internet/best-fiber-internet-providers/)
+ - [Holistic Resilience, a US group that helps Iranians secure internet access, says SpaceX has waived Starlink subscription fees amid a days-long internet blackout &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/260113/p54#a260113p54)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
