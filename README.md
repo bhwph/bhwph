@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Remix in Google Photos could feel less overwhelming with this upcoming upgrade](https://www.androidauthority.com/google-photos-remix-template-categories-3632292/)
- - [5 reasons why the Pixel 10a might release a lot sooner than expected](https://www.androidauthority.com/google-pixel-10a-early-release-date-rumors-why-3632060/)
- - [7 Best Phones You Can’t Buy in the US &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/)<!-- TECH:END -->
+ - [WIRED Tested Dozens of Blenders. These Are Our 8 Favorites &lpar;2026&rpar;](https://www.wired.com/gallery/best-blender/)
+ - [Sources: McKinsey pilots an overhaul in how it recruits its next generation, asking candidates to use its AI tool Lilli to analyze a case study during a test &lpar;Financial Times&rpar;](http://www.techmeme.com/260114/p27#a260114p27)
+ - [Nothing says your next phone will be more expensive, specs race is over](https://www.androidauthority.com/nothing-more-expensive-phones-specs-race-3632327/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
