@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WIRED Tested Dozens of Blenders. These Are Our 8 Favorites &lpar;2026&rpar;](https://www.wired.com/gallery/best-blender/)
- - [Sources: McKinsey pilots an overhaul in how it recruits its next generation, asking candidates to use its AI tool Lilli to analyze a case study during a test &lpar;Financial Times&rpar;](http://www.techmeme.com/260114/p27#a260114p27)
- - [Nothing says your next phone will be more expensive, specs race is over](https://www.androidauthority.com/nothing-more-expensive-phones-specs-race-3632327/)<!-- TECH:END -->
+ - [Animal Crossing’s 3.0 update dropped a little early](https://www.theverge.com/games/861725/animal-crossing-new-horizons-3-0-update-early-launch-nintendo-switch)
+ - [Belgian startup Aikido Security, which offers automated security guardrails for developers, raised $60M led by DST Global at a $1B valuation &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/260114/p34#a260114p34)
+ - [Source: Microsoft quietly becomes one of Anthropic&#39;s top clients and was recently on pace to spend nearly $500M/year for Anthropic to power Microsoft products &lpar;The Information&rpar;](http://www.techmeme.com/260114/p33#a260114p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
