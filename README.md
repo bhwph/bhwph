@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey: 41% of US teens aged 13 to 17 support a ban on middle and high school students from using phones in class while 51% oppose it; 73% oppose a full-day ban &lpar;Pew Research Center&rpar;](http://www.techmeme.com/260113/p56#a260113p56)
- - [Gemini-trained Apple Intelligence will work like other LLMs, says unsurprising report](https://appleinsider.com/articles/26/01/14/gemini-trained-apple-intelligence-will-work-like-other-llms-says-unsurprising-report?utm_source=rss)
- - [Sources: Apple and Qualcomm are scrambling to secure glass cloth fiber, used in chip substrates and PCBs, as the AI boom boosts demand for the component &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260113/p55#a260113p55)<!-- TECH:END -->
+ - [OnePlus CEO faces arrest warrant in Taiwan amid major probe](https://www.androidauthority.com/oneplus-ceo-pete-lau-arrest-warrant-taiwan-3632246/)
+ - [Matthew McConaughey has secured eight trademarks of himself from the USPTO in the past several months to protect his likeness and voice from unauthorized AI use &lpar;Ben Fritz/Wall Street Journal&rpar;](http://www.techmeme.com/260113/p57#a260113p57)
+ - [How to master the Camera app on iPhone Air](https://appleinsider.com/articles/26/01/14/how-to-master-the-camera-app-on-iphone-air?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
