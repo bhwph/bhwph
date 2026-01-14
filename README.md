@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout Season 2 episode 5 finally mentions Forced Evolutionary Virus, an integral part of the Wasteland and the source of the Super Mutants](https://www.pcgamer.com/games/fallout/fallout-season-2-episode-5-finally-mentions-forced-evolutionary-virus-an-integral-part-of-the-wasteland-and-the-source-of-the-super-mutants/)
- - [Fallout Season 2 Episode 5 recap: &#39;Another player at the table&#39;](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-5-recap-another-player-at-the-table/)
- - [Music marketplace Bandcamp bypasses AI disclosures and obtuse policies to announce a wholesale ban on AI slop](https://www.pcgamer.com/gaming-industry/music-marketplace-bandcamp-bypasses-ai-disclosures-and-obtuse-policies-to-announce-a-wholesale-ban-on-ai-slop/)<!-- GAME:END -->
+ - [Rockstar bans &#39;Charlie Kirk&#39; in user-created GTA Online missions](https://www.polygon.com/rockstar-bans-charlie-kirk-gta-online-missions/)
+ - [Framework &#39;held off as long as we could&#39; but just cranked up prices of its Desktops and Mainboards](https://www.pcgamer.com/hardware/memory/framework-held-off-as-long-as-we-could-but-just-cranked-up-prices-of-its-desktops-and-mainboards/)
+ - [Animal Crossing: New Horizons 3.0 update is out early](https://www.polygon.com/animal-crossing-new-horizons-update-release/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
