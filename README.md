@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How smuggled Starlink receivers and customized software let some Iranians evade a near-total internet blackout as the regime brutally cracked down on protesters &lpar;Financial Times&rpar;](http://www.techmeme.com/260114/p5#a260114p5)
- - [$50 Target Promo Code &amp; Coupons | January 2026](https://www.wired.com/story/target-promo-code/)
- - [Caterpillar hits a $300B market cap for the first time, driven by demand for its data center power generation equipment; CAT is up 12% in 2026 to a record ~$640 &lpar;Matthew Griffin/Bloomberg&rpar;](http://www.techmeme.com/260114/p4#a260114p4)<!-- TECH:END -->
+ - [Hate the Ask feature in Google Photos? Too bad, Google is doubling down on it.](https://www.androidauthority.com/google-photos-ask-moments-apk-teardown-3632279/)
+ - [Q&amp;A with Reid Hoffman on wanting Silicon Valley to speak out against the Trump administration, AI regulation, the role of AI in art and creativity, and more &lpar;Katie Drummond/Wired&rpar;](http://www.techmeme.com/260114/p14#a260114p14)
+ - [Analysis: DeepSeek&#39;s hedge fund parent High-Flyer posted 56.6% average returns across its quant funds in 2025, boosting potential cash available for DeepSeek &lpar;Bloomberg&rpar;](http://www.techmeme.com/260114/p13#a260114p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
