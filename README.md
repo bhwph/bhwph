@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hate the Ask feature in Google Photos? Too bad, Google is doubling down on it.](https://www.androidauthority.com/google-photos-ask-moments-apk-teardown-3632279/)
- - [Q&amp;A with Reid Hoffman on wanting Silicon Valley to speak out against the Trump administration, AI regulation, the role of AI in art and creativity, and more &lpar;Katie Drummond/Wired&rpar;](http://www.techmeme.com/260114/p14#a260114p14)
- - [Analysis: DeepSeek&#39;s hedge fund parent High-Flyer posted 56.6% average returns across its quant funds in 2025, boosting potential cash available for DeepSeek &lpar;Bloomberg&rpar;](http://www.techmeme.com/260114/p13#a260114p13)<!-- TECH:END -->
+ - [Remix in Google Photos could feel less overwhelming with this upcoming upgrade](https://www.androidauthority.com/google-photos-remix-template-categories-3632292/)
+ - [5 reasons why the Pixel 10a might release a lot sooner than expected](https://www.androidauthority.com/google-pixel-10a-early-release-date-rumors-why-3632060/)
+ - [7 Best Phones You Can’t Buy in the US &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
