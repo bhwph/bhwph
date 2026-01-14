@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rockstar bans &#39;Charlie Kirk&#39; in user-created GTA Online missions](https://www.polygon.com/rockstar-bans-charlie-kirk-gta-online-missions/)
- - [Framework &#39;held off as long as we could&#39; but just cranked up prices of its Desktops and Mainboards](https://www.pcgamer.com/hardware/memory/framework-held-off-as-long-as-we-could-but-just-cranked-up-prices-of-its-desktops-and-mainboards/)
- - [Animal Crossing: New Horizons 3.0 update is out early](https://www.polygon.com/animal-crossing-new-horizons-update-release/)<!-- GAME:END -->
+ - [Major memory module manufacturer says: &#39;Trust me, we&#39;re not laughing our way to the bank&#39;](https://www.pcgamer.com/hardware/memory/major-memory-module-manufacturer-says-trust-me-were-not-laughing-our-way-to-the-bank/)
+ - [Demon Slayer: Infinity Castle interview: Inside the the creative process and stunning success of 2025&#39;s biggest anime](https://www.polygon.com/ufotable-hikaru-kondo-demon-slayer-infinity-castle-anime-2025/)
+ - [UK police apologise to parliament after admitting a major and controversial policy decision was based on AI making stuff up](https://www.pcgamer.com/software/ai/uk-police-apologise-to-parliament-after-admitting-a-major-and-controversial-policy-decision-was-based-on-ai-making-stuff-up/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
