@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Does all the husband faces this issue?](http://9gag.com/gag/a6Zgr5R)
- - 😝 [Happiness](http://9gag.com/gag/aGyvKLX)
- - 👉 [Everything done right!](http://9gag.com/gag/agm93Yw)<!-- MEMES:END -->
+ - 6️⃣ [Remember this individual? In all honesty good for her &amp; wishing her the best to come](http://9gag.com/gag/aRBWwR5)
+ - 😝 [She&#39;s obsessed with her.](http://9gag.com/gag/aQzb6ww)
+ - 👉 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)<!-- MEMES:END -->
 
 --- 
 
