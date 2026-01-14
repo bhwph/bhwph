@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus CEO faces arrest warrant in Taiwan amid major probe](https://www.androidauthority.com/oneplus-ceo-pete-lau-arrest-warrant-taiwan-3632246/)
- - [Matthew McConaughey has secured eight trademarks of himself from the USPTO in the past several months to protect his likeness and voice from unauthorized AI use &lpar;Ben Fritz/Wall Street Journal&rpar;](http://www.techmeme.com/260113/p57#a260113p57)
- - [How to master the Camera app on iPhone Air](https://appleinsider.com/articles/26/01/14/how-to-master-the-camera-app-on-iphone-air?utm_source=rss)<!-- TECH:END -->
+ - [How smuggled Starlink receivers and customized software let some Iranians evade a near-total internet blackout as the regime brutally cracked down on protesters &lpar;Financial Times&rpar;](http://www.techmeme.com/260114/p5#a260114p5)
+ - [$50 Target Promo Code &amp; Coupons | January 2026](https://www.wired.com/story/target-promo-code/)
+ - [Caterpillar hits a $300B market cap for the first time, driven by demand for its data center power generation equipment; CAT is up 12% in 2026 to a record ~$640 &lpar;Matthew Griffin/Bloomberg&rpar;](http://www.techmeme.com/260114/p4#a260114p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
