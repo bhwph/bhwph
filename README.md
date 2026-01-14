@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Remember this individual? In all honesty good for her &amp; wishing her the best to come](http://9gag.com/gag/aRBWwR5)
- - 😝 [She&#39;s obsessed with her.](http://9gag.com/gag/aQzb6ww)
+ - 6️⃣ [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)
+ - 😝 [Oops...](http://9gag.com/gag/agm93QW)
  - 👉 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)<!-- MEMES:END -->
 
 --- 
