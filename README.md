@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [British Humour: No Laugh Track Required &lpar;not amurican humor&rpar;](http://9gag.com/gag/a2vgzYY)
- - 😝 [R. I. P Scott Adams](http://9gag.com/gag/aD29AQx)
- - 👉 [Does all the husband faces this issue?](http://9gag.com/gag/a6Zgr5R)<!-- MEMES:END -->
+ - 6️⃣ [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
+ - 😝 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
+ - 👉 [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)<!-- MEMES:END -->
 
 --- 
 
