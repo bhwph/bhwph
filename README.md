@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [R. I. P Scott Adams](http://9gag.com/gag/aD29AQx)
- - 😝 [Does all the husband faces this issue?](http://9gag.com/gag/a6Zgr5R)
- - 👉 [Happiness](http://9gag.com/gag/aGyvKLX)<!-- MEMES:END -->
+ - 😝 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)
+ - 👉 [Japanese probe .......](http://9gag.com/gag/a34DoMv)<!-- MEMES:END -->
 
 --- 
 
