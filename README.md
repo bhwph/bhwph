@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [R. I. P Scott Adams](http://9gag.com/gag/aD29AQx)
- - 😝 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)
- - 👉 [Japanese probe .......](http://9gag.com/gag/a34DoMv)<!-- MEMES:END -->
+ - 6️⃣ [British Humour: No Laugh Track Required &lpar;not amurican humor&rpar;](http://9gag.com/gag/a2vgzYY)
+ - 😝 [R. I. P Scott Adams](http://9gag.com/gag/aD29AQx)
+ - 👉 [Does all the husband faces this issue?](http://9gag.com/gag/a6Zgr5R)<!-- MEMES:END -->
 
 --- 
 
