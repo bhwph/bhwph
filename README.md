@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)
- - 😝 [His kids are probably 9gag users.](http://9gag.com/gag/aE0Kvjn)
- - 👉 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)<!-- MEMES:END -->
+ - 6️⃣ [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
+ - 😝 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)
+ - 👉 [His kids are probably 9gag users.](http://9gag.com/gag/aE0Kvjn)<!-- MEMES:END -->
 
 --- 
 
