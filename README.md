@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Internet for PC expands browser availability to everyone](https://www.androidauthority.com/samsung-internet-for-pc-expands-availability-3632380/)
- - [Survey reveals the Galaxy Ring swelling scare has changed how you feel about smart rings](https://www.androidauthority.com/galaxy-ring-swelling-smart-rings-poll-result-3632374/)
- - [Determined not to pay for YouTube Premium? Check out this ad-free VPN hack](https://www.androidauthority.com/youtube-vpn-hack-3632386/)<!-- TECH:END -->
+ - [Verizon says it is &quot;aware of an issue impacting wireless voice and data services for some customers&quot;, as thousands of users report no cellular reception &lpar;Jacob Krol/TechRadar&rpar;](http://www.techmeme.com/260114/p42#a260114p42)
+ - [This Android handheld delay reveals just how bad the RAM problem really is](https://www.androidauthority.com/ayaneo-pocket-fit-elite-android-halndheld-progress-update-3632421/)
+ - [Gemini is winning](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
