@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take $150 off this Google Nest Wi-Fi Pro router 3-pack!](https://www.androidauthority.com/google-nest-wifi-pro-deal-3632813/)
- - [Symbolic.ai, founded by ex-eBay CEO Devin Wenig and Ars Technica cofounder Jon Stokes, partners with News Corp to offer AI tools to WSJ, Barron&#39;s, and others &lpar;Ben Sherry/Inc&rpar;](http://www.techmeme.com/260115/p42#a260115p42)
- - [Latest Pixel 10a rumor gets specific about release timeline](https://www.androidauthority.com/pixel-10a-march-3632836/)<!-- TECH:END -->
+ - [Mytra, which is building autonomous robots for warehouses that can move loads up to 3,000 pounds, raised a $120M Series C led by Avenir Growth &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/260115/p45#a260115p45)
+ - [AR glasses maker XREAL sues rival Viture over patent infringement](https://www.androidauthority.com/xreal-viture-lawsuit-3632912/)
+ - [Save $50 on the Amazon Kindle Colorsoft, the only Kindle on sale right now](https://www.androidauthority.com/amazon-kindle-colorsoft-deal-3-3632812/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
