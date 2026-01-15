@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HMD posts cryptic teaser for upcoming wireless buds](https://www.androidauthority.com/hmd-dub-series-earbuds-teaser-3632766/)
- - [Now that the Verizon outage is over, here’s how to claim your $20 credit](https://www.androidauthority.com/verizon-outage-credit-3632785/)
- - [Amazon files an objection to Saks Global&#39;s bankruptcy financing plan, and says its $475M investment in the department store is now effectively &quot;worthless&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/260115/p35#a260115p35)<!-- TECH:END -->
+ - [Take $150 off this Google Nest Wi-Fi Pro router 3-pack!](https://www.androidauthority.com/google-nest-wifi-pro-deal-3632813/)
+ - [Symbolic.ai, founded by ex-eBay CEO Devin Wenig and Ars Technica cofounder Jon Stokes, partners with News Corp to offer AI tools to WSJ, Barron&#39;s, and others &lpar;Ben Sherry/Inc&rpar;](http://www.techmeme.com/260115/p42#a260115p42)
+ - [Latest Pixel 10a rumor gets specific about release timeline](https://www.androidauthority.com/pixel-10a-march-3632836/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
