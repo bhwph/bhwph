@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wikipedia turns 25 and shares a glimpse into the lives of its volunteer editors](https://www.theverge.com/news/861935/wikipedia-25th-anniversary-2026)
- - [Microsoft, Meta, and Amazon are paying up for &amp;#8216;enterprise&amp;#8217; access to Wikipedia](https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation)
- - [Can’t find that system setting? The latest Android 16 QPR3 beta makes life easier.](https://www.androidauthority.com/android-16-qpr3-beta-2-settings-menu-3632625/)<!-- TECH:END -->
+ - [New report confirms bad news about the Galaxy S26 Plus’ display](https://www.androidauthority.com/samsung-galaxy-s26-plus-display-3632664/)
+ - [South Korea dropped Naver&#39;s and NCSoft&#39;s teams from its competition to develop its first sovereign AI model, as LG&#39;s, SK Telecom&#39;s, and Upstage&#39;s teams advanced &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260115/p15#a260115p15)
+ - [T-Mobile now lets you save $1,000 a year, but you’ll need to read the fine print](https://www.androidauthority.com/t-mobile-better-value-plan-now-live-3632675/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
