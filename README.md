@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is hiking prices again](https://www.theverge.com/news/862465/spotify-premium-us-price-increase-2026)
- - [Anthropic researchers say rich countries&#39; higher AI use risks deepening economic disparities and widening living standard gaps, driven by productivity gains &lpar;Financial Times&rpar;](http://www.techmeme.com/260115/p27#a260115p27)
- - [What Is VO2 Max? Here’s What You Need to Know About the Longevity Metric &lpar;2026&rpar;](https://www.wired.com/story/what-is-vo2-max/)<!-- TECH:END -->
+ - [AI video startup Higgsfield raised an $80M Series A extension from Accel and others at a $1.3B+ valuation, and reports a $200M annualized revenue run rate &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/260115/p33#a260115p33)
+ - [Boston-based Tulip, which offers an AI-powered frontline operations platform used by 60K workers, raised a $120M Series D led by Mitsubishi at a $1.3B valuation &lpar;Gil Press/Forbes&rpar;](http://www.techmeme.com/260115/p32#a260115p32)
+ - [Get all four Matrix movies on 4K Blu-ray for $45](https://www.theverge.com/gadgets/862479/the-matrix-4k-bluray-collection-power-bank-disney-plus-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
