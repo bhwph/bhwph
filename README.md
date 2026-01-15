@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoinDesk Data: Binance&#39;s market share of spot crypto trading fell to 25% in December, its lowest since 2021, and it is also losing ground in derivatives trading &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/260114/p58#a260114p58)
- - [Verizon wireless outage leaves iPhones stuck in SOS across the U.S.](https://appleinsider.com/articles/26/01/14/verizon-wireless-outage-leaves-iphones-stuck-in-sos-across-the-us?utm_source=rss)
- - [Massive Verizon Outage Across US Could Be Affecting 2 Million &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/verizon-outage-january-2026/)<!-- TECH:END -->
+ - [Bengaluru-based edtech startup Emversity raised a $30M Series A led by Premji Invest, sources say at a $120M post-money valuation, up from $60M in April 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260114/p60#a260114p60)
+ - [Alibaba links Qwen to its online shopping and travel services, including Taobao, Alipay, Fliggy, and Amap, aiming to build a one-stop AI app for its 100M users &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260114/p59#a260114p59)
+ - [Verizon wireless outage left iPhones stuck in SOS across the U.S.](https://appleinsider.com/articles/26/01/14/verizon-wireless-outage-leaves-iphones-stuck-in-sos-across-the-us?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
