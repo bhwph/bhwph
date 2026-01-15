@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New report confirms bad news about the Galaxy S26 Plus’ display](https://www.androidauthority.com/samsung-galaxy-s26-plus-display-3632664/)
- - [South Korea dropped Naver&#39;s and NCSoft&#39;s teams from its competition to develop its first sovereign AI model, as LG&#39;s, SK Telecom&#39;s, and Upstage&#39;s teams advanced &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260115/p15#a260115p15)
- - [T-Mobile now lets you save $1,000 a year, but you’ll need to read the fine print](https://www.androidauthority.com/t-mobile-better-value-plan-now-live-3632675/)<!-- TECH:END -->
+ - [Spotify is hiking prices again](https://www.theverge.com/news/862465/spotify-premium-us-price-increase-2026)
+ - [Anthropic researchers say rich countries&#39; higher AI use risks deepening economic disparities and widening living standard gaps, driven by productivity gains &lpar;Financial Times&rpar;](http://www.techmeme.com/260115/p27#a260115p27)
+ - [What Is VO2 Max? Here’s What You Need to Know About the Longevity Metric &lpar;2026&rpar;](https://www.wired.com/story/what-is-vo2-max/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
