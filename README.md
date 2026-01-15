@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru-based edtech startup Emversity raised a $30M Series A led by Premji Invest, sources say at a $120M post-money valuation, up from $60M in April 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260114/p60#a260114p60)
- - [Alibaba links Qwen to its online shopping and travel services, including Taobao, Alipay, Fliggy, and Amap, aiming to build a one-stop AI app for its 100M users &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260114/p59#a260114p59)
- - [Verizon wireless outage left iPhones stuck in SOS across the U.S.](https://appleinsider.com/articles/26/01/14/verizon-wireless-outage-leaves-iphones-stuck-in-sos-across-the-us?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI quietly rolls out ChatGPT Translate, a standalone website that currently supports plain text translations across 50+ languages &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/260115/p5#a260115p5)
+ - [TSMC reports Q4 net profit up 35% YoY to a record ~$16B, handily beating estimates, as it benefited from surging demand for AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/260115/p4#a260115p4)
+ - [Sources: China is drafting rules for Nvidia H200 purchases, limiting how many chips local companies can buy and requiring them to justify the need &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260115/p3#a260115p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
