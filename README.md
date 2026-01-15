@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Spider-Juan. Pedro parque.](http://9gag.com/gag/aMV71PA)
- - 😝 [Wild how in nature, they&#39;re intelligent-sadistic killer-super predators, but when they encounter people they just observe for a moment and move on.](http://9gag.com/gag/azxybZq)
- - 👉 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)<!-- MEMES:END -->
+ - 6️⃣ [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
+ - 😝 [Where does these idiots think that ChatGPT steals its data from?](http://9gag.com/gag/a2vgNne)
+ - 👉 [6.9](http://9gag.com/gag/awyjb7R)<!-- MEMES:END -->
 
 --- 
 
