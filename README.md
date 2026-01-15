@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
- - 😝 [Where does these idiots think that ChatGPT steals its data from?](http://9gag.com/gag/a2vgNne)
- - 👉 [6.9](http://9gag.com/gag/awyjb7R)<!-- MEMES:END -->
+ - 6️⃣ [Sidekick](http://9gag.com/gag/aKGZg63)
+ - 😝 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)
+ - 👉 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)<!-- MEMES:END -->
 
 --- 
 
