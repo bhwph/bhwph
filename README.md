@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals Season 6 release date, Deadpool abilities, and more](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-season-6-release-date-deadpool/)
- - [6 things to know before starting The Legend of Heroes: Trails Beyond the Horizon](https://www.polygon.com/trails-beyond-the-horizon-beginners-tips-guide/)
- - [Disco Elysium had so much text it broke the branching narrative software: &#39;we were writing too much&#39;](https://www.pcgamer.com/games/rpg/disco-elysium-had-so-much-text-it-broke-the-branching-narrative-software-we-were-writing-too-much/)<!-- GAME:END -->
+ - [To meet &#39;tremendous and humongous demand&#39; from AI customers, SK Hynix accelerates 2027 fab plans by three months, with an even fresher fab beginning wafer production next month](https://www.pcgamer.com/hardware/memory/to-meet-tremendous-and-humongous-demand-from-ai-customers-sk-hynix-accelerates-2027-fab-plans-by-three-months-with-an-even-fresher-fab-beginning-wafer-production-next-month/)
+ - [Gaming on Linux just got a bump with new Wine 11 improvements that&#39;ll make for a better Proton on SteamOS, too](https://www.pcgamer.com/hardware/gaming-on-linux-just-got-a-bump-with-new-wine-11-improvements-thatll-make-for-a-better-proton-on-steamos-too/)
+ - [Despite an incredibly tough 2025 for ZeniMax, The Elder Scrolls Online&#39;s leadership is hopeful: &#39;We&#39;ve definitely got our eyes on the future, because this is our home&#39;](https://www.pcgamer.com/games/mmo/despite-an-incredibly-tough-2025-for-zenimax-the-elder-scrolls-onlines-leadership-is-hopeful-weve-definitely-got-our-eyes-on-the-future-because-this-is-our-home/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
