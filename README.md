@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Maybe not a good move](http://9gag.com/gag/aqyMZR7)
- - 😝 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)
- - 👉 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)<!-- MEMES:END -->
+ - 6️⃣ [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)
+ - 😝 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
+ - 👉 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)<!-- MEMES:END -->
 
 --- 
 
