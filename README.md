@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Level up your manicure with the Apple Watch charger](https://appleinsider.com/inside/apple-watch/tips/level-up-your-manicure-with-the-apple-watch-charger?utm_source=rss)
- - [YouTube now lets parents set time limits on their kids&#39; YouTube Shorts feed, ranging from 15 minutes to two hours, with an option for zero minutes coming soon &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260114/p51#a260114p51)
- - [Verizon’s wireless network is down for many people nationwide](https://www.theverge.com/news/861956/verizon-is-down-outage-cell-wireless-service-sos-mode)<!-- TECH:END -->
+ - [Project Eleven, which builds tools to prepare blockchains for post-quantum threats, raised a $20M Series A led by Castle Island at a $120M post-money valuation &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/260114/p57#a260114p57)
+ - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
+ - [Thinking Machines parts ways with CTO Barret Zoph, with Soumith Chintala taking over the role; sources say the termination is due to &quot;unethical conduct&quot; &lpar;Kylie Robison/@kyliebytes&rpar;](http://www.techmeme.com/260114/p56#a260114p56)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
