@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mytra, which is building autonomous robots for warehouses that can move loads up to 3,000 pounds, raised a $120M Series C led by Avenir Growth &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/260115/p45#a260115p45)
- - [AR glasses maker XREAL sues rival Viture over patent infringement](https://www.androidauthority.com/xreal-viture-lawsuit-3632912/)
- - [Save $50 on the Amazon Kindle Colorsoft, the only Kindle on sale right now](https://www.androidauthority.com/amazon-kindle-colorsoft-deal-3-3632812/)<!-- TECH:END -->
+ - [The best alternatives to Spotify for listening to music](https://www.theverge.com/22910685/music-listening-service-spotify-apple-youtube-amazon)
+ - [Asus says it&amp;#8217;s dropping the RTX 5070 Ti as the memory shortage squeezes supply](https://www.theverge.com/news/863000/asus-nvidia-rtx-5070-ti-5060-ti-supply-rumors)
+ - [What’s going on with the missing Trump phone? Lawmakers demand answers](https://www.androidauthority.com/trump-mobile-t1-phone-ftc-letter-3632939/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
