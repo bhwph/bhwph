@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI quietly rolls out ChatGPT Translate, a standalone website that currently supports plain text translations across 50+ languages &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/260115/p5#a260115p5)
- - [TSMC reports Q4 net profit up 35% YoY to a record ~$16B, handily beating estimates, as it benefited from surging demand for AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/260115/p4#a260115p4)
- - [Sources: China is drafting rules for Nvidia H200 purchases, limiting how many chips local companies can buy and requiring them to justify the need &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260115/p3#a260115p3)<!-- TECH:END -->
+ - [Wikipedia turns 25 and shares a glimpse into the lives of its volunteer editors](https://www.theverge.com/news/861935/wikipedia-25th-anniversary-2026)
+ - [Microsoft, Meta, and Amazon are paying up for &amp;#8216;enterprise&amp;#8217; access to Wikipedia](https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation)
+ - [Can’t find that system setting? The latest Android 16 QPR3 beta makes life easier.](https://www.androidauthority.com/android-16-qpr3-beta-2-settings-menu-3632625/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
