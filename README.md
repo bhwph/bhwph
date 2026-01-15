@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Discipline.and decisive](http://9gag.com/gag/aAyAYz9)
- - 😝 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
- - 👉 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)<!-- MEMES:END -->
+ - 6️⃣ [Maybe not a good move](http://9gag.com/gag/aqyMZR7)
+ - 😝 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)
+ - 👉 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)<!-- MEMES:END -->
 
 --- 
 
