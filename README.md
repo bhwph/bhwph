@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Plus Game Catalog for January: Resident Evil Village, Like a Dragon: Infinite Wealth, Expeditions: A MudRunner Game and more](https://blog.playstation.com/2026/01/14/playstation-plus-game-catalog-for-january-resident-evil-village-like-a-dragon-infinite-wealth-expeditions-a-mudrunner-game-and-more/)
- - [What it&#39;s like to return to Animal Crossing: New Horizons after years away](https://www.polygon.com/animal-crossing-new-horizons-returning-home/)
- - [Rockstar Is Now Selling $200+ GTA Roleplay Mod Bundles On Its New Marketplace](https://kotaku.com/gta-cfx-marketplace-mods-online-rdr2-2000659824)<!-- GAME:END -->
+ - [Quarantine Zone has been patched so now you can actually detect people smuggling hand grenades in their butts](https://www.pcgamer.com/games/sim/quarantine-zone-has-been-patched-so-now-you-can-actually-detect-people-smuggling-hand-grenades-in-their-butts/)
+ - [How well do you know classic videogame cheats? See if you can answer these 10 tricky questions](https://www.pcgamer.com/games/how-well-do-you-know-classic-videogame-cheats-see-if-you-can-answer-these-10-tricky-questions/)
+ - [&#39;I consider it a millennial shooter&#39;: The FPS dev making hit shooters by leaning into &#39;2007-core&#39;](https://www.pcgamer.com/games/fps/i-consider-it-a-millennial-shooter-the-fps-dev-making-hit-shooters-by-leaning-into-2007-core/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
