@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung inadvertently cleared up any confusion over the Galaxy S26 lineup](https://www.androidauthority.com/samsung-galaxy-26-lineup-document-3633154/)
- - [Kodak’s collectible Charmera is a terrible camera I somehow don’t hate](https://www.theverge.com/tech/862122/kodak-reto-charmera-digital-camera-blind-bag-keychain-collectible)
- - [Apple hit with $150K fine after breaking decade-old agreement in NJ](https://appleinsider.com/articles/26/01/16/apple-hit-with-150k-fine-after-breaking-decade-old-agreement-in-nj?utm_source=rss)<!-- TECH:END -->
+ - [Red Bull&#39;s 2026 Formula 1 launch puts Apple hardware front and center](https://appleinsider.com/articles/26/01/16/red-bulls-2026-formula-1-launch-puts-apple-hardware-front-and-center?utm_source=rss)
+ - [Ted Sarandos says Netflix will commit to 45-day theatrical releases](https://www.theverge.com/streaming/863511/ted-sarandos-netflix-theatrical-movie-release-windows)
+ - [OpenAI expands its $8/month ChatGPT Go subscription tier to the US and the rest of the world, after previously launching it in India and some other countries &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/260116/p18#a260116p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
