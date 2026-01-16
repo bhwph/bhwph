@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [God wants this](http://9gag.com/gag/aNDMZwv)
- - 😝 [And now it&#39;s time for the French language](http://9gag.com/gag/aD2938x)
- - 👉 [Thats how it goes](http://9gag.com/gag/a6ZgdnA)<!-- MEMES:END -->
+ - 😝 [Thats how it goes](http://9gag.com/gag/a6ZgdnA)
+ - 👉 [Be Steve Irwin](http://9gag.com/gag/amoQ8vy)<!-- MEMES:END -->
 
 --- 
 
