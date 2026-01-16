@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
- - 😝 [Thank me Later REMASTERED 2026 version](http://9gag.com/gag/apR7BL5)
- - 👉 [Infinite energy](http://9gag.com/gag/agm9Vqr)<!-- MEMES:END -->
+ - 6️⃣ [Dab](http://9gag.com/gag/apR70xE)
+ - 😝 [We need more asylums](http://9gag.com/gag/a34g3M5)
+ - 👉 [Things that never will happen](http://9gag.com/gag/aXP3peD)<!-- MEMES:END -->
 
 --- 
 
