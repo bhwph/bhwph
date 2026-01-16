@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best alternatives to Spotify for listening to music](https://www.theverge.com/22910685/music-listening-service-spotify-apple-youtube-amazon)
- - [Asus says it&amp;#8217;s dropping the RTX 5070 Ti as the memory shortage squeezes supply](https://www.theverge.com/news/863000/asus-nvidia-rtx-5070-ti-5060-ti-supply-rumors)
- - [What’s going on with the missing Trump phone? Lawmakers demand answers](https://www.androidauthority.com/trump-mobile-t1-phone-ftc-letter-3632939/)<!-- TECH:END -->
+ - [The best Sonos speakers to buy in 2026](https://www.theverge.com/tech/652171/best-sonos-speakers)
+ - [Sources: Thinking Machines lacks a clear product or business strategy and has been struggling over the last couple of months to raise a new round of financing &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260115/p53#a260115p53)
+ - [Total global VC funding to fintech startups totaled $51.8B in 2025, up 27% YoY and above pre-pandemic totals, but much lower than 2021&#39;s peak of $141.6B &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260115/p52#a260115p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
