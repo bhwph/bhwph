@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite blocks creators from selling prize wheel spins](https://www.theverge.com/news/863597/fortnite-creators-steal-the-brainrot-prize-wheel-spins-block)
- - [FTC Chairman Andrew Ferguson says the agency is examining Big Tech&#39;s acqui-hires to make sure &quot;they are not an attempt to get around&quot; its merger review process &lpar;Bloomberg&rpar;](http://www.techmeme.com/260116/p20#a260116p20)
- - [Check out this ASUS ROG Rapture Wi-Fi 6E Gaming Router deal!](https://www.androidauthority.com/asus-rog-rapture-wi-fi-6e-gaming-router-deal-3633285/)<!-- TECH:END -->
+ - [Bad Bunny dances his way to the Super Bowl halftime show](https://appleinsider.com/articles/26/01/16/bad-bunny-dances-his-way-to-the-super-bowl-halftime-show?utm_source=rss)
+ - [Sources: Google is in talks with broadband operator Radiate to set up a JV to hold their fiber assets; Stonepeak Partners will invest $1B to support the deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/260116/p24#a260116p24)
+ - [Here’s how much IKEA’s new donut-shaped smart lamp could cost](https://www.androidauthority.com/ikea-varmblixt-smart-lamp-listing-3633363/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
