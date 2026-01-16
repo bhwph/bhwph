@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 4 Royalty and Legacy: all the confirmed features in the next expansion](https://www.pcgamer.com/games/the-sims/the-sims-4-royalty-and-legacy-guide/)
- - [Arc Raiders almost had an auction house like Escape From Tarkov, but Embark nixed it because the game became &#39;just about coins&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-almost-had-an-auction-house-like-escape-from-tarkov-but-embark-nixed-it-because-the-game-became-just-about-coins/)
- - [Starfield Struggled Due To Bureaucracy, Says Bethesda Veteran Who Left After 20 Years](https://kotaku.com/elder-scrolls-6-starfield-bethesda-tes-2000660653)<!-- GAME:END -->
+ - [Best open-world games on Xbox Game Pass to play this weekend &lpar;Jan. 16-19&rpar;](https://www.polygon.com/best-xbox-game-pass-open-world-games-jan-16-2026/)
+ - [How to get adamantite in Hytale](https://www.polygon.com/hytale-adamantite-ore-location-how-to-get/)
+ - [I Can’t Stop Flicking Coins And Hiring Tiny Dudes In This New Steam Game](https://kotaku.com/i-cant-stop-flicking-coins-and-hiring-tiny-dudes-in-this-new-steam-game-2000660664)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
