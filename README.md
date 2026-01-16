@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Siri is a Gemini](https://www.theverge.com/podcast/863340/siri-is-a-gemini)
- - [ClickHouse, a Snowflake challenger that offers an OLAP database management system, raised $400M led by Dragoneer at a $15B valuation, up from $6.35B in May 2025 &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260116/p9#a260116p9)
- - [Sony, Anker, and other headphones have a serious Google Fast Pair security vulnerability](https://www.theverge.com/tech/863338/google-fast-pair-whisperpair-security-vulnerability-bluetooth-headphones-speakers)<!-- TECH:END -->
+ - [Samsung inadvertently cleared up any confusion over the Galaxy S26 lineup](https://www.androidauthority.com/samsung-galaxy-26-lineup-document-3633154/)
+ - [Kodak’s collectible Charmera is a terrible camera I somehow don’t hate](https://www.theverge.com/tech/862122/kodak-reto-charmera-digital-camera-blind-bag-keychain-collectible)
+ - [Apple hit with $150K fine after breaking decade-old agreement in NJ](https://appleinsider.com/articles/26/01/16/apple-hit-with-150k-fine-after-breaking-decade-old-agreement-in-nj?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
