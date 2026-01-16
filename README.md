@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This invaluable Apple Watch feature may soon be available for Pixel Watch too](https://www.androidauthority.com/pixel-watch-left-behind-notification-3633004/)
- - [20% Off Brooks Promo Code &amp; Deals for January 2026](https://www.wired.com/story/brooks-promo-code/)
- - [30% VistaPrint Coupon &amp; Promo Codes | January 2026](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
+ - [MediaTek reveals ‘new’ Snapdragon 8 Gen 5 rival, but it shouldn’t have bothered](https://www.androidauthority.com/mediatek-dimensity-9500s-8500-launched-3633019/)
+ - [Nothing’s $50 million wild concept phone has three screens and a Kevlar body](https://www.androidauthority.com/nothing-kevlar-wrapped-triple-screen-phone-3633028/)
+ - [This new mid-range phone put some flagships to shame in JerryRigEverything durability test](https://www.androidauthority.com/mid-range-phone-jerryrigeverything-durability-test-3633009/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
