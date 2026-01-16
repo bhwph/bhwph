@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Outgoing Star Wars Boss Talks New Trilogy, Ben Solo, And ‘Online Negativity’](https://kotaku.com/star-wars-kathleen-kennedy-leaving-ben-solo-new-trilogy-2000660587)
- - [With The Division 3 still in early development, series boss Julian Gerighty leaves Ubisoft to work on Battlefield instead](https://www.pcgamer.com/games/with-the-division-3-still-in-early-development-series-boss-julian-gerighty-leaves-ubisoft-to-work-on-battlefield-instead/)
- - [Animal Crossing: New Horizons player&#39;s Mario Party island took 3 years to make](https://www.polygon.com/animal-crossing-new-horizons-acnh-mario-party-island/)<!-- GAME:END -->
+ - [Nintendo Could Learn Something From This Incredible 3D Platformer](https://kotaku.com/nintendo-could-learn-something-from-this-incredible-3d-platformer-2000660289)
+ - [The best thriller movies to watch on Netflix this January 2026](https://www.polygon.com/best-thriller-movies-netflix-watch-january-2026/)
+ - [Fans Try To Sell 2008 DS Game For Absurd Prices Thanks To Meme-Fueled Metacritic War On Clair Obscur](https://kotaku.com/cory-house-metacritic-clair-obscur-ebay-2000660631)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
