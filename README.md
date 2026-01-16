@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in January](https://www.wired.com/story/att-promo-code/)
- - [Altra Promo Codes: Get 10% Off Plus Free Shipping](https://www.wired.com/story/altra-promo-code/)
- - [NordVPN Coupons and Deals: 77% Off in January 2026](https://www.wired.com/story/nordvpn-coupon/)<!-- TECH:END -->
+ - [This invaluable Apple Watch feature may soon be available for Pixel Watch too](https://www.androidauthority.com/pixel-watch-left-behind-notification-3633004/)
+ - [20% Off Brooks Promo Code &amp; Deals for January 2026](https://www.wired.com/story/brooks-promo-code/)
+ - [30% VistaPrint Coupon &amp; Promo Codes | January 2026](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
