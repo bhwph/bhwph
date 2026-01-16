@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Italian police searched the offices of the country&#39;s data protection agency, one of EU&#39;s most proactive regulators, as part of a corruption probe &lpar;Reuters&rpar;](http://www.techmeme.com/260116/p8#a260116p8)
- - [Smart Plug Guide &lpar;2026&rpar;: When You Should and Shouldn’t Use One](https://www.wired.com/story/do-you-need-a-smart-plug/)
- - [From charming to consumer corporation -- how Apple has branded itself over the years.](https://appleinsider.com/articles/26/01/16/from-charming-to-consumer-corporation----how-apple-has-branded-itself-over-the-years?utm_source=rss)<!-- TECH:END -->
+ - [Siri is a Gemini](https://www.theverge.com/podcast/863340/siri-is-a-gemini)
+ - [ClickHouse, a Snowflake challenger that offers an OLAP database management system, raised $400M led by Dragoneer at a $15B valuation, up from $6.35B in May 2025 &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260116/p9#a260116p9)
+ - [Sony, Anker, and other headphones have a serious Google Fast Pair security vulnerability](https://www.theverge.com/tech/863338/google-fast-pair-whisperpair-security-vulnerability-bluetooth-headphones-speakers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
