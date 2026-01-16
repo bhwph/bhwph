@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Could Learn Something From This Incredible 3D Platformer](https://kotaku.com/nintendo-could-learn-something-from-this-incredible-3d-platformer-2000660289)
- - [The best thriller movies to watch on Netflix this January 2026](https://www.polygon.com/best-thriller-movies-netflix-watch-january-2026/)
- - [Fans Try To Sell 2008 DS Game For Absurd Prices Thanks To Meme-Fueled Metacritic War On Clair Obscur](https://kotaku.com/cory-house-metacritic-clair-obscur-ebay-2000660631)<!-- GAME:END -->
+ - [The Sims 4 Royalty and Legacy: all the confirmed features in the next expansion](https://www.pcgamer.com/games/the-sims/the-sims-4-royalty-and-legacy-guide/)
+ - [Arc Raiders almost had an auction house like Escape From Tarkov, but Embark nixed it because the game became &#39;just about coins&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-almost-had-an-auction-house-like-escape-from-tarkov-but-embark-nixed-it-because-the-game-became-just-about-coins/)
+ - [Starfield Struggled Due To Bureaucracy, Says Bethesda Veteran Who Left After 20 Years](https://kotaku.com/elder-scrolls-6-starfield-bethesda-tes-2000660653)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
