@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yakuza Kiwami 3 preview: RGG wants to reframe the clunkiest Yakuza game](https://www.polygon.com/yakuza-kiwami-3-dark-ties-preview/)
- - [Yakuza Kiwami 3 &amp; Dark Ties hands-on report](https://blog.playstation.com/2026/01/15/yakuza-kiwami-3-dark-ties-hands-on-report/)
- - [Yakuza Kiwami 3 includes the first official emulation of 2 bizarro Sega arcade games, including one like Crazy Taxi but you&#39;re racing an ambulance to the hospital before a patient bleeds to death](https://www.pcgamer.com/games/action/yakuza-kiwami-3-includes-the-first-official-emulation-of-2-bizarro-sega-arcade-games-including-one-like-crazy-taxi-but-youre-racing-an-ambulance-to-the-hospital-before-a-patient-bleeds-to-death/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Nine quick-hit games to play, included with PlayStation Plus](https://blog.playstation.com/2026/01/15/20260116-quickhit/)
+ - [&lpar;For Southeast Asia&rpar; Nine quick-hit games to play, included with PlayStation Plus](https://blog.playstation.com/2026/01/15/20260116-quickhit/)
+ - [Yakuza Kiwami 3 preview: RGG wants to reframe the clunkiest Yakuza game](https://www.polygon.com/yakuza-kiwami-3-dark-ties-preview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
