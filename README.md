@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [God wants this](http://9gag.com/gag/aNDMZwv)
- - 😝 [Thats how it goes](http://9gag.com/gag/a6ZgdnA)
- - 👉 [Be Steve Irwin](http://9gag.com/gag/amoQ8vy)<!-- MEMES:END -->
+ - 6️⃣ [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
+ - 😝 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)
+ - 👉 [They be like that](http://9gag.com/gag/a87NY9Z)<!-- MEMES:END -->
 
 --- 
 
