@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
- - 😝 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)
- - 👉 [They be like that](http://9gag.com/gag/a87NY9Z)<!-- MEMES:END -->
+ - 😝 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
+ - 👉 [Like a glove](http://9gag.com/gag/a4PgL9m)<!-- MEMES:END -->
 
 --- 
 
