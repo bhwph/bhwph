@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You know](http://9gag.com/gag/awyj7oy)
- - 😝 [Like a glove](http://9gag.com/gag/a4PgL9m)
- - 👉 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)<!-- MEMES:END -->
+ - 6️⃣ [Be Steve Irwin](http://9gag.com/gag/amoQ8vy)
+ - 😝 [Big step](http://9gag.com/gag/aXP3pOz)
+ - 👉 [Best mom ever!](http://9gag.com/gag/aRBWVvy)<!-- MEMES:END -->
 
 --- 
 
