@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Sonos speakers to buy in 2026](https://www.theverge.com/tech/652171/best-sonos-speakers)
- - [Sources: Thinking Machines lacks a clear product or business strategy and has been struggling over the last couple of months to raise a new round of financing &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260115/p53#a260115p53)
- - [Total global VC funding to fintech startups totaled $51.8B in 2025, up 27% YoY and above pre-pandemic totals, but much lower than 2021&#39;s peak of $141.6B &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260115/p52#a260115p52)<!-- TECH:END -->
+ - [Sources: Trump and several state governors agree to direct grid operator PJM to hold an auction for tech companies to fund new power plants due to AI demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/260115/p55#a260115p55)
+ - [Apple&#39;s iPhone 18 Pro &amp; iPhone Fold specs detailed in report](https://appleinsider.com/articles/26/01/16/apples-iphone-18-pro-iphone-fold-specs-detailed-in-report?utm_source=rss)
+ - [YouTube revises policy to allow full monetization of nongraphic videos on sensitive issues including abortion, self-harm, suicide, and domestic and sexual abuse &lpar;Sam Gutelle/Tubefilter&rpar;](http://www.techmeme.com/260115/p54#a260115p54)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
