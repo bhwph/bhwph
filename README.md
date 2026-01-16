@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Red Bull&#39;s 2026 Formula 1 launch puts Apple hardware front and center](https://appleinsider.com/articles/26/01/16/red-bulls-2026-formula-1-launch-puts-apple-hardware-front-and-center?utm_source=rss)
- - [Ted Sarandos says Netflix will commit to 45-day theatrical releases](https://www.theverge.com/streaming/863511/ted-sarandos-netflix-theatrical-movie-release-windows)
- - [OpenAI expands its $8/month ChatGPT Go subscription tier to the US and the rest of the world, after previously launching it in India and some other countries &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/260116/p18#a260116p18)<!-- TECH:END -->
+ - [Fortnite blocks creators from selling prize wheel spins](https://www.theverge.com/news/863597/fortnite-creators-steal-the-brainrot-prize-wheel-spins-block)
+ - [FTC Chairman Andrew Ferguson says the agency is examining Big Tech&#39;s acqui-hires to make sure &quot;they are not an attempt to get around&quot; its merger review process &lpar;Bloomberg&rpar;](http://www.techmeme.com/260116/p20#a260116p20)
+ - [Check out this ASUS ROG Rapture Wi-Fi 6E Gaming Router deal!](https://www.androidauthority.com/asus-rog-rapture-wi-fi-6e-gaming-router-deal-3633285/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
