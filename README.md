@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Casting is dead. Long live casting!](https://www.theverge.com/column/861948/casting-netflix-dead)
- - [California regulators unanimously voted in favor of Verizon&#39;s $10B Frontier acquisition; deliberations included Verizon committing to CA&#39;s DEI requirements &lpar;Matthew Keys/TheDesk.net&rpar;](http://www.techmeme.com/260115/p57#a260115p57)
- - [Meta will discontinue Workrooms, its VR space for workers, on February 16; Quest headsets and Horizon services will not be sold to businesses as of February 20 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260115/p56#a260115p56)<!-- TECH:END -->
+ - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in January](https://www.wired.com/story/att-promo-code/)
+ - [Altra Promo Codes: Get 10% Off Plus Free Shipping](https://www.wired.com/story/altra-promo-code/)
+ - [NordVPN Coupons and Deals: 77% Off in January 2026](https://www.wired.com/story/nordvpn-coupon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
