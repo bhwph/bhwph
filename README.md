@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; Nine quick-hit games to play, included with PlayStation Plus](https://blog.playstation.com/2026/01/15/20260116-quickhit/)
- - [&lpar;For Southeast Asia&rpar; Nine quick-hit games to play, included with PlayStation Plus](https://blog.playstation.com/2026/01/15/20260116-quickhit/)
- - [Yakuza Kiwami 3 preview: RGG wants to reframe the clunkiest Yakuza game](https://www.polygon.com/yakuza-kiwami-3-dark-ties-preview/)<!-- GAME:END -->
+ - [Outgoing Star Wars Boss Talks New Trilogy, Ben Solo, And ‘Online Negativity’](https://kotaku.com/star-wars-kathleen-kennedy-leaving-ben-solo-new-trilogy-2000660587)
+ - [With The Division 3 still in early development, series boss Julian Gerighty leaves Ubisoft to work on Battlefield instead](https://www.pcgamer.com/games/with-the-division-3-still-in-early-development-series-boss-julian-gerighty-leaves-ubisoft-to-work-on-battlefield-instead/)
+ - [Animal Crossing: New Horizons player&#39;s Mario Party island took 3 years to make](https://www.polygon.com/animal-crossing-new-horizons-acnh-mario-party-island/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
