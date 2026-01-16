@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MediaTek reveals ‘new’ Snapdragon 8 Gen 5 rival, but it shouldn’t have bothered](https://www.androidauthority.com/mediatek-dimensity-9500s-8500-launched-3633019/)
- - [Nothing’s $50 million wild concept phone has three screens and a Kevlar body](https://www.androidauthority.com/nothing-kevlar-wrapped-triple-screen-phone-3633028/)
- - [This new mid-range phone put some flagships to shame in JerryRigEverything durability test](https://www.androidauthority.com/mid-range-phone-jerryrigeverything-durability-test-3633009/)<!-- TECH:END -->
+ - [Source: Italian police searched the offices of the country&#39;s data protection agency, one of EU&#39;s most proactive regulators, as part of a corruption probe &lpar;Reuters&rpar;](http://www.techmeme.com/260116/p8#a260116p8)
+ - [Smart Plug Guide &lpar;2026&rpar;: When You Should and Shouldn’t Use One](https://www.wired.com/story/do-you-need-a-smart-plug/)
+ - [From charming to consumer corporation -- how Apple has branded itself over the years.](https://appleinsider.com/articles/26/01/16/from-charming-to-consumer-corporation----how-apple-has-branded-itself-over-the-years?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
