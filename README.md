@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
- - 😝 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
- - 👉 [Like a glove](http://9gag.com/gag/a4PgL9m)<!-- MEMES:END -->
+ - 6️⃣ [You know](http://9gag.com/gag/awyj7oy)
+ - 😝 [Like a glove](http://9gag.com/gag/a4PgL9m)
+ - 👉 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)<!-- MEMES:END -->
 
 --- 
 
