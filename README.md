@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Trump and several state governors agree to direct grid operator PJM to hold an auction for tech companies to fund new power plants due to AI demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/260115/p55#a260115p55)
- - [Apple&#39;s iPhone 18 Pro &amp; iPhone Fold specs detailed in report](https://appleinsider.com/articles/26/01/16/apples-iphone-18-pro-iphone-fold-specs-detailed-in-report?utm_source=rss)
- - [YouTube revises policy to allow full monetization of nongraphic videos on sensitive issues including abortion, self-harm, suicide, and domestic and sexual abuse &lpar;Sam Gutelle/Tubefilter&rpar;](http://www.techmeme.com/260115/p54#a260115p54)<!-- TECH:END -->
+ - [Casting is dead. Long live casting!](https://www.theverge.com/column/861948/casting-netflix-dead)
+ - [California regulators unanimously voted in favor of Verizon&#39;s $10B Frontier acquisition; deliberations included Verizon committing to CA&#39;s DEI requirements &lpar;Matthew Keys/TheDesk.net&rpar;](http://www.techmeme.com/260115/p57#a260115p57)
+ - [Meta will discontinue Workrooms, its VR space for workers, on February 16; Quest headsets and Horizon services will not be sold to businesses as of February 20 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260115/p56#a260115p56)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
