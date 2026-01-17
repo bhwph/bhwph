@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Micron signs a letter of intent to buy a fabrication site in Taiwan from Powerchip for $1.8B to expand DRAM memory chip production, expected to close in Q2 2026 &lpar;Valentine Baldassari/Bloomberg&rpar;](http://www.techmeme.com/260117/p10#a260117p10)
- - [The LG C5 and Apple’s M4 Mac Mini are both steeply discounted this weekend](https://www.theverge.com/gadgets/863503/apple-mac-mini-m4-lg-c5-oled-tv-deal-sale)
- - [All You Need Is Kill is a dazzling movie with the soul of a video game](https://www.theverge.com/entertainment/862881/all-you-need-is-kill-review)<!-- TECH:END -->
+ - [ZachXBT: a crypto user lost $282M+ in BTC and LTC in a hardware wallet social engineering scam; XMR jumped as the attacker began converting the funds to Monero &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/260117/p11#a260117p11)
+ - [The Setapp Mobile iOS store is shutting down on February 16th](https://www.theverge.com/news/863978/setapp-mobile-ios-store-shutdown)
+ - [The Honor Magic 8 Pro Is My First Big Phone Disappointment of 2026](https://www.cnet.com/tech/mobile/honor-magic-8-pro-phone-review/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
