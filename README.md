@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Michael Saylor&#39;s Strategy, known for buying bitcoin via creative financing strategies, as its stock trades way below its peak amid the crypto downturn &lpar;Rob Copeland/New York Times&rpar;](http://www.techmeme.com/260117/p13#a260117p13)
  - [Luminate 2025 report: the global music industry hit 5.1T streams, up 9.6% YoY and a single-year record; AI artist Xania Monet had 125M on-demand audio streams &lpar;Maria Sherman/Associated Press&rpar;](http://www.techmeme.com/260117/p12#a260117p12)
- - [Boost your Mac&#39;s connectivity with Thunderbolt dock deals at up to 35% off](https://appleinsider.com/articles/26/01/17/boost-your-macs-connectivity-with-thunderbolt-dock-deals-at-up-to-35-off?utm_source=rss)
- - [Disney deleted a Thread because people kept putting anti-fascist quotes from its movies in the replies](https://www.theverge.com/news/863980/disney-deleted-anti-fascist-thread)<!-- TECH:END -->
+ - [Boost your Mac&#39;s connectivity with Thunderbolt dock deals at up to 35% off](https://appleinsider.com/articles/26/01/17/boost-your-macs-connectivity-with-thunderbolt-dock-deals-at-up-to-35-off?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
