@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [You know](http://9gag.com/gag/awyj7oy)
  - 😝 [Like a glove](http://9gag.com/gag/a4PgL9m)
- - 👉 [Dab](http://9gag.com/gag/apR70xE)<!-- MEMES:END -->
+ - 👉 [Things that never will happen](http://9gag.com/gag/aXP3peD)<!-- MEMES:END -->
 
 --- 
 
