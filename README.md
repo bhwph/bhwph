@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With RAM prices soaring, it’s time next-gen phone specs got creative](https://www.androidauthority.com/ram-price-creative-specs-3632697/)
- - [A cute frog game that remixes Nintendo&amp;#8217;s best](https://www.theverge.com/games/860917/big-hops-review-pc-nintendo-switch-ps5)
- - [Minnesota wants to win a war of attrition](https://www.theverge.com/policy/863632/minnesota-walz-trump-sousveillance-ice)<!-- TECH:END -->
+ - [Micron signs a letter of intent to buy a fabrication site in Taiwan from Powerchip for $1.8B to expand DRAM memory chip production, expected to close in Q2 2026 &lpar;Valentine Baldassari/Bloomberg&rpar;](http://www.techmeme.com/260117/p10#a260117p10)
+ - [The LG C5 and Apple’s M4 Mac Mini are both steeply discounted this weekend](https://www.theverge.com/gadgets/863503/apple-mac-mini-m4-lg-c5-oled-tv-deal-sale)
+ - [All You Need Is Kill is a dazzling movie with the soul of a video game](https://www.theverge.com/entertainment/862881/all-you-need-is-kill-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
