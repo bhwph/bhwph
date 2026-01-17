@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [You know](http://9gag.com/gag/awyj7oy)
- - 😝 [Like a glove](http://9gag.com/gag/a4PgL9m)
- - 👉 [Things that never will happen](http://9gag.com/gag/aXP3peD)<!-- MEMES:END -->
+ - 😝 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
+ - 👉 [Like a glove](http://9gag.com/gag/a4PgL9m)<!-- MEMES:END -->
 
 --- 
 
