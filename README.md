@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You know](http://9gag.com/gag/awyj7oy)
- - 😝 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
- - 👉 [Like a glove](http://9gag.com/gag/a4PgL9m)<!-- MEMES:END -->
+ - 6️⃣ [They be like that](http://9gag.com/gag/a87NY9Z)
+ - 😝 [Dab](http://9gag.com/gag/apR70xE)
+ - 👉 [You know](http://9gag.com/gag/awyj7oy)<!-- MEMES:END -->
 
 --- 
 
