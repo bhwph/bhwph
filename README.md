@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is the way.](http://9gag.com/gag/aNDMndr)
- - 😝 [Things that never will happen](http://9gag.com/gag/aXP3peD)
+ - 6️⃣ [Read the room government.](http://9gag.com/gag/amoQ904)
+ - 😝 [You know](http://9gag.com/gag/awyj7oy)
  - 👉 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)<!-- MEMES:END -->
 
 --- 
