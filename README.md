@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They be like that](http://9gag.com/gag/a87NY9Z)
- - 😝 [Dab](http://9gag.com/gag/apR70xE)
- - 👉 [You know](http://9gag.com/gag/awyj7oy)<!-- MEMES:END -->
+ - 6️⃣ [The same](http://9gag.com/gag/aW4y6nx)
+ - 😝 [Good news everyone.](http://9gag.com/gag/a5QgPWo)
+ - 👉 [Such realistic cosplay](http://9gag.com/gag/ayNrd8r)<!-- MEMES:END -->
 
 --- 
 
