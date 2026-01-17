@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dab](http://9gag.com/gag/apR70xE)
- - 😝 [We need more asylums](http://9gag.com/gag/a34g3M5)
- - 👉 [Things that never will happen](http://9gag.com/gag/aXP3peD)<!-- MEMES:END -->
+ - 6️⃣ [You know](http://9gag.com/gag/awyj7oy)
+ - 😝 [Like a glove](http://9gag.com/gag/a4PgL9m)
+ - 👉 [Dab](http://9gag.com/gag/apR70xE)<!-- MEMES:END -->
 
 --- 
 
