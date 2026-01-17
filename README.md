@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bad Bunny dances his way to the Super Bowl halftime show](https://appleinsider.com/articles/26/01/16/bad-bunny-dances-his-way-to-the-super-bowl-halftime-show?utm_source=rss)
- - [Sources: Google is in talks with broadband operator Radiate to set up a JV to hold their fiber assets; Stonepeak Partners will invest $1B to support the deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/260116/p24#a260116p24)
- - [Here’s how much IKEA’s new donut-shaped smart lamp could cost](https://www.androidauthority.com/ikea-varmblixt-smart-lamp-listing-3633363/)<!-- TECH:END -->
+ - [The US EPA rules that xAI acted illegally by using dozens of methane gas turbines to power its Colossus 1 and Colossus 2 data centers in the Memphis area &lpar;Dara Kerr/The Guardian&rpar;](http://www.techmeme.com/260116/p30#a260116p30)
+ - [Sources: leaders at Thinking Machines Lab confronted Barret Zoph over an alleged relationship with another employee, who is no longer at the lab, in summer 2025 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260116/p29#a260116p29)
+ - [You Can Now Watch Mini Dramas on TikTok&#39;s Standalone &#39;PineDrama&#39; App](https://www.cnet.com/tech/services-and-software/you-can-now-watch-mini-dramas-on-tiktoks-standalone-pinedrama-app/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
