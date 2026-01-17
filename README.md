@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Long live the Queen!](http://9gag.com/gag/aLno2ox)
- - 😝 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
+ - 😝 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)
  - 👉 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)<!-- MEMES:END -->
 
 --- 
