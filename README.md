@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hytale console commands to give yourself any item, teleport around the map,  and swap between game modes](https://www.pcgamer.com/games/survival-crafting/hytale-console-commands/)
- - [Nexus Mods quashes rumor of 2-year bans for linking the site on Discord: &#39;There does not appear to be any risk of being moderated by Discord for posting Nexus Mods links&#39;](https://www.pcgamer.com/gaming-industry/nexus-mods-quashes-rumor-of-2-year-bans-for-linking-the-site-on-discord-there-does-not-appear-to-be-any-risk-of-being-moderated-by-discord-for-posting-nexus-mods-links/)
- - [Forbidden Solitaire warns us to uninstall it &#39;before it&#39;s too late,&#39; but I played the demo anyway and now I want more](https://www.pcgamer.com/games/card-games/forbidden-solitaire-warns-us-to-uninstall-it-before-its-too-late-but-i-played-the-demo-anyway-and-now-i-want-more/)<!-- GAME:END -->
+ - [When does Knight of the Seven Kingdoms take place? The Game of Thrones timeline explained](https://www.polygon.com/knight-of-the-seven-kingdoms-game-of-thrones-house-of-the-dragon-timeline/)
+ - [Forspoken deserved a chance at a sequel](https://www.polygon.com/forspoken-sequel-square-enix-booooo/)
+ - [Diablo-like No Rest for the Wicked has sold a million copies, and co-op is coming next week](https://www.pcgamer.com/games/rpg/diablo-like-no-rest-for-the-wicked-has-sold-a-million-copies-and-co-op-is-coming-next-week/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
