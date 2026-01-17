@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They be like that](http://9gag.com/gag/a87NY9Z)
- - 😝 [The word rhymes with hike.](http://9gag.com/gag/aKGZBp1)
- - 👉 [Things that never will happen](http://9gag.com/gag/aXP3peD)<!-- MEMES:END -->
+ - 6️⃣ [Thank me Later REMASTERED 2026 version](http://9gag.com/gag/apR7BL5)
+ - 😝 [He loves his job,,,, sometimes](http://9gag.com/gag/axyKjAn)
+ - 👉 [Such realistic cosplay](http://9gag.com/gag/ayNrd8r)<!-- MEMES:END -->
 
 --- 
 
