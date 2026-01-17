@@ -128,8 +128,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Micron breaks ground in New York for its memory manufacturing complex, announced in 2022, that it says will be the largest semiconductor facility in the US &lpar;Glenn Coin/Syracuse Post-Standard&rpar;](http://www.techmeme.com/260116/p33#a260116p33)
- - [Grid operator PJM plans to require large data centers to either bring their own power generation or curtail electricity use to prevent a large-scale outage &lpar;Reuters&rpar;](http://www.techmeme.com/260116/p32#a260116p32)
- - [Sources: suppliers of parts for Nvidia&#39;s H200 chips have paused production after Chinese customs officials blocked shipments of the AI processors &lpar;Financial Times&rpar;](http://www.techmeme.com/260116/p31#a260116p31)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Jan. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-17/)
+ - [Grid operator PJM plans to require large data centers to either bring their own power generation or curtail electricity use to prevent a large-scale outage &lpar;Reuters&rpar;](http://www.techmeme.com/260116/p32#a260116p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
