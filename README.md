@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TrendForce: data centers will use 70%+ of the high-end memory chips all manufacturers will produce in 2026, with little new manufacturing capacity until 2027 &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/260117/p7#a260117p7)
- - [Filing: Elon Musk seeks $79B-$134B damages from OpenAI and Microsoft, alleging OpenAI defrauded him by abandoning nonprofit roots and partnering with Microsoft &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/260117/p6#a260117p6)
- - [Appfigures: Sora 2 had ~6M iOS downloads as of December 2025; the Android version, available since early November 2025, had ~3.1M, as growth begins to slow &lpar;Sherwood News&rpar;](http://www.techmeme.com/260117/p5#a260117p5)<!-- TECH:END -->
+ - [For better or worse, the realme GT8 Pro is the OnePlus 15 that never was](https://www.androidauthority.com/realme-gt8-pro-review-3622055/)
+ - [Leaving Verizon made sense on paper — until I calculated the real cost of switching](https://www.androidauthority.com/leaving-verizon-for-prepaid-real-cost-switching-3631504/)
+ - [The 16 Best EVs Coming in 2026](https://www.wired.com/story/the-16-best-evs-coming-in-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
