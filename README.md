@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Micron breaks ground in New York for its memory manufacturing complex, announced in 2022, that it says will be the largest semiconductor facility in the US &lpar;Glenn Coin/Syracuse Post-Standard&rpar;](http://www.techmeme.com/260116/p33#a260116p33)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Jan. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-17/)
- - [Grid operator PJM plans to require large data centers to either bring their own power generation or curtail electricity use to prevent a large-scale outage &lpar;Reuters&rpar;](http://www.techmeme.com/260116/p32#a260116p32)<!-- TECH:END -->
+ - [Sources: the EU&#39;s cybersecurity proposal, to be presented on Jan. 20, is expected to phase out vendors such as Huawei from the bloc&#39;s critical infrastructure &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/260117/p3#a260117p3)
+ - [Luxembourg-based Hydrosat, which builds AI-based thermal infrared satellite tech to provide data for water resource management and more, raised a $60M Series B &lpar;Ingrid Lunden/Resilience Media&rpar;](http://www.techmeme.com/260117/p2#a260117p2)
+ - [Anthropic appoints Irina Ghose, a former Microsoft India managing director, to lead its business in India, which has the second-largest user base for Claude &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260117/p1#a260117p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
