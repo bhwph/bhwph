@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [For better or worse, the realme GT8 Pro is the OnePlus 15 that never was](https://www.androidauthority.com/realme-gt8-pro-review-3622055/)
- - [Leaving Verizon made sense on paper — until I calculated the real cost of switching](https://www.androidauthority.com/leaving-verizon-for-prepaid-real-cost-switching-3631504/)
- - [The 16 Best EVs Coming in 2026](https://www.wired.com/story/the-16-best-evs-coming-in-2026/)<!-- TECH:END -->
+ - [Best External Hard Drive &lpar;2026&rpar;: SSD to Store Data, Video &amp; More](https://www.wired.com/story/best-portable-external-storage-drives/)
+ - [Reddit Has Thoughts on Paris Hilton Cookware. So Do We](https://www.wired.com/story/paris-hilton-cookware-reddit/)
+ - [The Play Store is a frustrating mess — here are 7 issues Google must fix in 2026](https://www.androidauthority.com/google-play-store-problems-fixes-3632036/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
