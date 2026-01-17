@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best External Hard Drive &lpar;2026&rpar;: SSD to Store Data, Video &amp; More](https://www.wired.com/story/best-portable-external-storage-drives/)
- - [Reddit Has Thoughts on Paris Hilton Cookware. So Do We](https://www.wired.com/story/paris-hilton-cookware-reddit/)
- - [The Play Store is a frustrating mess — here are 7 issues Google must fix in 2026](https://www.androidauthority.com/google-play-store-problems-fixes-3632036/)<!-- TECH:END -->
+ - [With RAM prices soaring, it’s time next-gen phone specs got creative](https://www.androidauthority.com/ram-price-creative-specs-3632697/)
+ - [A cute frog game that remixes Nintendo&amp;#8217;s best](https://www.theverge.com/games/860917/big-hops-review-pc-nintendo-switch-ps5)
+ - [Minnesota wants to win a war of attrition](https://www.theverge.com/policy/863632/minnesota-walz-trump-sousveillance-ice)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
