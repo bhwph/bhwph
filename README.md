@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Read the room government.](http://9gag.com/gag/amoQ904)
- - 😝 [You know](http://9gag.com/gag/awyj7oy)
- - 👉 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)<!-- MEMES:END -->
+ - 6️⃣ [Long live the Queen!](http://9gag.com/gag/aLno2ox)
+ - 😝 [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
+ - 👉 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)<!-- MEMES:END -->
 
 --- 
 
