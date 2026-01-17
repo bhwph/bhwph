@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best open-world games on Xbox Game Pass to play this weekend &lpar;Jan. 16-19&rpar;](https://www.polygon.com/best-xbox-game-pass-open-world-games-jan-16-2026/)
- - [How to get adamantite in Hytale](https://www.polygon.com/hytale-adamantite-ore-location-how-to-get/)
- - [I Can’t Stop Flicking Coins And Hiring Tiny Dudes In This New Steam Game](https://kotaku.com/i-cant-stop-flicking-coins-and-hiring-tiny-dudes-in-this-new-steam-game-2000660664)<!-- GAME:END -->
+ - [Nexus Mods quashes rumor of 2-year bans for linking the site on Discord: &#39;There does not appear to be any risk of being moderated by Discord for posting Nexus Mods links&#39;](https://www.pcgamer.com/gaming-industry/nexus-mods-quashes-rumor-of-2-year-bans-for-linking-the-site-on-discord-there-does-not-appear-to-be-any-risk-of-being-moderated-by-discord-for-posting-nexus-mods-links/)
+ - [Forbidden Solitaire warns us to uninstall it &#39;before it&#39;s too late,&#39; but I played the demo anyway and now I want more](https://www.pcgamer.com/games/card-games/forbidden-solitaire-warns-us-to-uninstall-it-before-its-too-late-but-i-played-the-demo-anyway-and-now-i-want-more/)
+ - [Fortnite bans paid prize wheels in third-party games just days after Steal the Brainrot started selling them](https://www.pcgamer.com/games/battle-royale/fortnite-bans-paid-prize-wheels-in-third-party-games-just-days-after-steal-the-brainrot-started-selling-them/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
