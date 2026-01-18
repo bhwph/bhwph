@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Things we do for money](http://9gag.com/gag/avyqrq5)
- - 😝 [Imagine opening your door to this](http://9gag.com/gag/aE0KnbG)
- - 👉 [Ah. Makes sense...](http://9gag.com/gag/aO8Ed8R)<!-- MEMES:END -->
+ - 6️⃣ [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
+ - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
+ - 👉 [Bro passed by his house 30 minutes ago](http://9gag.com/gag/a2vgdA9)<!-- MEMES:END -->
 
 --- 
 
