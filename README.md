@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sequoia is planning a big investment in Anthropic, joining a round led by GIC and Coatue, which are investing $1.5B each; Anthropic aims to raise $25B+ &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260118/p9#a260118p9)
- - [Q&amp;A with SiFive co-founder Krste Asanović, who was part of the original team that developed RISC-V, on creating a company that builds IP around RISC-V, and more &lpar;Dr. Ian Cutress/More Than Moore&rpar;](http://www.techmeme.com/260118/p8#a260118p8)
- - [ChatGPT will soon start showing ads, but they won&#39;t affect its responses](https://appleinsider.com/articles/26/01/18/chatgpt-will-soon-start-showing-ads-but-they-wont-affect-its-responses?utm_source=rss)<!-- TECH:END -->
+ - [Similarweb: Threads had 141.5M DAUs on iOS and Android as of January 7, driven by Instagram promotions, while X had 125M DAUs; X continues to lead on the web &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260118/p11#a260118p11)
+ - [RunPod, an AI app hosting service launched four years ago that raised a $20M seed in May 2024, says it has reached a $120M annual revenue run rate &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260118/p10#a260118p10)
+ - [Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down](https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
