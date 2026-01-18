@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
- - 😝 [Bro passed by his house 30 minutes ago](http://9gag.com/gag/a2vgdA9)
- - 👉 [First Minnesota, now Danish](http://9gag.com/gag/aGyvDXn)<!-- MEMES:END -->
+ - 6️⃣ [Simpson gave us the greatest plot twist in television history](http://9gag.com/gag/avyqrRb)
+ - 😝 [Things we do for money](http://9gag.com/gag/avyqrq5)
+ - 👉 [When you see a bug in the code, but you don&#39;t touch anything because everything works anyway\u2026](http://9gag.com/gag/aW4y8Bq)<!-- MEMES:END -->
 
 --- 
 
