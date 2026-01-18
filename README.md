@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Leonardo&#39;s reaction when a woman over 25 touched him](http://9gag.com/gag/adBAjwB)
+ - 6️⃣ [First Minnesota, now Danish](http://9gag.com/gag/aGyvDXn)
  - 😝 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)
  - 👉 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)<!-- MEMES:END -->
 
