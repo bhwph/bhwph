@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout reunites with Magic: The Gathering for cards featuring characters from New Vegas, the TV show, and more Dogmeat](https://www.pcgamer.com/games/card-games/fallout-reunites-with-magic-the-gathering-for-cards-featuring-characters-from-new-vegas-the-tv-show-and-more-dogmeat/)
- - [Skyrim mod The Rot Below promises a &#39;3–6 hour dungeon experience&#39; and is fully voice-acted](https://www.pcgamer.com/games/rpg/skyrim-mod-the-rot-below-promises-a-3-6-hour-dungeon-experience-and-is-fully-voice-acted/)
- - [Minecraft-like Hytale got a huge dinosaur update just a few days after release](https://www.pcgamer.com/games/survival-crafting/minecraft-like-hytale-got-a-huge-dinosaur-update-just-a-few-days-after-release/)<!-- GAME:END -->
+ - [Goblin Sushi is a cooking sim about a goblin who cooks sushi for other sushi-loving goblins](https://www.pcgamer.com/games/sim/goblin-sushi-is-a-cooking-sim-about-a-goblin-who-cooks-sushi-for-other-sushi-loving-goblins/)
+ - [Pokémon Go Grookey Community Day event guide](https://www.polygon.com/pokemon-go-grookey-community-day-shiny-rillaboom-moveset/)
+ - [Fallout reunites with Magic: The Gathering for cards featuring characters from New Vegas, the TV show, and more Dogmeat](https://www.pcgamer.com/games/card-games/fallout-reunites-with-magic-the-gathering-for-cards-featuring-characters-from-new-vegas-the-tv-show-and-more-dogmeat/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
