@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Check out one of Eddie Murphy’s best comedies &lpar;and its so-so sequel&rpar; before it leaves Netflix](https://www.polygon.com/check-out-one-of-eddie-murphys-best-comedies-and-its-so-so-sequel-before-they-leave-netflix/)
- - [Terraria&#39;s long-awaited 1.4.5 patch finally has a release date, and it&#39;s this month: &#39;start the countdown&#39;](https://www.pcgamer.com/games/survival-crafting/terrarias-long-awaited-1-4-5-patch-finally-has-a-release-date-and-its-this-month-start-the-countdown/)
- - [Goblin Sushi is a cooking sim about a goblin who cooks sushi for other sushi-loving goblins](https://www.pcgamer.com/games/sim/goblin-sushi-is-a-cooking-sim-about-a-goblin-who-cooks-sushi-for-other-sushi-loving-goblins/)<!-- GAME:END -->
+ - [The Green Hornet is the best forgotten superhero movie of 2011](https://www.polygon.com/15-years-ago-the-green-hornet-gondry-rogen-superheroes/)
+ - [Super Battle Golf improves the world&#39;s least interesting sport by letting you blast your competitors with orbital lasers](https://www.pcgamer.com/games/sports/super-battle-golf-improves-the-worlds-least-interesting-sport-by-letting-you-blast-your-competitors-with-orbital-lasers/)
+ - [All the awards Expedition 33 still has left to win — and the awards it won&#39;t](https://www.polygon.com/gaming-awards-2025-dice-gdc-igf-bafta-clair-obscur/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
