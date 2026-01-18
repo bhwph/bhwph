@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ex-Assassin’s Creed Boss Sues Ubisoft For Nearly $1 Million Over Alleged Forced Firing](https://kotaku.com/assassins-creed-lawsuit-ubisoft-marc-alexis-cote-hexe-2000660833)
- - [Star Wars movies and TV shows: Every project and release date announced](https://www.polygon.com/star-wars/23672528/star-wars-movies-tv-schedule-calendar-upcoming/)
- - [Once and for all, which game has the best art?](https://www.pcgamer.com/games/once-and-for-all-which-game-has-the-best-art/)<!-- GAME:END -->
+ - [Demon Slayer&#39;s head writer reveals how cornerstone of Japanese cinema inspired Infinity Castle](https://www.polygon.com/demon-slayer-infinity-castle-seven-samurai-hikaru-kondo/)
+ - [Why the False Hydra is D&amp;D’s best homebrew monster — and why you can only run it once](https://www.polygon.com/false-hydra-dnd-monster-homebrew/)
+ - [Ex-Assassin’s Creed Boss Sues Ubisoft For Nearly $1 Million Over Alleged Forced Firing](https://kotaku.com/assassins-creed-lawsuit-ubisoft-marc-alexis-cote-hexe-2000660833)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
