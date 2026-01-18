@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This budget-friendly Roku TV projector has given me a practical way to have more movie nights](https://www.androidauthority.com/aurzen-eazze-d1r-review-3630122/)
- - [This cheap e-reader accessory is everything I didn’t know I wanted](https://www.androidauthority.com/kobo-remote-review-3626327/)
- - [15 Best Electric Bikes &lpar;2026&rpar;, Tested and Reviewed: Commuting, Mountain Biking](https://www.wired.com/gallery/best-electric-bikes/)<!-- TECH:END -->
+ - [Here are the 10 deals worth grabbing from Best Buy’s winter sales event](https://www.theverge.com/gadgets/863660/best-buy-winter-sale-2026-oled-tvs-headphones-fitness-trackers-deal-sale)
+ - [Kaoss Pad V is the first major upgrade to Korg’s touch-based effects in 13 years](https://www.theverge.com/news/864003/korg-kaoss-pad-v-namm)
+ - [PDAs, Tube TVs and $13,000 VCRs: How CES Jump-Starts the Tech of Tomorrow](https://www.cnet.com/tech/home-entertainment/features/ces-history-consumer-electronics-show-tv-vcr-atari-pda-apple/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
