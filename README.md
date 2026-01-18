@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Goblin Sushi is a cooking sim about a goblin who cooks sushi for other sushi-loving goblins](https://www.pcgamer.com/games/sim/goblin-sushi-is-a-cooking-sim-about-a-goblin-who-cooks-sushi-for-other-sushi-loving-goblins/)
- - [Pokémon Go Grookey Community Day event guide](https://www.polygon.com/pokemon-go-grookey-community-day-shiny-rillaboom-moveset/)
- - [Fallout reunites with Magic: The Gathering for cards featuring characters from New Vegas, the TV show, and more Dogmeat](https://www.pcgamer.com/games/card-games/fallout-reunites-with-magic-the-gathering-for-cards-featuring-characters-from-new-vegas-the-tv-show-and-more-dogmeat/)<!-- GAME:END -->
+ - [Check out one of Eddie Murphy’s best comedies &lpar;and its so-so sequel&rpar; before it leaves Netflix](https://www.polygon.com/check-out-one-of-eddie-murphys-best-comedies-and-its-so-so-sequel-before-they-leave-netflix/)
+ - [Terraria&#39;s long-awaited 1.4.5 patch finally has a release date, and it&#39;s this month: &#39;start the countdown&#39;](https://www.pcgamer.com/games/survival-crafting/terrarias-long-awaited-1-4-5-patch-finally-has-a-release-date-and-its-this-month-start-the-countdown/)
+ - [Goblin Sushi is a cooking sim about a goblin who cooks sushi for other sushi-loving goblins](https://www.pcgamer.com/games/sim/goblin-sushi-is-a-cooking-sim-about-a-goblin-who-cooks-sushi-for-other-sushi-loving-goblins/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
