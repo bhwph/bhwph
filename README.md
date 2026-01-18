@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the making of The Thinking Game, a documentary about Google DeepMind and its CEO Demis Hassabis, garnering 285M+ views on YouTube since November 2025 &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/260118/p6#a260118p6)
- - [OpenAI&#39;s former Head of Policy Research Miles Brundage announces AVERI, a nonprofit aimed at advocating the idea of external audits for frontier AI models &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260118/p5#a260118p5)
- - [Atlantic Council: China-led cross-border digital currency platform mBridge, still a prototype, has processed 4,000+ cross-border transactions totaling $55.5B &lpar;Marc Jones/Reuters&rpar;](http://www.techmeme.com/260118/p4#a260118p4)<!-- TECH:END -->
+ - [Personal Comfort’s the Rejuvenate Review: Have It Your Way](https://www.wired.com/review/personal-comfort-rejuvenate/)
+ - [How two changes made me like wearing an Oura Ring more than ever](https://www.androidauthority.com/oura-ring-4-ceramic-multi-device-support-3631318/)
+ - [A look at the making of The Thinking Game, a documentary about Google DeepMind and its CEO Demis Hassabis, garnering 285M+ views on YouTube since November 2025 &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/260118/p6#a260118p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
