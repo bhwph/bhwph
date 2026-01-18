@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ho noooooo](http://9gag.com/gag/agm9V1g)
- - 😝 [Open World Big Boys now](http://9gag.com/gag/apR7vx8)
- - 👉 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)<!-- MEMES:END -->
+ - 6️⃣ [The Imperium disapproves this post](http://9gag.com/gag/a4PgYm6)
+ - 😝 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
+ - 👉 [I haven\u2019t found a suitable name yet\u2026](http://9gag.com/gag/aQzbxje)<!-- MEMES:END -->
 
 --- 
 
