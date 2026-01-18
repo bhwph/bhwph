@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Long live the Queen!](http://9gag.com/gag/aLno2ox)
- - 😝 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)
- - 👉 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)<!-- MEMES:END -->
+ - 6️⃣ [Got pulled over last night. Wife left me this note on our front door.](https://www.reddit.com/r/funny/comments/1qfvn14/got_pulled_over_last_night_wife_left_me_this_note/)
+ - 😝 [First Minnesota, now Danish](http://9gag.com/gag/aGyvDXn)
+ - 👉 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)<!-- MEMES:END -->
 
 --- 
 
