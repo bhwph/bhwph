@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When does Knight of the Seven Kingdoms take place? The Game of Thrones timeline explained](https://www.polygon.com/knight-of-the-seven-kingdoms-game-of-thrones-house-of-the-dragon-timeline/)
- - [Forspoken deserved a chance at a sequel](https://www.polygon.com/forspoken-sequel-square-enix-booooo/)
- - [Diablo-like No Rest for the Wicked has sold a million copies, and co-op is coming next week](https://www.pcgamer.com/games/rpg/diablo-like-no-rest-for-the-wicked-has-sold-a-million-copies-and-co-op-is-coming-next-week/)<!-- GAME:END -->
+ - [Fallout reunites with Magic: The Gathering for cards featuring characters from New Vegas, the TV show, and more Dogmeat](https://www.pcgamer.com/games/card-games/fallout-reunites-with-magic-the-gathering-for-cards-featuring-characters-from-new-vegas-the-tv-show-and-more-dogmeat/)
+ - [Skyrim mod The Rot Below promises a &#39;3–6 hour dungeon experience&#39; and is fully voice-acted](https://www.pcgamer.com/games/rpg/skyrim-mod-the-rot-below-promises-a-3-6-hour-dungeon-experience-and-is-fully-voice-acted/)
+ - [Minecraft-like Hytale got a huge dinosaur update just a few days after release](https://www.pcgamer.com/games/survival-crafting/minecraft-like-hytale-got-a-huge-dinosaur-update-just-a-few-days-after-release/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
