@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Personal Comfort’s the Rejuvenate Review: Have It Your Way](https://www.wired.com/review/personal-comfort-rejuvenate/)
- - [How two changes made me like wearing an Oura Ring more than ever](https://www.androidauthority.com/oura-ring-4-ceramic-multi-device-support-3631318/)
- - [A look at the making of The Thinking Game, a documentary about Google DeepMind and its CEO Demis Hassabis, garnering 285M+ views on YouTube since November 2025 &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/260118/p6#a260118p6)<!-- TECH:END -->
+ - [This budget-friendly Roku TV projector has given me a practical way to have more movie nights](https://www.androidauthority.com/aurzen-eazze-d1r-review-3630122/)
+ - [This cheap e-reader accessory is everything I didn’t know I wanted](https://www.androidauthority.com/kobo-remote-review-3626327/)
+ - [15 Best Electric Bikes &lpar;2026&rpar;, Tested and Reviewed: Commuting, Mountain Biking](https://www.wired.com/gallery/best-electric-bikes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
