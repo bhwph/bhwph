@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Green Hornet is the best forgotten superhero movie of 2011](https://www.polygon.com/15-years-ago-the-green-hornet-gondry-rogen-superheroes/)
- - [Super Battle Golf improves the world&#39;s least interesting sport by letting you blast your competitors with orbital lasers](https://www.pcgamer.com/games/sports/super-battle-golf-improves-the-worlds-least-interesting-sport-by-letting-you-blast-your-competitors-with-orbital-lasers/)
- - [All the awards Expedition 33 still has left to win — and the awards it won&#39;t](https://www.polygon.com/gaming-awards-2025-dice-gdc-igf-bafta-clair-obscur/)<!-- GAME:END -->
+ - [Ex-Assassin’s Creed Boss Sues Ubisoft For Nearly $1 Million Over Alleged Forced Firing](https://kotaku.com/assassins-creed-lawsuit-ubisoft-marc-alexis-cote-hexe-2000660833)
+ - [Star Wars movies and TV shows: Every project and release date announced](https://www.polygon.com/star-wars/23672528/star-wars-movies-tv-schedule-calendar-upcoming/)
+ - [Once and for all, which game has the best art?](https://www.pcgamer.com/games/once-and-for-all-which-game-has-the-best-art/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
