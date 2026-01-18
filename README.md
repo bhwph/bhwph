@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Simpson gave us the greatest plot twist in television history](http://9gag.com/gag/avyqrRb)
- - 😝 [Things we do for money](http://9gag.com/gag/avyqrq5)
- - 👉 [When you see a bug in the code, but you don&#39;t touch anything because everything works anyway\u2026](http://9gag.com/gag/aW4y8Bq)<!-- MEMES:END -->
+ - 6️⃣ [Leonardo&#39;s reaction when a woman over 25 touched him](http://9gag.com/gag/adBAjwB)
+ - 😝 [When you are too confident during job interview](http://9gag.com/gag/aLno2Nv)
+ - 👉 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)<!-- MEMES:END -->
 
 --- 
 
