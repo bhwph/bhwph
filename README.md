@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Matrix training 1999](http://9gag.com/gag/aPALBjq)
- - 😝 [Currently going through this.. luckily she showed her true colors before we got married. Know your worth, Brothers who suffer in silence.](http://9gag.com/gag/a6ZgM6e)
- - 👉 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)<!-- MEMES:END -->
+ - 6️⃣ [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
+ - 😝 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)
+ - 👉 [This travel hack is gonna get you places... like bankruptcy court](http://9gag.com/gag/a7ogdxw)<!-- MEMES:END -->
 
 --- 
 
