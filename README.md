@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Micron signs a deal to acquire a chip foundry in Taiwan for $1.8 billion, though it won&#39;t make a dent in the memory supply crisis until 2027 at the earliest](https://www.pcgamer.com/hardware/memory/micron-signs-a-deal-to-acquire-a-chip-foundry-in-taiwan-for-usd1-8-billion-though-it-wont-make-a-dent-in-the-memory-supply-crisis-until-2027-at-the-earliest/)
- - [Logitech’s G Driving Force Shifter Crashes to Record Low Below Black Friday, Compatible With Racing Wheels for PlayStation, Xbox, and PC](https://kotaku.com/logitechs-g-driving-force-shifter-crashes-to-record-low-below-black-friday-compatible-with-racing-wheels-for-playstation-xbox-and-pc-2000659474)
- - [RuneScape&#39;s 2026 roadmap reveals the biggest region in the game&#39;s history](https://www.polygon.com/runescape-roadmap-2026-havenhythe/)<!-- GAME:END -->
+ - [Marathon release date is now official: After Xbox accidentally spills the beans, Sony sighs, throws up its hands, and says yes, it&#39;s coming on March 5](https://www.pcgamer.com/games/fps/marathon-release-date-is-now-official-after-xbox-accidentally-spills-the-beans-sony-sighs-throws-up-its-hands-and-says-yes-its-coming-on-march-5/)
+ - [Don&#39;t fret, 1337Gamer69: Google will soon let you change your embarrassing Gmail username](https://www.pcgamer.com/hardware/dont-fret-1337gamer69-google-will-soon-let-you-change-your-embarrassing-gmail-username/)
+ - [Spraying kerosene over the DRAM inferno, US commerce secretary suggests memory chip makers could face 100% tariffs unless they commit to increased US production](https://www.pcgamer.com/hardware/memory/spraying-kerosene-over-the-dram-inferno-us-commerce-secretary-suggests-memory-chip-makers-could-face-100-percent-tariffs-unless-they-commit-to-increased-us-production/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
