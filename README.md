@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Laryngoscopy](http://9gag.com/gag/abAD6QO)
- - 😝 [Things we do for money](http://9gag.com/gag/avyqrq5)
- - 👉 [This travel hack is gonna get you places... like bankruptcy court](http://9gag.com/gag/a7ogdxw)<!-- MEMES:END -->
+ - 😝 [This travel hack is gonna get you places... like bankruptcy court](http://9gag.com/gag/a7ogdxw)
+ - 👉 [Things we do for money](http://9gag.com/gag/avyqrq5)<!-- MEMES:END -->
 
 --- 
 
