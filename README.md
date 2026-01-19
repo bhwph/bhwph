@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft is preparing to launch a session-based ad-supported Xbox Cloud Gaming tier in 2026; users note Xbox Cloud Gaming now references &quot;ad support&quot; &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/260119/p13#a260119p13)
- - [Source: Elon Musk donates $10M to boost pro-Trump Senate candidate Nate Morris, seeking to replace Mitch McConnell, in Musk&#39;s largest-ever Senate donation &lpar;Alex Isenstadt/Axios&rpar;](http://www.techmeme.com/260119/p12#a260119p12)
- - [iPhone 18 Pro leak puts pressure on Samsung’s aging flagship strategy](https://www.androidauthority.com/apple-iphone-18-pro-fold-spec-leak-3633537/)<!-- TECH:END -->
+ - [Sources: internal Google data shows Gemini API calls surged from 35B in March 2025 to 85B in August 2025; Google says Gemini Enterprise hit 8M subscribers &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/260119/p16#a260119p16)
+ - [Asus may have made its last phone](https://www.theverge.com/news/864116/asus-may-have-made-its-last-phone)
+ - [Animal Crossing: New Horizons added just enough to suck me back in](https://www.theverge.com/games/863747/animal-crossing-new-horizons-update-3-0-switch-2-quality-of-life)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
