@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the business and geopolitical considerations behind TSMC&#39;s international expansion, as Taiwan commits to spend $250B+ in the US in a trade deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260118/p16#a260118p16)
- - [Here’s how Google’s getting ready for Android’s upcoming sideloading restrictions &lpar;Updated&rpar;](https://www.androidauthority.com/install-without-verifying-3633199/)
- - [Google confirms ‘high-friction’ sideloading flow is coming to Android](https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/)<!-- TECH:END -->
+ - [Shenzhen-based UBTech signed deals to supply its Walker S2 humanoid robots to Airbus and Texas Instruments, and says it aims to produce 10,000+ units in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260119/p2#a260119p2)
+ - [Thinking about getting YouTube TV? Google just made it way cheaper to try](https://www.androidauthority.com/youtube-tv-limited-time-offer-new-subscribers-3633475/)
+ - [Meta&#39;s VR layoffs may help the industry long term, as most affected roles focused on first-party content and games that competed with the broader ecosystem &lpar;Palmer Luckey/@palmerluckey&rpar;](http://www.techmeme.com/260119/p1#a260119p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
