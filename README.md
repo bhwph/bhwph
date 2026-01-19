@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Pixel 10 could soon get a lot smarter thanks to a major Magic Cue expansion](https://www.androidauthority.com/google-pixel-10-magic-cue-wallet-tasks-integration-apk-teardown-3633483/)
- - [The Race to Build the DeepSeek of Europe Is On](https://www.wired.com/story/europe-race-us-deepseek-sovereign-ai/)
- - [Shenzhen-based UBTech signed deals to supply its Walker S2 humanoid robots to Airbus and Texas Instruments, and says it aims to produce 10,000+ units in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260119/p2#a260119p2)<!-- TECH:END -->
+ - [I spent 5 years trying to love foldables — here’s why I’m finally quitting](https://www.androidauthority.com/i-spent-five-years-trying-love-foldables-why-im-quitting-3632781/)
+ - [Samsung just dropped a major Home Up update for One UI 8.5](https://www.androidauthority.com/samsung-home-up-update-one-ui-8-5-3633515/)
+ - [Don’t settle for $20: Verizon outage credits can reportedly reach $200](https://www.androidauthority.com/verizon-network-outage-higher-compensation-3633498/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
