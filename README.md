@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: internal Google data shows Gemini API calls surged from 35B in March 2025 to 85B in August 2025; Google says Gemini Enterprise hit 8M subscribers &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/260119/p16#a260119p16)
- - [Asus may have made its last phone](https://www.theverge.com/news/864116/asus-may-have-made-its-last-phone)
- - [Animal Crossing: New Horizons added just enough to suck me back in](https://www.theverge.com/games/863747/animal-crossing-new-horizons-update-3-0-switch-2-quality-of-life)<!-- TECH:END -->
+ - [Samsung will let you know if your Galaxy Ring has been disconnected for multiple days](https://www.androidauthority.com/samsung-galaxy-ring-connectiviy-3633600/)
+ - [AYANEO’s powerful tiny handheld could be the last gaming handheld you’ll ever buy](https://www.androidauthority.com/ayaneo-pocket-s-mini-showcase-3633591/)
+ - [OpenAI executive Chris Lehane says the startup is &quot;on track&quot; to unveil its first device in H2 2026; reports suggest it won&#39;t have a screen and may be a wearable &lpar;Axios&rpar;](http://www.techmeme.com/260119/p18#a260119p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
