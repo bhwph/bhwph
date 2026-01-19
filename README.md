@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Netgear Nighthawk Wi-Fi 6 Router is 67% off!](https://www.androidauthority.com/deals-post-2-3633698/)
- - [Aqara U400, Ikea Matter lineup, &amp; Govee Nugget Ice Maker Pro reviews on HomeKit Insider](https://appleinsider.com/articles/26/01/19/aqara-u400-ikea-matter-lineup-govee-nugget-ice-maker-pro-reviews-on-homekit-insider?utm_source=rss)
- - [Retroid Pocket 6 launch hits another stumbling block after shipping delayed](https://www.androidauthority.com/retroid-pocket-6-shipping-delay-3633715/)<!-- TECH:END -->
+ - [Q&amp;A with Razer CEO Min-Liang Tan on the use of AI in game development, the gaming community&#39;s pushback against AI, partnering with Grok, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260119/p23#a260119p23)
+ - [This new retro handheld keeps the Game Boy look, but modernizes the controls](https://www.androidauthority.com/trimui-brick-pro-teaser-3633744/)
+ - [How to use an iPhone to take pictures of the Aurora Borealis](https://appleinsider.com/inside/ios-26/tips/how-to-use-an-iphone-to-take-pictures-of-the-aurora-borealis?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
