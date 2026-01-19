@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I spent 5 years trying to love foldables — here’s why I’m finally quitting](https://www.androidauthority.com/i-spent-five-years-trying-love-foldables-why-im-quitting-3632781/)
- - [Samsung just dropped a major Home Up update for One UI 8.5](https://www.androidauthority.com/samsung-home-up-update-one-ui-8-5-3633515/)
- - [Don’t settle for $20: Verizon outage credits can reportedly reach $200](https://www.androidauthority.com/verizon-network-outage-higher-compensation-3633498/)<!-- TECH:END -->
+ - [Sources: Microsoft is preparing to launch a session-based ad-supported Xbox Cloud Gaming tier in 2026; users note Xbox Cloud Gaming now references &quot;ad support&quot; &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/260119/p13#a260119p13)
+ - [Source: Elon Musk donates $10M to boost pro-Trump Senate candidate Nate Morris, seeking to replace Mitch McConnell, in Musk&#39;s largest-ever Senate donation &lpar;Alex Isenstadt/Axios&rpar;](http://www.techmeme.com/260119/p12#a260119p12)
+ - [iPhone 18 Pro leak puts pressure on Samsung’s aging flagship strategy](https://www.androidauthority.com/apple-iphone-18-pro-fold-spec-leak-3633537/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
