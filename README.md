@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mystery Team on Blu-ray: This Donald Glover cult classic is finally getting its due](https://www.polygon.com/mystery-team-blu-ray-recommendation/)
- - [The DockFrame is a USB-C hub compatible with Framework&#39;s modular, hot swappable kit so you always have just what you need](https://www.pcgamer.com/hardware/the-dockframe-is-a-usb-c-hub-compatible-with-frameworks-modular-hot-swappable-kit-so-you-always-have-just-what-you-need/)
- - [XGIMI MoGo 4 Laser projector review](https://www.pcgamer.com/hardware/gaming-monitors/xgimi-mogo-4-laser-projector-review/)<!-- GAME:END -->
+ - [Marvel Rivals Promises A Crackdown On The Recent Epidemic Of ‘Lord Farming’](https://kotaku.com/marvel-rivals-s6-lord-farming-proficiency-detection-2000661005)
+ - [League of Legends MMO shows signs of life as Riot adds a former World of Warcraft lead producer to its roster](https://www.pcgamer.com/games/mmo/league-of-legends-mmo-shows-signs-of-life-as-riot-adds-a-former-world-of-warcraft-lead-producer-to-its-roster/)
+ - [Mystery Team on Blu-ray: This Donald Glover cult classic is finally getting its due](https://www.polygon.com/mystery-team-blu-ray-recommendation/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
