@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Legit](http://9gag.com/gag/aZZXmgz)
- - 😝 [Things we do for money](http://9gag.com/gag/avyqrq5)
- - 👉 [Me trying to get my friends to hang out on a cold winter night](http://9gag.com/gag/amoQ2Zj)<!-- MEMES:END -->
+ - 6️⃣ [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
+ - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
+ - 👉 [Laryngoscopy](http://9gag.com/gag/abAD6QO)<!-- MEMES:END -->
 
 --- 
 
