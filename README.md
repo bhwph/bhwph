@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marathon release date is now official: After Xbox accidentally spills the beans, Sony sighs, throws up its hands, and says yes, it&#39;s coming on March 5](https://www.pcgamer.com/games/fps/marathon-release-date-is-now-official-after-xbox-accidentally-spills-the-beans-sony-sighs-throws-up-its-hands-and-says-yes-its-coming-on-march-5/)
- - [Don&#39;t fret, 1337Gamer69: Google will soon let you change your embarrassing Gmail username](https://www.pcgamer.com/hardware/dont-fret-1337gamer69-google-will-soon-let-you-change-your-embarrassing-gmail-username/)
- - [Spraying kerosene over the DRAM inferno, US commerce secretary suggests memory chip makers could face 100% tariffs unless they commit to increased US production](https://www.pcgamer.com/hardware/memory/spraying-kerosene-over-the-dram-inferno-us-commerce-secretary-suggests-memory-chip-makers-could-face-100-percent-tariffs-unless-they-commit-to-increased-us-production/)<!-- GAME:END -->
+ - [Mystery Team on Blu-ray: This Donald Glover cult classic is finally getting its due](https://www.polygon.com/mystery-team-blu-ray-recommendation/)
+ - [The DockFrame is a USB-C hub compatible with Framework&#39;s modular, hot swappable kit so you always have just what you need](https://www.pcgamer.com/hardware/the-dockframe-is-a-usb-c-hub-compatible-with-frameworks-modular-hot-swappable-kit-so-you-always-have-just-what-you-need/)
+ - [XGIMI MoGo 4 Laser projector review](https://www.pcgamer.com/hardware/gaming-monitors/xgimi-mogo-4-laser-projector-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
