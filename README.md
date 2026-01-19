@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Calendar is making it harder to lose track of all your multiple calendars](https://www.androidauthority.com/google-calender-show-secondary-calendars-3633674/)
- - [Sources: Seoul-based AI chip designer FuriosaAI seeks to raise a $300M-$500M Series D to fund mass production of its 2nd-gen RNGD chip and is eyeing a 2027 IPO &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260119/p20#a260119p20)
- - [After years of rumors, Face ID without Dynamic Island may come to iPhone 18](https://appleinsider.com/articles/26/01/19/after-years-of-rumors-face-id-without-dynamic-island-may-come-to-iphone-18?utm_source=rss)<!-- TECH:END -->
+ - [This Netgear Nighthawk Wi-Fi 6 Router is 67% off!](https://www.androidauthority.com/deals-post-2-3633698/)
+ - [Aqara U400, Ikea Matter lineup, &amp; Govee Nugget Ice Maker Pro reviews on HomeKit Insider](https://appleinsider.com/articles/26/01/19/aqara-u400-ikea-matter-lineup-govee-nugget-ice-maker-pro-reviews-on-homekit-insider?utm_source=rss)
+ - [Retroid Pocket 6 launch hits another stumbling block after shipping delayed](https://www.androidauthority.com/retroid-pocket-6-shipping-delay-3633715/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
