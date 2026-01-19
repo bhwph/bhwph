@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Demon Slayer&#39;s head writer reveals how cornerstone of Japanese cinema inspired Infinity Castle](https://www.polygon.com/demon-slayer-infinity-castle-seven-samurai-hikaru-kondo/)
- - [Why the False Hydra is D&amp;D’s best homebrew monster — and why you can only run it once](https://www.polygon.com/false-hydra-dnd-monster-homebrew/)
- - [Ex-Assassin’s Creed Boss Sues Ubisoft For Nearly $1 Million Over Alleged Forced Firing](https://kotaku.com/assassins-creed-lawsuit-ubisoft-marc-alexis-cote-hexe-2000660833)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;January 19, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-19-2026/)
+ - [Game of Thrones interactive map of Westeros, Essos, and more](https://www.polygon.com/game-of-thrones-interactive-map-westeros/)
+ - [Hero shooter Highguard reportedly didn&#39;t even pay for the Game Awards slot that&#39;s earned it so much preemptive hate—the showrunners thought it deserved the spotlight](https://www.pcgamer.com/games/fps/hero-shooter-highguard-reportedly-didnt-even-pay-for-the-game-awards-slot-thats-earned-it-so-much-preemptive-hate-the-showrunners-thought-it-deserved-the-spotlight/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
