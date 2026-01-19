@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Widening your audience while shrinking your fan base.](http://9gag.com/gag/a9ywAqZ)
- - 😝 [I would watch it](http://9gag.com/gag/aXP3A3z)
- - 👉 [I was there, it is true](http://9gag.com/gag/ae9zbgj)<!-- MEMES:END -->
+ - 6️⃣ [Extra Protein](http://9gag.com/gag/aGyveEG)
+ - 😝 [Honesty](http://9gag.com/gag/a6ZgVN8)
+ - 👉 [No title](http://9gag.com/gag/abADzrO)<!-- MEMES:END -->
 
 --- 
 
