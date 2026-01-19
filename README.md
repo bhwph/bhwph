@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Things we do for money](http://9gag.com/gag/avyqrq5)
- - 😝 [Laryngoscopy](http://9gag.com/gag/abAD6QO)
- - 👉 [This travel hack is gonna get you places... like bankruptcy court](http://9gag.com/gag/a7ogdxw)<!-- MEMES:END -->
+ - 6️⃣ [Legit](http://9gag.com/gag/aZZXmgz)
+ - 😝 [Things we do for money](http://9gag.com/gag/avyqrq5)
+ - 👉 [Me trying to get my friends to hang out on a cold winter night](http://9gag.com/gag/amoQ2Zj)<!-- MEMES:END -->
 
 --- 
 
