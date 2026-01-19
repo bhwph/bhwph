@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shenzhen-based UBTech signed deals to supply its Walker S2 humanoid robots to Airbus and Texas Instruments, and says it aims to produce 10,000+ units in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260119/p2#a260119p2)
- - [Thinking about getting YouTube TV? Google just made it way cheaper to try](https://www.androidauthority.com/youtube-tv-limited-time-offer-new-subscribers-3633475/)
- - [Meta&#39;s VR layoffs may help the industry long term, as most affected roles focused on first-party content and games that competed with the broader ecosystem &lpar;Palmer Luckey/@palmerluckey&rpar;](http://www.techmeme.com/260119/p1#a260119p1)<!-- TECH:END -->
+ - [Your Pixel 10 could soon get a lot smarter thanks to a major Magic Cue expansion](https://www.androidauthority.com/google-pixel-10-magic-cue-wallet-tasks-integration-apk-teardown-3633483/)
+ - [The Race to Build the DeepSeek of Europe Is On](https://www.wired.com/story/europe-race-us-deepseek-sovereign-ai/)
+ - [Shenzhen-based UBTech signed deals to supply its Walker S2 humanoid robots to Airbus and Texas Instruments, and says it aims to produce 10,000+ units in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260119/p2#a260119p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
