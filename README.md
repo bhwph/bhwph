@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 😝 [Honesty](http://9gag.com/gag/a6ZgVN8)
- - 👉 [No title](http://9gag.com/gag/abADzrO)<!-- MEMES:END -->
+ - 6️⃣ [Honesty](http://9gag.com/gag/a6ZgVN8)
+ - 😝 [Laryngoscopy](http://9gag.com/gag/abAD6QO)
+ - 👉 [Extra Protein](http://9gag.com/gag/aGyveEG)<!-- MEMES:END -->
 
 --- 
 
