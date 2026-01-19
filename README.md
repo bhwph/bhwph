@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Honesty](http://9gag.com/gag/a6ZgVN8)
- - 😝 [Laryngoscopy](http://9gag.com/gag/abAD6QO)
- - 👉 [Extra Protein](http://9gag.com/gag/aGyveEG)<!-- MEMES:END -->
+ - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
+ - 👉 [China&#39;s ceramic artists](http://9gag.com/gag/agm9XY6)<!-- MEMES:END -->
 
 --- 
 
