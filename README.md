@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
- - 😝 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)
+ - 6️⃣ [Laryngoscopy](http://9gag.com/gag/abAD6QO)
+ - 😝 [Things we do for money](http://9gag.com/gag/avyqrq5)
  - 👉 [This travel hack is gonna get you places... like bankruptcy court](http://9gag.com/gag/a7ogdxw)<!-- MEMES:END -->
 
 --- 
