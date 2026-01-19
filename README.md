@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
- - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 👉 [Laryngoscopy](http://9gag.com/gag/abAD6QO)<!-- MEMES:END -->
+ - 6️⃣ [Widening your audience while shrinking your fan base.](http://9gag.com/gag/a9ywAqZ)
+ - 😝 [I would watch it](http://9gag.com/gag/aXP3A3z)
+ - 👉 [I was there, it is true](http://9gag.com/gag/ae9zbgj)<!-- MEMES:END -->
 
 --- 
 
