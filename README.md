@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung will let you know if your Galaxy Ring has been disconnected for multiple days](https://www.androidauthority.com/samsung-galaxy-ring-connectiviy-3633600/)
- - [AYANEO’s powerful tiny handheld could be the last gaming handheld you’ll ever buy](https://www.androidauthority.com/ayaneo-pocket-s-mini-showcase-3633591/)
- - [OpenAI executive Chris Lehane says the startup is &quot;on track&quot; to unveil its first device in H2 2026; reports suggest it won&#39;t have a screen and may be a wearable &lpar;Axios&rpar;](http://www.techmeme.com/260119/p18#a260119p18)<!-- TECH:END -->
+ - [Google Calendar is making it harder to lose track of all your multiple calendars](https://www.androidauthority.com/google-calender-show-secondary-calendars-3633674/)
+ - [Sources: Seoul-based AI chip designer FuriosaAI seeks to raise a $300M-$500M Series D to fund mass production of its 2nd-gen RNGD chip and is eyeing a 2027 IPO &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260119/p20#a260119p20)
+ - [After years of rumors, Face ID without Dynamic Island may come to iPhone 18](https://appleinsider.com/articles/26/01/19/after-years-of-rumors-face-id-without-dynamic-island-may-come-to-iphone-18?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
