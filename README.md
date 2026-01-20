@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s discounted microSD Express card more than doubles your Switch 2 storage](https://www.theverge.com/gadgets/864404/samsung-p9-microsd-express-card-deal-sale)
- - [OpenAI and ServiceNow sign a three-year deal to integrate OpenAI&#39;s models into ServiceNow&#39;s business software, including embedding OpenAI&#39;s AI agents &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/260120/p30#a260120p30)
- - [Life is Strange will bring the Max and Chloe story to an end in new game](https://www.theverge.com/games/864438/life-is-strange-reunion-release-date-max-chloe)<!-- TECH:END -->
+ - [7 Best All-Clad Deals From the Factory Seconds Sale &lpar;2026&rpar;](https://www.wired.com/story/all-clad-factory-seconds-sale-january-2026/)
+ - [OpenAI rolls out age prediction on ChatGPT globally to identify users under 18 and apply automatic content protections as it prepares to introduce adult content &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/260120/p34#a260120p34)
+ - [Filings from Elon Musk&#39;s OpenAI lawsuit detail Microsoft&#39;s decade-long relationship with OpenAI, including plans for a new subsidiary during Sam Altman&#39;s firing &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260120/p33#a260120p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
