@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; Marathon releases March 6, new Limited Edition DualSense controller revealed](https://blog.playstation.com/2026/01/19/20260119-marathon/)
- - [Marathon&#39;s full voice cast includes talent from Deus Ex, Baldur&#39;s Gate 3, Clair Obscur: Expedition 33, Red Dead Redemption and loads more](https://www.pcgamer.com/games/fps/marathons-full-voice-cast-includes-talent-behind-deus-ex-baldurs-gate-3-clair-obscur-expedition-33-red-dead-redemption-and-lots-more/)
- - [Cyberpunk 2077 VR mod disappears after mod maker decides he&#39;d rather take it down than make it free](https://www.pcgamer.com/games/vr/cyberpunk-2077-vr-mod-disappears-after-mod-maker-decides-hed-rather-take-it-down-than-make-it-free/)<!-- GAME:END -->
+ - [Samsung Drops Galaxy Tab A9+ to a Record Low to Clear Out Older Tablets, No Need to Look for Budget Brands](https://kotaku.com/samsung-drops-galaxy-tab-a9-to-a-record-low-to-clear-out-older-tablets-no-need-to-look-for-budget-brands-2000659054)
+ - [Every Old Game Deserves A 60FPS Update](https://kotaku.com/every-old-game-deserves-a-60fps-update-2000661290)
+ - [Here comes an AMD Ryzen AI 400-powered handheld PC that&#39;s super cute, OLED and has an 80 Wh battery](https://www.pcgamer.com/hardware/handheld-gaming-pcs/here-comes-an-amd-ryzen-ai-400-powered-handheld-pc-thats-super-cute-oled-and-has-an-80-wh-battery/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
