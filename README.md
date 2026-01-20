@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best All-Clad Deals From the Factory Seconds Sale &lpar;2026&rpar;](https://www.wired.com/story/all-clad-factory-seconds-sale-january-2026/)
- - [OpenAI rolls out age prediction on ChatGPT globally to identify users under 18 and apply automatic content protections as it prepares to introduce adult content &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/260120/p34#a260120p34)
- - [Filings from Elon Musk&#39;s OpenAI lawsuit detail Microsoft&#39;s decade-long relationship with OpenAI, including plans for a new subsidiary during Sam Altman&#39;s firing &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260120/p33#a260120p33)<!-- TECH:END -->
+ - [Snap reaches an agreement to settle a social media addiction lawsuit, a week before the start of a trial in the first of several such lawsuits &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260120/p40#a260120p40)
+ - [iPhone 17 China demand may not be boosted much by iPhone Air](https://appleinsider.com/articles/26/01/20/iphone-17-china-demand-may-not-be-boosted-much-by-iphone-air?utm_source=rss)
+ - [Elon Musk and Sam Altman clashed on X after Musk shared a post about a man who committed a murder-suicide following delusional conversations with ChatGPT &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/260120/p39#a260120p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
