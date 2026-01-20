@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Razer CEO Min-Liang Tan on the use of AI in game development, the gaming community&#39;s pushback against AI, partnering with Grok, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260119/p23#a260119p23)
- - [This new retro handheld keeps the Game Boy look, but modernizes the controls](https://www.androidauthority.com/trimui-brick-pro-teaser-3633744/)
- - [How to use an iPhone to take pictures of the Aurora Borealis](https://appleinsider.com/inside/ios-26/tips/how-to-use-an-iphone-to-take-pictures-of-the-aurora-borealis?utm_source=rss)<!-- TECH:END -->
+ - [The UK Treasury committee says the government and Bank of England&#39;s &quot;wait-and-see approach&quot; to AI risks in the financial sector poses &quot;serious harm&quot; to the UK &lpar;Kalyeena Makortoff/The Guardian&rpar;](http://www.techmeme.com/260119/p26#a260119p26)
+ - [8Bitdo Retro C64 Mechanical Keyboard review: Nostalgia and features combined](https://appleinsider.com/articles/26/01/20/8bitdo-retro-c64-mechanical-keyboard-review-nostalgia-and-features-combined?utm_source=rss)
+ - [I&#39;m a Fitness Expert and These Are My Go-To Pieces of Fitness Tech for 2026](https://www.cnet.com/health/fitness/im-a-fitness-expert-and-these-are-my-highly-recommended-pieces-of-fitness-tech/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
