@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [White Male Privilege](http://9gag.com/gag/aRBW1e2)
- - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 👉 [Honesty](http://9gag.com/gag/a6ZgVN8)<!-- MEMES:END -->
+ - 6️⃣ [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
+ - 😝 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
+ - 👉 [Extra Protein](http://9gag.com/gag/aGyveEG)<!-- MEMES:END -->
 
 --- 
 
