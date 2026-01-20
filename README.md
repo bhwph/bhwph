@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Things we do for money](http://9gag.com/gag/avyqrq5)
- - 😝 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)
- - 👉 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)<!-- MEMES:END -->
+ - 6️⃣ [Extra Protein](http://9gag.com/gag/aGyveEG)
+ - 😝 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
+ - 👉 [One of these days](http://9gag.com/gag/aVvrY3v)<!-- MEMES:END -->
 
 --- 
 
