@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
- - 😝 [I love pizza, but who tf slice a pizza like that???](http://9gag.com/gag/aoyoObn)
- - 👉 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)<!-- MEMES:END -->
+ - 6️⃣ [Extra Protein](http://9gag.com/gag/aGyveEG)
+ - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
+ - 👉 [Honesty](http://9gag.com/gag/a6ZgVN8)<!-- MEMES:END -->
 
 --- 
 
