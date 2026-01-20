@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [Extra Protein](http://9gag.com/gag/aGyveEG)
  - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
- - 👉 [Honesty](http://9gag.com/gag/a6ZgVN8)<!-- MEMES:END -->
+ - 👉 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)<!-- MEMES:END -->
 
 --- 
 
