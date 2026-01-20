@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Make Apple give us a better deal, bank tells Australian government](https://appleinsider.com/articles/26/01/20/make-apple-give-us-a-better-deal-bank-tells-australian-government?utm_source=rss)
- - [Humans&amp;, founded by ex-Anthropic, xAI, and Google staff to build collaborative AI, raised a $480M seed from Nvidia, Jeff Bezos, and others at a $4.48B valuation &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/260120/p16#a260120p16)
- - [Sensor Tower: Reels accounted for 50%+ of all Instagram ads in 2025, up from 35% in 2024; Reels accounted for 46% of time spent on Instagram in the US in 2025 &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/260120/p15#a260120p15)<!-- TECH:END -->
+ - [One leaker sticks with 2026 iPhone Air update claim, the rest disagree](https://appleinsider.com/articles/26/01/20/one-leaker-sticks-with-2026-iphone-air-update-claim-the-rest-disagree?utm_source=rss)
+ - [How BYD beat Tesla](https://www.theverge.com/podcast/864314/byd-tesla-china-evs-vergecast)
+ - [Apple&#39;s earnings won&#39;t be dented by RAM price rises yet, says Evercore](https://appleinsider.com/articles/26/01/20/apples-earnings-wont-be-dented-by-ram-price-rises-yet-says-evercore?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
