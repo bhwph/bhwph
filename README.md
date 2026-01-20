@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung partners with Perplexity to make Bixby actually useful](https://www.androidauthority.com/samsung-bixby-one-ui-8-5-perplexity-3633971/)
- - [Former Nintendo of America boss Doug Bowser is joining Hasbro](https://www.theverge.com/news/864412/nintendo-doug-bowser-joins-hasbro-build)
- - [Ethernovia, which builds automotive ethernet chips and software, raised a $90M+ Series B led by Maverick Silicon &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260120/p24#a260120p24)<!-- TECH:END -->
+ - [Samsung’s discounted microSD Express card more than doubles your Switch 2 storage](https://www.theverge.com/gadgets/864404/samsung-p9-microsd-express-card-deal-sale)
+ - [OpenAI and ServiceNow sign a three-year deal to integrate OpenAI&#39;s models into ServiceNow&#39;s business software, including embedding OpenAI&#39;s AI agents &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/260120/p30#a260120p30)
+ - [Life is Strange will bring the Max and Chloe story to an end in new game](https://www.theverge.com/games/864438/life-is-strange-reunion-release-date-max-chloe)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
