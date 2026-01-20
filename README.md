@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK Treasury committee says the government and Bank of England&#39;s &quot;wait-and-see approach&quot; to AI risks in the financial sector poses &quot;serious harm&quot; to the UK &lpar;Kalyeena Makortoff/The Guardian&rpar;](http://www.techmeme.com/260119/p26#a260119p26)
- - [8Bitdo Retro C64 Mechanical Keyboard review: Nostalgia and features combined](https://appleinsider.com/articles/26/01/20/8bitdo-retro-c64-mechanical-keyboard-review-nostalgia-and-features-combined?utm_source=rss)
- - [I&#39;m a Fitness Expert and These Are My Go-To Pieces of Fitness Tech for 2026](https://www.cnet.com/health/fitness/im-a-fitness-expert-and-these-are-my-highly-recommended-pieces-of-fitness-tech/)<!-- TECH:END -->
+ - [New OnePlus updates can permanently lock your phone’s software future](https://www.androidauthority.com/oneplus-arb-protection-3633783/)
+ - [Anthropic details the &quot;Assistant Axis&quot;, a pattern of neural activity in language models that governs their default identity and helpful behavior &lpar;Anthropic&rpar;](http://www.techmeme.com/260119/p27#a260119p27)
+ - [The UK Treasury committee says the government and Bank of England&#39;s &quot;wait-and-see approach&quot; to AI risks in the financial sector poses &quot;serious harm&quot; to the UK &lpar;Kalyeena Makortoff/The Guardian&rpar;](http://www.techmeme.com/260119/p26#a260119p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
