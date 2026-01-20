@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This upcoming Android phone claims to last a whole week with its 10,001mAh battery](https://www.androidauthority.com/realme-p4-power-launch-with-big-battery-3633571/)
- - [xAI has faced a growing outcry from global regulators over Grok&#39;s generation of non-consensual explicit photos, but has faced little regulatory action in the US &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/260120/p1#a260120p1)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-20/)<!-- TECH:END -->
+ - [Verizon’s $20 outage payout has scammers working overtime](https://www.androidauthority.com/verizon-outage-credit-scam-warning-3633800/)
+ - [Here’s when OpenAI’s mysterious ChatGPT device could be unveiled](https://www.androidauthority.com/openai-device-launch-2026-3633803/)
+ - [The HUAWEI Mate X7 has the best cameras I’ve ever used on a foldable](https://www.androidauthority.com/huawei-mate-x7-hands-on-preview-3633553/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
