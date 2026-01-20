@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony&amp;#8217;s TV business is being taken over by TCL](https://www.theverge.com/news/864263/sony-tcl-tv-business-partnership-takeover-announcement)
- - [No one noticed that Google has fixed Gemini’s stupidest calendar limitation](https://www.androidauthority.com/google-fixed-gemini-stupidest-calendar-limitation-3633592/)
- - [Galaxy A57 leak makes it look like a more compelling S26 alternative](https://www.androidauthority.com/samsung-galaxy-a57-leak-better-than-galaxy-s26-3633820/)<!-- TECH:END -->
+ - [Make Apple give us a better deal, bank tells Australian government](https://appleinsider.com/articles/26/01/20/make-apple-give-us-a-better-deal-bank-tells-australian-government?utm_source=rss)
+ - [Humans&amp;, founded by ex-Anthropic, xAI, and Google staff to build collaborative AI, raised a $480M seed from Nvidia, Jeff Bezos, and others at a $4.48B valuation &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/260120/p16#a260120p16)
+ - [Sensor Tower: Reels accounted for 50%+ of all Instagram ads in 2025, up from 35% in 2024; Reels accounted for 46% of time spent on Instagram in the US in 2025 &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/260120/p15#a260120p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
