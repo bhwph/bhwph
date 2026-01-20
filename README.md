@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One leaker sticks with 2026 iPhone Air update claim, the rest disagree](https://appleinsider.com/articles/26/01/20/one-leaker-sticks-with-2026-iphone-air-update-claim-the-rest-disagree?utm_source=rss)
- - [How BYD beat Tesla](https://www.theverge.com/podcast/864314/byd-tesla-china-evs-vergecast)
- - [Apple&#39;s earnings won&#39;t be dented by RAM price rises yet, says Evercore](https://appleinsider.com/articles/26/01/20/apples-earnings-wont-be-dented-by-ram-price-rises-yet-says-evercore?utm_source=rss)<!-- TECH:END -->
+ - [Samsung partners with Perplexity to make Bixby actually useful](https://www.androidauthority.com/samsung-bixby-one-ui-8-5-perplexity-3633971/)
+ - [Former Nintendo of America boss Doug Bowser is joining Hasbro](https://www.theverge.com/news/864412/nintendo-doug-bowser-joins-hasbro-build)
+ - [Ethernovia, which builds automotive ethernet chips and software, raised a $90M+ Series B led by Maverick Silicon &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260120/p24#a260120p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
