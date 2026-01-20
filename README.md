@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung Drops Galaxy Tab A9+ to a Record Low to Clear Out Older Tablets, No Need to Look for Budget Brands](https://kotaku.com/samsung-drops-galaxy-tab-a9-to-a-record-low-to-clear-out-older-tablets-no-need-to-look-for-budget-brands-2000659054)
- - [Every Old Game Deserves A 60FPS Update](https://kotaku.com/every-old-game-deserves-a-60fps-update-2000661290)
- - [Here comes an AMD Ryzen AI 400-powered handheld PC that&#39;s super cute, OLED and has an 80 Wh battery](https://www.pcgamer.com/hardware/handheld-gaming-pcs/here-comes-an-amd-ryzen-ai-400-powered-handheld-pc-thats-super-cute-oled-and-has-an-80-wh-battery/)<!-- GAME:END -->
+ - [Where to find clay in Hytale](https://www.polygon.com/hytale-clay-where-to-find-location/)
+ - [Ex-BioWare Dev Disputes The Idea That It Shouldn’t Have Made Anthem](https://kotaku.com/anthem-bioware-mark-darrah-interview-rpg-shutdown-2000661337)
+ - [Jump into the Biggest THQ Nordic &amp; Handy Games Sale Yet, Running Until February 2](https://news.xbox.com/en-us/2026/01/20/thq-nordic-handy-games-sale-2026/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
