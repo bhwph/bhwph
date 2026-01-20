@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 😝 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
- - 👉 [One of these days](http://9gag.com/gag/aVvrY3v)<!-- MEMES:END -->
+ - 6️⃣ [The audio sounds like my sex life.](http://9gag.com/gag/a87N8gO)
+ - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
+ - 👉 [Ja pierdole Keep up the good work Poland](http://9gag.com/gag/aMV7ZwA)<!-- MEMES:END -->
 
 --- 
 
