@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [White Male Privilege](http://9gag.com/gag/aRBW1e2)
- - 😝 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
- - 👉 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)<!-- MEMES:END -->
+ - 😝 [Extra Protein](http://9gag.com/gag/aGyveEG)
+ - 👉 [Honesty](http://9gag.com/gag/a6ZgVN8)<!-- MEMES:END -->
 
 --- 
 
