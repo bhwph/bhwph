@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon’s $20 outage payout has scammers working overtime](https://www.androidauthority.com/verizon-outage-credit-scam-warning-3633800/)
- - [Here’s when OpenAI’s mysterious ChatGPT device could be unveiled](https://www.androidauthority.com/openai-device-launch-2026-3633803/)
- - [The HUAWEI Mate X7 has the best cameras I’ve ever used on a foldable](https://www.androidauthority.com/huawei-mate-x7-hands-on-preview-3633553/)<!-- TECH:END -->
+ - [Sony&amp;#8217;s TV business is being taken over by TCL](https://www.theverge.com/news/864263/sony-tcl-tv-business-partnership-takeover-announcement)
+ - [No one noticed that Google has fixed Gemini’s stupidest calendar limitation](https://www.androidauthority.com/google-fixed-gemini-stupidest-calendar-limitation-3633592/)
+ - [Galaxy A57 leak makes it look like a more compelling S26 alternative](https://www.androidauthority.com/samsung-galaxy-a57-leak-better-than-galaxy-s26-3633820/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
