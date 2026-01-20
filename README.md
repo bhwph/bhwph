@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
- - 👉 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)<!-- MEMES:END -->
+ - 6️⃣ [White Male Privilege](http://9gag.com/gag/aRBW1e2)
+ - 😝 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
+ - 👉 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)<!-- MEMES:END -->
 
 --- 
 
