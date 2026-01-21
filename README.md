@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want a QWERTY phone in 2026? Here’s a Clicks Communicator rival you shouldn’t miss](https://www.androidauthority.com/unihertz-titan-2-elite-qwerty-android-phone-3634132/)
- - [This upcoming Ultra flagship was spotted with an insane 300mm telephoto lens extender](https://www.androidauthority.com/oppo-find-x9-ultra-300mm-telephoto-extender-leak-3634135/)
- - [A programmer estimates his typical day of coding with Claude Code is equivalent to running the dishwasher an extra time, much more energy than a &quot;median query&quot; &lpar;Simon P. Couch&rpar;](http://www.techmeme.com/260121/p8#a260121p8)<!-- TECH:END -->
+ - [ChatGPT is using age prediction to restrict what minors see](https://www.theverge.com/news/864784/openai-chatgpt-age-prediction-restrictions-rollout)
+ - [The iPhone 18 Pro is already putting 2026 Android phones to shame](https://www.androidauthority.com/iphone-18-pro-already-putting-2026-android-phones-shame-3633944/)
+ - [The AI Boom Will Increase US Carbon Emissions—but It Doesn’t Have To](https://www.wired.com/story/the-ai-boom-will-increase-us-carbon-emissions-but-it-doesnt-have-to/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
