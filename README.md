@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap reaches an agreement to settle a social media addiction lawsuit, a week before the start of a trial in the first of several such lawsuits &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260120/p40#a260120p40)
- - [iPhone 17 China demand may not be boosted much by iPhone Air](https://appleinsider.com/articles/26/01/20/iphone-17-china-demand-may-not-be-boosted-much-by-iphone-air?utm_source=rss)
- - [Elon Musk and Sam Altman clashed on X after Musk shared a post about a man who committed a murder-suicide following delusional conversations with ChatGPT &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/260120/p39#a260120p39)<!-- TECH:END -->
+ - [Apple services outage hits Apple TV, Maps, &amp; App Store](https://appleinsider.com/articles/26/01/21/apple-services-outage-hits-apple-tv-maps-app-store?utm_source=rss)
+ - [G42 CEO Peng Xiao says AI chip shipments from Nvidia, AMD, and Cerebras are set to arrive in the UAE within the next few months, as the UAE builds a 200MW hub &lpar;Bloomberg&rpar;](http://www.techmeme.com/260120/p48#a260120p48)
+ - [French court says Apple App Tracking Transparency function can stay](https://appleinsider.com/articles/26/01/21/french-court-says-apple-app-tracking-transparency-function-can-stay?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
