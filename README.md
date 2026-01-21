@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She&#39;s a keeper, not those influencers asking for six figures](http://9gag.com/gag/a7ogwze)
- - 😝 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
- - 👉 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)<!-- MEMES:END -->
+ - 6️⃣ [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
+ - 😝 [Your partners will thank you](http://9gag.com/gag/a4PgR26)
+ - 👉 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)<!-- MEMES:END -->
 
 --- 
 
