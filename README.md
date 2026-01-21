@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple services outage hit Apple TV, Maps, &amp; App Store](https://appleinsider.com/articles/26/01/21/apple-services-outage-hits-apple-tv-maps-app-store?utm_source=rss)
- - [Android 16 beta continues to crash popular work apps, and Google has no fix yet &lpar;Updated: Potential fix&rpar;](https://www.androidauthority.com/android-16-qpr-3-beta-microsoft-office-crash-3633859/)
- - [OpenAI says it will cover the costs of developing energy-related infrastructure at its Stargate data centers to ensure they don&#39;t raise consumers&#39; utility bills &lpar;Bloomberg&rpar;](http://www.techmeme.com/260120/p52#a260120p52)<!-- TECH:END -->
+ - [Sealy Promo Code: Save $200 on Mattresses This Month](https://www.wired.com/story/sealy-promo-code/)
+ - [Thoma Bravo co-founder Orlando Bravo says the slump in software company valuations over threat of AI-driven disruption is creating a &quot;huge buying opportunity&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260121/p5#a260121p5)
+ - [Purple Promo Codes and Deals: Up to 30% Off](https://www.wired.com/story/purple-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
