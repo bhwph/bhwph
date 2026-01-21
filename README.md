@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is turning Siri into an AI bot that&amp;#8217;s more like ChatGPT](https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt)
- - [Despite Apple having said otherwise, Siri may become a chatbot in iOS 27](https://appleinsider.com/articles/26/01/21/despite-apple-having-said-otherwise-siri-may-become-a-chatbot-in-ios-27?utm_source=rss)
- - [Apple&#39;s Formula 1 racing partnership will go far beyond streaming](https://appleinsider.com/articles/26/01/21/apples-formula-1-racing-partnership-will-go-far-beyond-streaming?utm_source=rss)<!-- TECH:END -->
+ - [Memo: Barret Zoph, the Thinking Machines Lab cofounder who rejoined OpenAI last week, will lead OpenAI&#39;s enterprise push, as part of a broader reorganization &lpar;The Information&rpar;](http://www.techmeme.com/260121/p45#a260121p45)
+ - [Unsealed docs: Spotify and labels sued Anna&#39;s Archive over plans to release scraped Spotify data; a US court grants a temporary order taking down some domains &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/260121/p44#a260121p44)
+ - [Apple is picking up where Humane left off](https://www.androidauthority.com/apple-developing-ai-pin-3634398/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
