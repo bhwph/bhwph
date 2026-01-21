@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT is using age prediction to restrict what minors see](https://www.theverge.com/news/864784/openai-chatgpt-age-prediction-restrictions-rollout)
- - [The iPhone 18 Pro is already putting 2026 Android phones to shame](https://www.androidauthority.com/iphone-18-pro-already-putting-2026-android-phones-shame-3633944/)
- - [The AI Boom Will Increase US Carbon Emissions—but It Doesn’t Have To](https://www.wired.com/story/the-ai-boom-will-increase-us-carbon-emissions-but-it-doesnt-have-to/)<!-- TECH:END -->
+ - [Salt Lake City-based Zanskar, which uses AI to find overlooked geothermal fields to boost US electricity supply, raised $115M, taking its total funding to $180M &lpar;Benoît Morenne/Wall Street Journal&rpar;](http://www.techmeme.com/260121/p22#a260121p22)
+ - [Sensor Tower: consumers spent $85B on apps globally in 2025, up 21% YoY, and, in a first, more money went on non-game mobile apps than on games, driven by GenAI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260121/p21#a260121p21)
+ - [Japan finally gets Apple FItness+, lazily using AI-generated dubs](https://appleinsider.com/articles/26/01/21/japan-finally-gets-apple-fitness-lazily-using-ai-generated-dubs?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
