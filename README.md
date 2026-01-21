@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find clay in Hytale](https://www.polygon.com/hytale-clay-where-to-find-location/)
- - [Ex-BioWare Dev Disputes The Idea That It Shouldn’t Have Made Anthem](https://kotaku.com/anthem-bioware-mark-darrah-interview-rpg-shutdown-2000661337)
- - [Jump into the Biggest THQ Nordic &amp; Handy Games Sale Yet, Running Until February 2](https://news.xbox.com/en-us/2026/01/20/thq-nordic-handy-games-sale-2026/)<!-- GAME:END -->
+ - [Arknights: Endfield launch times and release date](https://www.pcgamer.com/games/rpg/arknights-endfield-launch-time-release-date/)
+ - [Microsoft CEO warns that we must &#39;do something useful&#39; with AI or they&#39;ll lose &#39;social permission&#39; to burn electricity on it](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+ - [The best platformers on PC](https://www.pcgamer.com/best-platformers/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
