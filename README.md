@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Elon Musk is pushing for a SpaceX IPO by July, seems eager to beat OpenAI and Anthropic to market, and views it as a way to help xAI catch its rivals &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260121/p28#a260121p28)
- - [YouTube CEO Neal Mohan says creators can generate Shorts using their AI likenesses later in 2026, but offers few details, and touts AI tools like game makers &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260121/p27#a260121p27)
- - [Instagram’s top boss is missing the point about AI on the platform](https://www.theverge.com/tech/864768/instagram-adam-mosseri-ai-content-algorithm)<!-- TECH:END -->
+ - [Sony launches the $230 LinkBuds Clip, open-style earbuds that sit outside the ear canal, with IPX4 water resistance and a 9 hour battery life, available now &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260121/p32#a260121p32)
+ - [Flash deals: Save $200 on M4 MacBook Air with 24GB RAM, up to 50% off Sonos](https://appleinsider.com/articles/26/01/21/flash-deals-save-200-on-m4-macbook-air-with-24gb-ram-up-to-50-off-sonos?utm_source=rss)
+ - [DJI’s Mic Mini is a big upgrade over your phone’s mic, and it&amp;#8217;s on sale for $60](https://www.theverge.com/tech/864942/dji-mac-mini-starlink-mini-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
