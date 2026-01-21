@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The ALGS Championship&#39;s underdog winner, Oblivion, just made esports history](https://www.polygon.com/apex-legends-globa-series-monsoon-interview/)
- - [How A Headline Gets Written At Kotaku: Battlefield 6 Edition](https://kotaku.com/how-a-headline-gets-written-at-kotaku-battlefield-6-edition-2000661912)
- - [Crimson Desert secures a March release date as the ambitious Frankenstein&#39;s monster of open world fantasy games goes gold](https://www.pcgamer.com/games/action/crimson-desert-secures-a-march-release-date-as-the-ambitious-frankensteins-monster-of-open-world-fantasy-games-goes-gold/)<!-- GAME:END -->
+ - [WoW&#39;s pre-Midnight patch slams players with massive fashion costs as the overhauled transmog system makes outfitting your alts absurdly expensive: &#39;Feels like they hired a mobile game monetization consultant&#39;](https://www.pcgamer.com/games/world-of-warcraft/wows-pre-midnight-patch-slams-players-with-massive-fashion-costs-as-the-overhauled-transmog-system-makes-outfitting-your-alts-absurdly-expensive-feels-like-they-hired-a-mobile-game-monetization-consultant/)
+ - [Video Game God Of War Congratulates Live Action God Of War](https://kotaku.com/christopher-judge-kratos-actor-ryan-hurst-2000661932)
+ - [Epic responds to director Gore Verbinski&#39;s claims that Unreal Engine is making movie CGI worse: &#39;aesthetic and craft comes from artists, not software&#39;](https://www.pcgamer.com/movies-tv/epic-responds-to-director-gore-verbinskis-claims-that-unreal-engine-is-making-movie-cgi-worse-aesthetic-and-craft-comes-from-artists-not-software/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
