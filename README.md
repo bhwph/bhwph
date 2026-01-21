@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Your partners will thank you](http://9gag.com/gag/a4PgR26)
- - 😝 [Look at the way he looks at her, there is more to it, he knew what he was doing from the jump](http://9gag.com/gag/aoyoeLg)
+ - 6️⃣ [White Male Privilege](http://9gag.com/gag/aRBW1e2)
+ - 😝 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
  - 👉 [Today, the EU parliament voted to officially freeze the trade agreement with the US, the Danish pension fund announced the selling of all US treasuries by month-end and NATO officials decided to curb the intelligence sharing with the US. Winning much?](http://9gag.com/gag/amoQvX4)<!-- MEMES:END -->
 
 --- 
