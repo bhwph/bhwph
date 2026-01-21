@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One year in, Big Tech has out-maneuvered MAGA populists](https://www.theverge.com/column/864759/big-tech-trump-one-year-in)
- - [Multiple Apple services, including Apple TV, the App Store, and iCloud have been experiencing outages since 6:48 PM ET, according to Apple&#39;s system status page &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/260120/p50#a260120p50)
- - [Analysis: the Trump family has generated about $1.4B from crypto projects since Trump&#39;s inauguration a year ago, making up about one-fifth of their fortune &lpar;Bloomberg&rpar;](http://www.techmeme.com/260120/p49#a260120p49)<!-- TECH:END -->
+ - [Apple services outage hit Apple TV, Maps, &amp; App Store](https://appleinsider.com/articles/26/01/21/apple-services-outage-hits-apple-tv-maps-app-store?utm_source=rss)
+ - [Android 16 beta continues to crash popular work apps, and Google has no fix yet &lpar;Updated: Potential fix&rpar;](https://www.androidauthority.com/android-16-qpr-3-beta-microsoft-office-crash-3633859/)
+ - [OpenAI says it will cover the costs of developing energy-related infrastructure at its Stargate data centers to ensure they don&#39;t raise consumers&#39; utility bills &lpar;Bloomberg&rpar;](http://www.techmeme.com/260120/p52#a260120p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
