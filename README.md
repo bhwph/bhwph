@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
- - 😝 [Your partners will thank you](http://9gag.com/gag/a4PgR26)
+ - 6️⃣ [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
+ - 😝 [Reese Witherspoon and her daughter](http://9gag.com/gag/aByz07Q)
  - 👉 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)<!-- MEMES:END -->
 
 --- 
