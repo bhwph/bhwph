@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
- - 😝 [Reese Witherspoon and her daughter](http://9gag.com/gag/aByz07Q)
+ - 😝 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
  - 👉 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)<!-- MEMES:END -->
 
 --- 
