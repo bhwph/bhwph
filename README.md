@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony launches the $230 LinkBuds Clip, open-style earbuds that sit outside the ear canal, with IPX4 water resistance and a 9 hour battery life, available now &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260121/p32#a260121p32)
- - [Flash deals: Save $200 on M4 MacBook Air with 24GB RAM, up to 50% off Sonos](https://appleinsider.com/articles/26/01/21/flash-deals-save-200-on-m4-macbook-air-with-24gb-ram-up-to-50-off-sonos?utm_source=rss)
- - [DJI’s Mic Mini is a big upgrade over your phone’s mic, and it&amp;#8217;s on sale for $60](https://www.theverge.com/tech/864942/dji-mac-mini-starlink-mini-deal-sale)<!-- TECH:END -->
+ - [Google Photos adds a sticker locker just to remind Android users what they’re missing](https://www.androidauthority.com/google-photos-stickers-saved-in-collections-3634352/)
+ - [Google Chat is just now getting a feature Teams and Slack have had for years](https://www.androidauthority.com/google-chat-message-forwarding-3634345/)
+ - [TCL Knocks $1,000 off One of Our Favorite Mid-Range TVs](https://www.wired.com/story/tcl-qm8k-deal-126/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
