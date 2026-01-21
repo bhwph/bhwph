@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos adds a sticker locker just to remind Android users what they’re missing](https://www.androidauthority.com/google-photos-stickers-saved-in-collections-3634352/)
- - [Google Chat is just now getting a feature Teams and Slack have had for years](https://www.androidauthority.com/google-chat-message-forwarding-3634345/)
- - [TCL Knocks $1,000 off One of Our Favorite Mid-Range TVs](https://www.wired.com/story/tcl-qm8k-deal-126/)<!-- TECH:END -->
+ - [Apple is turning Siri into an AI bot that&amp;#8217;s more like ChatGPT](https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt)
+ - [Despite Apple having said otherwise, Siri may become a chatbot in iOS 27](https://appleinsider.com/articles/26/01/21/despite-apple-having-said-otherwise-siri-may-become-a-chatbot-in-ios-27?utm_source=rss)
+ - [Apple&#39;s Formula 1 racing partnership will go far beyond streaming](https://appleinsider.com/articles/26/01/21/apples-formula-1-racing-partnership-will-go-far-beyond-streaming?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
