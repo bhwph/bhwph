@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [League Of Legends Fighting Game Finally Hits Consoles But PS5 Players Say It Needs More Work](https://kotaku.com/2xko-ps5-league-legends-fighting-game-issues-2000661845)
- - [Masters of the Universe trailer teases He-Man, Battle Cat, and more](https://www.polygon.com/masters-of-the-universe-movie-trailer-prince-adam-he-man-cringer/)
- - [The ALGS Championship made me fall in love with esports](https://www.polygon.com/apex-legends-global-series-championship-made-me-love-esports/)<!-- GAME:END -->
+ - [The ALGS Championship&#39;s underdog winner, Oblivion, just made esports history](https://www.polygon.com/apex-legends-globa-series-monsoon-interview/)
+ - [How A Headline Gets Written At Kotaku: Battlefield 6 Edition](https://kotaku.com/how-a-headline-gets-written-at-kotaku-battlefield-6-edition-2000661912)
+ - [Crimson Desert secures a March release date as the ambitious Frankenstein&#39;s monster of open world fantasy games goes gold](https://www.pcgamer.com/games/action/crimson-desert-secures-a-march-release-date-as-the-ambitious-frankensteins-monster-of-open-world-fantasy-games-goes-gold/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
