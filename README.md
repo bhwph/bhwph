@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of the best &lpar;and oddest&rpar; blockbuster shooters of 2019 is $4 on Steam at the moment](https://www.pcgamer.com/games/action/one-of-the-best-and-oddest-blockbuster-shooters-of-2019-is-usd4-on-steam-at-the-moment/)
- - [Arknights: Endfield launch times and release date](https://www.pcgamer.com/games/rpg/arknights-endfield-launch-time-release-date/)
- - [Microsoft CEO warns that we must &#39;do something useful&#39; with AI or they&#39;ll lose &#39;social permission&#39; to burn electricity on it](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)<!-- GAME:END -->
+ - [League Of Legends Fighting Game Finally Hits Consoles But PS5 Players Say It Needs More Work](https://kotaku.com/2xko-ps5-league-legends-fighting-game-issues-2000661845)
+ - [Masters of the Universe trailer teases He-Man, Battle Cat, and more](https://www.polygon.com/masters-of-the-universe-movie-trailer-prince-adam-he-man-cringer/)
+ - [The ALGS Championship made me fall in love with esports](https://www.polygon.com/apex-legends-global-series-championship-made-me-love-esports/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
