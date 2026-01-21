@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salt Lake City-based Zanskar, which uses AI to find overlooked geothermal fields to boost US electricity supply, raised $115M, taking its total funding to $180M &lpar;Benoît Morenne/Wall Street Journal&rpar;](http://www.techmeme.com/260121/p22#a260121p22)
- - [Sensor Tower: consumers spent $85B on apps globally in 2025, up 21% YoY, and, in a first, more money went on non-game mobile apps than on games, driven by GenAI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260121/p21#a260121p21)
- - [Japan finally gets Apple FItness+, lazily using AI-generated dubs](https://appleinsider.com/articles/26/01/21/japan-finally-gets-apple-fitness-lazily-using-ai-generated-dubs?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Elon Musk is pushing for a SpaceX IPO by July, seems eager to beat OpenAI and Anthropic to market, and views it as a way to help xAI catch its rivals &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260121/p28#a260121p28)
+ - [YouTube CEO Neal Mohan says creators can generate Shorts using their AI likenesses later in 2026, but offers few details, and touts AI tools like game makers &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260121/p27#a260121p27)
+ - [Instagram’s top boss is missing the point about AI on the platform](https://www.theverge.com/tech/864768/instagram-adam-mosseri-ai-content-algorithm)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
