@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s a multiplayer mod for The Witcher 3 so you can turn one of the finest singleplayer RPGs of all time into an MMO instead](https://www.pcgamer.com/games/rpg/theres-a-multiplayer-mod-for-the-witcher-3-so-you-can-turn-one-of-the-finest-singleplayer-rpgs-of-all-time-into-an-mmo-instead/)
- - [How to transmit power to the Protocol Resonance Tower in Arknights: Endfield](https://www.pcgamer.com/games/rpg/arknights-endfield-transmit-power-relay-tower-valley-reboot/)
- - [How to use Protocol Dataloggers in Arknights: Endfield](https://www.pcgamer.com/games/rpg/arknights-endfield-protocol-datalogger-balloon-men/)<!-- GAME:END -->
+ - [Today’s Xbox Developer Direct Expected To Confirm May Release For Forza Horizon 6](https://kotaku.com/xbox-developer-direct-time-youtube-fable-forza-game-freak-2000662194)
+ - [DJI Mini Drone Combo With 4K Camera Hits Its First Low of the Year, Now Cheaper Than Black Friday](https://kotaku.com/dji-mini-drone-combo-with-4k-camera-hits-its-first-low-of-the-year-now-cheaper-than-black-friday-2000661980)
+ - [YouTuber orders pizza via Nintendo Wii thanks to homebrew resurrection of the console&#39;s elusive food delivery channel](https://www.pcgamer.com/hardware/youtuber-orders-pizza-via-nintendo-wii-thanks-to-homebrew-resurrection-of-the-consoles-elusive-food-delivery-channel/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
