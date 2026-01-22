@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US Senate&#39;s crypto market structure bill is likely to be delayed by several weeks as key lawmakers shift focus to potential housing legislation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260122/p5#a260122p5)
- - [Nike Promo Codes and Deals: Up to 40% Off](https://www.wired.com/story/nike-promo-code/)
- - [Peacock Promo Codes: 40% Off January 2026](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
+ - [Samsung admits liability in exploded Galaxy S25 Plus case, user says &lpar;Updated: Verified&rpar;](https://www.androidauthority.com/samsung-galaxy-s25-plus-explosion-case-3634441/)
+ - [Q&amp;A with recently departed OpenAI VP of Research Jerry Tworek, who claims OpenAI&#39;s shift toward more conservative ways made high-risk, pioneering work harder &lpar;Core Memory&rpar;](http://www.techmeme.com/260122/p8#a260122p8)
+ - [Your T-Mobile bill is going up for the second time in a year](https://www.androidauthority.com/t-mobile-fee-hike-january-2026-3634446/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
