@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [WoW&#39;s pre-Midnight patch slams players with massive fashion costs as the overhauled transmog system makes outfitting your alts absurdly expensive: &#39;Feels like they hired a mobile game monetization consultant&#39;](https://www.pcgamer.com/games/world-of-warcraft/wows-pre-midnight-patch-slams-players-with-massive-fashion-costs-as-the-overhauled-transmog-system-makes-outfitting-your-alts-absurdly-expensive-feels-like-they-hired-a-mobile-game-monetization-consultant/)
- - [Video Game God Of War Congratulates Live Action God Of War](https://kotaku.com/christopher-judge-kratos-actor-ryan-hurst-2000661932)
- - [Epic responds to director Gore Verbinski&#39;s claims that Unreal Engine is making movie CGI worse: &#39;aesthetic and craft comes from artists, not software&#39;](https://www.pcgamer.com/movies-tv/epic-responds-to-director-gore-verbinskis-claims-that-unreal-engine-is-making-movie-cgi-worse-aesthetic-and-craft-comes-from-artists-not-software/)<!-- GAME:END -->
+ - [How to transmit power to the Protocol Resonance Tower in Arknights: Endfield](https://www.pcgamer.com/games/rpg/arknights-endfield-transmit-power-relay-tower-valley-reboot/)
+ - [How to use Protocol Dataloggers in Arknights: Endfield](https://www.pcgamer.com/games/rpg/arknights-endfield-protocol-datalogger-balloon-men/)
+ - [Arknights: Endfield tier list and best characters](https://www.pcgamer.com/games/rpg/arknights-endfield-tier-list-best-characters/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
