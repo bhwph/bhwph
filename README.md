@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She&#39;s a keeper, not those influencers asking for six figures](http://9gag.com/gag/a7ogwze)
+ - 6️⃣ [Reese Witherspoon and her daughter](http://9gag.com/gag/aByz07Q)
  - 😝 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
- - 👉 [Interesting shirt](http://9gag.com/gag/ajPv95x)<!-- MEMES:END -->
+ - 👉 [Your partners will thank you](http://9gag.com/gag/a4PgR26)<!-- MEMES:END -->
 
 --- 
 
