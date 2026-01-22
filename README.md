@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All active Arknights: Endfield codes for free items](https://www.polygon.com/arknights-endfield-codes-redeem-how-to/)
- - [Sinners breaks Academy Awards record with 16 nominations](https://www.polygon.com/sinners-oscars-2026-nominations/)
- - [WoW addon changes split players as 12.0 patch begins Blizzard&#39;s war on mods](https://www.polygon.com/world-of-warcraft-midnight-prepatch-12-0-mods-addons/)<!-- GAME:END -->
+ - [Anker Goes Full Liquidation on Docking Stations, Its 14-Port 160W Dock Crashes to an All-Time Low](https://kotaku.com/anker-goes-full-liquidation-on-docking-stations-its-14-port-160w-dock-crashes-to-an-all-time-low-2000661988)
+ - [Hytale early access review: strong sandbox, but survival mode doesn&#39;t live up to Minecraft](https://www.polygon.com/hytale-early-access-impressions-review-in-progress/)
+ - [Lego&#39;s new Mario Kart set give Luigi the respect he deserves](https://www.polygon.com/lego-mario-kart-luigi-set/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
