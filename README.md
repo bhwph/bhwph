@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anker Goes Full Liquidation on Docking Stations, Its 14-Port 160W Dock Crashes to an All-Time Low](https://kotaku.com/anker-goes-full-liquidation-on-docking-stations-its-14-port-160w-dock-crashes-to-an-all-time-low-2000661988)
- - [Hytale early access review: strong sandbox, but survival mode doesn&#39;t live up to Minecraft](https://www.polygon.com/hytale-early-access-impressions-review-in-progress/)
- - [Lego&#39;s new Mario Kart set give Luigi the respect he deserves](https://www.polygon.com/lego-mario-kart-luigi-set/)<!-- GAME:END -->
+ - [Beast of Reincarnation: A One-Person, One-Dog Action RPG](https://news.xbox.com/en-us/2026/01/22/beast-of-reincarnation-game-freak-developer-direct/)
+ - [Forza Horizon 6: More Details on The Country, The Culture and The Cars of Playground Games’ Japan](https://news.xbox.com/en-us/2026/01/22/forza-horizon-6-developer-direct-breakdown-interview/)
+ - [Yakuza 3 Remake Ugly Alleyway Has Fans Concerned](https://kotaku.com/yakuza-3-remake-ugly-alleyway-has-fans-concerned-graphics-downgrade-fix-mod-2000662269)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
