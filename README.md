@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Barret Zoph, the Thinking Machines Lab cofounder who rejoined OpenAI last week, will lead OpenAI&#39;s enterprise push, as part of a broader reorganization &lpar;The Information&rpar;](http://www.techmeme.com/260121/p45#a260121p45)
- - [Unsealed docs: Spotify and labels sued Anna&#39;s Archive over plans to release scraped Spotify data; a US court grants a temporary order taking down some domains &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/260121/p44#a260121p44)
- - [Apple is picking up where Humane left off](https://www.androidauthority.com/apple-developing-ai-pin-3634398/)<!-- TECH:END -->
+ - [Marketing tech startup Applecart raised $100M in a minority funding round led by Blackstone&#39;s growth equity business, a source says at a ~$700M valuation &lpar;Myles Miller/Bloomberg&rpar;](http://www.techmeme.com/260121/p49#a260121p49)
+ - [Anker Nano Charger with display review: New travel charger knows your iPhone](https://appleinsider.com/articles/26/01/22/anker-nano-charger-with-display-review-new-travel-charger-knows-your-iphone?utm_source=rss)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 22, #486](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-22-486/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
