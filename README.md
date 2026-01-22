@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Substack is launching a TV app, and not everyone is happy](https://www.theverge.com/news/866054/substack-tv-app-beta-launch-newsletters)
- - [Binance files for a pan-European MiCA license in Greece, where it has also set up a holding company &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/260122/p45#a260122p45)
- - [&#39;Stealing Isn&#39;t Innovation&#39; campaign suggests that there&#39;s an ethical way to rip off human creativity](https://appleinsider.com/articles/26/01/22/stealing-isnt-innovation-campaign-suggests-that-theres-an-ethical-way-to-rip-off-human-creativity?utm_source=rss)<!-- TECH:END -->
+ - [Nintendo is following up Alarmo with a weird Talking Flower in March](https://www.theverge.com/tech/865618/nintendo-talking-flower-preorder-super-mario-wonder)
+ - [Apple Watch makes it much easier to detect arrhythmia, study reveals](https://appleinsider.com/articles/26/01/22/apple-watch-makes-it-much-easier-to-detect-arrhythmia-study-reveals?utm_source=rss)
+ - [Legislators Push to Make Companies Tell Customers When Their Products Will Die](https://www.wired.com/story/legislators-push-to-make-companies-tell-customers-when-their-products-will-die/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
