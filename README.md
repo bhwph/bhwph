@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not sure if i should laugh or be sad](http://9gag.com/gag/aByz2EN)
- - 😝 [I hate when this happens](http://9gag.com/gag/a0egZDq)
- - 👉 [Jacket potato \u21161](http://9gag.com/gag/aGyvpnK)<!-- MEMES:END -->
+ - 6️⃣ [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
+ - 😝 [Today, the EU parliament voted to officially freeze the trade agreement with the US, the Danish pension fund announced the selling of all US treasuries by month-end and NATO officials decided to curb the intelligence sharing with the US. Winning much?](http://9gag.com/gag/amoQvX4)
+ - 👉 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)<!-- MEMES:END -->
 
 --- 
 
