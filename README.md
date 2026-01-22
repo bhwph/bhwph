@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circana: the Switch 2 ended December and 2025 as the US&#39; best-selling video game hardware, offsetting declines among rivals to lift overall hardware spend by 9% &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/260122/p24#a260122p24)
- - [Q&amp;A with Yann LeCun on his new Paris-based startup Advanced Machine Intelligence, leaving Meta, real-world applications for world models, robotics, and more &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/260122/p23#a260122p23)
- - [Tired of Spotify’s mixes? Prompted Playlist lets you generate new ones on the fly](https://www.androidauthority.com/spotify-prompted-playlist-us-canada-3634387/)<!-- TECH:END -->
+ - [Android should be Utah&#39;s state phone, says senator who has better things to do](https://appleinsider.com/articles/26/01/22/android-should-be-utahs-state-phone-says-senator-who-has-better-things-to-do?utm_source=rss)
+ - [Spotify expands its AI-powered Prompted Playlists beta to Premium subscribers in the US and Canada, following initial testing in New Zealand &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260122/p32#a260122p32)
+ - [Google rolls out Personal Intelligence in AI Mode, providing access to users&#39; Gmail and Google Photos for more tailored responses, for US Pro and Ultra subs &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260122/p31#a260122p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
