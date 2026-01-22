@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yelp acquires Hatch, which charges a monthly fee for AI-powered agents that can respond to customer inquiries and make appointments, for $300M &lpar;Laura Mandaro/The Information&rpar;](http://www.techmeme.com/260122/p39#a260122p39)
- - [Forza Horizon 6 launches in May](https://www.theverge.com/news/865355/forza-horizon-6-xbox-developer-direct-2026)
- - [Apple&#39;s AI pin has a Siri-shaped problem, and that&#39;s just the start](https://appleinsider.com/articles/26/01/22/apples-ai-pin-has-a-siri-shaped-problem-and-thats-just-the-start?utm_source=rss)<!-- TECH:END -->
+ - [Substack is launching a TV app, and not everyone is happy](https://www.theverge.com/news/866054/substack-tv-app-beta-launch-newsletters)
+ - [Binance files for a pan-European MiCA license in Greece, where it has also set up a holding company &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/260122/p45#a260122p45)
+ - [&#39;Stealing Isn&#39;t Innovation&#39; campaign suggests that there&#39;s an ethical way to rip off human creativity](https://appleinsider.com/articles/26/01/22/stealing-isnt-innovation-campaign-suggests-that-theres-an-ethical-way-to-rip-off-human-creativity?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
