@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung admits liability in exploded Galaxy S25 Plus case, user says &lpar;Updated: Verified&rpar;](https://www.androidauthority.com/samsung-galaxy-s25-plus-explosion-case-3634441/)
- - [Q&amp;A with recently departed OpenAI VP of Research Jerry Tworek, who claims OpenAI&#39;s shift toward more conservative ways made high-risk, pioneering work harder &lpar;Core Memory&rpar;](http://www.techmeme.com/260122/p8#a260122p8)
- - [Your T-Mobile bill is going up for the second time in a year](https://www.androidauthority.com/t-mobile-fee-hike-january-2026-3634446/)<!-- TECH:END -->
+ - [South Korea enacts the AI Basic Act, which it says includes the world&#39;s first comprehensive set of laws regulating AI, as startups warn of compliance burdens &lpar;Kyu-Seok Shim/Reuters&rpar;](http://www.techmeme.com/260122/p11#a260122p11)
+ - [Filing: PhonePe reports H1 FY 2026 revenue up 22% YoY to ~$427.5M, a ~$157M loss, and 657.6M users; the payments company plans to sell 50.7M shares in its IPO &lpar;Rajesh Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260122/p10#a260122p10)
+ - [It’s time to give up on Motorola smartwatches](https://www.androidauthority.com/motorola-smartwatches-are-done-3631530/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
