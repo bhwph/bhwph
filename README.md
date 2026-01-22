@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deepinder Goyal, CEO of Indian online food delivery service Zomato and its parent Eternal, steps down and will be succeeded by Blinkit CEO Albinder Dhindsa &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260121/p52#a260121p52)
- - [BitGo raises $212.8M in its US IPO at $18 per share, above the marketed range of $15 to $17 per share, giving it a market value of about $2.1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260121/p51#a260121p51)
- - [Here’s how Spotify pulled off a legal ambush to stop that 300TB dump of stolen music](https://www.androidauthority.com/spotify-vs-annas-archive-3634415/)<!-- TECH:END -->
+ - [Sources: the US Senate&#39;s crypto market structure bill is likely to be delayed by several weeks as key lawmakers shift focus to potential housing legislation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260122/p5#a260122p5)
+ - [Nike Promo Codes and Deals: Up to 40% Off](https://www.wired.com/story/nike-promo-code/)
+ - [Peacock Promo Codes: 40% Off January 2026](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
