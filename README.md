@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m all in](http://9gag.com/gag/aW4yxdd)
- - 😝 [Every.damn.day](http://9gag.com/gag/a6ZgKG2)
- - 👉 [Jacket potato \u21161](http://9gag.com/gag/aGyvpnK)<!-- MEMES:END -->
+ - 6️⃣ [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
+ - 😝 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
+ - 👉 [Look at the way he looks at her, there is more to it, he knew what he was doing from the jump](http://9gag.com/gag/aoyoeLg)<!-- MEMES:END -->
 
 --- 
 
