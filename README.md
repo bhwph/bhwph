@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You might need to argue with Gemini to get it to work on Google Home](https://www.androidauthority.com/google-home-gemini-gaslighting-users-3634510/)
- - [7 Best Smart Locks &lpar;2026&rpar; for Front Doors, Side Doors, and Even Garages](https://www.wired.com/story/best-smart-locks/)
- - [Snap updates its Family Center tool to let parents view daily screen time averages and a breakdown of time spent by specific app segment like Snap Map &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260122/p19#a260122p19)<!-- TECH:END -->
+ - [Circana: the Switch 2 ended December and 2025 as the US&#39; best-selling video game hardware, offsetting declines among rivals to lift overall hardware spend by 9% &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/260122/p24#a260122p24)
+ - [Q&amp;A with Yann LeCun on his new Paris-based startup Advanced Machine Intelligence, leaving Meta, real-world applications for world models, robotics, and more &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/260122/p23#a260122p23)
+ - [Tired of Spotify’s mixes? Prompted Playlist lets you generate new ones on the fly](https://www.androidauthority.com/spotify-prompted-playlist-us-canada-3634387/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
