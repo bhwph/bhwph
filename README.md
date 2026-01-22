@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android should be Utah&#39;s state phone, says senator who has better things to do](https://appleinsider.com/articles/26/01/22/android-should-be-utahs-state-phone-says-senator-who-has-better-things-to-do?utm_source=rss)
- - [Spotify expands its AI-powered Prompted Playlists beta to Premium subscribers in the US and Canada, following initial testing in New Zealand &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260122/p32#a260122p32)
- - [Google rolls out Personal Intelligence in AI Mode, providing access to users&#39; Gmail and Google Photos for more tailored responses, for US Pro and Ultra subs &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260122/p31#a260122p31)<!-- TECH:END -->
+ - [Yelp acquires Hatch, which charges a monthly fee for AI-powered agents that can respond to customer inquiries and make appointments, for $300M &lpar;Laura Mandaro/The Information&rpar;](http://www.techmeme.com/260122/p39#a260122p39)
+ - [Forza Horizon 6 launches in May](https://www.theverge.com/news/865355/forza-horizon-6-xbox-developer-direct-2026)
+ - [Apple&#39;s AI pin has a Siri-shaped problem, and that&#39;s just the start](https://appleinsider.com/articles/26/01/22/apples-ai-pin-has-a-siri-shaped-problem-and-thats-just-the-start?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
