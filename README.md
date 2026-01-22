@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Reese Witherspoon and her daughter](http://9gag.com/gag/aByz07Q)
- - 😝 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
- - 👉 [Your partners will thank you](http://9gag.com/gag/a4PgR26)<!-- MEMES:END -->
+ - 6️⃣ [Equal pay:](http://9gag.com/gag/a0egNgX)
+ - 😝 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
+ - 👉 [Today, the EU parliament voted to officially freeze the trade agreement with the US, the Danish pension fund announced the selling of all US treasuries by month-end and NATO officials decided to curb the intelligence sharing with the US. Winning much?](http://9gag.com/gag/amoQvX4)<!-- MEMES:END -->
 
 --- 
 
