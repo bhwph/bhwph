@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today’s Xbox Developer Direct Expected To Confirm May Release For Forza Horizon 6](https://kotaku.com/xbox-developer-direct-time-youtube-fable-forza-game-freak-2000662194)
- - [DJI Mini Drone Combo With 4K Camera Hits Its First Low of the Year, Now Cheaper Than Black Friday](https://kotaku.com/dji-mini-drone-combo-with-4k-camera-hits-its-first-low-of-the-year-now-cheaper-than-black-friday-2000661980)
- - [YouTuber orders pizza via Nintendo Wii thanks to homebrew resurrection of the console&#39;s elusive food delivery channel](https://www.pcgamer.com/hardware/youtuber-orders-pizza-via-nintendo-wii-thanks-to-homebrew-resurrection-of-the-consoles-elusive-food-delivery-channel/)<!-- GAME:END -->
+ - [All active Arknights: Endfield codes for free items](https://www.polygon.com/arknights-endfield-codes-redeem-how-to/)
+ - [Sinners breaks Academy Awards record with 16 nominations](https://www.polygon.com/sinners-oscars-2026-nominations/)
+ - [WoW addon changes split players as 12.0 patch begins Blizzard&#39;s war on mods](https://www.polygon.com/world-of-warcraft-midnight-prepatch-12-0-mods-addons/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
