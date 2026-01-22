@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Accountability, zero](http://9gag.com/gag/axyKMKn)
- - 😝 [She&#39;s a keeper, not those influencers asking for six figures](http://9gag.com/gag/a7ogwze)
- - 👉 [Singeing a Bull\u2019s Coat Removes Parasites and Prepares the Hide Without Harming the Skin](http://9gag.com/gag/a4Pg1P6)<!-- MEMES:END -->
+ - 6️⃣ [Not sure if i should laugh or be sad](http://9gag.com/gag/aByz2EN)
+ - 😝 [I hate when this happens](http://9gag.com/gag/a0egZDq)
+ - 👉 [Jacket potato \u21161](http://9gag.com/gag/aGyvpnK)<!-- MEMES:END -->
 
 --- 
 
