@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea enacts the AI Basic Act, which it says includes the world&#39;s first comprehensive set of laws regulating AI, as startups warn of compliance burdens &lpar;Kyu-Seok Shim/Reuters&rpar;](http://www.techmeme.com/260122/p11#a260122p11)
- - [Filing: PhonePe reports H1 FY 2026 revenue up 22% YoY to ~$427.5M, a ~$157M loss, and 657.6M users; the payments company plans to sell 50.7M shares in its IPO &lpar;Rajesh Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260122/p10#a260122p10)
- - [It’s time to give up on Motorola smartwatches](https://www.androidauthority.com/motorola-smartwatches-are-done-3631530/)<!-- TECH:END -->
+ - [You might need to argue with Gemini to get it to work on Google Home](https://www.androidauthority.com/google-home-gemini-gaslighting-users-3634510/)
+ - [7 Best Smart Locks &lpar;2026&rpar; for Front Doors, Side Doors, and Even Garages](https://www.wired.com/story/best-smart-locks/)
+ - [Snap updates its Family Center tool to let parents view daily screen time averages and a breakdown of time spent by specific app segment like Snap Map &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260122/p19#a260122p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
