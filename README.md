@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Fei-Fei Li&#39;s World Labs is in discussions with investors to raise hundreds of millions at a valuation of $5B; World Labs was last valued at $1B in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260122/p57#a260122p57)
- - [TikTok America is here, but algorithm changes may take time](https://appleinsider.com/articles/26/01/23/tiktok-america-is-here-but-algorithm-changes-may-take-time?utm_source=rss)
- - [BitGo closed up ~2.7% at $18.49 per share in its NYSE debut on Thursday which saw shares jump as much as 36% intraday, after raising $212.8M in its IPO &lpar;Kyle Baird/The Block&rpar;](http://www.techmeme.com/260122/p56#a260122p56)<!-- TECH:END -->
+ - [Sam Altman says OpenAI added more than $1B in annual recurring revenue in the past month &quot;just from our API business&quot; &lpar;Lee Chong Ming/Business Insider&rpar;](http://www.techmeme.com/260123/p5#a260123p5)
+ - [The US&#39; TikTok deal is a win for ByteDance: it will keep and license the algorithm instead of selling it, and continue to run TikTok&#39;s commercial activities &lpar;Jim Secreto/Financial Times&rpar;](http://www.techmeme.com/260123/p4#a260123p4)
+ - [Intel says it struggled to satisfy demand for its server chips used in AI data centers, and forecasts Q1 2026 revenue and profit below market estimates &lpar;Reuters&rpar;](http://www.techmeme.com/260123/p3#a260123p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
