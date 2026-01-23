@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Highguard, The Game Awards&#39; unexpected final reveal, gets a big showcase Monday](https://www.polygon.com/highguard-launch-showcase-announced/)
- - [That team-based shooter with phantom horses that debuted at The Game Awards and then promptly disappeared is not actually dead: A showcase featuring &#39;gameplay deep dive, year one plans, and much more&#39; is coming next week](https://www.pcgamer.com/games/fps/that-team-based-shooter-with-phantom-horses-that-debuted-at-the-game-awards-and-then-promptly-disappeared-is-not-actually-dead-a-showcase-featuring-gameplay-deep-dive-year-one-plans-and-much-more-is-coming-next-week/)
- - [Jason Momoa&#39;s Lobo stars in new Supergirl trailer](https://www.polygon.com/supergirl-trailer-jason-momoa-lobo/)<!-- GAME:END -->
+ - [Mass Effect boss Michael Gamble is looking for a production director for the next game in the series: &#39;They’ll report to me and it’s gonna be awesome&#39;](https://www.pcgamer.com/games/rpg/mass-effect-boss-michael-gamble-is-looking-for-a-production-director-for-the-next-game-in-the-series-theyll-report-to-me-and-its-gonna-be-awesome/)
+ - [Creator of DMCA&#39;d Cyberpunk VR mod takes ball and goes home, removing access to all his VR mods after receiving a second DMCA takedown from 505 Games and a warning from Patreon](https://www.pcgamer.com/games/vr/creator-of-dmcad-cyberpunk-vr-mod-takes-ball-and-goes-home-removing-access-to-all-his-vr-mods-after-receiving-a-second-dmca-takedown-from-505-games-and-a-warning-from-patreon/)
+ - [Why Pro MTB Athlete Matt Jones Set Out to Create an Authentic Open-World MTB Game](https://news.xbox.com/en-us/2026/01/23/matt-jones-set-out-to-create-an-authentic-open-world-mtb-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
