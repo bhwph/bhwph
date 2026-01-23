@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Revolut scrapped plans to buy a US lender and will instead apply for a US banking license, betting Trump&#39;s lighter touch on approvals will be faster &lpar;Financial Times&rpar;](http://www.techmeme.com/260123/p8#a260123p8)
- - [How Anthropic, OpenAI, and Google are testing AI models by having them play Pokémon Blue on Twitch to track a model&#39;s ability to reason and make decisions &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/260123/p7#a260123p7)
- - [Bengaluru-based digital payments startup Juspay raised $50M, in a mix of primary and secondary investments, from WestBridge Capital at a $1.2B valuation &lpar;The Economic Times&rpar;](http://www.techmeme.com/260123/p6#a260123p6)<!-- TECH:END -->
+ - [With two 200MP cameras and a zoom accessory, this Ultra flagship could be the next camera king](https://www.androidauthority.com/oppo-find-x9-ultra-renders-specs-leak-3634790/)
+ - [&#39;F1&#39; driving Apple&#39;s Oscar awards ambitions in 2026](https://appleinsider.com/articles/26/01/22/f1-driving-apples-oscar-awards-ambitions-in-2026?utm_source=rss)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 23 #691](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-23-691/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
