@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Beast of Reincarnation: A One-Person, One-Dog Action RPG](https://news.xbox.com/en-us/2026/01/22/beast-of-reincarnation-game-freak-developer-direct/)
- - [Forza Horizon 6: More Details on The Country, The Culture and The Cars of Playground Games’ Japan](https://news.xbox.com/en-us/2026/01/22/forza-horizon-6-developer-direct-breakdown-interview/)
- - [Yakuza 3 Remake Ugly Alleyway Has Fans Concerned](https://kotaku.com/yakuza-3-remake-ugly-alleyway-has-fans-concerned-graphics-downgrade-fix-mod-2000662269)<!-- GAME:END -->
+ - [Fable reboot devs aren&#39;t trying to make a Lionhead game, but one important hallmark will carry over because &#39;kicking chickens is classic Fable&#39;](https://www.pcgamer.com/games/rpg/fable-reboot-devs-arent-trying-to-make-a-lionhead-game-but-one-important-hallmark-will-carry-over-because-kicking-chickens-is-classic-fable/)
+ - [After Hytale subreddit goes &#39;full panic mode,&#39; dev assures players the new patch &#39;is NOT the magic system&#39; that&#39;s coming in the full game](https://www.pcgamer.com/games/survival-crafting/after-hytale-subreddit-goes-full-panic-mode-dev-assures-players-the-new-patch-is-not-the-magic-system-thats-coming-in-the-full-game/)
+ - [FF7 Remake Part 3 will include an &#39;enhanced&#39; version of Queen&#39;s Blood](https://www.polygon.com/final-fantasy-7-remake-part-3-queens-blood-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
