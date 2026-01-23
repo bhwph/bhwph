@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Equal pay:](http://9gag.com/gag/a0egNgX)
- - 😝 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
- - 👉 [But wait there is more](http://9gag.com/gag/aE0Kqgx)<!-- MEMES:END -->
+ - 6️⃣ [A special informative message](http://9gag.com/gag/ae9zA6B)
+ - 😝 [Legend, both of them](http://9gag.com/gag/awyjz7y)
+ - 👉 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)<!-- MEMES:END -->
 
 --- 
 
