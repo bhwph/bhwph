@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Casio teased a retro gaming-inspired sampler](https://www.theverge.com/news/866709/casio-sx-c1-retro-gaming-inspired-sampler-at-namm)
- - [Apple Pay fees that don&#39;t cost the consumer a dime at center of $2 billion lawsuit](https://appleinsider.com/articles/26/01/23/apple-pay-fees-that-dont-cost-the-consumer-a-dime-at-center-of-2-billion-lawsuit?utm_source=rss)
- - [Epic hypocrisy -- Google gets $800 million in &#39;Fortnite&#39; antitrust settlement](https://appleinsider.com/articles/26/01/23/epic-hypocrisy----google-gets-800-million-in-fortnite-antitrust-settlement?utm_source=rss)<!-- TECH:END -->
+ - [What to expect from the spring 2027 iPhone 18: A20, 12GB of RAM, and more](https://appleinsider.com/articles/26/01/23/what-to-expect-from-the-spring-2027-iphone-18-a20-12gb-of-ram-and-more?utm_source=rss)
+ - [Flash deal: Apple&#39;s M5 MacBook Pro dips to $1,429 with coupon](https://appleinsider.com/articles/26/01/23/flash-deal-apples-m5-macbook-pro-dips-to-1429-with-coupon?utm_source=rss)
+ - [Anbernic’s GBA SP-like handheld just lost half its memory](https://www.androidauthority.com/anbernic-rg34xxsp-ram-downgrade-3634945/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
