@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
- - 😝 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
- - 👉 [Accountability, zero](http://9gag.com/gag/axyKMKn)<!-- MEMES:END -->
+ - 6️⃣ [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
+ - 😝 [Absolutely incredible items](http://9gag.com/gag/agm9gGK)
+ - 👉 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)<!-- MEMES:END -->
 
 --- 
 
