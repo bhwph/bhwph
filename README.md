@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adam Presser, previously TikTok&#39;s head of operations and trust and safety, will be the CEO of TikTok USDS Joint Venture; TikTok CEO Shou Chew will be a director &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260122/p54#a260122p54)
- - [EC &amp; Apple play the blame game with MacPaw alternative app store failure](https://appleinsider.com/articles/26/01/23/ec-apple-play-the-blame-game-with-macpaw-alternative-app-store-failure?utm_source=rss)
- - [The TikTok deal is done, finally](https://www.theverge.com/tech/866437/tiktok-usds-bytedance-sale-oracle-mgx)<!-- TECH:END -->
+ - [TikTok America is here, but algorithm changes may take time](https://appleinsider.com/articles/26/01/23/tiktok-america-is-here-but-algorithm-changes-may-take-time?utm_source=rss)
+ - [BitGo closed up ~2.7% at $18.49 per share in its NYSE debut on Thursday which saw shares jump as much as 36% intraday, after raising $212.8M in its IPO &lpar;Kyle Baird/The Block&rpar;](http://www.techmeme.com/260122/p56#a260122p56)
+ - [&#39;Is Microsoft Down?&#39; Outlook and Teams Go Dark in Widespread Outage](https://www.cnet.com/tech/is-microsoft-down-outlook-and-teams-go-dark-in-widespread-outage/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
