@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wonder Man review: A Marvel must-watch for everyone but MCU fans](https://www.polygon.com/wonder-man-review-mcu-best-show-marvel-spotlight/)
- - [Finally, another Armored Core instalment just surprise dropped on Steam, but you&#39;ll need to have the patience of a saint to play it](https://www.pcgamer.com/games/action/finally-another-armored-core-instalment-just-surprise-dropped-on-steam-but-youll-need-to-have-the-patience-of-a-saint-to-play-it/)
- - [Fable reboot devs aren&#39;t trying to make a Lionhead game, but one important hallmark will carry over because &#39;kicking chickens is classic Fable&#39;](https://www.pcgamer.com/games/rpg/fable-reboot-devs-arent-trying-to-make-a-lionhead-game-but-one-important-hallmark-will-carry-over-because-kicking-chickens-is-classic-fable/)<!-- GAME:END -->
+ - [Nintendo Direct announced for January 2026, all about Super Mario Galaxy Movie](https://www.polygon.com/nintendo-direct-january-2026-super-mario-galaxy-movie/)
+ - [Nintendo Announces Super Mario Galaxy Movie Direct For This Weekend](https://kotaku.com/super-mario-galaxy-movie-direct-trailer-nintendo-2000662573)
+ - [Highguard requires Secure Boot and Easy Anti-Cheat to run, leaving Linux and kernel-conscious gamers out in the cold](https://www.pcgamer.com/hardware/highguard-requires-secure-boot-and-easy-anti-cheat-to-run-leaving-linux-and-kernel-conscious-gamers-out-in-the-cold/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
