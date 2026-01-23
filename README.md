@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With two 200MP cameras and a zoom accessory, this Ultra flagship could be the next camera king](https://www.androidauthority.com/oppo-find-x9-ultra-renders-specs-leak-3634790/)
- - [&#39;F1&#39; driving Apple&#39;s Oscar awards ambitions in 2026](https://appleinsider.com/articles/26/01/22/f1-driving-apples-oscar-awards-ambitions-in-2026?utm_source=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 23 #691](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-23-691/)<!-- TECH:END -->
+ - [How Chinese tech companies navigate geopolitical tensions: TikTok and Manus adopted a &quot;China shedding&quot; strategy, while Shein and Meituan seek non-US growth &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/260123/p13#a260123p13)
+ - [Roborock Qrevo Curv 2 Flow Review: The Most Beautiful, Best Robot Vacuum](https://www.wired.com/review/roborock-qrevo-curv-2-flow/)
+ - [Sources: UBS plans to make cryptocurrency investing available for some private banking clients in Switzerland, starting with bitcoin and ether &lpar;Bloomberg&rpar;](http://www.techmeme.com/260123/p12#a260123p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
