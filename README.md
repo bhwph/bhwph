@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple goes on the offensive, lashes out at EU about alternative app store failure](https://appleinsider.com/articles/26/01/23/ec-apple-play-the-blame-game-with-macpaw-alternative-app-store-failure?utm_source=rss)
- - [The Google Photos image editor now responds to your phone’s theme](https://www.androidauthority.com/google-photos-editor-light-theme-3634886/)
- - [Apple Intelligence Pin, F1, leaker wars, and iPhone 18 rumors on the AppleInsider Podcast](https://appleinsider.com/articles/26/01/23/apple-intelligence-pin-f1-leaker-wars-and-iphone-18-rumors-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [We asked, you answered: Here’s what you want from Google’s foldables in 2026](https://www.androidauthority.com/google-pixel-foldables-2026-survey-results-3634914/)
+ - [Age Verification Is Reaching a Global Tipping Point. Is TikTok’s Strategy a Good Compromise?](https://www.wired.com/story/age-verification-is-reaching-a-global-tipping-point-is-tiktoks-strategy-a-good-compromise/)
+ - [Giving your healthcare info to a chatbot is, unsurprisingly, a terrible idea](https://www.theverge.com/report/866683/chatgpt-health-sharing-data)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
