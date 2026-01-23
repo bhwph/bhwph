@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What a lift ticket gets you these days.](http://9gag.com/gag/a87NErY)
- - 😝 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)
- - 👉 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)<!-- MEMES:END -->
+ - 6️⃣ [Equal pay:](http://9gag.com/gag/a0egNgX)
+ - 😝 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
+ - 👉 [But wait there is more](http://9gag.com/gag/aE0Kqgx)<!-- MEMES:END -->
 
 --- 
 
