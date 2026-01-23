@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
- - 😝 [Absolutely incredible items](http://9gag.com/gag/agm9gGK)
+ - 6️⃣ [LOL](http://9gag.com/gag/aKGZmdO)
+ - 😝 [Legend, both of them](http://9gag.com/gag/awyjz7y)
  - 👉 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)<!-- MEMES:END -->
 
 --- 
