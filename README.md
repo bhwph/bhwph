@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Grandpa&#39;s got a secret stash and grandma&#39;s not having it](http://9gag.com/gag/aAyAGR0)
- - 😝 [Accountability, zero](http://9gag.com/gag/axyKMKn)
- - 👉 [Legend, both of them](http://9gag.com/gag/awyjz7y)<!-- MEMES:END -->
+ - 6️⃣ [A Snow Angel](http://9gag.com/gag/aO8EQR6)
+ - 😝 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
+ - 👉 [Art of the Highest Form](http://9gag.com/gag/ayNr2zY)<!-- MEMES:END -->
 
 --- 
 
