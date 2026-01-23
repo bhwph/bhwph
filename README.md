@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A special informative message](http://9gag.com/gag/ae9zA6B)
- - 😝 [Legend, both of them](http://9gag.com/gag/awyjz7y)
- - 👉 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)<!-- MEMES:END -->
+ - 6️⃣ [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
+ - 😝 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
+ - 👉 [Accountability, zero](http://9gag.com/gag/axyKMKn)<!-- MEMES:END -->
 
 --- 
 
