@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from the spring 2027 iPhone 18: A20, 12GB of RAM, and more](https://appleinsider.com/articles/26/01/23/what-to-expect-from-the-spring-2027-iphone-18-a20-12gb-of-ram-and-more?utm_source=rss)
- - [Flash deal: Apple&#39;s M5 MacBook Pro dips to $1,429 with coupon](https://appleinsider.com/articles/26/01/23/flash-deal-apples-m5-macbook-pro-dips-to-1429-with-coupon?utm_source=rss)
- - [Anbernic’s GBA SP-like handheld just lost half its memory](https://www.androidauthority.com/anbernic-rg34xxsp-ram-downgrade-3634945/)<!-- TECH:END -->
+ - [Congress doesn’t seem to know if the TikTok deal complies with its law](https://www.theverge.com/news/866977/tiktok-deal-congress-china)
+ - [Inside Apple Maps - How to get the most out of your iPhone&#39;s navigation app](https://appleinsider.com/inside/apple-maps/tips/inside-apple-maps---how-to-get-the-most-out-of-your-iphones-navigation-app?utm_source=rss)
+ - [Meta, EssilorLuxottica Sued in Smart Glasses Patent Case &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260123/p28#a260123p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
