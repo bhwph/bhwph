@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to increase base power output in Arknights: Endfield](https://www.polygon.com/arknights-endfield-power-output-increase-how-to-factory/)
- - [Escape From Ever After review: the Paper Mario clone you&#39;ve been dreaming of](https://www.polygon.com/escape-from-ever-after-impressions/)
- - [More Than A Remake: How Screamer is Reviving the Spirit of Retro Arcade Racers](https://news.xbox.com/en-us/2026/01/23/screamer-is-reviving-retro-arcade-racers/)<!-- GAME:END -->
+ - [Highguard, The Game Awards&#39; unexpected final reveal, gets a big showcase Monday](https://www.polygon.com/highguard-launch-showcase-announced/)
+ - [That team-based shooter with phantom horses that debuted at The Game Awards and then promptly disappeared is not actually dead: A showcase featuring &#39;gameplay deep dive, year one plans, and much more&#39; is coming next week](https://www.pcgamer.com/games/fps/that-team-based-shooter-with-phantom-horses-that-debuted-at-the-game-awards-and-then-promptly-disappeared-is-not-actually-dead-a-showcase-featuring-gameplay-deep-dive-year-one-plans-and-much-more-is-coming-next-week/)
+ - [Jason Momoa&#39;s Lobo stars in new Supergirl trailer](https://www.polygon.com/supergirl-trailer-jason-momoa-lobo/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
