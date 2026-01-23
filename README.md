@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo is following up Alarmo with a weird Talking Flower in March](https://www.theverge.com/tech/865618/nintendo-talking-flower-preorder-super-mario-wonder)
- - [Apple Watch makes it much easier to detect arrhythmia, study reveals](https://appleinsider.com/articles/26/01/22/apple-watch-makes-it-much-easier-to-detect-arrhythmia-study-reveals?utm_source=rss)
- - [Legislators Push to Make Companies Tell Customers When Their Products Will Die](https://www.wired.com/story/legislators-push-to-make-companies-tell-customers-when-their-products-will-die/)<!-- TECH:END -->
+ - [Adam Presser, previously TikTok&#39;s head of operations and trust and safety, will be the CEO of TikTok USDS Joint Venture; TikTok CEO Shou Chew will be a director &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260122/p54#a260122p54)
+ - [EC &amp; Apple play the blame game with MacPaw alternative app store failure](https://appleinsider.com/articles/26/01/23/ec-apple-play-the-blame-game-with-macpaw-alternative-app-store-failure?utm_source=rss)
+ - [The TikTok deal is done, finally](https://www.theverge.com/tech/866437/tiktok-usds-bytedance-sale-oracle-mgx)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
