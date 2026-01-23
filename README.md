@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Chinese tech companies navigate geopolitical tensions: TikTok and Manus adopted a &quot;China shedding&quot; strategy, while Shein and Meituan seek non-US growth &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/260123/p13#a260123p13)
- - [Roborock Qrevo Curv 2 Flow Review: The Most Beautiful, Best Robot Vacuum](https://www.wired.com/review/roborock-qrevo-curv-2-flow/)
- - [Sources: UBS plans to make cryptocurrency investing available for some private banking clients in Switzerland, starting with bitcoin and ether &lpar;Bloomberg&rpar;](http://www.techmeme.com/260123/p12#a260123p12)<!-- TECH:END -->
+ - [Apple goes on the offensive, lashes out at EU about alternative app store failure](https://appleinsider.com/articles/26/01/23/ec-apple-play-the-blame-game-with-macpaw-alternative-app-store-failure?utm_source=rss)
+ - [The Google Photos image editor now responds to your phone’s theme](https://www.androidauthority.com/google-photos-editor-light-theme-3634886/)
+ - [Apple Intelligence Pin, F1, leaker wars, and iPhone 18 rumors on the AppleInsider Podcast](https://appleinsider.com/articles/26/01/23/apple-intelligence-pin-f1-leaker-wars-and-iphone-18-rumors-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
