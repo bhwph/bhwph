@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI Vector A18 HX review](https://www.pcgamer.com/hardware/gaming-laptops/msi-vector-a18-hx-review/)
- - [Jujutsu Kaisen&#39;s highest-rated episode scores 9.8 and divides global fans](https://www.polygon.com/jujutsu-kaisen-season-3-perfect-preperation-highest-rated-episode-controversy/)
- - [Fable Is Abandoning One Of The RPG Series’ Defining Mechanics And Fans Aren’t Happy](https://kotaku.com/fable-reboot-appearance-morality-good-evil-horns-halo-2000662597)<!-- GAME:END -->
+ - [How to increase base power output in Arknights: Endfield](https://www.polygon.com/arknights-endfield-power-output-increase-how-to-factory/)
+ - [Escape From Ever After review: the Paper Mario clone you&#39;ve been dreaming of](https://www.polygon.com/escape-from-ever-after-impressions/)
+ - [More Than A Remake: How Screamer is Reviving the Spirit of Retro Arcade Racers](https://news.xbox.com/en-us/2026/01/23/screamer-is-reviving-retro-arcade-racers/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
