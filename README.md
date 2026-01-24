@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s hard to fault Highguard for giving the internet the silent treatment—wouldn&#39;t you?](https://www.pcgamer.com/games/fps/highguard-game-awards-marketing/)
- - [Everything you can get from Arknights: Endfield Twitch Drops and how to link accounts](https://www.pcgamer.com/games/rpg/arknights-endfield-twitch-drops/)
- - [Frustration Inside Ubisoft: ‘This Is Probably The Most Embarrassed I Have Felt Working Somewhere’](https://kotaku.com/ubisoft-stock-restructure-layoffs-cancel-delay-2000662684)<!-- GAME:END -->
+ - [Frostpunk 2 on Game Pass will freeze your heart](https://www.polygon.com/frostpunk-2-game-pass-recommendation/)
+ - [No More Room in Hell 2 will add new ways to play in its upcoming 1.0 launch, one of which &#39;plays like your favourite classic game modes from the late 2000s&#39;](https://www.pcgamer.com/games/fps/no-more-room-in-hell-2-will-add-new-ways-to-play-in-its-upcoming-1-0-launch-one-of-which-plays-like-your-favourite-classic-game-modes-from-the-late-2000s/)
+ - [3 hidden gem movies buried on Netflix to watch right now](https://www.polygon.com/3-movie-masterpieces-buried-on-netflix-right-now-january-2026/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
