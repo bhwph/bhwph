@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok users in the US were presented with a new privacy policy; the changes were part of the app&#39;s ownership transition and now allow precise location tracking &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260123/p32#a260123p32)
- - [Best Senior Phone Plans of 2026](https://www.cnet.com/tech/mobile/best-senior-phone-plans/)
- - [Chromebooks train schoolkids to be loyal customers, internal Google document suggests](https://www.theverge.com/news/867138/google-chromebook-education-expansion-court-filings)<!-- TECH:END -->
+ - [TopResume Free Review, Discounts &amp; Packages for 2026](https://www.wired.com/story/topresume-discount-code/)
+ - [Sources: Grab&#39;s planned acquisition of GoTo has hit a snag over Indonesian carrier Telkomsel&#39;s unwillingness to sell its ~2% stake in GoTo at current valuations &lpar;Bloomberg&rpar;](http://www.techmeme.com/260124/p2#a260124p2)
+ - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
