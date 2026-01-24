@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Loch Capsule dishwasher is small, fast, and efficient — it even sanitizes gadgets](https://www.theverge.com/reviews/866476/loch-capsule-review-counter-dishwasher-vanlife-tiny-house)
- - [A look at Kalshi and Polymarket&#39;s rise; reports say Polymarket had 491K monthly active traders in December 2025, and &lt;0.04% of addresses took 70% of profits &lpar;Benjamin Wallace/New York Times&rpar;](http://www.techmeme.com/260124/p7#a260124p7)
- - [OpenAI and longtime US government contractor Leidos announce a partnership to roll out generative and agentic AI tools for specific missions at federal agencies &lpar;Miranda Nazzaro/FedScoop&rpar;](http://www.techmeme.com/260124/p6#a260124p6)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 24 #692](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-24-692/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 24, #488](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-24-488/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 24, #958](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-24-958/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
