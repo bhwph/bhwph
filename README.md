@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is it too much to ask](http://9gag.com/gag/aW4y7RZ)
- - 😝 [Never thought about it like that, but it&#39;s true](http://9gag.com/gag/aAyAQwR)
- - 👉 [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)<!-- MEMES:END -->
+ - 6️⃣ [My last hope](http://9gag.com/gag/aVvro0n)
+ - 😝 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)
+ - 👉 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)<!-- MEMES:END -->
 
 --- 
 
