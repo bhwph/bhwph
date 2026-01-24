@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [From throwing bear traps with telekinesis to piledriving a zombie into a tree, this new roguelike is a brilliantly accessible gateway into the world of turn-based tactics](https://www.pcgamer.com/games/roguelike/from-throwing-beartraps-with-telekinesis-to-piledriving-a-zombie-into-a-tree-this-new-roguelike-is-a-brilliantly-accessible-gateway-into-the-world-of-turn-based-tactics/)
- - [What time does Highguard release in your time zone?](https://www.polygon.com/highguard-release-time-date-est-pst/)
- - [The best winter music in video games](https://www.polygon.com/best-winter-snow-game-music/)<!-- GAME:END -->
+ - [Subnautica: Below Zero could have been the perfect winter horror game](https://www.polygon.com/subnautica-below-zero-undermined-by-annoying-npc/)
+ - [WoW&#39;s rough 2.0 transmog overhaul is mostly fixed, and I&#39;m left wondering why Blizzard didn&#39;t just take the easy win](https://www.pcgamer.com/games/world-of-warcraft/wows-rough-2-0-transmog-overhaul-is-mostly-fixed-and-im-left-wondering-why-blizzard-didnt-just-take-the-easy-win/)
+ - [Deadlock&#39;s new Street Brawl mode is like a better version of the infamous MOBA &#39;All Random, All Mid,&#39; but I think it could stand to be even more chaotic](https://www.pcgamer.com/games/moba/deadlocks-new-street-brawl-mode-is-like-a-better-version-of-the-infamous-moba-all-random-all-mid-but-i-think-it-could-stand-to-be-even-more-chaotic/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
