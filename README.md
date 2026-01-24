@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TopResume Free Review, Discounts &amp; Packages for 2026](https://www.wired.com/story/topresume-discount-code/)
- - [Sources: Grab&#39;s planned acquisition of GoTo has hit a snag over Indonesian carrier Telkomsel&#39;s unwillingness to sell its ~2% stake in GoTo at current valuations &lpar;Bloomberg&rpar;](http://www.techmeme.com/260124/p2#a260124p2)
- - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)<!-- TECH:END -->
+ - [The Loch Capsule dishwasher is small, fast, and efficient — it even sanitizes gadgets](https://www.theverge.com/reviews/866476/loch-capsule-review-counter-dishwasher-vanlife-tiny-house)
+ - [A look at Kalshi and Polymarket&#39;s rise; reports say Polymarket had 491K monthly active traders in December 2025, and &lt;0.04% of addresses took 70% of profits &lpar;Benjamin Wallace/New York Times&rpar;](http://www.techmeme.com/260124/p7#a260124p7)
+ - [OpenAI and longtime US government contractor Leidos announce a partnership to roll out generative and agentic AI tools for specific missions at federal agencies &lpar;Miranda Nazzaro/FedScoop&rpar;](http://www.techmeme.com/260124/p6#a260124p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
