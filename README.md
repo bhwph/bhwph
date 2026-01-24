@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Congress doesn’t seem to know if the TikTok deal complies with its law](https://www.theverge.com/news/866977/tiktok-deal-congress-china)
- - [Inside Apple Maps - How to get the most out of your iPhone&#39;s navigation app](https://appleinsider.com/inside/apple-maps/tips/inside-apple-maps---how-to-get-the-most-out-of-your-iphones-navigation-app?utm_source=rss)
- - [Meta, EssilorLuxottica Sued in Smart Glasses Patent Case &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260123/p28#a260123p28)<!-- TECH:END -->
+ - [Chromebooks train schoolkids to be loyal customers, internal Google document suggests](https://www.theverge.com/news/867138/google-chromebook-education-expansion-court-filings)
+ - [This Mega Snowstorm Will Be a Test for the US Supply Chain](https://www.wired.com/story/here-comes-a-mega-snowstorm-shipping-logistics/)
+ - [Clearly Filtered Discount: Pitcher, Water Bottle, Under-Sink](https://www.wired.com/story/clearly-filtered-sale-january-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
