@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 24 #692](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-24-692/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 24, #488](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-24-488/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 24, #958](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-24-958/)<!-- TECH:END -->
+ - [What&#39;s the Best Red Light Therapy Mask for Your Skin in 2026?](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
+ - [Digital minimalist: 5 apps I recommend for a clutter-free experience](https://www.androidauthority.com/android-apps-i-recommed-for-minimalists-3634141/)
+ - [The 52 Best Movies on Netflix, WIRED’s Picks &lpar;January 2026&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
