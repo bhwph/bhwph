@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good lesson](http://9gag.com/gag/a4Pgo1w)
- - 😝 [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
- - 👉 [Name this game](http://9gag.com/gag/aqyMeBM)<!-- MEMES:END -->
+ - 6️⃣ [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
+ - 😝 [What did you expect?](http://9gag.com/gag/aYQ6QyN)
+ - 👉 [Emotional damage](http://9gag.com/gag/aD29Yqd)<!-- MEMES:END -->
 
 --- 
 
