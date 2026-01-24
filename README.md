@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the EU&#39;s executive arm is drafting new legislation aimed at promoting tech sovereignty and openly discussing the security risks posed by US tech &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260124/p10#a260124p10)
- - [The Best Fantasy Movies to Watch on Prime Video](https://www.cnet.com/tech/services-and-software/best-prime-video-fantasy-movies/)
- - [Gaming&amp;#8217;s most fun sales data is full of old and obscure games](https://www.theverge.com/games/867004/circana-gaming-sales-data-mat-piscatella-one-copy-obscure-games)<!-- TECH:END -->
+ - [MicroSD Express cards and Anker’s travel adapter rule the deal roost this week](https://www.theverge.com/gadgets/866788/anker-nano-travel-adapter-samsung-p9-microsd-express-card-deal-sale)
+ - [Gmail’s spam filter and automatic sorting are broken](https://www.theverge.com/tech/867247/gmails-spam-filter-broken)
+ - [Microsoft confirms it does provide BitLocker recovery keys for encrypted data if it receives a valid legal order and the user has stored the keys on its servers &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/260124/p11#a260124p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
