@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Frostpunk 2 on Game Pass will freeze your heart](https://www.polygon.com/frostpunk-2-game-pass-recommendation/)
- - [No More Room in Hell 2 will add new ways to play in its upcoming 1.0 launch, one of which &#39;plays like your favourite classic game modes from the late 2000s&#39;](https://www.pcgamer.com/games/fps/no-more-room-in-hell-2-will-add-new-ways-to-play-in-its-upcoming-1-0-launch-one-of-which-plays-like-your-favourite-classic-game-modes-from-the-late-2000s/)
- - [3 hidden gem movies buried on Netflix to watch right now](https://www.polygon.com/3-movie-masterpieces-buried-on-netflix-right-now-january-2026/)<!-- GAME:END -->
+ - [Ethan Winters is the best Resident Evil protagonist for this reason](https://www.polygon.com/resident-evil-village-ethan-winters-fate/)
+ - [After debuting in Nightdive&#39;s second remaster, one of the best mods for classic FPS Blood just released its concluding episode for everyone to play](https://www.pcgamer.com/games/fps/after-debuting-in-nightdives-second-remaster-one-of-the-best-mods-for-classic-fps-blood-just-released-its-concluding-episode-for-everyone-to-play/)
+ - [Dragon Ball Daima&#39;s Vegeta shares how his childhood dream came true](https://www.polygon.com/dragon-ball-daima-vegeta-voice-actor-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
