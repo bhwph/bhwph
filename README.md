@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good lesson](http://9gag.com/gag/a4Pgo1w)
- - 😝 [Just one of the guys](http://9gag.com/gag/a7ogqAb)
- - 👉 [Name this game](http://9gag.com/gag/aqyMeBM)<!-- MEMES:END -->
+ - 6️⃣ [Is it too much to ask](http://9gag.com/gag/aW4y7RZ)
+ - 😝 [Never thought about it like that, but it&#39;s true](http://9gag.com/gag/aAyAQwR)
+ - 👉 [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)<!-- MEMES:END -->
 
 --- 
 
