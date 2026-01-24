@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sho ronery](http://9gag.com/gag/amoQorj)
- - 😝 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
- - 👉 [Dog communication is fascinating](http://9gag.com/gag/a7ogo6x)<!-- MEMES:END -->
+ - 6️⃣ [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
+ - 😝 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
+ - 👉 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)<!-- MEMES:END -->
 
 --- 
 
