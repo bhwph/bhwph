@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
- - 😝 [What did you expect?](http://9gag.com/gag/aYQ6QyN)
+ - 6️⃣ [Just one of the guys](http://9gag.com/gag/a7ogqAb)
+ - 😝 [Post](http://9gag.com/gag/aD297Q7)
  - 👉 [Emotional damage](http://9gag.com/gag/aD29Yqd)<!-- MEMES:END -->
 
 --- 
