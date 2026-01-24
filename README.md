@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What&#39;s the Best Red Light Therapy Mask for Your Skin in 2026?](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
- - [Digital minimalist: 5 apps I recommend for a clutter-free experience](https://www.androidauthority.com/android-apps-i-recommed-for-minimalists-3634141/)
- - [The 52 Best Movies on Netflix, WIRED’s Picks &lpar;January 2026&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [This coming-of-age adventure game made me feel a little too seen](https://www.theverge.com/entertainment/865082/perfect-tides-station-to-station-review-steam)
+ - [UGREEN’s Uno 65W GaN charger is just $34 right now, and it’s kind of cute](https://www.androidauthority.com/ugreen-uno-65w-gan-fast-charger-3634966/)
+ - [Every iPhone 17E Rumor and Leak That I Found: Dynamic Island, MagSafe and More](https://www.cnet.com/tech/mobile/iphone-17e-release-date-price-specs-features-rumors/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
