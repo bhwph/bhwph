@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best snow and winter FPS maps of all time](https://www.polygon.com/best-snow-maps-fps-games/)
- - [Our diabolical PC gaming dungeons quiz is harder than a level 1 Molten Core solo run](https://www.pcgamer.com/games/rpg/our-diabolical-pc-gaming-dungeons-quiz-is-harder-than-a-level-1-molten-core-solo-run/)
- - [John Carpenter&#39;s The Thing is ideal snow day movie even if you hate horror](https://www.polygon.com/john-carpenter-the-thing-makes-perfect-use-of-the-cold-the-prequel-movie-doesnt/)<!-- GAME:END -->
+ - [From throwing bear traps with telekinesis to piledriving a zombie into a tree, this new roguelike is a brilliantly accessible gateway into the world of turn-based tactics](https://www.pcgamer.com/games/roguelike/from-throwing-beartraps-with-telekinesis-to-piledriving-a-zombie-into-a-tree-this-new-roguelike-is-a-brilliantly-accessible-gateway-into-the-world-of-turn-based-tactics/)
+ - [What time does Highguard release in your time zone?](https://www.polygon.com/highguard-release-time-date-est-pst/)
+ - [The best winter music in video games](https://www.polygon.com/best-winter-snow-game-music/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
