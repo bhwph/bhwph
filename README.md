@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just one of the guys](http://9gag.com/gag/a7ogqAb)
- - 😝 [Post](http://9gag.com/gag/aD297Q7)
- - 👉 [Emotional damage](http://9gag.com/gag/aD29Yqd)<!-- MEMES:END -->
+ - 6️⃣ [But wait there is more](http://9gag.com/gag/aE0Kqgx)
+ - 😝 [I want to be Honorary Aryan](http://9gag.com/gag/aNDMLN4)
+ - 👉 [By process of elimination](http://9gag.com/gag/aYQ6G10)<!-- MEMES:END -->
 
 --- 
 
