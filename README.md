@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A Snow Angel](http://9gag.com/gag/aO8EQR6)
+ - 6️⃣ [Sho ronery](http://9gag.com/gag/amoQorj)
  - 😝 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
- - 👉 [Art of the Highest Form](http://9gag.com/gag/ayNr2zY)<!-- MEMES:END -->
+ - 👉 [Dog communication is fascinating](http://9gag.com/gag/a7ogo6x)<!-- MEMES:END -->
 
 --- 
 
