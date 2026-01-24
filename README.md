@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
  - 😝 [Name this game](http://9gag.com/gag/aqyMeBM)
- - 👉 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)<!-- MEMES:END -->
+ - 👉 [He needed some time for himself](http://9gag.com/gag/abADA9X)<!-- MEMES:END -->
 
 --- 
 
