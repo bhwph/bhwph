@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mass Effect boss Michael Gamble is looking for a production director for the next game in the series: &#39;They’ll report to me and it’s gonna be awesome&#39;](https://www.pcgamer.com/games/rpg/mass-effect-boss-michael-gamble-is-looking-for-a-production-director-for-the-next-game-in-the-series-theyll-report-to-me-and-its-gonna-be-awesome/)
- - [Creator of DMCA&#39;d Cyberpunk VR mod takes ball and goes home, removing access to all his VR mods after receiving a second DMCA takedown from 505 Games and a warning from Patreon](https://www.pcgamer.com/games/vr/creator-of-dmcad-cyberpunk-vr-mod-takes-ball-and-goes-home-removing-access-to-all-his-vr-mods-after-receiving-a-second-dmca-takedown-from-505-games-and-a-warning-from-patreon/)
- - [Why Pro MTB Athlete Matt Jones Set Out to Create an Authentic Open-World MTB Game](https://news.xbox.com/en-us/2026/01/23/matt-jones-set-out-to-create-an-authentic-open-world-mtb-game/)<!-- GAME:END -->
+ - [Everything you can get from Arknights: Endfield Twitch Drops and how to link accounts](https://www.pcgamer.com/games/rpg/arknights-endfield-twitch-drops/)
+ - [Frustration Inside Ubisoft: ‘This Is Probably The Most Embarrassed I Have Felt Working Somewhere’](https://kotaku.com/ubisoft-stock-restructure-layoffs-cancel-delay-2000662684)
+ - [10-Year-Old Sims 4 Sex Mod With Full Nudity Is Still Shockingly Popular](https://kotaku.com/sims-4-sex-mod-wickedwhims-ea-maxis-2000662724)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
