@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
- - 😝 [Name this game](http://9gag.com/gag/aqyMeBM)
- - 👉 [He needed some time for himself](http://9gag.com/gag/abADA9X)<!-- MEMES:END -->
+ - 😝 [He needed some time for himself](http://9gag.com/gag/abADA9X)
+ - 👉 [What&#39;s your goosebump songs?](http://9gag.com/gag/a4Pg1Np)<!-- MEMES:END -->
 
 --- 
 
