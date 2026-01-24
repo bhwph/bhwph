@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This coming-of-age adventure game made me feel a little too seen](https://www.theverge.com/entertainment/865082/perfect-tides-station-to-station-review-steam)
- - [UGREEN’s Uno 65W GaN charger is just $34 right now, and it’s kind of cute](https://www.androidauthority.com/ugreen-uno-65w-gan-fast-charger-3634966/)
- - [Every iPhone 17E Rumor and Leak That I Found: Dynamic Island, MagSafe and More](https://www.cnet.com/tech/mobile/iphone-17e-release-date-price-specs-features-rumors/)<!-- TECH:END -->
+ - [Sources: the EU&#39;s executive arm is drafting new legislation aimed at promoting tech sovereignty and openly discussing the security risks posed by US tech &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260124/p10#a260124p10)
+ - [The Best Fantasy Movies to Watch on Prime Video](https://www.cnet.com/tech/services-and-software/best-prime-video-fantasy-movies/)
+ - [Gaming&amp;#8217;s most fun sales data is full of old and obscure games](https://www.theverge.com/games/867004/circana-gaming-sales-data-mat-piscatella-one-copy-obscure-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
