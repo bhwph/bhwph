@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ethan Winters is the best Resident Evil protagonist for this reason](https://www.polygon.com/resident-evil-village-ethan-winters-fate/)
- - [After debuting in Nightdive&#39;s second remaster, one of the best mods for classic FPS Blood just released its concluding episode for everyone to play](https://www.pcgamer.com/games/fps/after-debuting-in-nightdives-second-remaster-one-of-the-best-mods-for-classic-fps-blood-just-released-its-concluding-episode-for-everyone-to-play/)
- - [Dragon Ball Daima&#39;s Vegeta shares how his childhood dream came true](https://www.polygon.com/dragon-ball-daima-vegeta-voice-actor-interview/)<!-- GAME:END -->
+ - [The best snow and winter FPS maps of all time](https://www.polygon.com/best-snow-maps-fps-games/)
+ - [Our diabolical PC gaming dungeons quiz is harder than a level 1 Molten Core solo run](https://www.pcgamer.com/games/rpg/our-diabolical-pc-gaming-dungeons-quiz-is-harder-than-a-level-1-molten-core-solo-run/)
+ - [John Carpenter&#39;s The Thing is ideal snow day movie even if you hate horror](https://www.polygon.com/john-carpenter-the-thing-makes-perfect-use-of-the-cold-the-prequel-movie-doesnt/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
