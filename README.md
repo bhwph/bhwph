@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [But wait there is more](http://9gag.com/gag/aE0Kqgx)
- - 😝 [I want to be Honorary Aryan](http://9gag.com/gag/aNDMLN4)
- - 👉 [By process of elimination](http://9gag.com/gag/aYQ6G10)<!-- MEMES:END -->
+ - 6️⃣ [Good lesson](http://9gag.com/gag/a4Pgo1w)
+ - 😝 [Just one of the guys](http://9gag.com/gag/a7ogqAb)
+ - 👉 [Name this game](http://9gag.com/gag/aqyMeBM)<!-- MEMES:END -->
 
 --- 
 
