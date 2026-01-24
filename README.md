@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Frustration Inside Ubisoft: ‘This Is Probably The Most Embarrassed I Have Felt Working Somewhere’](https://kotaku.com/ubisoft-stock-restructure-layoffs-cancel-delay-2000662684)
- - [10-Year-Old Sims 4 Sex Mod With Full Nudity Is Still Shockingly Popular](https://kotaku.com/sims-4-sex-mod-wickedwhims-ea-maxis-2000662724)
- - [Fable: Everything We Know About The Open-World Fantasy RPG Reboot](https://kotaku.com/fable-everything-we-know-about-the-open-world-fantasy-rpg-reboot-2000662595)<!-- GAME:END -->
+ - [It&#39;s hard to fault Highguard for giving the internet the silent treatment—wouldn&#39;t you?](https://www.pcgamer.com/games/fps/highguard-game-awards-marketing/)
+ - [Everything you can get from Arknights: Endfield Twitch Drops and how to link accounts](https://www.pcgamer.com/games/rpg/arknights-endfield-twitch-drops/)
+ - [Frustration Inside Ubisoft: ‘This Is Probably The Most Embarrassed I Have Felt Working Somewhere’](https://kotaku.com/ubisoft-stock-restructure-layoffs-cancel-delay-2000662684)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
