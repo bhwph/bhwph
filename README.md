@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Omg!! Its happening !!](http://9gag.com/gag/aW4y4Xn)
- - 😝 [The mystery machine](http://9gag.com/gag/aoyoW7w)
- - 👉 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)<!-- MEMES:END -->
+ - 6️⃣ [Here We Goo `National Guard presence confirmed in Minneapolis`](http://9gag.com/gag/aMV7meM)
+ - 😝 [In Feb 2022, this NFT image was sold for $23 millions. And here I am giving to you degenerates for free](http://9gag.com/gag/a87N6KV)
+ - 👉 [The mystery machine](http://9gag.com/gag/aoyoW7w)<!-- MEMES:END -->
 
 --- 
 
