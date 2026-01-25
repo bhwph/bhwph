@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Drive’s new ‘Smart’ AI features are forcing me to move all my private documents](https://www.androidauthority.com/google-drives-smart-ai-features-private-documents-3622684/)
- - [Domain Name Stat: the number of .ai domains has surpassed 1M; data suggests Anguilla, the UK territory managing the domain, made ~$70M in fees in the past year &lpar;Sherwood News&rpar;](http://www.techmeme.com/260125/p3#a260125p3)
- - [HSBC: JioHotstar had 300M paying subscribers in India in 2025, compared with 65M for Amazon Prime Video and 20M for Netflix; ~24% of OTT users pay for content &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/260125/p2#a260125p2)<!-- TECH:END -->
+ - [Crime blotter: iPad used in $3 million crypto heist](https://appleinsider.com/articles/26/01/25/crime-blotter-ipad-used-in-3-million-crypto-heist?utm_source=rss)
+ - [If there’s one thing I want from my next phone it’s less AI in my camera](https://www.androidauthority.com/less-ai-photos-phones-2026-3631398/)
+ - [You may soon be able to pay for ad-free WhatsApp](https://www.androidauthority.com/ad-free-whatsapp-3635003/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
