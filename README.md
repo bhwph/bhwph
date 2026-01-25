@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cancelled Prince of Persia: The Sands of Time remake claimed to have been &#39;close to the finish line&#39;](https://www.pcgamer.com/games/action/cancelled-prince-of-persia-the-sands-of-time-remake-claimed-to-have-been-close-to-the-finish-line/)
- - [Fallout lead Tim Cain worked 70+ hours a week for 2 years to make the classic RPG: &#39;I&#39;m glad things have changed, that was unsustainable⁠—but it was also absolutely amazing&#39;](https://www.pcgamer.com/games/fallout/fallout-lead-tim-cain-worked-70-hours-a-week-for-2-years-to-make-the-classic-rpg-im-glad-things-have-changed-that-was-unsustainable-but-it-was-also-absolutely-amazing/)
- - [UK judge rules that RuneScape gold is fair game when suing for theft, at least in this case where an ex-developer stole $700,000 worth of it](https://www.pcgamer.com/games/mmo/uk-judge-rules-that-runescape-gold-is-fair-game-when-suing-for-theft-at-least-in-this-case-where-an-ex-developer-stole-usd700-000-worth-of-it/)<!-- GAME:END -->
+ - [New Dragon Ball Super anime announced that will adapt the Momo arc](https://www.polygon.com/dragon-ball-super-anime-galactic-patrol-announcement/)
+ - [Finally, a comprehensive overhaul for third-person movement animations in Fallout: New Vegas](https://www.pcgamer.com/games/fallout/finally-a-comprehensive-overhaul-for-third-person-movement-animations-in-fallout-new-vegas/)
+ - [Cancelled Prince of Persia: The Sands of Time remake claimed to have been &#39;close to the finish line&#39;](https://www.pcgamer.com/games/action/cancelled-prince-of-persia-the-sands-of-time-remake-claimed-to-have-been-close-to-the-finish-line/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
