@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [*God left*](http://9gag.com/gag/a5QgBQG)
- - 😝 [Is it too much to ask](http://9gag.com/gag/aW4y7RZ)
- - 👉 [Did she want that in football fields per second units?](http://9gag.com/gag/a1mgDYG)<!-- MEMES:END -->
+ - 6️⃣ [You don&#39;t say?!](http://9gag.com/gag/aVvrg9n)
+ - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
+ - 👉 [Omg!! Its happening !!](http://9gag.com/gag/aW4y4Xn)<!-- MEMES:END -->
 
 --- 
 
