@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My last hope](http://9gag.com/gag/aVvro0n)
- - 😝 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)
- - 👉 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)<!-- MEMES:END -->
+ - 6️⃣ [Post](http://9gag.com/gag/aD297Q7)
+ - 😝 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
+ - 👉 [Choose wisely](http://9gag.com/gag/a0egXxn)<!-- MEMES:END -->
 
 --- 
 
