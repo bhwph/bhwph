@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In defense of XCOM: Chimera Squad](https://www.pcgamer.com/games/strategy/in-defense-of-xcom-chimera-squad/)
- - [Walking Dead fans need to watch the horror version of Frozen](https://www.polygon.com/walking-dead-frozen-2010-emma-bell-shawn-ashmore/)
- - [Subnautica: Below Zero could have been the perfect winter horror game](https://www.polygon.com/subnautica-below-zero-undermined-by-annoying-npc/)<!-- GAME:END -->
+ - [Cancelled Prince of Persia: The Sands of Time remake claimed to have been &#39;close to the finish line&#39;](https://www.pcgamer.com/games/action/cancelled-prince-of-persia-the-sands-of-time-remake-claimed-to-have-been-close-to-the-finish-line/)
+ - [Fallout lead Tim Cain worked 70+ hours a week for 2 years to make the classic RPG: &#39;I&#39;m glad things have changed, that was unsustainable⁠—but it was also absolutely amazing&#39;](https://www.pcgamer.com/games/fallout/fallout-lead-tim-cain-worked-70-hours-a-week-for-2-years-to-make-the-classic-rpg-im-glad-things-have-changed-that-was-unsustainable-but-it-was-also-absolutely-amazing/)
+ - [UK judge rules that RuneScape gold is fair game when suing for theft, at least in this case where an ex-developer stole $700,000 worth of it](https://www.pcgamer.com/games/mmo/uk-judge-rules-that-runescape-gold-is-fair-game-when-suing-for-theft-at-least-in-this-case-where-an-ex-developer-stole-usd700-000-worth-of-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
