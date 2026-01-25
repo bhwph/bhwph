@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: iPad used in $3 million crypto heist](https://appleinsider.com/articles/26/01/25/crime-blotter-ipad-used-in-3-million-crypto-heist?utm_source=rss)
- - [If there’s one thing I want from my next phone it’s less AI in my camera](https://www.androidauthority.com/less-ai-photos-phones-2026-3631398/)
- - [You may soon be able to pay for ad-free WhatsApp](https://www.androidauthority.com/ad-free-whatsapp-3635003/)<!-- TECH:END -->
+ - [Apple&#39;s unusual OS 27 code name shift could reflect AI strategy changes, or nothing at all](https://appleinsider.com/articles/26/01/25/apples-unusual-os-27-code-name-shift-could-reflect-ai-strategy-changes?utm_source=rss)
+ - [Sony’s first clip earbuds don’t quite hit the mark](https://www.theverge.com/tech/866975/sony-linkbuds-clip-open-earbuds-review)
+ - [New MacBook Pros are expected soon, but maybe not just days away](https://appleinsider.com/articles/26/01/25/new-macbook-pros-are-expected-soon-but-maybe-not-just-days-away?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
