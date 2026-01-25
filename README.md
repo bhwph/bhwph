@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mappa and Netflix should adapt Absolute Batman into anime](https://www.polygon.com/mappa-netflix-warner-bros-discovery-absolute-batman-anime/)
- - [What time does Grounded 2&#39;s Toxic Tangle winter update release in your time zone?](https://www.polygon.com/grounded-2-toxic-tangle-winter-update-garden-release-time-date-est-pst/)
- - [What are Kenny&#39;s Born in Chaos quests in Fortnite?](https://www.polygon.com/fortnite-kenny-born-in-chaos-quests-mph-mmmph-mhh-mmph/)<!-- GAME:END -->
+ - [Final count for Stop Killing Games petition verifies 1.3 million of its 1.4 million signatures, well above the minimum to be formally considered by EU politicians](https://www.pcgamer.com/gaming-industry/final-count-for-stop-killing-games-petition-verifies-1-3-million-of-its-1-4-million-signatures-well-above-the-minimum-to-be-formally-considered-by-eu-politicians/)
+ - [Doom has been ported to a pair of earbuds, and you can play remotely on the programmer&#39;s own pair in your browser](https://www.pcgamer.com/games/fps/doom-has-been-ported-to-a-pair-of-earbuds-and-you-can-play-remotely-on-the-programmers-own-pair-in-your-browser/)
+ - [Mappa and Netflix should adapt Absolute Batman into anime](https://www.polygon.com/mappa-netflix-warner-bros-discovery-absolute-batman-anime/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
