@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Post](http://9gag.com/gag/aD297Q7)
+ - 6️⃣ [Choose wisely](http://9gag.com/gag/a0egXxn)
  - 😝 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)
- - 👉 [My last hope](http://9gag.com/gag/aVvro0n)<!-- MEMES:END -->
+ - 👉 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)<!-- MEMES:END -->
 
 --- 
 
