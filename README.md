@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Clawdbot, an open-source personal AI agent that runs locally on the user&#39;s computer and integrates with multiple LLMs and messaging services &lpar;Federico Viticci/MacStories&rpar;](http://www.techmeme.com/260124/p17#a260124p17)
- - [EquipmentShare, which runs a jobsite tech and equipment rental platform for the construction industry, raised $747.3M in its IPO, valuing the company at $7.16B &lpar;Reuters&rpar;](http://www.techmeme.com/260124/p16#a260124p16)
- - [The day of the second killing](https://www.theverge.com/policy/867410/minneapolis-ice-protest-alex-pretti-killing)<!-- TECH:END -->
+ - [HSBC: JioHotstar had 300M paying subscribers in India in 2025, compared with 65M for Amazon Prime Video and 20M for Netflix; ~24% of OTT users pay for content &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/260125/p2#a260125p2)
+ - [Analysis: scientists who appeared to use LLMs posted 33% more papers on arXiv than those who didn&#39;t, as concerns grow over AI slop in scientific publishing &lpar;Ross Andersen/The Atlantic&rpar;](http://www.techmeme.com/260125/p1#a260125p1)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 25, #489](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-25-489/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
