@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Dragon Ball Super anime announced that will adapt the Momo arc](https://www.polygon.com/dragon-ball-super-anime-galactic-patrol-announcement/)
- - [Finally, a comprehensive overhaul for third-person movement animations in Fallout: New Vegas](https://www.pcgamer.com/games/fallout/finally-a-comprehensive-overhaul-for-third-person-movement-animations-in-fallout-new-vegas/)
- - [Cancelled Prince of Persia: The Sands of Time remake claimed to have been &#39;close to the finish line&#39;](https://www.pcgamer.com/games/action/cancelled-prince-of-persia-the-sands-of-time-remake-claimed-to-have-been-close-to-the-finish-line/)<!-- GAME:END -->
+ - [Mappa and Netflix should adapt Absolute Batman into anime](https://www.polygon.com/mappa-netflix-warner-bros-discovery-absolute-batman-anime/)
+ - [What time does Grounded 2&#39;s Toxic Tangle winter update release in your time zone?](https://www.polygon.com/grounded-2-toxic-tangle-winter-update-garden-release-time-date-est-pst/)
+ - [What are Kenny&#39;s Born in Chaos quests in Fortnite?](https://www.polygon.com/fortnite-kenny-born-in-chaos-quests-mph-mmmph-mhh-mmph/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
