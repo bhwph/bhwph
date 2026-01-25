@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
+ - 6️⃣ [Post](http://9gag.com/gag/aD297Q7)
  - 😝 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)
  - 👉 [My last hope](http://9gag.com/gag/aVvro0n)<!-- MEMES:END -->
 
