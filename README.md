@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Here We Goo `National Guard presence confirmed in Minneapolis`](http://9gag.com/gag/aMV7meM)
- - 😝 [In Feb 2022, this NFT image was sold for $23 millions. And here I am giving to you degenerates for free](http://9gag.com/gag/a87N6KV)
+ - 6️⃣ [Next-generation immigrants](http://9gag.com/gag/aNDMLg0)
+ - 😝 [RIPig](http://9gag.com/gag/aoyoV72)
  - 👉 [The mystery machine](http://9gag.com/gag/aoyoW7w)<!-- MEMES:END -->
 
 --- 
