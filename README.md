@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trusting your phone to Abxylute’s mobile controller requires a big leap of faith](https://www.theverge.com/tech/864821/abxylute-m4-snap-on-mobile-controller-magsafe-magnetic-bluetooth)
- - [A deep dive into Apple&#39;s AI strategy reset, as it prepares to announce a Gemini-powered personalized Siri next month and a reimagined chatbot-like Siri at WWDC &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260125/p5#a260125p5)
- - [Puppy Bowl 2026: How to Watch and Stream the Furry Showdown](https://www.cnet.com/tech/services-and-software/how-to-watch-puppy-bowl-2026/)<!-- TECH:END -->
+ - [Why Minnesota Can&#39;t Do More to Stop ICE](https://www.wired.com/story/why-minnesota-cant-do-more-to-stop-ice/)
+ - [Meta&#39;s decision to deprioritize VR in favor of AI and internet-connected glasses has chilled the VR industry, leading to concerns about its future &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260125/p6#a260125p6)
+ - [Creators and communities everywhere take a stand against ICE](https://www.theverge.com/policy/867451/creators-and-communities-take-a-stand-against-ice)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
