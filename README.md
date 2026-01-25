@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You don&#39;t say?!](http://9gag.com/gag/aVvrg9n)
- - 😝 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - 👉 [Omg!! Its happening !!](http://9gag.com/gag/aW4y4Xn)<!-- MEMES:END -->
+ - 6️⃣ [Omg!! Its happening !!](http://9gag.com/gag/aW4y4Xn)
+ - 😝 [The mystery machine](http://9gag.com/gag/aoyoW7w)
+ - 👉 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)<!-- MEMES:END -->
 
 --- 
 
