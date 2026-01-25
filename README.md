@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Post](http://9gag.com/gag/aD297Q7)
- - 😝 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
- - 👉 [Choose wisely](http://9gag.com/gag/a0egXxn)<!-- MEMES:END -->
+ - 6️⃣ [Memes after seeing the latest fable trailer](http://9gag.com/gag/an7Z7YL)
+ - 😝 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)
+ - 👉 [16 century or final fantasy](http://9gag.com/gag/a87N621)<!-- MEMES:END -->
 
 --- 
 
