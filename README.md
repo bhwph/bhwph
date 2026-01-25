@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s unusual OS 27 code name shift could reflect AI strategy changes, or nothing at all](https://appleinsider.com/articles/26/01/25/apples-unusual-os-27-code-name-shift-could-reflect-ai-strategy-changes?utm_source=rss)
- - [Sony’s first clip earbuds don’t quite hit the mark](https://www.theverge.com/tech/866975/sony-linkbuds-clip-open-earbuds-review)
- - [New MacBook Pros are expected soon, but maybe not just days away](https://appleinsider.com/articles/26/01/25/new-macbook-pros-are-expected-soon-but-maybe-not-just-days-away?utm_source=rss)<!-- TECH:END -->
+ - [Trusting your phone to Abxylute’s mobile controller requires a big leap of faith](https://www.theverge.com/tech/864821/abxylute-m4-snap-on-mobile-controller-magsafe-magnetic-bluetooth)
+ - [A deep dive into Apple&#39;s AI strategy reset, as it prepares to announce a Gemini-powered personalized Siri next month and a reimagined chatbot-like Siri at WWDC &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260125/p5#a260125p5)
+ - [Puppy Bowl 2026: How to Watch and Stream the Furry Showdown](https://www.cnet.com/tech/services-and-software/how-to-watch-puppy-bowl-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
