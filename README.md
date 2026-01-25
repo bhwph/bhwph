@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Drive’s new ‘Smart’ AI features are forcing me to move all my private documents](https://www.androidauthority.com/google-drives-smart-ai-features-private-documents-3622684/)
  - [Domain Name Stat: the number of .ai domains has surpassed 1M; data suggests Anguilla, the UK territory managing the domain, made ~$70M in fees in the past year &lpar;Sherwood News&rpar;](http://www.techmeme.com/260125/p3#a260125p3)
- - [HSBC: JioHotstar had 300M paying subscribers in India in 2025, compared with 65M for Amazon Prime Video and 20M for Netflix; ~24% of OTT users pay for content &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/260125/p2#a260125p2)
- - [Analysis: scientists who appeared to use LLMs posted 33% more papers on arXiv than those who didn&#39;t, as concerns grow over AI slop in scientific publishing &lpar;Ross Andersen/The Atlantic&rpar;](http://www.techmeme.com/260125/p1#a260125p1)<!-- TECH:END -->
+ - [HSBC: JioHotstar had 300M paying subscribers in India in 2025, compared with 65M for Amazon Prime Video and 20M for Netflix; ~24% of OTT users pay for content &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/260125/p2#a260125p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
