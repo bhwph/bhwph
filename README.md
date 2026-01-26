@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MTG Marvel Super Heroes Commander deck leaks suggest more to come](https://www.polygon.com/mtg-marvel-super-heroes-set-commander-deck-leaks/)
- - [The next Dead by Daylight chapter will feature character designs selected by the community, and voting is already open](https://www.pcgamer.com/games/horror/the-next-dead-by-daylight-chapter-will-feature-character-designs-selected-by-the-community-and-voting-is-already-open/)
- - [Old School Runescape ignored the rules for 25 years — and it&#39;s not even close to dead yet](https://www.polygon.com/old-school-runescape-design-director-kieren-charles-interview/)<!-- GAME:END -->
+ - [Arc Raiders announces wild new &#39;Solo vs Squads&#39; mode, out tomorrow](https://www.polygon.com/arc-raiders-headwinds-update-solo-vs-squads/)
+ - [Highguard Devs Talk Turning Rust Into A Hero Shooter And That Terrible Game Awards Reveal](https://kotaku.com/highguard-game-awards-trailer-rust-hero-shooter-interview-2000663137)
+ - [Highguard preview: 4 hours with one of the best new shooters in years](https://www.polygon.com/highguard-hands-on-preview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
