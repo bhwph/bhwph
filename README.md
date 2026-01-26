@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Better call Saul](http://9gag.com/gag/ae9zZnq)
- - 😝 [Superhero Origin story](http://9gag.com/gag/a4PgNKZ)
- - 👉 [RIPig](http://9gag.com/gag/aoyoV72)<!-- MEMES:END -->
+ - 6️⃣ [The mystery machine](http://9gag.com/gag/aoyoW7w)
+ - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
+ - 👉 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)<!-- MEMES:END -->
 
 --- 
 
