@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Next-generation immigrants](http://9gag.com/gag/aNDMLg0)
- - 😝 [RIPig](http://9gag.com/gag/aoyoV72)
- - 👉 [The mystery machine](http://9gag.com/gag/aoyoW7w)<!-- MEMES:END -->
+ - 6️⃣ [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)
+ - 😝 [I mean yah sure](http://9gag.com/gag/ayNr4bV)
+ - 👉 [I&#39;ve been there... ...millions of years ago.](http://9gag.com/gag/abAD4m9)<!-- MEMES:END -->
 
 --- 
 
