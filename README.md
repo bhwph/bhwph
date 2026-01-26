@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)
- - 😝 [I mean yah sure](http://9gag.com/gag/ayNr4bV)
- - 👉 [I&#39;ve been there... ...millions of years ago.](http://9gag.com/gag/abAD4m9)<!-- MEMES:END -->
+ - 6️⃣ [Better call Saul](http://9gag.com/gag/ae9zZnq)
+ - 😝 [Superhero Origin story](http://9gag.com/gag/a4PgNKZ)
+ - 👉 [RIPig](http://9gag.com/gag/aoyoV72)<!-- MEMES:END -->
 
 --- 
 
