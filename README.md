@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
+ - 6️⃣ [Just trying to get my steps in while history happens behind me](http://9gag.com/gag/awyjmdB)
  - 😝 [RIPig](http://9gag.com/gag/aoyoV72)
- - 👉 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)<!-- MEMES:END -->
+ - 👉 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)<!-- MEMES:END -->
 
 --- 
 
