@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The next Dead by Daylight chapter will feature character designs selected by the community, and voting is already open](https://www.pcgamer.com/games/horror/the-next-dead-by-daylight-chapter-will-feature-character-designs-selected-by-the-community-and-voting-is-already-open/)
  - [Old School Runescape ignored the rules for 25 years — and it&#39;s not even close to dead yet](https://www.polygon.com/old-school-runescape-design-director-kieren-charles-interview/)
- - [Former Marathon art director says &#39;what I could control, I feel really good about&#39; in the face of pre-release animosity: &#39;You can&#39;t take that away from me&#39;](https://www.pcgamer.com/games/fps/former-marathon-art-director-says-what-i-could-control-i-feel-really-good-about-in-the-face-of-pre-release-animosity-you-cant-take-that-away-from-me/)
- - [Final count for Stop Killing Games petition verifies 1.3 million of its 1.4 million signatures, well above the minimum to be formally considered by EU politicians](https://www.pcgamer.com/gaming-industry/final-count-for-stop-killing-games-petition-verifies-1-3-million-of-its-1-4-million-signatures-well-above-the-minimum-to-be-formally-considered-by-eu-politicians/)<!-- GAME:END -->
+ - [Former Marathon art director says &#39;what I could control, I feel really good about&#39; in the face of pre-release animosity: &#39;You can&#39;t take that away from me&#39;](https://www.pcgamer.com/games/fps/former-marathon-art-director-says-what-i-could-control-i-feel-really-good-about-in-the-face-of-pre-release-animosity-you-cant-take-that-away-from-me/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
