@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arc Raiders announces wild new &#39;Solo vs Squads&#39; mode, out tomorrow](https://www.polygon.com/arc-raiders-headwinds-update-solo-vs-squads/)
- - [Highguard Devs Talk Turning Rust Into A Hero Shooter And That Terrible Game Awards Reveal](https://kotaku.com/highguard-game-awards-trailer-rust-hero-shooter-interview-2000663137)
- - [Highguard preview: 4 hours with one of the best new shooters in years](https://www.polygon.com/highguard-hands-on-preview/)<!-- GAME:END -->
+ - [Best early Valley IV blueprints in Arknights: Endfield](https://www.polygon.com/arknights-endfield-blueprints-valley-iv-sc-lc-battery-explosives/)
+ - [Ubisoft hopes 200 employees at its Paris HQ will agree to quit so it doesn&#39;t have to lay them off the regular way](https://www.pcgamer.com/gaming-industry/ubisoft-hopes-200-employees-at-its-paris-hq-will-agree-to-quit-so-it-doesnt-have-to-lay-them-off-the-regular-way/)
+ - [Microsoft says sure, it&#39;ll hand over your encrypted data to the FBI: &#39;The lesson here is that if you have access to keys, eventually law enforcement is going to come&#39;](https://www.pcgamer.com/gaming-industry/microsoft-says-sure-itll-hand-over-your-encrypted-data-to-the-fbi-the-lesson-here-is-that-if-you-have-access-to-keys-eventually-law-enforcement-is-going-to-come/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
