@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest AirTag upgrade puts pressure back on Android rivals](https://www.androidauthority.com/new-apple-airtag-released-3635262/)
- - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
- - [Apple&#39;s iOS 26.2.1 Update for iPhones Adds Support for More Precise 2nd Gen AirTags](https://www.cnet.com/tech/services-and-software/apples-ios-26-2-1-iphone-update-supports-airtag-gen-2/)<!-- TECH:END -->
+ - [Billionaire Tom Steyer, who is running for California governor, says he&#39;ll vote for the one-time 5% tax on billionaire wealth if it reaches the November ballot &lpar;Eliyahu Kamisher/Bloomberg&rpar;](http://www.techmeme.com/260126/p38#a260126p38)
+ - [A group of YouTubers with a combined 6.2M subscribers adds Snap to a class action lawsuit, alleging the company trained its AI systems on their video content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260126/p37#a260126p37)
+ - [Palantir Defends Work With ICE to Staff Following Killing of Alex Pretti](https://www.wired.com/story/palantir-ice-dhs-alex-pretti-killing-workers-slack-minneapolis/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
