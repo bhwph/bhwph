@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The future is now old men](http://9gag.com/gag/adBAOdZ)
- - 😝 [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)
- - 👉 [RIPig](http://9gag.com/gag/aoyoV72)<!-- MEMES:END -->
+ - 6️⃣ [Water returning to the dry riverbed, a beautiful sight from horseback](http://9gag.com/gag/a6Zgnq8)
+ - 😝 [The curse is lifted](http://9gag.com/gag/aGyvnqw)
+ - 👉 [Jean-Claude Van Damme with the love of his life](http://9gag.com/gag/aXP34A2)<!-- MEMES:END -->
 
 --- 
 
