@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just trying to get my steps in while history happens behind me](http://9gag.com/gag/awyjmdB)
- - 😝 [RIPig](http://9gag.com/gag/aoyoV72)
+ - 6️⃣ [How to tell if there are alligators in the water in Louisiana](http://9gag.com/gag/aRBWzwq)
+ - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
  - 👉 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)<!-- MEMES:END -->
 
 --- 
