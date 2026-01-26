@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI is working out how much to charge for ChatGPT ads](https://www.theverge.com/news/867898/openai-chatgpt-ad-pricing)
- - [Payment processors were against CSAM until Grok started making it](https://www.theverge.com/ai-artificial-intelligence/867874/stripe-visa-mastercard-amex-csam-grok)
- - [TikTok blames its US problems on a power outage](https://www.theverge.com/news/867873/tiktok-down-outage-us-data-center-power-outage)<!-- TECH:END -->
+ - [Garmin accidentally leaked an unannounced wearable](https://www.androidauthority.com/garmin-cirqa-smart-band-details-3635222/)
+ - [Even the big dick subreddit is mad about ICE](https://www.theverge.com/news/867967/ice-shooting-minneapolis-reddit-communities-activism)
+ - [This Wireless Mic Kit Is $70 Off](https://www.wired.com/story/dji-mic-3-deal-126/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
