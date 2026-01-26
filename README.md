@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia announces its Earth-2 Medium Range weather model, built on its Atlas architecture, claiming it outperforms Google DeepMind&#39;s GenCast in 70+ variables &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/260126/p22#a260126p22)
- - [Apple unveils a second-gen AirTag with an updated speaker and the same second-gen Ultra Wideband chip as in the iPhone 17, costing $29 for one and $99 for four &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/260126/p21#a260126p21)
- - [Apple&#39;s new AirTag makes it easier to stay on top of your stuff](https://appleinsider.com/articles/26/01/26/apples-new-airtag-makes-it-easier-to-stay-on-top-of-your-stuff?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI is working out how much to charge for ChatGPT ads](https://www.theverge.com/news/867898/openai-chatgpt-ad-pricing)
+ - [Payment processors were against CSAM until Grok started making it](https://www.theverge.com/ai-artificial-intelligence/867874/stripe-visa-mastercard-amex-csam-grok)
+ - [TikTok blames its US problems on a power outage](https://www.theverge.com/news/867873/tiktok-down-outage-us-data-center-power-outage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
