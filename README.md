@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok broke in its first weekend with US ownership](https://www.theverge.com/news/867625/tiktok-down-weekend-broke-fyp-video-uploads-review)
- - [5 Android phones you should buy instead of the Samsung Galaxy A56](https://www.androidauthority.com/samsung-galaxy-a56-5g-alternatives-3634693/)
- - [London-based enterprise AI video startup Synthesia raised a $200M Series E led by GV at a $4B valuation, up from $2.1B after raising $180M in January 2025 &lpar;Nat Rubio-Licht/The Deep View&rpar;](http://www.techmeme.com/260126/p3#a260126p3)<!-- TECH:END -->
+ - [Is it worth sticking with Verizon right now? Your answers were revealing](https://www.androidauthority.com/time-to-leave-verizon-poll-result-3635056/)
+ - [Sources: NY-based Tandem, which uses AI to automate the paperwork for writing and receiving medical prescriptions, raised a $100M Series B at a $1B valuation &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260126/p15#a260126p15)
+ - [Interviews with 100+ therapists and psychiatrists on clients&#39; AI chatbot usage show, while there are some upsides, conversations also deepened negative feelings &lpar;New York Times&rpar;](http://www.techmeme.com/260126/p14#a260126p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
