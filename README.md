@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin accidentally leaked an unannounced wearable](https://www.androidauthority.com/garmin-cirqa-smart-band-details-3635222/)
- - [Even the big dick subreddit is mad about ICE](https://www.theverge.com/news/867967/ice-shooting-minneapolis-reddit-communities-activism)
- - [This Wireless Mic Kit Is $70 Off](https://www.wired.com/story/dji-mic-3-deal-126/)<!-- TECH:END -->
+ - [Apple’s latest AirTag upgrade puts pressure back on Android rivals](https://www.androidauthority.com/new-apple-airtag-released-3635262/)
+ - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
+ - [Apple&#39;s iOS 26.2.1 Update for iPhones Adds Support for More Precise 2nd Gen AirTags](https://www.cnet.com/tech/services-and-software/apples-ios-26-2-1-iphone-update-supports-airtag-gen-2/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
