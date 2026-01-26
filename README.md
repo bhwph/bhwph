@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is it worth sticking with Verizon right now? Your answers were revealing](https://www.androidauthority.com/time-to-leave-verizon-poll-result-3635056/)
- - [Sources: NY-based Tandem, which uses AI to automate the paperwork for writing and receiving medical prescriptions, raised a $100M Series B at a $1B valuation &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260126/p15#a260126p15)
- - [Interviews with 100+ therapists and psychiatrists on clients&#39; AI chatbot usage show, while there are some upsides, conversations also deepened negative feelings &lpar;New York Times&rpar;](http://www.techmeme.com/260126/p14#a260126p14)<!-- TECH:END -->
+ - [Nvidia announces its Earth-2 Medium Range weather model, built on its Atlas architecture, claiming it outperforms Google DeepMind&#39;s GenCast in 70+ variables &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/260126/p22#a260126p22)
+ - [Apple unveils a second-gen AirTag with an updated speaker and the same second-gen Ultra Wideband chip as in the iPhone 17, costing $29 for one and $99 for four &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/260126/p21#a260126p21)
+ - [Apple&#39;s new AirTag makes it easier to stay on top of your stuff](https://appleinsider.com/articles/26/01/26/apples-new-airtag-makes-it-easier-to-stay-on-top-of-your-stuff?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
