@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple&#39;s M5](https://www.wired.com/story/intel-panther-lake-core-ultra-series-3-review/)
- - [Entropy, a decentralized crypto custodian that raised a $25M seed led by a16z in June 2022, is shutting down after &quot;several pivots, and two rounds of layoffs&quot; &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260126/p1#a260126p1)
- - [New Galaxy S26 leak reveals a long-overdue storage upgrade for cheapest S26](https://www.androidauthority.com/samsung-galaxy-s26-series-colors-storage-leak-128gb-3635096/)<!-- TECH:END -->
+ - [TikTok broke in its first weekend with US ownership](https://www.theverge.com/news/867625/tiktok-down-weekend-broke-fyp-video-uploads-review)
+ - [5 Android phones you should buy instead of the Samsung Galaxy A56](https://www.androidauthority.com/samsung-galaxy-a56-5g-alternatives-3634693/)
+ - [London-based enterprise AI video startup Synthesia raised a $200M Series E led by GV at a $4B valuation, up from $2.1B after raising $180M in January 2025 &lpar;Nat Rubio-Licht/The Deep View&rpar;](http://www.techmeme.com/260126/p3#a260126p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
