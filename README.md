@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who will win?!](http://9gag.com/gag/aPALPqG)
- - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
- - 👉 [Makeup is a lie](http://9gag.com/gag/axyKve2)<!-- MEMES:END -->
+ - 6️⃣ [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
+ - 😝 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)
+ - 👉 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)<!-- MEMES:END -->
 
 --- 
 
