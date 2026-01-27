@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare stock surged 9.2% on Monday and 14% on Tuesday as users of Moltbot, previously Clawdbot, adopt the free Cloudflare Tunnel to secure their connections &lpar;Nate Wolf/Barron&#39;s Online&rpar;](http://www.techmeme.com/260127/p41#a260127p41)
- - [Google’s best AI plan comes to the US for just $8 a month](https://www.androidauthority.com/google-ai-plus-us-3635635/)
- - [Meta&#39;s latest subscription move is an attempt to offset its AI bets](https://appleinsider.com/articles/26/01/27/metas-latest-subscription-move-is-an-attempt-to-offset-its-ai-bets?utm_source=rss)<!-- TECH:END -->
+ - [One UI 8.5 will give Now Bar a function it should’ve had a while ago](https://www.androidauthority.com/samsung-now-bar-missed-calls-3635654/)
+ - [Meta blocks users from sharing links to ICE List, which compiles names of DHS staffers; Meta cites a policy against &quot;asking for personally identifiable&quot; info &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/260127/p47#a260127p47)
+ - [Revolut launches full banking operations in Mexico in its first expansion outside Europe, with capital of $100M+, more than double the regulatory minimum &lpar;Yamini Kalia/Reuters&rpar;](http://www.techmeme.com/260127/p46#a260127p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
