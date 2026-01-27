@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
- - 😝 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)
- - 👉 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)<!-- MEMES:END -->
+ - 6️⃣ [Who will win?!](http://9gag.com/gag/aPALPqG)
+ - 😝 [Guys when we cook](http://9gag.com/gag/ayNr1zq)
+ - 👉 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)<!-- MEMES:END -->
 
 --- 
 
