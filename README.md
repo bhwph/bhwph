@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Strava and Komoot finally bring offline maps to Apple Watch](https://www.theverge.com/news/868418/strava-and-komoot-finally-bring-offline-maps-to-apple-watch)
- - [Love Gemini? Google doesn’t want you to get too attached](https://www.androidauthority.com/google-gemini-short-break-reminder-3635378/)
- - [Chinese startup Moonshot updates its Kimi model, saying K2.5 can process text, images, and videos simultaneously and beats its open-source peers in some tests &lpar;Bloomberg&rpar;](http://www.techmeme.com/260127/p4#a260127p4)<!-- TECH:END -->
+ - [We asked you how Google should improve Pixel batteries, and the results say it all](https://www.androidauthority.com/google-solved-pixel-battery-life-poll-results-3635466/)
+ - [Corning says Meta committed to paying up to $6B through 2030 for fiber-optic cable in its AI data centers, and it plans to expand its Hickory, NC, factory &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260127/p11#a260127p11)
+ - [Google Photos now lets you describe how to transform images into video](https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
