@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic reveals nine new Commander decks for Strixhaven and Marvel Super Heroes](https://www.polygon.com/mtg-secrets-of-strixhaven-marvel-super-heroes-commander-decks-precons-announced/)
- - [Just Dance Fans Are Getting Squeezed After Ubisoft’s Big Shake-Up](https://kotaku.com/ubisoft-big-shake-up-just-dance-price-increase-fans-screwed-2000663578)
- - [PlayStation’s Spider-Man Calls For Blocking ICE Funding After Brutal Minnesota Killing](https://kotaku.com/ps5-spider-man-yuri-lowenthal-ice-alex-pretti-2000663563)<!-- GAME:END -->
+ - [Batman: Arkham Parody Perfectly Captures The Horror And Absurdity Of Living In Gotham](https://kotaku.com/batman-arkham-parody-perfectly-captures-the-horror-and-absurdity-of-living-in-gotham-2000663597)
+ - [Baldur&#39;s Gate 3 modder adds legally distinct Poké Balls so you can &#39;capture non-player characters inside a ball and free them later &lpar;or don&#39;t&rpar;&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-modder-adds-legally-distinct-poke-balls-so-you-can-capture-non-player-characters-inside-a-ball-and-free-them-later-or-dont/)
+ - [All Tap Simulator codes for January 2026: Tokens, potions, and crystals](https://www.pcgamer.com/roblox/tap-simulator-codes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
