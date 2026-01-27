@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What should it be called.... Wrong Answers only](http://9gag.com/gag/aW4yb74)
- - 😝 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)
- - 👉 [Jean-Claude Van Damme with the love of his life](http://9gag.com/gag/aXP34A2)<!-- MEMES:END -->
+ - 6️⃣ [Again](http://9gag.com/gag/a1mg048)
+ - 😝 [What should it be called.... Wrong Answers only](http://9gag.com/gag/aW4yb74)
+ - 👉 [Ma&#39;am](http://9gag.com/gag/aPALe4G)<!-- MEMES:END -->
 
 --- 
 
