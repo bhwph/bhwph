@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best early Valley IV blueprints in Arknights: Endfield](https://www.polygon.com/arknights-endfield-blueprints-valley-iv-sc-lc-battery-explosives/)
- - [Ubisoft hopes 200 employees at its Paris HQ will agree to quit so it doesn&#39;t have to lay them off the regular way](https://www.pcgamer.com/gaming-industry/ubisoft-hopes-200-employees-at-its-paris-hq-will-agree-to-quit-so-it-doesnt-have-to-lay-them-off-the-regular-way/)
- - [Microsoft says sure, it&#39;ll hand over your encrypted data to the FBI: &#39;The lesson here is that if you have access to keys, eventually law enforcement is going to come&#39;](https://www.pcgamer.com/gaming-industry/microsoft-says-sure-itll-hand-over-your-encrypted-data-to-the-fbi-the-lesson-here-is-that-if-you-have-access-to-keys-eventually-law-enforcement-is-going-to-come/)<!-- GAME:END -->
+ - [Highguard is fine when you don&#39;t have an internet in your ear telling you it&#39;s nasty](https://www.pcgamer.com/games/fps/highguard-is-fine-when-you-dont-have-an-internet-in-your-ear-telling-you-its-nasty/)
+ - [Hytale update adds a new weapon for summoning undead hordes, but keep your early access expectations in check](https://www.pcgamer.com/games/survival-crafting/hytale-update-adds-a-new-weapon-for-summoning-undead-hordes-but-keep-your-early-access-expectations-in-check/)
+ - [Try the New Xbox Cloud Gaming Web Experience — Now in Public Preview](https://news.xbox.com/en-us/2026/01/26/try-the-new-xbox-cloud-gaming-web-experience-now-in-public-preview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
