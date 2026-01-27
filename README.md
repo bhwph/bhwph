@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Rusted Bolts in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-rusted-bolts-location/)
- - [Highguard‘s Small Team Sizes Are A Problem](https://kotaku.com/highguards-small-team-sizes-are-a-problem-2000663511)
- - [Arknights: Endfield Valley IV interactive map](https://www.polygon.com/map/arknights-endfield-valley-iv-interactive-map/)<!-- GAME:END -->
+ - [New Street Fighter 6 Energy Drink Proves How Far We’ve Strayed From God’s Light](https://kotaku.com/street-fighter-6-energy-drink-trading-cards-2000663519)
+ - [Sinners&#39; record-breaking Oscars run turns the vampire movie into a streaming blockbuster](https://www.polygon.com/sinners-oscars-streaming-hbo-max/)
+ - [&#39;Combat Recon&#39; quest walkthrough in Arc Raiders](https://www.polygon.com/arc-raiders-combat-recon-quest-scope-out-spotter-walkthrough/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
