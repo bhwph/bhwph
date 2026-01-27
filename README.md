@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8.5 will give Now Bar a function it should’ve had a while ago](https://www.androidauthority.com/samsung-now-bar-missed-calls-3635654/)
- - [Meta blocks users from sharing links to ICE List, which compiles names of DHS staffers; Meta cites a policy against &quot;asking for personally identifiable&quot; info &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/260127/p47#a260127p47)
- - [Revolut launches full banking operations in Mexico in its first expansion outside Europe, with capital of $100M+, more than double the regulatory minimum &lpar;Yamini Kalia/Reuters&rpar;](http://www.techmeme.com/260127/p46#a260127p46)<!-- TECH:END -->
+ - [TikTok says the new US entity has not updated its algorithm since the joint venture was announced, after users accused it of suppressing posts related to ICE &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/260127/p51#a260127p51)
+ - [Nova Launcher users are experiencing major bugs following ownership change](https://www.androidauthority.com/nova-launcher-update-bugs-3635708/)
+ - [Texas Instruments reports Q4 revenue up 10% YoY to $4.42B, vs. $4.44B est., and forecasts Q1 revenue above estimates; TXN jumps 9%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/260127/p50#a260127p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
