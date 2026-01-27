@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dozens of nudify apps found on Google and Apple’s app stores](https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores)
- - [Ai2 launches Open Coding Agents, starting with SERA, an open-source family that includes 32B and 8B parameter models designed to adapt to private codebases &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/260127/p30#a260127p30)
- - [Sonos announces the Amp Multi, a large digital amplifier and its first new device in over a year, ending a pause in hardware releases as it focused on software &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260127/p29#a260127p29)<!-- TECH:END -->
+ - [Cloudflare stock surged 9.2% on Monday and 14% on Tuesday as users of Moltbot, previously Clawdbot, adopt the free Cloudflare Tunnel to secure their connections &lpar;Nate Wolf/Barron&#39;s Online&rpar;](http://www.techmeme.com/260127/p41#a260127p41)
+ - [Google’s best AI plan comes to the US for just $8 a month](https://www.androidauthority.com/google-ai-plus-us-3635635/)
+ - [Meta&#39;s latest subscription move is an attempt to offset its AI bets](https://appleinsider.com/articles/26/01/27/metas-latest-subscription-move-is-an-attempt-to-offset-its-ai-bets?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
