@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [All this in a brain a little bigger than a grain of sand.](http://9gag.com/gag/apR7xv8)
- - 😝 [When you enjoy your job ^^](http://9gag.com/gag/ayNr6rY)
- - 👉 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)<!-- MEMES:END -->
+ - 6️⃣ [Choose](http://9gag.com/gag/azxyGAb)
+ - 😝 [Makeup is a lie](http://9gag.com/gag/axyKve2)
+ - 👉 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)<!-- MEMES:END -->
 
 --- 
 
