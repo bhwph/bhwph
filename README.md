@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [FAFO](http://9gag.com/gag/aryEqqp)
- - 😝 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
- - 👉 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)<!-- MEMES:END -->
+ - 6️⃣ [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
+ - 😝 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)
+ - 👉 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)<!-- MEMES:END -->
 
 --- 
 
