@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
+ - 6️⃣ [FAFO](http://9gag.com/gag/aryEqqp)
  - 😝 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
- - 👉 [Jean-Claude Van Damme with the love of his life](http://9gag.com/gag/aXP34A2)<!-- MEMES:END -->
+ - 👉 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)<!-- MEMES:END -->
 
 --- 
 
