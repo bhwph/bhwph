@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Abu Dhabi&#39;s top tech university MBZUAI launches K2 Think, a new model it says is capable of advanced reasoning, as part of the UAE&#39;s push into &quot;sovereign&quot; AI &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260127/p18#a260127p18)
- - [Montreal-based Vention raised a $110M Series D to scale its physical AI platform into manufacturing plants worldwide, taking its total raised to ~$216M &lpar;Madison McLauchlan/BetaKit&rpar;](http://www.techmeme.com/260127/p17#a260127p17)
- - [Samsung says the Galaxy Z TriFold costs $2,899, or $899 more than the Galaxy Z Fold 7, launching in the US on January 30 exclusively via its website and stores &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260127/p16#a260127p16)<!-- TECH:END -->
+ - [Dozens of nudify apps found on Google and Apple’s app stores](https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores)
+ - [Ai2 launches Open Coding Agents, starting with SERA, an open-source family that includes 32B and 8B parameter models designed to adapt to private codebases &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/260127/p30#a260127p30)
+ - [Sonos announces the Amp Multi, a large digital amplifier and its first new device in over a year, ending a pause in hardware releases as it focused on software &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260127/p29#a260127p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
