@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Army signs a $5.6B, 10-year contract with Salesforce to speed up outdated practices; as part of the deal, military recruiters will get access to Slack &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260126/p45#a260126p45)
- - [Audio-Technica ATH-R50x headphones review: Open-backed music to my ears](https://appleinsider.com/articles/26/01/27/audio-technica-ath-r50x-headphones-review-open-backed-music-to-my-ears?utm_source=rss)
- - [YC updated its website to remove Canada from its list of approved jurisdictions for incorporation, leaving the US, Cayman Islands, and Singapore as options &lpar;Murad Hemmadi/The Logic&rpar;](http://www.techmeme.com/260126/p44#a260126p44)<!-- TECH:END -->
+ - [California Gov. Gavin Newsom says he will launch a review into whether TikTok is violating state law by censoring content critical of President Donald Trump &lpar;Tyler Katzenberger/Politico&rpar;](http://www.techmeme.com/260126/p46#a260126p46)
+ - [All the ways TikTok is broken: here’s what’s real and what’s not](https://www.theverge.com/news/868379/tiktok-us-trump-oracle-broken-rumors-power-outage)
+ - [The US Army signs a $5.6B, 10-year contract with Salesforce to speed up outdated practices; as part of the deal, military recruiters will get access to Slack &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260126/p45#a260126p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
