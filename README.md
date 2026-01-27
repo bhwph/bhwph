@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10% Dell Coupon Codes | January 2026](https://www.wired.com/story/dell-coupon-code/)
- - [20% Off TurboTax Service Codes | January 2026](https://www.wired.com/story/turbotax-coupon/)
- - [Samsung just launched a new Galaxy Z Flip 7 model you can’t &lpar;officially&rpar; buy](https://www.androidauthority.com/samsung-galaxy-z-flip-7-special-edition-3635346/)<!-- TECH:END -->
+ - [New Google TV update cleans up your home screen with two key changes](https://www.androidauthority.com/google-tv-report-history-youtube-video-thumbnail-fix-3635379/)
+ - [Your Belkin Wemo smart home device could stop working this week: Here’s what to do about it](https://www.androidauthority.com/belkin-wemo-smart-home-shut-down-3635362/)
+ - [MSI&#39;s Panther Lake Laptop Delivers on Intel&#39;s Promise of Power Plus Efficiency](https://www.cnet.com/tech/computing/msis-panther-lake-laptop-delivers-on-intels-promise-of-power-plus-efficiency/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
