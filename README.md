@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to tell if there are alligators in the water in Louisiana](http://9gag.com/gag/aRBWzwq)
- - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
- - 👉 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)<!-- MEMES:END -->
+ - 6️⃣ [RIPig](http://9gag.com/gag/aoyoV72)
+ - 😝 [Better call Saul](http://9gag.com/gag/ae9zZnq)
+ - 👉 [How to tell if there are alligators in the water in Louisiana](http://9gag.com/gag/aRBWzwq)<!-- MEMES:END -->
 
 --- 
 
