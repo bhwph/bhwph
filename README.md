@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Again](http://9gag.com/gag/a1mg048)
+ - 6️⃣ [I&#39;ve never felt more understood.](http://9gag.com/gag/adBAnrD)
  - 😝 [What should it be called.... Wrong Answers only](http://9gag.com/gag/aW4yb74)
- - 👉 [Ma&#39;am](http://9gag.com/gag/aPALe4G)<!-- MEMES:END -->
+ - 👉 [Sleep well](http://9gag.com/gag/aByzEP1)<!-- MEMES:END -->
 
 --- 
 
