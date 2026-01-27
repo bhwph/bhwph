@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [RIPig](http://9gag.com/gag/aoyoV72)
- - 😝 [Better call Saul](http://9gag.com/gag/ae9zZnq)
- - 👉 [How to tell if there are alligators in the water in Louisiana](http://9gag.com/gag/aRBWzwq)<!-- MEMES:END -->
+ - 6️⃣ [All this in a brain a little bigger than a grain of sand.](http://9gag.com/gag/apR7xv8)
+ - 😝 [When you enjoy your job ^^](http://9gag.com/gag/ayNr6rY)
+ - 👉 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)<!-- MEMES:END -->
 
 --- 
 
