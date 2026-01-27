@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked you how Google should improve Pixel batteries, and the results say it all](https://www.androidauthority.com/google-solved-pixel-battery-life-poll-results-3635466/)
- - [Corning says Meta committed to paying up to $6B through 2030 for fiber-optic cable in its AI data centers, and it plans to expand its Hickory, NC, factory &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260127/p11#a260127p11)
- - [Google Photos now lets you describe how to transform images into video](https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support)<!-- TECH:END -->
+ - [Abu Dhabi&#39;s top tech university MBZUAI launches K2 Think, a new model it says is capable of advanced reasoning, as part of the UAE&#39;s push into &quot;sovereign&quot; AI &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260127/p18#a260127p18)
+ - [Montreal-based Vention raised a $110M Series D to scale its physical AI platform into manufacturing plants worldwide, taking its total raised to ~$216M &lpar;Madison McLauchlan/BetaKit&rpar;](http://www.techmeme.com/260127/p17#a260127p17)
+ - [Samsung says the Galaxy Z TriFold costs $2,899, or $899 more than the Galaxy Z Fold 7, launching in the US on January 30 exclusively via its website and stores &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260127/p16#a260127p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
