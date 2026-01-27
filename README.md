@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Google TV update cleans up your home screen with two key changes](https://www.androidauthority.com/google-tv-report-history-youtube-video-thumbnail-fix-3635379/)
- - [Your Belkin Wemo smart home device could stop working this week: Here’s what to do about it](https://www.androidauthority.com/belkin-wemo-smart-home-shut-down-3635362/)
- - [MSI&#39;s Panther Lake Laptop Delivers on Intel&#39;s Promise of Power Plus Efficiency](https://www.cnet.com/tech/computing/msis-panther-lake-laptop-delivers-on-intels-promise-of-power-plus-efficiency/)<!-- TECH:END -->
+ - [Strava and Komoot finally bring offline maps to Apple Watch](https://www.theverge.com/news/868418/strava-and-komoot-finally-bring-offline-maps-to-apple-watch)
+ - [Love Gemini? Google doesn’t want you to get too attached](https://www.androidauthority.com/google-gemini-short-break-reminder-3635378/)
+ - [Chinese startup Moonshot updates its Kimi model, saying K2.5 can process text, images, and videos simultaneously and beats its open-source peers in some tests &lpar;Bloomberg&rpar;](http://www.techmeme.com/260127/p4#a260127p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
