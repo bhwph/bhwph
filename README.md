@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 27, #491](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-27-491/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-27/)
- - [California Gov. Gavin Newsom says he will launch a review into whether TikTok is violating state law by censoring content critical of President Donald Trump &lpar;Tyler Katzenberger/Politico&rpar;](http://www.techmeme.com/260126/p46#a260126p46)<!-- TECH:END -->
+ - [10% Dell Coupon Codes | January 2026](https://www.wired.com/story/dell-coupon-code/)
+ - [20% Off TurboTax Service Codes | January 2026](https://www.wired.com/story/turbotax-coupon/)
+ - [Samsung just launched a new Galaxy Z Flip 7 model you can’t &lpar;officially&rpar; buy](https://www.androidauthority.com/samsung-galaxy-z-flip-7-special-edition-3635346/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
