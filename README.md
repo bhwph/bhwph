@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Billionaire Tom Steyer, who is running for California governor, says he&#39;ll vote for the one-time 5% tax on billionaire wealth if it reaches the November ballot &lpar;Eliyahu Kamisher/Bloomberg&rpar;](http://www.techmeme.com/260126/p38#a260126p38)
- - [A group of YouTubers with a combined 6.2M subscribers adds Snap to a class action lawsuit, alleging the company trained its AI systems on their video content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260126/p37#a260126p37)
- - [Palantir Defends Work With ICE to Staff Following Killing of Alex Pretti](https://www.wired.com/story/palantir-ice-dhs-alex-pretti-killing-workers-slack-minneapolis/)<!-- TECH:END -->
+ - [The US Army signs a $5.6B, 10-year contract with Salesforce to speed up outdated practices; as part of the deal, military recruiters will get access to Slack &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260126/p45#a260126p45)
+ - [Audio-Technica ATH-R50x headphones review: Open-backed music to my ears](https://appleinsider.com/articles/26/01/27/audio-technica-ath-r50x-headphones-review-open-backed-music-to-my-ears?utm_source=rss)
+ - [YC updated its website to remove Canada from its list of approved jurisdictions for incorporation, leaving the US, Cayman Islands, and Singapore as options &lpar;Murad Hemmadi/The Logic&rpar;](http://www.techmeme.com/260126/p44#a260126p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
