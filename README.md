@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Choose](http://9gag.com/gag/azxyGAb)
- - 😝 [Makeup is a lie](http://9gag.com/gag/axyKve2)
- - 👉 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)<!-- MEMES:END -->
+ - 6️⃣ [Who will win?!](http://9gag.com/gag/aPALPqG)
+ - 😝 [The future is now old men](http://9gag.com/gag/adBAOdZ)
+ - 👉 [Makeup is a lie](http://9gag.com/gag/axyKve2)<!-- MEMES:END -->
 
 --- 
 
