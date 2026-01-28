@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of the strangest point &#39;n&#39; click adventures of the &#39;90s is getting a modern &#39;restoration&#39; for Steam, making it easily playable for the first time this century](https://www.pcgamer.com/games/adventure/one-of-the-strangest-point-n-click-adventures-of-the-90s-is-getting-a-modern-restoration-for-steam-making-it-easily-playable-for-the-first-time-this-century/)
- - [Baldur&#39;s Gate 3 mod restores more than 100 conversations and 1,000 lines of voiced dialogue from the early access version previously lost in the ethereal plane](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-mod-restores-more-than-100-conversations-and-1-000-lines-of-voiced-dialogue-from-the-early-access-version-previously-lost-in-the-ethereal-plane/)
- - [What&#39;s the next step in these adventure game puzzles?](https://www.pcgamer.com/games/adventure/whats-the-next-step-in-these-adventure-game-puzzles/)<!-- GAME:END -->
+ - [Bethesda&#39;s former Elder Scrolls loremaster won&#39;t tell us where The Elder Scrolls 6 is set, but the team originally agreed on it way back in the Fallout 4 days](https://www.pcgamer.com/games/the-elder-scrolls/bethesdas-former-elder-scrolls-loremaster-wont-tell-us-where-the-elder-scrolls-6-is-set-but-the-team-originally-agreed-on-it-way-back-in-the-fallout-4-days/)
+ - [If You Need a Mini Gaming PC Instead of the Mac Mini, This KAMRUI Hyper H2 Is 40% Off on Amazon](https://kotaku.com/if-you-need-a-mini-gaming-pc-instead-of-the-mac-mini-this-kamrui-hyper-h2-is-40-off-on-amazon-2000663599)
+ - [Arc Raiders&#39; snap hook just got another use case as The Burnt Peanut shows off a new movement tech that lets players fly through the sky](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-snap-hook-just-got-another-use-case-as-the-burnt-peanut-shows-off-a-new-movement-tech-that-lets-players-fly-through-the-sky/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
