@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok says the new US entity has not updated its algorithm since the joint venture was announced, after users accused it of suppressing posts related to ICE &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/260127/p51#a260127p51)
- - [Nova Launcher users are experiencing major bugs following ownership change](https://www.androidauthority.com/nova-launcher-update-bugs-3635708/)
- - [Texas Instruments reports Q4 revenue up 10% YoY to $4.42B, vs. $4.44B est., and forecasts Q1 revenue above estimates; TXN jumps 9%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/260127/p50#a260127p50)<!-- TECH:END -->
+ - [Internal documents from 2025: Microsoft expects its annual water consumption to reach 28B liters by 2030, up from 7.9B liters in 2020 and 10.4B liters in 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/260127/p56#a260127p56)
+ - [The crypto bill is falling apart in Congress](https://www.theverge.com/column/868941/clarity-act-congress-shutdown)
+ - [Paolo Ardoino says Tether now holds ~140 tons of gold, worth ~$23B, has been buying one to two tons a week, and plans to keep doing so for the next few months &lpar;Jack Ryan/Bloomberg&rpar;](http://www.techmeme.com/260127/p55#a260127p55)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
