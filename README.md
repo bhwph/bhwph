@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baseus’s 9-in-1 Docking Station Drops Over 40% Off to Compete With Anker Hub Deals](https://kotaku.com/baseuss-9-in-1-docking-station-drops-over-40-off-to-compete-with-anker-hub-deals-2000663649)
- - [PlayStation Plus Monthly Games for February: Undisputed, Subnautica: Below Zero, Ultros, Ace Combat 7: Skies Unknown](https://blog.playstation.com/2026/01/28/playstation-plus-monthly-games-for-february-undisputed-subnautica-below-zero-ultros-ace-combat-7-skies-unknown/)
- - [Netflix partners with Kyoto Animation for new steampunk anime Sparks of Tomorrow](https://www.polygon.com/netflix-kyoto-animation-sparks-of-tomorrow-trailer/)<!-- GAME:END -->
+ - [Scott Pilgrim EX Just Skyrocketed To The Top Of My Winter Game List](https://kotaku.com/scott-pilgrim-ex-release-date-trailer-2000663831)
+ - [GOG Caught Using AI-Generated Artwork](https://kotaku.com/gog-caught-using-ai-generated-artwork-2000663836)
+ - [Kingdom Come: Deliverance Will Get A Much Needed ‘Next-Gen’ Upgrade Eight Years Later](https://kotaku.com/kingdom-come-deliverance-ps5-upgrade-2000663837)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
