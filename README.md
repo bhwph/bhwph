@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scott Pilgrim EX Just Skyrocketed To The Top Of My Winter Game List](https://kotaku.com/scott-pilgrim-ex-release-date-trailer-2000663831)
- - [GOG Caught Using AI-Generated Artwork](https://kotaku.com/gog-caught-using-ai-generated-artwork-2000663836)
- - [Kingdom Come: Deliverance Will Get A Much Needed ‘Next-Gen’ Upgrade Eight Years Later](https://kotaku.com/kingdom-come-deliverance-ps5-upgrade-2000663837)<!-- GAME:END -->
+ - [Target Employee Shows In Real Time How Tech Prices Are Going Up, Up, Up](https://kotaku.com/target-employee-shows-pc-game-memory-part-price-increases-shortage-ram-ssd-2000663863)
+ - [&#39;On Deaf Ears&#39; quest walkthrough in Arc Raiders](https://www.polygon.com/arc-raiders-on-deaf-ears-quest-walkthrough/)
+ - [Nintendo Says No To Toxic Dong On Switch 2 As Dispatch Devs Confirm Censored Content](https://kotaku.com/nintendo-says-no-to-toxic-dong-on-switch-2-as-dispatch-devs-confirm-censored-content-2000663868)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
