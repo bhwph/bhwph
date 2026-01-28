@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bethesda&#39;s former Elder Scrolls loremaster won&#39;t tell us where The Elder Scrolls 6 is set, but the team originally agreed on it way back in the Fallout 4 days](https://www.pcgamer.com/games/the-elder-scrolls/bethesdas-former-elder-scrolls-loremaster-wont-tell-us-where-the-elder-scrolls-6-is-set-but-the-team-originally-agreed-on-it-way-back-in-the-fallout-4-days/)
- - [If You Need a Mini Gaming PC Instead of the Mac Mini, This KAMRUI Hyper H2 Is 40% Off on Amazon](https://kotaku.com/if-you-need-a-mini-gaming-pc-instead-of-the-mac-mini-this-kamrui-hyper-h2-is-40-off-on-amazon-2000663599)
- - [Arc Raiders&#39; snap hook just got another use case as The Burnt Peanut shows off a new movement tech that lets players fly through the sky](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-snap-hook-just-got-another-use-case-as-the-burnt-peanut-shows-off-a-new-movement-tech-that-lets-players-fly-through-the-sky/)<!-- GAME:END -->
+ - [Samsung Offloads Its Odyssey Gaming Monitor, the 27-Inch G5 G53F QHD Display Drops Below Black Friday Pricing](https://kotaku.com/samsung-offloads-its-odyssey-gaming-monitor-the-27-inch-g5-g53f-qhd-display-drops-below-black-friday-pricing-2000663646)
+ - [Don’t Stop GirlyPop Is A Wild-Looking Shooter That Isn’t Much Fun To Play](https://kotaku.com/dont-stop-girlypop-is-a-wild-looking-shooter-that-isnt-much-fun-to-play-2000663619)
+ - [Gran Turismo 7 Update 1.67 out today,  Online Qualifiers Jan 31](https://blog.playstation.com/2026/01/28/gran-turismo-7-update-1-67-out-today-online-qualifiers-jan-31/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
