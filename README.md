@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some US college students say they are using AI &quot;humanizer&quot; tools to alter text to avoid cheating accusations; AI detection tools now aim to catch &quot;humanizers&quot; &lpar;Tyler Kingkade/NBC News&rpar;](http://www.techmeme.com/260128/p25#a260128p25)
- - [Survey says thousands of users still waiting for the Pixel January 2026 update](https://www.androidauthority.com/pixel-january-2026-update-poll-results-3635904/)
- - [6 Best VPN Services &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vpn/)<!-- TECH:END -->
+ - [Apple Creator Studio review: Incredible value for most creative pros](https://appleinsider.com/articles/26/01/28/apple-creator-studio-review-incredible-value-for-most-creative-pros?utm_source=rss)
+ - [Battery recycling and cathode production startup Redwood expands its Series E to $425M, sources say at a $6B valuation, adds Google as a new strategic investor &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/260128/p32#a260128p32)
+ - [Spotify paid out $11B+ to the music industry in 2025, up 10% YoY, bringing its all-time payments to $70B, and now accounts for ~30% of recorded music revenue &lpar;Ethan Millman/The Hollywood Reporter&rpar;](http://www.techmeme.com/260128/p31#a260128p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
