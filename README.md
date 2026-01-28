@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone 4a Pro leak suggests improved IP rating, and that’s good news](https://www.androidauthority.com/nothing-phone-4a-pro-ip-rating-battery-leak-3635817/)
- - [A look at &quot;neolabs&quot; such as Safe Superintelligence and Humans&amp;, which give priority to long-term AI R&amp;D over immediate profits; dozens have become unicorns &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260128/p9#a260128p9)
- - [Are you excited or worried about Android 17’s blurry future?](https://www.androidauthority.com/android-17-blur-open-thread-3635820/)<!-- TECH:END -->
+ - [A critique of a large UK social media study that suggested measures like social media bans are unlikely to have an effect on teens&#39; long term mental health &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260128/p16#a260128p16)
+ - [Android updates explained: Betas, Canary builds, and what you should use](https://www.androidauthority.com/android-release-cycle-explained-3633955/)
+ - [The One Thing You Need to Toggle Before You Move Money Between Venmo and PayPal](https://www.cnet.com/tech/services-and-software/before-you-use-venmo-and-paypals-new-transfer-feature-change-this-one-setting/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
