@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal documents from 2025: Microsoft expects its annual water consumption to reach 28B liters by 2030, up from 7.9B liters in 2020 and 10.4B liters in 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/260127/p56#a260127p56)
- - [The crypto bill is falling apart in Congress](https://www.theverge.com/column/868941/clarity-act-congress-shutdown)
- - [Paolo Ardoino says Tether now holds ~140 tons of gold, worth ~$23B, has been buying one to two tons a week, and plans to keep doing so for the next few months &lpar;Jack Ryan/Bloomberg&rpar;](http://www.techmeme.com/260127/p55#a260127p55)<!-- TECH:END -->
+ - [Apple CEO Tim Cook &#39;heartbroken&#39; after repeated ICE killings in Minneapolis](https://appleinsider.com/articles/26/01/28/apple-ceo-tim-cook-heartbroken-after-repeated-ice-killings-in-minneapolis?utm_source=rss)
+ - [Samsung is no longer being subtle about its next big display trick](https://www.androidauthority.com/samsung-galaxy-privacy-layer-3635785/)
+ - [&#39;Pluribus&#39; leads Apple TV Writers Guild Awards with 4 of 9 nominations](https://appleinsider.com/articles/26/01/28/pluribus-leads-apple-tv-writers-guild-awards-with-4-of-9-nominations?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
