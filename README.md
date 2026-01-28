@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My son gets his game from the best teachers](http://9gag.com/gag/a34gWyQ)
- - 😝 [Unlocked every achievement except \u2018decent human\u2019](http://9gag.com/gag/aXP32K6)
- - 👉 [These sodium street lights giving me pure nostalgia](http://9gag.com/gag/axyKRpW)<!-- MEMES:END -->
+ - 6️⃣ [So\u2026 about that joke!](http://9gag.com/gag/avyqRxX)
+ - 😝 [CATL, the world&#39;s largest battery maker, launches sodium batteries: extremely durable, stable at \u201340\u00b0C, much cheaper than lithium &lpar;5x&rpar;, safer,10,000 charge cycles, requires no nickel or cobalt...](http://9gag.com/gag/ae9zmzj)
+ - 👉 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)<!-- MEMES:END -->
 
 --- 
 
