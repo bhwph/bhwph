@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [So\u2026 about that joke!](http://9gag.com/gag/avyqRxX)
- - 😝 [Carbonara](http://9gag.com/gag/aByzXYO)
- - 👉 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)<!-- MEMES:END -->
+ - 6️⃣ [Just a casual day of rock climbing until a bear decides to join the party](http://9gag.com/gag/aAyAXKE)
+ - 😝 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
+ - 👉 [Carbonara](http://9gag.com/gag/aByzXYO)<!-- MEMES:END -->
 
 --- 
 
