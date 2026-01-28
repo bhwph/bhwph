@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google disables Take a Message on some Pixel phones to protect your privacy](https://www.androidauthority.com/google-disables-take-a-message-pixel-4-5-3636122/)
- - [Fidelity Investments announces its own stablecoin, the Fidelity Digital Dollar, or FIDD, available to institutional and retail clients in the coming weeks &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/260128/p46#a260128p46)
- - [Here&#39;s the Company That Sold DHS ICE&#39;s Notorious Face Recognition App](https://www.wired.com/story/mobile-fortify-face-recognition-nec-ice-cbp/)<!-- TECH:END -->
+ - [Price war: Save $300 on 16-inch MacBook Pro with 48GB RAM](https://appleinsider.com/articles/26/01/28/price-war-save-300-on-16-inch-macbook-pro-with-48gb-ram?utm_source=rss)
+ - [Microsoft reports Azure Q2 revenue up 39% YoY, vs. 38.8% est.; Microsoft cloud&#39;s contracted backlog grew 110% to $625B, ~45% of which was driven by OpenAI alone &lpar;Reuters&rpar;](http://www.techmeme.com/260128/p57#a260128p57)
+ - [PaleBlueDot, which operates a GPU capacity marketplace and designs GPU clusters for enterprises, raised a $150M Series B led by B Capital at a $1B+ valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/260128/p56#a260128p56)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
