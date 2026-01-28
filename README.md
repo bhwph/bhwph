@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Batman: Arkham Parody Perfectly Captures The Horror And Absurdity Of Living In Gotham](https://kotaku.com/batman-arkham-parody-perfectly-captures-the-horror-and-absurdity-of-living-in-gotham-2000663597)
- - [Baldur&#39;s Gate 3 modder adds legally distinct Poké Balls so you can &#39;capture non-player characters inside a ball and free them later &lpar;or don&#39;t&rpar;&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-modder-adds-legally-distinct-poke-balls-so-you-can-capture-non-player-characters-inside-a-ball-and-free-them-later-or-dont/)
- - [All Tap Simulator codes for January 2026: Tokens, potions, and crystals](https://www.pcgamer.com/roblox/tap-simulator-codes/)<!-- GAME:END -->
+ - [The game that coined the term &#39;visual novel&#39; just got its first-ever fan translation for its 30th anniversary](https://www.pcgamer.com/games/visual-novel/the-game-that-coined-the-term-visual-novel-just-got-its-first-ever-fan-translation-for-its-30th-anniversary/)
+ - [Terraria&#39;s ginormous, 3 years in the making 1.4.5 update is live—a full 15 years after the game was deemed finished](https://www.pcgamer.com/games/survival-crafting/terrarias-ginormous-3-years-in-the-making-1-4-5-update-is-live-a-full-15-years-after-the-game-was-deemed-finished/)
+ - [Trains are taking over the survival genre: there are a half-dozen survival base-builders on rails coming in 2026](https://www.pcgamer.com/games/survival-crafting/trains-are-taking-over-the-survival-genre-there-are-a-half-dozen-survival-base-builders-on-rails-coming-in-2026/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
