@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lovehoney Discount Codes and Deals: Up to 70% Off](https://www.wired.com/story/lovehoney-discount-code/)
- - [Sources: Hugging Face declined Nvidia&#39;s $500M investment offer at a $7B valuation in late 2025; Hugging Face says it does not want a single dominant investor &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260128/p5#a260128p5)
- - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)<!-- TECH:END -->
+ - [Nothing Phone 4a Pro leak suggests improved IP rating, and that’s good news](https://www.androidauthority.com/nothing-phone-4a-pro-ip-rating-battery-leak-3635817/)
+ - [A look at &quot;neolabs&quot; such as Safe Superintelligence and Humans&amp;, which give priority to long-term AI R&amp;D over immediate profits; dozens have become unicorns &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260128/p9#a260128p9)
+ - [Are you excited or worried about Android 17’s blurry future?](https://www.androidauthority.com/android-17-blur-open-thread-3635820/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
