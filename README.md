@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Having trouble with Google Home automations? You’re not alone](https://www.androidauthority.com/google-home-scripted-automations-broken-3636001/)
- - [British crime thriller &#39;Criminal Record&#39; warrants a return to Apple TV in April](https://appleinsider.com/articles/26/01/28/british-crime-thriller-criminal-record-warrants-a-return-to-apple-tv-in-april?utm_source=rss)
- - [Apple CEO Tim Cook &#39;heartbroken&#39; after repeated ICE killings in Minneapolis](https://appleinsider.com/articles/26/01/28/apple-ceo-tim-cook-heartbroken-after-repeated-ice-killings-in-minneapolis?utm_source=rss)<!-- TECH:END -->
+ - [Galaxy Buds 4 price leak could be a good sign for the US](https://www.androidauthority.com/galaxy-buds-4-eu-prices-3636037/)
+ - [Spotify says it paid out $11 billion in royalties in 2025](https://www.theverge.com/news/869523/spotify-11-billion-in-royalties)
+ - [Circle to Search may be about to change how you experience its output](https://www.androidauthority.com/circle-search-ai-mode-3636023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
