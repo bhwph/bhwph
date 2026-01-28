@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung Offloads Its Odyssey Gaming Monitor, the 27-Inch G5 G53F QHD Display Drops Below Black Friday Pricing](https://kotaku.com/samsung-offloads-its-odyssey-gaming-monitor-the-27-inch-g5-g53f-qhd-display-drops-below-black-friday-pricing-2000663646)
- - [Don’t Stop GirlyPop Is A Wild-Looking Shooter That Isn’t Much Fun To Play](https://kotaku.com/dont-stop-girlypop-is-a-wild-looking-shooter-that-isnt-much-fun-to-play-2000663619)
- - [Gran Turismo 7 Update 1.67 out today,  Online Qualifiers Jan 31](https://blog.playstation.com/2026/01/28/gran-turismo-7-update-1-67-out-today-online-qualifiers-jan-31/)<!-- GAME:END -->
+ - [Baseus’s 9-in-1 Docking Station Drops Over 40% Off to Compete With Anker Hub Deals](https://kotaku.com/baseuss-9-in-1-docking-station-drops-over-40-off-to-compete-with-anker-hub-deals-2000663649)
+ - [PlayStation Plus Monthly Games for February: Undisputed, Subnautica: Below Zero, Ultros, Ace Combat 7: Skies Unknown](https://blog.playstation.com/2026/01/28/playstation-plus-monthly-games-for-february-undisputed-subnautica-below-zero-ultros-ace-combat-7-skies-unknown/)
+ - [Netflix partners with Kyoto Animation for new steampunk anime Sparks of Tomorrow](https://www.polygon.com/netflix-kyoto-animation-sparks-of-tomorrow-trailer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
