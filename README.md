@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Creator Studio review: Incredible value for most creative pros](https://appleinsider.com/articles/26/01/28/apple-creator-studio-review-incredible-value-for-most-creative-pros?utm_source=rss)
- - [Battery recycling and cathode production startup Redwood expands its Series E to $425M, sources say at a $6B valuation, adds Google as a new strategic investor &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/260128/p32#a260128p32)
- - [Spotify paid out $11B+ to the music industry in 2025, up 10% YoY, bringing its all-time payments to $70B, and now accounts for ~30% of recorded music revenue &lpar;Ethan Millman/The Hollywood Reporter&rpar;](http://www.techmeme.com/260128/p31#a260128p31)<!-- TECH:END -->
+ - [Having trouble with Google Home automations? You’re not alone](https://www.androidauthority.com/google-home-scripted-automations-broken-3636001/)
+ - [British crime thriller &#39;Criminal Record&#39; warrants a return to Apple TV in April](https://appleinsider.com/articles/26/01/28/british-crime-thriller-criminal-record-warrants-a-return-to-apple-tv-in-april?utm_source=rss)
+ - [Apple CEO Tim Cook &#39;heartbroken&#39; after repeated ICE killings in Minneapolis](https://appleinsider.com/articles/26/01/28/apple-ceo-tim-cook-heartbroken-after-repeated-ice-killings-in-minneapolis?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
