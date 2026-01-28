@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Buds 4 price leak could be a good sign for the US](https://www.androidauthority.com/galaxy-buds-4-eu-prices-3636037/)
- - [Spotify says it paid out $11 billion in royalties in 2025](https://www.theverge.com/news/869523/spotify-11-billion-in-royalties)
- - [Circle to Search may be about to change how you experience its output](https://www.androidauthority.com/circle-search-ai-mode-3636023/)<!-- TECH:END -->
+ - [Google disables Take a Message on some Pixel phones to protect your privacy](https://www.androidauthority.com/google-disables-take-a-message-pixel-4-5-3636122/)
+ - [Fidelity Investments announces its own stablecoin, the Fidelity Digital Dollar, or FIDD, available to institutional and retail clients in the coming weeks &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/260128/p46#a260128p46)
+ - [Here&#39;s the Company That Sold DHS ICE&#39;s Notorious Face Recognition App](https://www.wired.com/story/mobile-fortify-face-recognition-nec-ice-cbp/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
