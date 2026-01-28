@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sleep well](http://9gag.com/gag/aByzEP1)
- - 😝 [Bravo.](http://9gag.com/gag/a9yw21m)
- - 👉 [FAFO](http://9gag.com/gag/aryEqqp)<!-- MEMES:END -->
+ - 6️⃣ [Carbonara](http://9gag.com/gag/aByzXYO)
+ - 😝 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)
+ - 👉 [It&#39;s Only 10%](http://9gag.com/gag/aW4ybr3)<!-- MEMES:END -->
 
 --- 
 
