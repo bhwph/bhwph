@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A critique of a large UK social media study that suggested measures like social media bans are unlikely to have an effect on teens&#39; long term mental health &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260128/p16#a260128p16)
- - [Android updates explained: Betas, Canary builds, and what you should use](https://www.androidauthority.com/android-release-cycle-explained-3633955/)
- - [The One Thing You Need to Toggle Before You Move Money Between Venmo and PayPal](https://www.cnet.com/tech/services-and-software/before-you-use-venmo-and-paypals-new-transfer-feature-change-this-one-setting/)<!-- TECH:END -->
+ - [Some US college students say they are using AI &quot;humanizer&quot; tools to alter text to avoid cheating accusations; AI detection tools now aim to catch &quot;humanizers&quot; &lpar;Tyler Kingkade/NBC News&rpar;](http://www.techmeme.com/260128/p25#a260128p25)
+ - [Survey says thousands of users still waiting for the Pixel January 2026 update](https://www.androidauthority.com/pixel-january-2026-update-poll-results-3635904/)
+ - [6 Best VPN Services &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vpn/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
