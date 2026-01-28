@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nerds](http://9gag.com/gag/apR7bXB)
- - 😝 [What should it be called.... Wrong Answers only](http://9gag.com/gag/aW4yb74)
+ - 6️⃣ [What should it be called.... Wrong Answers only](http://9gag.com/gag/aW4yb74)
+ - 😝 [It&#39;s Only 10%](http://9gag.com/gag/aW4ybr3)
  - 👉 [That will be a great 1.5 years journey!](http://9gag.com/gag/a34g8R8)<!-- MEMES:END -->
 
 --- 
