@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon partners with Harris Farm to offer fresh food delivery in Australia for the first time, starting in inner Sydney, free for Prime members on AU$100 orders &lpar;Carrie LaFrenz/Australian Financial Review&rpar;](http://www.techmeme.com/260127/p60#a260127p60)
- - [Apple CEO Tim Cook &#39;heartbroken&#39; after repeated ICE killings in Minneapolis](https://appleinsider.com/articles/26/01/28/apple-ceo-tim-cook-heartbroken-after-repeated-ice-killings-in-minneapolis?utm_source=rss)
- - [Sources: Anthropic raises its revenue forecasts to $18B in 2026, $55B in 2027, and $148B in 2029, delaying its cash flow positive expectations by a year to 2028 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260127/p59#a260127p59)<!-- TECH:END -->
+ - [Lovehoney Discount Codes and Deals: Up to 70% Off](https://www.wired.com/story/lovehoney-discount-code/)
+ - [Sources: Hugging Face declined Nvidia&#39;s $500M investment offer at a $7B valuation in late 2025; Hugging Face says it does not want a single dominant investor &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260128/p5#a260128p5)
+ - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
