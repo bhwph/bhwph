@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ouch. My. Face.](http://9gag.com/gag/ayNrYoM)
- - 😝 [Brings back memories. Great bus driver and kids](http://9gag.com/gag/ayNrYnX)
- - 👉 [These vintage Aerolux bulbs are absolutely stunning, especially that rare purple one. Who knew light bulbs could be this beautiful](http://9gag.com/gag/awyj4dD)<!-- MEMES:END -->
+ - 6️⃣ [Marble clock](http://9gag.com/gag/ayNrYOY)
+ - 😝 [These vintage Aerolux bulbs are absolutely stunning, especially that rare purple one. Who knew light bulbs could be this beautiful](http://9gag.com/gag/awyj4dD)
+ - 👉 [Brings back memories. Great bus driver and kids](http://9gag.com/gag/ayNrYnX)<!-- MEMES:END -->
 
 --- 
 
