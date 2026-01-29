@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android brands keeps copying iOS 26, and I hate it](https://www.androidauthority.com/i-hate-ios-copycats-3635269/)
- - [Best gas masks](https://www.theverge.com/policy/868571/best-gas-masks)
- - [PopSockets added a wallet to its folding kickstand grip](https://www.theverge.com/news/869304/popsockets-kick-out-popwallet-grip-magsafe-iphone-pixelsnap)<!-- TECH:END -->
+ - [Google Maps expands its Gemini upgrade to walking and cycling navigation](https://www.androidauthority.com/google-maps-gemini-walking-3636079/)
+ - [Google agrees to $135 million settlement for collecting Android users’ data](https://www.theverge.com/tech/870056/google-cellular-data-lawsuit-settlement)
+ - [Waymo says a robotaxi struck a child at 6MPH near an elementary school in Santa Monica on January 23, resulting in minor injuries; the NHTSA opens a probe &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260129/p27#a260129p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
