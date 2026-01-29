@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the Kung Fu Panda movies are good family films, but Kung Fu Panda 3 is made especially for dads](https://www.polygon.com/kung-fu-panda-3-anniversary-dads/)
- - [Fallout Season 1 Is Completely Free To Watch On YouTube, But Only If You’re Quick](https://kotaku.com/fallout-season-1-free-to-watch-youtube-prime-2000664098)
- - [Ubisoft is now memeing about Black Flag remake leaks, which is a change from threatening to sue its lead actor over them](https://www.pcgamer.com/games/assassins-creed/ubisoft-is-now-memeing-about-black-flag-remake-leaks-which-is-a-change-from-threatening-to-sue-its-lead-actor-over-them/)<!-- GAME:END -->
+ - [Anker 10,000mAh MagGo Power Bank Drops to a Price So Low That Stock Can’t Keep Up](https://kotaku.com/anker-10000mah-maggo-power-bank-drops-to-a-price-so-low-that-stock-cant-keep-up-2000663964)
+ - [Fans Hate Switch 2 Game Key Cards But A New Survey Suggests They’re Buying Them Anyway](https://kotaku.com/switch-2-game-key-cards-size-nintend-2000664117)
+ - [8 Things We Learned From Nintendo’s Tomodachi Life: Living The Dream Direct](https://kotaku.com/tomodachi-life-living-the-dream-direct-nintendo-2000664120)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
