@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We can fix the internet&#39; says Tim Berners-Lee—just don&#39;t ask what he thinks about AI](https://www.pcgamer.com/software/ai/we-can-fix-the-internet-says-tim-berners-lee-just-dont-ask-what-he-thinks-about-ai/)
- - [Here&#39;s when Code Vein 2 launches in your timezone](https://www.pcgamer.com/games/rpg/code-vein-2-launch-time-release-date/)
- - [Nioh 3 just got a Steam demo, and given Team Ninja&#39;s history I&#39;m surprised how well it runs on my aging rig](https://www.pcgamer.com/games/action/nioh-3-just-got-a-steam-demo-and-given-team-ninjas-history-im-surprised-how-well-it-runs-on-my-aging-rig/)<!-- GAME:END -->
+ - [All the Kung Fu Panda movies are good family films, but Kung Fu Panda 3 is made especially for dads](https://www.polygon.com/kung-fu-panda-3-anniversary-dads/)
+ - [Fallout Season 1 Is Completely Free To Watch On YouTube, But Only If You’re Quick](https://kotaku.com/fallout-season-1-free-to-watch-youtube-prime-2000664098)
+ - [Ubisoft is now memeing about Black Flag remake leaks, which is a change from threatening to sue its lead actor over them](https://www.pcgamer.com/games/assassins-creed/ubisoft-is-now-memeing-about-black-flag-remake-leaks-which-is-a-change-from-threatening-to-sue-its-lead-actor-over-them/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
