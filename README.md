@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung just gave Galaxy XR owners one more reason to never take off their headset](https://www.androidauthority.com/galaxy-xr-smartthings-app-3636434/)
- - [Check out the new Pixel Buds 2a colors that may debut with the Pixel 10a](https://www.androidauthority.com/pixel-buds-2a-colors-3636428/)
- - [Linux gaming developers join forces to form the Open Gaming Collective](https://www.theverge.com/tech/870159/linux-gaming-open-gaming-collective-bazzite)<!-- TECH:END -->
+ - [Source: SpaceX and xAI are in talks to merge ahead of a planned IPO this year; under the proposed deal, shares of xAI would be exchanged for shares in SpaceX &lpar;Reuters&rpar;](http://www.techmeme.com/260129/p39#a260129p39)
+ - [Appfigures: Sora&#39;s app downloads dropped 32% month-over-month in December and 45% in January to 1.2M; consumer spending on the app fell 32% MoM as of January &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260129/p38#a260129p38)
+ - [Gemini can’t stop talking to itself on Android Auto](https://www.androidauthority.com/android-auto-gemini-conversation-loop-3636502/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
