@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it took legal action to take down dozens of domains and disrupt the residential proxy network of Chinese company Ipidea, widely used by bad actors &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/260128/p66#a260128p66)
- - [SK Hynix announces a new US-based &quot;AI Company&quot; from a restructuring of its California-based subsidiary Solidigm, and commits at least $10B to the new entity &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260128/p65#a260128p65)
- - [In Meta&#39;s Q4 earnings call, Mark Zuckerberg says it plans to start shipping new models and products throughout 2026 and hints at &quot;agentic shopping tools&quot; &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260128/p64#a260128p64)<!-- TECH:END -->
+ - [Job listings show that DeepSeek hopes to broaden its AI offerings with a search engine capable of supporting multiple languages and more emphasis on agents &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260128/p73#a260128p73)
+ - [Samsung reveals its 2026 smartphone roadmap, starting with the Galaxy S26 series](https://www.androidauthority.com/samsung-2026-smartphone-roadmap-3636205/)
+ - [US-based AI startup Arcee releases Trinity Large, a 400B-parameter open-weight model that it says compares to Meta&#39;s Llama 4 Maverick 400B on some benchmarks &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260128/p72#a260128p72)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
