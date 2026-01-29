@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Job listings show that DeepSeek hopes to broaden its AI offerings with a search engine capable of supporting multiple languages and more emphasis on agents &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260128/p73#a260128p73)
- - [Samsung reveals its 2026 smartphone roadmap, starting with the Galaxy S26 series](https://www.androidauthority.com/samsung-2026-smartphone-roadmap-3636205/)
- - [US-based AI startup Arcee releases Trinity Large, a 400B-parameter open-weight model that it says compares to Meta&#39;s Llama 4 Maverick 400B on some benchmarks &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260128/p72#a260128p72)<!-- TECH:END -->
+ - [A federal judge in Virginia ruled that Norfolk&#39;s use of ~200 Flock automated license plate scanners is constitutional and doesn&#39;t violate the Fourth Amendment &lpar;Cyrus Farivar/Ars Technica&rpar;](http://www.techmeme.com/260129/p5#a260129p5)
+ - [Advantest shares hit a record high after the chip equipment maker beat Q3 earnings estimates and raised its FY operating profit forecast from $2.45B to $2.97B &lpar;Momoka Yokoyama/Bloomberg&rpar;](http://www.techmeme.com/260129/p4#a260129p4)
+ - [These new phones bring impressive durability, huge batteries, and offline voice chat up to 1km](https://www.androidauthority.com/xiaomi-redmi-note-15-pro-plus-5g-3635943/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
