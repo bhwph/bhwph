@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
- - 😝 [Carbonara](http://9gag.com/gag/aByzXYO)
+ - 6️⃣ [I newt it](http://9gag.com/gag/a1mgErG)
+ - 😝 [Can someone please help bro?!](http://9gag.com/gag/a5QgjXy)
  - 👉 [This is what this world needs boys](http://9gag.com/gag/avyqd8X)<!-- MEMES:END -->
 
 --- 
