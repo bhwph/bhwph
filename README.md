@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [POLSKA knows something bad is coming](http://9gag.com/gag/aXP3KgP)
- - 😝 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
- - 👉 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)<!-- MEMES:END -->
+ - 6️⃣ [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
+ - 😝 [When she laughs](http://9gag.com/gag/apR7V9E)
+ - 👉 [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)<!-- MEMES:END -->
 
 --- 
 
