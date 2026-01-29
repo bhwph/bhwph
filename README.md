@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anker 10,000mAh MagGo Power Bank Drops to a Price So Low That Stock Can’t Keep Up](https://kotaku.com/anker-10000mah-maggo-power-bank-drops-to-a-price-so-low-that-stock-cant-keep-up-2000663964)
- - [Fans Hate Switch 2 Game Key Cards But A New Survey Suggests They’re Buying Them Anyway](https://kotaku.com/switch-2-game-key-cards-size-nintend-2000664117)
- - [8 Things We Learned From Nintendo’s Tomodachi Life: Living The Dream Direct](https://kotaku.com/tomodachi-life-living-the-dream-direct-nintendo-2000664120)<!-- GAME:END -->
+ - [Henry Cavill&#39;s first look in Highlander reboot revealed](https://www.polygon.com/henry-cavill-highlander-remake-first-look/)
+ - [&#39;I shouldn’t have announced the game so early,&#39; Eric Barone admits about Haunted Chocolatier, says he had his reasons for doing so but then doesn&#39;t tell us what they were: &#39;The only thing that really matters is that I keep making progress on the game&#39;](https://www.pcgamer.com/games/life-sim/i-shouldnt-have-announced-the-game-so-early-eric-barone-admits-about-haunted-chocolatier-says-he-had-his-reasons-for-doing-so-but-then-doesnt-tell-us-what-they-were-the-only-thing-that-really-matters-is-that-i-keep-making-progress-on-the-game/)
+ - [Nintendo Is Going To Make It Really Hard To Share Screenshots In Tomodachi Life: Living the Dream](https://kotaku.com/tomodachi-life-living-the-dream-direct-image-sharing-screenshot-block-2000664167)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
