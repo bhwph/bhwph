@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Marble clock](http://9gag.com/gag/ayNrYOY)
- - 😝 [These vintage Aerolux bulbs are absolutely stunning, especially that rare purple one. Who knew light bulbs could be this beautiful](http://9gag.com/gag/awyj4dD)
- - 👉 [Brings back memories. Great bus driver and kids](http://9gag.com/gag/ayNrYnX)<!-- MEMES:END -->
+ - 6️⃣ [Modern problems require modern solutions](http://9gag.com/gag/aZZXz5X)
+ - 😝 [Can someone please help bro?!](http://9gag.com/gag/a5QgjXy)
+ - 👉 [Imagine having the best Franchise and still gets bankrupt....](http://9gag.com/gag/a7ogN2w)<!-- MEMES:END -->
 
 --- 
 
