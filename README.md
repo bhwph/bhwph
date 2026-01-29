@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I newt it](http://9gag.com/gag/a1mgErG)
- - 😝 [Can someone please help bro?!](http://9gag.com/gag/a5QgjXy)
- - 👉 [This is what this world needs boys](http://9gag.com/gag/avyqd8X)<!-- MEMES:END -->
+ - 6️⃣ [Eyes are bigger than your stomach](http://9gag.com/gag/aXP3WBb)
+ - 😝 [Carbonara](http://9gag.com/gag/aByzXYO)
+ - 👉 [Imagine having the best Franchise and still gets bankrupt....](http://9gag.com/gag/a7ogN2w)<!-- MEMES:END -->
 
 --- 
 
