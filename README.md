@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Target Employee Shows In Real Time How Tech Prices Are Going Up, Up, Up](https://kotaku.com/target-employee-shows-pc-game-memory-part-price-increases-shortage-ram-ssd-2000663863)
- - [&#39;On Deaf Ears&#39; quest walkthrough in Arc Raiders](https://www.polygon.com/arc-raiders-on-deaf-ears-quest-walkthrough/)
- - [Nintendo Says No To Toxic Dong On Switch 2 As Dispatch Devs Confirm Censored Content](https://kotaku.com/nintendo-says-no-to-toxic-dong-on-switch-2-as-dispatch-devs-confirm-censored-content-2000663868)<!-- GAME:END -->
+ - [Atom Zombie Smasher, a 15-year-old game, just got updated out of the blue on Steam](https://www.pcgamer.com/games/strategy/atom-zombie-smasher-a-15-year-old-game-just-got-updated-out-of-the-blue-on-steam/)
+ - [BabyTuber Thumbnails Are The Best](https://kotaku.com/baby-youtuber-gaming-thumbnails-2000663918)
+ - [The Fallout series finally let us meet a character who&#39;s been part of the lore for more than 25 years](https://www.pcgamer.com/movies-tv/the-fallout-series-finally-let-us-meet-a-character-whos-been-part-of-the-lore-for-more-than-25-years/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
