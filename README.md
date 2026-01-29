@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grubhub plans to remove delivery and service fees on restaurant orders over $50 starting Feb. 2; Grubhub&#39;s US market share fell to ~4% in 2025 from 10% in 2023 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260129/p42#a260129p42)
- - [Save a whopping $553 on the awesome LG Smart Monitor Swing](https://www.androidauthority.com/lg-smart-monitor-swing-deal-2-3636519/)
- - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)<!-- TECH:END -->
+ - [&#39;Encrypt it already&#39; campaign challenges big tech to keep your data secure](https://appleinsider.com/articles/26/01/29/encrypt-it-already-campaign-challenges-big-tech-to-keep-your-data-secure?utm_source=rss)
+ - [iPhone 17 Pro array will be used in a new offside camera system](https://appleinsider.com/articles/26/01/29/iphone-17-pro-array-will-be-used-in-a-new-offside-camera-system?utm_source=rss)
+ - [‘Uncanny Valley’: Minneapolis Misinformation, TikTok’s New Owners, and Moltbot Hype](https://www.wired.com/story/uncanny-valley-podcast-ice-minneapolis-tiktok-moltbot/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
