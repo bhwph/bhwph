@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Modern problems require modern solutions](http://9gag.com/gag/aZZXz5X)
- - 😝 [Can someone please help bro?!](http://9gag.com/gag/a5QgjXy)
- - 👉 [Imagine having the best Franchise and still gets bankrupt....](http://9gag.com/gag/a7ogN2w)<!-- MEMES:END -->
+ - 6️⃣ [We could call it...Good Australia](http://9gag.com/gag/ae9z2dW)
+ - 😝 [Damned door](http://9gag.com/gag/azxyYym)
+ - 👉 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)<!-- MEMES:END -->
 
 --- 
 
