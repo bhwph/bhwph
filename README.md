@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A federal judge in Virginia ruled that Norfolk&#39;s use of ~200 Flock automated license plate scanners is constitutional and doesn&#39;t violate the Fourth Amendment &lpar;Cyrus Farivar/Ars Technica&rpar;](http://www.techmeme.com/260129/p5#a260129p5)
- - [Advantest shares hit a record high after the chip equipment maker beat Q3 earnings estimates and raised its FY operating profit forecast from $2.45B to $2.97B &lpar;Momoka Yokoyama/Bloomberg&rpar;](http://www.techmeme.com/260129/p4#a260129p4)
- - [These new phones bring impressive durability, huge batteries, and offline voice chat up to 1km](https://www.androidauthority.com/xiaomi-redmi-note-15-pro-plus-5g-3635943/)<!-- TECH:END -->
+ - [The US construction industry is adopting AI tools to improve project management and support site managers and foremen; IDC says 60% of firms use some form of AI &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/260129/p8#a260129p8)
+ - [A look at Amazon&#39;s and Walmart&#39;s differing approaches to agentic AI shopping; Similarweb: Walmart doubled its share of AI referrals in the US to 32.5% in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260129/p7#a260129p7)
+ - [Google takes down massive shady network that was secretly running on millions of Android phones](https://www.androidauthority.com/google-ipidea-takedown-3636232/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
