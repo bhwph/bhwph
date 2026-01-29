@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [CATL, the world&#39;s largest battery maker, launches sodium batteries: extremely durable, stable at \u201340\u00b0C, much cheaper than lithium &lpar;5x&rpar;, safer,10,000 charge cycles, requires no nickel or cobalt...](http://9gag.com/gag/ae9zmzj)
- - 😝 [It&#39;s Only 10%](http://9gag.com/gag/aW4ybr3)
- - 👉 [T\u00dcRKEI is Turkey is garbage](http://9gag.com/gag/avyqdQO)<!-- MEMES:END -->
+ - 6️⃣ [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
+ - 😝 [Carbonara](http://9gag.com/gag/aByzXYO)
+ - 👉 [This is what this world needs boys](http://9gag.com/gag/avyqd8X)<!-- MEMES:END -->
 
 --- 
 
