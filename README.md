@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried UpScrolled to escape TikTok’s new terms, but I just found a lot of Keanu Reeves instead](https://www.androidauthority.com/upscrolled-tiktok-alternative-hands-on-3636088/)
- - [SAP reports Q4 revenue up 3% YoY to €9.68B, adjusted operating profit up 27% YoY to €2.83B, and forecasts 2026 cloud revenue to grow at least 23% YoY to €25.8B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260129/p11#a260129p11)
- - [Airtable unveils Superagent, a service that can deploy AI agents in parallel for tasks like market analysis, its first standalone product in its 13-year history &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/260129/p10#a260129p10)<!-- TECH:END -->
+ - [Android brands keeps copying iOS 26, and I hate it](https://www.androidauthority.com/i-hate-ios-copycats-3635269/)
+ - [Best gas masks](https://www.theverge.com/policy/868571/best-gas-masks)
+ - [PopSockets added a wallet to its folding kickstand grip](https://www.theverge.com/news/869304/popsockets-kick-out-popwallet-grip-magsafe-iphone-pixelsnap)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
