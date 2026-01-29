@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Eyes are bigger than your stomach](http://9gag.com/gag/aXP3WBb)
- - 😝 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
- - 👉 [CATL, the world&#39;s largest battery maker, launches sodium batteries: extremely durable, stable at \u201340\u00b0C, much cheaper than lithium &lpar;5x&rpar;, safer,10,000 charge cycles, requires no nickel or cobalt...](http://9gag.com/gag/ae9zmzj)<!-- MEMES:END -->
+ - 6️⃣ [Ouch. My. Face.](http://9gag.com/gag/ayNrYoM)
+ - 😝 [Brings back memories. Great bus driver and kids](http://9gag.com/gag/ayNrYnX)
+ - 👉 [These vintage Aerolux bulbs are absolutely stunning, especially that rare purple one. Who knew light bulbs could be this beautiful](http://9gag.com/gag/awyj4dD)<!-- MEMES:END -->
 
 --- 
 
