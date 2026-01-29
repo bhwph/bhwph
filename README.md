@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Highguard’s First Patch Brings Much-Requested Fixes, But PC Optimization Is Still Being Worked On](https://kotaku.com/highguards-patch-note-fov-ps5-crash-pc-optimization-2000664201)
- - [Where to find potato bugs in Grounded 2](https://www.polygon.com/grounded-2-potato-bug-locations-where-to-find/)
- - [Call of Duty: Black Ops 7 and Call of Duty: Warzone Season 02 Content Drop: All You Need to Know](https://www.callofduty.com/blog/2026/01/call-of-duty-black-ops-7-warzone-zombies-season-02-announcement#new_tab)<!-- GAME:END -->
+ - [Darren Aronofsky’s AI Movie Is As Bad As It Sounds: ‘Slop About The Forming Of The Country That Is About To Crumble’](https://kotaku.com/darren-aronofskys-ai-movie-is-as-bad-as-it-sounds-slop-about-the-forming-of-the-country-that-is-about-to-crumble-2000664225)
+ - [Google’s New AI Tool Had No Problem Making Bad Rip-Offs Of Mario And Zelda](https://kotaku.com/google-ai-genai-nintendo-zelda-breath-wild-mario-64-project-genie-2000664227)
+ - [Nintendo blocking Tomodachi Life images, explained](https://www.polygon.com/tomodachi-life-living-the-dream-image-sharing-block-nintendo/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
