@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Price war: Save $300 on 16-inch MacBook Pro with 48GB RAM](https://appleinsider.com/articles/26/01/28/price-war-save-300-on-16-inch-macbook-pro-with-48gb-ram?utm_source=rss)
- - [Microsoft reports Azure Q2 revenue up 39% YoY, vs. 38.8% est.; Microsoft cloud&#39;s contracted backlog grew 110% to $625B, ~45% of which was driven by OpenAI alone &lpar;Reuters&rpar;](http://www.techmeme.com/260128/p57#a260128p57)
- - [PaleBlueDot, which operates a GPU capacity marketplace and designs GPU clusters for enterprises, raised a $150M Series B led by B Capital at a $1B+ valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/260128/p56#a260128p56)<!-- TECH:END -->
+ - [Google says it took legal action to take down dozens of domains and disrupt the residential proxy network of Chinese company Ipidea, widely used by bad actors &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/260128/p66#a260128p66)
+ - [SK Hynix announces a new US-based &quot;AI Company&quot; from a restructuring of its California-based subsidiary Solidigm, and commits at least $10B to the new entity &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260128/p65#a260128p65)
+ - [In Meta&#39;s Q4 earnings call, Mark Zuckerberg says it plans to start shipping new models and products throughout 2026 and hints at &quot;agentic shopping tools&quot; &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260128/p64#a260128p64)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
