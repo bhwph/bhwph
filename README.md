@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We could call it...Good Australia](http://9gag.com/gag/ae9z2dW)
- - 😝 [Damned door](http://9gag.com/gag/azxyYym)
- - 👉 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)<!-- MEMES:END -->
+ - 6️⃣ [POLSKA knows something bad is coming](http://9gag.com/gag/aXP3KgP)
+ - 😝 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
+ - 👉 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)<!-- MEMES:END -->
 
 --- 
 
