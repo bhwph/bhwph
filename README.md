@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Henry Cavill&#39;s first look in Highlander reboot revealed](https://www.polygon.com/henry-cavill-highlander-remake-first-look/)
- - [&#39;I shouldn’t have announced the game so early,&#39; Eric Barone admits about Haunted Chocolatier, says he had his reasons for doing so but then doesn&#39;t tell us what they were: &#39;The only thing that really matters is that I keep making progress on the game&#39;](https://www.pcgamer.com/games/life-sim/i-shouldnt-have-announced-the-game-so-early-eric-barone-admits-about-haunted-chocolatier-says-he-had-his-reasons-for-doing-so-but-then-doesnt-tell-us-what-they-were-the-only-thing-that-really-matters-is-that-i-keep-making-progress-on-the-game/)
- - [Nintendo Is Going To Make It Really Hard To Share Screenshots In Tomodachi Life: Living the Dream](https://kotaku.com/tomodachi-life-living-the-dream-direct-image-sharing-screenshot-block-2000664167)<!-- GAME:END -->
+ - [Highguard’s First Patch Brings Much-Requested Fixes, But PC Optimization Is Still Being Worked On](https://kotaku.com/highguards-patch-note-fov-ps5-crash-pc-optimization-2000664201)
+ - [Where to find potato bugs in Grounded 2](https://www.polygon.com/grounded-2-potato-bug-locations-where-to-find/)
+ - [Call of Duty: Black Ops 7 and Call of Duty: Warzone Season 02 Content Drop: All You Need to Know](https://www.callofduty.com/blog/2026/01/call-of-duty-black-ops-7-warzone-zombies-season-02-announcement#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
