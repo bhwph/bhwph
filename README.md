@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US construction industry is adopting AI tools to improve project management and support site managers and foremen; IDC says 60% of firms use some form of AI &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/260129/p8#a260129p8)
- - [A look at Amazon&#39;s and Walmart&#39;s differing approaches to agentic AI shopping; Similarweb: Walmart doubled its share of AI referrals in the US to 32.5% in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260129/p7#a260129p7)
- - [Google takes down massive shady network that was secretly running on millions of Android phones](https://www.androidauthority.com/google-ipidea-takedown-3636232/)<!-- TECH:END -->
+ - [I tried UpScrolled to escape TikTok’s new terms, but I just found a lot of Keanu Reeves instead](https://www.androidauthority.com/upscrolled-tiktok-alternative-hands-on-3636088/)
+ - [SAP reports Q4 revenue up 3% YoY to €9.68B, adjusted operating profit up 27% YoY to €2.83B, and forecasts 2026 cloud revenue to grow at least 23% YoY to €25.8B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260129/p11#a260129p11)
+ - [Airtable unveils Superagent, a service that can deploy AI agents in parallel for tasks like market analysis, its first standalone product in its 13-year history &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/260129/p10#a260129p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
