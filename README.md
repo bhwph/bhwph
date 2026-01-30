@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Hitman Is No Longer Coming To 2025’s Biggest Flop](https://kotaku.com/hitman-mission-mindseye-build-rocket-io-interactive-2000664566)
- - [Demon Slayer: Infinity Castle is the first anime to land on ScreenX and 4DX](https://www.polygon.com/demon-slayer-infinity-castle-screenx-4dx-theatrical-release/)
- - [Amazon’s Latest 4K Ultra HD Fire TV Drops 40% for the Super Bowl, Even Lower Than Black Friday](https://kotaku.com/amazons-latest-4k-ultra-hd-fire-tv-drops-40-for-the-super-bowl-even-lower-than-black-friday-2000664191)<!-- GAME:END -->
+ - [WWE 2K26 gets CM Punk on the cover, new battle passes, and Switch 2 mouse controls](https://www.polygon.com/wwe-2k26-cm-punk-ringside-pass-switch-2-release-date/)
+ - [A Bunch Of Big Video Game Company Stocks Just Tanked For A Very Dumb Reason](https://kotaku.com/video-game-stocks-down-take-two-gta-nintendo-roblox-unity-google-ai-game-maker-2000664594)
+ - [Beyond Good and Evil 2 somehow survives the bloodbath at Ubisoft: creative director says he&#39;s &#39;saddened&#39; by the layoffs and cancellations, but the 19-year project is &#39;unaffected&#39;](https://www.pcgamer.com/games/action/beyond-good-and-evil-2-somehow-survives-the-bloodbath-at-ubisoft-creative-director-says-hes-saddened-by-the-layoffs-and-cancellations-but-the-19-year-project-is-unaffected/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
