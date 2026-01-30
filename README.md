@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of the biggest manga piracy networks has been shut down](https://www.theverge.com/tech/870643/bato-manga-piracy-site-shut-down)
- - [After two months with the Pixel 10’s newest AI feature, I found a serious catch](https://www.androidauthority.com/pixel-10-ai-notification-summaries-two-month-review-3635681/)
- - [NotebookLM’s beloved video feature is now on Android](https://www.androidauthority.com/notebooklm-video-overview-android-ios-3636701/)<!-- TECH:END -->
+ - [Insurance tech company Ethos raised ~$200M in its Jan. 29 IPO, selling 10.5M shares at $19 each; it reached a $1.1B market cap, below its 2021 $2.7B valuation &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260130/p7#a260130p7)
+ - [The person who could be Apple CEO: Who is John Ternus?](https://appleinsider.com/articles/26/01/30/the-person-who-could-be-apple-ceo-who-is-john-ternus?utm_source=rss)
+ - [Tim Cook boasts about US manufacturing, yet it&#39;s still nothing new](https://appleinsider.com/articles/26/01/30/tim-cook-boasts-about-us-manufacturing-yet-its-still-nothing-new?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
