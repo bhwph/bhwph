@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anthropic&#39;s apparently starting to learn that it can&#39;t have its cake and eat it when it comes to working with the military](https://www.pcgamer.com/software/ai/anthropics-apparently-starting-to-learn-that-it-cant-have-its-cake-and-eat-it-when-it-comes-to-working-with-the-military/)
- - [Lenovo’s 24″ All-in-One Desktop Now Costs About as Much as a Budget Tablet on Amazon](https://kotaku.com/lenovos-24-all-in-one-desktop-now-costs-about-as-much-as-a-budget-tablet-on-amazon-2000664269)
- - [Darren Aronofsky might finally kill art with his new AI-generated American Revolution drama series, presented by Salesforce](https://www.pcgamer.com/software/ai/darren-aronofsky-might-finally-kill-art-with-his-new-ai-generated-american-revolution-drama-series-presented-by-salesforce/)<!-- GAME:END -->
+ - [New Nintendo Direct Rumors Point To An Incoming Flood Of Switch 2 Ports](https://kotaku.com/february-nintendo-direct-switch-2-3d-mario-2000664537)
+ - [Fallout season 2 understands why the games needed messy families](https://www.polygon.com/fallout-season-2-hank-lucy-family/)
+ - [Samsung Moves Odyssey Curved Gaming Monitor Into Clearance, 49″ G93SC Series Hits an All-Time Low](https://kotaku.com/samsung-moves-odyssey-curved-gaming-monitor-into-clearance-49-g93sc-series-hits-an-all-time-low-2000664187)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
