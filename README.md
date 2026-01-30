@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 reasons why I won’t ditch Gemini for ChatGPT anytime soon](https://www.androidauthority.com/why-gemini-better-than-chatgpt-3636763/)
- - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
- - [Belkin’s Wemo smart devices will go offline on Saturday](https://www.theverge.com/tech/870890/belkin-wemo-cloud-services-shut-down)<!-- TECH:END -->
+ - [Shares of major gaming companies plunge after Google released Project Genie, which lets users create interactive worlds; Unity is down ~21% and Take-Two ~10% &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260130/p20#a260130p20)
+ - [Give us some &#39;Sugar&#39; - Neo-noir detective drama sneaks back onto Apple TV in June](https://appleinsider.com/articles/26/01/30/give-us-some-sugar---neo-noir-detective-drama-sneaks-back-onto-apple-tv-in-june?utm_source=rss)
+ - [A look at Moltbook, a social network where OpenClaw assistants interact autonomously, as they discuss consciousness and identity, technical tips, and more &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260130/p19#a260130p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
