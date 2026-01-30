@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s one way to deal with paranormal](http://9gag.com/gag/aQzbOz2)
- - 😝 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)
- - 👉 [This dude is something else](http://9gag.com/gag/aZZXz2V)<!-- MEMES:END -->
+ - 6️⃣ [TRUMP: `There&#39;s so much talk about how we&#39;re going to drive housing prices down. I don&#39;t want to drive housing prices down. I want to drive housing prices up for people that own their homes, and they can be assured that what&#39;s going to happen`](http://9gag.com/gag/azxyQMK)
+ - 😝 [This dude is something else](http://9gag.com/gag/aZZXz2V)
+ - 👉 [That&#39;s one way to deal with paranormal](http://9gag.com/gag/aQzbOz2)<!-- MEMES:END -->
 
 --- 
 
