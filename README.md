@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Encrypt it already&#39; campaign challenges big tech to keep your data secure](https://appleinsider.com/articles/26/01/29/encrypt-it-already-campaign-challenges-big-tech-to-keep-your-data-secure?utm_source=rss)
- - [iPhone 17 Pro array will be used in a new offside camera system](https://appleinsider.com/articles/26/01/29/iphone-17-pro-array-will-be-used-in-a-new-offside-camera-system?utm_source=rss)
- - [‘Uncanny Valley’: Minneapolis Misinformation, TikTok’s New Owners, and Moltbot Hype](https://www.wired.com/story/uncanny-valley-podcast-ice-minneapolis-tiktok-moltbot/)<!-- TECH:END -->
+ - [Apple&#39;s Q1 sales in greater China surged 38% to $25.5B; Tim Cook attributed the increase to users upgrading and switching from other platforms to iPhone 17 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260129/p57#a260129p57)
+ - [Apple expects Q2 revenue to grow 13% to 16% YoY, vs. 10% est.; it&#39;s currently constrained by iPhone processor supply and expects memory costs to rise after Q2 &lpar;Reuters&rpar;](http://www.techmeme.com/260129/p56#a260129p56)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 30, #494](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-30-494/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
