@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
- - 😝 [Heavy burden](http://9gag.com/gag/amoQpn4)
- - 👉 [Just a casual day of rock climbing until a bear decides to join the party](http://9gag.com/gag/aAyAXKE)<!-- MEMES:END -->
+ - 😝 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
+ - 👉 [Bro didn&#39;t sign up for this. `What do you mean what do you mean??!!`](http://9gag.com/gag/amoQpZd)<!-- MEMES:END -->
 
 --- 
 
