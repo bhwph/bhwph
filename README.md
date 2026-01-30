@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
- - 😝 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)
- - 👉 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)<!-- MEMES:END -->
+ - 6️⃣ [Modern problems require modern solutions](http://9gag.com/gag/aZZXz5X)
+ - 😝 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
+ - 👉 [You mad bro?](http://9gag.com/gag/amoQpYo)<!-- MEMES:END -->
 
 --- 
 
