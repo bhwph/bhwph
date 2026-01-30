@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Phasmophobia&#39;s roadmap includes evidence of a 1.0 launch in 2026: a player character overhaul, new event, and Horror 2.0](https://www.pcgamer.com/games/horror/phasmophobias-roadmap-includes-evidence-of-a-1-0-launch-in-2026-the-player-character-overhaul-a-new-event-and-horror-2-0/)
- - [Fallout 76 is free to play until Feb 5, but if you want that sick NCR power armor from the Fallout show, it&#39;s gonna cost you](https://www.pcgamer.com/games/fallout/fallout-76-is-free-to-play-until-feb-5-but-if-you-want-that-sick-ncr-power-armor-from-the-fallout-show-its-gonna-cost-you/)
- - [Over 50% of game developers now think generative AI is bad for the industry, a dramatic increase from just 2 years ago: &#39;I&#39;d rather quit the industry than use generative AI&#39;](https://www.pcgamer.com/gaming-industry/more-than-half-of-game-developers-now-think-generative-ai-is-bad-for-the-industry-a-dramatic-increase-from-just-2-years-ago-id-rather-quit-the-industry-than-use-generative-ai/)<!-- GAME:END -->
+ - [Anthropic&#39;s apparently starting to learn that it can&#39;t have its cake and eat it when it comes to working with the military](https://www.pcgamer.com/software/ai/anthropics-apparently-starting-to-learn-that-it-cant-have-its-cake-and-eat-it-when-it-comes-to-working-with-the-military/)
+ - [Lenovo’s 24″ All-in-One Desktop Now Costs About as Much as a Budget Tablet on Amazon](https://kotaku.com/lenovos-24-all-in-one-desktop-now-costs-about-as-much-as-a-budget-tablet-on-amazon-2000664269)
+ - [Darren Aronofsky might finally kill art with his new AI-generated American Revolution drama series, presented by Salesforce](https://www.pcgamer.com/software/ai/darren-aronofsky-might-finally-kill-art-with-his-new-ai-generated-american-revolution-drama-series-presented-by-salesforce/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
