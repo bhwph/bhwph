@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [WWE 2K26 gets CM Punk on the cover, new battle passes, and Switch 2 mouse controls](https://www.polygon.com/wwe-2k26-cm-punk-ringside-pass-switch-2-release-date/)
- - [A Bunch Of Big Video Game Company Stocks Just Tanked For A Very Dumb Reason](https://kotaku.com/video-game-stocks-down-take-two-gta-nintendo-roblox-unity-google-ai-game-maker-2000664594)
- - [Beyond Good and Evil 2 somehow survives the bloodbath at Ubisoft: creative director says he&#39;s &#39;saddened&#39; by the layoffs and cancellations, but the 19-year project is &#39;unaffected&#39;](https://www.pcgamer.com/games/action/beyond-good-and-evil-2-somehow-survives-the-bloodbath-at-ubisoft-creative-director-says-hes-saddened-by-the-layoffs-and-cancellations-but-the-19-year-project-is-unaffected/)<!-- GAME:END -->
+ - [The Internet Reacts To The Death Of Catherine O’Hara](https://kotaku.com/catherine-ohara-death-died-reaction-tmz-pedro-pascal-2000664620)
+ - [Top football manager reminds football media that real football &#39;is not Football Manager, unfortunately&#39;](https://www.pcgamer.com/games/sports/top-football-manager-reminds-football-media-that-real-football-is-not-football-manager-unfortunately/)
+ - [Kinji Hakari&#39;s cursed technique in Jujutsu Kaisen season 3 episode 5, explained](https://www.polygon.com/jujutsu-kaisen-kinji-hakari-cursed-technique-gambling-explained/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
