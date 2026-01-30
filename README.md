@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google TV’s new update is making it easier to find free-to-play shows and movies](https://www.androidauthority.com/google-tv-update-free-to-play-shows-and-movies-3636636/)
- - [New Spotify update puts song lyrics exactly where you want them](https://www.androidauthority.com/spotify-now-playing-interface-lyrics-update-3636643/)
- - [These 7 Workout Apps Make Exercising at Home Easy in 2026](https://www.cnet.com/health/fitness/best-workout-apps/)<!-- TECH:END -->
+ - [One of the biggest manga piracy networks has been shut down](https://www.theverge.com/tech/870643/bato-manga-piracy-site-shut-down)
+ - [After two months with the Pixel 10’s newest AI feature, I found a serious catch](https://www.androidauthority.com/pixel-10-ai-notification-summaries-two-month-review-3635681/)
+ - [NotebookLM’s beloved video feature is now on Android](https://www.androidauthority.com/notebooklm-video-overview-android-ios-3636701/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
