@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Nintendo Direct Rumors Point To An Incoming Flood Of Switch 2 Ports](https://kotaku.com/february-nintendo-direct-switch-2-3d-mario-2000664537)
- - [Fallout season 2 understands why the games needed messy families](https://www.polygon.com/fallout-season-2-hank-lucy-family/)
- - [Samsung Moves Odyssey Curved Gaming Monitor Into Clearance, 49″ G93SC Series Hits an All-Time Low](https://kotaku.com/samsung-moves-odyssey-curved-gaming-monitor-into-clearance-49-g93sc-series-hits-an-all-time-low-2000664187)<!-- GAME:END -->
+ - [Report: Hitman Is No Longer Coming To 2025’s Biggest Flop](https://kotaku.com/hitman-mission-mindseye-build-rocket-io-interactive-2000664566)
+ - [Demon Slayer: Infinity Castle is the first anime to land on ScreenX and 4DX](https://www.polygon.com/demon-slayer-infinity-castle-screenx-4dx-theatrical-release/)
+ - [Amazon’s Latest 4K Ultra HD Fire TV Drops 40% for the Super Bowl, Even Lower Than Black Friday](https://kotaku.com/amazons-latest-4k-ultra-hd-fire-tv-drops-40-for-the-super-bowl-even-lower-than-black-friday-2000664191)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
