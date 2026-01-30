@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Very first Apple check &amp; early Apple-1 motherboard sold for $5 million combined](https://appleinsider.com/articles/26/01/30/very-first-apple-check-early-apple-1-motherboard-sold-for-5-million-combined?utm_source=rss)
- - [Apps are going missing from Google’s Nest Hub displays](https://www.androidauthority.com/google-nest-hub-apps-missing-3636969/)
- - [Android 16 is off to a strong start in Google’s latest usage breakdown](https://www.androidauthority.com/android-16-usage-3636930/)<!-- TECH:END -->
+ - [The Galaxy S26 Ultra might finally get this Android feature the S25 missed](https://www.androidauthority.com/galaxy-s26-ultra-android-virtualization-framework-linux-terminal-apk-teardown-3636977/)
+ - [Tired of scam calls? The Galaxy S26 might finally have an answer](https://www.androidauthority.com/galaxy-s26-android-callcore-support-3636978/)
+ - [Record labels are catering directly to iTunes customers to bolster Billboard chart numbers](https://appleinsider.com/articles/26/01/30/record-labels-are-catering-directly-to-itunes-customers-to-bolster-billboard-chart-numbers?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
