@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
- - 😝 [When she laughs](http://9gag.com/gag/apR7V9E)
- - 👉 [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)<!-- MEMES:END -->
+ - 6️⃣ [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
+ - 😝 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)
+ - 👉 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)<!-- MEMES:END -->
 
 --- 
 
