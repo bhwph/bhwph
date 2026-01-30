@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
- - 😝 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)
- - 👉 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)<!-- MEMES:END -->
+ - 6️⃣ [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
+ - 😝 [Heavy burden](http://9gag.com/gag/amoQpn4)
+ - 👉 [Just a casual day of rock climbing until a bear decides to join the party](http://9gag.com/gag/aAyAXKE)<!-- MEMES:END -->
 
 --- 
 
