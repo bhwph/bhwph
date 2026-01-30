@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify might bring back a feature everyone loved till 2018 &lpar;APK teardown&rpar;](https://www.androidauthority.com/spotify-editable-usernames-3636618/)
- - [The team behind vivo’s add-on camera lens just made a 10x lens for iPhones](https://www.androidauthority.com/the-team-behind-vivos-add-on-camera-lens-just-made-a-10x-lens-for-iphones-3636613/)
- - [Google&#39;s experience in India has become a proving ground to scale AI in education, as the country accounts for the highest global usage of Gemini for learning &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260130/p1#a260130p1)<!-- TECH:END -->
+ - [Google TV’s new update is making it easier to find free-to-play shows and movies](https://www.androidauthority.com/google-tv-update-free-to-play-shows-and-movies-3636636/)
+ - [New Spotify update puts song lyrics exactly where you want them](https://www.androidauthority.com/spotify-now-playing-interface-lyrics-update-3636643/)
+ - [These 7 Workout Apps Make Exercising at Home Easy in 2026](https://www.cnet.com/health/fitness/best-workout-apps/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
