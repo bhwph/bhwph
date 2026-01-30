@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Internet Reacts To The Death Of Catherine O’Hara](https://kotaku.com/catherine-ohara-death-died-reaction-tmz-pedro-pascal-2000664620)
- - [Top football manager reminds football media that real football &#39;is not Football Manager, unfortunately&#39;](https://www.pcgamer.com/games/sports/top-football-manager-reminds-football-media-that-real-football-is-not-football-manager-unfortunately/)
- - [Kinji Hakari&#39;s cursed technique in Jujutsu Kaisen season 3 episode 5, explained](https://www.polygon.com/jujutsu-kaisen-kinji-hakari-cursed-technique-gambling-explained/)<!-- GAME:END -->
+ - [I&#39;ve already put 10 hours into this upcoming RPG&#39;s demo because it has the best combat I&#39;ve seen outside a FromSoft game](https://www.pcgamer.com/games/rpg/ive-already-put-10-hours-into-this-upcoming-rpgs-demo-because-it-has-the-best-combat-ive-seen-outside-a-fromsoft-game/)
+ - [Roblox walks back some of its dramatic changes to avatar faces, but not enough to make everyone happy](https://www.pcgamer.com/games/roblox-walks-back-some-of-its-dramatic-changes-to-avatar-faces-but-not-enough-to-make-everyone-happy/)
+ - [Highguard: The Kotaku Review](https://kotaku.com/highguard-the-kotaku-review-is-it-good-free-ps5-pc-5v5-3v3-update-patch-2000664646)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
