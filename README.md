@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Modern problems require modern solutions](http://9gag.com/gag/aZZXz5X)
- - 😝 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
- - 👉 [You mad bro?](http://9gag.com/gag/amoQpYo)<!-- MEMES:END -->
+ - 6️⃣ [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)
+ - 😝 [Marble clock](http://9gag.com/gag/ayNrYOY)
+ - 👉 [This is what this world needs boys](http://9gag.com/gag/avyqd8X)<!-- MEMES:END -->
 
 --- 
 
