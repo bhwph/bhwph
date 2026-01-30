@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
- - 😝 [This dude is something else](http://9gag.com/gag/aZZXz2V)
- - 👉 [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s one way to deal with paranormal](http://9gag.com/gag/aQzbOz2)
+ - 😝 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)
+ - 👉 [This dude is something else](http://9gag.com/gag/aZZXz2V)<!-- MEMES:END -->
 
 --- 
 
