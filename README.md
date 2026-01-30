@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Beard Trimmers &lpar;2026&rpar;: Full Beards, Hair, Stubble](https://www.wired.com/gallery/best-beard-trimmers/)
- - [iPhone 18 split launch strategy is about more than marketing](https://appleinsider.com/articles/26/01/30/iphone-18-split-launch-strategy-is-about-more-than-marketing?utm_source=rss)
- - [Amid record revenue, Apple&#39;s Q1 2026 R&amp;D spend reveals its AI ambitions](https://appleinsider.com/articles/26/01/30/amid-record-revenue-apples-q1-2026-rd-spend-reveals-its-ai-ambitions?utm_source=rss)<!-- TECH:END -->
+ - [4 reasons why I won’t ditch Gemini for ChatGPT anytime soon](https://www.androidauthority.com/why-gemini-better-than-chatgpt-3636763/)
+ - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
+ - [Belkin’s Wemo smart devices will go offline on Saturday](https://www.theverge.com/tech/870890/belkin-wemo-cloud-services-shut-down)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
