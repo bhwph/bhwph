@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shares of major gaming companies plunge after Google released Project Genie, which lets users create interactive worlds; Unity is down ~21% and Take-Two ~10% &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260130/p20#a260130p20)
- - [Give us some &#39;Sugar&#39; - Neo-noir detective drama sneaks back onto Apple TV in June](https://appleinsider.com/articles/26/01/30/give-us-some-sugar---neo-noir-detective-drama-sneaks-back-onto-apple-tv-in-june?utm_source=rss)
- - [A look at Moltbook, a social network where OpenClaw assistants interact autonomously, as they discuss consciousness and identity, technical tips, and more &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260130/p19#a260130p19)<!-- TECH:END -->
+ - [Very first Apple check &amp; early Apple-1 motherboard sold for $5 million combined](https://appleinsider.com/articles/26/01/30/very-first-apple-check-early-apple-1-motherboard-sold-for-5-million-combined?utm_source=rss)
+ - [Apps are going missing from Google’s Nest Hub displays](https://www.androidauthority.com/google-nest-hub-apps-missing-3636969/)
+ - [Android 16 is off to a strong start in Google’s latest usage breakdown](https://www.androidauthority.com/android-16-usage-3636930/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
