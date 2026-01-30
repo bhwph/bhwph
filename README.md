@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insurance tech company Ethos raised ~$200M in its Jan. 29 IPO, selling 10.5M shares at $19 each; it reached a $1.1B market cap, below its 2021 $2.7B valuation &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260130/p7#a260130p7)
- - [The person who could be Apple CEO: Who is John Ternus?](https://appleinsider.com/articles/26/01/30/the-person-who-could-be-apple-ceo-who-is-john-ternus?utm_source=rss)
- - [Tim Cook boasts about US manufacturing, yet it&#39;s still nothing new](https://appleinsider.com/articles/26/01/30/tim-cook-boasts-about-us-manufacturing-yet-its-still-nothing-new?utm_source=rss)<!-- TECH:END -->
+ - [6 Best Beard Trimmers &lpar;2026&rpar;: Full Beards, Hair, Stubble](https://www.wired.com/gallery/best-beard-trimmers/)
+ - [iPhone 18 split launch strategy is about more than marketing](https://appleinsider.com/articles/26/01/30/iphone-18-split-launch-strategy-is-about-more-than-marketing?utm_source=rss)
+ - [Amid record revenue, Apple&#39;s Q1 2026 R&amp;D spend reveals its AI ambitions](https://appleinsider.com/articles/26/01/30/amid-record-revenue-apples-q1-2026-rd-spend-reveals-its-ai-ambitions?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
