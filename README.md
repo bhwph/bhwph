@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AYANEO’s latest handheld is skipping crowdfunding, and you can buy it now](https://www.androidauthority.com/ayaneo-pocket-s-mini-launch-3637041/)
- - [Onnit&#39;s Instant Melatonin Spray Keeps Bedtime Uncomplicated](https://www.wired.com/story/onnit-instant-melatonin-spray-rave/)
- - [SpaceX wants to put 1 million solar-powered data centers into orbit](https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit)<!-- TECH:END -->
+ - [An interview with Nvidia&#39;s senior VP of hardware engineering, Andrew Bell, on continuing to provide Shield Android TV software updates a decade after its launch &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/260131/p16#a260131p16)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 1 #700](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-1-700/)
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 1, #1688](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-1-1688/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
