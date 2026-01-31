@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This sh*t can&#39;t be real right?](http://9gag.com/gag/a1mgOK2)
- - 😝 [Ah yes, but how dare!](http://9gag.com/gag/aW4yRP3)
- - 👉 [It kinda looks like one of those moment where I would say I usually don&#39;t run, so if you see me running. You should probably run too](http://9gag.com/gag/axyK4O1)<!-- MEMES:END -->
+ - 6️⃣ [Revulsion](http://9gag.com/gag/aKGZKej)
+ - 😝 [It kinda looks like one of those moment where I would say I usually don&#39;t run, so if you see me running. You should probably run too](http://9gag.com/gag/axyK4O1)
+ - 👉 [TRUMP: `There&#39;s so much talk about how we&#39;re going to drive housing prices down. I don&#39;t want to drive housing prices down. I want to drive housing prices up for people that own their homes, and they can be assured that what&#39;s going to happen`](http://9gag.com/gag/azxyQMK)<!-- MEMES:END -->
 
 --- 
 
