@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [UK, are you alright?](http://9gag.com/gag/a7ognY2)
- - 😝 [Heavy burden](http://9gag.com/gag/amoQpn4)
- - 👉 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)<!-- MEMES:END -->
+ - 6️⃣ [Ah yes, but how dare!](http://9gag.com/gag/aW4yRP3)
+ - 😝 [Pump thise numbers up](http://9gag.com/gag/aAyAvGg)
+ - 👉 [TRUMP: `There&#39;s so much talk about how we&#39;re going to drive housing prices down. I don&#39;t want to drive housing prices down. I want to drive housing prices up for people that own their homes, and they can be assured that what&#39;s going to happen`](http://9gag.com/gag/azxyQMK)<!-- MEMES:END -->
 
 --- 
 
