@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest Instax printer is a pricey but worthy upgrade](https://www.theverge.com/tech/870603/fujifilm-instax-mini-link-plus-reivew-improved-photos)
- - [Q&amp;A with Gokul Rajaram, investor and a former product leader at Google, Meta, and others, on AI changing product development, building ad businesses, and more &lpar;Patrick O&#39;Shaughnessy/Invest Like The Best on YouTube&rpar;](http://www.techmeme.com/260131/p7#a260131p7)
- - [Ant Group reports 30M MAUs for its AI health chatbot Ant Afu, which integrates appointments, test analysis, and insurance payments within Alipay&#39;s ecosystem &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/260131/p6#a260131p6)<!-- TECH:END -->
+ - [I Don&#39;t Like Turning on My Big Oven. This iQ MiniOven Is My Secret Weapon](https://www.cnet.com/deals/chef-iq-mini-oven-review/)
+ - [I found a secret workaround for YouTube background playback in third-party browsers](https://www.androidauthority.com/youtube-background-playback-browsers-fix-3636806/)
+ - [I switched from Todoist to Google Tasks, and it didn’t go as planned](https://www.androidauthority.com/i-ditched-todoist-from-google-tasks-3635478/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
