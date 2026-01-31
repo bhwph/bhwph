@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ripple co-founder Chris Larsen and crypto evangelist Tim Draper plan to spend millions this year on an effort to elect moderate California legislators &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/260130/p32#a260130p32)
- - [Yaber L2 Plus Projector drops to record-low price, but not for long](https://www.androidauthority.com/yaber-l2-plus-projector-deal-3636926/)
- - [Report: Jensen Huang has privately criticized what he has described as a lack of discipline in OpenAI&#39;s business approach &lpar;Fabiola Arámburo/Reuters&rpar;](http://www.techmeme.com/260130/p31#a260130p31)<!-- TECH:END -->
+ - [Even though Moltbook has security risks and a lot of spam, the scale of nearly 150,000 autonomous AI agents interacting with each other is unprecedented &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/260130/p35#a260130p35)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Jan. 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-31/)
+ - [A look at South Park Commons, the VC firm behind a startup community focusing on idea exploration over immediate business plans, as it aims to raise $500M &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260130/p34#a260130p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
