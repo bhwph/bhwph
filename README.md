@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Don&#39;t Like Turning on My Big Oven. This iQ MiniOven Is My Secret Weapon](https://www.cnet.com/deals/chef-iq-mini-oven-review/)
- - [I found a secret workaround for YouTube background playback in third-party browsers](https://www.androidauthority.com/youtube-background-playback-browsers-fix-3636806/)
- - [I switched from Todoist to Google Tasks, and it didn’t go as planned](https://www.androidauthority.com/i-ditched-todoist-from-google-tasks-3635478/)<!-- TECH:END -->
+ - [Cordless Stick Vacuum Throw Down: Bosch, Shark, Dyson &lpar;2026&rpar;](https://www.wired.com/story/cordless-stick-vacuum-comparison/)
+ - [Premier League Soccer 2026: Stream Leeds vs. Arsenal Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-stream-leeds-vs-arsenal/)
+ - [Google Drive’s AI nonsense finally pushed me to self-host my documents](https://www.androidauthority.com/self-hosted-google-drive-seafile-3635561/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
