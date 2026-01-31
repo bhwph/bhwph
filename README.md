@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AirPods 4 and Google’s 4K streamer are just two of this week’s best deals](https://www.theverge.com/gadgets/871092/airpods-4-anc-google-tv-streamer-4k-deal-sale)
- - [I Tested the New AirTag and Found That Apple More Than Doubled Its Range](https://www.cnet.com/tech/mobile/airtag-2-review/)
- - [Nvidia CEO Jensen Huang said the company will &quot;absolutely&quot; be involved in OpenAI&#39;s current funding round, though the investment will be &quot;nothing like&quot; $100B &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/260131/p10#a260131p10)<!-- TECH:END -->
+ - [Filing: SpaceX is seeking FCC approval to launch 1M satellites into space; SpaceX claims the fleet will orbit the Earth and use the sun to power AI data centers &lpar;Reuters&rpar;](http://www.techmeme.com/260131/p12#a260131p12)
+ - [Best Vitamins to Get Healthier Hair, Skin and Nails in 2026](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/)
+ - [Miami-based Indigo, which uses AI-powered underwriting tech to provide medical liability insurance to physicians, raised a $50M Series B led by Rubicon Founders &lpar;Brock E.W. Turner/Axios&rpar;](http://www.techmeme.com/260131/p11#a260131p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
