@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Imagine his wife know it](http://9gag.com/gag/avyqD8E)
- - 😝 [Our differences are essential](http://9gag.com/gag/abADdLO)
- - 👉 [Her shirt says just the tip I promise](http://9gag.com/gag/ae9zWDm)<!-- MEMES:END -->
+ - 6️⃣ [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
+ - 😝 [Axolotis out of their tanks](http://9gag.com/gag/aqyMD0p)
+ - 👉 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)<!-- MEMES:END -->
 
 --- 
 
