@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wonder Man&#39;s biggest unanswered question isn&#39;t the point of the story](https://www.polygon.com/wonder-man-ending-explained-mcu-josh-gad/)
- - [A mega-mod is kicking GTA 5 into 2026 thanks to one hobbyist creator and roughly 20,000 aggressively placed trees and street props](https://www.pcgamer.com/games/grand-theft-auto/a-mega-mod-is-kicking-gta-5-into-2026-thanks-to-one-hobbyist-creator-and-roughly-20-000-aggressively-placed-trees-and-street-props/)
- - [Highguard adds an experimental 5v5 mode with longer respawns during raids, though it&#39;s &#39;not meant to replace 3s&#39;](https://www.pcgamer.com/games/fps/highguard-adds-an-experimental-5v5-mode-with-longer-respawns-during-raids-though-its-not-meant-to-replace-3s/)<!-- GAME:END -->
+ - [Terra Invicta Review](https://www.pcgamer.com/games/strategy/terra-invicta-review/)
+ - [Skyrim&#39;s design lead says if you play Morrowind today, you will &#39;cringe&#39;: &#39;The reality of playing Morrowind would not stand the test of time&#39;](https://www.pcgamer.com/games/rpg/skyrims-design-lead-says-if-you-play-morrowind-today-you-will-cringe-the-reality-of-playing-morrowind-would-not-stand-the-test-of-time/)
+ - [The company that made a Dark Souls tabletop RPG is doing the same for Elden Ring Nightreign, and honestly, that&#39;s harder to imagine](https://www.pcgamer.com/games/rpg/the-company-that-made-a-dark-souls-tabletop-rpg-is-doing-the-same-for-elden-ring-nightreign-and-honestly-thats-harder-to-imagine/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
