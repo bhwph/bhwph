@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get every Pal in Terraria&#39;s Palword crossover](https://www.pcgamer.com/games/survival-crafting/terrarria-pals-cattiva-foxparks-chillet-digtoise/)
- - [I watched Markiplier play Iron Lung for 45 minutes before watching Markiplier star in the Iron Lung movie for 2+ hours. Which was better?](https://www.pcgamer.com/movies-tv/i-watched-markiplier-play-iron-lung-for-45-minutes-before-watching-markiplier-star-in-the-iron-lung-movie-for-2-hours-which-was-better/)
- - [Thousands of players flood into Team Fortress 2 Classified, the free &#39;TF2 Classic&#39; mod that just launched on Steam](https://www.pcgamer.com/games/fps/thousands-of-players-flood-into-team-fortress-2-classified-the-free-tf2-classic-mod-that-just-launched-on-steam/)<!-- GAME:END -->
+ - [Jeffrey Epstein Sent Five Nights At Freddy’s Porn Via 4Chan Links, Emails Show](https://kotaku.com/jeffrey-epstein-five-nights-at-freddys-porn-via-4chan-links-emails-show-2000664667)
+ - [Emails Reveal Jeffrey Epstein Was Banned From Xbox Live](https://kotaku.com/emails-reveal-jeffrey-epstein-was-banned-from-xbox-live-2000664660)
+ - [Google&#39;s new AI &#39;world model&#39; has seemingly spooked videogame investors, but it&#39;s hard to know what it will actually lead to](https://www.pcgamer.com/software/ai/google-project-genie-prototype-launch/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
