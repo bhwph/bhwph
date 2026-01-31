@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Axolotis out of their tanks](http://9gag.com/gag/aqyMD0p)
- - 😝 [Imagine his wife know it](http://9gag.com/gag/avyqD8E)
- - 👉 [Korean Invasion](http://9gag.com/gag/a9ywVp6)<!-- MEMES:END -->
+ - 6️⃣ [The man gets to be right](http://9gag.com/gag/a4Pgx9m)
+ - 😝 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
+ - 👉 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)<!-- MEMES:END -->
 
 --- 
 
