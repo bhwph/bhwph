@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jeffrey Epstein Sent Five Nights At Freddy’s Porn Via 4Chan Links, Emails Show](https://kotaku.com/jeffrey-epstein-five-nights-at-freddys-porn-via-4chan-links-emails-show-2000664667)
- - [Emails Reveal Jeffrey Epstein Was Banned From Xbox Live](https://kotaku.com/emails-reveal-jeffrey-epstein-was-banned-from-xbox-live-2000664660)
- - [Google&#39;s new AI &#39;world model&#39; has seemingly spooked videogame investors, but it&#39;s hard to know what it will actually lead to](https://www.pcgamer.com/software/ai/google-project-genie-prototype-launch/)<!-- GAME:END -->
+ - [Inside Wildlight Entertainment, the studio behind the polarizing Highguard](https://www.polygon.com/highguard-wildlight-interactive-interview/)
+ - [Old-school MMO Project: Gorgon launches into 1.0 with an update that adds &#39;by far the largest and most complex map we&#39;ve ever made&#39;](https://www.pcgamer.com/games/mmo/old-school-mmo-project-gorgon-launches-into-1-0-with-an-update-that-adds-by-far-the-largest-and-most-complex-map-weve-ever-made/)
+ - [3 movie masterpieces hidden away on Tubi right now](https://www.polygon.com/3-movie-masterpieces-buried-on-tubi-right-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
