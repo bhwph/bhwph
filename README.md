@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This sh*t can&#39;t be real right?](http://9gag.com/gag/a1mgOK2)
- - 😝 [Six Flags Texas &lpar;old&rpar;](http://9gag.com/gag/aqyMDev)
- - 👉 [It kinda looks like one of those moment where I would say I usually don&#39;t run, so if you see me running. You should probably run too](http://9gag.com/gag/axyK4O1)<!-- MEMES:END -->
+ - 6️⃣ [Chicken Shawarma](http://9gag.com/gag/an7ZVZo)
+ - 😝 [Share your best gif](http://9gag.com/gag/ae9zWxW)
+ - 👉 [When the filter is too accurate](http://9gag.com/gag/an7ZV2b)<!-- MEMES:END -->
 
 --- 
 
