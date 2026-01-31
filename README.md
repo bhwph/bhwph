@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Chicken Shawarma](http://9gag.com/gag/an7ZVZo)
- - 😝 [Share your best gif](http://9gag.com/gag/ae9zWxW)
- - 👉 [When the filter is too accurate](http://9gag.com/gag/an7ZV2b)<!-- MEMES:END -->
+ - 6️⃣ [UK, are you alright?](http://9gag.com/gag/a7ognY2)
+ - 😝 [Heavy burden](http://9gag.com/gag/amoQpn4)
+ - 👉 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)<!-- MEMES:END -->
 
 --- 
 
