@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: SpaceX is seeking FCC approval to launch 1M satellites into space; SpaceX claims the fleet will orbit the Earth and use the sun to power AI data centers &lpar;Reuters&rpar;](http://www.techmeme.com/260131/p12#a260131p12)
- - [Best Vitamins to Get Healthier Hair, Skin and Nails in 2026](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/)
- - [Miami-based Indigo, which uses AI-powered underwriting tech to provide medical liability insurance to physicians, raised a $50M Series B led by Rubicon Founders &lpar;Brock E.W. Turner/Axios&rpar;](http://www.techmeme.com/260131/p11#a260131p11)<!-- TECH:END -->
+ - [AYANEO’s latest handheld is skipping crowdfunding, and you can buy it now](https://www.androidauthority.com/ayaneo-pocket-s-mini-launch-3637041/)
+ - [Onnit&#39;s Instant Melatonin Spray Keeps Bedtime Uncomplicated](https://www.wired.com/story/onnit-instant-melatonin-spray-rave/)
+ - [SpaceX wants to put 1 million solar-powered data centers into orbit](https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
