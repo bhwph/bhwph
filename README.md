@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cordless Stick Vacuum Throw Down: Bosch, Shark, Dyson &lpar;2026&rpar;](https://www.wired.com/story/cordless-stick-vacuum-comparison/)
- - [Premier League Soccer 2026: Stream Leeds vs. Arsenal Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-stream-leeds-vs-arsenal/)
- - [Google Drive’s AI nonsense finally pushed me to self-host my documents](https://www.androidauthority.com/self-hosted-google-drive-seafile-3635561/)<!-- TECH:END -->
+ - [When Is the WWE Royal Rumble 2026? Start Time, Where to Watch, Match Card and Confirmed Entrants](https://www.cnet.com/tech/services-and-software/how-to-watch-wwe-royal-rumble/)
+ - [Cassette Boy forces you to see its world in a whole new way](https://www.theverge.com/games/867020/cassette-boy-review-pc-playstation-xbox-nintendo-switch)
+ - [I Tested 6 Frozen Fries in the Air Fryer. The Winner Cost Just $3 a Bag](https://www.cnet.com/news/we-ranked-the-best-frozen-french-fries-to-make-in-an-air-fryer/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
