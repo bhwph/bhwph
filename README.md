@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Meta Quest 3S Now the Cheapest VR Headset Option After Sudden Price Drop, While PlayStation VR2 Remains at Full Price](https://kotaku.com/meta-quest-3s-now-the-cheapest-vr-headset-option-after-sudden-price-drop-while-playstation-vr2-remains-at-full-price-2000664623)
- - [Spider-Man 2 is the best PS5 open-world game](https://www.polygon.com/spider-man-2-ps5-open-world-game/)
- - [The best Elder Scrolls game that isn&#39;t an Elder Scrolls game is getting a big patch in February and free DLC in March](https://www.pcgamer.com/games/rpg/the-best-elder-scrolls-game-that-isnt-an-elder-scrolls-game-is-getting-a-big-patch-in-february-and-free-dlc-in-march/)<!-- GAME:END -->
+ - [Is Leon S. Kennedy Italian? We asked Resident Evil Requiem’s director](https://www.polygon.com/resident-evil-leon-kennedy-italian-girlfriend/)
+ - [The Game, David Fincher&#39;s Criterion-approved Michael Douglas thriller, is now streaming on Peacock](https://www.polygon.com/the-game-david-fincher-finally-streaming/)
+ - [Meta Quest 3S Now the Cheapest VR Headset Option After Sudden Price Drop, While PlayStation VR2 Remains at Full Price](https://kotaku.com/meta-quest-3s-now-the-cheapest-vr-headset-option-after-sudden-price-drop-while-playstation-vr2-remains-at-full-price-2000664623)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
