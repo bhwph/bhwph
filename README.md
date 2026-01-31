@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve already put 10 hours into this upcoming RPG&#39;s demo because it has the best combat I&#39;ve seen outside a FromSoft game](https://www.pcgamer.com/games/rpg/ive-already-put-10-hours-into-this-upcoming-rpgs-demo-because-it-has-the-best-combat-ive-seen-outside-a-fromsoft-game/)
- - [Roblox walks back some of its dramatic changes to avatar faces, but not enough to make everyone happy](https://www.pcgamer.com/games/roblox-walks-back-some-of-its-dramatic-changes-to-avatar-faces-but-not-enough-to-make-everyone-happy/)
- - [Highguard: The Kotaku Review](https://kotaku.com/highguard-the-kotaku-review-is-it-good-free-ps5-pc-5v5-3v3-update-patch-2000664646)<!-- GAME:END -->
+ - [How to get every Pal in Terraria&#39;s Palword crossover](https://www.pcgamer.com/games/survival-crafting/terrarria-pals-cattiva-foxparks-chillet-digtoise/)
+ - [I watched Markiplier play Iron Lung for 45 minutes before watching Markiplier star in the Iron Lung movie for 2+ hours. Which was better?](https://www.pcgamer.com/movies-tv/i-watched-markiplier-play-iron-lung-for-45-minutes-before-watching-markiplier-star-in-the-iron-lung-movie-for-2-hours-which-was-better/)
+ - [Thousands of players flood into Team Fortress 2 Classified, the free &#39;TF2 Classic&#39; mod that just launched on Steam](https://www.pcgamer.com/games/fps/thousands-of-players-flood-into-team-fortress-2-classified-the-free-tf2-classic-mod-that-just-launched-on-steam/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
