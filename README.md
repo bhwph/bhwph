@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TechCreate&#39;s shares surged ~1,995% in the past week; the payment software company says it is not aware of any info that would account for the trading activity &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260131/p4#a260131p4)
- - [Sandisk and Kioxia announce a five-year extension of their JV manufacturing contract from 2029 to 2034; the new deal involves SanDisk paying Kioxia $1.165B &lpar;Ryo Mukano/Nikkei Asia&rpar;](http://www.techmeme.com/260131/p3#a260131p3)
- - [Nomad Goods Promo Codes: 25% Off | February 2026](https://www.wired.com/story/nomad-discount-code/)<!-- TECH:END -->
+ - [The latest Instax printer is a pricey but worthy upgrade](https://www.theverge.com/tech/870603/fujifilm-instax-mini-link-plus-reivew-improved-photos)
+ - [Q&amp;A with Gokul Rajaram, investor and a former product leader at Google, Meta, and others, on AI changing product development, building ad businesses, and more &lpar;Patrick O&#39;Shaughnessy/Invest Like The Best on YouTube&rpar;](http://www.techmeme.com/260131/p7#a260131p7)
+ - [Ant Group reports 30M MAUs for its AI health chatbot Ant Afu, which integrates appointments, test analysis, and insurance payments within Alipay&#39;s ecosystem &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/260131/p6#a260131p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
