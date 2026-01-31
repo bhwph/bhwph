@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Even though Moltbook has security risks and a lot of spam, the scale of nearly 150,000 autonomous AI agents interacting with each other is unprecedented &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/260130/p35#a260130p35)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Jan. 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-jan-31/)
- - [A look at South Park Commons, the VC firm behind a startup community focusing on idea exploration over immediate business plans, as it aims to raise $500M &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260130/p34#a260130p34)<!-- TECH:END -->
+ - [TechCreate&#39;s shares surged ~1,995% in the past week; the payment software company says it is not aware of any info that would account for the trading activity &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260131/p4#a260131p4)
+ - [Sandisk and Kioxia announce a five-year extension of their JV manufacturing contract from 2029 to 2034; the new deal involves SanDisk paying Kioxia $1.165B &lpar;Ryo Mukano/Nikkei Asia&rpar;](http://www.techmeme.com/260131/p3#a260131p3)
+ - [Nomad Goods Promo Codes: 25% Off | February 2026](https://www.wired.com/story/nomad-discount-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
