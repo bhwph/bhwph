@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S26 Ultra might finally get this Android feature the S25 missed](https://www.androidauthority.com/galaxy-s26-ultra-android-virtualization-framework-linux-terminal-apk-teardown-3636977/)
- - [Tired of scam calls? The Galaxy S26 might finally have an answer](https://www.androidauthority.com/galaxy-s26-android-callcore-support-3636978/)
- - [Record labels are catering directly to iTunes customers to bolster Billboard chart numbers](https://appleinsider.com/articles/26/01/30/record-labels-are-catering-directly-to-itunes-customers-to-bolster-billboard-chart-numbers?utm_source=rss)<!-- TECH:END -->
+ - [Ripple co-founder Chris Larsen and crypto evangelist Tim Draper plan to spend millions this year on an effort to elect moderate California legislators &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/260130/p32#a260130p32)
+ - [Yaber L2 Plus Projector drops to record-low price, but not for long](https://www.androidauthority.com/yaber-l2-plus-projector-deal-3636926/)
+ - [Report: Jensen Huang has privately criticized what he has described as a lack of discipline in OpenAI&#39;s business approach &lpar;Fabiola Arámburo/Reuters&rpar;](http://www.techmeme.com/260130/p31#a260130p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
