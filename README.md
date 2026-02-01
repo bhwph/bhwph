@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Date-Night Boxes of 2026, Tested With My Hinge Dates](https://www.wired.com/gallery/best-date-night-boxes/)
- - [Lenovo Yoga Pro 9i 16 Aura Edition Review: Kick-Ass Laptop for Creators](https://www.cnet.com/tech/computing/lenovo-yoga-pro-9i-16-aura-edition-review-kick-ass-laptop-for-creators/)
- - [I cut my yearly streaming costs by nearly half with a few simple tricks](https://www.androidauthority.com/cut-streaming-bill-in-half-3635664/)<!-- TECH:END -->
+ - [M5 Pro, Max updates for MacBook Pro expected alongside macOS 26.3](https://appleinsider.com/articles/26/02/01/m5-pro-max-updates-for-macbook-pro-expected-alongside-macos-263?utm_source=rss)
+ - [Building a Watch Collection on a Budget? Here’s Where to Start &lpar;2026&rpar;](https://www.wired.com/gallery/want-to-build-a-watch-collection-on-a-budget-heres-where-to-start/)
+ - [Antigravity’s 360-degree A1 drone is 15 percent off](https://www.theverge.com/gadgets/870772/antigravity-insta360-a1-drone-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
