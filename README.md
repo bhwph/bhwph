@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guys, it might be a repost, but you gotta watch it](http://9gag.com/gag/aQzbrQw)
- - 😝 [The man gets to be right](http://9gag.com/gag/a4Pgx9m)
- - 👉 [Well, actually](http://9gag.com/gag/awyj8px)<!-- MEMES:END -->
+ - 6️⃣ [Well, actually](http://9gag.com/gag/awyj8px)
+ - 😝 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
+ - 👉 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)<!-- MEMES:END -->
 
 --- 
 
