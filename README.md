@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Code Vein 2 epitomizes gaming&#39;s most dire trend: the Swagless Game](https://www.polygon.com/code-vein-2-swagless-game/)
- - [Thirty years after launch, this classic space combat sim just got updated to work on modern systems and released for free](https://www.pcgamer.com/games/sim/thirty-years-after-launch-this-classic-space-combat-sim-just-got-updated-to-work-on-modern-systems-and-released-for-free/)
- - [A new Men in Black animated series is the best way forward for the struggling sci-fi franchise](https://www.polygon.com/men-in-black-animated-series-reboot-is-the-best-way-forward/)<!-- GAME:END -->
+ - [Grounded 2’s snake might be harmless, but he’s terrifying](https://www.polygon.com/grounded-2-snake-ophidiophobia-filter/)
+ - [Videogame merch is basically diet cosplay, and I&#39;m desperate for more brands to get in on being more fashionably nerdy](https://www.pcgamer.com/games/videogame-merch-is-basically-diet-cosplay-and-im-desperate-for-more-brands-to-get-in-on-being-more-fashionably-nerdy/)
+ - [Diablo 4’s Paladin class owes a lot to Zelda and Lord of the Rings](https://www.polygon.com/diablo-4-paladin-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
