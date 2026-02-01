@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [The whole war becomes about the Greeks trying to dump her in Troy but the Trojans are having none of it.](http://9gag.com/gag/aLnoNwz)
- - 😝 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
- - 👉 [Korean Invasion](http://9gag.com/gag/a9ywVp6)<!-- MEMES:END -->
+ - 😝 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
+ - 👉 [Newly released footage of Epstein chasing underage black squares](http://9gag.com/gag/a34gpR1)<!-- MEMES:END -->
 
 --- 
 
