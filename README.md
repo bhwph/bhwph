@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Alibaba has delivered more than 100K units of the Zhenwu 810E, an ASIC for AI training and inference, surpassing those of its domestic rival Cambricon &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/260201/p6#a260201p6)
- - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
- - [A researcher says an exposed Moltbook database could have let anyone take control of AI agents on the site and post anything; the database has now been closed &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/260201/p5#a260201p5)<!-- TECH:END -->
+ - [Walmart Promo Codes and Coupons: Up to 65% Off](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [Anthropic positions itself as the AI sector&#39;s superego, but it&#39;s caught between the pressures to be safe, fast, and rigorous while being commercially successful &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/260201/p7#a260201p7)
+ - [Altra Promo Codes: Get 20% Off Plus Free Shipping](https://www.wired.com/story/altra-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
