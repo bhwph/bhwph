@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [La Liga Soccer: Stream Real Madrid vs. Rayo Vallecano Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-real-madrid-vs-rayo-vallecano-live-from-anywhere/)
- - [I now have one less reason to buy a smart ring that isn’t Oura](https://www.androidauthority.com/oura-ring-portable-charger-3635730/)
- - [A look at China&#39;s &quot;genius class&quot; system that selects ~100K gifted teens annually for elite science-focused schooling; its alumni include many top tech founders &lpar;Financial Times&rpar;](http://www.techmeme.com/260201/p8#a260201p8)<!-- TECH:END -->
+ - [The Best Date-Night Boxes of 2026, Tested With My Hinge Dates](https://www.wired.com/gallery/best-date-night-boxes/)
+ - [Lenovo Yoga Pro 9i 16 Aura Edition Review: Kick-Ass Laptop for Creators](https://www.cnet.com/tech/computing/lenovo-yoga-pro-9i-16-aura-edition-review-kick-ass-laptop-for-creators/)
+ - [I cut my yearly streaming costs by nearly half with a few simple tricks](https://www.androidauthority.com/cut-streaming-bill-in-half-3635664/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
