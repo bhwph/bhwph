@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shedding light on Iran’s longest internet blackout](https://www.theverge.com/policy/871848/iran-blackout-internet-mahsa-alimardani)
- - [India proposes zero taxes for foreign cloud providers through 2047 on services sold outside the country as long as they run workloads from Indian data centers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260201/p15#a260201p15)
- - [You need to listen to M83’s icy post-rock record Dead Cities, Red Seas &amp;#038; Lost Ghosts](https://www.theverge.com/column/871847/m83-dead-cities-red-seas-lost-ghosts)<!-- TECH:END -->
+ - [Researchers detail how AI tools for generating deepfakes proliferated on Civitai before it banned them in 2025; many tools submitted before the ban remain live &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/260201/p16#a260201p16)
+ - [My Current Netflix Food Show Obsession Is Like a Fever Dream Spin-Off of &#39;The Bear&#39;](https://www.cnet.com/tech/services-and-software/netflix-food-show-just-a-dash-matty-matheson-the-bear/)
+ - [Google Brings Genie 3&#39;s Interactive World-Building Prototype to AI Ultra Subscribers](https://www.cnet.com/tech/services-and-software/google-brings-genie-3-world-building-experiment-to-ai-ultra-subscribers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
