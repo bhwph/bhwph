@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The man gets to be right](http://9gag.com/gag/a4Pgx9m)
- - 😝 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
- - 👉 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)<!-- MEMES:END -->
+ - 6️⃣ [Her shirt says just the tip I promise](http://9gag.com/gag/ae9zWDm)
+ - 😝 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)
+ - 👉 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)<!-- MEMES:END -->
 
 --- 
 
