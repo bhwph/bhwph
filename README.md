@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [I didn&#39;t even know I was bothered by how bad Skyrim&#39;s NPCs look during the split second they&#39;re opening doors, and now a modder&#39;s pointed it out the mod to fix has become essential](https://www.pcgamer.com/games/the-elder-scrolls/i-didnt-even-know-i-was-bothered-by-how-bad-skyrims-npcs-look-during-the-split-second-theyre-opening-doors-and-now-a-modders-pointed-it-out-the-mod-to-fix-has-become-essential/)
  - [Pokémon Go Vulpix and Alolan Vulpix Community Day event guide](https://www.polygon.com/pokemon-go-vulpix-alolan-community-day-shiny-ninetales-moveset-bonuses/)
- - [Larian made a chill beats Baldur&#39;s Gate 3 animation full of references to popular mods and memes](https://www.pcgamer.com/games/baldurs-gate/larian-made-a-chill-beats-baldurs-gate-3-animation-full-of-references-to-popular-mods-and-memes/)
- - [Terra Invicta review](https://www.pcgamer.com/games/strategy/terra-invicta-review/)<!-- GAME:END -->
+ - [Larian made a chill beats Baldur&#39;s Gate 3 animation full of references to popular mods and memes](https://www.pcgamer.com/games/baldurs-gate/larian-made-a-chill-beats-baldurs-gate-3-animation-full-of-references-to-popular-mods-and-memes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
