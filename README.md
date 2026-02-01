@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I didn&#39;t even know I was bothered by how bad Skyrim&#39;s NPCs look during the split second they&#39;re opening doors, and now a modder&#39;s pointed it out the mod to fix has become essential](https://www.pcgamer.com/games/the-elder-scrolls/i-didnt-even-know-i-was-bothered-by-how-bad-skyrims-npcs-look-during-the-split-second-theyre-opening-doors-and-now-a-modders-pointed-it-out-the-mod-to-fix-has-become-essential/)
- - [Pokémon Go Vulpix and Alolan Vulpix Community Day event guide](https://www.polygon.com/pokemon-go-vulpix-alolan-community-day-shiny-ninetales-moveset-bonuses/)
- - [Larian made a chill beats Baldur&#39;s Gate 3 animation full of references to popular mods and memes](https://www.pcgamer.com/games/baldurs-gate/larian-made-a-chill-beats-baldurs-gate-3-animation-full-of-references-to-popular-mods-and-memes/)<!-- GAME:END -->
+ - [Code Vein 2 epitomizes gaming&#39;s most dire trend: the Swagless Game](https://www.polygon.com/code-vein-2-swagless-game/)
+ - [Thirty years after launch, this classic space combat sim just got updated to work on modern systems and released for free](https://www.pcgamer.com/games/sim/thirty-years-after-launch-this-classic-space-combat-sim-just-got-updated-to-work-on-modern-systems-and-released-for-free/)
+ - [A new Men in Black animated series is the best way forward for the struggling sci-fi franchise](https://www.polygon.com/men-in-black-animated-series-reboot-is-the-best-way-forward/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
