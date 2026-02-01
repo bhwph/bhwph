@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India to exempt foreign companies from being taxed when providing equipment to their contract manufacturers in the country, a rule change Apple lobbied for &lpar;Reuters&rpar;](http://www.techmeme.com/260201/p12#a260201p12)
- - [This tiny pocket-friendly e-reader is packed with frustration and potential](https://www.theverge.com/tech/870583/xteink-x4-e-ink-reader-books-hands-on)
- - [M5 Pro, Max updates for MacBook Pro expected alongside macOS 26.3](https://appleinsider.com/articles/26/02/01/m5-pro-max-updates-for-macbook-pro-expected-alongside-macos-263?utm_source=rss)<!-- TECH:END -->
+ - [Shedding light on Iran’s longest internet blackout](https://www.theverge.com/policy/871848/iran-blackout-internet-mahsa-alimardani)
+ - [India proposes zero taxes for foreign cloud providers through 2047 on services sold outside the country as long as they run workloads from Indian data centers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260201/p15#a260201p15)
+ - [You need to listen to M83’s icy post-rock record Dead Cities, Red Seas &amp;#038; Lost Ghosts](https://www.theverge.com/column/871847/m83-dead-cities-red-seas-lost-ghosts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
