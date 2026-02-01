@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Denver-based Northslope, which builds customized AI applications for Palantir OS, raised a $22M Series A led by Friends &amp; Family Capital and Goldcrest Capital &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260131/p18#a260131p18)
- - [Nomura: total returns for software debt in collateralized loan obligations have been lower than all other sectors in 2026, amid fears about AI&#39;s impact on SaaS &lpar;Bloomberg&rpar;](http://www.techmeme.com/260131/p17#a260131p17)
- - [Nvidia CEO denies he’s ‘unhappy’ with OpenAI](https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai)<!-- TECH:END -->
+ - [Sources: Alibaba has delivered more than 100K units of the Zhenwu 810E, an ASIC for AI training and inference, surpassing those of its domestic rival Cambricon &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/260201/p6#a260201p6)
+ - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
+ - [A researcher says an exposed Moltbook database could have let anyone take control of AI agents on the site and post anything; the database has now been closed &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/260201/p5#a260201p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
