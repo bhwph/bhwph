@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers detail how AI tools for generating deepfakes proliferated on Civitai before it banned them in 2025; many tools submitted before the ban remain live &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/260201/p16#a260201p16)
- - [My Current Netflix Food Show Obsession Is Like a Fever Dream Spin-Off of &#39;The Bear&#39;](https://www.cnet.com/tech/services-and-software/netflix-food-show-just-a-dash-matty-matheson-the-bear/)
- - [Google Brings Genie 3&#39;s Interactive World-Building Prototype to AI Ultra Subscribers](https://www.cnet.com/tech/services-and-software/google-brings-genie-3-world-building-experiment-to-ai-ultra-subscribers/)<!-- TECH:END -->
+ - [Survey of 100 companies in the Global 2000 on AI use: 78% of CIOs use OpenAI models in production vs. 44% for Anthropic, but Anthropic&#39;s gains are impressive &lpar;a16z&rpar;](http://www.techmeme.com/260201/p17#a260201p17)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 2, #967](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-2-967/)
+ - [Today&#39;s Wordle Hints, Answer and Help for Feb. 2, #1689](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-2-1689/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
