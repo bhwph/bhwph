@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M5 Pro, Max updates for MacBook Pro expected alongside macOS 26.3](https://appleinsider.com/articles/26/02/01/m5-pro-max-updates-for-macbook-pro-expected-alongside-macos-263?utm_source=rss)
- - [Building a Watch Collection on a Budget? Here’s Where to Start &lpar;2026&rpar;](https://www.wired.com/gallery/want-to-build-a-watch-collection-on-a-budget-heres-where-to-start/)
- - [Antigravity’s 360-degree A1 drone is 15 percent off](https://www.theverge.com/gadgets/870772/antigravity-insta360-a1-drone-deal-sale)<!-- TECH:END -->
+ - [India to exempt foreign companies from being taxed when providing equipment to their contract manufacturers in the country, a rule change Apple lobbied for &lpar;Reuters&rpar;](http://www.techmeme.com/260201/p12#a260201p12)
+ - [This tiny pocket-friendly e-reader is packed with frustration and potential](https://www.theverge.com/tech/870583/xteink-x4-e-ink-reader-books-hands-on)
+ - [M5 Pro, Max updates for MacBook Pro expected alongside macOS 26.3](https://appleinsider.com/articles/26/02/01/m5-pro-max-updates-for-macbook-pro-expected-alongside-macos-263?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
