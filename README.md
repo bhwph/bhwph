@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Grounded 2’s snake might be harmless, but he’s terrifying](https://www.polygon.com/grounded-2-snake-ophidiophobia-filter/)
- - [Videogame merch is basically diet cosplay, and I&#39;m desperate for more brands to get in on being more fashionably nerdy](https://www.pcgamer.com/games/videogame-merch-is-basically-diet-cosplay-and-im-desperate-for-more-brands-to-get-in-on-being-more-fashionably-nerdy/)
- - [Diablo 4’s Paladin class owes a lot to Zelda and Lord of the Rings](https://www.polygon.com/diablo-4-paladin-interview/)<!-- GAME:END -->
+ - [21 years after release, Guild Wars 1 just got an &#39;Ironman&#39; mode inspired by a venerable community-driven challenge](https://www.pcgamer.com/games/mmo/21-years-after-release-guild-wars-1-just-got-an-ironman-mode-inspired-by-a-venerable-community-driven-challenge/)
+ - [The whole Fallout series is at a steep discount on Steam, so if you&#39;ve been waiting 29 years to begin your journey in the wasteland, your time is now](https://www.pcgamer.com/games/fallout/the-whole-fallout-series-is-at-a-steep-discount-on-steam-so-if-youve-been-waiting-29-years-to-begin-your-journey-in-the-wasteland-your-time-is-now/)
+ - [Independence Day is still the ultimate alien invasion movie — and it&#39;s streaming on Netflix](https://www.polygon.com/independence-day-is-still-the-ultimate-alien-invasion-movie/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
