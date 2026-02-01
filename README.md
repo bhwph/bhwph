@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
- - 😝 [Its been more than 20 years and I can still feel this pic on my ass haha.](http://9gag.com/gag/axyKnjn)
- - 👉 [Imagine the outcry if this happens outside of US](http://9gag.com/gag/aVvr1y8)<!-- MEMES:END -->
+ - 6️⃣ [Cat-hat-strophe !](http://9gag.com/gag/aGyvNwX)
+ - 😝 [To oblivion](http://9gag.com/gag/ae9zdLj)
+ - 👉 [How to find if you are reach](http://9gag.com/gag/a34gpx8)<!-- MEMES:END -->
 
 --- 
 
