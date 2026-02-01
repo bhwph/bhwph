@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well, actually](http://9gag.com/gag/awyj8px)
- - 😝 [Person arrested for recording law enforcement breaking the law](http://9gag.com/gag/aMV7WMR)
- - 👉 [If you see him on your plane. Deplane and fly another day please. I beg you.](http://9gag.com/gag/apR78dM)<!-- MEMES:END -->
+ - 6️⃣ [The whole war becomes about the Greeks trying to dump her in Troy but the Trojans are having none of it.](http://9gag.com/gag/aLnoNwz)
+ - 😝 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
+ - 👉 [Korean Invasion](http://9gag.com/gag/a9ywVp6)<!-- MEMES:END -->
 
 --- 
 
