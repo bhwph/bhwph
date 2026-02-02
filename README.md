@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alabama-based Linq, which pivoted to programmatic messaging APIs in February 2025, raised a $20M Series A to build AI assistants that work within messaging apps &lpar;Ram Iyer/TechCrunch&rpar;](http://www.techmeme.com/260202/p21#a260202p21)
- - [After X updated Grok to ban sexual deepfakes of women, tests show Grok still undresses men on the Grok app, website, and X, rarely resisting user requests &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260202/p20#a260202p20)
- - [Elon Musk’s Grok is still undressing men](https://www.theverge.com/report/872062/grok-still-undressing-men)<!-- TECH:END -->
+ - [AYANEO will give out free handhelds to make up for a major production mistake](https://www.androidauthority.com/ayaneo-pocket-s-mini-battery-3637231/)
+ - [Fieldguide, which uses AI agents to automate accounting and auditing tasks, raised a $75M Series C led by Goldman Sachs Alternatives at a $700M valuation &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/260202/p26#a260202p26)
+ - [The verdict is in: Android fans don’t want to lose OnePlus](https://www.androidauthority.com/oneplus-smartphone-exit-poll-results-3637222/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
