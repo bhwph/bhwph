@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Wireless Gaming Controller Holds at Its Lowest Price of the Year While PlayStation DualSense Stays at Its Regular Price](https://kotaku.com/xbox-wireless-gaming-controller-holds-at-its-lowest-price-of-the-year-while-playstation-dualsense-stays-at-its-regular-price-2000664676)
- - [Sony Goes All-In on WH-1000XM5 Headphones to Clear Out Previous-Gen Stock After XM6 Deals Roll Out](https://kotaku.com/sony-goes-all-in-on-wh-1000xm5-headphones-to-clear-out-previous-gen-stock-after-xm6-deals-roll-out-2000664791)
- - [Ex Machina&#39;s greatest achievement still gets overlooked](https://www.polygon.com/ex-machina-review-now-on-netflix/)<!-- GAME:END -->
+ - [Anker Clears Out Soundcore Boom 3i Outdoor Speaker at Nearly 50% Off, Even Lower Than Black Friday](https://kotaku.com/anker-clears-out-soundcore-boom-3i-outdoor-speaker-at-nearly-50-off-even-lower-than-black-friday-2000664681)
+ - [Steam MMO That Raised $3.2 Million On Kickstarter Implodes Just Two Months After Launch As Devs Resign In Protest](https://kotaku.com/ashes-creation-refund-kickstarter-steam-mmo-layoffs-2000665006)
+ - [The Last Of Us Might Not Get A Fourth Season, Actually](https://kotaku.com/the-last-of-us-hbo-show-season-4-final-catherine-ohara-2000665018)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
