@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [HR is watching you](http://9gag.com/gag/a0egxGz)
- - 😝 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
- - 👉 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)<!-- MEMES:END -->
+ - 6️⃣ [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
+ - 😝 [HR is watching you](http://9gag.com/gag/a0egxGz)
+ - 👉 [In hindsight, you can see why](http://9gag.com/gag/axyKQzn)<!-- MEMES:END -->
 
 --- 
 
