@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [21 years after release, Guild Wars 1 just got an &#39;Ironman&#39; mode inspired by a venerable community-driven challenge](https://www.pcgamer.com/games/mmo/21-years-after-release-guild-wars-1-just-got-an-ironman-mode-inspired-by-a-venerable-community-driven-challenge/)
- - [The whole Fallout series is at a steep discount on Steam, so if you&#39;ve been waiting 29 years to begin your journey in the wasteland, your time is now](https://www.pcgamer.com/games/fallout/the-whole-fallout-series-is-at-a-steep-discount-on-steam-so-if-youve-been-waiting-29-years-to-begin-your-journey-in-the-wasteland-your-time-is-now/)
- - [Independence Day is still the ultimate alien invasion movie — and it&#39;s streaming on Netflix](https://www.polygon.com/independence-day-is-still-the-ultimate-alien-invasion-movie/)<!-- GAME:END -->
+ - [id Software&#39;s second FPS only brought in $5,000, and the studio might not have made Wolfenstein and Doom if the game hadn&#39;t made a dev fall out of his chair: &#39;That was just one of the craziest things in a videogame I&#39;d ever seen&#39;](https://www.pcgamer.com/games/fps/id-softwares-second-fps-only-brought-in-usd5-000-and-the-studio-might-not-have-made-wolfenstein-and-doom-if-the-game-hadnt-made-a-dev-fall-out-of-his-chair-that-was-just-one-of-the-craziest-things-in-a-videogame-id-ever-seen/)
+ - [2 days after promising it was still &#39;worthy of your investment,&#39; the most successful Kickstarter MMO ever was canceled and its team laid off: &#39;The developers and staff acted in good faith and deserved better&#39;](https://www.pcgamer.com/games/mmo/2-days-after-promising-it-was-still-worthy-of-your-investment-the-most-successful-kickstarter-mmo-ever-was-canceled-and-its-team-laid-off-the-developers-and-staff-acted-in-good-faith-and-deserved-better/)
+ - [&#39;We need to get the funniest person we can possibly find&#39;: Helldivers 2&#39;s lead writer had seven days to cast John Helldiver, the face of the game&#39;s beloved intro cinematic](https://www.pcgamer.com/games/third-person-shooter/we-need-to-get-the-funniest-person-we-can-possibly-find-helldivers-2s-lead-writer-had-seven-days-to-cast-john-helldiver-the-face-of-the-games-beloved-intro-cinematic/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
