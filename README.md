@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Next Level Sorry](http://9gag.com/gag/aVvr1NO)
+ - 6️⃣ [HR is watching you](http://9gag.com/gag/a0egxGz)
  - 😝 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
- - 👉 [HR is watching you](http://9gag.com/gag/a0egxGz)<!-- MEMES:END -->
+ - 👉 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)<!-- MEMES:END -->
 
 --- 
 
