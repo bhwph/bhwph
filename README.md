@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTuber movie Iron Lungs is a box office hit, despite alleged attempts to delist it](https://www.polygon.com/iron-lungs-movie-markiplier-box-office-delisted/)
- - [Disney Lorcana’s Winterspell won me over when I leaned into silly nostalgia](https://www.polygon.com/lorcana-winterspell-disney-preview-darkwing-duck-deck/)
- - [Code Vein 2 interactive map](https://www.polygon.com/code-vein-2-interactive-map/)<!-- GAME:END -->
+ - [Xbox Wireless Gaming Controller Holds at Its Lowest Price of the Year While PlayStation DualSense Stays at Its Regular Price](https://kotaku.com/xbox-wireless-gaming-controller-holds-at-its-lowest-price-of-the-year-while-playstation-dualsense-stays-at-its-regular-price-2000664676)
+ - [Sony Goes All-In on WH-1000XM5 Headphones to Clear Out Previous-Gen Stock After XM6 Deals Roll Out](https://kotaku.com/sony-goes-all-in-on-wh-1000xm5-headphones-to-clear-out-previous-gen-stock-after-xm6-deals-roll-out-2000664791)
+ - [Ex Machina&#39;s greatest achievement still gets overlooked](https://www.polygon.com/ex-machina-review-now-on-netflix/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
