@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You&#39;re just lucky the teachers are all 20-something horndogs](http://9gag.com/gag/a6Zg4O2)
- - 😝 [Sequoia National Park, California.](http://9gag.com/gag/a7og6Gw)
- - 👉 [Feeding Charlotte at the farm.](http://9gag.com/gag/aVvr4XP)<!-- MEMES:END -->
+ - 6️⃣ [Nolan what have you done?](http://9gag.com/gag/aAyANLg)
+ - 😝 [To the 9gager who recommended The Outpost as a must watch my most sincere thanks good sir, it really has all in fantasy genre &lpar;I&#39;m currently at season 4th&rpar;... And to the geh who recommended me Alice in Borderlands I wish you the worst...](http://9gag.com/gag/a34gpG7)
+ - 👉 [Imagine the outcry if this happens outside of US](http://9gag.com/gag/aVvr1y8)<!-- MEMES:END -->
 
 --- 
 
