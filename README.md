@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seoul plans to integrate AI chatbot Maeumi into its suicide prevention hotline, offering immediate emotional support before a human counselor connects &lpar;Choi Jeong-yoon/The Korea Herald&rpar;](http://www.techmeme.com/260202/p11#a260202p11)
- - [Google Messages could soon bring back a crucial feature that was quietly removed](https://www.androidauthority.com/google-messages-edit-history-return-apk-teardown-3637127/)
- - [A look at Polymarket&#39;s rise since the US DOJ dropped its probe: securing publisher deals and US licenses, insider trading concerns, and bet resolution disputes &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260202/p10#a260202p10)<!-- TECH:END -->
+ - [Vivo and Oppo’s telephoto extender comes to iPhone](https://www.theverge.com/gadgets/872058/pgytech-telephoto-extender-iphone)
+ - [The latest T-Mobile Tuesdays freebie is a touchdown for football fans](https://www.androidauthority.com/t-mobile-tuesday-football-platter-freebie-3637168/)
+ - [AI demand forcing Apple to look for alternatives to TSMC](https://appleinsider.com/articles/26/02/02/ai-demand-forcing-apple-to-look-for-alternatives-to-tsmc?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
