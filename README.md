@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cat-hat-strophe !](http://9gag.com/gag/aGyvNwX)
- - 😝 [To oblivion](http://9gag.com/gag/ae9zdLj)
- - 👉 [How to find if you are reach](http://9gag.com/gag/a34gpx8)<!-- MEMES:END -->
+ - 6️⃣ [Next Level Sorry](http://9gag.com/gag/aVvr1NO)
+ - 😝 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
+ - 👉 [HR is watching you](http://9gag.com/gag/a0egxGz)<!-- MEMES:END -->
 
 --- 
 
