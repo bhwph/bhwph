@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A trusted leaker just gave us a close look at the Galaxy S26 Ultra](https://www.androidauthority.com/samsung-galaxy-s26-ultra-official-render-leak-3637072/)
- - [French IT company Capgemini plans to sell its US subsidiary Capgemini Government Solutions, whose contract with the US ICE drew scrutiny from French lawmakers &lpar;Sybille de La Hamaide/Reuters&rpar;](http://www.techmeme.com/260202/p1#a260202p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 2, #497](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-2-497/)<!-- TECH:END -->
+ - [Apple could be planning to copy Samsung’s foldables after all](https://www.androidauthority.com/apple-copy-samsung-foldables-flip-phone-3637088/)
+ - [This is our first look at Google’s Pixel-like camera app for Android PCs](https://www.androidauthority.com/google-desktop-camera-app-3637089/)
+ - [AI conferences have rushed to restrict the use of LLMs for writing and reviewing research papers in recent months after being flooded with AI-generated slop &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260202/p3#a260202p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
