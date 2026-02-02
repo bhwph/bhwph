@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anker Clears Out Soundcore Boom 3i Outdoor Speaker at Nearly 50% Off, Even Lower Than Black Friday](https://kotaku.com/anker-clears-out-soundcore-boom-3i-outdoor-speaker-at-nearly-50-off-even-lower-than-black-friday-2000664681)
- - [Steam MMO That Raised $3.2 Million On Kickstarter Implodes Just Two Months After Launch As Devs Resign In Protest](https://kotaku.com/ashes-creation-refund-kickstarter-steam-mmo-layoffs-2000665006)
- - [The Last Of Us Might Not Get A Fourth Season, Actually](https://kotaku.com/the-last-of-us-hbo-show-season-4-final-catherine-ohara-2000665018)<!-- GAME:END -->
+ - [Stranger Things Animated Series Trailer Tries To Wash Away The Bitter Aftertaste Of The Finale](https://kotaku.com/stranger-things-tales-85-animated-series-trailer-netflix-2000665051)
+ - [KPop Demon Hunters gave K-pop its first Grammys win](https://www.polygon.com/kpop-demon-hunters-grammy-awards-win-kpop/)
+ - [Arknights: Endfield Wuling interactive map](https://www.polygon.com/map/arknights-endfield-wuling-interactive-map/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
