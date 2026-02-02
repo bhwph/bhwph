@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could be planning to copy Samsung’s foldables after all](https://www.androidauthority.com/apple-copy-samsung-foldables-flip-phone-3637088/)
- - [This is our first look at Google’s Pixel-like camera app for Android PCs](https://www.androidauthority.com/google-desktop-camera-app-3637089/)
- - [AI conferences have rushed to restrict the use of LLMs for writing and reviewing research papers in recent months after being flooded with AI-generated slop &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260202/p3#a260202p3)<!-- TECH:END -->
+ - [Seoul plans to integrate AI chatbot Maeumi into its suicide prevention hotline, offering immediate emotional support before a human counselor connects &lpar;Choi Jeong-yoon/The Korea Herald&rpar;](http://www.techmeme.com/260202/p11#a260202p11)
+ - [Google Messages could soon bring back a crucial feature that was quietly removed](https://www.androidauthority.com/google-messages-edit-history-return-apk-teardown-3637127/)
+ - [A look at Polymarket&#39;s rise since the US DOJ dropped its probe: securing publisher deals and US licenses, insider trading concerns, and bet resolution disputes &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260202/p10#a260202p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
