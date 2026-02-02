@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Nolan what have you done?](http://9gag.com/gag/aAyANLg)
- - 😝 [To the 9gager who recommended The Outpost as a must watch my most sincere thanks good sir, it really has all in fantasy genre &lpar;I&#39;m currently at season 4th&rpar;... And to the geh who recommended me Alice in Borderlands I wish you the worst...](http://9gag.com/gag/a34gpG7)
- - 👉 [Imagine the outcry if this happens outside of US](http://9gag.com/gag/aVvr1y8)<!-- MEMES:END -->
+ - 😝 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
+ - 👉 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)<!-- MEMES:END -->
 
 --- 
 
