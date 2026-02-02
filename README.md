@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vivo and Oppo’s telephoto extender comes to iPhone](https://www.theverge.com/gadgets/872058/pgytech-telephoto-extender-iphone)
- - [The latest T-Mobile Tuesdays freebie is a touchdown for football fans](https://www.androidauthority.com/t-mobile-tuesday-football-platter-freebie-3637168/)
- - [AI demand forcing Apple to look for alternatives to TSMC](https://appleinsider.com/articles/26/02/02/ai-demand-forcing-apple-to-look-for-alternatives-to-tsmc?utm_source=rss)<!-- TECH:END -->
+ - [Alabama-based Linq, which pivoted to programmatic messaging APIs in February 2025, raised a $20M Series A to build AI assistants that work within messaging apps &lpar;Ram Iyer/TechCrunch&rpar;](http://www.techmeme.com/260202/p21#a260202p21)
+ - [After X updated Grok to ban sexual deepfakes of women, tests show Grok still undresses men on the Grok app, website, and X, rarely resisting user requests &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260202/p20#a260202p20)
+ - [Elon Musk’s Grok is still undressing men](https://www.theverge.com/report/872062/grok-still-undressing-men)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
