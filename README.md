@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [YouTuber movie Iron Lungs is a box office hit, despite alleged attempts to delist it](https://www.polygon.com/iron-lungs-movie-markiplier-box-office-delisted/)
  - [Disney Lorcana’s Winterspell won me over when I leaned into silly nostalgia](https://www.polygon.com/lorcana-winterspell-disney-preview-darkwing-duck-deck/)
- - [Code Vein 2 interactive map](https://www.polygon.com/code-vein-2-interactive-map/)
- - [Who is Egg from A Knight of The Seven Kingdoms? Aegon Targaryen V and his Game of Thrones role, explained](https://www.polygon.com/who-is-egg-explained-knight-of-the-seven-kingdoms-king-aegon-v/)<!-- GAME:END -->
+ - [Code Vein 2 interactive map](https://www.polygon.com/code-vein-2-interactive-map/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
