@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok US says it has resolved technical issues and glitches that have impacted core features, such as video likes and view counts, over the past week &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260201/p21#a260201p21)
- - [Apple, long dominant in the electronics supply chain, is starting to be outbid by AI companies for components like memory as suppliers gain leverage over Apple &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260201/p20#a260201p20)
- - [Oracle says it plans to raise $45B to $50B in 2026 to build additional capacity for its cloud infrastructure through a combination of debt and equity sales &lpar;Vincent Lee/Bloomberg&rpar;](http://www.techmeme.com/260201/p19#a260201p19)<!-- TECH:END -->
+ - [French IT company Capgemini plans to sell its US subsidiary Capgemini Government Solutions, whose contract with the US ICE drew scrutiny from French lawmakers &lpar;Sybille de La Hamaide/Reuters&rpar;](http://www.techmeme.com/260202/p1#a260202p1)
+ - [Anthropic researchers detail &quot;disempowerment patterns&quot; in AI assistant interactions where AI potentially distorts a user&#39;s reality, beliefs, or actions &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/260201/p22#a260201p22)
+ - [TikTok US says it has resolved technical issues caused by an Oracle data center outage; core features such as video view counts were impacted over the past week &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260201/p21#a260201p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
