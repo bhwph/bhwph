@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft launches the Publisher Content Marketplace in partnership with Condé Nast, Hearst, AP, and others, to let publishers license content to AI companies &lpar;Anu Adegbola/Search Engine Land&rpar;](http://www.techmeme.com/260203/p35#a260203p35)
- - [Google Pixel 9a drops to record-low price, but only in one color](https://www.androidauthority.com/google-pixel-9a-deal-9-3636925/)
- - [Bitcoin dived below the $73,000 mark on Tuesday, hitting its lowest price since November 2024 as heavy selling resumes amid mounting geopolitical concerns &lpar;Liz Napolitano/CNBC&rpar;](http://www.techmeme.com/260203/p34#a260203p34)<!-- TECH:END -->
+ - [EA reports Q3 net bookings up 38% YoY to $3.05B, vs. $2.86B est., driven by strong sales of Battlefield 6, and net income of $88M, down from $293M a year ago &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260203/p40#a260203p40)
+ - [Slopaganda goes West](https://www.theverge.com/news/873400/nick-shirley-somali-daycares-san-diego-california-youtube)
+ - [Sony’s 2026 Xperia plans look like they’re shaping up nicely](https://www.androidauthority.com/new-xperia-models-3637668/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
