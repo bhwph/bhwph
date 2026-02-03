@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit’s co-founders are back with a new app, and you can sign up for the limited beta](https://www.androidauthority.com/fitbit-creators-launch-luffu-3637547/)
- - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_source=rss)
- - [Overland AI, which develops off-road robots and autonomous vehicles for military purposes, raised $100M led by 8VC, bringing its total funding to $142M &lpar;Jen Judson/Bloomberg&rpar;](http://www.techmeme.com/260203/p22#a260203p22)<!-- TECH:END -->
+ - [Ares Interactive, which makes cross-platform, free-to-play games with plans for a new baseball game in 2026, raised a $70M Series A led by General Catalyst &lpar;Craig Chapple/PocketGamer.biz&rpar;](http://www.techmeme.com/260203/p31#a260203p31)
+ - [Galaxy Buds 4 series never looked better in latest leak](https://www.androidauthority.com/galaxy-buds-4-new-images-3637595/)
+ - [Apple brings agentic coding to Xcode 26.3, allowing developers to use Anthropic&#39;s Claude Agent and OpenAI&#39;s Codex, and integrates support for MCP &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260203/p30#a260203p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
