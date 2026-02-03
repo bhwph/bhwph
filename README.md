@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nolan what have you done?](http://9gag.com/gag/aAyANLg)
- - 😝 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
- - 👉 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)<!-- MEMES:END -->
+ - 6️⃣ [Go work as a cleaner, they said. It&#39;s a safe job, they said.](http://9gag.com/gag/aAyAqqE)
+ - 😝 [Just another casual stop for fuel](http://9gag.com/gag/amoQKy4)
+ - 👉 [Never surrender](http://9gag.com/gag/an7Z01o)<!-- MEMES:END -->
 
 --- 
 
