@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aluminium: Why Google’s Android for PC launch may be messy and controversial](https://www.theverge.com/tech/869659/aluminium-why-googles-android-for-pc-launch-may-be-messy-and-controversial)
- - [YouTube now blocking background playback on mobile browsers](https://www.theverge.com/news/872937/google-youtube-blocking-third-party-mobile-browsers-background-playback)
- - [With Galaxy Buds 4, Samsung wants to avoid its past mistakes at all costs](https://www.androidauthority.com/samsung-galaxy-buds-4-design-upgrades-3637465/)<!-- TECH:END -->
+ - [OLED MacBook screen &amp; M6 chip close to mass production](https://appleinsider.com/articles/26/02/03/m6-macbook-pro-oled-screen-m6-chip-close-to-mass-production?utm_source=rss)
+ - [Fitbit’s founders launch a new platform for monitoring your entire family’s health](https://www.theverge.com/tech/872963/fitbit-james-park-eric-friedman-luffu-caregivers-family-health-app)
+ - [Samsung thinks you all want more Folds than Flips in 2026](https://www.androidauthority.com/samsung-galaxy-z-fold-8-flip-8-production-3637492/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
