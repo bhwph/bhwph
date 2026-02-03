@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OLED MacBook screen &amp; M6 chip close to mass production](https://appleinsider.com/articles/26/02/03/m6-macbook-pro-oled-screen-m6-chip-close-to-mass-production?utm_source=rss)
- - [Fitbit’s founders launch a new platform for monitoring your entire family’s health](https://www.theverge.com/tech/872963/fitbit-james-park-eric-friedman-luffu-caregivers-family-health-app)
- - [Samsung thinks you all want more Folds than Flips in 2026](https://www.androidauthority.com/samsung-galaxy-z-fold-8-flip-8-production-3637492/)<!-- TECH:END -->
+ - [Fitbit’s co-founders are back with a new app, and you can sign up for the limited beta](https://www.androidauthority.com/fitbit-creators-launch-luffu-3637547/)
+ - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_source=rss)
+ - [Overland AI, which develops off-road robots and autonomous vehicles for military purposes, raised $100M led by 8VC, bringing its total funding to $142M &lpar;Jen Judson/Bloomberg&rpar;](http://www.techmeme.com/260203/p22#a260203p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
