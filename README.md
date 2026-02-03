@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S26 Ultra’s colors leak again, but the best ones are still missing](https://www.androidauthority.com/galaxy-s26-ultra-colors-leak-3637389/)
- - [Nintendo says the Switch 1 sold 155.37M units as of December 31, 2025 since its 2017 launch, topping the DS at 154.02M, becoming its best-selling console ever &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260203/p4#a260203p4)
- - [Nintendo reports Q3 revenue of $5.2B vs. $5.45B est., a net profit of $1.03B vs. $950M est., and maintains its 19M Switch 2 sales forecast for fiscal 2026 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260203/p3#a260203p3)<!-- TECH:END -->
+ - [Sources: OpenAI is prioritizing ChatGPT over long-term research, prompting senior staff departures; Sora and DALL-E teams felt neglected and under resourced &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260203/p7#a260203p7)
+ - [I’ve been a Motorola fan for years, but an Android phone with no updates is my breaking point](https://www.androidauthority.com/motorola-fan-years-android-phone-no-updates-breaking-point-3637260/)
+ - [Rising Temperatures Are Taking a Toll on Sleep Health](https://www.wired.com/story/climate-change-heat-sleep-apnea/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
