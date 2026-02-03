@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If assumptions hold, SpaceX-xAI could own a full stack of capabilities, from launch to orbital bandwidth to frontier AI models, and offer AI on demand anywhere &lpar;Eric Berger/Ars Technica&rpar;](http://www.techmeme.com/260202/p48#a260202p48)
- - [In a memo to employees, xAI said both companies will maintain their separate branding and the joint venture is continuing to prepare for a possible IPO in 2026 &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260202/p47#a260202p47)
- - [Leaked email: as part of the xAI-SpaceX deal, xAI shares will be converted into 0.1433 shares of SpaceX stock, and employees will have the option to cash out &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260202/p46#a260202p46)<!-- TECH:END -->
+ - [How to watch Super Bowl LX on Apple devices, streaming, cable &amp; antenna](https://appleinsider.com/inside/apple-tv/tips/how-to-watch-super-bowl-lx-on-apple-devices-streaming-cable-antenna?utm_source=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Feb. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-3/)
+ - [A look at WhatsApp&#39;s E2E encryption and whether it protects from metadata and chat backup leaks, after a lawsuit alleges Meta can read users&#39; private data &lpar;Matthew Green/A Few Thoughts ...&rpar;](http://www.techmeme.com/260202/p49#a260202p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
