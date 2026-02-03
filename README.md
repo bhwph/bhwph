@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AYANEO will give out free handhelds to make up for a major production mistake](https://www.androidauthority.com/ayaneo-pocket-s-mini-battery-3637231/)
- - [Fieldguide, which uses AI agents to automate accounting and auditing tasks, raised a $75M Series C led by Goldman Sachs Alternatives at a $700M valuation &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/260202/p26#a260202p26)
- - [The verdict is in: Android fans don’t want to lose OnePlus](https://www.androidauthority.com/oneplus-smartphone-exit-poll-results-3637222/)<!-- TECH:END -->
+ - [If assumptions hold, SpaceX-xAI could own a full stack of capabilities, from launch to orbital bandwidth to frontier AI models, and offer AI on demand anywhere &lpar;Eric Berger/Ars Technica&rpar;](http://www.techmeme.com/260202/p48#a260202p48)
+ - [In a memo to employees, xAI said both companies will maintain their separate branding and the joint venture is continuing to prepare for a possible IPO in 2026 &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260202/p47#a260202p47)
+ - [Leaked email: as part of the xAI-SpaceX deal, xAI shares will be converted into 0.1433 shares of SpaceX stock, and employees will have the option to cash out &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260202/p46#a260202p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
