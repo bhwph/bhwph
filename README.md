@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China&#39;s top memory chipmakers, CXMT and YMTC, plan their biggest expansions yet as a global supply crunch lets them close the gap with market leaders &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260203/p2#a260203p2)
- - [Leaked Galaxy S26 Ultra S Pen image reveals a two-toned twist](https://www.androidauthority.com/samsung-galaxy-s26-ultra-s-pen-colors-3637370/)
- - [Sources: Telefónica and Liberty Global, co-owners of Virgin Media O2, are set to lead a ~£2B acquisition of UK&#39;s fourth-largest broadband network, Netomnia &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260203/p1#a260203p1)<!-- TECH:END -->
+ - [Galaxy S26 Ultra’s colors leak again, but the best ones are still missing](https://www.androidauthority.com/galaxy-s26-ultra-colors-leak-3637389/)
+ - [Nintendo says the Switch 1 sold 155.37M units as of December 31, 2025 since its 2017 launch, topping the DS at 154.02M, becoming its best-selling console ever &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260203/p4#a260203p4)
+ - [Nintendo reports Q3 revenue of $5.2B vs. $5.45B est., a net profit of $1.03B vs. $950M est., and maintains its 19M Switch 2 sales forecast for fiscal 2026 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260203/p3#a260203p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
