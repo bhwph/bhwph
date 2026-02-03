@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; Announcing Festive New Year 2026 Sales and PlayStation x Wiggle Wiggle Merchandise Collaboration](https://blog.playstation.com/2026/02/02/20260203-lny2/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Launches ‘Love of Play’ Campaign with KIM CHAEWON from LE SSERAFIM](https://blog.playstation.com/2026/02/02/20260203-lny/)
- - [&#39;Do they really need marketing for Elder Scrolls 6?&#39; Skyrim lead designer says Bethesda probably won&#39;t make a TV show for The Elder Scrolls because it&#39;s already making &#39;literally billions of dollars&#39;](https://www.pcgamer.com/movies-tv/do-they-really-need-marketing-for-elder-scrolls-6-skyrim-lead-designer-says-bethesda-probably-wont-make-a-tv-show-for-the-elder-scrolls-because-its-already-making-literally-billions-of-dollars/)<!-- GAME:END -->
+ - [The PC game releases we&#39;re most excited about in February](https://www.pcgamer.com/games/pc-game-release-dates-february-2026/)
+ - [To celebrate 5 years in early access, Valheim gets a new hat, better Steam Deck performance, and—wait for it—frosted sweetbread](https://www.pcgamer.com/games/survival-crafting/to-celebrate-5-years-in-early-access-valheim-gets-a-new-hat-better-steam-deck-performance-and-wait-for-it-frosted-sweetbread/)
+ - [Controversial PS2 survival horror Rule of Rose absolutely deserves a remake or re-release, but Bloober Team isn&#39;t doing it](https://www.pcgamer.com/games/horror/controversial-ps2-survival-horror-rule-of-rose-absolutely-deserves-a-remake-or-re-release-but-bloober-team-isnt-doing-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
