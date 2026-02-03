@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Classical Collection](http://9gag.com/gag/a5Qg9Dr)
- - 😝 [Next Level Sorry](http://9gag.com/gag/aVvr1NO)
- - 👉 [Never surrender](http://9gag.com/gag/an7Z01o)<!-- MEMES:END -->
+ - 6️⃣ [Absolutes cinema](http://9gag.com/gag/aLnoVX6)
+ - 😝 [In 2009 a young model named Gabriela Jim\u00e9nez yelled on camera that she had witnessed elite socialites eating humans before being arrested She was dismissed as crazy 17 years later - the Epstein files say she was right all along Has she been seen since?](http://9gag.com/gag/a87NQqe)
+ - 👉 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)<!-- MEMES:END -->
 
 --- 
 
