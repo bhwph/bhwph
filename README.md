@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is prioritizing ChatGPT over long-term research, prompting senior staff departures; Sora and DALL-E teams felt neglected and under resourced &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260203/p7#a260203p7)
- - [I’ve been a Motorola fan for years, but an Android phone with no updates is my breaking point](https://www.androidauthority.com/motorola-fan-years-android-phone-no-updates-breaking-point-3637260/)
- - [Rising Temperatures Are Taking a Toll on Sleep Health](https://www.wired.com/story/climate-change-heat-sleep-apnea/)<!-- TECH:END -->
+ - [Aluminium: Why Google’s Android for PC launch may be messy and controversial](https://www.theverge.com/tech/869659/aluminium-why-googles-android-for-pc-launch-may-be-messy-and-controversial)
+ - [YouTube now blocking background playback on mobile browsers](https://www.theverge.com/news/872937/google-youtube-blocking-third-party-mobile-browsers-background-playback)
+ - [With Galaxy Buds 4, Samsung wants to avoid its past mistakes at all costs](https://www.androidauthority.com/samsung-galaxy-buds-4-design-upgrades-3637465/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
