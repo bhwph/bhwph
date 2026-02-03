@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger Things Animated Series Trailer Tries To Wash Away The Bitter Aftertaste Of The Finale](https://kotaku.com/stranger-things-tales-85-animated-series-trailer-netflix-2000665051)
- - [KPop Demon Hunters gave K-pop its first Grammys win](https://www.polygon.com/kpop-demon-hunters-grammy-awards-win-kpop/)
- - [Arknights: Endfield Wuling interactive map](https://www.polygon.com/map/arknights-endfield-wuling-interactive-map/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Announcing Festive New Year 2026 Sales and PlayStation x Wiggle Wiggle Merchandise Collaboration](https://blog.playstation.com/2026/02/02/20260203-lny2/)
+ - [&lpar;For Southeast Asia&rpar; PlayStation Launches ‘Love of Play’ Campaign with KIM CHAEWON from LE SSERAFIM](https://blog.playstation.com/2026/02/02/20260203-lny/)
+ - [&#39;Do they really need marketing for Elder Scrolls 6?&#39; Skyrim lead designer says Bethesda probably won&#39;t make a TV show for The Elder Scrolls because it&#39;s already making &#39;literally billions of dollars&#39;](https://www.pcgamer.com/movies-tv/do-they-really-need-marketing-for-elder-scrolls-6-skyrim-lead-designer-says-bethesda-probably-wont-make-a-tv-show-for-the-elder-scrolls-because-its-already-making-literally-billions-of-dollars/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
