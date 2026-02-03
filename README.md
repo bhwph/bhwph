@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ares Interactive, which makes cross-platform, free-to-play games with plans for a new baseball game in 2026, raised a $70M Series A led by General Catalyst &lpar;Craig Chapple/PocketGamer.biz&rpar;](http://www.techmeme.com/260203/p31#a260203p31)
- - [Galaxy Buds 4 series never looked better in latest leak](https://www.androidauthority.com/galaxy-buds-4-new-images-3637595/)
- - [Apple brings agentic coding to Xcode 26.3, allowing developers to use Anthropic&#39;s Claude Agent and OpenAI&#39;s Codex, and integrates support for MCP &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260203/p30#a260203p30)<!-- TECH:END -->
+ - [Microsoft launches the Publisher Content Marketplace in partnership with Condé Nast, Hearst, AP, and others, to let publishers license content to AI companies &lpar;Anu Adegbola/Search Engine Land&rpar;](http://www.techmeme.com/260203/p35#a260203p35)
+ - [Google Pixel 9a drops to record-low price, but only in one color](https://www.androidauthority.com/google-pixel-9a-deal-9-3636925/)
+ - [Bitcoin dived below the $73,000 mark on Tuesday, hitting its lowest price since November 2024 as heavy selling resumes amid mounting geopolitical concerns &lpar;Liz Napolitano/CNBC&rpar;](http://www.techmeme.com/260203/p34#a260203p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
