@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The PC game releases we&#39;re most excited about in February](https://www.pcgamer.com/games/pc-game-release-dates-february-2026/)
- - [To celebrate 5 years in early access, Valheim gets a new hat, better Steam Deck performance, and—wait for it—frosted sweetbread](https://www.pcgamer.com/games/survival-crafting/to-celebrate-5-years-in-early-access-valheim-gets-a-new-hat-better-steam-deck-performance-and-wait-for-it-frosted-sweetbread/)
- - [Controversial PS2 survival horror Rule of Rose absolutely deserves a remake or re-release, but Bloober Team isn&#39;t doing it](https://www.pcgamer.com/games/horror/controversial-ps2-survival-horror-rule-of-rose-absolutely-deserves-a-remake-or-re-release-but-bloober-team-isnt-doing-it/)<!-- GAME:END -->
+ - [Every Fallout season 2 Easter egg so far](https://www.polygon.com/fallout-season-2-easter-egg-show/)
+ - [Fallout Season 2 Finale Teases New Location And Something Big](https://kotaku.com/fallout-season-2-finale-teases-new-location-and-something-big-liberty-prime-colorado-2000665525)
+ - [Good news, Stardew Valley enthusiasts: the 1.7 update will make children &#39;a little more interesting&#39; and add two new marriage candidates](https://www.pcgamer.com/games/life-sim/good-news-stardew-valley-enthusiasts-the-1-7-update-will-make-children-a-little-more-interesting-and-add-two-new-marriage-candidates/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
