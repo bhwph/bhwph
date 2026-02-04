@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Absolutes cinema](http://9gag.com/gag/aLnoVX6)
- - 😝 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
- - 👉 [Yes dear](http://9gag.com/gag/awyj93r)<!-- MEMES:END -->
+ - 6️⃣ [THAT LAST LINE !!!](http://9gag.com/gag/aByzjEZ)
+ - 😝 [Absolutes cinema](http://9gag.com/gag/aLnoVX6)
+ - 👉 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)<!-- MEMES:END -->
 
 --- 
 
