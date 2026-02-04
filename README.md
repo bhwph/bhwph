@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
- - 😝 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)
- - 👉 [Hollywood..](http://9gag.com/gag/adBAA62)<!-- MEMES:END -->
+ - 6️⃣ [Maybe it was all just a diversion.](http://9gag.com/gag/a9yweQK)
+ - 😝 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
+ - 👉 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)<!-- MEMES:END -->
 
 --- 
 
