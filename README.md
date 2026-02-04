@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Absolutes cinema](http://9gag.com/gag/aLnoVX6)
- - 😝 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
- - 👉 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)<!-- MEMES:END -->
+ - 6️⃣ [Valar Morghulis](http://9gag.com/gag/a9yweLo)
+ - 😝 [One Feature Video Went Viral. Now This Greek Restaurant Has Customers Everywhere!](http://9gag.com/gag/aVvr82M)
+ - 👉 [Maybe it was all just a diversion.](http://9gag.com/gag/a9yweQK)<!-- MEMES:END -->
 
 --- 
 
