@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
- - 😝 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
- - 👉 [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)<!-- MEMES:END -->
+ - 6️⃣ [Absolutes cinema](http://9gag.com/gag/aLnoVX6)
+ - 😝 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
+ - 👉 [Yes dear](http://9gag.com/gag/awyj93r)<!-- MEMES:END -->
 
 --- 
 
