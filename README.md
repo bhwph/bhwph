@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Education Hub will teach coding &amp; robotics to India supply chain staff](https://appleinsider.com/articles/26/02/04/apple-education-hub-will-teach-coding-robotics-to-india-supply-chain-staff?utm_source=rss)
- - [Egypt plans to ban Roblox in a bid to curb kids&#39; exposure to potentially harmful online material; the Middle East&#39;s most populous nation joins Qatar and Turkey &lpar;Bloomberg&rpar;](http://www.techmeme.com/260204/p22#a260204p22)
- - [The Galaxy S25 FE might be Samsung’s best-kept secret](https://www.androidauthority.com/galaxy-s25-fe-samsung-best-kept-secret-3637383/)<!-- TECH:END -->
+ - [Questionable leak: MacBook Pro with M5 Pro and M5 Max coming in March, not February](https://appleinsider.com/articles/26/02/04/questionable-leak-macbook-pro-with-m5-pro-and-m5-max-coming-in-march-not-february?utm_source=rss)
+ - [January 2026 Google Play system update just turned into November 2025? You’re not alone](https://www.androidauthority.com/google-play-system-update-downgrade-bug-3637834/)
+ - [Spotify launches offline lyrics, translations, and lyric previews](https://www.theverge.com/entertainment/873779/spotify-lyrics-offline-translations-previews)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
