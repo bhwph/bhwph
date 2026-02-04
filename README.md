@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Questionable leak: MacBook Pro with M5 Pro and M5 Max coming in March, not February](https://appleinsider.com/articles/26/02/04/questionable-leak-macbook-pro-with-m5-pro-and-m5-max-coming-in-march-not-february?utm_source=rss)
- - [January 2026 Google Play system update just turned into November 2025? You’re not alone](https://www.androidauthority.com/google-play-system-update-downgrade-bug-3637834/)
- - [Spotify launches offline lyrics, translations, and lyric previews](https://www.theverge.com/entertainment/873779/spotify-lyrics-offline-translations-previews)<!-- TECH:END -->
+ - [iPhone Lockdown Mode will protect your data, even from the FBI](https://appleinsider.com/articles/26/02/04/iphone-lockdown-mode-will-protect-your-data-even-from-the-fbi?utm_source=rss)
+ - [Uber promotes Balaji Krishnamurthy, former VP of strategic finance and investor relations, to CFO, replacing Prashanth Mahendra-Rajah &lpar;Ram Iyer/TechCrunch&rpar;](http://www.techmeme.com/260204/p31#a260204p31)
+ - [Cozey Neptune Sofa Bed Review: Firm but Flexible](https://www.wired.com/review/cozey-neptune-sofa-bed/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
