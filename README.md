@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Lockdown Mode will protect your data, even from the FBI](https://appleinsider.com/articles/26/02/04/iphone-lockdown-mode-will-protect-your-data-even-from-the-fbi?utm_source=rss)
- - [Uber promotes Balaji Krishnamurthy, former VP of strategic finance and investor relations, to CFO, replacing Prashanth Mahendra-Rajah &lpar;Ram Iyer/TechCrunch&rpar;](http://www.techmeme.com/260204/p31#a260204p31)
- - [Cozey Neptune Sofa Bed Review: Firm but Flexible](https://www.wired.com/review/cozey-neptune-sofa-bed/)<!-- TECH:END -->
+ - [Anker SOLIX’s new power backup system merges renewable and fossil fuel power for the best results](https://www.androidauthority.com/anker-solix-hybrid-solar-gas-power-backup-3631708/)
+ - [Apple&#39;s M5 MacBook Pro with 24GB RAM plunges to $1,499 &lpar;$300 off&rpar;](https://appleinsider.com/articles/26/02/04/apples-m5-macbook-pro-with-24gb-ram-plunges-to-1499-300-off?utm_source=rss)
+ - [Google teases the Pixel 10a in a new video, revealing a completely flat rear camera, and says pre-orders begin on February 18 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260204/p37#a260204p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
