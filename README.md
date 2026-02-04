@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Teaching them young about siege tactics](http://9gag.com/gag/aXP33Zb)
- - 😝 [Sweat: nature\u2019s luxury lotion](http://9gag.com/gag/aVvr8d8)
- - 👉 [License and registration please...](http://9gag.com/gag/a0eggMZ)<!-- MEMES:END -->
+ - 6️⃣ [Should have installed protection](http://9gag.com/gag/aPAL0Dw)
+ - 😝 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
+ - 👉 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)<!-- MEMES:END -->
 
 --- 
 
