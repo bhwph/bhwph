@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [JellyFin is the best Plex alternative, and it’s finally expanding to more TVs](https://www.androidauthority.com/jellyfin-samsung-tvs-3637724/)
- - [A profile of Obsidian, a game studio Microsoft acquired in 2018, as it seeks to expedite game development and reduce costs after releasing three titles in 2025 &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/260204/p5#a260204p5)
- - [An interview with Kai-Fu Lee on his startup 01.ai, which builds agentic AI tools for companies, why he thinks China will beat the US in consumer AI, and more &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/260204/p4#a260204p4)<!-- TECH:END -->
+ - [Whatever you do, don’t buy a cheap Google Pixel phone right now](https://www.androidauthority.com/dont-buy-cheap-google-pixel-phone-right-now-february-2026-why-3637541/)
+ - [AI Bots Are Now a Signifigant Source of Web Traffic](https://www.wired.com/story/ai-bots-are-now-a-signifigant-source-of-web-traffic/)
+ - [Are foldable phones worth it in 2026? Here’s what you told us.](https://www.androidauthority.com/foldable-phones-worth-buying-poll-results-3637750/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
