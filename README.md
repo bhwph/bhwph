@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whatever you do, don’t buy a cheap Google Pixel phone right now](https://www.androidauthority.com/dont-buy-cheap-google-pixel-phone-right-now-february-2026-why-3637541/)
- - [AI Bots Are Now a Signifigant Source of Web Traffic](https://www.wired.com/story/ai-bots-are-now-a-signifigant-source-of-web-traffic/)
- - [Are foldable phones worth it in 2026? Here’s what you told us.](https://www.androidauthority.com/foldable-phones-worth-buying-poll-results-3637750/)<!-- TECH:END -->
+ - [Apple Education Hub will teach coding &amp; robotics to India supply chain staff](https://appleinsider.com/articles/26/02/04/apple-education-hub-will-teach-coding-robotics-to-india-supply-chain-staff?utm_source=rss)
+ - [Egypt plans to ban Roblox in a bid to curb kids&#39; exposure to potentially harmful online material; the Middle East&#39;s most populous nation joins Qatar and Turkey &lpar;Bloomberg&rpar;](http://www.techmeme.com/260204/p22#a260204p22)
+ - [The Galaxy S25 FE might be Samsung’s best-kept secret](https://www.androidauthority.com/galaxy-s25-fe-samsung-best-kept-secret-3637383/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
