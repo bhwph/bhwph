@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA reports Q3 net bookings up 38% YoY to $3.05B, vs. $2.86B est., driven by strong sales of Battlefield 6, and net income of $88M, down from $293M a year ago &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260203/p40#a260203p40)
- - [Slopaganda goes West](https://www.theverge.com/news/873400/nick-shirley-somali-daycares-san-diego-california-youtube)
- - [Sony’s 2026 Xperia plans look like they’re shaping up nicely](https://www.androidauthority.com/new-xperia-models-3637668/)<!-- TECH:END -->
+ - [Filing: OpenAI accuses xAI of systematically destroying evidence in its antitrust case by directing employees to use auto-deleting &quot;ephemeral messaging tools&quot; &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/260203/p52#a260203p52)
+ - [Adobe actually won’t discontinue Animate](https://www.theverge.com/tech/873621/adobe-animate-maintenance-mode-reverse-course)
+ - [Alaffia Health, which provides AI tools for health plan claims operations, raised a $55M Series B led by Transformation Capital &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260203/p51#a260203p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
