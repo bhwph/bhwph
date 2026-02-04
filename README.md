@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: OpenAI accuses xAI of systematically destroying evidence in its antitrust case by directing employees to use auto-deleting &quot;ephemeral messaging tools&quot; &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/260203/p52#a260203p52)
- - [Adobe actually won’t discontinue Animate](https://www.theverge.com/tech/873621/adobe-animate-maintenance-mode-reverse-course)
- - [Alaffia Health, which provides AI tools for health plan claims operations, raised a $55M Series B led by Transformation Capital &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260203/p51#a260203p51)<!-- TECH:END -->
+ - [Sources: Tokyo-based chipmaker Renesas agrees to sell its clocks and timing device business to Nasdaq-listed chip design company SiTime for ~$3B &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260203/p56#a260203p56)
+ - [Sources: US Commerce Dept. has finished review of Nvidia&#39;s license to sell China H200s, but the State Dept. seeks tighter restrictions, delaying final approval &lpar;Financial Times&rpar;](http://www.techmeme.com/260203/p55#a260203p55)
+ - [How to add, change, and remove a lock screen message in macOS](https://appleinsider.com/inside/macos-tahoe/tips/how-to-add-change-and-remove-a-lock-screen-message-in-macos?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
