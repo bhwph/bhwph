@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Tokyo-based chipmaker Renesas agrees to sell its clocks and timing device business to Nasdaq-listed chip design company SiTime for ~$3B &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260203/p56#a260203p56)
- - [Sources: US Commerce Dept. has finished review of Nvidia&#39;s license to sell China H200s, but the State Dept. seeks tighter restrictions, delaying final approval &lpar;Financial Times&rpar;](http://www.techmeme.com/260203/p55#a260203p55)
- - [How to add, change, and remove a lock screen message in macOS](https://appleinsider.com/inside/macos-tahoe/tips/how-to-add-change-and-remove-a-lock-screen-message-in-macos?utm_source=rss)<!-- TECH:END -->
+ - [Official Galaxy S26 teaser videos are here, hinting at better zoom and more](https://www.androidauthority.com/samsung-galaxy-s26-teaser-videos-3637717/)
+ - [Sources: banks are marketing at least $56B in investment-grade data center construction loans tied to Oracle&#39;s leases, as they seek out new buyers for the loans &lpar;Michelle Chan/Financial Times&rpar;](http://www.techmeme.com/260204/p3#a260204p3)
+ - [AMD reports $390M in revenue from MI308 AI chip sales in China in Q4; CEO Lisa Su says orders were &quot;from very early in 2025&quot; but shipped in Q4 after US approval &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260204/p2#a260204p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
