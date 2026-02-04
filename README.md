@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says the Anthropic Super Bowl ads are funny but &quot;dishonest&quot;, and Anthropic serves a &quot;product to rich people&quot; while OpenAI is committed to free access &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/260204/p39#a260204p39)
- - [This Town, 2.0](https://www.theverge.com/column/874050/regulator-shutdown-averted-crypto)
- - [Overwatch: all the news about Blizzard’s hit hero shooter](https://www.theverge.com/2022/6/14/23167853/overwatch-2-activision-blizzard-news)<!-- TECH:END -->
+ - [Filing: Workday is cutting ~400 employees, or ~2% of its workforce, primarily in customer-facing roles, saying the move will help it invest in priority areas &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260204/p48#a260204p48)
+ - [Fitbit Launches Luffu, AI-Powered Health Tracking for the Whole Family](https://www.cnet.com/tech/fitbit-launches-luffu-an-ai-based-healthcare-platform-for-tracking-your-familys-health/)
+ - [What the heck is a ‘multi-spectral’ stylus? Decoding the recent rumor](https://www.androidauthority.com/multi-spectral-stylus-3638083/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
