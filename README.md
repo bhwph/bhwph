@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [THAT LAST LINE !!!](http://9gag.com/gag/aByzjEZ)
- - 😝 [Absolutes cinema](http://9gag.com/gag/aLnoVX6)
- - 👉 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)<!-- MEMES:END -->
+ - 6️⃣ [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
+ - 😝 [Yes dear](http://9gag.com/gag/awyj93r)
+ - 👉 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)<!-- MEMES:END -->
 
 --- 
 
