@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After angry staff complaints, Tim Cook says he will push lawmakers on immigration policy](https://appleinsider.com/articles/26/02/05/after-angry-staff-complaints-tim-cook-says-he-will-push-lawmakers-on-immigration-policy?utm_source=rss)
- - [ICE and CBP’s Face-Recognition App Can’t Actually Verify Who People Are](https://www.wired.com/story/cbp-ice-dhs-mobile-fortify-face-recognition-verify-identity/)
- - [How Anthropic&#39;s ruthless efficiency comes in part from its mission-obsessed culture, which eliminates the friction that tends to slow things down at Big Tech &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/260205/p43#a260205p43)<!-- TECH:END -->
+ - [Google is finally fixing one of the At a Glance widget’s biggest problems](https://www.androidauthority.com/at-a-glance-contrast-3638383/)
+ - [Amazon reports Q4 ad revenue up 23% YoY to $21.32B, slightly above expectations, and subscription services revenue up 14% to $13.12B &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260205/p48#a260205p48)
+ - [Google gives Android Canary users a new place to stay up-to-date](https://www.androidauthority.com/android-canary-subreddit-launch-3638411/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
