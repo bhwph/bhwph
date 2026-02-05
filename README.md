@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will apply all the tech and power it has to make live F1 content a success](https://appleinsider.com/articles/26/02/05/apple-will-apply-all-the-tech-and-power-it-has-to-make-live-f1-content-a-success?utm_source=rss)
- - [The 2026 Winter Olympics Will Have a Major Impact on the Region’s Snow](https://www.wired.com/story/winter-olympics-2026-impacts-snow/)
- - [One of the best laptop power banks available is cheaper than ever](https://www.theverge.com/gadgets/874509/anker-laptop-power-bank-google-pixel-watch-4-deal-sale)<!-- TECH:END -->
+ - [After angry staff complaints, Tim Cook says he will push lawmakers on immigration policy](https://appleinsider.com/articles/26/02/05/after-angry-staff-complaints-tim-cook-says-he-will-push-lawmakers-on-immigration-policy?utm_source=rss)
+ - [ICE and CBP’s Face-Recognition App Can’t Actually Verify Who People Are](https://www.wired.com/story/cbp-ice-dhs-mobile-fortify-face-recognition-verify-identity/)
+ - [How Anthropic&#39;s ruthless efficiency comes in part from its mission-obsessed culture, which eliminates the friction that tends to slow things down at Big Tech &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/260205/p43#a260205p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
