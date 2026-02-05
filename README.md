@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is the only reason I still buy flagship Android phones in 2026](https://www.androidauthority.com/only-reason-buy-flagship-android-phones-3637800/)
- - [London-based Lawhive, whose lawyers and AI tools help individuals and SMBs automate legal tasks, raised a $60M Series B, after a $40M Series A in December 2024 &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260205/p18#a260205p18)
- - [Apple Arcade&#39;s &#39;Civilization VII&#39; is good, but falls short of greatness](https://appleinsider.com/articles/26/02/05/apple-arcades-civilization-vii-is-good-but-falls-short-of-greatness?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI launches Frontier, an AI agent management platform that provides shared context, onboarding, and permission boundaries, available to select customers &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260205/p22#a260205p22)
+ - [Sources: Nvidia delays the release of its incremental gaming GPU upgrade, codenamed Kicker, marking the first year in three decades without a new GPU for gaming &lpar;The Information&rpar;](http://www.techmeme.com/260205/p21#a260205p21)
+ - [Elon Musk’s SpaceX could build its own phone with native Starlink connectivity](https://www.androidauthority.com/spacex-starlink-mobile-phone-3638197/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
