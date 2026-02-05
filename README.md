@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve Says Its New Console Plays The ‘Majority’ Of Steam Games At 4K 60FPS With FSR](https://kotaku.com/steam-machine-resolution-framerate-specs-2000665807)
- - [Steam Machine will play the majority of Steam titles &#39;at 4K 60 fps with FSR&#39;, but some will require more upscaling than others, Valve says](https://www.pcgamer.com/hardware/steam-machine-will-play-the-majority-of-steam-titles-at-4k-60-fps-with-fsr-but-some-will-require-more-upscaling-than-others-valve-says/)
- - [I&#39;m glad I waited 25 years to play the longest Dragon Quest game](https://www.pcgamer.com/games/rpg/im-glad-i-waited-25-years-to-play-the-longest-dragon-quest-game/)<!-- GAME:END -->
+ - [Best vocations in Dragon Quest 7 Reimagined](https://www.polygon.com/dragon-quest-7-reimagined-dq7-best-vocations-classes-how-to-change/)
+ - [Best monster hearts in Dragon Quest 7 Reimagined](https://www.polygon.com/dragon-quest-7-reimagined-dq7-best-monster-hearts/)
+ - [10 Dragon Quest 7 Reimagined beginner&#39;s tips and tricks](https://www.polygon.com/dragon-quest-7-reimagined-dq7-beginners-tips-tricks-guide/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
