@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Baidu announces a stock buyback program of as much as $5B through the end of 2028, and plans to issue its first dividend in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260204/p54#a260204p54)
- - [Double your productivity on the cheap with this ASUS portable monitor deal!](https://www.androidauthority.com/asus-zenscreen-16-inch-portable-monitor-mb16ahv-deal-3637986/)
- - [Google &amp; Apple CEOs offer seemingly contradictory statements regarding AI partnership](https://appleinsider.com/articles/26/02/05/google-apple-ceos-offer-seemingly-contradictory-statements-regarding-ai-partnership?utm_source=rss)<!-- TECH:END -->
+ - [Sony reports Q3 gaming and network services revenue down 4% YoY to $10.5B, profit up 19% YoY to ~$889M, and PlayStation 5 sales down 16% YoY to 8M units &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/260204/p58#a260204p58)
+ - [Sony reports Q3 revenue up 1% YoY to ~$23.68B, vs. ~$23.53B est., operating profit up 22% to ~$3.28B, vs. ~$2.99B est., raises FY operating profit outlook 8% &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260204/p57#a260204p57)
+ - [How to use filtering in Messages on iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-use-filtering-in-messages-on-ios-26?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
