@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hypothetically](http://9gag.com/gag/a9yw07m)
- - 😝 [Avalanche transceiver](http://9gag.com/gag/aQzb5mW)
- - 👉 [Got hit with the solar flare](http://9gag.com/gag/a5Qg3og)<!-- MEMES:END -->
+ - 6️⃣ [Valar Morghulis](http://9gag.com/gag/a9yweLo)
+ - 😝 [By redacting whoever sending this email, the US Department of Justice is desperately trying to protect a criminal](http://9gag.com/gag/apR77Zb)
+ - 👉 [Collector bought an ex-Iraqi Army tank on eBay for about \u00a330,000 and made an astonishing discovery when he and his mechanic inspected it five gold bars hidden inside the diesel fuel tank](http://9gag.com/gag/a5Qg3WN)<!-- MEMES:END -->
 
 --- 
 
