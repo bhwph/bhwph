@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI launches Frontier, an AI agent management platform that provides shared context, onboarding, and permission boundaries, available to select customers &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260205/p22#a260205p22)
- - [Sources: Nvidia delays the release of its incremental gaming GPU upgrade, codenamed Kicker, marking the first year in three decades without a new GPU for gaming &lpar;The Information&rpar;](http://www.techmeme.com/260205/p21#a260205p21)
- - [Elon Musk’s SpaceX could build its own phone with native Starlink connectivity](https://www.androidauthority.com/spacex-starlink-mobile-phone-3638197/)<!-- TECH:END -->
+ - [Gboard is working on supersizing your emoji](https://www.androidauthority.com/gboard-emoji-size-3638227/)
+ - [DOJ files reveal Epstein&#39;s deep Silicon Valley relationships and how key insiders offered access to buzzy startups like Coinbase, long after his 2008 conviction &lpar;New York Times&rpar;](http://www.techmeme.com/260205/p27#a260205p27)
+ - [Nvidia&amp;#8217;s RTX 50-series Super refresh is delayed, and the RTX 60-series might miss 2027](https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
