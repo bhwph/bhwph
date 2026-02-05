@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hollywood..](http://9gag.com/gag/adBAA62)
- - 😝 [Indeed smooth...](http://9gag.com/gag/aXP3zOv)
- - 👉 [Collector bought an ex-Iraqi Army tank on eBay for about \u00a330,000 and made an astonishing discovery when he and his mechanic inspected it five gold bars hidden inside the diesel fuel tank](http://9gag.com/gag/a5Qg3WN)<!-- MEMES:END -->
+ - 6️⃣ [Raising twins after your sister passed and they become a doctor and a cop is truly god-tier parenting](http://9gag.com/gag/aO8EEq3)
+ - 😝 [Got hit with the solar flare](http://9gag.com/gag/a5Qg3og)
+ - 👉 [New cast for Velma](http://9gag.com/gag/aQzb5Dw)<!-- MEMES:END -->
 
 --- 
 
