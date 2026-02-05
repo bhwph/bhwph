@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony reports Q3 gaming and network services revenue down 4% YoY to $10.5B, profit up 19% YoY to ~$889M, and PlayStation 5 sales down 16% YoY to 8M units &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/260204/p58#a260204p58)
- - [Sony reports Q3 revenue up 1% YoY to ~$23.68B, vs. ~$23.53B est., operating profit up 22% to ~$3.28B, vs. ~$2.99B est., raises FY operating profit outlook 8% &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260204/p57#a260204p57)
- - [How to use filtering in Messages on iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-use-filtering-in-messages-on-ios-26?utm_source=rss)<!-- TECH:END -->
+ - [Sources: HP, Dell, Acer, and Asus are considering sourcing memory chips from Chinese chipmakers; HP and Dell are currently qualifying DRAM products from CXMT &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260205/p3#a260205p3)
+ - [Cybersecurity company Varonis agrees to acquire AllTrue, which develops specialized tools for AI trust, risk, and security management, for $125M in cash &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/260205/p2#a260205p2)
+ - [TSMC plans to produce 3nm chips at its second plant in Kumamoto, Japan; sources say that is an upgrade from an original plan to produce 7nm chips by late 2027 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260205/p1#a260205p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
