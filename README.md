@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany&#39;s Federal Cartel Office rules Amazon must stop enforcing price controls for retailers on its German marketplace and seizes €59M; Amazon can appeal &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/260205/p9#a260205p9)
- - [6 big changes coming to your Pixel in next month’s Android 16 QPR3 update](https://www.androidauthority.com/android-16-qpr3-big-changes-pixel-3637858/)
- - [Hollywood Is Losing Audiences to AI Fatigue](https://www.wired.com/story/hollywood-is-losing-audiences-to-ai-fatigue/)<!-- TECH:END -->
+ - [This is the only reason I still buy flagship Android phones in 2026](https://www.androidauthority.com/only-reason-buy-flagship-android-phones-3637800/)
+ - [London-based Lawhive, whose lawyers and AI tools help individuals and SMBs automate legal tasks, raised a $60M Series B, after a $40M Series A in December 2024 &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260205/p18#a260205p18)
+ - [Apple Arcade&#39;s &#39;Civilization VII&#39; is good, but falls short of greatness](https://appleinsider.com/articles/26/02/05/apple-arcades-civilization-vii-is-good-but-falls-short-of-greatness?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
