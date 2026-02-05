@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gboard is working on supersizing your emoji](https://www.androidauthority.com/gboard-emoji-size-3638227/)
- - [DOJ files reveal Epstein&#39;s deep Silicon Valley relationships and how key insiders offered access to buzzy startups like Coinbase, long after his 2008 conviction &lpar;New York Times&rpar;](http://www.techmeme.com/260205/p27#a260205p27)
- - [Nvidia&amp;#8217;s RTX 50-series Super refresh is delayed, and the RTX 60-series might miss 2027](https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay)<!-- TECH:END -->
+ - [Apple will apply all the tech and power it has to make live F1 content a success](https://appleinsider.com/articles/26/02/05/apple-will-apply-all-the-tech-and-power-it-has-to-make-live-f1-content-a-success?utm_source=rss)
+ - [The 2026 Winter Olympics Will Have a Major Impact on the Region’s Snow](https://www.wired.com/story/winter-olympics-2026-impacts-snow/)
+ - [One of the best laptop power banks available is cheaper than ever](https://www.theverge.com/gadgets/874509/anker-laptop-power-bank-google-pixel-watch-4-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
