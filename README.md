@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Should have installed protection](http://9gag.com/gag/aPAL0Dw)
+ - 6️⃣ [Hollywood..](http://9gag.com/gag/adBAA62)
  - 😝 [Indeed smooth...](http://9gag.com/gag/aXP3zOv)
- - 👉 [Hollywood..](http://9gag.com/gag/adBAA62)<!-- MEMES:END -->
+ - 👉 [Collector bought an ex-Iraqi Army tank on eBay for about \u00a330,000 and made an astonishing discovery when he and his mechanic inspected it five gold bars hidden inside the diesel fuel tank](http://9gag.com/gag/a5Qg3WN)<!-- MEMES:END -->
 
 --- 
 
