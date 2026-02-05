@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [Raising twins after your sister passed and they become a doctor and a cop is truly god-tier parenting](http://9gag.com/gag/aO8EEq3)
  - 😝 [Got hit with the solar flare](http://9gag.com/gag/a5Qg3og)
- - 👉 [New cast for Velma](http://9gag.com/gag/aQzb5Dw)<!-- MEMES:END -->
+ - 👉 [Hollywood..](http://9gag.com/gag/adBAA62)<!-- MEMES:END -->
 
 --- 
 
