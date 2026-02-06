@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SIA: chip sales hit $791.7B in 2025, up 25.6% YoY, with Nvidia, AMD, and Intel accounting for $301.9B, up 40%; SIA expects sales to reach $1T in 2026 &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/260206/p8#a260206p8)
- - [How Epstein became a tech influencer](https://www.theverge.com/podcast/874768/epstein-files-tech-anthropic-ads-vergecast)
- - [Apple Vision Pro anniversary, Gemini confusion, and iPhone Flip on the AppleInsider Podcast](https://appleinsider.com/articles/26/02/06/apple-vision-pro-anniversary-gemini-confusion-and-iphone-flip-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [Waymo says it is using DeepMind&#39;s Genie 3 to create realistic digital worlds for its autonomous driving technology to train on edge-case scenarios &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260206/p12#a260206p12)
+ - [The Only Thing Standing Between Humanity and AI Apocalypse Is … Claude?](https://www.wired.com/story/the-only-thing-standing-between-humanity-and-ai-apocalypse-is-claude/)
+ - [Amazon, Google, and Microsoft reported a collective $1.1T backlog of cloud computing revenue in their latest quarterly earnings, including Microsoft&#39;s $625B &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/260206/p11#a260206p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
