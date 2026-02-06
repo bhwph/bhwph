@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best vocations in Dragon Quest 7 Reimagined](https://www.polygon.com/dragon-quest-7-reimagined-dq7-best-vocations-classes-how-to-change/)
- - [Best monster hearts in Dragon Quest 7 Reimagined](https://www.polygon.com/dragon-quest-7-reimagined-dq7-best-monster-hearts/)
- - [10 Dragon Quest 7 Reimagined beginner&#39;s tips and tricks](https://www.polygon.com/dragon-quest-7-reimagined-dq7-beginners-tips-tricks-guide/)<!-- GAME:END -->
+ - [Baldur’s Gate 3 HBO show will pick up where BG3 ended](https://www.polygon.com/baldurs-gate-3-show-adaptation-hbo-craig-mazin/)
+ - [A Baldur&#39;s Gate HBO series is in the works, will be set directly after Baldur&#39;s Gate 3 with new and returning characters](https://www.pcgamer.com/movies-tv/baldurs-gate-tv-show-announced/)
+ - [A Baldur’s Gate TV Show Is Happening In The Worst Way Possible](https://kotaku.com/baldurs-gate-3-hbo-show-craig-mazin-last-of-us-2000666189)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
