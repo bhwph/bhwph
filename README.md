@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Croatian-founded Daytona, which aims to build infrastructure for large-scale agent workloads, raised a $24M Series A led by FirstMark &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260206/p20#a260206p20)
- - [CarPlay could soon support third-party AI voice assistants like ChatGPT](https://appleinsider.com/articles/26/02/06/carplay-could-soon-support-third-party-ai-voice-assistants-like-chatgpt?utm_source=rss)
- - [OpenAI may turn on a Dime when it comes to its hardware plans](https://www.androidauthority.com/openai-earbuds-dime-leak-3638698/)<!-- TECH:END -->
+ - [Don’t make this Google Photos mistake and delete all your vacation pics](https://www.androidauthority.com/google-photos-delete-3638743/)
+ - [ICE Agent&#39;s ‘Dragging’ Case May Help Expose Evidence in Renee Good Shooting](https://www.wired.com/story/jonathan-ross-renee-good-roberto-carlos-munoz-guatemala/)
+ - [Deal: The ASUS ZenScreen 22-inch Portable Monitor is cheaper than ever!](https://www.androidauthority.com/asus-zenscreen-22-inch-portable-monitor-deal-3638737/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
