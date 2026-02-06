@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo says it is using DeepMind&#39;s Genie 3 to create realistic digital worlds for its autonomous driving technology to train on edge-case scenarios &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260206/p12#a260206p12)
- - [The Only Thing Standing Between Humanity and AI Apocalypse Is … Claude?](https://www.wired.com/story/the-only-thing-standing-between-humanity-and-ai-apocalypse-is-claude/)
- - [Amazon, Google, and Microsoft reported a collective $1.1T backlog of cloud computing revenue in their latest quarterly earnings, including Microsoft&#39;s $625B &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/260206/p11#a260206p11)<!-- TECH:END -->
+ - [Blowout AirTag deals deliver prices as low as $17, discounts up to 41% off](https://appleinsider.com/articles/26/02/06/blowout-airtag-deals-deliver-prices-as-low-as-17-discounts-up-to-41-off?utm_source=rss)
+ - [London-based Bound, an automated FX risk management platform, raised a $24.5M Series A led by AlbionVC as it seeks to expand across Europe &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260206/p15#a260206p15)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
