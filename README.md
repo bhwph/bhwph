@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can China’s No. 2 automaker make it in America?](https://www.theverge.com/transportation/874551/geely-volvo-china-cars-us-software-restrictions)
- - [How the men in the Epstein files defeated #MeToo](https://www.theverge.com/tech/874721/epstein-thiel-musk-trump-metoo)
- - [Uber found liable for sexual assault in first of thousands of similar lawsuits](https://www.theverge.com/transportation/874751/uber-sexual-assault-federal-case-verdict-liable)<!-- TECH:END -->
+ - [SIA: chip sales hit $791.7B in 2025, up 25.6% YoY, with Nvidia, AMD, and Intel accounting for $301.9B, up 40%; SIA expects sales to reach $1T in 2026 &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/260206/p8#a260206p8)
+ - [How Epstein became a tech influencer](https://www.theverge.com/podcast/874768/epstein-files-tech-anthropic-ads-vergecast)
+ - [Apple Vision Pro anniversary, Gemini confusion, and iPhone Flip on the AppleInsider Podcast](https://appleinsider.com/articles/26/02/06/apple-vision-pro-anniversary-gemini-confusion-and-iphone-flip-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
