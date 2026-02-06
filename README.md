@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Uhmm.](http://9gag.com/gag/aByz5e2)
- - 😝 [By redacting whoever sending this email, the US Department of Justice is desperately trying to protect a criminal](http://9gag.com/gag/apR77Zb)
- - 👉 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)<!-- MEMES:END -->
+ - 😝 [Who IS you ?](http://9gag.com/gag/azxy3Wz)
+ - 👉 [Best field trip ever](http://9gag.com/gag/a6Zg63m)<!-- MEMES:END -->
 
 --- 
 
