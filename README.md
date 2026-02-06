@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wild leak suggests Snapdragon 8 Elite Gen 6 could run cooler thanks to… Exynos?](https://www.androidauthority.com/snapdragon-8-elite-gen-6-samsung-hpb-3638472/)
- - [Galaxy S26 Ultra strikes different poses in a high-def video leak](https://www.androidauthority.com/galaxy-s26-ultra-video-leak-3638477/)
- - [Sources: Intel and AMD have notified Chinese customers of supply shortages for server CPUs, with Intel warning of delivery lead times of up to six months &lpar;Reuters&rpar;](http://www.techmeme.com/260206/p2#a260206p2)<!-- TECH:END -->
+ - [If this Galaxy S26 design rumor is true, I may give up Samsung phones for good](https://www.androidauthority.com/samsung-galaxy-s26-weight-rumor-nightmare-3637897/)
+ - [Arguments in a Landmark Social Media Addiction Trial Start Next Week. This Is What&#39;s at Stake](https://www.wired.com/story/meta-google-youtube-social-media-addiction-trial/)
+ - [Tax Services of 2026: TurboTax and H&amp;R Block Tested](https://www.wired.com/gallery/best-tax-services/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
