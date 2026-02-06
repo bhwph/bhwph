@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to change appearance in Nioh 3](https://www.polygon.com/nioh-3-change-appearance-transmog-how-to/)
- - [The best Nioh 3 tips to help you complete the game](https://www.polygon.com/nioh-3-beginners-guide-tips-tricks/)
- - [How to get Yokai Teardrops in Nioh 3](https://www.polygon.com/nioh-3-yokai-teardrops-how-to-use-get/)<!-- GAME:END -->
+ - [HBO&#39;s Baldur&#39;s Gate show will canonize one of BG3&#39;s endings](https://www.polygon.com/baldurs-gate-3-tv-show-hbo-endings/)
+ - [A great puzzle game for people who like the idea of Blue Prince but don&#39;t want to spend days banging their head against it is free for the week on the Epic Store](https://www.pcgamer.com/games/puzzle/a-great-puzzle-game-for-people-who-like-the-idea-of-blue-prince-but-dont-want-to-spend-days-banging-their-head-against-it-is-free-for-the-week-on-the-epic-store/)
+ - [Drugs, Magic, Guns, And The Egyptian God Of Death Make For One Hell Of A Great Game](https://kotaku.com/drugs-magic-guns-and-the-egyptian-god-of-death-make-for-one-hell-of-a-great-game-2000666462)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
