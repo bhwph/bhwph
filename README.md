@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)
- - 😝 [Who IS you ?](http://9gag.com/gag/azxy3Wz)
- - 👉 [We don&#39;t know what we did!](http://9gag.com/gag/aAyAzD0)<!-- MEMES:END -->
+ - 6️⃣ [Who IS you ?](http://9gag.com/gag/azxy3Wz)
+ - 😝 [Best field trip ever](http://9gag.com/gag/a6Zg63m)
+ - 👉 [True or not, his name is on the list of emails, and he married his daughter &lpar;wife&rpar; too](http://9gag.com/gag/aQzb5dK)<!-- MEMES:END -->
 
 --- 
 
