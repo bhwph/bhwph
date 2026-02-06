@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
+ - 6️⃣ [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)
  - 😝 [Who IS you ?](http://9gag.com/gag/azxy3Wz)
- - 👉 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)<!-- MEMES:END -->
+ - 👉 [We don&#39;t know what we did!](http://9gag.com/gag/aAyAzD0)<!-- MEMES:END -->
 
 --- 
 
