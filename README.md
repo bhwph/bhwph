@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Who IS you ?](http://9gag.com/gag/azxy3Wz)
- - 😝 [Best field trip ever](http://9gag.com/gag/a6Zg63m)
- - 👉 [True or not, his name is on the list of emails, and he married his daughter &lpar;wife&rpar; too](http://9gag.com/gag/aQzb5dK)<!-- MEMES:END -->
+ - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
+ - 👉 [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)<!-- MEMES:END -->
 
 --- 
 
