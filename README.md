@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My dude is guarding the series lore like it is sacred texts. Bro will not let them ruin this one. Nothing but deepest respects](http://9gag.com/gag/aoyowOe)
- - 😝 [What could go wrong, driving the wrong lane](http://9gag.com/gag/aByzeBP)
- - 👉 [Where can i get one](http://9gag.com/gag/awyjpGy)<!-- MEMES:END -->
+ - 6️⃣ [Uhmm.](http://9gag.com/gag/aByz5e2)
+ - 😝 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)
+ - 👉 [32 year old Shelby Hewitt pretended to be a teenager, attended high school, befriended teenage boys and even got an adult couple to be her foster parents](http://9gag.com/gag/aZZX5dV)<!-- MEMES:END -->
 
 --- 
 
