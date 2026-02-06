@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Uhmm.](http://9gag.com/gag/aByz5e2)
- - 😝 [Who IS you ?](http://9gag.com/gag/azxy3Wz)
- - 👉 [Best field trip ever](http://9gag.com/gag/a6Zg63m)<!-- MEMES:END -->
+ - 6️⃣ [Who IS you ?](http://9gag.com/gag/azxy3Wz)
+ - 😝 [Uhmm.](http://9gag.com/gag/aByz5e2)
+ - 👉 [New cast for Velma](http://9gag.com/gag/aQzb5Dw)<!-- MEMES:END -->
 
 --- 
 
