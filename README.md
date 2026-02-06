@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Uhmm.](http://9gag.com/gag/aByz5e2)
- - 😝 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)
- - 👉 [32 year old Shelby Hewitt pretended to be a teenager, attended high school, befriended teenage boys and even got an adult couple to be her foster parents](http://9gag.com/gag/aZZX5dV)<!-- MEMES:END -->
+ - 6️⃣ [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
+ - 😝 [Who IS you ?](http://9gag.com/gag/azxy3Wz)
+ - 👉 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)<!-- MEMES:END -->
 
 --- 
 
