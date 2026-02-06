@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blowout AirTag deals deliver prices as low as $17, discounts up to 41% off](https://appleinsider.com/articles/26/02/06/blowout-airtag-deals-deliver-prices-as-low-as-17-discounts-up-to-41-off?utm_source=rss)
- - [London-based Bound, an automated FX risk management platform, raised a $24.5M Series A led by AlbionVC as it seeks to expand across Europe &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260206/p15#a260206p15)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [Croatian-founded Daytona, which aims to build infrastructure for large-scale agent workloads, raised a $24M Series A led by FirstMark &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260206/p20#a260206p20)
+ - [CarPlay could soon support third-party AI voice assistants like ChatGPT](https://appleinsider.com/articles/26/02/06/carplay-could-soon-support-third-party-ai-voice-assistants-like-chatgpt?utm_source=rss)
+ - [OpenAI may turn on a Dime when it comes to its hardware plans](https://www.androidauthority.com/openai-earbuds-dime-leak-3638698/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
