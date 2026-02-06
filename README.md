@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who IS you ?](http://9gag.com/gag/azxy3Wz)
- - 😝 [Uhmm.](http://9gag.com/gag/aByz5e2)
- - 👉 [New cast for Velma](http://9gag.com/gag/aQzb5Dw)<!-- MEMES:END -->
+ - 6️⃣ [My dude is guarding the series lore like it is sacred texts. Bro will not let them ruin this one. Nothing but deepest respects](http://9gag.com/gag/aoyowOe)
+ - 😝 [What could go wrong, driving the wrong lane](http://9gag.com/gag/aByzeBP)
+ - 👉 [Where can i get one](http://9gag.com/gag/awyjpGy)<!-- MEMES:END -->
 
 --- 
 
