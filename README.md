@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is finally fixing one of the At a Glance widget’s biggest problems](https://www.androidauthority.com/at-a-glance-contrast-3638383/)
- - [Amazon reports Q4 ad revenue up 23% YoY to $21.32B, slightly above expectations, and subscription services revenue up 14% to $13.12B &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260205/p48#a260205p48)
- - [Google gives Android Canary users a new place to stay up-to-date](https://www.androidauthority.com/android-canary-subreddit-launch-3638411/)<!-- TECH:END -->
+ - [A federal jury in Phoenix ordered Uber to pay $8.5M to a passenger who said a driver sexually assaulted her in 2023, the first case where Uber was found liable &lpar;Emily Steel/New York Times&rpar;](http://www.techmeme.com/260205/p54#a260205p54)
+ - [Affirm reports Q2 revenue up 30% YoY to $1.12B, vs. $1.06B est., GMV up 36% to $13.8B, and forecasts Q3 revenue slightly above est.; AFRM drops 6%+ after hours &lpar;Reinhardt Krause/Investor&#39;s Business ...&rpar;](http://www.techmeme.com/260205/p53#a260205p53)
+ - [Interviews with Anthropic executives and other tech industry leaders and engineers about Claude Code&#39;s success, which some say has been a long time coming &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/260205/p52#a260205p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
