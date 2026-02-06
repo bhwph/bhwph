@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A federal jury in Phoenix ordered Uber to pay $8.5M to a passenger who said a driver sexually assaulted her in 2023, the first case where Uber was found liable &lpar;Emily Steel/New York Times&rpar;](http://www.techmeme.com/260205/p54#a260205p54)
- - [Affirm reports Q2 revenue up 30% YoY to $1.12B, vs. $1.06B est., GMV up 36% to $13.8B, and forecasts Q3 revenue slightly above est.; AFRM drops 6%+ after hours &lpar;Reinhardt Krause/Investor&#39;s Business ...&rpar;](http://www.techmeme.com/260205/p53#a260205p53)
- - [Interviews with Anthropic executives and other tech industry leaders and engineers about Claude Code&#39;s success, which some say has been a long time coming &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/260205/p52#a260205p52)<!-- TECH:END -->
+ - [Filing: Zuckerberg considered changing how Meta studies social issues after a WSJ story about Instagram and teen mental health, noting Apple faces less scrutiny &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/260205/p61#a260205p61)
+ - [How the SpaceX-xAI $1.25T merger deal was fast-tracked after SpaceX had a technical breakthrough in orbital data centers last fall &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260205/p60#a260205p60)
+ - [Sapiom, which is developing a financial layer for enterprises to let AI agents automatically buy the services they need, raised a $15M seed led by Accel &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260205/p59#a260205p59)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
