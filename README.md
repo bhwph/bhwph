@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If this Galaxy S26 design rumor is true, I may give up Samsung phones for good](https://www.androidauthority.com/samsung-galaxy-s26-weight-rumor-nightmare-3637897/)
- - [Arguments in a Landmark Social Media Addiction Trial Start Next Week. This Is What&#39;s at Stake](https://www.wired.com/story/meta-google-youtube-social-media-addiction-trial/)
- - [Tax Services of 2026: TurboTax and H&amp;R Block Tested](https://www.wired.com/gallery/best-tax-services/)<!-- TECH:END -->
+ - [Can China’s No. 2 automaker make it in America?](https://www.theverge.com/transportation/874551/geely-volvo-china-cars-us-software-restrictions)
+ - [How the men in the Epstein files defeated #MeToo](https://www.theverge.com/tech/874721/epstein-thiel-musk-trump-metoo)
+ - [Uber found liable for sexual assault in first of thousands of similar lawsuits](https://www.theverge.com/transportation/874751/uber-sexual-assault-federal-case-verdict-liable)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
