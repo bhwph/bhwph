@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who IS you ?](http://9gag.com/gag/azxy3Wz)
- - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
- - 👉 [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)<!-- MEMES:END -->
+ - 6️⃣ [The power of friendship](http://9gag.com/gag/a4PgXnd)
+ - 😝 [This couple&#39;s journey is everything. From weight loss to welcoming their little one, talk about true love and dedication](http://9gag.com/gag/aZZXYZQ)
+ - 👉 [Nearly An Entire Generation Has Never Experienced This](http://9gag.com/gag/aVvrp38)<!-- MEMES:END -->
 
 --- 
 
