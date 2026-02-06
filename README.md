@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meituan agrees to buy Dingdong, a Chinese fresh grocery e-commerce company, for $717M in cash; Dingdong had 7M+ monthly transacting users as of September 2025 &lpar;Cao Li/South China Morning Post&rpar;](http://www.techmeme.com/260206/p1#a260206p1)
- - [Filing: Zuckerberg considered changing how Meta studies social issues after a WSJ story about Instagram and teen mental health, noting Apple faces less scrutiny &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/260205/p61#a260205p61)
- - [How the SpaceX-xAI $1.25T merger deal was fast-tracked after SpaceX had a technical breakthrough in orbital data centers last fall &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260205/p60#a260205p60)<!-- TECH:END -->
+ - [Wild leak suggests Snapdragon 8 Elite Gen 6 could run cooler thanks to… Exynos?](https://www.androidauthority.com/snapdragon-8-elite-gen-6-samsung-hpb-3638472/)
+ - [Galaxy S26 Ultra strikes different poses in a high-def video leak](https://www.androidauthority.com/galaxy-s26-ultra-video-leak-3638477/)
+ - [Sources: Intel and AMD have notified Chinese customers of supply shortages for server CPUs, with Intel warning of delivery lead times of up to six months &lpar;Reuters&rpar;](http://www.techmeme.com/260206/p2#a260206p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
