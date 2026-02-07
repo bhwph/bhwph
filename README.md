@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GOG is already working on native Linux support](https://www.theverge.com/tech/875425/gog-native-linux-support)
- - [DOJ-released emails: Jeffrey Epstein helped Ian Osborne, founder of London-based fund Hedosophia, after Osborne&#39;s outreach to help Epstein fix his image in 2011 &lpar;Financial Times&rpar;](http://www.techmeme.com/260207/p11#a260207p11)
- - [I went back to Linux and it was a mistake](https://www.theverge.com/report/875077/linux-was-a-mistake)<!-- TECH:END -->
+ - [Variable aperture camera will give iPhone 18 Pro users more photo options](https://appleinsider.com/articles/26/02/07/variable-aperture-camera-will-give-iphone-18-pro-users-more-photo-options?utm_source=rss)
+ - [After talking with ~40 people at Anthropic, a look at its &quot;Yes, and...&quot; culture where every idea is welcomed and judged based on vibes, like a hive mind &lpar;Steve Yegge&rpar;](http://www.techmeme.com/260207/p12#a260207p12)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 8, #973](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-8-973/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
