@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If you know the history of Greece and the ottomens, I think we all can get behind this.....](http://9gag.com/gag/a1mg9mG)
- - 😝 [It&#39;s a classic](http://9gag.com/gag/azxyWqp)
- - 👉 [They got him guys! We got the biggest PDF](http://9gag.com/gag/a6ZgPD8)<!-- MEMES:END -->
+ - 6️⃣ [How much turning radius do you want? Around 0.1\u00ba](http://9gag.com/gag/aO8EMzv)
+ - 😝 [The power of friendship](http://9gag.com/gag/a4PgXnd)
+ - 👉 [Switzerland\u2019s women\u2019s national football team lost 7\u20131 to an under-15 boys\u2019 club team. The boys had bored faces and looked like they wanted to go home.](http://9gag.com/gag/amoQ4gv)<!-- MEMES:END -->
 
 --- 
 
