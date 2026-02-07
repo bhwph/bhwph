@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Browser interoperability drive made Safari work more like the others](https://appleinsider.com/articles/26/02/07/browser-interoperability-drive-made-safari-work-more-like-the-others?utm_source=rss)
- - [Tether froze $544M in alleged illicit income at Turkey&#39;s request, part of its push to aid governments in crackdowns against crypto use in alleged crimes &lpar;Bloomberg&rpar;](http://www.techmeme.com/260207/p9#a260207p9)
- - [Apple, whose capital expenditure is just a fraction of its peers, is the only Big Tech company that saw capex decline YoY in Q4, decreasing 19% to $2.37B &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/260207/p8#a260207p8)<!-- TECH:END -->
+ - [GOG is already working on native Linux support](https://www.theverge.com/tech/875425/gog-native-linux-support)
+ - [DOJ-released emails: Jeffrey Epstein helped Ian Osborne, founder of London-based fund Hedosophia, after Osborne&#39;s outreach to help Epstein fix his image in 2011 &lpar;Financial Times&rpar;](http://www.techmeme.com/260207/p11#a260207p11)
+ - [I went back to Linux and it was a mistake](https://www.theverge.com/report/875077/linux-was-a-mistake)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
