@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [HBO&#39;s Baldur&#39;s Gate show will canonize one of BG3&#39;s endings](https://www.polygon.com/baldurs-gate-3-tv-show-hbo-endings/)
- - [A great puzzle game for people who like the idea of Blue Prince but don&#39;t want to spend days banging their head against it is free for the week on the Epic Store](https://www.pcgamer.com/games/puzzle/a-great-puzzle-game-for-people-who-like-the-idea-of-blue-prince-but-dont-want-to-spend-days-banging-their-head-against-it-is-free-for-the-week-on-the-epic-store/)
- - [Drugs, Magic, Guns, And The Egyptian God Of Death Make For One Hell Of A Great Game](https://kotaku.com/drugs-magic-guns-and-the-egyptian-god-of-death-make-for-one-hell-of-a-great-game-2000666462)<!-- GAME:END -->
+ - [Watch Super Bowl LX&#39;s best commercials and movie trailers](https://www.polygon.com/super-bowl-2026-best-commercials-movie-trailers/)
+ - [I didn&#39;t realize how important headbob was until I played an RPG without it](https://www.pcgamer.com/games/rpg/i-didnt-realize-how-important-headbob-was-until-i-played-an-rpg-without-it/)
+ - [Did they hit a nerve? OpenAI CEO Sam Altman&#39;s response to &#39;authoritarian&#39; Anthropic&#39;s annihilation of ads-supported AI doesn&#39;t make me trust it more](https://www.pcgamer.com/software/ai/openai-sam-altman-outs-himself-as-massive-baby-as-superbowl-ads-annihilate-ads-supported-ai-if-you-want-to-communicate-better-with-your-mother-have-you-considered-a-site-for-dating-mature-women/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
