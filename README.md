@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
- - 😝 [No title](http://9gag.com/gag/azxyn6j)
- - 👉 [If you know the history of Greece and the ottomens, I think we all can get behind this.....](http://9gag.com/gag/a1mg9mG)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
+ - 😝 [How much turning radius do you want? Around 0.1\u00ba](http://9gag.com/gag/aO8EMzv)
+ - 👉 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)<!-- MEMES:END -->
 
 --- 
 
