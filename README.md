@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch Super Bowl LX&#39;s best commercials and movie trailers](https://www.polygon.com/super-bowl-2026-best-commercials-movie-trailers/)
- - [I didn&#39;t realize how important headbob was until I played an RPG without it](https://www.pcgamer.com/games/rpg/i-didnt-realize-how-important-headbob-was-until-i-played-an-rpg-without-it/)
- - [Did they hit a nerve? OpenAI CEO Sam Altman&#39;s response to &#39;authoritarian&#39; Anthropic&#39;s annihilation of ads-supported AI doesn&#39;t make me trust it more](https://www.pcgamer.com/software/ai/openai-sam-altman-outs-himself-as-massive-baby-as-superbowl-ads-annihilate-ads-supported-ai-if-you-want-to-communicate-better-with-your-mother-have-you-considered-a-site-for-dating-mature-women/)<!-- GAME:END -->
+ - [Dragon Quest 7 Reimagined isn&#39;t pretending to be something it&#39;s not](https://www.polygon.com/dragon-quest-7-reimagained-art-style/)
+ - [Rust player says goodbye to his server neighbours by constructing a giant, illuminated middle finger: &#39;Making one of these is often how I like to end a successful wipe&#39;](https://www.pcgamer.com/games/survival-crafting/rust-player-says-goodbye-to-his-server-neighbours-by-constructing-a-giant-illuminated-middle-finger-making-one-of-these-is-often-how-i-like-to-end-a-successful-wipe/)
+ - [3 movie masterpieces buried on Hulu right now](https://www.polygon.com/best-movies-on-hulu-february-2026/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
