@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Sharge Retractable 3-in-1 is the coolest power bank that you might regret throwing in your bag](https://www.androidauthority.com/sharge-retractable-3-in-1-power-bank-review-3634008/)
- - [Is T-Mobile’s new Better Value plan worth getting as a legacy user?](https://www.androidauthority.com/t-mobile-bvp-legacy-switch-3637613/)
- - [7 Steps to Better Financial Health You Can Take Right Now](https://www.wired.com/story/your-annual-personal-finance-checklist/)<!-- TECH:END -->
+ - [Survey reveals a surprising amount of you are paying for Strava](https://www.androidauthority.com/pay-for-strava-poll-result-3638728/)
+ - [Sony&#39;s Biggest QLED Screens See Big Discounts This Weekend](https://www.wired.com/story/bravia-9-deal-226/)
+ - [M5 Pro, M5 Max: What I Expect from Apple&#39;s Next-Gen Chips](https://www.cnet.com/tech/computing/m5-pro-m5-max-apples-next-gen-chips/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
