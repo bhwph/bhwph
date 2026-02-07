@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Target Darts Omni Auto Scoring System Hits the Mark](https://www.wired.com/story/target-darts-omni-auto-scoring-system-rave/)
- - [Cairn is a climbing journey about perseverance and obsession](https://www.theverge.com/games/874914/cairn-review-pc-playstation-5)
- - [I Tested the ‘Thermometer of the Future,’ and I Think This Is Its Ideal User](https://www.cnet.com/health/medical/withings-beamo-thermometer-future-review/)<!-- TECH:END -->
+ - [Apple, whose capital expenditure is just a fraction of its peers, is the only Big Tech company that saw capex decline YoY in Q4, decreasing 19% to $2.37B &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/260207/p8#a260207p8)
+ - [LG’s C5 TV and Anker’s powerful power bank are this week’s best deals](https://www.theverge.com/gadgets/874585/lg-c5-tv-anker-power-bank-deal-sale-super-bowl)
+ - [The second-gen AirTags are a scatterbrain’s best friend](https://www.theverge.com/tech/875314/airtags-second-gen-review-item-tracker)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
