@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t make this Google Photos mistake and delete all your vacation pics](https://www.androidauthority.com/google-photos-delete-3638743/)
- - [ICE Agent&#39;s ‘Dragging’ Case May Help Expose Evidence in Renee Good Shooting](https://www.wired.com/story/jonathan-ross-renee-good-roberto-carlos-munoz-guatemala/)
- - [Deal: The ASUS ZenScreen 22-inch Portable Monitor is cheaper than ever!](https://www.androidauthority.com/asus-zenscreen-22-inch-portable-monitor-deal-3638737/)<!-- TECH:END -->
+ - [New York lawmakers propose a bill to impose a three-year moratorium on data center development, making NY at least the sixth state to introduce such legislation &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/260206/p29#a260206p29)
+ - [US tech stocks and bitcoin rally after three days of selling; Nasdaq Composite closed up 2.18%, Broadcom 7.22%, Strategy 26.11%, and bitcoin rebounded to ~$70K &lpar;Emily Herbert/Financial Times&rpar;](http://www.techmeme.com/260206/p28#a260206p28)
+ - [Astronauts Can Now Use the Latest Smartphones in Space](https://www.cnet.com/tech/mobile/latest-smartphones-now-allowed-in-space-nasa-says/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
