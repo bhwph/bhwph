@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The power of friendship](http://9gag.com/gag/a4PgXnd)
- - 😝 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
- - 👉 [Nearly An Entire Generation Has Never Experienced This](http://9gag.com/gag/aVvrp38)<!-- MEMES:END -->
+ - 6️⃣ [If you know the history of Greece and the ottomens, I think we all can get behind this.....](http://9gag.com/gag/a1mg9mG)
+ - 😝 [It&#39;s a classic](http://9gag.com/gag/azxyWqp)
+ - 👉 [They got him guys! We got the biggest PDF](http://9gag.com/gag/a6ZgPD8)<!-- MEMES:END -->
 
 --- 
 
