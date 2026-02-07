@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey reveals a surprising amount of you are paying for Strava](https://www.androidauthority.com/pay-for-strava-poll-result-3638728/)
- - [Sony&#39;s Biggest QLED Screens See Big Discounts This Weekend](https://www.wired.com/story/bravia-9-deal-226/)
- - [M5 Pro, M5 Max: What I Expect from Apple&#39;s Next-Gen Chips](https://www.cnet.com/tech/computing/m5-pro-m5-max-apples-next-gen-chips/)<!-- TECH:END -->
+ - [Target Darts Omni Auto Scoring System Hits the Mark](https://www.wired.com/story/target-darts-omni-auto-scoring-system-rave/)
+ - [Cairn is a climbing journey about perseverance and obsession](https://www.theverge.com/games/874914/cairn-review-pc-playstation-5)
+ - [I Tested the ‘Thermometer of the Future,’ and I Think This Is Its Ideal User](https://www.cnet.com/health/medical/withings-beamo-thermometer-future-review/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
