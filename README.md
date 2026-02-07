@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Excuse me, wtf?](http://9gag.com/gag/agm9Dew)
- - 😝 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)
- - 👉 [This bolt is worth $8000 and goes in a helicopter](http://9gag.com/gag/aQzbjWw)<!-- MEMES:END -->
+ - 6️⃣ [We don&#39;t know what we did!](http://9gag.com/gag/aAyAzD0)
+ - 😝 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
+ - 👉 [Who IS you ?](http://9gag.com/gag/azxy3Wz)<!-- MEMES:END -->
 
 --- 
 
