@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, whose capital expenditure is just a fraction of its peers, is the only Big Tech company that saw capex decline YoY in Q4, decreasing 19% to $2.37B &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/260207/p8#a260207p8)
- - [LG’s C5 TV and Anker’s powerful power bank are this week’s best deals](https://www.theverge.com/gadgets/874585/lg-c5-tv-anker-power-bank-deal-sale-super-bowl)
- - [The second-gen AirTags are a scatterbrain’s best friend](https://www.theverge.com/tech/875314/airtags-second-gen-review-item-tracker)<!-- TECH:END -->
+ - [Browser interoperability drive made Safari work more like the others](https://appleinsider.com/articles/26/02/07/browser-interoperability-drive-made-safari-work-more-like-the-others?utm_source=rss)
+ - [Tether froze $544M in alleged illicit income at Turkey&#39;s request, part of its push to aid governments in crackdowns against crypto use in alleged crimes &lpar;Bloomberg&rpar;](http://www.techmeme.com/260207/p9#a260207p9)
+ - [Apple, whose capital expenditure is just a fraction of its peers, is the only Big Tech company that saw capex decline YoY in Q4, decreasing 19% to $2.37B &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/260207/p8#a260207p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
