@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How much turning radius do you want? Around 0.1\u00ba](http://9gag.com/gag/aO8EMzv)
- - 😝 [The power of friendship](http://9gag.com/gag/a4PgXnd)
- - 👉 [Switzerland\u2019s women\u2019s national football team lost 7\u20131 to an under-15 boys\u2019 club team. The boys had bored faces and looked like they wanted to go home.](http://9gag.com/gag/amoQ4gv)<!-- MEMES:END -->
+ - 6️⃣ [Hell no](http://9gag.com/gag/aNDM7BA)
+ - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
+ - 👉 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)<!-- MEMES:END -->
 
 --- 
 
