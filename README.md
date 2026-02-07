@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The power of friendship](http://9gag.com/gag/a4PgXnd)
- - 😝 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)
- - 👉 [We don&#39;t know what we did!](http://9gag.com/gag/aAyAzD0)<!-- MEMES:END -->
+ - 6️⃣ [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
+ - 😝 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)
+ - 👉 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)<!-- MEMES:END -->
 
 --- 
 
