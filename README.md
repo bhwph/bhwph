@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kalshi and Polymarket have facilitated over $800M in Super Bowl contracts, as pro gamblers shift to prediction markets and adopt Wall Street-style strategies &lpar;Bloomberg&rpar;](http://www.techmeme.com/260207/p5#a260207p5)
- - [Chinese regulators fined Kuaishou $17.2M for failing to curb illegal content; pornographic content appeared on Kuaishou during its December 2025 cyberattacks &lpar;Bloomberg&rpar;](http://www.techmeme.com/260207/p4#a260207p4)
- - [US data center demand has driven stock surges of contractors and equipment makers like Corning, Sterling Infrastructure, Comfort Systems USA, and Carrier Global &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260207/p3#a260207p3)<!-- TECH:END -->
+ - [The Sharge Retractable 3-in-1 is the coolest power bank that you might regret throwing in your bag](https://www.androidauthority.com/sharge-retractable-3-in-1-power-bank-review-3634008/)
+ - [Is T-Mobile’s new Better Value plan worth getting as a legacy user?](https://www.androidauthority.com/t-mobile-bvp-legacy-switch-3637613/)
+ - [7 Steps to Better Financial Health You Can Take Right Now](https://www.wired.com/story/your-annual-personal-finance-checklist/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
