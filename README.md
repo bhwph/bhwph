@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
- - 😝 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)
- - 👉 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)<!-- MEMES:END -->
+ - 6️⃣ [Justice](http://9gag.com/gag/aYQ6Xpx)
+ - 😝 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
+ - 👉 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)<!-- MEMES:END -->
 
 --- 
 
