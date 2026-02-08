@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)
- - 😝 [When an atheist realized why religion is necessary](http://9gag.com/gag/aNDMNAG)
- - 👉 [Endless potential](http://9gag.com/gag/aXP3BPd)<!-- MEMES:END -->
+ - 6️⃣ [At 36, I don&#39;t think I&#39;m making any new friends. I think the relationship door has closed as well. I&#39;m not happy or unhappy. I just exist and carry on.](http://9gag.com/gag/aVvrNNn)
+ - 😝 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
+ - 👉 [Oh, sure sure...!](http://9gag.com/gag/aqyM0vQ)<!-- MEMES:END -->
 
 --- 
 
