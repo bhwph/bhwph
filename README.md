@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Very near xD](http://9gag.com/gag/aoyobp2)
- - 😝 [Job Interview](http://9gag.com/gag/aYQ69dw)
- - 👉 [The power of friendship](http://9gag.com/gag/a4PgXnd)<!-- MEMES:END -->
+ - 6️⃣ [Bruno was something else but borat was wild](http://9gag.com/gag/ajPvpdp)
+ - 😝 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
+ - 👉 [Very near xD](http://9gag.com/gag/aoyobp2)<!-- MEMES:END -->
 
 --- 
 
