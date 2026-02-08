@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17e is coming soon with A19 and a $599 price tag](https://appleinsider.com/articles/26/02/08/iphone-17e-is-coming-soon-with-a19-and-a-599-price-tag?utm_source=rss)
- - [Sources: iPhone 17e with MagSafe is coming soon; iOS 26.4 beta with updated Siri slated for the week of Feb. 23, M5 MacBook Pros as early as the week of Mar. 2 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260208/p11#a260208p11)
- - [March 2 release event may be for M5 MacBook Pro refresh](https://appleinsider.com/articles/26/02/08/march-2-release-event-may-be-for-m5-macbook-pro-refresh?utm_source=rss)<!-- TECH:END -->
+ - [A software engineer explains AI fatigue, compounded by a FOMO treadmill of using labs&#39; latest tools, thinking atrophy, and more, alongside boosted productivity &lpar;Siddhant Khare&rpar;](http://www.techmeme.com/260208/p15#a260208p15)
+ - [OpenClaw partners with VirusTotal and says that all skills published to ClawHub are now scanned using VirusTotal&#39;s threat intelligence &lpar;The Hacker News&rpar;](http://www.techmeme.com/260208/p14#a260208p14)
+ - [You need to listen to the new Mandy, Indiana record: URGH](https://www.theverge.com/entertainment/875469/mandy-indiana-urgh-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
