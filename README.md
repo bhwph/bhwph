@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Remember Iryna Zarutska ?](http://9gag.com/gag/a0egBxL)
- - 😝 [The power of friendship](http://9gag.com/gag/a4PgXnd)
- - 👉 [Job Interview](http://9gag.com/gag/aYQ69dw)<!-- MEMES:END -->
+ - 6️⃣ [No title](http://9gag.com/gag/azxyn6j)
+ - 😝 [Fake it till you make it](http://9gag.com/gag/aNDMNDb)
+ - 👉 [Endless potential](http://9gag.com/gag/aXP3BPd)<!-- MEMES:END -->
 
 --- 
 
