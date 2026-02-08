@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Clair Obscur win the Big Five GOTY awards?](https://www.polygon.com/clair-oscur-big-five-goty-awards-dice-tga-bafta-gdc-joysticks/)
- - [Terraria&#39;s biggest mod manager will require months before it&#39;s fully compatible with the 1.4.5 patch: &#39;Updating tModLoader to major Terraria releases is a huge undertaking&#39;](https://www.pcgamer.com/games/survival-crafting/terrarias-biggest-mod-manager-will-require-months-before-its-fully-compatible-with-the-1-4-5-patch-updating-tmodloader-to-major-terraria-releases-is-a-huge-undertaking/)
- - [The &#39;Burbs adapts Tom Hanks&#39; 1989 cult classic for our dark modern times](https://www.polygon.com/the-burbs-peacock-keke-palmer-celeste-hughey-interview/)<!-- GAME:END -->
+ - [Chip &#39;n Dale: Rescue Rangers Reboot: Why Disney should greenlight the series](https://www.polygon.com/disney-chip-n-dale-rescue-rangers-reboot/)
+ - [A GTA modder has got the 1997 original working perfectly on modern PCs and Steam Deck, and it&#39;s a joy to behold: &#39;I wanted pick up-and-play GTA on Windows with the best possible compatibility without classic installation&#39;](https://www.pcgamer.com/games/grand-theft-auto/a-gta-modder-has-got-the-1997-original-working-perfectly-on-modern-pcs-and-steam-deck-and-its-a-joy-to-behold-i-wanted-pick-up-and-play-gta-on-windows-with-the-best-possible-compatibility-without-classic-installation/)
+ - [A Knight of the Seven Kingdoms made me care about Game of Thrones Lore](https://www.polygon.com/knight-of-the-seven-kingdoms-game-of-thrones-lore/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
