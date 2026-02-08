@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stream Super Bowl 2026 in Canada: How to Watch the Show Today](https://kotaku.com/stream-super-bowl-lx-in-canada-how-to-watch-the-show-today-2000666377)
- - [Modders have already put mechs, music boxes, and an &#39;MMO-style dungeon&#39; in Hytale, impressing Hypixel founder: &#39;Absolutely crazy talented&#39;](https://www.pcgamer.com/games/survival-crafting/modders-have-already-put-mechs-music-boxes-and-an-mmo-style-dungeon-in-hytale-impressing-its-lead-dev-absolutely-crazy-talented/)
- - [Sometimes simple character designs make the most effective cosplays, and this group of Peak Scouts is the perfect example of that](https://www.pcgamer.com/games/sim/sometimes-simple-character-designs-make-the-most-effective-cosplays-and-this-group-of-peak-scouts-is-the-perfect-example-of-that/)<!-- GAME:END -->
+ - [Fallout was a &#39;B-tier product&#39; that lost both the licenses it was banking on and had its lead dev joking, &#39;In a week, we’re going to be asking whether people want fries with their meal,&#39; but now he thinks those trials &#39;turned out to be positives&#39;](https://www.pcgamer.com/games/fallout/fallout-was-a-b-tier-product-that-lost-both-the-licenses-it-was-banking-on-and-had-its-lead-dev-joking-in-a-week-were-going-to-be-asking-whether-people-want-fries-with-their-meal-but-now-he-thinks-those-trials-turned-out-to-be-positives/)
+ - [How to Catch Super Bowl LX in the US? Patriots vs Seahawks Free Streams](https://kotaku.com/how-to-catch-super-bowl-lx-in-the-us-patriots-vs-seahawks-free-streams-2000666759)
+ - [Just in time for Hollow Knight&#39;s 9th birthday, Team Cherry rolled out its first update in years, including better support for ultrawide monitors and the Steam Deck screen](https://www.pcgamer.com/games/action/just-in-time-for-hollow-knights-9th-birthday-team-cherry-rolled-out-its-first-update-in-years-including-better-support-for-ultrawide-monitors-and-the-steam-deck-screen/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
