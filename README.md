@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I thought I was finally free from stealth-focused Skyrim builds, then someone modded in the ability to hide in bushes](https://www.pcgamer.com/games/the-elder-scrolls/i-thought-i-was-finally-free-from-stealth-focused-skyrim-builds-then-someone-modded-in-the-ability-to-hide-in-bushes/)
- - [Witcher 3 mod restores a darker ending for the Hearts of Stone expansion that was cut during development](https://www.pcgamer.com/games/the-witcher/witcher-3-mod-restores-a-darker-ending-for-the-hearts-of-stone-expansion-that-was-cut-during-development/)
- - [In defense of Assassin&#39;s Creed Unity](https://www.pcgamer.com/games/assassins-creed/in-defense-of-assassins-creed-unity/)<!-- GAME:END -->
+ - [Can Clair Obscur win the Big Five GOTY awards?](https://www.polygon.com/clair-oscur-big-five-goty-awards-dice-tga-bafta-gdc-joysticks/)
+ - [Terraria&#39;s biggest mod manager will require months before it&#39;s fully compatible with the 1.4.5 patch: &#39;Updating tModLoader to major Terraria releases is a huge undertaking&#39;](https://www.pcgamer.com/games/survival-crafting/terrarias-biggest-mod-manager-will-require-months-before-its-fully-compatible-with-the-1-4-5-patch-updating-tmodloader-to-major-terraria-releases-is-a-huge-undertaking/)
+ - [The &#39;Burbs adapts Tom Hanks&#39; 1989 cult classic for our dark modern times](https://www.polygon.com/the-burbs-peacock-keke-palmer-celeste-hughey-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
