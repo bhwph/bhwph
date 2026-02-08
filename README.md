@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Teens arrested for stealing from Cambridge Apple Store](https://appleinsider.com/articles/26/02/08/crime-blotter-teens-arrested-for-stealing-from-cambridge-apple-store?utm_source=rss)
- - [I wanted to ditch Google News, but the alternatives made it worse](https://www.androidauthority.com/why-google-news-is-still-best-android-3638334/)
- - [The Shoes and Brooms Transforming Curling at the 2026 Winter Olympics](https://www.wired.com/story/the-shoes-and-brooms-transforming-curling-at-the-2026-winter-olympics/)<!-- TECH:END -->
+ - [iPhone 17e is coming soon with A19 and a $599 price tag](https://appleinsider.com/articles/26/02/08/iphone-17e-is-coming-soon-with-a19-and-a-599-price-tag?utm_source=rss)
+ - [Section 230 turns 30 as it faces its biggest tests yet](https://www.theverge.com/policy/875300/section-230-turns-30-social-media-addiction-cases-sunset)
+ - [M5 Max Mac Studio &amp; New Studio Display could finally arrive in the spring](https://appleinsider.com/articles/26/02/08/m5-max-mac-studio-new-studio-display-could-finally-arrive-in-the-spring?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
