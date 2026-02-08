@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Mercor rival micro1 has told investors it is now generating $200M in recurring revenue; Mercor is offering micro1 employees signing bonuses up to $2M &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/260207/p14#a260207p14)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 8, #503](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-8-503/)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Feb. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-feb-8/)<!-- TECH:END -->
+ - [A profile of Ali Ansari, the 25-year-old co-founder of micro1, which recruits human experts to train AI systems; micro1 was last valued at $500M in Sept. 2025 &lpar;Nilesh Christopher/Los Angeles Times&rpar;](http://www.techmeme.com/260208/p5#a260208p5)
+ - [Anthropic rolls out a fast mode for Claude Opus 4.6 in research preview, saying it offers the same model quality 2.5 times faster but costs six times more &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260208/p4#a260208p4)
+ - [India&#39;s updated startup framework doubles deep-tech startup eligibility to 20 years and triples the revenue cap for tax, grant, and regulatory benefits to ~$33M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260208/p3#a260208p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
