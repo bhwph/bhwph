@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Job Interview](http://9gag.com/gag/aYQ69dw)
- - 😝 [Very near xD](http://9gag.com/gag/aoyobp2)
- - 👉 [My fellow ginger haired Irish people, would you allow her to stay in Ireland?](http://9gag.com/gag/aXP3Dxv)<!-- MEMES:END -->
+ - 6️⃣ [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)
+ - 😝 [When an atheist realized why religion is necessary](http://9gag.com/gag/aNDMNAG)
+ - 👉 [Endless potential](http://9gag.com/gag/aXP3BPd)<!-- MEMES:END -->
 
 --- 
 
