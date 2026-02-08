@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chip &#39;n Dale: Rescue Rangers Reboot: Why Disney should greenlight the series](https://www.polygon.com/disney-chip-n-dale-rescue-rangers-reboot/)
- - [A GTA modder has got the 1997 original working perfectly on modern PCs and Steam Deck, and it&#39;s a joy to behold: &#39;I wanted pick up-and-play GTA on Windows with the best possible compatibility without classic installation&#39;](https://www.pcgamer.com/games/grand-theft-auto/a-gta-modder-has-got-the-1997-original-working-perfectly-on-modern-pcs-and-steam-deck-and-its-a-joy-to-behold-i-wanted-pick-up-and-play-gta-on-windows-with-the-best-possible-compatibility-without-classic-installation/)
- - [A Knight of the Seven Kingdoms made me care about Game of Thrones Lore](https://www.polygon.com/knight-of-the-seven-kingdoms-game-of-thrones-lore/)<!-- GAME:END -->
+ - [Modders have already put mechs, music boxes, and an &#39;MMO-style dungeon&#39; in Hytale, impressing Hypixel founder: &#39;Absolutely crazy talented&#39;](https://www.pcgamer.com/games/survival-crafting/modders-have-already-put-mechs-music-boxes-and-an-mmo-style-dungeon-in-hytale-impressing-its-lead-dev-absolutely-crazy-talented/)
+ - [Sometimes simple character designs make the most effective cosplays, and this group of Peak Scouts is the perfect example of that](https://www.pcgamer.com/games/sim/sometimes-simple-character-designs-make-the-most-effective-cosplays-and-this-group-of-peak-scouts-is-the-perfect-example-of-that/)
+ - [Stronghold Crusader: Definitive Edition gets a massive update introducing Steam Workshop support, 10 new maps, and a 10-mission cooperative campaign](https://www.pcgamer.com/games/rts/stronghold-crusader-definitive-edition-gets-a-massive-update-introducing-steam-workshop-support-10-new-maps-and-a-10-mission-cooperative-campaign/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
