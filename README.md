@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well...well...well.... micro-slop shares are going down the slop of their own making.](http://9gag.com/gag/a87NRdQ)
+ - 6️⃣ [The power of friendship](http://9gag.com/gag/a4PgXnd)
  - 😝 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
- - 👉 [Very near xD](http://9gag.com/gag/aoyobp2)<!-- MEMES:END -->
+ - 👉 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)<!-- MEMES:END -->
 
 --- 
 
