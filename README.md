@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Quest 7 Reimagined isn&#39;t pretending to be something it&#39;s not](https://www.polygon.com/dragon-quest-7-reimagained-art-style/)
- - [Rust player says goodbye to his server neighbours by constructing a giant, illuminated middle finger: &#39;Making one of these is often how I like to end a successful wipe&#39;](https://www.pcgamer.com/games/survival-crafting/rust-player-says-goodbye-to-his-server-neighbours-by-constructing-a-giant-illuminated-middle-finger-making-one-of-these-is-often-how-i-like-to-end-a-successful-wipe/)
- - [3 movie masterpieces buried on Hulu right now](https://www.polygon.com/best-movies-on-hulu-february-2026/)<!-- GAME:END -->
+ - [I thought I was finally free from stealth-focused Skyrim builds, then someone modded in the ability to hide in bushes](https://www.pcgamer.com/games/the-elder-scrolls/i-thought-i-was-finally-free-from-stealth-focused-skyrim-builds-then-someone-modded-in-the-ability-to-hide-in-bushes/)
+ - [Witcher 3 mod restores a darker ending for the Hearts of Stone expansion that was cut during development](https://www.pcgamer.com/games/the-witcher/witcher-3-mod-restores-a-darker-ending-for-the-hearts-of-stone-expansion-that-was-cut-during-development/)
+ - [In defense of Assassin&#39;s Creed Unity](https://www.pcgamer.com/games/assassins-creed/in-defense-of-assassins-creed-unity/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
