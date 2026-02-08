@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 8, #973](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-8-973/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Feb. 8 #707](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-feb-8-707/)
- - [Today&#39;s Wordle Hints, Answer and Help for Feb. 8, #1695](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-feb-8-1695/)<!-- TECH:END -->
+ - [Crime blotter: Teens arrested for stealing from Cambridge Apple Store](https://appleinsider.com/articles/26/02/08/crime-blotter-teens-arrested-for-stealing-from-cambridge-apple-store?utm_source=rss)
+ - [I wanted to ditch Google News, but the alternatives made it worse](https://www.androidauthority.com/why-google-news-is-still-best-android-3638334/)
+ - [The Shoes and Brooms Transforming Curling at the 2026 Winter Olympics](https://www.wired.com/story/the-shoes-and-brooms-transforming-curling-at-the-2026-winter-olympics/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
