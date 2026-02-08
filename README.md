@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [1 or 2 times a year, I ask my wife make this dish for me. She never understands why I asked for this after or while watching an old cowboy movie. Her recipe in the cmt section.](http://9gag.com/gag/a87NZZe)
- - 😝 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
- - 👉 [Job Interview](http://9gag.com/gag/aYQ69dw)<!-- MEMES:END -->
+ - 6️⃣ [Job Interview](http://9gag.com/gag/aYQ69dw)
+ - 😝 [Very near xD](http://9gag.com/gag/aoyobp2)
+ - 👉 [My fellow ginger haired Irish people, would you allow her to stay in Ireland?](http://9gag.com/gag/aXP3Dxv)<!-- MEMES:END -->
 
 --- 
 
