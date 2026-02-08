@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Stream Super Bowl 2026 in Canada: How to Watch the Show Today](https://kotaku.com/stream-super-bowl-lx-in-canada-how-to-watch-the-show-today-2000666377)
  - [Modders have already put mechs, music boxes, and an &#39;MMO-style dungeon&#39; in Hytale, impressing Hypixel founder: &#39;Absolutely crazy talented&#39;](https://www.pcgamer.com/games/survival-crafting/modders-have-already-put-mechs-music-boxes-and-an-mmo-style-dungeon-in-hytale-impressing-its-lead-dev-absolutely-crazy-talented/)
- - [Sometimes simple character designs make the most effective cosplays, and this group of Peak Scouts is the perfect example of that](https://www.pcgamer.com/games/sim/sometimes-simple-character-designs-make-the-most-effective-cosplays-and-this-group-of-peak-scouts-is-the-perfect-example-of-that/)
- - [Stronghold Crusader: Definitive Edition gets a massive update introducing Steam Workshop support, 10 new maps, and a 10-mission cooperative campaign](https://www.pcgamer.com/games/rts/stronghold-crusader-definitive-edition-gets-a-massive-update-introducing-steam-workshop-support-10-new-maps-and-a-10-mission-cooperative-campaign/)<!-- GAME:END -->
+ - [Sometimes simple character designs make the most effective cosplays, and this group of Peak Scouts is the perfect example of that](https://www.pcgamer.com/games/sim/sometimes-simple-character-designs-make-the-most-effective-cosplays-and-this-group-of-peak-scouts-is-the-perfect-example-of-that/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
