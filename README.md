@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The power of friendship](http://9gag.com/gag/a4PgXnd)
- - 😝 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
- - 👉 [I\u2019m 50 and I feel the same way](http://9gag.com/gag/awyjEr1)<!-- MEMES:END -->
+ - 6️⃣ [Remember Iryna Zarutska ?](http://9gag.com/gag/a0egBxL)
+ - 😝 [The power of friendship](http://9gag.com/gag/a4PgXnd)
+ - 👉 [Job Interview](http://9gag.com/gag/aYQ69dw)<!-- MEMES:END -->
 
 --- 
 
