@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A rare look inside Google’s most secretive Pixel Hardware Labs](https://www.androidauthority.com/google-pixel-hardware-labs-tour-3638851/)
- - [Ferrari’s New Jony Ive–Designed EV Is Swathed in Glass and Aluminum](https://www.wired.com/story/ferrari-ev-jony-ive-design/)
- - [Alibaba&#39;s Qwen temporarily stops issuing coupons due to customer overload, hampering Alibaba&#39;s Agentic AI ad campaign; Qwen began offering coupons on February 6 &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260209/p16#a260209p16)<!-- TECH:END -->
+ - [OpenAI will reportedly start testing ads in ChatGPT today](https://www.theverge.com/news/875724/openai-chatgpt-ads-test-launch)
+ - [EU officials and tech executives inaugurate a €2.5B chips research hub in Belgium; ASML and Imec emphasized that the US is dependent on European chip tech &lpar;Pieter Haeck/Politico&rpar;](http://www.techmeme.com/260209/p24#a260209p24)
+ - [AirPods Pro with built-in cameras may not cost more than current earbuds](https://appleinsider.com/articles/26/02/09/airpods-pro-with-built-in-cameras-may-not-cost-more-than-current-earbuds?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
