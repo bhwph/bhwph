@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Map says it all, shoes off is the way](http://9gag.com/gag/aO8E6z2)
- - 😝 [It&#39;s All About Perspective](http://9gag.com/gag/aVvrn32)
- - 👉 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)<!-- MEMES:END -->
+ - 6️⃣ [A glimmer of hope in this dark world](http://9gag.com/gag/aXP3DOV)
+ - 😝 [Maybe this should be thought earlier](http://9gag.com/gag/a2vgBZ9)
+ - 👉 [I really miss everything](http://9gag.com/gag/axyKxOp)<!-- MEMES:END -->
 
 --- 
 
