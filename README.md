@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [At 36, I don&#39;t think I&#39;m making any new friends. I think the relationship door has closed as well. I&#39;m not happy or unhappy. I just exist and carry on.](http://9gag.com/gag/aVvrNNn)
- - 😝 [Oh, sure sure...!](http://9gag.com/gag/aqyM0vQ)
- - 👉 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)<!-- MEMES:END -->
+ - 6️⃣ [Very near xD](http://9gag.com/gag/aoyobp2)
+ - 😝 [It&#39;s All About Perspective](http://9gag.com/gag/aVvrn32)
+ - 👉 [Not today](http://9gag.com/gag/aryE666)<!-- MEMES:END -->
 
 --- 
 
