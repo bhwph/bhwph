@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toyota made a game engine](https://www.theverge.com/games/875995/toyota-fluorite-game-engine)
- - [Upgrade your Apple Home architecture before the old one gets killed on Tuesday](https://appleinsider.com/articles/26/02/09/upgrade-your-apple-home-architecture-before-the-old-one-gets-killed-on-tuesday?utm_source=rss)
- - [Deal: 1st gen Apple AirTag 4-Pack price keeps dropping!](https://www.androidauthority.com/apple-airtag-4-pack-deal-15-3638735/)<!-- TECH:END -->
+ - [Apple ad shows how England Rugby makes use of the iPad and MacBook Pro](https://appleinsider.com/articles/26/02/09/apple-ad-shows-how-england-rugby-makes-use-of-the-ipad-and-macbook-pro?utm_source=rss)
+ - [MrBeast just bought a banking app](https://www.theverge.com/tech/876080/mrbeast-step-mobile-banking-app)
+ - [Oxide Computer, which lets companies build their own cloud, raised $200M led by USIT, taking its total funding to nearly $390M since its 2019 founding &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260209/p38#a260209p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
