@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Very near xD](http://9gag.com/gag/aoyobp2)
- - 😝 [It&#39;s All About Perspective](http://9gag.com/gag/aVvrn32)
- - 👉 [Not today](http://9gag.com/gag/aryE666)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s All About Perspective](http://9gag.com/gag/aVvrn32)
+ - 😝 [Very near xD](http://9gag.com/gag/aoyobp2)
+ - 👉 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)<!-- MEMES:END -->
 
 --- 
 
