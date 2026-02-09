@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars&#39; Super Bowl Trailer is the most disappointing thing I&#39;ve seen this year](https://www.polygon.com/star-wars-the-mandalorian-and-grogu-superbowl-trailer-disappointment/)
- - [FTL-like Void War was DMCAed by Games Workshop due to &#39;oversized convex shoulder pads with a metallic rim&#39;](https://www.pcgamer.com/gaming-industry/ftl-like-void-war-was-dmcaed-by-games-workshop-due-to-oversized-convex-shoulder-pads-with-a-metallic-rim/)
- - [Pokémon Super Bowl ad features a Lady Gaga and Jigglypuff duet](https://www.polygon.com/pokemon-super-bowl-commercial-lady-gaga-jigglypuff/)<!-- GAME:END -->
+ - [Sources: Don’t Expect Horizon Zero Dawn 3 Anytime Soon](https://kotaku.com/hzd3-horizon-sequel-guerrilla-ps6-hunters-gathering-2000666871)
+ - [The Best &lpar;And Worst&rpar; Super Bowl Video Game Ads](https://kotaku.com/video-game-super-bowl-ad-god-of-war-pokemon-xbox-switch-1850101152)
+ - [Overwatch Actor Calls Out Her Hero’s ‘Ozempic-Chic’ Character Design As Fans Beg For Changes](https://kotaku.com/overwatch-anran-face-comparison-change-voice-fareeha-2000666873)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
