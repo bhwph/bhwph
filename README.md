@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Parry this you filthy casual](http://9gag.com/gag/ae9zXDO)
+ - 6️⃣ [Teodor Zajder: 3-Second Barrier Broken \u2013 2.76 s 3x3 Rubik\u2019s Cube World Record](http://9gag.com/gag/ajPv2Qq)
  - 😝 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
  - 👉 [Scary scary](http://9gag.com/gag/aPALNpR)<!-- MEMES:END -->
 
