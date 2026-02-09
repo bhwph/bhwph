@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s All About Perspective](http://9gag.com/gag/aVvrn32)
- - 😝 [Remember Iryna Zarutska ?](http://9gag.com/gag/a0egBxL)
- - 👉 [Oh, sure sure...!](http://9gag.com/gag/aqyM0vQ)<!-- MEMES:END -->
+ - 6️⃣ [Debbie is still single and doesnt understand why](http://9gag.com/gag/aAyAWw0)
+ - 😝 [It&#39;s All About Perspective](http://9gag.com/gag/aVvrn32)
+ - 👉 [Map says it all, shoes off is the way](http://9gag.com/gag/aO8E6z2)<!-- MEMES:END -->
 
 --- 
 
