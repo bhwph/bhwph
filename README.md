@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China says its trade surplus from digital services rose 100%+ to a record $33B in 2025, boosted by overseas revenue of AI, livestreaming, and e-commerce &lpar;Bloomberg&rpar;](http://www.techmeme.com/260209/p2#a260209p2)
- - [NotebookLM could get even better with this Gemini feature](https://www.androidauthority.com/notebooklm-personal-intelligence-context-3638892/)
- - [From price to specs, here’s what we know about the Pixel 10a’s biggest rival](https://www.androidauthority.com/apple-iphone-17e-leaked-specs-price-3638886/)<!-- TECH:END -->
+ - [YouTube launches a Premium paywall for song lyrics on YouTube Music, after testing it in recent months; users get five free lyrics before they have to subscribe &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260209/p9#a260209p9)
+ - [Now even more users have to pay YouTube Music for song lyrics](https://www.androidauthority.com/youtube-music-lyrics-paywall-wide-rollout-3638956/)
+ - [The European Commission sends a statement of objections to Meta over WhatsApp blocking rival AI chatbots, warning it will take measures to avoid &quot;serious&quot; harm &lpar;Bloomberg&rpar;](http://www.techmeme.com/260209/p8#a260209p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
