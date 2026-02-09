@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube launches a Premium paywall for song lyrics on YouTube Music, after testing it in recent months; users get five free lyrics before they have to subscribe &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260209/p9#a260209p9)
- - [Now even more users have to pay YouTube Music for song lyrics](https://www.androidauthority.com/youtube-music-lyrics-paywall-wide-rollout-3638956/)
- - [The European Commission sends a statement of objections to Meta over WhatsApp blocking rival AI chatbots, warning it will take measures to avoid &quot;serious&quot; harm &lpar;Bloomberg&rpar;](http://www.techmeme.com/260209/p8#a260209p8)<!-- TECH:END -->
+ - [A rare look inside Google’s most secretive Pixel Hardware Labs](https://www.androidauthority.com/google-pixel-hardware-labs-tour-3638851/)
+ - [Ferrari’s New Jony Ive–Designed EV Is Swathed in Glass and Aluminum](https://www.wired.com/story/ferrari-ev-jony-ive-design/)
+ - [Alibaba&#39;s Qwen temporarily stops issuing coupons due to customer overload, hampering Alibaba&#39;s Agentic AI ad campaign; Qwen began offering coupons on February 6 &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260209/p16#a260209p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
