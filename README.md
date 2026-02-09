@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hobbies bees](http://9gag.com/gag/a87NP5Z)
- - 😝 [Scary scary](http://9gag.com/gag/aPALNpR)
- - 👉 [Monday again..](http://9gag.com/gag/aXP38d6)<!-- MEMES:END -->
+ - 6️⃣ [Parry this you filthy casual](http://9gag.com/gag/ae9zXDO)
+ - 😝 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
+ - 👉 [Scary scary](http://9gag.com/gag/aPALNpR)<!-- MEMES:END -->
 
 --- 
 
