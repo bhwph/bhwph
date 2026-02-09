@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI will reportedly start testing ads in ChatGPT today](https://www.theverge.com/news/875724/openai-chatgpt-ads-test-launch)
- - [EU officials and tech executives inaugurate a €2.5B chips research hub in Belgium; ASML and Imec emphasized that the US is dependent on European chip tech &lpar;Pieter Haeck/Politico&rpar;](http://www.techmeme.com/260209/p24#a260209p24)
- - [AirPods Pro with built-in cameras may not cost more than current earbuds](https://appleinsider.com/articles/26/02/09/airpods-pro-with-built-in-cameras-may-not-cost-more-than-current-earbuds?utm_source=rss)<!-- TECH:END -->
+ - [Autodesk sues Google for allegedly infringing its Flow trademark as the name of Google&#39;s AI filmmaking tool &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260209/p29#a260209p29)
+ - [Oura&#39;s FDA lobbying benefits Apple Watch, if everyone&#39;s smart about the risks](https://appleinsider.com/articles/26/02/09/ouras-fda-lobbying-benefits-apple-watch-if-everyones-smart-about-the-risks?utm_source=rss)
+ - [Apple&#39;s loaded M5 MacBook Pro with 32GB RAM, 1TB SSD plunges to $1,899](https://appleinsider.com/articles/26/02/09/apples-loaded-m5-macbook-pro-with-32gb-ram-1tb-ssd-plunges-to-1899?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
