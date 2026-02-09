@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo 3DS emulation is getting a big performance boost](https://www.androidauthority.com/3ds-shader-cache-3639160/)
- - [OpenAI says it has started testing ads in ChatGPT in the US for logged-in adult users on the Free and Go tiers and that the ads do not change ChatGPT answers &lpar;OpenAI&rpar;](http://www.techmeme.com/260209/p34#a260209p34)
- - [Samsung really might revive this 2019 camera feature just to take on Apple](https://www.androidauthority.com/samsung-galaxy-variable-aperture-more-evidence-3639188/)<!-- TECH:END -->
+ - [Toyota made a game engine](https://www.theverge.com/games/875995/toyota-fluorite-game-engine)
+ - [Upgrade your Apple Home architecture before the old one gets killed on Tuesday](https://appleinsider.com/articles/26/02/09/upgrade-your-apple-home-architecture-before-the-old-one-gets-killed-on-tuesday?utm_source=rss)
+ - [Deal: 1st gen Apple AirTag 4-Pack price keeps dropping!](https://www.androidauthority.com/apple-airtag-4-pack-deal-15-3638735/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
