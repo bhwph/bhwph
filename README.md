@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SMIC reports Q4 revenue up 13% YoY to $2.49B, above est., net profit up 61% YoY to $172.85M, above $139.5M est., and 2025 revenue of $9.33B, above 2024&#39;s $8.03B &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/260210/p8#a260210p8)
- - [Source: Chinese AI startup Zhipu anonymously released its new AI model on OpenRouter under the name Pony Alpha; Zhipu plans to launch GLM-5 later this week &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/260210/p7#a260210p7)
- - [This AI caricature trend is taking over social media — here’s how to make yours](https://www.androidauthority.com/ai-caricature-trend-how-to-3639046/)<!-- TECH:END -->
+ - [Health care navigation startup Solace, which matches patients with 2K+ advocates, raised $130M led by IVP at a $1B valuation, taking its total funding to $211M &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260210/p22#a260210p22)
+ - [UK gets Apple and Google to agree to easy App Store changes](https://appleinsider.com/articles/26/02/10/uk-gets-apple-and-google-to-agree-to-easy-app-store-changes?utm_source=rss)
+ - [Samsung’s new Direct Voicemail feature is here, and I tried it out](https://www.androidauthority.com/samsung-one-ui-8-5-direct-voicemail-3639084/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
