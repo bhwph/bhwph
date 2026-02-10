@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Spain-based Multiverse, which shrinks LLMs to reduce energy and compute costs, is in talks to raise ~€500M at a €1.5B+ valuation and has hit €100M ARR &lpar;Bloomberg&rpar;](http://www.techmeme.com/260210/p41#a260210p41)
- - [Microsoft is keeping Secure Boot alive with Windows updates](https://www.theverge.com/tech/876336/microsoft-windows-secure-boot-certificate-renewal)
- - [London&#39;s Apple Regent Street to reopen on Valentine&#39;s Day](https://appleinsider.com/articles/26/02/10/londons-apple-regent-street-to-reopen-on-valentines-day?utm_source=rss)<!-- TECH:END -->
+ - [AYANEO’s monster of a Windows gaming handheld sells for more than a Galaxy Z TriFold](https://www.androidauthority.com/ayaneo-next-2-pricing-3639566/)
+ - [Galaxy S26 shows off its dark side in latest leak](https://www.androidauthority.com/galaxy-s26-black-colorway-3639581/)
+ - [Sharge’s new power bank can charge two laptops while putting on a light show](https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
