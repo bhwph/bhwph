@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Paycheck after Paycheck](http://9gag.com/gag/abAw3mb)
- - 😝 [Stars revolving around a super massive black hole](http://9gag.com/gag/a1mjp28)
- - 👉 [Brother has shitpost potential](http://9gag.com/gag/aYQ680q)<!-- MEMES:END -->
+ - 6️⃣ [Typical thai experience](http://9gag.com/gag/apR7eD8)
+ - 😝 [No Comment.](http://9gag.com/gag/avyw27W)
+ - 👉 [Oh wow](http://9gag.com/gag/aE05deM)<!-- MEMES:END -->
 
 --- 
 
