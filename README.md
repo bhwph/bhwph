@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple ad shows how England Rugby makes use of the iPad and MacBook Pro](https://appleinsider.com/articles/26/02/09/apple-ad-shows-how-england-rugby-makes-use-of-the-ipad-and-macbook-pro?utm_source=rss)
- - [MrBeast just bought a banking app](https://www.theverge.com/tech/876080/mrbeast-step-mobile-banking-app)
- - [Oxide Computer, which lets companies build their own cloud, raised $200M led by USIT, taking its total funding to nearly $390M since its 2019 founding &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260209/p38#a260209p38)<!-- TECH:END -->
+ - [Discord Plans to Treat Some Users as Teens Until They Verify Their Age](https://www.cnet.com/tech/services-and-software/discord-teen-by-default-age-category/)
+ - [OpenAI Responds to Critical Super Bowl Commercials by Putting Ads in ChatGPT &lpar;Ece Yildirim/Gizmodo&rpar;](http://www.techmeme.com/260209/p46#a260209p46)
+ - [In opening statements in New Mexico&#39;s suit against Meta, state prosecutors argue Meta misrepresented the safety of its platforms, as Meta&#39;s attorney pushes back &lpar;Morgan Lee/Associated Press&rpar;](http://www.techmeme.com/260209/p45#a260209p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
