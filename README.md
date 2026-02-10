@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Health care navigation startup Solace, which matches patients with 2K+ advocates, raised $130M led by IVP at a $1B valuation, taking its total funding to $211M &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260210/p22#a260210p22)
- - [UK gets Apple and Google to agree to easy App Store changes](https://appleinsider.com/articles/26/02/10/uk-gets-apple-and-google-to-agree-to-easy-app-store-changes?utm_source=rss)
- - [Samsung’s new Direct Voicemail feature is here, and I tried it out](https://www.androidauthority.com/samsung-one-ui-8-5-direct-voicemail-3639084/)<!-- TECH:END -->
+ - [Autodesk is suing Google over the name of its Flow AI videomaker](https://www.theverge.com/tech/876266/autodesk-google-flow-trademark-infringement-lawsuit)
+ - [India tightens its rules on social media content, especially for AI-generated and manipulated material, giving platforms three hours to comply with takedowns &lpar;Swati Gupta/Bloomberg&rpar;](http://www.techmeme.com/260210/p31#a260210p31)
+ - [Entire, founded by ex-GitHub CEO Thomas Dohmke, raised a $60M seed at a $300M valuation to build open-source developer tools to better manage AI-written code &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260210/p30#a260210p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
