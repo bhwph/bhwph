@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Japanese Female Police Motorcycle Officer](http://9gag.com/gag/ae9wKLv)
- - 😝 [Watching this old book get a stunning makeover is so satisfying](http://9gag.com/gag/aVv5jp8)
- - 👉 [Ahead of the curve.](http://9gag.com/gag/a4PyKo6)<!-- MEMES:END -->
+ - 6️⃣ [November 2016, Kala Brown was rescued from a 95-acre property in Woodruff, South Carolina, after being held captive for 65 days. Investigators traced cell phone pings and social media records to the land owned by Todd Kohlhepp, a local realtor](http://9gag.com/gag/azxwgeb)
+ - 😝 [Podcast](http://9gag.com/gag/a7ogjKw)
+ - 👉 [I mean... How?](http://9gag.com/gag/arywvVX)<!-- MEMES:END -->
 
 --- 
 
