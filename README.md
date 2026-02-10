@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Typical thai experience](http://9gag.com/gag/apR7eD8)
- - 😝 [No Comment.](http://9gag.com/gag/avyw27W)
- - 👉 [Oh wow](http://9gag.com/gag/aE05deM)<!-- MEMES:END -->
+ - 6️⃣ [Oh wow](http://9gag.com/gag/aE05deM)
+ - 😝 [Nineteen Ninety-One](http://9gag.com/gag/amowqQo)
+ - 👉 [Typical thai experience](http://9gag.com/gag/apR7eD8)<!-- MEMES:END -->
 
 --- 
 
