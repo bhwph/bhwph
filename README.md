@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [November 2016, Kala Brown was rescued from a 95-acre property in Woodruff, South Carolina, after being held captive for 65 days. Investigators traced cell phone pings and social media records to the land owned by Todd Kohlhepp, a local realtor](http://9gag.com/gag/azxwgeb)
+ - 6️⃣ [The old world is dying, and the new world struggles to be born: now is the time of monsters.](http://9gag.com/gag/aRBd6xG)
  - 😝 [Podcast](http://9gag.com/gag/a7ogjKw)
- - 👉 [I mean... How?](http://9gag.com/gag/arywvVX)<!-- MEMES:END -->
+ - 👉 [Nineteen Ninety-One](http://9gag.com/gag/amowqQo)<!-- MEMES:END -->
 
 --- 
 
