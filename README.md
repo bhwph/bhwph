@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
- - 😝 [Debbie is still single and doesnt understand why](http://9gag.com/gag/aAyAWw0)
- - 👉 [Crab](http://9gag.com/gag/awy2NN8)<!-- MEMES:END -->
+ - 6️⃣ [Wife gets a tiny bit excited](http://9gag.com/gag/a9ywQy0)
+ - 😝 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
+ - 👉 [Parry this you filthy casual](http://9gag.com/gag/ae9zXDO)<!-- MEMES:END -->
 
 --- 
 
