@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Autodesk is suing Google over the name of its Flow AI videomaker](https://www.theverge.com/tech/876266/autodesk-google-flow-trademark-infringement-lawsuit)
- - [India tightens its rules on social media content, especially for AI-generated and manipulated material, giving platforms three hours to comply with takedowns &lpar;Swati Gupta/Bloomberg&rpar;](http://www.techmeme.com/260210/p31#a260210p31)
- - [Entire, founded by ex-GitHub CEO Thomas Dohmke, raised a $60M seed at a $300M valuation to build open-source developer tools to better manage AI-written code &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260210/p30#a260210p30)<!-- TECH:END -->
+ - [Sources: Spain-based Multiverse, which shrinks LLMs to reduce energy and compute costs, is in talks to raise ~€500M at a €1.5B+ valuation and has hit €100M ARR &lpar;Bloomberg&rpar;](http://www.techmeme.com/260210/p41#a260210p41)
+ - [Microsoft is keeping Secure Boot alive with Windows updates](https://www.theverge.com/tech/876336/microsoft-windows-secure-boot-certificate-renewal)
+ - [London&#39;s Apple Regent Street to reopen on Valentine&#39;s Day](https://appleinsider.com/articles/26/02/10/londons-apple-regent-street-to-reopen-on-valentines-day?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
