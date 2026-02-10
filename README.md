@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord Plans to Treat Some Users as Teens Until They Verify Their Age](https://www.cnet.com/tech/services-and-software/discord-teen-by-default-age-category/)
- - [OpenAI Responds to Critical Super Bowl Commercials by Putting Ads in ChatGPT &lpar;Ece Yildirim/Gizmodo&rpar;](http://www.techmeme.com/260209/p46#a260209p46)
- - [In opening statements in New Mexico&#39;s suit against Meta, state prosecutors argue Meta misrepresented the safety of its platforms, as Meta&#39;s attorney pushes back &lpar;Morgan Lee/Associated Press&rpar;](http://www.techmeme.com/260209/p45#a260209p45)<!-- TECH:END -->
+ - [Google Home’s daily recap may soon become easier and nicer to check &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-home-visual-home-brief-3639290/)
+ - [As OpenAI prepares to retire GPT-4o on February 13, sources say it was scrapped partly because OpenAI struggled to contain 4o&#39;s potential for harmful outcomes &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/260209/p48#a260209p48)
+ - [Spotlight got a huge upgrade in macOS Tahoe, here&#39;s how to use it](https://appleinsider.com/inside/macos-tahoe/tips/spotlight-got-a-huge-upgrade-in-macos-tahoe-heres-how-to-use-it?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
