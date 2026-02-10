@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global installed base of active smartphones grew 2% in 2025; eight OEMs had 200M+ active devices each, and nearly one in four active smartphones is an iPhone &lpar;Tarun Pathak/Counterpoint Research&rpar;](http://www.techmeme.com/260210/p50#a260210p50)
- - [Fitbit’s personal health coach hits more wrists with expansion](https://www.androidauthority.com/fitbit-personal-health-coach-expansion-3639612/)
- - [This 4K projector is bright, built for living rooms, and affordable&lpar;ish&rpar;](https://www.androidauthority.com/optoma-uhz36-launch-3639631/)<!-- TECH:END -->
+ - [Kalshi says it registered over $1B in trades related to the Super Bowl; Piper Sandler analysts say Kalshi and Polymarket saw ~$1.2B in total trading on Sunday &lpar;Bloomberg&rpar;](http://www.techmeme.com/260210/p58#a260210p58)
+ - [Trump’s new ‘Buy American’ requirement for EV charging would dramatically curtail build-out](https://www.theverge.com/transportation/876703/trump-ev-charging-buy-american-nevi-funds)
+ - [Salesforce Workers Circulate Open Letter Urging CEO Marc Benioff to Denounce ICE](https://www.wired.com/story/letter-salesforce-employees-sent-after-marc-benioffs-ice-comments/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
