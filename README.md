@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AYANEO’s monster of a Windows gaming handheld sells for more than a Galaxy Z TriFold](https://www.androidauthority.com/ayaneo-next-2-pricing-3639566/)
- - [Galaxy S26 shows off its dark side in latest leak](https://www.androidauthority.com/galaxy-s26-black-colorway-3639581/)
- - [Sharge’s new power bank can charge two laptops while putting on a light show](https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter)<!-- TECH:END -->
+ - [Global installed base of active smartphones grew 2% in 2025; eight OEMs had 200M+ active devices each, and nearly one in four active smartphones is an iPhone &lpar;Tarun Pathak/Counterpoint Research&rpar;](http://www.techmeme.com/260210/p50#a260210p50)
+ - [Fitbit’s personal health coach hits more wrists with expansion](https://www.androidauthority.com/fitbit-personal-health-coach-expansion-3639612/)
+ - [This 4K projector is bright, built for living rooms, and affordable&lpar;ish&rpar;](https://www.androidauthority.com/optoma-uhz36-launch-3639631/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
