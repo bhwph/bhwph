@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese AI companies like Alibaba and Tencent are releasing new models and spending millions on &quot;red envelope&quot; freebies to woo users ahead of the Lunar New Year &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/260210/p5#a260210p5)
- - [This is how you’ll be able to trigger and experience Gemini on Aluminium OS](https://www.androidauthority.com/google-aluminium-os-gemini-integration-apk-teardown-3639334/)
- - [Next-gen Ultra phones could switch to triple 100MP cameras, 100MP selfie cameras](https://www.androidauthority.com/phones-with-three-100mp-cameras-selfie-camera-3639341/)<!-- TECH:END -->
+ - [SMIC reports Q4 revenue up 13% YoY to $2.49B, above est., net profit up 61% YoY to $172.85M, above $139.5M est., and 2025 revenue of $9.33B, above 2024&#39;s $8.03B &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/260210/p8#a260210p8)
+ - [Source: Chinese AI startup Zhipu anonymously released its new AI model on OpenRouter under the name Pony Alpha; Zhipu plans to launch GLM-5 later this week &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/260210/p7#a260210p7)
+ - [This AI caricature trend is taking over social media — here’s how to make yours](https://www.androidauthority.com/ai-caricature-trend-how-to-3639046/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
