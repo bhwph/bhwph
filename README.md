@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wife gets a tiny bit excited](http://9gag.com/gag/a9ywQy0)
- - 😝 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
- - 👉 [Parry this you filthy casual](http://9gag.com/gag/ae9zXDO)<!-- MEMES:END -->
+ - 6️⃣ [Map says it all, shoes off is the way](http://9gag.com/gag/aO8E6z2)
+ - 😝 [Wife&#39;s morning routine vs husband&#39;s morning routine](http://9gag.com/gag/aD29B6G)
+ - 👉 [No Comment.](http://9gag.com/gag/avyw27W)<!-- MEMES:END -->
 
 --- 
 
