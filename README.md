@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Map says it all, shoes off is the way](http://9gag.com/gag/aO8E6z2)
- - 😝 [Wife&#39;s morning routine vs husband&#39;s morning routine](http://9gag.com/gag/aD29B6G)
- - 👉 [No Comment.](http://9gag.com/gag/avyw27W)<!-- MEMES:END -->
+ - 6️⃣ [Scary scary](http://9gag.com/gag/aPALNpR)
+ - 😝 [Crab](http://9gag.com/gag/awy2NN8)
+ - 👉 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)<!-- MEMES:END -->
 
 --- 
 
