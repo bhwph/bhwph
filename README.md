@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)
- - 😝 [No Comment.](http://9gag.com/gag/avyw27W)
- - 👉 [November 2016, Kala Brown was rescued from a 95-acre property in Woodruff, South Carolina, after being held captive for 65 days. Investigators traced cell phone pings and social media records to the land owned by Todd Kohlhepp, a local realtor](http://9gag.com/gag/azxwgeb)<!-- MEMES:END -->
+ - 6️⃣ [Darwin is watching](http://9gag.com/gag/a9y0bwm)
+ - 😝 [I mean... How?](http://9gag.com/gag/arywvVX)
+ - 👉 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)<!-- MEMES:END -->
 
 --- 
 
