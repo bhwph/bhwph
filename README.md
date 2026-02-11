@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I feel its a good time to post this again](http://9gag.com/gag/aMV5eq6)
- - 😝 [Nineteen Ninety-One](http://9gag.com/gag/amowqQo)
+ - 6️⃣ [Oh wow](http://9gag.com/gag/aE05deM)
+ - 😝 [I mean... How?](http://9gag.com/gag/arywvVX)
  - 👉 [Darwin is watching](http://9gag.com/gag/a9y0bwm)<!-- MEMES:END -->
 
 --- 
