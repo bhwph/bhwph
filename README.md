@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [God help me](http://9gag.com/gag/ae9wjmb)
- - 😝 [Shut up and take my money!](http://9gag.com/gag/aQz5PgK)
- - 👉 [Thanks for getting me through hard times. Females are on 9gag!](http://9gag.com/gag/aZZ5P7n)<!-- MEMES:END -->
+ - 6️⃣ [Shut up and take my money!](http://9gag.com/gag/aQz5PgK)
+ - 😝 [Passionate hater](http://9gag.com/gag/aQz5PYK)
+ - 👉 [God help me](http://9gag.com/gag/ae9wjmb)<!-- MEMES:END -->
 
 --- 
 
