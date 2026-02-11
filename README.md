@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mega Deal Zone: 1TB M4 Pro MacBook Pro laptops plunge to as low as $1,799](https://appleinsider.com/articles/26/02/11/mega-deal-zone-1tb-m4-pro-macbook-pro-laptops-plunge-to-as-low-as-1799?utm_source=rss)
- - [Source: OpenAI disbanded its mission alignment team and transferred its staffers; Joshua Achiam, who led the team, will take on a new title of &quot;chief futurist&quot; &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260211/p33#a260211p33)
- - [T-Mobile is building live call translation directly into its network](https://www.androidauthority.com/t-mobile-live-translation-3639959/)<!-- TECH:END -->
+ - [I Loved My OpenClaw AI Agent—Until It Turned on Me](https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/)
+ - [Greyhound sequel begins filming, shifting from Atlantic to Pacific](https://appleinsider.com/articles/26/02/11/greyhound-sequel-begins-filming-shifting-from-atlantic-to-pacific?utm_source=rss)
+ - [Samsung’s offering up to $900 of trade-in credit toward its new phones](https://www.theverge.com/gadgets/877258/samsung-unpacked-preorder-galaxy-s26-plus-ultra-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
