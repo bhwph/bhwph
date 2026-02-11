@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Siri testing isn&#39;t going well, new features probably wont ship in iOS 26.4](https://appleinsider.com/articles/26/02/11/siri-testing-isnt-going-well-new-features-probably-wont-ship-in-ios-264?utm_source=rss)
- - [Anthropic says Claude users on the free plan can now create files, connect to external services, use skills, and more &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/260211/p42#a260211p42)
- - [OPPO Find X9 Ultra leak confirms massive camera bump](https://www.androidauthority.com/oppo-find-x9-ultra-spotted-in-wild-3640030/)<!-- TECH:END -->
+ - [‘Heated Rivalry’ Is Bringing New Fans to Hockey. Does the Sport Deserve Them?](https://www.wired.com/story/winter-olympics-heated-rivalry-effect-lgbtq-inclusivity/)
+ - [50 years of Apple history is on display at the Computer History Museum](https://appleinsider.com/articles/26/02/11/50-years-of-apple-history-is-on-display-at-the-computer-history-museum?utm_source=rss)
+ - [Social media addiction trial: Adam Mosseri says social media is not &quot;clinically addictive&quot; and that Meta was careful to test features used by young people &lpar;New York Times&rpar;](http://www.techmeme.com/260211/p46#a260211p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
