@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An OpenAI researcher who helped shape how models were built and priced says she quit after two years due to &quot;deep reservations&quot; about ads and OpenAI&#39;s strategy &lpar;Zoë Hitzig/New York Times&rpar;](http://www.techmeme.com/260211/p28#a260211p28)
- - [A Dutch court orders an investigation into alleged mismanagement at Chinese-owned chip company Nexperia and upholds the suspension of CEO Zhang Xuezheng &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/260211/p27#a260211p27)
- - [Meridian, which uses AI to make financial modeling and spreadsheets more &quot;predictable and auditable&quot;, exits stealth and raised a $17M seed at a $100M valuation &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260211/p26#a260211p26)<!-- TECH:END -->
+ - [Mega Deal Zone: 1TB M4 Pro MacBook Pro laptops plunge to as low as $1,799](https://appleinsider.com/articles/26/02/11/mega-deal-zone-1tb-m4-pro-macbook-pro-laptops-plunge-to-as-low-as-1799?utm_source=rss)
+ - [Source: OpenAI disbanded its mission alignment team and transferred its staffers; Joshua Achiam, who led the team, will take on a new title of &quot;chief futurist&quot; &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260211/p33#a260211p33)
+ - [T-Mobile is building live call translation directly into its network](https://www.androidauthority.com/t-mobile-live-translation-3639959/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
