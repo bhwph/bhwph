@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Darwin is watching](http://9gag.com/gag/a9y0bwm)
- - 😝 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
- - 👉 [Good news everyone!](http://9gag.com/gag/ae9w3rO)<!-- MEMES:END -->
+ - 6️⃣ [In Turkey, a man drove a forklift into a jewelry store, stole 150 grams of gold, and ran away on a donkey. You can&#39;t make this up.](http://9gag.com/gag/aXP1bDb)
+ - 😝 [Just like that...](http://9gag.com/gag/aBy5KeD)
+ - 👉 [Nice......!!!!!!](http://9gag.com/gag/aMV5266)<!-- MEMES:END -->
 
 --- 
 
