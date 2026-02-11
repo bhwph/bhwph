@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Darwin is watching](http://9gag.com/gag/a9y0bwm)
- - 😝 [I mean... How?](http://9gag.com/gag/arywvVX)
- - 👉 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)
+ - 😝 [The old world is dying, and the new world struggles to be born: now is the time of monsters.](http://9gag.com/gag/aRBd6xG)
+ - 👉 [No Comment.](http://9gag.com/gag/avyw27W)<!-- MEMES:END -->
 
 --- 
 
