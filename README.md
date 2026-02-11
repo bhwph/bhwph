@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Toyota Highlander is now a three-row electric SUV with 320 miles of range](https://www.theverge.com/transportation/875906/toyota-highlander-ev-suv-range-specs)
- - [600 companies in Japan want the Epic treatment -- a free ride in Apple&#39;s ecosystem](https://appleinsider.com/articles/26/02/11/600-companies-in-japan-want-the-epic-treatment----a-free-ride-in-apples-ecosystem?utm_source=rss)
- - [Q&amp;A with Siemens CEO Roland Busch on the company&#39;s 170+ year history, automation, managing 320K staff, US manufacturing investments, augmenting LLMs, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260210/p69#a260210p69)<!-- TECH:END -->
+ - [NYC-based Garner Health, a platform using data analytics to help workers find healthcare providers, raised a $118M Series D at a $1.35B valuation &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/260210/p72#a260210p72)
+ - [How to bring back macOS Launchpad with this neat command-line tool](https://appleinsider.com/inside/macos-tahoe/tips/how-to-bring-back-macos-launchpad-with-this-neat-command-line-tool?utm_source=rss)
+ - [Cinnamon Bun is baking: Google confirms Android 17 Beta 1 is coming soon](https://www.androidauthority.com/android-17-beta-1-release-announcement-3639734/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
