@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kalshi says it registered over $1B in trades related to the Super Bowl; Piper Sandler analysts say Kalshi and Polymarket saw ~$1.2B in total trading on Sunday &lpar;Bloomberg&rpar;](http://www.techmeme.com/260210/p58#a260210p58)
- - [Trump’s new ‘Buy American’ requirement for EV charging would dramatically curtail build-out](https://www.theverge.com/transportation/876703/trump-ev-charging-buy-american-nevi-funds)
- - [Salesforce Workers Circulate Open Letter Urging CEO Marc Benioff to Denounce ICE](https://www.wired.com/story/letter-salesforce-employees-sent-after-marc-benioffs-ice-comments/)<!-- TECH:END -->
+ - [The Toyota Highlander is now a three-row electric SUV with 320 miles of range](https://www.theverge.com/transportation/875906/toyota-highlander-ev-suv-range-specs)
+ - [600 companies in Japan want the Epic treatment -- a free ride in Apple&#39;s ecosystem](https://appleinsider.com/articles/26/02/11/600-companies-in-japan-want-the-epic-treatment----a-free-ride-in-apples-ecosystem?utm_source=rss)
+ - [Q&amp;A with Siemens CEO Roland Busch on the company&#39;s 170+ year history, automation, managing 320K staff, US manufacturing investments, augmenting LLMs, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260210/p69#a260210p69)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
