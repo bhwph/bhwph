@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Loved My OpenClaw AI Agent—Until It Turned on Me](https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/)
- - [Greyhound sequel begins filming, shifting from Atlantic to Pacific](https://appleinsider.com/articles/26/02/11/greyhound-sequel-begins-filming-shifting-from-atlantic-to-pacific?utm_source=rss)
- - [Samsung’s offering up to $900 of trade-in credit toward its new phones](https://www.theverge.com/gadgets/877258/samsung-unpacked-preorder-galaxy-s26-plus-ultra-ai)<!-- TECH:END -->
+ - [Siri testing isn&#39;t going well, new features probably wont ship in iOS 26.4](https://appleinsider.com/articles/26/02/11/siri-testing-isnt-going-well-new-features-probably-wont-ship-in-ios-264?utm_source=rss)
+ - [Anthropic says Claude users on the free plan can now create files, connect to external services, use skills, and more &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/260211/p42#a260211p42)
+ - [OPPO Find X9 Ultra leak confirms massive camera bump](https://www.androidauthority.com/oppo-find-x9-ultra-spotted-in-wild-3640030/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
