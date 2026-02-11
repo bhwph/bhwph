@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [El Paso flights grounded for 10 days for ‘special security reasons’](https://www.theverge.com/transportation/877019/el-paso-airport-faa-flights-grounded-airspace-special-security)
- - [Filing: San Jose Mayor Matt Mahan, set to run for California governor to succeed Newsom, gets donations from Sergey Brin, Roblox CEO David Baszucki, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/260211/p22#a260211p22)
- - [How to Set Up an Apple Watch for Your Kids &lpar;2026&rpar;](https://www.wired.com/story/how-to-set-up-apple-watch-for-kids/)<!-- TECH:END -->
+ - [An OpenAI researcher who helped shape how models were built and priced says she quit after two years due to &quot;deep reservations&quot; about ads and OpenAI&#39;s strategy &lpar;Zoë Hitzig/New York Times&rpar;](http://www.techmeme.com/260211/p28#a260211p28)
+ - [A Dutch court orders an investigation into alleged mismanagement at Chinese-owned chip company Nexperia and upholds the suspension of CEO Zhang Xuezheng &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/260211/p27#a260211p27)
+ - [Meridian, which uses AI to make financial modeling and spreadsheets more &quot;predictable and auditable&quot;, exits stealth and raised a $17M seed at a $100M valuation &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260211/p26#a260211p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
