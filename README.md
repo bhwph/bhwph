@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [KPMG citing PitchBook data: UK fintech investment totaled almost $11B in 2025 across 418 deals, down from ~$13.4B in 2024 across 527 deals; Revolut raised $4B &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/260211/p11#a260211p11)
- - [Mazzer Philos Review &lpar;2026&rpar;: Sweet, Zero-Retention Grinds](https://www.wired.com/review/mazzer-philos-coffee-grinder/)
- - [Sources: Amazon, Google, and others plan to skirt Trump&#39;s $100K H-1B fee by finding workers in categories that don&#39;t include the fee, like existing H-1B holders &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/260211/p10#a260211p10)<!-- TECH:END -->
+ - [El Paso flights grounded for 10 days for ‘special security reasons’](https://www.theverge.com/transportation/877019/el-paso-airport-faa-flights-grounded-airspace-special-security)
+ - [Filing: San Jose Mayor Matt Mahan, set to run for California governor to succeed Newsom, gets donations from Sergey Brin, Roblox CEO David Baszucki, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/260211/p22#a260211p22)
+ - [How to Set Up an Apple Watch for Your Kids &lpar;2026&rpar;](https://www.wired.com/story/how-to-set-up-apple-watch-for-kids/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
