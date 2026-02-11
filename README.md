@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shut up and take my money!](http://9gag.com/gag/aQz5PgK)
- - 😝 [Passionate hater](http://9gag.com/gag/aQz5PYK)
- - 👉 [God help me](http://9gag.com/gag/ae9wjmb)<!-- MEMES:END -->
+ - 6️⃣ [In Turkey, a man drove a forklift into a jewelry store, stole 150 grams of gold, and ran away on a donkey. You can&#39;t make this up.](http://9gag.com/gag/aXP1bDb)
+ - 😝 [You got off Easy I would\u2019ve gotten a 4 course meal and few Single Malt shots](http://9gag.com/gag/aVv5Ory)
+ - 👉 [We had dreams](http://9gag.com/gag/aBy5Qr2)<!-- MEMES:END -->
 
 --- 
 
