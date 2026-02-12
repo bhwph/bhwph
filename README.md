@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice......!!!!!!](http://9gag.com/gag/aMV5266)
- - 😝 [How should we see the Epstein connection?](http://9gag.com/gag/ae9w3rb)
- - 👉 [Nice!](http://9gag.com/gag/ayNwpjb)<!-- MEMES:END -->
+ - 6️⃣ [I mean... How?](http://9gag.com/gag/arywvVX)
+ - 😝 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
+ - 👉 [Darwin is watching](http://9gag.com/gag/a9y0bwm)<!-- MEMES:END -->
 
 --- 
 
