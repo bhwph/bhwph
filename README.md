@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 26.3 arrives with a simpler way to transfer from iPhone to Android](https://appleinsider.com/articles/26/02/11/ios-263-arrives-with-a-simpler-way-to-transfer-from-iphone-to-android?utm_source=rss)
- - [YC&#39;s Garry Tan launches &quot;Garry&#39;s List&quot;, a nonprofit dedicated to supporting &quot;moderate/pragmatic&quot; political candidates and pro-growth policies in California &lpar;Joe Rivano Barros/Mission Local&rpar;](http://www.techmeme.com/260211/p60#a260211p60)
- - [FTC uses selective Apple News study to ask Apple to stop promoting &#39;leftist outlets&#39;](https://appleinsider.com/articles/26/02/12/ftc-uses-selective-apple-news-study-to-ask-apple-to-stop-promoting-leftist-outlets?utm_source=rss)<!-- TECH:END -->
+ - [Multiple responses from DeepSeek&#39;s namesake chatbot confirm that the startup has expanded the context window of its flagship AI model from 128K tokens to 1M+ &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/260212/p8#a260212p8)
+ - [Grab agrees to acquire US fintech company Stash Financial in a deal initially valued at $425M and forecasts FY 2026 revenue of $4.04B-$4.1B, below $4.13B est. &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260212/p7#a260212p7)
+ - [Apple just made it easier to leave the iPhone and move to Android](https://www.androidauthority.com/apple-ios-26-3-switch-to-android-3640140/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
