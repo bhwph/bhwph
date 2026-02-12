@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [God help me](http://9gag.com/gag/ae9wjmb)
- - 😝 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
- - 👉 [Good news everyone!](http://9gag.com/gag/ae9w3rO)<!-- MEMES:END -->
+ - 6️⃣ [Bomb disposal expert vs a thief](http://9gag.com/gag/ajPw6p0)
+ - 😝 [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)
+ - 👉 [God help me](http://9gag.com/gag/ae9wjmb)<!-- MEMES:END -->
 
 --- 
 
