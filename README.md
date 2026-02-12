@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I need your worst Gifs.](http://9gag.com/gag/ayNwpG8)
- - 😝 [Bomb disposal expert vs a thief](http://9gag.com/gag/ajPw6p0)
+ - 6️⃣ [The owners of the these cars never returned...](http://9gag.com/gag/aRBdQ0q)
+ - 😝 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
  - 👉 [Dubai Job interview be like](http://9gag.com/gag/aBy5Q7D)<!-- MEMES:END -->
 
 --- 
