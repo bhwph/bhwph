@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Multiple responses from DeepSeek&#39;s namesake chatbot confirm that the startup has expanded the context window of its flagship AI model from 128K tokens to 1M+ &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/260212/p8#a260212p8)
- - [Grab agrees to acquire US fintech company Stash Financial in a deal initially valued at $425M and forecasts FY 2026 revenue of $4.04B-$4.1B, below $4.13B est. &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260212/p7#a260212p7)
- - [Apple just made it easier to leave the iPhone and move to Android](https://www.androidauthority.com/apple-ios-26-3-switch-to-android-3640140/)<!-- TECH:END -->
+ - [Google adds more convenience to its free VPN built into Pixel phones](https://www.androidauthority.com/pixel-vpn-by-google-quick-settings-upgrade-3640156/)
+ - [Private equity and private credit groups&#39; big bets on SaaS companies, the biggest area of PE activity in the past decade, risk being derailed by the rise of AI &lpar;Financial Times&rpar;](http://www.techmeme.com/260212/p13#a260212p13)
+ - [SoftBank Group reports Q3 net profit of $1.6B after its Vision Fund posted a $2.4B gain, as a jump in the value of its OpenAI investment helped offset losses &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260212/p12#a260212p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
