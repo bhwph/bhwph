@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [New Kingdom](http://9gag.com/gag/azxwEQK)
- - 😝 [Oh wait](http://9gag.com/gag/aD25w6G)
- - 👉 [He will not expect it](http://9gag.com/gag/aRBdPrG)<!-- MEMES:END -->
+ - 6️⃣ [I need your worst Gifs.](http://9gag.com/gag/ayNwpG8)
+ - 😝 [Bomb disposal expert vs a thief](http://9gag.com/gag/ajPw6p0)
+ - 👉 [Dubai Job interview be like](http://9gag.com/gag/aBy5Q7D)<!-- MEMES:END -->
 
 --- 
 
