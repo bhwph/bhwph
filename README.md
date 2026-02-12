@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I found a trick to easily check for new Android updates — here’s how](https://www.androidauthority.com/trick-easily-check-new-android-updates-3640310/)
- - [Crypto-Funded Human Trafficking Is Exploding](https://www.wired.com/story/crypto-funded-human-trafficking-is-exploding/)
- - [This $7,999 robot will fold &lpar;some of&rpar; your laundry](https://www.theverge.com/tech/877851/weave-isaac-robot-fold-laundry)<!-- TECH:END -->
+ - [Israeli authorities charge a reservist and a civilian for allegedly using classified information to bet on military operations on Polymarket &lpar;Financial Times&rpar;](http://www.techmeme.com/260212/p29#a260212p29)
+ - [Elon Musk&#39;s X Appears to Be Violating US Sanctions by Selling Premium Accounts to Iranian Leaders](https://www.wired.com/story/elon-musk-x-premium-accounts-iran/)
+ - [Nvidia launches a native GeForce Now app on select Amazon Fire TV sticks, offering up to 1080p and 60 fps gaming; Fire TV users previously had to sideload it &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/260212/p28#a260212p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
