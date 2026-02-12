@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Heated Rivalry’ Is Bringing New Fans to Hockey. Does the Sport Deserve Them?](https://www.wired.com/story/winter-olympics-heated-rivalry-effect-lgbtq-inclusivity/)
- - [50 years of Apple history is on display at the Computer History Museum](https://appleinsider.com/articles/26/02/11/50-years-of-apple-history-is-on-display-at-the-computer-history-museum?utm_source=rss)
- - [Social media addiction trial: Adam Mosseri says social media is not &quot;clinically addictive&quot; and that Meta was careful to test features used by young people &lpar;New York Times&rpar;](http://www.techmeme.com/260211/p46#a260211p46)<!-- TECH:END -->
+ - [US FTC chair urges Tim Cook to review Apple News&#39; terms and curation after a study claimed the app promoted &quot;leftist outlets&quot; and suppressed conservative ones &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/260211/p55#a260211p55)
+ - [Sources: the Pentagon is pushing OpenAI, Anthropic, and others to make their AI tools available on classified networks without the standard user restrictions &lpar;Reuters&rpar;](http://www.techmeme.com/260211/p54#a260211p54)
+ - [Remember James Van Der Beek by Streaming Dawson&#39;s Creek and His Other Roles](https://www.cnet.com/tech/services-and-software/where-to-stream-james-van-der-beek-best-dawsons-creek/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
