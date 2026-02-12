@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I mean... How?](http://9gag.com/gag/arywvVX)
+ - 6️⃣ [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)
  - 😝 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
- - 👉 [Darwin is watching](http://9gag.com/gag/a9y0bwm)<!-- MEMES:END -->
+ - 👉 [Good news everyone!](http://9gag.com/gag/ae9w3rO)<!-- MEMES:END -->
 
 --- 
 
