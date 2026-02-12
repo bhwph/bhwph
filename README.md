@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung starts testing One UI 9 builds for Galaxy Z Fold 8 and Flip 8](https://www.androidauthority.com/one-ui-9-test-builds-3640560/)
- - [Google Chat users can now preview Figma files, manage invites, and reply to comments](https://www.androidauthority.com/google-chat-figma-integration-3640568/)
- - [Anthropic&#39;s latest funding round includes part of the $15B commitment from Microsoft and Nvidia in 2025; sources say the remainder was several times subscribed &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260212/p48#a260212p48)<!-- TECH:END -->
+ - [Coinbase reports Q4 revenue down 22% YoY to $1.78B, vs. $1.84B est., transaction revenue down 37% to $983M, a net loss of $667M, vs. a $1.3B profit in Q4 2024 &lpar;André Beganski/Decrypt&rpar;](http://www.techmeme.com/260212/p57#a260212p57)
+ - [‘Uncanny Valley’: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants](https://www.wired.com/story/uncanny-valley-podcast-ice-expansion-palantir-workers-ethical-concerns-openclaw-ai-assistants/)
+ - [Didero, which provides an agentic AI layer that integrates with ERP systems to automate supply chains, raised a $30M Series A co-led by Chemistry and Headline &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260212/p56#a260212p56)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
