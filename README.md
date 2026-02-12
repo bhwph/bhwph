@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every little thing she does is magic](https://www.theverge.com/tech/877290/3d-animation-stop-motion-cinema-4d-woman-creator-witch)
- - [YouTube is coming to the Apple Vision Pro](https://www.theverge.com/tech/878097/youtube-apple-vision-pro-visionos-app)
- - [MiniMax releases M2.5, claiming the model delivers on the &quot;intelligence too cheap to meter&quot; promise, priced at $0.30/1M input tokens and $1.20/1M output tokens &lpar;MiniMax&rpar;](http://www.techmeme.com/260212/p34#a260212p34)<!-- TECH:END -->
+ - [Spotify says AI is helping it speed up coding and product velocity and its best developers &quot;have not written a single line of code since December&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260212/p43#a260212p43)
+ - [OpenAI’s President Gave Millions to Trump. He Says It’s for Humanity](https://www.wired.com/story/openai-president-greg-brockman-political-donations-trump-humanity/)
+ - [Eufy’s midrange X10 Pro Omni robovac has fallen to its best-ever price](https://www.theverge.com/gadgets/877673/eufy-x10-pro-omni-nothing-phone-3-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
