@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google adds more convenience to its free VPN built into Pixel phones](https://www.androidauthority.com/pixel-vpn-by-google-quick-settings-upgrade-3640156/)
- - [Private equity and private credit groups&#39; big bets on SaaS companies, the biggest area of PE activity in the past decade, risk being derailed by the rise of AI &lpar;Financial Times&rpar;](http://www.techmeme.com/260212/p13#a260212p13)
- - [SoftBank Group reports Q3 net profit of $1.6B after its Vision Fund posted a $2.4B gain, as a jump in the value of its OpenAI investment helped offset losses &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260212/p12#a260212p12)<!-- TECH:END -->
+ - [Samsung says it sent the first commercial HBM4 shipments to customers, as it seeks to supply Nvidia and compete with memory rivals like SK Hynix and Micron &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260212/p15#a260212p15)
+ - [Many Adjustable Bed Frames Have a “Zero Gravity” Feature. I Tried It for a Week](https://www.wired.com/story/what-its-like-to-sleep-in-zero-gravity/)
+ - [Why I’m telling everyone to skip the $499 Pixel 10a and buy a $599 Pixel 10 instead](https://www.androidauthority.com/pixel-10-deal-killed-pixel-10a-before-it-launched-3640052/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
