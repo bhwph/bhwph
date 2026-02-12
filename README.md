@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify says AI is helping it speed up coding and product velocity and its best developers &quot;have not written a single line of code since December&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260212/p43#a260212p43)
- - [OpenAI’s President Gave Millions to Trump. He Says It’s for Humanity](https://www.wired.com/story/openai-president-greg-brockman-political-donations-trump-humanity/)
- - [Eufy’s midrange X10 Pro Omni robovac has fallen to its best-ever price](https://www.theverge.com/gadgets/877673/eufy-x10-pro-omni-nothing-phone-3-deal-sale)<!-- TECH:END -->
+ - [Samsung starts testing One UI 9 builds for Galaxy Z Fold 8 and Flip 8](https://www.androidauthority.com/one-ui-9-test-builds-3640560/)
+ - [Google Chat users can now preview Figma files, manage invites, and reply to comments](https://www.androidauthority.com/google-chat-figma-integration-3640568/)
+ - [Anthropic&#39;s latest funding round includes part of the $15B commitment from Microsoft and Nvidia in 2025; sources say the remainder was several times subscribed &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260212/p48#a260212p48)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
