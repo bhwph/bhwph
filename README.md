@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bomb disposal expert vs a thief](http://9gag.com/gag/ajPw6p0)
- - 😝 [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)
- - 👉 [God help me](http://9gag.com/gag/ae9wjmb)<!-- MEMES:END -->
+ - 6️⃣ [Darwin is watching](http://9gag.com/gag/a9y0bwm)
+ - 😝 [God help me](http://9gag.com/gag/ae9wjmb)
+ - 👉 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)<!-- MEMES:END -->
 
 --- 
 
