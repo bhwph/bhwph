@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung says it sent the first commercial HBM4 shipments to customers, as it seeks to supply Nvidia and compete with memory rivals like SK Hynix and Micron &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260212/p15#a260212p15)
- - [Many Adjustable Bed Frames Have a “Zero Gravity” Feature. I Tried It for a Week](https://www.wired.com/story/what-its-like-to-sleep-in-zero-gravity/)
- - [Why I’m telling everyone to skip the $499 Pixel 10a and buy a $599 Pixel 10 instead](https://www.androidauthority.com/pixel-10-deal-killed-pixel-10a-before-it-launched-3640052/)<!-- TECH:END -->
+ - [I found a trick to easily check for new Android updates — here’s how](https://www.androidauthority.com/trick-easily-check-new-android-updates-3640310/)
+ - [Crypto-Funded Human Trafficking Is Exploding](https://www.wired.com/story/crypto-funded-human-trafficking-is-exploding/)
+ - [This $7,999 robot will fold &lpar;some of&rpar; your laundry](https://www.theverge.com/tech/877851/weave-isaac-robot-fold-laundry)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
