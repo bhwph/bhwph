@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)
+ - 6️⃣ [God help me](http://9gag.com/gag/ae9wjmb)
  - 😝 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
  - 👉 [Good news everyone!](http://9gag.com/gag/ae9w3rO)<!-- MEMES:END -->
 
