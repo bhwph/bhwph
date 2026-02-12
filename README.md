@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israeli authorities charge a reservist and a civilian for allegedly using classified information to bet on military operations on Polymarket &lpar;Financial Times&rpar;](http://www.techmeme.com/260212/p29#a260212p29)
- - [Elon Musk&#39;s X Appears to Be Violating US Sanctions by Selling Premium Accounts to Iranian Leaders](https://www.wired.com/story/elon-musk-x-premium-accounts-iran/)
- - [Nvidia launches a native GeForce Now app on select Amazon Fire TV sticks, offering up to 1080p and 60 fps gaming; Fire TV users previously had to sideload it &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/260212/p28#a260212p28)<!-- TECH:END -->
+ - [Every little thing she does is magic](https://www.theverge.com/tech/877290/3d-animation-stop-motion-cinema-4d-woman-creator-witch)
+ - [YouTube is coming to the Apple Vision Pro](https://www.theverge.com/tech/878097/youtube-apple-vision-pro-visionos-app)
+ - [MiniMax releases M2.5, claiming the model delivers on the &quot;intelligence too cheap to meter&quot; promise, priced at $0.30/1M input tokens and $1.20/1M output tokens &lpar;MiniMax&rpar;](http://www.techmeme.com/260212/p34#a260212p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
