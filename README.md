@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Darwin is watching](http://9gag.com/gag/a9y0bwm)
- - 😝 [God help me](http://9gag.com/gag/ae9wjmb)
- - 👉 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)<!-- MEMES:END -->
+ - 6️⃣ [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
+ - 😝 [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)
+ - 👉 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)<!-- MEMES:END -->
 
 --- 
 
