@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
- - 😝 [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)
- - 👉 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)<!-- MEMES:END -->
+ - 6️⃣ [New Kingdom](http://9gag.com/gag/azxwEQK)
+ - 😝 [Oh wait](http://9gag.com/gag/aD25w6G)
+ - 👉 [He will not expect it](http://9gag.com/gag/aRBdPrG)<!-- MEMES:END -->
 
 --- 
 
