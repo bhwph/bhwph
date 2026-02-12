@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sources: Don’t Expect Horizon Zero Dawn 3 Anytime Soon](https://kotaku.com/hzd3-horizon-sequel-guerrilla-ps6-hunters-gathering-2000666871)
- - [The Best &lpar;And Worst&rpar; Super Bowl Video Game Ads](https://kotaku.com/video-game-super-bowl-ad-god-of-war-pokemon-xbox-switch-1850101152)
- - [Overwatch Actor Calls Out Her Hero’s ‘Ozempic-Chic’ Character Design As Fans Beg For Changes](https://kotaku.com/overwatch-anran-face-comparison-change-voice-fareeha-2000666873)<!-- GAME:END -->
+ - [All academy quiz answers in Mario Tennis Fever](https://www.polygon.com/mario-tennis-fever-academy-quiz-answers-adventure/)
+ - [Mario Tennis Fever Beginner&#39;s tips and tricks](https://www.polygon.com/mario-tennis-fever-beginners-tips-tricks-before-you-start/)
+ - [All Fever rackets in Mario Tennis Fever](https://www.polygon.com/mario-tennis-fever-rackets-unlock-all/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
