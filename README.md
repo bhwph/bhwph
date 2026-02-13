@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Here comes the queen for our king...](http://9gag.com/gag/agmw0x1)
- - 😝 [I know who can do cheaper](http://9gag.com/gag/a5Q3P2L)
- - 👉 [Couldn&#39;t have said any better, thank you! [2:04]](http://9gag.com/gag/apRw0Wb)<!-- MEMES:END -->
+ - 6️⃣ [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
+ - 😝 [More news](http://9gag.com/gag/aYQ5wdq)
+ - 👉 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)<!-- MEMES:END -->
 
 --- 
 
