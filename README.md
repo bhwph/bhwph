@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase reports Q4 revenue down 22% YoY to $1.78B, vs. $1.84B est., transaction revenue down 37% to $983M, a net loss of $667M, vs. a $1.3B profit in Q4 2024 &lpar;André Beganski/Decrypt&rpar;](http://www.techmeme.com/260212/p57#a260212p57)
- - [‘Uncanny Valley’: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants](https://www.wired.com/story/uncanny-valley-podcast-ice-expansion-palantir-workers-ethical-concerns-openclaw-ai-assistants/)
- - [Didero, which provides an agentic AI layer that integrates with ERP systems to automate supply chains, raised a $30M Series A co-led by Chemistry and Headline &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260212/p56#a260212p56)<!-- TECH:END -->
+ - [Anna&#39;s Archive has quietly begun releasing millions of music files from its scrape of Spotify, despite an injunction against distribution of copyrighted works &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/260212/p66#a260212p66)
+ - [Sources: the Trump administration has shelved tech security measures against China, including data center equipment curbs, ahead of a Trump-Xi meeting in April &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/260212/p64#a260212p64)
+ - [Amazon&#39;s Ring cancels its partnership with Flock that would have let law enforcement agencies request footage from Ring doorbell users, following backlash &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/260212/p63#a260212p63)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
