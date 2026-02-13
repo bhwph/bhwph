@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The hottest indie game is about breeding cats with ADHD and dyslexia](https://www.theverge.com/entertainment/877906/mewgenics-steam-sales-edmund-mcmillen-interview)
- - [HP&amp;#8217;s laptop subscriptions are a great deal — for HP](https://www.theverge.com/report/878333/hp-laptop-subscription-elitebook-omen-gaming-bad-deal)
- - [Siri delays, Health delays, and Apple Creator Studio limits on the AppleInsider Podcast](https://appleinsider.com/articles/26/02/13/siri-delays-health-delays-and-apple-creator-studio-limits-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [Google warns that the EU risks undermining its own competitiveness drive with the &quot;tech sovereignty package&quot; the bloc is set to present in the spring &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/260213/p6#a260213p6)
+ - [There’s a tiny digital camera inside these retro 35mm film rolls](https://www.theverge.com/tech/878701/opt100-neo-film-35mm-digital-camera-japan)
+ - [Samsung is preparing a major upgrade for its browser in One UI 9](https://www.androidauthority.com/samsung-internet-ask-ai-apk-teardown-3640801/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
