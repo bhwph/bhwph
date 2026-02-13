@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google Photos redesign we’ve been waiting for is finally here](https://www.androidauthority.com/google-photos-rolling-out-floating-toolbar-3640748/)
- - [I’d skip the Galaxy S26 launch if it weren’t for one very exciting feature](https://www.androidauthority.com/skip-samsung-galaxy-s26-but-exciting-privacy-display-3640493/)
- - [Google quietly fixed a big annoyance with Android’s Driving Mode](https://www.androidauthority.com/android-driving-mode-annoyance-fix-3640721/)<!-- TECH:END -->
+ - [The hottest indie game is about breeding cats with ADHD and dyslexia](https://www.theverge.com/entertainment/877906/mewgenics-steam-sales-edmund-mcmillen-interview)
+ - [HP&amp;#8217;s laptop subscriptions are a great deal — for HP](https://www.theverge.com/report/878333/hp-laptop-subscription-elitebook-omen-gaming-bad-deal)
+ - [Siri delays, Health delays, and Apple Creator Studio limits on the AppleInsider Podcast](https://appleinsider.com/articles/26/02/13/siri-delays-health-delays-and-apple-creator-studio-limits-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
