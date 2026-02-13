@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lying Liars who Lie](http://9gag.com/gag/aoywZQn)
- - 😝 [Execute order 66!](http://9gag.com/gag/aKG5B4j)
- - 👉 [Oh wait](http://9gag.com/gag/aD25w6G)<!-- MEMES:END -->
+ - 6️⃣ [Here comes the queen for our king...](http://9gag.com/gag/agmw0x1)
+ - 😝 [I know who can do cheaper](http://9gag.com/gag/a5Q3P2L)
+ - 👉 [Couldn&#39;t have said any better, thank you! [2:04]](http://9gag.com/gag/apRw0Wb)<!-- MEMES:END -->
 
 --- 
 
