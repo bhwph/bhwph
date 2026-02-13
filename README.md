@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait, you guys get invited to parties?](http://9gag.com/gag/a34rLb7)
- - 😝 [Eminem&#39;s journey is truly inspiring](http://9gag.com/gag/aXP1XOg)
- - 👉 [Understandable](http://9gag.com/gag/aD25mxN)<!-- MEMES:END -->
+ - 6️⃣ [Eminem&#39;s journey is truly inspiring](http://9gag.com/gag/aXP1XOg)
+ - 😝 [Priorities](http://9gag.com/gag/aBy5Y0x)
+ - 👉 [Charlie Chaplin on Olympics](http://9gag.com/gag/aGy5xy7)<!-- MEMES:END -->
 
 --- 
 
