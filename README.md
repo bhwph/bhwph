@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google warns that the EU risks undermining its own competitiveness drive with the &quot;tech sovereignty package&quot; the bloc is set to present in the spring &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/260213/p6#a260213p6)
- - [There’s a tiny digital camera inside these retro 35mm film rolls](https://www.theverge.com/tech/878701/opt100-neo-film-35mm-digital-camera-japan)
- - [Samsung is preparing a major upgrade for its browser in One UI 9](https://www.androidauthority.com/samsung-internet-ask-ai-apk-teardown-3640801/)<!-- TECH:END -->
+ - [Trump Mobile’s origins lie with a Mexican middleweight boxer](https://www.theverge.com/tech/878699/trump-mobile-interview-canelo-alvarez-origins)
+ - [AirDrop support for Quick Share is starting to arrive on the Pixel 9 series](https://www.androidauthority.com/pixel-9-quick-share-airdrop-support-3640855/)
+ - [What’s in the Epstein files? For Tiktokers, a content gold mine](https://www.theverge.com/tech/878380/epstein-files-tiktok-content)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
