@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Nothing Phone 4a color leak raises more questions than answers](https://www.androidauthority.com/nothing-phone-4a-series-colors-storage-options-3640670/)
- - [Gemini now helps you breeze through long Google Docs without reading them](https://www.androidauthority.com/gemini-google-docs-audio-summaries-3640675/)
- - [Ring cancels controversial integration after major user backlash and privacy concerns](https://www.androidauthority.com/ring-flock-partnership-canceled-3640666/)<!-- TECH:END -->
+ - [iPhone 17e renders are here, and they might make you rethink that Pixel 10a pre-order](https://www.androidauthority.com/iphone-17e-price-specs-leaked-renders-3640686/)
+ - [The Galaxy S26 could be over $100 more expensive in some markets](https://www.androidauthority.com/galaxy-s26-price-increase-3640682/)
+ - [Tenways’ compact e-bike twists and folds to go flat](https://www.theverge.com/transportation/877796/tenways-cgo-compact-e-bike-twists-folds-flat)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
