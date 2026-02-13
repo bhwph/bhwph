@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)
- - 😝 [Oh wait](http://9gag.com/gag/aD25w6G)
- - 👉 [Good old brain farts](http://9gag.com/gag/aMV5Qw6)<!-- MEMES:END -->
+ - 6️⃣ [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)
+ - 😝 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
+ - 👉 [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)<!-- MEMES:END -->
 
 --- 
 
