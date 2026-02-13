@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)
- - 😝 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
- - 👉 [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)<!-- MEMES:END -->
+ - 6️⃣ [Pick your fighter](http://9gag.com/gag/aXP1XeV)
+ - 😝 [My cats at 3 am for no reason](http://9gag.com/gag/aVv5XR2)
+ - 👉 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)<!-- MEMES:END -->
 
 --- 
 
