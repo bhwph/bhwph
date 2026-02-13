@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
- - 😝 [More news](http://9gag.com/gag/aYQ5wdq)
- - 👉 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)<!-- MEMES:END -->
+ - 6️⃣ [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)
+ - 😝 [Oh wait](http://9gag.com/gag/aD25w6G)
+ - 👉 [Good old brain farts](http://9gag.com/gag/aMV5Qw6)<!-- MEMES:END -->
 
 --- 
 
