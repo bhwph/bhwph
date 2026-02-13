@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17e renders are here, and they might make you rethink that Pixel 10a pre-order](https://www.androidauthority.com/iphone-17e-price-specs-leaked-renders-3640686/)
- - [The Galaxy S26 could be over $100 more expensive in some markets](https://www.androidauthority.com/galaxy-s26-price-increase-3640682/)
- - [Tenways’ compact e-bike twists and folds to go flat](https://www.theverge.com/transportation/877796/tenways-cgo-compact-e-bike-twists-folds-flat)<!-- TECH:END -->
+ - [The Google Photos redesign we’ve been waiting for is finally here](https://www.androidauthority.com/google-photos-rolling-out-floating-toolbar-3640748/)
+ - [I’d skip the Galaxy S26 launch if it weren’t for one very exciting feature](https://www.androidauthority.com/skip-samsung-galaxy-s26-but-exciting-privacy-display-3640493/)
+ - [Google quietly fixed a big annoyance with Android’s Driving Mode](https://www.androidauthority.com/android-driving-mode-annoyance-fix-3640721/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
