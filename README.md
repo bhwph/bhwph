@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect next for your Roomba &lpar;and its data&rpar; now that iRobot’s been sold](https://www.androidauthority.com/roomba-data-3640943/)
- - [Apple might end up borrowing Samsung’s whole foldable strategy](https://www.androidauthority.com/iphone-clamshell-style-testing-3640994/)
- - [Apple says 74% of iPhones launched in the last four years and 66% of all iPhones are running iOS 26; 68% of iPhones were running iOS 18 as of Jan. 21, 2025 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/260213/p17#a260213p17)<!-- TECH:END -->
+ - [Deal: This UGREEN Ergonomic Mouse is only $16.99 right now!](https://www.androidauthority.com/ugreen-ergonomic-mouse-deal-3640933/)
+ - [Android 17 finally brings custom shortcuts to the Pixel Launcher search bar](https://www.androidauthority.com/android-17-search-shortcuts-3641017/)
+ - [What Are the Best Wireless Earbuds Right Now?](https://www.cnet.com/tech/mobile/what-are-the-best-wireless-earbuds-right-now/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
