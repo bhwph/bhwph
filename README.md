@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Mobile’s origins lie with a Mexican middleweight boxer](https://www.theverge.com/tech/878699/trump-mobile-interview-canelo-alvarez-origins)
- - [AirDrop support for Quick Share is starting to arrive on the Pixel 9 series](https://www.androidauthority.com/pixel-9-quick-share-airdrop-support-3640855/)
- - [What’s in the Epstein files? For Tiktokers, a content gold mine](https://www.theverge.com/tech/878380/epstein-files-tiktok-content)<!-- TECH:END -->
+ - [This YouTube experiment may be why you’re not getting all of your notifications](https://www.androidauthority.com/youtube-test-stops-push-notifications-3640911/)
+ - [20 Best Presidents&#39; Day Deals on Gear Our Reviewers Actually Used &lpar;2026&rpar;](https://www.wired.com/story/presidents-day-deals-2026/)
+ - [Record Low Snow in the West Will Mean Less Water, More Fire, and Political Chaos](https://www.wired.com/story/record-low-snow-in-the-west-will-mean-less-water-more-fire-and-political-chaos/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
