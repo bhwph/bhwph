@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Eminem&#39;s journey is truly inspiring](http://9gag.com/gag/aXP1XOg)
+ - 6️⃣ [More news](http://9gag.com/gag/aYQ5wdq)
  - 😝 [Priorities](http://9gag.com/gag/aBy5Y0x)
- - 👉 [Charlie Chaplin on Olympics](http://9gag.com/gag/aGy5xy7)<!-- MEMES:END -->
+ - 👉 [Cheetah crab](http://9gag.com/gag/aD25oww)<!-- MEMES:END -->
 
 --- 
 
