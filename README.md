@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sure](http://9gag.com/gag/aRBdP6q)
- - 😝 [Lying Liars who Lie](http://9gag.com/gag/aoywZQn)
- - 👉 [Good news everyone!](http://9gag.com/gag/ae9w3rO)<!-- MEMES:END -->
+ - 6️⃣ [Lying Liars who Lie](http://9gag.com/gag/aoywZQn)
+ - 😝 [Execute order 66!](http://9gag.com/gag/aKG5B4j)
+ - 👉 [Oh wait](http://9gag.com/gag/aD25w6G)<!-- MEMES:END -->
 
 --- 
 
