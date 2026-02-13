@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I need your worst Gifs.](http://9gag.com/gag/ayNwpG8)
- - 😝 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
- - 👉 [Oh wait](http://9gag.com/gag/aD25w6G)<!-- MEMES:END -->
+ - 6️⃣ [Sure](http://9gag.com/gag/aRBdP6q)
+ - 😝 [Lying Liars who Lie](http://9gag.com/gag/aoywZQn)
+ - 👉 [Good news everyone!](http://9gag.com/gag/ae9w3rO)<!-- MEMES:END -->
 
 --- 
 
