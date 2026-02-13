@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The MPA urges ByteDance to curb its AI video model Seedance 2.0, saying the model engages in unauthorized use of US copyrighted material &quot;on a massive scale&quot; &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/260212/p68#a260212p68)
- - [YouTube&#39;s bare-minimum app for Apple Vision Pro is better than nothing -- hands on](https://appleinsider.com/articles/26/02/13/youtubes-bare-minimum-app-for-apple-vision-pro-is-better-than-nothing----hands-on?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Feb. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-feb-13/)<!-- TECH:END -->
+ - [New Nothing Phone 4a color leak raises more questions than answers](https://www.androidauthority.com/nothing-phone-4a-series-colors-storage-options-3640670/)
+ - [Gemini now helps you breeze through long Google Docs without reading them](https://www.androidauthority.com/gemini-google-docs-audio-summaries-3640675/)
+ - [Ring cancels controversial integration after major user backlash and privacy concerns](https://www.androidauthority.com/ring-flock-partnership-canceled-3640666/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
