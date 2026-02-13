@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This YouTube experiment may be why you’re not getting all of your notifications](https://www.androidauthority.com/youtube-test-stops-push-notifications-3640911/)
- - [20 Best Presidents&#39; Day Deals on Gear Our Reviewers Actually Used &lpar;2026&rpar;](https://www.wired.com/story/presidents-day-deals-2026/)
- - [Record Low Snow in the West Will Mean Less Water, More Fire, and Political Chaos](https://www.wired.com/story/record-low-snow-in-the-west-will-mean-less-water-more-fire-and-political-chaos/)<!-- TECH:END -->
+ - [What to expect next for your Roomba &lpar;and its data&rpar; now that iRobot’s been sold](https://www.androidauthority.com/roomba-data-3640943/)
+ - [Apple might end up borrowing Samsung’s whole foldable strategy](https://www.androidauthority.com/iphone-clamshell-style-testing-3640994/)
+ - [Apple says 74% of iPhones launched in the last four years and 66% of all iPhones are running iOS 26; 68% of iPhones were running iOS 18 as of Jan. 21, 2025 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/260213/p17#a260213p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
