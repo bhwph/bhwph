@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ByteDance launches Doubao 2.0, an &quot;agent era&quot; upgrade of China&#39;s most widely used AI app capable of executing multi-step tasks, ahead of the Lunar New Year &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260214/p7#a260214p7)
- - [The First Planet Parade of 2026 Is Coming Up Soon: When and How to See It](https://www.cnet.com/science/space/the-first-planet-parade-of-2026-is-in-february-heres-how-to-see-it/)
- - [The Pocket Taco is the best way to turn your phone into a Game Boy](https://www.theverge.com/tech/877491/gamesir-pocket-taco-wireless-bluetooth-controller-clamp-hands-on)<!-- TECH:END -->
+ - [Current and former senior employees say AWS is undergoing a strategic shake-up amid fears it is losing ground to competitors in securing corporate AI contracts &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260214/p8#a260214p8)
+ - [La Liga Soccer: Stream Real Madrid vs. Real Sociedad Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-real-madrid-vs-real-sociedad-live-from-anywhere/)
+ - [Livestream FA Cup Soccer: Watch Liverpool vs. Brighton From Anywhere](https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-liverpool-vs-brighton-from-anywhere/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
