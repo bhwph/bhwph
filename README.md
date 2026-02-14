@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Home Security Systems in 2026: Access Control and So Much More](https://www.cnet.com/home/security/best-home-security-system/)
- - [A deep dive into a global money-laundering ecosystem powered by crypto and messaging apps like WeChat and Telegram, used by drug cartels and criminal groups &lpar;Jessica Brice/Bloomberg&rpar;](http://www.techmeme.com/260214/p9#a260214p9)
- - [Current and former senior employees say AWS is undergoing a strategic shake-up amid fears it is losing ground to competitors in securing corporate AI contracts &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260214/p8#a260214p8)<!-- TECH:END -->
+ - [Analysis: despite investing $150B+ in 10+ years, China is expected to produce 2% of global AI chips in 2026 and 70x less memory storage than foreign chipmakers &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/260214/p10#a260214p10)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 15, #510](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-15-510/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 15, #980](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-15-980/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
