@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kim Jong Un named his daughter as North Korea&#39;s next leader &lpar;big victory for feminism&rpar;](http://9gag.com/gag/aD25orO)
- - 😝 [Britain Democracy](http://9gag.com/gag/avywLvq)
- - 👉 [Pick your fighter](http://9gag.com/gag/aXP1XeV)<!-- MEMES:END -->
+ - 6️⃣ [Execute order 66!](http://9gag.com/gag/aKG5B4j)
+ - 😝 [That is how normal self respecting men acts](http://9gag.com/gag/adBwpK2)
+ - 👉 [Britain Democracy](http://9gag.com/gag/avywLvq)<!-- MEMES:END -->
 
 --- 
 
