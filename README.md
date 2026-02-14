@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Execute order 66!](http://9gag.com/gag/aKG5B4j)
- - 😝 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)
- - 👉 [Will Smith has a chance to make history again](http://9gag.com/gag/a9y0L66)<!-- MEMES:END -->
+ - 😝 [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)
+ - 👉 [My cats at 3 am for no reason](http://9gag.com/gag/aVv5XR2)<!-- MEMES:END -->
 
 --- 
 
