@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I ditched Google Docs for this app, and I don’t regret it](https://www.androidauthority.com/google-docs-craft-3638766/)
- - [Returning stolen artifacts becomes a thrilling heist in Relooted](https://www.theverge.com/games/878121/relooted-review-xbox-steam)
- - [Anker’s USB-C cable that lets you charge two gadgets at once is 20 percent off](https://www.theverge.com/gadgets/879003/anker-140w-2-in-1-usb-c-cable-presidents-day-sale-deal)<!-- TECH:END -->
+ - [ByteDance launches Doubao 2.0, an &quot;agent era&quot; upgrade of China&#39;s most widely used AI app capable of executing multi-step tasks, ahead of the Lunar New Year &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260214/p7#a260214p7)
+ - [The First Planet Parade of 2026 Is Coming Up Soon: When and How to See It](https://www.cnet.com/science/space/the-first-planet-parade-of-2026-is-in-february-heres-how-to-see-it/)
+ - [The Pocket Taco is the best way to turn your phone into a Game Boy](https://www.theverge.com/tech/877491/gamesir-pocket-taco-wireless-bluetooth-controller-clamp-hands-on)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
