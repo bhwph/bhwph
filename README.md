@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 14, #509](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-14-509/)
- - [Gboard might turn your keyboard into a trackpad with new cursor mode](https://www.androidauthority.com/gboard-cursor-mode-3641074/)
- - [Who is Sabih Khan, Apple&#39;s Chief Operating Officer and potential CEO](https://appleinsider.com/articles/26/02/13/who-is-sabih-khan-apples-chief-operating-officer-and-potential-ceo?utm_source=rss)<!-- TECH:END -->
+ - [Sources: recently the DHS has sent hundreds of administrative subpoenas, which do not need a judge&#39;s approval, to tech firms to identify people critical of ICE &lpar;New York Times&rpar;](http://www.techmeme.com/260213/p22#a260213p22)
+ - [A matplotlib maintainer explains how an AI agent that suggests code changes on open source repos wrote a hit piece on him after a rejection, and the aftermath &lpar;Scott/The Shamblog&rpar;](http://www.techmeme.com/260213/p21#a260213p21)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 14, #509](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-14-509/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
