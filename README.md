@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Presidents’ Day Mattress Sales of 2026](https://www.wired.com/story/best-presidents-day-mattress-sales-2026/)
- - [Survey suggests Nova Launcher remains one of Android’s darling apps](https://www.androidauthority.com/nova-launcher-best-android-launcher-poll-results-3640720/)
- - [Why the leaked ‘Wide’ Galaxy Fold is the only Samsung foldable I care about in 2026](https://www.androidauthority.com/wide-galaxy-fold-only-samsung-foldable-i-care-about-3640977/)<!-- TECH:END -->
+ - [Google’s Gemini Live just ruined a feature I used daily](https://www.androidauthority.com/gemini-live-paywall-continued-conversation-3640179/)
+ - [How to Choose the Right Gaming Laptop &lpar;2026&rpar;: What You Need to Know](https://www.wired.com/story/how-to-buy-a-gaming-laptop/)
+ - [This new Android feature is amazing, but I’m scared for its future](https://www.androidauthority.com/amazing-android-feature-live-updates-notifications-3640808/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
