@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI’s first robovac is an autonomous cleaning drone you can’t trust](https://www.theverge.com/tech/877012/dji-romo-review-robot-vacuum-drone-mop)
- - [The DJI Romo robovac had security so poor, this man remotely accessed thousands of them](https://www.theverge.com/tech/879088/dji-romo-hack-vulnerability-remote-control-camera-access-mqtt)
- - [BNP Paribas analysis: Anthropic saw visits to its site jump 6.5% after its Super Bowl ad and DAUs jump 11% post-game, outperforming other AI companies &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260214/p5#a260214p5)<!-- TECH:END -->
+ - [Best Presidents’ Day Mattress Sales of 2026](https://www.wired.com/story/best-presidents-day-mattress-sales-2026/)
+ - [Survey suggests Nova Launcher remains one of Android’s darling apps](https://www.androidauthority.com/nova-launcher-best-android-launcher-poll-results-3640720/)
+ - [Why the leaked ‘Wide’ Galaxy Fold is the only Samsung foldable I care about in 2026](https://www.androidauthority.com/wide-galaxy-fold-only-samsung-foldable-i-care-about-3640977/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
