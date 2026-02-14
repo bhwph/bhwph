@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [His cries are music to my ears](http://9gag.com/gag/a2vpmwp)
- - 😝 [This is why we can&#39;t have nice things](http://9gag.com/gag/aMV5GYP)
- - 👉 [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)<!-- MEMES:END -->
+ - 6️⃣ [Britain Democracy](http://9gag.com/gag/avywLvq)
+ - 😝 [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)
+ - 👉 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)<!-- MEMES:END -->
 
 --- 
 
