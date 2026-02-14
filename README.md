@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Gemini Live just ruined a feature I used daily](https://www.androidauthority.com/gemini-live-paywall-continued-conversation-3640179/)
- - [How to Choose the Right Gaming Laptop &lpar;2026&rpar;: What You Need to Know](https://www.wired.com/story/how-to-buy-a-gaming-laptop/)
- - [This new Android feature is amazing, but I’m scared for its future](https://www.androidauthority.com/amazing-android-feature-live-updates-notifications-3640808/)<!-- TECH:END -->
+ - [I ditched Google Docs for this app, and I don’t regret it](https://www.androidauthority.com/google-docs-craft-3638766/)
+ - [Returning stolen artifacts becomes a thrilling heist in Relooted](https://www.theverge.com/games/878121/relooted-review-xbox-steam)
+ - [Anker’s USB-C cable that lets you charge two gadgets at once is 20 percent off](https://www.theverge.com/gadgets/879003/anker-140w-2-in-1-usb-c-cable-presidents-day-sale-deal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
