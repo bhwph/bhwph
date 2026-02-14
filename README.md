@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Execute order 66!](http://9gag.com/gag/aKG5B4j)
- - 😝 [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)
- - 👉 [My cats at 3 am for no reason](http://9gag.com/gag/aVv5XR2)<!-- MEMES:END -->
+ - 6️⃣ [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)
+ - 😝 [Will Smith has a chance to make history again](http://9gag.com/gag/a9y0L66)
+ - 👉 [Clue&#39;s in the name](http://9gag.com/gag/ajPwn4q)<!-- MEMES:END -->
 
 --- 
 
