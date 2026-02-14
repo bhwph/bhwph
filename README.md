@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)
+ - 6️⃣ [Years of waiting for this technology and her reaction is everything](http://9gag.com/gag/aPA2WqQ)
  - 😝 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
- - 👉 [Pick your fighter](http://9gag.com/gag/aXP1XeV)<!-- MEMES:END -->
+ - 👉 [Kim Jong Un named his daughter as North Korea&#39;s next leader &lpar;big victory for feminism&rpar;](http://9gag.com/gag/aD25orO)<!-- MEMES:END -->
 
 --- 
 
