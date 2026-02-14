@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: recently the DHS has sent hundreds of administrative subpoenas, which do not need a judge&#39;s approval, to tech firms to identify people critical of ICE &lpar;New York Times&rpar;](http://www.techmeme.com/260213/p22#a260213p22)
- - [A matplotlib maintainer explains how an AI agent that suggests code changes on open source repos wrote a hit piece on him after a rejection, and the aftermath &lpar;Scott/The Shamblog&rpar;](http://www.techmeme.com/260213/p21#a260213p21)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 14, #509](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-14-509/)<!-- TECH:END -->
+ - [Sources: TSMC plans to invest another $100B to build four more US fabs to ensure tariff-free chip sales; analysis: its Arizona site has land for four more fabs &lpar;Financial Times&rpar;](http://www.techmeme.com/260214/p4#a260214p4)
+ - [India partners with Alibaba.com to help Indian startups and small businesses reach overseas buyers, highlighting its selective engagement with Chinese platforms &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260214/p3#a260214p3)
+ - [Sources: OpenAI is charging $60 per 1,000 impressions for ads in ChatGPT, a high price similar to Netflix&#39;s rate when it introduced ads &lpar;Financial Times&rpar;](http://www.techmeme.com/260214/p2#a260214p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
