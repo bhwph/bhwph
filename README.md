@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)
- - 😝 [That is how normal self respecting men acts](http://9gag.com/gag/adBwpK2)
- - 👉 [Execute order 66!](http://9gag.com/gag/aKG5B4j)<!-- MEMES:END -->
+ - 6️⃣ [Kim Jong Un named his daughter as North Korea&#39;s next leader &lpar;big victory for feminism&rpar;](http://9gag.com/gag/aD25orO)
+ - 😝 [Britain Democracy](http://9gag.com/gag/avywLvq)
+ - 👉 [Pick your fighter](http://9gag.com/gag/aXP1XeV)<!-- MEMES:END -->
 
 --- 
 
