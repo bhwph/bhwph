@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Execute order 66!](http://9gag.com/gag/aKG5B4j)
- - 😝 [That is how normal self respecting men acts](http://9gag.com/gag/adBwpK2)
- - 👉 [Britain Democracy](http://9gag.com/gag/avywLvq)<!-- MEMES:END -->
+ - 6️⃣ [His cries are music to my ears](http://9gag.com/gag/a2vpmwp)
+ - 😝 [This is why we can&#39;t have nice things](http://9gag.com/gag/aMV5GYP)
+ - 👉 [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)<!-- MEMES:END -->
 
 --- 
 
