@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Britain Democracy](http://9gag.com/gag/avywLvq)
- - 😝 [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)
- - 👉 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)<!-- MEMES:END -->
+ - 6️⃣ [Kim Jong Un named his daughter as North Korea&#39;s next leader &lpar;big victory for feminism&rpar;](http://9gag.com/gag/aD25orO)
+ - 😝 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
+ - 👉 [Britain Democracy](http://9gag.com/gag/avywLvq)<!-- MEMES:END -->
 
 --- 
 
