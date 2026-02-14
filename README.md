@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: This UGREEN Ergonomic Mouse is only $16.99 right now!](https://www.androidauthority.com/ugreen-ergonomic-mouse-deal-3640933/)
- - [Android 17 finally brings custom shortcuts to the Pixel Launcher search bar](https://www.androidauthority.com/android-17-search-shortcuts-3641017/)
- - [What Are the Best Wireless Earbuds Right Now?](https://www.cnet.com/tech/mobile/what-are-the-best-wireless-earbuds-right-now/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 14, #509](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-14-509/)
+ - [Gboard might turn your keyboard into a trackpad with new cursor mode](https://www.androidauthority.com/gboard-cursor-mode-3641074/)
+ - [Who is Sabih Khan, Apple&#39;s Chief Operating Officer and potential CEO](https://appleinsider.com/articles/26/02/13/who-is-sabih-khan-apples-chief-operating-officer-and-potential-ceo?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
