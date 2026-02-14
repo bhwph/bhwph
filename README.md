@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [More news](http://9gag.com/gag/aYQ5wdq)
- - 😝 [Priorities](http://9gag.com/gag/aBy5Y0x)
- - 👉 [Cheetah crab](http://9gag.com/gag/aD25oww)<!-- MEMES:END -->
+ - 6️⃣ [Execute order 66!](http://9gag.com/gag/aKG5B4j)
+ - 😝 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)
+ - 👉 [Will Smith has a chance to make history again](http://9gag.com/gag/a9y0L66)<!-- MEMES:END -->
 
 --- 
 
