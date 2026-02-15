@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Are phone carriers finally taking customer loyalty seriously?](https://www.androidauthority.com/phone-carrier-loyalty-3635996/)
- - [As AI and agents are adopted to accelerate development, cognitive load and cognitive debt are likely to become bigger threats to developers than technical debt &lpar;Margaret-Anne Storey&rpar;](http://www.techmeme.com/260215/p7#a260215p7)
- - [Western Digital said on its Q2 earnings call it had &quot;pretty much sold out&quot; its 2026 HDD capacity, and that the consumer sector accounted for 5% of total revenue &lpar;Muhammad Zuhair/Wccftech&rpar;](http://www.techmeme.com/260215/p6#a260215p6)<!-- TECH:END -->
+ - [Swapping your TV for a projector may come with some surprises](https://www.androidauthority.com/swapping-tv-for-projector-surprises-3639809/)
+ - [The Nothing That Has the Potential to Be Anything](https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/)
+ - [The Best Samsung Phones of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
