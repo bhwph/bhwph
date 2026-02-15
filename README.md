@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happy Caturday](http://9gag.com/gag/awy256W)
- - 😝 [Close one](http://9gag.com/gag/aqywLjZ)
- - 👉 [`I didn&#39;t f**king touch it.`](http://9gag.com/gag/an7wyVV)<!-- MEMES:END -->
+ - 6️⃣ [Close one](http://9gag.com/gag/aqywLjZ)
+ - 😝 [Happy Caturday](http://9gag.com/gag/awy256W)
+ - 👉 [Years of waiting for this technology and her reaction is everything](http://9gag.com/gag/aPA2WqQ)<!-- MEMES:END -->
 
 --- 
 
