@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You&#39;ll Be Able to Disable the New AI Features Coming to Firefox](https://www.cnet.com/tech/services-and-software/mozilla-adds-kill-switch-for-new-ai-features-coming-to-firefox-browser/)
- - [Sources: Apple tweaked its Maps app for Tesla before the EV maker&#39;s planned addition of CarPlay; low-cost MacBook will get an aluminum chassis in playful colors &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260215/p9#a260215p9)
- - [HDR10 vs. Dolby Vision vs. HLG: HDR Formats Compared](https://www.cnet.com/tech/home-entertainment/hdr10-vs-dolby-vision-vs-hlg-how-do-hdr-formats-compare/)<!-- TECH:END -->
+ - [Former NPR host David Greene sues Google for allegedly replicating his voice in NotebookLM without permission; Google says the voice is based on a paid actor &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/260215/p11#a260215p11)
+ - [Ugreen NASync DH4300 Plus review: Easy &amp; affordable Time Capsule replacement](https://appleinsider.com/articles/26/02/13/ugreen-nasync-dh4300-plus-review-beginner-friendly-easily-expandable?utm_source=rss)
+ - [You need to watch the intensely surreal cult classic Possession](https://www.theverge.com/entertainment/879602/cult-classic-possession-1981-review-isabelle-adjani)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
