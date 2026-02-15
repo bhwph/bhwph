@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Years of waiting for this technology and her reaction is everything](http://9gag.com/gag/aPA2WqQ)
- - 😝 [Wait a minute. Who are you?](http://9gag.com/gag/an7wBwV)
- - 👉 [Kim Jong Un named his daughter as North Korea&#39;s next leader &lpar;big victory for feminism&rpar;](http://9gag.com/gag/aD25orO)<!-- MEMES:END -->
+ - 6️⃣ [Clue&#39;s in the name](http://9gag.com/gag/ajPwn4q)
+ - 😝 [His cries are music to my ears](http://9gag.com/gag/a2vpmwp)
+ - 👉 [`You&#39;re a disgrace to my race` We need more of this or its going to get really bad](http://9gag.com/gag/azxwr1p)<!-- MEMES:END -->
 
 --- 
 
