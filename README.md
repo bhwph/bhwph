@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says that India has 100M weekly active ChatGPT users, the app&#39;s second-largest userbase after the US, ahead of the AI Impact Summit &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260215/p12#a260215p12)
- - [Astronauts Are Now Allowed to Use the Latest Smartphones in Space](https://www.cnet.com/tech/mobile/latest-smartphones-now-allowed-in-space-nasa-says/)
- - [Former NPR host David Greene sues Google for allegedly replicating his voice in NotebookLM without permission; Google says the voice is based on a paid actor &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/260215/p11#a260215p11)<!-- TECH:END -->
+ - [Sam Altman says Peter Steinberger, founder of OpenClaw, is joining OpenAI &quot;to drive the next generation of personal agents&quot;; OpenClaw will remain open source &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/260215/p16#a260215p16)
+ - [Sam Altman says Peter Steinberger, founder of OpenClaw, is joining OpenAI &quot;to drive the next generation of personal agents&quot;; OpenClaw will remain open source &lpar;The Information&rpar;](http://www.techmeme.com/260215/p15#a260215p15)
+ - [Sources: OpenAI is in advanced talks to hire OpenClaw founder Peter Steinberger and several team members; Steinberger would likely work on personal agents &lpar;Nick Wingfield/The Information&rpar;](http://www.techmeme.com/260215/p14#a260215p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
