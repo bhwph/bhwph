@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India approves a $1.1B state-backed VC fund to finance high-risk areas like AI and advanced manufacturing, doubling down on an effort that debuted in 2016 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260214/p11#a260214p11)
- - [Jikipedia turns Epstein’s emails into an encyclopedia of his powerful friends](https://www.theverge.com/policy/879508/jikipedia-epstein-email-encyclopedia)
- - [We&#39;re Tracking Streaming Price Hikes in 2026: Spotify, Paramount Plus, Crunchyroll and Others](https://www.cnet.com/tech/services-and-software/streaming-price-hikes-2026-spotify-paramount-plus-crunchyroll-and-more/)<!-- TECH:END -->
+ - [Amazon stock fell for the ninth straight day on Friday, its longest losing streak since 2006, opening at $244.98 on Feb. 3 and closing at $198.79 on Feb. 13 &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/260214/p13#a260214p13)
+ - [Admin official: Pentagon may sever Anthropic relationship over AI safeguards; Anthropic says only mass surveillance and fully autonomous weapons are off limits &lpar;Axios&rpar;](http://www.techmeme.com/260214/p12#a260214p12)
+ - [India approves a $1.1B state-backed VC fund to finance high-risk areas like AI and advanced manufacturing, doubling down on an effort that debuted in 2016 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260214/p11#a260214p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
