@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 26 adoption rate isn&#39;t the crisis some analysts are portraying](https://appleinsider.com/articles/26/02/13/ios-26-adoption-rate-isnt-the-crisis-some-analysts-are-portraying?utm_source=rss)
- - [Colorful MacBook &amp; iPhone 17e launching as soon as March](https://appleinsider.com/articles/26/02/15/colorful-macbook-iphone-17e-launching-as-soon-as-march?utm_source=rss)
- - [I Tested 6 Major Frozen Fry Brands and the Best One Is a Total Steal at Just $3](https://www.cnet.com/home/kitchen-and-household/best-frozen-french-fries-air-fryer-ranked/)<!-- TECH:END -->
+ - [You&#39;ll Be Able to Disable the New AI Features Coming to Firefox](https://www.cnet.com/tech/services-and-software/mozilla-adds-kill-switch-for-new-ai-features-coming-to-firefox-browser/)
+ - [Sources: Apple tweaked its Maps app for Tesla before the EV maker&#39;s planned addition of CarPlay; low-cost MacBook will get an aluminum chassis in playful colors &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260215/p9#a260215p9)
+ - [HDR10 vs. Dolby Vision vs. HLG: HDR Formats Compared](https://www.cnet.com/tech/home-entertainment/hdr10-vs-dolby-vision-vs-hlg-how-do-hdr-formats-compare/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
