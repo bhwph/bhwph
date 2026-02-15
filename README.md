@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Clue&#39;s in the name](http://9gag.com/gag/ajPwn4q)
- - 😝 [His cries are music to my ears](http://9gag.com/gag/a2vpmwp)
- - 👉 [`You&#39;re a disgrace to my race` We need more of this or its going to get really bad](http://9gag.com/gag/azxwr1p)<!-- MEMES:END -->
+ - 6️⃣ [Happy Caturday](http://9gag.com/gag/awy256W)
+ - 😝 [Close one](http://9gag.com/gag/aqywLjZ)
+ - 👉 [`I didn&#39;t f**king touch it.`](http://9gag.com/gag/an7wyVV)<!-- MEMES:END -->
 
 --- 
 
