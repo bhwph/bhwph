@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Swapping your TV for a projector may come with some surprises](https://www.androidauthority.com/swapping-tv-for-projector-surprises-3639809/)
- - [The Nothing That Has the Potential to Be Anything](https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/)
- - [The Best Samsung Phones of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)<!-- TECH:END -->
+ - [iOS 26 adoption rate isn&#39;t the crisis some analysts are portraying](https://appleinsider.com/articles/26/02/13/ios-26-adoption-rate-isnt-the-crisis-some-analysts-are-portraying?utm_source=rss)
+ - [Colorful MacBook &amp; iPhone 17e launching as soon as March](https://appleinsider.com/articles/26/02/15/colorful-macbook-iphone-17e-launching-as-soon-as-march?utm_source=rss)
+ - [I Tested 6 Major Frozen Fry Brands and the Best One Is a Total Steal at Just $3](https://www.cnet.com/home/kitchen-and-household/best-frozen-french-fries-air-fryer-ranked/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
