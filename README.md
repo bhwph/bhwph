@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
- - 😝 [Team canaduh appears to cheat at throwing rocks on ice](http://9gag.com/gag/aGy50Z6)
- - 👉 [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)<!-- MEMES:END -->
+ - 6️⃣ [Team Canada caught cheating at the olympics by Team Sweden. Canadian throws a fit on live TV.](http://9gag.com/gag/aW45864)
+ - 😝 [Meme\u2019d](http://9gag.com/gag/aBy5wyZ)
+ - 👉 [`I didn&#39;t f**king touch it.`](http://9gag.com/gag/an7wyVV)<!-- MEMES:END -->
 
 --- 
 
