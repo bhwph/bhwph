@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Close one](http://9gag.com/gag/aqywLjZ)
- - 😝 [Happy Caturday](http://9gag.com/gag/awy256W)
- - 👉 [Years of waiting for this technology and her reaction is everything](http://9gag.com/gag/aPA2WqQ)<!-- MEMES:END -->
+ - 6️⃣ [Finally found some voter fraud](http://9gag.com/gag/a9y0730)
+ - 😝 [Bribe bury](http://9gag.com/gag/a7oX7jL)
+ - 👉 [`You&#39;re a disgrace to my race` We need more of this or its going to get really bad](http://9gag.com/gag/azxwr1p)<!-- MEMES:END -->
 
 --- 
 
