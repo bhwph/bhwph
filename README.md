@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says Peter Steinberger, founder of OpenClaw, is joining OpenAI &quot;to drive the next generation of personal agents&quot;; OpenClaw will remain open source &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/260215/p16#a260215p16)
- - [Sam Altman says Peter Steinberger, founder of OpenClaw, is joining OpenAI &quot;to drive the next generation of personal agents&quot;; OpenClaw will remain open source &lpar;The Information&rpar;](http://www.techmeme.com/260215/p15#a260215p15)
- - [Sources: OpenAI is in advanced talks to hire OpenClaw founder Peter Steinberger and several team members; Steinberger would likely work on personal agents &lpar;Nick Wingfield/The Information&rpar;](http://www.techmeme.com/260215/p14#a260215p14)<!-- TECH:END -->
+ - [A look at a new generation of Chinese billionaire AI entrepreneurs who keep a low profile, with fortunes entwined with China&#39;s push for tech independence &lpar;Bloomberg&rpar;](http://www.techmeme.com/260215/p18#a260215p18)
+ - [OpenClaw founder Peter Steinberger is joining OpenAI](https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai)
+ - [Researchers outline Iran&#39;s digital surveillance capabilities, integrated across communications and internet networks, and recently used to track down protesters &lpar;New York Times&rpar;](http://www.techmeme.com/260215/p17#a260215p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
