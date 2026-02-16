@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They want farmers to disappear](http://9gag.com/gag/amow2YX)
- - 😝 [The only correct answer to this question](http://9gag.com/gag/an7wypq)
+ - 6️⃣ [Cattle farming](http://9gag.com/gag/a2vp49w)
+ - 😝 [Polish circle of life](http://9gag.com/gag/awy2QbW)
  - 👉 [`Dude there&#39;s no way you could ever win unless every single person in front of you crashed`](http://9gag.com/gag/apRwQA5)<!-- MEMES:END -->
 
 --- 
