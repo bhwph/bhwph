@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Credit derivatives trading on specific tech companies continues to rise, amid concerns that they may be borrowing too much to fuel AI development &lpar;Bloomberg&rpar;](http://www.techmeme.com/260216/p3#a260216p3)
- - [New Galaxy S26 series teaser shows how Privacy Display fights shoulder surfers](https://www.androidauthority.com/samsung-tease-privacy-display-galaxy-s26-3641155/)
- - [Vitalik Buterin, who backed Polymarket, says he&#39;s &quot;starting to worry&quot; that prediction markets &quot;seem to be over-converging to an unhealthy product market fit&quot; &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260216/p2#a260216p2)<!-- TECH:END -->
+ - [Android 17 Beta 1 reveals a surprising secret about the Pixel Launcher search bar](https://www.androidauthority.com/android-17-pixel-launcher-search-bar-customization-3641175/)
+ - [YouTube adds new hurdles for ad blockers, and there’s currently no way around it](https://www.androidauthority.com/youtube-ad-blocker-comments-turned-off-3641167/)
+ - [Credit derivatives trading on specific tech companies continues to rise, amid concerns that they may be borrowing too much to fuel AI development &lpar;Bloomberg&rpar;](http://www.techmeme.com/260216/p3#a260216p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
