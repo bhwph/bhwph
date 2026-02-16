@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at a new generation of Chinese billionaire AI entrepreneurs who keep a low profile, with fortunes entwined with China&#39;s push for tech independence &lpar;Bloomberg&rpar;](http://www.techmeme.com/260215/p18#a260215p18)
- - [OpenClaw founder Peter Steinberger is joining OpenAI](https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai)
- - [Researchers outline Iran&#39;s digital surveillance capabilities, integrated across communications and internet networks, and recently used to track down protesters &lpar;New York Times&rpar;](http://www.techmeme.com/260215/p17#a260215p17)<!-- TECH:END -->
+ - [Used Moltbot? Its creator just joined OpenAI](https://www.androidauthority.com/openclaw-peter-steinberger-openai-3641150/)
+ - [Bengaluru-based C2i Semiconductors, building a &quot;grid-to-GPU&quot; power system for datacenters, raised a $15M Series A led by Peak XV, bringing total funding to $19M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260215/p22#a260215p22)
+ - [Following Disney, Paramount sent a cease-and-desist letter to ByteDance, alleging its AI-generated Seedance videos and Seedream images infringed Paramount&#39;s IP &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260215/p21#a260215p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
