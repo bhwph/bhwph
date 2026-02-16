@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data analytics company Fractal, which became India&#39;s first AI unicorn in 2022, raised $313M in its Mumbai IPO; its shares fell 5% amid a weak Indian IPO market &lpar;Rajesh Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260216/p17#a260216p17)
- - [Galaxy S26 Ultra selfie camera leak has us playing ‘spot the difference’](https://www.androidauthority.com/samsung-galaxy-s26-ultra-selfie-camera-leak-3641270/)
- - [NotebookLM under fire: Popular radio host says Google stole his voice](https://www.androidauthority.com/google-notebooklm-david-greene-voice-lawsuit-3641264/)<!-- TECH:END -->
+ - [Apple sends invites for a &quot;special Apple Experience&quot; event on March 4 in New York City; rumors suggest an M5 MacBook Pro, entry-level iPad Air, and iPhone 17e &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/260216/p18#a260216p18)
+ - [Apple is having an event on March 4, maybe for iPhone 17e &amp; M5 MacBook Pro](https://appleinsider.com/articles/26/02/16/apple-is-having-an-event-on-march-4-in-new-york?utm_source=rss)
+ - [&#39;Tehran&#39; producer Dana Eden dies during filming](https://appleinsider.com/articles/26/02/16/tehran-producer-dana-eden-dies-during-filming?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
