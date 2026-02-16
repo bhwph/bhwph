@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Dude there&#39;s no way you could ever win unless every single person in front of you crashed`](http://9gag.com/gag/apRwQA5)
- - 😝 [Even community notes is getting tired](http://9gag.com/gag/aBy5Wp2)
- - 👉 [They want farmers to disappear](http://9gag.com/gag/amow2YX)<!-- MEMES:END -->
+ - 6️⃣ [Launching at 80 km/h from the back of a truck running at 80 km/h.](http://9gag.com/gag/aAy5d20)
+ - 😝 [The only correct answer to this question](http://9gag.com/gag/an7wypq)
+ - 👉 [`Dude there&#39;s no way you could ever win unless every single person in front of you crashed`](http://9gag.com/gag/apRwQA5)<!-- MEMES:END -->
 
 --- 
 
