@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SpaceX and xAI are competing in a $100M DoD contest to make voice-controlled, autonomous drone swarms; OpenAI is helping Applied Intuition&#39;s submission &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260216/p25#a260216p25)
- - [First iOS 26.4, macOS Tahoe developer betas surface as new Siri waits in the wings](https://appleinsider.com/articles/26/02/16/first-ios-264-macos-tahoe-developer-betas-surface-as-new-siri-waits-in-the-wings?utm_source=rss)
- - [Apple says it will bring &quot;advanced video capabilities&quot; to Apple Podcasts this spring, including allowing users to switch between watching and listening to shows &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260216/p24#a260216p24)<!-- TECH:END -->
+ - [Apple starts testing end-to-end encrypted RCS messages on iPhone](https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted)
+ - [This might be the next Android brand to do MagSafe-style wireless charging](https://www.androidauthority.com/oppo-magsafe-charging-3641345/)
+ - [iOS 26.4 has iPhone Stolen Device Protection on by default](https://appleinsider.com/articles/26/02/16/ios-264-has-iphone-stolen-device-protection-on-by-default?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
