@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Rain Epler, a member of the Estonian Parliament, doesn&#39;t go to a barber and cuts his own hair.](http://9gag.com/gag/aZZ5B8p)
- - 😝 [When you&#39;re arrested for DUI but you&#39;re a combat veteran from Vietnam and only had Dr. Pepper](http://9gag.com/gag/ayNw8gq)
- - 👉 [They Cheated And even stood and screamed at the Swedish players when they were doing their interview. Extremely embarrassing and poor sportsmanship.](http://9gag.com/gag/aPA2WBR)<!-- MEMES:END -->
+ - 6️⃣ [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
+ - 😝 [Interview for a job as professional back scratcher](http://9gag.com/gag/aMV5wgV)
+ - 👉 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)<!-- MEMES:END -->
 
 --- 
 
