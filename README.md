@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple sends invites for a &quot;special Apple Experience&quot; event on March 4 in New York City; rumors suggest an M5 MacBook Pro, entry-level iPad Air, and iPhone 17e &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/260216/p18#a260216p18)
- - [Apple is having an event on March 4, maybe for iPhone 17e &amp; M5 MacBook Pro](https://appleinsider.com/articles/26/02/16/apple-is-having-an-event-on-march-4-in-new-york?utm_source=rss)
- - [&#39;Tehran&#39; producer Dana Eden dies during filming](https://appleinsider.com/articles/26/02/16/tehran-producer-dana-eden-dies-during-filming?utm_source=rss)<!-- TECH:END -->
+ - [Crypto lender Nexo says it is relaunching in the US in partnership with Bakkt, three years after leaving the US and paying a $45M fine to settle SEC charges &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/260216/p22#a260216p22)
+ - [Apple sets next showcase for March 4 — here’s what we know](https://www.androidauthority.com/apple-experience-march-4-iphone-17e-3641308/)
+ - [Here 50 Presidents Day deals actually worth shopping for](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
