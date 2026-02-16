@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)
- - 😝 [They want farmers to disappear](http://9gag.com/gag/amow2YX)
- - 👉 [Maybe this time I&#39;ll finally win the State Lottery...](http://9gag.com/gag/aoyw29e)<!-- MEMES:END -->
+ - 6️⃣ [I wonder where her mind went during this interview](http://9gag.com/gag/aE05Yr9)
+ - 😝 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
+ - 👉 [Security guard letting her learn a lesson](http://9gag.com/gag/a1mjbAD)<!-- MEMES:END -->
 
 --- 
 
