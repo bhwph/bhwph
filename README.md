@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Caught in Danube river in Serbia a couple of months ago. Some nitwit emptied his fish tank in the river..](http://9gag.com/gag/a9y0WXm)
- - 😝 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
- - 👉 [Interview for a job as professional back scratcher](http://9gag.com/gag/aMV5wgV)<!-- MEMES:END -->
+ - 6️⃣ [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)
+ - 😝 [They want farmers to disappear](http://9gag.com/gag/amow2YX)
+ - 👉 [Maybe this time I&#39;ll finally win the State Lottery...](http://9gag.com/gag/aoyw29e)<!-- MEMES:END -->
 
 --- 
 
