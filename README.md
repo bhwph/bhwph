@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple starts testing end-to-end encrypted RCS messages on iPhone](https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted)
- - [This might be the next Android brand to do MagSafe-style wireless charging](https://www.androidauthority.com/oppo-magsafe-charging-3641345/)
- - [iOS 26.4 has iPhone Stolen Device Protection on by default](https://appleinsider.com/articles/26/02/16/ios-264-has-iphone-stolen-device-protection-on-by-default?utm_source=rss)<!-- TECH:END -->
+ - [Formula 1 channel pops up in Apple TV, can&#39;t be removed](https://appleinsider.com/articles/26/02/16/formula-1-channel-pops-up-in-apple-tv-cant-be-removed?utm_source=rss)
+ - [Nintendo emulation is getting a major arcade upgrade](https://www.androidauthority.com/dolphin-triforce-3641380/)
+ - [This camera-focused flagship might finally have a global launch date, and it’s soon](https://www.androidauthority.com/xiaomi-17-ultra-launch-date-3641389/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
