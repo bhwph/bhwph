@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These key Android Auto icons could soon get an Android 16-flavored refresh](https://www.androidauthority.com/google-android-auto-icon-upgrade-3641198/)
- - [ByteDance says it &quot;respects IP rights and we have heard the concerns regarding Seedance&quot; and it plans to &quot;strengthen&quot; safeguards, after Disney&#39;s legal threats &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/260216/p9#a260216p9)
- - [Makers Are Building Back Against ICE](https://www.wired.com/story/makers-are-building-back-against-ice/)<!-- TECH:END -->
+ - [Data analytics company Fractal, which became India&#39;s first AI unicorn in 2022, raised $313M in its Mumbai IPO; its shares fell 5% amid a weak Indian IPO market &lpar;Rajesh Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260216/p17#a260216p17)
+ - [Galaxy S26 Ultra selfie camera leak has us playing ‘spot the difference’](https://www.androidauthority.com/samsung-galaxy-s26-ultra-selfie-camera-leak-3641270/)
+ - [NotebookLM under fire: Popular radio host says Google stole his voice](https://www.androidauthority.com/google-notebooklm-david-greene-voice-lawsuit-3641264/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
