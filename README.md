@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 Beta 1 reveals a surprising secret about the Pixel Launcher search bar](https://www.androidauthority.com/android-17-pixel-launcher-search-bar-customization-3641175/)
- - [YouTube adds new hurdles for ad blockers, and there’s currently no way around it](https://www.androidauthority.com/youtube-ad-blocker-comments-turned-off-3641167/)
- - [Credit derivatives trading on specific tech companies continues to rise, amid concerns that they may be borrowing too much to fuel AI development &lpar;Bloomberg&rpar;](http://www.techmeme.com/260216/p3#a260216p3)<!-- TECH:END -->
+ - [These key Android Auto icons could soon get an Android 16-flavored refresh](https://www.androidauthority.com/google-android-auto-icon-upgrade-3641198/)
+ - [ByteDance says it &quot;respects IP rights and we have heard the concerns regarding Seedance&quot; and it plans to &quot;strengthen&quot; safeguards, after Disney&#39;s legal threats &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/260216/p9#a260216p9)
+ - [Makers Are Building Back Against ICE](https://www.wired.com/story/makers-are-building-back-against-ice/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
