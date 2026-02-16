@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto lender Nexo says it is relaunching in the US in partnership with Bakkt, three years after leaving the US and paying a $45M fine to settle SEC charges &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/260216/p22#a260216p22)
- - [Apple sets next showcase for March 4 — here’s what we know](https://www.androidauthority.com/apple-experience-march-4-iphone-17e-3641308/)
- - [Here 50 Presidents Day deals actually worth shopping for](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026)<!-- TECH:END -->
+ - [Sources: SpaceX and xAI are competing in a $100M DoD contest to make voice-controlled, autonomous drone swarms; OpenAI is helping Applied Intuition&#39;s submission &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260216/p25#a260216p25)
+ - [First iOS 26.4, macOS Tahoe developer betas surface as new Siri waits in the wings](https://appleinsider.com/articles/26/02/16/first-ios-264-macos-tahoe-developer-betas-surface-as-new-siri-waits-in-the-wings?utm_source=rss)
+ - [Apple says it will bring &quot;advanced video capabilities&quot; to Apple Podcasts this spring, including allowing users to switch between watching and listening to shows &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260216/p24#a260216p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
