@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Caught in Danube river in Serbia a couple of months ago. Some nitwit emptied his fish tank in the river..](http://9gag.com/gag/a9y0WXm)
- - 😝 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
- - 👉 [Just miss](http://9gag.com/gag/an7wbzn)<!-- MEMES:END -->
+ - 6️⃣ [They want farmers to disappear](http://9gag.com/gag/amow2YX)
+ - 😝 [The only correct answer to this question](http://9gag.com/gag/an7wypq)
+ - 👉 [`Dude there&#39;s no way you could ever win unless every single person in front of you crashed`](http://9gag.com/gag/apRwQA5)<!-- MEMES:END -->
 
 --- 
 
