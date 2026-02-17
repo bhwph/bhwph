@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Balkan TV is something else](http://9gag.com/gag/aqyw1oP)
+ - 6️⃣ [Pick a number](http://9gag.com/gag/ayNwxrq)
  - 😝 [Ghost Busters](http://9gag.com/gag/a5Q3o9O)
- - 👉 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)<!-- MEMES:END -->
+ - 👉 [Another INSANE email](http://9gag.com/gag/avyw7wZ)<!-- MEMES:END -->
 
 --- 
 
