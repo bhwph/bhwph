@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages is quietly addressing one of its most requested features](https://www.androidauthority.com/google-messages-new-text-selection-feature-3641445/)
- - [How to manage notifications on Mac](https://appleinsider.com/articles/26/02/17/how-to-manage-notifications-on-mac?utm_source=rss)
- - [Sources: top VC firms operating in India are expected to commit investments ranging from $300M to $500M each to India&#39;s AI ecosystem at the AI Impact Summit &lpar;The Economic Times&rpar;](http://www.techmeme.com/260216/p35#a260216p35)<!-- TECH:END -->
+ - [Indian IT giant Infosys partners with Anthropic to develop AI services for telecoms, with plans to expand to finance, manufacturing, and software development &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/260217/p6#a260217p6)
+ - [Top AI researchers argue that AI is now more useful for mathematics thanks to the latest &quot;reasoning&quot; models, as math becomes a key way to test AI progress &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260217/p5#a260217p5)
+ - [YouTube TV’s new plans explained: Prices, channels, switching, availability &lpar;Updated: More details&rpar;](https://www.androidauthority.com/youtube-tv-new-plans-channels-switching-pricing-availability-3639276/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
