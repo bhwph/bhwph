@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Figma and Anthropic partner to launch Code to Canvas, letting users import code generated in Claude Code directly into Figma as editable designs &lpar;Deirdre Bosa/CNBC&rpar;](http://www.techmeme.com/260217/p33#a260217p33)
- - [Google starts teasing I/O 2026 with its latest puzzle](https://www.androidauthority.com/google-io-2026-puzzle-3641638/)
- - [Palantir moves its HQ from Denver to Miami, as the city&#39;s leadership aims to turn it into the next Silicon Valley, with backing of billionaires like Ken Griffin &lpar;Pierre Paulden/Bloomberg&rpar;](http://www.techmeme.com/260217/p32#a260217p32)<!-- TECH:END -->
+ - [Night Media, a talent agency that represents influencers like Twitch streamer Kai Cenat, raised $70M led by StepStone to expand into gaming, sports, and music &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/260217/p42#a260217p42)
+ - [WordPress’ new AI assistant will let users edit their sites with prompts](https://www.theverge.com/tech/880223/wordpress-launches-ai-assistant)
+ - [Google shares how Android 17 is making everything run smoother](https://www.androidauthority.com/android-17-missed-frames-3641660/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
