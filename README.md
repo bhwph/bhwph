@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pick a number](http://9gag.com/gag/ayNwxrq)
- - 😝 [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)
- - 👉 [Don&#39;t get me wrong. Lupita has excellent form factor, but still, the agenda is too strong here](http://9gag.com/gag/adBw9P2)<!-- MEMES:END -->
+ - 6️⃣ [Don&#39;t get me wrong. Lupita has excellent form factor, but still, the agenda is too strong here](http://9gag.com/gag/adBw9P2)
+ - 😝 [Just miss](http://9gag.com/gag/an7wbzn)
+ - 👉 [Oh Shit what the hell Barbara do that time](http://9gag.com/gag/aKG5VE1)<!-- MEMES:END -->
 
 --- 
 
