@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab Nova Launcher Prime now if you don’t want to end up overpaying later](https://www.androidauthority.com/nova-lifetime-deal-before-it-ends-3641474/)
- - [Nothing crashes Apple’s party with cheeky Phone 4a series launch teaser](https://www.androidauthority.com/nothing-phone-4a-series-launch-date-confirmed-3641478/)
- - [Now Verizon has some good news if you want to unlock your phone](https://www.androidauthority.com/verizon-immediate-device-unlock-3641465/)<!-- TECH:END -->
+ - [Cohere releases Tiny Aya, a family of 3.35B-parameter open-weight models supporting 70+ languages for offline use, trained on a single cluster of 64 H100 GPUs &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260217/p10#a260217p10)
+ - [The Galaxy S26 is fixing my biggest complaint from the S25](https://www.androidauthority.com/galaxy-s26-color-fixes-issue-with-s25-3640899/)
+ - [After a decade of reviewing phones, I really miss metal backs](https://www.androidauthority.com/miss-phones-metal-backs-3639417/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
