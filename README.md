@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cattle farming](http://9gag.com/gag/a2vp49w)
- - 😝 [Polish circle of life](http://9gag.com/gag/awy2QbW)
- - 👉 [`Dude there&#39;s no way you could ever win unless every single person in front of you crashed`](http://9gag.com/gag/apRwQA5)<!-- MEMES:END -->
+ - 6️⃣ [Pick a number](http://9gag.com/gag/ayNwxrq)
+ - 😝 [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)
+ - 👉 [Don&#39;t get me wrong. Lupita has excellent form factor, but still, the agenda is too strong here](http://9gag.com/gag/adBw9P2)<!-- MEMES:END -->
 
 --- 
 
