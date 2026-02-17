@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian IT giant Infosys partners with Anthropic to develop AI services for telecoms, with plans to expand to finance, manufacturing, and software development &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/260217/p6#a260217p6)
- - [Top AI researchers argue that AI is now more useful for mathematics thanks to the latest &quot;reasoning&quot; models, as math becomes a key way to test AI progress &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260217/p5#a260217p5)
- - [YouTube TV’s new plans explained: Prices, channels, switching, availability &lpar;Updated: More details&rpar;](https://www.androidauthority.com/youtube-tv-new-plans-channels-switching-pricing-availability-3639276/)<!-- TECH:END -->
+ - [Grab Nova Launcher Prime now if you don’t want to end up overpaying later](https://www.androidauthority.com/nova-lifetime-deal-before-it-ends-3641474/)
+ - [Nothing crashes Apple’s party with cheeky Phone 4a series launch teaser](https://www.androidauthority.com/nothing-phone-4a-series-launch-date-confirmed-3641478/)
+ - [Now Verizon has some good news if you want to unlock your phone](https://www.androidauthority.com/verizon-immediate-device-unlock-3641465/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
