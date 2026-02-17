@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palo Alto Networks agrees to acquire Israeli endpoint security company Koi Security, sources say for ~$400M; Koi raised $48M across two rounds, per PitchBook &lpar;Assaf Gilead/Globes&rpar;](http://www.techmeme.com/260217/p23#a260217p23)
- - [Apple&#39;s Playgrounds approach to AI is a sign of its larger strategy](https://appleinsider.com/articles/26/02/17/apples-playgrounds-approach-to-ai-is-a-sign-of-its-larger-strategy?utm_source=rss)
- - [Spanish PM Pedro Sanchez says he asked the country&#39;s prosecutor office to investigate X, TikTok, and Meta over the alleged &quot;creation and dissemination&quot; of CSAM &lpar;Macarena Munoz Montijano/Bloomberg&rpar;](http://www.techmeme.com/260217/p22#a260217p22)<!-- TECH:END -->
+ - [Figma and Anthropic partner to launch Code to Canvas, letting users import code generated in Claude Code directly into Figma as editable designs &lpar;Deirdre Bosa/CNBC&rpar;](http://www.techmeme.com/260217/p33#a260217p33)
+ - [Google starts teasing I/O 2026 with its latest puzzle](https://www.androidauthority.com/google-io-2026-puzzle-3641638/)
+ - [Palantir moves its HQ from Denver to Miami, as the city&#39;s leadership aims to turn it into the next Silicon Valley, with backing of billionaires like Ken Griffin &lpar;Pierre Paulden/Bloomberg&rpar;](http://www.techmeme.com/260217/p32#a260217p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
