@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Micron introduces the first mass-produced PCIe 6.0 SSDs, with read speeds up to 28GB/s, double that of PCIe 5.0 SSDs, optimized for AI/data center deployments &lpar;Aaron Klotz/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260216/p32#a260216p32)
- - [Letter and sources: Starboard plans to nominate a majority slate to Tripadvisor&#39;s board; Starboard holds a 9% stake, and TRIP has dropped ~46% in the past year &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/260216/p31#a260216p31)
- - [Nifty IT Index, which tracks Indian IT stocks, has slumped about 15% so far in February on worries about AI and is on track for its worst month since March 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260216/p30#a260216p30)<!-- TECH:END -->
+ - [Google Messages is quietly addressing one of its most requested features](https://www.androidauthority.com/google-messages-new-text-selection-feature-3641445/)
+ - [How to manage notifications on Mac](https://appleinsider.com/articles/26/02/17/how-to-manage-notifications-on-mac?utm_source=rss)
+ - [Sources: top VC firms operating in India are expected to commit investments ranging from $300M to $500M each to India&#39;s AI ecosystem at the AI Impact Summit &lpar;The Economic Times&rpar;](http://www.techmeme.com/260216/p35#a260216p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
