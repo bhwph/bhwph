@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cohere releases Tiny Aya, a family of 3.35B-parameter open-weight models supporting 70+ languages for offline use, trained on a single cluster of 64 H100 GPUs &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260217/p10#a260217p10)
- - [The Galaxy S26 is fixing my biggest complaint from the S25](https://www.androidauthority.com/galaxy-s26-color-fixes-issue-with-s25-3640899/)
- - [After a decade of reviewing phones, I really miss metal backs](https://www.androidauthority.com/miss-phones-metal-backs-3639417/)<!-- TECH:END -->
+ - [Laurie Spiegel on the difference between algorithmic music and ‘AI’](https://www.theverge.com/report/879819/laurie-spiegel-is-celebrating-40-of-music-mouse-with-a-modern-revival)
+ - [Temporal, which builds open-source software to ensure &quot;durable execution&quot; of code, raised a $300M Series D at a $5B valuation, up from $2.5B in October 2025 &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/260217/p18#a260217p18)
+ - [Stick with Apple, an increasingly bullish Wedbush tells investors](https://appleinsider.com/articles/26/02/17/stick-with-apple-an-increasingly-bullish-wedbush-tells-investors?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
