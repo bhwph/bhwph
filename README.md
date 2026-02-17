@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pick a number](http://9gag.com/gag/ayNwxrq)
- - 😝 [Working 50+ hrs a week so that Billionaires can eat children.](http://9gag.com/gag/a2vpZbZ)
- - 👉 [Another INSANE email](http://9gag.com/gag/avyw7wZ)<!-- MEMES:END -->
+ - 6️⃣ [Privatise the profits, socialise the loses.](http://9gag.com/gag/aYQ5YZ2)
+ - 😝 [My childhood imagination was peak cozy goals](http://9gag.com/gag/a2vpopd)
+ - 👉 [Where are you. What are you doing. Just picking up some neat rocks](http://9gag.com/gag/a1mjQ7D)<!-- MEMES:END -->
 
 --- 
 
