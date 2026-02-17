@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark your calendars: Google confirms dates for I/O 2026](https://www.androidauthority.com/google-io-dates-reveal-3641745/)
- - [The Best Noise-Canceling Headphones for Traveling Are $50 Off](https://www.wired.com/story/bose-quietcomfort-ultra-2-deal-226/)
- - [Apple MacBook Rumors: New M5 MacBook Pros Could Arrive March 4](https://www.cnet.com/tech/computing/macbook-rumors-new-m5-macbook-pros-prices-release-dates/)<!-- TECH:END -->
+ - [Sony’s WH-1000XM6 are nearly $100 off for just a few more hours](https://www.theverge.com/gadgets/880476/sony-wh-1000-xm6-deal-sale)
+ - [Quantum computing company Infleqtion closed at $15.59 in its trading debut, up ~9% from its opening price of $14.25, after merging with a Michael Klein-led SPAC &lpar;Mackenzie Tatananni/Barron&#39;s Online&rpar;](http://www.techmeme.com/260217/p50#a260217p50)
+ - [Check your email: Google’s sending out discount codes for the Pixel 10a](https://www.androidauthority.com/google-pixel-10a-pre-order-discounts-3641791/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
