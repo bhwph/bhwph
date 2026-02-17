@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Laurie Spiegel on the difference between algorithmic music and ‘AI’](https://www.theverge.com/report/879819/laurie-spiegel-is-celebrating-40-of-music-mouse-with-a-modern-revival)
- - [Temporal, which builds open-source software to ensure &quot;durable execution&quot; of code, raised a $300M Series D at a $5B valuation, up from $2.5B in October 2025 &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/260217/p18#a260217p18)
- - [Stick with Apple, an increasingly bullish Wedbush tells investors](https://appleinsider.com/articles/26/02/17/stick-with-apple-an-increasingly-bullish-wedbush-tells-investors?utm_source=rss)<!-- TECH:END -->
+ - [Palo Alto Networks agrees to acquire Israeli endpoint security company Koi Security, sources say for ~$400M; Koi raised $48M across two rounds, per PitchBook &lpar;Assaf Gilead/Globes&rpar;](http://www.techmeme.com/260217/p23#a260217p23)
+ - [Apple&#39;s Playgrounds approach to AI is a sign of its larger strategy](https://appleinsider.com/articles/26/02/17/apples-playgrounds-approach-to-ai-is-a-sign-of-its-larger-strategy?utm_source=rss)
+ - [Spanish PM Pedro Sanchez says he asked the country&#39;s prosecutor office to investigate X, TikTok, and Meta over the alleged &quot;creation and dissemination&quot; of CSAM &lpar;Macarena Munoz Montijano/Bloomberg&rpar;](http://www.techmeme.com/260217/p22#a260217p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
