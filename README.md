@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Night Media, a talent agency that represents influencers like Twitch streamer Kai Cenat, raised $70M led by StepStone to expand into gaming, sports, and music &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/260217/p42#a260217p42)
- - [WordPress’ new AI assistant will let users edit their sites with prompts](https://www.theverge.com/tech/880223/wordpress-launches-ai-assistant)
- - [Google shares how Android 17 is making everything run smoother](https://www.androidauthority.com/android-17-missed-frames-3641660/)<!-- TECH:END -->
+ - [Mark your calendars: Google confirms dates for I/O 2026](https://www.androidauthority.com/google-io-dates-reveal-3641745/)
+ - [The Best Noise-Canceling Headphones for Traveling Are $50 Off](https://www.wired.com/story/bose-quietcomfort-ultra-2-deal-226/)
+ - [Apple MacBook Rumors: New M5 MacBook Pros Could Arrive March 4](https://www.cnet.com/tech/computing/macbook-rumors-new-m5-macbook-pros-prices-release-dates/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
