@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [March 4 international Apple Experiences may follow week of online launches](https://appleinsider.com/articles/26/02/18/march-4-international-apple-experiences-may-follow-week-of-online-launches?utm_source=rss)
- - [Sources: Amazon shut down Blue Jay, a multi-armed robotic system launched in October 2025 for same-day delivery warehouses, to focus on small modular warehouses &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/260218/p24#a260218p24)
- - [Nothing Phone 4a leak reveals how much more expensive the new phones will be](https://www.androidauthority.com/nothing-phone-4a-specs-price-leak-3641987/)<!-- TECH:END -->
+ - [Canva COO Cliff Obrecht says the company hit $4B in ARR at the end of 2025, had 265M+ MAUs and 31M+ paid users, and expects to IPO in the next &quot;couple of years&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260218/p28#a260218p28)
+ - [Fei-Fei Li&#39;s World Labs raised $200M from Autodesk, part of a larger round; the companies are exploring integrating World Labs&#39; AI models in Autodesk products &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260218/p27#a260218p27)
+ - [I May Redo My Entire Kitchen Just to Get These Wireless Charging Countertops](https://www.cnet.com/news/i-might-redo-my-entire-kitchen-just-to-get-these-wireless-charging-countertops/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
