@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Privatise the profits, socialise the loses.](http://9gag.com/gag/aYQ5YZ2)
- - 😝 [My childhood imagination was peak cozy goals](http://9gag.com/gag/a2vpopd)
- - 👉 [Where are you. What are you doing. Just picking up some neat rocks](http://9gag.com/gag/a1mjQ7D)<!-- MEMES:END -->
+ - 6️⃣ [`If you want to know who rules over you, look at who you are not allowed to criticize`](http://9gag.com/gag/aD25xXx)
+ - 😝 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)
+ - 👉 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)<!-- MEMES:END -->
 
 --- 
 
