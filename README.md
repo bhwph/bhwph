@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dreamer, founded by former Stripe CTO David Singleton, Hugo Barra, and others, launches in beta to let technical and non-technical users build agentic AI apps &lpar;David Singleton/flurries of latent ...&rpar;](http://www.techmeme.com/260218/p6#a260218p6)
- - [A look at MGX, Abu Dhabi&#39;s AI investment vehicle with stakes in Anthropic, xAI, and OpenAI; the firm plans to spend up to $10B annually over the next few years &lpar;Bloomberg&rpar;](http://www.techmeme.com/260218/p5#a260218p5)
- - [Google Pixel 10A Rumors: Wednesday Reveal, New Colors, Preorders](https://www.cnet.com/news-live/google-pixel-10a/)<!-- TECH:END -->
+ - [Bengaluru-based AI startup Sarvam AI announces two models at the AI Impact Summit that it says are tailored to Indian languages and cultures &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260218/p11#a260218p11)
+ - [Microsoft says it is on pace to invest $50B by 2030 to help expand AI across the &quot;Global South&quot;; it unveiled $17.5B worth of AI investments in India in 2025 &lpar;Abu Sultan/Reuters&rpar;](http://www.techmeme.com/260218/p10#a260218p10)
+ - [Battery Ventures raised $3.25B for its XV fund, roughly matching its 2022 raise, to back software and industrial tech firms amid AI disruption concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/260218/p9#a260218p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
