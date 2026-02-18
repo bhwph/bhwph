@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Everyone&#39;s just trying their best, even the bodybuilders](http://9gag.com/gag/aMV5ZVR)
- - 😝 [Uploading my old 9gag collection 148](http://9gag.com/gag/aRBd1L7)
- - 👉 [Working 50+ hrs a week so that Billionaires can eat children.](http://9gag.com/gag/a2vpZbZ)<!-- MEMES:END -->
+ - 6️⃣ [What will Vlad the impaler do in situations like this?](http://9gag.com/gag/a0eqKdz)
+ - 😝 [Cattle farming](http://9gag.com/gag/a2vp49w)
+ - 👉 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)<!-- MEMES:END -->
 
 --- 
 
