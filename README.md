@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia says it is working with Peak XV and other VC firms in India to fund AI startups; over 4,000 Indian AI startups have joined its global startup program &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260218/p2#a260218p2)
- - [Yotta says it is investing $2B to deploy Nvidia&#39;s Blackwell B300 GPUs at its Noida data center campus in India to create one of Asia&#39;s largest AI superclusters &lpar;Himanshi Lohchab/The Economic Times&rpar;](http://www.techmeme.com/260218/p1#a260218p1)
- - [Google Home’s latest update brings long-requested automation tweaks and more](https://www.androidauthority.com/google-home-update-february-17-2026-3641870/)<!-- TECH:END -->
+ - [Dreamer, founded by former Stripe CTO David Singleton, Hugo Barra, and others, launches in beta to let technical and non-technical users build agentic AI apps &lpar;David Singleton/flurries of latent ...&rpar;](http://www.techmeme.com/260218/p6#a260218p6)
+ - [A look at MGX, Abu Dhabi&#39;s AI investment vehicle with stakes in Anthropic, xAI, and OpenAI; the firm plans to spend up to $10B annually over the next few years &lpar;Bloomberg&rpar;](http://www.techmeme.com/260218/p5#a260218p5)
+ - [Google Pixel 10A Rumors: Wednesday Reveal, New Colors, Preorders](https://www.cnet.com/news-live/google-pixel-10a/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
