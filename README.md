@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canva COO Cliff Obrecht says the company hit $4B in ARR at the end of 2025, had 265M+ MAUs and 31M+ paid users, and expects to IPO in the next &quot;couple of years&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260218/p28#a260218p28)
- - [Fei-Fei Li&#39;s World Labs raised $200M from Autodesk, part of a larger round; the companies are exploring integrating World Labs&#39; AI models in Autodesk products &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260218/p27#a260218p27)
- - [I May Redo My Entire Kitchen Just to Get These Wireless Charging Countertops](https://www.cnet.com/news/i-might-redo-my-entire-kitchen-just-to-get-these-wireless-charging-countertops/)<!-- TECH:END -->
+ - [Are Elon Musk’s Mars plans finally coming back down to Earth?](https://www.theverge.com/science/880672/spacex-elon-musk-moon-mars-ipo-blue-origin)
+ - [Fei-Fei Li&#39;s World Labs raised $1B from a16z, Nvidia, AMD, and others to advance its world models focused on robotics and scientific discovery &lpar;Alicia Tang/Bloomberg&rpar;](http://www.techmeme.com/260218/p39#a260218p39)
+ - [Audible syncs ebook reading and audiobook listening to keep you focused](https://www.theverge.com/entertainment/880719/audible-immersion-reading-read-and-listen)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
