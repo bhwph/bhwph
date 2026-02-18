@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Working 50+ hrs a week so that Billionaires can eat children.](http://9gag.com/gag/a2vpZbZ)
- - 😝 [He&#39;s right](http://9gag.com/gag/awy2AW4)
- - 👉 [Pick a number](http://9gag.com/gag/ayNwxrq)<!-- MEMES:END -->
+ - 6️⃣ [What will Vlad the impaler do in situations like this?](http://9gag.com/gag/a0eqKdz)
+ - 😝 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)
+ - 👉 [Christina Hendricks](http://9gag.com/gag/abAwMPB)<!-- MEMES:END -->
 
 --- 
 
