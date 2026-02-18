@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is finally resuming Play System updates on recent Galaxy phones](https://www.androidauthority.com/recent-samsung-phones-getting-play-system-updates-3641949/)
- - [An Inside Look at Lego’s New Tech-Packed Smart Brick](https://www.wired.com/story/exclusive-inside-look-at-new-lego-smart-brick/)
- - [Tesla won’t use the term ‘Autopilot’ in California anymore](https://www.theverge.com/transportation/880548/tesla-autopilot-california-dmv-marketing-update)<!-- TECH:END -->
+ - [March 4 international Apple Experiences may follow week of online launches](https://appleinsider.com/articles/26/02/18/march-4-international-apple-experiences-may-follow-week-of-online-launches?utm_source=rss)
+ - [Sources: Amazon shut down Blue Jay, a multi-armed robotic system launched in October 2025 for same-day delivery warehouses, to focus on small modular warehouses &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/260218/p24#a260218p24)
+ - [Nothing Phone 4a leak reveals how much more expensive the new phones will be](https://www.androidauthority.com/nothing-phone-4a-specs-price-leak-3641987/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
