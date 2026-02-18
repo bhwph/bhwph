@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s WH-1000XM6 are nearly $100 off for just a few more hours](https://www.theverge.com/gadgets/880476/sony-wh-1000-xm6-deal-sale)
- - [Quantum computing company Infleqtion closed at $15.59 in its trading debut, up ~9% from its opening price of $14.25, after merging with a Michael Klein-led SPAC &lpar;Mackenzie Tatananni/Barron&#39;s Online&rpar;](http://www.techmeme.com/260217/p50#a260217p50)
- - [Check your email: Google’s sending out discount codes for the Pixel 10a](https://www.androidauthority.com/google-pixel-10a-pre-order-discounts-3641791/)<!-- TECH:END -->
+ - [YouTube appears to be suffering a widespread outage starting at ~7:45pm ET, with feeds, Shorts, and homepage inaccessible, based on 300K+ Downdetector reports &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/260217/p58#a260217p58)
+ - [Anthropic expects to pay Amazon, Google, and Microsoft $80B+ total to run its models on their servers through 2029, plus an additional $100B for training costs &lpar;The Information&rpar;](http://www.techmeme.com/260217/p57#a260217p57)
+ - [Pixel 9 officially joins Pixel 10 with Quick Share-AirDrop support](https://www.androidauthority.com/google-pixel-9-quick-share-airdrop-support-rollout-3641846/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
