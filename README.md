@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru-based AI startup Sarvam AI announces two models at the AI Impact Summit that it says are tailored to Indian languages and cultures &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260218/p11#a260218p11)
- - [Microsoft says it is on pace to invest $50B by 2030 to help expand AI across the &quot;Global South&quot;; it unveiled $17.5B worth of AI investments in India in 2025 &lpar;Abu Sultan/Reuters&rpar;](http://www.techmeme.com/260218/p10#a260218p10)
- - [Battery Ventures raised $3.25B for its XV fund, roughly matching its 2022 raise, to back software and industrial tech firms amid AI disruption concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/260218/p9#a260218p9)<!-- TECH:END -->
+ - [Samsung is finally resuming Play System updates on recent Galaxy phones](https://www.androidauthority.com/recent-samsung-phones-getting-play-system-updates-3641949/)
+ - [An Inside Look at Lego’s New Tech-Packed Smart Brick](https://www.wired.com/story/exclusive-inside-look-at-new-lego-smart-brick/)
+ - [Tesla won’t use the term ‘Autopilot’ in California anymore](https://www.theverge.com/transportation/880548/tesla-autopilot-california-dmv-marketing-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
