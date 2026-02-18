@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Are Elon Musk’s Mars plans finally coming back down to Earth?](https://www.theverge.com/science/880672/spacex-elon-musk-moon-mars-ipo-blue-origin)
- - [Fei-Fei Li&#39;s World Labs raised $1B from a16z, Nvidia, AMD, and others to advance its world models focused on robotics and scientific discovery &lpar;Alicia Tang/Bloomberg&rpar;](http://www.techmeme.com/260218/p39#a260218p39)
- - [Audible syncs ebook reading and audiobook listening to keep you focused](https://www.theverge.com/entertainment/880719/audible-immersion-reading-read-and-listen)<!-- TECH:END -->
+ - [OpenAI hires Instagram&#39;s VP of global partnerships, Charles Porch, as its first VP of global creative partnerships, seeking to win over a skeptical Hollywood &lpar;Julia Black/Vanity Fair&rpar;](http://www.techmeme.com/260218/p43#a260218p43)
+ - [Microsoft is bringing a built-in network speed test to Windows 11](https://www.theverge.com/tech/880756/windows-11-speed-test-build-in-update-preview)
+ - [Google&#39;s Pixel 10A Launch Day: $499 Price, New Colors, AirDrop Compatibilty](https://www.cnet.com/news-live/google-pixel-10a/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
