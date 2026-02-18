@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI hires Instagram&#39;s VP of global partnerships, Charles Porch, as its first VP of global creative partnerships, seeking to win over a skeptical Hollywood &lpar;Julia Black/Vanity Fair&rpar;](http://www.techmeme.com/260218/p43#a260218p43)
- - [Microsoft is bringing a built-in network speed test to Windows 11](https://www.theverge.com/tech/880756/windows-11-speed-test-build-in-update-preview)
- - [Google&#39;s Pixel 10A Launch Day: $499 Price, New Colors, AirDrop Compatibilty](https://www.cnet.com/news-live/google-pixel-10a/)<!-- TECH:END -->
+ - [AI agents are coming to CarPlay, but they&#39;re not getting the keys](https://appleinsider.com/articles/26/02/18/ai-agents-are-coming-to-carplay-but-theyre-not-getting-the-keys?utm_source=rss)
+ - [March madness: What Apple is getting ready to launch](https://appleinsider.com/articles/26/02/18/march-madness-what-apple-is-getting-ready-to-launch?utm_source=rss)
+ - [OpenAI and Paradigm announce EVMbench, a benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities &lpar;OpenAI&rpar;](http://www.techmeme.com/260218/p47#a260218p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
