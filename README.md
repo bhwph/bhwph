@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI agents are coming to CarPlay, but they&#39;re not getting the keys](https://appleinsider.com/articles/26/02/18/ai-agents-are-coming-to-carplay-but-theyre-not-getting-the-keys?utm_source=rss)
- - [March madness: What Apple is getting ready to launch](https://appleinsider.com/articles/26/02/18/march-madness-what-apple-is-getting-ready-to-launch?utm_source=rss)
- - [OpenAI and Paradigm announce EVMbench, a benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities &lpar;OpenAI&rpar;](http://www.techmeme.com/260218/p47#a260218p47)<!-- TECH:END -->
+ - [Venice, which develops identity security software, emerges from stealth after raising a $25M Series A led by IVP, following an $8M seed round &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260218/p55#a260218p55)
+ - [Garmin’s latest patent targets non-invasive glucose estimation](https://www.androidauthority.com/garmin-patent-targets-non-invasive-glucose-estimation-3642246/)
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
