@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube appears to be suffering a widespread outage starting at ~7:45pm ET, with feeds, Shorts, and homepage inaccessible, based on 300K+ Downdetector reports &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/260217/p58#a260217p58)
- - [Anthropic expects to pay Amazon, Google, and Microsoft $80B+ total to run its models on their servers through 2029, plus an additional $100B for training costs &lpar;The Information&rpar;](http://www.techmeme.com/260217/p57#a260217p57)
- - [Pixel 9 officially joins Pixel 10 with Quick Share-AirDrop support](https://www.androidauthority.com/google-pixel-9-quick-share-airdrop-support-rollout-3641846/)<!-- TECH:END -->
+ - [Nvidia says it is working with Peak XV and other VC firms in India to fund AI startups; over 4,000 Indian AI startups have joined its global startup program &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260218/p2#a260218p2)
+ - [Yotta says it is investing $2B to deploy Nvidia&#39;s Blackwell B300 GPUs at its Noida data center campus in India to create one of Asia&#39;s largest AI superclusters &lpar;Himanshi Lohchab/The Economic Times&rpar;](http://www.techmeme.com/260218/p1#a260218p1)
+ - [Google Home’s latest update brings long-requested automation tweaks and more](https://www.androidauthority.com/google-home-update-february-17-2026-3641870/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
