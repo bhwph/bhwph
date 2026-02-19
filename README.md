@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg and his Ray-Ban entourage have their day in court](https://www.theverge.com/policy/881210/mark-zuckerberg-meta-ceo-testimony-filters)
- - [Samsung shares surged 5.4% to a record high after a report said the company plans to price HBM4 chips at ~$700 per unit, 30% higher than the previous generation &lpar;Kurt Schussler/Bloomberg&rpar;](http://www.techmeme.com/260218/p67#a260218p67)
- - [Austin-based Circuit, which is building an AI platform for manufacturing and service enterprises, raised $30M from a group of angel investors &lpar;Karoline Leonard/Austin American ...&rpar;](http://www.techmeme.com/260218/p66#a260218p66)<!-- TECH:END -->
+ - [Nonprofit What To Fix says Facebook&#39;s content monetization program grew from under 3M to over 12M participants in just over a year; 8M+ accounts are in English &lpar;Hazel Gandhi/Rest of World&rpar;](http://www.techmeme.com/260219/p7#a260219p7)
+ - [Apple&#39;s 40-day correlation to the Nasdaq 100 fell to 0.21 last week, the lowest since 2006, making it an appealing alternative to the AI-fueled volatility &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/260219/p6#a260219p6)
+ - [OPM Director Scott Kupor says tech billionaires such as Elon Musk will give talks to the US Tech Force, which aims to recruit roughly 1,000 software engineers &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/260219/p5#a260219p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
