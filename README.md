@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg Tries to Play It Safe in Social Media Addiction Trial Testimony](https://www.wired.com/story/mark-zuckerberg-testifies-social-media-addiction-trial-meta/)
- - [Bluesky integrates Germ DM, an E2E encrypted messaging app built on AT Protocol, making it the first private messenger natively available in the Bluesky app &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260218/p62#a260218p62)
- - [A US judge rules ex-Palantir employees likely violated confidentiality and non-solicitation agreements in founding Percepta, but declines to stop their work &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/260218/p61#a260218p61)<!-- TECH:END -->
+ - [Mark Zuckerberg and his Ray-Ban entourage have their day in court](https://www.theverge.com/policy/881210/mark-zuckerberg-meta-ceo-testimony-filters)
+ - [Samsung shares surged 5.4% to a record high after a report said the company plans to price HBM4 chips at ~$700 per unit, 30% higher than the previous generation &lpar;Kurt Schussler/Bloomberg&rpar;](http://www.techmeme.com/260218/p67#a260218p67)
+ - [Austin-based Circuit, which is building an AI platform for manufacturing and service enterprises, raised $30M from a group of angel investors &lpar;Karoline Leonard/Austin American ...&rpar;](http://www.techmeme.com/260218/p66#a260218p66)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
