@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Looks like Apple CarPlay just beat Android Auto to bring a highly-demanded feature](https://www.androidauthority.com/apple-carplay-android-auto-video-3642330/)
- - [How Lego&#39;s Creative Play Lab built the Smart Brick, its custom chip, sensors, and proprietary communication system to seamlessly integrate with existing sets &lpar;Jeremy White/Wired&rpar;](http://www.techmeme.com/260219/p10#a260219p10)
- - [Apple Podcasts&#39; fresh leap into video podcasts accelerates the podcast industry&#39;s shift from an audio-centric medium to a decidedly video-focused one &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/260219/p9#a260219p9)<!-- TECH:END -->
+ - [Samsung rolls out fifth One UI 8.5 beta as Galaxy S26 launch nears](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-beta-5-3642407/)
+ - [The Gates Foundation says Bill Gates will not deliver his keynote at India&#39;s AI Summit after &quot;careful consideration&quot; amid controversy over his Epstein ties &lpar;Cherylann Mollan/BBC&rpar;](http://www.techmeme.com/260219/p14#a260219p14)
+ - [Pixel 10a vs Pixel 7a: Here’s why I wouldn’t upgrade](https://www.androidauthority.com/pixel-10a-vs-pixel-7a-3641917/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
