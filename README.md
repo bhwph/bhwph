@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Klarna reports Q4 revenue up 38% YoY to $1.08B and a $26M net loss, down from a $40M profit in Q4 2024; KLAR is down 50%+ since its September 2025 NYSE IPO &lpar;Laith Al-Khalaf/Financial Times&rpar;](http://www.techmeme.com/260219/p22#a260219p22)
- - [8 Best Computer Monitors &lpar;2026&rpar;: Budget, OLED, 4K, and More](https://www.wired.com/gallery/best-computer-monitors/)
- - [The RAM shortage is coming for everything you care about](https://www.theverge.com/tech/880812/ramageddon-ram-shortage-memory-crisis-price-2026-phones-laptops)<!-- TECH:END -->
+ - [March madness: What Apple is getting ready to launch](https://appleinsider.com/articles/26/02/18/march-madness-what-apple-is-getting-ready-to-launch?utm_source=rss)
+ - [No, iPhone 18 won&#39;t have Mac-like MagSafe charging](https://appleinsider.com/articles/26/02/19/no-iphone-18-wont-have-mac-like-magsafe-charging?utm_source=rss)
+ - [Race to the IMAX theater: Apple TV &amp; F1 will screen live races](https://appleinsider.com/articles/26/02/19/race-to-the-imax-theater-apple-tv-f1-will-screen-live-races?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
