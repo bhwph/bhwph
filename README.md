@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Workers describe a deteriorating culture at Jack Dorsey&#39;s Block as morale plunges amid rolling layoffs and a push to use AI tools to improve productivity &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260219/p37#a260219p37)
- - [Survey proves most of you want a foldable — just not at full price](https://www.androidauthority.com/google-pixel-fold-deal-poll-result-3642513/)
- - [iPhone camera &amp; microphone dot can be suppressed if you&#39;re already hacked](https://appleinsider.com/articles/26/02/19/iphone-camera-microphone-dot-can-be-suppressed-if-youre-already-hacked?utm_source=rss)<!-- TECH:END -->
+ - [A $10K+ bounty is waiting for anyone who can unplug Ring doorbells from Amazon&amp;#8217;s cloud](https://www.theverge.com/tech/881678/ring-doorbell-bounty-amazon-servers-fulu)
+ - [After so many Galaxy Buds 4 renders, these IRL pics finally make the new design feel real](https://www.androidauthority.com/galaxy-buds-4-photos-3642605/)
+ - [Gemini 3.1 Pro is here with better reasoning and problem-solving](https://www.androidauthority.com/gemini-3-1-pro-preview-3642599/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
