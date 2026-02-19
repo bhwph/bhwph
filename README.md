@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [March madness: What Apple is getting ready to launch](https://appleinsider.com/articles/26/02/18/march-madness-what-apple-is-getting-ready-to-launch?utm_source=rss)
- - [No, iPhone 18 won&#39;t have Mac-like MagSafe charging](https://appleinsider.com/articles/26/02/19/no-iphone-18-wont-have-mac-like-magsafe-charging?utm_source=rss)
- - [Race to the IMAX theater: Apple TV &amp; F1 will screen live races](https://appleinsider.com/articles/26/02/19/race-to-the-imax-theater-apple-tv-f1-will-screen-live-races?utm_source=rss)<!-- TECH:END -->
+ - [New York drops plan to legalize robotaxis in setback for Waymo](https://www.theverge.com/transportation/881354/new-york-drops-plan-to-legalize-robotaxis-waymo)
+ - [Full internet by satellite could come via an iPhone or iPad case](https://appleinsider.com/articles/26/02/19/full-internet-by-satellite-could-come-via-an-iphone-or-ipad-case?utm_source=rss)
+ - [Turtle Beach’s new PC controller with swiveling sticks is 30 percent off](https://www.theverge.com/gadgets/881030/turtle-beach-stealth-pivot-controller-lego-mario-yoshi-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
