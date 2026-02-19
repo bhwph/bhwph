@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Follow up from my last post. Thanks guys, you were &lpar;surprisingly&rpar; awesome and kind.](http://9gag.com/gag/aAy5eM9)
- - 😝 [This is next level parenting](http://9gag.com/gag/amow5y4)
- - 👉 [That&#39;s one way to answer the teacher](http://9gag.com/gag/a1mjRGP)<!-- MEMES:END -->
+ - 6️⃣ [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
+ - 😝 [Hmm, keep them caps](http://9gag.com/gag/aPA275K)
+ - 👉 [I thought it was a joke](http://9gag.com/gag/awy2Ap4)<!-- MEMES:END -->
 
 --- 
 
