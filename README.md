@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York drops plan to legalize robotaxis in setback for Waymo](https://www.theverge.com/transportation/881354/new-york-drops-plan-to-legalize-robotaxis-waymo)
- - [Full internet by satellite could come via an iPhone or iPad case](https://appleinsider.com/articles/26/02/19/full-internet-by-satellite-could-come-via-an-iphone-or-ipad-case?utm_source=rss)
- - [Turtle Beach’s new PC controller with swiveling sticks is 30 percent off](https://www.theverge.com/gadgets/881030/turtle-beach-stealth-pivot-controller-lego-mario-yoshi-deal-sale)<!-- TECH:END -->
+ - [Reddit is testing an AI search feature that takes community recommendations and shows matching products from its advertisers in the results &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260219/p34#a260219p34)
+ - [Chrome’s latest update gives it three features it has long needed](https://www.androidauthority.com/chrome-split-view-and-pdf-annotations-3642504/)
+ - [Deal: Get a free $100 gift card when you buy a Google Pixel 10a!](https://www.androidauthority.com/google-pixel-10a-free-gift-card-deal-3642501/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
