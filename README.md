@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Venice, which develops identity security software, emerges from stealth after raising a $25M Series A led by IVP, following an $8M seed round &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260218/p55#a260218p55)
- - [Garmin’s latest patent targets non-invasive glucose estimation](https://www.androidauthority.com/garmin-patent-targets-non-invasive-glucose-estimation-3642246/)
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Mark Zuckerberg Tries to Play It Safe in Social Media Addiction Trial Testimony](https://www.wired.com/story/mark-zuckerberg-testifies-social-media-addiction-trial-meta/)
+ - [Bluesky integrates Germ DM, an E2E encrypted messaging app built on AT Protocol, making it the first private messenger natively available in the Bluesky app &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260218/p62#a260218p62)
+ - [A US judge rules ex-Palantir employees likely violated confidentiality and non-solicitation agreements in founding Percepta, but declines to stop their work &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/260218/p61#a260218p61)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
