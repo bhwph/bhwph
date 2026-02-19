@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit is testing an AI search feature that takes community recommendations and shows matching products from its advertisers in the results &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260219/p34#a260219p34)
- - [Chrome’s latest update gives it three features it has long needed](https://www.androidauthority.com/chrome-split-view-and-pdf-annotations-3642504/)
- - [Deal: Get a free $100 gift card when you buy a Google Pixel 10a!](https://www.androidauthority.com/google-pixel-10a-free-gift-card-deal-3642501/)<!-- TECH:END -->
+ - [Workers describe a deteriorating culture at Jack Dorsey&#39;s Block as morale plunges amid rolling layoffs and a push to use AI tools to improve productivity &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260219/p37#a260219p37)
+ - [Survey proves most of you want a foldable — just not at full price](https://www.androidauthority.com/google-pixel-fold-deal-poll-result-3642513/)
+ - [iPhone camera &amp; microphone dot can be suppressed if you&#39;re already hacked](https://appleinsider.com/articles/26/02/19/iphone-camera-microphone-dot-can-be-suppressed-if-youre-already-hacked?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
