@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Smart guy](http://9gag.com/gag/a9y0K1W)
- - 😝 [Titel](http://9gag.com/gag/a87O546)
- - 👉 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)<!-- MEMES:END -->
+ - 6️⃣ [This is next level parenting](http://9gag.com/gag/amow5y4)
+ - 😝 [That&#39;s one way to answer the teacher](http://9gag.com/gag/a1mjRGP)
+ - 👉 [Follow up from my last post. Thanks guys, you were &lpar;surprisingly&rpar; awesome and kind.](http://9gag.com/gag/aAy5eM9)<!-- MEMES:END -->
 
 --- 
 
