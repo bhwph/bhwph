@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung rolls out fifth One UI 8.5 beta as Galaxy S26 launch nears](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-beta-5-3642407/)
- - [The Gates Foundation says Bill Gates will not deliver his keynote at India&#39;s AI Summit after &quot;careful consideration&quot; amid controversy over his Epstein ties &lpar;Cherylann Mollan/BBC&rpar;](http://www.techmeme.com/260219/p14#a260219p14)
- - [Pixel 10a vs Pixel 7a: Here’s why I wouldn’t upgrade](https://www.androidauthority.com/pixel-10a-vs-pixel-7a-3641917/)<!-- TECH:END -->
+ - [Klarna reports Q4 revenue up 38% YoY to $1.08B and a $26M net loss, down from a $40M profit in Q4 2024; KLAR is down 50%+ since its September 2025 NYSE IPO &lpar;Laith Al-Khalaf/Financial Times&rpar;](http://www.techmeme.com/260219/p22#a260219p22)
+ - [8 Best Computer Monitors &lpar;2026&rpar;: Budget, OLED, 4K, and More](https://www.wired.com/gallery/best-computer-monitors/)
+ - [The RAM shortage is coming for everything you care about](https://www.theverge.com/tech/880812/ramageddon-ram-shortage-memory-crisis-price-2026-phones-laptops)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
