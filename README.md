@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
- - 😝 [Hmm, keep them caps](http://9gag.com/gag/aPA275K)
- - 👉 [I thought it was a joke](http://9gag.com/gag/awy2Ap4)<!-- MEMES:END -->
+ - 6️⃣ [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)
+ - 😝 [Nom nom nom](http://9gag.com/gag/a5Q3EqN)
+ - 👉 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)<!-- MEMES:END -->
 
 --- 
 
