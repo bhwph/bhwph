@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)
- - 😝 [Nom nom nom](http://9gag.com/gag/a5Q3EqN)
- - 👉 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)<!-- MEMES:END -->
+ - 6️⃣ [She didn&#39;t kill her self either.](http://9gag.com/gag/a5Q3E4y)
+ - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
+ - 👉 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)<!-- MEMES:END -->
 
 --- 
 
