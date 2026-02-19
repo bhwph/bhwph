@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)
- - 😝 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
- - 👉 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)<!-- MEMES:END -->
+ - 6️⃣ [This is next level parenting](http://9gag.com/gag/amow5y4)
+ - 😝 [She didn&#39;t kill her self either.](http://9gag.com/gag/a5Q3E4y)
+ - 👉 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)<!-- MEMES:END -->
 
 --- 
 
