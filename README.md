@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epilogue GB Operator Review: Play Your Game Boy Games on a Laptop](https://www.wired.com/review/epilogue-gb-operator/)
- - [Meta will ruin its smart glasses by being Meta](https://www.theverge.com/column/881744/meta-smart-glasses-facial-recognition-rayban-privacy-wearables)
- - [Apple has its problems, but still the only real choice for privacy](https://appleinsider.com/articles/26/02/20/apple-has-its-problems-but-still-the-only-real-choice-for-privacy?utm_source=rss)<!-- TECH:END -->
+ - [Nintendo’s next big Pokémon presentation is on February 27th](https://www.theverge.com/games/881332/nintendo-pokemon-presents-pokemon-day)
+ - [Pepper, which provides a digital storefront for independent food distributors, raised a $50M Series C led by Lead Edge, bringing its total funding to $100M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260220/p6#a260220p6)
+ - [Apple&#39;s new MacBook colors nearly debuted in 2022 MacBook Air](https://appleinsider.com/articles/26/02/20/apples-new-macbook-colors-nearly-debuted-in-2022-macbook-air?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
