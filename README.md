@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Old but gold](http://9gag.com/gag/aPA2Z6n)
- - 😝 [The Andrew formerly known as Prince.](http://9gag.com/gag/aPA232q)
- - 👉 [I built a 3D metal scorpion so you don&#39;t have to](http://9gag.com/gag/agmwgj6)<!-- MEMES:END -->
+ - 6️⃣ [Hmm, keep them caps](http://9gag.com/gag/aPA275K)
+ - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
+ - 👉 [Justice for punchi](http://9gag.com/gag/a34r1A5)<!-- MEMES:END -->
 
 --- 
 
