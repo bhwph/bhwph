@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 11 could get a significant hardware security boost](https://www.androidauthority.com/google-pixel-11-security-hardware-upgrade-leak-3642678/)
- - [Google rejected 1.75M policy-violating Android apps and blocked 80K+ developer accounts from Google Play in 2025, down from 2.36M apps and 158K accounts in 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260220/p2#a260220p2)
- - [H&amp;R Block Coupons and Deals: $50 Off Tax Prep in 2026](https://www.wired.com/story/hr-block-coupon/)<!-- TECH:END -->
+ - [I use Google Messages every day, and these are my 10 favorite tips and tricks](https://www.androidauthority.com/google-messages-tips-tricks-2026-3641733/)
+ - [General Catalyst plans to invest $5B in India over five years, an increase from the $500M to $1B previously announced, after merging with a local VC in 2024 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260220/p3#a260220p3)
+ - [Gmail Is Killing POP and Gmailify Access. Here&#39;s What It Means for You](https://www.wired.com/story/gmail-killing-pop-and-gmailify-access-what-it-means-for-you/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
