@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)
- - 😝 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
- - 👉 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)<!-- MEMES:END -->
+ - 6️⃣ [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
+ - 😝 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
+ - 👉 [If you don&#39;t like it. You might have PDS](http://9gag.com/gag/aQz5X3q)<!-- MEMES:END -->
 
 --- 
 
