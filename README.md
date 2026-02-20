@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All academy quiz answers in Mario Tennis Fever](https://www.polygon.com/mario-tennis-fever-academy-quiz-answers-adventure/)
- - [Mario Tennis Fever Beginner&#39;s tips and tricks](https://www.polygon.com/mario-tennis-fever-beginners-tips-tricks-before-you-start/)
- - [All Fever rackets in Mario Tennis Fever](https://www.polygon.com/mario-tennis-fever-rackets-unlock-all/)<!-- GAME:END -->
+ - [Pokémon FireRed And LeafGreen On Switch Has A Sick Special Edition Most People Can’t Get](https://kotaku.com/pokemon-firered-leafgreen-switch-edition-japan-center-2000672041)
+ - [Share of the Week: Nioh 3](https://blog.playstation.com/2026/02/20/share-of-the-week-nioh-3/)
+ - [Redux Redux fuses sci-fi gimmicks to build an emotional revenge thriller](https://www.polygon.com/redux-redux-indie-sci-fi-movie-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
