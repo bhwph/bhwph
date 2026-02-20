@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How tech companies, including Meta and OpenAI, are building data centers with their own private power plants, a risky bet that will increase carbon emissions &lpar;Evan Halper/Washington Post&rpar;](http://www.techmeme.com/260219/p47#a260219p47)
- - [Perplexity&#39;s retreat from ads signals a strategic shift as it recognizes its product is not for a mass audience and expects growth to come from enterprise sales &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260219/p46#a260219p46)
- - [GameSir G8 Plus review: an iterative upgrade fit for iPad mini fans](https://appleinsider.com/articles/26/02/20/gamesir-g8-plus-review-an-iterative-upgrade-fit-for-ipad-mini-fans?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft&#39;s AI safety team proposed technical standards for detecting AI-generated content, but its CSO declined to commit to using them across its platforms &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/260219/p51#a260219p51)
+ - [How some political candidates and activists across ideologies and professions are pushing back on the spread of data centers and AI in the US &lpar;Andrew R. Chow/Time&rpar;](http://www.techmeme.com/260219/p50#a260219p50)
+ - [Jeffrey Epstein’s Ties to CBP Agents Sparked a DOJ Probe](https://www.wired.com/story/jeffrey-epstein-cbp-agents-us-virgin-islands/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
