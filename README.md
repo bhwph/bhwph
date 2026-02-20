@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)
- - 😝 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
- - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
+ - 6️⃣ [Old but gold](http://9gag.com/gag/aPA2Z6n)
+ - 😝 [The Andrew formerly known as Prince.](http://9gag.com/gag/aPA232q)
+ - 👉 [I built a 3D metal scorpion so you don&#39;t have to](http://9gag.com/gag/agmwgj6)<!-- MEMES:END -->
 
 --- 
 
