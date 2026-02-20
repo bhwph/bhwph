@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump&#39;s &#39;reciprocal&#39; tariffs that cost Apple $2 billion shot down by Supreme Court](https://appleinsider.com/articles/26/02/20/trumps-reciprocal-tariffs-that-cost-apple-2-billion-shot-down-by-supreme-court?utm_source=rss)
- - [Supreme Court Rules Most of Donald Trump&#39;s Tariffs Are Illegal](https://www.wired.com/story/supreme-court-trump-tariffs-ruling/)
- - [Claude&#39;s C Compiler shows AI elevates the role of human judgment and vision; it&#39;s a milestone, but closely mirrors LLVM/GCC, and hard codes things to pass tests &lpar;Chris Lattner/Modular Blog&rpar;](http://www.techmeme.com/260220/p10#a260220p10)<!-- TECH:END -->
+ - [Metadata Exposes Authors of ICE’s ‘Mega’ Detention Center Plans](https://www.wired.com/story/metadata-exposes-authors-of-ices-mega-detention-center-plans/)
+ - [A US judge rejects Tesla&#39;s bid to overturn a $243M jury verdict over a fatal 2019 Autopilot crash, a blow for Tesla as it faces a growing wave of lawsuits &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/260220/p14#a260220p14)
+ - [Android malware is now using Google’s own Gemini AI to adapt in real time](https://www.androidauthority.com/android-malware-promptspy-uses-generative-ai-gemini-3642832/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
