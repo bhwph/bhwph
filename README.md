@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo’s next big Pokémon presentation is on February 27th](https://www.theverge.com/games/881332/nintendo-pokemon-presents-pokemon-day)
- - [Pepper, which provides a digital storefront for independent food distributors, raised a $50M Series C led by Lead Edge, bringing its total funding to $100M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260220/p6#a260220p6)
- - [Apple&#39;s new MacBook colors nearly debuted in 2022 MacBook Air](https://appleinsider.com/articles/26/02/20/apples-new-macbook-colors-nearly-debuted-in-2022-macbook-air?utm_source=rss)<!-- TECH:END -->
+ - [Trump&#39;s &#39;reciprocal&#39; tariffs that cost Apple $2 billion shot down by Supreme Court](https://appleinsider.com/articles/26/02/20/trumps-reciprocal-tariffs-that-cost-apple-2-billion-shot-down-by-supreme-court?utm_source=rss)
+ - [Supreme Court Rules Most of Donald Trump&#39;s Tariffs Are Illegal](https://www.wired.com/story/supreme-court-trump-tariffs-ruling/)
+ - [Claude&#39;s C Compiler shows AI elevates the role of human judgment and vision; it&#39;s a milestone, but closely mirrors LLVM/GCC, and hard codes things to pass tests &lpar;Chris Lattner/Modular Blog&rpar;](http://www.techmeme.com/260220/p10#a260220p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
