@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A $10K+ bounty is waiting for anyone who can unplug Ring doorbells from Amazon&amp;#8217;s cloud](https://www.theverge.com/tech/881678/ring-doorbell-bounty-amazon-servers-fulu)
- - [After so many Galaxy Buds 4 renders, these IRL pics finally make the new design feel real](https://www.androidauthority.com/galaxy-buds-4-photos-3642605/)
- - [Gemini 3.1 Pro is here with better reasoning and problem-solving](https://www.androidauthority.com/gemini-3-1-pro-preview-3642599/)<!-- TECH:END -->
+ - [How tech companies, including Meta and OpenAI, are building data centers with their own private power plants, a risky bet that will increase carbon emissions &lpar;Evan Halper/Washington Post&rpar;](http://www.techmeme.com/260219/p47#a260219p47)
+ - [Perplexity&#39;s retreat from ads signals a strategic shift as it recognizes its product is not for a mass audience and expects growth to come from enterprise sales &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260219/p46#a260219p46)
+ - [GameSir G8 Plus review: an iterative upgrade fit for iPad mini fans](https://appleinsider.com/articles/26/02/20/gamesir-g8-plus-review-an-iterative-upgrade-fit-for-ipad-mini-fans?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
