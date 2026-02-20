@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon FireRed And LeafGreen On Switch Has A Sick Special Edition Most People Can’t Get](https://kotaku.com/pokemon-firered-leafgreen-switch-edition-japan-center-2000672041)
- - [Share of the Week: Nioh 3](https://blog.playstation.com/2026/02/20/share-of-the-week-nioh-3/)
- - [Redux Redux fuses sci-fi gimmicks to build an emotional revenge thriller](https://www.polygon.com/redux-redux-indie-sci-fi-movie-review/)<!-- GAME:END -->
+ - [Fortnite Interference story quest walkthrough](https://www.polygon.com/fortnite-guide-interference-redacted-story-quest-visitor-zero-point-shard/)
+ - [Phil Spencer Retires From Xbox And Sarah Bond Resigns As Microsoft’s AI Guy Takes Over](https://kotaku.com/phil-spencer-xbox-leaving-retirement-microsoft-2000672059)
+ - [Ubisoft CEO confirms new Assassin&#39;s Creed and Far Cry games are coming, denies that putting his son in charge of them was nepotism](https://www.pcgamer.com/gaming-industry/ubisoft-ceo-confirms-new-assassins-creed-and-far-cry-games-are-coming-denies-that-putting-his-son-in-charge-of-them-was-nepotism/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
