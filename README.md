@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [H&amp;R Block Coupons and Deals: $50 Off Tax Prep in 2026](https://www.wired.com/story/hr-block-coupon/)
- - [Sources: Amazon&#39;s AI tools caused at least two AWS outages, including a 13-hour disruption in December after its Kiro AI deleted and recreated an environment &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260220/p1#a260220p1)
- - [Microsoft&#39;s AI safety team proposed technical standards for detecting AI-generated content, but its CSO declined to commit to using them across its platforms &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/260219/p51#a260219p51)<!-- TECH:END -->
+ - [Google Pixel 11 could get a significant hardware security boost](https://www.androidauthority.com/google-pixel-11-security-hardware-upgrade-leak-3642678/)
+ - [Google rejected 1.75M policy-violating Android apps and blocked 80K+ developer accounts from Google Play in 2025, down from 2.36M apps and 158K accounts in 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260220/p2#a260220p2)
+ - [H&amp;R Block Coupons and Deals: $50 Off Tax Prep in 2026](https://www.wired.com/story/hr-block-coupon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
