@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
  - 😝 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
- - 👉 [Justice for punchi](http://9gag.com/gag/a34r1A5)<!-- MEMES:END -->
+ - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
 
 --- 
 
