@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I use Google Messages every day, and these are my 10 favorite tips and tricks](https://www.androidauthority.com/google-messages-tips-tricks-2026-3641733/)
- - [General Catalyst plans to invest $5B in India over five years, an increase from the $500M to $1B previously announced, after merging with a local VC in 2024 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260220/p3#a260220p3)
- - [Gmail Is Killing POP and Gmailify Access. Here&#39;s What It Means for You](https://www.wired.com/story/gmail-killing-pop-and-gmailify-access-what-it-means-for-you/)<!-- TECH:END -->
+ - [Epilogue GB Operator Review: Play Your Game Boy Games on a Laptop](https://www.wired.com/review/epilogue-gb-operator/)
+ - [Meta will ruin its smart glasses by being Meta](https://www.theverge.com/column/881744/meta-smart-glasses-facial-recognition-rayban-privacy-wearables)
+ - [Apple has its problems, but still the only real choice for privacy](https://appleinsider.com/articles/26/02/20/apple-has-its-problems-but-still-the-only-real-choice-for-privacy?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
