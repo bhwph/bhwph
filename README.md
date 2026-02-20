@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Read Microsoft gaming CEO Asha Sharma&amp;#8217;s first memo on the future of Xbox](https://www.theverge.com/games/882326/read-microsoft-gaming-ceo-asha-sharma-first-memo)
- - [Pixel’s At a Glance just added two new categories users have long been waiting for](https://www.androidauthority.com/pixel-at-a-glance-sports-finance-3642876/)
- - [Read Xbox chief Phil Spencer’s memo about leaving Microsoft](https://www.theverge.com/news/882340/xbox-phil-spencer-microsoft-retirement-memo)<!-- TECH:END -->
+ - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
+ - [Android malware is now using Gemini AI to adapt in real time &lpar;Updated: Google statement&rpar;](https://www.androidauthority.com/android-malware-promptspy-uses-generative-ai-gemini-3642832/)
+ - [Frustrated with multiple SIMs on Samsung Galaxy phones? One UI 8.5 is coming to the rescue](https://www.androidauthority.com/samsung-multi-sim-data-options-3642898/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
