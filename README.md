@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Metadata Exposes Authors of ICE’s ‘Mega’ Detention Center Plans](https://www.wired.com/story/metadata-exposes-authors-of-ices-mega-detention-center-plans/)
- - [A US judge rejects Tesla&#39;s bid to overturn a $243M jury verdict over a fatal 2019 Autopilot crash, a blow for Tesla as it faces a growing wave of lawsuits &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/260220/p14#a260220p14)
- - [Android malware is now using Google’s own Gemini AI to adapt in real time](https://www.androidauthority.com/android-malware-promptspy-uses-generative-ai-gemini-3642832/)<!-- TECH:END -->
+ - [Read Microsoft gaming CEO Asha Sharma&amp;#8217;s first memo on the future of Xbox](https://www.theverge.com/games/882326/read-microsoft-gaming-ceo-asha-sharma-first-memo)
+ - [Pixel’s At a Glance just added two new categories users have long been waiting for](https://www.androidauthority.com/pixel-at-a-glance-sports-finance-3642876/)
+ - [Read Xbox chief Phil Spencer’s memo about leaving Microsoft](https://www.theverge.com/news/882340/xbox-phil-spencer-microsoft-retirement-memo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
