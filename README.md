@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
- - 😝 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
- - 👉 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)<!-- MEMES:END -->
+ - 6️⃣ [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
+ - 😝 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
+ - 👉 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)<!-- MEMES:END -->
 
 --- 
 
