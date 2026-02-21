@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
- - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
- - 👉 [Do not use perfumes with too strong a scent, as this may bother people around you.](http://9gag.com/gag/aoywMGg)<!-- MEMES:END -->
+ - 6️⃣ [From the archives: best filter ever.](http://9gag.com/gag/azxwxAN)
+ - 😝 [His fav guy is here](http://9gag.com/gag/a34r4qe)
+ - 👉 [The office drama just keeps getting renewed](http://9gag.com/gag/apRwRNp)<!-- MEMES:END -->
 
 --- 
 
