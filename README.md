@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aerial_Knight’s DropShot captures the thrill of skydiving and makes it stylish](https://www.theverge.com/games/875259/dropshot-aerial-knight-review-pc-playstation-xbox)
- - [In a World Without BlackBerry, Physical Keyboards on Phones Are Making a Comeback](https://www.cnet.com/tech/mobile/in-a-world-without-blackberry-physical-keyboards-on-phones-are-making-a-comeback/)
- - [Galaxy S26 Rumors: Lots of Leaks About Samsung&#39;s New Phone Series](https://www.cnet.com/tech/mobile/galaxy-s26-leaks-rumor-roundup/)<!-- TECH:END -->
+ - [Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT](https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt)
+ - [A look at the fundamental questions facing OpenAI: its models have a very large user base but very narrow engagement, incumbents are matching its tech, and more &lpar;Benedict Evans&rpar;](http://www.techmeme.com/260221/p5#a260221p5)
+ - [Best Robot Vacuums: Our Latest Lab-Tested Robovacs Can Clean Just About Anything](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
