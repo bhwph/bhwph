@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [From the archives: best filter ever.](http://9gag.com/gag/azxwxAN)
- - 😝 [His fav guy is here](http://9gag.com/gag/a34r4qe)
- - 👉 [The office drama just keeps getting renewed](http://9gag.com/gag/apRwRNp)<!-- MEMES:END -->
+ - 6️⃣ [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
+ - 😝 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
+ - 👉 [Shave your beard](http://9gag.com/gag/aAy50Yo)<!-- MEMES:END -->
 
 --- 
 
