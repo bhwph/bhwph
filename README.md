@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite Interference story quest walkthrough](https://www.polygon.com/fortnite-guide-interference-redacted-story-quest-visitor-zero-point-shard/)
- - [Phil Spencer Retires From Xbox And Sarah Bond Resigns As Microsoft’s AI Guy Takes Over](https://kotaku.com/phil-spencer-xbox-leaving-retirement-microsoft-2000672059)
- - [Ubisoft CEO confirms new Assassin&#39;s Creed and Far Cry games are coming, denies that putting his son in charge of them was nepotism](https://www.pcgamer.com/gaming-industry/ubisoft-ceo-confirms-new-assassins-creed-and-far-cry-games-are-coming-denies-that-putting-his-son-in-charge-of-them-was-nepotism/)<!-- GAME:END -->
+ - [Ubisoft Promises Two Far Cry Games Are Coming As Open-World Shooter Continues Its Longest Hiatus Ever](https://kotaku.com/far-cry-7-extraction-shooter-assassins-creed-hexe-ubisoft-2000672574)
+ - [Ify Nwadiwe wants Henry Cavill to nerd out about Warhammer on Um, Actually](https://www.polygon.com/ify-nwadiwe-dropout-um-actually-henry-cavill-warhammer/)
+ - [Ubisoft made another Avatar game the world has forgotten about, so I opened Pandora’s boxed copy and dropped into the jungle](https://www.pcgamer.com/games/action/ubisoft-made-another-avatar-game-the-world-has-forgotten-about-so-i-opened-pandoras-boxed-copy-and-dropped-into-the-jungle/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
