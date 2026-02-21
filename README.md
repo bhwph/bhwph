@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
- - 😝 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
- - 👉 [Shave your beard](http://9gag.com/gag/aAy50Yo)<!-- MEMES:END -->
+ - 6️⃣ [Thoughts?](http://9gag.com/gag/a1mjPVD)
+ - 😝 [Shave your beard](http://9gag.com/gag/aAy50Yo)
+ - 👉 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)<!-- MEMES:END -->
 
 --- 
 
