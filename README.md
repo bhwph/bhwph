@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is ending Gmailify and POP access in Gmail; new users will lose access in Q1 2026, and existing users will keep both features until later in 2026 &lpar;David Nield/Wired&rpar;](http://www.techmeme.com/260221/p8#a260221p8)
- - [Apple&#39;s latest Ferret AI model is a step towards Siri seeing and controlling iPhone apps](https://appleinsider.com/articles/26/02/21/apples-latest-ferret-ai-model-is-a-step-towards-siri-seeing-and-controlling-iphone-apps?utm_source=rss)
- - [English-language Wikipedia bans Archive.today after editors discover it was used to direct a DDoS attack and tampered with snapshots; 695K+ links to be removed &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/260221/p7#a260221p7)<!-- TECH:END -->
+ - [Projects with open codebases like VLC and Blender are seeing a decline in the average quality of submissions, likely as AI coding tools lower barriers to entry &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260221/p9#a260221p9)
+ - [Arturia’s FX Collection 6 adds two new effects and a $99 intro version](https://www.theverge.com/tech/882852/arturia-fx-collection-6)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Feb. 22, #987](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-feb-22-987/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
