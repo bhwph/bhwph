@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Fold 7 is proof that no one at Samsung actually opened the foldable](https://www.androidauthority.com/fold-7-camera-ux-nightmare-3638362/)
- - [‘Narco-Submarine’ Carrying 4 Tons of Cocaine Captured by Mexico&#39;s Navy](https://www.wired.com/story/narco-submarine-carrying-4-tons-of-cocaine-captured-by-mexicos-navy/)
- - [Anker’s powerful home theater on wheels is pure chaos](https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1)<!-- TECH:END -->
+ - [An interview with Notion CEO Ivan Zhao on Custom Notion AI agents launching in the coming week, over 50% of Notion databases now being built by agents, and more &lpar;Sources&rpar;](http://www.techmeme.com/260221/p4#a260221p4)
+ - [Here’s why I’d buy the Pixel 10a instead of waiting for the Pixel 11](https://www.androidauthority.com/pixel-10a-vs-pixel-11-3641646/)
+ - [Souvenirs From the 2026 Winter Olympics Are Being Resold for Big Bucks Online](https://www.wired.com/story/gear-from-the-2026-winter-olympics-is-being-resold-for-big-bucks-online/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
