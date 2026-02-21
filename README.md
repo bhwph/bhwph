@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump signs an EO to continue the suspension of the de minimis exemption, despite the SCOTUS&#39; ruling that overturned most of Trump&#39;s 2025 tariffs &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/260220/p27#a260220p27)
- - [Trump Imposes New Tariffs to Sidestep Supreme Court Ruling](https://www.wired.com/story/trump-imposes-new-tariffs-following-supreme-court-ruling/)
- - [&quot;Claws&quot; is becoming a term to describe OpenClaw-like agent systems that usually run on personal hardware and are a new layer on top of LLM agents &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/260220/p26#a260220p26)<!-- TECH:END -->
+ - [Pinterest users, especially artists, says the platform has gotten worse in the past year due to AI moderation, AI-generated art, and AI features &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/260221/p2#a260221p2)
+ - [Google announces a partnership with Sea to develop AI tools for Sea&#39;s Shopee, Southeast Asia&#39;s most dominant e-commerce platform, and Sea&#39;s gaming unit Garena &lpar;Stanley Widianto/Reuters&rpar;](http://www.techmeme.com/260221/p1#a260221p1)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 21, #516](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-21-516/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
