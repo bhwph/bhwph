@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Android malware is now using Gemini AI to adapt in real time &lpar;Updated: Google statement&rpar;](https://www.androidauthority.com/android-malware-promptspy-uses-generative-ai-gemini-3642832/)
- - [Frustrated with multiple SIMs on Samsung Galaxy phones? One UI 8.5 is coming to the rescue](https://www.androidauthority.com/samsung-multi-sim-data-options-3642898/)<!-- TECH:END -->
+ - [Bengaluru-based Sarvam, which is building AI models for local languages, launches its Indus chat app in beta, powered by its Sarvam 105B model &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260220/p25#a260220p25)
+ - [The US launches the Tech Corps, a program under the Peace Corps to send volunteers abroad to promote American AI, as the US competes with China for AI dominance &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/260220/p24#a260220p24)
+ - [Microsoft Gaming CEO Asha Sharma says she is committed to &quot;the return of Xbox&quot; and that the company won&#39;t &quot;flood our ecosystem with soulless AI slop&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260220/p23#a260220p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
