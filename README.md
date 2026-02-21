@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
- - 😝 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
- - 👉 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)<!-- MEMES:END -->
+ - 6️⃣ [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
+ - 😝 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
+ - 👉 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)<!-- MEMES:END -->
 
 --- 
 
