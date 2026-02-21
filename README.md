@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
+ - 6️⃣ [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
  - 😝 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
- - 👉 [If you don&#39;t like it. You might have PDS](http://9gag.com/gag/aQz5X3q)<!-- MEMES:END -->
+ - 👉 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)<!-- MEMES:END -->
 
 --- 
 
