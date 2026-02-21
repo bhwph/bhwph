@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker’s powerful home theater on wheels is pure chaos](https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1)
- - [How Claude Code, released publicly a year ago, cemented Anthropic as a leader in the lucrative, emerging market for AI coding tools &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260221/p3#a260221p3)
- - [Pinterest users, especially artists, says the platform has gotten worse in the past year due to AI moderation, AI-generated art, and AI features &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/260221/p2#a260221p2)<!-- TECH:END -->
+ - [The Galaxy Fold 7 is proof that no one at Samsung actually opened the foldable](https://www.androidauthority.com/fold-7-camera-ux-nightmare-3638362/)
+ - [‘Narco-Submarine’ Carrying 4 Tons of Cocaine Captured by Mexico&#39;s Navy](https://www.wired.com/story/narco-submarine-carrying-4-tons-of-cocaine-captured-by-mexicos-navy/)
+ - [Anker’s powerful home theater on wheels is pure chaos](https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
