@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
- - 😝 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
- - 👉 [Meat pizza](http://9gag.com/gag/aQz5oK2)<!-- MEMES:END -->
+ - 6️⃣ [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
+ - 😝 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
+ - 👉 [Do not use perfumes with too strong a scent, as this may bother people around you.](http://9gag.com/gag/aoywMGg)<!-- MEMES:END -->
 
 --- 
 
