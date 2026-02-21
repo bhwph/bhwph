@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thoughts?](http://9gag.com/gag/a1mjPVD)
- - 😝 [Shave your beard](http://9gag.com/gag/aAy50Yo)
- - 👉 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)<!-- MEMES:END -->
+ - 6️⃣ [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
+ - 😝 [The office drama just keeps getting renewed](http://9gag.com/gag/apRwRNp)
+ - 👉 [Why don&#39;t you give up? Cause he never did.](http://9gag.com/gag/ajPwVqq)<!-- MEMES:END -->
 
 --- 
 
