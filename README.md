@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Man accused of stealing 60 iPhones from Walmart](https://appleinsider.com/articles/26/02/22/crime-blotter-man-accused-of-stealing-60-iphones-from-walmart?utm_source=rss)
- - [Exynos vs Snapdragon: All the ways global Galaxies will be different this year](https://www.androidauthority.com/exynos-vs-snapdragon-galaxy-s26-3641995/)
- - [What to Know About At-Home STI Tests: Pros, Cons, and Recommendations &lpar;2026&rpar;](https://www.wired.com/story/at-home-sti-tests/)<!-- TECH:END -->
+ - [Expect at least five announcements during Apple&#39;s March launch week](https://appleinsider.com/articles/26/02/22/expect-at-least-five-announcements-during-apples-march-launch-week?utm_source=rss)
+ - [This magazine plays Tetris — here’s how](https://www.theverge.com/tech/881175/red-bull-media-house-game-pop-bulletin-magazine-playable-tetris-flexible-display)
+ - [Samsung and Apple are putting the variable aperture on the wrong camera](https://www.androidauthority.com/samsung-apple-variable-aperture-wrong-camera-3640280/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
