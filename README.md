@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Neil Shen of HSG, formerly Sequoia China, which raised $9B from US investors before US restrictions and has funded Manus and other Chinese startups &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260222/p12#a260222p12)
- - [What Happened in Hulu&#39;s &#39;Paradise&#39;? Here&#39;s a Recap Before Season 2 Premieres](https://www.cnet.com/tech/services-and-software/hulu-paradise-recap-how-to-watch-season-2-premiere/)
- - [Sam Altman says discussions about AI&#39;s energy usage are &quot;unfair&quot;, as it takes &quot;20 years of life and all of the food you eat during that time&quot; to train a human &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/260222/p11#a260222p11)<!-- TECH:END -->
+ - [Samsung is adding Perplexity to Galaxy AI](https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai)
+ - [Documents submitted by Waymo and Tesla to the US government reveal new info about the remote assistance programs for their robotaxis, staffed by human operators &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/260222/p14#a260222p14)
+ - [You need to listen to Laurie Spiegel’s masterpiece of early ambient music](https://www.theverge.com/entertainment/882915/laurie-spiegel-the-expanding-universe-review-masterpiece-ambient-music)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
