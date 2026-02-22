@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
- - 😝 [I&#39;ve never been but it sure looks like it&#39;d be a beautiful place to visit](http://9gag.com/gag/a5Q31xg)
+ - 6️⃣ [Thoughts?](http://9gag.com/gag/a1mjPVD)
+ - 😝 [Language Barrier](http://9gag.com/gag/aqywyvp)
  - 👉 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)<!-- MEMES:END -->
 
 --- 
