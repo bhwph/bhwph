@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
- - 😝 [Bro cant wait](http://9gag.com/gag/aRBdLxA)
- - 👉 [DAMN FUNNY!!!!!](http://9gag.com/gag/a9y0zb1)<!-- MEMES:END -->
+ - 6️⃣ [The Danish army conducted IQ tests, then grouped the results by first name.](http://9gag.com/gag/aGy5LY0)
+ - 😝 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
+ - 👉 [Look what I found](http://9gag.com/gag/apRw9Mn)<!-- MEMES:END -->
 
 --- 
 
