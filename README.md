@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [HOT MIC catches Les Wexner\u2019s attorney THREATENING him during his House Oversight Committee deposition](http://9gag.com/gag/ae9wQ9v)
- - 😝 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
- - 👉 [Language Barrier](http://9gag.com/gag/aqywyvp)<!-- MEMES:END -->
+ - 6️⃣ [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
+ - 😝 [Bro cant wait](http://9gag.com/gag/aRBdLxA)
+ - 👉 [DAMN FUNNY!!!!!](http://9gag.com/gag/a9y0zb1)<!-- MEMES:END -->
 
 --- 
 
