@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [The Danish army conducted IQ tests, then grouped the results by first name.](http://9gag.com/gag/aGy5LY0)
- - 😝 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)
- - 👉 [No good deed goes unpunished](http://9gag.com/gag/a0eq4qO)<!-- MEMES:END -->
+ - 😝 [Norway takes 17 gold total, and this guy takes home 6 all by himself. Johannes H. Kl\u00e6bo, already a legend.](http://9gag.com/gag/aGy5Lyz)
+ - 👉 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)<!-- MEMES:END -->
 
 --- 
 
