@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dear Amazon: It’s 2026 and I still want a new Kindle Oasis](https://www.androidauthority.com/still-wanting-new-kindle-oasis-3641781/)
- - [India&#39;s AI Summit highlighted the limits of the country&#39;s AI ambitions, as the US and its tech companies largely dismissed India&#39;s push for global AI governance &lpar;Krishn Kaushik/Financial Times&rpar;](http://www.techmeme.com/260222/p7#a260222p7)
- - [How to View the ‘Blood Moon’ Total Lunar Eclipse on March 3](https://www.wired.com/story/how-to-view-the-blood-moon-total-lunar-eclipse-on-march-3/)<!-- TECH:END -->
+ - [Crime blotter: Man accused of stealing 60 iPhones from Walmart](https://appleinsider.com/articles/26/02/22/crime-blotter-man-accused-of-stealing-60-iphones-from-walmart?utm_source=rss)
+ - [Exynos vs Snapdragon: All the ways global Galaxies will be different this year](https://www.androidauthority.com/exynos-vs-snapdragon-galaxy-s26-3641995/)
+ - [What to Know About At-Home STI Tests: Pros, Cons, and Recommendations &lpar;2026&rpar;](https://www.wired.com/story/at-home-sti-tests/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
