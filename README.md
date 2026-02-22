@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&#39;s data shows software engineering accounts for ~50% of its AI agent tool calls; the remaining verticals are greenfields most founders are overlooking &lpar;Garry Tan/Garry&#39;s List&rpar;](http://www.techmeme.com/260222/p6#a260222p6)
- - [Source Global: the US consulting market is set to grow 7% in 2026, the fastest pace in the post-COVID era, as companies seek advice on profiting from AI &lpar;Stephen Foley/Financial Times&rpar;](http://www.techmeme.com/260222/p5#a260222p5)
- - [Sam Altman says currently &quot;the idea of putting data centers in space is ridiculous&quot; and that it is &quot;not something that&#39;s going to matter at scale this decade&quot; &lpar;Bijin Jose/The Indian Express&rpar;](http://www.techmeme.com/260222/p4#a260222p4)<!-- TECH:END -->
+ - [Dear Amazon: It’s 2026 and I still want a new Kindle Oasis](https://www.androidauthority.com/still-wanting-new-kindle-oasis-3641781/)
+ - [India&#39;s AI Summit highlighted the limits of the country&#39;s AI ambitions, as the US and its tech companies largely dismissed India&#39;s push for global AI governance &lpar;Krishn Kaushik/Financial Times&rpar;](http://www.techmeme.com/260222/p7#a260222p7)
+ - [How to View the ‘Blood Moon’ Total Lunar Eclipse on March 3](https://www.wired.com/story/how-to-view-the-blood-moon-total-lunar-eclipse-on-march-3/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
