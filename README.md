@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thoughts?](http://9gag.com/gag/a1mjPVD)
- - 😝 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
+ - 6️⃣ [Netflix interview](http://9gag.com/gag/ae9w92b)
+ - 😝 [Thoughts?](http://9gag.com/gag/a1mjPVD)
  - 👉 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)<!-- MEMES:END -->
 
 --- 
