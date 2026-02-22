@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Expect at least five announcements during Apple&#39;s March launch week](https://appleinsider.com/articles/26/02/22/expect-at-least-five-announcements-during-apples-march-launch-week?utm_source=rss)
- - [This magazine plays Tetris — here’s how](https://www.theverge.com/tech/881175/red-bull-media-house-game-pop-bulletin-magazine-playable-tetris-flexible-display)
- - [Samsung and Apple are putting the variable aperture on the wrong camera](https://www.androidauthority.com/samsung-apple-variable-aperture-wrong-camera-3640280/)<!-- TECH:END -->
+ - [Visual Intelligence &amp; Apple wearables are Tim Cook&#39;s next big thing](https://appleinsider.com/articles/26/02/22/visual-intelligence-apple-wearables-are-tim-cooks-next-big-thing?utm_source=rss)
+ - [Turkey launches a review of how social media platforms handle children&#39;s data as it prepares new rules that include identity verification and age restrictions &lpar;Turkish Minute&rpar;](http://www.techmeme.com/260222/p10#a260222p10)
+ - [Trump says Netflix will ‘pay the consequences’ if it doesn’t fire Susan Rice](https://www.theverge.com/policy/882881/trump-netflix-consequences-fire-susan-rice)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
