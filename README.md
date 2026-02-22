@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Netflix interview](http://9gag.com/gag/ae9w92b)
- - 😝 [Thoughts?](http://9gag.com/gag/a1mjPVD)
- - 👉 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)<!-- MEMES:END -->
+ - 6️⃣ [HOT MIC catches Les Wexner\u2019s attorney THREATENING him during his House Oversight Committee deposition](http://9gag.com/gag/ae9wQ9v)
+ - 😝 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
+ - 👉 [Language Barrier](http://9gag.com/gag/aqywyvp)<!-- MEMES:END -->
 
 --- 
 
