@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Language Barrier](http://9gag.com/gag/aqywyvp)
+ - 6️⃣ [Thoughts?](http://9gag.com/gag/a1mjPVD)
  - 😝 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
- - 👉 [Thoughts?](http://9gag.com/gag/a1mjPVD)<!-- MEMES:END -->
+ - 👉 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)<!-- MEMES:END -->
 
 --- 
 
