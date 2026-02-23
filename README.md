@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing couldn’t wait to show off the Phone 4A](https://www.theverge.com/gadgets/882983/nothing-phone-4a-official-design-glyph-bar)
- - [The Moto G Power &lpar;2026&rpar; is the cheapest Motorola phone you might actually like](https://www.androidauthority.com/motorola-moto-g-power-2026-review-3638353/)
- - [Best Puffer Jacket &lpar;2026&rpar;: Patagonia, Arc’teryx, REI](https://www.wired.com/gallery/the-best-puffer-jackets/)<!-- TECH:END -->
+ - [Anthropic-backed super PAC Public First Action begins running ads urging AI regulations in New Jersey; the PAC raised nearly $50M and now aims to raise $75M &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260223/p13#a260223p13)
+ - [Aalyria, a Google spinoff and a Starlink rival that helps satellite constellations fill network gaps during disasters, raised $100M at a $1.3B valuation &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260223/p12#a260223p12)
+ - [Half of US Adults Who Use Social Media Want Better Labels on AI Posts, CNET Finds](https://www.cnet.com/tech/services-and-software/cnet-survey-ai-slop-confidence-in-spotting-ai-waning/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
