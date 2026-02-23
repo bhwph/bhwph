@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What the actual fook](http://9gag.com/gag/abAwej8)
- - 😝 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
- - 👉 [In This Economy](http://9gag.com/gag/aqyw8mY)<!-- MEMES:END -->
+ - 6️⃣ [50/50](http://9gag.com/gag/aVv5oRn)
+ - 😝 [Remember these?](http://9gag.com/gag/aQz5vwW)
+ - 👉 [Chicken your destiny....](http://9gag.com/gag/ae9w1V5)<!-- MEMES:END -->
 
 --- 
 
