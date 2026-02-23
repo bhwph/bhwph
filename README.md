@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Straight to jail](http://9gag.com/gag/awy2gpy)
- - 😝 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)
+ - 😝 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)
  - 👉 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)<!-- MEMES:END -->
 
 --- 
