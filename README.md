@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic-backed super PAC Public First Action begins running ads urging AI regulations in New Jersey; the PAC raised nearly $50M and now aims to raise $75M &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260223/p13#a260223p13)
- - [Aalyria, a Google spinoff and a Starlink rival that helps satellite constellations fill network gaps during disasters, raised $100M at a $1.3B valuation &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260223/p12#a260223p12)
- - [Half of US Adults Who Use Social Media Want Better Labels on AI Posts, CNET Finds](https://www.cnet.com/tech/services-and-software/cnet-survey-ai-slop-confidence-in-spotting-ai-waning/)<!-- TECH:END -->
+ - [The US Had a Big Battery Boom Last Year](https://www.wired.com/story/the-us-had-a-big-battery-boom-last-year/)
+ - [Lamborghini is the Latest Automaker to Pull the Plug on Luxury EVs](https://www.wired.com/story/lamborghini-is-latest-to-pull-the-plug-on-luxury-evs/)
+ - [Sources: PayPal is attracting takeover interest from potential buyers after its stock fell ~46% over the last 12 months, giving PayPal a market value of ~$38.4B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260223/p18#a260223p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
