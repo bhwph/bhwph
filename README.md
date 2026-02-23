@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages starts simplifying how you create new group chats](https://www.androidauthority.com/google-messages-group-chats-3643242/)
- - [Will Trump’s DOJ actually take on Ticketmaster?](https://www.theverge.com/policy/883155/doj-antitrust-division-gail-slater-live-nation-ticketmaster-trial)
- - [IBM shares fall 12%+ after Anthropic outlined in a blog post how Claude Code can automate the exploration and analysis phases of COBOL modernization &lpar;Pia Singh/CNBC&rpar;](http://www.techmeme.com/260223/p26#a260223p26)<!-- TECH:END -->
+ - [Uber agrees to acquire SpotHero for an undisclosed sum, to offer parking reservation for events and at venues and airports; SpotHero was last valued at $290M &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/260223/p27#a260223p27)
+ - [Some of you are about to lose your free HBO Max perk](https://www.androidauthority.com/hbo-max-dropped-from-doordash-dashpass-3643320/)
+ - [Samsung’s Galaxy Book 6 series will get a US launch next month and a slight price hike](https://www.androidauthority.com/samsung-galaxy-book-6-us-launch-pricing-3643301/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
