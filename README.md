@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Had a Big Battery Boom Last Year](https://www.wired.com/story/the-us-had-a-big-battery-boom-last-year/)
- - [Lamborghini is the Latest Automaker to Pull the Plug on Luxury EVs](https://www.wired.com/story/lamborghini-is-latest-to-pull-the-plug-on-luxury-evs/)
- - [Sources: PayPal is attracting takeover interest from potential buyers after its stock fell ~46% over the last 12 months, giving PayPal a market value of ~$38.4B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260223/p18#a260223p18)<!-- TECH:END -->
+ - [Ubicquia, which provides software to utilities, cities, and companies to manage energy infrastructure like transformers, raised a $106M Series D &lpar;Katie Fehrenbacher/Axios&rpar;](http://www.techmeme.com/260223/p23#a260223p23)
+ - [Google TV is getting stuck in a search loop thanks to Gemini](https://www.androidauthority.com/google-tv-gemini-search-loop-3643225/)
+ - [Anthropic says DeepSeek, MiniMax, and Moonshot violated its ToS by prompting Claude a combined 16M+ times and using distillation to train their own products &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260223/p22#a260223p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
