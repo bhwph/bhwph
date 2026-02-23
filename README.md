@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is adding Perplexity to Galaxy AI](https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai)
- - [Documents submitted by Waymo and Tesla to the US government reveal new info about the remote assistance programs for their robotaxis, staffed by human operators &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/260222/p14#a260222p14)
- - [You need to listen to Laurie Spiegel’s masterpiece of early ambient music](https://www.theverge.com/entertainment/882915/laurie-spiegel-the-expanding-universe-review-masterpiece-ambient-music)<!-- TECH:END -->
+ - [Sources: Dell, Lenovo, and other PC makers are working with Nvidia on laptops using the Arm-based Nvidia-MediaTek system-on-a-chip, which could come in H1 2026 &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/260222/p18#a260222p18)
+ - [In recent interviews, Sam Altman said AI&#39;s adoption faces more resistance than he expected, while Jensen Huang warned the &quot;doomer narrative&quot; may be winning &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/260222/p17#a260222p17)
+ - [NASA Delays Launch of Artemis II Lunar Mission Once Again](https://www.wired.com/story/nasa-delays-artemis-ii-launch-again/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
