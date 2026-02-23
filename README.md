@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Buddy Rizer, an official in Virginia&#39;s Loudoun County, helped build the world&#39;s largest data center market, with ~200 buildings spanning ~49M square feet &lpar;David Uberti/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p5#a260223p5)
- - [Android’s Weather ‘app’ is going away, and what’s left behind is disappointing](https://www.androidauthority.com/google-android-weather-app-deprecated-3643128/)
- - [Nothing reveals the Phone 4a design ahead of its March 5 launch](https://www.androidauthority.com/nothing-phone-4a-official-renders-3643146/)<!-- TECH:END -->
+ - [Nothing couldn’t wait to show off the Phone 4A](https://www.theverge.com/gadgets/882983/nothing-phone-4a-official-design-glyph-bar)
+ - [The Moto G Power &lpar;2026&rpar; is the cheapest Motorola phone you might actually like](https://www.androidauthority.com/motorola-moto-g-power-2026-review-3638353/)
+ - [Best Puffer Jacket &lpar;2026&rpar;: Patagonia, Arc’teryx, REI](https://www.wired.com/gallery/the-best-puffer-jackets/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
