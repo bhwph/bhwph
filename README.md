@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ubicquia, which provides software to utilities, cities, and companies to manage energy infrastructure like transformers, raised a $106M Series D &lpar;Katie Fehrenbacher/Axios&rpar;](http://www.techmeme.com/260223/p23#a260223p23)
- - [Google TV is getting stuck in a search loop thanks to Gemini](https://www.androidauthority.com/google-tv-gemini-search-loop-3643225/)
- - [Anthropic says DeepSeek, MiniMax, and Moonshot violated its ToS by prompting Claude a combined 16M+ times and using distillation to train their own products &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260223/p22#a260223p22)<!-- TECH:END -->
+ - [Google Messages starts simplifying how you create new group chats](https://www.androidauthority.com/google-messages-group-chats-3643242/)
+ - [Will Trump’s DOJ actually take on Ticketmaster?](https://www.theverge.com/policy/883155/doj-antitrust-division-gail-slater-live-nation-ticketmaster-trial)
+ - [IBM shares fall 12%+ after Anthropic outlined in a blog post how Claude Code can automate the exploration and analysis phases of COBOL modernization &lpar;Pia Singh/CNBC&rpar;](http://www.techmeme.com/260223/p26#a260223p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
