@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the rising popularity of &quot;WorkTok&quot; videos, where employees film their daily work routines on TikTok and Instagram, particularly among Gen Z viewers &lpar;Kimi Chaddah/Financial Times&rpar;](http://www.techmeme.com/260223/p3#a260223p3)
- - [Major Galaxy Buds 4 Pro leak reveals almost all the new features](https://www.androidauthority.com/samsung-galaxy-buds-4-pro-leaked-features-3643089/)
- - [This Galaxy S26 Ultra variant could cost some buyers an arm and a leg](https://www.androidauthority.com/this-galaxy-s26-ultra-variant-could-cost-some-buyers-an-arm-and-a-leg-3643101/)<!-- TECH:END -->
+ - [How Buddy Rizer, an official in Virginia&#39;s Loudoun County, helped build the world&#39;s largest data center market, with ~200 buildings spanning ~49M square feet &lpar;David Uberti/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p5#a260223p5)
+ - [Android’s Weather ‘app’ is going away, and what’s left behind is disappointing](https://www.androidauthority.com/google-android-weather-app-deprecated-3643128/)
+ - [Nothing reveals the Phone 4a design ahead of its March 5 launch](https://www.androidauthority.com/nothing-phone-4a-official-renders-3643146/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
