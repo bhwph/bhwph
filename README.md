@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Danish army conducted IQ tests, then grouped the results by first name.](http://9gag.com/gag/aGy5LY0)
- - 😝 [Norway takes 17 gold total, and this guy takes home 6 all by himself. Johannes H. Kl\u00e6bo, already a legend.](http://9gag.com/gag/aGy5Lyz)
+ - 6️⃣ [Straight to jail](http://9gag.com/gag/awy2gpy)
+ - 😝 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)
  - 👉 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)<!-- MEMES:END -->
 
 --- 
