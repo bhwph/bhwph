@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Anthropic has no intention of easing Claude usage restrictions for military purposes, following Dario Amodei&#39;s meeting with Pete Hegseth &lpar;David Jeans/Reuters&rpar;](http://www.techmeme.com/260224/p43#a260224p43)
- - [Anthropic overhauls its Responsible Scaling Policy, including scrapping a promise to not release AI models if Anthropic can&#39;t guarantee proper risk mitigations &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/260224/p42#a260224p42)
- - [A California judge dismisses a lawsuit from xAI that accused OpenAI of stealing its trade secrets, with permission for xAI to refile the case at a later date &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/260224/p41#a260224p41)<!-- TECH:END -->
+ - [David Luan, the head of Amazon&#39;s AGI lab, is leaving the company less than two years after he joined through an acqui-hire deal of his startup Adept &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260224/p50#a260224p50)
+ - [A US judge sentences ex-L3Harris exec Peter Williams to over 7 years in prison, after he pleaded guilty in 2025 to theft of trade secrets and selling exploits &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/260224/p49#a260224p49)
+ - [The US Treasury sanctions Russian zero-day broker Operation Zero, its founder Sergey Zelenyuk, and others for acquiring and reselling stolen US defense exploits &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260224/p48#a260224p48)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
