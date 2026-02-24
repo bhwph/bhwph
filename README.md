@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic introduces &quot;persona selection model&quot;, a theory to explain AI&#39;s human-like behavior, and details how AI personas form in pre-training and post-training &lpar;Anthropic&rpar;](http://www.techmeme.com/260224/p5#a260224p5)
- - [Discord says it &quot;ran a limited test of Persona in the UK&quot; to verify user ages and &quot;that test has since concluded&quot;, distancing itself from Persona amid backlash &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260224/p4#a260224p4)
- - [Months after the promised change, Google Home is as unreliable as it ever was](https://www.androidauthority.com/months-after-promised-change-google-home-just-as-unreliable-3643200/)<!-- TECH:END -->
+ - [Basis, which builds AI agents to help accounting firms with tasks like tax returns, raised $100M led by Accel at a $1.15B valuation, for $138M in total funding &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260224/p17#a260224p17)
+ - [Catch the Galaxy S26, Galaxy Buds 4 launch event live: Here’s how](https://www.androidauthority.com/how-to-watch-galaxy-s26-launch-live-3643401/)
+ - [6 Best 2-in-1 Laptops &lpar;2026&rpar;, WIRED-Approved and Tested](https://www.wired.com/gallery/best-2-in-1-laptops/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
