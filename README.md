@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S26 series leak reveals a surprising downgrade for battery health](https://www.androidauthority.com/samsung-galaxy-s26-eu-label-leak-3643409/)
- - [A look at the challenges some AI developers face in building models to extract trillions of high-quality tokens from PDFs, which are hard to parse, for training &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/260224/p3#a260224p3)
- - [The FairPhone Gen 6 will ‘soon’ get Android 16](https://www.androidauthority.com/fairphone-gen-6-android-16-coming-3643387/)<!-- TECH:END -->
+ - [Anthropic introduces &quot;persona selection model&quot;, a theory to explain AI&#39;s human-like behavior, and details how AI personas form in pre-training and post-training &lpar;Anthropic&rpar;](http://www.techmeme.com/260224/p5#a260224p5)
+ - [Discord says it &quot;ran a limited test of Persona in the UK&quot; to verify user ages and &quot;that test has since concluded&quot;, distancing itself from Persona amid backlash &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260224/p4#a260224p4)
+ - [Months after the promised change, Google Home is as unreliable as it ever was](https://www.androidauthority.com/months-after-promised-change-google-home-just-as-unreliable-3643200/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
