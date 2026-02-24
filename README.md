@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The administrator winding down Terraform Labs sues Jane Street, alleging it engaged in insider trading to profit from and ultimately hasten Terraform&#39;s collapse &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p34#a260223p34)
- - [How Binance staffers found $1B was sent to sanctioned Iranian entities via the exchange, which dismantled their probe and suspended them after Trump pardoned CZ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260223/p33#a260223p33)
- - [Tesla sues California&#39;s DMV to reverse a ruling that found Tesla violated the law by falsely promoting its Autopilot and Full Self-Driving systems &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260223/p32#a260223p32)<!-- TECH:END -->
+ - [Google is making Wear OS watches more self-reliant in emergencies](https://www.androidauthority.com/wear-os-earthquake-alerts-update-3643383/)
+ - [First look: Google Messages is finally catching up with live location sharing](https://www.androidauthority.com/google-messages-real-time-location-sharing-3643366/)
+ - [A look at Apple&#39;s efforts to reshore the US chip supply chain, as the company commits to buying more than 100M chips from TSMC Arizona in 2026 &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p36#a260223p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
