@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FairPhone Gen 6 will ‘soon’ get Android 16](https://www.androidauthority.com/fairphone-gen-6-android-16-coming-3643387/)
- - [Bengaluru-based Xflow, which facilitates B2B cross-border payments, raised a $16.6M Series A led by GC at an $85M valuation, bringing its total raised to $32M+ &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260224/p2#a260224p2)
- - [Filings: some Meta execs warned in 2019 that adding E2E encryption to Facebook and Instagram messaging would hinder the ability to flag CSAM to law enforcement &lpar;Reuters&rpar;](http://www.techmeme.com/260224/p1#a260224p1)<!-- TECH:END -->
+ - [Galaxy S26 series leak reveals a surprising downgrade for battery health](https://www.androidauthority.com/samsung-galaxy-s26-eu-label-leak-3643409/)
+ - [A look at the challenges some AI developers face in building models to extract trillions of high-quality tokens from PDFs, which are hard to parse, for training &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/260224/p3#a260224p3)
+ - [The FairPhone Gen 6 will ‘soon’ get Android 16](https://www.androidauthority.com/fairphone-gen-6-android-16-coming-3643387/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
