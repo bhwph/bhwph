@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Basis, which builds AI agents to help accounting firms with tasks like tax returns, raised $100M led by Accel at a $1.15B valuation, for $138M in total funding &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260224/p17#a260224p17)
- - [Catch the Galaxy S26, Galaxy Buds 4 launch event live: Here’s how](https://www.androidauthority.com/how-to-watch-galaxy-s26-launch-live-3643401/)
- - [6 Best 2-in-1 Laptops &lpar;2026&rpar;, WIRED-Approved and Tested](https://www.wired.com/gallery/best-2-in-1-laptops/)<!-- TECH:END -->
+ - [Anthropic launches Claude Cowork agent tools for investment banking, HR, design, and more, including a specialized financial plugin developed alongside FactSet &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260224/p24#a260224p24)
+ - [How Claude Code Claude Codes](https://www.theverge.com/podcast/883604/claude-code-ai-future-creator-privacy-vergecast)
+ - [Google says AI music generation platform ProducerAI is joining Labs and will be powered by a Lyria 3 preview version; ProducerAI was developed alongside artists &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260224/p23#a260224p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
