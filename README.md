@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber agrees to acquire SpotHero for an undisclosed sum, to offer parking reservation for events and at venues and airports; SpotHero was last valued at $290M &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/260223/p27#a260223p27)
- - [Some of you are about to lose your free HBO Max perk](https://www.androidauthority.com/hbo-max-dropped-from-doordash-dashpass-3643320/)
- - [Samsung’s Galaxy Book 6 series will get a US launch next month and a slight price hike](https://www.androidauthority.com/samsung-galaxy-book-6-us-launch-pricing-3643301/)<!-- TECH:END -->
+ - [The administrator winding down Terraform Labs sues Jane Street, alleging it engaged in insider trading to profit from and ultimately hasten Terraform&#39;s collapse &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p34#a260223p34)
+ - [How Binance staffers found $1B was sent to sanctioned Iranian entities via the exchange, which dismantled their probe and suspended them after Trump pardoned CZ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260223/p33#a260223p33)
+ - [Tesla sues California&#39;s DMV to reverse a ruling that found Tesla violated the law by falsely promoting its Autopilot and Full Self-Driving systems &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260223/p32#a260223p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
