@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI sues over the FCC’s decision to block new drone imports](https://www.theverge.com/tech/883734/dji-fcc-lawsuit-drone-import-ban)
- - [Beverly Hills-based Subject, whose streaming-style, on-demand platform provides digital curriculum and learning insights for grades 6-12, raised $28M &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260224/p34#a260224p34)
- - [YouTube&amp;#8217;s cheaper subscription is getting background play and downloads](https://www.theverge.com/streaming/883316/youtube-premium-lite-background-play-offline-downloads)<!-- TECH:END -->
+ - [Wary of strangers recording you? This app warns you when smart glasses are nearby](https://www.androidauthority.com/app-warns-when-smart-glasses-nearby-3643662/)
+ - [Sources: DoD told Anthropic it will invoke the Defense Production Act or label Anthropic a &quot;supply chain risk&quot;, if not given unfettered Claude access by Friday &lpar;Axios&rpar;](http://www.techmeme.com/260224/p38#a260224p38)
+ - [1Password is going up in price](https://www.theverge.com/tech/883837/1password-price-increase)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
