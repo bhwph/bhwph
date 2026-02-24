@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic launches Claude Cowork agent tools for investment banking, HR, design, and more, including a specialized financial plugin developed alongside FactSet &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260224/p24#a260224p24)
- - [How Claude Code Claude Codes](https://www.theverge.com/podcast/883604/claude-code-ai-future-creator-privacy-vergecast)
- - [Google says AI music generation platform ProducerAI is joining Labs and will be powered by a Lyria 3 preview version; ProducerAI was developed alongside artists &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260224/p23#a260224p23)<!-- TECH:END -->
+ - [DJI sues over the FCC’s decision to block new drone imports](https://www.theverge.com/tech/883734/dji-fcc-lawsuit-drone-import-ban)
+ - [Beverly Hills-based Subject, whose streaming-style, on-demand platform provides digital curriculum and learning insights for grades 6-12, raised $28M &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260224/p34#a260224p34)
+ - [YouTube&amp;#8217;s cheaper subscription is getting background play and downloads](https://www.theverge.com/streaming/883316/youtube-premium-lite-background-play-offline-downloads)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
