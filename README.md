@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wary of strangers recording you? This app warns you when smart glasses are nearby](https://www.androidauthority.com/app-warns-when-smart-glasses-nearby-3643662/)
- - [Sources: DoD told Anthropic it will invoke the Defense Production Act or label Anthropic a &quot;supply chain risk&quot;, if not given unfettered Claude access by Friday &lpar;Axios&rpar;](http://www.techmeme.com/260224/p38#a260224p38)
- - [1Password is going up in price](https://www.theverge.com/tech/883837/1password-price-increase)<!-- TECH:END -->
+ - [Source: Anthropic has no intention of easing Claude usage restrictions for military purposes, following Dario Amodei&#39;s meeting with Pete Hegseth &lpar;David Jeans/Reuters&rpar;](http://www.techmeme.com/260224/p43#a260224p43)
+ - [Anthropic overhauls its Responsible Scaling Policy, including scrapping a promise to not release AI models if Anthropic can&#39;t guarantee proper risk mitigations &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/260224/p42#a260224p42)
+ - [A California judge dismisses a lawsuit from xAI that accused OpenAI of stealing its trade secrets, with permission for xAI to refile the case at a later date &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/260224/p41#a260224p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
