@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Save big on the Baseus 140W USB-C Charger and power all your devices fast](https://www.androidauthority.com/baseus-140w-usb-c-charger-deal-3643718/)
- - [Trump claims he’ll make data centers pay for their own power supply](https://www.theverge.com/science/884191/ai-data-center-energy-state-of-the-union-trump)
- - [Motorola Android 17 betas are getting started — here’s how to sign up](https://www.androidauthority.com/motorola-android-17-beta-3644315/)<!-- TECH:END -->
+ - [The best-supported Android TV box around has a new update incoming](https://www.androidauthority.com/nvidia-shield-tv-update-3-3644349/)
+ - [How the new Galaxy S26 phones stack up against each other on paper](https://www.theverge.com/gadgets/883733/samsung-galaxy-s26-vs-plus-ultra-specs-features-hardware-comparison)
+ - [Alexa Plus Now Adapts to Your Moods in Real Time: We Try It Out](https://www.cnet.com/tech/services-and-software/alexa-plus-is-trying-to-be-brief-chill-or-sweet-i-gave-it-a-test-run/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
