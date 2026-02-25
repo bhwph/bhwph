@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems](https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/)
- - [Apple’s first foldable iPhone might set a new standard for display creases](https://www.androidauthority.com/iphone-fold-flat-inner-display-3644284/)
- - [Sources: Thrive invested $1B in OpenAI in 2025 at a $285B valuation in a transaction akin to a call option; OpenAI was separately raising at a $830B valuation &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/260225/p38#a260225p38)<!-- TECH:END -->
+ - [Deal: Save big on the Baseus 140W USB-C Charger and power all your devices fast](https://www.androidauthority.com/baseus-140w-usb-c-charger-deal-3643718/)
+ - [Trump claims he’ll make data centers pay for their own power supply](https://www.theverge.com/science/884191/ai-data-center-energy-state-of-the-union-trump)
+ - [Motorola Android 17 betas are getting started — here’s how to sign up](https://www.androidauthority.com/motorola-android-17-beta-3644315/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
