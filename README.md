@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A study finds GPT-5.2, Claude Sonnet 4, and Gemini 3 Flash deployed tactical nuclear weapons in 95% of 21 simulated war game scenarios, and never surrendered &lpar;Chris Stokel-Walker/New Scientist&rpar;](http://www.techmeme.com/260225/p19#a260225p19)
- - [Google disrupts Chinese-linked group UNC2814, which breached 53+ organizations across 42 countries and utilized Google Sheets to manage targeting and data theft &lpar;A.J. Vicens/Reuters&rpar;](http://www.techmeme.com/260225/p18#a260225p18)
- - [Stablecoin operator Circle reports Q4 revenue up 77% YoY to $770M, vs. $747M est., and $133.4M net income; USDC ended 2025 with ~$75B in circulation, up 72% YoY &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260225/p17#a260225p17)<!-- TECH:END -->
+ - [Gambit Security: an unknown hacker used Claude to steal 150GB of Mexican government data, including 195M taxpayer records, in December 2025 and January 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260225/p24#a260225p24)
+ - [Xiaomi&amp;#8217;s magnetic power bank is incredibly thin](https://www.theverge.com/tech/884330/xiaomi-ultra-thin-magnetic-magsafe-power-bank-5000-qi2)
+ - [Insurance brokerage Harper, which uses AI to automate submission routing and follow-up, raised $46.8M in combined Series A and seed led by Emergence Capital &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/260225/p23#a260225p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
