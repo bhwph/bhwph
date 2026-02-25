@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [David Luan, the head of Amazon&#39;s AGI lab, is leaving the company less than two years after he joined through an acqui-hire deal of his startup Adept &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260224/p50#a260224p50)
- - [A US judge sentences ex-L3Harris exec Peter Williams to over 7 years in prison, after he pleaded guilty in 2025 to theft of trade secrets and selling exploits &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/260224/p49#a260224p49)
- - [The US Treasury sanctions Russian zero-day broker Operation Zero, its founder Sergey Zelenyuk, and others for acquiring and reselling stolen US defense exploits &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260224/p48#a260224p48)<!-- TECH:END -->
+ - [A look at how both small and large companies are tracking and enforcing employees&#39; AI usage and considering it during performance reviews &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260224/p54#a260224p54)
+ - [Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire](https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg)
+ - [Anthropic starts rolling out Remote Control for Claude Code, letting users control a session begun in the terminal from the Claude mobile app or the web &lpar;Claude/@claudeai&rpar;](http://www.techmeme.com/260224/p53#a260224p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
