@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live: Samsung unveils new Galaxy phones](https://www.theverge.com/tech/881355/live-blog-samsung-galaxy-unpacked-2026)
- - [Samsung Unpacked 2026: live updates from the Galaxy S26 announcement event](https://www.theverge.com/tech/883932/samsung-unpacked-2026-live-updates-galaxy-s26-announcement)
- - [Kalshi says it has suspended an editor for MrBeast and a former GOP California gubernatorial candidate for insider trading, its first public enforcement action &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/260225/p28#a260225p28)<!-- TECH:END -->
+ - [OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems](https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/)
+ - [Apple’s first foldable iPhone might set a new standard for display creases](https://www.androidauthority.com/iphone-fold-flat-inner-display-3644284/)
+ - [Sources: Thrive invested $1B in OpenAI in 2025 at a $285B valuation in a transaction akin to a call option; OpenAI was separately raising at a $830B valuation &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/260225/p38#a260225p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
