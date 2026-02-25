@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sensor Tower: India was the largest market for GenAI app downloads in 2025, surging 207% YoY; India accounts for 20% of global installs but 1% of in-app revenue &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260224/p60#a260224p60)
- - [Australian freight software maker WiseTech plans to cut ~2,000 jobs, or ~30% of its workforce, this fiscal year and next, amid CEO Zubin Appoo&#39;s embrace of AI &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/260224/p59#a260224p59)
- - [Koah, which embeds sponsored ads directly into AI chatbots and aims to build an AdSense for AI, raised a $20.5M Series A led by Theory Ventures &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/260224/p58#a260224p58)<!-- TECH:END -->
+ - [A look at Motif Technologies and Upstage, South Korean AI startups competing with SK Group and LG in the race for a national AI foundation model &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260225/p5#a260225p5)
+ - [Peacock Promo Codes: 40% Off February 2026](https://www.wired.com/story/peacock-promo-code/)
+ - [50% Off Blue Apron Promo Codes | February 2026](https://www.wired.com/story/blue-apron-coupon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
