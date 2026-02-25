@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at how both small and large companies are tracking and enforcing employees&#39; AI usage and considering it during performance reviews &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260224/p54#a260224p54)
- - [Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire](https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg)
- - [Anthropic starts rolling out Remote Control for Claude Code, letting users control a session begun in the terminal from the Claude mobile app or the web &lpar;Claude/@claudeai&rpar;](http://www.techmeme.com/260224/p53#a260224p53)<!-- TECH:END -->
+ - [Sensor Tower: India was the largest market for GenAI app downloads in 2025, surging 207% YoY; India accounts for 20% of global installs but 1% of in-app revenue &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260224/p60#a260224p60)
+ - [Australian freight software maker WiseTech plans to cut ~2,000 jobs, or ~30% of its workforce, this fiscal year and next, amid CEO Zubin Appoo&#39;s embrace of AI &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/260224/p59#a260224p59)
+ - [Koah, which embeds sponsored ads directly into AI chatbots and aims to build an AdSense for AI, raised a $20.5M Series A led by Theory Ventures &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/260224/p58#a260224p58)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
