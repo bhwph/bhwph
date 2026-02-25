@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gambit Security: an unknown hacker used Claude to steal 150GB of Mexican government data, including 195M taxpayer records, in December 2025 and January 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260225/p24#a260225p24)
- - [Xiaomi&amp;#8217;s magnetic power bank is incredibly thin](https://www.theverge.com/tech/884330/xiaomi-ultra-thin-magnetic-magsafe-power-bank-5000-qi2)
- - [Insurance brokerage Harper, which uses AI to automate submission routing and follow-up, raised $46.8M in combined Series A and seed led by Emergence Capital &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/260225/p23#a260225p23)<!-- TECH:END -->
+ - [Live: Samsung unveils new Galaxy phones](https://www.theverge.com/tech/881355/live-blog-samsung-galaxy-unpacked-2026)
+ - [Samsung Unpacked 2026: live updates from the Galaxy S26 announcement event](https://www.theverge.com/tech/883932/samsung-unpacked-2026-live-updates-galaxy-s26-announcement)
+ - [Kalshi says it has suspended an editor for MrBeast and a former GOP California gubernatorial candidate for insider trading, its first public enforcement action &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/260225/p28#a260225p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
