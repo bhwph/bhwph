@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S26’s Gallery app lets you find exact moments in videos](https://www.androidauthority.com/samsung-galaxy-s26-gallery-video-search-3644510/)
- - [Analysis: super PACs for and against AI regulation have raised $265M ahead of the midterms, with pro-AI groups significantly outraising pro-regulation groups &lpar;Financial Times&rpar;](http://www.techmeme.com/260226/p10#a260226p10)
- - [London-based Dwelly, which aims to roll up independent UK real estate agencies and modernize their operations using AI, raised £32M in equity and £37M in debt &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260226/p9#a260226p9)<!-- TECH:END -->
+ - [Galaxy S26 is here, but Samsung hasn’t forgotten the Galaxy S25’s software path](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-beta-6-3644565/)
+ - [Samsung added a new 24MP photo mode to Galaxy S26 and then chose to hide it](https://www.androidauthority.com/galaxy-s26-24mp-photo-mode-3644543/)
+ - [Forget the rest: These are my favorite Galaxy S26 and S26 Plus cases](https://www.androidauthority.com/best-samsung-galaxy-s26-plus-cases-3643263/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
