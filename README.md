@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cisco warns of critical SD-WAN bug that was actively exploited in zero-day attacks since 2023, as CISA and international partners issue emergency directives &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260225/p55#a260225p55)
- - [The UK&#39;s Virgin Media O2 launches Europe&#39;s first satellite-to-mobile service, powered by Starlink and initially available for £3/month on select Samsung devices &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/260225/p54#a260225p54)
- - [Filing: C3.ai plans to cut ~26% of its workforce; the company had ~1,200 employees as of April 2025; C3.ai shares drop 20%+ after hours on weaker FY guidance &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260225/p53#a260225p53)<!-- TECH:END -->
+ - [Sources: Amazon plans to invest up to $50B in OpenAI, $35B of which could hinge on an IPO or AGI milestone; OpenAI is discussing custom models for Amazon &lpar;The Information&rpar;](http://www.techmeme.com/260226/p2#a260226p2)
+ - [Mumbai-based digital payments processor BillDesk agrees to acquire the Indian business of Worldline for an equity value of ~$70M, set to close in H2 2026 &lpar;The Economic Times&rpar;](http://www.techmeme.com/260226/p1#a260226p1)
+ - [Galaxy S26 series quietly introduces a clever new camera feature nobody is talking about](https://www.androidauthority.com/samsung-galaxy-s26-real-time-translation-in-camera-3644478/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
