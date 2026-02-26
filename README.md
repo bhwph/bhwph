@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at VW&#39;s robotaxi unit MOIA, which has 100 test vehicles across Germany, Norway, and the US, and plans to launch its robotaxis this year in LA with Uber &lpar;Financial Times&rpar;](http://www.techmeme.com/260226/p6#a260226p6)
- - [Sources: Apple is in talks with Visa, Mastercard, and Indian banks ICICI, HDFC, and Axis as it plans to launch Apple Pay in India around mid-2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260226/p5#a260226p5)
- - [Turns Out Perplexity Might Be the Sleeper Feature on Samsung&#39;s Galaxy S26](https://www.cnet.com/tech/mobile/turns-out-perplexity-might-be-the-sleeper-feature-on-samsungs-galaxy-s26/)<!-- TECH:END -->
+ - [Galaxy S26’s Gallery app lets you find exact moments in videos](https://www.androidauthority.com/samsung-galaxy-s26-gallery-video-search-3644510/)
+ - [Analysis: super PACs for and against AI regulation have raised $265M ahead of the midterms, with pro-AI groups significantly outraising pro-regulation groups &lpar;Financial Times&rpar;](http://www.techmeme.com/260226/p10#a260226p10)
+ - [London-based Dwelly, which aims to roll up independent UK real estate agencies and modernize their operations using AI, raised £32M in equity and £37M in debt &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260226/p9#a260226p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
