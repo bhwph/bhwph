@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [50/50](http://9gag.com/gag/aVv5oRn)
- - 😝 [Remember these?](http://9gag.com/gag/aQz5vwW)
- - 👉 [Chicken your destiny....](http://9gag.com/gag/ae9w1V5)<!-- MEMES:END -->
+ - 6️⃣ [Why is the rich friend so cheap??](http://9gag.com/gag/aLn5Ang)
+ - 😝 [Mom won the night](http://9gag.com/gag/aZZ5E8V)
+ - 👉 [Wtf is that?](http://9gag.com/gag/aKG5YKW)<!-- MEMES:END -->
 
 --- 
 
