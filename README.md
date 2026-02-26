@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cricut’s most popular cutting machine now takes up less space in your crafting room](https://www.theverge.com/tech/883743/cricut-cutting-machine-explore-5-joy-2-drawing-writing-crafting)
- - [A Greek court sentences four people, including spyware maker Intellexa&#39;s founder, to prison, for using spyware to target journalists, politicians, and others &lpar;Nektaria Stamouli/Politico&rpar;](http://www.techmeme.com/260226/p40#a260226p40)
- - [Driverless truck startup Einride raised a $113M PIPE at a $1.35B pre-money valuation, down from $1.8B initially attached to its upcoming SPAC deal &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260226/p39#a260226p39)<!-- TECH:END -->
+ - [A decade after US authorization, the iPhone is allowed to handle classified data for NATO](https://appleinsider.com/articles/26/02/26/a-decade-after-us-authorization-the-iphone-is-allowed-to-handle-classified-data-for-nato?utm_source=rss)
+ - [Apple says iPhone and iPad on iOS 26 and iPadOS 26 have become the first consumer devices NATO approved for use up to the &quot;restricted&quot; level of classified data &lpar;Elyse Betters Picaro/ZDNET&rpar;](http://www.techmeme.com/260226/p43#a260226p43)
+ - [Apple&#39;s March 4 Event Likely to Show New iPhones, iPads and MacBooks. Here&#39;s What We Expect](https://www.cnet.com/tech/computing/what-to-expect-apple-march-2026-event/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
