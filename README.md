@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best-supported Android TV box around has a new update incoming](https://www.androidauthority.com/nvidia-shield-tv-update-3-3644349/)
- - [How the new Galaxy S26 phones stack up against each other on paper](https://www.theverge.com/gadgets/883733/samsung-galaxy-s26-vs-plus-ultra-specs-features-hardware-comparison)
- - [Alexa Plus Now Adapts to Your Moods in Real Time: We Try It Out](https://www.cnet.com/tech/services-and-software/alexa-plus-is-trying-to-be-brief-chill-or-sweet-i-gave-it-a-test-run/)<!-- TECH:END -->
+ - [Cisco warns of critical SD-WAN bug that was actively exploited in zero-day attacks since 2023, as CISA and international partners issue emergency directives &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260225/p55#a260225p55)
+ - [The UK&#39;s Virgin Media O2 launches Europe&#39;s first satellite-to-mobile service, powered by Starlink and initially available for £3/month on select Samsung devices &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/260225/p54#a260225p54)
+ - [Filing: C3.ai plans to cut ~26% of its workforce; the company had ~1,200 employees as of April 2025; C3.ai shares drop 20%+ after hours on weaker FY guidance &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260225/p53#a260225p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
