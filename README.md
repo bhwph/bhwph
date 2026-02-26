@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says it will make London its largest research hub outside of the US, without giving specific details; OpenAI&#39;s European headquarters are in Dublin &lpar;Sam Tabahriti/Reuters&rpar;](http://www.techmeme.com/260226/p32#a260226p32)
- - [Burger King launches Patty, an OpenAI-powered voice chatbot in headsets that offers coaching, meal prep help, and evaluates interactions for &quot;friendliness&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260226/p31#a260226p31)
- - [The new HUAWEI Watch GT Runner 2 is here to fix your spotty trail GPS tracking](https://www.androidauthority.com/huawei-watch-gt-runner-2-debut-3644544/)<!-- TECH:END -->
+ - [Cricut’s most popular cutting machine now takes up less space in your crafting room](https://www.theverge.com/tech/883743/cricut-cutting-machine-explore-5-joy-2-drawing-writing-crafting)
+ - [A Greek court sentences four people, including spyware maker Intellexa&#39;s founder, to prison, for using spyware to target journalists, politicians, and others &lpar;Nektaria Stamouli/Politico&rpar;](http://www.techmeme.com/260226/p40#a260226p40)
+ - [Driverless truck startup Einride raised a $113M PIPE at a $1.35B pre-money valuation, down from $1.8B initially attached to its upcoming SPAC deal &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260226/p39#a260226p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
