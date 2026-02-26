@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A decade after US authorization, the iPhone is allowed to handle classified data for NATO](https://appleinsider.com/articles/26/02/26/a-decade-after-us-authorization-the-iphone-is-allowed-to-handle-classified-data-for-nato?utm_source=rss)
- - [Apple says iPhone and iPad on iOS 26 and iPadOS 26 have become the first consumer devices NATO approved for use up to the &quot;restricted&quot; level of classified data &lpar;Elyse Betters Picaro/ZDNET&rpar;](http://www.techmeme.com/260226/p43#a260226p43)
- - [Apple&#39;s March 4 Event Likely to Show New iPhones, iPads and MacBooks. Here&#39;s What We Expect](https://www.cnet.com/tech/computing/what-to-expect-apple-march-2026-event/)<!-- TECH:END -->
+ - [Qualcomm won&amp;#8217;t be announcing Windows gaming handhelds at GDC after all](https://www.theverge.com/games/885314/qualcomm-wont-be-announcing-windows-gaming-handhelds-at-gdc-after-all)
+ - [IDC: global smartphone shipments will fall 12.9% YoY to 1.12B units in 2026, the market&#39;s largest-ever decline, as surging memory prices drive up device costs &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/260226/p46#a260226p46)
+ - [How Chinese AI Chatbots Censor Themselves](https://www.wired.com/story/made-in-china-how-chinese-ai-chatbots-censor-themselves/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
