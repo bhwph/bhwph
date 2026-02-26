@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S26 is here, but Samsung hasn’t forgotten the Galaxy S25’s software path](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-beta-6-3644565/)
- - [Samsung added a new 24MP photo mode to Galaxy S26 and then chose to hide it](https://www.androidauthority.com/galaxy-s26-24mp-photo-mode-3644543/)
- - [Forget the rest: These are my favorite Galaxy S26 and S26 Plus cases](https://www.androidauthority.com/best-samsung-galaxy-s26-plus-cases-3643263/)<!-- TECH:END -->
+ - [Bermuda-based crypto trading platform STS Digital, which caters to institutional investors, raised $30M led by CMT Digital, with Kraken and others participating &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260226/p26#a260226p26)
+ - [Burger King will use AI to check if employees say ‘please’ and ‘thank you’](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty)
+ - [The smart lock standard that could replace your keys is finally here](https://www.theverge.com/tech/885002/aliro-smart-lock-standard-launches-apple-google-samsung-promise-support)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
