@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bermuda-based crypto trading platform STS Digital, which caters to institutional investors, raised $30M led by CMT Digital, with Kraken and others participating &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260226/p26#a260226p26)
- - [Burger King will use AI to check if employees say ‘please’ and ‘thank you’](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty)
- - [The smart lock standard that could replace your keys is finally here](https://www.theverge.com/tech/885002/aliro-smart-lock-standard-launches-apple-google-samsung-promise-support)<!-- TECH:END -->
+ - [OpenAI says it will make London its largest research hub outside of the US, without giving specific details; OpenAI&#39;s European headquarters are in Dublin &lpar;Sam Tabahriti/Reuters&rpar;](http://www.techmeme.com/260226/p32#a260226p32)
+ - [Burger King launches Patty, an OpenAI-powered voice chatbot in headsets that offers coaching, meal prep help, and evaluates interactions for &quot;friendliness&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260226/p31#a260226p31)
+ - [The new HUAWEI Watch GT Runner 2 is here to fix your spotty trail GPS tracking](https://www.androidauthority.com/huawei-watch-gt-runner-2-debut-3644544/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
