@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why is the rich friend so cheap??](http://9gag.com/gag/aLn5Ang)
- - 😝 [Mom won the night](http://9gag.com/gag/aZZ5E8V)
- - 👉 [Wtf is that?](http://9gag.com/gag/aKG5YKW)<!-- MEMES:END -->
+ - 6️⃣ [Unexpected....](http://9gag.com/gag/awy2dBB)
+ - 😝 [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)
+ - 👉 [Mom won the night](http://9gag.com/gag/aZZ5E8V)<!-- MEMES:END -->
 
 --- 
 
