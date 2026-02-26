@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Unexpected....](http://9gag.com/gag/awy2dBB)
- - 😝 [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)
- - 👉 [Mom won the night](http://9gag.com/gag/aZZ5E8V)<!-- MEMES:END -->
+ - 6️⃣ [Ain&#39;t Nobody Got Time for That](http://9gag.com/gag/azxwRQK)
+ - 😝 [In case you feel stupid](http://9gag.com/gag/a5Q32zy)
+ - 👉 [Unexpected....](http://9gag.com/gag/awy2dBB)<!-- MEMES:END -->
 
 --- 
 
