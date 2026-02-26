@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm won&amp;#8217;t be announcing Windows gaming handhelds at GDC after all](https://www.theverge.com/games/885314/qualcomm-wont-be-announcing-windows-gaming-handhelds-at-gdc-after-all)
- - [IDC: global smartphone shipments will fall 12.9% YoY to 1.12B units in 2026, the market&#39;s largest-ever decline, as surging memory prices drive up device costs &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/260226/p46#a260226p46)
- - [How Chinese AI Chatbots Censor Themselves](https://www.wired.com/story/made-in-china-how-chinese-ai-chatbots-censor-themselves/)<!-- TECH:END -->
+ - [Social media addiction trial: 20-year-old plaintiff KGM testifies her social media use, which began in childhood, exacerbated depression and suicidal thoughts &lpar;Associated Press&rpar;](http://www.techmeme.com/260226/p52#a260226p52)
+ - [Google Translate can now help you find the perfect idioms](https://www.androidauthority.com/google-translate-alternative-phrases-3644783/)
+ - [Jack Dorsey’s Block cuts nearly half of its staff in AI gamble](https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
