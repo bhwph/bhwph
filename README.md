@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon plans to invest up to $50B in OpenAI, $35B of which could hinge on an IPO or AGI milestone; OpenAI is discussing custom models for Amazon &lpar;The Information&rpar;](http://www.techmeme.com/260226/p2#a260226p2)
- - [Mumbai-based digital payments processor BillDesk agrees to acquire the Indian business of Worldline for an equity value of ~$70M, set to close in H2 2026 &lpar;The Economic Times&rpar;](http://www.techmeme.com/260226/p1#a260226p1)
- - [Galaxy S26 series quietly introduces a clever new camera feature nobody is talking about](https://www.androidauthority.com/samsung-galaxy-s26-real-time-translation-in-camera-3644478/)<!-- TECH:END -->
+ - [A look at VW&#39;s robotaxi unit MOIA, which has 100 test vehicles across Germany, Norway, and the US, and plans to launch its robotaxis this year in LA with Uber &lpar;Financial Times&rpar;](http://www.techmeme.com/260226/p6#a260226p6)
+ - [Sources: Apple is in talks with Visa, Mastercard, and Indian banks ICICI, HDFC, and Axis as it plans to launch Apple Pay in India around mid-2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260226/p5#a260226p5)
+ - [Turns Out Perplexity Might Be the Sleeper Feature on Samsung&#39;s Galaxy S26](https://www.cnet.com/tech/mobile/turns-out-perplexity-might-be-the-sleeper-feature-on-samsungs-galaxy-s26/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
