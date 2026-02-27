@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Funny how that works...](http://9gag.com/gag/a7oXN0b)
- - 😝 [Houston we have a problem](http://9gag.com/gag/aqywzPR)
- - 👉 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)<!-- MEMES:END -->
+ - 6️⃣ [Houston we have a problem](http://9gag.com/gag/aqywzPR)
+ - 😝 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
+ - 👉 [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)<!-- MEMES:END -->
 
 --- 
 
