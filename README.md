@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Social media addiction trial: 20-year-old plaintiff KGM testifies her social media use, which began in childhood, exacerbated depression and suicidal thoughts &lpar;Associated Press&rpar;](http://www.techmeme.com/260226/p52#a260226p52)
- - [Google Translate can now help you find the perfect idioms](https://www.androidauthority.com/google-translate-alternative-phrases-3644783/)
- - [Jack Dorsey’s Block cuts nearly half of its staff in AI gamble](https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai)<!-- TECH:END -->
+ - [Sources: two members of Thinking Machines Lab&#39;s founding team, Christian Gibson and Noah Shpak, left the startup and have been working at Meta for a few weeks &lpar;Business Insider&rpar;](http://www.techmeme.com/260226/p61#a260226p61)
+ - [Dario Amodei says Anthropic cannot &quot;in good conscience&quot; accede to DOD&#39;s request to remove safeguards and will work to ensure a smooth transition if offboarded &lpar;Anthropic&rpar;](http://www.techmeme.com/260226/p60#a260226p60)
+ - [Smartphone Sales to Plummet 13% in 2026 Due to RAM Crisis, Says IDC](https://www.cnet.com/tech/mobile/smartphone-sales-to-plummet-13-pct-2026-idc/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
