@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft Promises Two Far Cry Games Are Coming As Open-World Shooter Continues Its Longest Hiatus Ever](https://kotaku.com/far-cry-7-extraction-shooter-assassins-creed-hexe-ubisoft-2000672574)
- - [Ify Nwadiwe wants Henry Cavill to nerd out about Warhammer on Um, Actually](https://www.polygon.com/ify-nwadiwe-dropout-um-actually-henry-cavill-warhammer/)
- - [Ubisoft made another Avatar game the world has forgotten about, so I opened Pandora’s boxed copy and dropped into the jungle](https://www.pcgamer.com/games/action/ubisoft-made-another-avatar-game-the-world-has-forgotten-about-so-i-opened-pandoras-boxed-copy-and-dropped-into-the-jungle/)<!-- GAME:END -->
+ - [We Are So Cooked Trailer Turns Hiding A Dead Body Into A Cozy Co-op Game](https://kotaku.com/we-are-so-cooked-game-trailer-2000674161)
+ - [Resident Evil Requiem guide: Puzzle solutions, locked doors, collectibles, and more](https://www.pcgamer.com/games/resident-evil/re-requiem-re9-guide/)
+ - [An Ode To Pokémon’s Ash Ketchum](https://kotaku.com/pokemon-anime-ash-ketchum-pikachu-final-episode-netflix-1850805389)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
