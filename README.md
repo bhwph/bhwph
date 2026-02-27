@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could finally fix a major Pixel Watch notification frustration](https://www.androidauthority.com/google-pixel-watch-notification-display-apk-teardown-3644928/)
- - [7 years later, the NVIDIA Shield TV is still the best Android TV streamer I’ve used](https://www.androidauthority.com/nvidia-shield-tv-review-2026-3644655/)
- - [Best Red Light Therapy for Hair Growth: WIRED-Approved &lpar;2026&rpar;](https://www.wired.com/story/best-red-light-therapy-for-hair-growth/)<!-- TECH:END -->
+ - [Tether says it has frozen $4.2B of its crypto token over links to &quot;illicit activity&quot;, including $3.5B since 2023 and $61M linked to pig-butchering scams &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/260227/p9#a260227p9)
+ - [Jeffrey Epstein saw promise in Bitcoin — and its far-right supporters](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
+ - [Clicks reveals SoC, software support for its BlackBerry-like Android phone](https://www.androidauthority.com/clicks-communicator-soc-android-updates-3645026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
