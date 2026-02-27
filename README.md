@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Beep boop I&#39;m not a bot](http://9gag.com/gag/agmwE6v)
- - 😝 [Damn Windows 11, with the previous update it restarts the shutdown process](http://9gag.com/gag/a1mj26Y)
- - 👉 [Pattern recognition](http://9gag.com/gag/amowVV6)<!-- MEMES:END -->
+ - 6️⃣ [Funny how that works...](http://9gag.com/gag/a7oXN0b)
+ - 😝 [Houston we have a problem](http://9gag.com/gag/aqywzPR)
+ - 👉 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)<!-- MEMES:END -->
 
 --- 
 
