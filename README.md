@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t hold your breath for a Galaxy S26 Edge or TriFold 2](https://www.androidauthority.com/samsung-s25-edge-trifold-successor-future-uncertain-3644873/)
- - [Samsung confirms it is not killing the S Pen, shares plans for the future](https://www.androidauthority.com/samsung-galaxy-s-pen-not-killed-3644869/)
- - [Security researchers detail AirSnitch, a series of attacks that bypass Wi-Fi client isolation, enabling machine-in-the-middle attacks in modern Wi-Fi networks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/260227/p4#a260227p4)<!-- TECH:END -->
+ - [Google could finally fix a major Pixel Watch notification frustration](https://www.androidauthority.com/google-pixel-watch-notification-display-apk-teardown-3644928/)
+ - [7 years later, the NVIDIA Shield TV is still the best Android TV streamer I’ve used](https://www.androidauthority.com/nvidia-shield-tv-review-2026-3644655/)
+ - [Best Red Light Therapy for Hair Growth: WIRED-Approved &lpar;2026&rpar;](https://www.wired.com/story/best-red-light-therapy-for-hair-growth/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
