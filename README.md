@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FedEx promises to refund customers for ‘illegal’ tariffs](https://www.theverge.com/policy/886216/fedex-trump-tariff-refunds)
- - [Amazon’s Fire TV Stick 4K Plus gets a better interface and a 40 percent discount](https://www.theverge.com/gadgets/886153/amazon-fire-tv-stick-4k-plus-deal-sale)
- - [A New Mini Game Boy Collectible That Just Plays Pokemon Music? What a Tease](https://www.cnet.com/tech/gaming/a-new-mini-game-boy-collectible-that-just-plays-pokemon-music-what-a-tease/)<!-- TECH:END -->
+ - [In a newly released deposition in Elon Musk&#39;s case against OpenAI, Musk attacked OpenAI&#39;s safety record, saying nobody &quot;committed suicide because of Grok&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260227/p29#a260227p29)
+ - [Gemini just made it easier to import images and videos](https://www.androidauthority.com/gemini-image-video-import-3645222/)
+ - [As part of the Amazon-OpenAI deal, the companies plan a &quot;stateful runtime environment&quot; for AWS, letting agents carry context forward to handle ongoing projects &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260227/p28#a260227p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
