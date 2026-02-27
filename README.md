@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
- - 😝 [Wtf is that?](http://9gag.com/gag/aKG5YKW)
- - 👉 [Filter accidentally turned off briefly revealing the red flags](http://9gag.com/gag/ayNwQAy)<!-- MEMES:END -->
+ - 6️⃣ [We haven&#39;t forgotten about you Iryna](http://9gag.com/gag/aE05DnG)
+ - 😝 [Y so mad, bro?](http://9gag.com/gag/aD25X2Z)
+ - 👉 [When there was time for everything](http://9gag.com/gag/aYQ5q9O)<!-- MEMES:END -->
 
 --- 
 
