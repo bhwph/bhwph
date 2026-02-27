@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: two members of Thinking Machines Lab&#39;s founding team, Christian Gibson and Noah Shpak, left the startup and have been working at Meta for a few weeks &lpar;Business Insider&rpar;](http://www.techmeme.com/260226/p61#a260226p61)
- - [Dario Amodei says Anthropic cannot &quot;in good conscience&quot; accede to DOD&#39;s request to remove safeguards and will work to ensure a smooth transition if offboarded &lpar;Anthropic&rpar;](http://www.techmeme.com/260226/p60#a260226p60)
- - [Smartphone Sales to Plummet 13% in 2026 Due to RAM Crisis, Says IDC](https://www.cnet.com/tech/mobile/smartphone-sales-to-plummet-13-pct-2026-idc/)<!-- TECH:END -->
+ - [The Japanese government plans to invest ~$1.6B in Rapidus over the next two fiscal years to help it mass-produce 2nm logic chips and potentially challenge TSMC &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/260226/p67#a260226p67)
+ - [A first look at Nothing’s Headphone &lpar;a&rpar; reveals a bold yellow color and long battery life](https://www.androidauthority.com/nothing-headphone-a-launch-teaser-3644856/)
+ - [Letter: 100+ Google DeepMind and other AI employees urge Jeff Dean to block US military deals that use Gemini for mass surveillance or autonomous weapons &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/260226/p66#a260226p66)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
