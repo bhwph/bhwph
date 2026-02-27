@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ive been informed that this is a tuna, you\u2019re effing kidding me right?](http://9gag.com/gag/aYQ5AKN)
- - 😝 [Unexpected....](http://9gag.com/gag/awy2dBB)
- - 👉 [Bafta actors reaction after a guy with Tourette&#39;s started screaming the hard N......R](http://9gag.com/gag/ajPwZDq)<!-- MEMES:END -->
+ - 6️⃣ [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
+ - 😝 [Pattern recognition](http://9gag.com/gag/amowVV6)
+ - 👉 [Don\u2019t worry the cops got this. Y\u2019all keep messing with that lock](http://9gag.com/gag/ae9wmOq)<!-- MEMES:END -->
 
 --- 
 
