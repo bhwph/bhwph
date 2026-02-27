@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tether says it has frozen $4.2B of its crypto token over links to &quot;illicit activity&quot;, including $3.5B since 2023 and $61M linked to pig-butchering scams &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/260227/p9#a260227p9)
- - [Jeffrey Epstein saw promise in Bitcoin — and its far-right supporters](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
- - [Clicks reveals SoC, software support for its BlackBerry-like Android phone](https://www.androidauthority.com/clicks-communicator-soc-android-updates-3645026/)<!-- TECH:END -->
+ - [Note to staff: Sam Altman says OpenAI seeks a DOD deal with exemptions for cases like domestic surveillance and wants to &quot;help de-escalate&quot; DOD-Anthropic fight &lpar;Keach Hagey/Wall Street Journal&rpar;](http://www.techmeme.com/260227/p12#a260227p12)
+ - [Netflix isn&amp;#8217;t buying Warner Bros: all of the latest updates](https://www.theverge.com/news/839007/netflix-warner-acquisition)
+ - [visionOS 26 gets fix to keep F1 &amp; MLS streams looking crisp](https://appleinsider.com/articles/26/02/26/apple-vision-pro-owners-get-sports-related-fix-to-keep-f1-mls-streams-looking-crisp?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
