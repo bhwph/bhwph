@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can’t get T-Life or other T-Mobile services to work? You aren’t alone](https://www.androidauthority.com/t-life-t-mobile-down-3645153/)
- - [TMTG says it is in talks to spin off Truth Social into a public company, following the close of its previously announced merger with nuclear fusion startup TAE &lpar;Christine Wang/Axios&rpar;](http://www.techmeme.com/260227/p19#a260227p19)
- - [We don&amp;#8217;t have to have unsupervised killer robots](https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react)<!-- TECH:END -->
+ - [FedEx promises to refund customers for ‘illegal’ tariffs](https://www.theverge.com/policy/886216/fedex-trump-tariff-refunds)
+ - [Amazon’s Fire TV Stick 4K Plus gets a better interface and a 40 percent discount](https://www.theverge.com/gadgets/886153/amazon-fire-tv-stick-4k-plus-deal-sale)
+ - [A New Mini Game Boy Collectible That Just Plays Pokemon Music? What a Tease](https://www.cnet.com/tech/gaming/a-new-mini-game-boy-collectible-that-just-plays-pokemon-music-what-a-tease/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
