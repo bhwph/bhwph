@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We Are So Cooked Trailer Turns Hiding A Dead Body Into A Cozy Co-op Game](https://kotaku.com/we-are-so-cooked-game-trailer-2000674161)
- - [Resident Evil Requiem guide: Puzzle solutions, locked doors, collectibles, and more](https://www.pcgamer.com/games/resident-evil/re-requiem-re9-guide/)
- - [An Ode To Pokémon’s Ash Ketchum](https://kotaku.com/pokemon-anime-ash-ketchum-pikachu-final-episode-netflix-1850805389)<!-- GAME:END -->
+ - [9 Resident Evil Requiem beginner&#39;s tips to help you stay alive](https://www.polygon.com/resident-evil-requiem-re9-beginners-tips-tricks/)
+ - [Antique coin locations in Resident Evil Requiem](https://www.polygon.com/resident-evil-requiem-re9-antique-coin-locations/)
+ - [Which ending should you pick in Resident Evil Requiem?](https://www.polygon.com/resident-evil-requiem-endings-choices-free-destroy-elpis/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
