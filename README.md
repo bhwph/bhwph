@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Japanese government plans to invest ~$1.6B in Rapidus over the next two fiscal years to help it mass-produce 2nm logic chips and potentially challenge TSMC &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/260226/p67#a260226p67)
- - [A first look at Nothing’s Headphone &lpar;a&rpar; reveals a bold yellow color and long battery life](https://www.androidauthority.com/nothing-headphone-a-launch-teaser-3644856/)
- - [Letter: 100+ Google DeepMind and other AI employees urge Jeff Dean to block US military deals that use Gemini for mass surveillance or autonomous weapons &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/260226/p66#a260226p66)<!-- TECH:END -->
+ - [California DMV records show Tesla has logged zero autonomous test miles on the state&#39;s roads since 2019, despite Musk&#39;s claims of an imminent CA robotaxi launch &lpar;Chris Kirkham/Reuters&rpar;](http://www.techmeme.com/260227/p3#a260227p3)
+ - [Sources: Jeff Bezos&#39; Project Prometheus is raising tens of billions to buy companies hit by AI; it was valued at ~$30B in November 2025 when it raised $6.2B &lpar;Financial Times&rpar;](http://www.techmeme.com/260227/p2#a260227p2)
+ - [Lowe’s Promo Codes and Deals: Up to $300 Off Appliances](https://www.wired.com/story/lowes-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
