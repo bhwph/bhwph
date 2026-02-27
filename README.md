@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ain&#39;t Nobody Got Time for That](http://9gag.com/gag/azxwRQK)
- - 😝 [In case you feel stupid](http://9gag.com/gag/a5Q32zy)
- - 👉 [Unexpected....](http://9gag.com/gag/awy2dBB)<!-- MEMES:END -->
+ - 6️⃣ [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
+ - 😝 [Wtf is that?](http://9gag.com/gag/aKG5YKW)
+ - 👉 [Filter accidentally turned off briefly revealing the red flags](http://9gag.com/gag/ayNwQAy)<!-- MEMES:END -->
 
 --- 
 
