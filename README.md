@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a newly released deposition in Elon Musk&#39;s case against OpenAI, Musk attacked OpenAI&#39;s safety record, saying nobody &quot;committed suicide because of Grok&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260227/p29#a260227p29)
- - [Gemini just made it easier to import images and videos](https://www.androidauthority.com/gemini-image-video-import-3645222/)
- - [As part of the Amazon-OpenAI deal, the companies plan a &quot;stateful runtime environment&quot; for AWS, letting agents carry context forward to handle ongoing projects &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260227/p28#a260227p28)<!-- TECH:END -->
+ - [These Deals Can Have You Zipping Around on a New E-Scooter This Spring](https://www.wired.com/story/electric-scooters-spring-deals-2026/)
+ - [Paramount agrees to acquire WBD, paying $31 per share in cash, giving WBD an enterprise value of $110B; Paramount paid a $2.8B breakup fee to Netflix &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260227/p32#a260227p32)
+ - [Deal: UGREEN Nexode Power Bank 20,000mAh 130W hits record-low price](https://www.androidauthority.com/ugreen-nexode-power-bank-20000mah-130w-deal-3644744/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
