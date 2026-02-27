@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [We haven&#39;t forgotten about you Iryna](http://9gag.com/gag/aE05DnG)
- - 😝 [Y so mad, bro?](http://9gag.com/gag/aD25X2Z)
- - 👉 [When there was time for everything](http://9gag.com/gag/aYQ5q9O)<!-- MEMES:END -->
+ - 😝 [When there was time for everything](http://9gag.com/gag/aYQ5q9O)
+ - 👉 [Y so mad, bro?](http://9gag.com/gag/aD25X2Z)<!-- MEMES:END -->
 
 --- 
 
