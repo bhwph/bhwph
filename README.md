@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Note to staff: Sam Altman says OpenAI seeks a DOD deal with exemptions for cases like domestic surveillance and wants to &quot;help de-escalate&quot; DOD-Anthropic fight &lpar;Keach Hagey/Wall Street Journal&rpar;](http://www.techmeme.com/260227/p12#a260227p12)
- - [Netflix isn&amp;#8217;t buying Warner Bros: all of the latest updates](https://www.theverge.com/news/839007/netflix-warner-acquisition)
- - [visionOS 26 gets fix to keep F1 &amp; MLS streams looking crisp](https://appleinsider.com/articles/26/02/26/apple-vision-pro-owners-get-sports-related-fix-to-keep-f1-mls-streams-looking-crisp?utm_source=rss)<!-- TECH:END -->
+ - [Can’t get T-Life or other T-Mobile services to work? You aren’t alone](https://www.androidauthority.com/t-life-t-mobile-down-3645153/)
+ - [TMTG says it is in talks to spin off Truth Social into a public company, following the close of its previously announced merger with nuclear fusion startup TAE &lpar;Christine Wang/Axios&rpar;](http://www.techmeme.com/260227/p19#a260227p19)
+ - [We don&amp;#8217;t have to have unsupervised killer robots](https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
