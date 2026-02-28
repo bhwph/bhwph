@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Eva Green](http://9gag.com/gag/ae9w7GO)
- - 😝 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
- - 👉 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)
+ - 😝 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
+ - 👉 [Funny how that works...](http://9gag.com/gag/a7oXN0b)<!-- MEMES:END -->
 
 --- 
 
