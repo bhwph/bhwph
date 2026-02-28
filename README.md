@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best Travel Toiletry Bags, Tested Over Many Miles &lpar;2026&rpar;](https://www.wired.com/gallery/best-toiletry-bags/)
- - [Kindle’s newest feature has completely changed how I read books](https://www.androidauthority.com/kindle-app-immersive-reading-3643858/)
- - [The Best MicroSD Cards for Your Camera, Switch, and More](https://www.wired.com/gallery/best-micro-sd-cards/)<!-- TECH:END -->
+ - [The Witcher is a perfect fit for Reigns’ Tinder-like roleplaying](https://www.theverge.com/entertainment/885432/reigns-the-witcher-interview-steam-iphone-android)
+ - [Dario Amodei says &quot;we are patriotic Americans&quot; and Anthropic fears some AI uses could clash with American values as AI&#39;s potential gets &quot;ahead of the law&quot; &lpar;Jo Ling/CBS News&rpar;](http://www.techmeme.com/260228/p8#a260228p8)
+ - [How India&#39;s outsourcing industry, which employs 6M+ people and is worth nearly $300B, is racing to adapt as AI promises to automate white-collar work &lpar;New York Times&rpar;](http://www.techmeme.com/260228/p7#a260228p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
