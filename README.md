@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shooting Videos of Fancy Cars With the Galaxy S26&#39;s New Camera Feature Is a Dream](https://www.cnet.com/tech/mobile/fancy-cars-with-the-galaxy-s26-horizontal-lock/)
- - [Claude hit #2 on Apple&#39;s US App Store, hours after the DOD designated Anthropic a supply chain risk; it bounced between #20 and #50 for much of February &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260228/p12#a260228p12)
- - [Sources: Israel hacked BadeSaba, a popular Iranian prayer app with 5M+ installs on Google Play, to send messages urging Iranian military personnel to defect &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260228/p11#a260228p11)<!-- TECH:END -->
+ - [China faces a dilemma as it looks to balance productivity gains from AI with labor displacement risks due to automation, which could trigger an economic spiral &lpar;Bloomberg&rpar;](http://www.techmeme.com/260228/p15#a260228p15)
+ - [The Rubin Observatory’s alert system sent 800,000 pings on its first night](https://www.theverge.com/science/887037/vera-c-rubin-observatory-800000-alerts)
+ - [Xiaomi launches the €999 Xiaomi 17, the €1,499 17 Ultra, and the €1,999 Leica-branded Leitzphone, all featuring a Snapdragon 8 Elite Gen 5 chipset, in Europe &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/260228/p14#a260228p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
