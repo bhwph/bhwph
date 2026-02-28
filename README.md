@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the first 5 apps I’d download on the Galaxy S26 Ultra](https://www.androidauthority.com/first-apps-download-galaxy-s26-ultra-3644004/)
- - [This Ruroc Helmet Ruined My Ski Holiday](https://www.wired.com/story/this-helmet-ruined-my-ski-holiday/)
- - [US and Israel Launch Strikes Against Iran](https://www.wired.com/story/us-iran-strike-donald-trump/)<!-- TECH:END -->
+ - [14 Best Travel Toiletry Bags, Tested Over Many Miles &lpar;2026&rpar;](https://www.wired.com/gallery/best-toiletry-bags/)
+ - [Kindle’s newest feature has completely changed how I read books](https://www.androidauthority.com/kindle-app-immersive-reading-3643858/)
+ - [The Best MicroSD Cards for Your Camera, Switch, and More](https://www.wired.com/gallery/best-micro-sd-cards/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
