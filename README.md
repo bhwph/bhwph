@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: TSMC urges clients to apply for N2 production allocation as far out as Q2 2027, with large capacity allotments nearly sold out for the next two years &lpar;Tim Culpan/Culpium&rpar;](http://www.techmeme.com/260228/p3#a260228p3)
- - [Anthropic&#39;s dispute with the DOD raises critical questions for US military partners like Nvidia, Google, Amazon, and Palantir, which work closely with Anthropic &lpar;Wired&rpar;](http://www.techmeme.com/260228/p2#a260228p2)
- - [Clicks reveals SoC, software support for its BlackBerry-like Android phone &lpar;Updated: Statement&rpar;](https://www.androidauthority.com/clicks-communicator-soc-android-updates-3645026/)<!-- TECH:END -->
+ - [Tenways nearly perfects the shareable city e-bike](https://www.theverge.com/reviews/885040/tenways-cgo-compact-review-sharable-adaptable)
+ - [Tests of 12+ AI-detection tools show many capable of spotting basic fakes, but struggle with complex images; few analyze video, and most identified fake audio &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/260228/p5#a260228p5)
+ - [US Congressional Joint Economic Committee report: US consumers lost $20.9B nominally to identity theft from four major data broker breaches over the past decade &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/260228/p4#a260228p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
