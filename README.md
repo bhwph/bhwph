@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 anime to watch if you love Pokémon &lpar;that aren&#39;t the Pokémon show&rpar;](https://www.polygon.com/anime-like-pokemon-digimon-bakugan-beyblade-zatch-bell-list/)
- - [Polymarket Bravely Defends Betting On World War 3 As A Valuable Public Service](https://kotaku.com/polymarket-ww3-bomb-iran-trum-prediction-market-2000674772)
- - [One of the biggest ROM sites around calls it quits as RAM prices surge and donations plateau: &#39;I have been paying more than $6,000 out of pocket every month&#39;](https://www.pcgamer.com/games/one-of-the-biggest-rom-sites-around-calls-it-quits-as-ram-prices-surge-and-donations-plateau-i-have-been-paying-more-than-usd6-000-out-of-pocket-every-month/)<!-- GAME:END -->
+ - [Doom: The Dark Ages director says the upcoming DLC is &#39;basically like a sequel&#39;: &#39;It&#39;s just ginormous&#39;](https://www.pcgamer.com/games/fps/doom-the-dark-ages-director-says-the-upcoming-dlc-is-basically-like-a-sequel-its-just-ginormous/)
+ - [Which Starter Is The Best To Pick In Pokémon FireRed/LeafGreen?](https://kotaku.com/pokemon-firered-leafgreen-starter-pick-best-bulbasaur-charmander-squirtle-2000674795)
+ - [An inaccessible zone in World of Warcraft: Midnight has players convinced it&#39;s a clue for the next update](https://www.pcgamer.com/games/world-of-warcraft/an-inaccessible-zone-in-world-of-warcraft-midnight-has-players-convinced-its-a-clue-for-the-next-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
