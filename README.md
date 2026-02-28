@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil Requiem’s GOTY 2026 chances have are becoming clearer](https://www.polygon.com/resident-evil-requiem-goty-contender-2026/)
- - [One Of Steam’s Most Popular Demos Is Helldivers With Robot Cowboys And It’s Awesome](https://kotaku.com/far-far-west-helldivers-robot-cowboy-demo-co-op-steam-next-fest-pc-review-2000674562)
- - [Tactical Breach Wizards sold &#39;twice as well&#39; as Suspicious Developments&#39; previous games, but more importantly, it failed catastrophically to lose an IGF award: &#39;All we can say is we&#39;re sorry, and we&#39;ll try to do worse&#39;](https://www.pcgamer.com/games/strategy/tactical-breach-wizards-sold-twice-as-well-as-suspicious-developments-previous-games-but-more-importantly-it-failed-catastrophically-to-lose-an-igf-award-all-we-can-say-is-were-sorry-and-well-try-to-do-worse/)<!-- GAME:END -->
+ - [OpenAI Says Hell Yea To To Helping Government With ‘Fully Autonomous Weapons’ As Trump Bombs More Countries](https://kotaku.com/openai-says-hell-yea-to-to-helping-government-with-fully-autonomous-weapons-as-trump-bombs-more-countries-2000674755)
+ - [Pokémon&#39;s best battle of all time hinges on an unforgettable twist](https://www.polygon.com/pokemon-best-battle-red-gen-2-aura/)
+ - [As an ergonomic keyboard skeptic, I made the switch this month and it&#39;s so much easier than I expected](https://www.pcgamer.com/hardware/gaming-keyboards/as-an-ergonomic-keyboard-sceptic-i-made-the-switch-this-month-and-its-so-much-easier-than-i-expected/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
