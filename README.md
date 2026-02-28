@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [9 Resident Evil Requiem beginner&#39;s tips to help you stay alive](https://www.polygon.com/resident-evil-requiem-re9-beginners-tips-tricks/)
- - [Antique coin locations in Resident Evil Requiem](https://www.polygon.com/resident-evil-requiem-re9-antique-coin-locations/)
- - [Which ending should you pick in Resident Evil Requiem?](https://www.polygon.com/resident-evil-requiem-endings-choices-free-destroy-elpis/)<!-- GAME:END -->
+ - [Pokémon Go &#39;TK&#39; choose a path quest steps: X or Y?](https://www.polygon.com/pokemon-go-tour-kalos-x-y-xerneas-yveltal-special-research/)
+ - [Pokémon Go &#39;Sparkle and Shine&#39; shiny Diancie Masterwork Research quest steps](https://www.polygon.com/pokemon-go-shiny-diancie-masterwork-research-steps-sparkle-and-shine/)
+ - [Pokémon Go Tour: Kalos event habitat spawns and bonuses](https://www.polygon.com/pokemon-go-tour-kalos-event-habitat-schedule-spawns-bonuses/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
