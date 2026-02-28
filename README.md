@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go &#39;TK&#39; choose a path quest steps: X or Y?](https://www.polygon.com/pokemon-go-tour-kalos-x-y-xerneas-yveltal-special-research/)
- - [Pokémon Go &#39;Sparkle and Shine&#39; shiny Diancie Masterwork Research quest steps](https://www.polygon.com/pokemon-go-shiny-diancie-masterwork-research-steps-sparkle-and-shine/)
- - [Pokémon Go Tour: Kalos event habitat spawns and bonuses](https://www.polygon.com/pokemon-go-tour-kalos-event-habitat-schedule-spawns-bonuses/)<!-- GAME:END -->
+ - [3 movies on Prime Video that will change the way you think about their stars](https://www.polygon.com/3-movie-masterpieces-buried-on-prime-video-perfect-host-pacific-heights-burn-after-reading/)
+ - [Occult deckbuilder The Killing Stone is introducing a &#39;dynamic&#39; scare system originally considered for BioShock 2: &#39;It&#39;s very fun as a gamedev to be surprised by something in your own game&#39;](https://www.pcgamer.com/games/fps/occult-deckbuilder-the-killing-stone-is-introducing-a-dynamic-scare-system-originally-considered-for-bioshock-2-its-very-fun-as-a-gamedev-to-be-surprised-by-something-in-your-own-game/)
+ - [Should you destroy or release Elpis in Resident Evil Requiem?](https://www.pcgamer.com/games/horror/resident-evil/requiem-destroy-release-elpis-endings/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
