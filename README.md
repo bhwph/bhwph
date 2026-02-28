@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Legend Of Zelda Actor Has Thoughts On The Live-Action Movie And Whether Link And Zelda Are Dating](https://kotaku.com/legend-zelda-dating-link-patricia-summersett-movie-2000674766)
- - [The 10 most nostalgic cards in Magic’s TMNT set](https://www.polygon.com/mtg-magic-the-gathering-teenage-mutant-ninja-tiurtles-tmnt-best-cards/)
- - [You&#39;ve never heard of it, but a Russian studio made a fantasy take on original Fallout way back in 2001, and it honestly kind of rules](https://www.pcgamer.com/games/rpg/youve-never-heard-of-it-but-a-russian-studio-made-a-fantasy-take-on-original-fallout-way-back-in-2001-and-it-honestly-kind-of-rules/)<!-- GAME:END -->
+ - [10 anime to watch if you love Pokémon &lpar;that aren&#39;t the Pokémon show&rpar;](https://www.polygon.com/anime-like-pokemon-digimon-bakugan-beyblade-zatch-bell-list/)
+ - [Polymarket Bravely Defends Betting On World War 3 As A Valuable Public Service](https://kotaku.com/polymarket-ww3-bomb-iran-trum-prediction-market-2000674772)
+ - [One of the biggest ROM sites around calls it quits as RAM prices surge and donations plateau: &#39;I have been paying more than $6,000 out of pocket every month&#39;](https://www.pcgamer.com/games/one-of-the-biggest-rom-sites-around-calls-it-quits-as-ram-prices-surge-and-donations-plateau-i-have-been-paying-more-than-usd6-000-out-of-pocket-every-month/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
