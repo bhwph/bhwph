@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China faces a dilemma as it looks to balance productivity gains from AI with labor displacement risks due to automation, which could trigger an economic spiral &lpar;Bloomberg&rpar;](http://www.techmeme.com/260228/p15#a260228p15)
- - [The Rubin Observatory’s alert system sent 800,000 pings on its first night](https://www.theverge.com/science/887037/vera-c-rubin-observatory-800000-alerts)
- - [Xiaomi launches the €999 Xiaomi 17, the €1,499 17 Ultra, and the €1,999 Leica-branded Leitzphone, all featuring a Snapdragon 8 Elite Gen 5 chipset, in Europe &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/260228/p14#a260228p14)<!-- TECH:END -->
+ - [AI coding agents are fueling productivity panic among executives and engineers, as a UCB study finds those offloading work to AI are also working longer hours &lpar;Issie Lapowsky/Bloomberg&rpar;](http://www.techmeme.com/260228/p17#a260228p17)
+ - [16-inch M4 Pro MacBook Pro vs. Acer Predator Helios Neo 14: Apple&#39;s never been so far behind](https://appleinsider.com/inside/16-inch-macbook-pro/vs/16-inch-m4-pro-macbook-pro-vs-acer-predator-helios-neo-14-apples-never-been-so-far-behind?utm_source=rss)
+ - [How to Watch the 2026 MotoGP Season Live From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-watch-the-2026-motogp-season-live-from-anywhere/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
