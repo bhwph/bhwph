@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Eva Green](http://9gag.com/gag/ae9w7GO)
- - 😝 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
- - 👉 [Remember pop rocks?](http://9gag.com/gag/aMV5OvM)<!-- MEMES:END -->
+ - 😝 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
+ - 👉 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)<!-- MEMES:END -->
 
 --- 
 
