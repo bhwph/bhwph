@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)
- - 😝 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
- - 👉 [An interesting wank](http://9gag.com/gag/a9y0DML)<!-- MEMES:END -->
+ - 6️⃣ [Wtf is that?](http://9gag.com/gag/aKG5YKW)
+ - 😝 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
+ - 👉 [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)<!-- MEMES:END -->
 
 --- 
 
