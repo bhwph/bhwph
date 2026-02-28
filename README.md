@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [OpenAI Says Hell Yea To To Helping Government With ‘Fully Autonomous Weapons’ As Trump Bombs More Countries](https://kotaku.com/openai-says-hell-yea-to-to-helping-government-with-fully-autonomous-weapons-as-trump-bombs-more-countries-2000674755)
- - [Pokémon&#39;s best battle of all time hinges on an unforgettable twist](https://www.polygon.com/pokemon-best-battle-red-gen-2-aura/)
- - [As an ergonomic keyboard skeptic, I made the switch this month and it&#39;s so much easier than I expected](https://www.pcgamer.com/hardware/gaming-keyboards/as-an-ergonomic-keyboard-sceptic-i-made-the-switch-this-month-and-its-so-much-easier-than-i-expected/)<!-- GAME:END -->
+ - [Legend Of Zelda Actor Has Thoughts On The Live-Action Movie And Whether Link And Zelda Are Dating](https://kotaku.com/legend-zelda-dating-link-patricia-summersett-movie-2000674766)
+ - [The 10 most nostalgic cards in Magic’s TMNT set](https://www.polygon.com/mtg-magic-the-gathering-teenage-mutant-ninja-tiurtles-tmnt-best-cards/)
+ - [You&#39;ve never heard of it, but a Russian studio made a fantasy take on original Fallout way back in 2001, and it honestly kind of rules](https://www.pcgamer.com/games/rpg/youve-never-heard-of-it-but-a-russian-studio-made-a-fantasy-take-on-original-fallout-way-back-in-2001-and-it-honestly-kind-of-rules/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
