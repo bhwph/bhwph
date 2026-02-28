@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Witcher is a perfect fit for Reigns’ Tinder-like roleplaying](https://www.theverge.com/entertainment/885432/reigns-the-witcher-interview-steam-iphone-android)
- - [Dario Amodei says &quot;we are patriotic Americans&quot; and Anthropic fears some AI uses could clash with American values as AI&#39;s potential gets &quot;ahead of the law&quot; &lpar;Jo Ling/CBS News&rpar;](http://www.techmeme.com/260228/p8#a260228p8)
- - [How India&#39;s outsourcing industry, which employs 6M+ people and is worth nearly $300B, is racing to adapt as AI promises to automate white-collar work &lpar;New York Times&rpar;](http://www.techmeme.com/260228/p7#a260228p7)<!-- TECH:END -->
+ - [You can still grab great deals on Bose headphones and Astro Bot this weekend](https://www.theverge.com/gadgets/886520/bose-quietcomfort-headphones-samsung-galaxy-s26-ultra-deal-sale)
+ - [NASA Is Making Big Changes to Speed Up the Artemis Program](https://www.wired.com/story/nasa-is-making-big-changes-to-speed-up-the-artemis-program/)
+ - [Hacked Prayer App Sends ‘Surrender’ Messages to Iranians Amid Israeli and US Strikes](https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
