@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [3 movies on Prime Video that will change the way you think about their stars](https://www.polygon.com/3-movie-masterpieces-buried-on-prime-video-perfect-host-pacific-heights-burn-after-reading/)
- - [Occult deckbuilder The Killing Stone is introducing a &#39;dynamic&#39; scare system originally considered for BioShock 2: &#39;It&#39;s very fun as a gamedev to be surprised by something in your own game&#39;](https://www.pcgamer.com/games/fps/occult-deckbuilder-the-killing-stone-is-introducing-a-dynamic-scare-system-originally-considered-for-bioshock-2-its-very-fun-as-a-gamedev-to-be-surprised-by-something-in-your-own-game/)
- - [Should you destroy or release Elpis in Resident Evil Requiem?](https://www.pcgamer.com/games/horror/resident-evil/requiem-destroy-release-elpis-endings/)<!-- GAME:END -->
+ - [Resident Evil Requiem’s GOTY 2026 chances have are becoming clearer](https://www.polygon.com/resident-evil-requiem-goty-contender-2026/)
+ - [One Of Steam’s Most Popular Demos Is Helldivers With Robot Cowboys And It’s Awesome](https://kotaku.com/far-far-west-helldivers-robot-cowboy-demo-co-op-steam-next-fest-pc-review-2000674562)
+ - [Tactical Breach Wizards sold &#39;twice as well&#39; as Suspicious Developments&#39; previous games, but more importantly, it failed catastrophically to lose an IGF award: &#39;All we can say is we&#39;re sorry, and we&#39;ll try to do worse&#39;](https://www.pcgamer.com/games/strategy/tactical-breach-wizards-sold-twice-as-well-as-suspicious-developments-previous-games-but-more-importantly-it-failed-catastrophically-to-lose-an-igf-award-all-we-can-say-is-were-sorry-and-well-try-to-do-worse/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
