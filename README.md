@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tenways nearly perfects the shareable city e-bike](https://www.theverge.com/reviews/885040/tenways-cgo-compact-review-sharable-adaptable)
- - [Tests of 12+ AI-detection tools show many capable of spotting basic fakes, but struggle with complex images; few analyze video, and most identified fake audio &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/260228/p5#a260228p5)
- - [US Congressional Joint Economic Committee report: US consumers lost $20.9B nominally to identity theft from four major data broker breaches over the past decade &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/260228/p4#a260228p4)<!-- TECH:END -->
+ - [These are the first 5 apps I’d download on the Galaxy S26 Ultra](https://www.androidauthority.com/first-apps-download-galaxy-s26-ultra-3644004/)
+ - [This Ruroc Helmet Ruined My Ski Holiday](https://www.wired.com/story/this-helmet-ruined-my-ski-holiday/)
+ - [US and Israel Launch Strikes Against Iran](https://www.wired.com/story/us-iran-strike-donald-trump/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
