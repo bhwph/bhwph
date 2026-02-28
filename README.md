@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wtf is that?](http://9gag.com/gag/aKG5YKW)
- - 😝 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
- - 👉 [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)<!-- MEMES:END -->
+ - 6️⃣ [Bridgeish](http://9gag.com/gag/a6Z6G2N)
+ - 😝 [Eva Green](http://9gag.com/gag/ae9w7GO)
+ - 👉 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)<!-- MEMES:END -->
 
 --- 
 
