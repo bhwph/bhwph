@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can still grab great deals on Bose headphones and Astro Bot this weekend](https://www.theverge.com/gadgets/886520/bose-quietcomfort-headphones-samsung-galaxy-s26-ultra-deal-sale)
- - [NASA Is Making Big Changes to Speed Up the Artemis Program](https://www.wired.com/story/nasa-is-making-big-changes-to-speed-up-the-artemis-program/)
- - [Hacked Prayer App Sends ‘Surrender’ Messages to Iranians Amid Israeli and US Strikes](https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/)<!-- TECH:END -->
+ - [Shooting Videos of Fancy Cars With the Galaxy S26&#39;s New Camera Feature Is a Dream](https://www.cnet.com/tech/mobile/fancy-cars-with-the-galaxy-s26-horizontal-lock/)
+ - [Claude hit #2 on Apple&#39;s US App Store, hours after the DOD designated Anthropic a supply chain risk; it bounced between #20 and #50 for much of February &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260228/p12#a260228p12)
+ - [Sources: Israel hacked BadeSaba, a popular Iranian prayer app with 5M+ installs on Google Play, to send messages urging Iranian military personnel to defect &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260228/p11#a260228p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
