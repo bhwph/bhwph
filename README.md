@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)
  - 😝 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
- - 👉 [Funny how that works...](http://9gag.com/gag/a7oXN0b)<!-- MEMES:END -->
+ - 👉 [An interesting wank](http://9gag.com/gag/a9y0DML)<!-- MEMES:END -->
 
 --- 
 
