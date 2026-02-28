@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Deals Can Have You Zipping Around on a New E-Scooter This Spring](https://www.wired.com/story/electric-scooters-spring-deals-2026/)
- - [Paramount agrees to acquire WBD, paying $31 per share in cash, giving WBD an enterprise value of $110B; Paramount paid a $2.8B breakup fee to Netflix &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260227/p32#a260227p32)
- - [Deal: UGREEN Nexode Power Bank 20,000mAh 130W hits record-low price](https://www.androidauthority.com/ugreen-nexode-power-bank-20000mah-130w-deal-3644744/)<!-- TECH:END -->
+ - [Anthropic says it&#39;ll challenge &quot;any supply chain risk designation in court&quot; and that the designation would only affect contractors&#39; use of Claude on DOD work &lpar;Anthropic&rpar;](http://www.techmeme.com/260227/p39#a260227p39)
+ - [Ultrahuman Ring Pro Brings Better Battery Life, More Action and Analysis](https://www.cnet.com/tech/mobile/ultrahuman-ring-pro-better-bettery-more-data/)
+ - [Source: Sam Altman told employees the DOD is willing to let OpenAI build its own &quot;safety stack&quot; and won&#39;t force OpenAI to comply if its model refuses a task &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/260227/p38#a260227p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
