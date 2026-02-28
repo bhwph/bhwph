@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Crows taking Jobs](http://9gag.com/gag/apRwVmM)
- - 😝 [Look there&#39;s a Lion!](http://9gag.com/gag/aZZ5RvQ)
- - 👉 [Henry Cavill demanding lore accuracy on set is peak energy](http://9gag.com/gag/aO85pn2)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)
+ - 😝 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
+ - 👉 [I believe I can fly](http://9gag.com/gag/ayNwvDM)<!-- MEMES:END -->
 
 --- 
 
