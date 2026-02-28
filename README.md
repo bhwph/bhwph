@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
- - 😝 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
- - 👉 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)<!-- MEMES:END -->
+ - 6️⃣ [What you guys think?](http://9gag.com/gag/a2vpLQD)
+ - 😝 [All good questions](http://9gag.com/gag/amowpBX)
+ - 👉 [Nice](http://9gag.com/gag/an7wr3E)<!-- MEMES:END -->
 
 --- 
 
