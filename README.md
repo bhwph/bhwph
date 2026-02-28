@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [All good questions](http://9gag.com/gag/amowpBX)
- - 😝 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
- - 👉 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)<!-- MEMES:END -->
+ - 6️⃣ [Eva Green](http://9gag.com/gag/ae9w7GO)
+ - 😝 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
+ - 👉 [Remember pop rocks?](http://9gag.com/gag/aMV5OvM)<!-- MEMES:END -->
 
 --- 
 
