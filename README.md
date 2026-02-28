@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bridgeish](http://9gag.com/gag/a6Z6G2N)
- - 😝 [Eva Green](http://9gag.com/gag/ae9w7GO)
- - 👉 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)<!-- MEMES:END -->
+ - 6️⃣ [Crows taking Jobs](http://9gag.com/gag/apRwVmM)
+ - 😝 [Look there&#39;s a Lion!](http://9gag.com/gag/aZZ5RvQ)
+ - 👉 [Henry Cavill demanding lore accuracy on set is peak energy](http://9gag.com/gag/aO85pn2)<!-- MEMES:END -->
 
 --- 
 
