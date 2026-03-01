@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s enough to deserve a next US president position](http://9gag.com/gag/a5Q3qLG)
- - 😝 [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
- - 👉 [I believe I can fly](http://9gag.com/gag/ayNwvDM)<!-- MEMES:END -->
+ - 6️⃣ [When your birthday falls on a Friday](http://9gag.com/gag/ae9w7vm)
+ - 😝 [The long game](http://9gag.com/gag/aND538G)
+ - 👉 [Would you ?](http://9gag.com/gag/aZZ5z5p)<!-- MEMES:END -->
 
 --- 
 
