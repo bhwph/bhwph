@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Le Title.](http://9gag.com/gag/aPA2dxB)
- - 😝 [Sounds and looks like something straight out of Mordor](http://9gag.com/gag/avywDn5)
- - 👉 [The long game](http://9gag.com/gag/aND538G)<!-- MEMES:END -->
+ - 6️⃣ [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
+ - 😝 [The long game](http://9gag.com/gag/aND538G)
+ - 👉 [Le Title.](http://9gag.com/gag/aPA2dxB)<!-- MEMES:END -->
 
 --- 
 
