@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Recteq Flagship 1600 Review: An Upgraded Smoker](https://www.wired.com/review/recteq-flagship-1600-review/)
- - [Video Doorbell Advice and Settings for Opting Out of the Surveillance State](https://www.wired.com/story/how-to-secure-your-video-doorbell/)
- - [Stop Wasting Money: The Hidden Energy Vampire Draining Your Wallet](https://www.cnet.com/news/i-was-shocked-to-discover-home-worst-energy-vampire/)<!-- TECH:END -->
+ - [Honor claims its Robot Phone will launch later this year](https://www.theverge.com/gadgets/887140/honor-robot-phone-mwc-release-date-specs)
+ - [The Baseus PicoGo AM52 is the ultra-slim, travel-friendly Qi2.2 power bank you need](https://www.androidauthority.com/baseus-picogo-am52-3645091/)
+ - [Baseus PicoGo AM52 Qi2.2 batteries review: multi-device charging &amp; 25W MagSafe](https://appleinsider.com/articles/26/03/01/baseus-picogo-am52-qi22-batteries-review-multi-device-charging-25w-magsafe?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
