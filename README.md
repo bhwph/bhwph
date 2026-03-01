@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Portable Sonos Play speaker leaks on Canadian Best Buy](https://www.theverge.com/tech/887220/sonos-play-leak)
- - [Sources describe in detail the failed talks between Anthropic and DOD, and how officials at agencies, including the CIA, still hope for a peace agreement &lpar;New York Times&rpar;](http://www.techmeme.com/260301/p11#a260301p11)
- - [MWC 2026 Updates: All the News, Reveals and Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)<!-- TECH:END -->
+ - [Australia&#39;s eSafety Commissioner threatens action against app stores and search engines if AI services operating in Australia don&#39;t verify user ages by March 9 &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/260301/p13#a260301p13)
+ - [Israel-based Guidde, which is developing a platform to accelerate the adoption of AI in organizations, raised a $50M Series B round led by PSG Equity &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260301/p12#a260301p12)
+ - [Reboot: Godzilla, mini Macs, and easing the supply chain](https://appleinsider.com/articles/26/03/01/reboot-godzilla-mini-macs-and-easing-the-supply-chain?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
