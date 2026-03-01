@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The long game](http://9gag.com/gag/aND538G)
- - 😝 [Bad Luck Khamenei](http://9gag.com/gag/ajPwdO8)
- - 👉 [Iran before Islamic revolution](http://9gag.com/gag/a4Pyx5Q)<!-- MEMES:END -->
+ - 6️⃣ [Cutting open an ancient ammonite to reveal its stunning crystal chambers and internal patterns. So satisfying](http://9gag.com/gag/a0eqxwn)
+ - 😝 [Me irl](http://9gag.com/gag/a4PyxLd)
+ - 👉 [Sounds and looks like something straight out of Mordor](http://9gag.com/gag/avywDn5)<!-- MEMES:END -->
 
 --- 
 
