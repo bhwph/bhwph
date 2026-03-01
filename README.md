@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Blessed Holly molly](http://9gag.com/gag/aryw8L7)
- - 😝 [Could you not](http://9gag.com/gag/a87OVvO)
- - 👉 [Bro got schooled on basic economics](http://9gag.com/gag/adBwR4B)<!-- MEMES:END -->
+ - 6️⃣ [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
+ - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
+ - 👉 [The long game](http://9gag.com/gag/aND538G)<!-- MEMES:END -->
 
 --- 
 
