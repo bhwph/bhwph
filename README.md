@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I would buy a lot five packs of these and just let them go somewhere random indoors](http://9gag.com/gag/a7oXnOe)
- - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
- - 👉 [The long game](http://9gag.com/gag/aND538G)<!-- MEMES:END -->
+ - 6️⃣ [Love at first sight](http://9gag.com/gag/an7wdjV)
+ - 😝 [Hard worker](http://9gag.com/gag/an7wde5)
+ - 👉 [Surely we&#39;ve all been there.](http://9gag.com/gag/aD25PAO)<!-- MEMES:END -->
 
 --- 
 
