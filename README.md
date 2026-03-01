@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deals: Samsung&#39;s S85F OLED TV plunges to $847 today only](https://appleinsider.com/articles/26/03/01/flash-deals-samsungs-s85f-oled-tv-plunges-to-847-today-only?utm_source=rss)
- - [Netflix actually won by walking away from the WBD bid, collecting a $2.8B termination fee and driving up the price and debt load of the Paramount-WBD merger &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260301/p3#a260301p3)
- - [Multiple AWS developers say they are asked to take on new roles with AI tools&#39; assistance, and engineers are now required to complete technical writing tasks &lpar;Financial Times&rpar;](http://www.techmeme.com/260301/p2#a260301p2)<!-- TECH:END -->
+ - [I have a drawer full of Kindles, but you probably only need one](https://www.androidauthority.com/is-two-kindles-necessary-3644455/)
+ - [The Piracy Problem Streaming Platforms Can’t Solve](https://www.wired.com/story/the-piracy-problem-streaming-platforms-cant-solve/)
+ - [[Thread] In an AMA, Sam Altman says DOD blacklisting Anthropic sets an &quot;extremely scary precedent&quot;, OpenAI rushed its deal to &quot;de-escalate things&quot;, and more &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/260301/p4#a260301p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
