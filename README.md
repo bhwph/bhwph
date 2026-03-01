@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When your birthday falls on a Friday](http://9gag.com/gag/ae9w7vm)
- - 😝 [The long game](http://9gag.com/gag/aND538G)
+ - 6️⃣ [Stupidity](http://9gag.com/gag/aVv5BLP)
+ - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
  - 👉 [Would you ?](http://9gag.com/gag/aZZ5z5p)<!-- MEMES:END -->
 
 --- 
