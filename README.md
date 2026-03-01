@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stupidity](http://9gag.com/gag/aVv5BLP)
- - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
- - 👉 [Would you ?](http://9gag.com/gag/aZZ5z5p)<!-- MEMES:END -->
+ - 6️⃣ [Blessed Holly molly](http://9gag.com/gag/aryw8L7)
+ - 😝 [Could you not](http://9gag.com/gag/a87OVvO)
+ - 👉 [Bro got schooled on basic economics](http://9gag.com/gag/adBwR4B)<!-- MEMES:END -->
 
 --- 
 
