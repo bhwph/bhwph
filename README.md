@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honor claims its Robot Phone will launch later this year](https://www.theverge.com/gadgets/887140/honor-robot-phone-mwc-release-date-specs)
- - [The Baseus PicoGo AM52 is the ultra-slim, travel-friendly Qi2.2 power bank you need](https://www.androidauthority.com/baseus-picogo-am52-3645091/)
- - [Baseus PicoGo AM52 Qi2.2 batteries review: multi-device charging &amp; 25W MagSafe](https://appleinsider.com/articles/26/03/01/baseus-picogo-am52-qi22-batteries-review-multi-device-charging-25w-magsafe?utm_source=rss)<!-- TECH:END -->
+ - [Lego’s Smart Brick is here, and it transforms these new Star Wars sets](https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy)
+ - [Apple Stores close in United Arab Emirates following Iran strikes](https://appleinsider.com/articles/26/03/01/apple-stores-close-in-united-arab-emirates-following-iran-strikes?utm_source=rss)
+ - [Nvidia partners with Cisco, Nokia, and others to build 6G networks based on open, software-defined AI radio access networking &lpar;AI-RAN&rpar; architecture &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/260301/p8#a260301p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
