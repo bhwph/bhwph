@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Weird flex but Ok](http://9gag.com/gag/a34rx2m)
- - 😝 [The long game](http://9gag.com/gag/aND538G)
- - 👉 [Nice....](http://9gag.com/gag/aGy5b10)<!-- MEMES:END -->
+ - 6️⃣ [The long game](http://9gag.com/gag/aND538G)
+ - 😝 [Bad Luck Khamenei](http://9gag.com/gag/ajPwdO8)
+ - 👉 [Iran before Islamic revolution](http://9gag.com/gag/a4Pyx5Q)<!-- MEMES:END -->
 
 --- 
 
