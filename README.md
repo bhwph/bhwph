@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Love at first sight](http://9gag.com/gag/an7wdjV)
- - 😝 [Hard worker](http://9gag.com/gag/an7wde5)
- - 👉 [Surely we&#39;ve all been there.](http://9gag.com/gag/aD25PAO)<!-- MEMES:END -->
+ - 6️⃣ [Nice....](http://9gag.com/gag/aGy5b10)
+ - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
+ - 👉 [Weird flex but Ok](http://9gag.com/gag/a34rx2m)<!-- MEMES:END -->
 
 --- 
 
