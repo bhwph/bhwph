@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice....](http://9gag.com/gag/aGy5b10)
- - 😝 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
- - 👉 [Weird flex but Ok](http://9gag.com/gag/a34rx2m)<!-- MEMES:END -->
+ - 6️⃣ [Weird flex but Ok](http://9gag.com/gag/a34rx2m)
+ - 😝 [The long game](http://9gag.com/gag/aND538G)
+ - 👉 [Nice....](http://9gag.com/gag/aGy5b10)<!-- MEMES:END -->
 
 --- 
 
