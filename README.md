@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I have a drawer full of Kindles, but you probably only need one](https://www.androidauthority.com/is-two-kindles-necessary-3644455/)
- - [The Piracy Problem Streaming Platforms Can’t Solve](https://www.wired.com/story/the-piracy-problem-streaming-platforms-cant-solve/)
- - [[Thread] In an AMA, Sam Altman says DOD blacklisting Anthropic sets an &quot;extremely scary precedent&quot;, OpenAI rushed its deal to &quot;de-escalate things&quot;, and more &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/260301/p4#a260301p4)<!-- TECH:END -->
+ - [Recteq Flagship 1600 Review: An Upgraded Smoker](https://www.wired.com/review/recteq-flagship-1600-review/)
+ - [Video Doorbell Advice and Settings for Opting Out of the Surveillance State](https://www.wired.com/story/how-to-secure-your-video-doorbell/)
+ - [Stop Wasting Money: The Hidden Energy Vampire Draining Your Wallet](https://www.cnet.com/news/i-was-shocked-to-discover-home-worst-energy-vampire/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
