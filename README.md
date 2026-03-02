@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [When the Internet Goes Dark, the Truth Goes With It](https://www.wired.com/story/plestia-alaqad-gaza-citizen-journalist-social-media/)
- - [Samsung confirms the next Galaxy Watch will jump to Qualcomm’s Snapdragon Wear Elite](https://www.androidauthority.com/samsung-galaxy-watch-snapdragon-wear-elite-3645580/)
- - [Corning debuts Gorilla Glass Ceramic 3, its toughest protective smartphone glass yet](https://www.androidauthority.com/corning-gorilla-glass-ceramic-3-3645569/)<!-- TECH:END -->
+ - [Pokémon Pokopia is an expansive adventure disguised as a cozy life sim](https://www.theverge.com/games/885431/pokemon-pokopia-review)
+ - [Qualcomm forms a &quot;coalition&quot; to launch 6G in 2029 and unveils the FastConnect 8800, an &quot;AI-native&quot; Wi-Fi 8-ready NIC that doubles peak speeds over Wi-Fi 7 &lpar;Will Sattelberg/9to5Google&rpar;](http://www.techmeme.com/260302/p17#a260302p17)
+ - [Anthropic reports elevated errors on claude.ai, console, and Claude Code, starting at 11:49 UTC and impacting logins, and says the API &quot;is working as intended&quot; &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/260302/p16#a260302p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
