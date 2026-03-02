@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Frieren, Ranma 1/2 artists pull works from Manga One after sexual abuse scandal](https://www.polygon.com/shogakukan-yamamoto-scandal-manga-one-sexual-assault-minor/)
- - [Grace&#39;s actor in Resident Evil Requiem says that Capcom &#39;wanted to go back to the horror Resident Evil games&#39;](https://www.pcgamer.com/games/resident-evil/resident-evil-requiem-performance-actor-says-they-sometimes-filmed-in-the-dark-to-make-the-situation-feel-as-close-to-what-it-was-without-you-know-having-a-real-life-zombie-running-at-you/)
- - [Why I love Diablo 2, Act 1](https://www.pcgamer.com/games/rpg/why-i-love-diablo-2-act-1/)<!-- GAME:END -->
+ - [Cherry Xtrfy MX 8.2 Pro TMR TKL review](https://www.pcgamer.com/hardware/gaming-keyboards/cherry-xtrfy-mx-8-2-pro-tmr-tkl-review/)
+ - [A redditor who found their exact gaming monitor in Resident Evil Requiem finds Reddit image of their monitor inside a monitor inside a monitor in Resident Evil Requiem and now my head hurts](https://www.pcgamer.com/hardware/gaming-monitors/a-redditor-who-found-their-exact-gaming-monitor-in-resident-evil-requiem-finds-reddit-image-of-their-monitor-inside-a-monitor-inside-a-monitor-in-resident-evil-requiem-and-now-my-head-hurts/)
+ - [The Highest-Rated Pokémon Game On Metacritic Is Now An Animal Crossing-Style Life Sim](https://kotaku.com/pokemon-pokopia-metacritic-reviews-highest-rated-2000675047)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
