@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AYN Thor and Odin 3 price hikes confirmed: Here’s how much you’ll pay now](https://www.androidauthority.com/ayn-thor-odin-3-price-hike-march-2026-3645551/)
- - [A look at the research into using metal-organic frameworks as photoresists for cutting-edge silicon etching, as ASML aims to move from EUV to X-ray lithography &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/260302/p4#a260302p4)
- - [This ridiculous Ultra phone is officially going global with crazy camera add-ons](https://www.androidauthority.com/vivo-x300-ultra-16x-lens-3645490/)<!-- TECH:END -->
+ - [When the Internet Goes Dark, the Truth Goes With It](https://www.wired.com/story/plestia-alaqad-gaza-citizen-journalist-social-media/)
+ - [Samsung confirms the next Galaxy Watch will jump to Qualcomm’s Snapdragon Wear Elite](https://www.androidauthority.com/samsung-galaxy-watch-snapdragon-wear-elite-3645580/)
+ - [Corning debuts Gorilla Glass Ceramic 3, its toughest protective smartphone glass yet](https://www.androidauthority.com/corning-gorilla-glass-ceramic-3-3645569/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
