@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
- - 😝 [Stunt double?](http://9gag.com/gag/axywA6K)
- - 👉 [Ukrainian Student](http://9gag.com/gag/aND58pw)<!-- MEMES:END -->
+ - 6️⃣ [Ukrainian Student](http://9gag.com/gag/aND58pw)
+ - 😝 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)
+ - 👉 [Average 9gag hater](http://9gag.com/gag/aVv59w8)<!-- MEMES:END -->
 
 --- 
 
