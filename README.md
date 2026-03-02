@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Tahoe 26.4 absent from third round of developer betas](https://appleinsider.com/articles/26/03/02/macos-tahoe-264-absent-from-third-round-of-developer-betas?utm_source=rss)
- - [You could be an influencer without even realizing it](https://www.theverge.com/tech/887692/instagram-shop-the-look-ai-shopping-tiktok-influencers)
- - [Attacks on GPS Spike Amid US and Israeli War on Iran](https://www.wired.com/story/gps-attacks-on-ships-spike-amid-the-us-and-israeli-war-on-iran/)<!-- TECH:END -->
+ - [Pixel’s Now Playing feature has officially rolled out as an app](https://www.androidauthority.com/now-playing-launches-on-play-store-3645830/)
+ - [Apple might use Google servers to store data for its upgraded AI Siri](https://www.theverge.com/tech/887802/apple-ai-siri-google-servers)
+ - [Mastodon now has a button for sharing content from other websites](https://www.theverge.com/tech/887791/mastodon-official-share-button-widget)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
