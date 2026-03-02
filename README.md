@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marathon might just break a long-standing Sony curse through genuine fun](https://www.polygon.com/marathon-hardcore-gamers-new-favorite-shooter/)
- - [New GTA 6 Leak Was Sitting On Someone’s Phone For Four Years Before They Posted It](https://kotaku.com/new-gta-6-leak-was-sitting-on-someones-phone-for-four-years-before-they-posted-it-2000675071)
- - [Pokémon FireRed and LeafGreen Elite 4 teams and counters](https://www.polygon.com/pokemon-firered-leafgreen-frlg-elite-four-champion-teams-counters/)<!-- GAME:END -->
+ - [All antique coin locations in Resident Evil Requiem](https://www.polygon.com/resident-evil-requiem-re9-antique-coin-locations/)
+ - [The Analogue Pocket Is Finally Back In Stock But Even More Expensive As Retro Handheld Costs Rise](https://kotaku.com/analogue-pocket-stock-price-ayn-odin-thor-2000675092)
+ - [Bungie is considering a dedicated duos mode and time-to-kill changes after Marathon server slam feedback](https://www.pcgamer.com/games/fps/bungie-is-considering-a-dedicated-duos-mode-and-time-to-kill-changes-after-marathon-sever-slam-feedback/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
