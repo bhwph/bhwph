@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm’s new chip is geared toward wearable AI gadgets](https://www.theverge.com/tech/886434/qualcomm-snapdragon-wear-elite-wearables)
- - [Lenovo&#39;s Motorola partners with GrapheneOS, a privacy-focused, de-Googled version of Android, to preinstall GrapheneOS on upcoming Motorola smartphones &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/260302/p2#a260302p2)
- - [Australian AI infrastructure company Firmus signed a multi-billion deal with an unnamed customer to build a Melbourne data center with 18,400 Nvidia GB300 chips &lpar;Sharon Klyne/Bloomberg&rpar;](http://www.techmeme.com/260302/p1#a260302p1)<!-- TECH:END -->
+ - [AYN Thor and Odin 3 price hikes confirmed: Here’s how much you’ll pay now](https://www.androidauthority.com/ayn-thor-odin-3-price-hike-march-2026-3645551/)
+ - [A look at the research into using metal-organic frameworks as photoresists for cutting-edge silicon etching, as ASML aims to move from EUV to X-ray lithography &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/260302/p4#a260302p4)
+ - [This ridiculous Ultra phone is officially going global with crazy camera add-ons](https://www.androidauthority.com/vivo-x300-ultra-16x-lens-3645490/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
