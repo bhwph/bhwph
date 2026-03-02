@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The ultimate desk toy for any Minecraft addict](http://9gag.com/gag/a87OQyY)
- - 😝 [Nevermind a bone](http://9gag.com/gag/a6Z63Re)
- - 👉 [Le Title.](http://9gag.com/gag/aPA2dxB)<!-- MEMES:END -->
+ - 6️⃣ [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
+ - 😝 [Stunt double?](http://9gag.com/gag/axywA6K)
+ - 👉 [Ukrainian Student](http://9gag.com/gag/aND58pw)<!-- MEMES:END -->
 
 --- 
 
