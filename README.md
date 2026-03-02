@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola goes for the foldable crown with the new Razr Fold at MWC](https://www.androidauthority.com/motorola-razr-fold-3645523/)
- - [The Motorola Razr Fold is shaping up to be pure flagship](https://www.theverge.com/tech/887249/motorola-razr-fold-specs-camera-silicon-carbon-battery)
- - [Early data show wages are rising for AI-exposed jobs that place a high value on a &quot;worker&#39;s tacit knowledge and experience&quot;, as textbook knowledge loses value &lpar;J. Scott Davis/Federal Reserve Bank of Dallas&rpar;](http://www.techmeme.com/260301/p20#a260301p20)<!-- TECH:END -->
+ - [Qualcomm’s new chip is geared toward wearable AI gadgets](https://www.theverge.com/tech/886434/qualcomm-snapdragon-wear-elite-wearables)
+ - [Lenovo&#39;s Motorola partners with GrapheneOS, a privacy-focused, de-Googled version of Android, to preinstall GrapheneOS on upcoming Motorola smartphones &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/260302/p2#a260302p2)
+ - [Australian AI infrastructure company Firmus signed a multi-billion deal with an unnamed customer to build a Melbourne data center with 18,400 Nvidia GB300 chips &lpar;Sharon Klyne/Bloomberg&rpar;](http://www.techmeme.com/260302/p1#a260302p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
