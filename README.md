@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me irl](http://9gag.com/gag/a4PyxLd)
- - 😝 [The long game](http://9gag.com/gag/aND538G)
+ - 6️⃣ [A sober Generation?](http://9gag.com/gag/azxwD0K)
+ - 😝 [Somebody asked why I got Resident Evil Requiem on Steam instead of Xbox or PlayStation.](http://9gag.com/gag/ae9wdqm)
  - 👉 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)<!-- MEMES:END -->
 
 --- 
