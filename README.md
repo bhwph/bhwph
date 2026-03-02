@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia&#39;s eSafety Commissioner threatens action against app stores and search engines if AI services operating in Australia don&#39;t verify user ages by March 9 &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/260301/p13#a260301p13)
- - [Israel-based Guidde, which is developing a platform to accelerate the adoption of AI in organizations, raised a $50M Series B round led by PSG Equity &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260301/p12#a260301p12)
- - [Reboot: Godzilla, mini Macs, and easing the supply chain](https://appleinsider.com/articles/26/03/01/reboot-godzilla-mini-macs-and-easing-the-supply-chain?utm_source=rss)<!-- TECH:END -->
+ - [A profile of Telegram CEO Pavel Durov, who is facing a probe in France on a dozen preliminary charges and a Russian criminal case for &quot;aiding terrorism&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260301/p18#a260301p18)
+ - [Save $100 on iPad mini 7, plus grab Apple Pencil Pro deal](https://appleinsider.com/articles/26/03/02/save-100-on-ipad-mini-7-plus-grab-apple-pencil-pro-deal?utm_source=rss)
+ - [AWS said objects struck one of its data centers in the UAE, impacting its mec1-az2 availability zone, and that connectivity will take several hours to restore &lpar;Reuters&rpar;](http://www.techmeme.com/260301/p17#a260301p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
