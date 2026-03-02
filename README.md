@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cherry Xtrfy MX 8.2 Pro TMR TKL review](https://www.pcgamer.com/hardware/gaming-keyboards/cherry-xtrfy-mx-8-2-pro-tmr-tkl-review/)
- - [A redditor who found their exact gaming monitor in Resident Evil Requiem finds Reddit image of their monitor inside a monitor inside a monitor in Resident Evil Requiem and now my head hurts](https://www.pcgamer.com/hardware/gaming-monitors/a-redditor-who-found-their-exact-gaming-monitor-in-resident-evil-requiem-finds-reddit-image-of-their-monitor-inside-a-monitor-inside-a-monitor-in-resident-evil-requiem-and-now-my-head-hurts/)
- - [The Highest-Rated Pokémon Game On Metacritic Is Now An Animal Crossing-Style Life Sim](https://kotaku.com/pokemon-pokopia-metacritic-reviews-highest-rated-2000675047)<!-- GAME:END -->
+ - [Marathon might just break a long-standing Sony curse through genuine fun](https://www.polygon.com/marathon-hardcore-gamers-new-favorite-shooter/)
+ - [New GTA 6 Leak Was Sitting On Someone’s Phone For Four Years Before They Posted It](https://kotaku.com/new-gta-6-leak-was-sitting-on-someones-phone-for-four-years-before-they-posted-it-2000675071)
+ - [Pokémon FireRed and LeafGreen Elite 4 teams and counters](https://www.polygon.com/pokemon-firered-leafgreen-frlg-elite-four-champion-teams-counters/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
