@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Analogue Pocket will be back in stock and slightly more expensive](https://www.theverge.com/tech/887599/analogue-pocket-restock-tariffs-available)
- - [X announces a &quot;Paid Partnership&quot; label that creators can apply to their posts to indicate they&#39;re ads; until now, creators relied on hashtags to label posts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260302/p28#a260302p28)
- - [Magic Keyboard cases for the latest iPad Pro are up to $85 off](https://www.theverge.com/gadgets/887501/ipad-magic-keyboard-case-m4-pro-deal-sale)<!-- TECH:END -->
+ - [macOS Tahoe 26.4 absent from third round of developer betas](https://appleinsider.com/articles/26/03/02/macos-tahoe-264-absent-from-third-round-of-developer-betas?utm_source=rss)
+ - [You could be an influencer without even realizing it](https://www.theverge.com/tech/887692/instagram-shop-the-look-ai-shopping-tiktok-influencers)
+ - [Attacks on GPS Spike Amid US and Israeli War on Iran](https://www.wired.com/story/gps-attacks-on-ships-spike-amid-the-us-and-israeli-war-on-iran/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
