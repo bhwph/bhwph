@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There&#39;s not much in the new M4 iPad Air update other than speed](https://appleinsider.com/articles/26/03/02/theres-not-much-in-the-new-m4-ipad-air-update-other-than-speed?utm_source=rss)
- - [Apple’s iPhone 17e targets the Pixel 10a with a massive storage and power boost](https://www.androidauthority.com/apple-iphone-17e-3645655/)
- - [iPad Air &lpar;M4&rpar;: Specs, Features, Price](https://www.wired.com/story/apple-ipad-air-m4-2026/)<!-- TECH:END -->
+ - [The Analogue Pocket will be back in stock and slightly more expensive](https://www.theverge.com/tech/887599/analogue-pocket-restock-tariffs-available)
+ - [X announces a &quot;Paid Partnership&quot; label that creators can apply to their posts to indicate they&#39;re ads; until now, creators relied on hashtags to label posts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260302/p28#a260302p28)
+ - [Magic Keyboard cases for the latest iPad Pro are up to $85 off](https://www.theverge.com/gadgets/887501/ipad-magic-keyboard-case-m4-pro-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
