@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel’s Now Playing feature has officially rolled out as an app](https://www.androidauthority.com/now-playing-launches-on-play-store-3645830/)
- - [Apple might use Google servers to store data for its upgraded AI Siri](https://www.theverge.com/tech/887802/apple-ai-siri-google-servers)
- - [Mastodon now has a button for sharing content from other websites](https://www.theverge.com/tech/887791/mastodon-official-share-button-widget)<!-- TECH:END -->
+ - [Sources: US considers limiting Chinese companies to 75K Nvidia H200 chips each, less than half of what some want to buy; AMD MI325 chips also count toward a cap &lpar;Bloomberg&rpar;](http://www.techmeme.com/260302/p37#a260302p37)
+ - [Apple’s cheapest AirPods have hit $89](https://www.theverge.com/gadgets/887839/apple-airpods-4-active-noise-cancellation-deal-sale)
+ - [These smart glasses are getting smarter with native support for Gemini, ChatGPT, and more](https://www.androidauthority.com/rokid-ai-glasses-support-gemini-3645861/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
