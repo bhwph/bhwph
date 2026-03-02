@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Doom: The Dark Ages director says the upcoming DLC is &#39;basically like a sequel&#39;: &#39;It&#39;s just ginormous&#39;](https://www.pcgamer.com/games/fps/doom-the-dark-ages-director-says-the-upcoming-dlc-is-basically-like-a-sequel-its-just-ginormous/)
- - [Which Starter Is The Best To Pick In Pokémon FireRed/LeafGreen?](https://kotaku.com/pokemon-firered-leafgreen-starter-pick-best-bulbasaur-charmander-squirtle-2000674795)
- - [An inaccessible zone in World of Warcraft: Midnight has players convinced it&#39;s a clue for the next update](https://www.pcgamer.com/games/world-of-warcraft/an-inaccessible-zone-in-world-of-warcraft-midnight-has-players-convinced-its-a-clue-for-the-next-update/)<!-- GAME:END -->
+ - [Grace&#39;s actor in Resident Evil Requiem says that Capcom &#39;wanted to go back to the horror Resident Evil games&#39;](https://www.pcgamer.com/games/resident-evil/resident-evil-requiem-performance-actor-says-they-sometimes-filmed-in-the-dark-to-make-the-situation-feel-as-close-to-what-it-was-without-you-know-having-a-real-life-zombie-running-at-you/)
+ - [Why I love Diablo 2, Act 1](https://www.pcgamer.com/games/rpg/why-i-love-diablo-2-act-1/)
+ - [Five new Steam games you probably missed &lpar;March 2, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-2-2026/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
