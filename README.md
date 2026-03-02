@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Frieren, Ranma 1/2 artists pull works from Manga One after sexual abuse scandal](https://www.polygon.com/shogakukan-yamamoto-scandal-manga-one-sexual-assault-minor/)
  - [Grace&#39;s actor in Resident Evil Requiem says that Capcom &#39;wanted to go back to the horror Resident Evil games&#39;](https://www.pcgamer.com/games/resident-evil/resident-evil-requiem-performance-actor-says-they-sometimes-filmed-in-the-dark-to-make-the-situation-feel-as-close-to-what-it-was-without-you-know-having-a-real-life-zombie-running-at-you/)
- - [Why I love Diablo 2, Act 1](https://www.pcgamer.com/games/rpg/why-i-love-diablo-2-act-1/)
- - [Five new Steam games you probably missed &lpar;March 2, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-2-2026/)<!-- GAME:END -->
+ - [Why I love Diablo 2, Act 1](https://www.pcgamer.com/games/rpg/why-i-love-diablo-2-act-1/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
