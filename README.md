@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokémon Pokopia is an expansive adventure disguised as a cozy life sim](https://www.theverge.com/games/885431/pokemon-pokopia-review)
- - [Qualcomm forms a &quot;coalition&quot; to launch 6G in 2029 and unveils the FastConnect 8800, an &quot;AI-native&quot; Wi-Fi 8-ready NIC that doubles peak speeds over Wi-Fi 7 &lpar;Will Sattelberg/9to5Google&rpar;](http://www.techmeme.com/260302/p17#a260302p17)
- - [Anthropic reports elevated errors on claude.ai, console, and Claude Code, starting at 11:49 UTC and impacting logins, and says the API &quot;is working as intended&quot; &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/260302/p16#a260302p16)<!-- TECH:END -->
+ - [There&#39;s not much in the new M4 iPad Air update other than speed](https://appleinsider.com/articles/26/03/02/theres-not-much-in-the-new-m4-ipad-air-update-other-than-speed?utm_source=rss)
+ - [Apple’s iPhone 17e targets the Pixel 10a with a massive storage and power boost](https://www.androidauthority.com/apple-iphone-17e-3645655/)
+ - [iPad Air &lpar;M4&rpar;: Specs, Features, Price](https://www.wired.com/story/apple-ipad-air-m4-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
