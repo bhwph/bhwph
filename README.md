@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Me irl](http://9gag.com/gag/a4PyxLd)
- - 😝 [Le Title.](http://9gag.com/gag/aPA2dxB)
- - 👉 [A sober Generation?](http://9gag.com/gag/azxwD0K)<!-- MEMES:END -->
+ - 6️⃣ [Ukrainian Student](http://9gag.com/gag/aND58pw)
+ - 😝 [Stunt double?](http://9gag.com/gag/axywA6K)
+ - 👉 [Im not even surprised...](http://9gag.com/gag/an7w8M5)<!-- MEMES:END -->
 
 --- 
 
