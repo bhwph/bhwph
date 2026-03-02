@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The long game](http://9gag.com/gag/aND538G)
- - 😝 [Somebody asked why I got Resident Evil Requiem on Steam instead of Xbox or PlayStation.](http://9gag.com/gag/ae9wdqm)
- - 👉 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)<!-- MEMES:END -->
+ - 6️⃣ [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)
+ - 😝 [Stupidity](http://9gag.com/gag/aVv5BLP)
+ - 👉 [Somebody asked why I got Resident Evil Requiem on Steam instead of Xbox or PlayStation.](http://9gag.com/gag/ae9wdqm)<!-- MEMES:END -->
 
 --- 
 
