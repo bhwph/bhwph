@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says the DOD affirmed that OpenAI&#39;s tools wouldn&#39;t be used by agencies like the NSA, and services to them would need a further contract modification &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260303/p1#a260303p1)
- - [L.L.Bean Promo Codes and Deals: Up to 75% Off Outdoor Gear](https://www.wired.com/story/ll-bean-promo-code/)
- - [Lowe’s Promo Codes and Deals: Up to $300 Off Appliances](https://www.wired.com/story/lowes-promo-code/)<!-- TECH:END -->
+ - [Your Google Home is about to get much better at listening and following orders &lpar;finally?!&rpar;](https://www.androidauthority.com/google-home-march-2026-update-3645927/)
+ - [5 of the best new Android apps you need to try this March](https://www.androidauthority.com/best-android-apps-games-march-2026-3645917/)
+ - [First look: Google Messages’ Trash feature adds a safety net for your chats](https://www.androidauthority.com/google-messages-trash-feature-apk-teardown-3645899/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
