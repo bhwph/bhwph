@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - 😝 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
- - 👉 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)<!-- MEMES:END -->
+ - 😝 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
+ - 👉 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)<!-- MEMES:END -->
 
 --- 
 
