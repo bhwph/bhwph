@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout co-creator Tim Cain says less is often more in game design: &#39;As a very wise designer once said to me, a game that includes everything is about nothing&#39;](https://www.pcgamer.com/gaming-industry/fallout-co-creator-tim-cain-says-less-is-often-more-in-game-design-as-a-very-wise-designer-once-said-to-me-a-game-that-includes-everything-is-about-nothing/)
- - [Sims 4 Players Don’t Understand How ‘Disgusting’ Epstein Family Made It Into Game’s Gallery [Update]](https://kotaku.com/sims-4-jeffrey-epstein-kids-family-ea-user-generated-content-gallery-fans-angry-2000675121)
- - [Pokémon Winds and Waves might have a totally new monster type](https://www.polygon.com/pokemon-winds-waves-type-fire-fairy-unused-rare-combo-pombon/)<!-- GAME:END -->
+ - [Marathon UI designer declares himself the &#39;fontslop merchant&#39; and promises Bungie will never &#39;remove the SAUCE from the UI&#39;](https://www.pcgamer.com/games/fps/marathon-ui-designer-declares-himself-the-fontslop-merchant-and-promises-bungie-will-never-remove-the-sauce-from-the-ui/)
+ - [The Marathon server slam consumed my weekend: 21 hours later, I&#39;ve gone from &#39;meh&#39; to believer](https://www.pcgamer.com/games/fps/the-marathon-server-slam-consumed-my-weekend-21-hours-later-ive-gone-from-meh-to-believer/)
+ - [Fruit Ninja studio Halfbrick hit with layoffs: &#39;we are navigating a challenging period for the games industry&#39;](https://www.pcgamer.com/gaming-industry/fruit-ninja-studio-halfbrick-hit-with-layoffs-we-are-navigating-a-challenging-period-for-the-games-industry/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
