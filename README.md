@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Gemini 3.1 Flash-Lite, which it says delivers &quot;enhanced performance&quot; at a fraction of the cost of larger models and outperforms 2.5 Flash &lpar;The Keyword&rpar;](http://www.techmeme.com/260303/p21#a260303p21)
- - [M5 MacBook Pro maxxed out will cost you $7349, but could have been a lot worse](https://appleinsider.com/articles/26/03/03/m5-macbook-pro-maxxed-out-will-cost-you-7349-but-could-have-been-a-lot-worse?utm_source=rss)
- - [X is testing a standalone X Chat iOS app with 1,000 users via Apple&#39;s TestFlight, a shift away from Elon Musk&#39;s plan to make X an &quot;everything app&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260303/p20#a260303p20)<!-- TECH:END -->
+ - [Yahoo is selling Engadget to Static Media](https://www.theverge.com/tech/888364/yahoo-engadget-sale-static-media)
+ - [OpenAI says GPT-5.3 Instant&#39;s tone should feel less &quot;cringe&quot; than GPT-5.2 Instant and has a smoother, more to-the-point conversational style &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/260303/p29#a260303p29)
+ - [One day late, macOS Tahoe 26.4 finally gets its third developer beta](https://appleinsider.com/articles/26/03/03/one-day-late-macos-tahoe-264-finally-gets-its-third-developer-beta?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
