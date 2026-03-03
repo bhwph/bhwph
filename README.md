@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [16KB page sizes return with the Android 17 beta, but what does it mean?](https://www.androidauthority.com/android-page-sizes-explained-3644598/)
- - [A UK trial by the National Grid, Nvidia, and others finds AI data centers can operate without using peak power continuously, adjusting consumption when asked &lpar;Eamon Farhat/Bloomberg&rpar;](http://www.techmeme.com/260303/p11#a260303p11)
- - [Google Maps’ shiny new icon is one step closer to a broader rollout](https://www.androidauthority.com/google-maps-new-icon-beta-3646052/)<!-- TECH:END -->
+ - [Samsung shows how crazy bright future smartphone screens are getting at MWC 2026](https://www.androidauthority.com/samsung-lead-smartphone-display-mwc-2026-3646112/)
+ - [New Studio Display XDR immediately outshines the updated Studio Display](https://appleinsider.com/articles/26/03/03/new-studio-display-xdr-immediately-outshines-the-updated-studio-display?utm_source=rss)
+ - [MacBook Pro with M5 Pro and M5 Max arrive, with few surprises](https://appleinsider.com/articles/26/03/03/macbook-pro-with-m5-pro-and-m5-max-arrive-with-few-surprises?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
