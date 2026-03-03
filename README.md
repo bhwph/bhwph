@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A sober Generation?](http://9gag.com/gag/azxwD0K)
- - 😝 [Finally, some good shit.](http://9gag.com/gag/a1mjng2)
- - 👉 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)<!-- MEMES:END -->
+ - 6️⃣ [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
+ - 😝 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
+ - 👉 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)<!-- MEMES:END -->
 
 --- 
 
