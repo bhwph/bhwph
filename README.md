@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Let’s Rank The Pokémon Starters, Worst To Best](https://kotaku.com/pokemon-new-gen-starters-best-worst-ranked-winds-waves-1850287696)
- - [Epic Games warns Fortnite players about V-bucks bot scam](https://www.polygon.com/fortnite-v-bucks-scam-bots-epic-games/)
- - [Apple somehow just doubled the amount of storage in the new MacBook Air M5 base model to 512 GB despite the memory crisis](https://www.pcgamer.com/hardware/gaming-laptops/apple-somehow-just-doubled-the-amount-of-storage-in-the-new-macbook-air-m5-base-model-to-512-gb-despite-the-memory-crisis/)<!-- GAME:END -->
+ - [Highguard Shutting Down Less Than 50 Days After Launch](https://kotaku.com/highguard-shutting-down-less-than-50-days-after-launch-2000675453)
+ - [Highguard, the latest live-service failure, is shutting down](https://www.polygon.com/highguard-shutting-down-servers-offline-steam-charts/)
+ - [Scott Pilgrim EX review](https://www.pcgamer.com/games/action/scott-pilgrim-ex-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
