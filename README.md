@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A sober Generation?](http://9gag.com/gag/azxwD0K)
- - 😝 [Ukrainian Student](http://9gag.com/gag/aND58pw)
- - 👉 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)<!-- MEMES:END -->
+ - 6️⃣ [Im not even surprised...](http://9gag.com/gag/an7w8M5)
+ - 😝 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
+ - 👉 [Stop talking and just do it](http://9gag.com/gag/avywBrn)<!-- MEMES:END -->
 
 --- 
 
