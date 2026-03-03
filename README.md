@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yahoo is selling Engadget to Static Media](https://www.theverge.com/tech/888364/yahoo-engadget-sale-static-media)
- - [OpenAI says GPT-5.3 Instant&#39;s tone should feel less &quot;cringe&quot; than GPT-5.2 Instant and has a smoother, more to-the-point conversational style &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/260303/p29#a260303p29)
- - [One day late, macOS Tahoe 26.4 finally gets its third developer beta](https://appleinsider.com/articles/26/03/03/one-day-late-macos-tahoe-264-finally-gets-its-third-developer-beta?utm_source=rss)<!-- TECH:END -->
+ - [Another Oracle outage is messing up US TikTok](https://www.theverge.com/tech/888647/tiktok-us-oracle-outage-march-2026)
+ - [Apple outlines game dev strategy with three GDC sessions](https://appleinsider.com/articles/26/03/03/apple-outlines-game-dev-strategy-with-three-gdc-sessions?utm_source=rss)
+ - [Deal: Save $200 on the Google Pixel 10](https://www.androidauthority.com/google-pixel-10-deal-3645885/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
