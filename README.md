@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung shows how crazy bright future smartphone screens are getting at MWC 2026](https://www.androidauthority.com/samsung-lead-smartphone-display-mwc-2026-3646112/)
- - [New Studio Display XDR immediately outshines the updated Studio Display](https://appleinsider.com/articles/26/03/03/new-studio-display-xdr-immediately-outshines-the-updated-studio-display?utm_source=rss)
- - [MacBook Pro with M5 Pro and M5 Max arrive, with few surprises](https://appleinsider.com/articles/26/03/03/macbook-pro-with-m5-pro-and-m5-max-arrive-with-few-surprises?utm_source=rss)<!-- TECH:END -->
+ - [Google launches Gemini 3.1 Flash-Lite, which it says delivers &quot;enhanced performance&quot; at a fraction of the cost of larger models and outperforms 2.5 Flash &lpar;The Keyword&rpar;](http://www.techmeme.com/260303/p21#a260303p21)
+ - [M5 MacBook Pro maxxed out will cost you $7349, but could have been a lot worse](https://appleinsider.com/articles/26/03/03/m5-macbook-pro-maxxed-out-will-cost-you-7349-but-could-have-been-a-lot-worse?utm_source=rss)
+ - [X is testing a standalone X Chat iOS app with 1,000 users via Apple&#39;s TestFlight, a shift away from Elon Musk&#39;s plan to make X an &quot;everything app&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260303/p20#a260303p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
