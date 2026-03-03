@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Google Home is about to get much better at listening and following orders &lpar;finally?!&rpar;](https://www.androidauthority.com/google-home-march-2026-update-3645927/)
- - [5 of the best new Android apps you need to try this March](https://www.androidauthority.com/best-android-apps-games-march-2026-3645917/)
- - [First look: Google Messages’ Trash feature adds a safety net for your chats](https://www.androidauthority.com/google-messages-trash-feature-apk-teardown-3645899/)<!-- TECH:END -->
+ - [Sources: Samsung Foundry has frequently delayed the timeline for its plant in Taylor, Texas, with its mass production plans moving from early 2026 to early 2027 &lpar;Lee Jae-Lim/Korea Joongang Daily&rpar;](http://www.techmeme.com/260303/p4#a260303p4)
+ - [At A Glance just became my favorite Pixel feature ever](https://www.androidauthority.com/at-a-glance-favorite-pixel-feature-3645672/)
+ - [Best Pajamas for Women &lpar;2026&rpar;, WIRED Tested and Reviewed](https://www.wired.com/story/the-best-pajamas-brands-for-women/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
