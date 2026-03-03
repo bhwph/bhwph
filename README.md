@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US considers limiting Chinese companies to 75K Nvidia H200 chips each, less than half of what some want to buy; AMD MI325 chips also count toward a cap &lpar;Bloomberg&rpar;](http://www.techmeme.com/260302/p37#a260302p37)
- - [Apple’s cheapest AirPods have hit $89](https://www.theverge.com/gadgets/887839/apple-airpods-4-active-noise-cancellation-deal-sale)
- - [These smart glasses are getting smarter with native support for Gemini, ChatGPT, and more](https://www.androidauthority.com/rokid-ai-glasses-support-gemini-3645861/)<!-- TECH:END -->
+ - [AWS says its facilities in the Middle East are facing power and connectivity issues after drone strikes impacted its infrastructure in the UAE and Bahrain &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260302/p47#a260302p47)
+ - [Bengaluru-based Pronto, which offers on-demand home-help services like cooking and cleaning, raised a $25M Series B led by Epiq Capital at a $100M valuation &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/260302/p46#a260302p46)
+ - [Segway Cube 1000 Portable Power Station hits its lowest price ever!](https://www.androidauthority.com/segway-cube-1000-portable-power-station-deal-3645886/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
