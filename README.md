@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)
- - 😝 [Female F-15E Strike Eagle pilot that ejected is filmed and thanked by Kuwaiti locals moments after she landed safely.](http://9gag.com/gag/a7oXmVr)
- - 👉 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)<!-- MEMES:END -->
+ - 6️⃣ [The horror](http://9gag.com/gag/aO85nDD)
+ - 😝 [Legends of Aviation](http://9gag.com/gag/adBwW5d)
+ - 👉 [Female F-15E Strike Eagle pilot that ejected is filmed and thanked by Kuwaiti locals moments after she landed safely.](http://9gag.com/gag/a7oXmVr)<!-- MEMES:END -->
 
 --- 
 
