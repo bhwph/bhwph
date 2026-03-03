@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We were too hard on Jurassic World: Fallen Kingdom](https://www.polygon.com/we-were-too-hard-on-jurassic-world-fallen-kingdom/)
- - [Scientists warn against crappy age verification: &#39;if implemented without careful consideration… the new regulation might cause more harm than good&#39;](https://www.pcgamer.com/hardware/scientists-warn-against-crappy-age-verification-if-implemented-without-careful-consideration-the-new-regulation-might-cause-more-harm-than-good/)
- - [Nvidia&#39;s RTX 5070 leaps to top of the Steam Hardware Survey but something looks fishy in the figures](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-5070-leaps-to-top-of-the-steam-hardware-survey-but-something-looks-fishy-in-the-figures/)<!-- GAME:END -->
+ - [Dungeons &amp; Dragons 2026 roadmap includes Ravenloft, Arcana Unleashed, and Thay](https://www.polygon.com/dnd-2026-release-date-schedule-ravenloft-thay/)
+ - [Leon Kennedy&#39;s voice actor doesn&#39;t believe AI can replace human performances, and paying &#39;for an actor&#39;s voice session is not that big of a deal&#39; for games as big as Arc Raiders](https://www.pcgamer.com/games/resident-evil/leon-kennedys-voice-actor-doesnt-believe-ai-can-replace-human-performances-and-paying-for-an-actors-voice-session-is-not-that-big-of-a-deal-for-games-as-big-as-arc-raiders/)
+ - [18 Games We Saw At Nintendo’s March Indie World Showcase](https://kotaku.com/nintendo-indie-world-march-switch-2-blue-prince-2000675335)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
