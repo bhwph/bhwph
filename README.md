@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Support Israel and AIPAC](http://9gag.com/gag/aD25qRG)
- - 😝 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
- - 👉 [Damn I would fall for it](http://9gag.com/gag/avywB5O)<!-- MEMES:END -->
+ - 6️⃣ [A sober Generation?](http://9gag.com/gag/azxwD0K)
+ - 😝 [Finally, some good shit.](http://9gag.com/gag/a1mjng2)
+ - 👉 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)<!-- MEMES:END -->
 
 --- 
 
