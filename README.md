@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeons &amp; Dragons 2026 roadmap includes Ravenloft, Arcana Unleashed, and Thay](https://www.polygon.com/dnd-2026-release-date-schedule-ravenloft-thay/)
- - [Leon Kennedy&#39;s voice actor doesn&#39;t believe AI can replace human performances, and paying &#39;for an actor&#39;s voice session is not that big of a deal&#39; for games as big as Arc Raiders](https://www.pcgamer.com/games/resident-evil/leon-kennedys-voice-actor-doesnt-believe-ai-can-replace-human-performances-and-paying-for-an-actors-voice-session-is-not-that-big-of-a-deal-for-games-as-big-as-arc-raiders/)
- - [18 Games We Saw At Nintendo’s March Indie World Showcase](https://kotaku.com/nintendo-indie-world-march-switch-2-blue-prince-2000675335)<!-- GAME:END -->
+ - [Let’s Rank The Pokémon Starters, Worst To Best](https://kotaku.com/pokemon-new-gen-starters-best-worst-ranked-winds-waves-1850287696)
+ - [Epic Games warns Fortnite players about V-bucks bot scam](https://www.polygon.com/fortnite-v-bucks-scam-bots-epic-games/)
+ - [Apple somehow just doubled the amount of storage in the new MacBook Air M5 base model to 512 GB despite the memory crisis](https://www.pcgamer.com/hardware/gaming-laptops/apple-somehow-just-doubled-the-amount-of-storage-in-the-new-macbook-air-m5-base-model-to-512-gb-despite-the-memory-crisis/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
