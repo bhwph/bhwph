@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role Campaign 4 using West Marches style keeps things fresh](https://www.polygon.com/critical-role-campaign-4-west-marches-episodes-connections/)
- - [Pokémon Pokopia release time in your time zone on Switch 2](https://www.polygon.com/pokemon-pokopia-release-time-est-pst-preload-preorder/)
- - [Marathon UI designer declares himself the &#39;fontslop merchant&#39; and promises Bungie will never &#39;remove the SAUCE from the UI&#39;](https://www.pcgamer.com/games/fps/marathon-ui-designer-declares-himself-the-fontslop-merchant-and-promises-bungie-will-never-remove-the-sauce-from-the-ui/)<!-- GAME:END -->
+ - [We were too hard on Jurassic World: Fallen Kingdom](https://www.polygon.com/we-were-too-hard-on-jurassic-world-fallen-kingdom/)
+ - [Scientists warn against crappy age verification: &#39;if implemented without careful consideration… the new regulation might cause more harm than good&#39;](https://www.pcgamer.com/hardware/scientists-warn-against-crappy-age-verification-if-implemented-without-careful-consideration-the-new-regulation-might-cause-more-harm-than-good/)
+ - [Nvidia&#39;s RTX 5070 leaps to top of the Steam Hardware Survey but something looks fishy in the figures](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-5070-leaps-to-top-of-the-steam-hardware-survey-but-something-looks-fishy-in-the-figures/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
