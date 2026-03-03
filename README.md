@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Im not even surprised...](http://9gag.com/gag/an7w8M5)
+ - 6️⃣ [Support Israel and AIPAC](http://9gag.com/gag/aD25qRG)
  - 😝 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
- - 👉 [Stop talking and just do it](http://9gag.com/gag/avywBrn)<!-- MEMES:END -->
+ - 👉 [Damn I would fall for it](http://9gag.com/gag/avywB5O)<!-- MEMES:END -->
 
 --- 
 
