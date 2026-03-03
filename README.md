@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Samsung Foundry has frequently delayed the timeline for its plant in Taylor, Texas, with its mass production plans moving from early 2026 to early 2027 &lpar;Lee Jae-Lim/Korea Joongang Daily&rpar;](http://www.techmeme.com/260303/p4#a260303p4)
- - [At A Glance just became my favorite Pixel feature ever](https://www.androidauthority.com/at-a-glance-favorite-pixel-feature-3645672/)
- - [Best Pajamas for Women &lpar;2026&rpar;, WIRED Tested and Reviewed](https://www.wired.com/story/the-best-pajamas-brands-for-women/)<!-- TECH:END -->
+ - [16KB page sizes return with the Android 17 beta, but what does it mean?](https://www.androidauthority.com/android-page-sizes-explained-3644598/)
+ - [A UK trial by the National Grid, Nvidia, and others finds AI data centers can operate without using peak power continuously, adjusting consumption when asked &lpar;Eamon Farhat/Bloomberg&rpar;](http://www.techmeme.com/260303/p11#a260303p11)
+ - [Google Maps’ shiny new icon is one step closer to a broader rollout](https://www.androidauthority.com/google-maps-new-icon-beta-3646052/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
