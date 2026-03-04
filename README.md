@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - 😝 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
- - 👉 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s not a `chick flick` unless there&#39;s romanticized cheating.](http://9gag.com/gag/a6Z6e0q)
+ - 😝 [Saved by the pan](http://9gag.com/gag/aW45eLZ)
+ - 👉 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)<!-- MEMES:END -->
 
 --- 
 
