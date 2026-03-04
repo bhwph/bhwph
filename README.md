@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Highguard Shutting Down Less Than 50 Days After Launch](https://kotaku.com/highguard-shutting-down-less-than-50-days-after-launch-2000675453)
- - [Highguard, the latest live-service failure, is shutting down](https://www.polygon.com/highguard-shutting-down-servers-offline-steam-charts/)
- - [Scott Pilgrim EX review](https://www.pcgamer.com/games/action/scott-pilgrim-ex-review/)<!-- GAME:END -->
+ - [This dice-rolling roguelite is like Balatro on steroids, and its bosses are pure evil](https://www.pcgamer.com/games/roguelike/this-dice-rolling-roguelite-is-like-balatro-on-steroids-and-its-bosses-are-pure-evil/)
+ - [World of Warcraft: Midnight player proves that you only need a single button and a clever build to heal your dungeon party](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-midnight-player-proves-that-you-only-need-a-single-button-and-a-clever-build-to-heal-your-dungeon-party/)
+ - [Capcom makes the majority of its sales on PC, and it expects the &#39;ratio to continue increasing&#39;](https://www.pcgamer.com/gaming-industry/capcom-makes-the-majority-of-its-sales-on-pc-and-it-expects-the-ratio-to-continue-increasing/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
