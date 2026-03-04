@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NotebookLM can now summarize research in ‘cinematic’ video overviews](https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews)
- - [The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price](https://www.theverge.com/gadgets/889391/apple-macbook-air-m5-m4-deal-sale)
- - [The world’s biggest automaker has one of the dirtiest supply chains: report](https://www.theverge.com/transportation/889145/lead-the-charge-supply-chain-leaderboard-toyota-tesla)<!-- TECH:END -->
+ - [Here’s how Google describes its fee-reducing Apps Experience and Games Level Up programs](https://www.theverge.com/tech/889538/google-apps-experience-games-level-up-program)
+ - [Leaked Friday memo: Dario Amodei called OpenAI&#39;s DOD deal &quot;safety theater&quot;, said DOD dislikes Anthropic in part for not giving &quot;dictator-style praise to Trump&quot; &lpar;The Information&rpar;](http://www.techmeme.com/260304/p40#a260304p40)
+ - [Highguard to Go Offline After Rapid Player Drop](https://www.cnet.com/tech/gaming/highguard-offline-player-drop/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
