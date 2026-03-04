@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro, wtf?](http://9gag.com/gag/aMV56oX)
+ - 6️⃣ [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
  - 😝 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
- - 👉 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)<!-- MEMES:END -->
+ - 👉 [Bro, wtf?](http://9gag.com/gag/aMV56oX)<!-- MEMES:END -->
 
 --- 
 
