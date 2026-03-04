@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CrowdStrike reports Q4 revenue up 23% YoY to $1.31B, vs. $1.30B est., a profit of $38.7M, compared with a loss of $86.3M a year earlier &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/260303/p41#a260303p41)
- - [An internal DHS document shows CBP used location data sourced from the online ad industry to track phone locations; ICE has bought access to similar tools &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/260303/p40#a260303p40)
- - [Amazon tells users it is shutting down the Wondery podcast app and Wondery+ subscription service &quot;in the coming months&quot;; some shows will be available on Audible &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260303/p39#a260303p39)<!-- TECH:END -->
+ - [KeyCare, a virtual care platform built on the Epic EHR, raised $27.4M led by HealthX Ventures, bringing its total funding to over $55M &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/260303/p53#a260303p53)
+ - [CPU benchmarks for M4 iPad Air show comparable scores to M4 iPad Pro](https://appleinsider.com/articles/26/03/04/cpu-benchmarks-for-m4-ipad-air-show-comparable-scores-to-m4-ipad-pro?utm_source=rss)
+ - [Google details Coruna, an exploit kit used to hijack iPhones via malicious websites; iVerify suggests it may have been originally built for the US government &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260303/p52#a260303p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
