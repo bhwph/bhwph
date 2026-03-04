@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Leon Kennedy voice actor Nick Apostolides is the biggest Resident Evil fan ever](https://www.polygon.com/leon-kennedy-nick-apostolides-interview/)
- - [Nintendo marks Mario Day 2026 with two Virtual Boy games](https://www.polygon.com/nintendo-classics-mario-mar10-day-virtual-boy/)
- - [Acer Nitro V 16 AI review](https://www.pcgamer.com/hardware/gaming-laptops/acer-nitro-v-16-ai-review/)<!-- GAME:END -->
+ - [Kiss goodbye to Ghost of Yotei on PC: Sony is U-turning on its &#39;let&#39;s put our games on PC&#39; strategy and bunkering back down with console exclusives, says Bloomberg](https://www.pcgamer.com/gaming-industry/kiss-goodbye-to-ghost-of-yotei-on-pc-sony-is-u-turning-on-its-lets-put-our-games-on-pc-strategy-and-bunkering-back-down-with-console-exclusives-says-bloomberg/)
+ - [Crimson Desert hands-on report: four hours in the RPG’s massive open world](https://blog.playstation.com/2026/03/04/crimson-desert-hands-on-report-four-hours-in-the-rpgs-massive-open-world/)
+ - [Marathon roadmap: All upcoming updates](https://www.pcgamer.com/games/fps/marathon-roadmap/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
