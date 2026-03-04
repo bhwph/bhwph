@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [KeyCare, a virtual care platform built on the Epic EHR, raised $27.4M led by HealthX Ventures, bringing its total funding to over $55M &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/260303/p53#a260303p53)
- - [CPU benchmarks for M4 iPad Air show comparable scores to M4 iPad Pro](https://appleinsider.com/articles/26/03/04/cpu-benchmarks-for-m4-ipad-air-show-comparable-scores-to-m4-ipad-pro?utm_source=rss)
- - [Google details Coruna, an exploit kit used to hijack iPhones via malicious websites; iVerify suggests it may have been originally built for the US government &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260303/p52#a260303p52)<!-- TECH:END -->
+ - [Security researchers successfully prompted the AI behind a Utah prescription renewal pilot to reclassify meth as an &quot;unrestricted therapeutic&quot;, and more &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260303/p57#a260303p57)
+ - [Dario Amodei says Anthropic has a higher retention than OpenAI, emphasizing its &quot;mission&quot; as a way to reinforce staff loyalty and fend off competitors&#39; offers &lpar;The Information&rpar;](http://www.techmeme.com/260303/p56#a260303p56)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, March 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-march-4/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
