@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Security researchers successfully prompted the AI behind a Utah prescription renewal pilot to reclassify meth as an &quot;unrestricted therapeutic&quot;, and more &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260303/p57#a260303p57)
- - [Dario Amodei says Anthropic has a higher retention than OpenAI, emphasizing its &quot;mission&quot; as a way to reinforce staff loyalty and fend off competitors&#39; offers &lpar;The Information&rpar;](http://www.techmeme.com/260303/p56#a260303p56)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, March 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-march-4/)<!-- TECH:END -->
+ - [Sources: President Trump met with Coinbase CEO Brian Armstrong on March 3 before publicly admonishing banks over the GENIUS Act, echoing Coinbase&#39;s position &lpar;Jasper Goodman/Politico&rpar;](http://www.techmeme.com/260304/p6#a260304p6)
+ - [An OpenAI spokesperson says Sam Altman misspoke in saying OpenAI was looking to deploy on NATO classified networks, and that it was for &quot;unclassified networks&quot; &lpar;Hyunsu Yim/Reuters&rpar;](http://www.techmeme.com/260304/p5#a260304p5)
+ - [Barkbox Promo Codes and Discounts: Up to 50% Off](https://www.wired.com/story/barkbox-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
