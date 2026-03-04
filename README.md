@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with a rugged Android Phone that can start fires and charge your MacBook](https://www.androidauthority.com/oukitel-wp63-hand-on-3646152/)
- - [Best Theraguns and Therabody Tools for Smarter Recovery &lpar;2026&rpar;](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/)
- - [Survey suggests the original Pixel Fold had the right design idea all along](https://www.androidauthority.com/tall-wide-foldable-phone-poll-results-3646416/)<!-- TECH:END -->
+ - [This DIY triple battery mod turns the Galaxy Z TriFold into a 9,600mAh beast](https://www.androidauthority.com/galaxy-z-trifold-silicon-carbon-battery-3646455/)
+ - [More Android phones could soon get their own version of Pixel’s Camera Coach](https://www.androidauthority.com/mediatek-dimensity-9500-camera-ai-agent-vivo-3646500/)
+ - [Apple&#39;s launch week also includes new Hermes Apple Watch bands](https://appleinsider.com/articles/26/03/04/apples-launch-week-also-includes-new-hermes-apple-watch-bands?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
