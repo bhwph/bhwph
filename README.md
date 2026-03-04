@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - 😝 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
- - 👉 [Bro, wtf?](http://9gag.com/gag/aMV56oX)<!-- MEMES:END -->
+ - 6️⃣ [Oh how glad I am to live in such a wonderfully providing country!](http://9gag.com/gag/awy2DDQ)
+ - 😝 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)
+ - 👉 [Me convincing myself to make a bad decision](http://9gag.com/gag/apRw779)<!-- MEMES:END -->
 
 --- 
 
