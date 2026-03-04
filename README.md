@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [As hardware prices make heads spin, Apple of all companies has just announced a new MacBook laptop for only $599](https://www.pcgamer.com/hardware/gaming-laptops/as-hardware-prices-make-heads-spin-apple-of-all-companies-has-just-announced-a-new-macbook-laptop-for-only-usd599/)
- - [The big Pokémon debate: Two legs or four?](https://www.polygon.com/pokemon-two-legs-or-four/)
- - [Meta&#39;s new FrameSync feature aims to make VR a little less nauseating](https://www.pcgamer.com/hardware/vr-hardware/metas-new-framesync-feature-aims-to-make-vr-a-little-less-nauseating/)<!-- GAME:END -->
+ - [Pokémon Pokopia May Have Debunked A Years-Long Fan Theory](https://kotaku.com/pokemon-pokopia-dj-rotom-stereo-form-sound-type-pokedex-2000675905)
+ - [Finally someone has threaded the needle between survival game and horse girl sim](https://www.pcgamer.com/games/sim/finally-someone-has-threaded-the-needle-between-survival-game-and-horse-girl-sim/)
+ - [Ubisoft finally confirms the Assassin&#39;s Creed 4: Black Flag remake is real, and it&#39;s dropping the &#39;4&#39; for some reason](https://www.pcgamer.com/games/assassins-creed/ubisoft-finally-confirms-the-assassins-creed-4-black-flag-remake-is-real-and-its-dropping-the-4-for-some-reason/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
