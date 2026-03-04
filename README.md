@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Saved by the pan](http://9gag.com/gag/aW45eLZ)
- - 😝 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
- - 👉 [Flasback](http://9gag.com/gag/a2vpg7Z)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s Science.](http://9gag.com/gag/a4PygNm)
+ - 😝 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
+ - 👉 [Stop making stupid people famous](http://9gag.com/gag/agmwbPr)<!-- MEMES:END -->
 
 --- 
 
