@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This DIY triple battery mod turns the Galaxy Z TriFold into a 9,600mAh beast](https://www.androidauthority.com/galaxy-z-trifold-silicon-carbon-battery-3646455/)
- - [More Android phones could soon get their own version of Pixel’s Camera Coach](https://www.androidauthority.com/mediatek-dimensity-9500-camera-ai-agent-vivo-3646500/)
- - [Apple&#39;s launch week also includes new Hermes Apple Watch bands](https://appleinsider.com/articles/26/03/04/apples-launch-week-also-includes-new-hermes-apple-watch-bands?utm_source=rss)<!-- TECH:END -->
+ - [Google talks Aluminium OS: Release plans, continuity, AI, and what happens to Chrome OS](https://www.androidauthority.com/google-aluminium-os-sameer-samat-interview-3646400/)
+ - [MacBook Neo is Apple&#39;s new $599 entry-level notebook](https://appleinsider.com/articles/26/03/04/macbook-neo-is-apples-new-entry-level-notebook?utm_source=rss)
+ - [Google Photos for Android finally prepares to catch up with these iOS features](https://www.androidauthority.com/google-photos-manual-stacks-immersive-ui-apk-teardown-3646405/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
