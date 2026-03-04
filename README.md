@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s not a `chick flick` unless there&#39;s romanticized cheating.](http://9gag.com/gag/a6Z6e0q)
- - 😝 [Saved by the pan](http://9gag.com/gag/aW45eLZ)
- - 👉 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)<!-- MEMES:END -->
+ - 6️⃣ [After seeing there were some earthquakes inside Iran](http://9gag.com/gag/aND5X26)
+ - 😝 [Now I want to learn about it](http://9gag.com/gag/a9y0436)
+ - 👉 [Daughter doesn&#39;t really understand the meaning of the word. All she knows is that `if you don&#39;t worship the god-emperor ,you are a heretic`.](http://9gag.com/gag/aW45Ajd)<!-- MEMES:END -->
 
 --- 
 
