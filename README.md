@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Authorities from 14 countries shut down LeakBase, seize its domains, and arrest multiple people allegedly tied to the cybercrime forum, which had 142K+ members &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/260304/p33#a260304p33)
- - [This 5.1 Soundbar Bundle Is $100 Off](https://www.wired.com/story/sony-bravia-theater-system-deal-326/)
- - [Epic and Google propose a settlement that would have Google share its Play Store app catalog with rivals and offer a registered app store program for Android &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/260304/p32#a260304p32)<!-- TECH:END -->
+ - [NotebookLM can now summarize research in ‘cinematic’ video overviews](https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews)
+ - [The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price](https://www.theverge.com/gadgets/889391/apple-macbook-air-m5-m4-deal-sale)
+ - [The world’s biggest automaker has one of the dirtiest supply chains: report](https://www.theverge.com/transportation/889145/lead-the-charge-supply-chain-leaderboard-toyota-tesla)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
