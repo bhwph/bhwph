@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kiss goodbye to Ghost of Yotei on PC: Sony is U-turning on its &#39;let&#39;s put our games on PC&#39; strategy and bunkering back down with console exclusives, says Bloomberg](https://www.pcgamer.com/gaming-industry/kiss-goodbye-to-ghost-of-yotei-on-pc-sony-is-u-turning-on-its-lets-put-our-games-on-pc-strategy-and-bunkering-back-down-with-console-exclusives-says-bloomberg/)
- - [Crimson Desert hands-on report: four hours in the RPG’s massive open world](https://blog.playstation.com/2026/03/04/crimson-desert-hands-on-report-four-hours-in-the-rpgs-massive-open-world/)
- - [Marathon roadmap: All upcoming updates](https://www.pcgamer.com/games/fps/marathon-roadmap/)<!-- GAME:END -->
+ - [As hardware prices make heads spin, Apple of all companies has just announced a new MacBook laptop for only $599](https://www.pcgamer.com/hardware/gaming-laptops/as-hardware-prices-make-heads-spin-apple-of-all-companies-has-just-announced-a-new-macbook-laptop-for-only-usd599/)
+ - [The big Pokémon debate: Two legs or four?](https://www.polygon.com/pokemon-two-legs-or-four/)
+ - [Meta&#39;s new FrameSync feature aims to make VR a little less nauseating](https://www.pcgamer.com/hardware/vr-hardware/metas-new-framesync-feature-aims-to-make-vr-a-little-less-nauseating/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
