@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
- - 😝 [We should be actively fighting to protect this!](http://9gag.com/gag/an7wZE0)
- - 👉 [Traumatized for life](http://9gag.com/gag/ajPwjbQ)<!-- MEMES:END -->
+ - 6️⃣ [Bro, wtf?](http://9gag.com/gag/aMV56oX)
+ - 😝 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
+ - 👉 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)<!-- MEMES:END -->
 
 --- 
 
