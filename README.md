@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google talks Aluminium OS: Release plans, continuity, AI, and what happens to Chrome OS](https://www.androidauthority.com/google-aluminium-os-sameer-samat-interview-3646400/)
- - [MacBook Neo is Apple&#39;s new $599 entry-level notebook](https://appleinsider.com/articles/26/03/04/macbook-neo-is-apples-new-entry-level-notebook?utm_source=rss)
- - [Google Photos for Android finally prepares to catch up with these iOS features](https://www.androidauthority.com/google-photos-manual-stacks-immersive-ui-apk-teardown-3646405/)<!-- TECH:END -->
+ - [The MacBook Neo is &lpar;probably&rpar; not for you, but that doesn&#39;t make it a failure](https://appleinsider.com/articles/26/03/04/the-macbook-neo-is-probably-not-for-you-but-that-doesnt-make-it-a-failure?utm_source=rss)
+ - [Now Playing’s Android overhaul broke one fan-favorite feature](https://www.androidauthority.com/now-playing-history-3646668/)
+ - [The Texas Senate Primary Was a Preview of Creator Wars to Come](https://www.wired.com/story/the-texas-senate-primary-was-a-preview-of-creator-wars-to-come/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
