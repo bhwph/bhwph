@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s Science.](http://9gag.com/gag/a4PygNm)
- - 😝 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
- - 👉 [Stop making stupid people famous](http://9gag.com/gag/agmwbPr)<!-- MEMES:END -->
+ - 6️⃣ [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
+ - 😝 [Flasback](http://9gag.com/gag/a2vpg7Z)
+ - 👉 [Bro, wtf?](http://9gag.com/gag/aMV56oX)<!-- MEMES:END -->
 
 --- 
 
