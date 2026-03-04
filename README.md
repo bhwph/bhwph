@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now I want to learn about it](http://9gag.com/gag/a9y0436)
- - 😝 [Daughter doesn&#39;t really understand the meaning of the word. All she knows is that `if you don&#39;t worship the god-emperor ,you are a heretic`.](http://9gag.com/gag/aW45Ajd)
- - 👉 [Stop making stupid people famous](http://9gag.com/gag/agmwbPr)<!-- MEMES:END -->
+ - 6️⃣ [Saved by the pan](http://9gag.com/gag/aW45eLZ)
+ - 😝 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
+ - 👉 [Flasback](http://9gag.com/gag/a2vpg7Z)<!-- MEMES:END -->
 
 --- 
 
