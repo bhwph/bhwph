@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The MacBook Neo is &lpar;probably&rpar; not for you, but that doesn&#39;t make it a failure](https://appleinsider.com/articles/26/03/04/the-macbook-neo-is-probably-not-for-you-but-that-doesnt-make-it-a-failure?utm_source=rss)
- - [Now Playing’s Android overhaul broke one fan-favorite feature](https://www.androidauthority.com/now-playing-history-3646668/)
- - [The Texas Senate Primary Was a Preview of Creator Wars to Come](https://www.wired.com/story/the-texas-senate-primary-was-a-preview-of-creator-wars-to-come/)<!-- TECH:END -->
+ - [Authorities from 14 countries shut down LeakBase, seize its domains, and arrest multiple people allegedly tied to the cybercrime forum, which had 142K+ members &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/260304/p33#a260304p33)
+ - [This 5.1 Soundbar Bundle Is $100 Off](https://www.wired.com/story/sony-bravia-theater-system-deal-326/)
+ - [Epic and Google propose a settlement that would have Google share its Play Store app catalog with rivals and offer a registered app store program for Android &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/260304/p32#a260304p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
