@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This dice-rolling roguelite is like Balatro on steroids, and its bosses are pure evil](https://www.pcgamer.com/games/roguelike/this-dice-rolling-roguelite-is-like-balatro-on-steroids-and-its-bosses-are-pure-evil/)
- - [World of Warcraft: Midnight player proves that you only need a single button and a clever build to heal your dungeon party](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-midnight-player-proves-that-you-only-need-a-single-button-and-a-clever-build-to-heal-your-dungeon-party/)
- - [Capcom makes the majority of its sales on PC, and it expects the &#39;ratio to continue increasing&#39;](https://www.pcgamer.com/gaming-industry/capcom-makes-the-majority-of-its-sales-on-pc-and-it-expects-the-ratio-to-continue-increasing/)<!-- GAME:END -->
+ - [Leon Kennedy voice actor Nick Apostolides is the biggest Resident Evil fan ever](https://www.polygon.com/leon-kennedy-nick-apostolides-interview/)
+ - [Nintendo marks Mario Day 2026 with two Virtual Boy games](https://www.polygon.com/nintendo-classics-mario-mar10-day-virtual-boy/)
+ - [Acer Nitro V 16 AI review](https://www.pcgamer.com/hardware/gaming-laptops/acer-nitro-v-16-ai-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
