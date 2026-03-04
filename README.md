@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
  - 😝 [Flasback](http://9gag.com/gag/a2vpg7Z)
- - 👉 [Bro, wtf?](http://9gag.com/gag/aMV56oX)<!-- MEMES:END -->
+ - 👉 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)<!-- MEMES:END -->
 
 --- 
 
