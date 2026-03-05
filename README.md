@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Google describes its fee-reducing Apps Experience and Games Level Up programs](https://www.theverge.com/tech/889538/google-apps-experience-games-level-up-program)
- - [Leaked Friday memo: Dario Amodei called OpenAI&#39;s DOD deal &quot;safety theater&quot;, said DOD dislikes Anthropic in part for not giving &quot;dictator-style praise to Trump&quot; &lpar;The Information&rpar;](http://www.techmeme.com/260304/p40#a260304p40)
- - [Highguard to Go Offline After Rapid Player Drop](https://www.cnet.com/tech/gaming/highguard-offline-player-drop/)<!-- TECH:END -->
+ - [Budget speed: How fast will the low-cost MacBook Neo really be?](https://appleinsider.com/articles/26/03/04/budget-speed-how-fast-will-the-low-cost-macbook-neo-really-be?utm_source=rss)
+ - [Sources: Dario Amodei has been holding talks with the DOD&#39;s Emil Michael in a bid to iron out a contract governing the Pentagon&#39;s access to Anthropic&#39;s models &lpar;Financial Times&rpar;](http://www.techmeme.com/260304/p50#a260304p50)
+ - [MacBook Neo vs M5 MacBook Air: Budget notebooks compared](https://appleinsider.com/inside/macbook-air/vs/macbook-neo-vs-m5-macbook-air-budget-notebooks-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
