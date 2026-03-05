@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Pokopia May Have Debunked A Years-Long Fan Theory](https://kotaku.com/pokemon-pokopia-dj-rotom-stereo-form-sound-type-pokedex-2000675905)
- - [Finally someone has threaded the needle between survival game and horse girl sim](https://www.pcgamer.com/games/sim/finally-someone-has-threaded-the-needle-between-survival-game-and-horse-girl-sim/)
- - [Ubisoft finally confirms the Assassin&#39;s Creed 4: Black Flag remake is real, and it&#39;s dropping the &#39;4&#39; for some reason](https://www.pcgamer.com/games/assassins-creed/ubisoft-finally-confirms-the-assassins-creed-4-black-flag-remake-is-real-and-its-dropping-the-4-for-some-reason/)<!-- GAME:END -->
+ - [Remedy Explains What Defines A Control Game As Its Sequels Veer Off In Wild Directions](https://kotaku.com/control-resonant-remedy-shooter-third-person-2000675970)
+ - [Mobile Suit Gundam: Char’s Counterattack remains endlessly rewatchable](https://www.polygon.com/mobile-suit-gundam-chars-counterattack-1988-iconic-anime-film/)
+ - [Meet the 8 Colossal Machines of Docked, Out Now on Xbox Series X|S](https://news.xbox.com/en-us/2026/03/05/docked-machines/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
