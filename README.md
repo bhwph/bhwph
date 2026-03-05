@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s new gaming CEO Asha Sharma teases the next Xbox, codenamed Project Helix, saying it &quot;will lead in performance and play your Xbox and PC games&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260305/p52#a260305p52)
- - [Google is making Gmail, Docs, and other apps work better with OpenClaw](https://www.androidauthority.com/google-workspace-cli-openclaw-3647054/)
- - [Amazon.com is up and down, with login errors and prices not loading](https://www.theverge.com/tech/890215/amazon-is-down-login-prices)<!-- TECH:END -->
+ - [Sources: Together AI is in talks to raise ~$1B at a $7.5B pre-money valuation, up from $3.3B in 2025; its annualized revenue has hit ~$1B, up 3x+ from mid-2025 &lpar;The Information&rpar;](http://www.techmeme.com/260305/p55#a260305p55)
+ - [Here’s Every Country Directly Impacted by the War on Iran](https://www.wired.com/story/every-country-directly-impacted-by-the-war-on-iran/)
+ - [‘Uncanny Valley’: Iran War in the AI Era, Prediction Market Ethics, and Paramount Beats Netflix](https://www.wired.com/story/uncanny-valley-podcast-iran-war-artificial-intelligence-prediction-markets-paramount-warner-bros/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
