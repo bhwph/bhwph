@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just squeeze it](http://9gag.com/gag/aND55Or)
- - 😝 [My guy just eyeballed those small blocks](http://9gag.com/gag/aKG55p1)
- - 👉 [For mankind!](http://9gag.com/gag/aVv55nP)<!-- MEMES:END -->
+ - 6️⃣ [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
+ - 😝 [Flasback](http://9gag.com/gag/a2vpg7Z)
+ - 👉 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)<!-- MEMES:END -->
 
 --- 
 
