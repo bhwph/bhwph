@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI topped $25B in annualized revenue by end-February, up from $21.4B at end-2025; it annualizes by multiplying the last four weeks&#39; revenue by 12 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260304/p57#a260304p57)
- - [Apple Music introduces Transparency Tags, a metadata system for music distributors and labels to disclose AI-generated creative elements like artwork or lyrics &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/260304/p56#a260304p56)
- - [Microsoft releases Phi-4-reasoning-vision-15B, a 15B-parameter open-weight model it says matches larger systems while using far less compute and training data &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/260304/p55#a260304p55)<!-- TECH:END -->
+ - [Officials say NATO&#39;s main focus at its July summit will be on investments into drones and AI systems rather than primarily conventional defense hardware &lpar;Bloomberg&rpar;](http://www.techmeme.com/260305/p6#a260305p6)
+ - [Many of Stockholm&#39;s thriving tech businesses consider relocating as they look to scale up, amid growing US interest in Swedish AI startups Lovable and Legora &lpar;Orlando Crowcroft/Financial Times&rpar;](http://www.techmeme.com/260305/p5#a260305p5)
+ - [OpenAI is scaling back shopping directly inside ChatGPT via Instant Checkout by having checkouts instead take place in the specific apps that plug into ChatGPT &lpar;The Information&rpar;](http://www.techmeme.com/260305/p4#a260305p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
