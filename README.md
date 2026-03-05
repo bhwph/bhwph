@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
- - 😝 [Flasback](http://9gag.com/gag/a2vpg7Z)
- - 👉 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)<!-- MEMES:END -->
+ - 6️⃣ [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
+ - 😝 [Rogue](http://9gag.com/gag/aD255RB)
+ - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
 
 --- 
 
