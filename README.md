@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)
- - 😝 [Just squeeze it](http://9gag.com/gag/aND55Or)
- - 👉 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)<!-- MEMES:END -->
+ - 😝 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
+ - 👉 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)<!-- MEMES:END -->
 
 --- 
 
