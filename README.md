@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
- - 😝 [Oh how glad I am to live in such a wonderfully providing country!](http://9gag.com/gag/awy2DDQ)
- - 👉 [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)<!-- MEMES:END -->
+ - 6️⃣ [The Teacher We Never Had](http://9gag.com/gag/a34rO3Q)
+ - 😝 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
+ - 👉 [Just squeeze it](http://9gag.com/gag/aND55Or)<!-- MEMES:END -->
 
 --- 
 
