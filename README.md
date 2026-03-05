@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - 😝 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
- - 👉 [Flasback](http://9gag.com/gag/a2vpg7Z)<!-- MEMES:END -->
+ - 6️⃣ [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
+ - 😝 [Oh how glad I am to live in such a wonderfully providing country!](http://9gag.com/gag/awy2DDQ)
+ - 👉 [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)<!-- MEMES:END -->
 
 --- 
 
