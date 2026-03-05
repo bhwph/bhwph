@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Sheets Under $200 and $100 &lpar;2026&rpar;: Cotton, Bamboo, Organic](https://www.wired.com/story/best-sheets/)
- - [Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed](https://www.wired.com/story/adjustable-mattress-vs-adjustable-frame-vs-smart-bed/)
- - [Make the most of your Pixel 10a with these tips and tricks](https://www.androidauthority.com/google-pixel-10a-tips-and-tricks-3643211/)<!-- TECH:END -->
+ - [Best Gravel Running Shoes &lpar;2026&rpar;: Salomon, Adidas, Nike](https://www.wired.com/gallery/best-gravel-running-shoes/)
+ - [NYSE parent ICE invests in crypto exchange OKX at a $25B valuation, without specifying the size of investment, and will take a seat on the company&#39;s board &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260305/p21#a260305p21)
+ - [Meta agrees to allow rival &quot;general purpose AI chatbots&quot; access to WhatsApp in Europe for a 12-month period to avoid potential interim measures from the EU &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260305/p20#a260305p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
