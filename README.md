@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Live has some more tricks in the works for its overlay bar](https://www.androidauthority.com/gemini-live-overlay-2-3646956/)
- - [OpenAI’s new GPT-5.4 model is a big step toward autonomous agents](https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents)
- - [Iran&#39;s state media says Iran targeted Amazon&#39;s Bahrain data center on Sunday because of the company&#39;s support of &quot;US military and intelligence activities&quot; &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260305/p41#a260305p41)<!-- TECH:END -->
+ - [Microsoft&#39;s new gaming CEO Asha Sharma teases the next Xbox, codenamed Project Helix, saying it &quot;will lead in performance and play your Xbox and PC games&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260305/p52#a260305p52)
+ - [Google is making Gmail, Docs, and other apps work better with OpenClaw](https://www.androidauthority.com/google-workspace-cli-openclaw-3647054/)
+ - [Amazon.com is up and down, with login errors and prices not loading](https://www.theverge.com/tech/890215/amazon-is-down-login-prices)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
