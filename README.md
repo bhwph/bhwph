@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)
- - 😝 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
- - 👉 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)<!-- MEMES:END -->
+ - 6️⃣ [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
+ - 😝 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
+ - 👉 [Flasback](http://9gag.com/gag/a2vpg7Z)<!-- MEMES:END -->
 
 --- 
 
