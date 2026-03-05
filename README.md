@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
- - 😝 [Rogue](http://9gag.com/gag/aD255RB)
+ - 6️⃣ [Rogue](http://9gag.com/gag/aD255RB)
+ - 😝 [Diversity](http://9gag.com/gag/adBwDNM)
  - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
 
 --- 
