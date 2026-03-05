@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Budget speed: How fast will the low-cost MacBook Neo really be?](https://appleinsider.com/articles/26/03/04/budget-speed-how-fast-will-the-low-cost-macbook-neo-really-be?utm_source=rss)
- - [Sources: Dario Amodei has been holding talks with the DOD&#39;s Emil Michael in a bid to iron out a contract governing the Pentagon&#39;s access to Anthropic&#39;s models &lpar;Financial Times&rpar;](http://www.techmeme.com/260304/p50#a260304p50)
- - [MacBook Neo vs M5 MacBook Air: Budget notebooks compared](https://appleinsider.com/inside/macbook-air/vs/macbook-neo-vs-m5-macbook-air-budget-notebooks-compared?utm_source=rss)<!-- TECH:END -->
+ - [Sources: OpenAI topped $25B in annualized revenue by end-February, up from $21.4B at end-2025; it annualizes by multiplying the last four weeks&#39; revenue by 12 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260304/p57#a260304p57)
+ - [Apple Music introduces Transparency Tags, a metadata system for music distributors and labels to disclose AI-generated creative elements like artwork or lyrics &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/260304/p56#a260304p56)
+ - [Microsoft releases Phi-4-reasoning-vision-15B, a 15B-parameter open-weight model it says matches larger systems while using far less compute and training data &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/260304/p55#a260304p55)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
