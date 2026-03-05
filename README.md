@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Someone finally found a way to skateboard in GTA 5.](http://9gag.com/gag/aW455b4)
- - 😝 [For mankind!](http://9gag.com/gag/aVv55nP)
- - 👉 [My guy just eyeballed those small blocks](http://9gag.com/gag/aKG55p1)<!-- MEMES:END -->
+ - 6️⃣ [Just squeeze it](http://9gag.com/gag/aND55Or)
+ - 😝 [My guy just eyeballed those small blocks](http://9gag.com/gag/aKG55p1)
+ - 👉 [For mankind!](http://9gag.com/gag/aVv55nP)<!-- MEMES:END -->
 
 --- 
 
