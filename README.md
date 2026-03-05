@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Munich&#39;s UnternehmerTUM, which tops the FT ranking of Europe&#39;s startup hubs for a third straight year and has supported 1,000+ companies since 2002 &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/260305/p12#a260305p12)
- - [Grammarly is offering an AI-powered tool called &quot;Expert Review&quot; that simulates feedback from famous writers, dead and living, without their permission &lpar;Miles Klee/Wired&rpar;](http://www.techmeme.com/260305/p11#a260305p11)
- - [Staff memo: Alibaba says it is setting up a new task force to accelerate foundation AI model development, after the resignation of Qwen AI head Lin Junyang &lpar;Reuters&rpar;](http://www.techmeme.com/260305/p10#a260305p10)<!-- TECH:END -->
+ - [Best Sheets Under $200 and $100 &lpar;2026&rpar;: Cotton, Bamboo, Organic](https://www.wired.com/story/best-sheets/)
+ - [Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed](https://www.wired.com/story/adjustable-mattress-vs-adjustable-frame-vs-smart-bed/)
+ - [Make the most of your Pixel 10a with these tips and tricks](https://www.androidauthority.com/google-pixel-10a-tips-and-tricks-3643211/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
