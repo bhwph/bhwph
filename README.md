@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Gravel Running Shoes &lpar;2026&rpar;: Salomon, Adidas, Nike](https://www.wired.com/gallery/best-gravel-running-shoes/)
- - [NYSE parent ICE invests in crypto exchange OKX at a $25B valuation, without specifying the size of investment, and will take a seat on the company&#39;s board &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260305/p21#a260305p21)
- - [Meta agrees to allow rival &quot;general purpose AI chatbots&quot; access to WhatsApp in Europe for a 12-month period to avoid potential interim measures from the EU &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260305/p20#a260305p20)<!-- TECH:END -->
+ - [AWS launches Amazon Connect Health, an AI-driven suite to automate clinical documentation, billing and procedure coding, and patient identity verification &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/260305/p29#a260305p29)
+ - [Canada says Sam Altman agreed to take immediate steps to strengthen OpenAI&#39;s safety protocols about notifying police over potentially suspicious ChatGPT use &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/260305/p28#a260305p28)
+ - [Apple&#39;s MacBook Neo poses a big threat to OEMs like HP, Lenovo, and Dell, as their $599 laptops seem inferior and Windows 11&#39;s reputation is at an all-time low &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/260305/p27#a260305p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
