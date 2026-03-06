@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Journal is working on a revamp with media layout controls, full-screen videos, and more](https://www.androidauthority.com/pixel-journal-ui-media-changes-apk-teardown-3647218/)
- - [M5 13-inch MacBook Air vs M5 14-inch MacBook Pro -- compared](https://appleinsider.com/articles/26/03/06/m5-13-inch-macbook-air-vs-m5-14-inch-macbook-pro----compared?utm_source=rss)
- - [Robinhood debuts its $658.4M venture fund on the NYSE, pricing the IPO at $25 per share, offering retail investors access to private companies like Databricks &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/260306/p11#a260306p11)<!-- TECH:END -->
+ - [Google joins Microsoft in saying it will keep working with Anthropic on non-defense projects after the DOD designated the startup a supply chain risk &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/260306/p17#a260306p17)
+ - [Marvell stock jumps 20%+ after the chip company reported Q4 revenue up 22% YoY to $2.2B and issued strong guidance citing growing AI demand &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260306/p16#a260306p16)
+ - [Pixel 11 Pro XL case renders may give first hint at design changes](https://www.androidauthority.com/google-pixel-11-case-renders-3647310/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
