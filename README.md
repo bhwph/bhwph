@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Together AI is in talks to raise ~$1B at a $7.5B pre-money valuation, up from $3.3B in 2025; its annualized revenue has hit ~$1B, up 3x+ from mid-2025 &lpar;The Information&rpar;](http://www.techmeme.com/260305/p55#a260305p55)
- - [Here’s Every Country Directly Impacted by the War on Iran](https://www.wired.com/story/every-country-directly-impacted-by-the-war-on-iran/)
- - [‘Uncanny Valley’: Iran War in the AI Era, Prediction Market Ethics, and Paramount Beats Netflix](https://www.wired.com/story/uncanny-valley-podcast-iran-war-artificial-intelligence-prediction-markets-paramount-warner-bros/)<!-- TECH:END -->
+ - [A look at Cloverleaf, which strikes deals with utility companies and secures land for AI companies and their data center needs; the company has raised $300M &lpar;New York Times&rpar;](http://www.techmeme.com/260305/p60#a260305p60)
+ - [MacBook Neo benchmark results are predictably close to iPhone 16 Pro, M1 comparable](https://appleinsider.com/articles/26/03/06/macbook-neo-benchmark-results-are-predictably-close-to-iphone-16-pro-m1-comparable?utm_source=rss)
+ - [Amazon.com says things are fixed after some issues with logging in and checking out](https://www.theverge.com/tech/890215/amazon-is-down-login-prices)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
