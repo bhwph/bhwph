@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mattress Firm Coupons and Discounts: Save Up to $600](https://www.wired.com/story/mattress-firm-coupon/)
- - [KitchenAid Promo Codes and Discounts: Save Up To 50%](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Peacock Promo Codes: 40% Off March 2026](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
+ - [The MacBook Neo is the laptop Google can’t build](https://www.androidauthority.com/macbook-neo-google-cant-build-3646746/)
+ - [Posture Correctors That Will Straighten You Out &lpar;2026&rpar;](https://www.wired.com/gallery/posture-correctors/)
+ - [The Smart Bird Feeders Everyone’s Talking About &lpar;and Actually Buying&rpar; &lpar;2026&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
