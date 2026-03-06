@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Tim Sweeney on the Google/Epic settlement, what Play Store changes mean for developers, why Epic&#39;s case against Apple is different, and more &lpar;Dean Takahashi/GamesBeat&rpar;](http://www.techmeme.com/260306/p1#a260306p1)
- - [Cursor launches Automations, a new tool that lets users automatically launch agents triggered through new additions to a codebase, a Slack message, or a timer &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260305/p65#a260305p65)
- - [Filing: the US SEC settles with Tron founder Justin Sun over its 2023 case that alleged securities fraud; a Tron-affiliated company will pay the $10M fine &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/260305/p64#a260305p64)<!-- TECH:END -->
+ - [Mattress Firm Coupons and Discounts: Save Up to $600](https://www.wired.com/story/mattress-firm-coupon/)
+ - [KitchenAid Promo Codes and Discounts: Save Up To 50%](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+ - [Peacock Promo Codes: 40% Off March 2026](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
