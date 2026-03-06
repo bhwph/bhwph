@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [End of the beniginging](http://9gag.com/gag/an7woL5)
- - 😝 [Me convincing myself to make a bad decision](http://9gag.com/gag/apRw779)
- - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
+ - 6️⃣ [Poor girl](http://9gag.com/gag/aBy5BKD)
+ - 😝 [Yes nutrition, my favorite](http://9gag.com/gag/amow4Y4)
+ - 👉 [Made me laugh](http://9gag.com/gag/aD25ejN)<!-- MEMES:END -->
 
 --- 
 
