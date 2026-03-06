@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google joins Microsoft in saying it will keep working with Anthropic on non-defense projects after the DOD designated the startup a supply chain risk &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/260306/p17#a260306p17)
- - [Marvell stock jumps 20%+ after the chip company reported Q4 revenue up 22% YoY to $2.2B and issued strong guidance citing growing AI demand &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260306/p16#a260306p16)
- - [Pixel 11 Pro XL case renders may give first hint at design changes](https://www.androidauthority.com/google-pixel-11-case-renders-3647310/)<!-- TECH:END -->
+ - [The best microSD Express card for the Switch 2 is the cheapest one you can find](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
+ - [Sources: Oracle and OpenAI abandoned plans to expand a Stargate Texas data center amid financing disputes; Meta considers leasing the planned expansion site &lpar;Bloomberg&rpar;](http://www.techmeme.com/260306/p23#a260306p23)
+ - [Q&amp;A with Block CEO Jack Dorsey on laying off 40% of the company&#39;s workers, wanting Block to &quot;feel like a mini AGI&quot;, his take on Elon Musk&#39;s X, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/260306/p22#a260306p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
