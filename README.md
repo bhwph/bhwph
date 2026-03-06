@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Cloverleaf, which strikes deals with utility companies and secures land for AI companies and their data center needs; the company has raised $300M &lpar;New York Times&rpar;](http://www.techmeme.com/260305/p60#a260305p60)
- - [MacBook Neo benchmark results are predictably close to iPhone 16 Pro, M1 comparable](https://appleinsider.com/articles/26/03/06/macbook-neo-benchmark-results-are-predictably-close-to-iphone-16-pro-m1-comparable?utm_source=rss)
- - [Amazon.com says things are fixed after some issues with logging in and checking out](https://www.theverge.com/tech/890215/amazon-is-down-login-prices)<!-- TECH:END -->
+ - [An interview with Tim Sweeney on the Google/Epic settlement, what Play Store changes mean for developers, why Epic&#39;s case against Apple is different, and more &lpar;Dean Takahashi/GamesBeat&rpar;](http://www.techmeme.com/260306/p1#a260306p1)
+ - [Cursor launches Automations, a new tool that lets users automatically launch agents triggered through new additions to a codebase, a Slack message, or a timer &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260305/p65#a260305p65)
+ - [Filing: the US SEC settles with Tron founder Justin Sun over its 2023 case that alleged securities fraud; a Tron-affiliated company will pay the $10M fine &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/260305/p64#a260305p64)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
