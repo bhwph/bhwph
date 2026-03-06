@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best microSD Express card for the Switch 2 is the cheapest one you can find](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
- - [Sources: Oracle and OpenAI abandoned plans to expand a Stargate Texas data center amid financing disputes; Meta considers leasing the planned expansion site &lpar;Bloomberg&rpar;](http://www.techmeme.com/260306/p23#a260306p23)
- - [Q&amp;A with Block CEO Jack Dorsey on laying off 40% of the company&#39;s workers, wanting Block to &quot;feel like a mini AGI&quot;, his take on Elon Musk&#39;s X, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/260306/p22#a260306p22)<!-- TECH:END -->
+ - [The Pentagon is right in trying to coerce Anthropic as AI may become a superweapon and nation-states must have a monopoly on the use of force &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/260306/p28#a260306p28)
+ - [Sources: AI chipmaker Cerebras could raise ~$2B in its IPO as soon as April; it withdrew its previous IPO registration in October, nearly a year after filing &lpar;Bloomberg&rpar;](http://www.techmeme.com/260306/p27#a260306p27)
+ - [Google Pixel 10a deals: Get a free gift card or Pixel Buds 2a](https://www.androidauthority.com/google-pixel-10a-deals-3646988/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
