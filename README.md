@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Poor girl](http://9gag.com/gag/aBy5BKD)
- - 😝 [Yes nutrition, my favorite](http://9gag.com/gag/amow4Y4)
- - 👉 [Made me laugh](http://9gag.com/gag/aD25ejN)<!-- MEMES:END -->
+ - 6️⃣ [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
+ - 😝 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
+ - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
 
 --- 
 
