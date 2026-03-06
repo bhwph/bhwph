@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
- - 😝 [Poor girl](http://9gag.com/gag/aBy5BKD)
- - 👉 [American Dream.](http://9gag.com/gag/aZZ5YKX)<!-- MEMES:END -->
+ - 6️⃣ [Poor girl](http://9gag.com/gag/aBy5BKD)
+ - 😝 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)
+ - 👉 [He&#39;s just making it worse](http://9gag.com/gag/aVv56Qd)<!-- MEMES:END -->
 
 --- 
 
