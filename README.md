@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M5 Max MacBook Pro benchmarkjs beat M3 Ultra Mac Studio](https://appleinsider.com/articles/26/03/06/m5-max-geekbench-scores-show-impressive-results-beating-out-m3-ultra-cpu-matching-gpu?utm_source=rss)
- - [MacBook Neo starts seeing shipping delays](https://appleinsider.com/articles/26/03/06/macbook-neo-starts-seeing-shipping-delays?utm_source=rss)
- - [Jones Mercury FASE Snowboard Bindings Review: The Best Fast Entry System](https://www.wired.com/review/jones-mercury-fase-snowboard-bindings/)<!-- TECH:END -->
+ - [Mozilla says Claude Opus 4.6 found 100+ bugs in Firefox in two weeks in January, 14 of them high-severity, more than the bugs typically reported in two months &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/260306/p9#a260306p9)
+ - [MacBook Neo, Studio Display XDR, iPhone 17e and more, on the AppleInsider Podcast](https://appleinsider.com/articles/26/03/06/macbook-neo-studio-display-xdr-iphone-17e-and-more-on-the-appleinsider-podcast?utm_source=rss)
+ - [Samsung is giving you a very good reason to open the Galaxy Store every day](https://www.androidauthority.com/samsung-galaxy-store-rewards-program-3646929/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
