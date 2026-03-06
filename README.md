@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Where they went](http://9gag.com/gag/aE055ro)
- - 😝 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)
+ - 😝 [American Dream.](http://9gag.com/gag/aZZ5YKX)
  - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
 
 --- 
