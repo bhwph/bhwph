@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The MacBook Neo is the laptop Google can’t build](https://www.androidauthority.com/macbook-neo-google-cant-build-3646746/)
- - [Posture Correctors That Will Straighten You Out &lpar;2026&rpar;](https://www.wired.com/gallery/posture-correctors/)
- - [The Smart Bird Feeders Everyone’s Talking About &lpar;and Actually Buying&rpar; &lpar;2026&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)<!-- TECH:END -->
+ - [M5 Max MacBook Pro benchmarkjs beat M3 Ultra Mac Studio](https://appleinsider.com/articles/26/03/06/m5-max-geekbench-scores-show-impressive-results-beating-out-m3-ultra-cpu-matching-gpu?utm_source=rss)
+ - [MacBook Neo starts seeing shipping delays](https://appleinsider.com/articles/26/03/06/macbook-neo-starts-seeing-shipping-delays?utm_source=rss)
+ - [Jones Mercury FASE Snowboard Bindings Review: The Best Fast Entry System](https://www.wired.com/review/jones-mercury-fase-snowboard-bindings/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
