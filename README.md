@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
- - 😝 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)
- - 👉 [Not all heroes wear capes, some have canes.](http://9gag.com/gag/apRwW25)<!-- MEMES:END -->
+ - 6️⃣ [Girls vs Boys on their birthday](http://9gag.com/gag/aBy5pAD)
+ - 😝 [It&#39;s not hiding if no one cares](http://9gag.com/gag/awy2wWy)
+ - 👉 [Til it disintegrate to tiny pieces](http://9gag.com/gag/aVv5Njv)<!-- MEMES:END -->
 
 --- 
 
