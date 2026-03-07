@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
- - 😝 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)
- - 👉 [Check !](http://9gag.com/gag/awy2Ew1)<!-- MEMES:END -->
+ - 6️⃣ [Poor girl](http://9gag.com/gag/aBy5BKD)
+ - 😝 [He send them last night xD](http://9gag.com/gag/aMV5MWP)
+ - 👉 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)<!-- MEMES:END -->
 
 --- 
 
