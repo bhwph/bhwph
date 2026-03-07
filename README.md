@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Poor girl](http://9gag.com/gag/aBy5BKD)
- - 😝 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
- - 👉 [Check !](http://9gag.com/gag/awy2Ew1)<!-- MEMES:END -->
+ - 6️⃣ [American Dream.](http://9gag.com/gag/aZZ5YKX)
+ - 😝 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
+ - 👉 [A billion dollars is a billion dollars](http://9gag.com/gag/aW45r0A)<!-- MEMES:END -->
 
 --- 
 
