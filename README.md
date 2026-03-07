@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US&#39; February jobs report shows the tech sector&#39;s post-2022 job losses are now outpacing past downturns in 2008 and 2020 &lpar;Business Insider&rpar;](http://www.techmeme.com/260306/p35#a260306p35)
- - [DJI will pay $30K to the man who accidentally hacked 7,000 Romo robovacs](https://www.theverge.com/news/890982/dji-pay-sammy-azdoufal-robot-vacuum-hack-romo-security)
- - [Is Samsung using a newer periscope lens on the Galaxy S26 Ultra? Here’s what we know &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-s26-ultra-5x-zoom-lens-change-3647116/)<!-- TECH:END -->
+ - [Sources: online DTC luxury brand Quince is in talks to raise funding at a $10B+ valuation, up from $4.5B in July; its annualized revenue run rate has hit ~$2B &lpar;The Information&rpar;](http://www.techmeme.com/260307/p4#a260307p4)
+ - [China&#39;s smartphone market is seeing one of its widest price hikes as memory chip crunch deepens; Meizu announces it will suspend developing new mobile hardware &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260307/p3#a260307p3)
+ - [Google&#39;s TIG documented 90 zero-day vulnerabilities exploited in 2025, up from 78 in 2024; commercial spyware vendors and China-linked groups led the abuse &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/260307/p2#a260307p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
