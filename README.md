@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Girls vs Boys on their birthday](http://9gag.com/gag/aBy5pAD)
- - 😝 [It&#39;s not hiding if no one cares](http://9gag.com/gag/awy2wWy)
- - 👉 [Til it disintegrate to tiny pieces](http://9gag.com/gag/aVv5Njv)<!-- MEMES:END -->
+ - 😝 [Til it disintegrate to tiny pieces](http://9gag.com/gag/aVv5Njv)
+ - 👉 [Wait, that&#39;s NOT Trump?](http://9gag.com/gag/aMV5gjR)<!-- MEMES:END -->
 
 --- 
 
