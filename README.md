@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pentagon is right in trying to coerce Anthropic as AI may become a superweapon and nation-states must have a monopoly on the use of force &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/260306/p28#a260306p28)
- - [Sources: AI chipmaker Cerebras could raise ~$2B in its IPO as soon as April; it withdrew its previous IPO registration in October, nearly a year after filing &lpar;Bloomberg&rpar;](http://www.techmeme.com/260306/p27#a260306p27)
- - [Google Pixel 10a deals: Get a free gift card or Pixel Buds 2a](https://www.androidauthority.com/google-pixel-10a-deals-3646988/)<!-- TECH:END -->
+ - [Alphabet gives Sundar Pichai a new three-year pay deal worth up to $692M, with stock incentives worth as much as $350M linked to the growth of Waymo and Wing &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/260306/p34#a260306p34)
+ - [In a Twitter shareholder trial, former CEO Parag Agrawal and CFO Ned Segal disputed Musk&#39;s claims that they lied to him about the percentage of spam accounts &lpar;Bloomberg&rpar;](http://www.techmeme.com/260306/p33#a260306p33)
+ - [Kids Online Safety Act Advances to House Amid Concerns Over Free Speech and Civil Rights](https://www.cnet.com/news/privacy/kids-online-safety-act-goes-to-the-vote-but-could-it-mean-end-of-internet-anonymity/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
