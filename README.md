@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [American Dream.](http://9gag.com/gag/aZZ5YKX)
- - 😝 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
- - 👉 [A billion dollars is a billion dollars](http://9gag.com/gag/aW45r0A)<!-- MEMES:END -->
+ - 6️⃣ [Goth donut](http://9gag.com/gag/aW4530x)
+ - 😝 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)
+ - 👉 [Something about this doesn&#39;t seem right](http://9gag.com/gag/aD25ewK)<!-- MEMES:END -->
 
 --- 
 
