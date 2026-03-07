@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Check !](http://9gag.com/gag/awy2Ew1)
- - 😝 [Take note champs](http://9gag.com/gag/aW45zZK)
- - 👉 [Mom](http://9gag.com/gag/aO85Xzv)<!-- MEMES:END -->
+ - 6️⃣ [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
+ - 😝 [They&#39;ve been banned since then](http://9gag.com/gag/aRBdn8G)
+ - 👉 [Take note champs](http://9gag.com/gag/aW45zZK)<!-- MEMES:END -->
 
 --- 
 
