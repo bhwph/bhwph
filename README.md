@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This annoying Android Auto display issue grinds my gears — here’s how I fixed it](https://www.androidauthority.com/android-auto-extra-dim-issue-fix-3646107/)
- - [The Best MIDI Controllers for Synths, Guitars, and More &lpar;2026&rpar;](https://www.wired.com/gallery/best-midi-controllers/)
- - [The Corvette ZR1X hybrid can outpace million-dollar sports cars for a fraction of the cost](https://www.theverge.com/transportation/888573/chevy-corvette-zr1x-hybrid-racing-performance)<!-- TECH:END -->
+ - [The OpenClaw superfan meetup serves optimism and lobster](https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai)
+ - [A bite-sized adventure that puts a wrench into the classic Zelda formula](https://www.theverge.com/entertainment/890664/ratcheteer-dx-review-zelda-steam-switch)
+ - [Roblox says it paid out $1.5B to game creators in 2025 and the top 1,000 earned $1.3M on average; 50%+ of creators list high school as their highest education &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/260307/p6#a260307p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
