@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He send them last night xD](http://9gag.com/gag/aMV5MWP)
- - 😝 [How does a drill make a triangular hole? This mechanism is incredible.](http://9gag.com/gag/a9y0ob1)
- - 👉 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)<!-- MEMES:END -->
+ - 6️⃣ [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
+ - 😝 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)
+ - 👉 [Not all heroes wear capes, some have canes.](http://9gag.com/gag/apRwW25)<!-- MEMES:END -->
 
 --- 
 
