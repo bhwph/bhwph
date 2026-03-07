@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Poor girl](http://9gag.com/gag/aBy5BKD)
- - 😝 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)
- - 👉 [He&#39;s just making it worse](http://9gag.com/gag/aVv56Qd)<!-- MEMES:END -->
+ - 😝 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
+ - 👉 [Check !](http://9gag.com/gag/awy2Ew1)<!-- MEMES:END -->
 
 --- 
 
