@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Goth donut](http://9gag.com/gag/aW4530x)
+ - 6️⃣ [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
  - 😝 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)
- - 👉 [Something about this doesn&#39;t seem right](http://9gag.com/gag/aD25ewK)<!-- MEMES:END -->
+ - 👉 [Check !](http://9gag.com/gag/awy2Ew1)<!-- MEMES:END -->
 
 --- 
 
