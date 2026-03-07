@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now Playing is my favorite Pixel feature — and the new app just made it perfect](https://www.androidauthority.com/google-pixel-now-playing-app-hands-on-3647079/)
- - [How to Avoid Getting Locked Out of Your Google Account](https://www.wired.com/story/how-to-avoid-getting-locked-out-of-your-google-account/)
- - [A look at the rivalry between Kalshi CEO Tarek Mansour and Polymarket CEO Shayne Coplan, who have competing visions for how prediction markets should grow &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/260307/p5#a260307p5)<!-- TECH:END -->
+ - [This annoying Android Auto display issue grinds my gears — here’s how I fixed it](https://www.androidauthority.com/android-auto-extra-dim-issue-fix-3646107/)
+ - [The Best MIDI Controllers for Synths, Guitars, and More &lpar;2026&rpar;](https://www.wired.com/gallery/best-midi-controllers/)
+ - [The Corvette ZR1X hybrid can outpace million-dollar sports cars for a fraction of the cost](https://www.theverge.com/transportation/888573/chevy-corvette-zr1x-hybrid-racing-performance)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
