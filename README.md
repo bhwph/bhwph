@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s commerce ministry warns of global chip shortages due to &quot;new conflicts&quot; between Dutch chipmaker Nexperia and its Chinese subsidiary &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260307/p9#a260307p9)
- - [Financial figures shared with prospective investors: Anduril expects its revenue to grow 100% in 2026 to ~$4.3B, and its operating loss to rise by ~50% to $1.2B &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/260307/p8#a260307p8)
- - [Vizio accounts are becoming Walmart accounts](https://www.theverge.com/gadgets/891056/vizio-accounts-are-becoming-walmart-accounts)<!-- TECH:END -->
+ - [Sony appears to be testing dynamic pricing on PlayStation games](https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games)
+ - [Caitlin Kalinowski, OpenAI&#39;s head of hardware and robotics, resigns over concerns about domestic surveillance and autonomous weapons after OpenAI&#39;s DOD contract &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/260307/p11#a260307p11)
+ - [Sources: Palmer Luckey&#39;s ModRetro, which wants to sell updated versions of 1990s consoles like the Nintendo 64, is in talks to raise funding at a $1B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260307/p10#a260307p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
