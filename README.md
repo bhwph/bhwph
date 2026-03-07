@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OpenClaw superfan meetup serves optimism and lobster](https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai)
- - [A bite-sized adventure that puts a wrench into the classic Zelda formula](https://www.theverge.com/entertainment/890664/ratcheteer-dx-review-zelda-steam-switch)
- - [Roblox says it paid out $1.5B to game creators in 2025 and the top 1,000 earned $1.3M on average; 50%+ of creators list high school as their highest education &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/260307/p6#a260307p6)<!-- TECH:END -->
+ - [China&#39;s commerce ministry warns of global chip shortages due to &quot;new conflicts&quot; between Dutch chipmaker Nexperia and its Chinese subsidiary &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260307/p9#a260307p9)
+ - [Financial figures shared with prospective investors: Anduril expects its revenue to grow 100% in 2026 to ~$4.3B, and its operating loss to rise by ~50% to $1.2B &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/260307/p8#a260307p8)
+ - [Vizio accounts are becoming Walmart accounts](https://www.theverge.com/gadgets/891056/vizio-accounts-are-becoming-walmart-accounts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
