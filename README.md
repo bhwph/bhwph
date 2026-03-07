@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Girls vs Boys on their birthday](http://9gag.com/gag/aBy5pAD)
- - 😝 [Til it disintegrate to tiny pieces](http://9gag.com/gag/aVv5Njv)
- - 👉 [Wait, that&#39;s NOT Trump?](http://9gag.com/gag/aMV5gjR)<!-- MEMES:END -->
+ - 6️⃣ [Check !](http://9gag.com/gag/awy2Ew1)
+ - 😝 [Take note champs](http://9gag.com/gag/aW45zZK)
+ - 👉 [Mom](http://9gag.com/gag/aO85Xzv)<!-- MEMES:END -->
 
 --- 
 
