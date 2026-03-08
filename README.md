@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
- - 😝 [They&#39;ve been banned since then](http://9gag.com/gag/aRBdn8G)
- - 👉 [Take note champs](http://9gag.com/gag/aW45zZK)<!-- MEMES:END -->
+ - 6️⃣ [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
+ - 😝 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
+ - 👉 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)<!-- MEMES:END -->
 
 --- 
 
