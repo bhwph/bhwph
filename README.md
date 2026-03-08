@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Netflix..](http://9gag.com/gag/a87OZ5Z)
- - 😝 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
- - 👉 [Epstein files didn&#39;t kill themselves](http://9gag.com/gag/aBy5peN)<!-- MEMES:END -->
+ - 6️⃣ [Just in case of emergency](http://9gag.com/gag/aO85gZ6)
+ - 😝 [100% efficient](http://9gag.com/gag/aBy57p1)
+ - 👉 [Me on my way to post some random BS on this wretched site](http://9gag.com/gag/arywjwV)<!-- MEMES:END -->
 
 --- 
 
