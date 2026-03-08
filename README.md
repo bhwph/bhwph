@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at countries that moved to ban social media for kids in recent months, including Australia, Denmark, France, Germany, Greece, Malaysia, Spain, Indonesia &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260308/p8#a260308p8)
- - [Listen to this: Mabe Fratti’s experimental cello pop](https://www.theverge.com/column/890713/mabe-fratti-sentir-que-no-sabes-review)
- - [HomeHub will recharge with MagSafe by sticking to your wall](https://appleinsider.com/articles/26/03/08/homehub-will-recharge-with-magsafe-by-sticking-to-your-wall?utm_source=rss)<!-- TECH:END -->
+ - [Apple is going high-end with new ‘Ultra’ products next](https://www.theverge.com/tech/891151/apple-is-going-high-end-with-new-ultra-products-next)
+ - [The US and Israel are using AI to wage war on Iran with unprecedented speed and precision in attacks, even as the cost of ill-informed decisions remains high &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260308/p9#a260308p9)
+ - [MacBook Neo vs M1 MacBook Air: you decide - M4 lite or M1 plus](https://appleinsider.com/inside/macbook-neo/vs/macbook-neo-vs-m1-macbook-air-you-decide---m4-lite-or-m1-plus?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
