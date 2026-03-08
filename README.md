@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Expect more &#39;Ultra&#39; products from Apple, if not by name](https://appleinsider.com/articles/26/03/08/expect-more-ultra-products-from-apple-if-not-by-name?utm_source=rss)
- - [How Circle, Stripe, Coinbase, and others are building stablecoin-based agentic payments infrastructure that makes microtransactions between AI agents economical &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/260308/p10#a260308p10)
- - [Apple is going high-end with new ‘Ultra’ products next](https://www.theverge.com/tech/891151/apple-is-going-high-end-with-new-ultra-products-next)<!-- TECH:END -->
+ - [Reboot: Downgrades, gaming, and opera house doodles](https://appleinsider.com/articles/26/03/08/reboot-downgrades-gaming-and-opera-house-doodles?utm_source=rss)
+ - [Party of One: Tim Cook doubts Apple&#39;s 50-year-old DNA can be replicated](https://appleinsider.com/articles/26/03/08/party-of-one-tim-cook-doubts-apples-50-year-old-dna-can-be-replicated?utm_source=rss)
+ - [Luma AI debuts Uni-1, an image model that combines image understanding and generation in a single architecture, topping Nano Banana 2 on logic-based benchmarks &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/260308/p11#a260308p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
