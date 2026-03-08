@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trying to save a parking spot like it&#39;s a seat at a concert](http://9gag.com/gag/an7w635)
- - 😝 [The stuff teachers have to deal with lol](http://9gag.com/gag/a34rmn3)
- - 👉 [Born yesterday, already tired of this](http://9gag.com/gag/aoywXon)<!-- MEMES:END -->
+ - 6️⃣ [First day as a spy](http://9gag.com/gag/adBwmXj)
+ - 😝 [Not all heroes wear capes, some have canes.](http://9gag.com/gag/apRwW25)
+ - 👉 [Deadly Technique](http://9gag.com/gag/aVv5nG8)<!-- MEMES:END -->
 
 --- 
 
