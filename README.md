@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
- - 😝 [We finally found the strongest zombie](http://9gag.com/gag/aQz5wq8)
+ - 😝 [I just watched the first episode, the CGI is absolutely amazing, produced by Spielberg and narrated by Morgan Freeman, a must if you like dinosaurs](http://9gag.com/gag/aZZ5ew9)
  - 👉 [The stuff teachers have to deal with lol](http://9gag.com/gag/a34rmn3)<!-- MEMES:END -->
 
 --- 
