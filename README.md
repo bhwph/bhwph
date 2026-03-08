@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mild chock](http://9gag.com/gag/abAw9x8)
- - 😝 [Gramps is a legend at this game](http://9gag.com/gag/aKG5RO3)
- - 👉 [Trumps Tariff disaster](http://9gag.com/gag/amowjG6)<!-- MEMES:END -->
+ - 6️⃣ [Epstein files didn&#39;t kill themselves](http://9gag.com/gag/aBy5peN)
+ - 😝 [Take note champs](http://9gag.com/gag/aW45zZK)
+ - 👉 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)<!-- MEMES:END -->
 
 --- 
 
