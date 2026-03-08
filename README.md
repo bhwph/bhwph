@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Mild chock](http://9gag.com/gag/abAw9x8)
- - 😝 [Best I can do is feel better soon](http://9gag.com/gag/aBy5pBN)
- - 👉 [Professional upstairs neighbor](http://9gag.com/gag/aD25KMd)<!-- MEMES:END -->
+ - 😝 [Gramps is a legend at this game](http://9gag.com/gag/aKG5RO3)
+ - 👉 [Trumps Tariff disaster](http://9gag.com/gag/amowjG6)<!-- MEMES:END -->
 
 --- 
 
