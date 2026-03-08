@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
- - 😝 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
- - 👉 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)<!-- MEMES:END -->
+ - 6️⃣ [Mild chock](http://9gag.com/gag/abAw9x8)
+ - 😝 [Best I can do is feel better soon](http://9gag.com/gag/aBy5pBN)
+ - 👉 [Professional upstairs neighbor](http://9gag.com/gag/aD25KMd)<!-- MEMES:END -->
 
 --- 
 
