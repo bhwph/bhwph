@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just in case of emergency](http://9gag.com/gag/aO85gZ6)
- - 😝 [100% efficient](http://9gag.com/gag/aBy57p1)
- - 👉 [Me on my way to post some random BS on this wretched site](http://9gag.com/gag/arywjwV)<!-- MEMES:END -->
+ - 6️⃣ [100% efficient](http://9gag.com/gag/aBy57p1)
+ - 😝 [Samwise Gamgee, the real MVP](http://9gag.com/gag/aO85g3v)
+ - 👉 [Just in case of emergency](http://9gag.com/gag/aO85gZ6)<!-- MEMES:END -->
 
 --- 
 
