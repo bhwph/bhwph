@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Epstein files didn&#39;t kill themselves](http://9gag.com/gag/aBy5peN)
- - 😝 [Take note champs](http://9gag.com/gag/aW45zZK)
- - 👉 [What would you do in this situation?](http://9gag.com/gag/abAw7ZO)<!-- MEMES:END -->
+ - 6️⃣ [Netflix..](http://9gag.com/gag/a87OZ5Z)
+ - 😝 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
+ - 👉 [Epstein files didn&#39;t kill themselves](http://9gag.com/gag/aBy5peN)<!-- MEMES:END -->
 
 --- 
 
