@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is going high-end with new ‘Ultra’ products next](https://www.theverge.com/tech/891151/apple-is-going-high-end-with-new-ultra-products-next)
- - [The US and Israel are using AI to wage war on Iran with unprecedented speed and precision in attacks, even as the cost of ill-informed decisions remains high &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260308/p9#a260308p9)
- - [MacBook Neo vs M1 MacBook Air: you decide - M4 lite or M1 plus](https://appleinsider.com/inside/macbook-neo/vs/macbook-neo-vs-m1-macbook-air-you-decide---m4-lite-or-m1-plus?utm_source=rss)<!-- TECH:END -->
+ - [Expect more &#39;Ultra&#39; products from Apple, if not by name](https://appleinsider.com/articles/26/03/08/expect-more-ultra-products-from-apple-if-not-by-name?utm_source=rss)
+ - [How Circle, Stripe, Coinbase, and others are building stablecoin-based agentic payments infrastructure that makes microtransactions between AI agents economical &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/260308/p10#a260308p10)
+ - [Apple is going high-end with new ‘Ultra’ products next](https://www.theverge.com/tech/891151/apple-is-going-high-end-with-new-ultra-products-next)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
