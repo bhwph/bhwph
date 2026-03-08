@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [100% efficient](http://9gag.com/gag/aBy57p1)
- - 😝 [Samwise Gamgee, the real MVP](http://9gag.com/gag/aO85g3v)
- - 👉 [Just in case of emergency](http://9gag.com/gag/aO85gZ6)<!-- MEMES:END -->
+ - 6️⃣ [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
+ - 😝 [We finally found the strongest zombie](http://9gag.com/gag/aQz5wq8)
+ - 👉 [The stuff teachers have to deal with lol](http://9gag.com/gag/a34rmn3)<!-- MEMES:END -->
 
 --- 
 
