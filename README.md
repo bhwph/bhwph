@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Sunrise Alarm Clock &lpar;2026&rpar;: Lumie, Hatch, WiiM](https://www.wired.com/story/should-you-get-a-sunrise-alarm-clock/)
- - [Samsung’s Galaxy Buds 4 fix two of my biggest problems with the Buds 3](https://www.androidauthority.com/buds-4-fix-buds-3-issues-3646676/)
- - [I tried Pixel Desktop Mode — these 8 tips made me an Android PC power user](https://www.androidauthority.com/android-desktop-mode-getting-started-3646933/)<!-- TECH:END -->
+ - [A 3D printed iPhone is possible if Apple overcomes challenges with aluminum](https://appleinsider.com/articles/26/03/08/a-3d-printed-iphone-is-possible-if-apple-overcomes-challenges-with-aluminum?utm_source=rss)
+ - [Mac Studio set to get its M5 update next this summer](https://appleinsider.com/articles/26/03/08/mac-studio-set-to-get-its-m5-update-next-this-summer?utm_source=rss)
+ - [The cute and cursed story of Furby](https://www.theverge.com/podcast/891124/the-cute-and-cursed-story-of-furby)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
