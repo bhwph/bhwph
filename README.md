@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thoughts on MacBook Neo, as Apple also expands its superpremium tier via &quot;Ultra&quot; products; sources: Apple wants to use aluminum 3D-printing for Watch and iPhone &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260308/p6#a260308p6)
- - [The best Switch 2 controller just got better &lpar;and a little worse&rpar;](https://www.theverge.com/tech/888482/easysmx-s10-lite-switch-2-native-wireless-controller-hands-on)
- - [A long wait: New iMac colors, Mac mini update expected much later in 2026](https://appleinsider.com/articles/26/03/08/a-long-wait-new-imac-colors-mac-mini-update-expected-much-later-in-2026?utm_source=rss)<!-- TECH:END -->
+ - [A look at countries that moved to ban social media for kids in recent months, including Australia, Denmark, France, Germany, Greece, Malaysia, Spain, Indonesia &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260308/p8#a260308p8)
+ - [Listen to this: Mabe Fratti’s experimental cello pop](https://www.theverge.com/column/890713/mabe-fratti-sentir-que-no-sabes-review)
+ - [HomeHub will recharge with MagSafe by sticking to your wall](https://appleinsider.com/articles/26/03/08/homehub-will-recharge-with-magsafe-by-sticking-to-your-wall?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
