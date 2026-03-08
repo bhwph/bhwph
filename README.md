@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
- - 😝 [I just watched the first episode, the CGI is absolutely amazing, produced by Spielberg and narrated by Morgan Freeman, a must if you like dinosaurs](http://9gag.com/gag/aZZ5ew9)
- - 👉 [The stuff teachers have to deal with lol](http://9gag.com/gag/a34rmn3)<!-- MEMES:END -->
+ - 6️⃣ [Trying to save a parking spot like it&#39;s a seat at a concert](http://9gag.com/gag/an7w635)
+ - 😝 [The stuff teachers have to deal with lol](http://9gag.com/gag/a34rmn3)
+ - 👉 [Born yesterday, already tired of this](http://9gag.com/gag/aoywXon)<!-- MEMES:END -->
 
 --- 
 
