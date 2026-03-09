@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [The FAFO king 2015](http://9gag.com/gag/a5QYeoq)
- - 😝 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
- - 👉 [The ambush](http://9gag.com/gag/a0eq2WB)<!-- MEMES:END -->
+ - 😝 [From Cloud Engineer To Netdresser](http://9gag.com/gag/azxwNYN)
+ - 👉 [Keep supporting the troops!](http://9gag.com/gag/aVv6z7w)<!-- MEMES:END -->
 
 --- 
 
