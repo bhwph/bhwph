@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hearing unexpected Gemini accents on Google Home? A fix is coming](https://www.androidauthority.com/google-home-gemini-odd-range-of-accents-3647751/)
- - [MacBook Pro 16&quot; &lpar;M5 Max&rpar; review: &quot;Super core&quot; architecture and 40-core GPU deliver beastly performance, but still retains a five-year-old design &lpar;Brian Westover/PCMag&rpar;](http://www.techmeme.com/260309/p32#a260309p32)
- - [Bluesky CEO Jay Graber will step aside](https://www.theverge.com/tech/891562/bluesky-new-ceo)<!-- TECH:END -->
+ - [Apple smart home display rumors now point to a fall launch with iOS 27](https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor)
+ - [HPE reports Q1 revenue up 18% YoY to $9.3B, vs. $9.37B est., Cloud and AI revenue down 2.7% YoY to $6.3B but reports an AI server backlog of $5B &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260309/p35#a260309p35)
+ - [Studio Display XDR review roundup: Pro display hardware, with a few caveats](https://appleinsider.com/articles/26/03/09/studio-display-xdr-review-roundup-pro-display-hardware-with-a-few-caveats?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
