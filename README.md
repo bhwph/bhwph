@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
- - 😝 [Have an update.](http://9gag.com/gag/aO856XR)
- - 👉 [That was dirty...](http://9gag.com/gag/aO85gXv)<!-- MEMES:END -->
+ - 6️⃣ [Sometimes my genius is almost frightening](http://9gag.com/gag/aNDbrQ6)
+ - 😝 [Keep supporting the troops!](http://9gag.com/gag/aVv6z7w)
+ - 👉 [Hitman easter egg](http://9gag.com/gag/a9yGbyZ)<!-- MEMES:END -->
 
 --- 
 
