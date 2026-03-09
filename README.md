@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is what case-makers think the iPhone Fold will look like](https://appleinsider.com/articles/26/03/09/possible-iphone-fold-cad-designs-leaked?utm_source=rss)
- - [Apple&#39;s updated leadership page reveals renewed focus on design](https://appleinsider.com/articles/26/03/09/apples-updated-leadership-page-reveals-renewed-focus-on-design?utm_source=rss)
- - [MacBook Neo is just the latest in Apple&#39;s 35 years of trying to make a budget portable](https://appleinsider.com/articles/26/03/09/macbook-neo-is-just-the-latest-in-apples-35-years-of-trying-to-make-a-budget-portable?utm_source=rss)<!-- TECH:END -->
+ - [The gorgeous Marshall Major V headphones just hit a new record-low price!](https://www.androidauthority.com/marshall-major-v-headphones-deal-3647733/)
+ - [Sources: Apple delayed the release of its smart home display, planned for this month, until later this year to let the company finish work on the new Siri &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260309/p27#a260309p27)
+ - [A surprising number of you are using at least five Samsung gadgets, survey says](https://www.androidauthority.com/survey-results-samsung-ecosystem-3647738/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
