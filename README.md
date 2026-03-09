@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s Advanced Protection Mode may soon disable a key Chrome feature to boost security](https://www.androidauthority.com/android-advanced-protection-mode-disable-chrome-webgpu-apk-teardown-3647502/)
- - [This highly anticipated flagship foldable is launching soon with a surprise stylus, watch companion](https://www.androidauthority.com/oppo-find-n6-launch-date-3647505/)
- - [Hatch’s Sale Has the Restore 3, Rest, and Rest+ All Discounted](https://www.wired.com/story/hatch-sleep-week-sale-2026/)<!-- TECH:END -->
+ - [Apple&#39;s TikTok ads for the MacBook Neo are the right kind of weird](https://appleinsider.com/articles/26/03/09/apples-tiktok-ads-for-the-macbook-neo-are-the-right-kind-of-weird?utm_source=rss)
+ - [Apple iPhone 17e Review: MagSafe Makes a Difference](https://www.wired.com/review/apple-iphone-17e/)
+ - [Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’](https://www.wired.com/story/feeld-was-a-dating-app-for-the-freaks-now-some-people-call-it-normie-hell/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
