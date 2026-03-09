@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title](http://9gag.com/gag/aYQ585m)
- - 😝 [Living the dream until the airline said enough is enough](http://9gag.com/gag/abAwPYE)
- - 👉 [That was dirty...](http://9gag.com/gag/aO85gXv)<!-- MEMES:END -->
+ - 6️⃣ [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
+ - 😝 [Justice!](http://9gag.com/gag/aE05e0O)
+ - 👉 [Title](http://9gag.com/gag/aYQ585m)<!-- MEMES:END -->
 
 --- 
 
