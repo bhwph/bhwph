@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Justice!](http://9gag.com/gag/aE05e0O)
+ - 6️⃣ [The FAFO king 2015](http://9gag.com/gag/a5QYeoq)
  - 😝 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
- - 👉 [The FAFO king 2015](http://9gag.com/gag/a5QYeoq)<!-- MEMES:END -->
+ - 👉 [The ambush](http://9gag.com/gag/a0eq2WB)<!-- MEMES:END -->
 
 --- 
 
