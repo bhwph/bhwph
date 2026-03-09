@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
- - 😝 [Mom](http://9gag.com/gag/aO85Xzv)
+ - 6️⃣ [Title](http://9gag.com/gag/aYQ585m)
+ - 😝 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
  - 👉 [That was dirty...](http://9gag.com/gag/aO85gXv)<!-- MEMES:END -->
 
 --- 
