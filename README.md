@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s TikTok ads for the MacBook Neo are the right kind of weird](https://appleinsider.com/articles/26/03/09/apples-tiktok-ads-for-the-macbook-neo-are-the-right-kind-of-weird?utm_source=rss)
- - [Apple iPhone 17e Review: MagSafe Makes a Difference](https://www.wired.com/review/apple-iphone-17e/)
- - [Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’](https://www.wired.com/story/feeld-was-a-dating-app-for-the-freaks-now-some-people-call-it-normie-hell/)<!-- TECH:END -->
+ - [Pixel Watch missing some overnight data? Blame the March update](https://www.androidauthority.com/google-pixel-watch-spo2-skin-temperature-broken-3647573/)
+ - [Inside Control Center on macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/inside-control-center-on-macos-tahoe?utm_source=rss)
+ - [Apple iPad Air review roundup: Faster as expected, but iterative](https://appleinsider.com/articles/26/03/09/apple-ipad-air-review-roundup-faster-as-expected-but-iterative?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
