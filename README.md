@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Watch missing some overnight data? Blame the March update](https://www.androidauthority.com/google-pixel-watch-spo2-skin-temperature-broken-3647573/)
- - [Inside Control Center on macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/inside-control-center-on-macos-tahoe?utm_source=rss)
- - [Apple iPad Air review roundup: Faster as expected, but iterative](https://appleinsider.com/articles/26/03/09/apple-ipad-air-review-roundup-faster-as-expected-but-iterative?utm_source=rss)<!-- TECH:END -->
+ - [This is what case-makers think the iPhone Fold will look like](https://appleinsider.com/articles/26/03/09/possible-iphone-fold-cad-designs-leaked?utm_source=rss)
+ - [Apple&#39;s updated leadership page reveals renewed focus on design](https://appleinsider.com/articles/26/03/09/apples-updated-leadership-page-reveals-renewed-focus-on-design?utm_source=rss)
+ - [MacBook Neo is just the latest in Apple&#39;s 35 years of trying to make a budget portable](https://appleinsider.com/articles/26/03/09/macbook-neo-is-just-the-latest-in-apples-35-years-of-trying-to-make-a-budget-portable?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
