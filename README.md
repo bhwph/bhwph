@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just say it, woman](http://9gag.com/gag/a4PyD8m)
- - 😝 [Still smoking hot... The movie enemy at the gates is awesome.](http://9gag.com/gag/a87OP8d)
- - 👉 [A friend in need is the one I knead](http://9gag.com/gag/aZZ59Bp)<!-- MEMES:END -->
+ - 6️⃣ [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
+ - 😝 [Mom](http://9gag.com/gag/aO85Xzv)
+ - 👉 [That was dirty...](http://9gag.com/gag/aO85gXv)<!-- MEMES:END -->
 
 --- 
 
