@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The gorgeous Marshall Major V headphones just hit a new record-low price!](https://www.androidauthority.com/marshall-major-v-headphones-deal-3647733/)
- - [Sources: Apple delayed the release of its smart home display, planned for this month, until later this year to let the company finish work on the new Siri &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260309/p27#a260309p27)
- - [A surprising number of you are using at least five Samsung gadgets, survey says](https://www.androidauthority.com/survey-results-samsung-ecosystem-3647738/)<!-- TECH:END -->
+ - [Hearing unexpected Gemini accents on Google Home? A fix is coming](https://www.androidauthority.com/google-home-gemini-odd-range-of-accents-3647751/)
+ - [MacBook Pro 16&quot; &lpar;M5 Max&rpar; review: &quot;Super core&quot; architecture and 40-core GPU deliver beastly performance, but still retains a five-year-old design &lpar;Brian Westover/PCMag&rpar;](http://www.techmeme.com/260309/p32#a260309p32)
+ - [Bluesky CEO Jay Graber will step aside](https://www.theverge.com/tech/891562/bluesky-new-ceo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
