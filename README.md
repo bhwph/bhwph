@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Lloyds-commissioned study of 5,000 people in the UK finds that 50%+ of the adults used generative AI platforms for financial advice; ChatGPT was the most used &lpar;Mary McDougall/Financial Times&rpar;](http://www.techmeme.com/260309/p3#a260309p3)
- - [A look at the OpenClaw craze in China: AI labs launch tools to help users set up OpenClaw, a Shenzhen district drafts policies to support AI agents, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/260309/p2#a260309p2)
- - [Advice to developers: make software that agents want, with API-first design, as AI agents, instead of humans, will become the primary users of future software &lpar;Aaron Levie/@levie&rpar;](http://www.techmeme.com/260309/p1#a260309p1)<!-- TECH:END -->
+ - [Android’s Advanced Protection Mode may soon disable a key Chrome feature to boost security](https://www.androidauthority.com/android-advanced-protection-mode-disable-chrome-webgpu-apk-teardown-3647502/)
+ - [This highly anticipated flagship foldable is launching soon with a surprise stylus, watch companion](https://www.androidauthority.com/oppo-find-n6-launch-date-3647505/)
+ - [Hatch’s Sale Has the Restore 3, Rest, and Rest+ All Discounted](https://www.wired.com/story/hatch-sleep-week-sale-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
