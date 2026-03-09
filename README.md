@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [First day as a spy](http://9gag.com/gag/adBwmXj)
- - 😝 [Not all heroes wear capes, some have canes.](http://9gag.com/gag/apRwW25)
- - 👉 [Deadly Technique](http://9gag.com/gag/aVv5nG8)<!-- MEMES:END -->
+ - 6️⃣ [Just say it, woman](http://9gag.com/gag/a4PyD8m)
+ - 😝 [Still smoking hot... The movie enemy at the gates is awesome.](http://9gag.com/gag/a87OP8d)
+ - 👉 [A friend in need is the one I knead](http://9gag.com/gag/aZZ59Bp)<!-- MEMES:END -->
 
 --- 
 
