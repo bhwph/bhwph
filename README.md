@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Samsung Galaxy S26 series pre-order offers end tonight!](https://www.androidauthority.com/samsung-galaxy-s26-plus-ultra-deals-2-3648124/)
- - [Nitra, which offers a platform powered by AI agents to manage medical practices, raised a $50M Series B, bringing its total funding to $205M &lpar;Catherina Gioino/Fortune&rpar;](http://www.techmeme.com/260310/p44#a260310p44)
- - [iPhone Flip death rumors fold under close examination](https://appleinsider.com/articles/26/03/10/iphone-flip-death-rumors-fold-under-close-examination?utm_source=rss)<!-- TECH:END -->
+ - [How the spiraling Iran conflict could affect data centers and electricity costs](https://www.theverge.com/report/892661/iran-war-oil-gas-prices-data-center-electricity)
+ - [Sandbar, which is developing the Stream ring, a $249+ AI-powered wearable that transcribes audio notes, raised a $23M Series A, bringing total funding to $36M &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/260310/p51#a260310p51)
+ - [Niantic Spatial partners with Coco Robotics to integrate a visual positioning system trained on data from Pokemon Go and Ingress into a fleet of delivery robots &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260310/p50#a260310p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
