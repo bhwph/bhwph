@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
- - [Sources: Apple made ~55M iPhones in India in 2025, up 53% YoY from 36M in 2024, ~25% of total iPhone production as it shifts away from China to avoid tariffs &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/260309/p44#a260309p44)
- - [Flipkart moves its headquarters back to India, more than a decade after it moved to Singapore, as it prepares for a potential IPO in India in the coming months &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260309/p43#a260309p43)<!-- TECH:END -->
+ - [Gemini Live could become even more impressive thanks to Personal Intelligence](https://www.androidauthority.com/personal-intelligence-gemini-live-apk-teardown-3647843/)
+ - [How AI may disrupt venture capital, from making it easier and cheaper to start software companies, to agentic investors analyzing startup pitch decks and teams &lpar;Arielle Pardes/Wired&rpar;](http://www.techmeme.com/260310/p2#a260310p2)
+ - [Yann LeCun&#39;s Advanced Machine Intelligence Labs raised a $1.03B seed at a $3.5B pre-money valuation to work on world models, in Europe&#39;s largest ever seed round &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/260310/p1#a260310p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
