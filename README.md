@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Remedy Explains What Defines A Control Game As Its Sequels Veer Off In Wild Directions](https://kotaku.com/control-resonant-remedy-shooter-third-person-2000675970)
- - [Mobile Suit Gundam: Char’s Counterattack remains endlessly rewatchable](https://www.polygon.com/mobile-suit-gundam-chars-counterattack-1988-iconic-anime-film/)
- - [Meet the 8 Colossal Machines of Docked, Out Now on Xbox Series X|S](https://news.xbox.com/en-us/2026/03/05/docked-machines/)<!-- GAME:END -->
+ - [Pokémon Pokopia interactive maps](https://www.polygon.com/map/pokemon-pokopia-interactive-maps-withered-wasteland-bleak-beach-rocky-ridges-sparkling-skylands/)
+ - [After beating Slay the Spire 2 with an 8 year old deck, I&#39;m starting to feel like this is more of a remake than a sequel](https://www.pcgamer.com/games/roguelike/after-beating-slay-the-spire-2-with-an-8-year-old-deck-im-starting-to-feel-like-this-is-more-of-a-remake-than-a-sequel/)
+ - [&#39;Do the... Team Initiation Challenge?&#39; walkthrough and quest steps in Pokémon Pokopia](https://www.polygon.com/pokemon-pokopia-do-the-team-initiation-challenge-walkthrough-needed-items/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
