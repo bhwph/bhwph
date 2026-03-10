@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
- - 😝 [Have an update.](http://9gag.com/gag/aO856XR)
- - 👉 [Liberalism defined](http://9gag.com/gag/a9yGdRD)<!-- MEMES:END -->
+ - 6️⃣ [Therapy in 60 seconds](http://9gag.com/gag/aAy5nLo)
+ - 😝 [Human Logic](http://9gag.com/gag/azx3bxj)
+ - 👉 [Trust me. This one is definitely worth the time.](http://9gag.com/gag/aGyQ9Y5)<!-- MEMES:END -->
 
 --- 
 
