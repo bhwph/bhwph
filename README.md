@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Have an update.](http://9gag.com/gag/aO856XR)
- - 😝 [Justice!](http://9gag.com/gag/aE05e0O)
- - 👉 [That was dirty...](http://9gag.com/gag/aO85gXv)<!-- MEMES:END -->
+ - 😝 [Unmasked: Cycling club president who knocked girl, 5, to the ground - as he breaks silence to blame HER for not moving out of his way and moan that her father made him &#39;look very bad&#39; by posting video online](http://9gag.com/gag/a5QYe2o)
+ - 👉 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)<!-- MEMES:END -->
 
 --- 
 
