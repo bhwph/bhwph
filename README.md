@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another major smartphone maker has announced AI-induced price hikes](https://www.androidauthority.com/oppo-oneplus-ai-price-increases-3648067/)
- - [Surveys show owners of this older Galaxy phone aren’t rushing to upgrade to the S26](https://www.androidauthority.com/upgrade-galaxy-s23-to-s26-poll-results-3648025/)
- - [Fake AI Content About the Iran War Is All Over X](https://www.wired.com/story/fake-ai-content-about-the-iran-war-is-all-over-x/)<!-- TECH:END -->
+ - [Sources: Nielsen&#39;s Gracenote sues OpenAI for copyright infringement, saying OpenAI copied Gracenote&#39;s data and relational framework used to connect metadata &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260310/p40#a260310p40)
+ - [You have until tonight to save 48% on the Anker SOLIX C2000 Gen 2 power station](https://www.androidauthority.com/anker-solix-c2000-gen-2-portable-power-station-deal-2-3647730/)
+ - [This $11K 2019 Intel Mac Pro beats M3 Max MacBook Pro in one specific workflow](https://appleinsider.com/articles/26/03/10/this-11k-2019-intel-mac-pro-beats-m3-max-macbook-pro-in-one-specific-workflow?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
