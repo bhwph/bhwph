@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Hinge CEO Jackie Jantos, promoted from CMO in December 2025, as the dating app hits 1.8M+ paying users, gaining ground while others struggle &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260310/p8#a260310p8)
- - [How to Responsibly Dispose of Your Electronics &lpar;2026&rpar;](https://www.wired.com/story/how-to-responsibly-dispose-electronics/)
- - [Use Microsoft PC Manager to Speed Up Your Windows 11 Computer](https://www.wired.com/story/microsoft-pc-manager-speed-up-windows-11/)<!-- TECH:END -->
+ - [Apple MacBook Neo Review: Delicious, Low-Hanging Fruit](https://www.wired.com/review/apple-macbook-neo/)
+ - [I Used Google’s New Gemini-Powered ‘Help Me Create’ Tool in Docs. It’s Great at Corporate-Speak](https://www.wired.com/story/google-gemini-workspace-ai-tools-hands-on/)
+ - [Google’s Gemini AI is getting a bigger role across Docs, Sheets, and Slides](https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
