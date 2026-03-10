@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nielsen&#39;s Gracenote sues OpenAI for copyright infringement, saying OpenAI copied Gracenote&#39;s data and relational framework used to connect metadata &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260310/p40#a260310p40)
- - [You have until tonight to save 48% on the Anker SOLIX C2000 Gen 2 power station](https://www.androidauthority.com/anker-solix-c2000-gen-2-portable-power-station-deal-2-3647730/)
- - [This $11K 2019 Intel Mac Pro beats M3 Max MacBook Pro in one specific workflow](https://appleinsider.com/articles/26/03/10/this-11k-2019-intel-mac-pro-beats-m3-max-macbook-pro-in-one-specific-workflow?utm_source=rss)<!-- TECH:END -->
+ - [PSA: Samsung Galaxy S26 series pre-order offers end tonight!](https://www.androidauthority.com/samsung-galaxy-s26-plus-ultra-deals-2-3648124/)
+ - [Nitra, which offers a platform powered by AI agents to manage medical practices, raised a $50M Series B, bringing its total funding to $205M &lpar;Catherina Gioino/Fortune&rpar;](http://www.techmeme.com/260310/p44#a260310p44)
+ - [iPhone Flip death rumors fold under close examination](https://appleinsider.com/articles/26/03/10/iphone-flip-death-rumors-fold-under-close-examination?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
