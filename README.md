@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sometimes my genius is almost frightening](http://9gag.com/gag/aNDbrQ6)
- - 😝 [Keep supporting the troops!](http://9gag.com/gag/aVv6z7w)
- - 👉 [Hitman easter egg](http://9gag.com/gag/a9yGbyZ)<!-- MEMES:END -->
+ - 6️⃣ [Have an update.](http://9gag.com/gag/aO856XR)
+ - 😝 [Justice!](http://9gag.com/gag/aE05e0O)
+ - 👉 [That was dirty...](http://9gag.com/gag/aO85gXv)<!-- MEMES:END -->
 
 --- 
 
