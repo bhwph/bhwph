@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Keep supporting the troops!](http://9gag.com/gag/aVv6z7w)
- - 😝 [Hitman easter egg](http://9gag.com/gag/a9yGbyZ)
- - 👉 [That was dirty...](http://9gag.com/gag/aO85gXv)<!-- MEMES:END -->
+ - 6️⃣ [That was dirty...](http://9gag.com/gag/aO85gXv)
+ - 😝 [Welcome to the New UK.](http://9gag.com/gag/aXP1D66)
+ - 👉 [I know you&#39;d never try this, you are just a better man](http://9gag.com/gag/aD2v0o7)<!-- MEMES:END -->
 
 --- 
 
