@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Have an update.](http://9gag.com/gag/aO856XR)
- - 😝 [Justice!](http://9gag.com/gag/aE05e0O)
- - 👉 [Title](http://9gag.com/gag/aYQ585m)<!-- MEMES:END -->
+ - 6️⃣ [Nice children&#39;s book](http://9gag.com/gag/aLnEK6g)
+ - 😝 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
+ - 👉 [That was dirty...](http://9gag.com/gag/aO85gXv)<!-- MEMES:END -->
 
 --- 
 
