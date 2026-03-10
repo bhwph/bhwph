@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice children&#39;s book](http://9gag.com/gag/aLnEK6g)
+ - 6️⃣ [Get straight to the point](http://9gag.com/gag/aND5yV4)
  - 😝 [Justice!](http://9gag.com/gag/aE05e0O)
- - 👉 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)<!-- MEMES:END -->
+ - 👉 [Going the extra mile](http://9gag.com/gag/aryLpA7)<!-- MEMES:END -->
 
 --- 
 
