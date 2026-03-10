@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Get straight to the point](http://9gag.com/gag/aND5yV4)
+ - 6️⃣ [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
  - 😝 [Justice!](http://9gag.com/gag/aE05e0O)
- - 👉 [Going the extra mile](http://9gag.com/gag/aryLpA7)<!-- MEMES:END -->
+ - 👉 [Unmasked: Cycling club president who knocked girl, 5, to the ground - as he breaks silence to blame HER for not moving out of his way and moan that her father made him &#39;look very bad&#39; by posting video online](http://9gag.com/gag/a5QYe2o)<!-- MEMES:END -->
 
 --- 
 
