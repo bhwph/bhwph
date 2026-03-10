@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PC industry forced to make giant RAM &amp; SSD price hikes, Apple still mostly insulated](https://appleinsider.com/articles/26/03/10/pc-industry-forced-to-make-giant-ram-ssd-price-hikes-apple-still-mostly-insulated?utm_source=rss)
- - [Woz on Apple&#39;s 50th: We didn&#39;t predict the computing future, but took the first step](https://appleinsider.com/articles/26/03/10/woz-on-apples-50th-we-didnt-predict-the-computing-future-but-took-the-first-step?utm_source=rss)
- - [Jolla Phone 2026 hands-on: The world outside Android and iOS is exciting](https://www.androidauthority.com/jolla-phone-2026-hands-on-3646591/)<!-- TECH:END -->
+ - [Another major smartphone maker has announced AI-induced price hikes](https://www.androidauthority.com/oppo-oneplus-ai-price-increases-3648067/)
+ - [Surveys show owners of this older Galaxy phone aren’t rushing to upgrade to the S26](https://www.androidauthority.com/upgrade-galaxy-s23-to-s26-poll-results-3648025/)
+ - [Fake AI Content About the Iran War Is All Over X](https://www.wired.com/story/fake-ai-content-about-the-iran-war-is-all-over-x/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
