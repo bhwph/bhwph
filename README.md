@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How &quot;dark factories&quot;, powered by AI and robotics and requiring essentially no workers, are set to upend China&#39;s labor market, already stressed by tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p3#a260310p3)
- - [Gemini Live could become even more impressive thanks to Personal Intelligence](https://www.androidauthority.com/personal-intelligence-gemini-live-apk-teardown-3647843/)
- - [How AI may disrupt venture capital, from making it easier and cheaper to start software companies, to agentic investors analyzing startup pitch decks and teams &lpar;Arielle Pardes/Wired&rpar;](http://www.techmeme.com/260310/p2#a260310p2)<!-- TECH:END -->
+ - [An interview with Hinge CEO Jackie Jantos, promoted from CMO in December 2025, as the dating app hits 1.8M+ paying users, gaining ground while others struggle &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260310/p8#a260310p8)
+ - [How to Responsibly Dispose of Your Electronics &lpar;2026&rpar;](https://www.wired.com/story/how-to-responsibly-dispose-electronics/)
+ - [Use Microsoft PC Manager to Speed Up Your Windows 11 Computer](https://www.wired.com/story/microsoft-pc-manager-speed-up-windows-11/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
