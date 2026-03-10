@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple MacBook Neo Review: Delicious, Low-Hanging Fruit](https://www.wired.com/review/apple-macbook-neo/)
- - [I Used Google’s New Gemini-Powered ‘Help Me Create’ Tool in Docs. It’s Great at Corporate-Speak](https://www.wired.com/story/google-gemini-workspace-ai-tools-hands-on/)
- - [Google’s Gemini AI is getting a bigger role across Docs, Sheets, and Slides](https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive)<!-- TECH:END -->
+ - [PC industry forced to make giant RAM &amp; SSD price hikes, Apple still mostly insulated](https://appleinsider.com/articles/26/03/10/pc-industry-forced-to-make-giant-ram-ssd-price-hikes-apple-still-mostly-insulated?utm_source=rss)
+ - [Woz on Apple&#39;s 50th: We didn&#39;t predict the computing future, but took the first step](https://appleinsider.com/articles/26/03/10/woz-on-apples-50th-we-didnt-predict-the-computing-future-but-took-the-first-step?utm_source=rss)
+ - [Jolla Phone 2026 hands-on: The world outside Android and iOS is exciting](https://www.androidauthority.com/jolla-phone-2026-hands-on-3646591/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
