@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple smart home display rumors now point to a fall launch with iOS 27](https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor)
- - [HPE reports Q1 revenue up 18% YoY to $9.3B, vs. $9.37B est., Cloud and AI revenue down 2.7% YoY to $6.3B but reports an AI server backlog of $5B &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260309/p35#a260309p35)
- - [Studio Display XDR review roundup: Pro display hardware, with a few caveats](https://appleinsider.com/articles/26/03/09/studio-display-xdr-review-roundup-pro-display-hardware-with-a-few-caveats?utm_source=rss)<!-- TECH:END -->
+ - [Dify, which offers an open-source platform to build and run AI applications and agentic workflows, raised a $30M pre-Series A led by HSG at a $180M valuation &lpar;FinSMEs&rpar;](http://www.techmeme.com/260309/p41#a260309p41)
+ - [xAI aims to build a natural gas power plant in Southaven, MS, to run its data centers; a key meeting with regulators is set on an election day ~200 miles away &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260309/p40#a260309p40)
+ - [Huion Kamvas 22 &lpar;Gen 3&rpar; drawing tablet review: An excellent entry-level option](https://appleinsider.com/articles/26/03/10/huion-kamvas-22-gen-3-drawing-tablet-review-an-excellent-entry-level-option?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
