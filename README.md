@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
- - 😝 [Just look look at the size](http://9gag.com/gag/amoZLyv)
+ - 6️⃣ [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
+ - 😝 [Sony changes the price of games as soon as you login](http://9gag.com/gag/aByeKD1)
  - 👉 [`In the beginning, there was 8 bit`](http://9gag.com/gag/aD2vweN)<!-- MEMES:END -->
 
 --- 
