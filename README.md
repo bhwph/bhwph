@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says Claude for Excel and Claude for PowerPoint now share full context across open files, and skills are available inside Excel and PowerPoint add-ins &lpar;Sabrina Ortiz/The Deep View&rpar;](http://www.techmeme.com/260311/p41#a260311p41)
- - [Grammarly says it will stop using AI to clone experts without permission](https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled)
- - [Iran Warns US Tech Firms Could Become Targets as War Expands](https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/)<!-- TECH:END -->
+ - [Sources: the foldable iPhone will feature an iPad-like interface for its iPad mini-sized inner display and have an outer screen the size of a small iPhone &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260311/p46#a260311p46)
+ - [Gemini’s reach across Samsung apps expands with Gallery integration](https://www.androidauthority.com/samsung-gallery-app-gemini-integration-galaxy-s26-3648481/)
+ - [Samsung’s latest update is a serious gut punch to Galaxy power users](https://www.androidauthority.com/samsung-disables-odin-removes-download-mode-3648469/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
