@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s our first proper look at transit mode for Pixel phones](https://www.androidauthority.com/transit-mode-google-pixel-look-3648263/)
- - [Louis Theroux on the Manosphere: ‘It’s Highly Profitable to Be a Dick on the Internet’](https://www.wired.com/story/louis-theroux-on-the-manosphere-its-highly-profitable-to-be-a-dick-on-the-internet/)
- - [Fujifilm Instax Evo Cinema Review: Retro Video Fun](https://www.wired.com/review/fujifilm-instax-evo-cinema/)<!-- TECH:END -->
+ - [This Digital Picture Frame Wants to Bring People Closer to a Holographic Future](https://www.wired.com/story/looking-glass-musubi/)
+ - [Testing Lego&amp;#8217;s Smart Bricks with my two kids](https://www.theverge.com/tech/891863/lego-smart-brick-play-review-star-wars-first-sets-throne-room-x-wing-tie)
+ - [Intel announces Core Ultra 270K Plus and 250K Plus, its ‘fastest gaming desktop processors ever’](https://www.theverge.com/tech/892838/intel-core-ultra-270k-plus-250k-plus-fastest-gaming-cpu-ever)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
