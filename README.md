@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the spiraling Iran conflict could affect data centers and electricity costs](https://www.theverge.com/report/892661/iran-war-oil-gas-prices-data-center-electricity)
- - [Sandbar, which is developing the Stream ring, a $249+ AI-powered wearable that transcribes audio notes, raised a $23M Series A, bringing total funding to $36M &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/260310/p51#a260310p51)
- - [Niantic Spatial partners with Coco Robotics to integrate a visual positioning system trained on data from Pokemon Go and Ingress into a fleet of delivery robots &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260310/p50#a260310p50)<!-- TECH:END -->
+ - [Intel unveiled its Heracles chip at ISSCC in February, saying it accelerates fully homomorphic encryption tasks up to 5,000x faster than top Intel server CPUs &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/260310/p57#a260310p57)
+ - [Trump Administration Won’t Rule Out Further Action Against Anthropic](https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/)
+ - [How age-verification laws to enhance online child safety are raising surveillance concerns for adults; ~50% of US states have enacted or are advancing such laws &lpar;Barbara Booth/CNBC&rpar;](http://www.techmeme.com/260310/p56#a260310p56)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
