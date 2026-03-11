@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
- - 😝 [Nice children&#39;s book](http://9gag.com/gag/aLnEK6g)
- - 👉 [Liberalism defined](http://9gag.com/gag/a9yGdRD)<!-- MEMES:END -->
+ - 6️⃣ [Liberalism defined](http://9gag.com/gag/a9yGdRD)
+ - 😝 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
+ - 👉 [Buy gold](http://9gag.com/gag/aE04Gjo)<!-- MEMES:END -->
 
 --- 
 
