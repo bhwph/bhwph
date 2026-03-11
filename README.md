@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Liberalism defined](http://9gag.com/gag/a9yGdRD)
- - 😝 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
- - 👉 [Going the extra mile](http://9gag.com/gag/aryLpA7)<!-- MEMES:END -->
+ - 6️⃣ [Sony changes the price of games as soon as you login](http://9gag.com/gag/aByeKD1)
+ - 😝 [Going the extra mile](http://9gag.com/gag/aryLpA7)
+ - 👉 [Liberalism defined](http://9gag.com/gag/a9yGdRD)<!-- MEMES:END -->
 
 --- 
 
