@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Digital Picture Frame Wants to Bring People Closer to a Holographic Future](https://www.wired.com/story/looking-glass-musubi/)
- - [Testing Lego&amp;#8217;s Smart Bricks with my two kids](https://www.theverge.com/tech/891863/lego-smart-brick-play-review-star-wars-first-sets-throne-room-x-wing-tie)
- - [Intel announces Core Ultra 270K Plus and 250K Plus, its ‘fastest gaming desktop processors ever’](https://www.theverge.com/tech/892838/intel-core-ultra-270k-plus-250k-plus-fastest-gaming-cpu-ever)<!-- TECH:END -->
+ - [Apple Vision Pro user learns the hard way that flight attendants have the final say](https://appleinsider.com/articles/26/03/11/apple-vision-pro-user-learns-the-hard-way-that-flight-attendants-have-the-final-say?utm_source=rss)
+ - [How to Ding, Dong, Ditch Ring’s surveillance network](https://www.theverge.com/tech/890910/best-ring-alternatives-privacy-focused-video-doorbell-local-storage-reolink-aqara-tapo-ecobee)
+ - [You can’t replace the battery in Lego’s Smart Bricks — and many of its sensors aren’t available yet](https://www.theverge.com/tech/892894/lego-smart-brick-battery-sensors-disposable)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
