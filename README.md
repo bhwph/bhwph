@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel unveiled its Heracles chip at ISSCC in February, saying it accelerates fully homomorphic encryption tasks up to 5,000x faster than top Intel server CPUs &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/260310/p57#a260310p57)
- - [Trump Administration Won’t Rule Out Further Action Against Anthropic](https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/)
- - [How age-verification laws to enhance online child safety are raising surveillance concerns for adults; ~50% of US states have enacted or are advancing such laws &lpar;Barbara Booth/CNBC&rpar;](http://www.techmeme.com/260310/p56#a260310p56)<!-- TECH:END -->
+ - [Sources: Chinese state enterprises and agencies move to curb in-office OpenClaw use over potential security risks as users across China experiment with OpenClaw &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p3#a260311p3)
+ - [Galaxy S26 series goes on sale worldwide after record pre-orders led by the Ultra](https://www.androidauthority.com/samsung-galaxy-s26-open-sale-pre-order-numbers-3648240/)
+ - [Google rolls out Gemini in Chrome to India, Canada, and New Zealand, and adds support for over 50 additional languages, including Hindi, French, and Spanish &lpar;Charmaine D&#39;Silva/The Keyword&rpar;](http://www.techmeme.com/260311/p2#a260311p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
