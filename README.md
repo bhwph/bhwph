@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese state enterprises and agencies move to curb in-office OpenClaw use over potential security risks as users across China experiment with OpenClaw &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p3#a260311p3)
- - [Galaxy S26 series goes on sale worldwide after record pre-orders led by the Ultra](https://www.androidauthority.com/samsung-galaxy-s26-open-sale-pre-order-numbers-3648240/)
- - [Google rolls out Gemini in Chrome to India, Canada, and New Zealand, and adds support for over 50 additional languages, including Hindi, French, and Spanish &lpar;Charmaine D&#39;Silva/The Keyword&rpar;](http://www.techmeme.com/260311/p2#a260311p2)<!-- TECH:END -->
+ - [A profile of Sachin Katti, who joined OpenAI from Intel in November as head of industrial compute and is helping guide the company&#39;s infrastructure efforts &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p7#a260311p7)
+ - [Indian AI lab Lossfunk&#39;s prompting method lets LLMs generate Tulu language text without prior training; the method may expand to other low-resource languages &lpar;The Economic Times&rpar;](http://www.techmeme.com/260311/p6#a260311p6)
+ - [The AI-assisted overhaul of a Python character encoding detection library raises questions about software relicensing and derivative versions of the original &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/260311/p5#a260311p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
