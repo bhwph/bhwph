@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the foldable iPhone will feature an iPad-like interface for its iPad mini-sized inner display and have an outer screen the size of a small iPhone &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260311/p46#a260311p46)
- - [Gemini’s reach across Samsung apps expands with Gallery integration](https://www.androidauthority.com/samsung-gallery-app-gemini-integration-galaxy-s26-3648481/)
- - [Samsung’s latest update is a serious gut punch to Galaxy power users](https://www.androidauthority.com/samsung-disables-odin-removes-download-mode-3648469/)<!-- TECH:END -->
+ - [iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID](https://www.theverge.com/tech/893429/iphone-fold-rumor-ipad-multitasking-face-id-rumor)
+ - [The South Carolina Measles Outbreak Is Slowing Down](https://www.wired.com/story/the-south-carolina-measles-outbreak-is-slowing-down/)
+ - [Sources: PayPay priced its US IPO at $16 per share, below its targeted price range of between $17 and $20; the IPO raised $880M, valuing the company at $10.7B &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260311/p52#a260311p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
