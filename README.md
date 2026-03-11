@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
- - 😝 [When you listen to mainstream media panic and bet your life savings](http://9gag.com/gag/aW4XZP6)
- - 👉 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)<!-- MEMES:END -->
+ - 6️⃣ [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
+ - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 👉 [When you listen to mainstream media panic and bet your life savings](http://9gag.com/gag/aW4XZP6)<!-- MEMES:END -->
 
 --- 
 
