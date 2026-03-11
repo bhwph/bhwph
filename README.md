@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Liberalism defined](http://9gag.com/gag/a9yGdRD)
- - 😝 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
- - 👉 [Buy gold](http://9gag.com/gag/aE04Gjo)<!-- MEMES:END -->
+ - 😝 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
+ - 👉 [Going the extra mile](http://9gag.com/gag/aryLpA7)<!-- MEMES:END -->
 
 --- 
 
