@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro user learns the hard way that flight attendants have the final say](https://appleinsider.com/articles/26/03/11/apple-vision-pro-user-learns-the-hard-way-that-flight-attendants-have-the-final-say?utm_source=rss)
- - [How to Ding, Dong, Ditch Ring’s surveillance network](https://www.theverge.com/tech/890910/best-ring-alternatives-privacy-focused-video-doorbell-local-storage-reolink-aqara-tapo-ecobee)
- - [You can’t replace the battery in Lego’s Smart Bricks — and many of its sensors aren’t available yet](https://www.theverge.com/tech/892894/lego-smart-brick-battery-sensors-disposable)<!-- TECH:END -->
+ - [OpenAI’s Sora video generator is reportedly coming to ChatGPT](https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration)
+ - [Canva launches Magic Layers, an AI tool that turns a flat bitmap image into a fully editable Canva project by extracting text and objects into individual layers &lpar;Jesus Diaz/Fast Company&rpar;](http://www.techmeme.com/260311/p37#a260311p37)
+ - [Best Mattress for Back Pain &lpar;2026&rpar;: Saatva, Bear, Helix](https://www.wired.com/gallery/the-best-mattresses-for-back-pain/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
