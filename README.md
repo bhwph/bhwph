@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anduril agrees to acquire missile defense modeling company ExoAnalytic for an undisclosed sum and says the deal will grow its space unit staff from 120 to ~250 &lpar;Sana Pashankar/Bloomberg&rpar;](http://www.techmeme.com/260311/p9#a260311p9)
- - [Technology Is Reshaping Sleep Apnea Treatment](https://www.wired.com/story/sleep-apnea-treatment-tech/)
- - [Chinese Gen Z day traders, who prefer tech stocks and increasingly use AI chatbots for investment advice, fuel the country&#39;s latest tech investment craze &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p8#a260311p8)<!-- TECH:END -->
+ - [Here’s our first proper look at transit mode for Pixel phones](https://www.androidauthority.com/transit-mode-google-pixel-look-3648263/)
+ - [Louis Theroux on the Manosphere: ‘It’s Highly Profitable to Be a Dick on the Internet’](https://www.wired.com/story/louis-theroux-on-the-manosphere-its-highly-profitable-to-be-a-dick-on-the-internet/)
+ - [Fujifilm Instax Evo Cinema Review: Retro Video Fun](https://www.wired.com/review/fujifilm-instax-evo-cinema/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
