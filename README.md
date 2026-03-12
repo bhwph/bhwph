@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)
- - 😝 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
- - 👉 [`In the beginning, there was 8 bit`](http://9gag.com/gag/aD2vweN)<!-- MEMES:END -->
+ - 6️⃣ [The struggle is real, sometimes being nice just gets you into trouble](http://9gag.com/gag/aGyQxnZ)
+ - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 👉 [Meme origins](http://9gag.com/gag/agmevjx)<!-- MEMES:END -->
 
 --- 
 
