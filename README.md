@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chicago-based restaurant software startup Chowbus raised an $81M Series E led by Prysm Capital and Left Lane Capital; it focuses primarily on Asian restaurants &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260311/p61#a260311p61)
- - [The UK ICO and Ofcom asked social media platforms to implement &quot;highly effective age checks&quot; to bar under-13 accounts, similar to tools required for adult sites &lpar;Laura Cress/BBC&rpar;](http://www.techmeme.com/260311/p60#a260311p60)
- - [Can’t use ‘Hey Plex’ on your new Galaxy S26? This might be the reason why &lpar;Updated&rpar;](https://www.androidauthority.com/galaxy-s26-hey-plex-3648380/)<!-- TECH:END -->
+ - [Booking.com Promo Codes and Deals: Up to 20% Off](https://www.wired.com/story/booking-com-promo-code/)
+ - [Expedia Coupons and Deals: Up to 75% Off Select Trips](https://www.wired.com/story/expedia-coupon/)
+ - [Birdfy Discount Code: Save Up to 40% on Smart Bird Feeders](https://www.wired.com/story/birdfy-discount-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
