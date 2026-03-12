@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)
- - 😝 [Do it yourself](http://9gag.com/gag/a1m6ZKv)
- - 👉 [Locked in](http://9gag.com/gag/aXPOpV2)<!-- MEMES:END -->
+ - 6️⃣ [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)
+ - 😝 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
+ - 👉 [`In the beginning, there was 8 bit`](http://9gag.com/gag/aD2vweN)<!-- MEMES:END -->
 
 --- 
 
