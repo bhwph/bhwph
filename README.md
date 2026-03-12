@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Meme origins](http://9gag.com/gag/agmevjx)
- - 😝 [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)
- - 👉 [Locked in](http://9gag.com/gag/aXPOpV2)<!-- MEMES:END -->
+ - 6️⃣ [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 😝 [BRUTAL](http://9gag.com/gag/aW4XWOn)
+ - 👉 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)<!-- MEMES:END -->
 
 --- 
 
