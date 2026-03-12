@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bernstein: 42% of China&#39;s 20K+ humanoid robot shipments in 2025 were education and R&amp;D; data collection and human-robot interaction services each made up 19% &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/260312/p11#a260312p11)
- - [Mastercard unveils a Crypto Partner Program with 85+ companies, including Binance, PayPal, and Ripple, to link blockchain tech with its payments infrastructure &lpar;CoinDesk&rpar;](http://www.techmeme.com/260312/p10#a260312p10)
- - [Want to spend under $100 on a gaming handheld? MagicX has a new one you should keep an eye on](https://www.androidauthority.com/magicx-two-dream-light-pro-specs-3648572/)<!-- TECH:END -->
+ - [You can get a year of Google Fi for half off right now, with prices as low as $11.50 a month](https://www.androidauthority.com/google-fi-half-off-year-3648730/)
+ - [Sunday, which is building autonomous home robots, raised a $165M Series B led by Coatue at a valuation of $1.15B, and aims to begin testing in homes this year &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/260312/p42#a260312p42)
+ - [Survey reveals that the Pixel hardware debate is far from settled](https://www.androidauthority.com/google-pixel-hardware-poll-result-3648702/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
