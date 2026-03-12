@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID](https://www.theverge.com/tech/893429/iphone-fold-rumor-ipad-multitasking-face-id-rumor)
- - [The South Carolina Measles Outbreak Is Slowing Down](https://www.wired.com/story/the-south-carolina-measles-outbreak-is-slowing-down/)
- - [Sources: PayPay priced its US IPO at $16 per share, below its targeted price range of between $17 and $20; the IPO raised $880M, valuing the company at $10.7B &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260311/p52#a260311p52)<!-- TECH:END -->
+ - [Chicago-based restaurant software startup Chowbus raised an $81M Series E led by Prysm Capital and Left Lane Capital; it focuses primarily on Asian restaurants &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260311/p61#a260311p61)
+ - [The UK ICO and Ofcom asked social media platforms to implement &quot;highly effective age checks&quot; to bar under-13 accounts, similar to tools required for adult sites &lpar;Laura Cress/BBC&rpar;](http://www.techmeme.com/260311/p60#a260311p60)
+ - [Can’t use ‘Hey Plex’ on your new Galaxy S26? This might be the reason why &lpar;Updated&rpar;](https://www.androidauthority.com/galaxy-s26-hey-plex-3648380/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
