@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Breaking Bad in Germany would be a very short series](http://9gag.com/gag/agmevoq)
- - 😝 [Meme origins](http://9gag.com/gag/agmevjx)
- - 👉 [This is our climate](http://9gag.com/gag/aAy9ryE)<!-- MEMES:END -->
+ - 6️⃣ [Meme origins](http://9gag.com/gag/agmevjx)
+ - 😝 [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)
+ - 👉 [Locked in](http://9gag.com/gag/aXPOpV2)<!-- MEMES:END -->
 
 --- 
 
