@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s MacBook Neo validates a vision that began with Windows on ARM, which to this day is still held back by Microsoft&#39;s commitment to x86 compatibility &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/260312/p8#a260312p8)
- - [IDC: Motorola holds 50% of the foldable market in the US and 55% in Latin America, ahead of Samsung and Google; Motorola only holds 13% of the European market &lpar;Will Sattelberg/9to5Google&rpar;](http://www.techmeme.com/260312/p7#a260312p7)
- - [A small cottage industry offering OpenClaw installation services and preconfigured hardware emerges in China as the tool becomes the country&#39;s latest tech craze &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/260312/p6#a260312p6)<!-- TECH:END -->
+ - [Bernstein: 42% of China&#39;s 20K+ humanoid robot shipments in 2025 were education and R&amp;D; data collection and human-robot interaction services each made up 19% &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/260312/p11#a260312p11)
+ - [Mastercard unveils a Crypto Partner Program with 85+ companies, including Binance, PayPal, and Ripple, to link blockchain tech with its payments infrastructure &lpar;CoinDesk&rpar;](http://www.techmeme.com/260312/p10#a260312p10)
+ - [Want to spend under $100 on a gaming handheld? MagicX has a new one you should keep an eye on](https://www.androidauthority.com/magicx-two-dream-light-pro-specs-3648572/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
