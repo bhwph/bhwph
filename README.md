@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 Beta 2 starts clamping down on apps that misuse accessibility services](https://www.androidauthority.com/android-17-beta-2-advanced-protection-mode-accessibility-apps-3648860/)
- - [Samsung phones can now tell you which apps work beyond cell towers and Wi-Fi](https://www.androidauthority.com/samsung-satellite-ready-apps-3648855/)
- - [Alex Karp says AI disrupts the economic power of &quot;humanities-trained, largely Democratic voters&quot; and strengthens that of &quot;working-class, often male voters&quot; &lpar;Kelby Vera/HuffPost&rpar;](http://www.techmeme.com/260313/p2#a260313p2)<!-- TECH:END -->
+ - [This foldable phone could support modular camera lens add-ons](https://www.androidauthority.com/foldable-lens-3648959/)
+ - [Nothing’s Phone 4a just got a big update with lock screen and widget upgrades](https://www.androidauthority.com/nothing-phone-4a-updates-3648964/)
+ - [Sources: Elon Musk pushed out two more xAI co-founders after getting frustrated with xAI&#39;s coding product progress and brought in &quot;fixers&quot; from SpaceX and Tesla &lpar;Financial Times&rpar;](http://www.techmeme.com/260313/p10#a260313p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
