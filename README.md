@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The struggle is real, sometimes being nice just gets you into trouble](http://9gag.com/gag/aGyQxnZ)
- - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
- - 👉 [Meme origins](http://9gag.com/gag/agmevjx)<!-- MEMES:END -->
+ - 6️⃣ [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 😝 [Meme origins](http://9gag.com/gag/agmevjx)
+ - 👉 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)<!-- MEMES:END -->
 
 --- 
 
