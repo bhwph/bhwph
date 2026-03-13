@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The missing element](http://9gag.com/gag/avyjPqW)
- - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
- - 👉 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)<!-- MEMES:END -->
+ - 6️⃣ [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
+ - 😝 [Every alcoholics dream](http://9gag.com/gag/a6ZR7v8)
+ - 👉 [I don&#39;t know how to express such a beautiful feeling](http://9gag.com/gag/a4P0jQv)<!-- MEMES:END -->
 
 --- 
 
