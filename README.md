@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Locked in](http://9gag.com/gag/aXPOpV2)
- - 😝 [Meme origins](http://9gag.com/gag/agmevjx)
- - 👉 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)<!-- MEMES:END -->
+ - 6️⃣ [The missing element](http://9gag.com/gag/avyjPqW)
+ - 😝 [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 👉 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)<!-- MEMES:END -->
 
 --- 
 
