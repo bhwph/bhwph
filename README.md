@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can get a year of Google Fi for half off right now, with prices as low as $11.50 a month](https://www.androidauthority.com/google-fi-half-off-year-3648730/)
- - [Sunday, which is building autonomous home robots, raised a $165M Series B led by Coatue at a valuation of $1.15B, and aims to begin testing in homes this year &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/260312/p42#a260312p42)
- - [Survey reveals that the Pixel hardware debate is far from settled](https://www.androidauthority.com/google-pixel-hardware-poll-result-3648702/)<!-- TECH:END -->
+ - [Sources: Qualified Health, which helps health care organizations assess and orchestrate AI tools, is raising a ~$100M Series A from NEA, SignalFire, and others &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/260312/p58#a260312p58)
+ - [F1&#39;s debut race in the 2026 season beat everyone&#39;s expectations, even Apple&#39;s](https://appleinsider.com/articles/26/03/13/f1s-debut-race-in-the-2026-season-beat-everyones-expectations-even-apples?utm_source=rss)
+ - [Social media addiction trial: the plaintiff, Meta, and YouTube make closing arguments; jurors begin deliberations Friday on liability for harm to children &lpar;Associated Press&rpar;](http://www.techmeme.com/260312/p57#a260312p57)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
