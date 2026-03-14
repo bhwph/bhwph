@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
- - 😝 [Probably being disappointed](http://9gag.com/gag/avyjnNn)
- - 👉 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)<!-- MEMES:END -->
+ - 6️⃣ [Do the right thing when no one&#39;s looking](http://9gag.com/gag/a6ZRMwq)
+ - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
+ - 👉 [Probably being disappointed](http://9gag.com/gag/avyjnNn)<!-- MEMES:END -->
 
 --- 
 
