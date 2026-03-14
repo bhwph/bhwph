@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The missing element](http://9gag.com/gag/avyjPqW)
- - 😝 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
+ - 6️⃣ [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
+ - 😝 [Probably being disappointed](http://9gag.com/gag/avyjnNn)
  - 👉 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)<!-- MEMES:END -->
 
 --- 
