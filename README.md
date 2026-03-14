@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An excerpt from the upcoming book Project Maven details how the Pentagon enlisted Silicon Valley to build AI-powered tools of war, now playing out in Iran &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260314/p5#a260314p5)
- - [Mobile internet blackouts hit Moscow as the Kremlin tightens control; Roskomnadzor data shows daily traffic down ~20% since March 5 vs. the previous month &lpar;Anastasia Stognei/Financial Times&rpar;](http://www.techmeme.com/260314/p4#a260314p4)
- - [Palantir software demos and DOD records show how the military may be using AI chatbots, including the kinds of queries and the data used to generate responses &lpar;Caroline Haskins/Wired&rpar;](http://www.techmeme.com/260314/p3#a260314p3)<!-- TECH:END -->
+ - [Sources: ByteDance suspended the global launch of Seedance 2.0 amid copyright disputes with Hollywood studios and streamers; it was launched in China last month &lpar;The Information&rpar;](http://www.techmeme.com/260314/p9#a260314p9)
+ - [Hulu, Disney Plus, and the Pixel Watch 4 are among this week’s best deals](https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale)
+ - [Prediction markets want the Oscars to be your gateway drug to betting on everything](https://www.theverge.com/entertainment/894878/oscars-2026-kalshi-sinners-one-battle-after-anothers-marty-supreme-baftas-gambling)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
