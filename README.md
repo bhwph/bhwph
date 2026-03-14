@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This foldable phone could support modular camera lens add-ons](https://www.androidauthority.com/foldable-lens-3648959/)
- - [Nothing’s Phone 4a just got a big update with lock screen and widget upgrades](https://www.androidauthority.com/nothing-phone-4a-updates-3648964/)
- - [Sources: Elon Musk pushed out two more xAI co-founders after getting frustrated with xAI&#39;s coding product progress and brought in &quot;fixers&quot; from SpaceX and Tesla &lpar;Financial Times&rpar;](http://www.techmeme.com/260313/p10#a260313p10)<!-- TECH:END -->
+ - [A US government website shows the Commerce Department withdrew a planned rule tightening AI chip exports; a draft was sent to agencies for feedback in February &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/260313/p28#a260313p28)
+ - [Sources: Meta plans sweeping layoffs that could affect 20% or more of the company, amid mounting AI infrastructure costs; it had ~79,000 employees as of Dec. 31 &lpar;Reuters&rpar;](http://www.techmeme.com/260313/p27#a260313p27)
+ - [A US judge questions Elon Musk&#39;s $134B claim for damages in his lawsuit against OpenAI and Microsoft but rules he can still make his case to a jury &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260313/p26#a260313p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
