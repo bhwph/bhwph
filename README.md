@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marathon Equitable Distribution priority contract walkthrough](https://www.polygon.com/marathon-equitable-distribution-priority-contract-walkthrough/)
- - [Microsoft spills the beans on its Xbox-PC hybrid at GDC while suggesting it&#39;s still years away](https://www.pcgamer.com/hardware/microsoft-spills-the-beans-on-its-xbox-pc-hybrid-at-gdc-while-suggesting-its-still-years-away/)
- - [Solasta 2’s character creator makes building a D&amp;D party the best part of the game](https://www.polygon.com/solasta-2-early-access-preview-character-creation/)<!-- GAME:END -->
+ - [Jackbox Party Pack studio will start publishing absurd games: &#39;We applaud the baby-slapping&#39;](https://www.polygon.com/my-arms-are-longer-now-jackbox-games-interview/)
+ - [Split spacebars are surely the next big gaming keyboard trend](https://www.pcgamer.com/hardware/gaming-keyboards/split-spacebars-are-surely-the-next-big-gaming-keyboard-trend/)
+ - [As if seeing it on your screen wasn&#39;t enough, someone has created a lifesize animatronic version of the girl from Resident Evil Requiem, which is a really good, not at all terrifying idea, I&#39;m sure](https://www.pcgamer.com/games/horror/as-if-seeing-it-on-your-screen-wasnt-enough-someone-has-created-a-lifesize-animatronic-version-of-the-girl-from-resident-evil-requiem-which-is-a-really-good-not-at-all-terrifying-idea-im-sure/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
