@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Do the right thing when no one&#39;s looking](http://9gag.com/gag/a6ZRMwq)
- - 😝 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
- - 👉 [Probably being disappointed](http://9gag.com/gag/avyjnNn)<!-- MEMES:END -->
+ - 6️⃣ [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
+ - 😝 [In your dreams](http://9gag.com/gag/aW4X80q)
+ - 👉 [Let there be light](http://9gag.com/gag/aLnEDmP)<!-- MEMES:END -->
 
 --- 
 
