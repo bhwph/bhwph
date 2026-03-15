@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happy Birthday to You](http://9gag.com/gag/aLnEMKM)
- - 😝 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
- - 👉 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)<!-- MEMES:END -->
+ - 6️⃣ [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
+ - 😝 [Oh look, the leaked plot of Shrek 5](http://9gag.com/gag/a34OM3v)
+ - 👉 [Found out](http://9gag.com/gag/aXPOAN2)<!-- MEMES:END -->
 
 --- 
 
