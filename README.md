@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How competition between Brazilian delivery app iFood and Meituan&#39;s Keeta in Brazil has descended into accusations of corporate espionage and shady tactics &lpar;Financial Times&rpar;](http://www.techmeme.com/260316/p9#a260316p9)
- - [An iPhone is apparently Washington’s most important smartphone](https://www.androidauthority.com/us-president-trump-iphone-white-house-3649228/)
- - [As AI models commodify, Apple&#39;s plans to spend just $14B on 2026 capex, far below hyperscalers&#39; combined $650B, or 90%+ of their cash flow, may be a genius move &lpar;Horace Dediu/Asymco&rpar;](http://www.techmeme.com/260316/p8#a260316p8)<!-- TECH:END -->
+ - [How Trump&#39;s opposition to state-level AI regulation has driven a wedge in GOP, killing Florida&#39;s proposed AI Bill of Rights, which was backed by Gov. DeSantis &lpar;New York Times&rpar;](http://www.techmeme.com/260316/p27#a260316p27)
+ - [MotionVFX acquisition hints at new Final Cut Pro features on iPad](https://appleinsider.com/articles/26/03/16/motionvfx-acquisition-hints-at-new-final-cut-pro-features-on-ipad?utm_source=rss)
+ - [Apple acquires MotionVFX, a Polish company that develops plugins, visual effects, and motion graphics tools for Final Cut Pro &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/260316/p26#a260316p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
