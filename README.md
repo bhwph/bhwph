@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jackbox Party Pack studio will start publishing absurd games: &#39;We applaud the baby-slapping&#39;](https://www.polygon.com/my-arms-are-longer-now-jackbox-games-interview/)
- - [Split spacebars are surely the next big gaming keyboard trend](https://www.pcgamer.com/hardware/gaming-keyboards/split-spacebars-are-surely-the-next-big-gaming-keyboard-trend/)
- - [As if seeing it on your screen wasn&#39;t enough, someone has created a lifesize animatronic version of the girl from Resident Evil Requiem, which is a really good, not at all terrifying idea, I&#39;m sure](https://www.pcgamer.com/games/horror/as-if-seeing-it-on-your-screen-wasnt-enough-someone-has-created-a-lifesize-animatronic-version-of-the-girl-from-resident-evil-requiem-which-is-a-really-good-not-at-all-terrifying-idea-im-sure/)<!-- GAME:END -->
+ - [Amy Madigan&#39;s historic Oscars 2026 win echoes Heath Ledger&#39;s Joker](https://www.polygon.com/amy-madigan-oscars-2026-best-supporting-actress/)
+ - [Five new Steam games you probably missed &lpar;March 16, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-16-2026/)
+ - [Firefly returns as an animated series with controversial creator Joss Whedon&#39;s blessing](https://www.polygon.com/firefly-returns-as-an-animated-series-with-controversial-creator-joss-whedons-blessing/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
