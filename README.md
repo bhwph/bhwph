@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
- - 😝 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
- - 👉 [Points and laughs](http://9gag.com/gag/aZZYgqn)<!-- MEMES:END -->
+ - 6️⃣ [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
+ - 😝 [Still miss it](http://9gag.com/gag/avyjGwO)
+ - 👉 [Where ze Germans heading?](http://9gag.com/gag/an7obmE)<!-- MEMES:END -->
 
 --- 
 
