@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Witches and glitches are your targets in retro adventure Witchhunter.exe](https://www.pcgamer.com/games/visual-novel/witches-and-glitches-are-your-targets-in-retro-adventure-witchhunter-exe/)
- - [Amy Madigan&#39;s historic Oscars 2026 win echoes Heath Ledger&#39;s Joker](https://www.polygon.com/amy-madigan-oscars-2026-best-supporting-actress/)
- - [Five new Steam games you probably missed &lpar;March 16, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-16-2026/)<!-- GAME:END -->
+ - [Yes, Your Pokémon Are Disappearing In Pokopia And It’s Really Annoying To Get Them Back](https://kotaku.com/pokemon-pokopia-disappearing-despawn-respawn-honey-2000679147)
+ - [Tech creator proves for a second time that AA batteries are not a practical power alternative for your gaming PC](https://www.pcgamer.com/hardware/power-supplies/tech-creator-proves-for-a-second-time-that-aa-batteries-are-not-a-practical-power-alternative-for-your-gaming-pc/)
+ - [YouTuber replaces PC fan with 15 miniature fans in unholy experiment dubbed &#39;The Fanhattan Project&#39;,  performs pretty much the same as a standard fan](https://www.pcgamer.com/hardware/cooling/youtuber-replaces-pc-fan-with-15-miniature-fans-in-unholy-experiment-dubbed-the-fanhattan-project-performs-pretty-much-the-same-as-a-standard-fan/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
