@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
- - 😝 [Still miss it](http://9gag.com/gag/avyjGwO)
- - 👉 [Where ze Germans heading?](http://9gag.com/gag/an7obmE)<!-- MEMES:END -->
+ - 6️⃣ [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)
+ - 😝 [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)
+ - 👉 [Cant stop the signal!](http://9gag.com/gag/aByexGZ)<!-- MEMES:END -->
 
 --- 
 
