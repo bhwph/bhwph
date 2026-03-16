@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
- - 😝 [Oh look, the leaked plot of Shrek 5](http://9gag.com/gag/a34OM3v)
- - 👉 [Found out](http://9gag.com/gag/aXPOAN2)<!-- MEMES:END -->
+ - 6️⃣ [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
+ - 😝 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
+ - 👉 [Points and laughs](http://9gag.com/gag/aZZYgqn)<!-- MEMES:END -->
 
 --- 
 
