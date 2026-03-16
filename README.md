@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Standard Kernel, which is making AI-powered GPU optimization software, raised a $20M seed led by Jump Capital, with General Catalyst and others participating &lpar;Clinton Nwachukwu/Ventureburn&rpar;](http://www.techmeme.com/260315/p10#a260315p10)
- - [Recovered notes from a lobbyist&#39;s phone outline a $5M payment structure tied to Argentine President Milei and other top officials&#39; promotion of the Libra token &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260315/p9#a260315p9)
- - [Intellexa&#39;s founder says his firm sells surveillance tech exclusively to governments, reviving claims of state spying in Greece after being sentenced last month &lpar;Eliza Triantafillou/OCCRP&rpar;](http://www.techmeme.com/260315/p8#a260315p8)<!-- TECH:END -->
+ - [How competition between Brazilian delivery app iFood and Meituan&#39;s Keeta in Brazil has descended into accusations of corporate espionage and shady tactics &lpar;Financial Times&rpar;](http://www.techmeme.com/260316/p9#a260316p9)
+ - [An iPhone is apparently Washington’s most important smartphone](https://www.androidauthority.com/us-president-trump-iphone-white-house-3649228/)
+ - [As AI models commodify, Apple&#39;s plans to spend just $14B on 2026 capex, far below hyperscalers&#39; combined $650B, or 90%+ of their cash flow, may be a genius move &lpar;Horace Dediu/Asymco&rpar;](http://www.techmeme.com/260316/p8#a260316p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
