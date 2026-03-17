@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with Aqara’s new Matter-compatible camera](https://www.theverge.com/tech/895326/aqara-g350-matter-camera-samsung-smartthings-hands-on-review)
- - [Q&amp;A with CEO Jim Lanzone on Yahoo being &quot;very profitable&quot;, its new AI search engine, focusing on sports content, including original video and podcasts, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260317/p4#a260317p4)
- - [Google might getting ready to give Circle to Search a colorful makeover](https://www.androidauthority.com/google-colorful-circle-to-search-3649606/)<!-- TECH:END -->
+ - [Dyson&#39;s New PencilWash Is Here](https://www.wired.com/story/dyson-pencilwash-now-available/)
+ - [Apple&#39;s 1TB M5 MacBook Pro hits all-time low $1,499 price](https://appleinsider.com/articles/26/03/17/apples-1tb-m5-macbook-pro-hits-all-time-low-1499-price?utm_source=rss)
+ - [Now everyone in the US is getting Google&amp;#8217;s personalized Gemini AI](https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
