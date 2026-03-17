@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Insanely punishing&#39; survival game Atlas is being distilled &#39;into a more accessible form&#39; for Ark: Survival Ascended&#39;s new DLC](https://www.pcgamer.com/games/survival-crafting/insanely-punishing-survival-game-atlas-is-being-distilled-into-a-more-accessible-form-for-ark-survival-ascendeds-new-dlc/)
- - [The Sekiro anime looks gorgeous, gory in new trailer from Crunchyroll](https://www.polygon.com/sekiro-anime-no-defeat-trailer-2-crunchyroll/)
- - [Witch Hat Atelier review: The perfect fantasy anime to get over your Frieren blues](https://www.polygon.com/witch-hat-atelier-episodes-1-2-review-impressions/)<!-- GAME:END -->
+ - [Todd Howard would really have preferred not to announce The Elder Scrolls 6 a full 8 years ago, sounds like: &#39;Just pretend we didn&#39;t announce it. Doesn&#39;t exist. No one&#39;s heard a word&#39;](https://www.pcgamer.com/games/the-elder-scrolls/todd-howard-would-really-have-preferred-not-to-announce-the-elder-scrolls-6-a-full-8-years-ago-sounds-like-just-pretend-we-didnt-announce-it-doesnt-exist-no-ones-heard-a-word/)
+ - [Marathon‘s First Big Update Adds End-Game Nightmare Map Cryo Archive But No One Knows How To Get There Yet](https://kotaku.com/marathon-cryo-archive-map-patch-notes-2000679628)
+ - [One Elite Dangerous fan scavenged parts from multiple VR roller coaster rides to craft the ultimate space faring sim rig, so I hailed him to find out more](https://www.pcgamer.com/hardware/one-elite-dangerous-fan-scavenged-parts-from-multiple-vr-roller-coaster-rides-to-craft-the-ultimate-space-faring-sim-rig-so-i-hailed-him-to-find-out-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
