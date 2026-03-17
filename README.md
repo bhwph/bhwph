@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fuse, which offers AI-powered loan origination software to credit unions and other financial institutions, raised a $25M Series A &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260316/p48#a260316p48)
- - [The Live Nation trial restarts with a &amp;#8216;velvet hammer&amp;#8217;](https://www.theverge.com/policy/895778/live-nation-ticketmaster-states-trial-continues)
- - [How Disney Imagineering built an Olaf robot, set to arrive at Disneyland Paris this month, and taught it to move via reinforcement learning and simulation &lpar;Jacob Krol/TechRadar&rpar;](http://www.techmeme.com/260316/p47#a260316p47)<!-- TECH:END -->
+ - [Hands on with Aqara’s new Matter-compatible camera](https://www.theverge.com/tech/895326/aqara-g350-matter-camera-samsung-smartthings-hands-on-review)
+ - [Q&amp;A with CEO Jim Lanzone on Yahoo being &quot;very profitable&quot;, its new AI search engine, focusing on sports content, including original video and podcasts, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260317/p4#a260317p4)
+ - [Google might getting ready to give Circle to Search a colorful makeover](https://www.androidauthority.com/google-colorful-circle-to-search-3649606/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
