@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)
- - 😝 [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)
- - 👉 [Cant stop the signal!](http://9gag.com/gag/aByexGZ)<!-- MEMES:END -->
+ - 6️⃣ [Hemp](http://9gag.com/gag/abA8M4O)
+ - 😝 [Imagine getting this call seven years later](http://9gag.com/gag/a87g8r1)
+ - 👉 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)<!-- MEMES:END -->
 
 --- 
 
