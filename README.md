@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Trump&#39;s opposition to state-level AI regulation has driven a wedge in GOP, killing Florida&#39;s proposed AI Bill of Rights, which was backed by Gov. DeSantis &lpar;New York Times&rpar;](http://www.techmeme.com/260316/p27#a260316p27)
- - [MotionVFX acquisition hints at new Final Cut Pro features on iPad](https://appleinsider.com/articles/26/03/16/motionvfx-acquisition-hints-at-new-final-cut-pro-features-on-ipad?utm_source=rss)
- - [Apple acquires MotionVFX, a Polish company that develops plugins, visual effects, and motion graphics tools for Final Cut Pro &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/260316/p26#a260316p26)<!-- TECH:END -->
+ - [Fuse, which offers AI-powered loan origination software to credit unions and other financial institutions, raised a $25M Series A &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260316/p48#a260316p48)
+ - [The Live Nation trial restarts with a &amp;#8216;velvet hammer&amp;#8217;](https://www.theverge.com/policy/895778/live-nation-ticketmaster-states-trial-continues)
+ - [How Disney Imagineering built an Olaf robot, set to arrive at Disneyland Paris this month, and taught it to move via reinforcement learning and simulation &lpar;Jacob Krol/TechRadar&rpar;](http://www.techmeme.com/260316/p47#a260316p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
