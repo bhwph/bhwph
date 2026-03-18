@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dyson&#39;s New PencilWash Is Here](https://www.wired.com/story/dyson-pencilwash-now-available/)
- - [Apple&#39;s 1TB M5 MacBook Pro hits all-time low $1,499 price](https://appleinsider.com/articles/26/03/17/apples-1tb-m5-macbook-pro-hits-all-time-low-1499-price?utm_source=rss)
- - [Now everyone in the US is getting Google&amp;#8217;s personalized Gemini AI](https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence)<!-- TECH:END -->
+ - [Filing: the DOD said it designated Anthropic a supply chain risk over concerns the AI company could disable its tech if the Pentagon crossed its &quot;red lines&quot; &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/260317/p53#a260317p53)
+ - [Chartbeat: over two years, search traffic fell by 60% for small publishers with 1K-10K daily page views, 47% for medium-sized publishers, and 22% for large ones &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260317/p52#a260317p52)
+ - [Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems](https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
