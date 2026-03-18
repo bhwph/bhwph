@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
- - 😝 [Would this work in your city/country?](http://9gag.com/gag/ayNKoVp)
- - 👉 [Sad face](http://9gag.com/gag/aE04PYO)<!-- MEMES:END -->
+ - 6️⃣ [Is the men&#39;s burden.](http://9gag.com/gag/aryLoDV)
+ - 😝 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)
+ - 👉 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)<!-- MEMES:END -->
 
 --- 
 
