@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Todd Howard would really have preferred not to announce The Elder Scrolls 6 a full 8 years ago, sounds like: &#39;Just pretend we didn&#39;t announce it. Doesn&#39;t exist. No one&#39;s heard a word&#39;](https://www.pcgamer.com/games/the-elder-scrolls/todd-howard-would-really-have-preferred-not-to-announce-the-elder-scrolls-6-a-full-8-years-ago-sounds-like-just-pretend-we-didnt-announce-it-doesnt-exist-no-ones-heard-a-word/)
- - [Marathon‘s First Big Update Adds End-Game Nightmare Map Cryo Archive But No One Knows How To Get There Yet](https://kotaku.com/marathon-cryo-archive-map-patch-notes-2000679628)
- - [One Elite Dangerous fan scavenged parts from multiple VR roller coaster rides to craft the ultimate space faring sim rig, so I hailed him to find out more](https://www.pcgamer.com/hardware/one-elite-dangerous-fan-scavenged-parts-from-multiple-vr-roller-coaster-rides-to-craft-the-ultimate-space-faring-sim-rig-so-i-hailed-him-to-find-out-more/)<!-- GAME:END -->
+ - [Starfield&#39;s Terran Armada story DLC will let you recruit a robot who is &#39;not evil&#39; but also &#39;definitely not good&#39;](https://www.pcgamer.com/games/rpg/starfields-terran-armada-story-dlc-will-let-you-recruit-a-robot-who-is-not-evil-but-also-definitely-not-good/)
+ - [Steam build of Death Stranding 2 leaks two days ahead of launch](https://www.pcgamer.com/games/action/steam-build-of-death-stranding-2-leaks-two-days-ahead-of-launch/)
+ - [Arc Raiders Studio Parts Ways With Cofounder Over Sexual Misconduct Allegations It Was Unable To Substantiate](https://kotaku.com/rob-runesson-embark-finals-esports-misconduct-allegations-2000679734)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
