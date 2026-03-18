@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A mystery 1T-parameter AI model called Hunter Alpha, which appeared on OpenRouter on March 11, sparks speculation that DeepSeek is quietly testing its V4 model &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260318/p10#a260318p10)
- - [OnePlus reveals key specs and launch date of its next compact phone](https://www.androidauthority.com/oneplus-15t-compact-flagship-launch-date-specs-3650007/)
- - [Alibaba raises prices for its T-Head AI computing chips, including the Zhenwu 810E, by 5% to 34%, and its Cloud Parallel File Storage by 30%, after demand soars &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260318/p9#a260318p9)<!-- TECH:END -->
+ - [PSA: Hackers can raid iOS 18 with an infected link](https://www.theverge.com/tech/896841/iphone-ios-18-attack-darksword)
+ - [Sources: several tech companies, including OpenAI, are encouraging the DOD behind the scenes to back away from designating Anthropic a &quot;supply chain risk&quot; &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/260318/p36#a260318p36)
+ - [This severe and international iPhone hack is the best reason to update to iOS 26.3 yet](https://appleinsider.com/articles/26/03/18/this-severe-and-international-iphone-hack-is-the-best-reason-to-update-to-ios-263-yet?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
