@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [King of memes!](http://9gag.com/gag/aMVLZZP)
- - 😝 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
- - 👉 [Would this work in your city/country?](http://9gag.com/gag/ayNKoVp)<!-- MEMES:END -->
+ - 😝 [Sad face](http://9gag.com/gag/aE04PYO)
+ - 👉 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
 
 --- 
 
