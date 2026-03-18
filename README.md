@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: the DOD said it designated Anthropic a supply chain risk over concerns the AI company could disable its tech if the Pentagon crossed its &quot;red lines&quot; &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/260317/p53#a260317p53)
- - [Chartbeat: over two years, search traffic fell by 60% for small publishers with 1K-10K daily page views, 47% for medium-sized publishers, and 22% for large ones &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260317/p52#a260317p52)
- - [Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems](https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/)<!-- TECH:END -->
+ - [A mystery 1T-parameter AI model called Hunter Alpha, which appeared on OpenRouter on March 11, sparks speculation that DeepSeek is quietly testing its V4 model &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/260318/p10#a260318p10)
+ - [OnePlus reveals key specs and launch date of its next compact phone](https://www.androidauthority.com/oneplus-15t-compact-flagship-launch-date-specs-3650007/)
+ - [Alibaba raises prices for its T-Head AI computing chips, including the Zhenwu 810E, by 5% to 34%, and its Cloud Parallel File Storage by 30%, after demand soars &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260318/p9#a260318p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
