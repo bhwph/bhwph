@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now i get inspired to make a video game](http://9gag.com/gag/aBye2gQ)
- - 😝 [He probably thought: `Oh Shee-Heet`](http://9gag.com/gag/ajP4m6g)
- - 👉 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)<!-- MEMES:END -->
+ - 6️⃣ [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
+ - 😝 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)
+ - 👉 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)<!-- MEMES:END -->
 
 --- 
 
