@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Hackers can raid iOS 18 with an infected link](https://www.theverge.com/tech/896841/iphone-ios-18-attack-darksword)
- - [Sources: several tech companies, including OpenAI, are encouraging the DOD behind the scenes to back away from designating Anthropic a &quot;supply chain risk&quot; &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/260318/p36#a260318p36)
- - [This severe and international iPhone hack is the best reason to update to iOS 26.3 yet](https://appleinsider.com/articles/26/03/18/this-severe-and-international-iphone-hack-is-the-best-reason-to-update-to-ios-263-yet?utm_source=rss)<!-- TECH:END -->
+ - [LinkedIn signs The Trade Desk as its first DSP partner for connected TV ads, allowing ad buyers to layer in LinkedIn data to reach target audiences &lpar;Lara O&#39;Reilly/Business Insider&rpar;](http://www.techmeme.com/260318/p53#a260318p53)
+ - [Google DeepMind appoints Jasjeet Sekhon, Bridgewater&#39;s chief scientist and head of AI, as chief strategy officer; Sekhon helped build Bridgewater&#39;s AIA Labs &lpar;Anirban Sen/Reuters&rpar;](http://www.techmeme.com/260318/p52#a260318p52)
+ - [AI Brings Val Kilmer Back to the Big Screen a Year After His Death](https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
