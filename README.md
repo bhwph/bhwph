@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Draw me like one of your japenese swords](http://9gag.com/gag/axyrMdM)
- - 😝 [Anything for views](http://9gag.com/gag/aBye2jP)
- - 👉 [This is next level RC fun](http://9gag.com/gag/aXPOoj2)<!-- MEMES:END -->
+ - 6️⃣ [Now i get inspired to make a video game](http://9gag.com/gag/aBye2gQ)
+ - 😝 [He probably thought: `Oh Shee-Heet`](http://9gag.com/gag/ajP4m6g)
+ - 👉 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)<!-- MEMES:END -->
 
 --- 
 
