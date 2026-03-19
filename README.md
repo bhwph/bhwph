@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Google Maps update could change how you share your location](https://www.androidauthority.com/google-maps-share-location-on-android-3650360/)
- - [Edra, which says it helps companies automate workflows by turning their operational data into a living knowledge base, raised a $30M Series A led by Sequoia &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/260319/p10#a260319p10)
- - [Chinese cities are offering free apartments and office space to attract and incubate &quot;one-person companies&quot;, startups run by a single founder with AI&#39;s help &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/260319/p9#a260319p9)<!-- TECH:END -->
+ - [Meta is actually keeping its VR metaverse running, for now](https://www.theverge.com/tech/897396/meta-vr-horizon-worlds-metaverse-andrew-bosworth)
+ - [Sources: TP-Link told US federal agencies probing its China ties that CEO Jeffrey Chao applied for US permanent residency under the $1M Trump Gold Card program &lpar;Kate O&#39;Keeffe/Bloomberg&rpar;](http://www.techmeme.com/260319/p37#a260319p37)
+ - [This Hermes wireless charger costs four times more than the iPhone you&#39;ll charge on it](https://appleinsider.com/articles/26/03/19/this-hermes-wireless-charger-costs-four-times-more-than-the-iphone-youll-charge-on-it?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
