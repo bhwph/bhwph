@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is the men&#39;s burden.](http://9gag.com/gag/aryLoDV)
- - 😝 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)
- - 👉 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)<!-- MEMES:END -->
+ - 6️⃣ [Draw me like one of your japenese swords](http://9gag.com/gag/axyrMdM)
+ - 😝 [Anything for views](http://9gag.com/gag/aBye2jP)
+ - 👉 [This is next level RC fun](http://9gag.com/gag/aXPOoj2)<!-- MEMES:END -->
 
 --- 
 
