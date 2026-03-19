@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LinkedIn signs The Trade Desk as its first DSP partner for connected TV ads, allowing ad buyers to layer in LinkedIn data to reach target audiences &lpar;Lara O&#39;Reilly/Business Insider&rpar;](http://www.techmeme.com/260318/p53#a260318p53)
- - [Google DeepMind appoints Jasjeet Sekhon, Bridgewater&#39;s chief scientist and head of AI, as chief strategy officer; Sekhon helped build Bridgewater&#39;s AIA Labs &lpar;Anirban Sen/Reuters&rpar;](http://www.techmeme.com/260318/p52#a260318p52)
- - [AI Brings Val Kilmer Back to the Big Screen a Year After His Death](https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/)<!-- TECH:END -->
+ - [This Google Maps update could change how you share your location](https://www.androidauthority.com/google-maps-share-location-on-android-3650360/)
+ - [Edra, which says it helps companies automate workflows by turning their operational data into a living knowledge base, raised a $30M Series A led by Sequoia &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/260319/p10#a260319p10)
+ - [Chinese cities are offering free apartments and office space to attract and incubate &quot;one-person companies&quot;, startups run by a single founder with AI&#39;s help &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/260319/p9#a260319p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
