@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
- - 😝 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)
- - 👉 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)<!-- MEMES:END -->
+ - 6️⃣ [Why was he so angry?](http://9gag.com/gag/aryLmzp)
+ - 😝 [Play stupid games, win stupid prizes](http://9gag.com/gag/agmegbK)
+ - 👉 [The shot shot him](http://9gag.com/gag/agmegQ6)<!-- MEMES:END -->
 
 --- 
 
