@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8.5 beta could come to Samsung’s older foldables soon](https://www.androidauthority.com/galaxy-z-fold-6-flip-6-one-ui-8-5-beta-3650668/)
- - [This long-overdue Google Messages feature is finally rolling out now](https://www.androidauthority.com/google-messages-live-location-sharing-rolling-out-3650662/)
- - [Filing: the SEC approved a Nasdaq rule change allowing some securities to trade in tokenized form; the new approach will be tested in an upcoming pilot program &lpar;The Block&rpar;](http://www.techmeme.com/260320/p3#a260320p3)<!-- TECH:END -->
+ - [Iran War Puts Global Energy Markets on the Brink of a Worst-Case Scenario](https://www.wired.com/story/iran-war-puts-global-energy-markets-on-the-brink-of-a-worst-case-scenario/)
+ - [A Foolproof Formula for Air Frying Almost Anything](https://www.cnet.com/news/how-to-adapt-any-recipe-for-the-air-fryer/)
+ - [AT&amp;T&#39;s New 2.0 Data Plans Are a Better Value &lpar;With Some Exceptions&rpar;](https://www.cnet.com/tech/mobile/att-new-2-0-unlimited-phone-plans/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
