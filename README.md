@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is actually keeping its VR metaverse running, for now](https://www.theverge.com/tech/897396/meta-vr-horizon-worlds-metaverse-andrew-bosworth)
- - [Sources: TP-Link told US federal agencies probing its China ties that CEO Jeffrey Chao applied for US permanent residency under the $1M Trump Gold Card program &lpar;Kate O&#39;Keeffe/Bloomberg&rpar;](http://www.techmeme.com/260319/p37#a260319p37)
- - [This Hermes wireless charger costs four times more than the iPhone you&#39;ll charge on it](https://appleinsider.com/articles/26/03/19/this-hermes-wireless-charger-costs-four-times-more-than-the-iphone-youll-charge-on-it?utm_source=rss)<!-- TECH:END -->
+ - [MiniMax releases M2.7, a proprietary &quot;self-evolving&quot; LLM that the company used to build, monitor, and optimize the model&#39;s own reinforcement learning harnesses &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260319/p58#a260319p58)
+ - [Valve’s huge SteamOS 3.8 update adds long-awaited features — and supports Steam Machine](https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally)
+ - [A man accused of using thousands of bot accounts to stream AI songs, making millions in royalties, pleads guilty in US district court to wire fraud conspiracy &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/260319/p57#a260319p57)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
