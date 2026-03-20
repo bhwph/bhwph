@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why was he so angry?](http://9gag.com/gag/aryLmzp)
- - 😝 [Play stupid games, win stupid prizes](http://9gag.com/gag/agmegbK)
- - 👉 [The shot shot him](http://9gag.com/gag/agmegQ6)<!-- MEMES:END -->
+ - 6️⃣ [Thank you internet](http://9gag.com/gag/a6ZR1G8)
+ - 😝 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
+ - 👉 [Why was he so angry?](http://9gag.com/gag/aryLmzp)<!-- MEMES:END -->
 
 --- 
 
