@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MiniMax releases M2.7, a proprietary &quot;self-evolving&quot; LLM that the company used to build, monitor, and optimize the model&#39;s own reinforcement learning harnesses &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260319/p58#a260319p58)
- - [Valve’s huge SteamOS 3.8 update adds long-awaited features — and supports Steam Machine](https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally)
- - [A man accused of using thousands of bot accounts to stream AI songs, making millions in royalties, pleads guilty in US district court to wire fraud conspiracy &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/260319/p57#a260319p57)<!-- TECH:END -->
+ - [One UI 8.5 beta could come to Samsung’s older foldables soon](https://www.androidauthority.com/galaxy-z-fold-6-flip-6-one-ui-8-5-beta-3650668/)
+ - [This long-overdue Google Messages feature is finally rolling out now](https://www.androidauthority.com/google-messages-live-location-sharing-rolling-out-3650662/)
+ - [Filing: the SEC approved a Nasdaq rule change allowing some securities to trade in tokenized form; the new approach will be tested in an upcoming pilot program &lpar;The Block&rpar;](http://www.techmeme.com/260320/p3#a260320p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
