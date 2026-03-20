@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thank you internet](http://9gag.com/gag/a6ZR1G8)
- - 😝 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
- - 👉 [Why was he so angry?](http://9gag.com/gag/aryLmzp)<!-- MEMES:END -->
+ - 6️⃣ [He&#39;s done](http://9gag.com/gag/aMVL45P)
+ - 😝 [Rest in Peace \u2013 a legend is gone.](http://9gag.com/gag/ae9B4G5)
+ - 👉 [My fellow office worker](http://9gag.com/gag/agmeovn)<!-- MEMES:END -->
 
 --- 
 
