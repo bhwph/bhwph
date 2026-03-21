@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The improved battery-powered Starlink Mini is here](https://www.theverge.com/reviews/898580/peakdo-linkpower-2-review-starlink-mini-battery)
- - [Universal recipes for startup success are impossible: once good ideas are widely adopted, founders converge on the same moves, erasing any competitive moats &lpar;Jerry Neumann/Colossus&rpar;](http://www.techmeme.com/260321/p3#a260321p3)
- - [A review of Polymarket&#39;s social media feeds found it has published hundreds of false and misleading posts, as the betting market presents itself as &quot;News 2.0&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/260321/p2#a260321p2)<!-- TECH:END -->
+ - [Lux Optics CEO Ben Sandofsky sues his co-founder Sebastiaan de With, now a part of the design team at Apple, alleging improper use of funds and stolen IP &lpar;Aaron Tilley/The Information&rpar;](http://www.techmeme.com/260321/p8#a260321p8)
+ - [Amazon&#39;s $949 15-inch MacBook Air deal hits lowest price ever ahead of Big Spring Sale](https://appleinsider.com/articles/26/03/21/amazons-949-15-inch-macbook-air-deal-hits-lowest-price-ever-ahead-of-big-spring-sale?utm_source=rss)
+ - [Vercel, which helps developers host web apps and AI agents, says its run-rate GAAP revenue hit $340M at the end of February, up 86% YoY, amid the AI coding boom &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/260321/p7#a260321p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
