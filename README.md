@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iran War Puts Global Energy Markets on the Brink of a Worst-Case Scenario](https://www.wired.com/story/iran-war-puts-global-energy-markets-on-the-brink-of-a-worst-case-scenario/)
- - [A Foolproof Formula for Air Frying Almost Anything](https://www.cnet.com/news/how-to-adapt-any-recipe-for-the-air-fryer/)
- - [AT&amp;T&#39;s New 2.0 Data Plans Are a Better Value &lpar;With Some Exceptions&rpar;](https://www.cnet.com/tech/mobile/att-new-2-0-unlimited-phone-plans/)<!-- TECH:END -->
+ - [Super Micro names VP DeAnna Luna as acting chief compliance officer, after SMCI closed down 33% on March 20 amid a chip smuggling scandal &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260320/p32#a260320p32)
+ - [A US judge dismisses a lawsuit by Sam Altman&#39;s sister accusing Altman of sexual abuse from 1997 to 2006, as the claims expired in 2008, but says she can refile &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260320/p31#a260320p31)
+ - [Interviews with over three dozen people detail how lobbyist Mike Davis used his ties to Trump to push the DOJ to approve deals, including HPE&#39;s Juniper deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260320/p30#a260320p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
