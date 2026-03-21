@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia Says DLSS 5 Haters Are ‘Wrong’ As It Defends Fusing ‘Everything About The Game With Generative AI’](https://kotaku.com/dlss5-nvidia-gen-ai-graphics-jensen-huang-2000679764)
- - [Highguard Players Get Surprise Refunds On PS5 As Studio Shuts Its Doors For Good](https://kotaku.com/highguard-refunds-ps5-steam-xbox-shutdown-2000679761)
- - [Starfield&#39;s Terran Armada story DLC will let you recruit a robot who is &#39;not evil&#39; but also &#39;definitely not good&#39;](https://www.pcgamer.com/games/rpg/starfields-terran-armada-story-dlc-will-let-you-recruit-a-robot-who-is-not-evil-but-also-definitely-not-good/)<!-- GAME:END -->
+ - [10 years ago, Marvel finally found the right actor to bring The Punisher to life](https://www.polygon.com/10-years-ago-mcu-punisher/)
+ - [Crimson Desert interactive maps](https://www.polygon.com/map/crimson-desert-interactive-pywel-hernand-demeniss-pailune-delesyia/)
+ - [Death Stranding 2 devs thought &#39;Brutal&#39; mode was hard enough, but pushed the game to &#39;the upper limit&#39; with its new difficulty option on PC](https://www.pcgamer.com/games/action/death-stranding-2-devs-thought-brutal-mode-was-hard-enough-but-pushed-the-game-to-the-upper-limit-with-its-new-difficulty-option-on-pc/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
