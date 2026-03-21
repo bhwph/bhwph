@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Super Micro names VP DeAnna Luna as acting chief compliance officer, after SMCI closed down 33% on March 20 amid a chip smuggling scandal &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260320/p32#a260320p32)
- - [A US judge dismisses a lawsuit by Sam Altman&#39;s sister accusing Altman of sexual abuse from 1997 to 2006, as the claims expired in 2008, but says she can refile &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260320/p31#a260320p31)
- - [Interviews with over three dozen people detail how lobbyist Mike Davis used his ties to Trump to push the DOJ to approve deals, including HPE&#39;s Juniper deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260320/p30#a260320p30)<!-- TECH:END -->
+ - [The improved battery-powered Starlink Mini is here](https://www.theverge.com/reviews/898580/peakdo-linkpower-2-review-starlink-mini-battery)
+ - [Universal recipes for startup success are impossible: once good ideas are widely adopted, founders converge on the same moves, erasing any competitive moats &lpar;Jerry Neumann/Colossus&rpar;](http://www.techmeme.com/260321/p3#a260321p3)
+ - [A review of Polymarket&#39;s social media feeds found it has published hundreds of false and misleading posts, as the betting market presents itself as &quot;News 2.0&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/260321/p2#a260321p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
