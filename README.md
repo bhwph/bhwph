@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yeet!](http://9gag.com/gag/a0e3onv)
- - 😝 [Why was he so angry?](http://9gag.com/gag/aryLmzp)
- - 👉 [Confidence is a key](http://9gag.com/gag/aGyQy97)<!-- MEMES:END -->
+ - 6️⃣ [Confidence is a key](http://9gag.com/gag/aGyQy97)
+ - 😝 [Bambooze](http://9gag.com/gag/adBzBNV)
+ - 👉 [...](http://9gag.com/gag/a7oxqgA)<!-- MEMES:END -->
 
 --- 
 
