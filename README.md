@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He&#39;s done](http://9gag.com/gag/aMVL45P)
- - 😝 [Rest in Peace \u2013 a legend is gone.](http://9gag.com/gag/ae9B4G5)
- - 👉 [My fellow office worker](http://9gag.com/gag/agmeovn)<!-- MEMES:END -->
+ - 6️⃣ [Yeet!](http://9gag.com/gag/a0e3onv)
+ - 😝 [Why was he so angry?](http://9gag.com/gag/aryLmzp)
+ - 👉 [Confidence is a key](http://9gag.com/gag/aGyQy97)<!-- MEMES:END -->
 
 --- 
 
