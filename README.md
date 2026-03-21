@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Confidence is a key](http://9gag.com/gag/aGyQy97)
- - 😝 [Bambooze](http://9gag.com/gag/adBzBNV)
- - 👉 [...](http://9gag.com/gag/a7oxqgA)<!-- MEMES:END -->
+ - 6️⃣ [I know people say this advice all the time. But that doesn&#39;t make it less true. So I&#39;m here to remind you about this for the millionth time. Live. Work is second.](http://9gag.com/gag/abA8eBX)
+ - 😝 [This court sketch is pure fire](http://9gag.com/gag/aryL3by)
+ - 👉 [Kids used to roam free, now we&#39;re helicopter parents](http://9gag.com/gag/a7oxODe)<!-- MEMES:END -->
 
 --- 
 
