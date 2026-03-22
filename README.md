@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women \u2615\ufe0f](http://9gag.com/gag/aD2v6Qd)
- - 😝 [Badly needed feature in every game](http://9gag.com/gag/aYQ0G32)
- - 👉 [This illusion on a frozen lake. Looks like the pole is moving but it&#39;s actually the ice sheet](http://9gag.com/gag/ae9B1gB)<!-- MEMES:END -->
+ - 6️⃣ [Both pepsi](http://9gag.com/gag/aXPONrz)
+ - 😝 [Welcome to NY west boy!](http://9gag.com/gag/agmeQxv)
+ - 👉 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)<!-- MEMES:END -->
 
 --- 
 
