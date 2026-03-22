@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk announces Terafab, an Austin-based project run by Tesla and SpaceX to manufacture robotics, AI, and space data center chips for Tesla, xAI, and SpaceX &lpar;Bloomberg&rpar;](http://www.techmeme.com/260322/p3#a260322p3)
- - [Speaking at a Beijing forum, Tim Cook praised Apple&#39;s partners and developers in China, a week after Chinese state media labeled the App Store &quot;monopolistic&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/260322/p2#a260322p2)
- - [Cloaked, which offers security and privacy services such as VPNs, raised a $375M Series B in a mix of equity and growth funding, for enterprise expansion &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260322/p1#a260322p1)<!-- TECH:END -->
+ - [Save a huge 32% as the Kindle Colorsoft 16GB drops back to its Black Friday price](https://www.androidauthority.com/kindle-colorsoft-16gb-spring-sale-deal-3650928/)
+ - [Musk says he’s building Terafab chip plant in Austin, Texas](https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant)
+ - [A profile of Chinese bitcoin mining company Bitmain, now allied with Eric Trump&#39;s American Bitcoin and previously the target of a DHS espionage-risk probe &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/260322/p5#a260322p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
