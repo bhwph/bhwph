@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lux Optics CEO Ben Sandofsky sues his co-founder Sebastiaan de With, now a part of the design team at Apple, alleging improper use of funds and stolen IP &lpar;Aaron Tilley/The Information&rpar;](http://www.techmeme.com/260321/p8#a260321p8)
- - [Amazon&#39;s $949 15-inch MacBook Air deal hits lowest price ever ahead of Big Spring Sale](https://appleinsider.com/articles/26/03/21/amazons-949-15-inch-macbook-air-deal-hits-lowest-price-ever-ahead-of-big-spring-sale?utm_source=rss)
- - [Vercel, which helps developers host web apps and AI agents, says its run-rate GAAP revenue hit $340M at the end of February, up 86% YoY, amid the AI coding boom &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/260321/p7#a260321p7)<!-- TECH:END -->
+ - [How gig apps like Kled AI, Silencio, Neon Mobile, and Luel AI pay users for data that AI companies can use to train models, from phone calls to videos of places &lpar;Shubham Agarwal/The Guardian&rpar;](http://www.techmeme.com/260321/p12#a260321p12)
+ - [A look at &quot;tokenmaxxing&quot;, a status game where employees at a number of companies compete on leaderboards to show how much AI they&#39;re using &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/260321/p11#a260321p11)
+ - [Halide co-founder is suing former partner for bringing source code to Apple](https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
