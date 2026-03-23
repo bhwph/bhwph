@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Amazon&#39;s plan to bring fast delivery to rural America and reduce its reliance on USPS; Amazon aims to have 200 rural delivery hubs serving 13K zip codes &lpar;Sean McLain/Wall Street Journal&rpar;](http://www.techmeme.com/260323/p5#a260323p5)
- - [Google signs deals with five US electric utilities for 1GW of &quot;demand response&quot; in total, to reduce data center power consumption during peak grid demand hours &lpar;Laila Kearney/Reuters&rpar;](http://www.techmeme.com/260323/p4#a260323p4)
- - [A look at Andrej Karpathy&#39;s &quot;autoresearch&quot; experiment, where an AI agent runs in a loop iterating and evaluating on training code to optimize a model &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260323/p3#a260323p3)<!-- TECH:END -->
+ - [Norwegian startup Lace, which is building a form of lithography that uses a helium atom beam instead of light to create chip designs, raised a $40M Series A &lpar;Reuters&rpar;](http://www.techmeme.com/260323/p27#a260323p27)
+ - [Doctronic, which became the first company to use AI to write prescription refills through a pilot launched in Utah, raised $40M led by Abstract and Lightspeed &lpar;Brian Gormley/Wall Street Journal&rpar;](http://www.techmeme.com/260323/p26#a260323p26)
+ - [Samsung is paying customers back over its Galaxy S22 throttling feature](https://www.androidauthority.com/galaxy-s22-gos-compensation-3651067/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
