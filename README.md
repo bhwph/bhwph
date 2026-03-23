@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reality Labs lost $80B+, but it still makes all of Meta&#39;s hardware, and reflects Mark Zuckerberg&#39;s desire to run a business without Google or Apple as middlemen &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/260322/p12#a260322p12)
- - [AI influencer awards season is upon us](https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest)
- - [Profile of John Ternus, likely Tim Cook successor, who shapes Apple&#39;s hardware portfolio, is expanding his domain within Apple, and his visibility to the public &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260322/p11#a260322p11)<!-- TECH:END -->
+ - [Inside Amazon&#39;s plan to bring fast delivery to rural America and reduce its reliance on USPS; Amazon aims to have 200 rural delivery hubs serving 13K zip codes &lpar;Sean McLain/Wall Street Journal&rpar;](http://www.techmeme.com/260323/p5#a260323p5)
+ - [Google signs deals with five US electric utilities for 1GW of &quot;demand response&quot; in total, to reduce data center power consumption during peak grid demand hours &lpar;Laila Kearney/Reuters&rpar;](http://www.techmeme.com/260323/p4#a260323p4)
+ - [A look at Andrej Karpathy&#39;s &quot;autoresearch&quot; experiment, where an AI agent runs in a loop iterating and evaluating on training code to optimize a model &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260323/p3#a260323p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
