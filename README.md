@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save a huge 32% as the Kindle Colorsoft 16GB drops back to its Black Friday price](https://www.androidauthority.com/kindle-colorsoft-16gb-spring-sale-deal-3650928/)
- - [Musk says he’s building Terafab chip plant in Austin, Texas](https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant)
- - [A profile of Chinese bitcoin mining company Bitmain, now allied with Eric Trump&#39;s American Bitcoin and previously the target of a DHS espionage-risk probe &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/260322/p5#a260322p5)<!-- TECH:END -->
+ - [Reality Labs lost $80B+, but it still makes all of Meta&#39;s hardware, and reflects Mark Zuckerberg&#39;s desire to run a business without Google or Apple as middlemen &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/260322/p12#a260322p12)
+ - [AI influencer awards season is upon us](https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest)
+ - [Profile of John Ternus, likely Tim Cook successor, who shapes Apple&#39;s hardware portfolio, is expanding his domain within Apple, and his visibility to the public &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260322/p11#a260322p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
