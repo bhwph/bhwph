@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Both pepsi](http://9gag.com/gag/aXPONrz)
- - 😝 [Welcome to NY west boy!](http://9gag.com/gag/agmeQxv)
- - 👉 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)<!-- MEMES:END -->
+ - 6️⃣ [Jim Carrey is a legend for this role](http://9gag.com/gag/aLnEeE6)
+ - 😝 [I have found my calling !](http://9gag.com/gag/amoZGpo)
+ - 👉 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
 
 --- 
 
