@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Jim Carrey is a legend for this role](http://9gag.com/gag/aLnEeE6)
- - 😝 [I have found my calling !](http://9gag.com/gag/amoZGpo)
- - 👉 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
+ - 😝 [You are the sun](http://9gag.com/gag/axyrvK2)
+ - 👉 [I have found my calling !](http://9gag.com/gag/amoZGpo)<!-- MEMES:END -->
 
 --- 
 
