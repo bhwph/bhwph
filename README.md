@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 years ago, Marvel finally found the right actor to bring The Punisher to life](https://www.polygon.com/10-years-ago-mcu-punisher/)
- - [Crimson Desert interactive maps](https://www.polygon.com/map/crimson-desert-interactive-pywel-hernand-demeniss-pailune-delesyia/)
- - [Death Stranding 2 devs thought &#39;Brutal&#39; mode was hard enough, but pushed the game to &#39;the upper limit&#39; with its new difficulty option on PC](https://www.pcgamer.com/games/action/death-stranding-2-devs-thought-brutal-mode-was-hard-enough-but-pushed-the-game-to-the-upper-limit-with-its-new-difficulty-option-on-pc/)<!-- GAME:END -->
+ - [&#39;A firm announcement is dependent on this final stretch of work&#39;: Fans are spinning out over extraction shooter Sand&#39;s lack of a specific March release date](https://www.pcgamer.com/games/fps/a-firm-announcement-is-dependent-on-this-final-stretch-of-work-fans-are-spinning-out-over-extraction-shooter-sands-lack-of-a-specific-march-release-date/)
+ - [A $5 Wikipedia-like mystery game consumed me for 2 straight hours as I dug for clues about a little town and its big weird tree](https://www.pcgamer.com/games/adventure/a-usd5-wikipedia-like-mystery-game-consumed-me-for-2-straight-hours-as-i-dug-for-clues-about-a-little-town-and-its-big-weird-tree/)
+ - [Fortnite Adds Peak Skins That Cost Twice As Much As The Indie Game](https://kotaku.com/fortnite-added-peak-skins-that-cost-twice-as-much-as-the-actual-indie-game-2000681185)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
