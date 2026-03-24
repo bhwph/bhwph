@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Television giants team up against dominant streaming OS &amp; Apple TV](https://appleinsider.com/articles/26/03/24/television-giants-team-up-against-dominant-streaming-os-apple-tv?utm_source=rss)
- - [The Internet Watch Foundation says it identified 8,029 AI-generated images and videos of realistic child sexual abuse in 2025, up 14% from the previous year &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/260323/p45#a260323p45)
- - [The US State Department launches the Bureau of Emerging Threats to tackle current and future threats, including cyberattacks and AI weaponization by adversaries &lpar;Shannon K. Kingston/ABC News&rpar;](http://www.techmeme.com/260323/p44#a260323p44)<!-- TECH:END -->
+ - [SK Hynix plans to spend ~$8B to buy cutting-edge EUV lithography chipmaking tools from ASML through 2027, as it competes with Samsung to supply DRAM and HBM &lpar;Bloomberg&rpar;](http://www.techmeme.com/260324/p7#a260324p7)
+ - [OnePlus might be building its own Android gaming handheld, but with a twist](https://www.androidauthority.com/oneplus-android-gaming-handheld-leak-3651355/)
+ - [Q&amp;A with Superhuman CEO Shishir Mehrotra, who apologized for Grammarly&#39;s Expert Review feature, on AI impersonation, attribution, compensating creators, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260324/p6#a260324p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
