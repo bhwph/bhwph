@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Best way to deal with stupidity](http://9gag.com/gag/aryLxg6)
- - 😝 [Hol&#39; up](http://9gag.com/gag/aByePdA)
- - 👉 [Almost there!](http://9gag.com/gag/ajP4BXq)<!-- MEMES:END -->
+ - 6️⃣ [Hol&#39; up](http://9gag.com/gag/aByePdA)
+ - 😝 [They will never take candy from stranger again](http://9gag.com/gag/a4P05Xm)
+ - 👉 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)<!-- MEMES:END -->
 
 --- 
 
