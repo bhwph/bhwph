@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix plans to spend ~$8B to buy cutting-edge EUV lithography chipmaking tools from ASML through 2027, as it competes with Samsung to supply DRAM and HBM &lpar;Bloomberg&rpar;](http://www.techmeme.com/260324/p7#a260324p7)
- - [OnePlus might be building its own Android gaming handheld, but with a twist](https://www.androidauthority.com/oneplus-android-gaming-handheld-leak-3651355/)
- - [Q&amp;A with Superhuman CEO Shishir Mehrotra, who apologized for Grammarly&#39;s Expert Review feature, on AI impersonation, attribution, compensating creators, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260324/p6#a260324p6)<!-- TECH:END -->
+ - [Apple Business Mail tempts Google Workspace users with free email](https://appleinsider.com/articles/26/03/24/apple-business-mail-temps-google-workspace-users-with-free-email?utm_source=rss)
+ - [Save $200 on M4 iMac with 24GB of RAM ahead of Amazon&#39;s Big Spring Sale](https://appleinsider.com/articles/26/03/24/save-200-on-m4-imac-with-24gb-of-ram-ahead-of-amazons-big-spring-sale?utm_source=rss)
+ - [A BlackBerry you might actually want just landed on Kickstarter](https://www.theverge.com/tech/899632/unihertz-titan-2-elite-pro-android-blackberry-smartphone-pricing-kickstarter-preorder)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
