@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Norwegian startup Lace, which is building a form of lithography that uses a helium atom beam instead of light to create chip designs, raised a $40M Series A &lpar;Reuters&rpar;](http://www.techmeme.com/260323/p27#a260323p27)
- - [Doctronic, which became the first company to use AI to write prescription refills through a pilot launched in Utah, raised $40M led by Abstract and Lightspeed &lpar;Brian Gormley/Wall Street Journal&rpar;](http://www.techmeme.com/260323/p26#a260323p26)
- - [Samsung is paying customers back over its Galaxy S22 throttling feature](https://www.androidauthority.com/galaxy-s22-gos-compensation-3651067/)<!-- TECH:END -->
+ - [Television giants team up against dominant streaming OS &amp; Apple TV](https://appleinsider.com/articles/26/03/24/television-giants-team-up-against-dominant-streaming-os-apple-tv?utm_source=rss)
+ - [The Internet Watch Foundation says it identified 8,029 AI-generated images and videos of realistic child sexual abuse in 2025, up 14% from the previous year &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/260323/p45#a260323p45)
+ - [The US State Department launches the Bureau of Emerging Threats to tackle current and future threats, including cyberattacks and AI weaponization by adversaries &lpar;Shannon K. Kingston/ABC News&rpar;](http://www.techmeme.com/260323/p44#a260323p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
