@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hol&#39; up](http://9gag.com/gag/aByePdA)
- - 😝 [The hero we all needed, but didnt deserve](http://9gag.com/gag/aZZY8A6)
- - 👉 [Checkmate, Muricaaa](http://9gag.com/gag/aQzj7qw)<!-- MEMES:END -->
+ - 6️⃣ [Best way to deal with stupidity](http://9gag.com/gag/aryLxg6)
+ - 😝 [Hol&#39; up](http://9gag.com/gag/aByePdA)
+ - 👉 [Almost there!](http://9gag.com/gag/ajP4BXq)<!-- MEMES:END -->
 
 --- 
 
