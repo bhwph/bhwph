@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I have found my calling !](http://9gag.com/gag/amoZGpo)
- - 😝 [Jim Carrey is a legend for this role](http://9gag.com/gag/aLnEeE6)
- - 👉 [How many freedoms per football field is that?](http://9gag.com/gag/ajP4OPp)<!-- MEMES:END -->
+ - 6️⃣ [Hol&#39; up](http://9gag.com/gag/aByePdA)
+ - 😝 [The hero we all needed, but didnt deserve](http://9gag.com/gag/aZZY8A6)
+ - 👉 [Checkmate, Muricaaa](http://9gag.com/gag/aQzj7qw)<!-- MEMES:END -->
 
 --- 
 
