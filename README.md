@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hol&#39; up](http://9gag.com/gag/aByePdA)
- - 😝 [They will never take candy from stranger again](http://9gag.com/gag/a4P05Xm)
- - 👉 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)<!-- MEMES:END -->
+ - 6️⃣ [Energy Drink Alternatives](http://9gag.com/gag/awypd31)
+ - 😝 [In the end, it&#39;s not all about winning, it&#39;s about who you become.](http://9gag.com/gag/aoy7Lpg)
+ - 👉 [Happy black history month](http://9gag.com/gag/agme4Kn)<!-- MEMES:END -->
 
 --- 
 
