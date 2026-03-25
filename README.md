@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Energy Drink Alternatives](http://9gag.com/gag/awypd31)
- - 😝 [In the end, it&#39;s not all about winning, it&#39;s about who you become.](http://9gag.com/gag/aoy7Lpg)
+ - 6️⃣ [A 90s darling](http://9gag.com/gag/abA8xGb)
+ - 😝 [It was just the wind](http://9gag.com/gag/apRMx1n)
  - 👉 [Happy black history month](http://9gag.com/gag/agme4Kn)<!-- MEMES:END -->
 
 --- 
