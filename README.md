@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new flagship isn’t a Samsung, but it’s a literal Fan Edition](https://www.androidauthority.com/huawei-mate-80-pro-max-wind-edition-3651726/)
- - [Using ChatGPT to plan your vacation? You can now rely on it for actual weather predictions](https://www.androidauthority.com/chatgpt-weather-prediction-3651714/)
- - [Memo: Sam Altman says OpenAI&#39;s next model finished pretraining, and moves Safety to Research and Security to Scaling; Fidji Simo becomes CEO of &quot;AGI Deployment&quot; &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260325/p5#a260325p5)<!-- TECH:END -->
+ - [Upcoming 3% Big Tech tax in Poland may leave Apple some wiggle room](https://appleinsider.com/articles/26/03/25/upcoming-3-big-tech-tax-in-poland-may-leave-apple-some-wiggle-room?utm_source=rss)
+ - [Seiko resurrected a 44-year-old digital watch NASA astronauts wore to space](https://www.theverge.com/tech/900428/seiko-rotocall-digital-watch-retro-nasa-astronauts)
+ - [Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez plan to introduce legislation to pause new data center construction until AI safeguards are in place &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260325/p32#a260325p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
