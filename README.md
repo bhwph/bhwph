@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: some Sora team members were surprised by OpenAI&#39;s sudden decision to end Sora support, just a day after OpenAI posted a blog on Sora safety standards &lpar;Reuters&rpar;](http://www.techmeme.com/260324/p58#a260324p58)
- - [&#39;Daredevil: Born Again&#39; Season 2 Review: Series Soars With Unexpected Turns, Pumped-Up Suspense and Fierce Action](https://www.cnet.com/culture/entertainment/daredevil-born-again-season-2-review/)
- - [Source: Meta&#39;s rollout of Meta Ray-Ban Display in the EU has been hampered by regulations on AI features and removable batteries, as well as supply constraints &lpar;Bloomberg&rpar;](http://www.techmeme.com/260324/p57#a260324p57)<!-- TECH:END -->
+ - [This new flagship isn’t a Samsung, but it’s a literal Fan Edition](https://www.androidauthority.com/huawei-mate-80-pro-max-wind-edition-3651726/)
+ - [Using ChatGPT to plan your vacation? You can now rely on it for actual weather predictions](https://www.androidauthority.com/chatgpt-weather-prediction-3651714/)
+ - [Memo: Sam Altman says OpenAI&#39;s next model finished pretraining, and moves Safety to Research and Security to Scaling; Fidji Simo becomes CEO of &quot;AGI Deployment&quot; &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260325/p5#a260325p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
