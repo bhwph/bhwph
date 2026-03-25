@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Business Mail tempts Google Workspace users with free email](https://appleinsider.com/articles/26/03/24/apple-business-mail-temps-google-workspace-users-with-free-email?utm_source=rss)
- - [Save $200 on M4 iMac with 24GB of RAM ahead of Amazon&#39;s Big Spring Sale](https://appleinsider.com/articles/26/03/24/save-200-on-m4-imac-with-24gb-of-ram-ahead-of-amazons-big-spring-sale?utm_source=rss)
- - [A BlackBerry you might actually want just landed on Kickstarter](https://www.theverge.com/tech/899632/unihertz-titan-2-elite-pro-android-blackberry-smartphone-pricing-kickstarter-preorder)<!-- TECH:END -->
+ - [Sources: some Sora team members were surprised by OpenAI&#39;s sudden decision to end Sora support, just a day after OpenAI posted a blog on Sora safety standards &lpar;Reuters&rpar;](http://www.techmeme.com/260324/p58#a260324p58)
+ - [&#39;Daredevil: Born Again&#39; Season 2 Review: Series Soars With Unexpected Turns, Pumped-Up Suspense and Fierce Action](https://www.cnet.com/culture/entertainment/daredevil-born-again-season-2-review/)
+ - [Source: Meta&#39;s rollout of Meta Ray-Ban Display in the EU has been hampered by regulations on AI features and removable batteries, as well as supply constraints &lpar;Bloomberg&rpar;](http://www.techmeme.com/260324/p57#a260324p57)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
