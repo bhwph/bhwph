@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;A firm announcement is dependent on this final stretch of work&#39;: Fans are spinning out over extraction shooter Sand&#39;s lack of a specific March release date](https://www.pcgamer.com/games/fps/a-firm-announcement-is-dependent-on-this-final-stretch-of-work-fans-are-spinning-out-over-extraction-shooter-sands-lack-of-a-specific-march-release-date/)
- - [A $5 Wikipedia-like mystery game consumed me for 2 straight hours as I dug for clues about a little town and its big weird tree](https://www.pcgamer.com/games/adventure/a-usd5-wikipedia-like-mystery-game-consumed-me-for-2-straight-hours-as-i-dug-for-clues-about-a-little-town-and-its-big-weird-tree/)
- - [Fortnite Adds Peak Skins That Cost Twice As Much As The Indie Game](https://kotaku.com/fortnite-added-peak-skins-that-cost-twice-as-much-as-the-actual-indie-game-2000681185)<!-- GAME:END -->
+ - [How many of these videogame world maps do you recognize?](https://www.pcgamer.com/games/how-many-of-these-videogame-world-maps-do-you-recognize/)
+ - [Horizon Chase Turbo, a great arcade racer with no online functionality or licensed vehicles, is being delisted in June](https://www.pcgamer.com/games/racing/horizon-chase-turbo-a-great-arcade-racer-with-no-online-functionality-or-licensed-vehicles-is-being-delisted-in-june/)
+ - [Stardew Valley farmer takes advice from AI, ends up brewing 136 useless bottles of rice juice](https://www.pcgamer.com/games/life-sim/stardew-valley-farmer-takes-advice-from-ai-ends-up-brewing-136-useless-bottles-of-rice-juice/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
