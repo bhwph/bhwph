@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S25 series gets eighth One UI 8.5 beta release with improved security](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-beta-8-3652137/)
- - [The $6M LA social media verdict is a win for the plaintiffs bar, not kids or society; parenting helps limit such harms, and most kids don&#39;t face severe issues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260326/p3#a260326p3)
- - [Sending files via Quick Share could get a little inconvenient, but it might be for a good reason](https://www.androidauthority.com/android-quick-share-extra-steps-3652117/)<!-- TECH:END -->
+ - [iPhone Dynamic Island isn&#39;t going away yet, but its days are numbered](https://appleinsider.com/articles/26/03/26/iphone-dynamic-island-isnt-going-away-yet-but-its-days-are-numbered?utm_source=rss)
+ - [Govee’s color-changing smart lamps are on sale for up to 30 percent off](https://www.theverge.com/gadgets/901580/govee-rgb-table-lamp-2-pro-speaker-amazon-big-spring-sale-2026-deal)
+ - [RCS 4.0 upgrades could bring video calls to your favorite messaging app](https://www.androidauthority.com/rcs-4-0-video-calls-messaging-3652279/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
