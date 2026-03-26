@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)
- - 😝 [Why this thing gives me final destination vibes](http://9gag.com/gag/aqyEW7Z)
- - 👉 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)<!-- MEMES:END -->
+ - 6️⃣ [Scary movie](http://9gag.com/gag/a9yGONm)
+ - 😝 [It is Wednesday ma dudes](http://9gag.com/gag/avyjd0Z)
+ - 👉 [Have you read and understood the terms of use?](http://9gag.com/gag/aXPOKAg)<!-- MEMES:END -->
 
 --- 
 
