@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We all know the way she said `stoppppp`](http://9gag.com/gag/a0e31XZ)
- - 😝 [3/25](http://9gag.com/gag/adBze3V)
- - 👉 [Good News Everyone !!! Researchers at National Taiwan University have created a topical serum made from monounsaturated fatty acids that triggered rapid hair growth in mice within 20 days by activating fat-cell signals beneath the skin.](http://9gag.com/gag/a2vX20p)<!-- MEMES:END -->
+ - 6️⃣ [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)
+ - 😝 [Why this thing gives me final destination vibes](http://9gag.com/gag/aqyEW7Z)
+ - 👉 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)<!-- MEMES:END -->
 
 --- 
 
