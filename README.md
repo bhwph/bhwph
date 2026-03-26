@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube resolves bug that kept asking if you’re human nonstop](https://www.androidauthority.com/youtube-captcha-bug-resolved-3652061/)
- - [This Meta smartglasses-detecting app is a great model for Apple Glass developers to follow](https://appleinsider.com/articles/26/02/24/this-meta-smartglasses-detecting-app-is-a-great-model-for-apple-glass-developers-to-follow?utm_source=rss)
- - [Isara, which aims to build software that can coordinate the work of thousands of AI agents, raised $94M and says OpenAI backed the startup at a $650M valuation &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260325/p44#a260325p44)<!-- TECH:END -->
+ - [Galaxy S25 series gets eighth One UI 8.5 beta release with improved security](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-beta-8-3652137/)
+ - [The $6M LA social media verdict is a win for the plaintiffs bar, not kids or society; parenting helps limit such harms, and most kids don&#39;t face severe issues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260326/p3#a260326p3)
+ - [Sending files via Quick Share could get a little inconvenient, but it might be for a good reason](https://www.androidauthority.com/android-quick-share-extra-steps-3652117/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
