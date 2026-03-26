@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Scary movie](http://9gag.com/gag/a9yGONm)
- - 😝 [It is Wednesday ma dudes](http://9gag.com/gag/avyjd0Z)
- - 👉 [Have you read and understood the terms of use?](http://9gag.com/gag/aXPOKAg)<!-- MEMES:END -->
+ - 6️⃣ [Is it multicultural enough](http://9gag.com/gag/aNDbjqw)
+ - 😝 [She relaxed](http://9gag.com/gag/aVv6VyM)
+ - 👉 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)<!-- MEMES:END -->
 
 --- 
 
