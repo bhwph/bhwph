@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Upcoming 3% Big Tech tax in Poland may leave Apple some wiggle room](https://appleinsider.com/articles/26/03/25/upcoming-3-big-tech-tax-in-poland-may-leave-apple-some-wiggle-room?utm_source=rss)
- - [Seiko resurrected a 44-year-old digital watch NASA astronauts wore to space](https://www.theverge.com/tech/900428/seiko-rotocall-digital-watch-retro-nasa-astronauts)
- - [Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez plan to introduce legislation to pause new data center construction until AI safeguards are in place &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260325/p32#a260325p32)<!-- TECH:END -->
+ - [YouTube resolves bug that kept asking if you’re human nonstop](https://www.androidauthority.com/youtube-captcha-bug-resolved-3652061/)
+ - [This Meta smartglasses-detecting app is a great model for Apple Glass developers to follow](https://appleinsider.com/articles/26/02/24/this-meta-smartglasses-detecting-app-is-a-great-model-for-apple-glass-developers-to-follow?utm_source=rss)
+ - [Isara, which aims to build software that can coordinate the work of thousands of AI agents, raised $94M and says OpenAI backed the startup at a $650M valuation &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260325/p44#a260325p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
