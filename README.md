@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Realtime-with-pause is not dead,&#39; says lead designer of promising turn-based game Star Wars Zero Company](https://www.pcgamer.com/games/strategy/realtime-with-pause-is-not-dead-says-lead-designer-of-promising-turn-based-game-star-wars-zero-company/)
- - [In its first major visual overhaul ever, RPG Maker will soon let you make games in the style of Octopath Traveler](https://www.pcgamer.com/games/rpg/in-its-first-major-visual-overhaul-ever-rpg-maker-will-soon-let-you-make-games-in-the-style-of-octopath-traveler/)
- - [Actual-play series Dimension 20 is partnering with White Wolf for a Vampire: The Masquerade show](https://www.pcgamer.com/games/board-games/actual-play-series-dimension-20-is-partnering-with-white-wolf-for-a-vampire-the-masquerade-show/)<!-- GAME:END -->
+ - [Linux kernel maintainer says AI has suddenly become useful for devs: &#39;We can&#39;t ignore this stuff. It&#39;s coming up, and it&#39;s getting better&#39;](https://www.pcgamer.com/software/linux/linux-kernel-maintainer-says-ai-has-suddenly-become-useful-for-devs-we-cant-ignore-this-stuff-its-coming-up-and-its-getting-better/)
+ - [Out of all of Crimson Desert&#39;s baffling design decisions, its playable trio might be the worst offender](https://www.pcgamer.com/games/action/out-of-all-of-crimson-deserts-baffling-design-decisions-its-playable-trio-might-be-the-worst-offender/)
+ - [Exclusive deal: Get 77% off a 2-year NordVPN Plus plan, and enjoy 4 months free and an Amazon gift card on top](https://www.pcgamer.com/hardware/exclusive-deal-get-77-percent-off-a-2-year-nordvpn-plus-plan-and-enjoy-4-months-free-and-an-amazon-gift-card-on-top/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
