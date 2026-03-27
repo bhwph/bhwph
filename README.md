@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Dynamic Island isn&#39;t going away yet, but its days are numbered](https://appleinsider.com/articles/26/03/26/iphone-dynamic-island-isnt-going-away-yet-but-its-days-are-numbered?utm_source=rss)
- - [Govee’s color-changing smart lamps are on sale for up to 30 percent off](https://www.theverge.com/gadgets/901580/govee-rgb-table-lamp-2-pro-speaker-amazon-big-spring-sale-2026-deal)
- - [RCS 4.0 upgrades could bring video calls to your favorite messaging app](https://www.androidauthority.com/rcs-4-0-video-calls-messaging-3652279/)<!-- TECH:END -->
+ - [Sources: SpaceX&#39;s IPO plans include investor visits to its sites, unusual lockup periods, and preferential treatment for investors in Musk&#39;s other companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260326/p52#a260326p52)
+ - [Motorola’s next Razr Ultra leak hints at a thicker, but potentially better Galaxy Z Flip 8 rival](https://www.androidauthority.com/motorola-razr-ultra-2026-leak-3652450/)
+ - [Source: Elon Musk is discussing allocating as much as 30% of SpaceX&#39;s IPO to individual investors, at least three times the usual retail slice &lpar;Reuters&rpar;](http://www.techmeme.com/260326/p51#a260326p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
