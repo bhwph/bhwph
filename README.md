@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Guys... everything is not going to be okay...](http://9gag.com/gag/a0e3weL)
- - 😝 [100% true](http://9gag.com/gag/aQzjVPK)
- - 👉 [Typical soccer flopper](http://9gag.com/gag/agmeKz1)<!-- MEMES:END -->
+ - 6️⃣ [I have never heard of this game before but I need to play it immediately.](http://9gag.com/gag/aPAqpQK)
+ - 😝 [Uploading my old 9gag collection 154](http://9gag.com/gag/aLnEr9V)
+ - 👉 [Fat trash panda](http://9gag.com/gag/aRBpDyG)<!-- MEMES:END -->
 
 --- 
 
