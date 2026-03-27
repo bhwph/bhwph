@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is it multicultural enough](http://9gag.com/gag/aNDbjqw)
- - 😝 [She relaxed](http://9gag.com/gag/aVv6VyM)
- - 👉 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)<!-- MEMES:END -->
+ - 6️⃣ [Movie about guy with too much free time, working from home when you have none. Summer, autuismn, winter and spring. Real life Minecraft. Electricity is overrated.](http://9gag.com/gag/aAy9O1E)
+ - 😝 [Is it multicultural enough](http://9gag.com/gag/aNDbjqw)
+ - 👉 [No way it was a woman](http://9gag.com/gag/a2vXLDw)<!-- MEMES:END -->
 
 --- 
 
