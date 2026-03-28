@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I have never heard of this game before but I need to play it immediately.](http://9gag.com/gag/aPAqpQK)
- - 😝 [Uploading my old 9gag collection 154](http://9gag.com/gag/aLnEr9V)
- - 👉 [Fat trash panda](http://9gag.com/gag/aRBpDyG)<!-- MEMES:END -->
+ - 6️⃣ [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
+ - 😝 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
+ - 👉 [Just kids from Syria, having some fun... &gt;_&gt;](http://9gag.com/gag/aByev7N)<!-- MEMES:END -->
 
 --- 
 
