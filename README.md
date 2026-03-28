@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
- - 😝 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
- - 👉 [Just kids from Syria, having some fun... &gt;_&gt;](http://9gag.com/gag/aByev7N)<!-- MEMES:END -->
+ - 6️⃣ [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
+ - 😝 [Shamelessly](http://9gag.com/gag/apRMde9)
+ - 👉 [The 1984 incident was wild](http://9gag.com/gag/aXPOeGd)<!-- MEMES:END -->
 
 --- 
 
