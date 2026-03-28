@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Linux kernel maintainer says AI has suddenly become useful for devs: &#39;We can&#39;t ignore this stuff. It&#39;s coming up, and it&#39;s getting better&#39;](https://www.pcgamer.com/software/linux/linux-kernel-maintainer-says-ai-has-suddenly-become-useful-for-devs-we-cant-ignore-this-stuff-its-coming-up-and-its-getting-better/)
- - [Out of all of Crimson Desert&#39;s baffling design decisions, its playable trio might be the worst offender](https://www.pcgamer.com/games/action/out-of-all-of-crimson-deserts-baffling-design-decisions-its-playable-trio-might-be-the-worst-offender/)
- - [Exclusive deal: Get 77% off a 2-year NordVPN Plus plan, and enjoy 4 months free and an Amazon gift card on top](https://www.pcgamer.com/hardware/exclusive-deal-get-77-percent-off-a-2-year-nordvpn-plus-plan-and-enjoy-4-months-free-and-an-amazon-gift-card-on-top/)<!-- GAME:END -->
+ - [Developer of cozy tea shop adventure Wanderstop is shutting down: &#39;It&#39;s a particularly tough time for raising game funds&#39;](https://www.pcgamer.com/gaming-industry/developer-of-cozy-tea-shop-adventure-wanderstop-is-shutting-down-its-a-particularly-tough-time-for-raising-game-funds/)
+ - [Zero Parades devs knew they didn&#39;t want to make another cop game after Disco Elysium: &#39;How people think of the police these days, it&#39;s a bit different&#39;](https://www.pcgamer.com/games/rpg/zero-parades-devs-knew-they-didnt-want-to-make-another-cop-game-after-disco-elysium-how-people-think-of-the-police-these-days-its-a-bit-different/)
+ - [Get every Frictional horror game ever made—Penumbra, Amnesia, and SOMA—for just $15 in this screamingly good bundle](https://www.pcgamer.com/games/horror/get-every-frictional-horror-game-ever-made-penumbra-amnesia-and-soma-for-just-usd15-in-this-screamingly-good-bundle/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
