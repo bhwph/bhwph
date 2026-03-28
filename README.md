@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crimson Desert interactive maps](https://www.polygon.com/map/crimson-desert-interactive-pywel-hernand-demeniss-pailune-delesyia/)
- - [Developer of cozy tea shop adventure Wanderstop is shutting down: &#39;It&#39;s a particularly tough time for raising game funds&#39;](https://www.pcgamer.com/gaming-industry/developer-of-cozy-tea-shop-adventure-wanderstop-is-shutting-down-its-a-particularly-tough-time-for-raising-game-funds/)
- - [Zero Parades devs knew they didn&#39;t want to make another cop game after Disco Elysium: &#39;How people think of the police these days, it&#39;s a bit different&#39;](https://www.pcgamer.com/games/rpg/zero-parades-devs-knew-they-didnt-want-to-make-another-cop-game-after-disco-elysium-how-people-think-of-the-police-these-days-its-a-bit-different/)<!-- GAME:END -->
+ - [5 Mr. Show sketches where Bob Odenkirk is a bigger badass than in Nobody](https://www.polygon.com/bob-odenkirk-nobody-mr-show-sketches/)
+ - [7 Things We’d Love To See A Zelda: Ocarina Of Time Remake Borrow From Breath Of The Wild](https://kotaku.com/zelda-ocarina-time-remake-botw-totk-open-world-2000682696)
+ - [Starship Troopers: Extermination&#39;s latest update adds a big stompy mech, ideal for squashing the shooter&#39;s newly polished bug holes](https://www.pcgamer.com/games/fps/starship-troopers-exterminations-latest-update-adds-a-big-stompy-mech-ideal-for-squashing-the-shooters-newly-polished-bug-holes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
