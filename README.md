@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
- - 😝 [Shamelessly](http://9gag.com/gag/apRMde9)
- - 👉 [The 1984 incident was wild](http://9gag.com/gag/aXPOeGd)<!-- MEMES:END -->
+ - 6️⃣ [The prophecy was fulfilled](http://9gag.com/gag/aRBpNwq)
+ - 😝 [Thats what men are for when b1tc#es got a bad day](http://9gag.com/gag/ae9BdWQ)
+ - 👉 [Just a Bunny](http://9gag.com/gag/aD2vN37)<!-- MEMES:END -->
 
 --- 
 
