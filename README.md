@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nuki’s one-touch retrofit smart lock got its first-ever discount](https://www.theverge.com/gadgets/902276/nuki-smart-lock-thread-matter-smart-home-amazon-big-spring-sale-2026-deal)
- - [Get Paramount Plus for $2.99/mo for 2 months with this flash streaming deal](https://appleinsider.com/articles/26/03/27/get-paramount-plus-for-299mo-for-2-months-with-this-flash-streaming-deal?utm_source=rss)
- - [Apple claims a 100% protection rate with iPhone Lockdown Mode](https://appleinsider.com/articles/26/03/27/apple-claims-a-100-protection-rate-with-iphone-lockdown-mode?utm_source=rss)<!-- TECH:END -->
+ - [Worth, which aims to help financial services onboard and underwrite SMBs, raised a $30M Series A led by Fulcrum Equity Partners, following a $25M seed round &lpar;Brian Contreras/Inc&rpar;](http://www.techmeme.com/260327/p31#a260327p31)
+ - [Despite Anthropic winning a ruling against the DOD in California, it must still convince the DC Circuit Court of Appeals to lift the supply chain risk label &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/260327/p30#a260327p30)
+ - [A Jeffrey Epstein victim files a class action against the Trump administration and Google, claiming Google&#39;s search and AI Mode published victims&#39; personal info &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/260327/p29#a260327p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
