@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluetti’s Sora 500 solar panel is incredibly powerful for its size](https://www.theverge.com/reviews/899289/bluetti-sora-500-review-portable-solar-panel)
- - [Prediction market bets decided on linguistic technicalities expose how hard it is to turn language into a binary market, with payouts hinging on a single word &lpar;Christopher Beam/Bloomberg&rpar;](http://www.techmeme.com/260328/p4#a260328p4)
- - [Meta&#39;s longtime content policy chief Monika Bickert is leaving the company to teach at Harvard; she will stay at Meta until August to work on a transition plan &lpar;Reuters&rpar;](http://www.techmeme.com/260328/p3#a260328p3)<!-- TECH:END -->
+ - [The INIU Pocket Rocket P50 is the ultra-portable 10,000mAh power bank you’ve been waiting for](https://www.androidauthority.com/iniu-pocket-rocket-p50-spring-sale-3651438/)
+ - [The best deals we’ve found from Amazon’s Big Spring Sale &lpar;so far&rpar;](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)
+ - [Sources: DHS clears seven CISA staffers of wrongdoing; the staffers arranged a polygraph for CISA&#39;s former acting director Madhu Gottumukkala that he failed &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260328/p9#a260328p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
