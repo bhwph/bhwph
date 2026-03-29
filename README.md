@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Princesses knights](http://9gag.com/gag/aAy9NvE)
- - 😝 [Just another desperate Hollywood cash grab](http://9gag.com/gag/a34Oxj3)
- - 👉 [And there it goes.](http://9gag.com/gag/ae9ByvQ)<!-- MEMES:END -->
+ - 6️⃣ [Mr world wide](http://9gag.com/gag/an7oW3L)
+ - 😝 [Watching a Disney artist bring a drawing to life is pure magic](http://9gag.com/gag/a6ZRerL)
+ - 👉 [It&#39;s over for young generation](http://9gag.com/gag/aD2vrpx)<!-- MEMES:END -->
 
 --- 
 
