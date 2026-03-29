@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with YouTube CEO Neal Mohan on the platform&#39;s dominance, its impact on kids, the suspension and reinstatement of Trump&#39;s YouTube account, AI slop, and more &lpar;Lulu Garcia-Navarro/New York Times&rpar;](http://www.techmeme.com/260329/p4#a260329p4)
- - [Analysis: while social media rewards sensationalism and inflammatory content, LLMs guide people away from extreme positions and towards expert-aligned stances &lpar;John Burn-Murdoch/Financial Times&rpar;](http://www.techmeme.com/260329/p3#a260329p3)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-29/)<!-- TECH:END -->
+ - [Anniversary party at Apple Park will feature a British Invasion performance](https://appleinsider.com/articles/26/03/29/anniversary-party-at-apple-park-will-feature-a-british-invasion-performance?utm_source=rss)
+ - [This budget Google TV projector looks like a space-age gimmick, and I love it](https://www.androidauthority.com/soundcore-nebula-p1i-review-3652067/)
+ - [It&#39;s Day 5 of the Amazon Spring Sale and We&#39;re Tracking the 80+ Absolute Best Deals](https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
