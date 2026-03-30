@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;ve been having strange, recurring dreams about a place like this. A field with some enormous trees. I feel fear and a sense of danger when I look at the trees.](http://9gag.com/gag/ayNKZBX)
- - 😝 [Now THAT&#39;S clean magic!](http://9gag.com/gag/aByeNd1)
- - 👉 [Just give me the burger](http://9gag.com/gag/aByejoN)<!-- MEMES:END -->
+ - 6️⃣ [He is probably a 9gagger](http://9gag.com/gag/aByeb8D)
+ - 😝 [Wooden Rave](http://9gag.com/gag/ae9BqGO)
+ - 👉 [Ireland](http://9gag.com/gag/an7o0Vq)<!-- MEMES:END -->
 
 --- 
 
