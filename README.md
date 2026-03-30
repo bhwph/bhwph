@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anniversary party at Apple Park will feature a British Invasion performance](https://appleinsider.com/articles/26/03/29/anniversary-party-at-apple-park-will-feature-a-british-invasion-performance?utm_source=rss)
- - [This budget Google TV projector looks like a space-age gimmick, and I love it](https://www.androidauthority.com/soundcore-nebula-p1i-review-3652067/)
- - [It&#39;s Day 5 of the Amazon Spring Sale and We&#39;re Tracking the 80+ Absolute Best Deals](https://www.cnet.com/news-live/amazon-big-spring-sale-2026-favorite-lightning-deals-live-tracker/)<!-- TECH:END -->
+ - [All the latest in AI &amp;#8216;music&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit)
+ - [Some developers say the App Store review process is taking significantly longer, up to multiple weeks, with an influx of vibe-coded apps as the likely cause &lpar;Business Insider&rpar;](http://www.techmeme.com/260329/p11#a260329p11)
+ - [Midjourney CEO David Holz says the company&#39;s revenue &quot;significantly surpassed&quot; $200M in 2023, and has &quot;gone up&quot; since then, despite its declining web traffic &lpar;Jemima McEvoy/The Information&rpar;](http://www.techmeme.com/260329/p10#a260329p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
