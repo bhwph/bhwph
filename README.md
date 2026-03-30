@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mr world wide](http://9gag.com/gag/an7oW3L)
- - 😝 [Watching a Disney artist bring a drawing to life is pure magic](http://9gag.com/gag/a6ZRerL)
- - 👉 [It&#39;s over for young generation](http://9gag.com/gag/aD2vrpx)<!-- MEMES:END -->
+ - 6️⃣ [I&#39;ve been having strange, recurring dreams about a place like this. A field with some enormous trees. I feel fear and a sense of danger when I look at the trees.](http://9gag.com/gag/ayNKZBX)
+ - 😝 [Now THAT&#39;S clean magic!](http://9gag.com/gag/aByeNd1)
+ - 👉 [Just give me the burger](http://9gag.com/gag/aByejoN)<!-- MEMES:END -->
 
 --- 
 
