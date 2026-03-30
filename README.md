@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some thoughts about companies and people in San Francisco adapting to AI workflows, AI&#39;s sycophancy, &quot;cognitive offloading&quot; and &quot;cognitive surrender&quot;, and more &lpar;Ezra Klein/New York Times&rpar;](http://www.techmeme.com/260330/p9#a260330p9)
- - [6 reasons why I chose the Samsung Galaxy S26 over the S26 Ultra](https://www.androidauthority.com/why-i-chose-samsung-galaxy-s26-over-s26-ultra-3652016/)
- - [RAM crisis may have just killed this high-end Android handheld even before it could take off](https://www.androidauthority.com/ayaneo-konkr-pocket-fit-8-elite-production-halt-3653013/)<!-- TECH:END -->
+ - [Sources: E*Trade is in talks to lead SpaceX IPO share sale to retail investors; Robinhood and SoFi have pitched for roles but SpaceX is mulling cutting them out &lpar;Reuters&rpar;](http://www.techmeme.com/260330/p31#a260330p31)
+ - [Amazon&#39;s Big Spring Sale ends March 31, grab an iPad from $299](https://appleinsider.com/articles/26/03/30/amazons-big-spring-sale-ends-march-31-grab-an-ipad-from-299?utm_source=rss)
+ - [State of AI safety: as capabilities grow and models can monitor other models, issues like adversarial robustness persist and society is still not ready for AI &lpar;Boaz Barak/Windows On Theory&rpar;](http://www.techmeme.com/260330/p30#a260330p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
