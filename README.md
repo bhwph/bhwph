@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the latest in AI &amp;#8216;music&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit)
- - [Some developers say the App Store review process is taking significantly longer, up to multiple weeks, with an influx of vibe-coded apps as the likely cause &lpar;Business Insider&rpar;](http://www.techmeme.com/260329/p11#a260329p11)
- - [Midjourney CEO David Holz says the company&#39;s revenue &quot;significantly surpassed&quot; $200M in 2023, and has &quot;gone up&quot; since then, despite its declining web traffic &lpar;Jemima McEvoy/The Information&rpar;](http://www.techmeme.com/260329/p10#a260329p10)<!-- TECH:END -->
+ - [Some thoughts about companies and people in San Francisco adapting to AI workflows, AI&#39;s sycophancy, &quot;cognitive offloading&quot; and &quot;cognitive surrender&quot;, and more &lpar;Ezra Klein/New York Times&rpar;](http://www.techmeme.com/260330/p9#a260330p9)
+ - [6 reasons why I chose the Samsung Galaxy S26 over the S26 Ultra](https://www.androidauthority.com/why-i-chose-samsung-galaxy-s26-over-s26-ultra-3652016/)
+ - [RAM crisis may have just killed this high-end Android handheld even before it could take off](https://www.androidauthority.com/ayaneo-konkr-pocket-fit-8-elite-production-halt-3653013/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
