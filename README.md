@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [5 Mr. Show sketches where Bob Odenkirk is a bigger badass than in Nobody](https://www.polygon.com/bob-odenkirk-nobody-mr-show-sketches/)
- - [7 Things We’d Love To See A Zelda: Ocarina Of Time Remake Borrow From Breath Of The Wild](https://kotaku.com/zelda-ocarina-time-remake-botw-totk-open-world-2000682696)
- - [Starship Troopers: Extermination&#39;s latest update adds a big stompy mech, ideal for squashing the shooter&#39;s newly polished bug holes](https://www.pcgamer.com/games/fps/starship-troopers-exterminations-latest-update-adds-a-big-stompy-mech-ideal-for-squashing-the-shooters-newly-polished-bug-holes/)<!-- GAME:END -->
+ - [Dimension 20 Is Finally Doing A Vampire: The Masquerade Campaign And I Am So Stoked](https://kotaku.com/dimension-20-vampire-the-masquerade-2000682984)
+ - [Batman: Arkham Origins has a graphics mod that looks like a remaster](https://www.pcgamer.com/games/action/batman-arkham-origins-has-a-graphics-mod-that-looks-like-a-remaster/)
+ - [Five new Steam games you probably missed &lpar;March 30, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-30-2026/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
