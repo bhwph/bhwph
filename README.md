@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He is probably a 9gagger](http://9gag.com/gag/aByeb8D)
- - 😝 [Wooden Rave](http://9gag.com/gag/ae9BqGO)
- - 👉 [Ireland](http://9gag.com/gag/an7o0Vq)<!-- MEMES:END -->
+ - 6️⃣ [Just give me the burger](http://9gag.com/gag/aByejoN)
+ - 😝 [Best space movie since interstellar](http://9gag.com/gag/ae9BqL5)
+ - 👉 [Uhh,,,yeah.](http://9gag.com/gag/aLnEVyW)<!-- MEMES:END -->
 
 --- 
 
