@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI coding agents will drastically alter both the practice and the economics of exploit development, automating the discovery of zero-day vulnerabilities &lpar;Thomas H. Ptacek/sockpuppet.org&rpar;](http://www.techmeme.com/260330/p47#a260330p47)
- - [Meta will let you secretly watch Stories if you pay for Instagram Plus in limited test](https://www.androidauthority.com/instagram-plus-subscription-test-3653387/)
- - [California Gov. Gavin Newsom signs a first-of-its-kind executive order requiring safety and privacy guardrails from AI companies that contract with the state &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260330/p46#a260330p46)<!-- TECH:END -->
+ - [A supply chain attack compromises HTTP client Axios, which has 100M weekly npm downloads, introducing a malicious dependency and deploying a multi-stage payload &lpar;Socket&rpar;](http://www.techmeme.com/260331/p4#a260331p4)
+ - [Another Starlink satellite has inexplicably exploded](https://www.theverge.com/science/903906/another-starlink-satellite-has-inexplicably-exploded)
+ - [Samsung has a special, cheaper 128GB Galaxy S26, but there’s a catch](https://www.androidauthority.com/cheaper-samsung-galaxy-s26-128gb-3653424/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
