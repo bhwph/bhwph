@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just give me the burger](http://9gag.com/gag/aByejoN)
- - 😝 [Best space movie since interstellar](http://9gag.com/gag/ae9BqL5)
- - 👉 [Uhh,,,yeah.](http://9gag.com/gag/aLnEVyW)<!-- MEMES:END -->
+ - 6️⃣ [UK officer confiscated the national flag from woman because it&#39;s offensive](http://9gag.com/gag/aW4Xer2)
+ - 😝 [The Cycle](http://9gag.com/gag/aD2vqgG)
+ - 👉 [She ended up winning a Grammy for this song](http://9gag.com/gag/ae9BqGb)<!-- MEMES:END -->
 
 --- 
 
