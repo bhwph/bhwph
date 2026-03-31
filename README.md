@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dimension 20 Is Finally Doing A Vampire: The Masquerade Campaign And I Am So Stoked](https://kotaku.com/dimension-20-vampire-the-masquerade-2000682984)
- - [Batman: Arkham Origins has a graphics mod that looks like a remaster](https://www.pcgamer.com/games/action/batman-arkham-origins-has-a-graphics-mod-that-looks-like-a-remaster/)
- - [Five new Steam games you probably missed &lpar;March 30, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-30-2026/)<!-- GAME:END -->
+ - [Super Meat Boy 3D has no vibe](https://www.pcgamer.com/games/action/super-meat-boy-3d-has-no-vibe/)
+ - [Disney&#39;s AI Olaf Animatronic Malfunctions at Disneyland Paris Debut](https://www.polygon.com/disney-parks-ai-olaf-animatronic-malfunction/)
+ - [Clever WoW players exploited bugs and some poor little rats to try and kill a Midnight raid boss early, but Blizzard was one step ahead](https://www.pcgamer.com/games/world-of-warcraft/clever-wow-players-exploited-bugs-and-some-poor-little-rats-to-try-and-kill-a-midnight-raid-boss-early-but-blizzard-was-one-step-ahead/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
