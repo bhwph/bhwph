@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Lucky](http://9gag.com/gag/aoy7Gqn)
- - 😝 [Denied](http://9gag.com/gag/amoZQPj)
- - 👉 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)<!-- MEMES:END -->
+ - 😝 [Just motorbike things](http://9gag.com/gag/aW4XARd)
+ - 👉 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)<!-- MEMES:END -->
 
 --- 
 
