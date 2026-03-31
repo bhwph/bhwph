@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: E*Trade is in talks to lead SpaceX IPO share sale to retail investors; Robinhood and SoFi have pitched for roles but SpaceX is mulling cutting them out &lpar;Reuters&rpar;](http://www.techmeme.com/260330/p31#a260330p31)
- - [Amazon&#39;s Big Spring Sale ends March 31, grab an iPad from $299](https://appleinsider.com/articles/26/03/30/amazons-big-spring-sale-ends-march-31-grab-an-ipad-from-299?utm_source=rss)
- - [State of AI safety: as capabilities grow and models can monitor other models, issues like adversarial robustness persist and society is still not ready for AI &lpar;Boaz Barak/Windows On Theory&rpar;](http://www.techmeme.com/260330/p30#a260330p30)<!-- TECH:END -->
+ - [AI coding agents will drastically alter both the practice and the economics of exploit development, automating the discovery of zero-day vulnerabilities &lpar;Thomas H. Ptacek/sockpuppet.org&rpar;](http://www.techmeme.com/260330/p47#a260330p47)
+ - [Meta will let you secretly watch Stories if you pay for Instagram Plus in limited test](https://www.androidauthority.com/instagram-plus-subscription-test-3653387/)
+ - [California Gov. Gavin Newsom signs a first-of-its-kind executive order requiring safety and privacy guardrails from AI companies that contract with the state &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260330/p46#a260330p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
