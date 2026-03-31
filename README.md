@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A supply chain attack compromises HTTP client Axios, which has 100M weekly npm downloads, introducing a malicious dependency and deploying a multi-stage payload &lpar;Socket&rpar;](http://www.techmeme.com/260331/p4#a260331p4)
- - [Another Starlink satellite has inexplicably exploded](https://www.theverge.com/science/903906/another-starlink-satellite-has-inexplicably-exploded)
- - [Samsung has a special, cheaper 128GB Galaxy S26, but there’s a catch](https://www.androidauthority.com/cheaper-samsung-galaxy-s26-128gb-3653424/)<!-- TECH:END -->
+ - [Google researchers warn that quantum computers may crack elliptic-curve cryptography, which helps secure crypto wallets, with 20x fewer resources than expected &lpar;Bloomberg&rpar;](http://www.techmeme.com/260331/p43#a260331p43)
+ - [Improved Siri will understand multiple commands in a single sentence](https://appleinsider.com/articles/26/03/31/improved-siri-will-understand-multiple-commands-in-a-single-sentence?utm_source=rss)
+ - [The Best Time to Drink Coffee for Productivity &lpar;and When Not To&rpar;](https://www.wired.com/story/when-to-drink-coffee-optimization/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
