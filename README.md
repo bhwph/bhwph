@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Richest man in the world](http://9gag.com/gag/aqyEEbZ)
- - 😝 [Hairy](http://9gag.com/gag/adBzwdM)
- - 👉 [Old meme](http://9gag.com/gag/a87gNr1)<!-- MEMES:END -->
+ - 6️⃣ [Teeta](http://9gag.com/gag/aZZYX3X)
+ - 😝 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)
+ - 👉 [Reality of incel](http://9gag.com/gag/aXPO1Og)<!-- MEMES:END -->
 
 --- 
 
