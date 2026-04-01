@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lucky](http://9gag.com/gag/aoy7Gqn)
- - 😝 [Just motorbike things](http://9gag.com/gag/aW4XARd)
- - 👉 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)<!-- MEMES:END -->
+ - 6️⃣ [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
+ - 😝 [Just why](http://9gag.com/gag/amoZyWv)
+ - 👉 [A guide for 9gag](http://9gag.com/gag/aKGMM41)<!-- MEMES:END -->
 
 --- 
 
