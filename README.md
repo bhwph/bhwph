@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google researchers warn that quantum computers may crack elliptic-curve cryptography, which helps secure crypto wallets, with 20x fewer resources than expected &lpar;Bloomberg&rpar;](http://www.techmeme.com/260331/p43#a260331p43)
- - [Improved Siri will understand multiple commands in a single sentence](https://appleinsider.com/articles/26/03/31/improved-siri-will-understand-multiple-commands-in-a-single-sentence?utm_source=rss)
- - [The Best Time to Drink Coffee for Productivity &lpar;and When Not To&rpar;](https://www.wired.com/story/when-to-drink-coffee-optimization/)<!-- TECH:END -->
+ - [Aluminium OS wallpapers leak, offering an early glimpse at Google’s next laptop platform](https://www.androidauthority.com/aluminium-os-wallpapers-leak-3653880/)
+ - [Robotaxi Outage in China Leaves Passengers Stranded on Highways](https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/)
+ - [Depthfirst, which aims to build a &quot;general security intelligence&quot; for finding and fixing company vulnerabilities, raised an $80M Series B at a $580M valuation &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/260331/p67#a260331p67)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
