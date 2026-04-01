@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto left behind as ChatGPT comes to CarPlay](https://www.androidauthority.com/chatgpt-apple-carplay-vs-android-auto-3653922/)
- - [An emulator inside your emulator? Dolphin just got Game Boy Player support.](https://www.androidauthority.com/dolphin-game-boy-player-support-3653927/)
- - [5 of the best new Android apps you need to try this April](https://www.androidauthority.com/best-new-android-apps-games-april-2026-3653008/)<!-- TECH:END -->
+ - [No joke: Sony could make some drastic changes to the Xperia 1 VIII’s design](https://www.androidauthority.com/sony-xperia-1-viii-renders-3654052/)
+ - [I tested a living room full of cheap Ikea speakers against Sonos and Bose](https://www.theverge.com/tech/904822/ikea-kallsup-bluetooth-speaker-review)
+ - [Sonnet returns with another best-in-class Thunderbolt 5 dock](https://appleinsider.com/articles/26/04/01/sonnet-returns-with-another-best-in-class-thunderbolt-5-dock?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
