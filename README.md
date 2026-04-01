@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
- - 😝 [Just why](http://9gag.com/gag/amoZyWv)
- - 👉 [A guide for 9gag](http://9gag.com/gag/aKGMM41)<!-- MEMES:END -->
+ - 6️⃣ [Richest man in the world](http://9gag.com/gag/aqyEEbZ)
+ - 😝 [Hairy](http://9gag.com/gag/adBzwdM)
+ - 👉 [Old meme](http://9gag.com/gag/a87gNr1)<!-- MEMES:END -->
 
 --- 
 
