@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
- - 😝 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
- - 👉 [Remember this face... Sam Altman will be the face of the biggest financial crisis in modern history.](http://9gag.com/gag/a34OOP1)<!-- MEMES:END -->
+ - 6️⃣ [Pokemon craz\u00e9](http://9gag.com/gag/avyjKPX)
+ - 😝 [A guide for 9gag](http://9gag.com/gag/aKGMM41)
+ - 👉 [The Great Russia](http://9gag.com/gag/aGyQQDZ)<!-- MEMES:END -->
 
 --- 
 
