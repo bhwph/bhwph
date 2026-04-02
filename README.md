@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google embraces the future, mandates 64-bit apps for Wear OS](https://www.androidauthority.com/google-64-bit-wear-os-apps-3654251/)
- - [Google just doubled your cloud storage &lpar;and then some&rpar; on AI Pro plan](https://www.androidauthority.com/google-ai-pro-plan-5tb-3654227/)
- - [I held the OnePlus Nord 6, and it feels nothing like a 9,000mAh phone](https://www.androidauthority.com/oneplus-nord-6-9000mah-hands-on-impressions-3654229/)<!-- TECH:END -->
+ - [Expecto Pixtronum! Google’s going to Hogwarts for upcoming Pixel themes](https://www.androidauthority.com/harry-potter-pixel-themes-3654404/)
+ - [Flipboard launches Surf, an app for creating custom feeds from Mastodon, Threads, Bluesky, RSS, podcasts, and YouTube, after over a year in beta &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/260402/p20#a260402p20)
+ - [Hisense’s art-inspired CanvasTV has hit a new low price](https://www.theverge.com/gadgets/905964/hisense-canvastv-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
