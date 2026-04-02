@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Pokemon craz\u00e9](http://9gag.com/gag/avyjKPX)
- - 😝 [A guide for 9gag](http://9gag.com/gag/aKGMM41)
- - 👉 [The Great Russia](http://9gag.com/gag/aGyQQDZ)<!-- MEMES:END -->
+ - 😝 [Reality of incel](http://9gag.com/gag/aXPO1Og)
+ - 👉 [Two towers](http://9gag.com/gag/aNDbbxv)<!-- MEMES:END -->
 
 --- 
 
