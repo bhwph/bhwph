@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Expecto Pixtronum! Google’s going to Hogwarts for upcoming Pixel themes](https://www.androidauthority.com/harry-potter-pixel-themes-3654404/)
- - [Flipboard launches Surf, an app for creating custom feeds from Mastodon, Threads, Bluesky, RSS, podcasts, and YouTube, after over a year in beta &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/260402/p20#a260402p20)
- - [Hisense’s art-inspired CanvasTV has hit a new low price](https://www.theverge.com/gadgets/905964/hisense-canvastv-deal-sale)<!-- TECH:END -->
+ - [A domestic shortage of electrical equipment such as transformers and switchgear is forcing the US to rely on Chinese imports, delaying data center construction &lpar;Bloomberg&rpar;](http://www.techmeme.com/260402/p34#a260402p34)
+ - [Sources: Sarvam AI is close to raising $300M-$350M at a ~$1.5B valuation, which could close as soon as next week; Bessemer Venture Partners is expected to lead &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260402/p33#a260402p33)
+ - [Apple&#39;s Q2 results will be reported on April 30](https://appleinsider.com/articles/26/04/03/apples-q2-results-will-be-reported-on-april-30?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
