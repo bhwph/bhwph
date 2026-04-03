@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung could finally equip this Galaxy A mid-ranger with a more capable selfie camera](https://www.androidauthority.com/samsung-galaxy-a27-leak-3654703/)
- - [NASA Artemis II Day 2: Orion Leaves Earth&#39;s Orbit on a Trajectory to the Moon](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
- - [Matt Mullenweg says EmDash, while open source, is designed &quot;to sell more Cloudflare services&quot; and lacks the cross-platform democratization of WordPress &lpar;Matt Mullenweg&rpar;](http://www.techmeme.com/260403/p3#a260403p3)<!-- TECH:END -->
+ - [Tower Semiconductor&#39;s market cap tops $20B, four years after a near-sale to Intel for $5B; shares are up ~60% over the past month and ~525% over the past year &lpar;CTech&rpar;](http://www.techmeme.com/260403/p9#a260403p9)
+ - [It’s a good Friday to score a $150 cash discount on the Galaxy Tab S11](https://www.androidauthority.com/samsung-galaxy-tab-s11-deal-3654831/)
+ - [Sources: Huawei&#39;s Ascend 950PR chip, set for mass production soon, saw prices rise 20% after Chinese tech giants placed bulk orders to run DeepSeek&#39;s V4 model &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/260403/p8#a260403p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
