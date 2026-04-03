@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pokemon craz\u00e9](http://9gag.com/gag/avyjKPX)
- - 😝 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
+ - 6️⃣ [WELP.](http://9gag.com/gag/a0e3yWd)
+ - 😝 [Love a friends Mom](http://9gag.com/gag/aO8WLD3)
  - 👉 [Who snitched ???](http://9gag.com/gag/a4P0XXp)<!-- MEMES:END -->
 
 --- 
