@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;From Global&rpar; SHINOBI: Art of Vengeance DLC “SEGA Villains Stage” Launches Today!](https://blog.playstation.com/2026/04/02/20260403-shinobi/)
- - [&lpar;From Global&rpar; SHINOBI: Art of Vengeance DLC “SEGA Villains Stage” Launches Today!](https://blog.playstation.com/2026/04/02/20260403-shinobi/)
- - [Marathon interactive maps](https://www.polygon.com/map/marathon-interactive-maps-exfil-locations/)<!-- GAME:END -->
+ - [This cyberpunk Steam action game already looks incredible](https://www.polygon.com/sky-dust-sci-fi-steam-action-souls-like-metroidvania-game/)
+ - [Ghost Of Yotei Devs Used Coins From The Game’s Collector’s Edition To Test Zeni Hajiki Multiplayer](https://kotaku.com/ghost-of-yotei-devs-coins-collectors-edition-test-zeni-hajiki-multiplayer-2000684625)
+ - [State of Decay 3 springs back to life to announce alpha tests in May](https://www.pcgamer.com/games/survival-crafting/state-of-decay-3-springs-back-to-life-to-announce-alpha-tests-in-may/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
