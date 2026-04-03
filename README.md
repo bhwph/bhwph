@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch&#39;s 2026 April Fools&#39; hero changes are so good they should be permanent](https://www.polygon.com/overwatch-april-fools-2026-hero-changes/)
- - [Breaking Down The 11 Biggest Super Mario Galaxy Movie Cameos And References](https://kotaku.com/super-mario-galaxy-movie-cameos-game-watch-daisy-pikmin-2000684272)
- - [What will Slay the Spire 2&#39;s final ending be like? &#39;I do want it to be more extravagant when you win,&#39; says Mega Crit](https://www.pcgamer.com/games/card-games/slay-the-spire-2-ending/)<!-- GAME:END -->
+ - [&lpar;From Global&rpar; SHINOBI: Art of Vengeance DLC “SEGA Villains Stage” Launches Today!](https://blog.playstation.com/2026/04/02/20260403-shinobi/)
+ - [&lpar;From Global&rpar; SHINOBI: Art of Vengeance DLC “SEGA Villains Stage” Launches Today!](https://blog.playstation.com/2026/04/02/20260403-shinobi/)
+ - [Marathon interactive maps](https://www.polygon.com/map/marathon-interactive-maps-exfil-locations/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
