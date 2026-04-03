@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pokemon craz\u00e9](http://9gag.com/gag/avyjKPX)
- - 😝 [Reality of incel](http://9gag.com/gag/aXPO1Og)
- - 👉 [Two towers](http://9gag.com/gag/aNDbbxv)<!-- MEMES:END -->
+ - 6️⃣ [My mind is blown.](http://9gag.com/gag/aryLLQ6)
+ - 😝 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
+ - 👉 [Don&#39;t tap out](http://9gag.com/gag/an7omLq)<!-- MEMES:END -->
 
 --- 
 
