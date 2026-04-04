@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tower Semiconductor&#39;s market cap tops $20B, four years after a near-sale to Intel for $5B; shares are up ~60% over the past month and ~525% over the past year &lpar;CTech&rpar;](http://www.techmeme.com/260403/p9#a260403p9)
- - [It’s a good Friday to score a $150 cash discount on the Galaxy Tab S11](https://www.androidauthority.com/samsung-galaxy-tab-s11-deal-3654831/)
- - [Sources: Huawei&#39;s Ascend 950PR chip, set for mass production soon, saw prices rise 20% after Chinese tech giants placed bulk orders to run DeepSeek&#39;s V4 model &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/260403/p8#a260403p8)<!-- TECH:END -->
+ - [The Artemis II moon mission is one of the first times NASA has let astronauts fly with smartphones, giving them modified iPhones for taking photos and videos &lpar;Kalley Huang/New York Times&rpar;](http://www.techmeme.com/260403/p24#a260403p24)
+ - [Health data startup Bevel&#39;s CEO pushes back against Whoop&#39;s lawsuit that alleges Bevel copied the look of the Whoop app, saying Whoop&#39;s actions are &quot;lawfare&quot; &lpar;Leila Sheridan/Inc.com&rpar;](http://www.techmeme.com/260403/p23#a260403p23)
+ - [Sources: Mark Zuckerberg is back to writing code after a two-decade hiatus, submitting three diffs to Meta&#39;s monorepo, and is a heavy user of Claude Code CLI &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/260403/p22#a260403p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
