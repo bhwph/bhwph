@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Artemis II](http://9gag.com/gag/aNDbN0G)
- - 😝 [Very interesting](http://9gag.com/gag/abA87QX)
- - 👉 [Woman photographed her grandparents waving at her every year when she comes back for the holiday weekend](http://9gag.com/gag/aVv6AvK)<!-- MEMES:END -->
+ - 6️⃣ [Woman photographed her grandparents waving at her every year when she comes back for the holiday weekend](http://9gag.com/gag/aVv6AvK)
+ - 😝 [Artemis II](http://9gag.com/gag/aNDbN0G)
+ - 👉 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)<!-- MEMES:END -->
 
 --- 
 
