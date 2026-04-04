@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who snitched ???](http://9gag.com/gag/a4P0XXp)
- - 😝 [Me every Friday at the end of the shift.](http://9gag.com/gag/a34OmgQ)
- - 👉 [Cool vid](http://9gag.com/gag/aYQ09Kw)<!-- MEMES:END -->
+ - 6️⃣ [Artemis II](http://9gag.com/gag/aNDbN0G)
+ - 😝 [Very interesting](http://9gag.com/gag/abA87QX)
+ - 👉 [Woman photographed her grandparents waving at her every year when she comes back for the holiday weekend](http://9gag.com/gag/aVv6AvK)<!-- MEMES:END -->
 
 --- 
 
