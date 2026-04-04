@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker’s Nebula P1 projector is the portable sound king](https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ)
- - [The White House&#39;s latest effort to enact legislation that would preempt state AI laws stalls as multiple Democrats dismiss the proposal as a partisan play &lpar;Politico&rpar;](http://www.techmeme.com/260404/p4#a260404p4)
- - [Chinese humanoid robot maker UBTech is seeking a chief scientist with an annual pay of as much as ~$18M; China&#39;s AI industry has eschewed mega pay packages &lpar;Bloomberg&rpar;](http://www.techmeme.com/260404/p3#a260404p3)<!-- TECH:END -->
+ - [Y Combinator appears to have dropped Delve, removing the company&#39;s profile from its startup directory, following allegations of fake compliance certificates &lpar;The Economic Times&rpar;](http://www.techmeme.com/260404/p8#a260404p8)
+ - [Russian media says attempts to limit VPN use may have triggered a widespread banking outage, as Moscow intensifies a crackdown on internet use and Telegram &lpar;Anthony Halpin/Bloomberg&rpar;](http://www.techmeme.com/260404/p7#a260404p7)
+ - [Buy two Nintendo Switch games, get $30 off at Target](https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
