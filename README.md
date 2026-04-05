@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This cyberpunk Steam action game already looks incredible](https://www.polygon.com/sky-dust-sci-fi-steam-action-souls-like-metroidvania-game/)
- - [Ghost Of Yotei Devs Used Coins From The Game’s Collector’s Edition To Test Zeni Hajiki Multiplayer](https://kotaku.com/ghost-of-yotei-devs-coins-collectors-edition-test-zeni-hajiki-multiplayer-2000684625)
- - [State of Decay 3 springs back to life to announce alpha tests in May](https://www.pcgamer.com/games/survival-crafting/state-of-decay-3-springs-back-to-life-to-announce-alpha-tests-in-may/)<!-- GAME:END -->
+ - [Thank goodness Magic: The Gathering isn&#39;t doing a Harry Potter crossover set](https://www.pcgamer.com/games/card-games/thank-goodness-magic-the-gathering-isnt-doing-a-harry-potter-crossover-set/)
+ - [A new Crimson Desert patch adds the only RPG feature that matters: A hide helmet button](https://www.pcgamer.com/games/rpg/a-new-crimson-desert-patch-adds-the-only-rpg-feature-that-matters-a-hide-helmet-button/)
+ - [Where Winds Meet interactive map](https://www.polygon.com/map/where-winds-meet-interactive-maps-hexi-qinghe-kaifeng/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
