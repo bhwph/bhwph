@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Y Combinator appears to have dropped Delve, removing the company&#39;s profile from its startup directory, following allegations of fake compliance certificates &lpar;The Economic Times&rpar;](http://www.techmeme.com/260404/p8#a260404p8)
- - [Russian media says attempts to limit VPN use may have triggered a widespread banking outage, as Moscow intensifies a crackdown on internet use and Telegram &lpar;Anthony Halpin/Bloomberg&rpar;](http://www.techmeme.com/260404/p7#a260404p7)
- - [Buy two Nintendo Switch games, get $30 off at Target](https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal)<!-- TECH:END -->
+ - [NASA&#39;s Artemis II Astronauts Are More Than Halfway to the Moon: Day 4 Live Updates](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
+ - [How India&#39;s film industry is embracing AI, as studios use the tech to cut production time and costs, while union rules constrain its use in Hollywood &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/260404/p12#a260404p12)
+ - [Apple reportedly signed a 3rd-party driver, by Tiny Corp, for AMD or Nvidia eGPUs for Apple Silicon Macs; it&#39;s meant for AI research, not accelerating graphics &lpar;AppleInsider&rpar;](http://www.techmeme.com/260404/p11#a260404p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
