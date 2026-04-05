@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [Abdul! GET THE STONES!!](http://9gag.com/gag/aryL61X)
  - 😝 [Pure.. absolut.... WTF!](http://9gag.com/gag/a34O9br)
- - 👉 [A `you tube`](http://9gag.com/gag/aKGMrXW)<!-- MEMES:END -->
+ - 👉 [When the cover is better than the original](http://9gag.com/gag/a2vXBG1)<!-- MEMES:END -->
 
 --- 
 
