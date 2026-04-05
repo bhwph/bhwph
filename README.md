@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Abdul! GET THE STONES!!](http://9gag.com/gag/aryL61X)
- - 😝 [Pure.. absolut.... WTF!](http://9gag.com/gag/a34O9br)
- - 👉 [When the cover is better than the original](http://9gag.com/gag/a2vXBG1)<!-- MEMES:END -->
+ - 6️⃣ [No matter the place, event, or mission...](http://9gag.com/gag/aMVLpX6)
+ - 😝 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
+ - 👉 [Classic](http://9gag.com/gag/a4P0M4v)<!-- MEMES:END -->
 
 --- 
 
