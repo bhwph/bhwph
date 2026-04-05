@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [According to Microsoft Copilot Terms of Use, updated in Oct. 2025, &quot;Copilot is for entertainment purposes only&quot; and &quot;Don&#39;t rely on Copilot for important advice&quot; &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260405/p3#a260405p3)
- - [Samsung plans to discontinue its Messages app in the US in July 2026 and offers instructions for users on older Android versions to switch to Google Messages &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260405/p2#a260405p2)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 5 #763](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-5-763/)<!-- TECH:END -->
+ - [Suno is a music copyright nightmare](https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers)
+ - [NASA shares Artemis II crew&#39;s iPhone shots from space](https://appleinsider.com/articles/26/04/05/nasa-shares-artemis-ii-crews-iphone-shots-from-space?utm_source=rss)
+ - [Prime Video: The 31 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-to-watch-on-prime-video-april-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
