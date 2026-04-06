@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The working man](http://9gag.com/gag/ary71wX)
- - 😝 [He is Risen!](http://9gag.com/gag/a87grep)
- - 👉 [* Insert hot fuzz `Shame` meme *](http://9gag.com/gag/aKGM0WO)<!-- MEMES:END -->
+ - 6️⃣ [`My heart belongs to you` Yes, please!](http://9gag.com/gag/aQzjYPr)
+ - 😝 [This is how I feel recently](http://9gag.com/gag/ajP423G)
+ - 👉 [Aging Breakthrough? Wait a Moment, Please.](http://9gag.com/gag/aAyzRXp)<!-- MEMES:END -->
 
 --- 
 
