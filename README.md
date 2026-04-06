@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Suno is a music copyright nightmare](https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers)
- - [NASA shares Artemis II crew&#39;s iPhone shots from space](https://appleinsider.com/articles/26/04/05/nasa-shares-artemis-ii-crews-iphone-shots-from-space?utm_source=rss)
- - [Prime Video: The 31 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-to-watch-on-prime-video-april-2026/)<!-- TECH:END -->
+ - [Sources: Sam Altman has excluded OpenAI CFO Sarah Friar from some key financial meetings; Friar began reporting to Fidji Simo instead of the CEO in August 2025 &lpar;The Information&rpar;](http://www.techmeme.com/260405/p11#a260405p11)
+ - [China, which dominates the global drone industry, has sharply tightened its drone use rules, as some users say they are hindering routine and lawful flights &lpar;Joy Dong/New York Times&rpar;](http://www.techmeme.com/260405/p10#a260405p10)
+ - [NASA Artemis II Day 5: Astronauts Prep for Monday&#39;s Moon Flyby](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
