@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 5 biggest problems Google needs to fix with the Pixel 11 series](https://www.androidauthority.com/pixel-11-series-problems-google-needs-fix-3654824/)
- - [Pixel 8 Pro owners are literally icing their phones to fix broken Wi-Fi](https://www.androidauthority.com/google-pixel-8-pro-wi-fi-bluetooth-march-update-issues-3654983/)
- - [This useful Pixel memory safety feature could come to Samsung phones](https://www.androidauthority.com/one-ui-9-memory-tagging-extension-spotted-3654992/)<!-- TECH:END -->
+ - [Google Play Store just lost one of the handiest review filters you probably never used](https://www.androidauthority.com/google-play-store-filter-reviews-this-device-model-removed-3655070/)
+ - [Is Claude down for you? You’re not alone](https://www.androidauthority.com/claude-ai-experiences-outage-3655092/)
+ - [Samsung&amp;#8217;s Galaxy S27 &amp;#8216;Pro&amp;#8217; could squeeze in between the Ultra and Plus phones](https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
