@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sam Altman has excluded OpenAI CFO Sarah Friar from some key financial meetings; Friar began reporting to Fidji Simo instead of the CEO in August 2025 &lpar;The Information&rpar;](http://www.techmeme.com/260405/p11#a260405p11)
- - [China, which dominates the global drone industry, has sharply tightened its drone use rules, as some users say they are hindering routine and lawful flights &lpar;Joy Dong/New York Times&rpar;](http://www.techmeme.com/260405/p10#a260405p10)
- - [NASA Artemis II Day 5: Astronauts Prep for Monday&#39;s Moon Flyby](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)<!-- TECH:END -->
+ - [The 5 biggest problems Google needs to fix with the Pixel 11 series](https://www.androidauthority.com/pixel-11-series-problems-google-needs-fix-3654824/)
+ - [Pixel 8 Pro owners are literally icing their phones to fix broken Wi-Fi](https://www.androidauthority.com/google-pixel-8-pro-wi-fi-bluetooth-march-update-issues-3654983/)
+ - [This useful Pixel memory safety feature could come to Samsung phones](https://www.androidauthority.com/one-ui-9-memory-tagging-extension-spotted-3654992/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
