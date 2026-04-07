@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Indianapolis city councilor says his home was targeted in what appeared to be a politically motivated shooting over a proposed data center in the city &lpar;Kiki Intarasuwan/CBS News&rpar;](http://www.techmeme.com/260406/p31#a260406p31)
- - [Sources: SpaceX plans to earmark a large portion of shares for retail investors and will host 1,500 of them at an event in June after the IPO roadshow launch &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260406/p30#a260406p30)
- - [Sources: Anthropic plans to invest $200M in a new venture with PE firms to sell AI tools to their portfolio companies; it&#39;s in talks to raise $1B for the effort &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260406/p29#a260406p29)<!-- TECH:END -->
+ - [Google Photos finally adds a feature users have been demanding for years](https://www.androidauthority.com/google-photos-video-playback-speed-3655319/)
+ - [Sources: Meta has an internal leaderboard dubbed &quot;Claudeonomics&quot; where employees compete on AI-token usage and earn rewards like &quot;Token Legend&quot; status &lpar;Jyoti Mann/The Information&rpar;](http://www.techmeme.com/260407/p12#a260407p12)
+ - [Gemini could soon let you organize chats into ‘Projects,’ ChatGPT-style](https://www.androidauthority.com/gemini-projects-folder-organize-3655323/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
