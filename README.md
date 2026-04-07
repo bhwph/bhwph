@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`My heart belongs to you` Yes, please!](http://9gag.com/gag/aQzjYPr)
- - 😝 [This is how I feel recently](http://9gag.com/gag/ajP423G)
- - 👉 [Aging Breakthrough? Wait a Moment, Please.](http://9gag.com/gag/aAyzRXp)<!-- MEMES:END -->
+ - 6️⃣ [Careful batman...](http://9gag.com/gag/aMVLpnP)
+ - 😝 [The working man](http://9gag.com/gag/ary71wX)
+ - 👉 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)<!-- MEMES:END -->
 
 --- 
 
