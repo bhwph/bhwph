@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos finally adds a feature users have been demanding for years](https://www.androidauthority.com/google-photos-video-playback-speed-3655319/)
- - [Sources: Meta has an internal leaderboard dubbed &quot;Claudeonomics&quot; where employees compete on AI-token usage and earn rewards like &quot;Token Legend&quot; status &lpar;Jyoti Mann/The Information&rpar;](http://www.techmeme.com/260407/p12#a260407p12)
- - [Gemini could soon let you organize chats into ‘Projects,’ ChatGPT-style](https://www.androidauthority.com/gemini-projects-folder-organize-3655323/)<!-- TECH:END -->
+ - [Future Apple Vision Pro my be modular, and upgradeable](https://appleinsider.com/articles/26/04/07/future-apple-vision-pro-my-be-modular-and-upgradeable?utm_source=rss)
+ - [Corsair Galleon 100 SD review: Mac productivity &amp; streamer&#39;s dream](https://appleinsider.com/articles/26/04/06/elgato-galleon-100-sd-review-mac-productivity-streamers-dream?utm_source=rss)
+ - [TCL’s new phone is here with an even better NXTPAPER display](https://www.androidauthority.com/nxtpaper-70-pro-launch-3655479/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
