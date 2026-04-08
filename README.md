@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is testing a new way to help you watch videos faster, but you’ll have to pay up](https://www.androidauthority.com/youtube-premium-auto-speed-on-the-go-experiments-3655710/)
- - [OnePlus’ first gaming handheld allegedly leaks in sketchy renders](https://www.androidauthority.com/oneplus-gaming-handheld-render-leaked-3655715/)
- - [An investigation suggests Blockstream CEO Adam Back, a British cryptographer who invented Hashcash, is Bitcoin&#39;s pseudonymous inventor Satoshi Nakamoto &lpar;New York Times&rpar;](http://www.techmeme.com/260408/p10#a260408p10)<!-- TECH:END -->
+ - [T-Mobile fails to give Verizon a taste of its own medicine](https://www.androidauthority.com/t-mobile-verizon-nad-ruling-3655903/)
+ - [OpenAI releases the Child Safety Blueprint tackling AI-enabled child sexual exploitation, focusing on updating legislation and improving detection and reporting &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260408/p30#a260408p30)
+ - [Meta will offer Muse Spark in private preview via API to select partners, and plans to offer paid API access to a wider audience at a later date; META jumps 8%+ &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260408/p29#a260408p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
