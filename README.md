@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
- - 😝 [Rest in Peace, Doris](http://9gag.com/gag/a87xd1e)
- - 👉 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)<!-- MEMES:END -->
+ - 6️⃣ [Well, yes](http://9gag.com/gag/a34XPNm)
+ - 😝 [The OG](http://9gag.com/gag/aZZOWMQ)
+ - 👉 [This job sucks](http://9gag.com/gag/a34XPGr)<!-- MEMES:END -->
 
 --- 
 
