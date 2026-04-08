@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future Apple Vision Pro my be modular, and upgradeable](https://appleinsider.com/articles/26/04/07/future-apple-vision-pro-my-be-modular-and-upgradeable?utm_source=rss)
- - [Corsair Galleon 100 SD review: Mac productivity &amp; streamer&#39;s dream](https://appleinsider.com/articles/26/04/06/elgato-galleon-100-sd-review-mac-productivity-streamers-dream?utm_source=rss)
- - [TCL’s new phone is here with an even better NXTPAPER display](https://www.androidauthority.com/nxtpaper-70-pro-launch-3655479/)<!-- TECH:END -->
+ - [Letter: ICE officials confirm they are using Graphite spyware to intercept encrypted messages, saying it is primarily used to target fentanyl traffickers &lpar;Jude Joffe-Block/NPR&rpar;](http://www.techmeme.com/260407/p55#a260407p55)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 8, #562](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-8-562/)
+ - [Deal: This MNN Portable Monitor is looking promising at just under $50](https://www.androidauthority.com/mnn-portable-monitor-deal-3655564/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
