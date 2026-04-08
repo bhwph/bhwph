@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
- - 😝 [Chef said no free food for you. Good for him](http://9gag.com/gag/aRBqQKG)
- - 👉 [Hoffman was going through a divorce at the time of filming](http://9gag.com/gag/aByBKrA)<!-- MEMES:END -->
+ - 6️⃣ [Back side smith grind](http://9gag.com/gag/azxpbWN)
+ - 😝 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
+ - 👉 [Scissors.. playing with scissors](http://9gag.com/gag/a2v6P5Y)<!-- MEMES:END -->
 
 --- 
 
