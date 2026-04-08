@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well, yes](http://9gag.com/gag/a34XPNm)
- - 😝 [The OG](http://9gag.com/gag/aZZOWMQ)
- - 👉 [This job sucks](http://9gag.com/gag/a34XPGr)<!-- MEMES:END -->
+ - 6️⃣ [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
+ - 😝 [Chef said no free food for you. Good for him](http://9gag.com/gag/aRBqQKG)
+ - 👉 [Hoffman was going through a divorce at the time of filming](http://9gag.com/gag/aByBKrA)<!-- MEMES:END -->
 
 --- 
 
