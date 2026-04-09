@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Scissors.. playing with scissors](http://9gag.com/gag/a2v6P5Y)
- - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
- - 👉 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)<!-- MEMES:END -->
+ - 6️⃣ [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
+ - 😝 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
+ - 👉 [Forget about Hans](http://9gag.com/gag/a7oRKVe)<!-- MEMES:END -->
 
 --- 
 
