@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy A57 does one thing better than any budget Android phone, and it’s a game-changer](https://www.androidauthority.com/samsung-galaxy-a57-hands-on-better-other-budget-phones-3654688/)
- - [Tubi becomes the first streamer to launch a native app within ChatGPT, allowing viewers to find movies or shows to watch by using conversational phrases &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260409/p8#a260409p8)
- - [Yuga Labs settles its 2022 lawsuit against artist Ryder Ripps and Jeremy Cahen over their alleged copycatting of its BAYC NFTs; the terms were not disclosed &lpar;CoinDesk&rpar;](http://www.techmeme.com/260409/p7#a260409p7)<!-- TECH:END -->
+ - [Florida&#39;s AG launches a probe into OpenAI and ChatGPT, saying its data could fall &quot;into the hands of America&#39;s enemies&quot; and citing a mass shooter&#39;s ChatGPT use &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/260409/p29#a260409p29)
+ - [The team behind 1000xResist is making a game about convincing an AI that it isn’t human](https://www.theverge.com/entertainment/909180/prove-youre-human-announcement-sunset-visitor-1000xresist)
+ - [Amazon Is Pulling Support for Kindles From 2012 or Earlier. What to Do Now](https://www.cnet.com/tech/computing/amazon-pulls-the-plug-on-older-kindle-models/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
