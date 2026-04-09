@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
- - 😝 [The OG](http://9gag.com/gag/aZZOWMQ)
- - 👉 [Iryna Zarutska&#39;s killer, Decarlos Brown Jr., found incompetent to stand trial. The deflection of responsibility continues.](http://9gag.com/gag/axyqG7D)<!-- MEMES:END -->
+ - 6️⃣ [Scissors.. playing with scissors](http://9gag.com/gag/a2v6P5Y)
+ - 😝 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
+ - 👉 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)<!-- MEMES:END -->
 
 --- 
 
