@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic completes an employee tender offer at a $350B valuation, falling short of the $6B investors wanted, as employees held shares ahead of the IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/260408/p42#a260408p42)
- - [Memo: xAI is reorganizing its engineering team, as SpaceX SVP Michael Nicolls says xAI is &quot;clearly behind&quot;; source: Nicolls has taken the title of xAI president &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260408/p41#a260408p41)
- - [Anker Prime 3-in-1 Wireless Charging Station review: Fast, portable, &amp; smart](https://appleinsider.com/articles/26/04/09/anker-prime-3-in-1-wireless-charging-station-review-fast-portable-smart?utm_source=rss)<!-- TECH:END -->
+ - [The Galaxy A57 does one thing better than any budget Android phone, and it’s a game-changer](https://www.androidauthority.com/samsung-galaxy-a57-hands-on-better-other-budget-phones-3654688/)
+ - [Tubi becomes the first streamer to launch a native app within ChatGPT, allowing viewers to find movies or shows to watch by using conversational phrases &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260409/p8#a260409p8)
+ - [Yuga Labs settles its 2022 lawsuit against artist Ryder Ripps and Jeremy Cahen over their alleged copycatting of its BAYC NFTs; the terms were not disclosed &lpar;CoinDesk&rpar;](http://www.techmeme.com/260409/p7#a260409p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
