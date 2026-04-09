@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Back side smith grind](http://9gag.com/gag/azxpbWN)
- - 😝 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
- - 👉 [Scissors.. playing with scissors](http://9gag.com/gag/a2v6P5Y)<!-- MEMES:END -->
+ - 6️⃣ [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
+ - 😝 [The OG](http://9gag.com/gag/aZZOWMQ)
+ - 👉 [Iryna Zarutska&#39;s killer, Decarlos Brown Jr., found incompetent to stand trial. The deflection of responsibility continues.](http://9gag.com/gag/axyqG7D)<!-- MEMES:END -->
 
 --- 
 
