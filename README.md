@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile fails to give Verizon a taste of its own medicine](https://www.androidauthority.com/t-mobile-verizon-nad-ruling-3655903/)
- - [OpenAI releases the Child Safety Blueprint tackling AI-enabled child sexual exploitation, focusing on updating legislation and improving detection and reporting &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260408/p30#a260408p30)
- - [Meta will offer Muse Spark in private preview via API to select partners, and plans to offer paid API access to a wider audience at a later date; META jumps 8%+ &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260408/p29#a260408p29)<!-- TECH:END -->
+ - [Sources: Anthropic completes an employee tender offer at a $350B valuation, falling short of the $6B investors wanted, as employees held shares ahead of the IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/260408/p42#a260408p42)
+ - [Memo: xAI is reorganizing its engineering team, as SpaceX SVP Michael Nicolls says xAI is &quot;clearly behind&quot;; source: Nicolls has taken the title of xAI president &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260408/p41#a260408p41)
+ - [Anker Prime 3-in-1 Wireless Charging Station review: Fast, portable, &amp; smart](https://appleinsider.com/articles/26/04/09/anker-prime-3-in-1-wireless-charging-station-review-fast-portable-smart?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
