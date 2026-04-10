@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC reports Q1 revenue up 35% YoY to ~$35.6B, above est., suggesting global chip demand remained intact during the first weeks of the war in the Middle East &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/260410/p3#a260410p3)
- - [5 Android phones you should buy instead of the Samsung Galaxy A57](https://www.androidauthority.com/samsung-galaxy-a57-alternatives-3655627/)
- - [Google’s working on a great Android feature to save you from ‘storage full’ nightmares](https://www.androidauthority.com/android-storage-new-automatic-pc-backup-feature-3656481/)<!-- TECH:END -->
+ - [San Francisco police arrested a suspect for allegedly throwing a Molotov cocktail at Sam Altman&#39;s home and also making threats outside OpenAI&#39;s headquarters &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260410/p17#a260410p17)
+ - [Grab Apple&#39;s M5 MacBook Air for $949 this weekend, record low price](https://appleinsider.com/articles/26/04/10/grab-apples-m5-macbook-air-for-949-this-weekend-record-low-price?utm_source=rss)
+ - [Suspect Arrested For Allegedly Throwing Molotov Cocktail at Sam Altman&#39;s Home](https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
