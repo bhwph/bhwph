@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Always be a mommy&#39;s boy](http://9gag.com/gag/a9ygLjZ)
- - 😝 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
- - 👉 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)<!-- MEMES:END -->
+ - 6️⃣ [Adventure awaits!](http://9gag.com/gag/amo4914)
+ - 😝 [Wait what .....](http://9gag.com/gag/aNDEnK4)
+ - 👉 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)<!-- MEMES:END -->
 
 --- 
 
