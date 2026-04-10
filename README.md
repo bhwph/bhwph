@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Do you know this mage? Test your knowledge of the gaming arcane with our quiz on magical allies and villains](https://www.pcgamer.com/games/rpg/do-you-know-this-mage-test-your-knowledge-of-the-gaming-arcane-with-our-quiz-on-magical-allies-and-villains/)
- - [Project Zomboid identifies and bans over a dozen Steam Workshop mods containing &#39;heavily obfuscated code&#39; that was &#39;creating malicious files&#39;](https://www.pcgamer.com/games/survival-crafting/project-zomboid-identifies-and-bans-over-a-dozen-steam-workshop-mods-containing-heavily-obfuscated-code-that-was-creating-malicious-files/)
- - [Dev Behind Busted GTA IV-Like Steam Release Puts Out Apology Letter](https://kotaku.com/dev-behind-busted-gta-iv-like-steam-release-puts-out-apology-letter-2000685874)<!-- GAME:END -->
+ - [Netflix&#39;s new shark thriller Thrash is more fun than scary](https://www.polygon.com/thrash-review-netflix-shark-thriller/)
+ - [The James Bond rights owners have opposed an application for a James Pond trademark](https://www.pcgamer.com/gaming-industry/the-james-bond-rights-owners-have-opposed-an-application-for-a-james-pond-trademark/)
+ - [The ill-advised business software that helped sink videogame pioneers Infocom now runs on modern PCs: &#39;It&#39;s a new age for aficionados of failed 1985 database products!&#39;](https://www.pcgamer.com/gaming-industry/the-ill-advised-business-software-that-helped-sink-videogame-pioneers-infocom-now-runs-on-modern-pcs-its-a-new-age-for-aficionados-of-failed-1985-database-products/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
