@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Adventure awaits!](http://9gag.com/gag/amo4914)
- - 😝 [Wait what .....](http://9gag.com/gag/aNDEnK4)
+ - 6️⃣ [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
+ - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
  - 👉 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)<!-- MEMES:END -->
 
 --- 
