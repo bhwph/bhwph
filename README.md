@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US Treasury Secretary Scott Bessent and Fed Chair Jerome Powell warned bank CEOs about Anthropic&#39;s Mythos model&#39;s risks at an urgent meeting Tuesday &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p44#a260409p44)
- - [Alibaba led a ~$293M funding round for ShengShu, just two months after the creator of the Vidu AI video generator raised ~$88M &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p43#a260409p43)
- - [Sources: SpaceX lost just under $5B last year while generating more than $18.5B in revenue; the loss figure includes xAI &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/260409/p42#a260409p42)<!-- TECH:END -->
+ - [TSMC reports Q1 revenue up 35% YoY to ~$35.6B, above est., suggesting global chip demand remained intact during the first weeks of the war in the Middle East &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/260410/p3#a260410p3)
+ - [5 Android phones you should buy instead of the Samsung Galaxy A57](https://www.androidauthority.com/samsung-galaxy-a57-alternatives-3655627/)
+ - [Google’s working on a great Android feature to save you from ‘storage full’ nightmares](https://www.androidauthority.com/android-storage-new-automatic-pc-backup-feature-3656481/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
