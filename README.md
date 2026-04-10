@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Florida&#39;s AG launches a probe into OpenAI and ChatGPT, saying its data could fall &quot;into the hands of America&#39;s enemies&quot; and citing a mass shooter&#39;s ChatGPT use &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/260409/p29#a260409p29)
- - [The team behind 1000xResist is making a game about convincing an AI that it isn’t human](https://www.theverge.com/entertainment/909180/prove-youre-human-announcement-sunset-visitor-1000xresist)
- - [Amazon Is Pulling Support for Kindles From 2012 or Earlier. What to Do Now](https://www.cnet.com/tech/computing/amazon-pulls-the-plug-on-older-kindle-models/)<!-- TECH:END -->
+ - [Sources: US Treasury Secretary Scott Bessent and Fed Chair Jerome Powell warned bank CEOs about Anthropic&#39;s Mythos model&#39;s risks at an urgent meeting Tuesday &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p44#a260409p44)
+ - [Alibaba led a ~$293M funding round for ShengShu, just two months after the creator of the Vidu AI video generator raised ~$88M &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p43#a260409p43)
+ - [Sources: SpaceX lost just under $5B last year while generating more than $18.5B in revenue; the loss figure includes xAI &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/260409/p42#a260409p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
