@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
- - 😝 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 👉 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)<!-- MEMES:END -->
+ - 6️⃣ [I don&#39;t need therapy... Therapy needs me](http://9gag.com/gag/aoyQ9mx)
+ - 😝 [No comments...](http://9gag.com/gag/aXP6wNz)
+ - 👉 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)<!-- MEMES:END -->
 
 --- 
 
