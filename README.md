@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [San Francisco police arrested a suspect for allegedly throwing a Molotov cocktail at Sam Altman&#39;s home and also making threats outside OpenAI&#39;s headquarters &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260410/p17#a260410p17)
- - [Grab Apple&#39;s M5 MacBook Air for $949 this weekend, record low price](https://appleinsider.com/articles/26/04/10/grab-apples-m5-macbook-air-for-949-this-weekend-record-low-price?utm_source=rss)
- - [Suspect Arrested For Allegedly Throwing Molotov Cocktail at Sam Altman&#39;s Home](https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/)<!-- TECH:END -->
+ - [The US CFTC says a district court judge granted its request for a temporary restraining order barring Arizona from continuing its criminal case against Kalshi &lpar;Jack Queen/Reuters&rpar;](http://www.techmeme.com/260410/p32#a260410p32)
+ - [It&#39;s Artemis II Splashdown Day for the Astronauts &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
+ - [Artemis II Returns From Historic Flight Around the Moon](https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
