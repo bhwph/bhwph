@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don&#39;t need therapy... Therapy needs me](http://9gag.com/gag/aoyQ9mx)
- - 😝 [No comments...](http://9gag.com/gag/aXP6wNz)
- - 👉 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)<!-- MEMES:END -->
+ - 6️⃣ [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
+ - 😝 [Took the shot](http://9gag.com/gag/aqyoL0M)
+ - 👉 [No comments...](http://9gag.com/gag/aXP6wNz)<!-- MEMES:END -->
 
 --- 
 
