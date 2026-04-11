@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix&#39;s new shark thriller Thrash is more fun than scary](https://www.polygon.com/thrash-review-netflix-shark-thriller/)
- - [The James Bond rights owners have opposed an application for a James Pond trademark](https://www.pcgamer.com/gaming-industry/the-james-bond-rights-owners-have-opposed-an-application-for-a-james-pond-trademark/)
- - [The ill-advised business software that helped sink videogame pioneers Infocom now runs on modern PCs: &#39;It&#39;s a new age for aficionados of failed 1985 database products!&#39;](https://www.pcgamer.com/gaming-industry/the-ill-advised-business-software-that-helped-sink-videogame-pioneers-infocom-now-runs-on-modern-pcs-its-a-new-age-for-aficionados-of-failed-1985-database-products/)<!-- GAME:END -->
+ - [Star Wars&#39; Maul actor reveals what the Emperor really did to the Sith lord](https://www.polygon.com/maul-shadow-lord-darth-sidious-maul-devon/)
+ - [New Proton Experimental build fixes up a bunch of old Capcom games for Steam Deck and Linux](https://www.pcgamer.com/games/resident-evil/new-proton-experimental-build-fixes-up-a-bunch-of-old-capcom-games-for-steam-deck-and-linux/)
+ - [How BioWare can make an unlikely comeback, and why it never will: The first step is cancelling Mass Effect](https://www.pcgamer.com/games/mass-effect/how-bioware-can-make-an-unlikely-comeback-and-why-it-never-will-the-first-step-is-cancelling-mass-effect/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
