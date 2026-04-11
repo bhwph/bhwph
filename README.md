@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI is transforming golf: optimizing course operations, virtual assistants handling tee time bookings, and AI instructor apps improving player performance &lpar;Bradley S. Klein/Wall Street Journal&rpar;](http://www.techmeme.com/260411/p6#a260411p6)
- - [Court filing: OpenAI says Elon Musk&#39;s recent amendments to his OpenAI lawsuit are a &quot;legal ambush&quot;, calling them &quot;legally improper and factually unsupported&quot; &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/260411/p5#a260411p5)
- - [Ramp data: 30.6% of US businesses paid for Anthropic&#39;s tools in March, up from 24.4% in February; OpenAI&#39;s US business adoption remained nearly flat MoM at ~35% &lpar;Clara Murray/Financial Times&rpar;](http://www.techmeme.com/260411/p4#a260411p4)<!-- TECH:END -->
+ - [Some Mac Studio, Mac mini configurations are not available from Apple online](https://appleinsider.com/articles/26/04/11/some-mac-studio-mac-mini-configurations-are-not-available-from-apple-online?utm_source=rss)
+ - [Artemis II Astronauts Splash Down Safely After Moon Mission](https://www.cnet.com/news-live/nasa-artemis-ii-astronauts-return-home-historic-moon-mission/)
+ - [Google says Polymarket bets &quot;briefly appeared in Google News in error&quot;, after the bets appeared alongside news articles in the &quot;For You&quot; section &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/260411/p9#a260411p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
