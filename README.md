@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
- - 😝 [Took the shot](http://9gag.com/gag/aqyoL0M)
- - 👉 [No comments...](http://9gag.com/gag/aXP6wNz)<!-- MEMES:END -->
+ - 6️⃣ [Took the shot](http://9gag.com/gag/aqyoL0M)
+ - 😝 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
+ - 👉 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)<!-- MEMES:END -->
 
 --- 
 
