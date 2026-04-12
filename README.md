@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
- - 😝 [Fight club rule number 1 You do not talk about Fight Club](http://9gag.com/gag/apRZrDM)
- - 👉 [Willie Stroker](http://9gag.com/gag/aByBW3N)<!-- MEMES:END -->
+ - 6️⃣ [Willie Stroker](http://9gag.com/gag/aByBW3N)
+ - 😝 [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)
+ - 👉 [Who needs a duty-free chocolate when you can get a new Rolex](http://9gag.com/gag/adBD9q9)<!-- MEMES:END -->
 
 --- 
 
