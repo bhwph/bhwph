@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Mac Studio, Mac mini configurations are not available from Apple online](https://appleinsider.com/articles/26/04/11/some-mac-studio-mac-mini-configurations-are-not-available-from-apple-online?utm_source=rss)
- - [Artemis II Astronauts Splash Down Safely After Moon Mission](https://www.cnet.com/news-live/nasa-artemis-ii-astronauts-return-home-historic-moon-mission/)
- - [Google says Polymarket bets &quot;briefly appeared in Google News in error&quot;, after the bets appeared alongside news articles in the &quot;For You&quot; section &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/260411/p9#a260411p9)<!-- TECH:END -->
+ - [Q&amp;A with NYT reporter Tiffany Hsu about AI-generated online influencers, how the volume of synthetic content produces exhaustion for users, and more &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/260411/p13#a260411p13)
+ - [The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving](https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving)
+ - [Survey of 6,698 people across six EU countries: around 84% said they don&#39;t trust US tech companies with their personal data; 93% don&#39;t trust Chinese companies &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/260411/p12#a260411p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
