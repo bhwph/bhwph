@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Tensor G5 is ‘good enough’ — but 2026 flagships are leaving the Pixel 10 behind](https://www.androidauthority.com/tensor-g5-vs-snapdragon-game-performance-3654826/)
- - [Today only: Grab AirPods Max USB-C for $399.95 &lpar;$150 off&rpar;](https://appleinsider.com/articles/26/04/12/today-only-grab-airpods-max-usb-c-for-39995-150-off?utm_source=rss)
- - [A journalist recounts how he used ChatGPT to develop a fitness plan to prepare for the Paris Marathon, resulting in a 20-pound weight loss and faster race times &lpar;Derek Wallbank/Bloomberg&rpar;](http://www.techmeme.com/260412/p3#a260412p3)<!-- TECH:END -->
+ - [Sources: UK regulators plan to warn banks, insurers, and exchanges about security risks exposed by Claude Mythos Preview at a meeting within the next two weeks &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/260412/p6#a260412p6)
+ - [You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2](https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale)
+ - [Apple&#39;s future smart glasses plan is just part of a larger computer vision play](https://appleinsider.com/articles/26/04/12/apples-future-smart-glasses-plan-is-just-part-of-a-larger-computer-vision-play?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
