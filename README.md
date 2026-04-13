@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI plans to open its first permanent London office with a 500+ staff capacity; in February, OpenAI said it would make London its largest non-US research hub &lpar;Kai Nicol-Schwarz/CNBC&rpar;](http://www.techmeme.com/260413/p10#a260413p10)
- - [8 Chrome extensions I can’t live without](https://www.androidauthority.com/my-favorite-chrome-extensions-3654455/)
- - [Sam Altman reportedly targeted in second attack](https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting)<!-- TECH:END -->
+ - [Amazon launches $50 discount on iPad 11 for April](https://appleinsider.com/articles/26/04/13/amazon-launches-50-discount-on-ipad-11-for-april?utm_source=rss)
+ - [Internal memo: OpenAI Chief Revenue Officer says Anthropic is &quot;grossing up rev share with Amazon and Google&quot; and overstating its &quot;run rate by roughly $8B&quot; &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/260413/p23#a260413p23)
+ - [Mac Neo should be the follow up to the huge success of the MacBook Neo](https://appleinsider.com/articles/26/04/13/mac-neo-should-be-the-follow-up-to-the-huge-success-of-the-macbook-neo?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
