@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Kate Mara in shooter &lpar;2007&rpar;](http://9gag.com/gag/aO8LBG2)
- - 😝 [MOCK THEM TILL THEY CRY. Then make memes of them crying.](http://9gag.com/gag/a4POG9p)
- - 👉 [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)<!-- MEMES:END -->
+ - 6️⃣ [Manbun hero](http://9gag.com/gag/aKGojzQ)
+ - 😝 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
+ - 👉 [Bro is dying to get that contract](http://9gag.com/gag/adBD7Bj)<!-- MEMES:END -->
 
 --- 
 
