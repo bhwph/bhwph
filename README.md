@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: UK regulators plan to warn banks, insurers, and exchanges about security risks exposed by Claude Mythos Preview at a meeting within the next two weeks &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/260412/p6#a260412p6)
- - [You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2](https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale)
- - [Apple&#39;s future smart glasses plan is just part of a larger computer vision play](https://appleinsider.com/articles/26/04/12/apples-future-smart-glasses-plan-is-just-part-of-a-larger-computer-vision-play?utm_source=rss)<!-- TECH:END -->
+ - [Anthropic debuts Claude for Word in beta, which adds AI editing tools and clickable citations, targeting document-heavy workflows, for Team and Enterprise users &lpar;Tristan Anthony/Business Insider&rpar;](http://www.techmeme.com/260412/p11#a260412p11)
+ - [Police report: Sam Altman&#39;s home appears to have been targeted in a second attack after a gun appeared to have been fired at his home from a car early Sunday &lpar;Jonah Owen Lamb/The San Francisco ...&rpar;](http://www.techmeme.com/260412/p10#a260412p10)
+ - [A look at the escalating global AI arms race, as the US, China, Russia, and others rush to build AI-backed autonomous weapons and defense systems &lpar;New York Times&rpar;](http://www.techmeme.com/260412/p9#a260412p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
