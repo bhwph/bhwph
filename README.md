@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Manbun hero](http://9gag.com/gag/aKGojzQ)
- - 😝 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
- - 👉 [Bro is dying to get that contract](http://9gag.com/gag/adBD7Bj)<!-- MEMES:END -->
+ - 😝 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
+ - 👉 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)<!-- MEMES:END -->
 
 --- 
 
