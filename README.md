@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches $50 discount on iPad 11 for April](https://appleinsider.com/articles/26/04/13/amazon-launches-50-discount-on-ipad-11-for-april?utm_source=rss)
- - [Internal memo: OpenAI Chief Revenue Officer says Anthropic is &quot;grossing up rev share with Amazon and Google&quot; and overstating its &quot;run rate by roughly $8B&quot; &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/260413/p23#a260413p23)
- - [Mac Neo should be the follow up to the huge success of the MacBook Neo](https://appleinsider.com/articles/26/04/13/mac-neo-should-be-the-follow-up-to-the-huge-success-of-the-macbook-neo?utm_source=rss)<!-- TECH:END -->
+ - [Gemini in Google Home is getting a whole lot better at understanding you](https://www.androidauthority.com/gemini-home-understand-3657160/)
+ - [Sonos Play review: Sonos is back with the Goldilocks of portable speakers](https://appleinsider.com/articles/26/04/14/sonos-play-review-sonos-is-back-with-the-goldilocks-of-portable-speakers?utm_source=rss)
+ - [What Is Earthshine? How to Spot the Lunar Marvel in the Skies This Week](https://www.cnet.com/science/space/what-is-earthshine-best-time-to-see-it/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
