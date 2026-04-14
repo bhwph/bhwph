@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini in Google Home is getting a whole lot better at understanding you](https://www.androidauthority.com/gemini-home-understand-3657160/)
- - [Sonos Play review: Sonos is back with the Goldilocks of portable speakers](https://appleinsider.com/articles/26/04/14/sonos-play-review-sonos-is-back-with-the-goldilocks-of-portable-speakers?utm_source=rss)
- - [What Is Earthshine? How to Spot the Lunar Marvel in the Skies This Week](https://www.cnet.com/science/space/what-is-earthshine-best-time-to-see-it/)<!-- TECH:END -->
+ - [The Pixel 10 is getting a major security boost you’ll never actually see](https://www.androidauthority.com/google-pixel-10-modem-rust-security-3653503/)
+ - [If you ever need truly private photos on Android, this is the camera app to use](https://www.androidauthority.com/best-private-camera-app-android-snapsafe-3656902/)
+ - [The Moms Who Sponcon Their Daughters’ First Periods](https://www.wired.com/story/the-moms-who-sponcon-their-daughters-first-periods/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
