@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 10 is getting a major security boost you’ll never actually see](https://www.androidauthority.com/google-pixel-10-modem-rust-security-3653503/)
- - [If you ever need truly private photos on Android, this is the camera app to use](https://www.androidauthority.com/best-private-camera-app-android-snapsafe-3656902/)
- - [The Moms Who Sponcon Their Daughters’ First Periods](https://www.wired.com/story/the-moms-who-sponcon-their-daughters-first-periods/)<!-- TECH:END -->
+ - [Glydways, a robocar startup backed by Sam Altman, Khosla, and others, says it is in talks to raise $250M at a $1B+ valuation, following a ~$170M Series C &lpar;Min-Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/260414/p28#a260414p28)
+ - [The ever-changing Trump T1 Phone now looks suspiciously like a HTC U24 Pro](https://www.androidauthority.com/t1-phone-redesign-and-spec-change-3657373/)
+ - [Microsoft debuts MAI-Image-2-Efficient, a faster version of its flagship text-to-image model, which it says offers production-ready quality at ~50% the cost &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/260414/p27#a260414p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
