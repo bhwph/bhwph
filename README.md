@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tribal diplomancy](http://9gag.com/gag/aW43qYx)
- - 😝 [12 x 12 is 909,967](http://9gag.com/gag/aVvy3D8)
- - 👉 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)<!-- MEMES:END -->
+ - 6️⃣ [Top 10% in all 3 jobs! wow !](http://9gag.com/gag/aKGojRj)
+ - 😝 [Threads](http://9gag.com/gag/an7Pj85)
+ - 👉 [Manbun hero](http://9gag.com/gag/aKGojzQ)<!-- MEMES:END -->
 
 --- 
 
