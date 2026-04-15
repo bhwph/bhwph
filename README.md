@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Top 10% in all 3 jobs! wow !](http://9gag.com/gag/aKGojRj)
- - 😝 [Threads](http://9gag.com/gag/an7Pj85)
- - 👉 [Manbun hero](http://9gag.com/gag/aKGojzQ)<!-- MEMES:END -->
+ - 6️⃣ [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
+ - 😝 [Tetten](http://9gag.com/gag/aXP6x4b)
+ - 👉 [`she can carry up to 8 males` sounds like my ex](http://9gag.com/gag/aW43Y66)<!-- MEMES:END -->
 
 --- 
 
