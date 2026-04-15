@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Glydways, a robocar startup backed by Sam Altman, Khosla, and others, says it is in talks to raise $250M at a $1B+ valuation, following a ~$170M Series C &lpar;Min-Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/260414/p28#a260414p28)
- - [The ever-changing Trump T1 Phone now looks suspiciously like a HTC U24 Pro](https://www.androidauthority.com/t1-phone-redesign-and-spec-change-3657373/)
- - [Microsoft debuts MAI-Image-2-Efficient, a faster version of its flagship text-to-image model, which it says offers production-ready quality at ~50% the cost &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/260414/p27#a260414p27)<!-- TECH:END -->
+ - [Grok nonconsensual pornographic deepfakes almost led to an App Store ban](https://appleinsider.com/articles/26/04/15/grok-nonconsensual-pornographic-deepfakes-almost-led-to-an-app-store-ban?utm_source=rss)
+ - [Maine&#39;s legislature passed a bill blocking new data centers that exceed 20 MW capacity until November 2027, making it the first state to enact such a measure &lpar;Alyssa Lukpat/Wall Street Journal&rpar;](http://www.techmeme.com/260414/p52#a260414p52)
+ - [Omdia: Facebook, Instagram, YouTube, and TikTok now capture over 90% of social media ad revenue, with Meta accounting for 70% of the total &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/260414/p51#a260414p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
