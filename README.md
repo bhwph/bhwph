@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
- - 😝 [Tetten](http://9gag.com/gag/aXP6x4b)
- - 👉 [`she can carry up to 8 males` sounds like my ex](http://9gag.com/gag/aW43Y66)<!-- MEMES:END -->
+ - 6️⃣ [Skills vs degree, a timeless debate with a crypto twist](http://9gag.com/gag/a9ygKN0)
+ - 😝 [The moment when the Artemis II capsule was opened after coming back to earth.](http://9gag.com/gag/amo4BO9)
+ - 👉 [Bed Bath e Beyond](http://9gag.com/gag/aW43Ey3)<!-- MEMES:END -->
 
 --- 
 
