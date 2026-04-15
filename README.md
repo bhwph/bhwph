@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grok nonconsensual pornographic deepfakes almost led to an App Store ban](https://appleinsider.com/articles/26/04/15/grok-nonconsensual-pornographic-deepfakes-almost-led-to-an-app-store-ban?utm_source=rss)
- - [Maine&#39;s legislature passed a bill blocking new data centers that exceed 20 MW capacity until November 2027, making it the first state to enact such a measure &lpar;Alyssa Lukpat/Wall Street Journal&rpar;](http://www.techmeme.com/260414/p52#a260414p52)
- - [Omdia: Facebook, Instagram, YouTube, and TikTok now capture over 90% of social media ad revenue, with Meta accounting for 70% of the total &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/260414/p51#a260414p51)<!-- TECH:END -->
+ - [Snapdragon 8 Elite Gen 6 leak suggests you might not really want the Pro variant](https://www.androidauthority.com/more-snapdragon-8-elite-gen-6-specs-leak-3657630/)
+ - [Google Home is missing the one feature every smart home needs — so I built it myself](https://www.androidauthority.com/google-home-guest-access-smart-home-3656804/)
+ - [This powerful PC game emulator for Android just got a big update](https://www.androidauthority.com/winlator-v11-stable-release-android-pc-emulator-3657643/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
