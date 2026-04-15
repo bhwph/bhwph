@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon 8 Elite Gen 6 leak suggests you might not really want the Pro variant](https://www.androidauthority.com/more-snapdragon-8-elite-gen-6-specs-leak-3657630/)
- - [Google Home is missing the one feature every smart home needs — so I built it myself](https://www.androidauthority.com/google-home-guest-access-smart-home-3656804/)
- - [This powerful PC game emulator for Android just got a big update](https://www.androidauthority.com/winlator-v11-stable-release-android-pc-emulator-3657643/)<!-- TECH:END -->
+ - [Google launches a Gemini Mac app, featuring a keyboard shortcut, screen sharing for better context, image generation with Nano Banana, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260415/p34#a260415p34)
+ - [Seeing new content mixed in with your YouTube Shorts? Here’s what’s going on](https://www.androidauthority.com/youtube-shorts-posts-3657815/)
+ - [Most people still don’t want anything to do with robotaxis](https://www.theverge.com/transportation/912357/robotaxi-poll-ev-intelligence-report-waymo-tesla)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
