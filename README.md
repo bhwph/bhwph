@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Skills vs degree, a timeless debate with a crypto twist](http://9gag.com/gag/a9ygKN0)
- - 😝 [The moment when the Artemis II capsule was opened after coming back to earth.](http://9gag.com/gag/amo4BO9)
- - 👉 [Bed Bath e Beyond](http://9gag.com/gag/aW43Ey3)<!-- MEMES:END -->
+ - 6️⃣ [Minimum wage stayed frozen while billionaire wealth went orbital](http://9gag.com/gag/avyK8eE)
+ - 😝 [When the problem of evil gets explained with zero chill](http://9gag.com/gag/axyqzRY)
+ - 👉 [Dude lost the race but won the show](http://9gag.com/gag/aqyoKQZ)<!-- MEMES:END -->
 
 --- 
 
