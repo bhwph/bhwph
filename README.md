@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Minimum wage stayed frozen while billionaire wealth went orbital](http://9gag.com/gag/avyK8eE)
- - 😝 [When the problem of evil gets explained with zero chill](http://9gag.com/gag/axyqzRY)
- - 👉 [Dude lost the race but won the show](http://9gag.com/gag/aqyoKQZ)<!-- MEMES:END -->
+ - 6️⃣ [Well well well](http://9gag.com/gag/aGy4dNZ)
+ - 😝 [Murica sh*t](http://9gag.com/gag/aGy4dqG)
+ - 👉 [History is wild and this explains so much about Louisiana](http://9gag.com/gag/aMVMxBx)<!-- MEMES:END -->
 
 --- 
 
