@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stuck in a Coffee Rut? ChatGPT Can Now Plan Your Next Starbucks Order](https://www.cnet.com/tech/services-and-software/chatgpt-starbucks-app-beta/)
- - [Anthropic rolls out identity verification that may require Claude users to provide a government-issued photo ID and live selfie to access &quot;certain capabilities&quot; &lpar;Jose Antonio Lanz/Decrypt&rpar;](http://www.techmeme.com/260415/p48#a260415p48)
- - [Best Power Bank for iPhones in 2026](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/)<!-- TECH:END -->
+ - [TSMC reports Q1 revenue up 35.1% YoY to ~$35B, net income up 58.3% YoY to ~$18B, both above est., and says 7nm or smaller chips were ~74% of its wafer revenue &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260416/p9#a260416p9)
+ - [OnePlus Watch 4 retail box leak reveals colors, strap options, and global availability](https://www.androidauthority.com/oneplus-watch-4-retail-box-leak-3658060/)
+ - [Is this a good idea? ChatGPT could soon remember your face](https://www.androidauthority.com/chatgpt-face-reference-photo-3658042/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
