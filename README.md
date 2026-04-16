@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC reports Q1 revenue up 35.1% YoY to ~$35B, net income up 58.3% YoY to ~$18B, both above est., and says 7nm or smaller chips were ~74% of its wafer revenue &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260416/p9#a260416p9)
- - [OnePlus Watch 4 retail box leak reveals colors, strap options, and global availability](https://www.androidauthority.com/oneplus-watch-4-retail-box-leak-3658060/)
- - [Is this a good idea? ChatGPT could soon remember your face](https://www.androidauthority.com/chatgpt-face-reference-photo-3658042/)<!-- TECH:END -->
+ - [The nine best ways to protect, customize, and accessorize your MacBook Neo](https://www.theverge.com/gadgets/912767/best-macbook-neo-accessories)
+ - [Chrome is leveling up AI Mode with split-screen view and local tab search](https://www.androidauthority.com/chrome-ai-mode-split-screen-3658218/)
+ - [Google&#39;s 2025 Ads Safety Report: Google blocked a record 8.3B ads, up 63% YoY, but suspended 36% fewer advertisers, attributing the disparity to its use of AI &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260416/p39#a260416p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
