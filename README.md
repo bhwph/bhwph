@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches a Gemini Mac app, featuring a keyboard shortcut, screen sharing for better context, image generation with Nano Banana, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260415/p34#a260415p34)
- - [Seeing new content mixed in with your YouTube Shorts? Here’s what’s going on](https://www.androidauthority.com/youtube-shorts-posts-3657815/)
- - [Most people still don’t want anything to do with robotaxis](https://www.theverge.com/transportation/912357/robotaxi-poll-ev-intelligence-report-waymo-tesla)<!-- TECH:END -->
+ - [Stuck in a Coffee Rut? ChatGPT Can Now Plan Your Next Starbucks Order](https://www.cnet.com/tech/services-and-software/chatgpt-starbucks-app-beta/)
+ - [Anthropic rolls out identity verification that may require Claude users to provide a government-issued photo ID and live selfie to access &quot;certain capabilities&quot; &lpar;Jose Antonio Lanz/Decrypt&rpar;](http://www.techmeme.com/260415/p48#a260415p48)
+ - [Best Power Bank for iPhones in 2026](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
