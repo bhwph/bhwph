@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [RIP little guy, you will be missed](http://9gag.com/gag/avyKz6W)
- - 😝 [Aaand we have terminators in 2026](http://9gag.com/gag/aByBmVQ)
+ - 6️⃣ [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
+ - 😝 [It all makes sense now](http://9gag.com/gag/aqyonZ7)
  - 👉 [Well well well](http://9gag.com/gag/aGy4dNZ)<!-- MEMES:END -->
 
 --- 
