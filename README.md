@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Well well well](http://9gag.com/gag/aGy4dNZ)
- - 😝 [Murica sh*t](http://9gag.com/gag/aGy4dqG)
- - 👉 [History is wild and this explains so much about Louisiana](http://9gag.com/gag/aMVMxBx)<!-- MEMES:END -->
+ - 6️⃣ [RIP little guy, you will be missed](http://9gag.com/gag/avyKz6W)
+ - 😝 [Aaand we have terminators in 2026](http://9gag.com/gag/aByBmVQ)
+ - 👉 [Well well well](http://9gag.com/gag/aGy4dNZ)<!-- MEMES:END -->
 
 --- 
 
