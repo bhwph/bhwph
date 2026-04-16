@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars&#39; Maul actor reveals what the Emperor really did to the Sith lord](https://www.polygon.com/maul-shadow-lord-darth-sidious-maul-devon/)
- - [New Proton Experimental build fixes up a bunch of old Capcom games for Steam Deck and Linux](https://www.pcgamer.com/games/resident-evil/new-proton-experimental-build-fixes-up-a-bunch-of-old-capcom-games-for-steam-deck-and-linux/)
- - [How BioWare can make an unlikely comeback, and why it never will: The first step is cancelling Mass Effect](https://www.pcgamer.com/games/mass-effect/how-bioware-can-make-an-unlikely-comeback-and-why-it-never-will-the-first-step-is-cancelling-mass-effect/)<!-- GAME:END -->
+ - [Official Xbox Podcast: Matt Booty Talks Showcase, Games, Studios, and More](https://www.youtube.com/watch?v=ZKFwDPinbV0#new_tab)
+ - [Yes, technically you can play World of Warcraft with hot dogs](https://www.pcgamer.com/games/world-of-warcraft/yes-technically-you-can-play-world-of-warcraft-with-hot-dogs/)
+ - [About 30% of Arc Raiders players focus on PvE, and Embark&#39;s happy with that: &#39;We want to instil hope in the player&#39;](https://www.pcgamer.com/games/fps/about-30-percent-of-arc-raiders-players-focus-on-pve-and-embarks-happy-with-that-we-want-to-instil-hope-in-the-player/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
