@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 reasons why I refuse to pay for YouTube Premium](https://www.androidauthority.com/reasons-refuse-pay-youtube-premium-3657317/)
- - [YouTube is killing a video sharing feature and $1,000 side hustles along with it](https://www.androidauthority.com/youtube-video-sharing-clips-killed-3658479/)
- - [6,000 Meters Under the Pacific, Japan Seeks Independence From China on Rare Earths](https://www.wired.com/story/under-the-pacific-japan-seeks-independence-from-china-on-rare-earths/)<!-- TECH:END -->
+ - [It’s not just Apple: Android users are more loyal than ever](https://www.androidauthority.com/smartphone-survey-more-brand-loyalty-3658621/)
+ - [Netflix plans to launch a vertical video feed, to help with content discovery, this month, and plans to use AI for content creation and recommendations &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260417/p24#a260417p24)
+ - [Play Hades 2, the Award-Winning Sequel, on Xbox Game Pass Now](https://www.cnet.com/tech/gaming/play-hades-2-the-award-winning-sequel-on-xbox-game-pass-now/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
