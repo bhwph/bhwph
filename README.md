@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
- - 😝 [It all makes sense now](http://9gag.com/gag/aqyonZ7)
- - 👉 [Well well well](http://9gag.com/gag/aGy4dNZ)<!-- MEMES:END -->
+ - 6️⃣ [The days of Pepsi are long gone.](http://9gag.com/gag/azxpegq)
+ - 😝 [Backflip catching a frozen piss missile, with the superhero landing](http://9gag.com/gag/aKGo6OQ)
+ - 👉 [When someone hears this bird sound, they will think it is spring.](http://9gag.com/gag/a6ZY1bR)<!-- MEMES:END -->
 
 --- 
 
