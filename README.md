@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The nine best ways to protect, customize, and accessorize your MacBook Neo](https://www.theverge.com/gadgets/912767/best-macbook-neo-accessories)
- - [Chrome is leveling up AI Mode with split-screen view and local tab search](https://www.androidauthority.com/chrome-ai-mode-split-screen-3658218/)
- - [Google&#39;s 2025 Ads Safety Report: Google blocked a record 8.3B ads, up 63% YoY, but suspended 36% fewer advertisers, attributing the disparity to its use of AI &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260416/p39#a260416p39)<!-- TECH:END -->
+ - [Roblox agrees to pay $12.5M and implement age verification for all users as part of a settlement with Nevada over claims it failed to protect young users &lpar;Jessica Hill/Associated Press&rpar;](http://www.techmeme.com/260416/p57#a260416p57)
+ - [Sources: SpaceX told employees that it has moved up the scheduled date for when shares awarded to employees become eligible for sale from May to April &lpar;Bloomberg&rpar;](http://www.techmeme.com/260416/p56#a260416p56)
+ - [Roblox Will Pay $12 Million to Settle Nevada Child Safety Lawsuit](https://www.cnet.com/tech/gaming/roblox-settlement-nevada-12-million-payout-lawsuit-child-safety/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
