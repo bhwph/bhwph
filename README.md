@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox agrees to pay $12.5M and implement age verification for all users as part of a settlement with Nevada over claims it failed to protect young users &lpar;Jessica Hill/Associated Press&rpar;](http://www.techmeme.com/260416/p57#a260416p57)
- - [Sources: SpaceX told employees that it has moved up the scheduled date for when shares awarded to employees become eligible for sale from May to April &lpar;Bloomberg&rpar;](http://www.techmeme.com/260416/p56#a260416p56)
- - [Roblox Will Pay $12 Million to Settle Nevada Child Safety Lawsuit](https://www.cnet.com/tech/gaming/roblox-settlement-nevada-12-million-payout-lawsuit-child-safety/)<!-- TECH:END -->
+ - [5 reasons why I refuse to pay for YouTube Premium](https://www.androidauthority.com/reasons-refuse-pay-youtube-premium-3657317/)
+ - [YouTube is killing a video sharing feature and $1,000 side hustles along with it](https://www.androidauthority.com/youtube-video-sharing-clips-killed-3658479/)
+ - [6,000 Meters Under the Pacific, Japan Seeks Independence From China on Rare Earths](https://www.wired.com/story/under-the-pacific-japan-seeks-independence-from-china-on-rare-earths/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
