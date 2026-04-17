@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Official Xbox Podcast: Matt Booty Talks Showcase, Games, Studios, and More](https://www.youtube.com/watch?v=ZKFwDPinbV0#new_tab)
- - [Yes, technically you can play World of Warcraft with hot dogs](https://www.pcgamer.com/games/world-of-warcraft/yes-technically-you-can-play-world-of-warcraft-with-hot-dogs/)
- - [About 30% of Arc Raiders players focus on PvE, and Embark&#39;s happy with that: &#39;We want to instil hope in the player&#39;](https://www.pcgamer.com/games/fps/about-30-percent-of-arc-raiders-players-focus-on-pve-and-embarks-happy-with-that-we-want-to-instil-hope-in-the-player/)<!-- GAME:END -->
+ - [MSI says its refreshed Raider gaming laptops have been designed to combat the one thing I hate most about portable PCs: fan noise](https://www.pcgamer.com/hardware/gaming-laptops/msi-says-its-refreshed-raider-gaming-laptops-have-been-designed-to-combat-the-one-thing-i-hate-most-about-portable-pcs-fan-noise/)
+ - [Zohran Mamdani turns philanthropy and corporate greed into an extended Mario Kart metaphor: &#39;Government is Yoshi&#39;](https://www.pcgamer.com/games/racing/zohran-mamdani-turns-philanthropy-and-corporate-greed-into-an-extended-mario-kart-metaphor-government-is-yoshi/)
+ - [The classic Xenosaga series is finally making its PC debut, but don&#39;t get too excited because it&#39;s a 2004 mobile game port](https://www.pcgamer.com/games/rpg/the-classic-xenosaga-series-is-finally-making-its-pc-debut-but-dont-get-too-excited-because-its-a-2004-mobile-game-port/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
