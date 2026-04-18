@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cream](http://9gag.com/gag/abAngZv)
- - 😝 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)
- - 👉 [Pete Hegseth quotes a fake Bible verse from Pulp Fiction during a Pentagon sermon...](http://9gag.com/gag/aNDEwn6)<!-- MEMES:END -->
+ - 6️⃣ [Its too late Mr. Cameraman](http://9gag.com/gag/aNDEDDv)
+ - 😝 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
+ - 👉 [These creatures are being airdropped to the shires to destroy everything](http://9gag.com/gag/azxpxKm)<!-- MEMES:END -->
 
 --- 
 
