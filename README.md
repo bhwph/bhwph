@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Autonomous vehicle startups raised a record $21.4B across 34 deals through April 15, up from $5.9B raised across 99 investments globally in all of 2025 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260418/p4#a260418p4)
- - [Chinese lidar maker Hesai, a primary supplier for Nvidia&#39;s ADAS, announces EXT lidar, calling it the industry&#39;s first to integrate spatial and color detection &lpar;Reuters&rpar;](http://www.techmeme.com/260418/p3#a260418p3)
- - [Some Mac Mini and Mac Studio models are unavailable or facing up to 12-week wait times in the US, with analysts citing strong demand from AI agent power users &lpar;Nicole Nguyen/Wall Street Journal&rpar;](http://www.techmeme.com/260418/p2#a260418p2)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Chelsea vs. Man United From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-chelsea-vs-man-united-from-anywhere-live/)
+ - [Cheap stuff that doesn’t suck, take 3](https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers)
+ - [ICE monitoring app takedowns violated the First Amendment](https://appleinsider.com/articles/26/04/18/ice-monitoring-app-takedowns-violated-the-first-amendment?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
