@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI says its refreshed Raider gaming laptops have been designed to combat the one thing I hate most about portable PCs: fan noise](https://www.pcgamer.com/hardware/gaming-laptops/msi-says-its-refreshed-raider-gaming-laptops-have-been-designed-to-combat-the-one-thing-i-hate-most-about-portable-pcs-fan-noise/)
- - [Zohran Mamdani turns philanthropy and corporate greed into an extended Mario Kart metaphor: &#39;Government is Yoshi&#39;](https://www.pcgamer.com/games/racing/zohran-mamdani-turns-philanthropy-and-corporate-greed-into-an-extended-mario-kart-metaphor-government-is-yoshi/)
- - [The classic Xenosaga series is finally making its PC debut, but don&#39;t get too excited because it&#39;s a 2004 mobile game port](https://www.pcgamer.com/games/rpg/the-classic-xenosaga-series-is-finally-making-its-pc-debut-but-dont-get-too-excited-because-its-a-2004-mobile-game-port/)<!-- GAME:END -->
+ - [BAFTA pulls game trailer over &#39;themes that may be a trigger&#39; even after developer revision](https://www.pcgamer.com/games/bafta-pulls-game-trailer-over-themes-that-may-be-a-trigger-even-after-developer-revision/)
+ - [5 anti-AI sci-fi movies Tubi’s new chatbot would never recommend you](https://www.polygon.com/tubi-ai-chatbot-best-sci-fi-movies/)
+ - [The Pitt: The Video Game parody will brighten up your weekend](https://www.polygon.com/the-pitt-the-video-game-parody/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
