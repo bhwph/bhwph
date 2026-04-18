@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pete Hegseth quotes a fake Bible verse from Pulp Fiction during a Pentagon sermon...](http://9gag.com/gag/aNDEwn6)
+ - 6️⃣ [X men 3 behind the scenes](http://9gag.com/gag/aE0mqDN)
  - 😝 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
- - 👉 [What does it mean???](http://9gag.com/gag/a9ygqw0)<!-- MEMES:END -->
+ - 👉 [Kid interviewed with mum behind the scenes! Kid\u2019s really smart but the cost of it is unbearable!](http://9gag.com/gag/avyKyAd)<!-- MEMES:END -->
 
 --- 
 
