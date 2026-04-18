@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Its too late Mr. Cameraman](http://9gag.com/gag/aNDEDDv)
- - 😝 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
- - 👉 [These creatures are being airdropped to the shires to destroy everything](http://9gag.com/gag/azxpxKm)<!-- MEMES:END -->
+ - 6️⃣ [Pete Hegseth quotes a fake Bible verse from Pulp Fiction during a Pentagon sermon...](http://9gag.com/gag/aNDEwn6)
+ - 😝 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
+ - 👉 [What does it mean???](http://9gag.com/gag/a9ygqw0)<!-- MEMES:END -->
 
 --- 
 
