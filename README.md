@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s not just Apple: Android users are more loyal than ever](https://www.androidauthority.com/smartphone-survey-more-brand-loyalty-3658621/)
- - [Netflix plans to launch a vertical video feed, to help with content discovery, this month, and plans to use AI for content creation and recommendations &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260417/p24#a260417p24)
- - [Play Hades 2, the Award-Winning Sequel, on Xbox Game Pass Now](https://www.cnet.com/tech/gaming/play-hades-2-the-award-winning-sequel-on-xbox-game-pass-now/)<!-- TECH:END -->
+ - [What some leaders think of using universal income to mitigate AI-fueled layoffs: Musk calls it the &quot;best way&quot;, OpenAI&#39;s policy doc mentions a Public Wealth Fund &lpar;Siladitya Ray/Forbes&rpar;](http://www.techmeme.com/260417/p38#a260417p38)
+ - [The latest Android Canary build is hitting older Pixel phones, foldables, and tablets](https://www.androidauthority.com/android-canary-2604-expanded-rollout-3658769/)
+ - [One Rumored Color for the iPhone 18 Pro? A Rich Dark Cherry Red](https://www.cnet.com/tech/mobile/iphone-18-pro-dark-cherry-rumor/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
