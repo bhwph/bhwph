@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [X men 3 behind the scenes](http://9gag.com/gag/aE0mqDN)
- - 😝 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
- - 👉 [Kid interviewed with mum behind the scenes! Kid\u2019s really smart but the cost of it is unbearable!](http://9gag.com/gag/avyKyAd)<!-- MEMES:END -->
+ - 6️⃣ [Is This True ?](http://9gag.com/gag/a2v6MDD)
+ - 😝 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)
+ - 👉 [Jennifer Lopez.](http://9gag.com/gag/aZZODeQ)<!-- MEMES:END -->
 
 --- 
 
