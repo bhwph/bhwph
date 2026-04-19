@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [EU Age Verification has 0 exploits 100% secure, what could go wrong?](http://9gag.com/gag/aXP6LwP)
- - 😝 [But she&#39;s cute...](http://9gag.com/gag/aZZOZYn)
- - 👉 [Just UK police things](http://9gag.com/gag/azxp5Ap)<!-- MEMES:END -->
+ - 6️⃣ [Power trip of female cop prevents dad from seeing his daughters](http://9gag.com/gag/adBDvmM)
+ - 😝 [Brutal](http://9gag.com/gag/amo4oG9)
+ - 👉 [Just hanging around](http://9gag.com/gag/aAyzQOR)<!-- MEMES:END -->
 
 --- 
 
