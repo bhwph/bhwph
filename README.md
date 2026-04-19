@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is This True ?](http://9gag.com/gag/a2v6MDD)
- - 😝 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)
- - 👉 [Jennifer Lopez.](http://9gag.com/gag/aZZODeQ)<!-- MEMES:END -->
+ - 6️⃣ [EU Age Verification has 0 exploits 100% secure, what could go wrong?](http://9gag.com/gag/aXP6LwP)
+ - 😝 [But she&#39;s cute...](http://9gag.com/gag/aZZOZYn)
+ - 👉 [Just UK police things](http://9gag.com/gag/azxp5Ap)<!-- MEMES:END -->
 
 --- 
 
