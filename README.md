@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Pokopia Bulbasaur&#39;s jump rope contest event guide](https://www.polygon.com/pokemon-pokopia-jump-rope-contest-event-bulbasaur/)
- - [&#39;Are monitors anti-inflation?&#39;: AOC argues monitors are a better upgrade than graphics cards or memory right now, which seems like the kind of thing a monitor manufacturer would say](https://www.pcgamer.com/hardware/gaming-monitors/are-monitors-anti-inflation-aoc-argues-monitors-are-a-better-upgrade-than-graphics-cards-or-memory-right-now-which-seems-like-the-kind-of-thing-a-monitor-manufacturer-would-say/)
- - [Microsoft doesn&#39;t know what it&#39;s going to do with Xbox Game Pass](https://www.polygon.com/xbox-game-pass-future-unknown/)<!-- GAME:END -->
+ - [Almost 28 years later, the mystery of what&#39;s under women&#39;s skirts in Elder Scrolls spin-off Redguard has finally been solved](https://www.pcgamer.com/games/the-elder-scrolls/almost-28-years-later-the-mystery-of-whats-under-womens-skirts-in-elder-scrolls-spin-off-redguard-has-finally-been-solved/)
+ - [Owlcat reveals two new 40K companions, one for Rogue Trader and one for the upcoming Dark Heresy](https://www.pcgamer.com/games/rpg/owlcat-reveals-two-new-40k-companions-one-for-rogue-trader-and-one-for-the-upcoming-dark-heresy/)
+ - [Pokémon Pokopia Bulbasaur&#39;s jump rope contest event guide](https://www.polygon.com/pokemon-pokopia-jump-rope-contest-event-bulbasaur/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
