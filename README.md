@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Premier League Soccer: Stream Chelsea vs. Man United From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-chelsea-vs-man-united-from-anywhere-live/)
- - [Cheap stuff that doesn’t suck, take 3](https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers)
- - [ICE monitoring app takedowns violated the First Amendment](https://appleinsider.com/articles/26/04/18/ice-monitoring-app-takedowns-violated-the-first-amendment?utm_source=rss)<!-- TECH:END -->
+ - [A US judge grants an injunction to makers of the banned &quot;ICE Sightings - Chicagoland&quot; Facebook group and Eyes Up mobile app, who say DHS and DOJ violated the 1A &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/260418/p11#a260418p11)
+ - [An attacker targeting Kelp DAO&#39;s LayerZero-powered cross-chain bridge, appears to have drained ~$292M worth of rsETH before Kelp paused all rsETH contracts &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260418/p10#a260418p10)
+ - [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
