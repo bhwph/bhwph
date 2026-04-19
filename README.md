@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [BAFTA pulls game trailer over &#39;themes that may be a trigger&#39; even after developer revision](https://www.pcgamer.com/games/bafta-pulls-game-trailer-over-themes-that-may-be-a-trigger-even-after-developer-revision/)
- - [5 anti-AI sci-fi movies Tubi’s new chatbot would never recommend you](https://www.polygon.com/tubi-ai-chatbot-best-sci-fi-movies/)
- - [The Pitt: The Video Game parody will brighten up your weekend](https://www.polygon.com/the-pitt-the-video-game-parody/)<!-- GAME:END -->
+ - [Pokémon Pokopia Bulbasaur&#39;s jump rope contest event guide](https://www.polygon.com/pokemon-pokopia-jump-rope-contest-event-bulbasaur/)
+ - [&#39;Are monitors anti-inflation?&#39;: AOC argues monitors are a better upgrade than graphics cards or memory right now, which seems like the kind of thing a monitor manufacturer would say](https://www.pcgamer.com/hardware/gaming-monitors/are-monitors-anti-inflation-aoc-argues-monitors-are-a-better-upgrade-than-graphics-cards-or-memory-right-now-which-seems-like-the-kind-of-thing-a-monitor-manufacturer-would-say/)
+ - [Microsoft doesn&#39;t know what it&#39;s going to do with Xbox Game Pass](https://www.polygon.com/xbox-game-pass-future-unknown/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
