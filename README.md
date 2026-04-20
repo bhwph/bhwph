@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Power trip of female cop prevents dad from seeing his daughters](http://9gag.com/gag/adBDvmM)
- - 😝 [Brutal](http://9gag.com/gag/amo4oG9)
- - 👉 [Just hanging around](http://9gag.com/gag/aAyzQOR)<!-- MEMES:END -->
+ - 6️⃣ [If it works , it works](http://9gag.com/gag/aLn7zOW)
+ - 😝 [Everyone would](http://9gag.com/gag/a4PO686)
+ - 👉 [Otter pups help tidy up at closing time and get ice cubes as a reward](http://9gag.com/gag/amo412d)<!-- MEMES:END -->
 
 --- 
 
