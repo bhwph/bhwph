@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wheelchair guy wanted to create a new wheelchair friend.](http://9gag.com/gag/a9ygvdZ)
- - 😝 [Power trip of female cop prevents dad from seeing his daughters](http://9gag.com/gag/adBDvmM)
- - 👉 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)<!-- MEMES:END -->
+ - 6️⃣ [Save the trees](http://9gag.com/gag/apRZDd8)
+ - 😝 [Wheelchair guy wanted to create a new wheelchair friend.](http://9gag.com/gag/a9ygvdZ)
+ - 👉 [No antigravity after all](http://9gag.com/gag/a0eyVdL)<!-- MEMES:END -->
 
 --- 
 
