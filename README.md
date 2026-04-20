@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If it works , it works](http://9gag.com/gag/aLn7zOW)
- - 😝 [Everyone would](http://9gag.com/gag/a4PO686)
- - 👉 [Otter pups help tidy up at closing time and get ice cubes as a reward](http://9gag.com/gag/amo412d)<!-- MEMES:END -->
+ - 6️⃣ [Wheelchair guy wanted to create a new wheelchair friend.](http://9gag.com/gag/a9ygvdZ)
+ - 😝 [Power trip of female cop prevents dad from seeing his daughters](http://9gag.com/gag/adBDvmM)
+ - 👉 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)<!-- MEMES:END -->
 
 --- 
 
