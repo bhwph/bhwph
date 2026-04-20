@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Hybrid Mattresses for Couples, Back Pain, and More &lpar;2026&rpar;](https://www.wired.com/gallery/best-hybrid-mattresses/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 20 #778](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-20-778/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 20, #1044](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-20-1044/)<!-- TECH:END -->
+ - [WhatsApp says it is testing a new subscription called WhatsApp Plus, which includes features like expanded pinned chats, custom lists, and new chat themes &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260420/p17#a260420p17)
+ - [Moonshot introduces Kimi K2.6, an open-weight model that it says shows strong improvements in long-horizon coding tasks, available under a modified MIT License &lpar;Kimi AI&rpar;](http://www.techmeme.com/260420/p16#a260420p16)
+ - [This week’s T-Mobile Tuesday actually has a few decent extras](https://www.androidauthority.com/two-offers-tmobile-tuesday-3659072/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
