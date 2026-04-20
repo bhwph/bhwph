@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac Studio, touchscreen MacBook Pro delayed by memory shortages](https://appleinsider.com/articles/26/04/19/mac-studio-touchscreen-macbook-pro-delayed-by-memory-shortages?utm_source=rss)
- - [Sources: the glowing &quot;26&quot; in Apple&#39;s WWDC invite is teasing a revamped Siri, memory shortages may push Mac Studio and touch MacBook Pro launches by a few months &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260419/p10#a260419p10)
- - [WWDC 2026&#39;s focus will be on iOS 27&#39;s Siri overhaul](https://appleinsider.com/articles/26/04/19/wwdc-2026s-focus-will-be-on-ios-27s-siri-overhaul?utm_source=rss)<!-- TECH:END -->
+ - [Match Group CEO Spencer Rascoff says growing women&#39;s share on Tinder is his &quot;primary focus&quot; to stem user declines; Sensor Tower says 75% of Tinder users are men &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260419/p15#a260419p15)
+ - [Fermi CEO Toby Neugebauer is leaving the company, as the data center developer faces issues in securing an anchor tenant and construction delays &lpar;Amy Harder/Axios&rpar;](http://www.techmeme.com/260419/p14#a260419p14)
+ - [Blue Origin successfully reused its New Glenn rocket](https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
