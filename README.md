@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Even AI knows what&#39;s up](http://9gag.com/gag/amo4696)
- - 😝 [Remember the rock and Oprah on the Hawaii fires? Her alone could swipe her card and all the damage would have been covered and she wouldn\u2019t feel it.](http://9gag.com/gag/a7oRePm)
- - 👉 [You can patch systems. But you cannot patch hope.](http://9gag.com/gag/aAyzK7o)<!-- MEMES:END -->
+ - 6️⃣ [No antigravity after all](http://9gag.com/gag/a0eyVdL)
+ - 😝 [A Chinese streamer\u2019s beauty filter crashed, she lost 140,000 subscribers in a minute.](http://9gag.com/gag/aXP6N0v)
+ - 👉 [Its like a rite of passage, or something .](http://9gag.com/gag/a87x6N3)<!-- MEMES:END -->
 
 --- 
 
