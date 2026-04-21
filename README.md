@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Almost 28 years later, the mystery of what&#39;s under women&#39;s skirts in Elder Scrolls spin-off Redguard has finally been solved](https://www.pcgamer.com/games/the-elder-scrolls/almost-28-years-later-the-mystery-of-whats-under-womens-skirts-in-elder-scrolls-spin-off-redguard-has-finally-been-solved/)
- - [Owlcat reveals two new 40K companions, one for Rogue Trader and one for the upcoming Dark Heresy](https://www.pcgamer.com/games/rpg/owlcat-reveals-two-new-40k-companions-one-for-rogue-trader-and-one-for-the-upcoming-dark-heresy/)
- - [Pokémon Pokopia Bulbasaur&#39;s jump rope contest event guide](https://www.polygon.com/pokemon-pokopia-jump-rope-contest-event-bulbasaur/)<!-- GAME:END -->
+ - [Windrose factions: Recommendations for improving your reputation with the Smugglers, Buccaneers, Brethren, and People of Tortuga](https://www.pcgamer.com/games/survival-crafting/windrose-factions/)
+ - [After 15 years and 323 hours, I&#39;ve finally beaten Fallout: New Vegas, and this game doesn&#39;t need mods as much as you think it does](https://www.pcgamer.com/games/fallout/after-15-years-and-323-hours-ive-finally-beaten-fallout-new-vegas-and-this-game-doesnt-need-mods-as-much-as-you-think-it-does/)
+ - [Kit Connor&#39;s Elden Ring casting makes perfect sense if you&#39;ve seen his underrated war movie](https://www.polygon.com/kit-connors-elden-ring-casting-makes-perfect-sense-if-youve-seen-his-underrated-war-movie/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
