@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp says it is testing a new subscription called WhatsApp Plus, which includes features like expanded pinned chats, custom lists, and new chat themes &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260420/p17#a260420p17)
- - [Moonshot introduces Kimi K2.6, an open-weight model that it says shows strong improvements in long-horizon coding tasks, available under a modified MIT License &lpar;Kimi AI&rpar;](http://www.techmeme.com/260420/p16#a260420p16)
- - [This week’s T-Mobile Tuesday actually has a few decent extras](https://www.androidauthority.com/two-offers-tmobile-tuesday-3659072/)<!-- TECH:END -->
+ - [Sources: Jeff Bezos&#39; Project Prometheus is close to a $10B fundraising deal, which includes an initial $6.2B raise in November, at a $38B post-money valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260420/p34#a260420p34)
+ - [In an email to employees, Johny Srouji details newly combined hardware engineering and hardware technologies division, organized across five key areas &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260420/p33#a260420p33)
+ - [Apple CEO Tim Cook Steps Down, John Ternus Replaces Him](https://www.cnet.com/news-live/tim-cook-steps-down-as-apple-ceo-replaced-john-ternus/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
