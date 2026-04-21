@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Teams is trying to fix accidental hand-raising](https://www.theverge.com/tech/915586/microsoft-teams-accidental-hand-raising-fix)
- - [Ikea and Samsung promise glitch-free SmartThings integration](https://www.theverge.com/tech/915560/ikea-and-samsung-promise-glitch-free-smartthings-integration)
- - [The Galaxy S26’s best features are already landing on these older Samsung phones](https://www.androidauthority.com/galaxy-s26-ai-features-coming-to-more-phones-3659317/)<!-- TECH:END -->
+ - [Sources: Kalshi plans to offer crypto trading in the US, offering perpetual futures, putting it in competition with exchanges like Coinbase &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/260421/p23#a260421p23)
+ - [Florida AG James Uthmeier issues criminal subpoenas to OpenAI to investigate if ChatGPT&#39;s role in planning a mass shooting constitutes criminal liability &lpar;Alex Ebert/Bloomberg Law&rpar;](http://www.techmeme.com/260421/p22#a260421p22)
+ - [The nonprofit Consumer Federation of America sues Meta, accusing it of misleading consumers about its efforts to combat scam ads on Facebook and Instagram &lpar;Maddy Varner/Wired&rpar;](http://www.techmeme.com/260421/p21#a260421p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
