@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Kalshi plans to offer crypto trading in the US, offering perpetual futures, putting it in competition with exchanges like Coinbase &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/260421/p23#a260421p23)
- - [Florida AG James Uthmeier issues criminal subpoenas to OpenAI to investigate if ChatGPT&#39;s role in planning a mass shooting constitutes criminal liability &lpar;Alex Ebert/Bloomberg Law&rpar;](http://www.techmeme.com/260421/p22#a260421p22)
- - [The nonprofit Consumer Federation of America sues Meta, accusing it of misleading consumers about its efforts to combat scam ads on Facebook and Instagram &lpar;Maddy Varner/Wired&rpar;](http://www.techmeme.com/260421/p21#a260421p21)<!-- TECH:END -->
+ - [Report: New Apple CEO&#39;s biggest challenge will be retiring leadership &amp; regular churn](https://appleinsider.com/articles/26/04/22/report-new-apple-ceos-biggest-challenge-will-be-retiring-leadership-regular-churn?utm_source=rss)
+ - [Filing: SpaceX tells investors that orbital AI data centers use &quot;unproven technologies&quot; and may not achieve &quot;commercial viability&quot; due to space-related risks &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260421/p55#a260421p55)
+ - [Apple CEO Tim Cook Steps Down, John Ternus Replaces Him](https://www.cnet.com/news-live/tim-cook-steps-down-as-apple-ceo-replaced-john-ternus/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
