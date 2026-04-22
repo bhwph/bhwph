@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus’s first attempt at a gaming Android phone is a complete mess](https://www.androidauthority.com/oneplus-ace-6-ultra-gaming-phone-total-mess-3659601/)
- - [Lenovo’s crazy powerful Android gaming tablet is finally ready for launch](https://www.androidauthority.com/lenovo-legion-tab-gen-5-coming-soon-3659763/)
- - [Google Wallet now lets you track flights from the lock screen, here’s what it looks like](https://www.androidauthority.com/google-wallet-flight-live-updates-3659749/)<!-- TECH:END -->
+ - [Microsoft teases mysterious Discord and Xbox Game Pass partnership](https://www.theverge.com/news/916787/microsoft-discord-xbox-game-pass-partnership)
+ - [Google Meet will take AI notes for in-person meetings too](https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings)
+ - [LinkedIn names COO Daniel Shapero as its new CEO, succeeding Ryan Roslansky, who will retain his position as EVP at Microsoft &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260422/p34#a260422p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
