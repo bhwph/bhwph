@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: New Apple CEO&#39;s biggest challenge will be retiring leadership &amp; regular churn](https://appleinsider.com/articles/26/04/22/report-new-apple-ceos-biggest-challenge-will-be-retiring-leadership-regular-churn?utm_source=rss)
- - [Filing: SpaceX tells investors that orbital AI data centers use &quot;unproven technologies&quot; and may not achieve &quot;commercial viability&quot; due to space-related risks &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260421/p55#a260421p55)
- - [Apple CEO Tim Cook Steps Down, John Ternus Replaces Him](https://www.cnet.com/news-live/tim-cook-steps-down-as-apple-ceo-replaced-john-ternus/)<!-- TECH:END -->
+ - [OnePlus’s first attempt at a gaming Android phone is a complete mess](https://www.androidauthority.com/oneplus-ace-6-ultra-gaming-phone-total-mess-3659601/)
+ - [Lenovo’s crazy powerful Android gaming tablet is finally ready for launch](https://www.androidauthority.com/lenovo-legion-tab-gen-5-coming-soon-3659763/)
+ - [Google Wallet now lets you track flights from the lock screen, here’s what it looks like](https://www.androidauthority.com/google-wallet-flight-live-updates-3659749/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
