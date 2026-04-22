@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Darwin Approves](http://9gag.com/gag/a4PONbd)
- - 😝 [Whoao whoa wupppp...](http://9gag.com/gag/ajPeBEw)
- - 👉 [True family never leaves your side](http://9gag.com/gag/aLn7eYx)<!-- MEMES:END -->
+ - 6️⃣ [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
+ - 😝 [Ana de armas and Sydney Sweeney](http://9gag.com/gag/axyqvrn)
+ - 👉 [Darwin Approves](http://9gag.com/gag/a4PONbd)<!-- MEMES:END -->
 
 --- 
 
