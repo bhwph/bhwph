@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
- - 😝 [Ana de armas and Sydney Sweeney](http://9gag.com/gag/axyqvrn)
- - 👉 [Darwin Approves](http://9gag.com/gag/a4PONbd)<!-- MEMES:END -->
+ - 6️⃣ [Forever Opera Browser](http://9gag.com/gag/aRBqMm2)
+ - 😝 [Law &amp; Order SVU S01 E02](http://9gag.com/gag/aXP67pg)
+ - 👉 [In Romania, passengers can pay for a bus ticket by doing 20 squats. A device counts the squats and then issues a ticket valid for a trip on the transport network. What do you think of this idea?](http://9gag.com/gag/abAnx0v)<!-- MEMES:END -->
 
 --- 
 
