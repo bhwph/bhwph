@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [STMicro reports Q1 revenue of $3.10B, above $3.04B est., $171M operating income, above $165.8 est., and forecasts $3.45B revenue for Q2, above $3.21B est. &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/260423/p11#a260423p11)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 23 #781](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-23-781/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 23, #577](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-23-577/)<!-- TECH:END -->
+ - [Keychron’s customizable V1 mechanical keyboard is back down to $45](https://www.theverge.com/gadgets/916757/keychron-v1-skullcandy-method-360-anc-deal-sale)
+ - [A look at Microsoft&#39;s recent wave of executive departures, as it struggles to retain talent and changes its annual rewards and performance programs in response &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260423/p44#a260423p44)
+ - [Apple is reportedly working on six new product categories](https://appleinsider.com/articles/26/04/23/apple-is-reportedly-working-on-six-new-product-categories?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
