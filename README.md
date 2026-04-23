@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to invest AU$25B by 2029 to expand Azure AI supercomputing and cloud infrastructure in Australia, its largest commitment to the country &lpar;Ainslie Chandler/Bloomberg&rpar;](http://www.techmeme.com/260422/p51#a260422p51)
- - [The Iranian women Trump &amp;#8216;saved&amp;#8217; from execution are simultaneously real and AI-manipulated](https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati)
- - [This new limited-edition Kindle case looks perfect for sci-fi fans](https://www.androidauthority.com/amazon-kindle-project-hail-mary-case-3660134/)<!-- TECH:END -->
+ - [STMicro reports Q1 revenue of $3.10B, above $3.04B est., $171M operating income, above $165.8 est., and forecasts $3.45B revenue for Q2, above $3.21B est. &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/260423/p11#a260423p11)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 23 #781](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-23-781/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 23, #577](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-23-577/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
