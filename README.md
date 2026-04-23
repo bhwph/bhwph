@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [These People Can Vote BTW .](http://9gag.com/gag/ae98xMW)
- - 😝 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
- - 👉 [Who&#39;s the happiest?](http://9gag.com/gag/aGy4MGX)<!-- MEMES:END -->
+ - 6️⃣ [Reflexes like a sloth.](http://9gag.com/gag/amo4xE6)
+ - 😝 [Mystique](http://9gag.com/gag/aByBXyQ)
+ - 👉 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)<!-- MEMES:END -->
 
 --- 
 
