@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft teases mysterious Discord and Xbox Game Pass partnership](https://www.theverge.com/news/916787/microsoft-discord-xbox-game-pass-partnership)
- - [Google Meet will take AI notes for in-person meetings too](https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings)
- - [LinkedIn names COO Daniel Shapero as its new CEO, succeeding Ryan Roslansky, who will retain his position as EVP at Microsoft &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260422/p34#a260422p34)<!-- TECH:END -->
+ - [Microsoft plans to invest AU$25B by 2029 to expand Azure AI supercomputing and cloud infrastructure in Australia, its largest commitment to the country &lpar;Ainslie Chandler/Bloomberg&rpar;](http://www.techmeme.com/260422/p51#a260422p51)
+ - [The Iranian women Trump &amp;#8216;saved&amp;#8217; from execution are simultaneously real and AI-manipulated](https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati)
+ - [This new limited-edition Kindle case looks perfect for sci-fi fans](https://www.androidauthority.com/amazon-kindle-project-hail-mary-case-3660134/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
