@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s the end of the road for this standout Google TV box brand](https://www.androidauthority.com/google-tv-box-brand-bankrupt-3660614/)
- - [Amazon’s new Ethernet adapter highlights a major Fire TV Stick limitation](https://www.androidauthority.com/fire-tv-stick-ethernet-adapter-3660637/)
- - [Google confirms side-by-side ads are here for YouTube mobile](https://www.androidauthority.com/youtube-livestream-side-by-side-ads-mobile-3660622/)<!-- TECH:END -->
+ - [We love this 2K indoor security camera, and it just hits its best price yet at $32](https://www.androidauthority.com/tp-link-tapo-2k-qhd-camera-deal-3660830/)
+ - [Xreal’s best AR glasses are $599 for good now](https://www.theverge.com/gadgets/918169/xreal-one-pro-ar-glasses-price-cut-deal-sale)
+ - [Apple&#39;s entry-level iPhone 18 rumored to get 50% more RAM](https://appleinsider.com/articles/26/04/24/apples-entry-level-iphone-18-rumored-to-get-50-more-ram?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
