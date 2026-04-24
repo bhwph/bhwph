@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Absolute legends for this move](http://9gag.com/gag/a87xwAd)
- - 😝 [Reflexes like a sloth.](http://9gag.com/gag/amo4xE6)
- - 👉 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)<!-- MEMES:END -->
+ - 😝 [Mind-blowing detail in this marble handkerchief](http://9gag.com/gag/a6ZYj3q)
+ - 👉 [Think tylor think](http://9gag.com/gag/aoyQYEx)<!-- MEMES:END -->
 
 --- 
 
