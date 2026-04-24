@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Reflexes like a sloth.](http://9gag.com/gag/amo4xE6)
- - 😝 [Mystique](http://9gag.com/gag/aByBXyQ)
- - 👉 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)<!-- MEMES:END -->
+ - 6️⃣ [Waking up with golden shower](http://9gag.com/gag/a9ygmXm)
+ - 😝 [Bri&#39;ish airsoft](http://9gag.com/gag/ae98m4v)
+ - 👉 [The police was looking for her based on her instagram...but she used some moderate filters](http://9gag.com/gag/a87xeQd)<!-- MEMES:END -->
 
 --- 
 
