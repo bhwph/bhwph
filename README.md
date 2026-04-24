@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore is slowly emerging as a neutral ground for AI companies, offering an alternative place to build without worrying about US or Chinese regulations &lpar;Reuters&rpar;](http://www.techmeme.com/260423/p62#a260423p62)
- - [Sources: AI coding firm Cognition is in early talks to raise hundreds of millions of dollars at a $25B valuation, up from $10.2B announced in September 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260423/p61#a260423p61)
- - [Meta Adds New Live Chat Feature to Threads for NBA Playoffs, Major Events](https://www.cnet.com/news/social-media/meta-threads-launches-live-chats/)<!-- TECH:END -->
+ - [It’s the end of the road for this standout Google TV box brand](https://www.androidauthority.com/google-tv-box-brand-bankrupt-3660614/)
+ - [Amazon’s new Ethernet adapter highlights a major Fire TV Stick limitation](https://www.androidauthority.com/fire-tv-stick-ethernet-adapter-3660637/)
+ - [Google confirms side-by-side ads are here for YouTube mobile](https://www.androidauthority.com/youtube-livestream-side-by-side-ads-mobile-3660622/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
