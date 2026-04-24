@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Waking up with golden shower](http://9gag.com/gag/a9ygmXm)
- - 😝 [Bri&#39;ish airsoft](http://9gag.com/gag/ae98m4v)
- - 👉 [The police was looking for her based on her instagram...but she used some moderate filters](http://9gag.com/gag/a87xeQd)<!-- MEMES:END -->
+ - 6️⃣ [Absolute legends for this move](http://9gag.com/gag/a87xwAd)
+ - 😝 [Reflexes like a sloth.](http://9gag.com/gag/amo4xE6)
+ - 👉 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)<!-- MEMES:END -->
 
 --- 
 
