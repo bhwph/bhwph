@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keychron’s customizable V1 mechanical keyboard is back down to $45](https://www.theverge.com/gadgets/916757/keychron-v1-skullcandy-method-360-anc-deal-sale)
- - [A look at Microsoft&#39;s recent wave of executive departures, as it struggles to retain talent and changes its annual rewards and performance programs in response &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260423/p44#a260423p44)
- - [Apple is reportedly working on six new product categories](https://appleinsider.com/articles/26/04/23/apple-is-reportedly-working-on-six-new-product-categories?utm_source=rss)<!-- TECH:END -->
+ - [Singapore is slowly emerging as a neutral ground for AI companies, offering an alternative place to build without worrying about US or Chinese regulations &lpar;Reuters&rpar;](http://www.techmeme.com/260423/p62#a260423p62)
+ - [Sources: AI coding firm Cognition is in early talks to raise hundreds of millions of dollars at a $25B valuation, up from $10.2B announced in September 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260423/p61#a260423p61)
+ - [Meta Adds New Live Chat Feature to Threads for NBA Playoffs, Major Events](https://www.cnet.com/news/social-media/meta-threads-launches-live-chats/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
