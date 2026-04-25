@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We love this 2K indoor security camera, and it just hits its best price yet at $32](https://www.androidauthority.com/tp-link-tapo-2k-qhd-camera-deal-3660830/)
- - [Xreal’s best AR glasses are $599 for good now](https://www.theverge.com/gadgets/918169/xreal-one-pro-ar-glasses-price-cut-deal-sale)
- - [Apple&#39;s entry-level iPhone 18 rumored to get 50% more RAM](https://appleinsider.com/articles/26/04/24/apples-entry-level-iphone-18-rumored-to-get-50-more-ram?utm_source=rss)<!-- TECH:END -->
+ - [Instacart co-founder Apoorva Mehta launches Abundance, a hedge fund that aims to have AI agents run the entire fund, with $100M in seed funding &lpar;Hema Parmar/Bloomberg&rpar;](http://www.techmeme.com/260424/p46#a260424p46)
+ - [Europe&#39;s dependence on US companies in tech and finance is in no small part its own fault after overregulation left European businesses too weak to compete &lpar;The Economist&rpar;](http://www.techmeme.com/260424/p45#a260424p45)
+ - [Samsung’s Galaxy Z Fold 8 Wide might use a folding display with a familiar aspect ratio](https://www.androidauthority.com/galaxy-z-fold-wide-aspect-ratio-3660904/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
