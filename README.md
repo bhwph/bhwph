@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Absolute legends for this move](http://9gag.com/gag/a87xwAd)
- - 😝 [Mind-blowing detail in this marble handkerchief](http://9gag.com/gag/a6ZYj3q)
- - 👉 [Think tylor think](http://9gag.com/gag/aoyQYEx)<!-- MEMES:END -->
+ - 6️⃣ [Zero control skills](http://9gag.com/gag/aAyzv4d)
+ - 😝 [No need for interpreter](http://9gag.com/gag/amo4Vqj)
+ - 👉 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)<!-- MEMES:END -->
 
 --- 
 
