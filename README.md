@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An overview of Elon Musk&#39;s $134B lawsuit against Sam Altman, scheduled to begin on April 27, accusing him of reneging on a vow to keep OpenAI nonprofit &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260425/p7#a260425p7)
- - [Intel&#39;s upbeat outlook suggests CEO Lip-Bu Tan is making progress on a turnaround, having strengthened the company&#39;s balance sheet and now improving operations &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260425/p6#a260425p6)
- - [Report: Samsung co-CEO TM Roh told company leaders that the mobile division MX could report its first ever annual loss this year, amid RAM and storage shortages &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/260425/p5#a260425p5)<!-- TECH:END -->
+ - [Researchers say we’re talking less than ever](https://www.theverge.com/science/918753/researchers-talking-less)
+ - [Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable](https://www.theverge.com/gadgets/918410/sharge-icemag-3-qi2-usb-c-wireless-power-bank-battery-deal-sale)
+ - [How the Vatican is moving faster than most legacy institutions to shape AI rules and guardrails, with an AI framework, banning use of AI to write homilies, more &lpar;Russell Contreras/Axios&rpar;](http://www.techmeme.com/260425/p10#a260425p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
