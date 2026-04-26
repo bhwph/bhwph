@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $200 on 15-inch MacBook Air M5 with more RAM, storage](https://appleinsider.com/articles/26/04/26/save-200-on-15-inch-macbook-air-m5-with-more-ram-storage?utm_source=rss)
- - [An interview with Xbox CEO Asha Sharma and EVP Matt Booty on the &quot;Return of Xbox&quot; memo, making Xbox Series X and S the &quot;first-class experience again&quot;, and more &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/260426/p2#a260426p2)
- - [Epoch AI: Google controls ~25% of global AI compute, with ~3.8M TPUs and 1.3M GPUs; Google Cloud CEO Thomas Kurian says demand and revenue justify the spend &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/260426/p1#a260426p1)<!-- TECH:END -->
+ - [Trump turns the WHCD shooting into a pitch for the White House ballroom](https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom)
+ - [Sources: Tokyo-based humanoid robotics startup Genki Robotics, co-founded by Andy Rubin, raised a Series A at a ~$1B valuation; it raised a ~$50M seed in 2025 &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/260426/p5#a260426p5)
+ - [Tomora’s Come Closer is an ecstatic love letter to 90s dance music](https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
