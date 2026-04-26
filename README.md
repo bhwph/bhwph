@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers say we’re talking less than ever](https://www.theverge.com/science/918753/researchers-talking-less)
- - [Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable](https://www.theverge.com/gadgets/918410/sharge-icemag-3-qi2-usb-c-wireless-power-bank-battery-deal-sale)
- - [How the Vatican is moving faster than most legacy institutions to shape AI rules and guardrails, with an AI framework, banning use of AI to write homilies, more &lpar;Russell Contreras/Axios&rpar;](http://www.techmeme.com/260425/p10#a260425p10)<!-- TECH:END -->
+ - [33% of S&amp;P 500 companies provided security perks for execs in 2025: Jensen Huang&#39;s security cost rose from $690K in 2023 to $3.5M in 2025, Zuckerberg spent $22M &lpar;Eli Rosenberg/The Information&rpar;](http://www.techmeme.com/260425/p15#a260425p15)
+ - [Warning Signs That Your Earbuds Are Actually Hurting Your Ears](https://www.cnet.com/tech/mobile/warnings-signs-earbuds-hurting-ears-audiologists/)
+ - [A profile of Strider, an intelligence firm that leverages agentic AI and public records to help the US Air Force, NATO, and others identify foreign state actors &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/260425/p14#a260425p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
