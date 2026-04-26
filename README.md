@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Don&#39;t put your dick in crazy, yet you know you can fix her :/](http://9gag.com/gag/amo4pXo)
- - 😝 [Knockers honkers crazy bonkers](http://9gag.com/gag/aXP6KZ6)
+ - 6️⃣ [The power of music and a united crowd](http://9gag.com/gag/adBDoWZ)
+ - 😝 [Just two kids want to play PS 1 when the parents away](http://9gag.com/gag/aGy4bqX)
  - 👉 [We Need More DEI In The Workplace.](http://9gag.com/gag/aMVMqwM)<!-- MEMES:END -->
 
 --- 
