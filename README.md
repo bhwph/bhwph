@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Crazy tshirt](http://9gag.com/gag/aqyoDGM)
- - 😝 [Reposting](http://9gag.com/gag/an7PG3n)
+ - 6️⃣ [Mom&#39;s genes did not even try](http://9gag.com/gag/axyqmmW)
+ - 😝 [Dinner is served..](http://9gag.com/gag/aO8LGyE)
  - 👉 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)<!-- MEMES:END -->
 
 --- 
