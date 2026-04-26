@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The power of music and a united crowd](http://9gag.com/gag/adBDoWZ)
- - 😝 [Just two kids want to play PS 1 when the parents away](http://9gag.com/gag/aGy4bqX)
- - 👉 [We Need More DEI In The Workplace.](http://9gag.com/gag/aMVMqwM)<!-- MEMES:END -->
+ - 6️⃣ [Crazy tshirt](http://9gag.com/gag/aqyoDGM)
+ - 😝 [Reposting](http://9gag.com/gag/an7PG3n)
+ - 👉 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)<!-- MEMES:END -->
 
 --- 
 
