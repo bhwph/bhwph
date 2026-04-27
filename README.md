@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mom&#39;s genes did not even try](http://9gag.com/gag/axyqmmW)
- - 😝 [Dinner is served..](http://9gag.com/gag/aO8LGyE)
- - 👉 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)<!-- MEMES:END -->
+ - 6️⃣ [Nice Ankylosaurus you got there](http://9gag.com/gag/a9ygVyL)
+ - 😝 [Its bald to assume I have 12$](http://9gag.com/gag/ae98WPm)
+ - 👉 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)<!-- MEMES:END -->
 
 --- 
 
