@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If buying isn&#39;t owning, PIRACY ISNT STEALING](http://9gag.com/gag/ayNjPvV)
+ - 6️⃣ [V.A.T.S](http://9gag.com/gag/a5Q0xOG)
  - 😝 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)
- - 👉 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)<!-- MEMES:END -->
+ - 👉 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)<!-- MEMES:END -->
 
 --- 
 
