@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: as of late 2025, 79 of 500 tracked software companies including HubSpot, Adobe, and Salesforce adopted usage-based AI fees, more than doubling on 2024 &lpar;The Information&rpar;](http://www.techmeme.com/260427/p18#a260427p18)
- - [I’m switching carriers after just one year to save $660 — here’s how](https://www.androidauthority.com/visible-vs-spectrum-mobile-switched-saved-660-dollars-how-3659575/)
- - [Survey says YouTube Music’s popularity is soaring, but some paying readers still shun it](https://www.androidauthority.com/use-youtube-music-pay-for-it-poll-results-3661021/)<!-- TECH:END -->
+ - [Fourth iOS 26.5, macOS Tahoe 26.5 developer betas arrive for testing](https://appleinsider.com/articles/26/04/27/fourth-ios-265-macos-tahoe-265-developer-betas-arrive-for-testing?utm_source=rss)
+ - [Conspiracy theories are swirling about the White House Correspondents’ Dinner shooting](https://www.theverge.com/news/919244/whcd-shooting-trump-social-media-conspiracy-theories)
+ - [A Brain Implant for Depression Is About to Be Tested in Humans](https://www.wired.com/story/a-brain-implant-for-depression-is-about-to-be-tested-in-humans/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
