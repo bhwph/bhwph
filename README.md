@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nice Ankylosaurus you got there](http://9gag.com/gag/a9ygVyL)
- - 😝 [Its bald to assume I have 12$](http://9gag.com/gag/ae98WPm)
- - 👉 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)<!-- MEMES:END -->
+ - 6️⃣ [If buying isn&#39;t owning, PIRACY ISNT STEALING](http://9gag.com/gag/ayNjPvV)
+ - 😝 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)
+ - 👉 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)<!-- MEMES:END -->
 
 --- 
 
