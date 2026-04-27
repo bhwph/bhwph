@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump turns the WHCD shooting into a pitch for the White House ballroom](https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom)
- - [Sources: Tokyo-based humanoid robotics startup Genki Robotics, co-founded by Andy Rubin, raised a Series A at a ~$1B valuation; it raised a ~$50M seed in 2025 &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/260426/p5#a260426p5)
- - [Tomora’s Come Closer is an ecstatic love letter to 90s dance music](https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music)<!-- TECH:END -->
+ - [Amateur solved a 60-year-old Erdős problem with a single GPT-5.4 Pro prompt; Terence Tao says it&#39;s a nice achievement, but its long-term significance is unclear &lpar;Joseph Howlett/Scientific American&rpar;](http://www.techmeme.com/260426/p10#a260426p10)
+ - [Cyera agrees to acquire Ryft, an Israeli startup building automated data access and governance tools for enterprise AI deployment, sources say for $100M-$130M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260426/p9#a260426p9)
+ - [Thin Phones Head-to-Head: iPhone Air vs. Galaxy S25 Edge](https://www.cnet.com/tech/mobile/thin-phones-head-to-head-iphone-air-vs-galaxy-s25-edge/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
