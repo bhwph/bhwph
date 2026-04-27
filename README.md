@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amateur solved a 60-year-old Erdős problem with a single GPT-5.4 Pro prompt; Terence Tao says it&#39;s a nice achievement, but its long-term significance is unclear &lpar;Joseph Howlett/Scientific American&rpar;](http://www.techmeme.com/260426/p10#a260426p10)
- - [Cyera agrees to acquire Ryft, an Israeli startup building automated data access and governance tools for enterprise AI deployment, sources say for $100M-$130M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260426/p9#a260426p9)
- - [Thin Phones Head-to-Head: iPhone Air vs. Galaxy S25 Edge](https://www.cnet.com/tech/mobile/thin-phones-head-to-head-iphone-air-vs-galaxy-s25-edge/)<!-- TECH:END -->
+ - [Analysis: as of late 2025, 79 of 500 tracked software companies including HubSpot, Adobe, and Salesforce adopted usage-based AI fees, more than doubling on 2024 &lpar;The Information&rpar;](http://www.techmeme.com/260427/p18#a260427p18)
+ - [I’m switching carriers after just one year to save $660 — here’s how](https://www.androidauthority.com/visible-vs-spectrum-mobile-switched-saved-660-dollars-how-3659575/)
+ - [Survey says YouTube Music’s popularity is soaring, but some paying readers still shun it](https://www.androidauthority.com/use-youtube-music-pay-for-it-poll-results-3661021/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
