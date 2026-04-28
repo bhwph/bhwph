@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why a day with the iPhone convinced this longtime Android user not to switch](https://www.androidauthority.com/using-iphone-convinced-longtime-android-user-not-switch-3660673/)
- - [The Hottest Anti-AI Gadget Is a Cyberdeck](https://www.wired.com/story/cyberdecks-tiktok-ube-boobey-diy-computer-gadget/)
- - [Australia unveils a draft News Bargaining Incentive scheme that imposes a 2.25% levy on local revenues for platforms; Meta says the government is &quot;simply wrong&quot; &lpar;The Guardian&rpar;](http://www.techmeme.com/260428/p10#a260428p10)<!-- TECH:END -->
+ - [The best source for Google Home and Nest complaints, tips, and feedback is being erased in May](https://www.androidauthority.com/home-nest-forum-posts-removal-3661623/)
+ - [Q&amp;A with Sam Altman and AWS CEO Matt Garman about OpenAI&#39;s new partnership with AWS, Bedrock Managed Agents, Trainium chips, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260428/p34#a260428p34)
+ - [Sources: Google dropped out of a $100M Pentagon challenge to create tech for voice-controlled, autonomous drone swarms, following an internal ethics review &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260428/p33#a260428p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
