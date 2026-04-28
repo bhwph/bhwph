@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
- - 😝 [`we can try marriage counseling` , ` we can try making it work`. No thank you.](http://9gag.com/gag/aE0mQON)
- - 👉 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)<!-- MEMES:END -->
+ - 6️⃣ [Sesame oil extractor](http://9gag.com/gag/ajPe3V8)
+ - 😝 [Guess the place &lpar;Sorry for HDR&rpar;](http://9gag.com/gag/aAyzLrd)
+ - 👉 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)<!-- MEMES:END -->
 
 --- 
 
