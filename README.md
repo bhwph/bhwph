@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sesame oil extractor](http://9gag.com/gag/ajPe3V8)
- - 😝 [Guess the place &lpar;Sorry for HDR&rpar;](http://9gag.com/gag/aAyzLrd)
- - 👉 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)<!-- MEMES:END -->
+ - 6️⃣ [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)
+ - 😝 [Yomif Kejelcha everyone](http://9gag.com/gag/aAyzNZ9)
+ - 👉 [Transparent](http://9gag.com/gag/agmzprK)<!-- MEMES:END -->
 
 --- 
 
