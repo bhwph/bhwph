@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea&#39;s stock market value has surpassed the UK&#39;s, growing 45%+ this year to $4.04T after a surge in AI-linked tech stocks like Samsung and SK Hynix &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/260427/p49#a260427p49)
- - [Paris-based SquareMind, whose Swan robot uses AI for full-body dermoscopic skin imaging, raised $18M, including a previously undisclosed pre-Series A &lpar;Jim Hammerand/MassDevice&rpar;](http://www.techmeme.com/260427/p48#a260427p48)
- - [Some jurors selected in the Musk v. Altman trial expressed negative feelings about Elon Musk and AI, but assured the court they would put these concerns aside &lpar;Wired&rpar;](http://www.techmeme.com/260427/p47#a260427p47)<!-- TECH:END -->
+ - [Why a day with the iPhone convinced this longtime Android user not to switch](https://www.androidauthority.com/using-iphone-convinced-longtime-android-user-not-switch-3660673/)
+ - [The Hottest Anti-AI Gadget Is a Cyberdeck](https://www.wired.com/story/cyberdecks-tiktok-ube-boobey-diy-computer-gadget/)
+ - [Australia unveils a draft News Bargaining Incentive scheme that imposes a 2.25% levy on local revenues for platforms; Meta says the government is &quot;simply wrong&quot; &lpar;The Guardian&rpar;](http://www.techmeme.com/260428/p10#a260428p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
