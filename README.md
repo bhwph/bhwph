@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fourth iOS 26.5, macOS Tahoe 26.5 developer betas arrive for testing](https://appleinsider.com/articles/26/04/27/fourth-ios-265-macos-tahoe-265-developer-betas-arrive-for-testing?utm_source=rss)
- - [Conspiracy theories are swirling about the White House Correspondents’ Dinner shooting](https://www.theverge.com/news/919244/whcd-shooting-trump-social-media-conspiracy-theories)
- - [A Brain Implant for Depression Is About to Be Tested in Humans](https://www.wired.com/story/a-brain-implant-for-depression-is-about-to-be-tested-in-humans/)<!-- TECH:END -->
+ - [South Korea&#39;s stock market value has surpassed the UK&#39;s, growing 45%+ this year to $4.04T after a surge in AI-linked tech stocks like Samsung and SK Hynix &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/260427/p49#a260427p49)
+ - [Paris-based SquareMind, whose Swan robot uses AI for full-body dermoscopic skin imaging, raised $18M, including a previously undisclosed pre-Series A &lpar;Jim Hammerand/MassDevice&rpar;](http://www.techmeme.com/260427/p48#a260427p48)
+ - [Some jurors selected in the Musk v. Altman trial expressed negative feelings about Elon Musk and AI, but assured the court they would put these concerns aside &lpar;Wired&rpar;](http://www.techmeme.com/260427/p47#a260427p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
