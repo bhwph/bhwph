@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best source for Google Home and Nest complaints, tips, and feedback is being erased in May](https://www.androidauthority.com/home-nest-forum-posts-removal-3661623/)
- - [Q&amp;A with Sam Altman and AWS CEO Matt Garman about OpenAI&#39;s new partnership with AWS, Bedrock Managed Agents, Trainium chips, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260428/p34#a260428p34)
- - [Sources: Google dropped out of a $100M Pentagon challenge to create tech for voice-controlled, autonomous drone swarms, following an internal ethics review &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260428/p33#a260428p33)<!-- TECH:END -->
+ - [EU countries and lawmakers reach an impasse on a deal watering down the EU&#39;s AI Act due to some parties seeking exemptions for already regulated industries &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260428/p52#a260428p52)
+ - [A US judge denied Sam Bankman-Fried&#39;s request for a new trial based on what SBF called new evidence; SBF tried to withdraw his request, but the judge refused &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/260428/p51#a260428p51)
+ - [The World&#39;s Smallest Wellness Wearable, Smart Earrings, Just Launched on Kickstarter](https://www.cnet.com/tech/mobile/worlds-smallest-wellness-wearable-smart-earrings-launched-kickstarter/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
