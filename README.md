@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
- - 😝 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)
- - 👉 [I was in my early thirties when I took a stand...](http://9gag.com/gag/aRBqGOQ)<!-- MEMES:END -->
+ - 6️⃣ [I was in my early thirties when I took a stand...](http://9gag.com/gag/aRBqGOQ)
+ - 😝 [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
+ - 👉 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)<!-- MEMES:END -->
 
 --- 
 
