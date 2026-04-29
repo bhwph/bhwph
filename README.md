@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&#39;s Lee family dynasty reached a combined ~$45.5B net worth in March, up from ~$20.1B in 2025, amid the AI boom; they are now Asia&#39;s third-richest family &lpar;Bloomberg&rpar;](http://www.techmeme.com/260429/p13#a260429p13)
- - [YouTube CEO Neal Mohan says YouTube TV is getting &quot;fully customizable&quot; multiview, letting users pin up to four live streams, after a limited rollout in 2023 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260429/p12#a260429p12)
- - [YouTube TV’s custom Multiview update has some major strings attached](https://www.androidauthority.com/youtube-tv-fully-custom-multiview-rollout-3661836/)<!-- TECH:END -->
+ - [Hack your old Google Home Mini into a Home Assistant-ready offline smart speaker with this DIY kit](https://www.androidauthority.com/google-home-mini-conversion-kit-3662091/)
+ - [Visual Intelligence to be added to iOS 27 camera app as &#39;Siri Mode&#39;](https://appleinsider.com/articles/26/04/29/visual-intelligence-to-be-added-to-ios-27-camera-app-as-siri-mode?utm_source=rss)
+ - [New iPhone MagSafe removal rumor makes no sense at all](https://appleinsider.com/articles/26/04/29/new-iphone-magsafe-removal-rumor-makes-no-sense-at-all?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
