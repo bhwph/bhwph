@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)
- - 😝 [Yomif Kejelcha everyone](http://9gag.com/gag/aAyzNZ9)
- - 👉 [Transparent](http://9gag.com/gag/agmzprK)<!-- MEMES:END -->
+ - 6️⃣ [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
+ - 😝 [How politics works!](http://9gag.com/gag/azxpvDK)
+ - 👉 [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)<!-- MEMES:END -->
 
 --- 
 
