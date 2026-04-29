@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU countries and lawmakers reach an impasse on a deal watering down the EU&#39;s AI Act due to some parties seeking exemptions for already regulated industries &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260428/p52#a260428p52)
- - [A US judge denied Sam Bankman-Fried&#39;s request for a new trial based on what SBF called new evidence; SBF tried to withdraw his request, but the judge refused &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/260428/p51#a260428p51)
- - [The World&#39;s Smallest Wellness Wearable, Smart Earrings, Just Launched on Kickstarter](https://www.cnet.com/tech/mobile/worlds-smallest-wellness-wearable-smart-earrings-launched-kickstarter/)<!-- TECH:END -->
+ - [Samsung&#39;s Lee family dynasty reached a combined ~$45.5B net worth in March, up from ~$20.1B in 2025, amid the AI boom; they are now Asia&#39;s third-richest family &lpar;Bloomberg&rpar;](http://www.techmeme.com/260429/p13#a260429p13)
+ - [YouTube CEO Neal Mohan says YouTube TV is getting &quot;fully customizable&quot; multiview, letting users pin up to four live streams, after a limited rollout in 2023 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260429/p12#a260429p12)
+ - [YouTube TV’s custom Multiview update has some major strings attached](https://www.androidauthority.com/youtube-tv-fully-custom-multiview-rollout-3661836/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
