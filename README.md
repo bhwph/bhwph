@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hack your old Google Home Mini into a Home Assistant-ready offline smart speaker with this DIY kit](https://www.androidauthority.com/google-home-mini-conversion-kit-3662091/)
- - [Visual Intelligence to be added to iOS 27 camera app as &#39;Siri Mode&#39;](https://appleinsider.com/articles/26/04/29/visual-intelligence-to-be-added-to-ios-27-camera-app-as-siri-mode?utm_source=rss)
- - [New iPhone MagSafe removal rumor makes no sense at all](https://appleinsider.com/articles/26/04/29/new-iphone-magsafe-removal-rumor-makes-no-sense-at-all?utm_source=rss)<!-- TECH:END -->
+ - [How US schools&#39; overreliance on YouTube for educational content encourages students to drift into endless video scrolling on school-issued devices &lpar;Shalini Ramachandran/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p66#a260429p66)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, April 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-april-30/)
+ - [Sources: the White House opposes Anthropic&#39;s plan to expand access to Mythos to 70 additional companies and organizations because of concerns about security &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260429/p65#a260429p65)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
