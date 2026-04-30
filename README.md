@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Attaching this to job applications when they ask for a cover letter:](http://9gag.com/gag/a7oRgNx)
- - 😝 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)
- - 👉 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)<!-- MEMES:END -->
+ - 6️⃣ [Get them boy!](http://9gag.com/gag/a4POggy)
+ - 😝 [Show me your most cursed image](http://9gag.com/gag/abAno4p)
+ - 👉 [The 3 most tragic words of the entire serie\u2026.](http://9gag.com/gag/ary7ELy)<!-- MEMES:END -->
 
 --- 
 
