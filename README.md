@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How US schools&#39; overreliance on YouTube for educational content encourages students to drift into endless video scrolling on school-issued devices &lpar;Shalini Ramachandran/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p66#a260429p66)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, April 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-april-30/)
- - [Sources: the White House opposes Anthropic&#39;s plan to expand access to Mythos to 70 additional companies and organizations because of concerns about security &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260429/p65#a260429p65)<!-- TECH:END -->
+ - [5 Android phones you should buy instead of the Motorola Razr &lpar;2026&rpar;](https://www.androidauthority.com/motorola-razr-2026-alternatives-3661445/)
+ - [European software companies, including SAP, Capgemini, Nemetschek, Hexagon, and Dassault, report better-than-expected earnings despite AI fears and the Iran war &lpar;Chloe Meley/Bloomberg&rpar;](https://www.techmeme.com/260430/p9#a260430p9)
+ - [Gemini for Wear OS could also be getting a glow-up soon](https://www.androidauthority.com/google-gemini-wear-os-visual-refresh-apk-teardown-3662278/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
