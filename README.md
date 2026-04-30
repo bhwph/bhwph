@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I was in my early thirties when I took a stand...](http://9gag.com/gag/aRBqGOQ)
- - 😝 [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
- - 👉 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)<!-- MEMES:END -->
+ - 6️⃣ [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
+ - 😝 [Hospitality](http://9gag.com/gag/a34XgxN)
+ - 👉 [Italy wasted no time in removing the threat from their country](http://9gag.com/gag/ajPe3v1)<!-- MEMES:END -->
 
 --- 
 
