@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android phones you should buy instead of the Motorola Razr &lpar;2026&rpar;](https://www.androidauthority.com/motorola-razr-2026-alternatives-3661445/)
- - [European software companies, including SAP, Capgemini, Nemetschek, Hexagon, and Dassault, report better-than-expected earnings despite AI fears and the Iran war &lpar;Chloe Meley/Bloomberg&rpar;](https://www.techmeme.com/260430/p9#a260430p9)
- - [Gemini for Wear OS could also be getting a glow-up soon](https://www.androidauthority.com/google-gemini-wear-os-visual-refresh-apk-teardown-3662278/)<!-- TECH:END -->
+ - [Musk v. Altman: when asked whether xAI has ever distilled tech from OpenAI, Elon Musk says the claim is &quot;partly&quot; true &lpar;New York Times&rpar;](https://www.techmeme.com/260430/p38#a260430p38)
+ - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
+ - [Meta is running get-rich-quick ads for its AI tools](https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
