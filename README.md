@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
- - 😝 [Hospitality](http://9gag.com/gag/a34XgxN)
- - 👉 [Italy wasted no time in removing the threat from their country](http://9gag.com/gag/ajPe3v1)<!-- MEMES:END -->
+ - 6️⃣ [Attaching this to job applications when they ask for a cover letter:](http://9gag.com/gag/a7oRgNx)
+ - 😝 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)
+ - 👉 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)<!-- MEMES:END -->
 
 --- 
 
