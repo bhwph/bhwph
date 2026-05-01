@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Get them boy!](http://9gag.com/gag/a4POggy)
- - 😝 [Show me your most cursed image](http://9gag.com/gag/abAno4p)
- - 👉 [The 3 most tragic words of the entire serie\u2026.](http://9gag.com/gag/ary7ELy)<!-- MEMES:END -->
+ - 6️⃣ [A man who&#39;d survive a horror movie](http://9gag.com/gag/aGy45OX)
+ - 😝 [Stay classy, San Diego](http://9gag.com/gag/a6ZYgBR)
+ - 👉 [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)<!-- MEMES:END -->
 
 --- 
 
