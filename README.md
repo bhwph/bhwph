@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A man who&#39;d survive a horror movie](http://9gag.com/gag/aGy45OX)
- - 😝 [Stay classy, San Diego](http://9gag.com/gag/a6ZYgBR)
- - 👉 [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)<!-- MEMES:END -->
+ - 6️⃣ [Japanese made a robotic tongue that works just like the real one](http://9gag.com/gag/aAyz5q2)
+ - 😝 [Toxic work environment](http://9gag.com/gag/aqyownM)
+ - 👉 [They told her she could do anything with her ass](http://9gag.com/gag/aW43XA4)<!-- MEMES:END -->
 
 --- 
 
