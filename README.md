@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Japanese made a robotic tongue that works just like the real one](http://9gag.com/gag/aAyz5q2)
- - 😝 [Toxic work environment](http://9gag.com/gag/aqyownM)
- - 👉 [They told her she could do anything with her ass](http://9gag.com/gag/aW43XA4)<!-- MEMES:END -->
+ - 6️⃣ [New meme format?](http://9gag.com/gag/a87xg8d)
+ - 😝 [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)
+ - 👉 [World is not save anymore, this young dude get kidnapped by older lady](http://9gag.com/gag/adBDw3M)<!-- MEMES:END -->
 
 --- 
 
