@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D’s new actual play show borrows a clever horror mechanic from Dark Dice](https://www.polygon.com/dnd-dungeon-masters-actual-play-ravenloft-rest-rules-dark-dice/)
- - [AI is 10 to 20 times more likely to help you build a bomb if you hide your request in cyberpunk fiction, new research paper says](https://www.pcgamer.com/software/ai/ai-is-10-to-20-times-more-likely-to-help-you-build-a-bomb-if-you-hide-your-request-in-cyberpunk-fiction-new-research-paper-says/)
- - [Invincible season 5 plot and likely release date explained](https://www.polygon.com/invincible-season-5-release-date-year-plot/)<!-- GAME:END -->
+ - [Canonical, the company that makes Ubuntu Linux, says its web infrastructure is under a &#39;sustained, cross-border attack&#39;](https://www.pcgamer.com/software/security/canonical-the-company-that-makes-ubuntu-linux-says-its-web-infrastructure-is-under-a-sustained-cross-border-attack/)
+ - [The Empire&#39;s most OTT lord finally gets his due, portrayed by a YouTuber hamming it up in Total War: Warhammer 3](https://www.pcgamer.com/games/strategy/the-empires-most-ott-lord-finally-gets-his-due-portrayed-by-a-youtuber-hamming-it-up-in-total-war-warhammer-3/)
+ - [Total War: Warhammer 40,000 will have destructible terrain elements: &#39;That forest, if you don&#39;t like it, you don&#39;t have to keep it&#39;](https://www.pcgamer.com/games/strategy/total-war-warhammer-40-000-will-have-destructible-terrain-elements-that-forest-if-you-dont-like-it-you-dont-have-to-keep-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
