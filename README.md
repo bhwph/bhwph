@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk v. Altman: when asked whether xAI has ever distilled tech from OpenAI, Elon Musk says the claim is &quot;partly&quot; true &lpar;New York Times&rpar;](https://www.techmeme.com/260430/p38#a260430p38)
- - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
- - [Meta is running get-rich-quick ads for its AI tools](https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop)<!-- TECH:END -->
+ - [Sens. Kirsten Gillibrand and Dave McCormick introduce a bill banning members of the legislative and executive branches from trading on prediction markets &lpar;Jason Beeferman/Politico&rpar;](https://www.techmeme.com/260430/p64#a260430p64)
+ - [Apple forecasts Q3 revenue above estimates and reports Q2 results above projections in China but below expectations in the Americas and Europe regions &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260430/p63#a260430p63)
+ - [Samsung Chip Profits Soar Amid the Tech World&#39;s RAM Shortages](https://www.cnet.com/tech/computing/samsung-chip-profits-soar-amid-the-tech-worlds-ram-shortages/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
