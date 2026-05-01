@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sens. Kirsten Gillibrand and Dave McCormick introduce a bill banning members of the legislative and executive branches from trading on prediction markets &lpar;Jason Beeferman/Politico&rpar;](https://www.techmeme.com/260430/p64#a260430p64)
- - [Apple forecasts Q3 revenue above estimates and reports Q2 results above projections in China but below expectations in the Americas and Europe regions &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260430/p63#a260430p63)
- - [Samsung Chip Profits Soar Amid the Tech World&#39;s RAM Shortages](https://www.cnet.com/tech/computing/samsung-chip-profits-soar-amid-the-tech-worlds-ram-shortages/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 1, #584](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-1-584/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 1 #789](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-1-789/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 1, #1055](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-1-1055/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
