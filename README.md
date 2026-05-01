@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 1, #584](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-1-584/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 1 #789](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-1-789/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 1, #1055](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-1-1055/)<!-- TECH:END -->
+ - [A pesky bug is freezing gestures after screenshots on Galaxy phones](https://www.androidauthority.com/samsung-galaxy-one-hand-gesture-freeze-3662831/)
+ - [Here&#39;s what using a touchscreen Mac may be like](https://appleinsider.com/articles/26/05/01/heres-what-using-a-touchscreen-mac-may-be-like?utm_source=rss)
+ - [Dreame’s rocket-powered car can do 0–60 in 0.9 seconds because you can just say things now](https://www.theverge.com/transportation/921204/dreame-ev-car-rocket-boosted-zero-sixty-reality)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
