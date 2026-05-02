@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [New meme format?](http://9gag.com/gag/a87xg8d)
+ - 6️⃣ [`Autotune was invented 1997`. Rappers in 1995:](http://9gag.com/gag/ary7LQp)
  - 😝 [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)
- - 👉 [World is not save anymore, this young dude get kidnapped by older lady](http://9gag.com/gag/adBDw3M)<!-- MEMES:END -->
+ - 👉 [Are `These Fans` in the room with us right now?](http://9gag.com/gag/a9ygGv6)<!-- MEMES:END -->
 
 --- 
 
