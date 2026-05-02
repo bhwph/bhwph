@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Autotune was invented 1997`. Rappers in 1995:](http://9gag.com/gag/ary7LQp)
- - 😝 [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)
- - 👉 [Are `These Fans` in the room with us right now?](http://9gag.com/gag/a9ygGv6)<!-- MEMES:END -->
+ - 6️⃣ [Visiting family in UK](http://9gag.com/gag/azxp3yb)
+ - 😝 [In 2007, 27 year old Alabama gym teacher Pamela Rogers was convicted of having a sexual relationship with intercourse with her 13 year old student.She was sentenced to 11 months in jail but she contacted the boy again through texts and social media, she was sent back to prison.](http://9gag.com/gag/aE0mmvN)
+ - 👉 [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)<!-- MEMES:END -->
 
 --- 
 
