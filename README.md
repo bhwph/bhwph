@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ripple Labs investor and exec Chris Larsen plans to spend $3.5M to help Alex Bores, a NY congressional candidate at the center of a proxy war over AI regulation &lpar;New York Times&rpar;](https://www.techmeme.com/260502/p3#a260502p3)
- - [Therabody Promo Codes: 15% Off May 2026](https://www.wired.com/story/therabody-promo-code/)
- - [30% Off Canon Promo Codes | May 2026](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
+ - [Sources: Nigerian mobile payments service OPay is preparing for a US IPO at a $4B valuation with Citigroup, Deutsche Bank, and JPMorgan Chase advising &lpar;Bloomberg&rpar;](https://www.techmeme.com/260502/p7#a260502p7)
+ - [Sources: Anthropic is in early talks to buy AI inference chips from UK-based Fractile when they become available in 2027 &lpar;The Information&rpar;](https://www.techmeme.com/260502/p6#a260502p6)
+ - [Heybike&#39;s Latest Foldable Commuter Bike Has Kept My Car in the Driveway for Weeks. It&#39;s Now $500 Cheaper](https://www.cnet.com/roadshow/news/may-1-heybike-ranger-3-pro-deal/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
