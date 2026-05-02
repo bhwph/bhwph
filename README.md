@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A pesky bug is freezing gestures after screenshots on Galaxy phones](https://www.androidauthority.com/samsung-galaxy-one-hand-gesture-freeze-3662831/)
- - [Here&#39;s what using a touchscreen Mac may be like](https://appleinsider.com/articles/26/05/01/heres-what-using-a-touchscreen-mac-may-be-like?utm_source=rss)
- - [Dreame’s rocket-powered car can do 0–60 in 0.9 seconds because you can just say things now](https://www.theverge.com/transportation/921204/dreame-ev-car-rocket-boosted-zero-sixty-reality)<!-- TECH:END -->
+ - [A UK court orders Samsung to pay ZTE $392M for patents needed to enable phone network access; Samsung faces similar suits from ZTE in China, Germany, and Brazil &lpar;Sam Tobin/Reuters&rpar;](https://www.techmeme.com/260501/p29#a260501p29)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 2, #585](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-2-585/)
+ - [Best Red Light Therapy Devices of 2026, Tested and FDA-Cleared](https://www.cnet.com/health/personal-care/best-red-light-therapy-devices/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
