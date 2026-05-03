@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
- - 😝 [Get in the car bro](http://9gag.com/gag/ary778K)
- - 👉 [In 2007, 27 year old Alabama gym teacher Pamela Rogers was convicted of having a sexual relationship with intercourse with her 13 year old student.She was sentenced to 11 months in jail but she contacted the boy again through texts and social media, she was sent back to prison.](http://9gag.com/gag/aE0mmvN)<!-- MEMES:END -->
+ - 6️⃣ [Let\u2019s take a moment to appreciate this snippet of Western culture](http://9gag.com/gag/aMVMMEX)
+ - 😝 [Killed by pedo mob](http://9gag.com/gag/amo44Yv)
+ - 👉 [I\u2019d do the same](http://9gag.com/gag/aKGoob3)<!-- MEMES:END -->
 
 --- 
 
