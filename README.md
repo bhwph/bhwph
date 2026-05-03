@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coway Airmega Mighty2 Review: The Sequel Is Better Than the Original](https://www.wired.com/review/coway-airmega-mighty2/)
- - [I spent three hours gaming on the OnePlus Nord 6, and the 9,000mAh battery surprised me](https://www.androidauthority.com/oneplus-nord-gaming-battery-test-3660014/)
- - [A profile of BlackBerry&#39;s QNX division, whose operating system controls safety features in 275M cars and accounts for half of BlackBerry&#39;s revenue &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260503/p6#a260503p6)<!-- TECH:END -->
+ - [Reggie Fils-Aimé says Amazon once asked Nintendo to break the law](https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal)
+ - [JLL: Japan&#39;s $23B data center market is set to grow ~50% by 2030, with 90% of sites concentrated in densely populated regions, prompting pushback from residents &lpar;Financial Times&rpar;](https://www.techmeme.com/260503/p9#a260503p9)
+ - [Premier League Soccer: Stream Aston Villa vs. Tottenham From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-aston-villa-vs-tottenham-from-anywhere-live/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
