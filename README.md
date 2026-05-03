@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let\u2019s take a moment to appreciate this snippet of Western culture](http://9gag.com/gag/aMVMMEX)
- - 😝 [Killed by pedo mob](http://9gag.com/gag/amo44Yv)
+ - 6️⃣ [The Password](http://9gag.com/gag/aW43rAZ)
+ - 😝 [Out of Mana, but never out of questionable life choices.](http://9gag.com/gag/amo44Dd)
  - 👉 [I\u2019d do the same](http://9gag.com/gag/aKGoob3)<!-- MEMES:END -->
 
 --- 
