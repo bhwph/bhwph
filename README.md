@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Get in the car bro](http://9gag.com/gag/ary778K)
- - 😝 [Only if they renamed it Desert Harem Babes](http://9gag.com/gag/avyKjOW)
+ - 6️⃣ [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
+ - 😝 [Get in the car bro](http://9gag.com/gag/ary778K)
  - 👉 [In 2007, 27 year old Alabama gym teacher Pamela Rogers was convicted of having a sexual relationship with intercourse with her 13 year old student.She was sentenced to 11 months in jail but she contacted the boy again through texts and social media, she was sent back to prison.](http://9gag.com/gag/aE0mmvN)<!-- MEMES:END -->
 
 --- 
