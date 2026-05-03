@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Maryland becomes the first US state to ban surveillance pricing in grocery stores, as other states including CO, CA, MA, IL, and NJ consider similar bills &lpar;Sanya Mansoor/The Guardian&rpar;](https://www.techmeme.com/260502/p12#a260502p12)
- - [Iodyne Pro Data 24TB review: $15K, ridiculous speed, and probably not for you](https://appleinsider.com/articles/26/04/29/iodyne-pro-data-24tb-review-15k-ridiculous-speed-and-probably-not-for-you?utm_source=rss)
- - [Analysis: after Trump&#39;s World Liberty raised $550M from investors, tokens worth hundreds of millions in USD were privately sold in &quot;white glove&quot; transactions &lpar;Olga Kharif/Bloomberg&rpar;](https://www.techmeme.com/260502/p11#a260502p11)<!-- TECH:END -->
+ - [Coway Airmega Mighty2 Review: The Sequel Is Better Than the Original](https://www.wired.com/review/coway-airmega-mighty2/)
+ - [I spent three hours gaming on the OnePlus Nord 6, and the 9,000mAh battery surprised me](https://www.androidauthority.com/oneplus-nord-gaming-battery-test-3660014/)
+ - [A profile of BlackBerry&#39;s QNX division, whose operating system controls safety features in 275M cars and accounts for half of BlackBerry&#39;s revenue &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260503/p6#a260503p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
