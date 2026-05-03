@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nigerian mobile payments service OPay is preparing for a US IPO at a $4B valuation with Citigroup, Deutsche Bank, and JPMorgan Chase advising &lpar;Bloomberg&rpar;](https://www.techmeme.com/260502/p7#a260502p7)
- - [Sources: Anthropic is in early talks to buy AI inference chips from UK-based Fractile when they become available in 2027 &lpar;The Information&rpar;](https://www.techmeme.com/260502/p6#a260502p6)
- - [Heybike&#39;s Latest Foldable Commuter Bike Has Kept My Car in the Driveway for Weeks. It&#39;s Now $500 Cheaper](https://www.cnet.com/roadshow/news/may-1-heybike-ranger-3-pro-deal/)<!-- TECH:END -->
+ - [Maryland becomes the first US state to ban surveillance pricing in grocery stores, as other states including CO, CA, MA, IL, and NJ consider similar bills &lpar;Sanya Mansoor/The Guardian&rpar;](https://www.techmeme.com/260502/p12#a260502p12)
+ - [Iodyne Pro Data 24TB review: $15K, ridiculous speed, and probably not for you](https://appleinsider.com/articles/26/04/29/iodyne-pro-data-24tb-review-15k-ridiculous-speed-and-probably-not-for-you?utm_source=rss)
+ - [Analysis: after Trump&#39;s World Liberty raised $550M from investors, tokens worth hundreds of millions in USD were privately sold in &quot;white glove&quot; transactions &lpar;Olga Kharif/Bloomberg&rpar;](https://www.techmeme.com/260502/p11#a260502p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
