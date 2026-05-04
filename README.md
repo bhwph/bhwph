@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Password](http://9gag.com/gag/aW43rAZ)
- - 😝 [Firm handshake](http://9gag.com/gag/a87xZXe)
- - 👉 [Robbery](http://9gag.com/gag/abAn9OX)<!-- MEMES:END -->
+ - 6️⃣ [Toxic masculinity!](http://9gag.com/gag/azxpNrK)
+ - 😝 [My cat at 3 a.m for no reason](http://9gag.com/gag/aqyoqWY)
+ - 👉 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)<!-- MEMES:END -->
 
 --- 
 
