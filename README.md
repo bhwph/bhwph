@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Google TV kept crashing and lagging — until I changed one hidden setting](https://www.androidauthority.com/google-tv-crashing-lagging-how-fix-limiting-processes-3661520/)
- - [Can Listening to ‘Subliminals’ Make You Beautiful? Plenty of Women Believe It](https://www.wired.com/story/subliminals-tiktok-youtube-make-you-beautiful/)
- - [New leak reveals a promising, low-cost Fitbit alternative](https://www.androidauthority.com/xiaomi-smart-band-10-pro-render-leak-3663125/)<!-- TECH:END -->
+ - [Release candidates of iOS 26.5, macOS Tahoe 26.5 are out now](https://appleinsider.com/articles/26/05/04/release-candidates-of-ios-265-macos-tahoe-265-are-out-now?utm_source=rss)
+ - [Nearly 20 US state-run health insurance exchanges include ad trackers that send user data like race and citizenship info to companies like Meta, TikTok, Google &lpar;Bloomberg&rpar;](https://www.techmeme.com/260504/p28#a260504p28)
+ - [Sources: more than two dozen prediction-market ETFs have been pushed back as the SEC seeks more information; they were originally expected to launch this week &lpar;Suzanne McGee/Reuters&rpar;](https://www.techmeme.com/260504/p27#a260504p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
