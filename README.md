@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Canonical, the company that makes Ubuntu Linux, says its web infrastructure is under a &#39;sustained, cross-border attack&#39;](https://www.pcgamer.com/software/security/canonical-the-company-that-makes-ubuntu-linux-says-its-web-infrastructure-is-under-a-sustained-cross-border-attack/)
- - [The Empire&#39;s most OTT lord finally gets his due, portrayed by a YouTuber hamming it up in Total War: Warhammer 3](https://www.pcgamer.com/games/strategy/the-empires-most-ott-lord-finally-gets-his-due-portrayed-by-a-youtuber-hamming-it-up-in-total-war-warhammer-3/)
- - [Total War: Warhammer 40,000 will have destructible terrain elements: &#39;That forest, if you don&#39;t like it, you don&#39;t have to keep it&#39;](https://www.pcgamer.com/games/strategy/total-war-warhammer-40-000-will-have-destructible-terrain-elements-that-forest-if-you-dont-like-it-you-dont-have-to-keep-it/)<!-- GAME:END -->
+ - [Resident Evil Requiem Producer Says The Negative Reaction To Grace’s DLSS 5 AI Slop Filter Proves Capcom ‘Got The Design Right’](https://kotaku.com/resident-evil-requiem-grace-dlss-5-ai-slop-filter-redesign-capcom-masato-kumazawa-2000692973)
+ - [D&amp;D&#39;s official new series fixes the biggest issue with shows like Critical Role](https://www.polygon.com/dnd-dungeons-dragons-dungeon-masters-official-actual-play-lenght-episodes/)
+ - [Mark Hamill&#39;s 1980 Muppet Show episode predicted Star Wars&#39; future](https://www.polygon.com/mark-hamill-muppet-show-episode-star-wars-day/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
