@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Password](http://9gag.com/gag/aW43rAZ)
- - 😝 [Out of Mana, but never out of questionable life choices.](http://9gag.com/gag/amo44Dd)
- - 👉 [I\u2019d do the same](http://9gag.com/gag/aKGoob3)<!-- MEMES:END -->
+ - 6️⃣ [What Happens When You Inflate A Body At Depth And Let It Ascend Quickly](http://9gag.com/gag/a6ZYP2N)
+ - 😝 [Some Cartoon-Box](http://9gag.com/gag/a4POXvw)
+ - 👉 [Firm handshake](http://9gag.com/gag/a87xZXe)<!-- MEMES:END -->
 
 --- 
 
