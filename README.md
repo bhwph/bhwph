@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What Happens When You Inflate A Body At Depth And Let It Ascend Quickly](http://9gag.com/gag/a6ZYP2N)
- - 😝 [Some Cartoon-Box](http://9gag.com/gag/a4POXvw)
- - 👉 [Firm handshake](http://9gag.com/gag/a87xZXe)<!-- MEMES:END -->
+ - 6️⃣ [The Password](http://9gag.com/gag/aW43rAZ)
+ - 😝 [Firm handshake](http://9gag.com/gag/a87xZXe)
+ - 👉 [Robbery](http://9gag.com/gag/abAn9OX)<!-- MEMES:END -->
 
 --- 
 
