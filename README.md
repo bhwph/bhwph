@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Letter: UK-based Google DeepMind workers voted to unionize with the Communication Workers Union and Unite in April, representing 1K+ staff, amid the US DOD deal &lpar;Alice Speri/The Guardian&rpar;](https://www.techmeme.com/260505/p6#a260505p6)
- - [One of the best handheld Zelda games now has an unofficial PC port](https://www.androidauthority.com/zelda-minish-cap-pc-port-3663482/)
- - [Microsoft is finally ditching the junk MSN feed in Windows widgets](https://www.theverge.com/news/923884/microsoft-hide-msn-feed-windows-widgets)<!-- TECH:END -->
+ - [OpenAI launches GPT-5.5 Instant, which it says is smarter, with more accurate and personalized responses, replacing GPT-5.3 Instant as ChatGPT&#39;s default model &lpar;OpenAI&rpar;](https://www.techmeme.com/260505/p34#a260505p34)
+ - [Google Home’s getting ready for summer with camera upgrades, new automations, and much more](https://www.androidauthority.com/google-home-may-update-3663700/)
+ - [Chrome finally lets you tell websites to ease off the stalking](https://www.androidauthority.com/chrome-approximate-location-sharing-on-android-3663687/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
