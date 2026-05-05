@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Toxic masculinity!](http://9gag.com/gag/azxpNrK)
- - 😝 [My cat at 3 a.m for no reason](http://9gag.com/gag/aqyoqWY)
- - 👉 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)<!-- MEMES:END -->
+ - 6️⃣ [Cats and dogs](http://9gag.com/gag/ae98L3p)
+ - 😝 [Fight 4u right](http://9gag.com/gag/aZZOGD0)
+ - 👉 [Any ideas?](http://9gag.com/gag/aGy431z)<!-- MEMES:END -->
 
 --- 
 
