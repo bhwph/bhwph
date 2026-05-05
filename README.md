@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Release candidates of iOS 26.5, macOS Tahoe 26.5 are out now](https://appleinsider.com/articles/26/05/04/release-candidates-of-ios-265-macos-tahoe-265-are-out-now?utm_source=rss)
- - [Nearly 20 US state-run health insurance exchanges include ad trackers that send user data like race and citizenship info to companies like Meta, TikTok, Google &lpar;Bloomberg&rpar;](https://www.techmeme.com/260504/p28#a260504p28)
- - [Sources: more than two dozen prediction-market ETFs have been pushed back as the SEC seeks more information; they were originally expected to launch this week &lpar;Suzanne McGee/Reuters&rpar;](https://www.techmeme.com/260504/p27#a260504p27)<!-- TECH:END -->
+ - [Sources: Sam Altman discussed spinning out OpenAI&#39;s robotics and consumer hardware divisions in late 2025 to give them more room to grow; the plan was rejected &lpar;Berber Jin/Wall Street Journal&rpar;](https://www.techmeme.com/260504/p47#a260504p47)
+ - [As Colorado tech leaders say that burdensome regulations are driving companies away, lawmakers introduce a slimmer version of an AI anti-discrimination bill &lpar;Owen Tucker-Smith/Wall Street Journal&rpar;](https://www.techmeme.com/260504/p46#a260504p46)
+ - [Boox Go 10.3 Gen II review: this refresh is both better and somehow worse than the last one](https://appleinsider.com/articles/26/05/05/boox-go-103-gen-ii-review-this-refresh-is-both-better-and-somehow-worse-than-the-last-one?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
