@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sam Altman discussed spinning out OpenAI&#39;s robotics and consumer hardware divisions in late 2025 to give them more room to grow; the plan was rejected &lpar;Berber Jin/Wall Street Journal&rpar;](https://www.techmeme.com/260504/p47#a260504p47)
- - [As Colorado tech leaders say that burdensome regulations are driving companies away, lawmakers introduce a slimmer version of an AI anti-discrimination bill &lpar;Owen Tucker-Smith/Wall Street Journal&rpar;](https://www.techmeme.com/260504/p46#a260504p46)
- - [Boox Go 10.3 Gen II review: this refresh is both better and somehow worse than the last one](https://appleinsider.com/articles/26/05/05/boox-go-103-gen-ii-review-this-refresh-is-both-better-and-somehow-worse-than-the-last-one?utm_source=rss)<!-- TECH:END -->
+ - [Letter: UK-based Google DeepMind workers voted to unionize with the Communication Workers Union and Unite in April, representing 1K+ staff, amid the US DOD deal &lpar;Alice Speri/The Guardian&rpar;](https://www.techmeme.com/260505/p6#a260505p6)
+ - [One of the best handheld Zelda games now has an unofficial PC port](https://www.androidauthority.com/zelda-minish-cap-pc-port-3663482/)
+ - [Microsoft is finally ditching the junk MSN feed in Windows widgets](https://www.theverge.com/news/923884/microsoft-hide-msn-feed-windows-widgets)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
