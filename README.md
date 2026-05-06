@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
- - 😝 [Toxic masculinity!](http://9gag.com/gag/azxpNrK)
- - 👉 [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)<!-- MEMES:END -->
+ - 6️⃣ [When you think there is no other way companies can milk your money... HP says: hold my beer.](http://9gag.com/gag/aoyQBZg)
+ - 😝 [Gym Life be like](http://9gag.com/gag/awyWqX8)
+ - 👉 [That bread thou.](http://9gag.com/gag/abAnjrB)<!-- MEMES:END -->
 
 --- 
 
