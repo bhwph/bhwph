@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smeg Forte Stand Mixer Review: Big Power, Mixed Results](https://www.wired.com/review/smeg-forte-stand-mixer/)
- - [I found 2 ways to remote stream my Plex library for free — here’s how](https://www.androidauthority.com/plex-how-to-remote-stream-library-free-3663446/)
- - [Finnish AI lab QuTwo, led by ex-AMD Silo AI CEO Peter Sarlin, raised a €25M angel round at a €325M valuation, and secures $23M in committed partnership revenue &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260506/p14#a260506p14)<!-- TECH:END -->
+ - [Here&amp;#8217;s what Microsoft is offering long-serving employees to voluntarily retire](https://www.theverge.com/report/925218/microsoft-voluntary-retirement-program-package-details)
+ - [Google releases Multi-Token Prediction drafters for its Gemma 4 models, which use a form of speculative decoding to guess future tokens for faster inference &lpar;Ryan Whitwam/Ars Technica&rpar;](https://www.techmeme.com/260506/p38#a260506p38)
+ - [Supreme Court denies Apple&#39;s hopes for breathing space in its fight against Epic](https://appleinsider.com/articles/26/05/06/supreme-court-denies-apples-hopes-for-breathing-space-in-its-fight-against-epic?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
