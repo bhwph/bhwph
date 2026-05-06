@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI launches GPT-5.5 Instant, which it says is smarter, with more accurate and personalized responses, replacing GPT-5.3 Instant as ChatGPT&#39;s default model &lpar;OpenAI&rpar;](https://www.techmeme.com/260505/p34#a260505p34)
- - [Google Home’s getting ready for summer with camera upgrades, new automations, and much more](https://www.androidauthority.com/google-home-may-update-3663700/)
- - [Chrome finally lets you tell websites to ease off the stalking](https://www.androidauthority.com/chrome-approximate-location-sharing-on-android-3663687/)<!-- TECH:END -->
+ - [CRM software company Freshworks said it plans to cut 11% of its workforce, or ~500 jobs, as it deals with AI&#39;s impact; FRSH has dropped ~26% in 2026 &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260505/p61#a260505p61)
+ - [US labor experts and economists warn US unemployment benefits are unlikely to protect against AI job losses, and the GOP-led Congress is doing little to prepare &lpar;New York Times&rpar;](https://www.techmeme.com/260505/p60#a260505p60)
+ - [Oura’s subscription-free rival is back on Kickstarter with a tempting new bundle](https://www.androidauthority.com/ultrahuman-ring-pro-kickstarter-campaign-3663897/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
