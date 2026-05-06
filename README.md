@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CRM software company Freshworks said it plans to cut 11% of its workforce, or ~500 jobs, as it deals with AI&#39;s impact; FRSH has dropped ~26% in 2026 &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260505/p61#a260505p61)
- - [US labor experts and economists warn US unemployment benefits are unlikely to protect against AI job losses, and the GOP-led Congress is doing little to prepare &lpar;New York Times&rpar;](https://www.techmeme.com/260505/p60#a260505p60)
- - [Oura’s subscription-free rival is back on Kickstarter with a tempting new bundle](https://www.androidauthority.com/ultrahuman-ring-pro-kickstarter-campaign-3663897/)<!-- TECH:END -->
+ - [Smeg Forte Stand Mixer Review: Big Power, Mixed Results](https://www.wired.com/review/smeg-forte-stand-mixer/)
+ - [I found 2 ways to remote stream my Plex library for free — here’s how](https://www.androidauthority.com/plex-how-to-remote-stream-library-free-3663446/)
+ - [Finnish AI lab QuTwo, led by ex-AMD Silo AI CEO Peter Sarlin, raised a €25M angel round at a €325M valuation, and secures $23M in committed partnership revenue &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260506/p14#a260506p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
