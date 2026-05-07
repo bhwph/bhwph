@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here&amp;#8217;s what Microsoft is offering long-serving employees to voluntarily retire](https://www.theverge.com/report/925218/microsoft-voluntary-retirement-program-package-details)
- - [Google releases Multi-Token Prediction drafters for its Gemma 4 models, which use a form of speculative decoding to guess future tokens for faster inference &lpar;Ryan Whitwam/Ars Technica&rpar;](https://www.techmeme.com/260506/p38#a260506p38)
- - [Supreme Court denies Apple&#39;s hopes for breathing space in its fight against Epic](https://appleinsider.com/articles/26/05/06/supreme-court-denies-apples-hopes-for-breathing-space-in-its-fight-against-epic?utm_source=rss)<!-- TECH:END -->
+ - [Sources: the US and China are considering recurring talks on the security risks posed by AI models, with Scott Bessent leading the American side &lpar;Lingling Wei/Wall Street Journal&rpar;](https://www.techmeme.com/260506/p52#a260506p52)
+ - [A US appeals court strikes down a 2023 FCC rule banning broadband access discrimination based on income, race, and more; Chair Brendan Carr welcomes the ruling &lpar;Jon Brodkin/Ars Technica&rpar;](https://www.techmeme.com/260506/p50#a260506p50)
+ - [Musk’s biggest loyalist became his biggest liability](https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
