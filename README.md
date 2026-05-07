@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US and China are considering recurring talks on the security risks posed by AI models, with Scott Bessent leading the American side &lpar;Lingling Wei/Wall Street Journal&rpar;](https://www.techmeme.com/260506/p52#a260506p52)
- - [A US appeals court strikes down a 2023 FCC rule banning broadband access discrimination based on income, race, and more; Chair Brendan Carr welcomes the ruling &lpar;Jon Brodkin/Ars Technica&rpar;](https://www.techmeme.com/260506/p50#a260506p50)
- - [Musk’s biggest loyalist became his biggest liability](https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony)<!-- TECH:END -->
+ - [As founders race to make their companies &quot;legible&quot; to AI, they must keep the things that make them hard to copy &quot;illegible&quot;, or risk commoditizing their moat &lpar;Brian Halligan/@bhalligan&rpar;](https://www.techmeme.com/260507/p9#a260507p9)
+ - [There’s good news if you want to keep using Samsung Messages &lpar;unless you’re in the US&rpar;](https://www.androidauthority.com/samsung-messages-shutdown-us-market-only-3664615/)
+ - [Swiss pharmaceutical group Roche agrees to acquire US-based PathAI, which makes AI diagnostic tools, for up to $1.05B, with $750M upfront, closing in H2 2026 &lpar;Adrià Calatayud/Wall Street Journal&rpar;](https://www.techmeme.com/260507/p8#a260507p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
