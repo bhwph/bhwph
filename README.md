@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As founders race to make their companies &quot;legible&quot; to AI, they must keep the things that make them hard to copy &quot;illegible&quot;, or risk commoditizing their moat &lpar;Brian Halligan/@bhalligan&rpar;](https://www.techmeme.com/260507/p9#a260507p9)
- - [There’s good news if you want to keep using Samsung Messages &lpar;unless you’re in the US&rpar;](https://www.androidauthority.com/samsung-messages-shutdown-us-market-only-3664615/)
- - [Swiss pharmaceutical group Roche agrees to acquire US-based PathAI, which makes AI diagnostic tools, for up to $1.05B, with $750M upfront, closing in H2 2026 &lpar;Adrià Calatayud/Wall Street Journal&rpar;](https://www.techmeme.com/260507/p8#a260507p8)<!-- TECH:END -->
+ - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
+ - [Filing: OnlyFans owner Leonid Radvinsky&#39;s wife assumed significant control of OnlyFans holding company Fenix in March following the death of Radvinsky &lpar;Bloomberg&rpar;](https://www.techmeme.com/260507/p30#a260507p30)
+ - [Did Microsoft just tease a new Xbox UI?](https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
