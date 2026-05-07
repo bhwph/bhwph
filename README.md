@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you think there is no other way companies can milk your money... HP says: hold my beer.](http://9gag.com/gag/aoyQBZg)
- - 😝 [Gym Life be like](http://9gag.com/gag/awyWqX8)
- - 👉 [That bread thou.](http://9gag.com/gag/abAnjrB)<!-- MEMES:END -->
+ - 6️⃣ [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
+ - 😝 [Ink printer cartridge should be a crime](http://9gag.com/gag/a0erv3v)
+ - 👉 [No comment](http://9gag.com/gag/aD2KRed)<!-- MEMES:END -->
 
 --- 
 
