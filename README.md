@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Nintendo Switch 2 could see a $50-100 price hike says report as pesky investors complain about the launch price](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-nintendo-switch-2-could-see-a-usd50-100-price-hike-says-report-as-pesky-investors-complain-about-the-price/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Store: April 2026’s top downloads](https://blog.playstation.com/2026/05/07/20260507-top/)
- - [Google isn&#39;t scanning your Gmail to train Gemini, it&#39;s letting Gemini scan your inbox to provide &#39;personalized insights&#39; but I&#39;m not sure that&#39;s better](https://www.pcgamer.com/software/ai/google-isnt-scanning-your-gmail-to-train-gemini-its-letting-gemini-scan-your-inbox-to-provide-personalized-insights-but-im-not-sure-thats-better/)<!-- GAME:END -->
+ - [Slay The Spire 2 Is Getting Review Bombed Again, This Time Because Of Chuds](https://kotaku.com/slay-the-spire-2-is-getting-review-bombed-again-this-time-because-of-chuds-2000693961)
+ - [Silent Night, Deadly Night is getting a new sequel from the best possible writer](https://www.polygon.com/silent-night-deadlier-night-novel/)
+ - [Aliens: Fireteam Elite 2 is coming this summer, now with more marines and a &#39;massive variety of new xenomorphs&#39; to slice &#39;em up](https://www.pcgamer.com/games/fps/aliens-fireteam-elite-2-is-coming-this-summer-now-with-more-marines-and-a-massive-variety-of-new-xenomorphs-to-slice-em-up/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
