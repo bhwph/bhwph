@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can&#39;t you see this sign, it&#39;s double yellow lines](http://9gag.com/gag/aryQ1YK)
- - 😝 [Cops Arrest Completely Sober Driver](http://9gag.com/gag/aLnZRMW)
- - 👉 [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)<!-- MEMES:END -->
+ - 6️⃣ [Coffee jitters](http://9gag.com/gag/a346vqN)
+ - 😝 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)
+ - 👉 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)<!-- MEMES:END -->
 
 --- 
 
