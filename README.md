@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil Requiem Producer Says The Negative Reaction To Grace’s DLSS 5 AI Slop Filter Proves Capcom ‘Got The Design Right’](https://kotaku.com/resident-evil-requiem-grace-dlss-5-ai-slop-filter-redesign-capcom-masato-kumazawa-2000692973)
- - [D&amp;D&#39;s official new series fixes the biggest issue with shows like Critical Role](https://www.polygon.com/dnd-dungeons-dragons-dungeon-masters-official-actual-play-lenght-episodes/)
- - [Mark Hamill&#39;s 1980 Muppet Show episode predicted Star Wars&#39; future](https://www.polygon.com/mark-hamill-muppet-show-episode-star-wars-day/)<!-- GAME:END -->
+ - [The Nintendo Switch 2 could see a $50-100 price hike says report as pesky investors complain about the launch price](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-nintendo-switch-2-could-see-a-usd50-100-price-hike-says-report-as-pesky-investors-complain-about-the-price/)
+ - [&lpar;For Southeast Asia&rpar; PlayStation Store: April 2026’s top downloads](https://blog.playstation.com/2026/05/07/20260507-top/)
+ - [Google isn&#39;t scanning your Gmail to train Gemini, it&#39;s letting Gemini scan your inbox to provide &#39;personalized insights&#39; but I&#39;m not sure that&#39;s better](https://www.pcgamer.com/software/ai/google-isnt-scanning-your-gmail-to-train-gemini-its-letting-gemini-scan-your-inbox-to-provide-personalized-insights-but-im-not-sure-thats-better/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
