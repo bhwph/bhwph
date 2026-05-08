@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)
- - 😝 [She&#39;s ready to take advantage of the situation](http://9gag.com/gag/aoyvE50)
- - 👉 [Downgrade](http://9gag.com/gag/a87RWDY)<!-- MEMES:END -->
+ - 6️⃣ [Average Brazilian coffee experience](http://9gag.com/gag/a6Z0wXq)
+ - 😝 [Happy 100th to one of the best of us.](http://9gag.com/gag/abAN5wb)
+ - 👉 [When you get pulled over by Bill Burr](http://9gag.com/gag/aByAQdz)<!-- MEMES:END -->
 
 --- 
 
