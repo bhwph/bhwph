@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI](https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/)
- - [OpenAI is rolling out GPT-5.5-Cyber, a security-focused variant of the model, in a limited preview capacity to vetted cybersecurity teams &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/260507/p53#a260507p53)
- - [A US judge blocks DOGE&#39;s termination of $100M in National Endowment for the Humanities grants, saying ChatGPT prompts used to decide the cuts were ill-defined &lpar;Zoe Tillman/Bloomberg&rpar;](https://www.techmeme.com/260507/p52#a260507p52)<!-- TECH:END -->
+ - [Nintendo said it would increase the price of the Switch 2 to $500, up from $450, globally from September 1, and offered a downbeat performance outlook for 2026 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p9#a260508p9)
+ - [What to Expect from Google I/O 2026: Gemini upgrades, Android features, Aluminium OS, and more](https://www.androidauthority.com/what-to-expect-from-google-io-2026-3664979/)
+ - [The Fitbit Air looks great, but it’s missing one feature I can’t live without](https://www.androidauthority.com/fitbit-air-missing-gps-dealbreaker-why-3664087/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
