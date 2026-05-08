@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo said it would increase the price of the Switch 2 to $500, up from $450, globally from September 1, and offered a downbeat performance outlook for 2026 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p9#a260508p9)
- - [What to Expect from Google I/O 2026: Gemini upgrades, Android features, Aluminium OS, and more](https://www.androidauthority.com/what-to-expect-from-google-io-2026-3664979/)
- - [The Fitbit Air looks great, but it’s missing one feature I can’t live without](https://www.androidauthority.com/fitbit-air-missing-gps-dealbreaker-why-3664087/)<!-- TECH:END -->
+ - [The Steam Controller’s reservation queue is open](https://www.theverge.com/gadgets/924672/steam-controller-reservation-queue-buy)
+ - [Sources: Apple and Intel have reached a formal deal in recent months for Intel to manufacture some chips for Apple devices &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260508/p24#a260508p24)
+ - [The 46 best last-minute Mother’s Day gift ideas for 2026](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
