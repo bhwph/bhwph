@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Coffee jitters](http://9gag.com/gag/a346vqN)
- - 😝 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)
- - 👉 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)<!-- MEMES:END -->
+ - 6️⃣ [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)
+ - 😝 [You know OF right?...](http://9gag.com/gag/aqyP9jQ)
+ - 👉 [Two japanese boy with their nanny](http://9gag.com/gag/a7oYLVr)<!-- MEMES:END -->
 
 --- 
 
