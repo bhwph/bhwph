@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)
- - 😝 [You know OF right?...](http://9gag.com/gag/aqyP9jQ)
- - 👉 [Two japanese boy with their nanny](http://9gag.com/gag/a7oYLVr)<!-- MEMES:END -->
+ - 6️⃣ [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)
+ - 😝 [She&#39;s ready to take advantage of the situation](http://9gag.com/gag/aoyvE50)
+ - 👉 [Downgrade](http://9gag.com/gag/a87RWDY)<!-- MEMES:END -->
 
 --- 
 
