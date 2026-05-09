@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Downgrade](http://9gag.com/gag/a87RWDY)
- - 😝 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)
- - 👉 [My fellow gen z... she&#39;s a cougar now...](http://9gag.com/gag/aE09v9n)<!-- MEMES:END -->
+ - 6️⃣ [A satisfying pizza experience](http://9gag.com/gag/aVvpOmO)
+ - 😝 [Accept this bonjour and you will be one lucky buoy](http://9gag.com/gag/aPAEy0G)
+ - 👉 [The circle of fifth](http://9gag.com/gag/ae9n3vB)<!-- MEMES:END -->
 
 --- 
 
