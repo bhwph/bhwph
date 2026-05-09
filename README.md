@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 hidden settings every Google Pixel owner needs to use](https://www.androidauthority.com/best-hidden-google-pixel-settings-3661179/)
- - [A profile of Anthropic CFO Krishna Rao, who tends to take a conservative approach to revenue projections and has chosen to raise less money than is available &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260509/p6#a260509p6)
- - [Palo Alto Networks says in its testing, three weeks of frontier AI-assisted analysis matched a full year of manual penetration testing, with broader coverage &lpar;Sam Rubin/Palo Alto Networks Blog&rpar;](https://www.techmeme.com/260509/p5#a260509p5)<!-- TECH:END -->
+ - [Anthropic, OpenAI, and other AI firms met with Hindu, Sikh, and Greek Orthodox leaders to draft principles on how to infuse models with ethics and morality &lpar;Krysta Fauria/Associated Press&rpar;](https://www.techmeme.com/260509/p11#a260509p11)
+ - [Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time](https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale)
+ - [GM agrees to pay $12.75M to resolve a California investigation into claims that it illegally sold the location and driving data of OnStar subscribers to brokers &lpar;David Shepardson/Reuters&rpar;](https://www.techmeme.com/260509/p10#a260509p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
