@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Steam Controller’s reservation queue is open](https://www.theverge.com/gadgets/924672/steam-controller-reservation-queue-buy)
- - [Sources: Apple and Intel have reached a formal deal in recent months for Intel to manufacture some chips for Apple devices &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260508/p24#a260508p24)
- - [The 46 best last-minute Mother’s Day gift ideas for 2026](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets)<!-- TECH:END -->
+ - [Honeywell&#39;s Quantinuum files for a US IPO, reporting a $136.6M net loss on revenue of $5.2M for the three months ended March 31; sources: it could raise $1.5B+ &lpar;Carmen Reinicke/Bloomberg&rpar;](https://www.techmeme.com/260508/p36#a260508p36)
+ - [Trump Media and Technology Group reports Q1 net sales up 6% YoY to $871,200 and a $405.9M net loss; DJT is down 35% so far in 2026 for a market cap of ~$2.47B &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260508/p35#a260508p35)
+ - [Premier League Soccer: Stream Man City vs. Brentford From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-city-vs-brentford-from-anywhere-live/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
