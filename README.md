@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A satisfying pizza experience](http://9gag.com/gag/aVvpOmO)
- - 😝 [Accept this bonjour and you will be one lucky buoy](http://9gag.com/gag/aPAEy0G)
- - 👉 [The circle of fifth](http://9gag.com/gag/ae9n3vB)<!-- MEMES:END -->
+ - 6️⃣ [Facts meet feelings](http://9gag.com/gag/aByA3zZ)
+ - 😝 [Hear me out](http://9gag.com/gag/amoeLby)
+ - 👉 [Slapped](http://9gag.com/gag/aVvpQKM)<!-- MEMES:END -->
 
 --- 
 
