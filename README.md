@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s never been a better time to grab a new Google TV launcher](https://www.androidauthority.com/install-google-tv-launcher-alternative-3663642/)
- - [Experian says 40% of the 5,000 data breaches it serviced in 2025 were AI-powered, and predicts agentic AI will be the leading cause of data breaches in 2026 &lpar;Jennah Haque/Bloomberg&rpar;](https://www.techmeme.com/260510/p8#a260510p8)
- - [Steeper discounts: MacBook Pros plunge to as low as $1,499, save up to $500](https://appleinsider.com/articles/26/05/10/steeper-discounts-macbook-pros-plunge-to-as-low-as-1499-save-up-to-500?utm_source=rss)<!-- TECH:END -->
+ - [A profile of Anduril CEO Brian Schimpf, a Palantir alum and self-identified Democrat, as Anduril&#39;s defense tech shakes up the US military-industrial complex &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260510/p11#a260510p11)
+ - [Liquid Glass won&#39;t get killed in macOS 27, expect a tune-up instead](https://appleinsider.com/articles/26/05/10/liquid-glass-wont-get-killed-in-macos-27-expect-a-tune-up-instead?utm_source=rss)
+ - [Not dead yet: Apple Vision still has a future](https://appleinsider.com/articles/26/05/10/not-dead-yet-apple-vision-still-has-a-future?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
