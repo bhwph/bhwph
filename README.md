@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Facts meet feelings](http://9gag.com/gag/aByA3zZ)
- - 😝 [Hear me out](http://9gag.com/gag/amoeLby)
+ - 😝 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)
  - 👉 [Slapped](http://9gag.com/gag/aVvpQKM)<!-- MEMES:END -->
 
 --- 
