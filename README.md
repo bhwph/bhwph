@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Facts meet feelings](http://9gag.com/gag/aByA3zZ)
- - 😝 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)
- - 👉 [Slapped](http://9gag.com/gag/aVvpQKM)<!-- MEMES:END -->
+ - 6️⃣ [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
+ - 😝 [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)
+ - 👉 [Facts meet feelings](http://9gag.com/gag/aByA3zZ)<!-- MEMES:END -->
 
 --- 
 
