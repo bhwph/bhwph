@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Execs at Palantir, whose stock is up ~16x since its AI platform&#39;s 2023 debut, often decry other AI as slop, as competition from frontier AI labs stiffens &lpar;Heather Somerville/Wall Street Journal&rpar;](https://www.techmeme.com/260509/p15#a260509p15)
- - [Premier League Soccer: Stream West Ham vs. Arsenal From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-west-ham-vs-arsenal-from-anywhere-live/)
- - [FCC passed an anti-robocall proposal requiring telecoms, including VoIP providers, to verify user identities before activating service, raising privacy fears &lpar;Ken Macon/Reclaim The Net&rpar;](https://www.techmeme.com/260509/p14#a260509p14)<!-- TECH:END -->
+ - [There’s never been a better time to grab a new Google TV launcher](https://www.androidauthority.com/install-google-tv-launcher-alternative-3663642/)
+ - [Experian says 40% of the 5,000 data breaches it serviced in 2025 were AI-powered, and predicts agentic AI will be the leading cause of data breaches in 2026 &lpar;Jennah Haque/Bloomberg&rpar;](https://www.techmeme.com/260510/p8#a260510p8)
+ - [Steeper discounts: MacBook Pros plunge to as low as $1,499, save up to $500](https://appleinsider.com/articles/26/05/10/steeper-discounts-macbook-pros-plunge-to-as-low-as-1499-save-up-to-500?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
