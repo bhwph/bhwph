@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
- - 😝 [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)
+ - 😝 [Well that escalated quickly](http://9gag.com/gag/aQzLn6r)
  - 👉 [Facts meet feelings](http://9gag.com/gag/aByA3zZ)<!-- MEMES:END -->
 
 --- 
