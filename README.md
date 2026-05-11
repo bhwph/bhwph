@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
+ - 6️⃣ [Maybe the Parisian subway during work hours is not that bad](http://9gag.com/gag/aoyv9j3)
  - 😝 [Well that escalated quickly](http://9gag.com/gag/aQzLn6r)
- - 👉 [Facts meet feelings](http://9gag.com/gag/aByA3zZ)<!-- MEMES:END -->
+ - 👉 [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)<!-- MEMES:END -->
 
 --- 
 
