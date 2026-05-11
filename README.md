@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple can&#39;t avoid $4.1 billion iCloud suit in UK](https://appleinsider.com/articles/26/05/07/apple-cant-avoid-41-billion-icloud-suit-in-uk?utm_source=rss)
- - [Microsoft&#39;s Playground Games accidentally uploads unencrypted pre-load files for Forza Horizon 6 to Steam, leaking the PC version before its release next week &lpar;Jez Corden/Windows Central&rpar;](https://www.techmeme.com/260511/p14#a260511p14)
- - [Circle raised $222M via the presale of its native Arc token at a $3B valuation; a16z led with a $75M investment, with participation from BlackRock and others &lpar;Tanaya Macheel/CNBC&rpar;](https://www.techmeme.com/260511/p13#a260511p13)<!-- TECH:END -->
+ - [Android Auto has an Audible UI problem, but the fix is easy](https://www.androidauthority.com/android-auto-audible-bug-3665556/)
+ - [macOS 26.5 arrives with no visible changes other than Maps ads &amp; subscriptions](https://appleinsider.com/articles/26/05/11/macos-265-arrives-with-visible-changes-other-than-maps-ads-subscriptions?utm_source=rss)
+ - [Users get an iPadOS 26.5 update focused on services &amp; subscriptions](https://appleinsider.com/articles/26/05/11/users-get-an-ipados-265-update-focused-on-services-subscriptions?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
