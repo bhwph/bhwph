@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Anduril CEO Brian Schimpf, a Palantir alum and self-identified Democrat, as Anduril&#39;s defense tech shakes up the US military-industrial complex &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260510/p11#a260510p11)
- - [Liquid Glass won&#39;t get killed in macOS 27, expect a tune-up instead](https://appleinsider.com/articles/26/05/10/liquid-glass-wont-get-killed-in-macos-27-expect-a-tune-up-instead?utm_source=rss)
- - [Not dead yet: Apple Vision still has a future](https://appleinsider.com/articles/26/05/10/not-dead-yet-apple-vision-still-has-a-future?utm_source=rss)<!-- TECH:END -->
+ - [Corporate lawyers say AI-transcribed meeting notes may not have attorney-client privilege, making otherwise protected conversations discoverable in lawsuits &lpar;Sarah Kessler/New York Times&rpar;](https://www.techmeme.com/260510/p16#a260510p16)
+ - [Sources: Cerebras plans to raise its IPO price range from $115-$125 per share to $150-$160 per share, potentially raising ~$4.8B at the top of the new range &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260510/p15#a260510p15)
+ - [A look at Janitor AI, a romantic fantasy roleplay chatbot site run by three men that claims 2.5M DAUs and 15M total users, with 70% to 80% identifying as women &lpar;Anna Tong/Forbes&rpar;](https://www.techmeme.com/260510/p14#a260510p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
