@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Corporate lawyers say AI-transcribed meeting notes may not have attorney-client privilege, making otherwise protected conversations discoverable in lawsuits &lpar;Sarah Kessler/New York Times&rpar;](https://www.techmeme.com/260510/p16#a260510p16)
- - [Sources: Cerebras plans to raise its IPO price range from $115-$125 per share to $150-$160 per share, potentially raising ~$4.8B at the top of the new range &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260510/p15#a260510p15)
- - [A look at Janitor AI, a romantic fantasy roleplay chatbot site run by three men that claims 2.5M DAUs and 15M total users, with 70% to 80% identifying as women &lpar;Anna Tong/Forbes&rpar;](https://www.techmeme.com/260510/p14#a260510p14)<!-- TECH:END -->
+ - [Apple can&#39;t avoid $4.1 billion iCloud suit in UK](https://appleinsider.com/articles/26/05/07/apple-cant-avoid-41-billion-icloud-suit-in-uk?utm_source=rss)
+ - [Microsoft&#39;s Playground Games accidentally uploads unencrypted pre-load files for Forza Horizon 6 to Steam, leaking the PC version before its release next week &lpar;Jez Corden/Windows Central&rpar;](https://www.techmeme.com/260511/p14#a260511p14)
+ - [Circle raised $222M via the presale of its native Arc token at a $3B valuation; a16z led with a $75M investment, with participation from BlackRock and others &lpar;Tanaya Macheel/CNBC&rpar;](https://www.techmeme.com/260511/p13#a260511p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
