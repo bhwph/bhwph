@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Maybe the Parisian subway during work hours is not that bad](http://9gag.com/gag/aoyv9j3)
- - 😝 [Oh.](http://9gag.com/gag/aAy8pdg)
- - 👉 [Timmy](http://9gag.com/gag/amoe81y)<!-- MEMES:END -->
+ - 6️⃣ [Core memory locked...Dads are best](http://9gag.com/gag/ajPzA81)
+ - 😝 [The creators know what they&#39;re doing](http://9gag.com/gag/aByAYdA)
+ - 👉 [He learned the trick from Tarantino](http://9gag.com/gag/agmDGAq)<!-- MEMES:END -->
 
 --- 
 
