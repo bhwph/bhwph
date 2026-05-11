@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Maybe the Parisian subway during work hours is not that bad](http://9gag.com/gag/aoyv9j3)
- - 😝 [Well that escalated quickly](http://9gag.com/gag/aQzLn6r)
- - 👉 [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)<!-- MEMES:END -->
+ - 😝 [Oh.](http://9gag.com/gag/aAy8pdg)
+ - 👉 [Timmy](http://9gag.com/gag/amoe81y)<!-- MEMES:END -->
 
 --- 
 
