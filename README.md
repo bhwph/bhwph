@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Core memory locked...Dads are best](http://9gag.com/gag/ajPzA81)
- - 😝 [The creators know what they&#39;re doing](http://9gag.com/gag/aByAYdA)
- - 👉 [He learned the trick from Tarantino](http://9gag.com/gag/agmDGAq)<!-- MEMES:END -->
+ - 6️⃣ [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)
+ - 😝 [Official Adidas production line](http://9gag.com/gag/axyLgGb)
+ - 👉 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)<!-- MEMES:END -->
 
 --- 
 
