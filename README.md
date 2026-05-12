@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)
- - 😝 [Official Adidas production line](http://9gag.com/gag/axyLgGb)
- - 👉 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)<!-- MEMES:END -->
+ - 6️⃣ [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
+ - 😝 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)
+ - 👉 [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)<!-- MEMES:END -->
 
 --- 
 
