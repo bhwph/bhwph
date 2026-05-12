@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: new revenue sharing terms cap OpenAI&#39;s payments to Microsoft at $38B; they previously could have totaled $135B through 2030 if long-term goals were met &lpar;The Information&rpar;](https://www.techmeme.com/260511/p45#a260511p45)
- - [Android Owners: You Could Get Part of Google&#39;s $135 Million Data Settlement](https://www.cnet.com/tech/mobile/android-users-you-could-get-part-of-googles-135-million-data-settlement/)
- - [The US Commerce Department removed from its website details about its May 5 agreement with Google, xAI, and Microsoft to test their AI models &lpar;Courtney Rozen/Reuters&rpar;](https://www.techmeme.com/260511/p44#a260511p44)<!-- TECH:END -->
+ - [eBay rejects GameStop&#39;s $56B takeover offer, saying the unsolicited bid is &quot;neither credible nor attractive&quot;, in a letter from eBay Chairman Paul Pressler &lpar;Bloomberg&rpar;](https://www.techmeme.com/260512/p10#a260512p10)
+ - [Amp, which aims to buy excess computing capacity from data center operators to sell to startups, universities, and more, raised $1.3B from a16z and others &lpar;Cade Metz/New York Times&rpar;](https://www.techmeme.com/260512/p9#a260512p9)
+ - [Sources: Jensen Huang was not invited to travel with President Trump on his China trip, a potential setback to Nvidia; Huang expressed his willingness to join &lpar;Bloomberg&rpar;](https://www.techmeme.com/260512/p8#a260512p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
