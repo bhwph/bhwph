@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [eBay rejects GameStop&#39;s $56B takeover offer, saying the unsolicited bid is &quot;neither credible nor attractive&quot;, in a letter from eBay Chairman Paul Pressler &lpar;Bloomberg&rpar;](https://www.techmeme.com/260512/p10#a260512p10)
- - [Amp, which aims to buy excess computing capacity from data center operators to sell to startups, universities, and more, raised $1.3B from a16z and others &lpar;Cade Metz/New York Times&rpar;](https://www.techmeme.com/260512/p9#a260512p9)
- - [Sources: Jensen Huang was not invited to travel with President Trump on his China trip, a potential setback to Nvidia; Huang expressed his willingness to join &lpar;Bloomberg&rpar;](https://www.techmeme.com/260512/p8#a260512p8)<!-- TECH:END -->
+ - [Google unveils a &quot;full bleed&quot; Android Auto design that fills unconventionally shaped screens like in the BMW Neue Klasse, plans to add YouTube video streaming &lpar;Andrew J. Hawkins/The Verge&rpar;](https://www.techmeme.com/260512/p39#a260512p39)
+ - [Google unveils Android security features, including protection from spoofed banking calls, default theft protection, and biometric protection for Mark as lost &lpar;Adamya Sharma/Android Authority&rpar;](https://www.techmeme.com/260512/p38#a260512p38)
+ - [Price war: M5 MacBook Pro with 32GB RAM, 1TB SSD falls to record low $1,799](https://appleinsider.com/articles/26/05/12/price-war-m5-macbook-pro-with-32gb-ram-1tb-ssd-falls-to-record-low-1799?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
