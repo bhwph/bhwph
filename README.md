@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
- - 😝 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)
- - 👉 [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)<!-- MEMES:END -->
+ - 6️⃣ [Sooooo, how are they gonna go back?](http://9gag.com/gag/a2v3501)
+ - 😝 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
+ - 👉 [No wonder why journalists love this game. The game plays itself.](http://9gag.com/gag/aByAYpO)<!-- MEMES:END -->
 
 --- 
 
