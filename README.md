@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google unveils a &quot;full bleed&quot; Android Auto design that fills unconventionally shaped screens like in the BMW Neue Klasse, plans to add YouTube video streaming &lpar;Andrew J. Hawkins/The Verge&rpar;](https://www.techmeme.com/260512/p39#a260512p39)
- - [Google unveils Android security features, including protection from spoofed banking calls, default theft protection, and biometric protection for Mark as lost &lpar;Adamya Sharma/Android Authority&rpar;](https://www.techmeme.com/260512/p38#a260512p38)
- - [Price war: M5 MacBook Pro with 32GB RAM, 1TB SSD falls to record low $1,799](https://appleinsider.com/articles/26/05/12/price-war-m5-macbook-pro-with-32gb-ram-1tb-ssd-falls-to-record-low-1799?utm_source=rss)<!-- TECH:END -->
+ - [Nvidia says that Jensen Huang is joining President Trump on his China trip; source: the president asked Huang to join after seeing media coverage of his absence &lpar;CNBC&rpar;](https://www.techmeme.com/260512/p64#a260512p64)
+ - [Waymo recalls ~3,800 robotaxis in the US to fix software issues that may cause them to drive onto flooded roads, after some were seen stalled on flooded streets &lpar;Lora Kolodny/CNBC&rpar;](https://www.techmeme.com/260512/p63#a260512p63)
+ - [Sony puts the spotlight on camera upgrades with Xperia 1 VIII launch](https://www.androidauthority.com/sony-xperia-1-viii-3666078/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
