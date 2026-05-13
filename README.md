@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Official Adidas production line](http://9gag.com/gag/axyLgGb)
- - 😝 [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)
- - 👉 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)<!-- MEMES:END -->
+ - 6️⃣ [Freestyler](http://9gag.com/gag/a9yxrY1)
+ - 😝 [Possibly repost, but I don&#39;t care...](http://9gag.com/gag/avyMnj5)
+ - 👉 [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)<!-- MEMES:END -->
 
 --- 
 
