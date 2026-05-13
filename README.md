@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia says that Jensen Huang is joining President Trump on his China trip; source: the president asked Huang to join after seeing media coverage of his absence &lpar;CNBC&rpar;](https://www.techmeme.com/260512/p64#a260512p64)
- - [Waymo recalls ~3,800 robotaxis in the US to fix software issues that may cause them to drive onto flooded roads, after some were seen stalled on flooded streets &lpar;Lora Kolodny/CNBC&rpar;](https://www.techmeme.com/260512/p63#a260512p63)
- - [Sony puts the spotlight on camera upgrades with Xperia 1 VIII launch](https://www.androidauthority.com/sony-xperia-1-viii-3666078/)<!-- TECH:END -->
+ - [The Lucy Faithfull Foundation&#39;s Project Intercept, a partnership with Google, TikTok, and Meta, sent 70M+ warning messages to users seeking CSAM in two years &lpar;Shiona McCallum/BBC&rpar;](https://www.techmeme.com/260513/p15#a260513p15)
+ - [Googlebook is proof Android still has an identity problem](https://www.androidauthority.com/googlebook-awful-name-android-problem-3665515/)
+ - [Ikea’s New Designer Collection Is Home-Office Heaven](https://www.wired.com/story/ikea-2026-ps-collection/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
