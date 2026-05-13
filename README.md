@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Lucy Faithfull Foundation&#39;s Project Intercept, a partnership with Google, TikTok, and Meta, sent 70M+ warning messages to users seeking CSAM in two years &lpar;Shiona McCallum/BBC&rpar;](https://www.techmeme.com/260513/p15#a260513p15)
- - [Googlebook is proof Android still has an identity problem](https://www.androidauthority.com/googlebook-awful-name-android-problem-3665515/)
- - [Ikea’s New Designer Collection Is Home-Office Heaven](https://www.wired.com/story/ikea-2026-ps-collection/)<!-- TECH:END -->
+ - [Meta says its new Incognito AI chats are ‘completely private’](https://www.androidauthority.com/meta-incognito-ai-whatsapp-3666665/)
+ - [Survey confirms: Galaxy Ultra fans want Samsung to bring the old swagger back](https://www.androidauthority.com/galaxy-ultra-phones-losing-identity-poll-results-3666658/)
+ - [Amazon’s Panos Panay has a complicated response to Fire Phone 2.0 rumors](https://www.androidauthority.com/new-amazon-fire-phone-3666611/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
