@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sooooo, how are they gonna go back?](http://9gag.com/gag/a2v3501)
- - 😝 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
- - 👉 [No wonder why journalists love this game. The game plays itself.](http://9gag.com/gag/aByAYpO)<!-- MEMES:END -->
+ - 6️⃣ [Official Adidas production line](http://9gag.com/gag/axyLgGb)
+ - 😝 [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)
+ - 👉 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)<!-- MEMES:END -->
 
 --- 
 
