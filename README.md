@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook is back in China, this time with Trump and Elon Musk](https://appleinsider.com/articles/26/05/14/tim-cook-is-back-in-china-this-time-with-trump-and-elon-musk?utm_source=rss)
- - [HelloFresh Meal Kit Review &lpar;2026&rpar;: Vast Options, Good Execution](https://www.wired.com/review/hellofresh-meal-kit-2026/)
- - [Zhaopin: Chinese graduates returning home from abroad rose 12% YoY in 2025, fueling Beijing&#39;s plans to take on Silicon Valley; China is offering big incentives &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260514/p9#a260514p9)<!-- TECH:END -->
+ - [Use this map to find the data centers in your backyard](https://www.theverge.com/policy/930629/data-center-policy-map-interactive)
+ - [Homey just turned your Android TV into a full smart home dashboard](https://www.androidauthority.com/homey-apps-on-android-tv-webos-3667143/)
+ - [Cerebras opens at $350, valuing the chipmaker at $100B+, after raising $5.5B by selling 30M shares at $185, the largest US tech IPO since Uber&#39;s debut in 2019 &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260514/p26#a260514p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
