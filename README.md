@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok launches TikTok GO in the US for users to book hotels, attractions, and experiences directly in the app, partnering with Booking.com, Expedia, and others &lpar;Aisha Malik/TechCrunch&rpar;](https://www.techmeme.com/260513/p54#a260513p54)
- - [OpenEvidence, an AI-powered medical search tool, says it&#39;s used by two-thirds of US physicians, or ~650K doctors, and an additional 1.2M doctors internationally &lpar;Jared Perlo/NBC News&rpar;](https://www.techmeme.com/260513/p53#a260513p53)
- - [Sources: Apollo Global, Morgan Stanley, and others are testing Grok internally as part of xAI&#39;s finance sector push, but financiers are rarely using it for work &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260513/p52#a260513p52)<!-- TECH:END -->
+ - [Tim Cook is back in China, this time with Trump and Elon Musk](https://appleinsider.com/articles/26/05/14/tim-cook-is-back-in-china-this-time-with-trump-and-elon-musk?utm_source=rss)
+ - [HelloFresh Meal Kit Review &lpar;2026&rpar;: Vast Options, Good Execution](https://www.wired.com/review/hellofresh-meal-kit-2026/)
+ - [Zhaopin: Chinese graduates returning home from abroad rose 12% YoY in 2025, fueling Beijing&#39;s plans to take on Silicon Valley; China is offering big incentives &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260514/p9#a260514p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
