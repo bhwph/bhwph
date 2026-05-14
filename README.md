@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
- - 😝 [The process of surgically `flushing` kidney stones refers to techniques like saline irrigation used during minimally invasive surgeries to clear out fragments and stone dust.](http://9gag.com/gag/axyLVbL)
- - 👉 [Taekwondo](http://9gag.com/gag/aKGQVOO)<!-- MEMES:END -->
+ - 6️⃣ [Evolution of Windows, Updated](http://9gag.com/gag/adBG7yV)
+ - 😝 [Hola guapa](http://9gag.com/gag/aXPyqYP)
+ - 👉 [He choose freedom](http://9gag.com/gag/a87RoW1)<!-- MEMES:END -->
 
 --- 
 
