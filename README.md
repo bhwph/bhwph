@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says its new Incognito AI chats are ‘completely private’](https://www.androidauthority.com/meta-incognito-ai-whatsapp-3666665/)
- - [Survey confirms: Galaxy Ultra fans want Samsung to bring the old swagger back](https://www.androidauthority.com/galaxy-ultra-phones-losing-identity-poll-results-3666658/)
- - [Amazon’s Panos Panay has a complicated response to Fire Phone 2.0 rumors](https://www.androidauthority.com/new-amazon-fire-phone-3666611/)<!-- TECH:END -->
+ - [TikTok launches TikTok GO in the US for users to book hotels, attractions, and experiences directly in the app, partnering with Booking.com, Expedia, and others &lpar;Aisha Malik/TechCrunch&rpar;](https://www.techmeme.com/260513/p54#a260513p54)
+ - [OpenEvidence, an AI-powered medical search tool, says it&#39;s used by two-thirds of US physicians, or ~650K doctors, and an additional 1.2M doctors internationally &lpar;Jared Perlo/NBC News&rpar;](https://www.techmeme.com/260513/p53#a260513p53)
+ - [Sources: Apollo Global, Morgan Stanley, and others are testing Grok internally as part of xAI&#39;s finance sector push, but financiers are rarely using it for work &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260513/p52#a260513p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
