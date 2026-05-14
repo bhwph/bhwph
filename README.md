@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)
- - 😝 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)
- - 👉 [The slaps felt personal](http://9gag.com/gag/avyMGwb)<!-- MEMES:END -->
+ - 6️⃣ [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
+ - 😝 [The process of surgically `flushing` kidney stones refers to techniques like saline irrigation used during minimally invasive surgeries to clear out fragments and stone dust.](http://9gag.com/gag/axyLVbL)
+ - 👉 [Taekwondo](http://9gag.com/gag/aKGQVOO)<!-- MEMES:END -->
 
 --- 
 
