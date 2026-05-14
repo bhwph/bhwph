@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Evolution of Windows, Updated](http://9gag.com/gag/adBG7yV)
- - 😝 [Hola guapa](http://9gag.com/gag/aXPyqYP)
- - 👉 [He choose freedom](http://9gag.com/gag/a87RoW1)<!-- MEMES:END -->
+ - 6️⃣ [Hola guapa](http://9gag.com/gag/aXPyqYP)
+ - 😝 [As Expected..](http://9gag.com/gag/aGymer7)
+ - 👉 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)<!-- MEMES:END -->
 
 --- 
 
