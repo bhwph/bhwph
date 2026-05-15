@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No idea if anyone here cares, but I just needed to get this off my chest.](http://9gag.com/gag/ae9neLW)
- - 😝 [Bee Bar](http://9gag.com/gag/aAy832g)
- - 👉 [Finally, a solution for hockey players](http://9gag.com/gag/aRBb3B5)<!-- MEMES:END -->
+ - 6️⃣ [Nolan bent the knee](http://9gag.com/gag/aZZ6Lg6)
+ - 😝 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
+ - 👉 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)<!-- MEMES:END -->
 
 --- 
 
