@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hola guapa](http://9gag.com/gag/aXPyqYP)
- - 😝 [As Expected..](http://9gag.com/gag/aGymer7)
- - 👉 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)<!-- MEMES:END -->
+ - 6️⃣ [Lady&#39;s initial reaction to hearing she got sentences to life.](http://9gag.com/gag/avyMO9E)
+ - 😝 [Jesus took the express elevator to heaven](http://9gag.com/gag/aYQ3gx0)
+ - 👉 [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)<!-- MEMES:END -->
 
 --- 
 
