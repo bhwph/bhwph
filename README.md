@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Use this map to find the data centers in your backyard](https://www.theverge.com/policy/930629/data-center-policy-map-interactive)
- - [Homey just turned your Android TV into a full smart home dashboard](https://www.androidauthority.com/homey-apps-on-android-tv-webos-3667143/)
- - [Cerebras opens at $350, valuing the chipmaker at $100B+, after raising $5.5B by selling 30M shares at $185, the largest US tech IPO since Uber&#39;s debut in 2019 &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260514/p26#a260514p26)<!-- TECH:END -->
+ - [In a policy paper, Anthropic urges the US and allies to enforce export controls, curb distillation attacks, and export US AI to hold the lead over China by 2028 &lpar;Anthropic&rpar;](https://www.techmeme.com/260514/p44#a260514p44)
+ - [Security research firm Calif says it used Mythos to help build a macOS kernel memory corruption exploit circumventing Apple&#39;s Memory Integrity Enforcement tech &lpar;Robert McMillan/Wall Street Journal&rpar;](https://www.techmeme.com/260514/p43#a260514p43)
+ - [Sources: Anthropic has agreed to the terms of a $30B fundraising at a $900B valuation, with Sequoia, Dragoneer, Greenoaks, and Altimeter co-leading the round &lpar;George Hammond/Financial Times&rpar;](https://www.techmeme.com/260514/p42#a260514p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
