@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Slay The Spire 2 Is Getting Review Bombed Again, This Time Because Of Chuds](https://kotaku.com/slay-the-spire-2-is-getting-review-bombed-again-this-time-because-of-chuds-2000693961)
- - [Silent Night, Deadly Night is getting a new sequel from the best possible writer](https://www.polygon.com/silent-night-deadlier-night-novel/)
- - [Aliens: Fireteam Elite 2 is coming this summer, now with more marines and a &#39;massive variety of new xenomorphs&#39; to slice &#39;em up](https://www.pcgamer.com/games/fps/aliens-fireteam-elite-2-is-coming-this-summer-now-with-more-marines-and-a-massive-variety-of-new-xenomorphs-to-slice-em-up/)<!-- GAME:END -->
+ - [How to investigate the Tadpole Pens in Subnautica 2](https://www.pcgamer.com/games/survival-crafting/subnautica-2-tadpole-pens-zip-black-box-location/)
+ - [15% of PC Gamer readers are still rawdogging their desktops, while 43% of you are wholesome full desk pad people](https://www.pcgamer.com/hardware/15-percent-of-pc-gamer-readers-are-still-rawdogging-their-desktops-while-43-percent-of-you-are-wholesome-full-desk-pad-people/)
+ - [Windrose hits 2 million sales milestone, proving yet again that the world really, really wanted a good pirate game](https://www.pcgamer.com/games/action/windrose-hits-2-million-sales-milestone-proving-yet-again-that-the-world-really-really-wanted-a-good-pirate-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
