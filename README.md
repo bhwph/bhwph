@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI Osmo Pocket 4P is official, but you can’t pocket it just yet](https://www.androidauthority.com/dji-osmo-pocket-4-official-reveal-3667429/)
- - [As a Samsung fan, I love what Motorola is doing with the Razr](https://www.androidauthority.com/samsung-fan-love-2026-razr-lineup-why-3664686/)
- - [A Woman Was in the US Legally. She Was Deported Anyways](https://www.wired.com/story/a-woman-was-in-the-us-legally-she-was-deported-anyways/)<!-- TECH:END -->
+ - [New Apple Card promotion could net applicants free AirPods Pro 3](https://appleinsider.com/articles/26/05/15/new-apple-card-promotion-could-net-applicants-free-airpods-pro-3?utm_source=rss)
+ - [Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shakeup](https://www.wired.com/story/openai-reorg-greg-brockman-product/)
+ - [AI radio hosts demonstrate why AI can’t be trusted alone](https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
