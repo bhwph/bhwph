@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a policy paper, Anthropic urges the US and allies to enforce export controls, curb distillation attacks, and export US AI to hold the lead over China by 2028 &lpar;Anthropic&rpar;](https://www.techmeme.com/260514/p44#a260514p44)
- - [Security research firm Calif says it used Mythos to help build a macOS kernel memory corruption exploit circumventing Apple&#39;s Memory Integrity Enforcement tech &lpar;Robert McMillan/Wall Street Journal&rpar;](https://www.techmeme.com/260514/p43#a260514p43)
- - [Sources: Anthropic has agreed to the terms of a $30B fundraising at a $900B valuation, with Sequoia, Dragoneer, Greenoaks, and Altimeter co-leading the round &lpar;George Hammond/Financial Times&rpar;](https://www.techmeme.com/260514/p42#a260514p42)<!-- TECH:END -->
+ - [DJI Osmo Pocket 4P is official, but you can’t pocket it just yet](https://www.androidauthority.com/dji-osmo-pocket-4-official-reveal-3667429/)
+ - [As a Samsung fan, I love what Motorola is doing with the Razr](https://www.androidauthority.com/samsung-fan-love-2026-razr-lineup-why-3664686/)
+ - [A Woman Was in the US Legally. She Was Deported Anyways](https://www.wired.com/story/a-woman-was-in-the-us-legally-she-was-deported-anyways/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
