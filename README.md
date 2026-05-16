@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What a 5GB storage limit means for your new Google account](https://www.androidauthority.com/google-5gb-storage-limit-3667490/)
- - [Asteroid 2026 JH2 Is About to Fly Right Past Earth—Relatively Speaking](https://www.wired.com/story/asteroid-2026-jh2-is-about-to-fly-right-past-the-earth-relatively-speaking/)
- - [US Bureau of Labor Statistics data: employment in 18 AI-exposed occupations fell 0.2% between May 2024 and May 2025, while the broader US labor market rose 0.8% &lpar;Matthew Boesler/Bloomberg&rpar;](https://www.techmeme.com/260516/p4#a260516p4)<!-- TECH:END -->
+ - [On Pwn2Own Berlin 2026 day 2, competitors earned $385,750 after exploiting 15 unique zero-day vulnerabilities in Windows 11, Red Hat Enterprise Linux and more &lpar;Sergiu Gatlan/BleepingComputer&rpar;](https://www.techmeme.com/260516/p7#a260516p7)
+ - [Sony tries to explain that its AI Camera Assistant doesn’t suck](https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant)
+ - [NPR’s Manoush Zomorodi talks about living with too much tech](https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
