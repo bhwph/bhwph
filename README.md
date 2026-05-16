@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Re-Cried Beans](http://9gag.com/gag/a9yxKoK)
- - 😝 [Now don&#39;t be sexist.](http://9gag.com/gag/a1myRL2)
- - 👉 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)<!-- MEMES:END -->
+ - 6️⃣ [He tried to lift around 80-100kg piles of sulfur pieces](http://9gag.com/gag/a9yxRZ1)
+ - 😝 [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
+ - 👉 [That&#39;s a neat discovery..](http://9gag.com/gag/aRBb0qG)<!-- MEMES:END -->
 
 --- 
 
