@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Apple Card promotion could net applicants free AirPods Pro 3](https://appleinsider.com/articles/26/05/15/new-apple-card-promotion-could-net-applicants-free-airpods-pro-3?utm_source=rss)
- - [Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shakeup](https://www.wired.com/story/openai-reorg-greg-brockman-product/)
- - [AI radio hosts demonstrate why AI can’t be trusted alone](https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies)<!-- TECH:END -->
+ - [Power prices on the largest electric grid in the US, operated by PJM, jumped 76% YoY to an average of $136.53/MWh in Q1 due to rampant demand from data centers &lpar;John Ainger/Bloomberg&rpar;](https://www.techmeme.com/260515/p35#a260515p35)
+ - [Sources: OpenAI acquired Weights.gg, which offered AI tools to create clones of people&#39;s voices, earlier this year; PitchBook: Weights.gg had raised roughly $4M &lpar;Mike Isaac/New York Times&rpar;](https://www.techmeme.com/260515/p34#a260515p34)
+ - [Sources detail friction between Samsung&#39;s memory and logic chip businesses over higher bonuses for memory chip workers, leading many to leave or apply elsewhere &lpar;Hyunjoo Jin/Reuters&rpar;](https://www.techmeme.com/260515/p33#a260515p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
