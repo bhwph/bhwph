@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Power prices on the largest electric grid in the US, operated by PJM, jumped 76% YoY to an average of $136.53/MWh in Q1 due to rampant demand from data centers &lpar;John Ainger/Bloomberg&rpar;](https://www.techmeme.com/260515/p35#a260515p35)
- - [Sources: OpenAI acquired Weights.gg, which offered AI tools to create clones of people&#39;s voices, earlier this year; PitchBook: Weights.gg had raised roughly $4M &lpar;Mike Isaac/New York Times&rpar;](https://www.techmeme.com/260515/p34#a260515p34)
- - [Sources detail friction between Samsung&#39;s memory and logic chip businesses over higher bonuses for memory chip workers, leading many to leave or apply elsewhere &lpar;Hyunjoo Jin/Reuters&rpar;](https://www.techmeme.com/260515/p33#a260515p33)<!-- TECH:END -->
+ - [What a 5GB storage limit means for your new Google account](https://www.androidauthority.com/google-5gb-storage-limit-3667490/)
+ - [Asteroid 2026 JH2 Is About to Fly Right Past Earth—Relatively Speaking](https://www.wired.com/story/asteroid-2026-jh2-is-about-to-fly-right-past-the-earth-relatively-speaking/)
+ - [US Bureau of Labor Statistics data: employment in 18 AI-exposed occupations fell 0.2% between May 2024 and May 2025, while the broader US labor market rose 0.8% &lpar;Matthew Boesler/Bloomberg&rpar;](https://www.techmeme.com/260516/p4#a260516p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
