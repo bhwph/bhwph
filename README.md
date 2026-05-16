@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nolan bent the knee](http://9gag.com/gag/aZZ6Lg6)
- - 😝 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
- - 👉 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)<!-- MEMES:END -->
+ - 6️⃣ [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
+ - 😝 [Woman from Paraguay arrested after robbing an old man, she claims to be a needy woman down on her luck, really tough to decide between law or a justified crime](http://9gag.com/gag/aND7Y5w)
+ - 👉 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)<!-- MEMES:END -->
 
 --- 
 
