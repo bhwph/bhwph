@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
- - 😝 [Woman from Paraguay arrested after robbing an old man, she claims to be a needy woman down on her luck, really tough to decide between law or a justified crime](http://9gag.com/gag/aND7Y5w)
- - 👉 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)<!-- MEMES:END -->
+ - 6️⃣ [Re-Cried Beans](http://9gag.com/gag/a9yxKoK)
+ - 😝 [Now don&#39;t be sexist.](http://9gag.com/gag/a1myRL2)
+ - 👉 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)<!-- MEMES:END -->
 
 --- 
 
