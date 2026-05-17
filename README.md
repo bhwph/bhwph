@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nectar Social, which offers an agentic OS for marketers, raised a $30M Series A led by Menlo Ventures, with GV and True Ventures among investors &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260516/p12#a260516p12)
- - [Trump Phone Starts Shipping This Week After 9-Month Delay](https://www.cnet.com/tech/mobile/trump-phone-will-finally-ship-this-week-after-months-long-delay/)
- - [&#39;Euphoria&#39; Season 3, Episode 6: Release Date and Time on HBO Max](https://www.cnet.com/tech/services-and-software/euphoria-season-3-episode-6-release-date-and-time-on-hbo-max/)<!-- TECH:END -->
+ - [A profile of SAS CEO Jim Goodnight, the 83-year-old who co-founded the 50-year-old analytics firm and holds a ~67% stake worth $13.3B, as AI tests SAS&#39; strategy &lpar;Phoebe Liu/Forbes&rpar;](https://www.techmeme.com/260517/p5#a260517p5)
+ - [Gaza Is Rebuilding With Lego-Like Bricks Made From Rubble](https://www.wired.com/story/gaza-is-rebuilding-with-lego-like-bricks-made-from-rubble/)
+ - [I spent a week with Walmart’s new $60 Google TV streamer, and I’m already blown away](https://www.androidauthority.com/walmart-onn-4k-pro-2026-hands-on-3667123/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
