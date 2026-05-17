@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He tried to lift around 80-100kg piles of sulfur pieces](http://9gag.com/gag/a9yxRZ1)
- - 😝 [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
- - 👉 [That&#39;s a neat discovery..](http://9gag.com/gag/aRBb0qG)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s true](http://9gag.com/gag/aND7gg0)
+ - 😝 [Wise words](http://9gag.com/gag/aLnZwr5)
+ - 👉 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)<!-- MEMES:END -->
 
 --- 
 
