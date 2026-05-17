@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of SAS CEO Jim Goodnight, the 83-year-old who co-founded the 50-year-old analytics firm and holds a ~67% stake worth $13.3B, as AI tests SAS&#39; strategy &lpar;Phoebe Liu/Forbes&rpar;](https://www.techmeme.com/260517/p5#a260517p5)
- - [Gaza Is Rebuilding With Lego-Like Bricks Made From Rubble](https://www.wired.com/story/gaza-is-rebuilding-with-lego-like-bricks-made-from-rubble/)
- - [I spent a week with Walmart’s new $60 Google TV streamer, and I’m already blown away](https://www.androidauthority.com/walmart-onn-4k-pro-2026-hands-on-3667123/)<!-- TECH:END -->
+ - [Sources: DayOne, the spinoff of China&#39;s largest data center operator GDS Holdings, plans dual IPO in Singapore and NY, seeking to raise $5B at a ~$20B valuation &lpar;Owen Walker/Financial Times&rpar;](https://www.techmeme.com/260517/p8#a260517p8)
+ - [Genmoji in iOS 27 will use what you type and what&#39;s in Photos for suggestions](https://appleinsider.com/articles/26/05/17/genmoji-in-ios-27-will-use-what-you-type-and-whats-in-photos-for-suggestions?utm_source=rss)
+ - [Privacy &amp; data security will remain tantamount for Apple&#39;s 2026 AI push](https://appleinsider.com/articles/26/05/17/privacy-data-security-will-remain-tantamount-for-apples-2026-ai-push?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
