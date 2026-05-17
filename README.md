@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [On Pwn2Own Berlin 2026 day 2, competitors earned $385,750 after exploiting 15 unique zero-day vulnerabilities in Windows 11, Red Hat Enterprise Linux and more &lpar;Sergiu Gatlan/BleepingComputer&rpar;](https://www.techmeme.com/260516/p7#a260516p7)
- - [Sony tries to explain that its AI Camera Assistant doesn’t suck](https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant)
- - [NPR’s Manoush Zomorodi talks about living with too much tech](https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire)<!-- TECH:END -->
+ - [Nectar Social, which offers an agentic OS for marketers, raised a $30M Series A led by Menlo Ventures, with GV and True Ventures among investors &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260516/p12#a260516p12)
+ - [Trump Phone Starts Shipping This Week After 9-Month Delay](https://www.cnet.com/tech/mobile/trump-phone-will-finally-ship-this-week-after-months-long-delay/)
+ - [&#39;Euphoria&#39; Season 3, Episode 6: Release Date and Time on HBO Max](https://www.cnet.com/tech/services-and-software/euphoria-season-3-episode-6-release-date-and-time-on-hbo-max/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
