@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Circassian folk dance](http://9gag.com/gag/aE09Pvx)
- - 😝 [Potentially Stingy Situation](http://9gag.com/gag/a9yxR1Z)
- - 👉 [Pathetic](http://9gag.com/gag/aND7gGv)<!-- MEMES:END -->
+ - 6️⃣ [There are some tragedies we simply cannot avoid. When life brings problems beyond your control just remember if there is no solution, then there is no problem\u2026](http://9gag.com/gag/ajPzmL8)
+ - 😝 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)
+ - 👉 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)<!-- MEMES:END -->
 
 --- 
 
