@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There are some tragedies we simply cannot avoid. When life brings problems beyond your control just remember if there is no solution, then there is no problem\u2026](http://9gag.com/gag/ajPzmL8)
- - 😝 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)
- - 👉 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)<!-- MEMES:END -->
+ - 6️⃣ [Close](http://9gag.com/gag/aXPyrAD)
+ - 😝 [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)
+ - 👉 [Dropping an anchor can be dangerous](http://9gag.com/gag/aYQ3ogw)<!-- MEMES:END -->
 
 --- 
 
