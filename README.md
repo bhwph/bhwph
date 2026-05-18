@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Close](http://9gag.com/gag/aXPyrAD)
- - 😝 [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)
- - 👉 [Dropping an anchor can be dangerous](http://9gag.com/gag/aYQ3ogw)<!-- MEMES:END -->
+ - 6️⃣ [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)
+ - 😝 [Tis a sad day](http://9gag.com/gag/awyEzGW)
+ - 👉 [Game](http://9gag.com/gag/aW4rGmq)<!-- MEMES:END -->
 
 --- 
 
