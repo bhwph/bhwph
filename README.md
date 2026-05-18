@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Apple&#39;s ongoing strategy to repurpose &quot;binned&quot; chips for cheaper devices; sources: Apple placed new A18 Pro orders for MacBook Neo amid its popularity &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260517/p17#a260517p17)
- - [New York City-based GovWell, which uses AI to streamline government processes like permitting and licensing, raised a $25M Series A led by Insight Partners &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260517/p16#a260517p16)
- - [AI sales automation startup Monaco raised a $50M Series B led by Benchmark, bringing its total funding to $85M after raising a $25M Series A in February 2026 &lpar;Ben Bergman/Business Insider&rpar;](https://www.techmeme.com/260517/p15#a260517p15)<!-- TECH:END -->
+ - [India&#39;s Apple antitrust case gets minor reprieve as fears of $38 billion fine continue](https://appleinsider.com/articles/26/05/18/indias-apple-antitrust-case-gets-minor-reprieve-as-fears-of-38-billion-fine-continue?utm_source=rss)
+ - [The best tech to upgrade your patio and pool this summer](https://www.androidauthority.com/pool-patio-tech-3666244/)
+ - [How gambling companies like FanDuel and DraftKings, as well as Meta and a16z&#39;s founders, are pouring millions into state-level election campaigns via super PACs &lpar;Emily Birnbaum/Bloomberg&rpar;](https://www.techmeme.com/260518/p17#a260518p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
