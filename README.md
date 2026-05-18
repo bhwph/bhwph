@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)
- - 😝 [Tis a sad day](http://9gag.com/gag/awyEzGW)
+ - 6️⃣ [Who is also interested in: The Hoek\u00e9dex?](http://9gag.com/gag/aGymzmw)
+ - 😝 [Help, farmer stuck!](http://9gag.com/gag/ae9nQBb)
  - 👉 [Game](http://9gag.com/gag/aW4rGmq)<!-- MEMES:END -->
 
 --- 
