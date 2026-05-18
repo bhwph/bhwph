@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s Apple antitrust case gets minor reprieve as fears of $38 billion fine continue](https://appleinsider.com/articles/26/05/18/indias-apple-antitrust-case-gets-minor-reprieve-as-fears-of-38-billion-fine-continue?utm_source=rss)
- - [The best tech to upgrade your patio and pool this summer](https://www.androidauthority.com/pool-patio-tech-3666244/)
- - [How gambling companies like FanDuel and DraftKings, as well as Meta and a16z&#39;s founders, are pouring millions into state-level election campaigns via super PACs &lpar;Emily Birnbaum/Bloomberg&rpar;](https://www.techmeme.com/260518/p17#a260518p17)<!-- TECH:END -->
+ - [All of the updates from Elon Musk and Sam Altman’s battle over OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
+ - [Elon Musk Loses Landmark Lawsuit Against OpenAI](https://www.wired.com/story/musk-v-altman-jury-verdict/)
+ - [Musk v. Altman jury unanimously rejects Elon Musk&#39;s claims against Sam Altman; the judge dismisses two additional claims citing the statute of limitation &lpar;CNBC&rpar;](https://www.techmeme.com/260518/p32#a260518p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
