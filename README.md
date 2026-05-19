@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trap shut](http://9gag.com/gag/aVvpb2d)
- - 😝 [Spitting facts](http://9gag.com/gag/amoeoPj)
- - 👉 [Close](http://9gag.com/gag/aXPyrAD)<!-- MEMES:END -->
+ - 6️⃣ [...](http://9gag.com/gag/apR49VD)
+ - 😝 [How does one achieve this build](http://9gag.com/gag/aLnZ1y6)
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #1575](http://9gag.com/gag/a1mym28)<!-- MEMES:END -->
 
 --- 
 
