@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Help, farmer stuck!](http://9gag.com/gag/ae9nQBb)
- - 😝 [Guys...](http://9gag.com/gag/an7m79b)
- - 👉 [The betrayal](http://9gag.com/gag/aAy8y0p)<!-- MEMES:END -->
+ - 6️⃣ [Trap shut](http://9gag.com/gag/aVvpb2d)
+ - 😝 [Spitting facts](http://9gag.com/gag/amoeoPj)
+ - 👉 [Close](http://9gag.com/gag/aXPyrAD)<!-- MEMES:END -->
 
 --- 
 
