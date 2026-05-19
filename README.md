@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All of the updates from Elon Musk and Sam Altman’s battle over OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
- - [Elon Musk Loses Landmark Lawsuit Against OpenAI](https://www.wired.com/story/musk-v-altman-jury-verdict/)
- - [Musk v. Altman jury unanimously rejects Elon Musk&#39;s claims against Sam Altman; the judge dismisses two additional claims citing the statute of limitation &lpar;CNBC&rpar;](https://www.techmeme.com/260518/p32#a260518p32)<!-- TECH:END -->
+ - [Sources: Analog Devices, one of the largest analog chip makers, is in talks to buy Empower, which makes chips used to regulate voltage, for $1.5B in cash &lpar;Bloomberg&rpar;](https://www.techmeme.com/260518/p50#a260518p50)
+ - [LG will release the first 1000Hz, 1080p gaming monitor this year](https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b)
+ - [Vitalik Buterin says AI-assisted &quot;formal verification&quot; could help secure blockchain networks, smart contracts, and cryptographic systems against software flaws &lpar;Jason Nelson/Decrypt&rpar;](https://www.techmeme.com/260518/p49#a260518p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
