@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who is also interested in: The Hoek\u00e9dex?](http://9gag.com/gag/aGymzmw)
- - 😝 [Help, farmer stuck!](http://9gag.com/gag/ae9nQBb)
- - 👉 [Game](http://9gag.com/gag/aW4rGmq)<!-- MEMES:END -->
+ - 6️⃣ [Help, farmer stuck!](http://9gag.com/gag/ae9nQBb)
+ - 😝 [Guys...](http://9gag.com/gag/an7m79b)
+ - 👉 [The betrayal](http://9gag.com/gag/aAy8y0p)<!-- MEMES:END -->
 
 --- 
 
