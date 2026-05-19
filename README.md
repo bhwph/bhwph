@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Analog Devices, one of the largest analog chip makers, is in talks to buy Empower, which makes chips used to regulate voltage, for $1.5B in cash &lpar;Bloomberg&rpar;](https://www.techmeme.com/260518/p50#a260518p50)
- - [LG will release the first 1000Hz, 1080p gaming monitor this year](https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b)
- - [Vitalik Buterin says AI-assisted &quot;formal verification&quot; could help secure blockchain networks, smart contracts, and cryptographic systems against software flaws &lpar;Jason Nelson/Decrypt&rpar;](https://www.techmeme.com/260518/p49#a260518p49)<!-- TECH:END -->
+ - [KPMG partners with Anthropic to embed Claude into its tax and advisory platforms; KPMG&#39;s tax and legal services unit saw revenue grow ~8% YoY to $9.3B in 2025 &lpar;Mark Maurer/Wall Street Journal&rpar;](https://www.techmeme.com/260519/p10#a260519p10)
+ - [Sources: Chinese AI startup Moonshot told investors it would revamp its corporate structure to pave the way for a Hong Kong IPO and comply with Beijing&#39;s rules &lpar;Bloomberg&rpar;](https://www.techmeme.com/260519/p9#a260519p9)
+ - [Tom Steyer Wants to Save California From Billionaires. But Also Doesn’t Want Them to Leave](https://www.wired.com/story/the-big-interview-podcast-tom-steyer/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
