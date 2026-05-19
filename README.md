@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [KPMG partners with Anthropic to embed Claude into its tax and advisory platforms; KPMG&#39;s tax and legal services unit saw revenue grow ~8% YoY to $9.3B in 2025 &lpar;Mark Maurer/Wall Street Journal&rpar;](https://www.techmeme.com/260519/p10#a260519p10)
- - [Sources: Chinese AI startup Moonshot told investors it would revamp its corporate structure to pave the way for a Hong Kong IPO and comply with Beijing&#39;s rules &lpar;Bloomberg&rpar;](https://www.techmeme.com/260519/p9#a260519p9)
- - [Tom Steyer Wants to Save California From Billionaires. But Also Doesn’t Want Them to Leave](https://www.wired.com/story/the-big-interview-podcast-tom-steyer/)<!-- TECH:END -->
+ - [Google overhauls its search box, letting users ask longer queries, upload photos and videos, and use Gemini 3.5 Flash-powered agents to automate searches &lpar;New York Times&rpar;](https://www.techmeme.com/260519/p37#a260519p37)
+ - [The 13 biggest announcements at Google I/O 2026](https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini)
+ - [Google rolls out Gemini 3.5 Flash, its &quot;strongest agentic and coding model yet&quot;, for tackling long-horizon agentic tasks, in the Gemini app and Search&#39;s AI Mode &lpar;The Keyword&rpar;](https://www.techmeme.com/260519/p36#a260519p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
