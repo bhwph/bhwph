@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He is right you know..](http://9gag.com/gag/aE09049)
- - 😝 [`Your suffering is not holding you , You are holding the suffering` --Buddha](http://9gag.com/gag/azxWxqm)
- - 👉 [Perfect 10/10 GOTY. Ladies and Gentlemen.](http://9gag.com/gag/apR4R8W)<!-- MEMES:END -->
+ - 6️⃣ [European tourists visiting California](http://9gag.com/gag/aND79Dv)
+ - 😝 [OSHA violation?](http://9gag.com/gag/aAy8QLd)
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #1575](http://9gag.com/gag/a1mym28)<!-- MEMES:END -->
 
 --- 
 
