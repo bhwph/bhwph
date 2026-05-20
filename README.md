@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S27 Pro leak suggests a pocket-friendly phone with Ultra features](https://www.androidauthority.com/samsung-galaxy-s27-pro-screen-leak-3669124/)
- - [This new Gemini integration will let you create pro-grade designs easily](https://www.androidauthority.com/adobe-gemini-connector-3669114/)
- - [Android 17’s Live Updates will be a boon for workout and travel apps](https://www.androidauthority.com/android-17-live-updates-metric-style-template-3669117/)<!-- TECH:END -->
+ - [I Gave My OpenClaw Agent a Physical Body](https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/)
+ - [How Wet Weather in Argentina Helped Fuel the Cruise Ship Hantavirus Outbreak](https://www.wired.com/story/climate-change-next-hantavirus-outbreak/)
+ - [Google says it is testing new ad formats in search results and AI Mode, including Conversational Discovery ads, Highlighted Answers, and AI-powered Shopping ads &lpar;Anu Adegbola/Search Engine Land&rpar;](https://www.techmeme.com/260520/p41#a260520p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
