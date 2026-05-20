@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Swim tip for life](http://9gag.com/gag/aGymLDw)
- - 😝 [Elementary my dear watson](http://9gag.com/gag/aW4rpgd)
- - 👉 [...](http://9gag.com/gag/apR49VD)<!-- MEMES:END -->
+ - 6️⃣ [He is right you know..](http://9gag.com/gag/aE09049)
+ - 😝 [`Your suffering is not holding you , You are holding the suffering` --Buddha](http://9gag.com/gag/azxWxqm)
+ - 👉 [Perfect 10/10 GOTY. Ladies and Gentlemen.](http://9gag.com/gag/apR4R8W)<!-- MEMES:END -->
 
 --- 
 
