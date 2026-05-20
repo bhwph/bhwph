@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Google SVP James Manyika on AI&#39;s ability to automate tasks versus occupations, his optimism about the labor market despite AI-driven layoffs, and more &lpar;Casey Newton/Platformer&rpar;](https://www.techmeme.com/260519/p76#a260519p76)
- - [Sources: a draft White House EO would create a &quot;voluntary framework&quot; for AI companies to give government agencies early access to models before public release &lpar;Ashley Gold/Axios&rpar;](https://www.techmeme.com/260519/p75#a260519p75)
- - [The Take It Down Act, a law requiring social networks to remove nonconsensual intimate images within 48 hours of reporting or face fines, took effect on May 19 &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260519/p74#a260519p74)<!-- TECH:END -->
+ - [Galaxy S27 Pro leak suggests a pocket-friendly phone with Ultra features](https://www.androidauthority.com/samsung-galaxy-s27-pro-screen-leak-3669124/)
+ - [This new Gemini integration will let you create pro-grade designs easily](https://www.androidauthority.com/adobe-gemini-connector-3669114/)
+ - [Android 17’s Live Updates will be a boon for workout and travel apps](https://www.androidauthority.com/android-17-live-updates-metric-style-template-3669117/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
