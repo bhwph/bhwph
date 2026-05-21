@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [SFM corn material, god bless Japan](http://9gag.com/gag/a2v3MVE)
- - 😝 [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
- - 👉 [Pretty sure that sport could be my new passion - the fact that it&#39;s called bobsleigh instead of bobsledge bothers me more than it should.](http://9gag.com/gag/aE09MrO)<!-- MEMES:END -->
+ - 6️⃣ [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)
+ - 😝 [Elementary my dear watson](http://9gag.com/gag/aW4rpgd)
+ - 👉 [If you&#39;re not outraged at this, you&#39;re not human](http://9gag.com/gag/abANOXv)<!-- MEMES:END -->
 
 --- 
 
