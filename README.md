@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Commerce Department plans to award $2B in grants to nine quantum computing companies and will take equity stakes; IBM is set to get $1B of the package &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260521/p14#a260521p14)
- - [3 Best Smart Ring Brands: Oura, RingConn, and Samsung &lpar;2026&rpar;](https://www.wired.com/gallery/best-smart-rings/)
- - [Taiwan is seeking to detain three people for forging documents to export Nvidia-powered Super Micro servers to China, Hong Kong, and Macau, breaking US rules &lpar;Bloomberg&rpar;](https://www.techmeme.com/260521/p13#a260521p13)<!-- TECH:END -->
+ - [Samsung boosts its Galaxy S26 Ultra no-trade-in discount to $250](https://www.androidauthority.com/samsung-galaxy-s26-ultra-instant-discount-3669882/)
+ - [Bungie gives up on Destiny](https://www.theverge.com/games/935536/bungie-destiny-2-final-update-date)
+ - [Palantir Held a Hack Week to Add New Controls to Software Used by ICE](https://www.wired.com/story/palantir-held-a-hack-week-to-add-new-controls-to-software-used-by-ice/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
