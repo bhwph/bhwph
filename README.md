@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)
- - 😝 [Elementary my dear watson](http://9gag.com/gag/aW4rpgd)
- - 👉 [If you&#39;re not outraged at this, you&#39;re not human](http://9gag.com/gag/abANOXv)<!-- MEMES:END -->
+ - 6️⃣ [Just some cute saved stuff, from me to you](http://9gag.com/gag/awyEmLQ)
+ - 😝 [Marriage in a nutshell](http://9gag.com/gag/aE09Vbn)
+ - 👉 [Dude wasn\u2019t acting. It was all real for him](http://9gag.com/gag/ae9n1om)<!-- MEMES:END -->
 
 --- 
 
