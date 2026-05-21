@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Gave My OpenClaw Agent a Physical Body](https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/)
- - [How Wet Weather in Argentina Helped Fuel the Cruise Ship Hantavirus Outbreak](https://www.wired.com/story/climate-change-next-hantavirus-outbreak/)
- - [Google says it is testing new ad formats in search results and AI Mode, including Conversational Discovery ads, Highlighted Answers, and AI-powered Shopping ads &lpar;Anu Adegbola/Search Engine Land&rpar;](https://www.techmeme.com/260520/p41#a260520p41)<!-- TECH:END -->
+ - [Jensen Huang said that Nvidia has &quot;largely conceded&quot; China&#39;s AI chip market to Huawei and should &quot;expect nothing&quot; regarding chip sale approvals to China &lpar;Lee Ying Shan/CNBC&rpar;](https://www.techmeme.com/260520/p55#a260520p55)
+ - [Filing: SpaceX set aside $530M for potential litigation losses, including lawsuits involving Grok&#39;s &quot;Spicy&quot; mode, which it described as a &quot;heightened risk&quot; &lpar;Wired&rpar;](https://www.techmeme.com/260520/p54#a260520p54)
+ - [The Hypershell X Series brings end-to-end AI motion control to wearable exoskeletons](https://www.androidauthority.com/new-hypershell-x-series-3668529/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
