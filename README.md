@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jensen Huang said that Nvidia has &quot;largely conceded&quot; China&#39;s AI chip market to Huawei and should &quot;expect nothing&quot; regarding chip sale approvals to China &lpar;Lee Ying Shan/CNBC&rpar;](https://www.techmeme.com/260520/p55#a260520p55)
- - [Filing: SpaceX set aside $530M for potential litigation losses, including lawsuits involving Grok&#39;s &quot;Spicy&quot; mode, which it described as a &quot;heightened risk&quot; &lpar;Wired&rpar;](https://www.techmeme.com/260520/p54#a260520p54)
- - [The Hypershell X Series brings end-to-end AI motion control to wearable exoskeletons](https://www.androidauthority.com/new-hypershell-x-series-3668529/)<!-- TECH:END -->
+ - [The US Commerce Department plans to award $2B in grants to nine quantum computing companies and will take equity stakes; IBM is set to get $1B of the package &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260521/p14#a260521p14)
+ - [3 Best Smart Ring Brands: Oura, RingConn, and Samsung &lpar;2026&rpar;](https://www.wired.com/gallery/best-smart-rings/)
+ - [Taiwan is seeking to detain three people for forging documents to export Nvidia-powered Super Micro servers to China, Hong Kong, and Macau, breaking US rules &lpar;Bloomberg&rpar;](https://www.techmeme.com/260521/p13#a260521p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
