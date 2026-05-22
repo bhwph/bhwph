@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung boosts its Galaxy S26 Ultra no-trade-in discount to $250](https://www.androidauthority.com/samsung-galaxy-s26-ultra-instant-discount-3669882/)
- - [Bungie gives up on Destiny](https://www.theverge.com/games/935536/bungie-destiny-2-final-update-date)
- - [Palantir Held a Hack Week to Add New Controls to Software Used by ICE](https://www.wired.com/story/palantir-held-a-hack-week-to-add-new-controls-to-software-used-by-ice/)<!-- TECH:END -->
+ - [Sources: Trump delayed signing the AI EO because &quot;he just hates regulation&quot;; he spoke with Mark Zuckerberg, Elon Musk, and David Sacks just prior to the delay &lpar;Axios&rpar;](https://www.techmeme.com/260521/p52#a260521p52)
+ - [Socket: TeamPCP, the gang claiming GitHub&#39;s repositories breach, also executed 20 &quot;waves&quot; of supply chain attacks recently, compromising 500+ pieces of software &lpar;Wired&rpar;](https://www.techmeme.com/260521/p51#a260521p51)
+ - [Shares of quantum computing companies surged Thursday after the US government announced grants with equity stakes: D-Wave closed up 33%, Rigetti 30%, IBM 12% &lpar;Chloe Taylor/CNBC&rpar;](https://www.techmeme.com/260521/p50#a260521p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
