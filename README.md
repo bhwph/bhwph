@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just some cute saved stuff, from me to you](http://9gag.com/gag/awyEmLQ)
- - 😝 [Marriage in a nutshell](http://9gag.com/gag/aE09Vbn)
- - 👉 [Dude wasn\u2019t acting. It was all real for him](http://9gag.com/gag/ae9n1om)<!-- MEMES:END -->
+ - 6️⃣ [Marriage in a nutshell](http://9gag.com/gag/aE09Vbn)
+ - 😝 [Peak performance](http://9gag.com/gag/aW4r7Dq)
+ - 👉 [Longest route home](http://9gag.com/gag/aND7vy3)<!-- MEMES:END -->
 
 --- 
 
