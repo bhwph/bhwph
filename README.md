@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A guy accidentally pressed the Emergency button as he tripped down the stairs.](http://9gag.com/gag/ayNb4vr)
+ - 6️⃣ [The Snap-on version is worth the money](http://9gag.com/gag/aQzLQE8)
  - 😝 [Sharing my flower gallery day 570](http://9gag.com/gag/a6Z09eq)
- - 👉 [Take your time](http://9gag.com/gag/adBGOND)<!-- MEMES:END -->
+ - 👉 [Longest route home](http://9gag.com/gag/aND7vy3)<!-- MEMES:END -->
 
 --- 
 
