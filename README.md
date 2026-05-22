@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources and documents detail Satya Nadella&#39;s effort to revamp Microsoft&#39;s senior leadership, creating a startup-style operating model to compete in the AI race &lpar;Ashley Stewart/Business Insider&rpar;](https://www.techmeme.com/260522/p10#a260522p10)
- - [Pixel Fold users are reporting a nightmare bug that makes one screen unusable](https://www.androidauthority.com/pixel-fold-screen-not-working-3670146/)
- - [Valve Steam Controller Review &lpar;2026&rpar;: Wait for the Steam Machine](https://www.wired.com/review/valve-steam-controller-2026/)<!-- TECH:END -->
+ - [Google starts bringing Gemini to Chromecast with Google TV hardware](https://www.androidauthority.com/gemini-chromecast-with-google-tv-3670323/)
+ - [Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview](https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on)
+ - [Trump Mobile confirms data leak, still deciding whether or not it should bother notifying customers](https://www.androidauthority.com/trump-mobile-data-exposure-3670309/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
