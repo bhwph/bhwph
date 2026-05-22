@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Trump delayed signing the AI EO because &quot;he just hates regulation&quot;; he spoke with Mark Zuckerberg, Elon Musk, and David Sacks just prior to the delay &lpar;Axios&rpar;](https://www.techmeme.com/260521/p52#a260521p52)
- - [Socket: TeamPCP, the gang claiming GitHub&#39;s repositories breach, also executed 20 &quot;waves&quot; of supply chain attacks recently, compromising 500+ pieces of software &lpar;Wired&rpar;](https://www.techmeme.com/260521/p51#a260521p51)
- - [Shares of quantum computing companies surged Thursday after the US government announced grants with equity stakes: D-Wave closed up 33%, Rigetti 30%, IBM 12% &lpar;Chloe Taylor/CNBC&rpar;](https://www.techmeme.com/260521/p50#a260521p50)<!-- TECH:END -->
+ - [Sources and documents detail Satya Nadella&#39;s effort to revamp Microsoft&#39;s senior leadership, creating a startup-style operating model to compete in the AI race &lpar;Ashley Stewart/Business Insider&rpar;](https://www.techmeme.com/260522/p10#a260522p10)
+ - [Pixel Fold users are reporting a nightmare bug that makes one screen unusable](https://www.androidauthority.com/pixel-fold-screen-not-working-3670146/)
+ - [Valve Steam Controller Review &lpar;2026&rpar;: Wait for the Steam Machine](https://www.wired.com/review/valve-steam-controller-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
