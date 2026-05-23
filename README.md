@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Snap-on version is worth the money](http://9gag.com/gag/aQzLQE8)
+ - 6️⃣ [Honestly in the truest sense, good for her](http://9gag.com/gag/aQzL7De)
  - 😝 [Sharing my flower gallery day 570](http://9gag.com/gag/a6Z09eq)
- - 👉 [Longest route home](http://9gag.com/gag/aND7vy3)<!-- MEMES:END -->
+ - 👉 [Experienced Trainee](http://9gag.com/gag/a2v38nw)<!-- MEMES:END -->
 
 --- 
 
