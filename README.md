@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google starts bringing Gemini to Chromecast with Google TV hardware](https://www.androidauthority.com/gemini-chromecast-with-google-tv-3670323/)
- - [Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview](https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on)
- - [Trump Mobile confirms data leak, still deciding whether or not it should bother notifying customers](https://www.androidauthority.com/trump-mobile-data-exposure-3670309/)<!-- TECH:END -->
+ - [Filing: Zoom&#39;s stake in Anthropic is worth ~$1.27B based on a February round which valued Anthropic at $380B; Zoom invested an additional $46M in recent months &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260522/p34#a260522p34)
+ - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
+ - [The US NTSB suspends access to its database of civil transportation accidents after people re-created voices of pilots killed in a 2025 UPS plane crash using AI &lpar;Jeremy Hsu/Ars Technica&rpar;](https://www.techmeme.com/260522/p33#a260522p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
