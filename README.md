@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I just downloaded the viral disco app icon pack on my Pixel — here’s how to get it](https://www.androidauthority.com/how-to-use-disco-app-icons-google-pixel-3670362/)
- - [One UI 8.5 quietly fixed my biggest problem with the Galaxy S24 Ultra](https://www.androidauthority.com/one-ui-8-5-samsung-galaxy-s24-ultra-hands-on-3669967/)
- - [A &#39;Golden Orb&#39; on the Ocean Floor Came From a Mysterious Animal](https://www.wired.com/story/a-golden-orb-on-the-ocean-floor-came-from-a-mysterious-animal/)<!-- TECH:END -->
+ - [Best Power Banks &lpar;2026&rpar;: My Picks After Testing Over 100](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+ - [Delivery Hero says it received a takeover offer from Uber for €33 per share, a discount of 1.76% from Delivery Hero&#39;s close on Friday &lpar;Anusha Shah/Reuters&rpar;](https://www.techmeme.com/260523/p8#a260523p8)
+ - [The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab](https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
