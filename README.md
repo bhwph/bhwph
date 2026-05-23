@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Longest route home](http://9gag.com/gag/aND7vy3)
- - 😝 [Honestly in the truest sense, good for her](http://9gag.com/gag/aQzL7De)
- - 👉 [Entanglement.](http://9gag.com/gag/a7oYV2A)<!-- MEMES:END -->
+ - 6️⃣ [Old games made things hardet](http://9gag.com/gag/a9yx8OZ)
+ - 😝 [Something to forget again](http://9gag.com/gag/amoe6yo)
+ - 👉 [Omw to a lan party at the ripe old age of 34, life is good.](http://9gag.com/gag/aVvpmAM)<!-- MEMES:END -->
 
 --- 
 
