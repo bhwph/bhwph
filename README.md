@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [EV owner trying to find a charging spot.](http://9gag.com/gag/aND7Bjb)
+ - 6️⃣ [1 way trip](http://9gag.com/gag/a2v32j1)
  - 😝 [Her French kiss includes Germany and Spain hahahahaha](http://9gag.com/gag/axyLO4K)
- - 👉 [Traditional romani training](http://9gag.com/gag/aByAGrO)<!-- MEMES:END -->
+ - 👉 [No Title](http://9gag.com/gag/aD2KVmZ)<!-- MEMES:END -->
 
 --- 
 
