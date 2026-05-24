@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Old games made things hardet](http://9gag.com/gag/a9yx8OZ)
- - 😝 [Something to forget again](http://9gag.com/gag/amoe6yo)
- - 👉 [Omw to a lan party at the ripe old age of 34, life is good.](http://9gag.com/gag/aVvpmAM)<!-- MEMES:END -->
+ - 6️⃣ [Start wars](http://9gag.com/gag/a0er66z)
+ - 😝 [We are just who we are.](http://9gag.com/gag/a7oY9yq)
+ - 👉 [Avoid the geh?](http://9gag.com/gag/aLnZGeM)<!-- MEMES:END -->
 
 --- 
 
