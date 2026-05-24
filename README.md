@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce&#39;s promotional videos showcased Agentforce mock-ups and features that are not widely available, as CEO Marc Benioff defends forward-looking marketing &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260523/p15#a260523p15)
- - [Crypto companies prepare for the threat that quantum computers could hack core industry security, including breaking the critical code underpinning Bitcoin &lpar;Financial Times&rpar;](https://www.techmeme.com/260523/p14#a260523p14)
- - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)<!-- TECH:END -->
+ - [I waited years for Googlebooks — but I wish I hadn’t](https://www.androidauthority.com/waited-years-for-googlebooks-wish-i-hadnt-3668388/)
+ - [14 New Tools for Taking on the Great Outdoors Properly](https://www.wired.com/story/14-new-tools-for-taking-on-the-great-outdoors-properly/)
+ - [Wear OS 7 is the ultimate insult to Pixel owners](https://www.androidauthority.com/wear-os-7-ultimate-insult-pixel-owners-3669875/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
