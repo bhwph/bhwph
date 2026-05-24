@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Start wars](http://9gag.com/gag/a0er66z)
- - 😝 [We are just who we are.](http://9gag.com/gag/a7oY9yq)
- - 👉 [Avoid the geh?](http://9gag.com/gag/aLnZGeM)<!-- MEMES:END -->
+ - 6️⃣ [EV owner trying to find a charging spot.](http://9gag.com/gag/aND7Bjb)
+ - 😝 [Her French kiss includes Germany and Spain hahahahaha](http://9gag.com/gag/axyLO4K)
+ - 👉 [Traditional romani training](http://9gag.com/gag/aByAGrO)<!-- MEMES:END -->
 
 --- 
 
