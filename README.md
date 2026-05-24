@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I waited years for Googlebooks — but I wish I hadn’t](https://www.androidauthority.com/waited-years-for-googlebooks-wish-i-hadnt-3668388/)
- - [14 New Tools for Taking on the Great Outdoors Properly](https://www.wired.com/story/14-new-tools-for-taking-on-the-great-outdoors-properly/)
- - [Wear OS 7 is the ultimate insult to Pixel owners](https://www.androidauthority.com/wear-os-7-ultimate-insult-pixel-owners-3669875/)<!-- TECH:END -->
+ - [AirPods will be easier to manage with iOS 27 controls revamp](https://appleinsider.com/articles/26/05/24/airpods-will-be-easier-to-manage-with-ios-27-controls-revamp?utm_source=rss)
+ - [Memorial Day Tech Deals: Sony, Anker, Beats &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-tech-deals-2026-1/)
+ - [Best Memorial Day Mattress Deals: Helix, Saatva &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-mattress-deals-2026-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
