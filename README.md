@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Traditional romani training](http://9gag.com/gag/aByAGrO)
- - 😝 [RIP. Real picture from National Geographic](http://9gag.com/gag/amoeMp9)
- - 👉 [Teamwork](http://9gag.com/gag/aND7RyK)<!-- MEMES:END -->
+ - 6️⃣ [Dropped the pizza and herself, a true hero](http://9gag.com/gag/an7mrNB)
+ - 😝 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
+ - 👉 [The Origin](http://9gag.com/gag/agmDEBr)<!-- MEMES:END -->
 
 --- 
 
