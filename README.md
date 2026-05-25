@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tether plans to launch GELT, an &quot;official&quot; stablecoin representing the Georgian lari, with the support of Georgia&#39;s government in an unusual partnership &lpar;Reuters&rpar;](https://www.techmeme.com/260525/p12#a260525p12)
- - [Sources: Wix is expected to cut ~1,000 jobs in the coming months, or ~20% of its workforce, after weak Q1 earnings and a ~50% collapse of its stock in 2026 &lpar;Sophie Shulman/CTech&rpar;](https://www.techmeme.com/260525/p11#a260525p11)
- - [These Privacy-Conscious Gay Dating Apps Want to Dethrone Grindr](https://www.wired.com/story/these-privacy-conscious-gay-dating-apps-want-to-dethrone-grindr/)<!-- TECH:END -->
+ - [Memorial Day Tech Deals: Sony, Apple, Anker, and More](https://www.wired.com/story/memorial-day-tech-deals-2026-2/)
+ - [Best Memorial Day Mattress Deals: Helix, Saatva &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-mattress-deals-2026-2/)
+ - [Another Android brand is teasing us with magnetic rear screens](https://www.androidauthority.com/phone-magnetic-rear-screen-tease-3670720/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
