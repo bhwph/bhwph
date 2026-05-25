@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods will be easier to manage with iOS 27 controls revamp](https://appleinsider.com/articles/26/05/24/airpods-will-be-easier-to-manage-with-ios-27-controls-revamp?utm_source=rss)
- - [Memorial Day Tech Deals: Sony, Anker, Beats &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-tech-deals-2026-1/)
- - [Best Memorial Day Mattress Deals: Helix, Saatva &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-mattress-deals-2026-1/)<!-- TECH:END -->
+ - [Quartermaster, which is building an analytics platform and a SmartMast, with sensors on a ship&#39;s mast to relay real-time maritime data, raised a $43M Series A &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260524/p14#a260524p14)
+ - [How the Trump admin gutted the CFTC, ousting enforcers and appointing industry-friendly officials, as Trump family got into crypto and prediction markets &lpar;New York Times&rpar;](https://www.techmeme.com/260524/p13#a260524p13)
+ - [Demand for security engineers is surging, with job postings up 11% YoY in Q1, driven by threats from AI-generated code and models like Mythos and GPT-5.4-Cyber &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260524/p12#a260524p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
