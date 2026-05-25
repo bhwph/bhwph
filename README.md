@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)
- - 😝 [Traditional romani training](http://9gag.com/gag/aByAGrO)
- - 👉 [Woman made a scene and yelled profanity at graduation ceremony after being told to sit down and be quiet](http://9gag.com/gag/aMVoXMG)<!-- MEMES:END -->
+ - 6️⃣ [Traditional romani training](http://9gag.com/gag/aByAGrO)
+ - 😝 [RIP. Real picture from National Geographic](http://9gag.com/gag/amoeMp9)
+ - 👉 [Teamwork](http://9gag.com/gag/aND7RyK)<!-- MEMES:END -->
 
 --- 
 
