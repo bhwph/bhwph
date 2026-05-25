@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [1 way trip](http://9gag.com/gag/a2v32j1)
- - 😝 [Her French kiss includes Germany and Spain hahahahaha](http://9gag.com/gag/axyLO4K)
- - 👉 [No Title](http://9gag.com/gag/aD2KVmZ)<!-- MEMES:END -->
+ - 6️⃣ [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)
+ - 😝 [Traditional romani training](http://9gag.com/gag/aByAGrO)
+ - 👉 [Woman made a scene and yelled profanity at graduation ceremony after being told to sit down and be quiet](http://9gag.com/gag/aMVoXMG)<!-- MEMES:END -->
 
 --- 
 
