@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quartermaster, which is building an analytics platform and a SmartMast, with sensors on a ship&#39;s mast to relay real-time maritime data, raised a $43M Series A &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260524/p14#a260524p14)
- - [How the Trump admin gutted the CFTC, ousting enforcers and appointing industry-friendly officials, as Trump family got into crypto and prediction markets &lpar;New York Times&rpar;](https://www.techmeme.com/260524/p13#a260524p13)
- - [Demand for security engineers is surging, with job postings up 11% YoY in Q1, driven by threats from AI-generated code and models like Mythos and GPT-5.4-Cyber &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260524/p12#a260524p12)<!-- TECH:END -->
+ - [Tether plans to launch GELT, an &quot;official&quot; stablecoin representing the Georgian lari, with the support of Georgia&#39;s government in an unusual partnership &lpar;Reuters&rpar;](https://www.techmeme.com/260525/p12#a260525p12)
+ - [Sources: Wix is expected to cut ~1,000 jobs in the coming months, or ~20% of its workforce, after weak Q1 earnings and a ~50% collapse of its stock in 2026 &lpar;Sophie Shulman/CTech&rpar;](https://www.techmeme.com/260525/p11#a260525p11)
+ - [These Privacy-Conscious Gay Dating Apps Want to Dethrone Grindr](https://www.wired.com/story/these-privacy-conscious-gay-dating-apps-want-to-dethrone-grindr/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
