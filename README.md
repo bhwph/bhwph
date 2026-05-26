@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just 3 kids saving the future](http://9gag.com/gag/a4PXwQ1)
- - 😝 [Be nice to people. It costs nothing and makes a difference.](http://9gag.com/gag/amoeVyo)
- - 👉 [This is the 3rd and final post of this movie recommendation series. It took me several hours to make. Thank you for your support fellow movie lovers](http://9gag.com/gag/a346N1Q)<!-- MEMES:END -->
+ - 6️⃣ [The Origin](http://9gag.com/gag/agmDEBr)
+ - 😝 [This is why I don\u2019t trust anyone](http://9gag.com/gag/aPAEr5K)
+ - 👉 [Norwegian guy was abandoned in the slums of India by his hippie parents. Ended up having an Indian accent due to living there for years](http://9gag.com/gag/ajPzymg)<!-- MEMES:END -->
 
 --- 
 
