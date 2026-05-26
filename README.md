@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A surge in AI-generated &quot;pro se&quot; cases, or lawsuits filed by self-represented litigants, is democratizing the legal system but consuming more court resources &lpar;New York Times&rpar;](https://www.techmeme.com/260525/p24#a260525p24)
- - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
- - [Visually impaired Waymo users in CA say riding in a Waymo gives them a feeling of independence and spares them the discrimination they face from human drivers &lpar;Sonia A. Rao/New York Times&rpar;](https://www.techmeme.com/260525/p23#a260525p23)<!-- TECH:END -->
+ - [The Galaxy Watch Ultra 2 could get a cheaper sibling](https://www.androidauthority.com/galaxy-watch-ultra-2-bluetooth-model-3671196/)
+ - [First betas of iOS 26.6, macOS 26.6 arrive as WWDC draws near](https://appleinsider.com/articles/26/05/26/first-betas-of-ios-266-macos-266-arrive-as-wwdcs-gen-27-draws-near?utm_source=rss)
+ - [Spotify wants to replace your reading list with narrated magazine articles](https://www.androidauthority.com/spotify-launches-articles-feature-3671209/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
