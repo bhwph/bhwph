@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dropped the pizza and herself, a true hero](http://9gag.com/gag/an7mrNB)
- - 😝 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
- - 👉 [The Origin](http://9gag.com/gag/agmDEBr)<!-- MEMES:END -->
+ - 6️⃣ [Just 3 kids saving the future](http://9gag.com/gag/a4PXwQ1)
+ - 😝 [Be nice to people. It costs nothing and makes a difference.](http://9gag.com/gag/amoeVyo)
+ - 👉 [This is the 3rd and final post of this movie recommendation series. It took me several hours to make. Thank you for your support fellow movie lovers](http://9gag.com/gag/a346N1Q)<!-- MEMES:END -->
 
 --- 
 
