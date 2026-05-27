@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile’s T-Life push is leaving some customers stranded in stores](https://www.androidauthority.com/t-mobile-t-life-retail-app-issues-3671512/)
- - [Rumors of an all-black Apple Vision Pro are back](https://appleinsider.com/articles/26/05/27/rumors-of-an-all-black-apple-vision-pro-are-back?utm_source=rss)
- - [Temu owner PDD reports Q1 revenue up 11% YoY to ~$15.7B, below ~$16.2B est., net profit down 15% to ~$1.85B, below ~$3.4B est., amid fierce competition in China &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260527/p19#a260527p19)<!-- TECH:END -->
+ - [Amazon has to buy out Apple&#39;s 20% Globalstar stake as acquisition rolls on](https://appleinsider.com/articles/26/05/27/amazon-has-to-buy-out-apples-20-globalstar-stake-as-acquisition-rolls-on?utm_source=rss)
+ - [Huawei&#39;s ‘Chip Queen’ Throws Down the Gauntlet](https://www.wired.com/story/huawei-chip-queen-moores-law-tau/)
+ - [A Dating App Is Giving Away Free Gas to Convince People to Get Out of the House](https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
