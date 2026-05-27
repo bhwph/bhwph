@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Origin](http://9gag.com/gag/agmDEBr)
- - 😝 [This is why I don\u2019t trust anyone](http://9gag.com/gag/aPAEr5K)
- - 👉 [Norwegian guy was abandoned in the slums of India by his hippie parents. Ended up having an Indian accent due to living there for years](http://9gag.com/gag/ajPzymg)<!-- MEMES:END -->
+ - 6️⃣ [Norwegian guy was abandoned in the slums of India by his hippie parents. Ended up having an Indian accent due to living there for years](http://9gag.com/gag/ajPzymg)
+ - 😝 [Lifetime of supply](http://9gag.com/gag/aryQ80y)
+ - 👉 [This is why I don\u2019t trust anyone](http://9gag.com/gag/aPAEr5K)<!-- MEMES:END -->
 
 --- 
 
