@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Norwegian guy was abandoned in the slums of India by his hippie parents. Ended up having an Indian accent due to living there for years](http://9gag.com/gag/ajPzymg)
- - 😝 [Lifetime of supply](http://9gag.com/gag/aryQ80y)
- - 👉 [This is why I don\u2019t trust anyone](http://9gag.com/gag/aPAEr5K)<!-- MEMES:END -->
+ - 6️⃣ [The worst she can say is no...](http://9gag.com/gag/aRBbDxq)
+ - 😝 [Human evolution](http://9gag.com/gag/a9yxBLD)
+ - 👉 [Two Samoan contract killers came to Vietnam to kill two Australians &lpar;one died&rpar; and were arrested after less than 72 hours. Murder carries the death penalty in Vietnam](http://9gag.com/gag/abANRor)<!-- MEMES:END -->
 
 --- 
 
