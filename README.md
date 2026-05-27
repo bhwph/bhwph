@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Watch Ultra 2 could get a cheaper sibling](https://www.androidauthority.com/galaxy-watch-ultra-2-bluetooth-model-3671196/)
- - [First betas of iOS 26.6, macOS 26.6 arrive as WWDC draws near](https://appleinsider.com/articles/26/05/26/first-betas-of-ios-266-macos-266-arrive-as-wwdcs-gen-27-draws-near?utm_source=rss)
- - [Spotify wants to replace your reading list with narrated magazine articles](https://www.androidauthority.com/spotify-launches-articles-feature-3671209/)<!-- TECH:END -->
+ - [Canada&#39;s online safety bill could threaten encryption, Apple &amp; Google push for amendments](https://appleinsider.com/articles/26/05/27/canadas-online-safety-bill-could-threaten-encryption-apple-google-push-for-amendments?utm_source=rss)
+ - [Samsung&#39;s largest union approves a pay deal that would give chip workers an average bonus of ~$340K, with ~74% of members voting in favor, staving off a strike &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260526/p37#a260526p37)
+ - [SK Hynix tops $1T in market value after shares jumped 11% on Wednesday, becoming the third Asian company to hit the mark; shares surged 900%+ in the past year &lpar;Bloomberg&rpar;](https://www.techmeme.com/260526/p36#a260526p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
