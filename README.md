@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The worst she can say is no...](http://9gag.com/gag/aRBbDxq)
- - 😝 [Human evolution](http://9gag.com/gag/a9yxBLD)
- - 👉 [Two Samoan contract killers came to Vietnam to kill two Australians &lpar;one died&rpar; and were arrested after less than 72 hours. Murder carries the death penalty in Vietnam](http://9gag.com/gag/abANRor)<!-- MEMES:END -->
+ - 6️⃣ [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)
+ - 😝 [A woman asks to cut to the front of the plane before anybody even starts exiting\u2026 and the guy behind her expresses his fatigue.](http://9gag.com/gag/a4PXxRp)
+ - 👉 [The frog is chill](http://9gag.com/gag/a7oYnVx)<!-- MEMES:END -->
 
 --- 
 
