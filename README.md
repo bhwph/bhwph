@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuaishou reports Q1 revenue up 3.4% YoY to ~$5B and Kling AI revenue up 300%+ YoY to ~$96M; Kling reached a ~$500M annualized revenue run rate in March 2026 &lpar;Coco Feng/South China Morning Post&rpar;](https://www.techmeme.com/260527/p54#a260527p54)
- - [The CFTC files alongside Gemini to nullify Gemini&#39;s $5M settlement in January 2025, arguing that the agency&#39;s current management wouldn&#39;t have pursued the case &lpar;Jesse Hamilton/CoinDesk&rpar;](https://www.techmeme.com/260527/p53#a260527p53)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 28, #612](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-28-612/)<!-- TECH:END -->
+ - [AWS is rolling out Resilient Network Graphs, a &quot;quasi-random&quot; networking architecture that uses a flat mesh design, and says it accelerates information flows &lpar;Lauren Goode/Wired&rpar;](https://www.techmeme.com/260528/p28#a260528p28)
+ - [Source: the Shanghai Futures Exchange is in the early stages of designing futures contracts for AI tokens; US exchanges are set to launch GPU compute futures &lpar;Reuters&rpar;](https://www.techmeme.com/260528/p27#a260528p27)
+ - [Samsung&#39;s Securities, SDS, and Card units jointly acquire a 4% stake in Dunamu, which runs South Korea&#39;s largest crypto exchange, in a ~$446M all-cash deal &lpar;Choi Yeon-jae/The Korea Herald&rpar;](https://www.techmeme.com/260528/p26#a260528p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
