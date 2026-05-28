@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon has to buy out Apple&#39;s 20% Globalstar stake as acquisition rolls on](https://appleinsider.com/articles/26/05/27/amazon-has-to-buy-out-apples-20-globalstar-stake-as-acquisition-rolls-on?utm_source=rss)
- - [Huawei&#39;s ‘Chip Queen’ Throws Down the Gauntlet](https://www.wired.com/story/huawei-chip-queen-moores-law-tau/)
- - [A Dating App Is Giving Away Free Gas to Convince People to Get Out of the House](https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/)<!-- TECH:END -->
+ - [Kuaishou reports Q1 revenue up 3.4% YoY to ~$5B and Kling AI revenue up 300%+ YoY to ~$96M; Kling reached a ~$500M annualized revenue run rate in March 2026 &lpar;Coco Feng/South China Morning Post&rpar;](https://www.techmeme.com/260527/p54#a260527p54)
+ - [The CFTC files alongside Gemini to nullify Gemini&#39;s $5M settlement in January 2025, arguing that the agency&#39;s current management wouldn&#39;t have pursued the case &lpar;Jesse Hamilton/CoinDesk&rpar;](https://www.techmeme.com/260527/p53#a260527p53)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 28, #612](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-28-612/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
