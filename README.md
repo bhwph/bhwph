@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)
+ - 6️⃣ [Due to the hot weather, Indians are cooling transformers at power generation plants with fans. This country has nuclear weapons.](http://9gag.com/gag/aGymozZ)
  - 😝 [A woman asks to cut to the front of the plane before anybody even starts exiting\u2026 and the guy behind her expresses his fatigue.](http://9gag.com/gag/a4PXxRp)
- - 👉 [The frog is chill](http://9gag.com/gag/a7oYnVx)<!-- MEMES:END -->
+ - 👉 [Street musician](http://9gag.com/gag/avyM9DE)<!-- MEMES:END -->
 
 --- 
 
