@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS is rolling out Resilient Network Graphs, a &quot;quasi-random&quot; networking architecture that uses a flat mesh design, and says it accelerates information flows &lpar;Lauren Goode/Wired&rpar;](https://www.techmeme.com/260528/p28#a260528p28)
- - [Source: the Shanghai Futures Exchange is in the early stages of designing futures contracts for AI tokens; US exchanges are set to launch GPU compute futures &lpar;Reuters&rpar;](https://www.techmeme.com/260528/p27#a260528p27)
- - [Samsung&#39;s Securities, SDS, and Card units jointly acquire a 4% stake in Dunamu, which runs South Korea&#39;s largest crypto exchange, in a ~$446M all-cash deal &lpar;Choi Yeon-jae/The Korea Herald&rpar;](https://www.techmeme.com/260528/p26#a260528p26)<!-- TECH:END -->
+ - [Proton Mail is making it easier to say goodbye to Gmail](https://www.androidauthority.com/proton-mail-gmail-feature-3672304/)
+ - [OLED, KVM &amp; lower prices make MSI&#39;s new Mac-friendly monitor lineup hard to ignore](https://appleinsider.com/articles/26/05/28/oled-kvm-lower-prices-make-msis-new-mac-friendly-monitor-lineup-hard-to-ignore?utm_source=rss)
+ - [Anthropic raised a $65B Series H at a $965B post-money valuation led by Altimeter, Dragoneer, Greenoaks, and Sequoia, and says its revenue run rate crossed $47B &lpar;New York Times&rpar;](https://www.techmeme.com/260528/p51#a260528p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
