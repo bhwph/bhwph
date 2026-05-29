@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos could finally be giving its automated edits a proper home](https://www.androidauthority.com/google-photos-create-tab-new-for-you-3672417/)
- - [Sources: TikTok is cutting music label-facing jobs to focus on its music distribution arm SoundOn and other projects that connect it more directly with artists &lpar;Bloomberg&rpar;](https://www.techmeme.com/260528/p67#a260528p67)
- - [AI researchers ran 15-day simulations of worlds governed by different AI models: Claude Sonnet 4.6 recorded zero crime, while Gemini 3 Flash had the most at 683 &lpar;Jake Angelo/Fortune&rpar;](https://www.techmeme.com/260528/p66#a260528p66)<!-- TECH:END -->
+ - [This is MSI’s new Claw 8 EX AI Plus gaming handheld](https://www.theverge.com/entertainment/939758/msi-claw-8-ex-ai-plus-gaming-handheld-reveal-computex-2026)
+ - [Apple&#39;s software chief: Who is Craig Federighi?](https://appleinsider.com/articles/26/05/29/apples-software-chief-who-is-craig-federighi?utm_source=rss)
+ - [This MacBook Privacy Screen Totally Changed How I Work in Public](https://www.wired.com/story/targus-privacy-screen-travel/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
