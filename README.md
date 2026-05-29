@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nobody expected that !](http://9gag.com/gag/avyMDYE)
- - 😝 [British humor is good different.](http://9gag.com/gag/a1myq1P)
- - 👉 [The sense of responsibility we all need](http://9gag.com/gag/avyMX0Z)<!-- MEMES:END -->
+ - 6️⃣ [British humor is good different.](http://9gag.com/gag/a1myq1P)
+ - 😝 [The sense of responsibility we all need](http://9gag.com/gag/avyMX0Z)
+ - 👉 [.....](http://9gag.com/gag/a87RQb1)<!-- MEMES:END -->
 
 --- 
 
