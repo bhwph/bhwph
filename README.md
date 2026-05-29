@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Household Cavalry making her day](http://9gag.com/gag/aYQ3d3v)
- - 😝 [They&#39;re 17 because only a 17-year-old would think going on that quest is a good idea.](http://9gag.com/gag/ayNbVOp)
- - 👉 [Weird gym routines](http://9gag.com/gag/aByAv7Z)<!-- MEMES:END -->
+ - 6️⃣ [Neck hurt](http://9gag.com/gag/aD2KNB9)
+ - 😝 [When you use curry as aftershave.](http://9gag.com/gag/ae9nPjq)
+ - 👉 [This is what the older generations should try and do more often.](http://9gag.com/gag/aVvp42O)<!-- MEMES:END -->
 
 --- 
 
