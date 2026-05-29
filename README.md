@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Proton Mail is making it easier to say goodbye to Gmail](https://www.androidauthority.com/proton-mail-gmail-feature-3672304/)
- - [OLED, KVM &amp; lower prices make MSI&#39;s new Mac-friendly monitor lineup hard to ignore](https://appleinsider.com/articles/26/05/28/oled-kvm-lower-prices-make-msis-new-mac-friendly-monitor-lineup-hard-to-ignore?utm_source=rss)
- - [Anthropic raised a $65B Series H at a $965B post-money valuation led by Altimeter, Dragoneer, Greenoaks, and Sequoia, and says its revenue run rate crossed $47B &lpar;New York Times&rpar;](https://www.techmeme.com/260528/p51#a260528p51)<!-- TECH:END -->
+ - [Google Photos could finally be giving its automated edits a proper home](https://www.androidauthority.com/google-photos-create-tab-new-for-you-3672417/)
+ - [Sources: TikTok is cutting music label-facing jobs to focus on its music distribution arm SoundOn and other projects that connect it more directly with artists &lpar;Bloomberg&rpar;](https://www.techmeme.com/260528/p67#a260528p67)
+ - [AI researchers ran 15-day simulations of worlds governed by different AI models: Claude Sonnet 4.6 recorded zero crime, while Gemini 3 Flash had the most at 683 &lpar;Jake Angelo/Fortune&rpar;](https://www.techmeme.com/260528/p66#a260528p66)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
