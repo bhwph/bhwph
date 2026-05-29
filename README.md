@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is MSI’s new Claw 8 EX AI Plus gaming handheld](https://www.theverge.com/entertainment/939758/msi-claw-8-ex-ai-plus-gaming-handheld-reveal-computex-2026)
- - [Apple&#39;s software chief: Who is Craig Federighi?](https://appleinsider.com/articles/26/05/29/apples-software-chief-who-is-craig-federighi?utm_source=rss)
- - [This MacBook Privacy Screen Totally Changed How I Work in Public](https://www.wired.com/story/targus-privacy-screen-travel/)<!-- TECH:END -->
+ - [Acer’s new gaming handheld might dodge the worst of tech inflation](https://www.androidauthority.com/acer-nitro-blaze-link-3672729/)
+ - [Meta is cooking up a new line of smart glasses, and they may not be Ray-Bans](https://www.androidauthority.com/meta-smart-glasses-fcc-filing-3672710/)
+ - [Sources: Microsoft is working on an app that will include GitHub Copilot, Copilot chat, Copilot Cowork, and a new agentic workflow tool called Autopilot &lpar;Sebastian Herrera/Fortune&rpar;](https://www.techmeme.com/260529/p25#a260529p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
