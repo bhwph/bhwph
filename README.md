@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Neck hurt](http://9gag.com/gag/aD2KNB9)
- - 😝 [When you use curry as aftershave.](http://9gag.com/gag/ae9nPjq)
- - 👉 [This is what the older generations should try and do more often.](http://9gag.com/gag/aVvp42O)<!-- MEMES:END -->
+ - 6️⃣ [*Quack*](http://9gag.com/gag/aByAjpz)
+ - 😝 [Raygun Tribute](http://9gag.com/gag/avyM4nq)
+ - 👉 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)<!-- MEMES:END -->
 
 --- 
 
