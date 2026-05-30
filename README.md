@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey reveals 50% of users don’t like the new Google Health app](https://www.androidauthority.com/survey-reveals-50-percent-users-dont-like-new-google-health-app-3672201/)
- - [It’s time for Samsung’s S Pen to evolve or die](https://www.androidauthority.com/samsung-s-pen-evolve-or-die-3670824/)
- - [Do You Actually Need to Pay for Transcription Software?](https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/)<!-- TECH:END -->
+ - [A look at the nasty fight between Anthropic-backed super PAC Public First and OpenAI-backed Leading the Future to sway midterms, especially Democratic primaries &lpar;Theodore Schleifer/New York Times&rpar;](https://www.techmeme.com/260530/p10#a260530p10)
+ - [Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves](https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves)
+ - [Microsoft is threatening legal action for disclosing exploits](https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
