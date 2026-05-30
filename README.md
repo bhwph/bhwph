@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Miami-based Canals, which uses AI to help distributors automate workflows across sales, customer service, and more, raised a $35M Series A led by Base10 &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260529/p37#a260529p37)
- - [How massive bonuses for Samsung&#39;s employees in the memory division have sparked debate over how companies and governments should share profits from the AI boom &lpar;Bloomberg&rpar;](https://www.techmeme.com/260529/p36#a260529p36)
- - [Best AT&amp;T Plans: How to Choose and Which Ones to Pick in 2026](https://www.cnet.com/tech/mobile/best-att-plans/)<!-- TECH:END -->
+ - [Survey reveals 50% of users don’t like the new Google Health app](https://www.androidauthority.com/survey-reveals-50-percent-users-dont-like-new-google-health-app-3672201/)
+ - [It’s time for Samsung’s S Pen to evolve or die](https://www.androidauthority.com/samsung-s-pen-evolve-or-die-3670824/)
+ - [Do You Actually Need to Pay for Transcription Software?](https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
