@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Acer’s new gaming handheld might dodge the worst of tech inflation](https://www.androidauthority.com/acer-nitro-blaze-link-3672729/)
- - [Meta is cooking up a new line of smart glasses, and they may not be Ray-Bans](https://www.androidauthority.com/meta-smart-glasses-fcc-filing-3672710/)
- - [Sources: Microsoft is working on an app that will include GitHub Copilot, Copilot chat, Copilot Cowork, and a new agentic workflow tool called Autopilot &lpar;Sebastian Herrera/Fortune&rpar;](https://www.techmeme.com/260529/p25#a260529p25)<!-- TECH:END -->
+ - [Miami-based Canals, which uses AI to help distributors automate workflows across sales, customer service, and more, raised a $35M Series A led by Base10 &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260529/p37#a260529p37)
+ - [How massive bonuses for Samsung&#39;s employees in the memory division have sparked debate over how companies and governments should share profits from the AI boom &lpar;Bloomberg&rpar;](https://www.techmeme.com/260529/p36#a260529p36)
+ - [Best AT&amp;T Plans: How to Choose and Which Ones to Pick in 2026](https://www.cnet.com/tech/mobile/best-att-plans/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
