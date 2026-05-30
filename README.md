@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [*Quack*](http://9gag.com/gag/aByAjpz)
- - 😝 [Raygun Tribute](http://9gag.com/gag/avyM4nq)
- - 👉 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)<!-- MEMES:END -->
+ - 6️⃣ [Pretty talent you scholar from London community](http://9gag.com/gag/aryQrPV)
+ - 😝 [It&#39;s already impressive, but the retractable balcony is something else](http://9gag.com/gag/aByAbVz)
+ - 👉 [Insane footage filmed from a nearby restaurant shows tonight\u2019s explosion](http://9gag.com/gag/aByAbG2)<!-- MEMES:END -->
 
 --- 
 
