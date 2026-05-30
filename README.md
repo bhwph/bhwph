@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pretty talent you scholar from London community](http://9gag.com/gag/aryQrPV)
- - 😝 [It&#39;s already impressive, but the retractable balcony is something else](http://9gag.com/gag/aByAbVz)
- - 👉 [Insane footage filmed from a nearby restaurant shows tonight\u2019s explosion](http://9gag.com/gag/aByAbG2)<!-- MEMES:END -->
+ - 6️⃣ [They dont want to make him talk](http://9gag.com/gag/aVvp44y)
+ - 😝 [Screw it](http://9gag.com/gag/aVvp9W8)
+ - 👉 [Kindness can be misunderstood sometimes](http://9gag.com/gag/aGymqgK)<!-- MEMES:END -->
 
 --- 
 
