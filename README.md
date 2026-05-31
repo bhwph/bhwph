@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)
- - 😝 [He got tired](http://9gag.com/gag/ajPzjy1)
- - 👉 [Insane footage filmed from a nearby restaurant shows tonight\u2019s explosion](http://9gag.com/gag/aByAbG2)<!-- MEMES:END -->
+ - 6️⃣ [Only WD40 can kill this track.](http://9gag.com/gag/aryQ00p)
+ - 😝 [Hear me out...](http://9gag.com/gag/a87RNLZ)
+ - 👉 [A gentle reminder that tomorrow is Monday.....](http://9gag.com/gag/ajPzvgQ)<!-- MEMES:END -->
 
 --- 
 
