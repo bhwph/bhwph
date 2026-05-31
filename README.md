@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the nasty fight between Anthropic-backed super PAC Public First and OpenAI-backed Leading the Future to sway midterms, especially Democratic primaries &lpar;Theodore Schleifer/New York Times&rpar;](https://www.techmeme.com/260530/p10#a260530p10)
- - [Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves](https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves)
- - [Microsoft is threatening legal action for disclosing exploits](https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability)<!-- TECH:END -->
+ - [As robotaxi companies attempt to scale in the US, they face increasing scrutiny and mounting criticism from drivers, law enforcement, and local governments &lpar;Sean McLain/Wall Street Journal&rpar;](https://www.techmeme.com/260530/p16#a260530p16)
+ - [Why &quot;Dark Output&quot;, the AI-generated economic value that is currently invisible to national statistics, may be one of the hardest measurement problems in history &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260530/p15#a260530p15)
+ - [Lionsgate Joins Movies Anywhere, Leaving Paramount and MGM as Last Major Hold Outs](https://www.cnet.com/tech/services-and-software/lionsgate-joins-movies-anywhere/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
