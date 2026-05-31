@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Insane footage filmed from a nearby restaurant shows tonight\u2019s explosion](http://9gag.com/gag/aByAbG2)
- - 😝 [Screw it](http://9gag.com/gag/aVvp9W8)
- - 👉 [Your Indian neighbor is watching you.](http://9gag.com/gag/a0erGVn)<!-- MEMES:END -->
+ - 6️⃣ [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)
+ - 😝 [He got tired](http://9gag.com/gag/ajPzjy1)
+ - 👉 [Insane footage filmed from a nearby restaurant shows tonight\u2019s explosion](http://9gag.com/gag/aByAbG2)<!-- MEMES:END -->
 
 --- 
 
