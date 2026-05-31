@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As robotaxi companies attempt to scale in the US, they face increasing scrutiny and mounting criticism from drivers, law enforcement, and local governments &lpar;Sean McLain/Wall Street Journal&rpar;](https://www.techmeme.com/260530/p16#a260530p16)
- - [Why &quot;Dark Output&quot;, the AI-generated economic value that is currently invisible to national statistics, may be one of the hardest measurement problems in history &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260530/p15#a260530p15)
- - [Lionsgate Joins Movies Anywhere, Leaving Paramount and MGM as Last Major Hold Outs](https://www.cnet.com/tech/services-and-software/lionsgate-joins-movies-anywhere/)<!-- TECH:END -->
+ - [6 Best Prepaid Phone Plans &lpar;2026&rpar;: Tello, Boost, Google Fi, More](https://www.wired.com/gallery/best-prepaid-phone-plans/)
+ - [I used Gemini and Claude as recipe apps, and only one was actually helpful](https://www.androidauthority.com/using-gemini-claude-for-recipes-3670512/)
+ - [Best Unlimited Phone Plan: T-Mobile, AT&amp;T, Verizon Compared](https://www.wired.com/story/best-unlimited-phone-plans/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
