@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Prepaid Phone Plans &lpar;2026&rpar;: Tello, Boost, Google Fi, More](https://www.wired.com/gallery/best-prepaid-phone-plans/)
- - [I used Gemini and Claude as recipe apps, and only one was actually helpful](https://www.androidauthority.com/using-gemini-claude-for-recipes-3670512/)
- - [Best Unlimited Phone Plan: T-Mobile, AT&amp;T, Verizon Compared](https://www.wired.com/story/best-unlimited-phone-plans/)<!-- TECH:END -->
+ - [Longtime leaker joins others in saying Apple Glasses won&#39;t arrive until late 2027](https://appleinsider.com/articles/26/05/31/longtime-leaker-joins-others-in-saying-apple-glasses-wont-arrive-until-late-2027?utm_source=rss)
+ - [Surprising nobody, Apple&#39;s already working on iOS 28, macOS 28](https://appleinsider.com/articles/26/05/31/surprising-nobody-apples-already-working-on-ios-28-macos-28?utm_source=rss)
+ - [Feeble Little Horse leans into digital weirdness on bitknot](https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
