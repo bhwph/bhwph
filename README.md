@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [They dont want to make him talk](http://9gag.com/gag/aVvp44y)
+ - 6️⃣ [Insane footage filmed from a nearby restaurant shows tonight\u2019s explosion](http://9gag.com/gag/aByAbG2)
  - 😝 [Screw it](http://9gag.com/gag/aVvp9W8)
- - 👉 [Kindness can be misunderstood sometimes](http://9gag.com/gag/aGymqgK)<!-- MEMES:END -->
+ - 👉 [Your Indian neighbor is watching you.](http://9gag.com/gag/a0erGVn)<!-- MEMES:END -->
 
 --- 
 
