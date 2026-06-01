@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s upcoming wide Galaxy Z Fold 8 spied in public for the first time](https://www.androidauthority.com/samsung-galaxy-z-fold-8-wide-spotted-in-the-wild-3672943/)
- - [Beijing-based Vast, which uses AI models to generate 3D assets from text and image prompts, raised ~$200M at a $1B+ valuation, and says it has 20M global users &lpar;Bloomberg&rpar;](https://www.techmeme.com/260531/p17#a260531p17)
- - [Solstice, which uses clinical and compliance documents and AI to accelerate advertising approvals for pharma clients, raised a $21M Series A &lpar;Brock E.W. Turner/Axios&rpar;](https://www.techmeme.com/260531/p16#a260531p16)<!-- TECH:END -->
+ - [Palo Alto Networks says Mythos found 24+ critical bugs, burning $1M+ of tokens, subsidized by Anthropic; some companies say they plan to boost Mythos spending &lpar;Aaron Holmes/The Information&rpar;](https://www.techmeme.com/260601/p36#a260601p36)
+ - [Microsoft could be the next Big Tech antitrust target](https://www.theverge.com/policy/940220/microsoft-ftc-antitrust-investigation-cloud-ai)
+ - [SEC filing: quantum computing company Quantinuum upsizes its IPO, selling 26.5M shares for $53 to $55 each to raise up to $1.46B at an up to $14.3B valuation &lpar;Liana Baker/Bloomberg&rpar;](https://www.techmeme.com/260601/p35#a260601p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
