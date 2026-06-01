@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Longtime leaker joins others in saying Apple Glasses won&#39;t arrive until late 2027](https://appleinsider.com/articles/26/05/31/longtime-leaker-joins-others-in-saying-apple-glasses-wont-arrive-until-late-2027?utm_source=rss)
- - [Surprising nobody, Apple&#39;s already working on iOS 28, macOS 28](https://appleinsider.com/articles/26/05/31/surprising-nobody-apples-already-working-on-ios-28-macos-28?utm_source=rss)
- - [Feeble Little Horse leans into digital weirdness on bitknot](https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review)<!-- TECH:END -->
+ - [Samsung’s upcoming wide Galaxy Z Fold 8 spied in public for the first time](https://www.androidauthority.com/samsung-galaxy-z-fold-8-wide-spotted-in-the-wild-3672943/)
+ - [Beijing-based Vast, which uses AI models to generate 3D assets from text and image prompts, raised ~$200M at a $1B+ valuation, and says it has 20M global users &lpar;Bloomberg&rpar;](https://www.techmeme.com/260531/p17#a260531p17)
+ - [Solstice, which uses clinical and compliance documents and AI to accelerate advertising approvals for pharma clients, raised a $21M Series A &lpar;Brock E.W. Turner/Axios&rpar;](https://www.techmeme.com/260531/p16#a260531p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
