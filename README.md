@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Only WD40 can kill this track.](http://9gag.com/gag/aryQ00p)
- - 😝 [Hear me out...](http://9gag.com/gag/a87RNLZ)
- - 👉 [A gentle reminder that tomorrow is Monday.....](http://9gag.com/gag/ajPzvgQ)<!-- MEMES:END -->
+ - 6️⃣ [What lobster?](http://9gag.com/gag/aqyPM6M)
+ - 😝 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
+ - 👉 [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)<!-- MEMES:END -->
 
 --- 
 
