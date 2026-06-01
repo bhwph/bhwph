@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palo Alto Networks says Mythos found 24+ critical bugs, burning $1M+ of tokens, subsidized by Anthropic; some companies say they plan to boost Mythos spending &lpar;Aaron Holmes/The Information&rpar;](https://www.techmeme.com/260601/p36#a260601p36)
- - [Microsoft could be the next Big Tech antitrust target](https://www.theverge.com/policy/940220/microsoft-ftc-antitrust-investigation-cloud-ai)
- - [SEC filing: quantum computing company Quantinuum upsizes its IPO, selling 26.5M shares for $53 to $55 each to raise up to $1.46B at an up to $14.3B valuation &lpar;Liana Baker/Bloomberg&rpar;](https://www.techmeme.com/260601/p35#a260601p35)<!-- TECH:END -->
+ - [Gigascale Capital, a climate tech VC firm co-founded by former Meta CTO Mike Schroepfer, closed a $250M fund to back early-stage startups supporting the AI boom &lpar;Michelle Ma/Bloomberg&rpar;](https://www.techmeme.com/260601/p52#a260601p52)
+ - [This could be Windows’ M1 moment — but expect it to cost a ton](https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram)
+ - [Gemini’s new AI agent is about as good as Google’s demo](https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
