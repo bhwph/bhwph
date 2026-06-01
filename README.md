@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)
- - 😝 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
- - 👉 [And westerners complain that their life is hard](http://9gag.com/gag/a4PX8r6)<!-- MEMES:END -->
+ - 6️⃣ [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
+ - 😝 [Girl hits insane corner kick!](http://9gag.com/gag/a346g41)
+ - 👉 [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)<!-- MEMES:END -->
 
 --- 
 
