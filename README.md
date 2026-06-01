@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What lobster?](http://9gag.com/gag/aqyPM6M)
- - 😝 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
- - 👉 [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)<!-- MEMES:END -->
+ - 6️⃣ [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)
+ - 😝 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
+ - 👉 [And westerners complain that their life is hard](http://9gag.com/gag/a4PX8r6)<!-- MEMES:END -->
 
 --- 
 
