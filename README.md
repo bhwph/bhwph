@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She&#39;s made from attitude, sass, and everything that&#39;s ass.](http://9gag.com/gag/aMVoL4P)
- - 😝 [Small Weiner Club](http://9gag.com/gag/aZZ65LV)
- - 👉 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)<!-- MEMES:END -->
+ - 6️⃣ [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
+ - 😝 [Cars](http://9gag.com/gag/aE095rp)
+ - 👉 [The worst robbery ever.](http://9gag.com/gag/aRBbpd7)<!-- MEMES:END -->
 
 --- 
 
