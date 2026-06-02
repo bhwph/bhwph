@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
- - 😝 [Burn](http://9gag.com/gag/a4PXgrw)
- - 👉 [Everything is easy, when you know how](http://9gag.com/gag/aoyvwbe)<!-- MEMES:END -->
+ - 6️⃣ [She&#39;s made from attitude, sass, and everything that&#39;s ass.](http://9gag.com/gag/aMVoL4P)
+ - 😝 [Small Weiner Club](http://9gag.com/gag/aZZ65LV)
+ - 👉 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)<!-- MEMES:END -->
 
 --- 
 
