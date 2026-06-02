@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 Best Alexa Speakers &lpar;2026&rpar;: Echo Dot Max, Echo Dot, Echo Show 11](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
- - [This is the way: WWDC 2026 attendees get to see &#39;The Mandalorian and Grogu&#39;](https://appleinsider.com/articles/26/06/01/wwdc-2026-guests-can-attend-special-screening-of-the-latest-star-wars-movie?utm_source=rss)
- - [iPhone 18 Pro will have only a fractionally higher capacity battery](https://appleinsider.com/articles/26/06/02/iphone-18-pro-will-have-only-a-fractionally-higher-capacity-battery?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft and Mayo Clinic partner for an AI model trained on Mayo&#39;s medical data, with plans to build an AI healthcare assistant and AI tools for clinicians &lpar;Clare Duffy/CNN&rpar;](https://www.techmeme.com/260602/p54#a260602p54)
+ - [Microsoft Build 2026: the 7 biggest announcements](https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements)
+ - [An interview with Microsoft AI CEO Mustafa Suleyman about catching up with &quot;what was state of the art just a few months ago&quot;, refusing to use distillation, more &lpar;Reed Albergotti/Semafor&rpar;](https://www.techmeme.com/260602/p53#a260602p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
