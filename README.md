@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gigascale Capital, a climate tech VC firm co-founded by former Meta CTO Mike Schroepfer, closed a $250M fund to back early-stage startups supporting the AI boom &lpar;Michelle Ma/Bloomberg&rpar;](https://www.techmeme.com/260601/p52#a260601p52)
- - [This could be Windows’ M1 moment — but expect it to cost a ton](https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram)
- - [Gemini’s new AI agent is about as good as Google’s demo](https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on)<!-- TECH:END -->
+ - [GitHub Copilot&#39;s new pricing model went into effect today, and many noted sticker shock with some saying a few hours of AI usage ate big chunks of monthly caps &lpar;Kyle Orland/Ars Technica&rpar;](https://www.techmeme.com/260601/p58#a260601p58)
+ - [Nvidia launches Nemotron 3 Ultra, a 550B-parameter MoE open model; Artificial Analysis: it&#39;s the smartest open US model but trails the Chinese model Kimi K2.6 &lpar;Maximilian Schreiner/The Decoder&rpar;](https://www.techmeme.com/260601/p57#a260601p57)
+ - [Apple Will Reportedly Add Bill-Splitting Feature to iOS 27](https://www.cnet.com/tech/apple-will-reportedly-add-bill-splitting-feature-to-ios-27/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
