@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
- - 😝 [Girl hits insane corner kick!](http://9gag.com/gag/a346g41)
- - 👉 [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)<!-- MEMES:END -->
+ - 6️⃣ [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
+ - 😝 [Burn](http://9gag.com/gag/a4PXgrw)
+ - 👉 [Everything is easy, when you know how](http://9gag.com/gag/aoyvwbe)<!-- MEMES:END -->
 
 --- 
 
