@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU&#39;s Cloud and AI Development Act aims to triple data center capacity in the next 5-7 years, and introduce the Chips Act 2.0 to allow direct EU investment &lpar;Gian Volpicelli/Bloomberg&rpar;](https://www.techmeme.com/260603/p31#a260603p31)
- - [Google will let websites opt out of AI Overviews, but it’s trying to tempt them not to](https://www.androidauthority.com/google-websites-opt-out-ai-overviews-3673839/)
- - [The EU Commission unveils its proposed tech sovereignty package, including the Cloud and AI Development Act, in a bid to cut its reliance on US tech companies &lpar;Mathieu Pollet/Politico&rpar;](https://www.techmeme.com/260603/p30#a260603p30)<!-- TECH:END -->
+ - [Security firm Calif says it used OpenAI&#39;s Codex to discover HTTP/2 Bomb, a remote DoS exploit affecting web servers like Nginx, Apache HTTPD, and Microsoft IIS &lpar;The Hacker News&rpar;](https://www.techmeme.com/260603/p52#a260603p52)
+ - [Google’s ‘Dreambeans’ experiment turns your data into bite-sized personalized stories](https://www.androidauthority.com/google-dreambeans-rollout-3674099/)
+ - [OpenAI diverges from Trump&#39;s AI EO in a new policy paper, proposing cyber risk evaluations for advanced AI systems be mandatory and led by CAISI, not the NSA &lpar;Brendan Bordelon/Politico&rpar;](https://www.techmeme.com/260603/p51#a260603p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
