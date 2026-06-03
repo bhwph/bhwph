@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft and Mayo Clinic partner for an AI model trained on Mayo&#39;s medical data, with plans to build an AI healthcare assistant and AI tools for clinicians &lpar;Clare Duffy/CNN&rpar;](https://www.techmeme.com/260602/p54#a260602p54)
- - [Microsoft Build 2026: the 7 biggest announcements](https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements)
- - [An interview with Microsoft AI CEO Mustafa Suleyman about catching up with &quot;what was state of the art just a few months ago&quot;, refusing to use distillation, more &lpar;Reed Albergotti/Semafor&rpar;](https://www.techmeme.com/260602/p53#a260602p53)<!-- TECH:END -->
+ - [Sensor Tower: ChatGPT has become the fastest app to hit 1B global MAUs by far; ChatGPT&#39;s MAUs are up 62% YoY in Q2 to date, Claude&#39;s MAUs are up 640% YoY to 56M &lpar;Harshita Mary Varghese/Reuters&rpar;](https://www.techmeme.com/260602/p68#a260602p68)
+ - [Elon Musk&#39;s SpaceX &amp; Tesla email accounts must be handed over in Apple lawsuit](https://appleinsider.com/articles/26/06/03/elon-musks-spacex-tesla-email-accounts-must-be-handed-over-in-apple-lawsuit?utm_source=rss)
+ - [Source: SpaceX plans to raise $75B in its IPO by selling 555.6M shares at $135 each, an unusual move since most companies set a price range before the roadshow &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260602/p67#a260602p67)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
