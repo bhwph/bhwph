@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
- - 😝 [Cars](http://9gag.com/gag/aE095rp)
- - 👉 [The worst robbery ever.](http://9gag.com/gag/aRBbpd7)<!-- MEMES:END -->
+ - 6️⃣ [Imagine the chaos](http://9gag.com/gag/a9yxGDo)
+ - 😝 [In iceland](http://9gag.com/gag/aD2K5EB)
+ - 👉 [Joke of the century](http://9gag.com/gag/azxWwGp)<!-- MEMES:END -->
 
 --- 
 
