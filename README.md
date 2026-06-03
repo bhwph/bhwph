@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sensor Tower: ChatGPT has become the fastest app to hit 1B global MAUs by far; ChatGPT&#39;s MAUs are up 62% YoY in Q2 to date, Claude&#39;s MAUs are up 640% YoY to 56M &lpar;Harshita Mary Varghese/Reuters&rpar;](https://www.techmeme.com/260602/p68#a260602p68)
- - [Elon Musk&#39;s SpaceX &amp; Tesla email accounts must be handed over in Apple lawsuit](https://appleinsider.com/articles/26/06/03/elon-musks-spacex-tesla-email-accounts-must-be-handed-over-in-apple-lawsuit?utm_source=rss)
- - [Source: SpaceX plans to raise $75B in its IPO by selling 555.6M shares at $135 each, an unusual move since most companies set a price range before the roadshow &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260602/p67#a260602p67)<!-- TECH:END -->
+ - [The EU&#39;s Cloud and AI Development Act aims to triple data center capacity in the next 5-7 years, and introduce the Chips Act 2.0 to allow direct EU investment &lpar;Gian Volpicelli/Bloomberg&rpar;](https://www.techmeme.com/260603/p31#a260603p31)
+ - [Google will let websites opt out of AI Overviews, but it’s trying to tempt them not to](https://www.androidauthority.com/google-websites-opt-out-ai-overviews-3673839/)
+ - [The EU Commission unveils its proposed tech sovereignty package, including the Cloud and AI Development Act, in a bid to cut its reliance on US tech companies &lpar;Mathieu Pollet/Politico&rpar;](https://www.techmeme.com/260603/p30#a260603p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
