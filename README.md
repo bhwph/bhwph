@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Liftoff Mobile raised $437M in its US IPO, selling 19M shares for $23 each, above its marketed range of $20 to $22, valuing the company at $3.83B &lpar;Natalia Kniazhevich/Bloomberg&rpar;](https://www.techmeme.com/260603/p69#a260603p69)
- - [Sam Altman and Dario Amodei are among signatories on an open letter urging improved tracking of synthetic DNA potentially used in AI-developed bioweapons &lpar;Emily Mullin/Wired&rpar;](https://www.techmeme.com/260603/p68#a260603p68)
- - [Meta says Australia&#39;s proposed tax on domestic revenue for tech giants that don&#39;t sign news licensing deals violates the US-Australia Free Trade Agreement &lpar;Byron Kaye/Reuters&rpar;](https://www.techmeme.com/260603/p67#a260603p67)<!-- TECH:END -->
+ - [The Nintendo Switch 2 is finally getting a removable battery, just not for everyone](https://www.androidauthority.com/nintendo-switch-2-user-replaceable-batteries-3674428/)
+ - [Foxconn says it will work with Intel to jointly develop and deploy next-gen AI infrastructure, including server racks with Intel Xeon processors and AI chips &lpar;Wen-Yee Lee/Reuters&rpar;](https://www.techmeme.com/260604/p17#a260604p17)
+ - [Segway Myon Electric Bike Review: Too Smart?](https://www.wired.com/review/segway-myon-electric-bike/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
