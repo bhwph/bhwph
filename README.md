@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [F*** This System](http://9gag.com/gag/aXPy6yD)
- - 😝 [Gottem](http://9gag.com/gag/aoyvQR3)
- - 👉 [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)<!-- MEMES:END -->
+ - 6️⃣ [Sometimes we need better laws](http://9gag.com/gag/aAy8j2p)
+ - 😝 [What the hell is even that??](http://9gag.com/gag/aW4rrEK)
+ - 👉 [Crunchy](http://9gag.com/gag/aryQQQp)<!-- MEMES:END -->
 
 --- 
 
