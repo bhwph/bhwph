@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nintendo Switch 2 is finally getting a removable battery, just not for everyone](https://www.androidauthority.com/nintendo-switch-2-user-replaceable-batteries-3674428/)
- - [Foxconn says it will work with Intel to jointly develop and deploy next-gen AI infrastructure, including server racks with Intel Xeon processors and AI chips &lpar;Wen-Yee Lee/Reuters&rpar;](https://www.techmeme.com/260604/p17#a260604p17)
- - [Segway Myon Electric Bike Review: Too Smart?](https://www.wired.com/review/segway-myon-electric-bike/)<!-- TECH:END -->
+ - [Get ready to ramble: Google lays groundwork for Gboard’s voice typing upgrade](https://www.androidauthority.com/gboard-rambler-toggle-3674610/)
+ - [Arizona Public Service, the state&#39;s largest utility, proposes a 45% electricity-rate increase for data centers to ensure &quot;that they are paying their fair share&quot; &lpar;Jennifer Hiller/Wall Street Journal&rpar;](https://www.techmeme.com/260604/p38#a260604p38)
+ - [Meta Silently Added Face-Recognition Code for Its Smart Glasses to Millions of Phones](https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
