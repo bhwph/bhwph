@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This one brings joy](http://9gag.com/gag/a6Z0Y6q)
- - 😝 [Cowboys](http://9gag.com/gag/a4PXOL6)
- - 👉 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)<!-- MEMES:END -->
+ - 6️⃣ [This is how you share your catch with nature](http://9gag.com/gag/a2v33PE)
+ - 😝 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)
+ - 👉 [Japan has no chill](http://9gag.com/gag/aAy8860)<!-- MEMES:END -->
 
 --- 
 
