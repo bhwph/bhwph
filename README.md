@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is how you share your catch with nature](http://9gag.com/gag/a2v33PE)
- - 😝 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)
- - 👉 [Japan has no chill](http://9gag.com/gag/aAy8860)<!-- MEMES:END -->
+ - 6️⃣ [F*** This System](http://9gag.com/gag/aXPy6yD)
+ - 😝 [Gottem](http://9gag.com/gag/aoyvQR3)
+ - 👉 [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)<!-- MEMES:END -->
 
 --- 
 
