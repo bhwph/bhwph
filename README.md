@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sometimes we need better laws](http://9gag.com/gag/aAy8j2p)
- - 😝 [What the hell is even that??](http://9gag.com/gag/aW4rrEK)
- - 👉 [Crunchy](http://9gag.com/gag/aryQQQp)<!-- MEMES:END -->
+ - 6️⃣ [What the hell is even that??](http://9gag.com/gag/aW4rrEK)
+ - 😝 [The &#39;3 finger test&#39; that exposes deepfake scammers instantly](http://9gag.com/gag/azxWnVN)
+ - 👉 [Robot Kicks a Child](http://9gag.com/gag/awyEwmB)<!-- MEMES:END -->
 
 --- 
 
