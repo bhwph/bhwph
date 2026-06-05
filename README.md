@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get ready to ramble: Google lays groundwork for Gboard’s voice typing upgrade](https://www.androidauthority.com/gboard-rambler-toggle-3674610/)
- - [Arizona Public Service, the state&#39;s largest utility, proposes a 45% electricity-rate increase for data centers to ensure &quot;that they are paying their fair share&quot; &lpar;Jennifer Hiller/Wall Street Journal&rpar;](https://www.techmeme.com/260604/p38#a260604p38)
- - [Meta Silently Added Face-Recognition Code for Its Smart Glasses to Millions of Phones](https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/)<!-- TECH:END -->
+ - [S&amp;P Dow Jones rejected proposals to expedite S&amp;P 500 eligibility for mega-cap IPOs such as SpaceX, which remains ineligible until one year after going public &lpar;Isabelle Lee/Bloomberg&rpar;](https://www.techmeme.com/260604/p55#a260604p55)
+ - [An interview with Naomi Gleit, Meta&#39;s head of product who joined the company 20 years ago, on Zuckerberg&#39;s &quot;unfair&quot; reputation, AI agents&#39; capabilities, more &lpar;Zoe Kleinman/BBC&rpar;](https://www.techmeme.com/260604/p54#a260604p54)
+ - [Denver-based Scotch, which makes AI-powered payments tools for liquor retailers, raised a $20M Series A from VMG Partners, following a $10M seed in 2024 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260604/p53#a260604p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
