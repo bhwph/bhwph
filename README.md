@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [True heroes of the gaming world](http://9gag.com/gag/aByApLA)
- - 😝 [MagiKeeper](http://9gag.com/gag/a9yxoXW)
- - 👉 [This is what it&#39;s all about](http://9gag.com/gag/aKGQRvN)<!-- MEMES:END -->
+ - 6️⃣ [Air travel experience in USA](http://9gag.com/gag/aqyPqZ7)
+ - 😝 [Sometimes we need better laws](http://9gag.com/gag/aAy8j2p)
+ - 👉 [The kids are gonna be alright. No kids on 9 gag I know I know](http://9gag.com/gag/aRBbngQ)<!-- MEMES:END -->
 
 --- 
 
