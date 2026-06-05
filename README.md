@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s securities regulator tightened oversight of the country&#39;s ~$3.4T private fund industry, and said it would encourage tech-focused VC investments &lpar;Reuters&rpar;](https://www.techmeme.com/260605/p9#a260605p9)
- - [EveryPlate Meal Kit Review &lpar;2026&rpar;: Low Cost, Simplicity, Flavor](https://www.wired.com/review/everyplate-meal-kit-review-2026/)
- - [Porsche’s Cayenne Coupe Turbo will even make 911 owners nervous](https://www.theverge.com/transportation/943004/porsche-cayenne-coupe-turbo-review-specs-price)<!-- TECH:END -->
+ - [Valve quietly announces Steam Machine release window](https://www.androidauthority.com/valve-steam-machine-release-window-3675116/)
+ - [Toy Story 5&#39;s Character VFX Are Next Level Thanks to Tech Advances. And No, It&#39;s Not AI](https://www.cnet.com/culture/entertainment/toy-story-5-character-vfx-no-ai/)
+ - [Sources say xAI used Claude models for distillation and training, including using personal accounts and the intermediary service Blackbox AI after being cut off &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260605/p22#a260605p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
