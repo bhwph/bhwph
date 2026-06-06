@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Air travel experience in USA](http://9gag.com/gag/aqyPqZ7)
- - 😝 [Sometimes we need better laws](http://9gag.com/gag/aAy8j2p)
- - 👉 [The kids are gonna be alright. No kids on 9 gag I know I know](http://9gag.com/gag/aRBbngQ)<!-- MEMES:END -->
+ - 😝 [Life in a nutshell](http://9gag.com/gag/agmDPEn)
+ - 👉 [We live in a society](http://9gag.com/gag/aW4rw0q)<!-- MEMES:END -->
 
 --- 
 
