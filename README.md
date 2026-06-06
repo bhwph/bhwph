@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI rolls out Lockdown Mode, an optional security setting designed to offer users advanced protection from prompt injection attacks by limiting some features &lpar;Igor Bonifacic/Engadget&rpar;](https://www.techmeme.com/260605/p37#a260605p37)
- - [Google Cloud says its SpaceX compute deal is a &quot;short-term&quot; agreement &quot;to ensure we have bridge capacity to meet surging customer demand&quot; for Gemini Enterprise &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260605/p36#a260605p36)
- - [Privacy token Zcash plunges after the disclosure of a 2022 vulnerability in its Orchard shielded pool that could have allowed undetectable ZEC counterfeiting &lpar;Akash Girimath/Decrypt&rpar;](https://www.techmeme.com/260605/p35#a260605p35)<!-- TECH:END -->
+ - [30 Best Father’s Day Gifts for Dads &lpar;2026&rpar;](https://www.wired.com/story/the-best-gifts-for-dads-2026/)
+ - [This is the one thing I hope Samsung fixes with its big Samsung Health update](https://www.androidauthority.com/what-i-hope-samsung-health-update-fixes-vitals-3674569/)
+ - [The Moons of Uranus May Hold the Key to Finding Missing Planets](https://www.wired.com/story/the-moons-of-uranus-may-hold-the-key-to-finding-missing-planets/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
