@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve quietly announces Steam Machine release window](https://www.androidauthority.com/valve-steam-machine-release-window-3675116/)
- - [Toy Story 5&#39;s Character VFX Are Next Level Thanks to Tech Advances. And No, It&#39;s Not AI](https://www.cnet.com/culture/entertainment/toy-story-5-character-vfx-no-ai/)
- - [Sources say xAI used Claude models for distillation and training, including using personal accounts and the intermediary service Blackbox AI after being cut off &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260605/p22#a260605p22)<!-- TECH:END -->
+ - [OpenAI rolls out Lockdown Mode, an optional security setting designed to offer users advanced protection from prompt injection attacks by limiting some features &lpar;Igor Bonifacic/Engadget&rpar;](https://www.techmeme.com/260605/p37#a260605p37)
+ - [Google Cloud says its SpaceX compute deal is a &quot;short-term&quot; agreement &quot;to ensure we have bridge capacity to meet surging customer demand&quot; for Gemini Enterprise &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260605/p36#a260605p36)
+ - [Privacy token Zcash plunges after the disclosure of a 2022 vulnerability in its Orchard shielded pool that could have allowed undetectable ZEC counterfeiting &lpar;Akash Girimath/Decrypt&rpar;](https://www.techmeme.com/260605/p35#a260605p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
