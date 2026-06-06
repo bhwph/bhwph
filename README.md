@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Air travel experience in USA](http://9gag.com/gag/aqyPqZ7)
- - 😝 [Life in a nutshell](http://9gag.com/gag/agmDPEn)
- - 👉 [We live in a society](http://9gag.com/gag/aW4rw0q)<!-- MEMES:END -->
+ - 6️⃣ [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)
+ - 😝 [We live in a society](http://9gag.com/gag/aW4rw0q)
+ - 👉 [Interesting Personality](http://9gag.com/gag/ae9nvA5)<!-- MEMES:END -->
 
 --- 
 
