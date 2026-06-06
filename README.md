@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [30 Best Father’s Day Gifts for Dads &lpar;2026&rpar;](https://www.wired.com/story/the-best-gifts-for-dads-2026/)
- - [This is the one thing I hope Samsung fixes with its big Samsung Health update](https://www.androidauthority.com/what-i-hope-samsung-health-update-fixes-vitals-3674569/)
- - [The Moons of Uranus May Hold the Key to Finding Missing Planets](https://www.wired.com/story/the-moons-of-uranus-may-hold-the-key-to-finding-missing-planets/)<!-- TECH:END -->
+ - [The cutest games from the Wholesome Direct 2026 showcase](https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers)
+ - [White House AI advisor Sriram Krishnan says he will leave his role at the end of June; sources: Krishnan plans to start a pro-Trump AI policy institution &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260606/p9#a260606p9)
+ - [Summer Game Fest 2026: All the news from gaming&amp;#8217;s busiest week](https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
