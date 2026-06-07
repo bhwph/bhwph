@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Red-Light Therapy for Hair Restoration and Regrowth &lpar;2026&rpar;](https://www.wired.com/story/best-red-light-therapy-for-hair-growth/)
- - [I test 40 phones every year. This $500 BlackBerry lookalike is one of my favorites](https://www.androidauthority.com/unihertz-titan-2-elite-hands-on-3673626/)
- - [I finally ditched my Google TV for the Apple TV — and I couldn’t be happier](https://www.androidauthority.com/ditching-google-tv-for-apple-tv-best-decision-why-3673444/)<!-- TECH:END -->
+ - [The Verge Weekend Questionnaire](https://www.theverge.com/entertainment/943285/the-verge-weekend-questionnaire)
+ - [Xbox Games Showcase 2026: All the news and trailers](https://www.theverge.com/entertainment/944191/xbox-games-showcase-2026-news-trailers)
+ - [Govee’s all-weather smart lamp post is under $200 for the first time](https://www.theverge.com/gadgets/944439/govee-outdoor-lamp-post-lights-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
