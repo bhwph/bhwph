@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How LinkedIn is transforming into a &quot;post-cringe&quot; social network as it courts high-profile influencers, who are building audiences on corporate-friendly topics &lpar;Isabella Kwai/New York Times&rpar;](https://www.techmeme.com/260606/p12#a260606p12)
- - [Report: in May, supply of unsecured bonds from hyperscalers hit $155B YTD, 45%+ more than 2025&#39;s total issuance; some AI-infra bond sales are 4x oversubscribed &lpar;Caleb Mutua/Bloomberg&rpar;](https://www.techmeme.com/260606/p11#a260606p11)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 7, #826](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-7-826/)<!-- TECH:END -->
+ - [Best Red-Light Therapy for Hair Restoration and Regrowth &lpar;2026&rpar;](https://www.wired.com/story/best-red-light-therapy-for-hair-growth/)
+ - [I test 40 phones every year. This $500 BlackBerry lookalike is one of my favorites](https://www.androidauthority.com/unihertz-titan-2-elite-hands-on-3673626/)
+ - [I finally ditched my Google TV for the Apple TV — and I couldn’t be happier](https://www.androidauthority.com/ditching-google-tv-for-apple-tv-best-decision-why-3673444/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
