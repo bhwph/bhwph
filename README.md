@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [7hours](http://9gag.com/gag/a4PXMOm)
- - 😝 [Once again](http://9gag.com/gag/aXPy8pb)
- - 👉 [Acknowledging oneself is good.](http://9gag.com/gag/a0erm6Q)<!-- MEMES:END -->
+ - 6️⃣ [Found my future wife](http://9gag.com/gag/a7oYjvr)
+ - 😝 [Whether UK cops or US cops, are they focusing on the wrong people?](http://9gag.com/gag/aO8MgWN)
+ - 👉 [I hope she wins.](http://9gag.com/gag/a1m9pLb)<!-- MEMES:END -->
 
 --- 
 
