@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Found my future wife](http://9gag.com/gag/a7oYjvr)
- - 😝 [Whether UK cops or US cops, are they focusing on the wrong people?](http://9gag.com/gag/aO8MgWN)
- - 👉 [I hope she wins.](http://9gag.com/gag/a1m9pLb)<!-- MEMES:END -->
+ - 😝 [I hope she wins.](http://9gag.com/gag/a1m9pLb)
+ - 👉 [Egyptian Sandwich Seller Tries to Charge Customer $8,250 Instead of $8.25 in New York](http://9gag.com/gag/an76e5V)<!-- MEMES:END -->
 
 --- 
 
