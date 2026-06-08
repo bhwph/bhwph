@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge Weekend Questionnaire](https://www.theverge.com/entertainment/943285/the-verge-weekend-questionnaire)
- - [Xbox Games Showcase 2026: All the news and trailers](https://www.theverge.com/entertainment/944191/xbox-games-showcase-2026-news-trailers)
- - [Govee’s all-weather smart lamp post is under $200 for the first time](https://www.theverge.com/gadgets/944439/govee-outdoor-lamp-post-lights-deal-sale)<!-- TECH:END -->
+ - [Microsoft says it will tighten human rights controls when working with national security agencies after an inquiry found Israel&#39;s Unit 8200 violated its ToS &lpar;The Guardian&rpar;](https://www.techmeme.com/260607/p14#a260607p14)
+ - [UK-based Creator Fund closes a $56M fund to back European PhD founders, reaching them in universities before they&#39;re pulled into academia, Big Tech, or US labs &lpar;Mike Butcher/Pathfounders&rpar;](https://www.techmeme.com/260607/p13#a260607p13)
+ - [Fusion energy startup Helion raised a $465M Series G led by Thrive Capital at a $15.5B valuation, nearly tripling the valuation from its January 2025 round &lpar;Tim De Chant/TechCrunch&rpar;](https://www.techmeme.com/260607/p12#a260607p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
