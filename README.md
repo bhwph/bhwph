@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Found my future wife](http://9gag.com/gag/a7oYjvr)
- - 😝 [I hope she wins.](http://9gag.com/gag/a1m9pLb)
- - 👉 [Egyptian Sandwich Seller Tries to Charge Customer $8,250 Instead of $8.25 in New York](http://9gag.com/gag/an76e5V)<!-- MEMES:END -->
+ - 6️⃣ [Getting a date....by a royal decree](http://9gag.com/gag/awyEq64)
+ - 😝 [Funniest thing I have seen in a long while . Bl**dy cyclists](http://9gag.com/gag/avyN2bX)
+ - 👉 [Speedster](http://9gag.com/gag/aBypRwN)<!-- MEMES:END -->
 
 --- 
 
