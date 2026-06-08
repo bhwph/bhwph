@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Getting a date....by a royal decree](http://9gag.com/gag/awyEq64)
- - 😝 [Funniest thing I have seen in a long while . Bl**dy cyclists](http://9gag.com/gag/avyN2bX)
- - 👉 [Speedster](http://9gag.com/gag/aBypRwN)<!-- MEMES:END -->
+ - 6️⃣ [9gag is not fun anymore.](http://9gag.com/gag/aO8wo5y)
+ - 😝 [Footage from old days](http://9gag.com/gag/aBypRVQ)
+ - 👉 [Back in my day we called it &#39;winging it&#39;](http://9gag.com/gag/a7oQLdA)<!-- MEMES:END -->
 
 --- 
 
