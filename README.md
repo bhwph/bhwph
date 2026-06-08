@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says it will tighten human rights controls when working with national security agencies after an inquiry found Israel&#39;s Unit 8200 violated its ToS &lpar;The Guardian&rpar;](https://www.techmeme.com/260607/p14#a260607p14)
- - [UK-based Creator Fund closes a $56M fund to back European PhD founders, reaching them in universities before they&#39;re pulled into academia, Big Tech, or US labs &lpar;Mike Butcher/Pathfounders&rpar;](https://www.techmeme.com/260607/p13#a260607p13)
- - [Fusion energy startup Helion raised a $465M Series G led by Thrive Capital at a $15.5B valuation, nearly tripling the valuation from its January 2025 round &lpar;Tim De Chant/TechCrunch&rpar;](https://www.techmeme.com/260607/p12#a260607p12)<!-- TECH:END -->
+ - [Sources: the US urged NATO allies to channel defense spending toward efforts to replace components from Huawei in their networks and critical infrastructure &lpar;Bloomberg&rpar;](https://www.techmeme.com/260608/p11#a260608p11)
+ - [Bending Spoons files for a US IPO, reporting a net income of $27.5M on revenue of $601M in Q1, vs. a net loss of $112.2M on revenue of $259M a year earlier &lpar;Arasu Kannagi Basil/Reuters&rpar;](https://www.techmeme.com/260608/p10#a260608p10)
+ - [Travis Kalanick, Mark Pincus, and other founders share their horror stories of pitching to VCs; Cloudflare CEO Matthew Prince publicly calls out Vinod Khosla &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260608/p9#a260608p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
