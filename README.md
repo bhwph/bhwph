@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US urged NATO allies to channel defense spending toward efforts to replace components from Huawei in their networks and critical infrastructure &lpar;Bloomberg&rpar;](https://www.techmeme.com/260608/p11#a260608p11)
- - [Bending Spoons files for a US IPO, reporting a net income of $27.5M on revenue of $601M in Q1, vs. a net loss of $112.2M on revenue of $259M a year earlier &lpar;Arasu Kannagi Basil/Reuters&rpar;](https://www.techmeme.com/260608/p10#a260608p10)
- - [Travis Kalanick, Mark Pincus, and other founders share their horror stories of pitching to VCs; Cloudflare CEO Matthew Prince publicly calls out Vinod Khosla &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260608/p9#a260608p9)<!-- TECH:END -->
+ - [New, more personal Siri AI is set to arrive in 2026](https://appleinsider.com/articles/26/06/08/new-more-personal-siri-ai-is-set-to-arrive-in-2026?utm_source=rss)
+ - [Apple announces Visual Intelligence updates, including a new Siri mode in the Camera app for analyzing real-world objects and support for visionOS &lpar;Hartley Charlton/MacRumors&rpar;](https://www.techmeme.com/260608/p37#a260608p37)
+ - [Siri just beat Gemini to the punch with a great new customization tool](https://www.androidauthority.com/siri-voice-customization-3675607/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
