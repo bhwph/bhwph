@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Golden Gate menus revert to having no icons by each item, as it should be](https://appleinsider.com/articles/26/06/09/macos-golden-gate-menus-revert-to-having-no-icons-by-each-item-as-it-should-be?utm_source=rss)
- - [Xiaomi claims MiMo-V2.5-Pro-UltraSpeed tops 1K tokens/second, a first at the 1T-parameter scale, using a standard 8-GPU commodity node; API trial starts June 9 &lpar;Jose Antonio Lanz/Decrypt&rpar;](https://www.techmeme.com/260608/p63#a260608p63)
- - [Sam Altman and Jakub Pachocki claim OpenAI is &quot;entering the third phase&quot;, aiming to automate AI research, boost the economy, and give everyone a personal AGI &lpar;OpenAI&rpar;](https://www.techmeme.com/260608/p62#a260608p62)<!-- TECH:END -->
+ - [Sources: Taiwan considers restricting AI chip sales to all Chinese customers, rather than only blacklisted entities like Huawei, to align with US measures &lpar;Bloomberg&rpar;](https://www.techmeme.com/260609/p13#a260609p13)
+ - [First look: Samsung adds new FIFA World Cup goal celebrations to your Galaxy phone’s lock screen](https://www.androidauthority.com/samsung-galaxy-aod-fifa-world-cup-animations-3675836/)
+ - [How semi-solid-state batteries are about to change power banks forever](https://www.androidauthority.com/semi-solid-state-batteries-explained-3675333/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
