@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New, more personal Siri AI is set to arrive in 2026](https://appleinsider.com/articles/26/06/08/new-more-personal-siri-ai-is-set-to-arrive-in-2026?utm_source=rss)
- - [Apple announces Visual Intelligence updates, including a new Siri mode in the Camera app for analyzing real-world objects and support for visionOS &lpar;Hartley Charlton/MacRumors&rpar;](https://www.techmeme.com/260608/p37#a260608p37)
- - [Siri just beat Gemini to the punch with a great new customization tool](https://www.androidauthority.com/siri-voice-customization-3675607/)<!-- TECH:END -->
+ - [macOS Golden Gate menus revert to having no icons by each item, as it should be](https://appleinsider.com/articles/26/06/09/macos-golden-gate-menus-revert-to-having-no-icons-by-each-item-as-it-should-be?utm_source=rss)
+ - [Xiaomi claims MiMo-V2.5-Pro-UltraSpeed tops 1K tokens/second, a first at the 1T-parameter scale, using a standard 8-GPU commodity node; API trial starts June 9 &lpar;Jose Antonio Lanz/Decrypt&rpar;](https://www.techmeme.com/260608/p63#a260608p63)
+ - [Sam Altman and Jakub Pachocki claim OpenAI is &quot;entering the third phase&quot;, aiming to automate AI research, boost the economy, and give everyone a personal AGI &lpar;OpenAI&rpar;](https://www.techmeme.com/260608/p62#a260608p62)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
