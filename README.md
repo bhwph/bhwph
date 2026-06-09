@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [9gag is not fun anymore.](http://9gag.com/gag/aO8wo5y)
- - 😝 [Footage from old days](http://9gag.com/gag/aBypRVQ)
- - 👉 [Back in my day we called it &#39;winging it&#39;](http://9gag.com/gag/a7oQLdA)<!-- MEMES:END -->
+ - 6️⃣ [He&#39;s still brutally honest.](http://9gag.com/gag/aVvAz7P)
+ - 😝 [Basics of Gate Construction](http://9gag.com/gag/aNDNrVr)
+ - 👉 [Critics reviews are useless against the public reviews](http://9gag.com/gag/aPA5w2G)<!-- MEMES:END -->
 
 --- 
 
