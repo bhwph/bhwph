@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He&#39;s still brutally honest.](http://9gag.com/gag/aVvAz7P)
- - 😝 [Basics of Gate Construction](http://9gag.com/gag/aNDNrVr)
- - 👉 [Critics reviews are useless against the public reviews](http://9gag.com/gag/aPA5w2G)<!-- MEMES:END -->
+ - 6️⃣ [Women, am I right?](http://9gag.com/gag/a4PvKBy)
+ - 😝 [I hope she wins.](http://9gag.com/gag/a1m9pLb)
+ - 👉 [Lol Ubisoft must&#39;ve been absolutely seething right now](http://9gag.com/gag/aMVg2eM)<!-- MEMES:END -->
 
 --- 
 
