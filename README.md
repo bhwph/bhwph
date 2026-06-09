@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women, am I right?](http://9gag.com/gag/a4PvKBy)
- - 😝 [I hope she wins.](http://9gag.com/gag/a1m9pLb)
- - 👉 [Lol Ubisoft must&#39;ve been absolutely seething right now](http://9gag.com/gag/aMVg2eM)<!-- MEMES:END -->
+ - 6️⃣ [Footage from old days](http://9gag.com/gag/aBypRVQ)
+ - 😝 [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)
+ - 👉 [Kitty Kat](http://9gag.com/gag/agmW3bg)<!-- MEMES:END -->
 
 --- 
 
