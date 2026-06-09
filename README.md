@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Taiwan considers restricting AI chip sales to all Chinese customers, rather than only blacklisted entities like Huawei, to align with US measures &lpar;Bloomberg&rpar;](https://www.techmeme.com/260609/p13#a260609p13)
- - [First look: Samsung adds new FIFA World Cup goal celebrations to your Galaxy phone’s lock screen](https://www.androidauthority.com/samsung-galaxy-aod-fifa-world-cup-animations-3675836/)
- - [How semi-solid-state batteries are about to change power banks forever](https://www.androidauthority.com/semi-solid-state-batteries-explained-3675333/)<!-- TECH:END -->
+ - [Is your YouTube Shorts ‘Dislike’ button missing? Here’s what’s going on](https://www.androidauthority.com/youtube-shorts-heart-button-test-3675982/)
+ - [Anthropic says internal and external red team tests of Fable 5 found no universal jailbreaks; it will keep user traffic for 30 days, aligning with Trump&#39;s AI EO &lpar;Derek B. Johnson/CyberScoop&rpar;](https://www.techmeme.com/260609/p32#a260609p32)
+ - [Apple Intelligence gives Photos in iOS 27 its biggest editing upgrade in years](https://appleinsider.com/articles/26/06/09/apple-intelligence-gives-photos-in-ios-27-its-biggest-editing-upgrade-in-years?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
