@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bad Luck indeed](http://9gag.com/gag/a4PvKDw)
- - 😝 [Intelligence and wisdom on display](http://9gag.com/gag/a7oQKdw)
- - 👉 [Ever seen a sunrise like this It&#39;s like painting with light](http://9gag.com/gag/ajPpryG)<!-- MEMES:END -->
+ - 6️⃣ [Beware of the dog.](https://www.reddit.com/r/funny/comments/1u1zjxx/beware_of_the_dog/)
+ - 😝 [Blud broke everything but the table✌️😭](https://www.reddit.com/r/funny/comments/1u1zizp/blud_broke_everything_but_the_table/)
+ - 👉 [Maybe because they can&#39;t bother ..](http://9gag.com/gag/a9yod7D)<!-- MEMES:END -->
 
 --- 
 
