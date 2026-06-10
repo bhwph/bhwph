@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is your YouTube Shorts ‘Dislike’ button missing? Here’s what’s going on](https://www.androidauthority.com/youtube-shorts-heart-button-test-3675982/)
- - [Anthropic says internal and external red team tests of Fable 5 found no universal jailbreaks; it will keep user traffic for 30 days, aligning with Trump&#39;s AI EO &lpar;Derek B. Johnson/CyberScoop&rpar;](https://www.techmeme.com/260609/p32#a260609p32)
- - [Apple Intelligence gives Photos in iOS 27 its biggest editing upgrade in years](https://appleinsider.com/articles/26/06/09/apple-intelligence-gives-photos-in-ios-27-its-biggest-editing-upgrade-in-years?utm_source=rss)<!-- TECH:END -->
+ - [Sources: SoftBank&#39;s talks with creditors to raise $6B through a margin loan backed by its OpenAI stake have stalled, weeks after it cut its target from $10B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260609/p47#a260609p47)
+ - [Stepful, an AI-powered online training platform for healthcare workers, raised a $55M Series C led by Oak HC/FT, bringing its total funding to $105M &lpar;Heather Landi/Fierce Healthcare&rpar;](https://www.techmeme.com/260609/p46#a260609p46)
+ - [Seattle City Council votes 9-0 to enact a one-year moratorium on new large data centers and study their impact; Mayor Katie Wilson is expected to sign the bill &lpar;Greg Kim/The Seattle Times&rpar;](https://www.techmeme.com/260609/p45#a260609p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
