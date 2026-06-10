@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dengeki Daisy anime officially confirmed by Aniplex and Studio Deen with 2027 release](https://www.polygon.com/aniplex-is-reviving-this-beloved-romance-manga-nearly-20-years-after-its-debut/)
- - [Aliens: Fireteam Elite 2 preview: A flashy and entertaining co-op shooter](https://www.polygon.com/aliens-fireteam-elite-2-preview/)
- - [Kingdom Hearts fans cry foul over AI-generated artwork claims](https://www.polygon.com/kingdom-hearts-collection-ai-art-square-enix/)<!-- GAME:END -->
+ - [Both lawyers in case use hallucinating AI, causing judge to throw up hands, bar them for 2 years, fine everybody, and call the whole thing off for 60 days](https://www.pcgamer.com/software/ai/both-lawyers-in-case-use-hallucinating-ai-causing-judge-to-throw-up-hands-bar-them-for-2-years-fine-everybody-and-call-the-whole-thing-off-for-60-days/)
+ - [The Goonies is officially free to stream on Pluto TV, and it still holds up](https://www.polygon.com/the-goonies-free-streaming/)
+ - [Xbox CEO Warns About Next-Gen Console Gaming’s Cost Crisis: ‘We Will Start To See Radically Different Business Models’](https://kotaku.com/xbox-ceo-warns-about-next-gen-console-gamings-cost-crisis-we-will-start-to-see-radically-different-business-models-2000704611)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
