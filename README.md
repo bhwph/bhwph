@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank&#39;s talks with creditors to raise $6B through a margin loan backed by its OpenAI stake have stalled, weeks after it cut its target from $10B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260609/p47#a260609p47)
- - [Stepful, an AI-powered online training platform for healthcare workers, raised a $55M Series C led by Oak HC/FT, bringing its total funding to $105M &lpar;Heather Landi/Fierce Healthcare&rpar;](https://www.techmeme.com/260609/p46#a260609p46)
- - [Seattle City Council votes 9-0 to enact a one-year moratorium on new large data centers and study their impact; Mayor Katie Wilson is expected to sign the bill &lpar;Greg Kim/The Seattle Times&rpar;](https://www.techmeme.com/260609/p45#a260609p45)<!-- TECH:END -->
+ - [Best iPad Accessories &lpar;2026&rpar;: Keyboards, Cases, Styli](https://www.wired.com/gallery/best-ipad-accessories/)
+ - [Sources: Chinese companies like Moonshot are reconsidering &quot;red-chip&quot; structures, which made it easier to list overseas, after China blocked the Manus deal &lpar;Financial Times&rpar;](https://www.techmeme.com/260610/p22#a260610p22)
+ - [BYD to install thousands of 5-minute EV chargers across Europe](https://www.theverge.com/transportation/947553/byd-flash-chargers-uk-europe-ev-blade-battery)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
