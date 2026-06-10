@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Both lawyers in case use hallucinating AI, causing judge to throw up hands, bar them for 2 years, fine everybody, and call the whole thing off for 60 days](https://www.pcgamer.com/software/ai/both-lawyers-in-case-use-hallucinating-ai-causing-judge-to-throw-up-hands-bar-them-for-2-years-fine-everybody-and-call-the-whole-thing-off-for-60-days/)
- - [The Goonies is officially free to stream on Pluto TV, and it still holds up](https://www.polygon.com/the-goonies-free-streaming/)
- - [Xbox CEO Warns About Next-Gen Console Gaming’s Cost Crisis: ‘We Will Start To See Radically Different Business Models’](https://kotaku.com/xbox-ceo-warns-about-next-gen-console-gamings-cost-crisis-we-will-start-to-see-radically-different-business-models-2000704611)<!-- GAME:END -->
+ - [This Is The First Time I’ve Felt Like The New Fable Is A Real Game](https://kotaku.com/this-is-the-first-time-ive-felt-like-the-new-fable-is-a-real-game-2000704966)
+ - [Netflix&#39;s War Machine is officially one of its biggest movies of all time](https://www.polygon.com/netflix-war-machine-biggest-movies-all-time/)
+ - [The 10 best comic book reprints in MTG&#39;s Marvel Super Heroes set](https://www.polygon.com/mtg-best-marvel-cards-magic-the-gathering-super-heroes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
