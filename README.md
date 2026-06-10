@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best iPad Accessories &lpar;2026&rpar;: Keyboards, Cases, Styli](https://www.wired.com/gallery/best-ipad-accessories/)
- - [Sources: Chinese companies like Moonshot are reconsidering &quot;red-chip&quot; structures, which made it easier to list overseas, after China blocked the Manus deal &lpar;Financial Times&rpar;](https://www.techmeme.com/260610/p22#a260610p22)
- - [BYD to install thousands of 5-minute EV chargers across Europe](https://www.theverge.com/transportation/947553/byd-flash-chargers-uk-europe-ev-blade-battery)<!-- TECH:END -->
+ - [AirPods Pro 3 plunge to $179, lowest price ever, ahead of Prime Day](https://appleinsider.com/articles/26/06/10/airpods-pro-3-plunge-to-179-lowest-price-ever-ahead-of-prime-day?utm_source=rss)
+ - [Mint Mobile just bumped up your data limit for free](https://www.androidauthority.com/mint-mobile-data-limit-increase-3676486/)
+ - [Cybersecurity researchers complain that Claude Fable&#39;s guardrails are too strict, rejecting &quot;innocuous tasks&quot; like reading blog posts or performing code reviews &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](https://www.techmeme.com/260610/p49#a260610p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
