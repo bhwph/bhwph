@@ -120,9 +120,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It looks like the MSI Claw 8 EX AI+ handheld powered by Intel&#39;s new Arc G-series chips will have a pinch of ROG Xbox Ally to it](https://www.pcgamer.com/hardware/handheld-gaming-pcs/it-looks-like-the-msi-claw-8-ex-ai-handheld-powered-by-intels-new-arc-g-series-chips-will-have-a-pinch-of-rog-xbox-ally-to-it/)
- - [This supply chain Sankey diagram for an Nvidia AI megachip is a handy guide to understanding just how easy it is to ruin the prices of graphics cards](https://www.pcgamer.com/hardware/graphics-cards/this-supply-chain-sankey-diagram-for-an-nvidia-ai-megachip-is-a-handy-guide-to-understanding-just-how-easy-it-is-to-ruin-the-prices-of-graphics-cards/)
- - [Take-Two CEO says &#39;former Rockstar employees&#39; have tried to match GTA&#39;s success and &#39;haven&#39;t been able to&#39;—and while he doesn&#39;t name names, that&#39;s gotta sting for a certain someone](https://www.pcgamer.com/games/grand-theft-auto/take-two-ceo-says-former-rockstar-employees-have-tried-to-match-gtas-success-and-havent-been-able-to-and-while-he-doesnt-name-names-thats-gotta-sting-for-a-certain-someone/)<!-- GAME:END -->
+ - [Dengeki Daisy anime officially confirmed by Aniplex and Studio Deen with 2027 release](https://www.polygon.com/aniplex-is-reviving-this-beloved-romance-manga-nearly-20-years-after-its-debut/)
+ - [Aliens: Fireteam Elite 2 preview: A flashy and entertaining co-op shooter](https://www.polygon.com/aliens-fireteam-elite-2-preview/)
+ - [Kingdom Hearts fans cry foul over AI-generated artwork claims](https://www.polygon.com/kingdom-hearts-collection-ai-art-square-enix/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
