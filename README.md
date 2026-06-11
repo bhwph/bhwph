@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Stolen Device Protection is thwarting prolific London thieves](https://appleinsider.com/articles/26/06/11/iphone-stolen-device-protection-is-thwarting-prolific-london-thieves?utm_source=rss)
- - [Best Smart Chess Boards &lpar;2026&rpar;: Chessnut, Millennium](https://www.wired.com/story/best-smart-chess-boards/)
- - [Signal Alums Reveal ‘Encrypted Spaces,’ a System for Making Private Collaboration Apps](https://www.wired.com/story/signal-alums-release-encrypted-spaces-a-new-system-for-building-private-collaboration-apps/)<!-- TECH:END -->
+ - [Some investors question SpaceX&#39;s projected $1.77T valuation, citing its $4.3B loss on $4.7B in revenue in Q1, concerns over space data centers, and more &lpar;New York Times&rpar;](https://www.techmeme.com/260611/p42#a260611p42)
+ - [US legislation outlawing big tech from favoriting their own services resurrected](https://appleinsider.com/articles/26/06/11/us-legislation-outlawing-big-tech-from-favoriting-their-own-services-resurrected?utm_source=rss)
+ - [Blink’s six-piece outdoor camera kit is a great deal under $200](https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
