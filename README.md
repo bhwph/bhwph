@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
- - 😝 [News from the front](http://9gag.com/gag/aKGRP7Q)
- - 👉 [Caught off guard with that perplexed expression](http://9gag.com/gag/aGyXwo5)<!-- MEMES:END -->
+ - 6️⃣ [Prayers do come true](http://9gag.com/gag/avyNZPM)
+ - 😝 [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)
+ - 👉 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)<!-- MEMES:END -->
 
 --- 
 
