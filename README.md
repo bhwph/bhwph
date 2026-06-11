@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 3 plunge to $179, lowest price ever, ahead of Prime Day](https://appleinsider.com/articles/26/06/10/airpods-pro-3-plunge-to-179-lowest-price-ever-ahead-of-prime-day?utm_source=rss)
- - [Mint Mobile just bumped up your data limit for free](https://www.androidauthority.com/mint-mobile-data-limit-increase-3676486/)
- - [Cybersecurity researchers complain that Claude Fable&#39;s guardrails are too strict, rejecting &quot;innocuous tasks&quot; like reading blog posts or performing code reviews &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](https://www.techmeme.com/260610/p49#a260610p49)<!-- TECH:END -->
+ - [Letter: Texas Governor Greg Abbott released regulatory recommendations for state lawmakers to ensure that data centers shoulder the costs of their growth &lpar;The Texas Tribune&rpar;](https://www.techmeme.com/260610/p67#a260610p67)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, June 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-june-11/)
+ - [Sources: OpenAI is considering drastically lowering its price for tokens in anticipation of similar cuts the company expects at Anthropic &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260610/p66#a260610p66)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
