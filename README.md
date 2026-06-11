@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Letter: Texas Governor Greg Abbott released regulatory recommendations for state lawmakers to ensure that data centers shoulder the costs of their growth &lpar;The Texas Tribune&rpar;](https://www.techmeme.com/260610/p67#a260610p67)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, June 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-june-11/)
- - [Sources: OpenAI is considering drastically lowering its price for tokens in anticipation of similar cuts the company expects at Anthropic &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260610/p66#a260610p66)<!-- TECH:END -->
+ - [iPhone Stolen Device Protection is thwarting prolific London thieves](https://appleinsider.com/articles/26/06/11/iphone-stolen-device-protection-is-thwarting-prolific-london-thieves?utm_source=rss)
+ - [Best Smart Chess Boards &lpar;2026&rpar;: Chessnut, Millennium](https://www.wired.com/story/best-smart-chess-boards/)
+ - [Signal Alums Reveal ‘Encrypted Spaces,’ a System for Making Private Collaboration Apps](https://www.wired.com/story/signal-alums-release-encrypted-spaces-a-new-system-for-building-private-collaboration-apps/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
