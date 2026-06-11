@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mom lore go crazy.](http://9gag.com/gag/a2veN0Z)
- - 😝 [She got me fresh produce, I got a happy heart](http://9gag.com/gag/aO8wqpM)
- - 👉 [Cartoon logic](http://9gag.com/gag/amo30N6)<!-- MEMES:END -->
+ - 6️⃣ [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
+ - 😝 [News from the front](http://9gag.com/gag/aKGRP7Q)
+ - 👉 [Caught off guard with that perplexed expression](http://9gag.com/gag/aGyXwo5)<!-- MEMES:END -->
 
 --- 
 
