@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Prayers do come true](http://9gag.com/gag/avyNZPM)
- - 😝 [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)
- - 👉 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)<!-- MEMES:END -->
+ - 6️⃣ [Guess I need to pack my bags and move to Italy then](http://9gag.com/gag/a2veqwp)
+ - 😝 [F**k you motherf**ker you damn get the f**k out](http://9gag.com/gag/a6ZPLo9)
+ - 👉 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)<!-- MEMES:END -->
 
 --- 
 
