@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Grindr CEO George Arison on turning the dating app into a &quot;global gayborhood&quot; hub with services for HIV treatment, hotel bookings, and more &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260611/p54#a260611p54)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, June 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-12/)
- - [Nesto, a Montreal-based mortgage and finance tech startup, raised a CA$302M Series E at a CA$1.47B valuation to expedite deployment of its lending platform &lpar;Alex Riehl/BetaKit&rpar;](https://www.techmeme.com/260611/p53#a260611p53)<!-- TECH:END -->
+ - [ANBERNIC RG557 owners are getting the software overhaul they have been waiting for](https://www.androidauthority.com/anbernic-rg557-v128-software-update-3677129/)
+ - [Niantic Spatial says Pokémon Go data is &quot;not part of&quot; its deal with spatial AI company Vantor, after concerns that game data could be used for military drones &lpar;Kenneth Shepard/Kotaku&rpar;](https://www.techmeme.com/260612/p11#a260612p11)
+ - [4 Best Floodlight Security Cameras &lpar;2026&rpar; After Thorough Testing](https://www.wired.com/gallery/best-floodlight-security-cameras/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
