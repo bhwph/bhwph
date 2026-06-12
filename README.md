@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [IT&#39;S OVER!](http://9gag.com/gag/aLnxBdM)
- - 😝 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
+ - 6️⃣ [She kinda sounds like a Witch, maybe from Germany?](http://9gag.com/gag/amo38QX)
+ - 😝 [That was f..ing close,](http://9gag.com/gag/ajPpnK8)
  - 👉 [Wer melons?](http://9gag.com/gag/aW4z624)<!-- MEMES:END -->
 
 --- 
