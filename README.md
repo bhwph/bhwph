@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some investors question SpaceX&#39;s projected $1.77T valuation, citing its $4.3B loss on $4.7B in revenue in Q1, concerns over space data centers, and more &lpar;New York Times&rpar;](https://www.techmeme.com/260611/p42#a260611p42)
- - [US legislation outlawing big tech from favoriting their own services resurrected](https://appleinsider.com/articles/26/06/11/us-legislation-outlawing-big-tech-from-favoriting-their-own-services-resurrected?utm_source=rss)
- - [Blink’s six-piece outdoor camera kit is a great deal under $200](https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale)<!-- TECH:END -->
+ - [An interview with Grindr CEO George Arison on turning the dating app into a &quot;global gayborhood&quot; hub with services for HIV treatment, hotel bookings, and more &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260611/p54#a260611p54)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, June 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-12/)
+ - [Nesto, a Montreal-based mortgage and finance tech startup, raised a CA$302M Series E at a CA$1.47B valuation to expedite deployment of its lending platform &lpar;Alex Riehl/BetaKit&rpar;](https://www.techmeme.com/260611/p53#a260611p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
