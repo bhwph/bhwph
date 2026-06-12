@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Doom was ahead of its time](http://9gag.com/gag/a0eBpNQ)
- - 😝 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
- - 👉 [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)<!-- MEMES:END -->
+ - 6️⃣ [IT&#39;S OVER!](http://9gag.com/gag/aLnxBdM)
+ - 😝 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
+ - 👉 [Wer melons?](http://9gag.com/gag/aW4z624)<!-- MEMES:END -->
 
 --- 
 
