@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She kinda sounds like a Witch, maybe from Germany?](http://9gag.com/gag/amo38QX)
- - 😝 [That was f..ing close,](http://9gag.com/gag/ajPpnK8)
- - 👉 [Wer melons?](http://9gag.com/gag/aW4z624)<!-- MEMES:END -->
+ - 6️⃣ [Creativ](http://9gag.com/gag/abA70Pr)
+ - 😝 [`And I&#39;ll do it again` look.](http://9gag.com/gag/avyNnPn)
+ - 👉 [We all been there!](http://9gag.com/gag/aQzG8Pe)<!-- MEMES:END -->
 
 --- 
 
