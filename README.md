@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Ukrainian extradited from Ireland to the US pleads guilty to conspiracy to commit wire fraud for his role in Conti ransomware attacks between 2021 and 2022 &lpar;Lawrence Abrams/BleepingComputer&rpar;](https://www.techmeme.com/260612/p35#a260612p35)
- - [Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order](https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/)
- - [Anthropic says it believes the US government&#39;s export control order for Mythos 5 and Fable 5 is a &quot;misunderstanding&quot; and that it is working to restore access &lpar;Ananya Palyekar/Reuters&rpar;](https://www.techmeme.com/260612/p34#a260612p34)<!-- TECH:END -->
+ - [As a longtime Android privacy nerd, here are 6 privacy apps I actually regret installing](https://www.androidauthority.com/android-privacy-apps-i-regret-3671250/)
+ - [Rivian’s CEO on Tesla’s Cybertruck, Ferrari’s Luce, and What Happens If the R2 Fails](https://www.wired.com/story/interview-with-rivian-ceo-rj-scaringe/)
+ - [The best thing about the Moto G Stylus 2026? It does what Google and Samsung won’t](https://www.androidauthority.com/moto-g-stylus-2026-beats-google-samsung-how-3675524/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
