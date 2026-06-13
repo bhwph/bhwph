@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Creativ](http://9gag.com/gag/abA70Pr)
- - 😝 [`And I&#39;ll do it again` look.](http://9gag.com/gag/avyNnPn)
- - 👉 [We all been there!](http://9gag.com/gag/aQzG8Pe)<!-- MEMES:END -->
+ - 6️⃣ [IT&#39;S OVER!](http://9gag.com/gag/aLnxBdM)
+ - 😝 [F**ks Around And Finds Out](http://9gag.com/gag/axy5GYb)
+ - 👉 [At least 3 babies were born not far from there.](http://9gag.com/gag/a5Q4rxG)<!-- MEMES:END -->
 
 --- 
 
