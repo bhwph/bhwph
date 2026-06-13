@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk Is the World&#39;s First Trillionaire](https://www.wired.com/story/elon-musk-is-the-worlds-first-trillionaire-wow/)
- - [A profile of former Google DeepMind employee Thibault Sottiaux, now OpenAI&#39;s head of core products tasked with combining ChatGPT and Codex into a super app &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260612/p20#a260612p20)
- - [Google TV’s World Cup hub brings live matches, highlights, and analysis together](https://www.androidauthority.com/google-tv-world-cup-3677238/)<!-- TECH:END -->
+ - [A Ukrainian extradited from Ireland to the US pleads guilty to conspiracy to commit wire fraud for his role in Conti ransomware attacks between 2021 and 2022 &lpar;Lawrence Abrams/BleepingComputer&rpar;](https://www.techmeme.com/260612/p35#a260612p35)
+ - [Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order](https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/)
+ - [Anthropic says it believes the US government&#39;s export control order for Mythos 5 and Fable 5 is a &quot;misunderstanding&quot; and that it is working to restore access &lpar;Ananya Palyekar/Reuters&rpar;](https://www.techmeme.com/260612/p34#a260612p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
