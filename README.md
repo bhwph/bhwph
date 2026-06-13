@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As a longtime Android privacy nerd, here are 6 privacy apps I actually regret installing](https://www.androidauthority.com/android-privacy-apps-i-regret-3671250/)
- - [Rivian’s CEO on Tesla’s Cybertruck, Ferrari’s Luce, and What Happens If the R2 Fails](https://www.wired.com/story/interview-with-rivian-ceo-rj-scaringe/)
- - [The best thing about the Moto G Stylus 2026? It does what Google and Samsung won’t](https://www.androidauthority.com/moto-g-stylus-2026-beats-google-samsung-how-3675524/)<!-- TECH:END -->
+ - [Sources: Amazon CEO Andy Jassy is among tech leaders who raised concerns with Trump officials about Mythos 5, setting in motion new export restrictions &lpar;The Information&rpar;](https://www.techmeme.com/260613/p8#a260613p8)
+ - [Microsoft hasn’t ruled out spinning off Xbox](https://www.theverge.com/games/949584/microsoft-spinning-off-xbox)
+ - [&#39;Dungeons &amp; Dragons: Honor Among Thieves,&#39; &#39;Challengers&#39; and More Movies You Can Stream for Free in June 2026](https://www.cnet.com/tech/services-and-software/dungeons-dragons-honor-among-thieves-and-more-movies-you-can-stream-for-free-in-june/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
