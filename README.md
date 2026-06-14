@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Companies are grappling with whether and how to curb employee wagers on prediction markets that may use confidential info, as platforms tighten their own rules &lpar;Financial Times&rpar;](https://www.techmeme.com/260613/p16#a260613p16)
- - [Q&amp;A with labor researcher Molly Kinder on her recent, widely discussed &quot;Messy Middle&quot; essay on AI-driven disruption of knowledge jobs and how to address it &lpar;Casey Newton/Platformer&rpar;](https://www.techmeme.com/260613/p15#a260613p15)
- - [Source: the White House imposed export controls on Mythos partly over suspicions a China-linked group had accessed it &lpar;Reed Albergotti/Semafor&rpar;](https://www.techmeme.com/260613/p13#a260613p13)<!-- TECH:END -->
+ - [Fitbit’s new health coach is worse than my mom](https://www.androidauthority.com/fitbit-new-health-coach-worse-than-my-mom-3668153/)
+ - [Suunto Spark Review: The Perfect Pair for Runs and Rides](https://www.wired.com/review/suunto-spark/)
+ - [I’ve got to hand it to the SwitchBot Lock Vision Pro and its palm-vein authentication](https://www.androidauthority.com/switchbot-lock-vision-pro-review-3670529/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
