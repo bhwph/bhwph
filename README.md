@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What Move is this?](http://9gag.com/gag/azxnA4z)
- - 😝 [Sleepworking](http://9gag.com/gag/a7oQd8z)
- - 👉 [To keep&#39;em together. That&#39;s why](http://9gag.com/gag/aGyXDVz)<!-- MEMES:END -->
+ - 6️⃣ [Sleepworking](http://9gag.com/gag/a7oQd8z)
+ - 😝 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
+ - 👉 [The FIRST THING the UK `officers` do is turn off their BodyCams.](http://9gag.com/gag/a4Pvb9Q)<!-- MEMES:END -->
 
 --- 
 
