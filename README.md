@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit’s new health coach is worse than my mom](https://www.androidauthority.com/fitbit-new-health-coach-worse-than-my-mom-3668153/)
- - [Suunto Spark Review: The Perfect Pair for Runs and Rides](https://www.wired.com/review/suunto-spark/)
- - [I’ve got to hand it to the SwitchBot Lock Vision Pro and its palm-vein authentication](https://www.androidauthority.com/switchbot-lock-vision-pro-review-3670529/)<!-- TECH:END -->
+ - [Sources: UK plans to announce an &quot;Australia plus&quot; under-16 social media ban, including restrictions on chats with strangers on gaming apps and under-18 curfews &lpar;The Guardian&rpar;](https://www.techmeme.com/260614/p10#a260614p10)
+ - [EU says it is looking at the practical consequences of US restricting Anthropic&#39;s models, notes such measures &quot;should not be discriminatory against partners&quot; &lpar;Reuters&rpar;](https://www.techmeme.com/260614/p9#a260614p9)
+ - [iPhone Fold, touchscreen MacBook evidence mounts in iOS 27, macOS 27](https://appleinsider.com/articles/26/06/14/iphone-fold-touchscreen-macbook-evidence-mounts-in-ios-27-macos-27?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
