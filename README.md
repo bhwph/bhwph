@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sleepworking](http://9gag.com/gag/a7oQd8z)
- - 😝 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
- - 👉 [The FIRST THING the UK `officers` do is turn off their BodyCams.](http://9gag.com/gag/a4Pvb9Q)<!-- MEMES:END -->
+ - 6️⃣ [Not the bees!](http://9gag.com/gag/aKGR2pZ)
+ - 😝 [Behind-the-scenes of one of the greatest repair service in motorsports history](http://9gag.com/gag/a9yoW1D)
+ - 👉 [Avatar movie scene](http://9gag.com/gag/abA7pyL)<!-- MEMES:END -->
 
 --- 
 
