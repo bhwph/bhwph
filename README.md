@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
- - 😝 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
- - 👉 [Just show cats, dogs and Emma](http://9gag.com/gag/adBEXLB)<!-- MEMES:END -->
+ - 6️⃣ [What Move is this?](http://9gag.com/gag/azxnA4z)
+ - 😝 [Sleepworking](http://9gag.com/gag/a7oQd8z)
+ - 👉 [To keep&#39;em together. That&#39;s why](http://9gag.com/gag/aGyXDVz)<!-- MEMES:END -->
 
 --- 
 
