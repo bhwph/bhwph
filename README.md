@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not the bees!](http://9gag.com/gag/aKGR2pZ)
- - 😝 [Behind-the-scenes of one of the greatest repair service in motorsports history](http://9gag.com/gag/a9yoW1D)
- - 👉 [Avatar movie scene](http://9gag.com/gag/abA7pyL)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s the best money that they can earn \u00af\\_&lpar;\u30c4&rpar;_/\u00af](http://9gag.com/gag/a34m77v)
+ - 😝 [Aging like fine wine](http://9gag.com/gag/adBEqNQ)
+ - 👉 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)<!-- MEMES:END -->
 
 --- 
 
