@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s the best money that they can earn \u00af\\_&lpar;\u30c4&rpar;_/\u00af](http://9gag.com/gag/a34m77v)
- - 😝 [Aging like fine wine](http://9gag.com/gag/adBEqNQ)
- - 👉 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)<!-- MEMES:END -->
+ - 6️⃣ [Always one tout ruining it for everyone.](http://9gag.com/gag/a34m7N5)
+ - 😝 [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
+ - 👉 [Can someone tell me the context of this old meme](http://9gag.com/gag/ayNGDey)<!-- MEMES:END -->
 
 --- 
 
