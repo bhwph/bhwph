@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: UK plans to announce an &quot;Australia plus&quot; under-16 social media ban, including restrictions on chats with strangers on gaming apps and under-18 curfews &lpar;The Guardian&rpar;](https://www.techmeme.com/260614/p10#a260614p10)
- - [EU says it is looking at the practical consequences of US restricting Anthropic&#39;s models, notes such measures &quot;should not be discriminatory against partners&quot; &lpar;Reuters&rpar;](https://www.techmeme.com/260614/p9#a260614p9)
- - [iPhone Fold, touchscreen MacBook evidence mounts in iOS 27, macOS 27](https://appleinsider.com/articles/26/06/14/iphone-fold-touchscreen-macbook-evidence-mounts-in-ios-27-macos-27?utm_source=rss)<!-- TECH:END -->
+ - [Health wearables are booming, with both Oura and Whoop eyeing IPOs, but investors remain cautious after Fitbit&#39;s struggles and low consumer hardware margins &lpar;David Wainer/Wall Street Journal&rpar;](https://www.techmeme.com/260614/p22#a260614p22)
+ - [Rylo, which develops real-time speech and sign-language translation tools for deaf and hard-of-hearing users, raised $85M led by General Catalyst and Canaan &lpar;Sophie Shulman/CTech&rpar;](https://www.techmeme.com/260614/p21#a260614p21)
+ - [Hypha, which extracts data from private-market documents to create workflows for underwriting, portfolio monitoring, and asset management, raised a $50M seed &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/260614/p20#a260614p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
