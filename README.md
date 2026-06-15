@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Health wearables are booming, with both Oura and Whoop eyeing IPOs, but investors remain cautious after Fitbit&#39;s struggles and low consumer hardware margins &lpar;David Wainer/Wall Street Journal&rpar;](https://www.techmeme.com/260614/p22#a260614p22)
- - [Rylo, which develops real-time speech and sign-language translation tools for deaf and hard-of-hearing users, raised $85M led by General Catalyst and Canaan &lpar;Sophie Shulman/CTech&rpar;](https://www.techmeme.com/260614/p21#a260614p21)
- - [Hypha, which extracts data from private-market documents to create workflows for underwriting, portfolio monitoring, and asset management, raised a $50M seed &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/260614/p20#a260614p20)<!-- TECH:END -->
+ - [iPhone 18 Pro buyers should watch out for a repeat problem](https://appleinsider.com/articles/26/06/15/iphone-18-pro-buyers-should-watch-out-for-a-repeat-problem?utm_source=rss)
+ - [A look at the proposals to share the AI wealth with the public: government stakes in AI labs, a tax on AI token use, a global capital income tax, and more &lpar;Peter Coy/New York Times&rpar;](https://www.techmeme.com/260615/p18#a260615p18)
+ - [AYANEO’s palm-sized homage to Game Boy Micro is coming back for round two](https://www.androidauthority.com/ayaneo-pocket-game-boy-micro-2-3677482/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
