@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 18 Pro buyers should watch out for a repeat problem](https://appleinsider.com/articles/26/06/15/iphone-18-pro-buyers-should-watch-out-for-a-repeat-problem?utm_source=rss)
- - [A look at the proposals to share the AI wealth with the public: government stakes in AI labs, a tax on AI token use, a global capital income tax, and more &lpar;Peter Coy/New York Times&rpar;](https://www.techmeme.com/260615/p18#a260615p18)
- - [AYANEO’s palm-sized homage to Game Boy Micro is coming back for round two](https://www.androidauthority.com/ayaneo-pocket-game-boy-micro-2-3677482/)<!-- TECH:END -->
+ - [Amazon&amp;#8217;s Smart Thermostat is on sale for just $58](https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale)
+ - [Onn’s new outdoor floodlight cam comes with Gemini integration for under $80](https://www.androidauthority.com/onn-outdoor-floodlight-camera-on-sale-3677643/)
+ - [All the news about Anthropic&amp;#8217;s new AI fight with the White House](https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
