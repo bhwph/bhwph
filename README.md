@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Always one tout ruining it for everyone.](http://9gag.com/gag/a34m7N5)
- - 😝 [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
- - 👉 [Can someone tell me the context of this old meme](http://9gag.com/gag/ayNGDey)<!-- MEMES:END -->
+ - 6️⃣ [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
+ - 😝 [Good Girl](http://9gag.com/gag/aE03Ydn)
+ - 👉 [Tom the Mime](http://9gag.com/gag/aD2yz5d)<!-- MEMES:END -->
 
 --- 
 
