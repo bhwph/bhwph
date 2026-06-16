@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&amp;#8217;s Smart Thermostat is on sale for just $58](https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale)
- - [Onn’s new outdoor floodlight cam comes with Gemini integration for under $80](https://www.androidauthority.com/onn-outdoor-floodlight-camera-on-sale-3677643/)
- - [All the news about Anthropic&amp;#8217;s new AI fight with the White House](https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown)<!-- TECH:END -->
+ - [Sources: Trump officials weighed Anthropic export controls weeks before forcing its models offline, after a dispute over Mythos access for a China-linked firm &lpar;Washington Post&rpar;](https://www.techmeme.com/260615/p47#a260615p47)
+ - [DOJ Lawyers Argue xAI Is ‘Vital’ for National Security in NAACP Lawsuit](https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/)
+ - [Anthropic says its senior leaders met Trump admin officials on June 15, but no resolution was reached and both sides are working to resolve things quickly &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260615/p46#a260615p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
