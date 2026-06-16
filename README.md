@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Trump officials weighed Anthropic export controls weeks before forcing its models offline, after a dispute over Mythos access for a China-linked firm &lpar;Washington Post&rpar;](https://www.techmeme.com/260615/p47#a260615p47)
- - [DOJ Lawyers Argue xAI Is ‘Vital’ for National Security in NAACP Lawsuit](https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/)
- - [Anthropic says its senior leaders met Trump admin officials on June 15, but no resolution was reached and both sides are working to resolve things quickly &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260615/p46#a260615p46)<!-- TECH:END -->
+ - [Roblox rolls out Roblox Kids accounts, for ages 5-8, and Roblox Select accounts, for ages 9-15, globally, after launching them in four countries last month &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260616/p19#a260616p19)
+ - [Robinhood CEO Vlad Tenev says the company is reducing its full-time workforce by ~10%, or around 290 employees, as part of &quot;flattening&quot; its org structure &lpar;Helen Partz/Cointelegraph&rpar;](https://www.techmeme.com/260616/p18#a260616p18)
+ - [This new wearable is trying to save you from yourself &lpar;and your phone&rpar;](https://www.androidauthority.com/jaye-band-launch-3676173/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
