@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox rolls out Roblox Kids accounts, for ages 5-8, and Roblox Select accounts, for ages 9-15, globally, after launching them in four countries last month &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260616/p19#a260616p19)
- - [Robinhood CEO Vlad Tenev says the company is reducing its full-time workforce by ~10%, or around 290 employees, as part of &quot;flattening&quot; its org structure &lpar;Helen Partz/Cointelegraph&rpar;](https://www.techmeme.com/260616/p18#a260616p18)
- - [This new wearable is trying to save you from yourself &lpar;and your phone&rpar;](https://www.androidauthority.com/jaye-band-launch-3676173/)<!-- TECH:END -->
+ - [Snap built standalone AR glasses without a convincing reason to wear them](https://appleinsider.com/articles/26/06/16/snap-built-standalone-ar-glasses-without-a-convincing-reason-to-wear-them?utm_source=rss)
+ - [Sensor Tower: ChatGPT&#39;s market share fell to 46.4% by the end of May, as Gemini rose to 27.7% and Claude to 10.3%; Grok, Meta AI, and others have less than 5% &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260616/p38#a260616p38)
+ - [Google Photos may soon let you remix videos just like photos](https://www.androidauthority.com/google-photos-video-remix-3678037/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
