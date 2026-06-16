@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tom the Mime](http://9gag.com/gag/aD2yz5d)
- - 😝 [MSGA](http://9gag.com/gag/aPA5BXw)
- - 👉 [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)<!-- MEMES:END -->
+ - 6️⃣ [Agree!](http://9gag.com/gag/aZZe360)
+ - 😝 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
+ - 👉 [Bad Mobility Shofer.](http://9gag.com/gag/a6ZPooL)<!-- MEMES:END -->
 
 --- 
 
