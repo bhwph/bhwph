@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
- - 😝 [Good Girl](http://9gag.com/gag/aE03Ydn)
- - 👉 [Tom the Mime](http://9gag.com/gag/aD2yz5d)<!-- MEMES:END -->
+ - 6️⃣ [Peak German engineering](http://9gag.com/gag/a7oQrzL)
+ - 😝 [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
+ - 👉 [The moment that we all waiting for.. Japanese fans stayed behind at the AT&amp;T Stadium in Dallas after the game to clean up the entire stadium.](http://9gag.com/gag/amo32Lo)<!-- MEMES:END -->
 
 --- 
 
