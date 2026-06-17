@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta decided to support KOSA after it was packaged with language preempting state AI laws and a bill requiring app stores to verify users&#39; ages &lpar;Politico&rpar;](https://www.techmeme.com/260616/p48#a260616p48)
- - [Kapwing: in tests, ~60% of the first 500 TikTok For You videos shown to a new account were AI slop, ~3x the slop shown to a new YouTube user via YouTube Shorts &lpar;Matt G. Southern/Search Engine Journal&rpar;](https://www.techmeme.com/260616/p47#a260616p47)
- - [Sources: the US has held off adding DeepSeek, CXMT, and 100+ other flagged companies to its Entity List, last updated in October, the longest gap in 10+ years &lpar;Karen Freifeld/Reuters&rpar;](https://www.techmeme.com/260616/p46#a260616p46)<!-- TECH:END -->
+ - [Twenty, which uses AI to help US military hackers penetrate adversary computer networks, raised a $100M Series B led by Accel at a $1B valuation &lpar;Colin Demarest/Axios&rpar;](https://www.techmeme.com/260617/p20#a260617p20)
+ - [Nasdaq Private Market sues Hiive, claiming Hiive stole trade secrets and infringed on its IP, poaching two employees in part to access confidential information &lpar;Yazhou Sun/Bloomberg&rpar;](https://www.techmeme.com/260617/p19#a260617p19)
+ - [Apple&#39;s Silicon Valley real estate assets gain a $162M office building](https://appleinsider.com/articles/26/06/17/apples-silicon-valley-real-estate-assets-gain-a-162m-office-building?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
