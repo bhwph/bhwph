@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twenty, which uses AI to help US military hackers penetrate adversary computer networks, raised a $100M Series B led by Accel at a $1B valuation &lpar;Colin Demarest/Axios&rpar;](https://www.techmeme.com/260617/p20#a260617p20)
- - [Nasdaq Private Market sues Hiive, claiming Hiive stole trade secrets and infringed on its IP, poaching two employees in part to access confidential information &lpar;Yazhou Sun/Bloomberg&rpar;](https://www.techmeme.com/260617/p19#a260617p19)
- - [Apple&#39;s Silicon Valley real estate assets gain a $162M office building](https://appleinsider.com/articles/26/06/17/apples-silicon-valley-real-estate-assets-gain-a-162m-office-building?utm_source=rss)<!-- TECH:END -->
+ - [Smart glasses could be about to face some heavy restrictions for drivers](https://www.androidauthority.com/smart-glasses-driving-3678592/)
+ - [Sources: Dario Amodei and Demis Hassabis called for a US-led coalition to shape AI rules and standards at a closed-door meeting at the G7 summit on Wednesday &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260617/p39#a260617p39)
+ - [Blink has a big speed advantage against WebKit in browser tests](https://appleinsider.com/articles/26/06/17/blink-has-a-big-speed-advantage-against-webkit-in-browser-tests?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
