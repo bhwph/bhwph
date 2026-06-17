@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap built standalone AR glasses without a convincing reason to wear them](https://appleinsider.com/articles/26/06/16/snap-built-standalone-ar-glasses-without-a-convincing-reason-to-wear-them?utm_source=rss)
- - [Sensor Tower: ChatGPT&#39;s market share fell to 46.4% by the end of May, as Gemini rose to 27.7% and Claude to 10.3%; Grok, Meta AI, and others have less than 5% &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260616/p38#a260616p38)
- - [Google Photos may soon let you remix videos just like photos](https://www.androidauthority.com/google-photos-video-remix-3678037/)<!-- TECH:END -->
+ - [Sources: Meta decided to support KOSA after it was packaged with language preempting state AI laws and a bill requiring app stores to verify users&#39; ages &lpar;Politico&rpar;](https://www.techmeme.com/260616/p48#a260616p48)
+ - [Kapwing: in tests, ~60% of the first 500 TikTok For You videos shown to a new account were AI slop, ~3x the slop shown to a new YouTube user via YouTube Shorts &lpar;Matt G. Southern/Search Engine Journal&rpar;](https://www.techmeme.com/260616/p47#a260616p47)
+ - [Sources: the US has held off adding DeepSeek, CXMT, and 100+ other flagged companies to its Entity List, last updated in October, the longest gap in 10+ years &lpar;Karen Freifeld/Reuters&rpar;](https://www.techmeme.com/260616/p46#a260616p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
