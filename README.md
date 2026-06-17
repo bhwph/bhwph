@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [COD. Totally worth the wait](http://9gag.com/gag/aYQ9gM0)
- - 😝 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
- - 👉 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)<!-- MEMES:END -->
+ - 6️⃣ [Agree!](http://9gag.com/gag/aZZe360)
+ - 😝 [Pedophile Ryan Abdelrahim gets busted for trying to meet at 12 yr old for the wrong reasons](http://9gag.com/gag/a7oQ3zx)
+ - 👉 [Hmmm, does it work ?](http://9gag.com/gag/avyN7qO)<!-- MEMES:END -->
 
 --- 
 
