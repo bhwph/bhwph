@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Agree!](http://9gag.com/gag/aZZe360)
- - 😝 [Pedophile Ryan Abdelrahim gets busted for trying to meet at 12 yr old for the wrong reasons](http://9gag.com/gag/a7oQ3zx)
- - 👉 [Hmmm, does it work ?](http://9gag.com/gag/avyN7qO)<!-- MEMES:END -->
+ - 6️⃣ [Pedophile Ryan Abdelrahim gets busted for trying to meet at 12 yr old for the wrong reasons](http://9gag.com/gag/a7oQ3zx)
+ - 😝 [Green](http://9gag.com/gag/aLnx0vP)
+ - 👉 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)<!-- MEMES:END -->
 
 --- 
 
