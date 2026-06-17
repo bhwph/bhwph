@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Agree!](http://9gag.com/gag/aZZe360)
+ - 6️⃣ [COD. Totally worth the wait](http://9gag.com/gag/aYQ9gM0)
  - 😝 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
- - 👉 [Bad Mobility Shofer.](http://9gag.com/gag/a6ZPooL)<!-- MEMES:END -->
+ - 👉 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)<!-- MEMES:END -->
 
 --- 
 
