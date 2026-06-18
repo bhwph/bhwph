@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A survey of US adults: 49% reported using chatbots in 2026, up from 33% in 2024, 24% said that they use chatbots on a daily basis, and 44% said they use ChatGPT &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260617/p56#a260617p56)
- - [Sources: the White House&#39;s move to restrict Mythos 5 came after it ordered Anthropic to revoke South Korea-based SK Telecom&#39;s access over alleged ties to China &lpar;Wired&rpar;](https://www.techmeme.com/260617/p55#a260617p55)
- - [Filing: Roelof Botha has joined the board of SpaceX as an independent director, seven months after stepping down as Sequoia steward &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260617/p54#a260617p54)<!-- TECH:END -->
+ - [Amazon’s Fire Tablets, Tested, So You Don’t Have To &lpar;2026&rpar;](https://www.wired.com/gallery/best-amazon-fire-tablet/)
+ - [The White House’s dodgy app is being pushed to even more official government devices](https://www.androidauthority.com/white-house-app-automatic-install-dhs-devices-3678910/)
+ - [An in-depth look at Meta&#39;s AI-fueled rampage through its engineering organization, reassignments of engineers on core teams to data labeling, and more &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](https://www.techmeme.com/260618/p23#a260618p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
