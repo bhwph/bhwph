@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Agree!](http://9gag.com/gag/aZZe360)
- - 😝 [Life choices](http://9gag.com/gag/a87Z301)
- - 👉 [Everywhere...](http://9gag.com/gag/a9yoR10)<!-- MEMES:END -->
+ - 6️⃣ [Circle of AI life](http://9gag.com/gag/a87Z5ZQ)
+ - 😝 [The Moscow refinery in Kapotny today... `We pushed our luck...`](http://9gag.com/gag/aE03PWp)
+ - 👉 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)<!-- MEMES:END -->
 
 --- 
 
