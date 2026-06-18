@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Circle of AI life](http://9gag.com/gag/a87Z5ZQ)
- - 😝 [The Moscow refinery in Kapotny today... `We pushed our luck...`](http://9gag.com/gag/aE03PWp)
- - 👉 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)<!-- MEMES:END -->
+ - 6️⃣ [Everywhere...](http://9gag.com/gag/a9yoR10)
+ - 😝 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
+ - 👉 [Don&#39;t.](http://9gag.com/gag/apROmwD)<!-- MEMES:END -->
 
 --- 
 
