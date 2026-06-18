@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Fire Tablets, Tested, So You Don’t Have To &lpar;2026&rpar;](https://www.wired.com/gallery/best-amazon-fire-tablet/)
- - [The White House’s dodgy app is being pushed to even more official government devices](https://www.androidauthority.com/white-house-app-automatic-install-dhs-devices-3678910/)
- - [An in-depth look at Meta&#39;s AI-fueled rampage through its engineering organization, reassignments of engineers on core teams to data labeling, and more &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](https://www.techmeme.com/260618/p23#a260618p23)<!-- TECH:END -->
+ - [A12 &amp; A13 Apple devices face an unpatchable SecureROM vulnerability](https://appleinsider.com/articles/26/06/18/a12-a13-apple-devices-face-an-unpatchable-securerom-vulnerability?utm_source=rss)
+ - [Did Android 17 eat your Pixel’s widgets? Google’s working on it](https://www.androidauthority.com/android-17-google-pixel-widget-fix-coming-3679098/)
+ - [This robotic self-driving toilet comes to you](https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
