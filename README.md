@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smart glasses could be about to face some heavy restrictions for drivers](https://www.androidauthority.com/smart-glasses-driving-3678592/)
- - [Sources: Dario Amodei and Demis Hassabis called for a US-led coalition to shape AI rules and standards at a closed-door meeting at the G7 summit on Wednesday &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260617/p39#a260617p39)
- - [Blink has a big speed advantage against WebKit in browser tests](https://appleinsider.com/articles/26/06/17/blink-has-a-big-speed-advantage-against-webkit-in-browser-tests?utm_source=rss)<!-- TECH:END -->
+ - [A survey of US adults: 49% reported using chatbots in 2026, up from 33% in 2024, 24% said that they use chatbots on a daily basis, and 44% said they use ChatGPT &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260617/p56#a260617p56)
+ - [Sources: the White House&#39;s move to restrict Mythos 5 came after it ordered Anthropic to revoke South Korea-based SK Telecom&#39;s access over alleged ties to China &lpar;Wired&rpar;](https://www.techmeme.com/260617/p55#a260617p55)
+ - [Filing: Roelof Botha has joined the board of SpaceX as an independent director, seven months after stepping down as Sequoia steward &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260617/p54#a260617p54)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
