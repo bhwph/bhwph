@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
- - 😝 [Peace is not an option](http://9gag.com/gag/a6ZPKzA)
- - 👉 [This generation is doomed](http://9gag.com/gag/apROG98)<!-- MEMES:END -->
+ - 6️⃣ [That was fun](http://9gag.com/gag/aNDNgN3)
+ - 😝 [. . .](http://9gag.com/gag/ae9LAqQ)
+ - 👉 [I used to have my breakfast on the rocks too, but I quit drinking](http://9gag.com/gag/aNDNpPK)<!-- MEMES:END -->
 
 --- 
 
