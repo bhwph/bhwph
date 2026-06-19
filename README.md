@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Everywhere...](http://9gag.com/gag/a9yoR10)
- - 😝 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
- - 👉 [Don&#39;t.](http://9gag.com/gag/apROmwD)<!-- MEMES:END -->
+ - 6️⃣ [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
+ - 😝 [Peace is not an option](http://9gag.com/gag/a6ZPKzA)
+ - 👉 [This generation is doomed](http://9gag.com/gag/apROG98)<!-- MEMES:END -->
 
 --- 
 
