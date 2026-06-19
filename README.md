@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A12 &amp; A13 Apple devices face an unpatchable SecureROM vulnerability](https://appleinsider.com/articles/26/06/18/a12-a13-apple-devices-face-an-unpatchable-securerom-vulnerability?utm_source=rss)
- - [Did Android 17 eat your Pixel’s widgets? Google’s working on it](https://www.androidauthority.com/android-17-google-pixel-widget-fix-coming-3679098/)
- - [This robotic self-driving toilet comes to you](https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet)<!-- TECH:END -->
+ - [Sources: Commerce Secretary Howard Lutnick questioned ASML leaders on concerns China acquired one of its EUV machines, violating US-led export restrictions &lpar;Bloomberg&rpar;](https://www.techmeme.com/260618/p52#a260618p52)
+ - [Source: Elastic has agreed to acquire the AI site reliability engineering startup Deductive AI for up to $85M; CRV led Deductive AI&#39;s $7.5M seed round in 2025 &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260618/p51#a260618p51)
+ - [Mac game developers need to enable this in Steam to avoid a 32-bit problem](https://appleinsider.com/inside/macos/tips/mac-game-developers-need-to-enable-this-in-steam-to-avoid-a-32-bit-problem?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
