@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: England and Wales&#39; attorney general tells his office to stop posting on X, a first for the UK government, amid worries about X inciting violence &lpar;Peter Walker/The Guardian&rpar;](https://www.techmeme.com/260619/p11#a260619p11)
- - [Anthropic’s most advanced AI models could be restored shortly following dramatic emergency freeze](https://www.androidauthority.com/anthropic-fable-5-ai-models-optimistic-return-3679377/)
- - [Best Mesh Wi-Fi Systems &lpar;2026&rpar;: Netgear, Asus, Amazon, and More](https://www.wired.com/story/best-mesh-wifi-routers/)<!-- TECH:END -->
+ - [Oura Ring 5 review: impressive thinness, live activity tracking, and conversational AI, but not very durable, LEDs are distracting, and the app is confusing &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260619/p17#a260619p17)
+ - [Android 17 appears to have broken 5G for some Pixel owners](https://www.androidauthority.com/android-17-knocks-off-5g-3679536/)
+ - [New Aspekt Touch &amp; Folio displays bring touch-first computing to Macs](https://appleinsider.com/articles/26/06/19/new-aspekt-touch-folio-displays-bring-touch-first-computing-to-macs?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
