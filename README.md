@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Commerce Secretary Howard Lutnick questioned ASML leaders on concerns China acquired one of its EUV machines, violating US-led export restrictions &lpar;Bloomberg&rpar;](https://www.techmeme.com/260618/p52#a260618p52)
- - [Source: Elastic has agreed to acquire the AI site reliability engineering startup Deductive AI for up to $85M; CRV led Deductive AI&#39;s $7.5M seed round in 2025 &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260618/p51#a260618p51)
- - [Mac game developers need to enable this in Steam to avoid a 32-bit problem](https://appleinsider.com/inside/macos/tips/mac-game-developers-need-to-enable-this-in-steam-to-avoid-a-32-bit-problem?utm_source=rss)<!-- TECH:END -->
+ - [Sources: England and Wales&#39; attorney general tells his office to stop posting on X, a first for the UK government, amid worries about X inciting violence &lpar;Peter Walker/The Guardian&rpar;](https://www.techmeme.com/260619/p11#a260619p11)
+ - [Anthropic’s most advanced AI models could be restored shortly following dramatic emergency freeze](https://www.androidauthority.com/anthropic-fable-5-ai-models-optimistic-return-3679377/)
+ - [Best Mesh Wi-Fi Systems &lpar;2026&rpar;: Netgear, Asus, Amazon, and More](https://www.wired.com/story/best-mesh-wifi-routers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
