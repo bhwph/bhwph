@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oura Ring 5 review: impressive thinness, live activity tracking, and conversational AI, but not very durable, LEDs are distracting, and the app is confusing &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260619/p17#a260619p17)
- - [Android 17 appears to have broken 5G for some Pixel owners](https://www.androidauthority.com/android-17-knocks-off-5g-3679536/)
- - [New Aspekt Touch &amp; Folio displays bring touch-first computing to Macs](https://appleinsider.com/articles/26/06/19/new-aspekt-touch-folio-displays-bring-touch-first-computing-to-macs?utm_source=rss)<!-- TECH:END -->
+ - [An interview with Roblox CEO Dave Baszucki on his early decision not to prioritize ad revenue, whether every mega platform becomes an everything app, and more &lpar;Tyler Cowen/Conversations with Tyler&rpar;](https://www.techmeme.com/260619/p25#a260619p25)
+ - [Nothing won&#39;t launch a new phone this year in its budget-focused CMF Phone series due to RAM prices &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/260619/p24#a260619p24)
+ - [DOJ says two brothers pleaded guilty to robbing a Minnesota family of $8M+ in cryptocurrency after holding them at gunpoint for over eight hours in 2025 &lpar;Naga Avan-Nomayo/The Block&rpar;](https://www.techmeme.com/260619/p23#a260619p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
