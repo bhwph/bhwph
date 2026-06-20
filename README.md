@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Roblox CEO Dave Baszucki on his early decision not to prioritize ad revenue, whether every mega platform becomes an everything app, and more &lpar;Tyler Cowen/Conversations with Tyler&rpar;](https://www.techmeme.com/260619/p25#a260619p25)
- - [Nothing won&#39;t launch a new phone this year in its budget-focused CMF Phone series due to RAM prices &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/260619/p24#a260619p24)
- - [DOJ says two brothers pleaded guilty to robbing a Minnesota family of $8M+ in cryptocurrency after holding them at gunpoint for over eight hours in 2025 &lpar;Naga Avan-Nomayo/The Block&rpar;](https://www.techmeme.com/260619/p23#a260619p23)<!-- TECH:END -->
+ - [I spent a month with the Onn 4K Pro &lpar;2026&rpar;, and now the Google TV Streamer seems pointless](https://www.androidauthority.com/onn-4k-pro-2026-review-3677202/)
+ - [Siri AI Hands On: A Smart, Helpful Assistant](https://www.wired.com/story/siri-ai-hands-on-iphone/)
+ - [Google Assistant ruined my smart home setup — but Gemini just saved it](https://www.androidauthority.com/google-assistant-ruined-my-smart-home-gemini-saved-3674394/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
