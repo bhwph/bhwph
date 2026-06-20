@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If wrestling is fake then explain this](http://9gag.com/gag/ajPpgmQ)
- - 😝 [Bobby Prince, the composer of many legendary game musics including Doom, Doom II and Duke Nukem 3D passed away on June 16, 2026. May he rest in peace, and thank you for all the fun!](http://9gag.com/gag/aAyjGeg)
- - 👉 [Who&#39;s gonna know](http://9gag.com/gag/aryYnYp)<!-- MEMES:END -->
+ - 6️⃣ [Bro has fallen, press F to pay respects](http://9gag.com/gag/aAyjbQo)
+ - 😝 [Poor guys](http://9gag.com/gag/agmWgGq)
+ - 👉 [Pole Position](http://9gag.com/gag/ayNG9qY)<!-- MEMES:END -->
 
 --- 
 
