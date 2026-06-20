@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That was fun](http://9gag.com/gag/aNDNgN3)
- - 😝 [. . .](http://9gag.com/gag/ae9LAqQ)
- - 👉 [I used to have my breakfast on the rocks too, but I quit drinking](http://9gag.com/gag/aNDNpPK)<!-- MEMES:END -->
+ - 6️⃣ [Bro has fallen, press F to pay respects](http://9gag.com/gag/aAyjbQo)
+ - 😝 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
+ - 👉 [This is rare.](http://9gag.com/gag/amo3vov)<!-- MEMES:END -->
 
 --- 
 
