@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro has fallen, press F to pay respects](http://9gag.com/gag/aAyjbQo)
- - 😝 [Poor guys](http://9gag.com/gag/agmWgGq)
- - 👉 [Pole Position](http://9gag.com/gag/ayNG9qY)<!-- MEMES:END -->
+ - 6️⃣ [Have you seen the High Elves](http://9gag.com/gag/an76zbB)
+ - 😝 [The series we&#39;ve been missing... &lpar;Indonesian series `Man-Tiger`&rpar;](http://9gag.com/gag/aD2yDY9)
+ - 👉 [Poor guys](http://9gag.com/gag/agmWgGq)<!-- MEMES:END -->
 
 --- 
 
