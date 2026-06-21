@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Jane Street&#39;s push to supercharge trading with AI and become a major AI investor; it invested $1B in CoreWeave in April and has a stake in Anthropic &lpar;Gregory Zuckerman/Wall Street Journal&rpar;](https://www.techmeme.com/260620/p13#a260620p13)
- - [A look at &quot;humanizer&quot; and &quot;autotyper&quot; apps that help students evade AI-detection software by slowly auto-typing essays and making AI text sound less robotic &lpar;Dana Goldstein/New York Times&rpar;](https://www.techmeme.com/260620/p12#a260620p12)
- - [Save up to $300 with these early Prime Day Apple deals](https://appleinsider.com/articles/26/06/20/save-up-to-300-with-these-early-prime-day-apple-deals?utm_source=rss)<!-- TECH:END -->
+ - [Wooting 60HE v2: Peak Keyboard Perfection](https://www.wired.com/review/review-wooting-60he-v2/)
+ - [SoftBank says it is struggling to find startups in Latin America ready for major investments and has completed only two new deals over the past two years &lpar;Bloomberg&rpar;](https://www.techmeme.com/260621/p4#a260621p4)
+ - [5 abandoned Android launchers I wish were still alive today](https://www.androidauthority.com/abandoned-android-launchers-3678128/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
