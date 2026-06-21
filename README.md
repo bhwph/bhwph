@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Have you seen the High Elves](http://9gag.com/gag/an76zbB)
- - 😝 [The series we&#39;ve been missing... &lpar;Indonesian series `Man-Tiger`&rpar;](http://9gag.com/gag/aD2yDY9)
- - 👉 [Poor guys](http://9gag.com/gag/agmWgGq)<!-- MEMES:END -->
+ - 6️⃣ [Pole Position](http://9gag.com/gag/ayNG9qY)
+ - 😝 [Guys Agartha is real](http://9gag.com/gag/aoyXKMm)
+ - 👉 [Stop being such snowflakes](http://9gag.com/gag/aQzGEmq)<!-- MEMES:END -->
 
 --- 
 
