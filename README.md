@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Granta says it will stop publishing short story contest winners or join publishing partnerships it doesn&#39;t control after AI use allegations against a winner &lpar;Ella Creamer/The Guardian&rpar;](https://www.techmeme.com/260620/p9#a260620p9)
- - [Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives](https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview)
- - [AirPods Can Measure Your Heart Rate, but Are They Accurate?](https://www.cnet.com/tech/mobile/airpods-vs-apple-watch-heart-rate-accuracy/)<!-- TECH:END -->
+ - [A look at Jane Street&#39;s push to supercharge trading with AI and become a major AI investor; it invested $1B in CoreWeave in April and has a stake in Anthropic &lpar;Gregory Zuckerman/Wall Street Journal&rpar;](https://www.techmeme.com/260620/p13#a260620p13)
+ - [A look at &quot;humanizer&quot; and &quot;autotyper&quot; apps that help students evade AI-detection software by slowly auto-typing essays and making AI text sound less robotic &lpar;Dana Goldstein/New York Times&rpar;](https://www.techmeme.com/260620/p12#a260620p12)
+ - [Save up to $300 with these early Prime Day Apple deals](https://appleinsider.com/articles/26/06/20/save-up-to-300-with-these-early-prime-day-apple-deals?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
