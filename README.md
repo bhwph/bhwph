@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pole Position](http://9gag.com/gag/ayNG9qY)
- - 😝 [Guys Agartha is real](http://9gag.com/gag/aoyXKMm)
- - 👉 [Stop being such snowflakes](http://9gag.com/gag/aQzGEmq)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s a miracle!](http://9gag.com/gag/aRBnBXq)
+ - 😝 [I thought they&#39;re called jurassic world?](http://9gag.com/gag/aBypdLO)
+ - 👉 [I knew he was a talented dog but damn...](http://9gag.com/gag/aGyXEoG)<!-- MEMES:END -->
 
 --- 
 
