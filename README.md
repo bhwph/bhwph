@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wooting 60HE v2: Peak Keyboard Perfection](https://www.wired.com/review/review-wooting-60he-v2/)
- - [SoftBank says it is struggling to find startups in Latin America ready for major investments and has completed only two new deals over the past two years &lpar;Bloomberg&rpar;](https://www.techmeme.com/260621/p4#a260621p4)
- - [5 abandoned Android launchers I wish were still alive today](https://www.androidauthority.com/abandoned-android-launchers-3678128/)<!-- TECH:END -->
+ - [Cold Court’s debut EP is an infectious, glitchy genre mashup](https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review)
+ - [Sources: Anduril has begun exploring the possibility of establishing operations in Israel and is in talks to recruit a local manager &lpar;Sophie Shulman/CTech&rpar;](https://www.techmeme.com/260621/p6#a260621p6)
+ - [Mac game developers need to enable this in Steam to avoid a 32-bit problem](https://appleinsider.com/inside/macos/tips/mac-game-developers-need-to-enable-this-in-steam-to-avoid-a-32-bit-problem?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
