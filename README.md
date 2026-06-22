@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cold Court’s debut EP is an infectious, glitchy genre mashup](https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review)
- - [Sources: Anduril has begun exploring the possibility of establishing operations in Israel and is in talks to recruit a local manager &lpar;Sophie Shulman/CTech&rpar;](https://www.techmeme.com/260621/p6#a260621p6)
- - [Mac game developers need to enable this in Steam to avoid a 32-bit problem](https://appleinsider.com/inside/macos/tips/mac-game-developers-need-to-enable-this-in-steam-to-avoid-a-32-bit-problem?utm_source=rss)<!-- TECH:END -->
+ - [Shenzhen-listed Apple supplier Lingyi iTech seeks to raise $1.1B in a June 26 Hong Kong debut, as the electronic parts maker expands into AI hardware and robots &lpar;Iris Deng/South China Morning Post&rpar;](https://www.techmeme.com/260621/p15#a260621p15)
+ - [Samsung rolls out ChatGPT Enterprise and Codex to all staff in Korea and DX division staff globally; OpenAI says it&#39;s one of its largest enterprise deployments &lpar;Kim Su-jeong/CHOSUNBIZ&rpar;](https://www.techmeme.com/260621/p14#a260621p14)
+ - [Amazon&#39;s $169 AirPods Pro 3 deal is back for Prime Week](https://appleinsider.com/articles/26/06/22/amazons-169-airpods-pro-3-deal-is-back-for-prime-week?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
