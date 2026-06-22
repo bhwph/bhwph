@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shenzhen-listed Apple supplier Lingyi iTech seeks to raise $1.1B in a June 26 Hong Kong debut, as the electronic parts maker expands into AI hardware and robots &lpar;Iris Deng/South China Morning Post&rpar;](https://www.techmeme.com/260621/p15#a260621p15)
- - [Samsung rolls out ChatGPT Enterprise and Codex to all staff in Korea and DX division staff globally; OpenAI says it&#39;s one of its largest enterprise deployments &lpar;Kim Su-jeong/CHOSUNBIZ&rpar;](https://www.techmeme.com/260621/p14#a260621p14)
- - [Amazon&#39;s $169 AirPods Pro 3 deal is back for Prime Week](https://appleinsider.com/articles/26/06/22/amazons-169-airpods-pro-3-deal-is-back-for-prime-week?utm_source=rss)<!-- TECH:END -->
+ - [In a rare joint statement, Five Eyes leaders warn AI models capable of taking down governments and businesses are mere months away, urging leaders to &quot;act now&quot; &lpar;Sarah Basford Canales/The Guardian&rpar;](https://www.techmeme.com/260622/p21#a260622p21)
+ - [The Galaxy S27 Pro could inherit one of the Ultra’s best display features](https://www.androidauthority.com/samsung-galaxy-s27-pro-privacy-display-rumor-3679907/)
+ - [Meta invests $900M into Indian fintech startup Cred, and plans to appoint Cred founder Kunal Shah as the new leader of WhatsApp, replacing Will Cathcart &lpar;Kurt Wagner/Bloomberg&rpar;](https://www.techmeme.com/260622/p20#a260622p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
