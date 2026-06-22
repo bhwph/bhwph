@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s a miracle!](http://9gag.com/gag/aRBnBXq)
- - 😝 [I thought they&#39;re called jurassic world?](http://9gag.com/gag/aBypdLO)
- - 👉 [I knew he was a talented dog but damn...](http://9gag.com/gag/aGyXEoG)<!-- MEMES:END -->
+ - 6️⃣ [A terrifying discovery on Mars](http://9gag.com/gag/ajPpP5g)
+ - 😝 [Never, never, ever, ever do this](http://9gag.com/gag/adBEBYd)
+ - 👉 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)<!-- MEMES:END -->
 
 --- 
 
