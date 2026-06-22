@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a rare joint statement, Five Eyes leaders warn AI models capable of taking down governments and businesses are mere months away, urging leaders to &quot;act now&quot; &lpar;Sarah Basford Canales/The Guardian&rpar;](https://www.techmeme.com/260622/p21#a260622p21)
- - [The Galaxy S27 Pro could inherit one of the Ultra’s best display features](https://www.androidauthority.com/samsung-galaxy-s27-pro-privacy-display-rumor-3679907/)
- - [Meta invests $900M into Indian fintech startup Cred, and plans to appoint Cred founder Kunal Shah as the new leader of WhatsApp, replacing Will Cathcart &lpar;Kurt Wagner/Bloomberg&rpar;](https://www.techmeme.com/260622/p20#a260622p20)<!-- TECH:END -->
+ - [Amazon&#39;s $769 Mac mini M4 deal is back in stock for Prime Day 2026](https://appleinsider.com/articles/26/06/22/amazons-769-mac-mini-m4-deal-is-back-in-stock-for-prime-day-2026?utm_source=rss)
+ - [Steam Machine reservations open with strict rules, steep prices, and randomized queues](https://www.androidauthority.com/valve-steam-machine-reservations-3680044/)
+ - [Photos&#39; Extend tool in iOS 27 does a good job at expanding your images](https://appleinsider.com/articles/26/06/22/photos-extend-tool-in-ios-27-does-a-good-job-at-expanding-your-images?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
