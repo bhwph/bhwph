@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [FAFO](http://9gag.com/gag/a0eBe6O)
- - 😝 [Closely embraced](http://9gag.com/gag/aZZeZAV)
- - 👉 [NEW - The feelings of shock and disappointment on the face of Pakistan&#39;s Prime Minister, after he was informed by the Iranian delegation they are leaving after Trump threatened them.](http://9gag.com/gag/aVvAg0O)<!-- MEMES:END -->
+ - 6️⃣ [Proof that it works every time](http://9gag.com/gag/aPA5xen)
+ - 😝 [Modern Warfare](http://9gag.com/gag/aD2y7BK)
+ - 👉 [Idennaquile](http://9gag.com/gag/a34mGpr)<!-- MEMES:END -->
 
 --- 
 
