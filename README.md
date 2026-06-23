@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hollyland makes it easy to be a content creator with the LARK A1 Mini Duo](https://www.androidauthority.com/hollyland-lark-a1-mini-duo-3678124/)
- - [We&#39;re Tracking Prime Day Live](https://www.wired.com/live/amazon-prime-day-live-tracker-july-2026/)
- - [Google plans a 12-week incubator, picking 10 to 20 AI startups from its &quot;Xoogler&quot; alumni and providing up to $350K in cloud credits and $100K in direct funding &lpar;Guinevere Grant/Bloomberg&rpar;](https://www.techmeme.com/260623/p11#a260623p11)<!-- TECH:END -->
+ - [Valve paves the way to turn your PC into a Steam Machine](https://www.androidauthority.com/steamos-pc-build-3680572/)
+ - [The best robot vacuum deals available during Prime Day](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026)
+ - [Alibaba sues the DOD, seeking removal from a blacklist of companies supporting China&#39;s military, says the decision is a violation of constitutional due process &lpar;Bloomberg&rpar;](https://www.techmeme.com/260623/p32#a260623p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
