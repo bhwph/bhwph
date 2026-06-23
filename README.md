@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s $769 Mac mini M4 deal is back in stock for Prime Day 2026](https://appleinsider.com/articles/26/06/22/amazons-769-mac-mini-m4-deal-is-back-in-stock-for-prime-day-2026?utm_source=rss)
- - [Steam Machine reservations open with strict rules, steep prices, and randomized queues](https://www.androidauthority.com/valve-steam-machine-reservations-3680044/)
- - [Photos&#39; Extend tool in iOS 27 does a good job at expanding your images](https://appleinsider.com/articles/26/06/22/photos-extend-tool-in-ios-27-does-a-good-job-at-expanding-your-images?utm_source=rss)<!-- TECH:END -->
+ - [Cannes Lions 2026 Entertainment Person of the Year is Apple TV chief](https://appleinsider.com/articles/26/06/23/cannes-lions-2026-entertainment-person-of-the-year-is-apple-tv-chief?utm_source=rss)
+ - [Real estate professionals are increasingly using AI-powered virtual staging tools like Stuccco and BoxBrownie to create misleading house and apartment listings &lpar;Gaby Del Valle/The Verge&rpar;](https://www.techmeme.com/260622/p42#a260622p42)
+ - [Sources: Qualcomm is in advanced talks to acquire Modular in a transaction valuing the AI chip startup at ~$4B, up from a $1.6B valuation in September 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260622/p41#a260622p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
