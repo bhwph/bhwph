@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
- - 😝 [High life to fall of life](http://9gag.com/gag/a87ZAR1)
- - 👉 [FAFO](http://9gag.com/gag/a0eBe6O)<!-- MEMES:END -->
+ - 6️⃣ [Someone&#39;s getting fired.](http://9gag.com/gag/aGyXyo6)
+ - 😝 [. . .](http://9gag.com/gag/a6ZPX3m)
+ - 👉 [Who hurt you?](http://9gag.com/gag/azxndMZ)<!-- MEMES:END -->
 
 --- 
 
