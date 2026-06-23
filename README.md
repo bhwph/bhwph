@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Proof that it works every time](http://9gag.com/gag/aPA5xen)
- - 😝 [Modern Warfare](http://9gag.com/gag/aD2y7BK)
- - 👉 [Idennaquile](http://9gag.com/gag/a34mGpr)<!-- MEMES:END -->
+ - 6️⃣ [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
+ - 😝 [High life to fall of life](http://9gag.com/gag/a87ZAR1)
+ - 👉 [FAFO](http://9gag.com/gag/a0eBe6O)<!-- MEMES:END -->
 
 --- 
 
