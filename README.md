@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cannes Lions 2026 Entertainment Person of the Year is Apple TV chief](https://appleinsider.com/articles/26/06/23/cannes-lions-2026-entertainment-person-of-the-year-is-apple-tv-chief?utm_source=rss)
- - [Real estate professionals are increasingly using AI-powered virtual staging tools like Stuccco and BoxBrownie to create misleading house and apartment listings &lpar;Gaby Del Valle/The Verge&rpar;](https://www.techmeme.com/260622/p42#a260622p42)
- - [Sources: Qualcomm is in advanced talks to acquire Modular in a transaction valuing the AI chip startup at ~$4B, up from a $1.6B valuation in September 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260622/p41#a260622p41)<!-- TECH:END -->
+ - [Hollyland makes it easy to be a content creator with the LARK A1 Mini Duo](https://www.androidauthority.com/hollyland-lark-a1-mini-duo-3678124/)
+ - [We&#39;re Tracking Prime Day Live](https://www.wired.com/live/amazon-prime-day-live-tracker-july-2026/)
+ - [Google plans a 12-week incubator, picking 10 to 20 AI startups from its &quot;Xoogler&quot; alumni and providing up to $350K in cloud credits and $100K in direct funding &lpar;Guinevere Grant/Bloomberg&rpar;](https://www.techmeme.com/260623/p11#a260623p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
