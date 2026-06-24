@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)
- - 😝 [Italian controllers ignore immigrants who travel without a ticket](http://9gag.com/gag/aByp6RD)
- - 👉 [Always ask about the other half of the equation](http://9gag.com/gag/aVvAoA8)<!-- MEMES:END -->
+ - 6️⃣ [There are only 6 animals considered human hunters in the world, and polar bears are one of them.](http://9gag.com/gag/a7oQO1b)
+ - 😝 [It just hits different](http://9gag.com/gag/a87Zm8p)
+ - 👉 [Last men standing](http://9gag.com/gag/aYQ9OOx)<!-- MEMES:END -->
 
 --- 
 
