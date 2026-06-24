@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve paves the way to turn your PC into a Steam Machine](https://www.androidauthority.com/steamos-pc-build-3680572/)
- - [The best robot vacuum deals available during Prime Day](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026)
- - [Alibaba sues the DOD, seeking removal from a blacklist of companies supporting China&#39;s military, says the decision is a violation of constitutional due process &lpar;Bloomberg&rpar;](https://www.techmeme.com/260623/p32#a260623p32)<!-- TECH:END -->
+ - [The NSA was red-teaming Mythos 5 before losing access amid the Anthropic dispute; the tests showed Mythos identified cybersecurity flaws in classified systems &lpar;New York Times&rpar;](https://www.techmeme.com/260623/p44#a260623p44)
+ - [Orderful, which offers AI-powered tools to automate supply chain data management, raised a $35M Series C led by KDT, bringing its total funding to $85M &lpar;Maria Deutscher/SiliconANGLE&rpar;](https://www.techmeme.com/260623/p43#a260623p43)
+ - [Whoops! Microsoft Outlook Mac Update Removes Email Conversation History](https://www.cnet.com/tech/services-and-software/microsoft-outlook-new-mac-update-deletes-conversation-history/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
