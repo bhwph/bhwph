@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [At a rather inauspicious moment](http://9gag.com/gag/aO8w4Yy)
- - 😝 [Poor JD](http://9gag.com/gag/aBypZ5A)
- - 👉 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)<!-- MEMES:END -->
+ - 6️⃣ [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)
+ - 😝 [Italian controllers ignore immigrants who travel without a ticket](http://9gag.com/gag/aByp6RD)
+ - 👉 [Always ask about the other half of the equation](http://9gag.com/gag/aVvAoA8)<!-- MEMES:END -->
 
 --- 
 
