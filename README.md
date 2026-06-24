@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [. . .](http://9gag.com/gag/a6ZPX3m)
- - 😝 [Who hurt you?](http://9gag.com/gag/azxndMZ)
- - 👉 [NEW - The feelings of shock and disappointment on the face of Pakistan&#39;s Prime Minister, after he was informed by the Iranian delegation they are leaving after Trump threatened them.](http://9gag.com/gag/aVvAg0O)<!-- MEMES:END -->
+ - 6️⃣ [At a rather inauspicious moment](http://9gag.com/gag/aO8w4Yy)
+ - 😝 [Poor JD](http://9gag.com/gag/aBypZ5A)
+ - 👉 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)<!-- MEMES:END -->
 
 --- 
 
