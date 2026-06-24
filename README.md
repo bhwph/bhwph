@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The NSA was red-teaming Mythos 5 before losing access amid the Anthropic dispute; the tests showed Mythos identified cybersecurity flaws in classified systems &lpar;New York Times&rpar;](https://www.techmeme.com/260623/p44#a260623p44)
- - [Orderful, which offers AI-powered tools to automate supply chain data management, raised a $35M Series C led by KDT, bringing its total funding to $85M &lpar;Maria Deutscher/SiliconANGLE&rpar;](https://www.techmeme.com/260623/p43#a260623p43)
- - [Whoops! Microsoft Outlook Mac Update Removes Email Conversation History](https://www.cnet.com/tech/services-and-software/microsoft-outlook-new-mac-update-deletes-conversation-history/)<!-- TECH:END -->
+ - [How Chicago is betting on quantum computing, including turning the site of the former US Steel mill into a campus, after largely missing the digital revolution &lpar;Jeanne Whalen/Wall Street Journal&rpar;](https://www.techmeme.com/260624/p13#a260624p13)
+ - [BenQ 4100i Review: Bringing the Cinema to Your Living Room](https://www.wired.com/review/review-benq-w4100i-projector/)
+ - [Google just made me turn off my favorite Pixel feature, and I’m furious](https://www.androidauthority.com/google-made-me-turn-off-pixel-screenshots-3680197/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
