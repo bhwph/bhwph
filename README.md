@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Chicago is betting on quantum computing, including turning the site of the former US Steel mill into a campus, after largely missing the digital revolution &lpar;Jeanne Whalen/Wall Street Journal&rpar;](https://www.techmeme.com/260624/p13#a260624p13)
- - [BenQ 4100i Review: Bringing the Cinema to Your Living Room](https://www.wired.com/review/review-benq-w4100i-projector/)
- - [Google just made me turn off my favorite Pixel feature, and I’m furious](https://www.androidauthority.com/google-made-me-turn-off-pixel-screenshots-3680197/)<!-- TECH:END -->
+ - [Google&amp;#8217;s new rules for the app store will allow alternative billing next week](https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust)
+ - [The Samsung Galaxy Z Fold 8 Ultra could deliver a ‘significant’ display upgrade](https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-display-3681060/)
+ - [The Best Breville Espresso Machine Is 30 Percent off Right Now &lpar;2026&rpar;](https://www.wired.com/story/breville-deals-apd-6-24-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
