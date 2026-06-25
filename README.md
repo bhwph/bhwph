@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not honest work](http://9gag.com/gag/ajPpLGw)
- - 😝 [Things that will never happen to you](http://9gag.com/gag/ae9LOBm)
- - 👉 [Anyone thinking it&#39;s going to massively flop?](http://9gag.com/gag/aGyXMYX)<!-- MEMES:END -->
+ - 6️⃣ [Dodged a bullet I guess](http://9gag.com/gag/azxnPOj)
+ - 😝 [Last men standing](http://9gag.com/gag/aYQ9OOx)
+ - 👉 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)<!-- MEMES:END -->
 
 --- 
 
