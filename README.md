@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Amazon seller reveals how middlemen on chat apps offer access to Amazon employees who allegedly grant favors, like reinstating suspended accounts, for a fee &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/260624/p48#a260624p48)
- - [The Skylight Calendar Is One of My Favorite Products On Sale for Prime Day](https://www.wired.com/story/skylight-calendar-prime-day-deal-2026/)
- - [Hang Ten Systems, led by former Infosys CEO Vishal Sikka, launches with a $32M seed led by Mayfield to help enterprises use AI to run software at a lower cost &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260624/p47#a260624p47)<!-- TECH:END -->
+ - [How risk modelers like Fathom and Verisk are using AI and diffusion models to bypass the limits of physics-based &quot;cat&quot; models to predict natural disasters &lpar;Financial Times&rpar;](https://www.techmeme.com/260625/p18#a260625p18)
+ - [I wanted Google’s secret AI dictation app to replace Wispr Flow, but it couldn’t](https://www.androidauthority.com/google-ai-edge-eloquent-vs-wispr-flow-3678620/)
+ - [After More Than a Decade of Waiting, ‘GTA VI’ Is Finally Around the Corner](https://www.wired.com/story/after-more-than-a-decade-of-waiting-gta-vi-is-finally-around-the-corner/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
