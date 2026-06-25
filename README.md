@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dodged a bullet I guess](http://9gag.com/gag/azxnPOj)
- - 😝 [Last men standing](http://9gag.com/gag/aYQ9OOx)
- - 👉 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)<!-- MEMES:END -->
+ - 6️⃣ [Hear me out...](http://9gag.com/gag/a2ve0QZ)
+ - 😝 [Dicaprio finally dating someone over 25, the internet wins](http://9gag.com/gag/a87ZDG1)
+ - 👉 [Quantum Mechanics](http://9gag.com/gag/aXPB4b2)<!-- MEMES:END -->
 
 --- 
 
