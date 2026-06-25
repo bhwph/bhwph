@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&amp;#8217;s new rules for the app store will allow alternative billing next week](https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust)
- - [The Samsung Galaxy Z Fold 8 Ultra could deliver a ‘significant’ display upgrade](https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-display-3681060/)
- - [The Best Breville Espresso Machine Is 30 Percent off Right Now &lpar;2026&rpar;](https://www.wired.com/story/breville-deals-apd-6-24-2026/)<!-- TECH:END -->
+ - [An Amazon seller reveals how middlemen on chat apps offer access to Amazon employees who allegedly grant favors, like reinstating suspended accounts, for a fee &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/260624/p48#a260624p48)
+ - [The Skylight Calendar Is One of My Favorite Products On Sale for Prime Day](https://www.wired.com/story/skylight-calendar-prime-day-deal-2026/)
+ - [Hang Ten Systems, led by former Infosys CEO Vishal Sikka, launches with a $32M seed led by Mayfield to help enterprises use AI to run software at a lower cost &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260624/p47#a260624p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
