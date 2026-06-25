@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How risk modelers like Fathom and Verisk are using AI and diffusion models to bypass the limits of physics-based &quot;cat&quot; models to predict natural disasters &lpar;Financial Times&rpar;](https://www.techmeme.com/260625/p18#a260625p18)
- - [I wanted Google’s secret AI dictation app to replace Wispr Flow, but it couldn’t](https://www.androidauthority.com/google-ai-edge-eloquent-vs-wispr-flow-3678620/)
- - [After More Than a Decade of Waiting, ‘GTA VI’ Is Finally Around the Corner](https://www.wired.com/story/after-more-than-a-decade-of-waiting-gta-vi-is-finally-around-the-corner/)<!-- TECH:END -->
+ - [A Fatal Tesla Crash in Texas Sets Up a Legal Showdown](https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/)
+ - [Google thinks Gemini can fix one of studying’s biggest problems](https://www.androidauthority.com/study-notebooks-feature-gemini-app-3681541/)
+ - [Samsung’s 13-inch Galaxy Tab S10 FE Plus hits its lowest price ever at $434](https://www.androidauthority.com/galaxy-tab-s10-fe-plus-deal-2-3681562/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
