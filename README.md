@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [There are only 6 animals considered human hunters in the world, and polar bears are one of them.](http://9gag.com/gag/a7oQO1b)
- - 😝 [It just hits different](http://9gag.com/gag/a87Zm8p)
- - 👉 [Last men standing](http://9gag.com/gag/aYQ9OOx)<!-- MEMES:END -->
+ - 6️⃣ [Not honest work](http://9gag.com/gag/ajPpLGw)
+ - 😝 [Things that will never happen to you](http://9gag.com/gag/ae9LOBm)
+ - 👉 [Anyone thinking it&#39;s going to massively flop?](http://9gag.com/gag/aGyXMYX)<!-- MEMES:END -->
 
 --- 
 
