@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Fatal Tesla Crash in Texas Sets Up a Legal Showdown](https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/)
- - [Google thinks Gemini can fix one of studying’s biggest problems](https://www.androidauthority.com/study-notebooks-feature-gemini-app-3681541/)
- - [Samsung’s 13-inch Galaxy Tab S10 FE Plus hits its lowest price ever at $434](https://www.androidauthority.com/galaxy-tab-s10-fe-plus-deal-2-3681562/)<!-- TECH:END -->
+ - [SoftBank shares fell 12% after reports that OpenAI may delay its IPO until 2027; expectations of a windfall from OpenAI&#39;s debut helped support Softbank&#39;s stock &lpar;Aya Wagatsuma/Bloomberg&rpar;](https://www.techmeme.com/260625/p60#a260625p60)
+ - [California launches a tool to serve as an &quot;early warning system&quot; for widespread AI-driven job loss, linking AI exposure with unemployment insurance claims &lpar;Jo Constantz/Bloomberg&rpar;](https://www.techmeme.com/260625/p59#a260625p59)
+ - [Upside, which provides social workers with AI-powered housing insights, raised a $20M Series A led by Aquiline with Flare Capital, 645, and others participating &lpar;Cailey Gleeson/Fierce Healthcare&rpar;](https://www.techmeme.com/260625/p58#a260625p58)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
