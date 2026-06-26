@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not honest work](http://9gag.com/gag/ajPpLGw)
- - 😝 [Cop break checks semi](http://9gag.com/gag/a4PvAy6)
- - 👉 [Anyone thinking it&#39;s going to massively flop?](http://9gag.com/gag/aGyXMYX)<!-- MEMES:END -->
+ - 6️⃣ [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)
+ - 😝 [Poor Tylor Chase. Don&#39;t smoke crack kids.](http://9gag.com/gag/aGyXB3z)
+ - 👉 [Good movie!](http://9gag.com/gag/aLnx4y5)<!-- MEMES:END -->
 
 --- 
 
