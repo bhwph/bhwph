@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
- - 😝 [I can imagine many a 9gagger pulling an Uno Reverse in the situation...](http://9gag.com/gag/ae9LVGQ)
- - 👉 [Good movie!](http://9gag.com/gag/aLnx4y5)<!-- MEMES:END -->
+ - 6️⃣ [Not honest work](http://9gag.com/gag/ajPpLGw)
+ - 😝 [Cop break checks semi](http://9gag.com/gag/a4PvAy6)
+ - 👉 [Anyone thinking it&#39;s going to massively flop?](http://9gag.com/gag/aGyXMYX)<!-- MEMES:END -->
 
 --- 
 
