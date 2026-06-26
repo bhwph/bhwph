@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should You Buy Your Kid a 3D Printer? What to Know and Consider &lpar;2026&rpar;](https://www.wired.com/story/3d-printer-for-kids/)
- - [I tested the Google Home Speaker against the HomePod Mini, and only one is truly smart](https://www.androidauthority.com/google-home-speaker-vs-homepod-mini-comparison-3681157/)
- - [The Gooner Music Video Boom Is Here](https://www.wired.com/story/the-gooner-music-video-boom-is-here/)<!-- TECH:END -->
+ - [Using T-Mobile abroad just got a lot pricier](https://www.androidauthority.com/t-mobile-international-rates-3681888/)
+ - [OpenAI hopes to make GPT-5.6 generally available in the coming weeks and says &quot;this kind of government access process&quot; should not become the long-term default &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260626/p17#a260626p17)
+ - [I Just Saw That Eufy’s Floodlight Security Camera Is Cheaper Than Ever &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-eufy-floodlight-security-camera-june-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
