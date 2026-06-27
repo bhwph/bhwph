@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why your 10,000mAh power bank isn’t actually 10,000mAh](https://www.androidauthority.com/why-your-power-bank-feels-small-3675437/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 27, #642](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-27-642/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 27, #1112](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-27-1112/)<!-- TECH:END -->
+ - [PSA: Lifetime Plex Plan goes from $249.99 to a painful $749.99 on July 1](https://appleinsider.com/articles/26/06/27/psa-lifetime-plex-plan-goes-from-24999-to-a-painful-74999-on-july-1?utm_source=rss)
+ - [AI executives and lobbyists say they are seeking regulatory clarity from the Trump administration but are wary of pressing for answers, fearing retaliation &lpar;Politico&rpar;](https://www.techmeme.com/260627/p10#a260627p10)
+ - [A look at South Korea&#39;s four vocational &quot;meister&quot; schools that train students to work in semiconductor manufacturing, leading to jobs at Samsung and SK Hynix &lpar;Max Kim/New York Times&rpar;](https://www.techmeme.com/260627/p9#a260627p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
