@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Using T-Mobile abroad just got a lot pricier](https://www.androidauthority.com/t-mobile-international-rates-3681888/)
- - [OpenAI hopes to make GPT-5.6 generally available in the coming weeks and says &quot;this kind of government access process&quot; should not become the long-term default &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260626/p17#a260626p17)
- - [I Just Saw That Eufy’s Floodlight Security Camera Is Cheaper Than Ever &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-eufy-floodlight-security-camera-june-2026/)<!-- TECH:END -->
+ - [24 Prime Day deals Verge readers are grabbing before Prime Day ends](https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers)
+ - [Sources: SpaceX and Charter have held executive-level talks on a consumer mobile phone offering, which would help SpaceX become a DTC mobile phone provider &lpar;Kelcee Griffis/Bloomberg&rpar;](https://www.techmeme.com/260626/p33#a260626p33)
+ - [The 28 Best Deals Under $100 Before Prime Day Ends](https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
