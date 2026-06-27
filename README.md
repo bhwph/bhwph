@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Now what?](http://9gag.com/gag/apRObyn)
- - 😝 [More parents need to hold their kids accountable rather than blindly defending them.](http://9gag.com/gag/amo3V19)
- - 👉 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)<!-- MEMES:END -->
+ - 6️⃣ [What is public transport manners?](http://9gag.com/gag/azxnO5j)
+ - 😝 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
+ - 👉 [Cop break checks semi](http://9gag.com/gag/a4PvAy6)<!-- MEMES:END -->
 
 --- 
 
