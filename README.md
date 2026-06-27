@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [24 Prime Day deals Verge readers are grabbing before Prime Day ends](https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers)
- - [Sources: SpaceX and Charter have held executive-level talks on a consumer mobile phone offering, which would help SpaceX become a DTC mobile phone provider &lpar;Kelcee Griffis/Bloomberg&rpar;](https://www.techmeme.com/260626/p33#a260626p33)
- - [The 28 Best Deals Under $100 Before Prime Day Ends](https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/)<!-- TECH:END -->
+ - [Why your 10,000mAh power bank isn’t actually 10,000mAh](https://www.androidauthority.com/why-your-power-bank-feels-small-3675437/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 27, #642](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-27-642/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 27, #1112](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-27-1112/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
