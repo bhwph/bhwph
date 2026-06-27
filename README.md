@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cost of living crisis](http://9gag.com/gag/aO8w9dR)
- - 😝 [Imagine missing your mother&#39;s funeral because your wife is like this](http://9gag.com/gag/aPA5exQ)
- - 👉 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)<!-- MEMES:END -->
+ - 6️⃣ [Now what?](http://9gag.com/gag/apRObyn)
+ - 😝 [More parents need to hold their kids accountable rather than blindly defending them.](http://9gag.com/gag/amo3V19)
+ - 👉 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)<!-- MEMES:END -->
 
 --- 
 
