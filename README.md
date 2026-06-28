@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What is public transport manners?](http://9gag.com/gag/azxnO5j)
- - 😝 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
- - 👉 [Cop break checks semi](http://9gag.com/gag/a4PvAy6)<!-- MEMES:END -->
+ - 6️⃣ [Japanese Neighbor](http://9gag.com/gag/a4PvqN6)
+ - 😝 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)
+ - 👉 [Looks like sisters](http://9gag.com/gag/aMVgXPX)<!-- MEMES:END -->
 
 --- 
 
