@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Lifetime Plex Plan goes from $249.99 to a painful $749.99 on July 1](https://appleinsider.com/articles/26/06/27/psa-lifetime-plex-plan-goes-from-24999-to-a-painful-74999-on-july-1?utm_source=rss)
- - [AI executives and lobbyists say they are seeking regulatory clarity from the Trump administration but are wary of pressing for answers, fearing retaliation &lpar;Politico&rpar;](https://www.techmeme.com/260627/p10#a260627p10)
- - [A look at South Korea&#39;s four vocational &quot;meister&quot; schools that train students to work in semiconductor manufacturing, leading to jobs at Samsung and SK Hynix &lpar;Max Kim/New York Times&rpar;](https://www.techmeme.com/260627/p9#a260627p9)<!-- TECH:END -->
+ - [How AI is shaping the 2026 US midterms, as public anger grows against data center expansion and the AI industry emerges as one of the biggest financial backers &lpar;Bloomberg&rpar;](https://www.techmeme.com/260627/p15#a260627p15)
+ - [LSEG: tech companies have raised $3.1B from mainland China stock market listings YTD, up 5x+ from a year earlier, as AI and chip companies drive onshore IPOs &lpar;Reuters&rpar;](https://www.techmeme.com/260627/p14#a260627p14)
+ - [Best Standing Desks of 2026](https://www.cnet.com/news/best-standing-desk/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
