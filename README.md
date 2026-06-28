@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Wear Anything Other Than a Sun Hoodie This Summer? Our Picks for the Best](https://www.wired.com/story/im-addicted-to-sun-hoodies/)
- - [Brazil, which has struggled to standardize soccer talent scouting, is embracing AI-powered scouting apps that assess players by analyzing video clips and more &lpar;New York Times&rpar;](https://www.techmeme.com/260628/p7#a260628p7)
- - [I was wrong — the Galaxy S26 Ultra’s battery life is fantastic](https://www.androidauthority.com/i-was-wrong-galaxy-s26-ultra-battery-3679891/)<!-- TECH:END -->
+ - [Australia-based Firmus partners with Nvidia to build its first data center in Batam, Indonesia; the 360 MW Nvidia DSX AI factory campus is developed with DayOne &lpar;Bloomberg&rpar;](https://www.techmeme.com/260628/p9#a260628p9)
+ - [The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece](https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review)
+ - [This homebrew Apple II skips emulation, does it all in hardware](https://appleinsider.com/articles/26/06/28/this-homebrew-apple-ii-skips-emulation-does-it-all-in-hardware?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
