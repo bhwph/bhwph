@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Japanese Neighbor](http://9gag.com/gag/a4PvqN6)
- - 😝 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)
- - 👉 [Looks like sisters](http://9gag.com/gag/aMVgXPX)<!-- MEMES:END -->
+ - 😝 [Absolute legend showing everyone how it is done](http://9gag.com/gag/aKGRK7N)
+ - 👉 [`Typo`](http://9gag.com/gag/aPA51RQ)<!-- MEMES:END -->
 
 --- 
 
