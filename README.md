@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Some years later](http://9gag.com/gag/aryY8Bd)
- - 😝 [Meanwhile in Japan. In 5 minutes we begin the next match for Argentina](http://9gag.com/gag/aXPBe1g)
- - 👉 [Convincing myself to make a bad decision](http://9gag.com/gag/aGyXOM7)<!-- MEMES:END -->
+ - 6️⃣ [Wanna Cry?](http://9gag.com/gag/a7oQAz2)
+ - 😝 [Lol in the middle of a heatwave](http://9gag.com/gag/aXPBRZz)
+ - 👉 [Guys hear me out..](http://9gag.com/gag/aAyjmdo)<!-- MEMES:END -->
 
 --- 
 
