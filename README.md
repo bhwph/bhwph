@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Japanese Neighbor](http://9gag.com/gag/a4PvqN6)
- - 😝 [Absolute legend showing everyone how it is done](http://9gag.com/gag/aKGRK7N)
- - 👉 [`Typo`](http://9gag.com/gag/aPA51RQ)<!-- MEMES:END -->
+ - 6️⃣ [Convincing myself to make a bad decision](http://9gag.com/gag/aGyXOM7)
+ - 😝 [WNBA](http://9gag.com/gag/amo3R04)
+ - 👉 [Finally a new business idea](http://9gag.com/gag/axy5YbD)<!-- MEMES:END -->
 
 --- 
 
