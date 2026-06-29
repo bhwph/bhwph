@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia-based Firmus partners with Nvidia to build its first data center in Batam, Indonesia; the 360 MW Nvidia DSX AI factory campus is developed with DayOne &lpar;Bloomberg&rpar;](https://www.techmeme.com/260628/p9#a260628p9)
- - [The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece](https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review)
- - [This homebrew Apple II skips emulation, does it all in hardware](https://appleinsider.com/articles/26/06/28/this-homebrew-apple-ii-skips-emulation-does-it-all-in-hardware?utm_source=rss)<!-- TECH:END -->
+ - [Jefferies: memory prices are expected to rise 40-50% in Q3 2026 and 30-40% in Q4, as Chinese memory makers are unlikely to provide meaningful near-term relief &lpar;Hassan Mujtaba/Wccftech&rpar;](https://www.techmeme.com/260628/p16#a260628p16)
+ - [Humanoid robot maker Apptronik raised ~$1B at a ~$5B valuation, including from Mercedes-Benz, which has a handful of Apptronik&#39;s Apollo robots in its factories &lpar;Joshua Brustein/Bloomberg&rpar;](https://www.techmeme.com/260628/p15#a260628p15)
+ - [Google&#39;s Earthquake Alerts system reached 11.4M+ people in Venezuela, giving them seconds or up to two minutes notice before two powerful earthquakes struck &lpar;New York Times&rpar;](https://www.techmeme.com/260628/p14#a260628p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
