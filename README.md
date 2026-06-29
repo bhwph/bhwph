@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japanese prediction market startups Miraima and Poyp are utilizing a &quot;point-to-voucher&quot; system to bypass strict anti-gambling laws, in a bid to rival Polymarket &lpar;Bloomberg&rpar;](https://www.techmeme.com/260629/p20#a260629p20)
- - [Say it AYN so: Odin and Thor handhelds are getting another price hike](https://www.androidauthority.com/ayn-odin-thor-handheld-price-hike-june-2026-3682290/)
- - [These iPhone accessibility settings can make everyday tasks easier](https://appleinsider.com/inside/iphone/tips/these-iphone-accessibility-settings-can-make-everyday-tasks-easier?utm_source=rss)<!-- TECH:END -->
+ - [New 26.5.2 security patch arrives for iOS, iPadOS, macOS](https://appleinsider.com/articles/26/06/29/new-2652-security-patch-arrives-for-ios-ipados-macos?utm_source=rss)
+ - [At $499, Apple&amp;#8217;s M3-powered iPad Air is a good deal](https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale)
+ - [This highly rated Ultimate Ears Bluetooth speaker just dropped to a record low of $49.99](https://www.androidauthority.com/ultimate-ears-miniroll-bluetooth-speaker-deal-3682484/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
