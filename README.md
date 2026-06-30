@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Pixel phone now supports high-res Bluetooth audio — here’s how to use it](https://www.androidauthority.com/pixel-lhdc-bluetooth-explained-3679869/)
- - [This motor could be the future of e-bikes](https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt)
- - [Bernie Sanders Saw This Coming](https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/)<!-- TECH:END -->
+ - [Source: OpenAI engineers earlier this month told some colleagues they had figured out a way to more than halve the cost of inference &lpar;Stephanie Palazzolo/The Information&rpar;](https://www.techmeme.com/260630/p27#a260630p27)
+ - [Moto&amp;#8217;s Tag 2 tracker is $20 for a limited time](https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale)
+ - [US Supreme Court agrees to hear Apple&#39;s Epic Games appeal](https://appleinsider.com/articles/26/06/30/us-supreme-court-agrees-to-hear-apples-epic-games-appeal?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
