@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Only people that has experience with Electrical engineering will understand the codes from those circuit boards.](http://9gag.com/gag/aD2yMpx)
- - 😝 [No way](http://9gag.com/gag/aNDN3D0)
- - 👉 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)<!-- MEMES:END -->
+ - 6️⃣ [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)
+ - 😝 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)
+ - 👉 [T90 Found Out](http://9gag.com/gag/ayNGzPY)<!-- MEMES:END -->
 
 --- 
 
