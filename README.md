@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New 26.5.2 security patch arrives for iOS, iPadOS, macOS](https://appleinsider.com/articles/26/06/29/new-2652-security-patch-arrives-for-ios-ipados-macos?utm_source=rss)
- - [At $499, Apple&amp;#8217;s M3-powered iPad Air is a good deal](https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale)
- - [This highly rated Ultimate Ears Bluetooth speaker just dropped to a record low of $49.99](https://www.androidauthority.com/ultimate-ears-miniroll-bluetooth-speaker-deal-3682484/)<!-- TECH:END -->
+ - [Nebex, a fintech startup aiming to act as a broker platform connecting US space tech suppliers, foreign governments, and investors, raised a $30M seed led by GV &lpar;Bloomberg&rpar;](https://www.techmeme.com/260629/p49#a260629p49)
+ - [Australia&#39;s ACCC sues Amazon for allegedly introducing ads to Prime Video under unfair contract terms and forcing existing subscribers to pay more to avoid them &lpar;Peter Vercoe/Bloomberg&rpar;](https://www.techmeme.com/260629/p48#a260629p48)
+ - [OpenAI teases a device it is launching in partnership with keyboard maker Work Louder on July 15, saying &quot;Your favorite Codex shortcuts are getting an upgrade&quot; &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260629/p47#a260629p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
