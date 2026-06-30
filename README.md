@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)
- - 😝 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)
- - 👉 [T90 Found Out](http://9gag.com/gag/ayNGzPY)<!-- MEMES:END -->
+ - 6️⃣ [What year is this?](http://9gag.com/gag/ajPpMm0)
+ - 😝 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)
+ - 👉 [This 1937 black-and-white film explains car differentials better than most modern videos](http://9gag.com/gag/a4PvxxA)<!-- MEMES:END -->
 
 --- 
 
