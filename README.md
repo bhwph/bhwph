@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nebex, a fintech startup aiming to act as a broker platform connecting US space tech suppliers, foreign governments, and investors, raised a $30M seed led by GV &lpar;Bloomberg&rpar;](https://www.techmeme.com/260629/p49#a260629p49)
- - [Australia&#39;s ACCC sues Amazon for allegedly introducing ads to Prime Video under unfair contract terms and forcing existing subscribers to pay more to avoid them &lpar;Peter Vercoe/Bloomberg&rpar;](https://www.techmeme.com/260629/p48#a260629p48)
- - [OpenAI teases a device it is launching in partnership with keyboard maker Work Louder on July 15, saying &quot;Your favorite Codex shortcuts are getting an upgrade&quot; &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260629/p47#a260629p47)<!-- TECH:END -->
+ - [Your Pixel phone now supports high-res Bluetooth audio — here’s how to use it](https://www.androidauthority.com/pixel-lhdc-bluetooth-explained-3679869/)
+ - [This motor could be the future of e-bikes](https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt)
+ - [Bernie Sanders Saw This Coming](https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
