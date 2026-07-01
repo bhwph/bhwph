@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What year is this?](http://9gag.com/gag/ajPpMm0)
- - 😝 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)
- - 👉 [This 1937 black-and-white film explains car differentials better than most modern videos](http://9gag.com/gag/a4PvxxA)<!-- MEMES:END -->
+ - 6️⃣ [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)
+ - 😝 [Hulk](http://9gag.com/gag/a7oQGMr)
+ - 👉 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)<!-- MEMES:END -->
 
 --- 
 
