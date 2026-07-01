@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)
- - 😝 [Hulk](http://9gag.com/gag/a7oQGMr)
- - 👉 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)<!-- MEMES:END -->
+ - 6️⃣ [Somebody had to do it](http://9gag.com/gag/aqy0pOQ)
+ - 😝 [Looks like win](http://9gag.com/gag/a7oQ6gq)
+ - 👉 [Straight to jail](http://9gag.com/gag/amo3dKy)<!-- MEMES:END -->
 
 --- 
 
