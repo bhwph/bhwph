@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX cuts monthly Starlink prices in half in the Memphis area, as it endures blowback and legal challenges from opponents of its Colossus data centers &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260630/p44#a260630p44)
- - [Lime raised $174M in its US IPO, selling 6.68M shares at $25 each, at the midpoint of the marketed range, giving Lime a market value of $1.6B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260630/p43#a260630p43)
- - [Vimeo owner Bending Spoons raised $1.68B by selling 58M shares at $29 each, valuing it at ~$18.4B, in one of the largest US IPOs by a European company in 2026 &lpar;Subrat Patnaik/Bloomberg&rpar;](https://www.techmeme.com/260630/p42#a260630p42)<!-- TECH:END -->
+ - [A UN panel co-chaired by Yoshua Bengio warns that AI capabilities are outpacing scientific understanding, the &quot;potential benefits of AI are enormous&quot;, and more &lpar;Andrea Shalal/Reuters&rpar;](https://www.techmeme.com/260701/p19#a260701p19)
+ - [Lectric XPress2 Review &lpar;2026&rpar;: A Heavy-Duty but Nimble Ebike](https://www.wired.com/review/lectric-xpress2-review/)
+ - [Oura Ring vs. Apple Watch: This Dealbreaker Made the Choice Obvious](https://www.cnet.com/tech/mobile/apple-watch-vs-oura-ring-smart-health-devices-compared/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
