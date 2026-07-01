@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Somebody had to do it](http://9gag.com/gag/aqy0pOQ)
- - 😝 [Looks like win](http://9gag.com/gag/a7oQ6gq)
- - 👉 [Straight to jail](http://9gag.com/gag/amo3dKy)<!-- MEMES:END -->
+ - 6️⃣ [Percussive maintenance works on everything](http://9gag.com/gag/aVvA4p8)
+ - 😝 [Use a UV light you&#39;ll attract even more](http://9gag.com/gag/aoyXqB3)
+ - 👉 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)<!-- MEMES:END -->
 
 --- 
 
