@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A UN panel co-chaired by Yoshua Bengio warns that AI capabilities are outpacing scientific understanding, the &quot;potential benefits of AI are enormous&quot;, and more &lpar;Andrea Shalal/Reuters&rpar;](https://www.techmeme.com/260701/p19#a260701p19)
- - [Lectric XPress2 Review &lpar;2026&rpar;: A Heavy-Duty but Nimble Ebike](https://www.wired.com/review/lectric-xpress2-review/)
- - [Oura Ring vs. Apple Watch: This Dealbreaker Made the Choice Obvious](https://www.cnet.com/tech/mobile/apple-watch-vs-oura-ring-smart-health-devices-compared/)<!-- TECH:END -->
+ - [Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million](https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds)
+ - [Xbox testing disc-to-digital feature that digitizes a physical game collection](https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection)
+ - [Sony’s PlayStation Puts a Nail in Physical Media’s Coffin](https://www.wired.com/story/sony-playstation-puts-a-nail-in-physical-medias-coffin/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
