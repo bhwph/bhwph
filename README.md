@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million](https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds)
- - [Xbox testing disc-to-digital feature that digitizes a physical game collection](https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection)
- - [Sony’s PlayStation Puts a Nail in Physical Media’s Coffin](https://www.wired.com/story/sony-playstation-puts-a-nail-in-physical-medias-coffin/)<!-- TECH:END -->
+ - [India-based short video app ShareChat&#39;s parent company Mohalla Tech plans to raise up to $400M in an IPO in 2027; ShareChat has ~65M micro-drama viewers monthly &lpar;Sankalp Phartiyal/Bloomberg&rpar;](https://www.techmeme.com/260701/p47#a260701p47)
+ - [Ford Had to Rehire Veteran Engineers After Its AI Flopped. Other Employers Should Take Notice](https://www.cnet.com/roadshow/news/ford-recalls-veteran-engineers-ai-falls-short/)
+ - [Amazon&#39;s emissions rose 16%+ YoY in 2025, driven by data center construction and delivery fuel, while Google&#39;s &quot;ambition-based&quot; emissions jumped 18% YoY in 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260701/p46#a260701p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
