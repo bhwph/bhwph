@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Tried Rips, the Card-Pack App Where Users Spend Thousands Chasing Pricey Pokémon](https://www.wired.com/story/i-tried-rips-the-card-pack-app-where-users-spend-thousands-chasing-pricey-pokemon/)
- - [The US DOJ says Peter Stokes, a 19-year-old dual US-Estonian citizen, was extradited from Finland to face charges of participating in Scattered Spider hacks &lpar;Joe Warminsky/The Record&rpar;](https://www.techmeme.com/260702/p15#a260702p15)
- - [OpenAI floats giving Trump administration 5 percent cut of AI boom](https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump)<!-- TECH:END -->
+ - [Where’d the YouTube Music Library disappear to on Android Auto?](https://www.androidauthority.com/youtube-music-android-auto-library-3683835/)
+ - [Google wants you to prove you’re human with a controversial new reCAPTCHA challenge](https://www.androidauthority.com/google-recaptcha-hand-gestures-3683862/)
+ - [Emails disclosed in a court filing detail the uneasy back-and-forth between Dario Amodei and DOD&#39;s Emil Michael and how Anthropic&#39;s relationship with DOD soured &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260702/p27#a260702p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
