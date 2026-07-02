@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Percussive maintenance works on everything](http://9gag.com/gag/aVvA4p8)
- - 😝 [Use a UV light you&#39;ll attract even more](http://9gag.com/gag/aoyXqB3)
+ - 6️⃣ [Why?](http://9gag.com/gag/a7oQP6w)
+ - 😝 [You ABSOLUTELY cannot fix her](http://9gag.com/gag/aRBn97M)
  - 👉 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)<!-- MEMES:END -->
 
 --- 
