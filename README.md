@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India-based short video app ShareChat&#39;s parent company Mohalla Tech plans to raise up to $400M in an IPO in 2027; ShareChat has ~65M micro-drama viewers monthly &lpar;Sankalp Phartiyal/Bloomberg&rpar;](https://www.techmeme.com/260701/p47#a260701p47)
- - [Ford Had to Rehire Veteran Engineers After Its AI Flopped. Other Employers Should Take Notice](https://www.cnet.com/roadshow/news/ford-recalls-veteran-engineers-ai-falls-short/)
- - [Amazon&#39;s emissions rose 16%+ YoY in 2025, driven by data center construction and delivery fuel, while Google&#39;s &quot;ambition-based&quot; emissions jumped 18% YoY in 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260701/p46#a260701p46)<!-- TECH:END -->
+ - [I Tried Rips, the Card-Pack App Where Users Spend Thousands Chasing Pricey Pokémon](https://www.wired.com/story/i-tried-rips-the-card-pack-app-where-users-spend-thousands-chasing-pricey-pokemon/)
+ - [The US DOJ says Peter Stokes, a 19-year-old dual US-Estonian citizen, was extradited from Finland to face charges of participating in Scattered Spider hacks &lpar;Joe Warminsky/The Record&rpar;](https://www.techmeme.com/260702/p15#a260702p15)
+ - [OpenAI floats giving Trump administration 5 percent cut of AI boom](https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
