@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Why?](http://9gag.com/gag/a7oQP6w)
- - 😝 [You ABSOLUTELY cannot fix her](http://9gag.com/gag/aRBn97M)
- - 👉 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)<!-- MEMES:END -->
+ - 😝 [Chemistry lesson](http://9gag.com/gag/a0eBG4Z)
+ - 👉 [The Great American Pride festival. LMAO! There was thousands, tens of thousands maybe even hundreds of thousands...................not there.](http://9gag.com/gag/avyN4AO)<!-- MEMES:END -->
 
 --- 
 
