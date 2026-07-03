@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Alexandr Wang said Meta&#39;s model currently in training, codenamed Watermelon, matches GPT-5.5 and uses an &quot;order of magnitude more compute than Avocado&quot; &lpar;Business Insider&rpar;](https://www.techmeme.com/260702/p40#a260702p40)
- - [Sources: Anthropic&#39;s bankers have hired UK law firm Freshfields to advise on its IPO; it also advised on Google&#39;s acquisition of Wiz and ServiceNow&#39;s Armis deal &lpar;The Information&rpar;](https://www.techmeme.com/260702/p39#a260702p39)
- - [Sony’s PlayStation disc factory is already being repurposed](https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead)<!-- TECH:END -->
+ - [I waited six years for the Google Home Speaker — and it wasn’t worth it](https://www.androidauthority.com/google-home-speaker-review-3681647/)
+ - [India&#39;s IT secretary said the country is investigating a data breach at Apple supplier Tata, which exposed files that included photos of iPhone 18 Pro models &lpar;Reuters&rpar;](https://www.techmeme.com/260703/p6#a260703p6)
+ - [Pitch document: Chris Larsen and Palmer Luckey invested an undisclosed amount in APEC, a derivatives exchange founded by the son of Senator Kirsten Gillibrand &lpar;Declan Harty/Politico&rpar;](https://www.techmeme.com/260703/p5#a260703p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
