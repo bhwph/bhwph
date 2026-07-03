@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where’d the YouTube Music Library disappear to on Android Auto?](https://www.androidauthority.com/youtube-music-android-auto-library-3683835/)
- - [Google wants you to prove you’re human with a controversial new reCAPTCHA challenge](https://www.androidauthority.com/google-recaptcha-hand-gestures-3683862/)
- - [Emails disclosed in a court filing detail the uneasy back-and-forth between Dario Amodei and DOD&#39;s Emil Michael and how Anthropic&#39;s relationship with DOD soured &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260702/p27#a260702p27)<!-- TECH:END -->
+ - [Sources: Alexandr Wang said Meta&#39;s model currently in training, codenamed Watermelon, matches GPT-5.5 and uses an &quot;order of magnitude more compute than Avocado&quot; &lpar;Business Insider&rpar;](https://www.techmeme.com/260702/p40#a260702p40)
+ - [Sources: Anthropic&#39;s bankers have hired UK law firm Freshfields to advise on its IPO; it also advised on Google&#39;s acquisition of Wiz and ServiceNow&#39;s Armis deal &lpar;The Information&rpar;](https://www.techmeme.com/260702/p39#a260702p39)
+ - [Sony’s PlayStation disc factory is already being repurposed](https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
