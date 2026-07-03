@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Foreigner in my own country](http://9gag.com/gag/aAyjAKL)
- - 😝 [Go sports](http://9gag.com/gag/axy5KDb)
+ - 6️⃣ [He would like both](http://9gag.com/gag/ajPpvA8)
+ - 😝 [Cool optical illusion](http://9gag.com/gag/an76wz5)
  - 👉 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)<!-- MEMES:END -->
 
 --- 
