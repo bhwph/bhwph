@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why?](http://9gag.com/gag/a7oQP6w)
- - 😝 [Chemistry lesson](http://9gag.com/gag/a0eBG4Z)
- - 👉 [The Great American Pride festival. LMAO! There was thousands, tens of thousands maybe even hundreds of thousands...................not there.](http://9gag.com/gag/avyN4AO)<!-- MEMES:END -->
+ - 6️⃣ [Life hack 101](http://9gag.com/gag/aD2yr9x)
+ - 😝 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
+ - 👉 [Crying in four hours of sleep](http://9gag.com/gag/azxnoob)<!-- MEMES:END -->
 
 --- 
 
