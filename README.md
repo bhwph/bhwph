@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I waited six years for the Google Home Speaker — and it wasn’t worth it](https://www.androidauthority.com/google-home-speaker-review-3681647/)
- - [India&#39;s IT secretary said the country is investigating a data breach at Apple supplier Tata, which exposed files that included photos of iPhone 18 Pro models &lpar;Reuters&rpar;](https://www.techmeme.com/260703/p6#a260703p6)
- - [Pitch document: Chris Larsen and Palmer Luckey invested an undisclosed amount in APEC, a derivatives exchange founded by the son of Senator Kirsten Gillibrand &lpar;Declan Harty/Politico&rpar;](https://www.techmeme.com/260703/p5#a260703p5)<!-- TECH:END -->
+ - [Google Wallet finally lets you see smartwatch purchases on your phone](https://www.androidauthority.com/google-wallet-purchase-made-on-watch-3684160/)
+ - [Google Maps may soon expand beyond restaurant suggestions to actually placing your order](https://www.androidauthority.com/google-maps-food-order-3684065/)
+ - [Google DeepMind Unionization Talks Are Off to a Rocky Start](https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
