@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Midjourney wants Disney, Universal, and Warner Bros. to reveal in court how they use AI across their companies; studios sued Midjourney in 2025 for infringement &lpar;Gene Maddaus/Variety&rpar;](https://www.techmeme.com/260703/p15#a260703p15)
- - [A look at the quant fund frenzy in China, as assets under management have more than doubled to ~$384B in less than a year amid rapid AI adoption &lpar;Bloomberg&rpar;](https://www.techmeme.com/260703/p14#a260703p14)
- - [SHOKZ OpenDots ONE hit Prime Day price again with 30% off, but not for long](https://www.androidauthority.com/shokz-opendots-one-deal-3684227/)<!-- TECH:END -->
+ - [5 Android phones you should buy instead of the Moto G Power &lpar;2026&rpar;](https://www.androidauthority.com/motorola-moto-g-power-2026-alternatives-3682487/)
+ - [This gorgeous Android launcher is basically dead — and it’s all Google’s fault](https://www.androidauthority.com/stario-launcher-hands-on-dead-google-fault-3682817/)
+ - [Food Preservatives May Increase the Risk of High Blood Pressure and Cardiovascular Disease](https://www.wired.com/story/food-preservatives-may-increase-the-risk-of-high-blood-pressure-and-cardiovascular-disease/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
