@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Thai woman in Thailand with Buddhist religious symbol &lpar;swastika&rpar; vs foreigner who thinks its a Nazi Hakenkreuz &lpar;which has a 45 degree angle&rpar;.](http://9gag.com/gag/aryYEOB)
- - 😝 [Police in the UK attack the victim of a crime and then arrest him. Police asked the public to stop sharing the video](http://9gag.com/gag/agmWwRv)
- - 👉 [Ah yes, the top 1%](http://9gag.com/gag/aoyXw0m)<!-- MEMES:END -->
+ - 6️⃣ [Wait for it](http://9gag.com/gag/a1m9jjP)
+ - 😝 [Cool optical illusion](http://9gag.com/gag/an76wz5)
+ - 👉 [Lauren got no chill.](http://9gag.com/gag/aByp5nZ)<!-- MEMES:END -->
 
 --- 
 
