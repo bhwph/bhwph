@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He would like both](http://9gag.com/gag/ajPpvA8)
- - 😝 [Cool optical illusion](http://9gag.com/gag/an76wz5)
- - 👉 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)<!-- MEMES:END -->
+ - 6️⃣ [Oh say can you see.......\u266b\u266b\u266b\u266b\u266b\u266b\u266b\u266b](http://9gag.com/gag/aByp5NQ)
+ - 😝 [True hero gets the crown he deserves](http://9gag.com/gag/ayNGr1W)
+ - 👉 [Every single time !!](http://9gag.com/gag/aGyX5oX)<!-- MEMES:END -->
 
 --- 
 
