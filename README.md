@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android phones you should buy instead of the Moto G Power &lpar;2026&rpar;](https://www.androidauthority.com/motorola-moto-g-power-2026-alternatives-3682487/)
- - [This gorgeous Android launcher is basically dead — and it’s all Google’s fault](https://www.androidauthority.com/stario-launcher-hands-on-dead-google-fault-3682817/)
- - [Food Preservatives May Increase the Risk of High Blood Pressure and Cardiovascular Disease](https://www.wired.com/story/food-preservatives-may-increase-the-risk-of-high-blood-pressure-and-cardiovascular-disease/)<!-- TECH:END -->
+ - [White House deletes thousands of web pages about energy conservation as heatwave slams US](https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion)
+ - [Submit Your Questions: Inside The World of Online Romance Scams](https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/)
+ - [Matic’s robot vacuum is getting a $250 price hike in September](https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
