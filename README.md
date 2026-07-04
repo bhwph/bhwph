@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet finally lets you see smartwatch purchases on your phone](https://www.androidauthority.com/google-wallet-purchase-made-on-watch-3684160/)
- - [Google Maps may soon expand beyond restaurant suggestions to actually placing your order](https://www.androidauthority.com/google-maps-food-order-3684065/)
- - [Google DeepMind Unionization Talks Are Off to a Rocky Start](https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/)<!-- TECH:END -->
+ - [Midjourney wants Disney, Universal, and Warner Bros. to reveal in court how they use AI across their companies; studios sued Midjourney in 2025 for infringement &lpar;Gene Maddaus/Variety&rpar;](https://www.techmeme.com/260703/p15#a260703p15)
+ - [A look at the quant fund frenzy in China, as assets under management have more than doubled to ~$384B in less than a year amid rapid AI adoption &lpar;Bloomberg&rpar;](https://www.techmeme.com/260703/p14#a260703p14)
+ - [SHOKZ OpenDots ONE hit Prime Day price again with 30% off, but not for long](https://www.androidauthority.com/shokz-opendots-one-deal-3684227/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
