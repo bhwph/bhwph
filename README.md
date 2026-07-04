@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Oh say can you see.......\u266b\u266b\u266b\u266b\u266b\u266b\u266b\u266b](http://9gag.com/gag/aByp5NQ)
- - 😝 [True hero gets the crown he deserves](http://9gag.com/gag/ayNGr1W)
- - 👉 [Every single time !!](http://9gag.com/gag/aGyX5oX)<!-- MEMES:END -->
+ - 6️⃣ [Thai woman in Thailand with Buddhist religious symbol &lpar;swastika&rpar; vs foreigner who thinks its a Nazi Hakenkreuz &lpar;which has a 45 degree angle&rpar;.](http://9gag.com/gag/aryYEOB)
+ - 😝 [Police in the UK attack the victim of a crime and then arrest him. Police asked the public to stop sharing the video](http://9gag.com/gag/agmWwRv)
+ - 👉 [Ah yes, the top 1%](http://9gag.com/gag/aoyXw0m)<!-- MEMES:END -->
 
 --- 
 
