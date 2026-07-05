@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait for it](http://9gag.com/gag/a1m9jjP)
- - 😝 [Cool optical illusion](http://9gag.com/gag/an76wz5)
- - 👉 [Lauren got no chill.](http://9gag.com/gag/aByp5nZ)<!-- MEMES:END -->
+ - 6️⃣ [Ah yes, the top 1%](http://9gag.com/gag/aoyXw0m)
+ - 😝 [I can&#39;t keep up with the indians wtf moments anymore](http://9gag.com/gag/aXPBOg6)
+ - 👉 [Sneak peak of the new movie odysseus](http://9gag.com/gag/ae9LzLj)<!-- MEMES:END -->
 
 --- 
 
