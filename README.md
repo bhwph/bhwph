@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bookmark this now: These 2 Android sites could help you unbrick your Pixel](https://www.androidauthority.com/android-sites-help-unbrick-google-pixel-how-3681441/)
- - [What Are Fish Oil Supplements Good For? Here’s Your Crash Course](https://www.wired.com/story/what-are-fish-oil-supplements-good-for-heres-your-crash-course/)
- - [Forget the Pixel 10a — this is the affordable Android phone most people need](https://www.androidauthority.com/pixel-10a-vs-oneplus-nord-ce-6-hands-on-3682869/)<!-- TECH:END -->
+ - [Where to preorder Grand Theft Auto VI](https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy)
+ - [Chainalysis: addresses linked to Iran, Russia, North Korea, and other US-sanctioned entities received $100B+ in crypto last year, almost 8x the amount in 2024 &lpar;Patricia Kowsmann/Wall Street Journal&rpar;](https://www.techmeme.com/260705/p7#a260705p7)
+ - [Folding iPhone may launch in September, good luck getting it before 2027](https://appleinsider.com/articles/26/07/05/folding-iphone-may-launch-in-september-good-luck-getting-it-before-2027?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
