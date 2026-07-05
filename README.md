@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`What is your saddest realization?`](http://9gag.com/gag/adBEzpN)
- - 😝 [Safety is number one priority](http://9gag.com/gag/aBypB1D)
- - 👉 [When you date a farmer girl](http://9gag.com/gag/avyNjqM)<!-- MEMES:END -->
+ - 6️⃣ [I can&#39;t keep up with the indians wtf moments anymore](http://9gag.com/gag/aXPBOg6)
+ - 😝 [When you date a farmer girl](http://9gag.com/gag/avyNjqM)
+ - 👉 [Wait for it](http://9gag.com/gag/a1m9jjP)<!-- MEMES:END -->
 
 --- 
 
