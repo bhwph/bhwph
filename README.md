@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [White House deletes thousands of web pages about energy conservation as heatwave slams US](https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion)
- - [Submit Your Questions: Inside The World of Online Romance Scams](https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/)
- - [Matic’s robot vacuum is getting a $250 price hike in September](https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy)<!-- TECH:END -->
+ - [AWS says Mechanical Turk will no longer accept new customers and that it is placing the crowdsourcing service in maintenance, signaling its future retirement &lpar;Simon Sharwood/The Register&rpar;](https://www.techmeme.com/260704/p13#a260704p13)
+ - [Source calls UK- and OpenAI-touted plans in 2025 for Stargate&#39;s ~£20B Cobalt site a PR stunt; OpenAI and Nscale failed to visit Cobalt or lodge planning forms &lpar;Aisha Down/The Guardian&rpar;](https://www.techmeme.com/260704/p12#a260704p12)
+ - [AI Chatbot Pricing Breakdown: Is Premium AI Worth the Cost?](https://www.cnet.com/tech/services-and-software/upgrading-your-ai-chatbot-heres-how-much-itll-cost-you/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
