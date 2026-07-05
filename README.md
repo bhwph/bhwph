@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS says Mechanical Turk will no longer accept new customers and that it is placing the crowdsourcing service in maintenance, signaling its future retirement &lpar;Simon Sharwood/The Register&rpar;](https://www.techmeme.com/260704/p13#a260704p13)
- - [Source calls UK- and OpenAI-touted plans in 2025 for Stargate&#39;s ~£20B Cobalt site a PR stunt; OpenAI and Nscale failed to visit Cobalt or lodge planning forms &lpar;Aisha Down/The Guardian&rpar;](https://www.techmeme.com/260704/p12#a260704p12)
- - [AI Chatbot Pricing Breakdown: Is Premium AI Worth the Cost?](https://www.cnet.com/tech/services-and-software/upgrading-your-ai-chatbot-heres-how-much-itll-cost-you/)<!-- TECH:END -->
+ - [Bookmark this now: These 2 Android sites could help you unbrick your Pixel](https://www.androidauthority.com/android-sites-help-unbrick-google-pixel-how-3681441/)
+ - [What Are Fish Oil Supplements Good For? Here’s Your Crash Course](https://www.wired.com/story/what-are-fish-oil-supplements-good-for-heres-your-crash-course/)
+ - [Forget the Pixel 10a — this is the affordable Android phone most people need](https://www.androidauthority.com/pixel-10a-vs-oneplus-nord-ce-6-hands-on-3682869/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
