@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Brookfield-backed data center company Csquare seeks to raise up to $1.35B in an IPO, selling 50M shares at $23 to $27 each for an up to $4.18B valuation &lpar;Ryan Vlastelica/Bloomberg&rpar;](https://www.techmeme.com/260706/p14#a260706p14)
- - [How Masayoshi Son is remaking SoftBank in his own image, betting on AI; SoftBank trades at a ~50% discount to its net asset value, as some question the strategy &lpar;David Keohane/Financial Times&rpar;](https://www.techmeme.com/260706/p13#a260706p13)
- - [Bentley Torcal EV: Price, Specs, Availability](https://www.wired.com/story/bentley-reveals-its-first-electric-car-amid-the-wreckage-of-the-luxury-ev-market/)<!-- TECH:END -->
+ - [Apple rolls out the third iOS 27, macOS 27 developer betas](https://appleinsider.com/articles/26/07/06/apple-rolls-out-the-third-ios-27-macos-27-developer-betas?utm_source=rss)
+ - [Source: Xbox Game Pass currently has about 30M subscriptions; document: Microsoft had projected Game Pass subscriptions would reach around 77M this year &lpar;Ben Fritz/Wall Street Journal&rpar;](https://www.techmeme.com/260706/p27#a260706p27)
+ - [Fourth developer betas of iOS 26.6, macOS 26.6 land for testing](https://appleinsider.com/articles/26/07/06/fourth-developer-betas-of-ios-266-macos-266-land-for-testing?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
