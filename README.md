@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How companies like Nvidia and Neura Robotics are building safety systems for humanoid robots to minimize risks like a bipedal robot losing stability &lpar;John Keilman/Wall Street Journal&rpar;](https://www.techmeme.com/260705/p13#a260705p13)
- - [A look at Threads and Q&amp;A with its head Connor Hayes, as the platform passes 500M MAUs and increasingly resembles Reddit with its focus on community features &lpar;Eli Tan/New York Times&rpar;](https://www.techmeme.com/260705/p12#a260705p12)
- - [Kuo: suppliers plan to ship less than 1M iPhone fold units in 3Q26, which may push the start of device pre-orders and sales to Q4, with weeks of delivery delays &lpar;Ming-Chi Kuo&rpar;](https://www.techmeme.com/260705/p11#a260705p11)<!-- TECH:END -->
+ - [Filing: Brookfield-backed data center company Csquare seeks to raise up to $1.35B in an IPO, selling 50M shares at $23 to $27 each for an up to $4.18B valuation &lpar;Ryan Vlastelica/Bloomberg&rpar;](https://www.techmeme.com/260706/p14#a260706p14)
+ - [How Masayoshi Son is remaking SoftBank in his own image, betting on AI; SoftBank trades at a ~50% discount to its net asset value, as some question the strategy &lpar;David Keohane/Financial Times&rpar;](https://www.techmeme.com/260706/p13#a260706p13)
+ - [Bentley Torcal EV: Price, Specs, Availability](https://www.wired.com/story/bentley-reveals-its-first-electric-car-amid-the-wreckage-of-the-luxury-ev-market/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
