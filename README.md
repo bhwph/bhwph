@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I can&#39;t keep up with the indians wtf moments anymore](http://9gag.com/gag/aXPBOg6)
- - 😝 [When you date a farmer girl](http://9gag.com/gag/avyNjqM)
- - 👉 [Wait for it](http://9gag.com/gag/a1m9jjP)<!-- MEMES:END -->
+ - 6️⃣ [Indian yeet kid 2026 meme](http://9gag.com/gag/aQzGWnW)
+ - 😝 [Gents! It do be my Day of Birth. Join me at the Round Table of Tetten](http://9gag.com/gag/a5Q40gL)
+ - 👉 [Banana](http://9gag.com/gag/aLnx78A)<!-- MEMES:END -->
 
 --- 
 
