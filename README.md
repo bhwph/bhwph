@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Rachel Whetstone, who has led comms for Google, Meta, Uber, Netflix, and now Sierra, as her husband Steve Hilton runs for California governor &lpar;Emily Shugerman/The San Francisco ...&rpar;](https://www.techmeme.com/260706/p41#a260706p41)
- - [Terramaster F4-425 Pro review: Excellent set-and-forget networking hardware](https://appleinsider.com/articles/26/07/07/terramaster-f4-425-pro-review-excellent-set-and-forget-networking-hardware?utm_source=rss)
- - [WiseTech co-founder Richard White steps down as chair amid a police probe over claims he exploited a woman&#39;s immigration status for sex; WTC jumps 7%+ &lpar;Peter Vercoe/Bloomberg&rpar;](https://www.techmeme.com/260706/p40#a260706p40)<!-- TECH:END -->
+ - [Sources: DeepSeek is in the early stages of developing its own AI chip designed for inference, in a bid to reduce its reliance on Nvidia and Huawei hardware &lpar;Reuters&rpar;](https://www.techmeme.com/260707/p10#a260707p10)
+ - [Google Chrome is finally catching up to Safari with this update](https://www.androidauthority.com/google-chrome-paste-upgrade-microsoft-edge-3684737/)
+ - [Best Indoor Garden Systems: I&#39;ve Been Testing All Year &lpar;2026&rpar;](https://www.wired.com/gallery/best-indoor-gardening-systems/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
