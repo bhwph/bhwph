@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rolls out the third iOS 27, macOS 27 developer betas](https://appleinsider.com/articles/26/07/06/apple-rolls-out-the-third-ios-27-macos-27-developer-betas?utm_source=rss)
- - [Source: Xbox Game Pass currently has about 30M subscriptions; document: Microsoft had projected Game Pass subscriptions would reach around 77M this year &lpar;Ben Fritz/Wall Street Journal&rpar;](https://www.techmeme.com/260706/p27#a260706p27)
- - [Fourth developer betas of iOS 26.6, macOS 26.6 land for testing](https://appleinsider.com/articles/26/07/06/fourth-developer-betas-of-ios-266-macos-266-land-for-testing?utm_source=rss)<!-- TECH:END -->
+ - [A profile of Rachel Whetstone, who has led comms for Google, Meta, Uber, Netflix, and now Sierra, as her husband Steve Hilton runs for California governor &lpar;Emily Shugerman/The San Francisco ...&rpar;](https://www.techmeme.com/260706/p41#a260706p41)
+ - [Terramaster F4-425 Pro review: Excellent set-and-forget networking hardware](https://appleinsider.com/articles/26/07/07/terramaster-f4-425-pro-review-excellent-set-and-forget-networking-hardware?utm_source=rss)
+ - [WiseTech co-founder Richard White steps down as chair amid a police probe over claims he exploited a woman&#39;s immigration status for sex; WTC jumps 7%+ &lpar;Peter Vercoe/Bloomberg&rpar;](https://www.techmeme.com/260706/p40#a260706p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
