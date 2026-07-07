@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Scammers are everywhere](http://9gag.com/gag/aD2yKZB)
- - 😝 [Asking the wrong questions](http://9gag.com/gag/a34m6qm)
- - 👉 [Haters will say it&#39;s A.I.](http://9gag.com/gag/aMVgMmM)<!-- MEMES:END -->
+ - 6️⃣ [As Norway moves forward, the Viking row evolves into something increasingly powerful and beautiful.](http://9gag.com/gag/azxnWdz)
+ - 😝 [The 12 Labours of Hercules](http://9gag.com/gag/a2vee9Y)
+ - 👉 [Enough, no more soccer](http://9gag.com/gag/aryYj1K)<!-- MEMES:END -->
 
 --- 
 
