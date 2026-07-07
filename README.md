@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [As Norway moves forward, the Viking row evolves into something increasingly powerful and beautiful.](http://9gag.com/gag/azxnWdz)
- - 😝 [The 12 Labours of Hercules](http://9gag.com/gag/a2vee9Y)
- - 👉 [Enough, no more soccer](http://9gag.com/gag/aryYj1K)<!-- MEMES:END -->
+ - 6️⃣ [Grand daddy was ALL business. Rich folk problems](http://9gag.com/gag/avyNMmb)
+ - 😝 [Wow.](http://9gag.com/gag/a34m65v)
+ - 👉 [\u200e \u200e](http://9gag.com/gag/awywEWy)<!-- MEMES:END -->
 
 --- 
 
