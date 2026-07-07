@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: DeepSeek is in the early stages of developing its own AI chip designed for inference, in a bid to reduce its reliance on Nvidia and Huawei hardware &lpar;Reuters&rpar;](https://www.techmeme.com/260707/p10#a260707p10)
- - [Google Chrome is finally catching up to Safari with this update](https://www.androidauthority.com/google-chrome-paste-upgrade-microsoft-edge-3684737/)
- - [Best Indoor Garden Systems: I&#39;ve Been Testing All Year &lpar;2026&rpar;](https://www.wired.com/gallery/best-indoor-gardening-systems/)<!-- TECH:END -->
+ - [Google announces Pixel 11 launch event in August](https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event)
+ - [Amazon cuts $171 off the Samsung Galaxy Tab S10 Lite in return to all-time low](https://www.androidauthority.com/amazon-cuts-170-samsung-galaxy-tab-3684947/)
+ - [Google announces a Pixel event on August 12 in NYC, where it is expected to launch Pixel 11 series of phones and Pixel Watch 5 &lpar;Abner Li/9to5Google&rpar;](https://www.techmeme.com/260707/p29#a260707p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
