@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Grand daddy was ALL business. Rich folk problems](http://9gag.com/gag/avyNMmb)
- - 😝 [Wow.](http://9gag.com/gag/a34m65v)
- - 👉 [\u200e \u200e](http://9gag.com/gag/awywEWy)<!-- MEMES:END -->
+ - 6️⃣ [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
+ - 😝 [Who even watched that shit?](http://9gag.com/gag/aVvAN8n)
+ - 👉 [...](http://9gag.com/gag/a2ve3BE)<!-- MEMES:END -->
 
 --- 
 
