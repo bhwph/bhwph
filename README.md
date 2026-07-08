@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
- - 😝 [Who even watched that shit?](http://9gag.com/gag/aVvAN8n)
- - 👉 [...](http://9gag.com/gag/a2ve3BE)<!-- MEMES:END -->
+ - 6️⃣ [Bro tried to warn him multiple times](http://9gag.com/gag/a4PvDop)
+ - 😝 [RIP cheeks](http://9gag.com/gag/aAyjjjp)
+ - 👉 [A professional female athlete vs a random dad from the audience](http://9gag.com/gag/a4Pvvzd)<!-- MEMES:END -->
 
 --- 
 
