@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bro tried to warn him multiple times](http://9gag.com/gag/a4PvDop)
- - 😝 [RIP cheeks](http://9gag.com/gag/aAyjjjp)
- - 👉 [A professional female athlete vs a random dad from the audience](http://9gag.com/gag/a4Pvvzd)<!-- MEMES:END -->
+ - 6️⃣ [Spot the legendary Greek Warrior](http://9gag.com/gag/a2veBPd)
+ - 😝 [Street fight at outdoor mall](http://9gag.com/gag/aO8wgOE)
+ - 👉 [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)<!-- MEMES:END -->
 
 --- 
 
