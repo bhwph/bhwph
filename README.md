@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces Pixel 11 launch event in August](https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event)
- - [Amazon cuts $171 off the Samsung Galaxy Tab S10 Lite in return to all-time low](https://www.androidauthority.com/amazon-cuts-170-samsung-galaxy-tab-3684947/)
- - [Google announces a Pixel event on August 12 in NYC, where it is expected to launch Pixel 11 series of phones and Pixel Watch 5 &lpar;Abner Li/9to5Google&rpar;](https://www.techmeme.com/260707/p29#a260707p29)<!-- TECH:END -->
+ - [Sleep apnea device maker ResMed agrees to sell its software business MatrixCare to PE firm Frazier for $490M in cash; ResMed bought MatrixCare for $750M in 2018 &lpar;Puyaan Singh/Reuters&rpar;](https://www.techmeme.com/260707/p42#a260707p42)
+ - [Meta announces that it will be updating its glasses with a new feature that disables the camera if someone tampers with the glasses&#39; privacy LED light &lpar;Victoria Song/The Verge&rpar;](https://www.techmeme.com/260707/p41#a260707p41)
+ - [Meta says Muse Image includes an invisible watermarking system called Content Seal and previews a web tool to check whether an image was generated with Meta AI &lpar;Karissa Bell/Engadget&rpar;](https://www.techmeme.com/260707/p40#a260707p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
