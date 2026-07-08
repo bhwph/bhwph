@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea&#39;s Kospi index is down 20%+ from its record high in June, falling 5%+ on Wednesday; Samsung and SK Hynix fall 5%+ amid long-term chip deal concerns &lpar;Financial Times&rpar;](https://www.techmeme.com/260708/p14#a260708p14)
- - [Why I won’t buy another Moto G until Motorola fixes these 5 things](https://www.androidauthority.com/why-i-wont-buy-another-moto-g-3684467/)
- - [What Happens if China Hacks the US Water Supply? I Went to a Secret War Game to Find Out](https://www.wired.com/story/what-happens-if-china-hacks-the-us-water-supply-war-game-volt-typhoon/)<!-- TECH:END -->
+ - [&#39;Widow&#39;s Bay&#39; and &#39;Pluribus&#39; nominated for the most prestigious Emmy Awards](https://appleinsider.com/articles/26/07/08/widows-bay-and-pluribus-nominated-for-the-most-prestigious-emmy-awards?utm_source=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 8&rpar;](https://www.androidauthority.com/wallpaper-wednesday-july-8-2026-3684682/)
+ - [OpenAI rolls out two versions of GPT-Live: GPT-Live-1, powering ChatGPT Voice for Go, Plus, and Pro users, and GPT-Live-1 mini, the default for free users &lpar;Sabrina Ortiz/The Deep View&rpar;](https://www.techmeme.com/260708/p37#a260708p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
