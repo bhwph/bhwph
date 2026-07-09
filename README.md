@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cognition releases SWE-1.7, trained from Kimi K2.7 and available at 1,000 tokens/second, claiming it nears GPT-5.5 and Opus 4.8 on benchmarks at a lower cost &lpar;Cognition&rpar;](https://www.techmeme.com/260708/p45#a260708p45)
- - [&#39;Widow&#39;s Bay&#39; &amp; &#39;Pluribus&#39; lead Apple&#39;s record-breaking charge for 2026 Emmy Awards](https://appleinsider.com/articles/26/07/08/widows-bay-and-pluribus-nominated-for-the-most-prestigious-emmy-awards?utm_source=rss)
- - [Block agrees to pay $45M and offer live customer support for Cash App to settle claims by 46 US states that the company failed to protect users from fraud &lpar;Daniel Wiessner/Reuters&rpar;](https://www.techmeme.com/260708/p44#a260708p44)<!-- TECH:END -->
+ - [Internal US DOJ memo: attorneys working on digital currency cases should expect less cooperation from Binance, which is adding requirements for asset freezes &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260709/p9#a260709p9)
+ - [Samsung admits a Good Lock module is making a useful feature disappear](https://www.androidauthority.com/samsung-registar-good-lock-glitch-3685141/)
+ - [Best Microsoft Surface Laptop &lpar;2026&rpar;: Which Model to Buy or Avoid](https://www.wired.com/story/microsoft-surface-buying-guide/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
