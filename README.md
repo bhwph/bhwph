@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal US DOJ memo: attorneys working on digital currency cases should expect less cooperation from Binance, which is adding requirements for asset freezes &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260709/p9#a260709p9)
- - [Samsung admits a Good Lock module is making a useful feature disappear](https://www.androidauthority.com/samsung-registar-good-lock-glitch-3685141/)
- - [Best Microsoft Surface Laptop &lpar;2026&rpar;: Which Model to Buy or Avoid](https://www.wired.com/story/microsoft-surface-buying-guide/)<!-- TECH:END -->
+ - [GPT-5.6 Sol costs $5 per 1M input tokens and $30 per 1M output tokens, GPT-5.6 Terra costs $2.50 and $15, and GPT-5.6 Luna costs $1 and $6 &lpar;OpenAI&rpar;](https://www.techmeme.com/260709/p28#a260709p28)
+ - [Google&amp;#8217;s Nest Thermostat has hit its best price of the year](https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale)
+ - [Import duty cuts make India even more attractive for iPhone manufacturing](https://appleinsider.com/articles/26/07/09/import-duty-cuts-make-india-even-more-attractive-for-iphone-manufacturing?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
