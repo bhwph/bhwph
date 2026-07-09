@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Widow&#39;s Bay&#39; and &#39;Pluribus&#39; nominated for the most prestigious Emmy Awards](https://appleinsider.com/articles/26/07/08/widows-bay-and-pluribus-nominated-for-the-most-prestigious-emmy-awards?utm_source=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 8&rpar;](https://www.androidauthority.com/wallpaper-wednesday-july-8-2026-3684682/)
- - [OpenAI rolls out two versions of GPT-Live: GPT-Live-1, powering ChatGPT Voice for Go, Plus, and Pro users, and GPT-Live-1 mini, the default for free users &lpar;Sabrina Ortiz/The Deep View&rpar;](https://www.techmeme.com/260708/p37#a260708p37)<!-- TECH:END -->
+ - [Cognition releases SWE-1.7, trained from Kimi K2.7 and available at 1,000 tokens/second, claiming it nears GPT-5.5 and Opus 4.8 on benchmarks at a lower cost &lpar;Cognition&rpar;](https://www.techmeme.com/260708/p45#a260708p45)
+ - [&#39;Widow&#39;s Bay&#39; &amp; &#39;Pluribus&#39; lead Apple&#39;s record-breaking charge for 2026 Emmy Awards](https://appleinsider.com/articles/26/07/08/widows-bay-and-pluribus-nominated-for-the-most-prestigious-emmy-awards?utm_source=rss)
+ - [Block agrees to pay $45M and offer live customer support for Cash App to settle claims by 46 US states that the company failed to protect users from fraud &lpar;Daniel Wiessner/Reuters&rpar;](https://www.techmeme.com/260708/p44#a260708p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
