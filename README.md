@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Here\u2019s 1 post 4 U](http://9gag.com/gag/aD2ERqZ)
- - 😝 [Who was your first kiss](http://9gag.com/gag/aqy0vpQ)
- - 👉 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)<!-- MEMES:END -->
+ - 6️⃣ [The hunger games?](http://9gag.com/gag/aoyXB00)
+ - 😝 [Robinhood Bus](http://9gag.com/gag/a9yo39K)
+ - 👉 [Challenging wank](http://9gag.com/gag/aNDNyDA)<!-- MEMES:END -->
 
 --- 
 
