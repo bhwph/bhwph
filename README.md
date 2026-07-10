@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The hunger games?](http://9gag.com/gag/aoyXB00)
- - 😝 [Robinhood Bus](http://9gag.com/gag/a9yo39K)
- - 👉 [Challenging wank](http://9gag.com/gag/aNDNyDA)<!-- MEMES:END -->
+ - 6️⃣ [She let her intrusive thoughts win lol](http://9gag.com/gag/aNDNyXK)
+ - 😝 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)
+ - 👉 [Never trust them.](http://9gag.com/gag/aGyXP45)<!-- MEMES:END -->
 
 --- 
 
