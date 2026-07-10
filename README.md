@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is fixing a frustrating Gemini bug affecting Google Home Broadcasts](https://www.androidauthority.com/google-home-gemini-broadcast-bug-fix-3686067/)
- - [1X says its humanoid robot Neo&#39;s five-fingered hands have tendon-style actuators that give it 25 degrees of freedom of movement, nearly the same as a human hand &lpar;Boone Ashworth/Wired&rpar;](https://www.techmeme.com/260709/p44#a260709p44)
- - [Thousands of ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo](https://www.wired.com/story/thousands-of-pokemon-go-players-descend-on-times-square-to-defeat-mewtwo/)<!-- TECH:END -->
+ - [The Best Pool Accessories to Upgrade Your Summer &lpar;2026&rpar;](https://www.wired.com/story/best-pool-accessories/)
+ - [6 hidden Samsung dial codes that unlock secret features on your Galaxy phone](https://www.androidauthority.com/secret-dial-codes-samsung-phones-3684761/)
+ - [A New Experiential Gallery Just Might Change Your Mind About AI Art](https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
