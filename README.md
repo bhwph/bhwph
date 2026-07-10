@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Pool Accessories to Upgrade Your Summer &lpar;2026&rpar;](https://www.wired.com/story/best-pool-accessories/)
- - [6 hidden Samsung dial codes that unlock secret features on your Galaxy phone](https://www.androidauthority.com/secret-dial-codes-samsung-phones-3684761/)
- - [A New Experiential Gallery Just Might Change Your Mind About AI Art](https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/)<!-- TECH:END -->
+ - [Nvidia&amp;#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street](https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut)
+ - [Co-op Game Orbitals Is a Split Fiction-Like Delight, an &#39;Anime You Can Play&#39;](https://www.cnet.com/tech/gaming/orbitals-game-anime-split-fiction-sgf-2026/)
+ - [NordVPN now offers Android users protection against malicious messages](https://www.androidauthority.com/nordvpn-scam-protection-messages-3686413/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
