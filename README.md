@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Duolingo is breaking users’ language courses — and it’s exactly why I quit](https://www.androidauthority.com/duolingo-broken-updated-courses-why-i-quit-3686405/)
- - [El Niño Is Already Wreaking Havoc on Pacific Fisheries](https://www.wired.com/story/el-nino-wreaking-havoc-on-pacific-fisheries/)
- - [Are you filthy enough for a $700 portable shower?](https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review)<!-- TECH:END -->
+ - [Apple&#39;s OpenAI lawsuit follows months of simmering tensions and highlights OpenAI&#39;s hardware chief Tang Tan&#39;s strained relationship with former boss John Ternus &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260711/p8#a260711p8)
+ - [Filing: Google urged the European Commission not to target DNS resolvers, VPNs, or IPs to fight piracy, calling the measures ineffective and easily circumvented &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](https://www.techmeme.com/260711/p7#a260711p7)
+ - [FL Studio head Constantin Koehncke turns to Reddit for feedback and fun](https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
