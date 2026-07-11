@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI&#39;s head of safety, Johannes Heidecke, is leaving as OpenAI integrates its research and safety teams; Mia Glaese will become VP of research and safety &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260710/p38#a260710p38)
- - [OpenAI’s Head of Safety Is Leaving the Company](https://www.wired.com/story/openai-head-of-safety-leaving/)
- - [Apple accuses OpenAI of stealing secrets to fast-track its hardware ambitions](https://www.androidauthority.com/apple-sues-openai-over-trade-secret-theft-3686592/)<!-- TECH:END -->
+ - [Duolingo is breaking users’ language courses — and it’s exactly why I quit](https://www.androidauthority.com/duolingo-broken-updated-courses-why-i-quit-3686405/)
+ - [El Niño Is Already Wreaking Havoc on Pacific Fisheries](https://www.wired.com/story/el-nino-wreaking-havoc-on-pacific-fisheries/)
+ - [Are you filthy enough for a $700 portable shower?](https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
