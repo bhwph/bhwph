@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia&amp;#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street](https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut)
- - [Co-op Game Orbitals Is a Split Fiction-Like Delight, an &#39;Anime You Can Play&#39;](https://www.cnet.com/tech/gaming/orbitals-game-anime-split-fiction-sgf-2026/)
- - [NordVPN now offers Android users protection against malicious messages](https://www.androidauthority.com/nordvpn-scam-protection-messages-3686413/)<!-- TECH:END -->
+ - [OpenAI&#39;s head of safety, Johannes Heidecke, is leaving as OpenAI integrates its research and safety teams; Mia Glaese will become VP of research and safety &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260710/p38#a260710p38)
+ - [OpenAI’s Head of Safety Is Leaving the Company](https://www.wired.com/story/openai-head-of-safety-leaving/)
+ - [Apple accuses OpenAI of stealing secrets to fast-track its hardware ambitions](https://www.androidauthority.com/apple-sues-openai-over-trade-secret-theft-3686592/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
