@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Doing my part](http://9gag.com/gag/a87BLrY)
- - 😝 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)
- - 👉 [Himalayan salt](http://9gag.com/gag/agmP3Mx)<!-- MEMES:END -->
+ - 6️⃣ [This is the start of the post](http://9gag.com/gag/aBy7KjD)
+ - 😝 [Leadership summed in a facial expression](http://9gag.com/gag/amoEX54)
+ - 👉 [Ba ba ba banana](http://9gag.com/gag/axyXdL1)<!-- MEMES:END -->
 
 --- 
 
