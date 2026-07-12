@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This is the start of the post](http://9gag.com/gag/aBy7KjD)
- - 😝 [Leadership summed in a facial expression](http://9gag.com/gag/amoEX54)
- - 👉 [Ba ba ba banana](http://9gag.com/gag/axyXdL1)<!-- MEMES:END -->
+ - 6️⃣ [The best dog ever](http://9gag.com/gag/a5Q8N6G)
+ - 😝 [Doing my part](http://9gag.com/gag/a87BLrY)
+ - 👉 [According to ancient Greek sculptors, this is the peak female body shape](http://9gag.com/gag/a5Q8eOE)<!-- MEMES:END -->
 
 --- 
 
