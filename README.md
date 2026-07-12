@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s OpenAI lawsuit follows months of simmering tensions and highlights OpenAI&#39;s hardware chief Tang Tan&#39;s strained relationship with former boss John Ternus &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260711/p8#a260711p8)
- - [Filing: Google urged the European Commission not to target DNS resolvers, VPNs, or IPs to fight piracy, calling the measures ineffective and easily circumvented &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](https://www.techmeme.com/260711/p7#a260711p7)
- - [FL Studio head Constantin Koehncke turns to Reddit for feedback and fun](https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview)<!-- TECH:END -->
+ - [A look at Bending Spoons&#39; hiring process: the company, which owns Vimeo, AOL, and Evernote, received 800,000 job applications last year and made only 286 hires &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260711/p12#a260711p12)
+ - [Current AI market dynamics point to frontier models becoming commodity infrastructure as the token crunch eases, with value shifting to products built on top &lpar;Benedict Evans&rpar;](https://www.techmeme.com/260711/p11#a260711p11)
+ - [Warframe&#39;s Next Expansion Is the Epic Payoff to 13 Years of Storytelling](https://www.cnet.com/tech/gaming/warframes-next-expansion-is-the-epic-payoff-to-13-years-of-storytelling/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
