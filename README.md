@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Bending Spoons&#39; hiring process: the company, which owns Vimeo, AOL, and Evernote, received 800,000 job applications last year and made only 286 hires &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260711/p12#a260711p12)
- - [Current AI market dynamics point to frontier models becoming commodity infrastructure as the token crunch eases, with value shifting to products built on top &lpar;Benedict Evans&rpar;](https://www.techmeme.com/260711/p11#a260711p11)
- - [Warframe&#39;s Next Expansion Is the Epic Payoff to 13 Years of Storytelling](https://www.cnet.com/tech/gaming/warframes-next-expansion-is-the-epic-payoff-to-13-years-of-storytelling/)<!-- TECH:END -->
+ - [Best External Hard Drives &lpar;2026&rpar;: SSD to Store Data, Video, and More](https://www.wired.com/story/best-portable-external-storage-drives/)
+ - [Exposing the sneaky math behind your Android phone’s battery life claims in 2026](https://www.androidauthority.com/android-phone-battery-life-claims-sneaky-math-2026-3683394/)
+ - [The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot](https://www.wired.com/gallery/best-pet-cameras/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
