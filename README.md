@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The best dog ever](http://9gag.com/gag/a5Q8N6G)
- - 😝 [Doing my part](http://9gag.com/gag/a87BLrY)
- - 👉 [According to ancient Greek sculptors, this is the peak female body shape](http://9gag.com/gag/a5Q8eOE)<!-- MEMES:END -->
+ - 6️⃣ [Go Latina dancing](http://9gag.com/gag/aBy7Qyz)
+ - 😝 [The man who almost conquered them all](http://9gag.com/gag/aBy7KE1)
+ - 👉 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)<!-- MEMES:END -->
 
 --- 
 
