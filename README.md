@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s failed self-driving car program left a legacy of powerful AI chips](https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra)
- - [Sources: Apple is already taping out M7 with major NPU upgrades, and plans M7 Ultra with 1.5TB RAM, and M8, for 2028; new Pencils are coming with a new iPad Pro &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260712/p6#a260712p6)
- - [M6 era will last just six months as Apple pushes for AI-focused M7](https://appleinsider.com/articles/26/07/12/m6-era-will-last-just-six-months-as-apple-pushes-for-ai-focused-m7?utm_source=rss)<!-- TECH:END -->
+ - [A profile of Asha Sharma, an outsider elevated by Satya Nadella to lead Xbox, where she made sweeping job cuts and shed game studios within her first few months &lpar;Financial Times&rpar;](https://www.techmeme.com/260712/p11#a260712p11)
+ - [Memo: Tang Jie, founder of Z.ai, the Chinese lab behind the GLM models, argues frontier AI capabilities should stay &quot;as open and widely accessible as possible&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260712/p10#a260712p10)
+ - [Sources: Cursor is building a general-purpose AI agent codenamed Sand, aimed at non-developers, that handles emails, texts, and documents to rival Claude Cowork &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260712/p9#a260712p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
