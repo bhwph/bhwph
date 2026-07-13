@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Tiger](http://9gag.com/gag/aW4wWNK)
- - 😝 [Go Latina dancing](http://9gag.com/gag/aBy7Qyz)
+ - 6️⃣ [Lifejackets](http://9gag.com/gag/avy3gvM)
+ - 😝 [The Tiger](http://9gag.com/gag/aW4wWNK)
  - 👉 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)<!-- MEMES:END -->
 
 --- 
