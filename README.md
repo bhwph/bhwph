@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU blacklists Russian intelligence group members it says were responsible for spying on and hacking targets across the EU and Ukraine from as early as 2010 &lpar;Politico&rpar;](https://www.techmeme.com/260713/p14#a260713p14)
- - [A new leak just revealed almost everything about Samsung’s upcoming smartwatches](https://www.androidauthority.com/samsung-galaxy-watch-9-ultra-2-specs-leak-3686797/)
- - [China says President Xi will deliver a keynote speech at the opening ceremony of the three-day World AI Conference in Shanghai on Friday, his first appearance &lpar;Bloomberg&rpar;](https://www.techmeme.com/260713/p13#a260713p13)<!-- TECH:END -->
+ - [Pixel 11 series gets ready for launch, with the rest of the family hitting the FCC](https://www.androidauthority.com/pixel-11-fcc-3687003/)
+ - [Fifth developer betas of iOS 26.6, macOS 26.6 are out now](https://appleinsider.com/articles/26/07/13/fifth-developer-betas-of-ios-266-macos-266-are-out-now?utm_source=rss)
+ - [Google Health permissions glitch is driving some Pixel Watch users nuts](https://www.androidauthority.com/pixel-watch-sensor-permissions-3686913/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
