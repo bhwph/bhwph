@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Asha Sharma, an outsider elevated by Satya Nadella to lead Xbox, where she made sweeping job cuts and shed game studios within her first few months &lpar;Financial Times&rpar;](https://www.techmeme.com/260712/p11#a260712p11)
- - [Memo: Tang Jie, founder of Z.ai, the Chinese lab behind the GLM models, argues frontier AI capabilities should stay &quot;as open and widely accessible as possible&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260712/p10#a260712p10)
- - [Sources: Cursor is building a general-purpose AI agent codenamed Sand, aimed at non-developers, that handles emails, texts, and documents to rival Claude Cowork &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260712/p9#a260712p9)<!-- TECH:END -->
+ - [The EU blacklists Russian intelligence group members it says were responsible for spying on and hacking targets across the EU and Ukraine from as early as 2010 &lpar;Politico&rpar;](https://www.techmeme.com/260713/p14#a260713p14)
+ - [A new leak just revealed almost everything about Samsung’s upcoming smartwatches](https://www.androidauthority.com/samsung-galaxy-watch-9-ultra-2-specs-leak-3686797/)
+ - [China says President Xi will deliver a keynote speech at the opening ceremony of the three-day World AI Conference in Shanghai on Friday, his first appearance &lpar;Bloomberg&rpar;](https://www.techmeme.com/260713/p13#a260713p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
