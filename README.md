@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Whole](http://9gag.com/gag/aPAKG5w)
- - 😝 [Women: Men have no feelings\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 Men:](http://9gag.com/gag/adBmj8D)
- - 👉 [Arrogant balkan woman double-parks her SUV, forgetting to pull the handbrake](http://9gag.com/gag/aW4wW1n)<!-- MEMES:END -->
+ - 6️⃣ [HR woes](http://9gag.com/gag/ayNO88b)
+ - 😝 [When your plumber is from India and you redeem](http://9gag.com/gag/ajPoAjp)
+ - 👉 [If you know what i mean](http://9gag.com/gag/axyXGL1)<!-- MEMES:END -->
 
 --- 
 
