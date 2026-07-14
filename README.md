@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Lifejackets](http://9gag.com/gag/avy3gvM)
- - 😝 [The Tiger](http://9gag.com/gag/aW4wWNK)
- - 👉 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)<!-- MEMES:END -->
+ - 6️⃣ [Beautiful indeed](http://9gag.com/gag/aXP5X0z)
+ - 😝 [I hate mondays](http://9gag.com/gag/adBmpwj)
+ - 👉 [This selfish player refused to pass the ball to Haaland costing Norway the World Cup.](http://9gag.com/gag/axyX2qY)<!-- MEMES:END -->
 
 --- 
 
