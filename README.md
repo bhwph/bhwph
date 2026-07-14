@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 11 series gets ready for launch, with the rest of the family hitting the FCC](https://www.androidauthority.com/pixel-11-fcc-3687003/)
- - [Fifth developer betas of iOS 26.6, macOS 26.6 are out now](https://appleinsider.com/articles/26/07/13/fifth-developer-betas-of-ios-266-macos-266-are-out-now?utm_source=rss)
- - [Google Health permissions glitch is driving some Pixel Watch users nuts](https://www.androidauthority.com/pixel-watch-sensor-permissions-3686913/)<!-- TECH:END -->
+ - [I&#39;m a Big E Ink Fan, So This New Detachable-Screen Phone From Hisense Intrigues Me](https://www.cnet.com/tech/mobile/e-ink-new-phone-hisense-a10-detachable-screen/)
+ - [Singapore-based and Alibaba-backed video generation startup PixVerse says it closed a Series C extension to raise $439M total for the round, valuing it at $2B+ &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260713/p35#a260713p35)
+ - [Space Mirror: The FCC Just Approved a Sun-Reflecting Satellite, and Astronomers Are Unimpressed](https://www.cnet.com/science/space/the-fcc-just-approved-a-sun-reflecting-satellite-and-astronomers-already-hate-it/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
