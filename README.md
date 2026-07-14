@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I&#39;m a Big E Ink Fan, So This New Detachable-Screen Phone From Hisense Intrigues Me](https://www.cnet.com/tech/mobile/e-ink-new-phone-hisense-a10-detachable-screen/)
- - [Singapore-based and Alibaba-backed video generation startup PixVerse says it closed a Series C extension to raise $439M total for the round, valuing it at $2B+ &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260713/p35#a260713p35)
- - [Space Mirror: The FCC Just Approved a Sun-Reflecting Satellite, and Astronomers Are Unimpressed](https://www.cnet.com/science/space/the-fcc-just-approved-a-sun-reflecting-satellite-and-astronomers-already-hate-it/)<!-- TECH:END -->
+ - [Chrome on Android gets a navigation bar redesign to make room for Gemini](https://www.androidauthority.com/chrome-android-navigation-bar-gemini-3687175/)
+ - [China&#39;s smartphone shipments fell 4.3% YoY to 66M units in Q2, the fifth consecutive quarter of decline, amid a memory shortage; Huawei and Apple grew shipments &lpar;Kiranjeet Kaur/IDC&rpar;](https://www.techmeme.com/260714/p5#a260714p5)
+ - [How AtomForm is making 3D printing accessible to everyone](https://www.androidauthority.com/atomform-jagger-shang-interview-3685768/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
