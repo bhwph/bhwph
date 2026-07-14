@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome on Android gets a navigation bar redesign to make room for Gemini](https://www.androidauthority.com/chrome-android-navigation-bar-gemini-3687175/)
- - [China&#39;s smartphone shipments fell 4.3% YoY to 66M units in Q2, the fifth consecutive quarter of decline, amid a memory shortage; Huawei and Apple grew shipments &lpar;Kiranjeet Kaur/IDC&rpar;](https://www.techmeme.com/260714/p5#a260714p5)
- - [How AtomForm is making 3D printing accessible to everyone](https://www.androidauthority.com/atomform-jagger-shang-interview-3685768/)<!-- TECH:END -->
+ - [Still facing performance issues while gaming on your Google Pixel? You’re not alone](https://www.androidauthority.com/android-17-google-pixel-10-pro-gaming-issues-3687353/)
+ - [Sources: Uber is in advanced talks to acquire Delivery Hero in a deal valuing the German food-delivery company well above its recent market value of €11.2B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260714/p36#a260714p36)
+ - [It was nice while it lasted: Samsung reportedly ending free storage upgrades](https://www.androidauthority.com/samsung-ending-free-storage-upgrade-offer-3687401/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
