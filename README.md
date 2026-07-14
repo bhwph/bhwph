@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Beautiful indeed](http://9gag.com/gag/aXP5X0z)
- - 😝 [I hate mondays](http://9gag.com/gag/adBmpwj)
- - 👉 [This selfish player refused to pass the ball to Haaland costing Norway the World Cup.](http://9gag.com/gag/axyX2qY)<!-- MEMES:END -->
+ - 6️⃣ [Whole](http://9gag.com/gag/aPAKG5w)
+ - 😝 [Women: Men have no feelings\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 Men:](http://9gag.com/gag/adBmj8D)
+ - 👉 [Arrogant balkan woman double-parks her SUV, forgetting to pull the handbrake](http://9gag.com/gag/aW4wW1n)<!-- MEMES:END -->
 
 --- 
 
