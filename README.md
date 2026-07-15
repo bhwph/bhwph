@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Still facing performance issues while gaming on your Google Pixel? You’re not alone](https://www.androidauthority.com/android-17-google-pixel-10-pro-gaming-issues-3687353/)
- - [Sources: Uber is in advanced talks to acquire Delivery Hero in a deal valuing the German food-delivery company well above its recent market value of €11.2B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260714/p36#a260714p36)
- - [It was nice while it lasted: Samsung reportedly ending free storage upgrades](https://www.androidauthority.com/samsung-ending-free-storage-upgrade-offer-3687401/)<!-- TECH:END -->
+ - [Monitoring Analytics: PJM&#39;s recent electricity auction is expected to add $6.3B to customers&#39; bills in 13 states and DC through 2029 due to data center demands &lpar;Ivan Penn/New York Times&rpar;](https://www.techmeme.com/260714/p55#a260714p55)
+ - [LaserPecker LX2 review: Leveling up your laser game, for a price](https://appleinsider.com/articles/26/07/15/laserpecker-lx2-review-leveling-up-your-laser-game-for-a-price?utm_source=rss)
+ - [InstaLILY, which develops AI agents to automate sales, operations, and service workflows, raised a $60M Series B led by Energize Capital &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260714/p54#a260714p54)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
