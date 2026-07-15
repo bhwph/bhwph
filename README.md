@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Monitoring Analytics: PJM&#39;s recent electricity auction is expected to add $6.3B to customers&#39; bills in 13 states and DC through 2029 due to data center demands &lpar;Ivan Penn/New York Times&rpar;](https://www.techmeme.com/260714/p55#a260714p55)
- - [LaserPecker LX2 review: Leveling up your laser game, for a price](https://appleinsider.com/articles/26/07/15/laserpecker-lx2-review-leveling-up-your-laser-game-for-a-price?utm_source=rss)
- - [InstaLILY, which develops AI agents to automate sales, operations, and service workflows, raised a $60M Series B led by Energize Capital &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260714/p54#a260714p54)<!-- TECH:END -->
+ - [China&#39;s cyberspace regulator says Apple Intelligence has been registered for use on iPhones in the country; Alibaba says the service will use its Qwen model &lpar;Reuters&rpar;](https://www.techmeme.com/260715/p12#a260715p12)
+ - [Can the Exynos 2700 finally beat Snapdragon? 4 fixes Samsung needs to make](https://www.androidauthority.com/exynos-2700-wishlist-beat-snapdragon-3684805/)
+ - [The Explosive Diarrhea Outbreak Is About to Get Much Bigger](https://www.wired.com/story/explosive-diarrhea-outbreak-about-to-get-bigger/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
