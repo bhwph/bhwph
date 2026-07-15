@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s cyberspace regulator says Apple Intelligence has been registered for use on iPhones in the country; Alibaba says the service will use its Qwen model &lpar;Reuters&rpar;](https://www.techmeme.com/260715/p12#a260715p12)
- - [Can the Exynos 2700 finally beat Snapdragon? 4 fixes Samsung needs to make](https://www.androidauthority.com/exynos-2700-wishlist-beat-snapdragon-3684805/)
- - [The Explosive Diarrhea Outbreak Is About to Get Much Bigger](https://www.wired.com/story/explosive-diarrhea-outbreak-about-to-get-bigger/)<!-- TECH:END -->
+ - [Google Search AI is under fire after safety report slams its safeguards](https://www.androidauthority.com/report-says-google-search-ai-harmful-for-kids-3687868/)
+ - [OpenAI employees donated a combined $215K+ to Guardrails Alliance, a super PAC seeking stricter AI rules and opposing Greg Brockman-backed Leading the Future &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260715/p38#a260715p38)
+ - [The CMF Watch Pro 2 falls to $39 in a return to its Prime Day price](https://www.androidauthority.com/deal-cmf-watch-pro-2-3687863/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
