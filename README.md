@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I hate mondays](http://9gag.com/gag/adBmpwj)
- - 😝 [4 genre 1 place](http://9gag.com/gag/aKGr341)
- - 👉 [HR woes](http://9gag.com/gag/ayNO88b)<!-- MEMES:END -->
+ - 6️⃣ [Wealth!](http://9gag.com/gag/a87B4qQ)
+ - 😝 [Women: Men have no feelings\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 Men:](http://9gag.com/gag/adBmj8D)
+ - 👉 [At least no one destroyed anything.](http://9gag.com/gag/aXP59B2)<!-- MEMES:END -->
 
 --- 
 
