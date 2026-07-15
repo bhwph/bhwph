@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [HR woes](http://9gag.com/gag/ayNO88b)
- - 😝 [When your plumber is from India and you redeem](http://9gag.com/gag/ajPoAjp)
- - 👉 [If you know what i mean](http://9gag.com/gag/axyXGL1)<!-- MEMES:END -->
+ - 6️⃣ [I hate mondays](http://9gag.com/gag/adBmpwj)
+ - 😝 [4 genre 1 place](http://9gag.com/gag/aKGr341)
+ - 👉 [HR woes](http://9gag.com/gag/ayNO88b)<!-- MEMES:END -->
 
 --- 
 
