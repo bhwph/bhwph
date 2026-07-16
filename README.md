@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search AI is under fire after safety report slams its safeguards](https://www.androidauthority.com/report-says-google-search-ai-harmful-for-kids-3687868/)
- - [OpenAI employees donated a combined $215K+ to Guardrails Alliance, a super PAC seeking stricter AI rules and opposing Greg Brockman-backed Leading the Future &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260715/p38#a260715p38)
- - [The CMF Watch Pro 2 falls to $39 in a return to its Prime Day price](https://www.androidauthority.com/deal-cmf-watch-pro-2-3687863/)<!-- TECH:END -->
+ - [SpaceXAI open-sources Grok Build under an Apache 2.0 license after the tool had uploaded user repositories to a Google Cloud bucket, causing a severe backlash &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260715/p52#a260715p52)
+ - [Android 17 QPR1 Beta 7 drops a few bugfixes for die-hard Pixel testers](https://www.androidauthority.com/android-17-qpr1-beta-7-3688027/)
+ - [Rumored Galaxy Watch Ultra 2 Might Fix Samsung&#39;s Biggest Smartwatch Problem](https://www.cnet.com/tech/mobile/samsung-galaxy-watch-9-ultra-2-rumors-everything-we-know/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
