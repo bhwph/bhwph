@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s next premium tablet just leaked in images, confirming our worst fears](https://www.androidauthority.com/samsung-galaxy-tab-s12-ultra-image-leak-3688098/)
- - [Apple&#39;s Back to School offers have started, but you can do much better](https://appleinsider.com/articles/26/07/16/apples-back-to-school-offers-have-started-but-you-can-do-much-better?utm_source=rss)
- - [A US official says TSMC plans to spend an additional $100B to build four new US chip fabs, bringing total pledge to $265B as part of a broader US-Taiwan deal &lpar;Bloomberg&rpar;](https://www.techmeme.com/260716/p9#a260716p9)<!-- TECH:END -->
+ - [Roblox unveils Build, which lets users create basic games through text prompts directly within its mobile app, powered by Roblox&#39;s models and open-source models &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260716/p43#a260716p43)
+ - [Lenovo’s Tab Plus Gen 2 tablet with that giant speaker is now up for grabs in the US](https://www.androidauthority.com/lenovo-tab-plus-gen-2-us-launch-3688281/)
+ - [Google is better at playing this game](https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
