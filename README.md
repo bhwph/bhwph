@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Roadhouse!!`](http://9gag.com/gag/a1mGXPR)
- - 😝 [Indian Glass Master](http://9gag.com/gag/ajPoq6G)
- - 👉 [F**k cancer!](http://9gag.com/gag/a1mGd9D)<!-- MEMES:END -->
+ - 6️⃣ [Just try it](http://9gag.com/gag/awy6V9x)
+ - 😝 [Peaks](http://9gag.com/gag/aVvNqZy)
+ - 👉 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)<!-- MEMES:END -->
 
 --- 
 
