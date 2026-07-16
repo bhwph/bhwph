@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dropped his smoke](http://9gag.com/gag/ayNO8PY)
- - 😝 [Found on my Phone](http://9gag.com/gag/a2vndNp)
- - 👉 [HR woes](http://9gag.com/gag/ayNO88b)<!-- MEMES:END -->
+ - 6️⃣ [At least no one destroyed anything.](http://9gag.com/gag/aXP59B2)
+ - 😝 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)
+ - 👉 [Man stalked by a mountain lion saved by a Glock 27](http://9gag.com/gag/an7LNPV)<!-- MEMES:END -->
 
 --- 
 
