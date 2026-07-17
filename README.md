@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just try it](http://9gag.com/gag/awy6V9x)
- - 😝 [Peaks](http://9gag.com/gag/aVvNqZy)
- - 👉 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)<!-- MEMES:END -->
+ - 6️⃣ [Fact](http://9gag.com/gag/ae9vbXO)
+ - 😝 [Impressive!](http://9gag.com/gag/aW4w8yn)
+ - 👉 [Painfully accurate](http://9gag.com/gag/a34VqpQ)<!-- MEMES:END -->
 
 --- 
 
