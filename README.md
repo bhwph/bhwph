@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Z.ai is on track to achieve an annual recurring revenue of $1B, a first for a Chinese AI company, after achieving its full-year sales target in July &lpar;Bloomberg&rpar;](https://www.techmeme.com/260717/p5#a260717p5)
- - [5 Android phones that might just be worse than the Trump Phone](https://www.androidauthority.com/android-phones-worse-than-trump-phone-3687383/)
- - [The Group Behind ‘2000 Mules’ Is Back With Another Election Conspiracy Film](https://www.wired.com/story/the-group-behind-2000-mules-is-back-with-another-election-conspiracy-film/)<!-- TECH:END -->
+ - [Asus’ top-end 4K QD-OLED gaming monitor is $400 off](https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale)
+ - [Galaxy Unpacked is just days away, but this latest massive leak won’t wait](https://www.androidauthority.com/samsung-foldables-leak-3688825/)
+ - [iOS 27 Public Beta: It&#39;s... Fine I Guess?](https://www.cnet.com/tech/services-and-software/ios-27-public-beta-its-fine-i-guess/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
