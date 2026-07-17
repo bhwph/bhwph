@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US chip, memory, and storage stocks fell sharply on Thursday, with Sandisk down 13%, Seagate 10%, Western Digital 9%, and Intel and Micron 6% each &lpar;George Steer/Financial Times&rpar;](https://www.techmeme.com/260716/p65#a260716p65)
- - [Filing: South Korean authorities conducted an on-site search of Chinese chipmaker Montage&#39;s offices in connection with potential competition law violations &lpar;Nikita Maria Jino/Reuters&rpar;](https://www.techmeme.com/260716/p63#a260716p63)
- - [Memo: MLB bans the use of league-provided dugout iPads to access GenAI for in-game strategy calls; sources say at least a third of teams used AI this way &lpar;Eno Sarris/The Athletic&rpar;](https://www.techmeme.com/260716/p64#a260716p64)<!-- TECH:END -->
+ - [Sources: Z.ai is on track to achieve an annual recurring revenue of $1B, a first for a Chinese AI company, after achieving its full-year sales target in July &lpar;Bloomberg&rpar;](https://www.techmeme.com/260717/p5#a260717p5)
+ - [5 Android phones that might just be worse than the Trump Phone](https://www.androidauthority.com/android-phones-worse-than-trump-phone-3687383/)
+ - [The Group Behind ‘2000 Mules’ Is Back With Another Election Conspiracy Film](https://www.wired.com/story/the-group-behind-2000-mules-is-back-with-another-election-conspiracy-film/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
