@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fact](http://9gag.com/gag/ae9vbXO)
- - 😝 [Impressive!](http://9gag.com/gag/aW4w8yn)
- - 👉 [Painfully accurate](http://9gag.com/gag/a34VqpQ)<!-- MEMES:END -->
+ - 6️⃣ [Ghost in the shell](http://9gag.com/gag/abA9zGv)
+ - 😝 [Just saying...](http://9gag.com/gag/a4PDZgQ)
+ - 👉 [She perfectly captured why his sense of entitlement is so INFURIATING!](http://9gag.com/gag/adBm9qN)<!-- MEMES:END -->
 
 --- 
 
