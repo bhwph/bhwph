@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [..Or you&#39;ll be..](https://www.reddit.com/r/funny/comments/1uz5m1h/or_youll_be/)
- - 😝 [No tacos for you](http://9gag.com/gag/a34VMY7)
- - 👉 [She perfectly captured why his sense of entitlement is so INFURIATING!](http://9gag.com/gag/adBm9qN)<!-- MEMES:END -->
+ - 6️⃣ [No tacos for you](http://9gag.com/gag/a34VMY7)
+ - 😝 [She took it well](http://9gag.com/gag/aBy78V1)
+ - 👉 [I don&#39;t get it. If I post something that has a swimsuit in it, my post gets auto blocked; but daily I see posts that have girls giving mouth hugs to meat whistles.](http://9gag.com/gag/a9y9AMZ)<!-- MEMES:END -->
 
 --- 
 
