@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hard to argue with that logic](http://9gag.com/gag/a6ZAorL)
- - 😝 [No wonder it gets smaller nowadays](http://9gag.com/gag/aGyWeQ7)
- - 👉 [Bad parenting. Teach your f**king kids.](http://9gag.com/gag/aW4w15x)<!-- MEMES:END -->
+ - 6️⃣ [This kid is a legend](http://9gag.com/gag/abA9Mwr)
+ - 😝 [Women](http://9gag.com/gag/aRBY3YA)
+ - 👉 [Are you not entertained?](http://9gag.com/gag/aBy70vO)<!-- MEMES:END -->
 
 --- 
 
