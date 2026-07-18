@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Tech for Back to School](https://www.wired.com/story/best-tech-gear-back-to-school/)
- - [Galaxy Unpacked July 2026: What to expect from Samsung’s foldables and more](https://www.androidauthority.com/samsung-galaxy-unpacked-july-2026-what-to-expect-3688548/)
- - [I pitted Samsung against Pixel for privacy features — and the winner isn’t clear](https://www.androidauthority.com/samsung-galaxy-vs-google-pixel-privacy-3685221/)<!-- TECH:END -->
+ - [Google is open-sourcing its 3D emoji](https://www.theverge.com/design/967606/google-open-source-3d-emoji)
+ - [The Top Continuous Glucose Monitors That Doctors Recommend](https://www.cnet.com/health/medical/best-continuous-glucose-monitors/)
+ - [GoPro&amp;#8217;s discounted Max 2 bundle includes $100 worth of accessories](https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
