@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus’ top-end 4K QD-OLED gaming monitor is $400 off](https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale)
- - [Galaxy Unpacked is just days away, but this latest massive leak won’t wait](https://www.androidauthority.com/samsung-foldables-leak-3688825/)
- - [iOS 27 Public Beta: It&#39;s... Fine I Guess?](https://www.cnet.com/tech/services-and-software/ios-27-public-beta-its-fine-i-guess/)<!-- TECH:END -->
+ - [China&#39;s BrainCo unveils what it says is the world&#39;s first integrated &quot;brain-to-robot&quot; platform that lets users control robots using an EEG headset &lpar;Minxiao Chang/South China Morning Post&rpar;](https://www.techmeme.com/260717/p29#a260717p29)
+ - [Memo: the DOJ says federal employees can now download TikTok on government devices, citing ByteDance&#39;s transfer of control of US operations to TikTok USDS &lpar;David Shepardson/Reuters&rpar;](https://www.techmeme.com/260717/p28#a260717p28)
+ - [Sources: AI inference chip startup Etched is raising funds at a ~$20B valuation and is raising capital at a $10B valuation in a separate round led by Sequoia &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260717/p27#a260717p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
