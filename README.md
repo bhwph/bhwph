@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s BrainCo unveils what it says is the world&#39;s first integrated &quot;brain-to-robot&quot; platform that lets users control robots using an EEG headset &lpar;Minxiao Chang/South China Morning Post&rpar;](https://www.techmeme.com/260717/p29#a260717p29)
- - [Memo: the DOJ says federal employees can now download TikTok on government devices, citing ByteDance&#39;s transfer of control of US operations to TikTok USDS &lpar;David Shepardson/Reuters&rpar;](https://www.techmeme.com/260717/p28#a260717p28)
- - [Sources: AI inference chip startup Etched is raising funds at a ~$20B valuation and is raising capital at a $10B valuation in a separate round led by Sequoia &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260717/p27#a260717p27)<!-- TECH:END -->
+ - [The Best Tech for Back to School](https://www.wired.com/story/best-tech-gear-back-to-school/)
+ - [Galaxy Unpacked July 2026: What to expect from Samsung’s foldables and more](https://www.androidauthority.com/samsung-galaxy-unpacked-july-2026-what-to-expect-3688548/)
+ - [I pitted Samsung against Pixel for privacy features — and the winner isn’t clear](https://www.androidauthority.com/samsung-galaxy-vs-google-pixel-privacy-3685221/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
