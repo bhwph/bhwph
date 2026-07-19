@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [This kid is a legend](http://9gag.com/gag/abA9Mwr)
  - 😝 [Women](http://9gag.com/gag/aRBY3YA)
- - 👉 [Are you not entertained?](http://9gag.com/gag/aBy70vO)<!-- MEMES:END -->
+ - 👉 [U think u tough bully?](http://9gag.com/gag/aRBY0LQ)<!-- MEMES:END -->
 
 --- 
 
