@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is open-sourcing its 3D emoji](https://www.theverge.com/design/967606/google-open-source-3d-emoji)
- - [The Top Continuous Glucose Monitors That Doctors Recommend](https://www.cnet.com/health/medical/best-continuous-glucose-monitors/)
- - [GoPro&amp;#8217;s discounted Max 2 bundle includes $100 worth of accessories](https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale)<!-- TECH:END -->
+ - [A look at AI&#39;s potential impact on insurance-coverage decisions like prior authorization as the Trump admin starts to pilot using AI to evaluate Medicare claims &lpar;Joshua Cohen/Ars Technica&rpar;](https://www.techmeme.com/260718/p16#a260718p16)
+ - [Best Smart Speakers for 2026: Big Sound and So Much More](https://www.cnet.com/home/smart-home/best-smart-speaker/)
+ - [UK&#39;s incoming PM Andy Burnham is expected to scrap Keir Starmer&#39;s plans for digital ID cards; last year a petition opposing the cards attracted ~3M signatures &lpar;Geraldine McKelvie/The Guardian&rpar;](https://www.techmeme.com/260718/p15#a260718p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
