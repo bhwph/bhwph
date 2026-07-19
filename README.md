@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Classic](http://9gag.com/gag/aND6004)
- - 😝 [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)
- - 👉 [This kid is a legend](http://9gag.com/gag/abA9Mwr)<!-- MEMES:END -->
+ - 6️⃣ [This kid is a legend](http://9gag.com/gag/abA9Mwr)
+ - 😝 [Classic](http://9gag.com/gag/aND6004)
+ - 👉 [Another dungeon](http://9gag.com/gag/aVvNYyw)<!-- MEMES:END -->
 
 --- 
 
