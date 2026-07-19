@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tired of free-to-play trash? These 6 Android games are worth paying for in 2026](https://www.androidauthority.com/best-paid-android-games-2026-3685950/)
- - [5 overlooked ways to use Samsung’s Secure Folder that have completely changed my Galaxy phone](https://www.androidauthority.com/samsung-secure-folder-overlooked-features-3686133/)
- - [FIFA’s World Cup Halftime Show Puts American-Style Spectacle on the World Stage](https://www.wired.com/story/fifa-world-cup-halftime-show-what-to-expect/)<!-- TECH:END -->
+ - [The FBI reportedly won’t investigate ICE anymore](https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults)
+ - [Thoughts on why Jony Ive, a close friend of Laurene Powell Jobs, isn&#39;t named in Apple&#39;s OpenAI suit; sources: Apple tests AI to record Genius Bar customer chats &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260719/p8#a260719p8)
+ - [Orchid is a delightfully retro and approachable hipster synth](https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
