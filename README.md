@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Are you not entertained?](http://9gag.com/gag/aBy70vO)
- - 😝 [U think u tough bully?](http://9gag.com/gag/aRBY0LQ)
- - 👉 [Spain officially edited Trump out of the trophy presentation.](http://9gag.com/gag/ae9vDZb)<!-- MEMES:END -->
+ - 6️⃣ [U think u tough bully?](http://9gag.com/gag/aRBY0LQ)
+ - 😝 [Just guys being dude&#39;s for real.](http://9gag.com/gag/aqyqgAL)
+ - 👉 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)<!-- MEMES:END -->
 
 --- 
 
