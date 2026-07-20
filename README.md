@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [This kid is a legend](http://9gag.com/gag/abA9Mwr)
- - 😝 [Classic](http://9gag.com/gag/aND6004)
- - 👉 [Another dungeon](http://9gag.com/gag/aVvNYyw)<!-- MEMES:END -->
+ - 6️⃣ [Are you not entertained?](http://9gag.com/gag/aBy70vO)
+ - 😝 [U think u tough bully?](http://9gag.com/gag/aRBY0LQ)
+ - 👉 [Spain officially edited Trump out of the trophy presentation.](http://9gag.com/gag/ae9vDZb)<!-- MEMES:END -->
 
 --- 
 
