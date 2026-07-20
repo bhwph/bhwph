@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As companies stay private longer, VC firms, like Spark, Gigafund, and Greenoaks, are investing in companies later on and buying stakes without seeking influence &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260719/p15#a260719p15)
- - [A look at the nonprofit Current AI, backed by $400M in commitments from many partners including $100M from France, that&#39;s funding open, public AI infrastructure &lpar;Kate Park/TechCrunch&rpar;](https://www.techmeme.com/260719/p14#a260719p14)
- - [Hugging Face says it used the open-weight GLM-5.2 hosted on its own compute for breach forensics, after US frontier model safety guardrails blocked the requests &lpar;Edward Targett/The Stack&rpar;](https://www.techmeme.com/260719/p13#a260719p13)<!-- TECH:END -->
+ - [How PayPal CEO Enrique Lores, appointed earlier in 2026 to revive the payments pioneer, may handle Stripe and Advent&#39;s takeover offer, based on his HP tenure &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260720/p14#a260720p14)
+ - [A Beginner’s Guide to Growing Mushrooms at Home &lpar;2026&rpar;](https://www.wired.com/story/mushroom-growing-methods/)
+ - [Samsung is about to prove it’s still one of the most exciting Android brands around](https://www.androidauthority.com/samsung-unpacked-most-exciting-android-brand-fold-8-3688522/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
