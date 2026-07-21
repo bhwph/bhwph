@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’ll soon be able to ask Gemini about your Chrome tab groups](https://www.androidauthority.com/chrome-tab-group-gemini-integration-3689297/)
- - [Apple starts round four of its iOS 27, macOS 27 developer betas](https://appleinsider.com/articles/26/07/20/apple-starts-round-four-of-its-ios-27-macos-27-developer-betas?utm_source=rss)
- - [iOS 26.6 release candidate build surfaces for testing](https://appleinsider.com/articles/26/07/20/sixth-ios-266-macos-266-developer-betas-surface-for-testing?utm_source=rss)<!-- TECH:END -->
+ - [South Korea reports that, for the first 20 days of July, chip exports climbed 180.6% from the same period in 2025; computer-related product shipments grew ~232% &lpar;Heesu Lee/Bloomberg&rpar;](https://www.techmeme.com/260720/p43#a260720p43)
+ - [Google&#39;s AI Search is endangering the open web; Cloudflare: between June 2025 and April 2026, human traffic to sites of businesses in many industries fell ~40% &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260720/p42#a260720p42)
+ - [Researchers found sandbox escapes or boundary bypasses in Cursor, Codex, Gemini CLI, and Antigravity by writing files trusted tools later use; most are patched &lpar;Ax Sharma/BleepingComputer&rpar;](https://www.techmeme.com/260720/p41#a260720p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
