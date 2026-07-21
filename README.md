@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play Store update ensures you don’t forget about widgets from that shiny new app](https://www.androidauthority.com/google-play-store-widgets-system-services-update-3689541/)
- - [Our favorite PS2 emulator for Android just got Material You theming](https://www.androidauthority.com/armsx2-ps2-emulator-android-material-you-3689494/)
- - [Sources: BlackRock leads a $12B+ debt sale for Meta&#39;s new El Paso data center, as Meta signs a lease for a BlackRock-backed data-center project in Pennsylvania &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260721/p8#a260721p8)<!-- TECH:END -->
+ - [Only Ray-Ban execs can see the humor in ‘pervert’ smart glasses ad](https://www.androidauthority.com/ray-ban-meta-ad-pervert-glasses-3689738/)
+ - [Twitch will let parents stop their teens going live](https://www.theverge.com/tech/968480/twitch-parental-controls-block-streaming-live-dms)
+ - [Anthropic’s $1.5 billion book piracy settlement approved by judge](https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
