@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The dutch defeat](http://9gag.com/gag/a7ozWyr)
- - 😝 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)
- - 👉 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)<!-- MEMES:END -->
+ - 6️⃣ [Men: Don&#39;t need much to be happy](http://9gag.com/gag/a9y9Erj)
+ - 😝 [Wtf man](http://9gag.com/gag/ajPo9pG)
+ - 👉 [Half Time Show World Cup 2026](http://9gag.com/gag/agmPBqg)<!-- MEMES:END -->
 
 --- 
 
