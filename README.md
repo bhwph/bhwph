@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wtf man](http://9gag.com/gag/ajPo9pG)
+ - 6️⃣ [Snipers in Final](http://9gag.com/gag/a87BEM1)
  - 😝 [It should have been me!](http://9gag.com/gag/aPAK3vR)
- - 👉 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)<!-- MEMES:END -->
+ - 👉 [He doesn&#39;t know her](http://9gag.com/gag/ajPo9Bw)<!-- MEMES:END -->
 
 --- 
 
