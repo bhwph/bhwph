@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea reports that, for the first 20 days of July, chip exports climbed 180.6% from the same period in 2025; computer-related product shipments grew ~232% &lpar;Heesu Lee/Bloomberg&rpar;](https://www.techmeme.com/260720/p43#a260720p43)
- - [Google&#39;s AI Search is endangering the open web; Cloudflare: between June 2025 and April 2026, human traffic to sites of businesses in many industries fell ~40% &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260720/p42#a260720p42)
- - [Researchers found sandbox escapes or boundary bypasses in Cursor, Codex, Gemini CLI, and Antigravity by writing files trusted tools later use; most are patched &lpar;Ax Sharma/BleepingComputer&rpar;](https://www.techmeme.com/260720/p41#a260720p41)<!-- TECH:END -->
+ - [Google Play Store update ensures you don’t forget about widgets from that shiny new app](https://www.androidauthority.com/google-play-store-widgets-system-services-update-3689541/)
+ - [Our favorite PS2 emulator for Android just got Material You theming](https://www.androidauthority.com/armsx2-ps2-emulator-android-material-you-3689494/)
+ - [Sources: BlackRock leads a $12B+ debt sale for Meta&#39;s new El Paso data center, as Meta signs a lease for a BlackRock-backed data-center project in Pennsylvania &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260721/p8#a260721p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
