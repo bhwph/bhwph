@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Only Ray-Ban execs can see the humor in ‘pervert’ smart glasses ad](https://www.androidauthority.com/ray-ban-meta-ad-pervert-glasses-3689738/)
- - [Twitch will let parents stop their teens going live](https://www.theverge.com/tech/968480/twitch-parental-controls-block-streaming-live-dms)
- - [Anthropic’s $1.5 billion book piracy settlement approved by judge](https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved)<!-- TECH:END -->
+ - [Samsung Galaxy Unpacked July 2026: How to watch](https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch)
+ - [Aqara W200 review: Affordably-priced smart thermostat has firsts for Apple users](https://appleinsider.com/articles/26/04/07/aqara-w200-review-affordably-priced-smart-thermostat-has-firsts-for-apple-users?utm_source=rss)
+ - [Apple Raised Mac Prices. Now It Might Lease You One](https://www.cnet.com/tech/computing/apple-raised-mac-prices-now-it-might-lease-you-one/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
