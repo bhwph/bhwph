@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
- - 😝 [Wtf man](http://9gag.com/gag/ajPo9pG)
- - 👉 [It should have been me!](http://9gag.com/gag/aPAK3vR)<!-- MEMES:END -->
+ - 6️⃣ [Training](http://9gag.com/gag/aD2EDP9)
+ - 😝 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
+ - 👉 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)<!-- MEMES:END -->
 
 --- 
 
