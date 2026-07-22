@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neuralink co-founder Max Hodak&#39;s Science Corp gets EU approval for Prima, a bionic eye that treats age-related macular degeneration using an implant and glasses &lpar;Tim Bradshaw/Financial Times&rpar;](https://www.techmeme.com/260722/p7#a260722p7)
- - [Utility companies are promising to spare us from AI’s energy bill](https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump)
- - [Tencent&#39;s Hong Kong-listed shares fall ~7%, the most since April 2025, as investors worry over &quot;rumors&quot; of weaker earnings on August 12, and NetEase drops 5%+ &lpar;Bloomberg&rpar;](https://www.techmeme.com/260722/p6#a260722p6)<!-- TECH:END -->
+ - [Amazon slashes $70 off the highly rated TCL NXTPAPER 11 Gen 2 tablet](https://www.androidauthority.com/tcl-nxtpaper-11-gen-2-tablet-deal-3690328/)
+ - [A US judge dismisses Google&#39;s lawsuit against web scraping service SerpApi, saying plain and aggregated search results are not protected under copyright law &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](https://www.techmeme.com/260722/p36#a260722p36)
+ - [Copying text from pictures in Google Photos is about to get a lot better](https://www.androidauthority.com/google-photos-new-text-copy-method-3690236/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
