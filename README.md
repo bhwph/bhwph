@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Training](http://9gag.com/gag/aD2EDP9)
- - 😝 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
- - 👉 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)<!-- MEMES:END -->
+ - 😝 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)
+ - 👉 [Shark electric](http://9gag.com/gag/a9y91RZ)<!-- MEMES:END -->
 
 --- 
 
