@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Snipers in Final](http://9gag.com/gag/a87BEM1)
- - 😝 [It should have been me!](http://9gag.com/gag/aPAK3vR)
- - 👉 [He doesn&#39;t know her](http://9gag.com/gag/ajPo9Bw)<!-- MEMES:END -->
+ - 6️⃣ [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
+ - 😝 [Wtf man](http://9gag.com/gag/ajPo9pG)
+ - 👉 [It should have been me!](http://9gag.com/gag/aPAK3vR)<!-- MEMES:END -->
 
 --- 
 
