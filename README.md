@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Unpacked July 2026: How to watch](https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch)
- - [Aqara W200 review: Affordably-priced smart thermostat has firsts for Apple users](https://appleinsider.com/articles/26/04/07/aqara-w200-review-affordably-priced-smart-thermostat-has-firsts-for-apple-users?utm_source=rss)
- - [Apple Raised Mac Prices. Now It Might Lease You One](https://www.cnet.com/tech/computing/apple-raised-mac-prices-now-it-might-lease-you-one/)<!-- TECH:END -->
+ - [Neuralink co-founder Max Hodak&#39;s Science Corp gets EU approval for Prima, a bionic eye that treats age-related macular degeneration using an implant and glasses &lpar;Tim Bradshaw/Financial Times&rpar;](https://www.techmeme.com/260722/p7#a260722p7)
+ - [Utility companies are promising to spare us from AI’s energy bill](https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump)
+ - [Tencent&#39;s Hong Kong-listed shares fall ~7%, the most since April 2025, as investors worry over &quot;rumors&quot; of weaker earnings on August 12, and NetEase drops 5%+ &lpar;Bloomberg&rpar;](https://www.techmeme.com/260722/p6#a260722p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
