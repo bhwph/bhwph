@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes $70 off the highly rated TCL NXTPAPER 11 Gen 2 tablet](https://www.androidauthority.com/tcl-nxtpaper-11-gen-2-tablet-deal-3690328/)
- - [A US judge dismisses Google&#39;s lawsuit against web scraping service SerpApi, saying plain and aggregated search results are not protected under copyright law &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](https://www.techmeme.com/260722/p36#a260722p36)
- - [Copying text from pictures in Google Photos is about to get a lot better](https://www.androidauthority.com/google-photos-new-text-copy-method-3690236/)<!-- TECH:END -->
+ - [Meta&#39;s infrastructure teams have become bloated, leading to poor decisions like troubled Rivos acquisition, loss of supplier trust due to hardware pivots, more &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260722/p60#a260722p60)
+ - [Tesla reports a negative Q2 free cash flow of $1.1B, its first in over two years, partly due to increased AI and robotic investments, amid diminishing profits &lpar;Reuters&rpar;](https://www.techmeme.com/260722/p59#a260722p59)
+ - [Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy](https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
