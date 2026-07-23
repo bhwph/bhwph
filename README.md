@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s infrastructure teams have become bloated, leading to poor decisions like troubled Rivos acquisition, loss of supplier trust due to hardware pivots, more &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260722/p60#a260722p60)
- - [Tesla reports a negative Q2 free cash flow of $1.1B, its first in over two years, partly due to increased AI and robotic investments, amid diminishing profits &lpar;Reuters&rpar;](https://www.techmeme.com/260722/p59#a260722p59)
- - [Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy](https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine)<!-- TECH:END -->
+ - [The European Commission fines Google €890M under the DMA for illegally undercutting competition through its search dominance and Google Play developer rules &lpar;New York Times&rpar;](https://www.techmeme.com/260723/p12#a260723p12)
+ - [Texas Instruments reports Q2 revenue up 23% YoY to $5.46B, above $5.26B est., net income up 53% to $1.98B, and forecasts $5.65B-$6.15B in Q3 revenue, above est. &lpar;Grace Yoon/Wall Street Journal&rpar;](https://www.techmeme.com/260723/p11#a260723p11)
+ - [If the Galaxy Z Flip 8 really is Samsung’s last model, the foldable world is in trouble](https://www.androidauthority.com/samsung-galaxy-z-flip-8-last-one-foldables-in-trouble-3689436/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
