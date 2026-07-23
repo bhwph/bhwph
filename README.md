@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ok that made me chuckle a bit](http://9gag.com/gag/aKGrEGj)
- - 😝 [Jimmy the GOAT](http://9gag.com/gag/a9y9180)
- - 👉 [Obama Osama](http://9gag.com/gag/aND6P7w)<!-- MEMES:END -->
+ - 6️⃣ [How did bro age 20 years in 2 seconds](http://9gag.com/gag/aW4w4QZ)
+ - 😝 [Give your cat a headpat to make her happy](http://9gag.com/gag/aVvNv7K)
+ - 👉 [Woman&#39;s ovaries were activated](http://9gag.com/gag/a6ZA1e8)<!-- MEMES:END -->
 
 --- 
 
