@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Training](http://9gag.com/gag/aD2EDP9)
- - 😝 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)
- - 👉 [Shark electric](http://9gag.com/gag/a9y91RZ)<!-- MEMES:END -->
+ - 6️⃣ [Yes she&#39;s grandma now. But she was really cool.](http://9gag.com/gag/an7LzM0)
+ - 😝 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
+ - 👉 [He should also make Dante\u2019s Inferno](http://9gag.com/gag/aqyqepR)<!-- MEMES:END -->
 
 --- 
 
