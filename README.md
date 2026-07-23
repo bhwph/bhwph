@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yes she&#39;s grandma now. But she was really cool.](http://9gag.com/gag/an7LzM0)
- - 😝 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
- - 👉 [He should also make Dante\u2019s Inferno](http://9gag.com/gag/aqyqepR)<!-- MEMES:END -->
+ - 6️⃣ [Ok that made me chuckle a bit](http://9gag.com/gag/aKGrEGj)
+ - 😝 [Jimmy the GOAT](http://9gag.com/gag/a9y9180)
+ - 👉 [Obama Osama](http://9gag.com/gag/aND6P7w)<!-- MEMES:END -->
 
 --- 
 
