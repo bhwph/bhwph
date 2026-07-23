@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The European Commission fines Google €890M under the DMA for illegally undercutting competition through its search dominance and Google Play developer rules &lpar;New York Times&rpar;](https://www.techmeme.com/260723/p12#a260723p12)
- - [Texas Instruments reports Q2 revenue up 23% YoY to $5.46B, above $5.26B est., net income up 53% to $1.98B, and forecasts $5.65B-$6.15B in Q3 revenue, above est. &lpar;Grace Yoon/Wall Street Journal&rpar;](https://www.techmeme.com/260723/p11#a260723p11)
- - [If the Galaxy Z Flip 8 really is Samsung’s last model, the foldable world is in trouble](https://www.androidauthority.com/samsung-galaxy-z-flip-8-last-one-foldables-in-trouble-3689436/)<!-- TECH:END -->
+ - [Tesla’s robotaxi promises are clashing with reality](https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk)
+ - [New Geekbench 7 benchmark adds AI workloads, better reflects 2026 computer use cases](https://appleinsider.com/articles/26/07/23/new-geekbench-7-benchmark-adds-ai-workloads-better-reflects-2026-computer-use-cases?utm_source=rss)
+ - [Here’s how Google fixed Chrome’s most frustrating Android performance issue](https://www.androidauthority.com/chrome-for-android-scroll-performance-upgrade-3690669/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
