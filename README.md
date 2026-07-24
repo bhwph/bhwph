@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How did bro age 20 years in 2 seconds](http://9gag.com/gag/aW4w4QZ)
- - 😝 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
- - 👉 [Dancing Queen](http://9gag.com/gag/aRBYLm2)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s all Greek](http://9gag.com/gag/a87BA63)
+ - 😝 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)
+ - 👉 [Clark Kent discovering his heat vision after meeting the new biology teacher](http://9gag.com/gag/axyXWEb)<!-- MEMES:END -->
 
 --- 
 
