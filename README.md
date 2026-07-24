@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s a dark side to the Galaxy Z Fold 8’s thinner and wider design](https://www.androidauthority.com/samsung-galaxy-z-fold-8-trade-offs-3689671/)
- - [Some Kids Will Never Think AI Is Cool](https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/)
- - [Satellite Images Reveal How Suspected Scam Compounds Appear Out of Nowhere](https://www.wired.com/story/satellite-images-reveal-how-giant-scam-compounds-keep-on-expanding/)<!-- TECH:END -->
+ - [Opus 5 improves coding, reasoning efficiency, and prompt-cache-friendly tool use, and is priced at $5/1M input tokens and $25/1M output, same as Opus 4.8 &lpar;David Gewirtz/ZDNET&rpar;](https://www.techmeme.com/260724/p20#a260724p20)
+ - [Anthropic launches Claude Opus 5, which it says comes close to Fable 5 performance at half the price; it is the new default model on Claude Max &lpar;Anthropic&rpar;](https://www.techmeme.com/260724/p19#a260724p19)
+ - [Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities](https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
