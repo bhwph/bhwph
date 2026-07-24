@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s robotaxi promises are clashing with reality](https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk)
- - [New Geekbench 7 benchmark adds AI workloads, better reflects 2026 computer use cases](https://appleinsider.com/articles/26/07/23/new-geekbench-7-benchmark-adds-ai-workloads-better-reflects-2026-computer-use-cases?utm_source=rss)
- - [Here’s how Google fixed Chrome’s most frustrating Android performance issue](https://www.androidauthority.com/chrome-for-android-scroll-performance-upgrade-3690669/)<!-- TECH:END -->
+ - [This Searchable Tool Is Helping Track Flock Surveillance Cameras in Your City](https://www.cnet.com/news/privacy/this-searchable-tool-is-helping-track-flock-surveillance-cameras-in-your-city/)
+ - [Amazon tells third-party sellers to label product ads with AI-generated people to comply with a NY law requiring the disclosure of &quot;synthetic performers&quot; in ads &lpar;Annie Palmer/CNBC&rpar;](https://www.techmeme.com/260723/p60#a260723p60)
+ - [District judge assigned to oversee Apple&#39;s trade secrets lawsuit against OpenAI](https://appleinsider.com/articles/26/07/24/district-judge-assigned-to-oversee-apples-trade-secrets-lawsuit-against-openai?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
