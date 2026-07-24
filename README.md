@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Searchable Tool Is Helping Track Flock Surveillance Cameras in Your City](https://www.cnet.com/news/privacy/this-searchable-tool-is-helping-track-flock-surveillance-cameras-in-your-city/)
- - [Amazon tells third-party sellers to label product ads with AI-generated people to comply with a NY law requiring the disclosure of &quot;synthetic performers&quot; in ads &lpar;Annie Palmer/CNBC&rpar;](https://www.techmeme.com/260723/p60#a260723p60)
- - [District judge assigned to oversee Apple&#39;s trade secrets lawsuit against OpenAI](https://appleinsider.com/articles/26/07/24/district-judge-assigned-to-oversee-apples-trade-secrets-lawsuit-against-openai?utm_source=rss)<!-- TECH:END -->
+ - [There’s a dark side to the Galaxy Z Fold 8’s thinner and wider design](https://www.androidauthority.com/samsung-galaxy-z-fold-8-trade-offs-3689671/)
+ - [Some Kids Will Never Think AI Is Cool](https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/)
+ - [Satellite Images Reveal How Suspected Scam Compounds Appear Out of Nowhere](https://www.wired.com/story/satellite-images-reveal-how-giant-scam-compounds-keep-on-expanding/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
