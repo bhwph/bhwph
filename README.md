@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
- - 😝 [In an alternate timeline](http://9gag.com/gag/a5Q8V4G)
- - 👉 [Johnny has had it](http://9gag.com/gag/a1mGNLY)<!-- MEMES:END -->
+ - 6️⃣ [Childhood mystery finally solved](http://9gag.com/gag/an7LOmV)
+ - 😝 [Fix her. I dare you.](http://9gag.com/gag/an7LReb)
+ - 👉 [I don&#39;t think she&#39;s in the mood for anything.](http://9gag.com/gag/amoE1K2)<!-- MEMES:END -->
 
 --- 
 
