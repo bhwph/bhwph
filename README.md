@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)
- - 😝 [Clark Kent discovering his heat vision after meeting the new biology teacher](http://9gag.com/gag/axyXWEb)
- - 👉 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)<!-- MEMES:END -->
+ - 6️⃣ [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
+ - 😝 [In an alternate timeline](http://9gag.com/gag/a5Q8V4G)
+ - 👉 [Johnny has had it](http://9gag.com/gag/a1mGNLY)<!-- MEMES:END -->
 
 --- 
 
