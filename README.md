@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Opus 5 improves coding, reasoning efficiency, and prompt-cache-friendly tool use, and is priced at $5/1M input tokens and $25/1M output, same as Opus 4.8 &lpar;David Gewirtz/ZDNET&rpar;](https://www.techmeme.com/260724/p20#a260724p20)
- - [Anthropic launches Claude Opus 5, which it says comes close to Fable 5 performance at half the price; it is the new default model on Claude Max &lpar;Anthropic&rpar;](https://www.techmeme.com/260724/p19#a260724p19)
- - [Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities](https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release)<!-- TECH:END -->
+ - [Sources: Apple has pitched Trump on using Chinese memory chips in its products sold outside the US; Micron warned such a plan could destroy the US chip industry &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260724/p40#a260724p40)
+ - [After a backlash, Meta pauses its plan to &quot;rate limit&quot; Conversation Focus, an accessibility feature for its glasses that runs on-device &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260724/p39#a260724p39)
+ - [Nvidia and SK Group unveil a $500B+ AI initiative that includes an SK Hynix partnership to secure next-gen memory supply for Nvidia and joint development of HBM &lpar;Reuters&rpar;](https://www.techmeme.com/260724/p38#a260724p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
