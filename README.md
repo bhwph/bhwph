@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple has pitched Trump on using Chinese memory chips in its products sold outside the US; Micron warned such a plan could destroy the US chip industry &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260724/p40#a260724p40)
- - [After a backlash, Meta pauses its plan to &quot;rate limit&quot; Conversation Focus, an accessibility feature for its glasses that runs on-device &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260724/p39#a260724p39)
- - [Nvidia and SK Group unveil a $500B+ AI initiative that includes an SK Hynix partnership to secure next-gen memory supply for Nvidia and joint development of HBM &lpar;Reuters&rpar;](https://www.techmeme.com/260724/p38#a260724p38)<!-- TECH:END -->
+ - [The Galaxy Z Fold 8 has worse specs than my current phone. I might buy it anyway](https://www.androidauthority.com/galaxy-z-fold-8-bad-specs-might-buy-anyway-3689277/)
+ - [GoPro Mission 1 Pro Review: The Best Action Camera You Can Buy](https://www.wired.com/review/gopro-mission-1-pro/)
+ - [Contagious Cancer Found in North American Catfish](https://www.wired.com/story/contagious-cancer-found-in-north-american-catfish/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
