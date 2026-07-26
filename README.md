@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Call an Ambulance! But not for me!](http://9gag.com/gag/a87B666)
+ - 6️⃣ [Protesters demand to know why 7 grocery stores suddenly close in Chicago](http://9gag.com/gag/aBy7LRP)
  - 😝 [Do people really drown in 3 inch deep water?](http://9gag.com/gag/aGyW8pK)
- - 👉 [You want this Horcruxe harry ?](http://9gag.com/gag/aXP5NG6)<!-- MEMES:END -->
+ - 👉 [Impressive. Very nice. Now let&#39;s see](http://9gag.com/gag/aBy76AD)<!-- MEMES:END -->
 
 --- 
 
