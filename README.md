@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Impressive. Very nice. Now let&#39;s see](http://9gag.com/gag/aBy76AD)
- - 😝 [Fix her. I dare you.](http://9gag.com/gag/an7LReb)
- - 👉 [C. Can&#39;t Tell](http://9gag.com/gag/amoEGKo)<!-- MEMES:END -->
+ - 6️⃣ [Call an Ambulance! But not for me!](http://9gag.com/gag/a87B666)
+ - 😝 [Do people really drown in 3 inch deep water?](http://9gag.com/gag/aGyW8pK)
+ - 👉 [You want this Horcruxe harry ?](http://9gag.com/gag/aXP5NG6)<!-- MEMES:END -->
 
 --- 
 
