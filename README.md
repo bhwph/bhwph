@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [My parents’ Android phones were ruined by invasive ads. Here’s how I fixed them for good](https://www.androidauthority.com/block-ads-on-android-for-parents-3687831/)
- - [The Google Pixel Launcher is better than ever, but it’s still missing 5 big features](https://www.androidauthority.com/google-pixel-launcher-missing-features-2026-3686830/)
- - [Sources including AI lab staff say users have been persuading chatbots to accurately answer prompts about planning mass-casualty attacks and making bio-weapons &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260726/p3#a260726p3)<!-- TECH:END -->
+ - [Apple Upgrade installment program set to go live on Tuesday](https://appleinsider.com/articles/26/07/26/apple-upgrade-installment-program-set-to-go-live-on-tuesday?utm_source=rss)
+ - [Carrie is just trying to make a friend in the new trailer](https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con)
+ - [Public distrust in smart glasses will be a challenge for Apple Glass](https://appleinsider.com/articles/26/07/26/public-distrust-in-smart-glasses-will-be-a-a-challenge-for-apple-glass?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
