@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything New Marvel Announced at Comic-Con 2026](https://www.cnet.com/tech/services-and-software/everything-new-marvel-announced-at-comic-con-2026/)
- - [China&#39;s market regulator says it had fined and confiscated ~$770M from Trip.com for abusing its dominant position in the domestic online hotel-booking market &lpar;Reuters&rpar;](https://www.techmeme.com/260725/p16#a260725p16)
- - [Today’s NYT Strands Hints, Answers and Help for July 26 #875](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-26-875/)<!-- TECH:END -->
+ - [My parents’ Android phones were ruined by invasive ads. Here’s how I fixed them for good](https://www.androidauthority.com/block-ads-on-android-for-parents-3687831/)
+ - [The Google Pixel Launcher is better than ever, but it’s still missing 5 big features](https://www.androidauthority.com/google-pixel-launcher-missing-features-2026-3686830/)
+ - [Sources including AI lab staff say users have been persuading chatbots to accurately answer prompts about planning mass-casualty attacks and making bio-weapons &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260726/p3#a260726p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
