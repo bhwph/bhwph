@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Childhood mystery finally solved](http://9gag.com/gag/an7LOmV)
+ - 6️⃣ [Impressive. Very nice. Now let&#39;s see](http://9gag.com/gag/aBy76AD)
  - 😝 [Fix her. I dare you.](http://9gag.com/gag/an7LReb)
- - 👉 [I don&#39;t think she&#39;s in the mood for anything.](http://9gag.com/gag/amoE1K2)<!-- MEMES:END -->
+ - 👉 [C. Can&#39;t Tell](http://9gag.com/gag/amoEGKo)<!-- MEMES:END -->
 
 --- 
 
