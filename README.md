@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: DeepSeek told investors it is suspending its second funding round after remarks attributed to Liang Wenfeng on US-China AI competition went viral &lpar;Pei Li/Bloomberg&rpar;](https://www.techmeme.com/260725/p14#a260725p14)
- - [Synth historian Oli Freke will spend big on a good bicycle](https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview)
- - [Teenage Engineering’s unique music machines are 30 percent off](https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale)<!-- TECH:END -->
+ - [Everything New Marvel Announced at Comic-Con 2026](https://www.cnet.com/tech/services-and-software/everything-new-marvel-announced-at-comic-con-2026/)
+ - [China&#39;s market regulator says it had fined and confiscated ~$770M from Trip.com for abusing its dominant position in the domestic online hotel-booking market &lpar;Reuters&rpar;](https://www.techmeme.com/260725/p16#a260725p16)
+ - [Today’s NYT Strands Hints, Answers and Help for July 26 #875](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-26-875/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
