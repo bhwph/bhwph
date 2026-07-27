@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 10 Best WIRED-Tested Handheld Vacuums of 2026](https://www.wired.com/gallery/the-best-handheld-vacuum/)
- - [Wellness Influencers Are Pushing ‘Natural’ and Unproven Alternatives to Adderall](https://www.wired.com/story/wellness-influencers-are-pushing-natural-and-unproven-alternatives-to-adderall/)
- - [3 Best Smart Ring Models: Oura, RingConn, and Samsung &lpar;2026&rpar;](https://www.wired.com/gallery/best-smart-rings/)<!-- TECH:END -->
+ - [Apple Upgrade will be great for Apple, might not be good for the buyer](https://appleinsider.com/articles/26/07/27/apple-upgrade-will-be-great-for-apple-might-not-be-good-for-the-buyer?utm_source=rss)
+ - [Microsoft says MAI-Cyber-1-Flash and MDASH, its vulnerability identification harness, deliver &quot;world-class performance at 50% of the cost of leading models&quot; &lpar;Microsoft AI&rpar;](https://www.techmeme.com/260727/p25#a260727p25)
+ - [This highly-rated 175W car charger is down to $19.99 at Amazon right now](https://www.androidauthority.com/joyroom-175w-car-charger-deal-3691561/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
