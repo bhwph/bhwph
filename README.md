@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yo that&#39;s antisemitic !](http://9gag.com/gag/ayNO63Y)
- - 😝 [Haters will say it&#39;s AI. &lpar;It&#39;s not&rpar;](http://9gag.com/gag/a87B0jp)
- - 👉 [Have a nice sting](http://9gag.com/gag/a5Q8BMq)<!-- MEMES:END -->
+ - 6️⃣ [Berlin](http://9gag.com/gag/a7oz0ne)
+ - 😝 [Totally unexpected](http://9gag.com/gag/adBmOwd)
+ - 👉 [Old ideas . . . still relevant today.](http://9gag.com/gag/ae9vVQp)<!-- MEMES:END -->
 
 --- 
 
