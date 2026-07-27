@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Protesters demand to know why 7 grocery stores suddenly close in Chicago](http://9gag.com/gag/aBy7LRP)
- - 😝 [Do people really drown in 3 inch deep water?](http://9gag.com/gag/aGyW8pK)
- - 👉 [Impressive. Very nice. Now let&#39;s see](http://9gag.com/gag/aBy76AD)<!-- MEMES:END -->
+ - 6️⃣ [Yo that&#39;s antisemitic !](http://9gag.com/gag/ayNO63Y)
+ - 😝 [Haters will say it&#39;s AI. &lpar;It&#39;s not&rpar;](http://9gag.com/gag/a87B0jp)
+ - 👉 [Have a nice sting](http://9gag.com/gag/a5Q8BMq)<!-- MEMES:END -->
 
 --- 
 
