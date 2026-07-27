@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Upgrade installment program set to go live on Tuesday](https://appleinsider.com/articles/26/07/26/apple-upgrade-installment-program-set-to-go-live-on-tuesday?utm_source=rss)
- - [Carrie is just trying to make a friend in the new trailer](https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con)
- - [Public distrust in smart glasses will be a challenge for Apple Glass](https://appleinsider.com/articles/26/07/26/public-distrust-in-smart-glasses-will-be-a-a-challenge-for-apple-glass?utm_source=rss)<!-- TECH:END -->
+ - [Dealroom: defense giants such as Lockheed Martin have participated in a record $4.1B worth of VC rounds YTD, as drones and autonomous systems transform warfare &lpar;Financial Times&rpar;](https://www.techmeme.com/260726/p11#a260726p11)
+ - [Sources: Nvidia is in talks to provide a ~$250B backstop for OpenAI as part of a 10 GW data center project that SoftBank is developing in Ohio &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260726/p10#a260726p10)
+ - [How AI companies are targeting the education market, including making free or cut-price tailored learning tools in partnership with schools and edtech startups &lpar;Jamie John/Financial Times&rpar;](https://www.techmeme.com/260726/p9#a260726p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
