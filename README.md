@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [OSH](http://9gag.com/gag/aVvNK5n)
- - 😝 [Naise](http://9gag.com/gag/aAyo4Y0)
- - 👉 [The IRA is back?](http://9gag.com/gag/aQz07oK)<!-- MEMES:END -->
+ - 6️⃣ [The IRA is back?](http://9gag.com/gag/aQz07oK)
+ - 😝 [Who&#39;s gonna tell him](http://9gag.com/gag/awy6LzD)
+ - 👉 [So scary!](http://9gag.com/gag/aND6Vpv)<!-- MEMES:END -->
 
 --- 
 
