@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The IRA is back?](http://9gag.com/gag/aQz07oK)
- - 😝 [Who&#39;s gonna tell him](http://9gag.com/gag/awy6LzD)
- - 👉 [So scary!](http://9gag.com/gag/aND6Vpv)<!-- MEMES:END -->
+ - 6️⃣ [He be testin\u2019](http://9gag.com/gag/aD2EXAK)
+ - 😝 [Absolute EPIC !](http://9gag.com/gag/aW4wb7x)
+ - 👉 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)<!-- MEMES:END -->
 
 --- 
 
