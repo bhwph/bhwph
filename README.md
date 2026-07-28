@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Taiwan detained an Nvidia employee as part of a probe into the alleged smuggling of AI chips into China, after searching his home and office on July 24 &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/260728/p9#a260728p9)
- - [Baidu begins testing its purpose-built Apollo Go RT6 robotaxis with human safety operators in outer London; Baidu plans to deploy the taxis on Lyft&#39;s Freenow &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260728/p8#a260728p8)
- - [LSEG data: prices for credit default swaps, a closely watched gauge of risk, tied to Oracle, SpaceX, Alphabet, Nvidia, and others rise sharply to record highs &lpar;Financial Times&rpar;](https://www.techmeme.com/260728/p7#a260728p7)<!-- TECH:END -->
+ - [Android gamers may soon be able to automatically record their biggest wins](https://www.androidauthority.com/android-gaming-achievements-record-3692017/)
+ - [Got a lot of Apple hardware? Here&#39;s how an Apple Ring can bind them all](https://appleinsider.com/articles/26/07/28/got-a-lot-of-apple-hardware-heres-how-an-apple-ring-can-bind-them-all?utm_source=rss)
+ - [Tel Aviv-based Hush Security, which lets organizations securely control enterprise AI agents, raised a $30M Series A, bringing its total funding to $41M &lpar;Ionut Arghire/SecurityWeek&rpar;](https://www.techmeme.com/260728/p33#a260728p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
