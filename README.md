@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He be testin\u2019](http://9gag.com/gag/aD2EXAK)
- - 😝 [Absolute EPIC !](http://9gag.com/gag/aW4wb7x)
- - 👉 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)<!-- MEMES:END -->
+ - 6️⃣ [Stop bullying](http://9gag.com/gag/an7LDGB)
+ - 😝 [This is what a cult looks like](http://9gag.com/gag/apRWb8D)
+ - 👉 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)<!-- MEMES:END -->
 
 --- 
 
