@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT appears to block direct requests to copy an author&#39;s style, instead offering to capture the overall &quot;feeling&quot;, amid its legal battles with book authors &lpar;Kyle Orland/Ars Technica&rpar;](https://www.techmeme.com/260727/p36#a260727p36)
- - [Today’s NYT Connections: Sports Edition Hints and Answers for July 28, #673](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-28-673/)
- - [Today’s NYT Connections Hints and Answers for July 28, #1143](https://www.cnet.com/news/todays-nyt-connections-hints-and-answers-for-july-28-1143/)<!-- TECH:END -->
+ - [Sources: Taiwan detained an Nvidia employee as part of a probe into the alleged smuggling of AI chips into China, after searching his home and office on July 24 &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/260728/p9#a260728p9)
+ - [Baidu begins testing its purpose-built Apollo Go RT6 robotaxis with human safety operators in outer London; Baidu plans to deploy the taxis on Lyft&#39;s Freenow &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260728/p8#a260728p8)
+ - [LSEG data: prices for credit default swaps, a closely watched gauge of risk, tied to Oracle, SpaceX, Alphabet, Nvidia, and others rise sharply to record highs &lpar;Financial Times&rpar;](https://www.techmeme.com/260728/p7#a260728p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
