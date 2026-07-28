@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Upgrade will be great for Apple, might not be good for the buyer](https://appleinsider.com/articles/26/07/27/apple-upgrade-will-be-great-for-apple-might-not-be-good-for-the-buyer?utm_source=rss)
- - [Microsoft says MAI-Cyber-1-Flash and MDASH, its vulnerability identification harness, deliver &quot;world-class performance at 50% of the cost of leading models&quot; &lpar;Microsoft AI&rpar;](https://www.techmeme.com/260727/p25#a260727p25)
- - [This highly-rated 175W car charger is down to $19.99 at Amazon right now](https://www.androidauthority.com/joyroom-175w-car-charger-deal-3691561/)<!-- TECH:END -->
+ - [ChatGPT appears to block direct requests to copy an author&#39;s style, instead offering to capture the overall &quot;feeling&quot;, amid its legal battles with book authors &lpar;Kyle Orland/Ars Technica&rpar;](https://www.techmeme.com/260727/p36#a260727p36)
+ - [Today’s NYT Connections: Sports Edition Hints and Answers for July 28, #673](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-28-673/)
+ - [Today’s NYT Connections Hints and Answers for July 28, #1143](https://www.cnet.com/news/todays-nyt-connections-hints-and-answers-for-july-28-1143/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
