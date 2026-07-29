@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happens](http://9gag.com/gag/a9y9OR0)
- - 😝 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)
- - 👉 [Stop bullying](http://9gag.com/gag/an7LDGB)<!-- MEMES:END -->
+ - 6️⃣ [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
+ - 😝 [Stop bullying](http://9gag.com/gag/an7LDGB)
+ - 👉 [Unexpected](http://9gag.com/gag/aGyW2nZ)<!-- MEMES:END -->
 
 --- 
 
