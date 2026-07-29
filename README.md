@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
- - 😝 [Stop bullying](http://9gag.com/gag/an7LDGB)
- - 👉 [Unexpected](http://9gag.com/gag/aGyW2nZ)<!-- MEMES:END -->
+ - 😝 [Middle-aged white women will do anything except a normal workout](http://9gag.com/gag/aD2EXy9)
+ - 👉 [Just NY things](http://9gag.com/gag/aqyqzov)<!-- MEMES:END -->
 
 --- 
 
