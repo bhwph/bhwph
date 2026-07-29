@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stop bullying](http://9gag.com/gag/an7LDGB)
- - 😝 [This is what a cult looks like](http://9gag.com/gag/apRWb8D)
- - 👉 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)<!-- MEMES:END -->
+ - 6️⃣ [Happens](http://9gag.com/gag/a9y9OR0)
+ - 😝 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)
+ - 👉 [Stop bullying](http://9gag.com/gag/an7LDGB)<!-- MEMES:END -->
 
 --- 
 
