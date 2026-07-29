@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile is pushing loyal customers away. These 7 changes could win them back](https://www.androidauthority.com/t-mobile-changes-win-back-loyal-customers-3690760/)
- - [Lake Mary, Florida-based Spur Intelligence, which helps distinguish human and bot traffic to find fake users and threats, raised $200M led by Insight Partners &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260729/p11#a260729p11)
- - [Freehand, which builds AI agents to manage supply chain spend and operations for Fortune 500 companies, raised a $75M Series B, after a $25M Series A in 2024 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260729/p10#a260729p10)<!-- TECH:END -->
+ - [Google Play’s got a new system for letting apps deliver age-appropriate experiences](https://www.androidauthority.com/google-play-age-signals-3692480/)
+ - [Anthropic&#39;s cryptanalysis results on HAWK and AES show AI can now understand existing cryptanalysis results, turn them into new attacks, and even extend them &lpar;Matthew Green/A Few Thoughts ...&rpar;](https://www.techmeme.com/260729/p30#a260729p30)
+ - [Google Lens is bugging out on Chrome, but Google says a fix is coming](https://www.androidauthority.com/google-lens-on-chrome-fix-coming-3692453/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
