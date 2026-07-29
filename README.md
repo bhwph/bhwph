@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android gamers may soon be able to automatically record their biggest wins](https://www.androidauthority.com/android-gaming-achievements-record-3692017/)
- - [Got a lot of Apple hardware? Here&#39;s how an Apple Ring can bind them all](https://appleinsider.com/articles/26/07/28/got-a-lot-of-apple-hardware-heres-how-an-apple-ring-can-bind-them-all?utm_source=rss)
- - [Tel Aviv-based Hush Security, which lets organizations securely control enterprise AI agents, raised a $30M Series A, bringing its total funding to $41M &lpar;Ionut Arghire/SecurityWeek&rpar;](https://www.techmeme.com/260728/p33#a260728p33)<!-- TECH:END -->
+ - [Anthropic faces backlash from Silicon Valley partners, founders, and researchers for competitive tactics, guardrails, and lack of support for open-weight models &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260728/p52#a260728p52)
+ - [OpenAI says the rogue AI that breached Hugging Face used exposed credentials from &quot;four accounts&quot; tied to four &quot;publicly available&quot; third-party services &lpar;Wired&rpar;](https://www.techmeme.com/260728/p51#a260728p51)
+ - [xAI sues Minnesota&#39;s AG over a state law banning apps and sites that create fake, sexualized pictures of individuals, claiming it violates the First Amendment &lpar;Riley Moser/CBS News&rpar;](https://www.techmeme.com/260728/p50#a260728p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
