@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic faces backlash from Silicon Valley partners, founders, and researchers for competitive tactics, guardrails, and lack of support for open-weight models &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260728/p52#a260728p52)
- - [OpenAI says the rogue AI that breached Hugging Face used exposed credentials from &quot;four accounts&quot; tied to four &quot;publicly available&quot; third-party services &lpar;Wired&rpar;](https://www.techmeme.com/260728/p51#a260728p51)
- - [xAI sues Minnesota&#39;s AG over a state law banning apps and sites that create fake, sexualized pictures of individuals, claiming it violates the First Amendment &lpar;Riley Moser/CBS News&rpar;](https://www.techmeme.com/260728/p50#a260728p50)<!-- TECH:END -->
+ - [T-Mobile is pushing loyal customers away. These 7 changes could win them back](https://www.androidauthority.com/t-mobile-changes-win-back-loyal-customers-3690760/)
+ - [Lake Mary, Florida-based Spur Intelligence, which helps distinguish human and bot traffic to find fake users and threats, raised $200M led by Insight Partners &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260729/p11#a260729p11)
+ - [Freehand, which builds AI agents to manage supply chain spend and operations for Fortune 500 companies, raised a $75M Series B, after a $25M Series A in 2024 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260729/p10#a260729p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
