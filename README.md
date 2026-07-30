@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Onyx Security, whose platform enables enterprises to deploy AI agents securely, raised a $113M Series B led by Bessemer, taking its total funding to $153M &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260729/p50#a260729p50)
- - [Today’s NYT Connections: Sports Edition Hints and Answers for July 30, #675](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-30-675/)
- - [Samsung reports Q2 revenue up 130% YoY to ~$118.1B, vs. ~$118.9B est., and operating profit up 1,814% to ~$61.46B, vs. ~$60.68B est., on robust AI demand &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260729/p49#a260729p49)<!-- TECH:END -->
+ - [LinkedIn Won’t Be Expanding Its Data Centers in the Next Year](https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/)
+ - [OpenAI says using its Responses API harness with GPT-5.6 Sol tripled its ARC-AGI-3 score and used fewer tokens, after Sol with the official harness scored 7.8% &lpar;OpenAI&rpar;](https://www.techmeme.com/260730/p11#a260730p11)
+ - [Whatever you do, don’t buy a Google Pixel phone right now](https://www.androidauthority.com/dont-buy-google-pixel-10-right-now-why-3691510/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
