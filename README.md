@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Newest Halo Campaign Evolved only lets you kill men in the bridge of Pillar of autumn](http://9gag.com/gag/aryj2v7)
- - 😝 [Keep your head on a swivel](http://9gag.com/gag/aGyWO0w)
- - 👉 [Just NY things](http://9gag.com/gag/aqyqzov)<!-- MEMES:END -->
+ - 6️⃣ [He was a little angry](http://9gag.com/gag/agmPKqv)
+ - 😝 [Temporary Insanity](http://9gag.com/gag/aYQ2R0q)
+ - 👉 [That&#39;s one way to do it](http://9gag.com/gag/aND6jDA)<!-- MEMES:END -->
 
 --- 
 
