@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play’s got a new system for letting apps deliver age-appropriate experiences](https://www.androidauthority.com/google-play-age-signals-3692480/)
- - [Anthropic&#39;s cryptanalysis results on HAWK and AES show AI can now understand existing cryptanalysis results, turn them into new attacks, and even extend them &lpar;Matthew Green/A Few Thoughts ...&rpar;](https://www.techmeme.com/260729/p30#a260729p30)
- - [Google Lens is bugging out on Chrome, but Google says a fix is coming](https://www.androidauthority.com/google-lens-on-chrome-fix-coming-3692453/)<!-- TECH:END -->
+ - [Onyx Security, whose platform enables enterprises to deploy AI agents securely, raised a $113M Series B led by Bessemer, taking its total funding to $153M &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260729/p50#a260729p50)
+ - [Today’s NYT Connections: Sports Edition Hints and Answers for July 30, #675](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-30-675/)
+ - [Samsung reports Q2 revenue up 130% YoY to ~$118.1B, vs. ~$118.9B est., and operating profit up 1,814% to ~$61.46B, vs. ~$60.68B est., on robust AI demand &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260729/p49#a260729p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
