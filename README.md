@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
- - 😝 [Middle-aged white women will do anything except a normal workout](http://9gag.com/gag/aD2EXy9)
- - 👉 [Just NY things](http://9gag.com/gag/aqyqzov)<!-- MEMES:END -->
+ - 6️⃣ [Stop bullying](http://9gag.com/gag/an7LDGB)
+ - 😝 [Yeah, pretty much so. Sadly](http://9gag.com/gag/an7LDRq)
+ - 👉 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)<!-- MEMES:END -->
 
 --- 
 
