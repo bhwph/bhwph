@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Stop bullying](http://9gag.com/gag/an7LDGB)
- - 😝 [Yeah, pretty much so. Sadly](http://9gag.com/gag/an7LDRq)
- - 👉 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)<!-- MEMES:END -->
+ - 6️⃣ [Newest Halo Campaign Evolved only lets you kill men in the bridge of Pillar of autumn](http://9gag.com/gag/aryj2v7)
+ - 😝 [Keep your head on a swivel](http://9gag.com/gag/aGyWO0w)
+ - 👉 [Just NY things](http://9gag.com/gag/aqyqzov)<!-- MEMES:END -->
 
 --- 
 
