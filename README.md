@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LinkedIn Won’t Be Expanding Its Data Centers in the Next Year](https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/)
- - [OpenAI says using its Responses API harness with GPT-5.6 Sol tripled its ARC-AGI-3 score and used fewer tokens, after Sol with the official harness scored 7.8% &lpar;OpenAI&rpar;](https://www.techmeme.com/260730/p11#a260730p11)
- - [Whatever you do, don’t buy a Google Pixel phone right now](https://www.androidauthority.com/dont-buy-google-pixel-10-right-now-why-3691510/)<!-- TECH:END -->
+ - [OpenAI says it is cutting the price of GPT-5.6 Luna by ~80% and the price of GPT-5.6 Terra by 20% after improving the efficiency of the systems that serve them &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260730/p39#a260730p39)
+ - [Here’s how Samsung’s ‘creaseless’ screens hold up after breaking them in for a week](https://www.androidauthority.com/samsung-fold-8-crease-3692860/)
+ - [ABC demands FCC drop its ‘punitive’ early license renewal of its stations](https://www.theverge.com/policy/973289/abc-fcc-early-license-renewal-opposition)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
