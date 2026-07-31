@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says it is cutting the price of GPT-5.6 Luna by ~80% and the price of GPT-5.6 Terra by 20% after improving the efficiency of the systems that serve them &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260730/p39#a260730p39)
- - [Here’s how Samsung’s ‘creaseless’ screens hold up after breaking them in for a week](https://www.androidauthority.com/samsung-fold-8-crease-3692860/)
- - [ABC demands FCC drop its ‘punitive’ early license renewal of its stations](https://www.theverge.com/policy/973289/abc-fcc-early-license-renewal-opposition)<!-- TECH:END -->
+ - [Apple AI compute costs will be covered by iCloud+ subscriptions, for now](https://appleinsider.com/articles/26/07/31/apple-ai-compute-costs-will-be-covered-by-icloud-subscriptions-for-now?utm_source=rss)
+ - [Shares of SK Hynix and Samsung surge more than 20% in Seoul on Friday, marking a sharp reversal from this week&#39;s sell-off &lpar;Lee Ying Shan/CNBC&rpar;](https://www.techmeme.com/260730/p67#a260730p67)
+ - [Chip stocks rallied Thursday after strong Microsoft and Lam Research earnings: Lam Research closed up 18%, Micron 18%, Sandisk 26%, Arm 7%, AMD 13%, Intel 11% &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260730/p66#a260730p66)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
