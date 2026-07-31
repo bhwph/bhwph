@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He was a little angry](http://9gag.com/gag/agmPKqv)
- - 😝 [Temporary Insanity](http://9gag.com/gag/aYQ2R0q)
- - 👉 [That&#39;s one way to do it](http://9gag.com/gag/aND6jDA)<!-- MEMES:END -->
+ - 6️⃣ [Ceuta, Spain. I had to add the music. Some 9gaggers who live there?](http://9gag.com/gag/agmPj21)
+ - 😝 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)
+ - 👉 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)<!-- MEMES:END -->
 
 --- 
 
