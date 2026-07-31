@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Letter: Situational Awareness is down ~67% in July, but remains up ~80% in 2026; sources say it planned to sell $3.5B of its Anthropic stake but backed out &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260731/p13#a260731p13)
- - [Chinese state media: Xi Jinping called for more defense applications using autonomous and AI technologies, as he pushes to build an advanced fighting force &lpar;Josh Xiao/Bloomberg&rpar;](https://www.techmeme.com/260731/p12#a260731p12)
- - [4 reasons why I switched to this underrated Google Maps alternative](https://www.androidauthority.com/reasons-why-switched-google-maps-alternative-3692824/)<!-- TECH:END -->
+ - [Google Messages is in for a search overhaul](https://www.androidauthority.com/google-messages-search-update-3693392/)
+ - [Unimpressed Goldman Sachs trims AAPL target by $10 after earnings call](https://appleinsider.com/articles/26/07/31/unimpressed-goldman-sachs-trims-aapl-target-by-10-after-earnings-call?utm_source=rss)
+ - [Tomodachi Life: Living the Dream is a quirky life sim that’s worth buying at this discount](https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
