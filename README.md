@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple AI compute costs will be covered by iCloud+ subscriptions, for now](https://appleinsider.com/articles/26/07/31/apple-ai-compute-costs-will-be-covered-by-icloud-subscriptions-for-now?utm_source=rss)
- - [Shares of SK Hynix and Samsung surge more than 20% in Seoul on Friday, marking a sharp reversal from this week&#39;s sell-off &lpar;Lee Ying Shan/CNBC&rpar;](https://www.techmeme.com/260730/p67#a260730p67)
- - [Chip stocks rallied Thursday after strong Microsoft and Lam Research earnings: Lam Research closed up 18%, Micron 18%, Sandisk 26%, Arm 7%, AMD 13%, Intel 11% &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260730/p66#a260730p66)<!-- TECH:END -->
+ - [Letter: Situational Awareness is down ~67% in July, but remains up ~80% in 2026; sources say it planned to sell $3.5B of its Anthropic stake but backed out &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260731/p13#a260731p13)
+ - [Chinese state media: Xi Jinping called for more defense applications using autonomous and AI technologies, as he pushes to build an advanced fighting force &lpar;Josh Xiao/Bloomberg&rpar;](https://www.techmeme.com/260731/p12#a260731p12)
+ - [4 reasons why I switched to this underrated Google Maps alternative](https://www.androidauthority.com/reasons-why-switched-google-maps-alternative-3692824/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
