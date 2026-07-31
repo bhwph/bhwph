@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He was a little angry](http://9gag.com/gag/agmPKqv)
- - 😝 [Hypnotized](http://9gag.com/gag/a0e2wwB)
- - 👉 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)<!-- MEMES:END -->
+ - 6️⃣ [Don&#39;t let the perfect be the enemy of good](http://9gag.com/gag/azx0BDz)
+ - 😝 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)
+ - 👉 [Big bug](http://9gag.com/gag/a0e2x0Q)<!-- MEMES:END -->
 
 --- 
 
