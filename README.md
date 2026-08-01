@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Don&#39;t let the perfect be the enemy of good](http://9gag.com/gag/azx0BDz)
- - 😝 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)
- - 👉 [Big bug](http://9gag.com/gag/a0e2x0Q)<!-- MEMES:END -->
+ - 6️⃣ [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)
+ - 😝 [School and college is overrated... - that female cop](http://9gag.com/gag/a4PDV7Q)
+ - 👉 [When You Finally Understand The Reason Why Your Grandfather Is Rich.](http://9gag.com/gag/aBy7vwQ)<!-- MEMES:END -->
 
 --- 
 
