@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At the UN AI for Good summit, a big Chinese delegation argued Chinese open-source AI models are the future for most of the world, while US presence was muted &lpar;J.D. Capelouto/Semafor&rpar;](https://www.techmeme.com/260801/p9#a260801p9)
- - [Alienware 15 Gaming Laptop Review: Hedging Its Bets](https://www.wired.com/review/alienware-15-gaming-laptop/)
- - [I’ve tested dozens of Android launchers. Here are 5 you should skip in 2026](https://www.androidauthority.com/android-launchers-i-dont-recommend-2026-3691917/)<!-- TECH:END -->
+ - [Trump blames Tim Walz for water hacks even though it’s probably Iran](https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran)
+ - [OpenAI says an internal version of Astra, its next big model, produced results for 10 problems in math, quantum complexity, and theoretical computer science &lpar;OpenAI&rpar;](https://www.techmeme.com/260801/p11#a260801p11)
+ - [I tried this vibecoded firewood splitting simulator, and I can’t stop playing it](https://www.androidauthority.com/vibecoded-ai-apps-ai-tool-roundup-3692798/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
