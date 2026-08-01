@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages is in for a search overhaul](https://www.androidauthority.com/google-messages-search-update-3693392/)
- - [Unimpressed Goldman Sachs trims AAPL target by $10 after earnings call](https://appleinsider.com/articles/26/07/31/unimpressed-goldman-sachs-trims-aapl-target-by-10-after-earnings-call?utm_source=rss)
- - [Tomodachi Life: Living the Dream is a quirky life sim that’s worth buying at this discount](https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale)<!-- TECH:END -->
+ - [Sensor Tower: India&#39;s mobile app market generated a record $345M in consumer spending in Q2, up 35% YoY; ChatGPT ranked No. 1 by downloads and No. 2 by revenue &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260731/p43#a260731p43)
+ - [Cybersecurity experts fault Anthropic and OpenAI for sloppy safeguards and inadequate human oversight after their models broke into outside organizations &lpar;Bloomberg&rpar;](https://www.techmeme.com/260731/p42#a260731p42)
+ - [SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth](https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
