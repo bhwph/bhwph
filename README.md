@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sensor Tower: India&#39;s mobile app market generated a record $345M in consumer spending in Q2, up 35% YoY; ChatGPT ranked No. 1 by downloads and No. 2 by revenue &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260731/p43#a260731p43)
- - [Cybersecurity experts fault Anthropic and OpenAI for sloppy safeguards and inadequate human oversight after their models broke into outside organizations &lpar;Bloomberg&rpar;](https://www.techmeme.com/260731/p42#a260731p42)
- - [SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth](https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/)<!-- TECH:END -->
+ - [At the UN AI for Good summit, a big Chinese delegation argued Chinese open-source AI models are the future for most of the world, while US presence was muted &lpar;J.D. Capelouto/Semafor&rpar;](https://www.techmeme.com/260801/p9#a260801p9)
+ - [Alienware 15 Gaming Laptop Review: Hedging Its Bets](https://www.wired.com/review/alienware-15-gaming-laptop/)
+ - [I’ve tested dozens of Android launchers. Here are 5 you should skip in 2026](https://www.androidauthority.com/android-launchers-i-dont-recommend-2026-3691917/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
