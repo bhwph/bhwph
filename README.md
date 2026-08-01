@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hypnotized](http://9gag.com/gag/a0e2wwB)
- - 😝 [Big bug](http://9gag.com/gag/a0e2x0Q)
- - 👉 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)<!-- MEMES:END -->
+ - 6️⃣ [When You Finally Understand The Reason Why Your Grandfather Is Rich.](http://9gag.com/gag/aBy7vwQ)
+ - 😝 [Oh David...](http://9gag.com/gag/a7ozGzb)
+ - 👉 [Why settle for the product when you can go straight to the manufacturer](http://9gag.com/gag/aW4wNr4)<!-- MEMES:END -->
 
 --- 
 
