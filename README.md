@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 11 specs and price leak with no surprises](https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak)
- - [Angela Nissel faces down grief with a laugh](https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead)
- - [Today’s Wordle Hints, Answer and Help for Aug. 2, #1870](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-2-1870/)<!-- TECH:END -->
+ - [Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/)
+ - [The Pixel 6 was a glorious mess, and Google is better for it](https://www.androidauthority.com/google-pixel-6-revisit-2026-3692192/)
+ - [5 fun things you can do with sensors on your Android phone](https://www.androidauthority.com/use-android-phone-sensors-3687662/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
