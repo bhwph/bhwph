@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump blames Tim Walz for water hacks even though it’s probably Iran](https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran)
- - [OpenAI says an internal version of Astra, its next big model, produced results for 10 problems in math, quantum complexity, and theoretical computer science &lpar;OpenAI&rpar;](https://www.techmeme.com/260801/p11#a260801p11)
- - [I tried this vibecoded firewood splitting simulator, and I can’t stop playing it](https://www.androidauthority.com/vibecoded-ai-apps-ai-tool-roundup-3692798/)<!-- TECH:END -->
+ - [Pixel 11 specs and price leak with no surprises](https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak)
+ - [Angela Nissel faces down grief with a laugh](https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead)
+ - [Today’s Wordle Hints, Answer and Help for Aug. 2, #1870](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-2-1870/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
