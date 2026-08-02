@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Big bug](http://9gag.com/gag/a0e2x0Q)
- - 😝 [Banks be like:](http://9gag.com/gag/a1mGBdb)
- - 👉 [Therapist is one word](http://9gag.com/gag/adBm4N9)<!-- MEMES:END -->
+ - 6️⃣ [Therapist is one word](http://9gag.com/gag/adBm4N9)
+ - 😝 [I haven&#39;t do nothing](http://9gag.com/gag/a87BQVO)
+ - 👉 [What 11 years of progress looks like!](http://9gag.com/gag/ae9vP8B)<!-- MEMES:END -->
 
 --- 
 
