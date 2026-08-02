@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Therapist is one word](http://9gag.com/gag/adBm4N9)
+ - 6️⃣ [Let&#39;s see... Chaplin&#39;s head, spooky boy&#39;s hair, and... oh.... oh!](http://9gag.com/gag/a34Ve23)
  - 😝 [I haven&#39;t do nothing](http://9gag.com/gag/a87BQVO)
- - 👉 [What 11 years of progress looks like!](http://9gag.com/gag/ae9vP8B)<!-- MEMES:END -->
+ - 👉 [Banks be like:](http://9gag.com/gag/a1mGBdb)<!-- MEMES:END -->
 
 --- 
 
