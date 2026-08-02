@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/)
- - [The Pixel 6 was a glorious mess, and Google is better for it](https://www.androidauthority.com/google-pixel-6-revisit-2026-3692192/)
- - [5 fun things you can do with sensors on your Android phone](https://www.androidauthority.com/use-android-phone-sensors-3687662/)<!-- TECH:END -->
+ - [Xbox prices are increasing by up to €200 or £170](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros)
+ - [Amazon Will Give Tariff Refunds to Some Customers](https://www.cnet.com/tech/amazon-will-give-tariff-refunds-to-some-customers/)
+ - [DuckDuckGo’s Anti-AI Sunglasses Won’t Spy On Anyone](https://www.cnet.com/tech/mobile/duckduckgo-anti-ai-sunglasses-wont-spy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
