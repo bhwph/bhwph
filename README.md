@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: South Korean AI chip designer DeepX raised a ~$29M Series D at a ~$2.2B valuation, and is in talks to raise ~$209M at a ~$2.4B valuation by September &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260803/p14#a260803p14)
- - [China&amp;#8217;s Alibaba takes another swipe at America’s AI supremacy](https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai)
- - [Alienware 27 QD-OLED &lpar;AW2726DM&rpar; Review: A $350 Winner](https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/)<!-- TECH:END -->
+ - [Windows is testing a new way to preview Android phone notifications](https://www.androidauthority.com/windows-phone-link-notification-preview-3693965/)
+ - [US satellite internet provider Hughesnet files for Chapter 11 after losing subscribers to Starlink and plans to focus on business and government customers &lpar;Michael Kan/PCMag&rpar;](https://www.techmeme.com/260803/p30#a260803p30)
+ - [Europe’s AI labeling and transparency rules are now in effect](https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
