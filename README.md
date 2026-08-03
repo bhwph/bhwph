@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the US open-weight AI model ecosystem, as VCs question the revenue potential of open-weight startups like Arcee, Reflection AI, and Poolside &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260802/p14#a260802p14)
- - [Robinhood&#39;s prediction markets revenue surged 10x+ YoY to $156M in Q2, topping stock and crypto for the first time as speculators shift to real-world event bets &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/260802/p13#a260802p13)
- - [Four US states rolled back or paused data center tax incentives, and nine others are weighing repeal measures, potentially adding 7% or more to equipment costs &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/260802/p12#a260802p12)<!-- TECH:END -->
+ - [Sources: South Korean AI chip designer DeepX raised a ~$29M Series D at a ~$2.2B valuation, and is in talks to raise ~$209M at a ~$2.4B valuation by September &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260803/p14#a260803p14)
+ - [China&amp;#8217;s Alibaba takes another swipe at America’s AI supremacy](https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai)
+ - [Alienware 27 QD-OLED &lpar;AW2726DM&rpar; Review: A $350 Winner](https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
