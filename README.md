@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let&#39;s see... Chaplin&#39;s head, spooky boy&#39;s hair, and... oh.... oh!](http://9gag.com/gag/a34Ve23)
- - 😝 [I haven&#39;t do nothing](http://9gag.com/gag/a87BQVO)
- - 👉 [Banks be like:](http://9gag.com/gag/a1mGBdb)<!-- MEMES:END -->
+ - 6️⃣ [They really dont like people to see their worst side](http://9gag.com/gag/aO8XnNv)
+ - 😝 [I want his calm](http://9gag.com/gag/an7L885)
+ - 👉 [Damn..](http://9gag.com/gag/ayNOZKq)<!-- MEMES:END -->
 
 --- 
 
