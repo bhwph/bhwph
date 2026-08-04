@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wonder Generation](http://9gag.com/gag/aGyWqDX)
- - 😝 [ZMPC Is A Chinese State-Owned Company.](http://9gag.com/gag/a87BvBZ)
- - 👉 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)<!-- MEMES:END -->
+ - 6️⃣ [Just tactics!](http://9gag.com/gag/a1mG6dw)
+ - 😝 [Upgrades](http://9gag.com/gag/aoybw2X)
+ - 👉 [She has some fun](http://9gag.com/gag/aW4wXB4)<!-- MEMES:END -->
 
 --- 
 
