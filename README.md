@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Wall Street learned to love the blockchain, as US regulators accept tokenized assets and other tech can offer significant advantages in speed and efficiency &lpar;Nikou Asgari/Financial Times&rpar;](https://www.techmeme.com/260804/p10#a260804p10)
- - [Spotify reports Q2 revenue up 14% YoY to €4.8B, Premium Subscribers up 9% YoY to 300M, MAUs up 12% YoY to 777M, below 778M guidance, and a €545M net income &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260804/p9#a260804p9)
- - [The Galaxy Z Fold 8 is almost perfect. I just wish it wasn’t a foldable](https://www.androidauthority.com/wish-galaxy-z-fold-8-wasnt-foldable-3693408/)<!-- TECH:END -->
+ - [Lenovo&amp;#8217;s Legion Go S with SteamOS is down to its lowest price ever](https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale)
+ - [‘Not healthy’ LLM use is more common than you think](https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy)
+ - [BMW’s in-car Spider-Man ad is villain behavior](https://www.theverge.com/transportation/975172/bmw-spider-man-movie-infotainment-ad)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
