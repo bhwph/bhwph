@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Damn..](http://9gag.com/gag/ayNOZKq)
- - 😝 [You go girl](http://9gag.com/gag/aGyW6vG)
- - 👉 [Bless me, Father, for I have sinned.](http://9gag.com/gag/a9y9Zom)<!-- MEMES:END -->
+ - 6️⃣ [Bless me, Father, for I have sinned.](http://9gag.com/gag/a9y9Zom)
+ - 😝 [Wonder Generation](http://9gag.com/gag/aGyWqDX)
+ - 👉 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)<!-- MEMES:END -->
 
 --- 
 
