@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows is testing a new way to preview Android phone notifications](https://www.androidauthority.com/windows-phone-link-notification-preview-3693965/)
- - [US satellite internet provider Hughesnet files for Chapter 11 after losing subscribers to Starlink and plans to focus on business and government customers &lpar;Michael Kan/PCMag&rpar;](https://www.techmeme.com/260803/p30#a260803p30)
- - [Europe’s AI labeling and transparency rules are now in effect](https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes)<!-- TECH:END -->
+ - [iPhone to Windows clipboard sharing coming to iOS 28 in the EU](https://appleinsider.com/articles/26/08/04/iphone-to-windows-clipboard-sharing-coming-to-ios-28-in-the-eu?utm_source=rss)
+ - [TikTok agrees to settle three more teen social media lawsuits ahead of trial; 2,600 cases with similar claims are pending in California federal court &lpar;Dietrich Knauth/Reuters&rpar;](https://www.techmeme.com/260803/p37#a260803p37)
+ - [The studio behind Pokémon struggles to find its voice in Beast of Reincarnation](https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
