@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bless me, Father, for I have sinned.](http://9gag.com/gag/a9y9Zom)
- - 😝 [Wonder Generation](http://9gag.com/gag/aGyWqDX)
+ - 6️⃣ [Wonder Generation](http://9gag.com/gag/aGyWqDX)
+ - 😝 [ZMPC Is A Chinese State-Owned Company.](http://9gag.com/gag/a87BvBZ)
  - 👉 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)<!-- MEMES:END -->
 
 --- 
