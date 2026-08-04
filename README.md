@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone to Windows clipboard sharing coming to iOS 28 in the EU](https://appleinsider.com/articles/26/08/04/iphone-to-windows-clipboard-sharing-coming-to-ios-28-in-the-eu?utm_source=rss)
- - [TikTok agrees to settle three more teen social media lawsuits ahead of trial; 2,600 cases with similar claims are pending in California federal court &lpar;Dietrich Knauth/Reuters&rpar;](https://www.techmeme.com/260803/p37#a260803p37)
- - [The studio behind Pokémon struggles to find its voice in Beast of Reincarnation](https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox)<!-- TECH:END -->
+ - [How Wall Street learned to love the blockchain, as US regulators accept tokenized assets and other tech can offer significant advantages in speed and efficiency &lpar;Nikou Asgari/Financial Times&rpar;](https://www.techmeme.com/260804/p10#a260804p10)
+ - [Spotify reports Q2 revenue up 14% YoY to €4.8B, Premium Subscribers up 9% YoY to 300M, MAUs up 12% YoY to 777M, below 778M guidance, and a €545M net income &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260804/p9#a260804p9)
+ - [The Galaxy Z Fold 8 is almost perfect. I just wish it wasn’t a foldable](https://www.androidauthority.com/wish-galaxy-z-fold-8-wasnt-foldable-3693408/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
