@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX reports Q2 revenue from connectivity, which includes Starlink, up 66% YoY to $4.29B vs. $3.83B est., Starlink subscribers up 100% to 12M vs. 12.19M est. &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260804/p55#a260804p55)
- - [House panel report: US telcos connected their systems to data centers in a way that exposed them to vulnerabilities, potentially enabling Salt Typhoon hacks &lpar;Kelcee Griffis/Bloomberg&rpar;](https://www.techmeme.com/260804/p54#a260804p54)
- - [WebKit leaks in iOS &amp; macOS expose user data in spite of proxy use](https://appleinsider.com/articles/26/08/05/webkit-leaks-in-ios-macos-expose-ip-and-dns-in-spite-of-proxy-use?utm_source=rss)<!-- TECH:END -->
+ - [Disney announces a global deal with TikTok to bring &quot;thoughtfully curated&quot; fan-created short-form videos based on Disney&#39;s IP to Disney+&#39;s vertical Verts feed &lpar;Brooks Barnes/New York Times&rpar;](https://www.techmeme.com/260805/p9#a260805p9)
+ - [Dubai-based vehicle fleet management startup Moove raised $250M led by Abu Dhabi&#39;s Mubadala at a $2.1B valuation to build autonomous vehicle &quot;nests&quot; for docking &lpar;Loni Prinsloo/Bloomberg&rpar;](https://www.techmeme.com/260805/p8#a260805p8)
+ - [Europe&#39;s established tech groups SAP, Capgemini, Sopra Steria, and OVHcloud report stronger AI demand, as enterprises shift from experimentation to deployment &lpar;Leo Marchandon/Reuters&rpar;](https://www.techmeme.com/260805/p7#a260805p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
