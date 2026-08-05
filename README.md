@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney announces a global deal with TikTok to bring &quot;thoughtfully curated&quot; fan-created short-form videos based on Disney&#39;s IP to Disney+&#39;s vertical Verts feed &lpar;Brooks Barnes/New York Times&rpar;](https://www.techmeme.com/260805/p9#a260805p9)
- - [Dubai-based vehicle fleet management startup Moove raised $250M led by Abu Dhabi&#39;s Mubadala at a $2.1B valuation to build autonomous vehicle &quot;nests&quot; for docking &lpar;Loni Prinsloo/Bloomberg&rpar;](https://www.techmeme.com/260805/p8#a260805p8)
- - [Europe&#39;s established tech groups SAP, Capgemini, Sopra Steria, and OVHcloud report stronger AI demand, as enterprises shift from experimentation to deployment &lpar;Leo Marchandon/Reuters&rpar;](https://www.techmeme.com/260805/p7#a260805p7)<!-- TECH:END -->
+ - [Reddit expands its test of Rules Hub, a suite of tools that rely on LLMs to help moderators manage their communities, and plans a full launch later this year &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260805/p31#a260805p31)
+ - [Small, Siri, and smart: What to expect from HomePod mini 2](https://appleinsider.com/articles/26/08/05/small-siri-and-smart-what-to-expect-from-homepod-mini-2?utm_source=rss)
+ - [Deal: This 4.6-star Anker Bluetooth speaker is 31% off right now](https://www.androidauthority.com/anker-soundcore-boom-2-deal-3694948/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
