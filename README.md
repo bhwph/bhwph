@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just tactics!](http://9gag.com/gag/a1mG6dw)
- - 😝 [Upgrades](http://9gag.com/gag/aoybw2X)
- - 👉 [She has some fun](http://9gag.com/gag/aW4wXB4)<!-- MEMES:END -->
+ - 6️⃣ [How those chinese bluetooth speakers are made](http://9gag.com/gag/aAyo9vg)
+ - 😝 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
+ - 👉 [Keeping the family together in a bucket](http://9gag.com/gag/an7Loo5)<!-- MEMES:END -->
 
 --- 
 
