@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How those chinese bluetooth speakers are made](http://9gag.com/gag/aAyo9vg)
- - 😝 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
- - 👉 [Keeping the family together in a bucket](http://9gag.com/gag/an7Loo5)<!-- MEMES:END -->
+ - 6️⃣ [Cha cha cha !](http://9gag.com/gag/aQz0jBq)
+ - 😝 [Wave goodbye](http://9gag.com/gag/abA98eB)
+ - 👉 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)<!-- MEMES:END -->
 
 --- 
 
