@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cha cha cha !](http://9gag.com/gag/aQz0jBq)
- - 😝 [Wave goodbye](http://9gag.com/gag/abA98eB)
- - 👉 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)<!-- MEMES:END -->
+ - 6️⃣ [Reincarnate as symbiote](http://9gag.com/gag/a87BxmV)
+ - 😝 [I LOVE CHEESE](http://9gag.com/gag/aO8XW2E)
+ - 👉 [Let&#39;s heal our buddy with some toad venom](http://9gag.com/gag/aAyo9yd)<!-- MEMES:END -->
 
 --- 
 
