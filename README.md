@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Looks so delish!](http://9gag.com/gag/a34VOz1)
- - 😝 [Reincarnate as symbiote](http://9gag.com/gag/a87BxmV)
- - 👉 [Holy Neck](http://9gag.com/gag/a4PDv4Q)<!-- MEMES:END -->
+ - 6️⃣ [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)
+ - 😝 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
+ - 👉 [We had a paradise building until...](http://9gag.com/gag/ajPoz51)<!-- MEMES:END -->
 
 --- 
 
