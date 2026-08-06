@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says the Hugging Face breach involved AI agents creating an internal message board, unnoticed by humans, where they shared exploits and planned the hack &lpar;Lily Hay Newman/Wired&rpar;](https://www.techmeme.com/260805/p51#a260805p51)
- - [Sapiom, which helps businesses build, ship, and scale AI agents and lower token costs, raised a $35M Series A led by Dragonfly, taking its total funding to $50M &lpar;Reed Albergotti/Semafor&rpar;](https://www.techmeme.com/260805/p50#a260805p50)
- - [Apple’s Private Relay Isn’t So Private After All, Can Leak Your IP Address](https://www.cnet.com/uncategorized/apples-private-relay-isnt-so-private-after-all-can-leak-your-ip-address/)<!-- TECH:END -->
+ - [I’m glad Google is making the Pixel Tag, but I absolutely won’t buy one](https://www.androidauthority.com/google-pixel-tag-wont-buy-3694175/)
+ - [Nothing is literally doubling down on its smartphone ambitions, contrary to previous report](https://www.androidauthority.com/nothing-phone-double-launches-2027-3695195/)
+ - [Defense tech company Hadrian raised a $1.37B Series D at an $8B valuation to expand its factories and Opus software platform, after a $260M Series C in 2025 &lpar;Colin Demarest/Axios&rpar;](https://www.techmeme.com/260806/p16#a260806p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
