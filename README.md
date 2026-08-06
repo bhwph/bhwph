@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit expands its test of Rules Hub, a suite of tools that rely on LLMs to help moderators manage their communities, and plans a full launch later this year &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260805/p31#a260805p31)
- - [Small, Siri, and smart: What to expect from HomePod mini 2](https://appleinsider.com/articles/26/08/05/small-siri-and-smart-what-to-expect-from-homepod-mini-2?utm_source=rss)
- - [Deal: This 4.6-star Anker Bluetooth speaker is 31% off right now](https://www.androidauthority.com/anker-soundcore-boom-2-deal-3694948/)<!-- TECH:END -->
+ - [OpenAI says the Hugging Face breach involved AI agents creating an internal message board, unnoticed by humans, where they shared exploits and planned the hack &lpar;Lily Hay Newman/Wired&rpar;](https://www.techmeme.com/260805/p51#a260805p51)
+ - [Sapiom, which helps businesses build, ship, and scale AI agents and lower token costs, raised a $35M Series A led by Dragonfly, taking its total funding to $50M &lpar;Reed Albergotti/Semafor&rpar;](https://www.techmeme.com/260805/p50#a260805p50)
+ - [Apple’s Private Relay Isn’t So Private After All, Can Leak Your IP Address](https://www.cnet.com/uncategorized/apples-private-relay-isnt-so-private-after-all-can-leak-your-ip-address/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
