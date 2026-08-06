@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Reincarnate as symbiote](http://9gag.com/gag/a87BxmV)
- - 😝 [I LOVE CHEESE](http://9gag.com/gag/aO8XW2E)
- - 👉 [Let&#39;s heal our buddy with some toad venom](http://9gag.com/gag/aAyo9yd)<!-- MEMES:END -->
+ - 6️⃣ [Looks so delish!](http://9gag.com/gag/a34VOz1)
+ - 😝 [Reincarnate as symbiote](http://9gag.com/gag/a87BxmV)
+ - 👉 [Holy Neck](http://9gag.com/gag/a4PDv4Q)<!-- MEMES:END -->
 
 --- 
 
