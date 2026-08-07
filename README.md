@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)
- - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
- - 👉 [A man accidentally joins the wrong forum](http://9gag.com/gag/aBy7A7O)<!-- MEMES:END -->
+ - 6️⃣ [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
+ - 😝 [No time for safety!!! Get the spicy noodle](http://9gag.com/gag/aYQ22mx)
+ - 👉 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)<!-- MEMES:END -->
 
 --- 
 
