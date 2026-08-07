@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Security researchers claim Kimi K3 went outside its sandbox during defensive cybersecurity tests, but did not hack anything after accessing the internet &lpar;Will Knight/Wired&rpar;](https://www.techmeme.com/260806/p58#a260806p58)
- - [Android’s new Quick Settings editor has another trick: A customizable QQS layout](https://www.androidauthority.com/android-quick-settings-editor-custom-qqs-layout-3695608/)
- - [OpenAI’s first AI smart speaker reportedly won’t just talk, it’ll move too](https://www.androidauthority.com/openai-smart-speaker-shape-price-features-battery-power-3695603/)<!-- TECH:END -->
+ - [The OnePlus 15 just got ColorOS beta](https://www.androidauthority.com/oneplus-15-coloros-beta-3695698/)
+ - [ChatGPT could soon let you easily create and use custom WhatsApp stickers](https://www.androidauthority.com/chatgpt-whatsapp-stickers-apk-teardown-3695710/)
+ - [Samsung’s latest 200MP sensor could be a fantastic upgrade for Galaxy S27 Ultra](https://www.androidauthority.com/samsung-isocell-hpc-deeppix-camera-galaxy-s27-ultra-3695688/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
