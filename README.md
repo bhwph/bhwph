@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 15 just got ColorOS beta](https://www.androidauthority.com/oneplus-15-coloros-beta-3695698/)
- - [ChatGPT could soon let you easily create and use custom WhatsApp stickers](https://www.androidauthority.com/chatgpt-whatsapp-stickers-apk-teardown-3695710/)
- - [Samsung’s latest 200MP sensor could be a fantastic upgrade for Galaxy S27 Ultra](https://www.androidauthority.com/samsung-isocell-hpc-deeppix-camera-galaxy-s27-ultra-3695688/)<!-- TECH:END -->
+ - [OpenAI says it has expanded safety testing around its upcoming model Astra as it &quot;cannot rule out&quot; critical cyber capabilities, potentially delaying launch &lpar;Axios&rpar;](https://www.techmeme.com/260807/p20#a260807p20)
+ - [Don’t miss your chance to pick up the AirPods Max 2 at $100 off](https://www.androidauthority.com/airpods-max-2-deal-3696054/)
+ - [Singapore-based Multiplier, which acquires accounting firms to boost their growth with AI tools, raised a $35M Series B led by TheGP at a $300M valuation &lpar;Maria Armental/Wall Street Journal&rpar;](https://www.techmeme.com/260807/p19#a260807p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
