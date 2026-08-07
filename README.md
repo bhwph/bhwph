@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’m glad Google is making the Pixel Tag, but I absolutely won’t buy one](https://www.androidauthority.com/google-pixel-tag-wont-buy-3694175/)
- - [Nothing is literally doubling down on its smartphone ambitions, contrary to previous report](https://www.androidauthority.com/nothing-phone-double-launches-2027-3695195/)
- - [Defense tech company Hadrian raised a $1.37B Series D at an $8B valuation to expand its factories and Opus software platform, after a $260M Series C in 2025 &lpar;Colin Demarest/Axios&rpar;](https://www.techmeme.com/260806/p16#a260806p16)<!-- TECH:END -->
+ - [Security researchers claim Kimi K3 went outside its sandbox during defensive cybersecurity tests, but did not hack anything after accessing the internet &lpar;Will Knight/Wired&rpar;](https://www.techmeme.com/260806/p58#a260806p58)
+ - [Android’s new Quick Settings editor has another trick: A customizable QQS layout](https://www.androidauthority.com/android-quick-settings-editor-custom-qqs-layout-3695608/)
+ - [OpenAI’s first AI smart speaker reportedly won’t just talk, it’ll move too](https://www.androidauthority.com/openai-smart-speaker-shape-price-features-battery-power-3695603/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
