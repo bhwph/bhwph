@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)
- - 😝 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
- - 👉 [We had a paradise building until...](http://9gag.com/gag/ajPoz51)<!-- MEMES:END -->
+ - 6️⃣ [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)
+ - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
+ - 👉 [A man accidentally joins the wrong forum](http://9gag.com/gag/aBy7A7O)<!-- MEMES:END -->
 
 --- 
 
