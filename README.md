@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
- - 😝 [Zendaya&#39;s acting](http://9gag.com/gag/aD2EEZB)
- - 👉 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)<!-- MEMES:END -->
+ - 6️⃣ [I still don\u2019t know](http://9gag.com/gag/aAyoWG0)
+ - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
+ - 👉 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)<!-- MEMES:END -->
 
 --- 
 
