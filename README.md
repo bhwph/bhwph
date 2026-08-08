@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I still don\u2019t know](http://9gag.com/gag/aAyoWG0)
- - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
- - 👉 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)<!-- MEMES:END -->
+ - 6️⃣ [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
+ - 😝 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
+ - 👉 [Bro became a villain](http://9gag.com/gag/adBmZP9)<!-- MEMES:END -->
 
 --- 
 
