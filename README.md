@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says it has expanded safety testing around its upcoming model Astra as it &quot;cannot rule out&quot; critical cyber capabilities, potentially delaying launch &lpar;Axios&rpar;](https://www.techmeme.com/260807/p20#a260807p20)
- - [Don’t miss your chance to pick up the AirPods Max 2 at $100 off](https://www.androidauthority.com/airpods-max-2-deal-3696054/)
- - [Singapore-based Multiplier, which acquires accounting firms to boost their growth with AI tools, raised a $35M Series B led by TheGP at a $300M valuation &lpar;Maria Armental/Wall Street Journal&rpar;](https://www.techmeme.com/260807/p19#a260807p19)<!-- TECH:END -->
+ - [Analysis: SpaceX is on track to build ~10 GW of compute capacity by 2027&#39;s end, with 6 GW-8 GW in 2027 alone, which could drive $300B in annual revenue run-rate &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260807/p35#a260807p35)
+ - [Anthropic announces a feature that allows different Claude Code sessions to message each other with updates and other information, available on macOS and Linux &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260807/p34#a260807p34)
+ - [Filings: Moonshot restructured its China-based entity from a limited liability company to a joint stock company in its first visible step toward a Hong Kong IPO &lpar;Financial Times&rpar;](https://www.techmeme.com/260807/p33#a260807p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
