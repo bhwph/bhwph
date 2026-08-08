@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nitecore’s latest power bank is the lightest and most compact yet](https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery)
- - [A profile of Tatyana Kim, founder of Russia&#39;s largest online retailer Wildberries, which has lost an estimated third of its warehouse space to Ukrainian attacks &lpar;New York Times&rpar;](https://www.techmeme.com/260808/p4#a260808p4)
- - [Ukrainian attacks on warehouses of Russia&#39;s largest online retailer Wildberries are affecting tens of thousands of small businesses that rely on the platform &lpar;Reuters&rpar;](https://www.techmeme.com/260808/p3#a260808p3)<!-- TECH:END -->
+ - [The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon](https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/)
+ - [Buc-ee’s dodges John Oliver to sue another small business](https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart)
+ - [Amazon is backing a 7.65 GW gas plant for an off-grid TX AI data center, potentially the largest single US emissions source, at odds with its 2040 net-zero goal &lpar;Hiroko Tabuchi/New York Times&rpar;](https://www.techmeme.com/260808/p7#a260808p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
