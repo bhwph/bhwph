@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon](https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/)
- - [Buc-ee’s dodges John Oliver to sue another small business](https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart)
- - [Amazon is backing a 7.65 GW gas plant for an off-grid TX AI data center, potentially the largest single US emissions source, at odds with its 2040 net-zero goal &lpar;Hiroko Tabuchi/New York Times&rpar;](https://www.techmeme.com/260808/p7#a260808p7)<!-- TECH:END -->
+ - [Anthropic says auto mode will be the default in Claude Code for Pro, Max, Team plans, starting on Aug. 14, claiming it&#39;s good enough at catching harmful actions &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260808/p10#a260808p10)
+ - [A look at &quot;Spiralism&quot;, a quasi-spiritual movement that grew in 2025 from human-AI conversations after sycophantic GPT-4o updates and expanded ChatGPT memory &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260808/p9#a260808p9)
+ - [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
