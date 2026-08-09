@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s AI shakeup suggests it may be prioritizing AI diffusion over frontier-model leadership, betting on AI compute as a bigger economic opportunity &lpar;Tim O&#39;Reilly/Asimov&#39;s Addendum&rpar;](https://www.techmeme.com/260809/p4#a260809p4)
- - [Rights groups warn Turkey&#39;s new cybersecurity law, which took effect in July, gives the presidency sweeping powers over online services operating in the country &lpar;John Paul Rathbone/Financial Times&rpar;](https://www.techmeme.com/260809/p3#a260809p3)
- - [Cape Town-based Moment, a provider of digital payments and billing tools for businesses across Africa, raised a $22M Series A, taking its total funding to $55M &lpar;FinTech Global&rpar;](https://www.techmeme.com/260809/p2#a260809p2)<!-- TECH:END -->
+ - [49ers coach says his Tesla was on Autopilot when he crashed](https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash)
+ - [In-depth look at OpenAI&#39;s model training, dangerous decisions, and cluelessness before the HuggingFace hack; despite delaying Astra, OpenAI still doesn&#39;t get it &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](https://www.techmeme.com/260809/p6#a260809p6)
+ - [2026 Apple Watch upgrade will be dull, but a big redesign is in progress](https://appleinsider.com/articles/26/08/09/2026-apple-watch-upgrade-will-be-dull-but-a-big-redesign-is-in-progress?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
