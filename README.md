@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [From 0 to 50 to 100](http://9gag.com/gag/aMV3poX)
- - 😝 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)
- - 👉 [Wife Loved the Surprise Home... Until She Learned It Was in Her Husband&#39;s Name](http://9gag.com/gag/apRyKQ8)<!-- MEMES:END -->
+ - 6️⃣ [Annual 9gag meet up 2026 &lpar;stream in comments&rpar;](http://9gag.com/gag/ayNg5XM)
+ - 😝 [Innocence](http://9gag.com/gag/aW4KQ3Z)
+ - 👉 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)<!-- MEMES:END -->
 
 --- 
 
