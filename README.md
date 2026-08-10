@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with historian Jill Lepore on her new book The Rise and Fall of the Artificial State, tech leaders misreading science fiction warnings as manuals, and more &lpar;Anthony Ha/TechCrunch&rpar;](https://www.techmeme.com/260810/p6#a260810p6)
- - [9 Google Pixel announcements every fan needs to watch for on August 12](https://www.androidauthority.com/big-google-pixel-announcements-august-12-2026-3694960/)
- - [Google could kill this useful and free Gemini feature in favor of a paid one](https://www.androidauthority.com/google-retire-gemini-gems-leak-3696240/)<!-- TECH:END -->
+ - [Highly rated Amazfit Active Max drops to its best price yet at $119](https://www.androidauthority.com/amazfit-active-max-deal-3696641/)
+ - [Generative AI needs ethical leaders and to be controlled like nuclear power](https://appleinsider.com/articles/26/08/10/generative-ai-needs-ethical-leaders-and-to-be-controlled-like-nuclear-power?utm_source=rss)
+ - [You now have two fresh options for Nintendo DS emulation](https://www.androidauthority.com/nintendo-ds-emulation-watermelonds-seedlessds-3696622/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
