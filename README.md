@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Australian user&#39;s Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist &lpar;ABC&rpar;](https://www.techmeme.com/260809/p10#a260809p10)
- - [US data center bans top 500, up from 300+ in late June, as New York and Texas join cities and counties pushing back against data center development &lpar;Shane Burke/The Information&rpar;](https://www.techmeme.com/260809/p9#a260809p9)
- - [No Dogs in Space is a music history podcast for true obsessives](https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast)<!-- TECH:END -->
+ - [Q&amp;A with historian Jill Lepore on her new book The Rise and Fall of the Artificial State, tech leaders misreading science fiction warnings as manuals, and more &lpar;Anthony Ha/TechCrunch&rpar;](https://www.techmeme.com/260810/p6#a260810p6)
+ - [9 Google Pixel announcements every fan needs to watch for on August 12](https://www.androidauthority.com/big-google-pixel-announcements-august-12-2026-3694960/)
+ - [Google could kill this useful and free Gemini feature in favor of a paid one](https://www.androidauthority.com/google-retire-gemini-gems-leak-3696240/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
