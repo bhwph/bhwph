@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yes there were also women. Why are you geh? F**k you and see you next year!](http://9gag.com/gag/agmMyMv)
- - 😝 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
- - 👉 [Brotherhood, memes, beer](http://9gag.com/gag/aLnYK9W)<!-- MEMES:END -->
+ - 6️⃣ [Safety First? No, Safety LAST](http://9gag.com/gag/aGy3wRG)
+ - 😝 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
+ - 👉 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)<!-- MEMES:END -->
 
 --- 
 
