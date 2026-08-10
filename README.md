@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)
- - 😝 [`Are those men with you?` UK Girls: `N-no... help...`](http://9gag.com/gag/an7pq0q)
- - 👉 [`Low caste cannot own such things.`](http://9gag.com/gag/aVvnQdv)<!-- MEMES:END -->
+ - 6️⃣ [Yes there were also women. Why are you geh? F**k you and see you next year!](http://9gag.com/gag/agmMyMv)
+ - 😝 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
+ - 👉 [Brotherhood, memes, beer](http://9gag.com/gag/aLnYK9W)<!-- MEMES:END -->
 
 --- 
 
