@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [49ers coach says his Tesla was on Autopilot when he crashed](https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash)
- - [In-depth look at OpenAI&#39;s model training, dangerous decisions, and cluelessness before the HuggingFace hack; despite delaying Astra, OpenAI still doesn&#39;t get it &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](https://www.techmeme.com/260809/p6#a260809p6)
- - [2026 Apple Watch upgrade will be dull, but a big redesign is in progress](https://appleinsider.com/articles/26/08/09/2026-apple-watch-upgrade-will-be-dull-but-a-big-redesign-is-in-progress?utm_source=rss)<!-- TECH:END -->
+ - [An Australian user&#39;s Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist &lpar;ABC&rpar;](https://www.techmeme.com/260809/p10#a260809p10)
+ - [US data center bans top 500, up from 300+ in late June, as New York and Texas join cities and counties pushing back against data center development &lpar;Shane Burke/The Information&rpar;](https://www.techmeme.com/260809/p9#a260809p9)
+ - [No Dogs in Space is a music history podcast for true obsessives](https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
