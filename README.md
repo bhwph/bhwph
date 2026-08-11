@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Western Australian police&#39;s first live facial recognition trial, which has scanned 130,000+ people since June, raising accuracy and privacy concerns &lpar;ABC&rpar;](https://www.techmeme.com/260811/p5#a260811p5)
- - [Motorola reveals which phones will get stable Android 17 update](https://www.androidauthority.com/motorola-android-17-eligible-phones-3696779/)
- - [Your Galaxy camera can secretly ditch 24MP for 12MP, and Samsung explains why](https://www.androidauthority.com/samsung-galaxy-camera-24mp-fallback-3696764/)<!-- TECH:END -->
+ - [You’ll soon be able to use Google Health to track your blood glucose in real time](https://www.androidauthority.com/google-health-abbott-cgm-3697206/)
+ - [Microsoft almost made a Surface phone we actually wanted](https://www.androidauthority.com/microsoft-surface-phone-prototype-3697157/)
+ - [Apple stocking up on OLED screens to offset RAM and SSD prices](https://appleinsider.com/articles/26/08/11/apple-stocking-up-on-oled-screens-to-offset-ram-and-ssd-prices?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
