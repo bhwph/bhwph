@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Safety First? No, Safety LAST](http://9gag.com/gag/aGy3wRG)
- - 😝 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
- - 👉 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)<!-- MEMES:END -->
+ - 😝 [The Suuuun Boat!](http://9gag.com/gag/amoj0q2)
+ - 👉 [Well played my dude](http://9gag.com/gag/aW4KOEx)<!-- MEMES:END -->
 
 --- 
 
