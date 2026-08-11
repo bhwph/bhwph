@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
- - 😝 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
- - 👉 [This really confuses me, from where did the fuel come](http://9gag.com/gag/a0eA9Av)<!-- MEMES:END -->
+ - 6️⃣ [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
+ - 😝 [The Suuuun Boat!](http://9gag.com/gag/amoj0q2)
+ - 👉 [This guy know something...](http://9gag.com/gag/a9yQMe0)<!-- MEMES:END -->
 
 --- 
 
