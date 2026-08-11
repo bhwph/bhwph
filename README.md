@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Highly rated Amazfit Active Max drops to its best price yet at $119](https://www.androidauthority.com/amazfit-active-max-deal-3696641/)
- - [Generative AI needs ethical leaders and to be controlled like nuclear power](https://appleinsider.com/articles/26/08/10/generative-ai-needs-ethical-leaders-and-to-be-controlled-like-nuclear-power?utm_source=rss)
- - [You now have two fresh options for Nintendo DS emulation](https://www.androidauthority.com/nintendo-ds-emulation-watermelonds-seedlessds-3696622/)<!-- TECH:END -->
+ - [SpaceX&#39;s earnings show X&#39;s Q2 ad revenue at $367M, down from $1.08B at Twitter in Q2 2022; Musk once said he would take its annual ad revenue to $12B in 2027 &lpar;Mike Masnick/Techdirt&rpar;](https://www.techmeme.com/260810/p44#a260810p44)
+ - [Source: OpenAI head of ethics Chloé Bakalar departs after less than a year, following exits by the head of safety systems and a former head of mission alignment &lpar;Financial Times&rpar;](https://www.techmeme.com/260810/p43#a260810p43)
+ - [Mcon mobile gaming controller review: Compact design with premium feel](https://appleinsider.com/articles/26/01/07/mcon-mobile-gaming-controller-review-compact-design-with-premium-feel?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
