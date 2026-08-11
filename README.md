@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX&#39;s earnings show X&#39;s Q2 ad revenue at $367M, down from $1.08B at Twitter in Q2 2022; Musk once said he would take its annual ad revenue to $12B in 2027 &lpar;Mike Masnick/Techdirt&rpar;](https://www.techmeme.com/260810/p44#a260810p44)
- - [Source: OpenAI head of ethics Chloé Bakalar departs after less than a year, following exits by the head of safety systems and a former head of mission alignment &lpar;Financial Times&rpar;](https://www.techmeme.com/260810/p43#a260810p43)
- - [Mcon mobile gaming controller review: Compact design with premium feel](https://appleinsider.com/articles/26/01/07/mcon-mobile-gaming-controller-review-compact-design-with-premium-feel?utm_source=rss)<!-- TECH:END -->
+ - [A look at Western Australian police&#39;s first live facial recognition trial, which has scanned 130,000+ people since June, raising accuracy and privacy concerns &lpar;ABC&rpar;](https://www.techmeme.com/260811/p5#a260811p5)
+ - [Motorola reveals which phones will get stable Android 17 update](https://www.androidauthority.com/motorola-android-17-eligible-phones-3696779/)
+ - [Your Galaxy camera can secretly ditch 24MP for 12MP, and Samsung explains why](https://www.androidauthority.com/samsung-galaxy-camera-24mp-fallback-3696764/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
