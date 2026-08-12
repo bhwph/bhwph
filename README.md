@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Candy Crush&#39;s continued popularity 15 years after its launch, with an estimated 81.5M MAUs and in-app revenue of $876.5M in fiscal year 2025 &lpar;Alanna Okun/Bloomberg&rpar;](https://www.techmeme.com/260811/p43#a260811p43)
- - [Saber denies replacing Rideshare Stimulator&amp;#8217;s writers with ChatGPT](https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive)
- - [A profile of Suno, which has been used by more than 100M people since 2023 and has 2M+ paid subscribers, as it faces copyright lawsuits from UMG and Sony Music &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p42#a260811p42)<!-- TECH:END -->
+ - [I found the Galaxy Z Fold 8’s biggest weakness, and it’s not the new design](https://www.androidauthority.com/galaxy-z-fold-8-biggest-weakness-multitasking-3695394/)
+ - [Google Photos’ new Moods feature turns your existing images into retro film frames](https://www.androidauthority.com/google-photos-film-camera-moods-3697527/)
+ - [Galaxy Watch 9 users are resorting to fans and ice baths &lpar;!!&rpar; to fix slow charging speeds](https://www.androidauthority.com/samsung-galaxy-watch-9-ultra-2-slow-charging-issue-3697532/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
