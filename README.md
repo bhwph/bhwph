@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
- - 😝 [The Suuuun Boat!](http://9gag.com/gag/amoj0q2)
- - 👉 [This guy know something...](http://9gag.com/gag/a9yQMe0)<!-- MEMES:END -->
+ - 6️⃣ [Lonely dad looking for players to start playing dune](http://9gag.com/gag/awyRK58)
+ - 😝 [Gemma arterton](http://9gag.com/gag/aPANGpw)
+ - 👉 [IT&#39;S IN THE PACKAGE YOU IDIOT - Brit police arrest white man for buying a baseball bat](http://9gag.com/gag/an7pKLL)<!-- MEMES:END -->
 
 --- 
 
