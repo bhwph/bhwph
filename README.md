@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’ll soon be able to use Google Health to track your blood glucose in real time](https://www.androidauthority.com/google-health-abbott-cgm-3697206/)
- - [Microsoft almost made a Surface phone we actually wanted](https://www.androidauthority.com/microsoft-surface-phone-prototype-3697157/)
- - [Apple stocking up on OLED screens to offset RAM and SSD prices](https://appleinsider.com/articles/26/08/11/apple-stocking-up-on-oled-screens-to-offset-ram-and-ssd-prices?utm_source=rss)<!-- TECH:END -->
+ - [A look at Candy Crush&#39;s continued popularity 15 years after its launch, with an estimated 81.5M MAUs and in-app revenue of $876.5M in fiscal year 2025 &lpar;Alanna Okun/Bloomberg&rpar;](https://www.techmeme.com/260811/p43#a260811p43)
+ - [Saber denies replacing Rideshare Stimulator&amp;#8217;s writers with ChatGPT](https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive)
+ - [A profile of Suno, which has been used by more than 100M people since 2023 and has 2M+ paid subscribers, as it faces copyright lawsuits from UMG and Sony Music &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p42#a260811p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
