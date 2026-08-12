@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Snu snu](http://9gag.com/gag/abAP069)
- - 😝 [Here we go](http://9gag.com/gag/ajPbAxp)
- - 👉 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)<!-- MEMES:END -->
+ - 6️⃣ [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
+ - 😝 [Bliss of happiness](http://9gag.com/gag/awyRxZy)
+ - 👉 [All is calm and well until....](http://9gag.com/gag/aByqrgD)<!-- MEMES:END -->
 
 --- 
 
