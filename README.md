@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I found the Galaxy Z Fold 8’s biggest weakness, and it’s not the new design](https://www.androidauthority.com/galaxy-z-fold-8-biggest-weakness-multitasking-3695394/)
- - [Google Photos’ new Moods feature turns your existing images into retro film frames](https://www.androidauthority.com/google-photos-film-camera-moods-3697527/)
- - [Galaxy Watch 9 users are resorting to fans and ice baths &lpar;!!&rpar; to fix slow charging speeds](https://www.androidauthority.com/samsung-galaxy-watch-9-ultra-2-slow-charging-issue-3697532/)<!-- TECH:END -->
+ - [iPhone Ultra screen protectors have asymmetric corners](https://appleinsider.com/articles/26/08/12/screen-protector-leak-shows-iphone-ultras-asymmetric-corners?utm_source=rss)
+ - [Generative AI photo fakes could be exposed by new iPhone feature](https://appleinsider.com/articles/26/08/12/faked-photos-could-be-shown-up-by-new-iphone-feature?utm_source=rss)
+ - [Gemini’s next wave of app integrations focuses on productivity, entertainment, and lifestyle](https://www.androidauthority.com/gemini-new-app-integrations-3697867/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
