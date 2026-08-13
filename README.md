@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Bliss of happiness](http://9gag.com/gag/awyRxZy)
- - 😝 [Is this Real?](http://9gag.com/gag/aRB5AwB)
- - 👉 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)<!-- MEMES:END -->
+ - 6️⃣ [It&#39;s in the name](http://9gag.com/gag/azxNAbq)
+ - 😝 [Bro is fighting for his life down there.](http://9gag.com/gag/aZZApZ0)
+ - 👉 [Marisa tomei defies all laws of aging](http://9gag.com/gag/ajPbDYg)<!-- MEMES:END -->
 
 --- 
 
