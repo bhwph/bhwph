@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Siri AI could get a boost from news content with new publisher deal](https://appleinsider.com/articles/26/08/13/siri-ai-could-get-a-boost-from-news-content-with-new-publisher-deal?utm_source=rss)
- - [Sources: former Google exec Jeff Dean is in talks for $1B in funding at a ~$10B valuation for his new science and engineering-focused AI startup, Discovery Loop &lpar;Business Insider&rpar;](https://www.techmeme.com/260812/p55#a260812p55)
- - [Pixel 11 vs. Pixel 11 Pro vs. Pixel 11 Pro XL: Google’s Latest Phones Compared](https://www.cnet.com/tech/mobile/pixel-11-vs-pixel-11-pro-vs-pixel-11-pro-xl-googles-latest-phones-compared/)<!-- TECH:END -->
+ - [UK loses Basingstoke Apple Store after 15 years](https://appleinsider.com/articles/26/08/13/uk-loses-basingstoke-apple-store-after-15-years?utm_source=rss)
+ - [I love Pixel phones, but the Pixel 11 camera system isn’t enough](https://www.androidauthority.com/pixel-11-cameras-not-enough-3694391/)
+ - [There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It](https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
