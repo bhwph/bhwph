@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK loses Basingstoke Apple Store after 15 years](https://appleinsider.com/articles/26/08/13/uk-loses-basingstoke-apple-store-after-15-years?utm_source=rss)
- - [I love Pixel phones, but the Pixel 11 camera system isn’t enough](https://www.androidauthority.com/pixel-11-cameras-not-enough-3694391/)
- - [There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It](https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/)<!-- TECH:END -->
+ - [2K launches new studio to build its &amp;#8216;next blockbuster sports franchise&amp;#8217;](https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer)
+ - [Ramp&#39;s July AI index: Anthropic&#39;s market share hit 43.5%, widening its lead over OpenAI; Fable 5 is only 6% of tokens businesses bought, likely due to high cost &lpar;Ara Kharazian/Ramp&rpar;](https://www.techmeme.com/260813/p36#a260813p36)
+ - [Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul](https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
