@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Ultra screen protectors have asymmetric corners](https://appleinsider.com/articles/26/08/12/screen-protector-leak-shows-iphone-ultras-asymmetric-corners?utm_source=rss)
- - [Generative AI photo fakes could be exposed by new iPhone feature](https://appleinsider.com/articles/26/08/12/faked-photos-could-be-shown-up-by-new-iphone-feature?utm_source=rss)
- - [Gemini’s next wave of app integrations focuses on productivity, entertainment, and lifestyle](https://www.androidauthority.com/gemini-new-app-integrations-3697867/)<!-- TECH:END -->
+ - [Siri AI could get a boost from news content with new publisher deal](https://appleinsider.com/articles/26/08/13/siri-ai-could-get-a-boost-from-news-content-with-new-publisher-deal?utm_source=rss)
+ - [Sources: former Google exec Jeff Dean is in talks for $1B in funding at a ~$10B valuation for his new science and engineering-focused AI startup, Discovery Loop &lpar;Business Insider&rpar;](https://www.techmeme.com/260812/p55#a260812p55)
+ - [Pixel 11 vs. Pixel 11 Pro vs. Pixel 11 Pro XL: Google’s Latest Phones Compared](https://www.cnet.com/tech/mobile/pixel-11-vs-pixel-11-pro-vs-pixel-11-pro-xl-googles-latest-phones-compared/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
