@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39;s in the name](http://9gag.com/gag/azxNAbq)
- - 😝 [Bro is fighting for his life down there.](http://9gag.com/gag/aZZApZ0)
- - 👉 [Marisa tomei defies all laws of aging](http://9gag.com/gag/ajPbDYg)<!-- MEMES:END -->
+ - 6️⃣ [Dats a Long legged Croc](http://9gag.com/gag/aMVRwpX)
+ - 😝 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
+ - 👉 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
 
 --- 
 
