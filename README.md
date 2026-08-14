@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dats a Long legged Croc](http://9gag.com/gag/aMVRwpX)
- - 😝 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
- - 👉 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
+ - 6️⃣ [All approach diverted!](http://9gag.com/gag/adBZX8B)
+ - 😝 [Crazy world](http://9gag.com/gag/aKG02Vg)
+ - 👉 [Nice show](http://9gag.com/gag/aPANWgw)<!-- MEMES:END -->
 
 --- 
 
