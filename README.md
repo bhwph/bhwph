@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [All approach diverted!](http://9gag.com/gag/adBZX8B)
- - 😝 [Crazy world](http://9gag.com/gag/aKG02Vg)
- - 👉 [Nice show](http://9gag.com/gag/aPANWgw)<!-- MEMES:END -->
+ - 6️⃣ [Looks like the case solved itself.](https://www.reddit.com/r/funny/comments/1voce2k/looks_like_the_case_solved_itself/)
+ - 😝 [Bad idea at the beach](http://9gag.com/gag/aVvnDbM)
+ - 👉 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)<!-- MEMES:END -->
 
 --- 
 
