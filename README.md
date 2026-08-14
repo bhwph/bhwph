@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump declares 100 percent tariffs on many drones and all aircraft parts](https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts)
- - [Current and former OpenAI employees say pressure to quickly ship products left less time for safety, contributing to incidents like the rogue agent hack &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260813/p54#a260813p54)
- - [Applied Materials reports Q3 revenue up 25% YoY to $9.12B, vs. $8.99B est., net income up 43% to $2.54B, and forecasts Q4 revenue above estimates &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/260813/p53#a260813p53)<!-- TECH:END -->
+ - [Google Play Store hides Pixel 11 series discounts in plain sight](https://www.androidauthority.com/google-play-store-pixel-11-series-deals-3698684/)
+ - [Help build a monument to that ‘sad little bitch’ Elon Musk](https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument)
+ - [YouTube says there’s a reason its UI keeps changing, and it’s not to annoy you](https://www.androidauthority.com/youtube-explains-why-ui-keeps-changing-3698670/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
