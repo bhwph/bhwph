@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play Store hides Pixel 11 series discounts in plain sight](https://www.androidauthority.com/google-play-store-pixel-11-series-deals-3698684/)
- - [Help build a monument to that ‘sad little bitch’ Elon Musk](https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument)
- - [YouTube says there’s a reason its UI keeps changing, and it’s not to annoy you](https://www.androidauthority.com/youtube-explains-why-ui-keeps-changing-3698670/)<!-- TECH:END -->
+ - [You can now turn off Google Gemini&amp;#8217;s visible watermarks](https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal)
+ - [It&#39;s begun - US and Canadian firms can now buy ads on Apple Maps](https://appleinsider.com/articles/26/08/14/its-begun---us-and-canadian-firms-can-now-buy-ads-on-apple-maps?utm_source=rss)
+ - [Alibaba releases weights for Qwen3.8 models under Apache 2.0 license, including Qwen3.8-27B, which it says beats Qwen3.7-Plus and excels in real-world coding &lpar;@alibaba_qwen&rpar;](https://www.techmeme.com/260814/p16#a260814p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
