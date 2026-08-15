@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo receives approval from the California Public Utilities Commission to expand across 18 counties, including Sacramento and San Diego &lpar;Fred Lambert/Electrek&rpar;](https://www.techmeme.com/260814/p31#a260814p31)
- - [Sources: Nvidia has reworked a deal to finance an OpenAI Ohio data center campus so that it would initially guarantee only half of its planned $250B backstop &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/260814/p30#a260814p30)
- - [SpaceX closes its $60B acquisition of Cursor, two months after SpaceX formally announced it had agreed to acquire the startup &lpar;Bloomberg&rpar;](https://www.techmeme.com/260814/p29#a260814p29)<!-- TECH:END -->
+ - [Effective Altruism, hit by the SBF turmoil, is drawing record funding as Anthropic and OpenAI IPOs are set to mint new millionaires wedded to &quot;effective giving&quot; &lpar;Financial Times&rpar;](https://www.techmeme.com/260815/p7#a260815p7)
+ - [Point2 Technology, which develops RF-based data center interconnection tech, raised a $136M Series B from LB Investment, Arm, Maverick Silicon, and others &lpar;Giacomo Lee/SDxCentral&rpar;](https://www.techmeme.com/260815/p6#a260815p6)
+ - [SF-based Vals, which develops evaluations and benchmarks to test AI models on real-world tasks, raised a $40M Series A led by a16z at a $400M valuation &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](https://www.techmeme.com/260815/p5#a260815p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
