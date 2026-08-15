@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Go sports!](http://9gag.com/gag/azxNXPB)
- - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
- - 👉 [\u201dHe most be\u201d](http://9gag.com/gag/ae9obD5)<!-- MEMES:END -->
+ - 😝 [Would](http://9gag.com/gag/aoyrNm2)
+ - 👉 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)<!-- MEMES:END -->
 
 --- 
 
