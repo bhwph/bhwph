@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now turn off Google Gemini&amp;#8217;s visible watermarks](https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal)
- - [It&#39;s begun - US and Canadian firms can now buy ads on Apple Maps](https://appleinsider.com/articles/26/08/14/its-begun---us-and-canadian-firms-can-now-buy-ads-on-apple-maps?utm_source=rss)
- - [Alibaba releases weights for Qwen3.8 models under Apache 2.0 license, including Qwen3.8-27B, which it says beats Qwen3.7-Plus and excels in real-world coding &lpar;@alibaba_qwen&rpar;](https://www.techmeme.com/260814/p16#a260814p16)<!-- TECH:END -->
+ - [Waymo receives approval from the California Public Utilities Commission to expand across 18 counties, including Sacramento and San Diego &lpar;Fred Lambert/Electrek&rpar;](https://www.techmeme.com/260814/p31#a260814p31)
+ - [Sources: Nvidia has reworked a deal to finance an OpenAI Ohio data center campus so that it would initially guarantee only half of its planned $250B backstop &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/260814/p30#a260814p30)
+ - [SpaceX closes its $60B acquisition of Cursor, two months after SpaceX formally announced it had agreed to acquire the startup &lpar;Bloomberg&rpar;](https://www.techmeme.com/260814/p29#a260814p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
