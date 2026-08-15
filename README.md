@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Looks like the case solved itself.](https://www.reddit.com/r/funny/comments/1voce2k/looks_like_the_case_solved_itself/)
- - 😝 [Bad idea at the beach](http://9gag.com/gag/aVvnDbM)
- - 👉 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)<!-- MEMES:END -->
+ - 6️⃣ [Mexican army mistakenly shoots citizens in food-for-guns program.](http://9gag.com/gag/azxNqyp)
+ - 😝 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
+ - 👉 [Thirsty](http://9gag.com/gag/a0eAbnB)<!-- MEMES:END -->
 
 --- 
 
