@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mexican army mistakenly shoots citizens in food-for-guns program.](http://9gag.com/gag/azxNqyp)
- - 😝 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
- - 👉 [Thirsty](http://9gag.com/gag/a0eAbnB)<!-- MEMES:END -->
+ - 6️⃣ [Go sports!](http://9gag.com/gag/azxNXPB)
+ - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
+ - 👉 [\u201dHe most be\u201d](http://9gag.com/gag/ae9obD5)<!-- MEMES:END -->
 
 --- 
 
