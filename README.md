@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Effective Altruism, hit by the SBF turmoil, is drawing record funding as Anthropic and OpenAI IPOs are set to mint new millionaires wedded to &quot;effective giving&quot; &lpar;Financial Times&rpar;](https://www.techmeme.com/260815/p7#a260815p7)
- - [Point2 Technology, which develops RF-based data center interconnection tech, raised a $136M Series B from LB Investment, Arm, Maverick Silicon, and others &lpar;Giacomo Lee/SDxCentral&rpar;](https://www.techmeme.com/260815/p6#a260815p6)
- - [SF-based Vals, which develops evaluations and benchmarks to test AI models on real-world tasks, raised a $40M Series A led by a16z at a $400M valuation &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](https://www.techmeme.com/260815/p5#a260815p5)<!-- TECH:END -->
+ - [Anthropic details Claude&#39;s text watermark: it only shows Claude was likely involved, is sparse in code and factual text, and disappears after a full rewrite &lpar;Anthropic&rpar;](https://www.techmeme.com/260815/p11#a260815p11)
+ - [Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals](https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview)
+ - [Star Wars: Ahsoka season 2 and Starfighter get teased at D23](https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
