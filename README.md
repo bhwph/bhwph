@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Random](http://9gag.com/gag/a5QmMrL)
- - 😝 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
- - 👉 [Dumbest man](http://9gag.com/gag/agmMn0g)<!-- MEMES:END -->
+ - 6️⃣ [Full package](http://9gag.com/gag/azxN9zq)
+ - 😝 [Random](http://9gag.com/gag/a5QmMrL)
+ - 👉 [The Forest Grump](http://9gag.com/gag/aVvnY1y)<!-- MEMES:END -->
 
 --- 
 
