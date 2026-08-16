@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Full package](http://9gag.com/gag/azxN9zq)
- - 😝 [Random](http://9gag.com/gag/a5QmMrL)
- - 👉 [The Forest Grump](http://9gag.com/gag/aVvnY1y)<!-- MEMES:END -->
+ - 😝 [Classic neighborly exchange](http://9gag.com/gag/aRB51wQ)
+ - 👉 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)<!-- MEMES:END -->
 
 --- 
 
