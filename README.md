@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Go sports!](http://9gag.com/gag/azxNXPB)
- - 😝 [Would](http://9gag.com/gag/aoyrNm2)
- - 👉 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)<!-- MEMES:END -->
+ - 6️⃣ [Random](http://9gag.com/gag/a5QmMrL)
+ - 😝 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
+ - 👉 [Dumbest man](http://9gag.com/gag/agmMn0g)<!-- MEMES:END -->
 
 --- 
 
