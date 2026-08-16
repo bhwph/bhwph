@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic details Claude&#39;s text watermark: it only shows Claude was likely involved, is sparse in code and factual text, and disappears after a full rewrite &lpar;Anthropic&rpar;](https://www.techmeme.com/260815/p11#a260815p11)
- - [Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals](https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview)
- - [Star Wars: Ahsoka season 2 and Starfighter get teased at D23](https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23)<!-- TECH:END -->
+ - [Dario Amodei shares his view on AI regulation, says open-weights aren&#39;t a &quot;sufficient&quot; solution, defends testing, highlights a &quot;crisis of trust&quot; in AI, and more &lpar;Dario Amodei/@darioamodei&rpar;](https://www.techmeme.com/260815/p17#a260815p17)
+ - [Disney’s Millennium Falcon Ride Activates Fortnite In-Game Rewards](https://www.cnet.com/tech/gaming/disneys-millennium-falcon-ride-activates-fortnite-in-game-rewards/)
+ - [How Congressional lawmakers and aides are using AI tools with little oversight to write speeches and news releases, sort constituent mail, and more &lpar;Anna Liss-Roy/Washington Post&rpar;](https://www.techmeme.com/260815/p16#a260815p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
