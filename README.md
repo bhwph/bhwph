@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fields Medalist Timothy Gowers says most famous mathematics problems solved by LLMs so far have almost all been with counterexamples rather than proofs &lpar;Timothy Gowers/Gowers&#39;s Weblog&rpar;](https://www.techmeme.com/260816/p4#a260816p4)
- - [Hugging Face says developers made 151K+ derivatives based on Qwen models, topping others, making Qwen one of the largest foundations in the open model ecosystem &lpar;Hugging Face&rpar;](https://www.techmeme.com/260816/p3#a260816p3)
- - [BlackBerry posted a positive cash position in Q1, its first cash-positive first quarter in any fiscal year since 2017, driven by its QNX and Secusmart products &lpar;Ilya Gridneff/Financial Times&rpar;](https://www.techmeme.com/260816/p2#a260816p2)<!-- TECH:END -->
+ - [Deals: AirPods 4 with ANC plunge to $134, AirTag returns to $24.99](https://appleinsider.com/articles/26/08/16/deals-airpods-4-with-anc-plunge-to-134-airtag-returns-to-2499?utm_source=rss)
+ - [Mozilla gradually rolls out an ad-blocker built into Firefox for iOS](https://appleinsider.com/articles/26/08/16/mozilla-gradually-rolls-out-an-ad-blocker-built-into-firefox-for-ios?utm_source=rss)
+ - [How concerns about AI became an important midterms issue, with candidates adding AI and data center policies to their websites in ~40% of races across the US &lpar;Washington Post&rpar;](https://www.techmeme.com/260816/p7#a260816p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
