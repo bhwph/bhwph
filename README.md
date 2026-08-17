@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: AirPods 4 with ANC plunge to $134, AirTag returns to $24.99](https://appleinsider.com/articles/26/08/16/deals-airpods-4-with-anc-plunge-to-134-airtag-returns-to-2499?utm_source=rss)
- - [Mozilla gradually rolls out an ad-blocker built into Firefox for iOS](https://appleinsider.com/articles/26/08/16/mozilla-gradually-rolls-out-an-ad-blocker-built-into-firefox-for-ios?utm_source=rss)
- - [How concerns about AI became an important midterms issue, with candidates adding AI and data center policies to their websites in ~40% of races across the US &lpar;Washington Post&rpar;](https://www.techmeme.com/260816/p7#a260816p7)<!-- TECH:END -->
+ - [A look at companies like Inception Point creating AI personas for media, fashion, film, and music industries that could host podcasts, model clothes, and more &lpar;Reggie Ugwu/New York Times&rpar;](https://www.techmeme.com/260816/p12#a260816p12)
+ - [How a Claude model made a math breakthrough during its unsuccessful 54-hour attempt to solve the Riemann hypothesis after a user repeatedly encouraged it &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260816/p11#a260816p11)
+ - [OpenAI reportedly disbanded its preparedness team](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
