@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)
- - 😝 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
- - 👉 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)<!-- MEMES:END -->
+ - 6️⃣ [Full package](http://9gag.com/gag/azxN9zq)
+ - 😝 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
+ - 👉 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)<!-- MEMES:END -->
 
 --- 
 
