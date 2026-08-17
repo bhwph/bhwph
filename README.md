@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at companies like Inception Point creating AI personas for media, fashion, film, and music industries that could host podcasts, model clothes, and more &lpar;Reggie Ugwu/New York Times&rpar;](https://www.techmeme.com/260816/p12#a260816p12)
- - [How a Claude model made a math breakthrough during its unsuccessful 54-hour attempt to solve the Riemann hypothesis after a user repeatedly encouraged it &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260816/p11#a260816p11)
- - [OpenAI reportedly disbanded its preparedness team](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team)<!-- TECH:END -->
+ - [How US industrial companies like Caterpillar, Cummins, Eaton, and Ford are pivoting their businesses to feed a booming AI data-center market for power equipment &lpar;Bob Tita/Wall Street Journal&rpar;](https://www.techmeme.com/260817/p5#a260817p5)
+ - [Anthropic reveals how Claude secretly watermarks AI-written text](https://www.androidauthority.com/how-claude-watermarks-text-3699100/)
+ - [I’m hooked on Peak Design’s new City bags](https://www.theverge.com/tech/980137/peak-design-city-line-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
