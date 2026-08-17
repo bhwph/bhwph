@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How US industrial companies like Caterpillar, Cummins, Eaton, and Ford are pivoting their businesses to feed a booming AI data-center market for power equipment &lpar;Bob Tita/Wall Street Journal&rpar;](https://www.techmeme.com/260817/p5#a260817p5)
- - [Anthropic reveals how Claude secretly watermarks AI-written text](https://www.androidauthority.com/how-claude-watermarks-text-3699100/)
- - [I’m hooked on Peak Design’s new City bags](https://www.theverge.com/tech/980137/peak-design-city-line-review)<!-- TECH:END -->
+ - [Wearables are splitting into two camps, and Garmin is winning one](https://www.androidauthority.com/wearable-shipments-fall-smartwatch-market-screenless-trackers-3699350/)
+ - [Nothing Headphone &lpar;a&rpar; drops to a record-low price on Amazon](https://www.androidauthority.com/nothing-headphone-a-deal-3699421/)
+ - [How German regulators are cracking down on App Tracking Transparency](https://appleinsider.com/articles/26/08/17/how-german-regulators-are-cracking-down-on-app-tracking-transparency?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
