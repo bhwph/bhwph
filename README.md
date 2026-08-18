@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wearables are splitting into two camps, and Garmin is winning one](https://www.androidauthority.com/wearable-shipments-fall-smartwatch-market-screenless-trackers-3699350/)
- - [Nothing Headphone &lpar;a&rpar; drops to a record-low price on Amazon](https://www.androidauthority.com/nothing-headphone-a-deal-3699421/)
- - [How German regulators are cracking down on App Tracking Transparency](https://appleinsider.com/articles/26/08/17/how-german-regulators-are-cracking-down-on-app-tracking-transparency?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Situational Awareness offered part of its $5B Anthropic stake at a 20% discount as it scrambled for cash; word of its trouble left it &quot;being hunted&quot; &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260817/p37#a260817p37)
+ - [macOS Tahoe 26.7 beta references several unreleased products like Home Hub](https://appleinsider.com/articles/26/08/18/macos-tahoe-267-beta-references-several-unreleased-products-like-home-hub?utm_source=rss)
+ - [Planned US Data Centers Set to Produce 24M Cars’ Worth Of Carbon Dioxide](https://www.cnet.com/tech/tech-industry/planned-us-data-centers-set-to-produce-24m-cars-worth-of-co2/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
