@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I can fix her](http://9gag.com/gag/aoyrMx2)
- - 😝 [Rip Hayden](http://9gag.com/gag/aoyrPog)
- - 👉 [Touch\u00e9](http://9gag.com/gag/aNDxpPb)<!-- MEMES:END -->
+ - 6️⃣ [BLIND CIGARETTE TASTE TEST](http://9gag.com/gag/aByqmnD)
+ - 😝 [Wave After Wave](http://9gag.com/gag/azxNMEK)
+ - 👉 [We failed! R.I.P Hayden Panettiere](http://9gag.com/gag/agmMA41)<!-- MEMES:END -->
 
 --- 
 
