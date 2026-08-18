@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on videos show off Galaxy S26 FE, confirm that crazy Horizontal Lock video mode](https://www.androidauthority.com/samsung-galaxy-s26-fe-hands-on-videos-leak-3699595/)
- - [In filings, Apple acknowledges App Store regulatory changes are weighing on its $100B+ services business; US App Store spend fell 6% in Q2, per Sensor Tower &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/260818/p3#a260818p3)
- - [Samsung’s One UI 9.5 could get a new connectivity hub, courtesy of Google](https://www.androidauthority.com/one-ui-9-5-satellite-connectivity-usb-mode-3699598/)<!-- TECH:END -->
+ - [Apple unveils new EU business terms from October 1, resolving disputes with the EU, including a new Core Technology Commission and App Store commission tiers &lpar;Apple&rpar;](https://www.techmeme.com/260818/p25#a260818p25)
+ - [Harvey announces Harvey Tenet, its first in-house, proprietary model for legal work, trained on mock disputes and case files using a version of Kimi K3 &lpar;Melia Robinson/Business Insider&rpar;](https://www.techmeme.com/260818/p24#a260818p24)
+ - [Apple&#39;s product identifier leak is a hard mystery to solve](https://appleinsider.com/articles/26/08/18/apples-product-identifier-leak-is-a-hard-mystery-to-solve?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
