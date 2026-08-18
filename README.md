@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Situational Awareness offered part of its $5B Anthropic stake at a 20% discount as it scrambled for cash; word of its trouble left it &quot;being hunted&quot; &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260817/p37#a260817p37)
- - [macOS Tahoe 26.7 beta references several unreleased products like Home Hub](https://appleinsider.com/articles/26/08/18/macos-tahoe-267-beta-references-several-unreleased-products-like-home-hub?utm_source=rss)
- - [Planned US Data Centers Set to Produce 24M Cars’ Worth Of Carbon Dioxide](https://www.cnet.com/tech/tech-industry/planned-us-data-centers-set-to-produce-24m-cars-worth-of-co2/)<!-- TECH:END -->
+ - [Hands-on videos show off Galaxy S26 FE, confirm that crazy Horizontal Lock video mode](https://www.androidauthority.com/samsung-galaxy-s26-fe-hands-on-videos-leak-3699595/)
+ - [In filings, Apple acknowledges App Store regulatory changes are weighing on its $100B+ services business; US App Store spend fell 6% in Q2, per Sensor Tower &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/260818/p3#a260818p3)
+ - [Samsung’s One UI 9.5 could get a new connectivity hub, courtesy of Google](https://www.androidauthority.com/one-ui-9-5-satellite-connectivity-usb-mode-3699598/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
