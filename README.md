@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Full package](http://9gag.com/gag/azxN9zq)
- - 😝 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
- - 👉 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)<!-- MEMES:END -->
+ - 6️⃣ [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)
+ - 😝 [Just American thing](http://9gag.com/gag/aLnY06x)
+ - 👉 [Biggest scientific mystery on earth is the great unconformity, which is a barrier that has been observed globally where the rocks above a certain point are 500 million years old and the rocks below that line are 1.7 billion years old. 1.2 billion years of rock layers are missing](http://9gag.com/gag/aByq23P)<!-- MEMES:END -->
 
 --- 
 
