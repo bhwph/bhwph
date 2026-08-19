@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US tech companies are offering community investments, guaranteed jobs, and hosting open houses to address concerns and win public support for AI data centers &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260819/p7#a260819p7)
- - [HP’s Googlebook leak highlights support for ‘Continue On,’ Google’s version of Handoff](https://www.androidauthority.com/hp-googlebook-leak-handoff-3700179/)
- - [AI evaluation lab Irregular&#39;s report on its role in hacking incidents involving OpenAI, Anthropic, and Meta models faces criticism over unanswered questions &lpar;Alexander Martin/The Record&rpar;](https://www.techmeme.com/260819/p6#a260819p6)<!-- TECH:END -->
+ - [Google Pixel 11 Pro review: Magic Capture and the voice-to-text Rambler features are very useful but subpar gaming performance and HiLight is useless &lpar;Julian Chokkattu/Wired&rpar;](https://www.techmeme.com/260819/p31#a260819p31)
+ - [Pixel Buds Pro 2 in Google’s new Olive finish are already $40 off at Amazon](https://www.androidauthority.com/google-pixel-buds-pro-2-olive-deal-3700626/)
+ - [Google Pixel 11 Pro Fold review: tougher body with IP68 rating and a decent triple rear camera but an iterative hardware upgrade with design that feels dated &lpar;Dominic Preston/The Verge&rpar;](https://www.techmeme.com/260819/p30#a260819p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
