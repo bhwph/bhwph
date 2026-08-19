@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ouuu shii ☠️](https://www.reddit.com/r/funny/comments/1vsgeu9/ouuu_shii/)
- - 😝 [Magneto over here](http://9gag.com/gag/aByq26Z)
- - 👉 [Girls when I arrive](http://9gag.com/gag/axyxM71)<!-- MEMES:END -->
+ - 6️⃣ [The Plot](http://9gag.com/gag/aByqd31)
+ - 😝 [Ojichan](http://9gag.com/gag/aLnYpgx)
+ - 👉 [Booked a YEAR in India. Lasted 2 WEEKS.](http://9gag.com/gag/aE0rq5x)<!-- MEMES:END -->
 
 --- 
 
