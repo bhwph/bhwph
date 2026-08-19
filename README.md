@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils new EU business terms from October 1, resolving disputes with the EU, including a new Core Technology Commission and App Store commission tiers &lpar;Apple&rpar;](https://www.techmeme.com/260818/p25#a260818p25)
- - [Harvey announces Harvey Tenet, its first in-house, proprietary model for legal work, trained on mock disputes and case files using a version of Kimi K3 &lpar;Melia Robinson/Business Insider&rpar;](https://www.techmeme.com/260818/p24#a260818p24)
- - [Apple&#39;s product identifier leak is a hard mystery to solve](https://appleinsider.com/articles/26/08/18/apples-product-identifier-leak-is-a-hard-mystery-to-solve?utm_source=rss)<!-- TECH:END -->
+ - [Cerebras unveils CS-4, a server rack powered by three WSE-3 Turbo chips and built around its new Nexus architecture, with first shipments starting this quarter &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260818/p41#a260818p41)
+ - [New Google Ad Shows a Mysterious Wearable. Is It the Next Fitbit?](https://www.cnet.com/tech/mobile/new-google-ad-never-before-seen-device-next-fitbit/)
+ - [Survey: 52% of Americans say they are more concerned than excited about increased AI use in daily life, up from 37% in 2021, including 55% of those under 30 &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260818/p40#a260818p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
