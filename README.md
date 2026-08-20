@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 11 Pro review: Magic Capture and the voice-to-text Rambler features are very useful but subpar gaming performance and HiLight is useless &lpar;Julian Chokkattu/Wired&rpar;](https://www.techmeme.com/260819/p31#a260819p31)
- - [Pixel Buds Pro 2 in Google’s new Olive finish are already $40 off at Amazon](https://www.androidauthority.com/google-pixel-buds-pro-2-olive-deal-3700626/)
- - [Google Pixel 11 Pro Fold review: tougher body with IP68 rating and a decent triple rear camera but an iterative hardware upgrade with design that feels dated &lpar;Dominic Preston/The Verge&rpar;](https://www.techmeme.com/260819/p30#a260819p30)<!-- TECH:END -->
+ - [German insurance giant Munich Re agrees to acquire cyber insurance provider At-Bay for $575M; At-Bay has raised $276M and was last valued at $1.35B in 2021 &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260819/p49#a260819p49)
+ - [Schlage Sense Pro review: UWB Home Key proves itself again on this sleek smart lock](https://appleinsider.com/articles/26/08/20/schlage-sense-pro-review-uwb-home-key-proves-itself-again-on-this-sleek-smart-lock?utm_source=rss)
+ - [Google Goes Back to School With New AI Study Tools](https://www.cnet.com/tech/google-gemini-search-ai-study-tools/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
