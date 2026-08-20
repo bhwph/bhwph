@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17’s new distraction-killer is a Pixel 11 exclusive, Google confirms](https://www.androidauthority.com/android-17-pause-point-digital-wellbeing-pixel-11-exclusive-3700872/)
- - [Struggling to see emoji? Gboard is rolling out a solution right now](https://www.androidauthority.com/gboard-emoji-slider-rollout-3700850/)
- - [London-based Callosum, whose software matches AI tasks with different models and chips, raised a $100M seed from Atomico, UK Sovereign AI Fund, and others &lpar;Bloomberg&rpar;](https://www.techmeme.com/260820/p7#a260820p7)<!-- TECH:END -->
+ - [Amazon drops the TCL NXTPAPER 70 Pro below $280 in this best-price deal](https://www.androidauthority.com/tcl-nxtpaper-70-pro-deal-3701225/)
+ - [The FTC Wants Companies to Tell You When They Set Personalized Prices](https://www.cnet.com/news/privacy/the-ftc-personalized-pricing-act/)
+ - [The Chinese city of Hangzhou deploys traffic-control robots that operate autonomously, using cameras and radar to signal traffic and flag violations &lpar;Reuters&rpar;](https://www.techmeme.com/260820/p26#a260820p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
