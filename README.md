@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The Plot](http://9gag.com/gag/aByqd31)
- - 😝 [Ojichan](http://9gag.com/gag/aLnYpgx)
- - 👉 [Booked a YEAR in India. Lasted 2 WEEKS.](http://9gag.com/gag/aE0rq5x)<!-- MEMES:END -->
+ - 6️⃣ [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
+ - 😝 [I should start excercising.](http://9gag.com/gag/amojgv9)
+ - 👉 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)<!-- MEMES:END -->
 
 --- 
 
