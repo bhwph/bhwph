@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
- - 😝 [I should start excercising.](http://9gag.com/gag/amojgv9)
- - 👉 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)<!-- MEMES:END -->
+ - 6️⃣ [In case men of culture one day they need to change the plane tyre](http://9gag.com/gag/aXPDnGD)
+ - 😝 [You are no longer depressed and very happy. Have a nice day.](http://9gag.com/gag/aVvnxxM)
+ - 👉 [The main star](http://9gag.com/gag/ayNg9Or)<!-- MEMES:END -->
 
 --- 
 
