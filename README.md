@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [In case men of culture one day they need to change the plane tyre](http://9gag.com/gag/aXPDnGD)
- - 😝 [You are no longer depressed and very happy. Have a nice day.](http://9gag.com/gag/aVvnxxM)
- - 👉 [The main star](http://9gag.com/gag/ayNg9Or)<!-- MEMES:END -->
+ - 6️⃣ [3 feet.](http://9gag.com/gag/an7pzRL)
+ - 😝 [Wait I seen this somewhere...](http://9gag.com/gag/aLnYvyW)
+ - 👉 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)<!-- MEMES:END -->
 
 --- 
 
