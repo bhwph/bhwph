@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [German insurance giant Munich Re agrees to acquire cyber insurance provider At-Bay for $575M; At-Bay has raised $276M and was last valued at $1.35B in 2021 &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260819/p49#a260819p49)
- - [Schlage Sense Pro review: UWB Home Key proves itself again on this sleek smart lock](https://appleinsider.com/articles/26/08/20/schlage-sense-pro-review-uwb-home-key-proves-itself-again-on-this-sleek-smart-lock?utm_source=rss)
- - [Google Goes Back to School With New AI Study Tools](https://www.cnet.com/tech/google-gemini-search-ai-study-tools/)<!-- TECH:END -->
+ - [Android 17’s new distraction-killer is a Pixel 11 exclusive, Google confirms](https://www.androidauthority.com/android-17-pause-point-digital-wellbeing-pixel-11-exclusive-3700872/)
+ - [Struggling to see emoji? Gboard is rolling out a solution right now](https://www.androidauthority.com/gboard-emoji-slider-rollout-3700850/)
+ - [London-based Callosum, whose software matches AI tasks with different models and chips, raised a $100M seed from Atomico, UK Sovereign AI Fund, and others &lpar;Bloomberg&rpar;](https://www.techmeme.com/260820/p7#a260820p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
