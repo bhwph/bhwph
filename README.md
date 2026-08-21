@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
- - 😝 [Wamen](http://9gag.com/gag/an7pO75)
- - 👉 [Harley quinn tv series](http://9gag.com/gag/a1mzPnD)<!-- MEMES:END -->
+ - 6️⃣ [English is hard](http://9gag.com/gag/apRy32p)
+ - 😝 [Albania is the only European country that discharges all of its raw, untreated sewage directly into the sea, near tourist beaches. Example here at Gjiri i Lalzit\u2019s `elite resort` in the middle of high season.](http://9gag.com/gag/aoyry8e)
+ - 👉 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)<!-- MEMES:END -->
 
 --- 
 
