@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge tosses part of the conviction of ex-Google engineer Linwei Ding, who was found guilty of stealing AI trade secrets to benefit two Chinese companies &lpar;Tom Hals/Reuters&rpar;](https://www.techmeme.com/260820/p44#a260820p44)
- - [Hisense TopLift dehumidifier review: Matter-enabled for hot summer months](https://appleinsider.com/articles/26/08/21/hisense-toplift-dehumidifier-review-matter-enabled-for-hot-summer-months?utm_source=rss)
- - [Netflix Drops Trailers for ‘Blue Eye Samurai’ Season 2, Cyberpunk: Edgerunners 2 and More at Anime NYC 2026](https://www.cnet.com/tech/services-and-software/netflix-drops-trailers-for-blue-eye-samurai-season-2-cyberpunk-edgerunners-2-and-more-at-anime-nyc-2026/)<!-- TECH:END -->
+ - [New ASUS Googlebook leak shows more configurations and pricing details](https://www.androidauthority.com/asus-cx9406-googlebook-leak-16gb-ram-3701366/)
+ - [The best PS3 emulator on Android just got online play](https://www.androidauthority.com/armsx3-ps3-emulator-android-online-play-3701355/)
+ - [RayNeo wants its new iO Smart Glasses to be the reason you stop reaching for your phone](https://www.androidauthority.com/rayneo-glasses-reduce-smartphone-use-3700718/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
