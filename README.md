@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New ASUS Googlebook leak shows more configurations and pricing details](https://www.androidauthority.com/asus-cx9406-googlebook-leak-16gb-ram-3701366/)
- - [The best PS3 emulator on Android just got online play](https://www.androidauthority.com/armsx3-ps3-emulator-android-online-play-3701355/)
- - [RayNeo wants its new iO Smart Glasses to be the reason you stop reaching for your phone](https://www.androidauthority.com/rayneo-glasses-reduce-smartphone-use-3700718/)<!-- TECH:END -->
+ - [Walmart, which has long resisted contactless Tap to Pay payments, says it will soon start rolling out the tech, which supports Apple Pay, Google Pay, and more &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260821/p15#a260821p15)
+ - [Samsung Galaxy S26 FE gets an early unboxing, revealing key design details](https://www.androidauthority.com/samsung-galaxy-s26-fe-unboxing-video-leak-3701540/)
+ - [Filings: Apple paid Ireland $17B in taxes last year, after an EU court ordered it to pay €13B in back taxes; Apple paid $43B in corporate income taxes globally &lpar;Jamie John/Financial Times&rpar;](https://www.techmeme.com/260821/p14#a260821p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
