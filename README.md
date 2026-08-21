@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon drops the TCL NXTPAPER 70 Pro below $280 in this best-price deal](https://www.androidauthority.com/tcl-nxtpaper-70-pro-deal-3701225/)
- - [The FTC Wants Companies to Tell You When They Set Personalized Prices](https://www.cnet.com/news/privacy/the-ftc-personalized-pricing-act/)
- - [The Chinese city of Hangzhou deploys traffic-control robots that operate autonomously, using cameras and radar to signal traffic and flag violations &lpar;Reuters&rpar;](https://www.techmeme.com/260820/p26#a260820p26)<!-- TECH:END -->
+ - [A US judge tosses part of the conviction of ex-Google engineer Linwei Ding, who was found guilty of stealing AI trade secrets to benefit two Chinese companies &lpar;Tom Hals/Reuters&rpar;](https://www.techmeme.com/260820/p44#a260820p44)
+ - [Hisense TopLift dehumidifier review: Matter-enabled for hot summer months](https://appleinsider.com/articles/26/08/21/hisense-toplift-dehumidifier-review-matter-enabled-for-hot-summer-months?utm_source=rss)
+ - [Netflix Drops Trailers for ‘Blue Eye Samurai’ Season 2, Cyberpunk: Edgerunners 2 and More at Anime NYC 2026](https://www.cnet.com/tech/services-and-software/netflix-drops-trailers-for-blue-eye-samurai-season-2-cyberpunk-edgerunners-2-and-more-at-anime-nyc-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
