@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With each successive era of AI, from early scaling, to reasoning, to agentic, open models have taken half as long to catch up to the first closed model &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260822/p4#a260822p4)
- - [Rundoo, a provider of AI-powered business operations software for independent supply stores, raised a $30M Series B led by Battery Ventures &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260822/p3#a260822p3)
- - [OpenAI President Greg Brockman&#39;s role has expanded significantly, giving him control over its product and scaling teams following a wave of executive departures &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260822/p2#a260822p2)<!-- TECH:END -->
+ - [W. Kamau Bell has the most practical ‘most indispensable tool’](https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview)
+ - [Ox Alpha, a &quot;stealth model&quot; from an unknown AI lab with a 1M-token multimodal context and capacity for 100T tokens/day, goes viral after launching on OpenRouter &lpar;Rohail Saleem/Wccftech&rpar;](https://www.techmeme.com/260822/p7#a260822p7)
+ - [Cheap energy, abundant land, and proximity to Beijing have made Ulanqab, Inner Mongolia, a data center hub, with ~100 data centers built or under construction &lpar;Zeyi Yang/Wired&rpar;](https://www.techmeme.com/260822/p6#a260822p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
