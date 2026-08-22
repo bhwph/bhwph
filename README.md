@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Those are the facts.](http://9gag.com/gag/azxNPDx)
- - 😝 [Neuron activation](http://9gag.com/gag/amojGMj)
- - 👉 [What\u2019s the point of having all this if you spend all your time at work just to afford it?](http://9gag.com/gag/azxNdpb)<!-- MEMES:END -->
+ - 6️⃣ [Soon](http://9gag.com/gag/aVvnENd)
+ - 😝 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)
+ - 👉 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)<!-- MEMES:END -->
 
 --- 
 
