@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart, which has long resisted contactless Tap to Pay payments, says it will soon start rolling out the tech, which supports Apple Pay, Google Pay, and more &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260821/p15#a260821p15)
- - [Samsung Galaxy S26 FE gets an early unboxing, revealing key design details](https://www.androidauthority.com/samsung-galaxy-s26-fe-unboxing-video-leak-3701540/)
- - [Filings: Apple paid Ireland $17B in taxes last year, after an EU court ordered it to pay €13B in back taxes; Apple paid $43B in corporate income taxes globally &lpar;Jamie John/Financial Times&rpar;](https://www.techmeme.com/260821/p14#a260821p14)<!-- TECH:END -->
+ - [Sources: Anthropic&#39;s bankers said the company could raise $100B+ in its IPO, which could value it at $2T, in recent discussions with potential investors &lpar;New York Times&rpar;](https://www.techmeme.com/260821/p32#a260821p32)
+ - [Amazon raises prices for its Echo smart speakers, Fire TV line, Kindle devices, and eero mesh networking systems to offset increases in memory and storage costs &lpar;Sebastian Herrera/Fortune&rpar;](https://www.techmeme.com/260821/p31#a260821p31)
+ - [Xbox Series X Special Edition Pricing Confirms 2026 Is a Bad Year for Gamers](https://www.cnet.com/tech/gaming/xbox-series-x-special-edition-price-2026-bad-year-for-gamers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
