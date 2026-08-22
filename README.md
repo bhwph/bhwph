@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Soon](http://9gag.com/gag/aVvnENd)
- - 😝 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)
- - 👉 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)<!-- MEMES:END -->
+ - 6️⃣ [A helping foot](http://9gag.com/gag/a6ZvXnA)
+ - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
+ - 👉 [Hhe whole court case was a comedy skit](http://9gag.com/gag/amojGR2)<!-- MEMES:END -->
 
 --- 
 
