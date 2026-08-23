@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Judge Yvonne Gonzalez Rogers, who is presiding over US state AGs&#39; social media addiction lawsuit against Meta and oversaw the Musk v. Altman trial &lpar;Jeffrey Kopp/CNBC&rpar;](https://www.techmeme.com/260823/p4#a260823p4)
- - [The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course &lpar;Financial Times&rpar;](https://www.techmeme.com/260823/p3#a260823p3)
- - [Sources: Flipkart Minutes, the quick commerce service of Walmart&#39;s Flipkart, is now delivering 1.1M-1.2M orders per day, up from ~390K-400K in November 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260823/p2#a260823p2)<!-- TECH:END -->
+ - [Alibaba plans to raise ~$10B in a follow-on share offering to fund AI investments; sources: it plans to offer 710M shares at a 3.6% discount to Friday&#39;s close &lpar;Reuters&rpar;](https://www.techmeme.com/260823/p7#a260823p7)
+ - [Apple Stores refresh prepares to push a big smart home revamp](https://appleinsider.com/articles/26/08/23/apple-stores-refresh-aims-to-push-a-big-smart-home-revamp?utm_source=rss)
+ - [It&#39;s anyone&#39;s guess how high iPhone prices might go, but $100 more might be enough](https://appleinsider.com/articles/26/08/23/its-anyones-guess-how-high-iphone-prices-might-go-but-100-might-be-enough?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
