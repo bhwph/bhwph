@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Neuron activation](http://9gag.com/gag/amojGMj)
- - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
- - 👉 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)<!-- MEMES:END -->
+ - 6️⃣ [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)
+ - 😝 [Torta](http://9gag.com/gag/aVvnmoy)
+ - 👉 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)<!-- MEMES:END -->
 
 --- 
 
