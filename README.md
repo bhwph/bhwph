@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A helping foot](http://9gag.com/gag/a6ZvXnA)
- - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
- - 👉 [Hhe whole court case was a comedy skit](http://9gag.com/gag/amojGR2)<!-- MEMES:END -->
+ - 6️⃣ [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)
+ - 😝 [Actual journalism](http://9gag.com/gag/azxNKxq)
+ - 👉 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)<!-- MEMES:END -->
 
 --- 
 
