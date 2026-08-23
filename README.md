@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [W. Kamau Bell has the most practical ‘most indispensable tool’](https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview)
- - [Ox Alpha, a &quot;stealth model&quot; from an unknown AI lab with a 1M-token multimodal context and capacity for 100T tokens/day, goes viral after launching on OpenRouter &lpar;Rohail Saleem/Wccftech&rpar;](https://www.techmeme.com/260822/p7#a260822p7)
- - [Cheap energy, abundant land, and proximity to Beijing have made Ulanqab, Inner Mongolia, a data center hub, with ~100 data centers built or under construction &lpar;Zeyi Yang/Wired&rpar;](https://www.techmeme.com/260822/p6#a260822p6)<!-- TECH:END -->
+ - [Sources and documents detail how Tether&#39;s plan to build two bitcoin mining sites in Uruguay fell apart amid a dispute with state utility UTE over power supply &lpar;Reuters&rpar;](https://www.techmeme.com/260822/p14#a260822p14)
+ - [AI agents&#39; growing capabilities are driving productivity FOMO among some startup founders, who feel compelled to work long hours managing and guiding the agents &lpar;Katherine Bindley/Wall Street Journal&rpar;](https://www.techmeme.com/260822/p13#a260822p13)
+ - [London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260822/p12#a260822p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
