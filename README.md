@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
- - 😝 [Title](http://9gag.com/gag/a9yQ8mK)
- - 👉 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)<!-- MEMES:END -->
+ - 6️⃣ [Title](http://9gag.com/gag/a9yQ8mK)
+ - 😝 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
+ - 👉 [Core strength level expert](http://9gag.com/gag/aLnYG7M)<!-- MEMES:END -->
 
 --- 
 
