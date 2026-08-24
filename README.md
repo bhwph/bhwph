@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump says communities that oppose data centers are &quot;making a mistake&quot; as they create &quot;tremendous amounts of jobs and money&quot;, amid bipartisan backlash &lpar;Rebecca Falconer/Axios&rpar;](https://www.techmeme.com/260823/p13#a260823p13)
- - [Filing: Shein will debut on the Hong Kong exchange on Sept. 1, seeking up to $1.8B in its IPO with Goldman Sachs, Morgan Stanley, and JPMorgan as joint sponsors &lpar;Julia Fioretti/Bloomberg&rpar;](https://www.techmeme.com/260823/p12#a260823p12)
- - [Sam Altman says AI could end up controlled by a few powerful players, partly because AI fears could push people to trade &quot;a lot of liberty for safety&quot; &lpar;Truman Dickerson/Business Insider&rpar;](https://www.techmeme.com/260823/p11#a260823p11)<!-- TECH:END -->
+ - [Android Pulse app may already be on your phone, and now we know what it does](https://www.androidauthority.com/android-pulse-app-on-play-store-3702042/)
+ - [A look at the collapse of Zondacrypto, Eastern and Central Europe&#39;s biggest crypto exchange, which went dark in April and is facing money laundering allegations &lpar;Andrew Higgins/New York Times&rpar;](https://www.techmeme.com/260824/p4#a260824p4)
+ - [You’re not alone: Claude is down right now](https://www.androidauthority.com/claude-outage-august-24-3702012/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
