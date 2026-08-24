@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Pulse app may already be on your phone, and now we know what it does](https://www.androidauthority.com/android-pulse-app-on-play-store-3702042/)
- - [A look at the collapse of Zondacrypto, Eastern and Central Europe&#39;s biggest crypto exchange, which went dark in April and is facing money laundering allegations &lpar;Andrew Higgins/New York Times&rpar;](https://www.techmeme.com/260824/p4#a260824p4)
- - [You’re not alone: Claude is down right now](https://www.androidauthority.com/claude-outage-august-24-3702012/)<!-- TECH:END -->
+ - [UK&#39;s Office for National Statistics: UK digital infrastructure investment crossed £11B in 2025, hitting dot-com boom levels, amid an AI data center surge &lpar;Tom Rees/Bloomberg&rpar;](https://www.techmeme.com/260824/p24#a260824p24)
+ - [Temu owner PDD reports Q2 revenue up 8.1% YoY to ~$16.72B, missing estimate of ~$17.17B, net profit down 12% YoY to ~$4.04B, above ~$3.63B estimate &lpar;Tracy Qu/Wall Street Journal&rpar;](https://www.techmeme.com/260824/p23#a260824p23)
+ - [The Garmin Dash Cam Mini 3 falls below $100 with 33% price drop](https://www.androidauthority.com/garmin-dash-cam-mini-3-deal-2-3702322/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
