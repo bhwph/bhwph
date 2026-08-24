@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)
- - 😝 [Torta](http://9gag.com/gag/aVvnmoy)
- - 👉 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)<!-- MEMES:END -->
+ - 6️⃣ [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
+ - 😝 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
+ - 👉 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)<!-- MEMES:END -->
 
 --- 
 
