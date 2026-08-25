@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
- - 😝 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
- - 👉 [Subway activates pvp mode](http://9gag.com/gag/aMVRvpx)<!-- MEMES:END -->
+ - 6️⃣ [Finally getting back to doing things that actually bring joy](http://9gag.com/gag/aYQ8M8x)
+ - 😝 [Brutal reality check delivered](http://9gag.com/gag/aXPD2Lb)
+ - 👉 [Dayum](http://9gag.com/gag/a5Qm20o)<!-- MEMES:END -->
 
 --- 
 
