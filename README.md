@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New GameHub update brings mod support for PC games to your Android phone](https://www.androidauthority.com/gamehub-update-mod-support-3702532/)
- - [Bad news: ChatGPT Plus users have annoying limits to slow them down once again](https://www.androidauthority.com/chatgpt-five-hour-limits-3702542/)
- - [Spotify has good news if your audiobooks suddenly stopped playing](https://www.androidauthority.com/spotify-audiobook-playback-fix-3702488/)<!-- TECH:END -->
+ - [Frustrating Google Home bug refuses to add items to your shopping lists in Keep](https://www.androidauthority.com/google-home-keep-lists-bug-3702731/)
+ - [Stability AI, which has deals with UMG, WMG, and EA to build AI models from their IP, raised a $76M Series B from them, Sony Music, and others &lpar;Corbin Bolies/Variety&rpar;](https://www.techmeme.com/260825/p34#a260825p34)
+ - [Polestar claims it was blindsided by sales ban](https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
