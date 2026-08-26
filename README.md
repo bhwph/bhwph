@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bill Gates says &quot;the AI era will be one of the most turbulent times in human history&quot; and &quot;we are not preparing adequately&quot;, calling for a regulatory framework &lpar;Bill Gates/GatesNotes&rpar;](https://www.techmeme.com/260826/p13#a260826p13)
- - [Revolut rolls out its euro-pegged stablecoin EURR, initially to eligible customers in Denmark, Poland, and Portugal; Stripe-owned Bridge issues the stablecoin &lpar;Charlie Wells/Bloomberg&rpar;](https://www.techmeme.com/260826/p12#a260826p12)
- - [Navitas Semiconductor agrees to buy Claros, which develops data center power management hardware and software, for ~$232.8M; Claros raised a $30M seed in March &lpar;Nate Doughty/Washington ...&rpar;](https://www.techmeme.com/260826/p11#a260826p11)<!-- TECH:END -->
+ - [Amazon slashes 25% off Linkind outdoor smart solar lights](https://www.androidauthority.com/linkind-smart-solar-lights-deal-3703486/)
+ - [Apple gets ready to join the foldable club as September event invites go out](https://www.androidauthority.com/apple-september-event-3703463/)
+ - [If you&#39;re going to the iPhone 18 Pro event, there&#39;s a &#39;Welcome Run&#39;](https://appleinsider.com/articles/26/08/26/if-youre-going-to-the-iphone-18-pro-event-theres-a-welcome-run?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
