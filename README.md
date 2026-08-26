@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus ROG Kithara headset review: Audiophile gaming](https://appleinsider.com/articles/26/08/26/asus-rog-kithara-headset-review-audiophile-gaming?utm_source=rss)
- - [South Korean AI services platform Wrtn raised a ~$72.2M Series C at a $722M+ valuation, bringing its total funding to ~$166M &lpar;Joyce Lee/Reuters&rpar;](https://www.techmeme.com/260825/p46#a260825p46)
- - [Luffu’s New Health and Safety Wearable Isn’t Just for You. It’s for Your Entire Family](https://www.cnet.com/tech/mobile/new-health-safety-wearable-for-entire-family/)<!-- TECH:END -->
+ - [Bill Gates says &quot;the AI era will be one of the most turbulent times in human history&quot; and &quot;we are not preparing adequately&quot;, calling for a regulatory framework &lpar;Bill Gates/GatesNotes&rpar;](https://www.techmeme.com/260826/p13#a260826p13)
+ - [Revolut rolls out its euro-pegged stablecoin EURR, initially to eligible customers in Denmark, Poland, and Portugal; Stripe-owned Bridge issues the stablecoin &lpar;Charlie Wells/Bloomberg&rpar;](https://www.techmeme.com/260826/p12#a260826p12)
+ - [Navitas Semiconductor agrees to buy Claros, which develops data center power management hardware and software, for ~$232.8M; Claros raised a $30M seed in March &lpar;Nate Doughty/Washington ...&rpar;](https://www.techmeme.com/260826/p11#a260826p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
