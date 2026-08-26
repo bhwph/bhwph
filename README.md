@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Finally getting back to doing things that actually bring joy](http://9gag.com/gag/aYQ8M8x)
- - 😝 [Brutal reality check delivered](http://9gag.com/gag/aXPD2Lb)
- - 👉 [Dayum](http://9gag.com/gag/a5Qm20o)<!-- MEMES:END -->
+ - 6️⃣ [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
+ - 😝 [Granny was ready](http://9gag.com/gag/a1mzLD2)
+ - 👉 [Lost her rizz](http://9gag.com/gag/agmM4dv)<!-- MEMES:END -->
 
 --- 
 
