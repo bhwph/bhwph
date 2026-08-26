@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Dayum](http://9gag.com/gag/a5Qm20o)
- - 😝 [She had no idea back then. And neither did we](http://9gag.com/gag/aKG0OxN)
- - 👉 [Lost her rizz](http://9gag.com/gag/agmM4dv)<!-- MEMES:END -->
+ - 6️⃣ [Husband sleeping in the car in front of the house](http://9gag.com/gag/an7pGKB)
+ - 😝 [Dayum](http://9gag.com/gag/a5Qm20o)
+ - 👉 [Im I a inferior copy](http://9gag.com/gag/aXPD206)<!-- MEMES:END -->
 
 --- 
 
