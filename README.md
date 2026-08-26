@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Frustrating Google Home bug refuses to add items to your shopping lists in Keep](https://www.androidauthority.com/google-home-keep-lists-bug-3702731/)
- - [Stability AI, which has deals with UMG, WMG, and EA to build AI models from their IP, raised a $76M Series B from them, Sony Music, and others &lpar;Corbin Bolies/Variety&rpar;](https://www.techmeme.com/260825/p34#a260825p34)
- - [Polestar claims it was blindsided by sales ban](https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump)<!-- TECH:END -->
+ - [Asus ROG Kithara headset review: Audiophile gaming](https://appleinsider.com/articles/26/08/26/asus-rog-kithara-headset-review-audiophile-gaming?utm_source=rss)
+ - [South Korean AI services platform Wrtn raised a ~$72.2M Series C at a $722M+ valuation, bringing its total funding to ~$166M &lpar;Joyce Lee/Reuters&rpar;](https://www.techmeme.com/260825/p46#a260825p46)
+ - [Luffu’s New Health and Safety Wearable Isn’t Just for You. It’s for Your Entire Family](https://www.cnet.com/tech/mobile/new-health-safety-wearable-for-entire-family/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
