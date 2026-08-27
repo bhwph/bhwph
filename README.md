@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes 25% off Linkind outdoor smart solar lights](https://www.androidauthority.com/linkind-smart-solar-lights-deal-3703486/)
- - [Apple gets ready to join the foldable club as September event invites go out](https://www.androidauthority.com/apple-september-event-3703463/)
- - [If you&#39;re going to the iPhone 18 Pro event, there&#39;s a &#39;Welcome Run&#39;](https://appleinsider.com/articles/26/08/26/if-youre-going-to-the-iphone-18-pro-event-theres-a-welcome-run?utm_source=rss)<!-- TECH:END -->
+ - [Google’s upcoming app memory limits could help budget phones run smoothly, but at what cost?](https://www.androidauthority.com/google-android-app-memory-limits-3703702/)
+ - [The UK Power Grid Has a Phantom Data Center Problem](https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/)
+ - [Indian IT giant TCS agrees to acquire Porsche&#39;s IT consulting business, MHP, for €320M as part of a five-year, €1.25B contract to provide AI services to Porsche &lpar;Priyanka Salve/CNBC&rpar;](https://www.techmeme.com/260827/p7#a260827p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
