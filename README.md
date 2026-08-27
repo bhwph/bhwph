@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Husband sleeping in the car in front of the house](http://9gag.com/gag/an7pGKB)
- - 😝 [Dayum](http://9gag.com/gag/a5Qm20o)
- - 👉 [Im I a inferior copy](http://9gag.com/gag/aXPD206)<!-- MEMES:END -->
+ - 6️⃣ [Let me make sure you are not bringing anything safe](http://9gag.com/gag/a0eAO0v)
+ - 😝 [Replacing problems with opportunities](http://9gag.com/gag/aO8gRq3)
+ - 👉 [Fk you..but also..love you](http://9gag.com/gag/a7o4pmx)<!-- MEMES:END -->
 
 --- 
 
