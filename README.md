@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s upcoming app memory limits could help budget phones run smoothly, but at what cost?](https://www.androidauthority.com/google-android-app-memory-limits-3703702/)
- - [The UK Power Grid Has a Phantom Data Center Problem](https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/)
- - [Indian IT giant TCS agrees to acquire Porsche&#39;s IT consulting business, MHP, for €320M as part of a five-year, €1.25B contract to provide AI services to Porsche &lpar;Priyanka Salve/CNBC&rpar;](https://www.techmeme.com/260827/p7#a260827p7)<!-- TECH:END -->
+ - [Google tells Android app developers to cool it on memory use, or else](https://www.theverge.com/tech/985679/google-play-android-17-memory-limit)
+ - [Sources: Anthropic has been working on a plan to allow secondary stock sales in its IPO while also considering lockup periods longer than the standard 180 days &lpar;The Information&rpar;](https://www.techmeme.com/260827/p45#a260827p45)
+ - [Labor Day 2026 Deals Got Me a Complete Starter Tool Kit for Under $375](https://www.wired.com/story/labor-day-2026-home-tool-kit-essentials/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
