@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Let me make sure you are not bringing anything safe](http://9gag.com/gag/a0eAO0v)
- - 😝 [Replacing problems with opportunities](http://9gag.com/gag/aO8gRq3)
- - 👉 [Fk you..but also..love you](http://9gag.com/gag/a7o4pmx)<!-- MEMES:END -->
+ - 6️⃣ [Wait, that&#39;s illegal](http://9gag.com/gag/aYQ8RPN)
+ - 😝 [Let me make sure you are not bringing anything safe](http://9gag.com/gag/a0eAO0v)
+ - 👉 [Average DEI hired girl](http://9gag.com/gag/aByqOZD)<!-- MEMES:END -->
 
 --- 
 
