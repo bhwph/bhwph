@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wait, that&#39;s illegal](http://9gag.com/gag/aYQ8RPN)
- - 😝 [Let me make sure you are not bringing anything safe](http://9gag.com/gag/a0eAO0v)
- - 👉 [Average DEI hired girl](http://9gag.com/gag/aByqOZD)<!-- MEMES:END -->
+ - 6️⃣ [Should have been me.](http://9gag.com/gag/a5QmDry)
+ - 😝 [Wait, that&#39;s illegal](http://9gag.com/gag/aYQ8RPN)
+ - 👉 [The MEGA GOAT](http://9gag.com/gag/azxN4pm)<!-- MEMES:END -->
 
 --- 
 
