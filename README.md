@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Z.ai releases GLM-5.3&#39;s weights under a new license requiring companies with $10B+ in revenue over 12 months to pass Z.ai&#39;s security review to host the model &lpar;Frederic Lardinois/The New Stack&rpar;](https://www.techmeme.com/260828/p25#a260828p25)
- - [Shares of French quantum computing company Pasqal closed up 95% in their Nasdaq debut on Friday following a merger with a SPAC &lpar;Emily Forgash/Bloomberg&rpar;](https://www.techmeme.com/260828/p24#a260828p24)
- - [An appeals court rules states can regulate prediction markets, finding Kalshi&#39;s sports event contracts are bets, not swaps, and subject to state gambling laws &lpar;Lauren McCarthy/New York Times&rpar;](https://www.techmeme.com/260828/p23#a260828p23)<!-- TECH:END -->
+ - [iPhone 18 Release Date: Why You Might Be Waiting Longer Than Expected](https://www.cnet.com/tech/mobile/iphone-18-release-date-why-you-might-be-waiting-longer-than-expected/)
+ - [The Galaxy Z Flip 8 is at its best when there’s friction](https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review)
+ - [Asahi Linux nears M3 support release, M4 and M5 are on the way](https://appleinsider.com/articles/26/08/29/asahi-linux-nears-m3-support-release-m4-and-m5-are-on-the-way?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
