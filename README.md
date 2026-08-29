@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Should have been me.](http://9gag.com/gag/a5QmDry)
- - 😝 [Wait, that&#39;s illegal](http://9gag.com/gag/aYQ8RPN)
- - 👉 [The MEGA GOAT](http://9gag.com/gag/azxN4pm)<!-- MEMES:END -->
+ - 6️⃣ [False Prophet in Church](https://www.reddit.com/r/funny/comments/1w17glu/false_prophet_in_church/)
+ - 😝 [Le Mans in the 1980s](http://9gag.com/gag/a0eAWZv)
+ - 👉 [The smile at the end](http://9gag.com/gag/a87PzDO)<!-- MEMES:END -->
 
 --- 
 
