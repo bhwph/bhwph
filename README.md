@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breaking: Galaxy S26 series gets seventh One UI 9 beta release with new AI features](https://www.androidauthority.com/samsung-galaxy-s26-one-ui-9-beta-7-3704232/)
- - [The first phone with three 200MP cameras &lpar;!&rpar; is coming soon, and we have high hopes](https://www.androidauthority.com/first-phone-three-200mp-cameras-3704215/)
- - [Sources: some tech companies are courting Democrats and hiring advisers to prepare for potential investigations if Republicans lose control of the House &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260828/p1#a260828p1)<!-- TECH:END -->
+ - [Z.ai releases GLM-5.3&#39;s weights under a new license requiring companies with $10B+ in revenue over 12 months to pass Z.ai&#39;s security review to host the model &lpar;Frederic Lardinois/The New Stack&rpar;](https://www.techmeme.com/260828/p25#a260828p25)
+ - [Shares of French quantum computing company Pasqal closed up 95% in their Nasdaq debut on Friday following a merger with a SPAC &lpar;Emily Forgash/Bloomberg&rpar;](https://www.techmeme.com/260828/p24#a260828p24)
+ - [An appeals court rules states can regulate prediction markets, finding Kalshi&#39;s sports event contracts are bets, not swaps, and subject to state gambling laws &lpar;Lauren McCarthy/New York Times&rpar;](https://www.techmeme.com/260828/p23#a260828p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
