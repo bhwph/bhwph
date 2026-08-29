@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A LESSON IS LEARNED THAT DAY](http://9gag.com/gag/a87PXD6)
- - 😝 [Purpose](http://9gag.com/gag/azxNBPz)
- - 👉 [Choose carefully](http://9gag.com/gag/a1mzxW8)<!-- MEMES:END -->
+ - 6️⃣ [Her eyes are up here](http://9gag.com/gag/a349pxr)
+ - 😝 [Nepal floods](http://9gag.com/gag/aAyWNe0)
+ - 👉 [Purpose](http://9gag.com/gag/azxNBPz)<!-- MEMES:END -->
 
 --- 
 
