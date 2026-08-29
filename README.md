@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [False Prophet in Church](https://www.reddit.com/r/funny/comments/1w17glu/false_prophet_in_church/)
- - 😝 [Le Mans in the 1980s](http://9gag.com/gag/a0eAWZv)
- - 👉 [The smile at the end](http://9gag.com/gag/a87PzDO)<!-- MEMES:END -->
+ - 6️⃣ [A LESSON IS LEARNED THAT DAY](http://9gag.com/gag/a87PXD6)
+ - 😝 [Purpose](http://9gag.com/gag/azxNBPz)
+ - 👉 [Choose carefully](http://9gag.com/gag/a1mzxW8)<!-- MEMES:END -->
 
 --- 
 
