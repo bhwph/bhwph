@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Music producers are calling out tracks suspected of using AI tools like Suno, as the internet becomes increasingly filled with AI-generated music &lpar;Charles Pulliam-Moore/The Verge&rpar;](https://www.techmeme.com/260829/p17#a260829p17)
- - [California&#39;s legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope &lpar;Luke James/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260829/p16#a260829p16)
- - [Data center development is driving demand for acoustic consultants, as developers and neighboring communities hire acousticians to assess noise emissions &lpar;Sheena Meng/Bloomberg&rpar;](https://www.techmeme.com/260829/p15#a260829p15)<!-- TECH:END -->
+ - [A look at the race to build quantum computers, as the tech becomes a geopolitical battleground with potential to transform cybersecurity, finance, and more &lpar;Mark Bergen/Bloomberg&rpar;](https://www.techmeme.com/260830/p6#a260830p6)
+ - [I took my Android phone off silent mode and started using AI ringtones — and I love it](https://www.androidauthority.com/android-phone-making-ai-ringtones-love-it-why-3702849/)
+ - [A Folding iPhone at Last? What to Expect From Apple’s Surprise and Shine Fall Event](https://www.cnet.com/tech/mobile/apple-event-what-to-expect-iphone-18-ultra-fold/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
