@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Her eyes are up here](http://9gag.com/gag/a349pxr)
- - 😝 [Nepal floods](http://9gag.com/gag/aAyWNe0)
- - 👉 [Purpose](http://9gag.com/gag/azxNBPz)<!-- MEMES:END -->
+ - 6️⃣ [Mother of the year](http://9gag.com/gag/a4Pergp)
+ - 😝 [Cap? Is this a genius or stupid?](http://9gag.com/gag/aW4KNZ6)
+ - 👉 [The Look](http://9gag.com/gag/aZZAV29)<!-- MEMES:END -->
 
 --- 
 
