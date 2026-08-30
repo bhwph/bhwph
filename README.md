@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the race to build quantum computers, as the tech becomes a geopolitical battleground with potential to transform cybersecurity, finance, and more &lpar;Mark Bergen/Bloomberg&rpar;](https://www.techmeme.com/260830/p6#a260830p6)
- - [I took my Android phone off silent mode and started using AI ringtones — and I love it](https://www.androidauthority.com/android-phone-making-ai-ringtones-love-it-why-3702849/)
- - [A Folding iPhone at Last? What to Expect From Apple’s Surprise and Shine Fall Event](https://www.cnet.com/tech/mobile/apple-event-what-to-expect-iphone-18-ultra-fold/)<!-- TECH:END -->
+ - [Analysis: AI chatbots challenged or didn&#39;t respond to 90%+ of 15 false narratives spread by Russia, China, and Iran; AI overviews did it 60%+ of the time &lpar;Huo Jingnan/NPR&rpar;](https://www.techmeme.com/260830/p9#a260830p9)
+ - [Apple&#39;s 1TB M5 MacBook Air plunges to $1,399, save $200](https://appleinsider.com/articles/26/08/30/apples-1tb-m5-macbook-air-plunges-to-1399-save-200?utm_source=rss)
+ - [iPhone, Home, iPad mini : Apple&#39;s launches for September and October](https://appleinsider.com/articles/26/08/30/iphone-home-ipad-mini-apples-launches-for-september-and-october?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
