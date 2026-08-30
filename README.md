@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mother of the year](http://9gag.com/gag/a4Pergp)
- - 😝 [Cap? Is this a genius or stupid?](http://9gag.com/gag/aW4KNZ6)
- - 👉 [The Look](http://9gag.com/gag/aZZAV29)<!-- MEMES:END -->
+ - 6️⃣ [Magic](http://9gag.com/gag/an7p0eq)
+ - 😝 [Know your rights](http://9gag.com/gag/aZZA4QW)
+ - 👉 [Kids need to learn that sometimes things don&#39;t go your way.](http://9gag.com/gag/ae9oyVq)<!-- MEMES:END -->
 
 --- 
 
