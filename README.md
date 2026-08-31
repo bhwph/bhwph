@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: AI chatbots challenged or didn&#39;t respond to 90%+ of 15 false narratives spread by Russia, China, and Iran; AI overviews did it 60%+ of the time &lpar;Huo Jingnan/NPR&rpar;](https://www.techmeme.com/260830/p9#a260830p9)
- - [Apple&#39;s 1TB M5 MacBook Air plunges to $1,399, save $200](https://appleinsider.com/articles/26/08/30/apples-1tb-m5-macbook-air-plunges-to-1399-save-200?utm_source=rss)
- - [iPhone, Home, iPad mini : Apple&#39;s launches for September and October](https://appleinsider.com/articles/26/08/30/iphone-home-ipad-mini-apples-launches-for-september-and-october?utm_source=rss)<!-- TECH:END -->
+ - [Google updates Maps to show Lake America for US users, Lake Ontario for Canadian users, and both for the rest of the world, citing the US GNIS&#39; name change &lpar;Associated Press&rpar;](https://www.techmeme.com/260830/p14#a260830p14)
+ - [The US-led AI boom is offsetting the global growth squeeze from the energy crunch; ING says the boom accounts for about a third of recent US economic growth &lpar;Jason Douglas/Wall Street Journal&rpar;](https://www.techmeme.com/260830/p13#a260830p13)
+ - [Chip design startup Agentrys has raised a $19.1M seed round led by Etna Labs and a $5.4M pre-seed led by MediaTek &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260830/p12#a260830p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
