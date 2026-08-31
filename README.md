@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Based..](http://9gag.com/gag/a0eAD0X)
- - 😝 [Good luck](http://9gag.com/gag/aVvn9Py)
- - 👉 [Christmas classics](http://9gag.com/gag/azxNvKp)<!-- MEMES:END -->
+ - 6️⃣ [Here we go](http://9gag.com/gag/aZZA4e3)
+ - 😝 [Best life &lpar;if you&#39;re poor&rpar;](http://9gag.com/gag/agmMbQ1)
+ - 👉 [Not a troll, who do you think is right?](http://9gag.com/gag/aQzwK8d)<!-- MEMES:END -->
 
 --- 
 
