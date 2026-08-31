@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Christmas classics](http://9gag.com/gag/azxNvKp)
- - 😝 [Autism in a video: Digging a bunker with a spoonshovel](http://9gag.com/gag/aO8gnoN)
- - 👉 [Thai chef&#39;s reaction to Gordon Ramsay&#39;s cooking](http://9gag.com/gag/aNDx8O6)<!-- MEMES:END -->
+ - 😝 [Know your rights](http://9gag.com/gag/aZZA4QW)
+ - 👉 [Paphos, Cyprus 26.08.29](http://9gag.com/gag/axyxQWK)<!-- MEMES:END -->
 
 --- 
 
