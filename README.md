@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [White House really wants Apple to change &#39;Lake Ontario&#39; to &#39;Lake America&#39; now](https://appleinsider.com/articles/26/08/31/white-house-really-wants-apple-to-change-lake-ontario-to-lake-america-now?utm_source=rss)
- - [Sources: South Korea&#39;s dismissal of a US congressional report saying it discriminated against US-based Coupang is causing strains between the two countries &lpar;Justin Papp/CNBC&rpar;](https://www.techmeme.com/260831/p22#a260831p22)
- - [Debian won&amp;#8217;t ban AI code from its Linux distribution](https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy)<!-- TECH:END -->
+ - [The Pentagon launches ChatGPT Mil and Grok for Government on its GenAI.mil platform, giving its 3M personnel access to AI tools &quot;tailored to warfighter needs&quot; &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260831/p38#a260831p38)
+ - [Best Early Tech Labor Day Sales I’d Shop Myself &lpar;2026&rpar;: AirTags, Dyson, and More](https://www.wired.com/story/early-tech-labor-day-sales-2026/)
+ - [Apple ends hardware support for three Intel MacBook models](https://appleinsider.com/articles/26/08/31/apple-ends-hardware-support-for-three-intel-macbook-models?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
