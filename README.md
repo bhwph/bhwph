@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google updates Maps to show Lake America for US users, Lake Ontario for Canadian users, and both for the rest of the world, citing the US GNIS&#39; name change &lpar;Associated Press&rpar;](https://www.techmeme.com/260830/p14#a260830p14)
- - [The US-led AI boom is offsetting the global growth squeeze from the energy crunch; ING says the boom accounts for about a third of recent US economic growth &lpar;Jason Douglas/Wall Street Journal&rpar;](https://www.techmeme.com/260830/p13#a260830p13)
- - [Chip design startup Agentrys has raised a $19.1M seed round led by Etna Labs and a $5.4M pre-seed led by MediaTek &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260830/p12#a260830p12)<!-- TECH:END -->
+ - [White House really wants Apple to change &#39;Lake Ontario&#39; to &#39;Lake America&#39; now](https://appleinsider.com/articles/26/08/31/white-house-really-wants-apple-to-change-lake-ontario-to-lake-america-now?utm_source=rss)
+ - [Sources: South Korea&#39;s dismissal of a US congressional report saying it discriminated against US-based Coupang is causing strains between the two countries &lpar;Justin Papp/CNBC&rpar;](https://www.techmeme.com/260831/p22#a260831p22)
+ - [Debian won&amp;#8217;t ban AI code from its Linux distribution](https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
