@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Christmas classics](http://9gag.com/gag/azxNvKp)
- - 😝 [Know your rights](http://9gag.com/gag/aZZA4QW)
- - 👉 [Paphos, Cyprus 26.08.29](http://9gag.com/gag/axyxQWK)<!-- MEMES:END -->
+ - 6️⃣ [Based..](http://9gag.com/gag/a0eAD0X)
+ - 😝 [Good luck](http://9gag.com/gag/aVvn9Py)
+ - 👉 [Christmas classics](http://9gag.com/gag/azxNvKp)<!-- MEMES:END -->
 
 --- 
 
