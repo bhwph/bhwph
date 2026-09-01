@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Here we go](http://9gag.com/gag/aZZA4e3)
- - 😝 [Best life &lpar;if you&#39;re poor&rpar;](http://9gag.com/gag/agmMbQ1)
- - 👉 [Not a troll, who do you think is right?](http://9gag.com/gag/aQzwK8d)<!-- MEMES:END -->
+ - 6️⃣ [You are on the other side of the law](http://9gag.com/gag/adBZWED)
+ - 😝 [Looks like a trap](http://9gag.com/gag/aoyr6dg)
+ - 👉 [Best life &lpar;if you&#39;re poor&rpar;](http://9gag.com/gag/agmMbQ1)<!-- MEMES:END -->
 
 --- 
 
