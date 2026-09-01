@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [You are on the other side of the law](http://9gag.com/gag/adBZWED)
- - 😝 [Looks like a trap](http://9gag.com/gag/aoyr6dg)
+ - 6️⃣ [Looks like a trap](http://9gag.com/gag/aoyr6dg)
+ - 😝 [Jessica no! No Jessica!](http://9gag.com/gag/a7o4gzz)
  - 👉 [Best life &lpar;if you&#39;re poor&rpar;](http://9gag.com/gag/agmMbQ1)<!-- MEMES:END -->
 
 --- 
