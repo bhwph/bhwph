@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Looks like a trap](http://9gag.com/gag/aoyr6dg)
- - 😝 [Jessica no! No Jessica!](http://9gag.com/gag/a7o4gzz)
- - 👉 [Best life &lpar;if you&#39;re poor&rpar;](http://9gag.com/gag/agmMbQ1)<!-- MEMES:END -->
+ - 6️⃣ [Yup...](http://9gag.com/gag/a9yQ0jj)
+ - 😝 [Not today death.](http://9gag.com/gag/a6ZvgBm)
+ - 👉 [Looks like a trap](http://9gag.com/gag/aoyr6dg)<!-- MEMES:END -->
 
 --- 
 
