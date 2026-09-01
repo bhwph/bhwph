@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today’s NYT Mini Crossword Answers for Tuesday, Sept. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-sept-1/)
- - [Anthropic details security efforts following Claude cyber evaluation incidents, including a weeks-long pause on higher-risk RL and work to curb reward hacking &lpar;Anthropic&rpar;](https://www.techmeme.com/260831/p43#a260831p43)
- - [uGreen NASync DXP4800 Pro review: Sweet spot of price &amp; performance](https://appleinsider.com/articles/26/08/31/ugreen-nasync-dxp4800-pro-review-sweet-spot-of-price-performance?utm_source=rss)<!-- TECH:END -->
+ - [This new Ultra phone has a rear speaker, a take on HiLight, and that iPhone 18 color](https://www.androidauthority.com/poco-f9-pro-and-f9-ultra-3704280/)
+ - [Poco’s F9 Ultra pairs an ultra-bright display with a glowing Bose subwoofer](https://www.theverge.com/tech/986148/poco-f9-pro-ultra-specs-features-price-bose)
+ - [It&#39;s not our fault if you can&#39;t keep trade secrets, OpenAI tells Apple](https://appleinsider.com/articles/26/09/01/its-not-our-fault-if-you-cant-keep-trade-secrets-openai-tells-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
