@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: OpenAI&#39;s Astra model uses &quot;recurrent depth&quot;, a technique that improves cost and performance but obscures the AI&#39;s reasoning, making it harder to monitor &lpar;The Information&rpar;](https://www.techmeme.com/260901/p61#a260901p61)
- - [Sources: Cognition is raising around $1B at a ~$47B valuation, up from $26B in May; Cognition received nearly $10B in investor interest &lpar;Bloomberg&rpar;](https://www.techmeme.com/260901/p60#a260901p60)
- - [Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260901/p59#a260901p59)<!-- TECH:END -->
+ - [Survey: 27% of Americans say they turn to AI chatbots like ChatGPT for personal, emotional, or social queries, rising to nearly 40% among adults under 50 &lpar;Washington Post&rpar;](https://www.techmeme.com/260902/p17#a260902p17)
+ - [The EU General Court dismisses Opera&#39;s challenge against the European Commission&#39;s decision to exempt Microsoft Edge from DMA gatekeeper regulations in 2024 &lpar;Reuters&rpar;](https://www.techmeme.com/260902/p16#a260902p16)
+ - [Oura’s Menopause Impact Scale Expands Out of the App and Into Women’s Health Care](https://www.cnet.com/health/medical/oura-menopause-impact-scale-womens-health-care/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
