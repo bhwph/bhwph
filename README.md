@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey: 27% of Americans say they turn to AI chatbots like ChatGPT for personal, emotional, or social queries, rising to nearly 40% among adults under 50 &lpar;Washington Post&rpar;](https://www.techmeme.com/260902/p17#a260902p17)
- - [The EU General Court dismisses Opera&#39;s challenge against the European Commission&#39;s decision to exempt Microsoft Edge from DMA gatekeeper regulations in 2024 &lpar;Reuters&rpar;](https://www.techmeme.com/260902/p16#a260902p16)
- - [Oura’s Menopause Impact Scale Expands Out of the App and Into Women’s Health Care](https://www.cnet.com/health/medical/oura-menopause-impact-scale-womens-health-care/)<!-- TECH:END -->
+ - [Here are some of REI’s best Labor Day sale deals](https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026)
+ - [1Password wades into a right-wing mess after funding a Linux project](https://www.theverge.com/tech/988536/1password-dhh-linux-controversy)
+ - [At G20, Big Tech and Global Leaders Can’t Escape AI’s Data Center Problem](https://www.cnet.com/tech/services-and-software/g20-tech-government-leaders-ai-data-centers-protests/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
