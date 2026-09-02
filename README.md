@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Wish we had Hilux trucks in the US.](http://9gag.com/gag/aVvn5my)
- - 😝 [Not today death.](http://9gag.com/gag/a6ZvgBm)
- - 👉 [The wonders of physics](http://9gag.com/gag/a6Zv6Pq)<!-- MEMES:END -->
+ - 6️⃣ [Jessica no! No Jessica!](http://9gag.com/gag/a7o4gzz)
+ - 😝 [Because disney kicked out Nick Gilliard who is the choreographer from prequels](http://9gag.com/gag/abAPDjr)
+ - 👉 [They used a diamond wire to slice a whole building in half](http://9gag.com/gag/agmMeD6)<!-- MEMES:END -->
 
 --- 
 
