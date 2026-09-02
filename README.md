@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The rise of AI &amp;#8216;civilizations&amp;#8217; and the fall of corporate responsibility](https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack)
- - [Anthropic says Fable 5.1 sets new standards on coding, knowledge work, and long-running problem-solving tasks, and can fix the root causes of software issues &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260901/p38#a260901p38)
- - [Aslan, which offers AI agents for the FBI and wider intelligence community that can pose as analysts and undercover spies in online forums, raised $20.8M &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/260901/p37#a260901p37)<!-- TECH:END -->
+ - [Source: OpenAI&#39;s Astra model uses &quot;recurrent depth&quot;, a technique that improves cost and performance but obscures the AI&#39;s reasoning, making it harder to monitor &lpar;The Information&rpar;](https://www.techmeme.com/260901/p61#a260901p61)
+ - [Sources: Cognition is raising around $1B at a ~$47B valuation, up from $26B in May; Cognition received nearly $10B in investor interest &lpar;Bloomberg&rpar;](https://www.techmeme.com/260901/p60#a260901p60)
+ - [Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260901/p59#a260901p59)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
