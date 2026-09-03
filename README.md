@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Loudoun County, Virginia, dubbed &quot;Data Center Alley&quot;, which hosts ~250 data centers and offers a glimpse into data centers&#39; impact on communities &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260902/p48#a260902p48)
- - [Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing](https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/)
- - [Microsoft shifts from three reporting segments to two: Agents and Infra, including Microsoft 365 and Azure, and Devices and Consumer, with Windows and Xbox &lpar;Stephen Nakrosis/Wall Street Journal&rpar;](https://www.techmeme.com/260902/p47#a260902p47)<!-- TECH:END -->
+ - [TrendForce: for a 256GB iPhone Pro model, Q3 memory costs are forecast to be ~400% higher than a year prior but Apple won&#39;t pass on the full cost to customers &lpar;Ben Lovejoy/9to5Mac&rpar;](https://www.techmeme.com/260903/p19#a260903p19)
+ - [Nvidia is buying Hugging Face for almost $13 billion](https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal)
+ - [Nvidia agrees to buy Hugging Face for $12.9B, its second-biggest purchase after it paid $20B for Groq assets at the end of last year &lpar;Ari Levy/CNBC&rpar;](https://www.techmeme.com/260903/p18#a260903p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
