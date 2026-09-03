@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Jessica no! No Jessica!](http://9gag.com/gag/a7o4gzz)
- - 😝 [Because disney kicked out Nick Gilliard who is the choreographer from prequels](http://9gag.com/gag/abAPDjr)
- - 👉 [They used a diamond wire to slice a whole building in half](http://9gag.com/gag/agmMeD6)<!-- MEMES:END -->
+ - 6️⃣ [Can you make it change direction](http://9gag.com/gag/aD2p5qB)
+ - 😝 [Woman refuses to pay after eating her dinner because `it wasn&#39;t done to her liking`](http://9gag.com/gag/awyR2WB)
+ - 👉 [This needs that Draco Malfoy hate then ok gif](http://9gag.com/gag/an7pPBq)<!-- MEMES:END -->
 
 --- 
 
