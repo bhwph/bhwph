@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TrendForce: for a 256GB iPhone Pro model, Q3 memory costs are forecast to be ~400% higher than a year prior but Apple won&#39;t pass on the full cost to customers &lpar;Ben Lovejoy/9to5Mac&rpar;](https://www.techmeme.com/260903/p19#a260903p19)
- - [Nvidia is buying Hugging Face for almost $13 billion](https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal)
- - [Nvidia agrees to buy Hugging Face for $12.9B, its second-biggest purchase after it paid $20B for Groq assets at the end of last year &lpar;Ari Levy/CNBC&rpar;](https://www.techmeme.com/260903/p18#a260903p18)<!-- TECH:END -->
+ - [AI’s Very Bad Morning: Claude, ChatGPT and Grok Had Outages at the Same Time](https://www.cnet.com/tech/services-and-software/sept-3-claude-chatgpt-grok-widespread-ai-outages/)
+ - [Apple TV picks up sci-fi thriller &#39;Waffle House Index&#39; in seven-figure deal](https://appleinsider.com/articles/26/09/03/apple-tv-picks-up-sci-fi-thriller-waffle-house-index-in-seven-figure-deal?utm_source=rss)
+ - [Congressman says TikTok backed out of a meeting to avoid child safety questions](https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
