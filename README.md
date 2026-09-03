@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just so happens](http://9gag.com/gag/a6ZvRON)
- - 😝 [First victim of A.I.](http://9gag.com/gag/apRyZpB)
- - 👉 [That was so close to ending very badly](http://9gag.com/gag/aVvn6O2)<!-- MEMES:END -->
+ - 6️⃣ [First victim of A.I.](http://9gag.com/gag/apRyZpB)
+ - 😝 [That was so close to ending very badly](http://9gag.com/gag/aVvn6O2)
+ - 👉 [Even better](http://9gag.com/gag/a87PxKO)<!-- MEMES:END -->
 
 --- 
 
