@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are some of REI’s best Labor Day sale deals](https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026)
- - [1Password wades into a right-wing mess after funding a Linux project](https://www.theverge.com/tech/988536/1password-dhh-linux-controversy)
- - [At G20, Big Tech and Global Leaders Can’t Escape AI’s Data Center Problem](https://www.cnet.com/tech/services-and-software/g20-tech-government-leaders-ai-data-centers-protests/)<!-- TECH:END -->
+ - [A look at Loudoun County, Virginia, dubbed &quot;Data Center Alley&quot;, which hosts ~250 data centers and offers a glimpse into data centers&#39; impact on communities &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260902/p48#a260902p48)
+ - [Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing](https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/)
+ - [Microsoft shifts from three reporting segments to two: Agents and Infra, including Microsoft 365 and Azure, and Devices and Consumer, with Windows and Xbox &lpar;Stephen Nakrosis/Wall Street Journal&rpar;](https://www.techmeme.com/260902/p47#a260902p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
