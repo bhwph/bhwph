@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can you make it change direction](http://9gag.com/gag/aD2p5qB)
- - 😝 [Woman refuses to pay after eating her dinner because `it wasn&#39;t done to her liking`](http://9gag.com/gag/awyR2WB)
- - 👉 [This needs that Draco Malfoy hate then ok gif](http://9gag.com/gag/an7pPBq)<!-- MEMES:END -->
+ - 6️⃣ [Just so happens](http://9gag.com/gag/a6ZvRON)
+ - 😝 [First victim of A.I.](http://9gag.com/gag/apRyZpB)
+ - 👉 [That was so close to ending very badly](http://9gag.com/gag/aVvn6O2)<!-- MEMES:END -->
 
 --- 
 
