@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vals analysis: open-weight models performing multi-stage tasks, like building a web app, can have an environmental impact 10K times greater than simple queries &lpar;Bloomberg&rpar;](https://www.techmeme.com/260903/p50#a260903p50)
- - [HomePods may finally get surround sound through four connected speakers](https://appleinsider.com/articles/26/09/04/homepods-may-finally-get-surround-sound-through-four-connected-speakers?utm_source=rss)
- - [Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control](https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40)<!-- TECH:END -->
+ - [The NHTSA opens a probe into Tesla&#39;s decision to launch its new Cybercab on public roads in Austin with no steering wheel or pedals &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260904/p13#a260904p13)
+ - [CEO John Ternus, legal battles, &amp; iPhone Fold on the AppleInsider Podcast](https://appleinsider.com/articles/26/09/04/ceo-john-ternus-legal-battles-iphone-fold-on-the-appleinsider-podcast?utm_source=rss)
+ - [Japan Is Launching a Probe to Collect the First-Ever Samples From a Martian Moon](https://www.wired.com/story/japan-launching-probe-to-collect-first-ever-samples-martian-moon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
