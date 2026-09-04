@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI’s Very Bad Morning: Claude, ChatGPT and Grok Had Outages at the Same Time](https://www.cnet.com/tech/services-and-software/sept-3-claude-chatgpt-grok-widespread-ai-outages/)
- - [Apple TV picks up sci-fi thriller &#39;Waffle House Index&#39; in seven-figure deal](https://appleinsider.com/articles/26/09/03/apple-tv-picks-up-sci-fi-thriller-waffle-house-index-in-seven-figure-deal?utm_source=rss)
- - [Congressman says TikTok backed out of a meeting to avoid child safety questions](https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety)<!-- TECH:END -->
+ - [Vals analysis: open-weight models performing multi-stage tasks, like building a web app, can have an environmental impact 10K times greater than simple queries &lpar;Bloomberg&rpar;](https://www.techmeme.com/260903/p50#a260903p50)
+ - [HomePods may finally get surround sound through four connected speakers](https://appleinsider.com/articles/26/09/04/homepods-may-finally-get-surround-sound-through-four-connected-speakers?utm_source=rss)
+ - [Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control](https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
