@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [First victim of A.I.](http://9gag.com/gag/apRyZpB)
- - 😝 [That was so close to ending very badly](http://9gag.com/gag/aVvn6O2)
- - 👉 [Even better](http://9gag.com/gag/a87PxKO)<!-- MEMES:END -->
+ - 6️⃣ [Earth is not normal anymore](http://9gag.com/gag/aVvnyjK)
+ - 😝 [Backyard Archaeology](http://9gag.com/gag/azxNpnq)
+ - 👉 [In 1997, a 17-year-old student from Sweden recorded himself imitating the sound of an engine just to make his friends laugh, and the rest is history.](http://9gag.com/gag/amojegy)<!-- MEMES:END -->
 
 --- 
 
