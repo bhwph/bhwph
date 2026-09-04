@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The NHTSA opens a probe into Tesla&#39;s decision to launch its new Cybercab on public roads in Austin with no steering wheel or pedals &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260904/p13#a260904p13)
- - [CEO John Ternus, legal battles, &amp; iPhone Fold on the AppleInsider Podcast](https://appleinsider.com/articles/26/09/04/ceo-john-ternus-legal-battles-iphone-fold-on-the-appleinsider-podcast?utm_source=rss)
- - [Japan Is Launching a Probe to Collect the First-Ever Samples From a Martian Moon](https://www.wired.com/story/japan-launching-probe-to-collect-first-ever-samples-martian-moon/)<!-- TECH:END -->
+ - [Casio ‘CasioNaut’ G-Shock GMC-2500 GAC-2500 Series: Price, Specs, Availability](https://www.wired.com/story/casio-g-shock-casionaut-looks-like-a-patek-philippe-classic/)
+ - [Gemini hands Lyria 3.5 the mic as the music model makes its debut on the app](https://www.androidauthority.com/latest-lyria-model-comes-to-gemini-app-3707842/)
+ - [Deal: This 4K dual dash cam with GPS just fell to $89.97](https://www.androidauthority.com/70mai-a810-lite-4k-dash-cam-deal-3707861/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
