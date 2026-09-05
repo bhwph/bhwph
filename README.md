@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I live it when a plan comes together](http://9gag.com/gag/aByqAEz)
- - 😝 [Irony..](http://9gag.com/gag/aGy3m8z)
- - 👉 [Snoopy gets it](http://9gag.com/gag/ary6YE0)<!-- MEMES:END -->
+ - 6️⃣ [Yep, that&#39;s me. You&#39;re probably wondering how I got here](http://9gag.com/gag/aAyW830)
+ - 😝 [Hold!!!!!!!!!!!!](http://9gag.com/gag/ary6YYV)
+ - 👉 [Familyzoned](http://9gag.com/gag/aE0rLve)<!-- MEMES:END -->
 
 --- 
 
