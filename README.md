@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge Lets Musk Keep ‘Twitter’ for Now but Forces Him to Release the Bird](https://www.cnet.com/news/social-media/judge-lets-musk-keep-twitter-forces-release-of-bird/)
- - [Google patches an actively exploited zero-day flaw in Chrome that could potentially allow remote code execution within Chrome&#39;s sandboxed renderer process &lpar;Bill Toulas/BleepingComputer&rpar;](https://www.techmeme.com/260904/p36#a260904p36)
- - [Automakers Want Congress to Ban Chinese-Made Cars, Citing Data Privacy](https://www.cnet.com/home/electric-vehicles/automakers-want-congress-to-ban-chinese-made-cars-citing-data-privacy/)<!-- TECH:END -->
+ - [Dyson Went Bonkers During IFA 2026: Here Are all 10 of Its New Products](https://www.cnet.com/home/dyson-went-bonkers-during-ifa-2026-here-are-all-10-of-its-new-products/)
+ - [4 Best Alexa Speakers I’ve Tested &lpar;2026&rpar;](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
+ - [T-Mobile’s secret $25/month plan is tempting, but here’s why I won’t sign up](https://www.androidauthority.com/t-mobile-secret-super-essentials-saver-plan-worth-it-3705791/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
