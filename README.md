@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Casio ‘CasioNaut’ G-Shock GMC-2500 GAC-2500 Series: Price, Specs, Availability](https://www.wired.com/story/casio-g-shock-casionaut-looks-like-a-patek-philippe-classic/)
- - [Gemini hands Lyria 3.5 the mic as the music model makes its debut on the app](https://www.androidauthority.com/latest-lyria-model-comes-to-gemini-app-3707842/)
- - [Deal: This 4K dual dash cam with GPS just fell to $89.97](https://www.androidauthority.com/70mai-a810-lite-4k-dash-cam-deal-3707861/)<!-- TECH:END -->
+ - [Judge Lets Musk Keep ‘Twitter’ for Now but Forces Him to Release the Bird](https://www.cnet.com/news/social-media/judge-lets-musk-keep-twitter-forces-release-of-bird/)
+ - [Google patches an actively exploited zero-day flaw in Chrome that could potentially allow remote code execution within Chrome&#39;s sandboxed renderer process &lpar;Bill Toulas/BleepingComputer&rpar;](https://www.techmeme.com/260904/p36#a260904p36)
+ - [Automakers Want Congress to Ban Chinese-Made Cars, Citing Data Privacy](https://www.cnet.com/home/electric-vehicles/automakers-want-congress-to-ban-chinese-made-cars-citing-data-privacy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
