@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dyson Went Bonkers During IFA 2026: Here Are all 10 of Its New Products](https://www.cnet.com/home/dyson-went-bonkers-during-ifa-2026-here-are-all-10-of-its-new-products/)
- - [4 Best Alexa Speakers I’ve Tested &lpar;2026&rpar;](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
- - [T-Mobile’s secret $25/month plan is tempting, but here’s why I won’t sign up](https://www.androidauthority.com/t-mobile-secret-super-essentials-saver-plan-worth-it-3705791/)<!-- TECH:END -->
+ - [Berlin is reviewing Rhysida&#39;s 5.79TB release of state data after refusing to pay a ransom; files reportedly include national defense and threat response plans &lpar;Miranda Murray/Reuters&rpar;](https://www.techmeme.com/260905/p10#a260905p10)
+ - [CD sales are booming as physical media continues its resurgence](https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence)
+ - [Anthropomorphic portrayals of AI models as rogue agents can obscure the responsibility that companies like OpenAI have for incidents like the Hugging Face hack &lpar;Robert Hart/The Verge&rpar;](https://www.techmeme.com/260905/p9#a260905p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
