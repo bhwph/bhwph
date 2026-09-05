@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Yep, that&#39;s me. You&#39;re probably wondering how I got here](http://9gag.com/gag/aAyW830)
- - 😝 [Hold!!!!!!!!!!!!](http://9gag.com/gag/ary6YYV)
- - 👉 [Familyzoned](http://9gag.com/gag/aE0rLve)<!-- MEMES:END -->
+ - 6️⃣ [Halli Potah guvnah](http://9gag.com/gag/aMVR3EM)
+ - 😝 [Yep, that&#39;s me. You&#39;re probably wondering how I got here](http://9gag.com/gag/aAyW830)
+ - 👉 [I like them cold](http://9gag.com/gag/awyREEx)<!-- MEMES:END -->
 
 --- 
 
