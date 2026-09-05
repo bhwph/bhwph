@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Halli Potah guvnah](http://9gag.com/gag/aMVR3EM)
- - 😝 [Yep, that&#39;s me. You&#39;re probably wondering how I got here](http://9gag.com/gag/aAyW830)
- - 👉 [I like them cold](http://9gag.com/gag/awyREEx)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s my Portuguese neighbor](http://9gag.com/gag/aLnYyeM)
+ - 😝 [Never trust a woman with a male best friend](http://9gag.com/gag/azxNWRz)
+ - 👉 [What was that?](http://9gag.com/gag/ae9onxB)<!-- MEMES:END -->
 
 --- 
 
