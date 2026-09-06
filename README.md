@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Nose ring theory proven once again](http://9gag.com/gag/aoyrb02)
- - 😝 [That&#39;s my Portuguese neighbor](http://9gag.com/gag/aLnYyeM)
- - 👉 [Behind the scenes: Mystique body painting](http://9gag.com/gag/aYQ88gq)<!-- MEMES:END -->
+ - 6️⃣ [Maybe he is right](http://9gag.com/gag/aqy33OZ)
+ - 😝 [Wife material.](http://9gag.com/gag/aXPDDYz)
+ - 👉 [Halli Potah guvnah](http://9gag.com/gag/aMVR3EM)<!-- MEMES:END -->
 
 --- 
 
