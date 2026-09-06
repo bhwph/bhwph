@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As researchers begin applying AI to understand animal communication, bioethicists warn it could give humans new ways to manipulate, exploit, and harm animals &lpar;Morgan Meaker/Bloomberg&rpar;](https://www.techmeme.com/260905/p14#a260905p14)
- - [Orbitals Review: The Perfect Couples Co-op Game for the Switch 2](https://www.cnet.com/tech/gaming/orbitals-review-nintendo-switch-2/)
- - [Explore the globe in field recordings](https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings)<!-- TECH:END -->
+ - [The Best Laptop Backpacks for Work, Travel, and Everything Between &lpar;2026&rpar;](https://www.wired.com/story/best-laptop-backpacks/)
+ - [Crime blotter: Last two defendants sentenced in counterfeiting scheme](https://appleinsider.com/articles/26/09/06/crime-blotter-last-two-defendants-sentenced-in-counterfeiting-scheme?utm_source=rss)
+ - [This $500 Android phone shows what Google still gets wrong with the Pixel 11 camera](https://www.androidauthority.com/google-pixel-11-cheap-phone-camera-features-3703907/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
