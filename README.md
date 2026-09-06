@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s my Portuguese neighbor](http://9gag.com/gag/aLnYyeM)
- - 😝 [Never trust a woman with a male best friend](http://9gag.com/gag/azxNWRz)
- - 👉 [What was that?](http://9gag.com/gag/ae9onxB)<!-- MEMES:END -->
+ - 6️⃣ [Something Is Happening In Spain. Wonder What The Reason Is](http://9gag.com/gag/aByqpgA)
+ - 😝 [Ahhh yes, The seks, I do it all the time, 100x a month](http://9gag.com/gag/aYQ89yO)
+ - 👉 [Reason 6475 not to go there](http://9gag.com/gag/a4PeeGd)<!-- MEMES:END -->
 
 --- 
 
