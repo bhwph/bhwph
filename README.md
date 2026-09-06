@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin is reviewing Rhysida&#39;s 5.79TB release of state data after refusing to pay a ransom; files reportedly include national defense and threat response plans &lpar;Miranda Murray/Reuters&rpar;](https://www.techmeme.com/260905/p10#a260905p10)
- - [CD sales are booming as physical media continues its resurgence](https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence)
- - [Anthropomorphic portrayals of AI models as rogue agents can obscure the responsibility that companies like OpenAI have for incidents like the Hugging Face hack &lpar;Robert Hart/The Verge&rpar;](https://www.techmeme.com/260905/p9#a260905p9)<!-- TECH:END -->
+ - [As researchers begin applying AI to understand animal communication, bioethicists warn it could give humans new ways to manipulate, exploit, and harm animals &lpar;Morgan Meaker/Bloomberg&rpar;](https://www.techmeme.com/260905/p14#a260905p14)
+ - [Orbitals Review: The Perfect Couples Co-op Game for the Switch 2](https://www.cnet.com/tech/gaming/orbitals-review-nintendo-switch-2/)
+ - [Explore the globe in field recordings](https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
