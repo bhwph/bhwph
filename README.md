@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Laptop Backpacks for Work, Travel, and Everything Between &lpar;2026&rpar;](https://www.wired.com/story/best-laptop-backpacks/)
- - [Crime blotter: Last two defendants sentenced in counterfeiting scheme](https://appleinsider.com/articles/26/09/06/crime-blotter-last-two-defendants-sentenced-in-counterfeiting-scheme?utm_source=rss)
- - [This $500 Android phone shows what Google still gets wrong with the Pixel 11 camera](https://www.androidauthority.com/google-pixel-11-cheap-phone-camera-features-3703907/)<!-- TECH:END -->
+ - [Asahi Linux rolls out support for M3 Apple Silicon](https://appleinsider.com/articles/26/09/06/asahi-linux-rolls-out-support-for-m3-apple-silicon?utm_source=rss)
+ - [Boox’s tiny Picco e-reader should land in November](https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa)
+ - [Tim Cook&#39;s pay package indicates he will remain very active at Apple; sources: Apple&#39;s plans to squeeze more App Store profits prompted Phil Schiller to leave &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260906/p5#a260906p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
