@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Maybe he is right](http://9gag.com/gag/aqy33OZ)
- - 😝 [Wife material.](http://9gag.com/gag/aXPDDYz)
- - 👉 [Halli Potah guvnah](http://9gag.com/gag/aMVR3EM)<!-- MEMES:END -->
+ - 6️⃣ [Norway&#39;s Prime Minister rips apart Trump&#39;s letter](http://9gag.com/gag/aW4KVYA)
+ - 😝 [Behind the scenes: Mystique body painting](http://9gag.com/gag/aYQ88gq)
+ - 👉 [She couldn&#39;t take it on the plane so chugged a litre of Tequila](http://9gag.com/gag/a5QmLpg)<!-- MEMES:END -->
 
 --- 
 
