@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Inspur, a blacklisted China-owned company, is bypassing US export restrictions on advanced AI chips via a network of new subsidiaries and partners &lpar;New York Times&rpar;](https://www.techmeme.com/260906/p10#a260906p10)
- - [Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)
- - [Sources: UBS requires AI skills when hiring junior investment bankers, making it one of the first major financial institutions to explicitly require AI literacy &lpar;Simon Foy/Financial Times&rpar;](https://www.techmeme.com/260906/p9#a260906p9)<!-- TECH:END -->
+ - [The 57 Best Deals From the REI Labor Day Sale](https://www.wired.com/story/rei-labor-day-sale-2026/)
+ - [Snapseed leans harder into professional editing with color grading and other upcoming features](https://www.androidauthority.com/snapseed-android-color-grading-search-roll-out-3708328/)
+ - [GrapheneOS is building its own RCS support to cut Google Messages out of the picture](https://www.androidauthority.com/grapheneos-messaging-rcs-support-secure-paste-3708317/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
