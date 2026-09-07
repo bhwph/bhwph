@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [History teacher final boss](http://9gag.com/gag/azxN6bb)
- - 😝 [A women using logic?](http://9gag.com/gag/aD2pp4G)
- - 👉 [Same same](http://9gag.com/gag/aByqD6P)<!-- MEMES:END -->
+ - 6️⃣ [Ok guys... feel free to confessss](http://9gag.com/gag/aQzwYBq)
+ - 😝 [The taco bell bandit](http://9gag.com/gag/an7ppW5)
+ - 👉 [My whole car went over him 2001 dodge neon](http://9gag.com/gag/a87PPX1)<!-- MEMES:END -->
 
 --- 
 
