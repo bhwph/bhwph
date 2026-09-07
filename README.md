@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Norway&#39;s Prime Minister rips apart Trump&#39;s letter](http://9gag.com/gag/aW4KVYA)
- - 😝 [Behind the scenes: Mystique body painting](http://9gag.com/gag/aYQ88gq)
- - 👉 [She couldn&#39;t take it on the plane so chugged a litre of Tequila](http://9gag.com/gag/a5QmLpg)<!-- MEMES:END -->
+ - 6️⃣ [History teacher final boss](http://9gag.com/gag/azxN6bb)
+ - 😝 [A women using logic?](http://9gag.com/gag/aD2pp4G)
+ - 👉 [Same same](http://9gag.com/gag/aByqD6P)<!-- MEMES:END -->
 
 --- 
 
