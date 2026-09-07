@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 57 Best Deals From the REI Labor Day Sale](https://www.wired.com/story/rei-labor-day-sale-2026/)
- - [Snapseed leans harder into professional editing with color grading and other upcoming features](https://www.androidauthority.com/snapseed-android-color-grading-search-roll-out-3708328/)
- - [GrapheneOS is building its own RCS support to cut Google Messages out of the picture](https://www.androidauthority.com/grapheneos-messaging-rcs-support-secure-paste-3708317/)<!-- TECH:END -->
+ - [High prices and no base iPhone 18 could hurt Apple but only in the short term](https://appleinsider.com/articles/26/09/07/high-prices-and-no-base-iphone-18-could-hurt-apple?utm_source=rss)
+ - [Now’s your chance to try out Nothing’s next products early](https://www.androidauthority.com/nothing-community-review-program-opens-3708566/)
+ - [Apple TV&#39;s dystopian drama &#39;Silo&#39; could live on with a rumored spinoff](https://appleinsider.com/articles/26/09/07/apple-tvs-dystopian-drama-silo-could-live-on-with-a-rumored-spinoff?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
