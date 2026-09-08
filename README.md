@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fields medalist Jacob Tsimerman, set to join OpenAI later this month, launches the Mathematical AI Safety Institute to apply higher math to AI safety problems &lpar;Siobhan Roberts/New York Times&rpar;](https://www.techmeme.com/260908/p14#a260908p14)
- - [iPhone Air line may replace the entry-level iPhone, but not soon](https://appleinsider.com/articles/26/09/08/iphone-air-line-may-replace-the-entry-level-iphone-but-not-soon?utm_source=rss)
- - [Australia proposes a &quot;My Feed, My Way&quot; initiative requiring social platforms to send users a notification asking them to opt in or out of algorithmic content &lpar;Clare Armstrong/ABC&rpar;](https://www.techmeme.com/260908/p13#a260908p13)<!-- TECH:END -->
+ - [OpenAI says, while unlikely, it &quot;cannot rule out that de-identified data derived&quot; from Buckmaster&#39;s and Alpöge&#39;s use of its products helped improve its models &lpar;OpenAI&rpar;](https://www.techmeme.com/260908/p35#a260908p35)
+ - [Meta bets on AI agent Muse to catch up in AI race](https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race)
+ - [OpenAI launches ChatGPT Images 2.5, which it says cuts image generation latency by up to 50% vs. Images 2.0, and adds a Sketch feature for drawing in ChatGPT &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260908/p34#a260908p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
