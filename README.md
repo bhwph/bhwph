@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Ok guys... feel free to confessss](http://9gag.com/gag/aQzwYBq)
- - 😝 [That&#39;s enough reason for me to watch it.](http://9gag.com/gag/aQzY6Y2)
- - 👉 [23-year-old Colombian hitwoman known as `The Doll`](http://9gag.com/gag/a6ZvWOA)<!-- MEMES:END -->
+ - 6️⃣ [That&#39;s enough reason for me to watch it.](http://9gag.com/gag/aQzY6Y2)
+ - 😝 [I&#39;ll keep you posted once we open it.](http://9gag.com/gag/a7o4jRz)
+ - 👉 [Chess 1 - Elon Musk 0](http://9gag.com/gag/amoDNzv)<!-- MEMES:END -->
 
 --- 
 
