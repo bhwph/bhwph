@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [High prices and no base iPhone 18 could hurt Apple but only in the short term](https://appleinsider.com/articles/26/09/07/high-prices-and-no-base-iphone-18-could-hurt-apple?utm_source=rss)
- - [Now’s your chance to try out Nothing’s next products early](https://www.androidauthority.com/nothing-community-review-program-opens-3708566/)
- - [Apple TV&#39;s dystopian drama &#39;Silo&#39; could live on with a rumored spinoff](https://appleinsider.com/articles/26/09/07/apple-tvs-dystopian-drama-silo-could-live-on-with-a-rumored-spinoff?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Anthropic has walked away from talks to acquire Decart for ~$6B after performing due diligence on the startup &lpar;Bloomberg&rpar;](https://www.techmeme.com/260907/p22#a260907p22)
+ - [AI upscaling is about to transform Android gaming forever](https://www.androidauthority.com/arm-mali-g2-ultra-deep-dive-3706351/)
+ - [First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost](https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
