@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Ok guys... feel free to confessss](http://9gag.com/gag/aQzwYBq)
- - 😝 [The taco bell bandit](http://9gag.com/gag/an7ppW5)
- - 👉 [My whole car went over him 2001 dodge neon](http://9gag.com/gag/a87PPX1)<!-- MEMES:END -->
+ - 😝 [That&#39;s enough reason for me to watch it.](http://9gag.com/gag/aQzY6Y2)
+ - 👉 [23-year-old Colombian hitwoman known as `The Doll`](http://9gag.com/gag/a6ZvWOA)<!-- MEMES:END -->
 
 --- 
 
