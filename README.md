@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic has walked away from talks to acquire Decart for ~$6B after performing due diligence on the startup &lpar;Bloomberg&rpar;](https://www.techmeme.com/260907/p22#a260907p22)
- - [AI upscaling is about to transform Android gaming forever](https://www.androidauthority.com/arm-mali-g2-ultra-deep-dive-3706351/)
- - [First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost](https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3)<!-- TECH:END -->
+ - [Fields medalist Jacob Tsimerman, set to join OpenAI later this month, launches the Mathematical AI Safety Institute to apply higher math to AI safety problems &lpar;Siobhan Roberts/New York Times&rpar;](https://www.techmeme.com/260908/p14#a260908p14)
+ - [iPhone Air line may replace the entry-level iPhone, but not soon](https://appleinsider.com/articles/26/09/08/iphone-air-line-may-replace-the-entry-level-iphone-but-not-soon?utm_source=rss)
+ - [Australia proposes a &quot;My Feed, My Way&quot; initiative requiring social platforms to send users a notification asking them to opt in or out of algorithmic content &lpar;Clare Armstrong/ABC&rpar;](https://www.techmeme.com/260908/p13#a260908p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
