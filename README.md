@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [That&#39;s enough reason for me to watch it.](http://9gag.com/gag/aQzY6Y2)
- - 😝 [I&#39;ll keep you posted once we open it.](http://9gag.com/gag/a7o4jRz)
- - 👉 [Chess 1 - Elon Musk 0](http://9gag.com/gag/amoDNzv)<!-- MEMES:END -->
+ - 6️⃣ [Penny sounds like a CIA nickname lol](http://9gag.com/gag/aAynRYZ)
+ - 😝 [I was slapped once when I said #3](http://9gag.com/gag/aGy3P35)
+ - 👉 [Watch out buddy](http://9gag.com/gag/aByqDo2)<!-- MEMES:END -->
 
 --- 
 
