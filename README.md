@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OWC&#39;s new $130 USB4 Hub adds four ports and HDMI 2.1 to your Mac](https://appleinsider.com/articles/26/09/09/owcs-new-130-usb4-hub-adds-four-ports-and-hdmi-21-to-your-mac?utm_source=rss)
- - [iPhone 18 Pro preorders expected to start this Saturday](https://appleinsider.com/articles/26/09/09/iphone-18-pro-preorders-expected-to-start-this-saturday?utm_source=rss)
- - [How to watch Apple’s September 9th launch event](https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch)<!-- TECH:END -->
+ - [Contrary to early rumors, iPhone Duo does have MagSafe charging](https://appleinsider.com/articles/26/09/09/contrary-to-early-rumors-iphone-duo-does-have-magsafe-charging?utm_source=rss)
+ - [Hands-on with the iPhone Duo: the folding mechanism is smooth, the crease is almost impossible to find with a finger, and the inner screen has a matte finish &lpar;The Verge&rpar;](https://www.techmeme.com/260909/p37#a260909p37)
+ - [Hands on with the new Apple Watch Series 12 and Apple Watch Ultra 4](https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
