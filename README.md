@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Penny sounds like a CIA nickname lol](http://9gag.com/gag/aAynRYZ)
- - 😝 [I was slapped once when I said #3](http://9gag.com/gag/aGy3P35)
- - 👉 [Watch out buddy](http://9gag.com/gag/aByqDo2)<!-- MEMES:END -->
+ - 6️⃣ [Don&#39;t say &#39;good morning&#39; to people in Bronx](http://9gag.com/gag/ae9Xjnp)
+ - 😝 [Big deal. I\u2019ve peed out my ass before](http://9gag.com/gag/aMVRpRA)
+ - 👉 [In 2009, 21-year-old model Gabriela Rico Jim\u00e9nez screamed this on camera before being arrested. After being arrested, nothing more was heard from him she disappeared.](http://9gag.com/gag/aQzYqZq)<!-- MEMES:END -->
 
 --- 
 
