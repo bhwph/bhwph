@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says, while unlikely, it &quot;cannot rule out that de-identified data derived&quot; from Buckmaster&#39;s and Alpöge&#39;s use of its products helped improve its models &lpar;OpenAI&rpar;](https://www.techmeme.com/260908/p35#a260908p35)
- - [Meta bets on AI agent Muse to catch up in AI race](https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race)
- - [OpenAI launches ChatGPT Images 2.5, which it says cuts image generation latency by up to 50% vs. Images 2.0, and adds a Sketch feature for drawing in ChatGPT &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260908/p34#a260908p34)<!-- TECH:END -->
+ - [Analysis: from 2019 to 2025, gains in pretraining compute efficiency came mostly from data improvements rather than model improvements &lpar;Dwarkesh Podcast&rpar;](https://www.techmeme.com/260908/p49#a260908p49)
+ - [Source: Gimlet Labs raised its $300M round after telling investors OpenAI may spend $100M+ annually on its services; OpenAI says it&#39;s not a paying customer yet &lpar;The Information&rpar;](https://www.techmeme.com/260908/p48#a260908p48)
+ - [Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won&#39;t be able to control &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260908/p47#a260908p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
