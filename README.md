@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: from 2019 to 2025, gains in pretraining compute efficiency came mostly from data improvements rather than model improvements &lpar;Dwarkesh Podcast&rpar;](https://www.techmeme.com/260908/p49#a260908p49)
- - [Source: Gimlet Labs raised its $300M round after telling investors OpenAI may spend $100M+ annually on its services; OpenAI says it&#39;s not a paying customer yet &lpar;The Information&rpar;](https://www.techmeme.com/260908/p48#a260908p48)
- - [Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won&#39;t be able to control &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260908/p47#a260908p47)<!-- TECH:END -->
+ - [OWC&#39;s new $130 USB4 Hub adds four ports and HDMI 2.1 to your Mac](https://appleinsider.com/articles/26/09/09/owcs-new-130-usb4-hub-adds-four-ports-and-hdmi-21-to-your-mac?utm_source=rss)
+ - [iPhone 18 Pro preorders expected to start this Saturday](https://appleinsider.com/articles/26/09/09/iphone-18-pro-preorders-expected-to-start-this-saturday?utm_source=rss)
+ - [How to watch Apple’s September 9th launch event](https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
