@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Massachusetts Gov. Maura Healey signs an EO requiring data centers above 25MW of peak demand to bring their own power and meet 100% of demand with clean energy &lpar;Tim De Chant/TechCrunch&rpar;](https://www.techmeme.com/260909/p54#a260909p54)
- - [iPhone Duo vs Samsung Galaxy Z Fold8 Ultra: Foldables compared](https://appleinsider.com/articles/26/09/09/iphone-duo-vs-samsung-galaxy-z-fold8-ultra-foldabes-compared?utm_source=rss)
- - [Sources: DOJ is investigating whether Nvidia tried to skirt antitrust scrutiny of its 2025 Groq deal, described by Groq as a &quot;nonexclusive licensing agreement&quot; &lpar;New York Times&rpar;](https://www.techmeme.com/260909/p53#a260909p53)<!-- TECH:END -->
+ - [Bending Spoons agrees to acquire Miro in an all-cash transaction valuing the workplace-collaboration platform at $1.36B &lpar;Sonia Sirletti/Bloomberg&rpar;](https://www.techmeme.com/260910/p18#a260910p18)
+ - [Why RayNeo is the only AR eyewear company you can bet on](https://www.androidauthority.com/rayneo-ar-glasses-ifa-2026-3708762/)
+ - [Trump Mobile T1 price hike grabs consumers by the wallet](https://www.androidauthority.com/trump-mobile-t1-price-hike-3709792/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
