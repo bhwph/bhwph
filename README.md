@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Contrary to early rumors, iPhone Duo does have MagSafe charging](https://appleinsider.com/articles/26/09/09/contrary-to-early-rumors-iphone-duo-does-have-magsafe-charging?utm_source=rss)
- - [Hands-on with the iPhone Duo: the folding mechanism is smooth, the crease is almost impossible to find with a finger, and the inner screen has a matte finish &lpar;The Verge&rpar;](https://www.techmeme.com/260909/p37#a260909p37)
- - [Hands on with the new Apple Watch Series 12 and Apple Watch Ultra 4](https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4)<!-- TECH:END -->
+ - [Massachusetts Gov. Maura Healey signs an EO requiring data centers above 25MW of peak demand to bring their own power and meet 100% of demand with clean energy &lpar;Tim De Chant/TechCrunch&rpar;](https://www.techmeme.com/260909/p54#a260909p54)
+ - [iPhone Duo vs Samsung Galaxy Z Fold8 Ultra: Foldables compared](https://appleinsider.com/articles/26/09/09/iphone-duo-vs-samsung-galaxy-z-fold8-ultra-foldabes-compared?utm_source=rss)
+ - [Sources: DOJ is investigating whether Nvidia tried to skirt antitrust scrutiny of its 2025 Groq deal, described by Groq as a &quot;nonexclusive licensing agreement&quot; &lpar;New York Times&rpar;](https://www.techmeme.com/260909/p53#a260909p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
