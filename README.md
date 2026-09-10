@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bending Spoons agrees to acquire Miro in an all-cash transaction valuing the workplace-collaboration platform at $1.36B &lpar;Sonia Sirletti/Bloomberg&rpar;](https://www.techmeme.com/260910/p18#a260910p18)
- - [Why RayNeo is the only AR eyewear company you can bet on](https://www.androidauthority.com/rayneo-ar-glasses-ifa-2026-3708762/)
- - [Trump Mobile T1 price hike grabs consumers by the wallet](https://www.androidauthority.com/trump-mobile-t1-price-hike-3709792/)<!-- TECH:END -->
+ - [Universal Music Group partners with ElevenLabs to launch a new AI-powered platform that will let users create song remixes, mashups, and more from its catalog &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260910/p31#a260910p31)
+ - [Android Auto users say Google’s wavy media progress bar is gone](https://www.androidauthority.com/android-auto-wavy-progress-bar-bug-3710055/)
+ - [Deal: The highly rated Energizer outdoor speaker just got cheaper](https://www.androidauthority.com/energizer-outdoor-speaker-deal-3710094/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
