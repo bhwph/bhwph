@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe says it hit 1B MAUs, with freemium MAUs surpassing 100M in Q3, up 70%+ YoY, as it increasingly focuses on expanding its freemium AI offerings &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/260910/p45#a260910p45)
- - [New Mexico representatives ask Apple to not rename state to &#39;New America&#39;](https://appleinsider.com/articles/26/09/11/new-mexico-representatives-ask-apple-to-not-rename-state-to-new-america?utm_source=rss)
- - [Sources: Sam Altman told OpenAI employees that the company is considering slowing cutting-edge AI development, and he hopes other AI companies will do the same &lpar;Bloomberg&rpar;](https://www.techmeme.com/260910/p44#a260910p44)<!-- TECH:END -->
+ - [Arizona’s lifeline for chip manufacturing is drying up](https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river)
+ - [Inside Visual Intelligence on iOS and macOS: Using Apple&#39;s best AI feature](https://appleinsider.com/inside/ios-27/tips/visual-intelligence-on-ios-and-macos-using-apples-image-based-ai-feature?utm_source=rss)
+ - [New Samsung Galaxy Buds ‘T1’ leak reveals workout-focused design, battery specs, and features](https://www.androidauthority.com/samsung-galaxy-buds-canal-5-leak-features-3710315/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
