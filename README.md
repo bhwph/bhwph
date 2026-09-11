@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [`oH No yOu wOrK AlL DaY AnD LeAvE Me aT HoMe aLl aLoNe i hAd nO ChOiCe`](http://9gag.com/gag/aE0e1rN)
- - 😝 [They hiding among us](http://9gag.com/gag/aGyPwXK)
- - 👉 [Please put it back on.](http://9gag.com/gag/aGyPRKG)<!-- MEMES:END -->
+ - 6️⃣ [Taste of Equality](http://9gag.com/gag/aoyB0qe)
+ - 😝 [On this day in 2001, WTC Tower 7 kill*d itself.](http://9gag.com/gag/ajP2nRg)
+ - 👉 [Nice](http://9gag.com/gag/a34o39m)<!-- MEMES:END -->
 
 --- 
 
