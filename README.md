@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arizona’s lifeline for chip manufacturing is drying up](https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river)
- - [Inside Visual Intelligence on iOS and macOS: Using Apple&#39;s best AI feature](https://appleinsider.com/inside/ios-27/tips/visual-intelligence-on-ios-and-macos-using-apples-image-based-ai-feature?utm_source=rss)
- - [New Samsung Galaxy Buds ‘T1’ leak reveals workout-focused design, battery specs, and features](https://www.androidauthority.com/samsung-galaxy-buds-canal-5-leak-features-3710315/)<!-- TECH:END -->
+ - [Sources: Cohere is in advanced talks to raise between $2B and $3B, including financing from the Canadian government and existing backers, at a $20B valuation &lpar;Globe and Mail&rpar;](https://www.techmeme.com/260911/p25#a260911p25)
+ - [Lenovo Googlebook 15 specs leak, and this clearly isn’t your schoolhouse Chromebook](https://www.androidauthority.com/lenovo-googlebook-15-specs-oled-core-ultra-5-3710450/)
+ - [Sources: some lawmakers urge Speaker Johnson to cancel the fall House recess until Congress passes AI safeguards, after Anthropic researcher warnings &lpar;Andrew Solender/Axios&rpar;](https://www.techmeme.com/260911/p24#a260911p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
