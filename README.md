@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Universal Music Group partners with ElevenLabs to launch a new AI-powered platform that will let users create song remixes, mashups, and more from its catalog &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260910/p31#a260910p31)
- - [Android Auto users say Google’s wavy media progress bar is gone](https://www.androidauthority.com/android-auto-wavy-progress-bar-bug-3710055/)
- - [Deal: The highly rated Energizer outdoor speaker just got cheaper](https://www.androidauthority.com/energizer-outdoor-speaker-deal-3710094/)<!-- TECH:END -->
+ - [Adobe says it hit 1B MAUs, with freemium MAUs surpassing 100M in Q3, up 70%+ YoY, as it increasingly focuses on expanding its freemium AI offerings &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/260910/p45#a260910p45)
+ - [New Mexico representatives ask Apple to not rename state to &#39;New America&#39;](https://appleinsider.com/articles/26/09/11/new-mexico-representatives-ask-apple-to-not-rename-state-to-new-america?utm_source=rss)
+ - [Sources: Sam Altman told OpenAI employees that the company is considering slowing cutting-edge AI development, and he hopes other AI companies will do the same &lpar;Bloomberg&rpar;](https://www.techmeme.com/260910/p44#a260910p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
