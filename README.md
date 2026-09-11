@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Taste of Equality](http://9gag.com/gag/aoyB0qe)
- - 😝 [On this day in 2001, WTC Tower 7 kill*d itself.](http://9gag.com/gag/ajP2nRg)
- - 👉 [Nice](http://9gag.com/gag/a34o39m)<!-- MEMES:END -->
+ - 6️⃣ [The real facial expressions](http://9gag.com/gag/aKGbqPj)
+ - 😝 [What&#39;s going on here?](http://9gag.com/gag/aD2Bo3d)
+ - 👉 [`the jet fuel store called, they&#39;re running out of you!`](http://9gag.com/gag/apReB08)<!-- MEMES:END -->
 
 --- 
 
