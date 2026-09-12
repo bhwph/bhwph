@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Years later, still a Valid Crash out.](http://9gag.com/gag/aKGb3P1)
- - 😝 [Would you date a woman with body hair](http://9gag.com/gag/aO86Vp6)
- - 👉 [Would you date a woman with tattoos](http://9gag.com/gag/aGyPw56)<!-- MEMES:END -->
+ - 6️⃣ [4b women kicked out](http://9gag.com/gag/aD2BG9d)
+ - 😝 [Years later, still a Valid Crash out.](http://9gag.com/gag/aKGb3P1)
+ - 👉 [I will try this tonight](http://9gag.com/gag/ae9XGLB)<!-- MEMES:END -->
 
 --- 
 
