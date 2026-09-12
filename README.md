@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon adds a Shop tab to Prime Video&#39;s X-Ray feature for related products while watching shows, and Shop the Scene powered by Amazon Lens in the Shopping app &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260911/p36#a260911p36)
- - [Some experts say Siri Recap and Live Rewind, always-listening AI features in new Apple Watches, could test eavesdropping laws despite privacy protections &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260911/p35#a260911p35)
- - [Sources: Anthropic is in talks to bring on Nvidia as an anchor investor in its IPO, seeking up to $100B at a ~$2T valuation; Nvidia may invest up to $10B &lpar;Reuters&rpar;](https://www.techmeme.com/260911/p34#a260911p34)<!-- TECH:END -->
+ - [10 Best Standing Desks Worth Buying in 2026](https://www.wired.com/gallery/best-standing-desks/)
+ - [Just bought a Pixel 11 Pro? Don’t forget to claim this hidden $119 deal](https://www.androidauthority.com/pixel-11-pro-free-google-ai-pro-3707151/)
+ - [The Anti-Woke Right Can’t Figure Out How to Stop ‘Grand Theft Auto VI’](https://www.wired.com/story/the-anti-woke-right-cant-figure-out-how-to-stop-grand-theft-auto-vi/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
