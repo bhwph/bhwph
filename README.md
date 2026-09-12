@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Cohere is in advanced talks to raise between $2B and $3B, including financing from the Canadian government and existing backers, at a $20B valuation &lpar;Globe and Mail&rpar;](https://www.techmeme.com/260911/p25#a260911p25)
- - [Lenovo Googlebook 15 specs leak, and this clearly isn’t your schoolhouse Chromebook](https://www.androidauthority.com/lenovo-googlebook-15-specs-oled-core-ultra-5-3710450/)
- - [Sources: some lawmakers urge Speaker Johnson to cancel the fall House recess until Congress passes AI safeguards, after Anthropic researcher warnings &lpar;Andrew Solender/Axios&rpar;](https://www.techmeme.com/260911/p24#a260911p24)<!-- TECH:END -->
+ - [Amazon adds a Shop tab to Prime Video&#39;s X-Ray feature for related products while watching shows, and Shop the Scene powered by Amazon Lens in the Shopping app &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260911/p36#a260911p36)
+ - [Some experts say Siri Recap and Live Rewind, always-listening AI features in new Apple Watches, could test eavesdropping laws despite privacy protections &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260911/p35#a260911p35)
+ - [Sources: Anthropic is in talks to bring on Nvidia as an anchor investor in its IPO, seeking up to $100B at a ~$2T valuation; Nvidia may invest up to $10B &lpar;Reuters&rpar;](https://www.techmeme.com/260911/p34#a260911p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
