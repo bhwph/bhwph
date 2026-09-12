@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Standing Desks Worth Buying in 2026](https://www.wired.com/gallery/best-standing-desks/)
- - [Just bought a Pixel 11 Pro? Don’t forget to claim this hidden $119 deal](https://www.androidauthority.com/pixel-11-pro-free-google-ai-pro-3707151/)
- - [The Anti-Woke Right Can’t Figure Out How to Stop ‘Grand Theft Auto VI’](https://www.wired.com/story/the-anti-woke-right-cant-figure-out-how-to-stop-grand-theft-auto-vi/)<!-- TECH:END -->
+ - [Elon Musk backs Dario Amodei&#39;s arguments about pacing the frontier, saying &quot;Dario is right&quot; &lpar;Ben Johansen/Politico&rpar;](https://www.techmeme.com/260912/p14#a260912p14)
+ - [Hugging Face says its Open Alignment Initiative, led by co-founder Thomas Wolf, seeks &quot;to be part of the &#39;embedded evaluators&#39; program that Amodei&quot; committed to &lpar;Clem/@clementdelangue&rpar;](https://www.techmeme.com/260912/p13#a260912p13)
+ - [Sam Altman says he agrees with Amodei that &quot;committing to having independent evaluators with employee-like access is a great idea&quot;, and OpenAI will do the same &lpar;Sam Altman/@sama&rpar;](https://www.techmeme.com/260912/p12#a260912p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
