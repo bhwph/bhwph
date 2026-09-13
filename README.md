@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster](https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026)
- - [Anthropic and OpenAI are already free to &quot;pace the frontier&quot; and should do so for business reasons, instead of first demanding a preferred regulatory framework &lpar;David Sacks/@davidsacks&rpar;](https://www.techmeme.com/260913/p5#a260913p5)
- - [The Latest Weird Thing to Play Doom Is the Mapped-Out Brain of a Fruit Fly](https://www.cnet.com/tech/gaming/simulated-fruit-fly-brain-plays-doom/)<!-- TECH:END -->
+ - [Microsoft Windows 11 and Office for Mac deals plunge to as low as $9.97](https://appleinsider.com/articles/26/09/13/microsoft-windows-11-and-office-for-mac-deals-plunge-to-as-low-as-997?utm_source=rss)
+ - [The Units’ Digital Stimulation is synthpunk perfection](https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review)
+ - [Yes, the iPhone Duo Is a First-Generation Phone. That’s Why You Should Get One if You Can](https://www.cnet.com/tech/mobile/yes-the-iphone-duo-is-a-first-generation-phone-thats-why-you-should-get-one-if-you-can/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
