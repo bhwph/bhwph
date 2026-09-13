@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of United Foundation for AI Rights founder Michael Samadi, who seeks evidence of AI consciousness and lobbies against retiring models that may show it &lpar;Michael Safi/The Guardian&rpar;](https://www.techmeme.com/260912/p19#a260912p19)
- - [Twenty police forces in England and Wales recorded 163 crimes involving keywords like &quot;AI-generated&quot;, &quot;deepfake&quot;, and &quot;nudify&quot; by July 2026, up from 10 in 2023 &lpar;Mark Tovey/Telegraph&rpar;](https://www.techmeme.com/260912/p18#a260912p18)
- - [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack)<!-- TECH:END -->
+ - [Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster](https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026)
+ - [Anthropic and OpenAI are already free to &quot;pace the frontier&quot; and should do so for business reasons, instead of first demanding a preferred regulatory framework &lpar;David Sacks/@davidsacks&rpar;](https://www.techmeme.com/260913/p5#a260913p5)
+ - [The Latest Weird Thing to Play Doom Is the Mapped-Out Brain of a Fruit Fly](https://www.cnet.com/tech/gaming/simulated-fruit-fly-brain-plays-doom/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
