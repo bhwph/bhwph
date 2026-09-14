@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot deal! 41mm Pixel Watch 4 LTE crashes to all-time low $329.99](https://www.androidauthority.com/41mm-pixel-watch-4-lte-deal-3710980/)
- - [Temporal, which makes open-source software that helps apps, including AI agents, recover from failure, raised $550M led by Lightspeed at a $12.55B valuation &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260914/p20#a260914p20)
- - [Trump slams Dario Amodei, saying &quot;the only control or &#39;guardrails&#39; that AI needs is a STRONG AND SMART &lpar;High IQ!&rpar; PRESIDENT, and the USA has that, in spades!&quot; &lpar;Hadriana Lowenkron/Bloomberg&rpar;](https://www.techmeme.com/260914/p19#a260914p19)<!-- TECH:END -->
+ - [Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world](https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit)
+ - [Valve&amp;#8217;s virtual reality plans hit actual reality](https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact)
+ - [Gemini Live may finally let you switch seamlessly between speaking and typing](https://www.androidauthority.com/gemini-live-keyboard-3711060/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
