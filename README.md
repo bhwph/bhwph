@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Current and former officials: the US NSA plans major restructuring to form five new units for AI, China, cybersecurity, warfighting, and global intelligence &lpar;Washington Post&rpar;](https://www.techmeme.com/260913/p17#a260913p17)
- - [Source: Anthropic signed a $13.7B, six-year deal to lease compute from Rum Group&#39;s upcoming Georgia data center; Rum operates Rumble and hosts Truth Social &lpar;The Information&rpar;](https://www.techmeme.com/260913/p16#a260913p16)
- - [Report: former EPA officials identify 30 federal actions since January 2025 that they say exacerbate health risks stemming from data center pollution &lpar;Justine Calma/The Verge&rpar;](https://www.techmeme.com/260913/p15#a260913p15)<!-- TECH:END -->
+ - [Hot deal! 41mm Pixel Watch 4 LTE crashes to all-time low $329.99](https://www.androidauthority.com/41mm-pixel-watch-4-lte-deal-3710980/)
+ - [Temporal, which makes open-source software that helps apps, including AI agents, recover from failure, raised $550M led by Lightspeed at a $12.55B valuation &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260914/p20#a260914p20)
+ - [Trump slams Dario Amodei, saying &quot;the only control or &#39;guardrails&#39; that AI needs is a STRONG AND SMART &lpar;High IQ!&rpar; PRESIDENT, and the USA has that, in spades!&quot; &lpar;Hadriana Lowenkron/Bloomberg&rpar;](https://www.techmeme.com/260914/p19#a260914p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
