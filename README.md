@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [4b women kicked out](http://9gag.com/gag/aD2BG9d)
- - 😝 [Brave little Angel calls 911 on her mother who is apparently another member of the Lindsay C. cult](http://9gag.com/gag/a34o7Wv)
- - 👉 [Would you date a woman taller than you](http://9gag.com/gag/aYQzxW0)<!-- MEMES:END -->
+ - 6️⃣ [Would you date a woman taller than you](http://9gag.com/gag/aYQzxW0)
+ - 😝 [Would you date a woman taller than you](http://9gag.com/gag/aYQzxW0)
+ - 👉 [Flamingo finger](http://9gag.com/gag/a6ZWbj9)<!-- MEMES:END -->
 
 --- 
 
