@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Would you date a woman taller than you](http://9gag.com/gag/aYQzxW0)
+ - 6️⃣ [Agree?](http://9gag.com/gag/aYQz4PO)
  - 😝 [Computer science guys, which OS you use on your desktop?](http://9gag.com/gag/avybGm5)
- - 👉 [Would you date a woman taller than you](http://9gag.com/gag/aYQzxW0)<!-- MEMES:END -->
+ - 👉 [Agree?](http://9gag.com/gag/aYQz4PO)<!-- MEMES:END -->
 
 --- 
 
