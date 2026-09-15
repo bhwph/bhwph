@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at iLands, a company that&#39;s like Fiverr for agents, which email annoying and unsolicited pitches to people, usually for services costing ~$25 &lpar;Ernie Smith/Tedium&rpar;](https://www.techmeme.com/260914/p44#a260914p44)
- - [Thoughts on AI labs&#39; safety concerns: a coordinated slowdown may look like an antitrust conspiracy to limit output that would preserve frontier model margins &lpar;Matt Levine/Bloomberg&rpar;](https://www.techmeme.com/260914/p43#a260914p43)
- - [Cybersecurity stocks were the top performers in the S&amp;P 500 on Monday amid escalating AI fears; CrowdStrike rose 14%, Palo Alto Networks 13%, and Fortinet 9% &lpar;Britney Nguyen/MarketWatch&rpar;](https://www.techmeme.com/260914/p42#a260914p42)<!-- TECH:END -->
+ - [Spotify’s new toggle can keep kids music out of your recommendations and Wrapped](https://www.androidauthority.com/spotify-avoid-kids-music-recommendations-wrapped-3711110/)
+ - [Voicemod’s new pocket-friendly device brings real-time voice changing to your phone](https://www.theverge.com/tech/994828/voicemod-voice-changer-key-pocket-ios-android-soundboard)
+ - [The premium AirPods 5 are the best open-ear earbuds Apple has made](https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
