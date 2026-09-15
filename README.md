@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Agree?](http://9gag.com/gag/aYQz4PO)
- - 😝 [Computer science guys, which OS you use on your desktop?](http://9gag.com/gag/avybGm5)
+ - 6️⃣ [The number of casualties in World War II according to a museum. Is it correct?](http://9gag.com/gag/a9y3pdD)
+ - 😝 [The current state of the United States](http://9gag.com/gag/aMVpA56)
  - 👉 [Agree?](http://9gag.com/gag/aYQz4PO)<!-- MEMES:END -->
 
 --- 
