@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify’s new toggle can keep kids music out of your recommendations and Wrapped](https://www.androidauthority.com/spotify-avoid-kids-music-recommendations-wrapped-3711110/)
- - [Voicemod’s new pocket-friendly device brings real-time voice changing to your phone](https://www.theverge.com/tech/994828/voicemod-voice-changer-key-pocket-ios-android-soundboard)
- - [The premium AirPods 5 are the best open-ear earbuds Apple has made](https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review)<!-- TECH:END -->
+ - [The Senate fails to advance the Clarity Act, dealing a major blow to the crypto industry&#39;s push for a comprehensive market structure framework &lpar;CNBC&rpar;](https://www.techmeme.com/260915/p43#a260915p43)
+ - [macOS 27 kills Time Capsule backups, but NAS hosts still work](https://appleinsider.com/articles/26/09/15/macos-27-kills-time-capsule-backups-but-nas-hosts-still-work?utm_source=rss)
+ - [CADDi, which sells AI tools to help manufacturers organize engineering and production data, raised a $114M Series D at a $1.2B valuation, up from $470M in 2025 &lpar;Jeremy Kahn/Fortune&rpar;](https://www.techmeme.com/260915/p42#a260915p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
