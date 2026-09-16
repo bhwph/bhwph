@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 18 Pro review roundup: great cameras, no surprises, isn&#39;t iPhone Duo](https://appleinsider.com/articles/26/09/16/iphone-18-pro-review-roundup-great-cameras-no-surprises-isnt-iphone-duo?utm_source=rss)
- - [What iPhone Duo doesn&#39;t have, and what compensates for those losses](https://appleinsider.com/articles/26/09/16/what-iphone-duo-doesnt-have-and-what-compensates-for-those-losses?utm_source=rss)
- - [Modular data center startup Rune raised a $40M Series A led by Spark Capital to deploy off-grid compute capacity directly at solar and renewable energy sites &lpar;Adele Peters/Fast Company&rpar;](https://www.techmeme.com/260916/p25#a260916p25)<!-- TECH:END -->
+ - [Self-driving tech company May Mobility plans to go public via a SPAC merger at a $1.4B pro forma enterprise value and raise up to $337M in gross proceeds &lpar;Joann Muller/Axios&rpar;](https://www.techmeme.com/260916/p42#a260916p42)
+ - [New in iOS 27.2 beta: redesigned Health app, Siri AI localization, more](https://appleinsider.com/articles/26/09/16/new-in-ios-272-beta-redesigned-health-app-siri-ai-localization-more?utm_source=rss)
+ - [I Trained a Fly’s Brain to Generate WIRED Story Ideas](https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
