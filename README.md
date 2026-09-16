@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: AI assistant Instinct seeks to raise $1B at a $10B valuation, up from $2.25B less than a month ago; Sequoia and Benchmark are in talks to lead the round &lpar;Valida Pau/The Information&rpar;](https://www.techmeme.com/260915/p58#a260915p58)
- - [Google details September Wear OS update for Pixel Watch 2, Pixel Watch 3, and Pixel Watch 4](https://www.androidauthority.com/google-pixel-watch-september-wear-os-update-3711720/)
- - [BOOX debuts three new E-Ink tablets, including a pair of stylus-equipped Note models](https://www.androidauthority.com/boox-note-air6-c-3711609/)<!-- TECH:END -->
+ - [iPhone 18 Pro review roundup: great cameras, no surprises, isn&#39;t iPhone Duo](https://appleinsider.com/articles/26/09/16/iphone-18-pro-review-roundup-great-cameras-no-surprises-isnt-iphone-duo?utm_source=rss)
+ - [What iPhone Duo doesn&#39;t have, and what compensates for those losses](https://appleinsider.com/articles/26/09/16/what-iphone-duo-doesnt-have-and-what-compensates-for-those-losses?utm_source=rss)
+ - [Modular data center startup Rune raised a $40M Series A led by Spark Capital to deploy off-grid compute capacity directly at solar and renewable energy sites &lpar;Adele Peters/Fast Company&rpar;](https://www.techmeme.com/260916/p25#a260916p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
