@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Senate fails to advance the Clarity Act, dealing a major blow to the crypto industry&#39;s push for a comprehensive market structure framework &lpar;CNBC&rpar;](https://www.techmeme.com/260915/p43#a260915p43)
- - [macOS 27 kills Time Capsule backups, but NAS hosts still work](https://appleinsider.com/articles/26/09/15/macos-27-kills-time-capsule-backups-but-nas-hosts-still-work?utm_source=rss)
- - [CADDi, which sells AI tools to help manufacturers organize engineering and production data, raised a $114M Series D at a $1.2B valuation, up from $470M in 2025 &lpar;Jeremy Kahn/Fortune&rpar;](https://www.techmeme.com/260915/p42#a260915p42)<!-- TECH:END -->
+ - [Source: AI assistant Instinct seeks to raise $1B at a $10B valuation, up from $2.25B less than a month ago; Sequoia and Benchmark are in talks to lead the round &lpar;Valida Pau/The Information&rpar;](https://www.techmeme.com/260915/p58#a260915p58)
+ - [Google details September Wear OS update for Pixel Watch 2, Pixel Watch 3, and Pixel Watch 4](https://www.androidauthority.com/google-pixel-watch-september-wear-os-update-3711720/)
+ - [BOOX debuts three new E-Ink tablets, including a pair of stylus-equipped Note models](https://www.androidauthority.com/boox-note-air6-c-3711609/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
