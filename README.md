@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Self-driving tech company May Mobility plans to go public via a SPAC merger at a $1.4B pro forma enterprise value and raise up to $337M in gross proceeds &lpar;Joann Muller/Axios&rpar;](https://www.techmeme.com/260916/p42#a260916p42)
- - [New in iOS 27.2 beta: redesigned Health app, Siri AI localization, more](https://appleinsider.com/articles/26/09/16/new-in-ios-272-beta-redesigned-health-app-siri-ai-localization-more?utm_source=rss)
- - [I Trained a Fly’s Brain to Generate WIRED Story Ideas](https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/)<!-- TECH:END -->
+ - [There’s a serious security fix hiding in Google’s September Pixel update](https://www.androidauthority.com/google-pixel-zero-click-vulnerability-september-security-patch-3712214/)
+ - [AWS says it can&#39;t restore some data stored exclusively in data centers across Bahrain and one UAE availability zone after Iranian drone strikes in the spring &lpar;Omar Abdel-Baqui/Wall Street Journal&rpar;](https://www.techmeme.com/260916/p53#a260916p53)
+ - [Generac signs a long-term deal to supply Amazon with up to $8B worth of backup generators for data centers and grants Amazon a warrant for up to a 2.6% stake &lpar;Michelle Ma/Bloomberg&rpar;](https://www.techmeme.com/260916/p52#a260916p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
