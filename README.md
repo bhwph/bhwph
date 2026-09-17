@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)
- - 😝 [Woman Diagnosed With Terminal Cancer Divorced Her Husband &amp; Slept With 200 Men Before Dying](http://9gag.com/gag/aYQzyv0)
- - 👉 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)<!-- MEMES:END -->
+ - 6️⃣ [Woman Arrested After Husband Found Video Of Her Performing Sex Acts With Family Dog](http://9gag.com/gag/a4PM3Ov)
+ - 😝 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)
+ - 👉 [Woman Arrested After Husband Found Video Of Her Performing Sex Acts With Family Dog](http://9gag.com/gag/a4PM3Ov)<!-- MEMES:END -->
 
 --- 
 
