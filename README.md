@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A former US State Department envoy says the US-China AI safety talks will not yield a breakthrough treaty as Beijing is prioritizing its strategic advantage &lpar;New York Times&rpar;](https://www.techmeme.com/260917/p24#a260917p24)
- - [iPhone Duo may have inadvertently helped Galaxy Z Fold 8 sales](https://www.androidauthority.com/samsung-galaxy-z-fold-8-sales-iphone-duo-3712401/)
- - [Grand Theft Auto VI’s soundtrack will feature 34 brand-new tracks](https://www.theverge.com/entertainment/996831/grand-theft-auto-6-soundtrack)<!-- TECH:END -->
+ - [Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers](https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/)
+ - [Google reveals how its new 3D emoji were designed, and which Android brands are getting them](https://www.androidauthority.com/noto-3d-emoji-rollout-3712554/)
+ - [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
