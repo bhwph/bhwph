@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers](https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/)
- - [Google reveals how its new 3D emoji were designed, and which Android brands are getting them](https://www.androidauthority.com/noto-3d-emoji-rollout-3712554/)
- - [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects)<!-- TECH:END -->
+ - [OpenAI won&#39;t get to see terms of settlement between Apple and SpaceXAI](https://appleinsider.com/articles/26/09/18/openai-wont-get-to-see-terms-of-settlement-between-apple-and-spacexai?utm_source=rss)
+ - [A federal judge denies OpenAI&#39;s bid to see SpaceXAI&#39;s confidential settlement with Apple in an antitrust case, finding the materials irrelevant after a review &lpar;Hassan Ali Kanu/Politico&rpar;](https://www.techmeme.com/260917/p44#a260917p44)
+ - [Waymo says Singapore will be its next international robotaxi city](https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
