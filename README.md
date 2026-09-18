@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Child safety protesters target Apple Fifth Avenue at iPhone 18 Pro release](https://appleinsider.com/articles/26/09/18/child-safety-protesters-target-apple-fifth-avenue-at-iphone-18-pro-release?utm_source=rss)
- - [The Clicks Communicator Ships in December With More RAM and New Mobile Service](https://www.cnet.com/uncategorized/the-clicks-communicator-ships-in-december-with-more-ram-and-new-mobile-service/)
- - [SK Hynix launches SK Hynix Ventures in Silicon Valley, expanding its corporate investment scope into AI computing, data centers, and optical interconnect tech &lpar;Jie Ye-eun/The Korea Herald&rpar;](https://www.techmeme.com/260918/p13#a260918p13)<!-- TECH:END -->
+ - [Developers finally get Xcode tools to prepare apps for iPhone Duo](https://appleinsider.com/articles/26/09/18/developers-finally-get-xcode-tools-to-prepare-apps-for-iphone-duo?utm_source=rss)
+ - [Virginia governor creates an AI task force and moves to restrain data centers](https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force)
+ - [Disney’s first CTO is Character.AI’s former CEO](https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
