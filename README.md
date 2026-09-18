@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI won&#39;t get to see terms of settlement between Apple and SpaceXAI](https://appleinsider.com/articles/26/09/18/openai-wont-get-to-see-terms-of-settlement-between-apple-and-spacexai?utm_source=rss)
- - [A federal judge denies OpenAI&#39;s bid to see SpaceXAI&#39;s confidential settlement with Apple in an antitrust case, finding the materials irrelevant after a review &lpar;Hassan Ali Kanu/Politico&rpar;](https://www.techmeme.com/260917/p44#a260917p44)
- - [Waymo says Singapore will be its next international robotaxi city](https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027)<!-- TECH:END -->
+ - [Child safety protesters target Apple Fifth Avenue at iPhone 18 Pro release](https://appleinsider.com/articles/26/09/18/child-safety-protesters-target-apple-fifth-avenue-at-iphone-18-pro-release?utm_source=rss)
+ - [The Clicks Communicator Ships in December With More RAM and New Mobile Service](https://www.cnet.com/uncategorized/the-clicks-communicator-ships-in-december-with-more-ram-and-new-mobile-service/)
+ - [SK Hynix launches SK Hynix Ventures in Silicon Valley, expanding its corporate investment scope into AI computing, data centers, and optical interconnect tech &lpar;Jie Ye-eun/The Korea Herald&rpar;](https://www.techmeme.com/260918/p13#a260918p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
