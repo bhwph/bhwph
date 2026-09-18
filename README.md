@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Texas Police Department Shut Down For Failing To Provide \u2018Public Benefit\u2019\u00a0](http://9gag.com/gag/a2vQ7Ad)
- - 😝 [Eternal jar of mystery](http://9gag.com/gag/aMVpKd1)
- - 👉 [I&#39;m enraged](http://9gag.com/gag/a87rEKO)<!-- MEMES:END -->
+ - 6️⃣ [Amsterdam](http://9gag.com/gag/aPAOZrB)
+ - 😝 [I&#39;m enraged](http://9gag.com/gag/a87rEKO)
+ - 👉 [Well, you&#39;re not wrong, Grok](http://9gag.com/gag/amoDPpd)<!-- MEMES:END -->
 
 --- 
 
