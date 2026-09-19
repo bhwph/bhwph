@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ING: India&#39;s software services exports have risen to ~5.2% of GDP from 3.3% before the pandemic, as AI pushes the country&#39;s IT industry toward higher-value work &lpar;Anup Roy/Bloomberg&rpar;](https://www.techmeme.com/260919/p6#a260919p6)
- - [Why I still install this third-party battery app on my Android phones in 2026](https://www.androidauthority.com/android-battery-app-still-use-2026-why-3710060/)
- - [Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening](https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/)<!-- TECH:END -->
+ - [Former DraftKings employees detail how it uses ML to target likely losers with promotions, while efforts to flag problem gamblers were shelved or squashed &lpar;New York Times&rpar;](https://www.techmeme.com/260919/p10#a260919p10)
+ - [Trump treads further on free speech with new journalist bans](https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban)
+ - [Google says it didn&#39;t consider Gemini&#39;s hacks worthy of disclosure because Gemini acted &quot;appropriately&quot; and stopped after determining it hacked real companies &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/260919/p9#a260919p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
