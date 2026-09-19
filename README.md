@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flock Offers Employees Buyouts as Customers Flee](https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/)
- - [Nex, which makes Nex Playground, raised a $150M Series E; Nex has sold 1M units of the motion-based gaming system targeted toward kids since its launch in 2023 &lpar;Sophie McEvoy/GamesIndustry.biz&rpar;](https://www.techmeme.com/260918/p40#a260918p40)
- - [Anthropic adds support for the AGENTS.md instructions spec to Claude Code; OpenAI contributed AGENTS.md to the Agentic AI Foundation last year &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260918/p39#a260918p39)<!-- TECH:END -->
+ - [ING: India&#39;s software services exports have risen to ~5.2% of GDP from 3.3% before the pandemic, as AI pushes the country&#39;s IT industry toward higher-value work &lpar;Anup Roy/Bloomberg&rpar;](https://www.techmeme.com/260919/p6#a260919p6)
+ - [Why I still install this third-party battery app on my Android phones in 2026](https://www.androidauthority.com/android-battery-app-still-use-2026-why-3710060/)
+ - [Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening](https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
