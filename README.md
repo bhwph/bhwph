@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Amsterdam](http://9gag.com/gag/aPAOZrB)
- - 😝 [I&#39;m enraged](http://9gag.com/gag/a87rEKO)
- - 👉 [Well, you&#39;re not wrong, Grok](http://9gag.com/gag/amoDPpd)<!-- MEMES:END -->
+ - 6️⃣ [Meet burrito](http://9gag.com/gag/aVvGbDn)
+ - 😝 [Well, you&#39;re not wrong, Grok](http://9gag.com/gag/amoDPpd)
+ - 👉 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)<!-- MEMES:END -->
 
 --- 
 
