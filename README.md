@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Developers finally get Xcode tools to prepare apps for iPhone Duo](https://appleinsider.com/articles/26/09/18/developers-finally-get-xcode-tools-to-prepare-apps-for-iphone-duo?utm_source=rss)
- - [Virginia governor creates an AI task force and moves to restrain data centers](https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force)
- - [Disney’s first CTO is Character.AI’s former CEO](https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai)<!-- TECH:END -->
+ - [Flock Offers Employees Buyouts as Customers Flee](https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/)
+ - [Nex, which makes Nex Playground, raised a $150M Series E; Nex has sold 1M units of the motion-based gaming system targeted toward kids since its launch in 2023 &lpar;Sophie McEvoy/GamesIndustry.biz&rpar;](https://www.techmeme.com/260918/p40#a260918p40)
+ - [Anthropic adds support for the AGENTS.md instructions spec to Claude Code; OpenAI contributed AGENTS.md to the Agentic AI Foundation last year &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260918/p39#a260918p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
