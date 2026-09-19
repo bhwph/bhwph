@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Luna](http://9gag.com/gag/aRBxEbj)
- - 😝 [Amsterdam](http://9gag.com/gag/aPAOZrB)
- - 👉 [Which of these failed the hardest?](http://9gag.com/gag/aAyn082)<!-- MEMES:END -->
+ - 6️⃣ [King](https://www.reddit.com/r/funny/comments/1wktdqy/king/)
+ - 😝 [Something was wrong with his coffee](http://9gag.com/gag/aYQzQgw)
+ - 👉 [Amsterdam](http://9gag.com/gag/aPAOZrB)<!-- MEMES:END -->
 
 --- 
 
