@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)
- - 😝 [This shiet never gets old](http://9gag.com/gag/avybWPE)
- - 👉 [Would you date a woman who has a bed like this](http://9gag.com/gag/a1m41O6)<!-- MEMES:END -->
+ - 6️⃣ [Based or not?](http://9gag.com/gag/apRe18b)
+ - 😝 [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)
+ - 👉 [Hell yeah](http://9gag.com/gag/a5QLV2E)<!-- MEMES:END -->
 
 --- 
 
