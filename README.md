@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A24’s reputation is on the line with the SCP Foundation movie](https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license)
- - [An interview with Raspberry Pi CEO Eben Upton on the Raspberry Pi Foundation, his skepticism of AI evangelists, AI driving edge compute device demand, and more &lpar;John Thornhill/Financial Times&rpar;](https://www.techmeme.com/260920/p7#a260920p7)
- - [A great new video game movie](https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave)<!-- TECH:END -->
+ - [Kojima Productions disputes reports the studio is in trouble](https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation)
+ - [AI companies, including OpenAI and Anthropic, are putting pressure on office rents in Singapore as they embark on expansion in response to government overtures &lpar;Owen Walker/Financial Times&rpar;](https://www.techmeme.com/260920/p11#a260920p11)
+ - [Foldable futures: iPhone Duo is Apple&#39;s bet for smartphone growth](https://appleinsider.com/articles/26/09/20/foldable-futures-iphone-duo-is-apples-bet-for-smartphone-growth?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
