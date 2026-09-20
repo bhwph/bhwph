@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [King](https://www.reddit.com/r/funny/comments/1wktdqy/king/)
+ - 6️⃣ [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)
  - 😝 [Something was wrong with his coffee](http://9gag.com/gag/aYQzQgw)
- - 👉 [Amsterdam](http://9gag.com/gag/aPAOZrB)<!-- MEMES:END -->
+ - 👉 [Meanwhile..](http://9gag.com/gag/aPAOgYV)<!-- MEMES:END -->
 
 --- 
 
