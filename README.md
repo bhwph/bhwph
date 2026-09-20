@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)
- - 😝 [Something was wrong with his coffee](http://9gag.com/gag/aYQzQgw)
- - 👉 [Meanwhile..](http://9gag.com/gag/aPAOgYV)<!-- MEMES:END -->
+ - 😝 [This shiet never gets old](http://9gag.com/gag/avybWPE)
+ - 👉 [Would you date a woman who has a bed like this](http://9gag.com/gag/a1m41O6)<!-- MEMES:END -->
 
 --- 
 
