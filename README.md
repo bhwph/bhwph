@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say AI kill-switch legislation is far harder to implement than lawmakers assume, warning a rogue AI could actively try to dismantle the mechanism itself &lpar;New York Times&rpar;](https://www.techmeme.com/260919/p12#a260919p12)
- - [Meta’s Muse is creepy, but maybe not for the reasons you think](https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy)
- - [Trump says he will appoint an AI czar and form an &quot;AI Force&quot;, in a Truth Social post that rejects AI safety concerns as a &quot;hoax&quot; &lpar;María Paula Mijares Torres/Bloomberg&rpar;](https://www.techmeme.com/260919/p11#a260919p11)<!-- TECH:END -->
+ - [A24’s reputation is on the line with the SCP Foundation movie](https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license)
+ - [An interview with Raspberry Pi CEO Eben Upton on the Raspberry Pi Foundation, his skepticism of AI evangelists, AI driving edge compute device demand, and more &lpar;John Thornhill/Financial Times&rpar;](https://www.techmeme.com/260920/p7#a260920p7)
+ - [A great new video game movie](https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
