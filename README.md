@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [EU maintain extremely strict conditions when it comes to food](http://9gag.com/gag/a2vQwew)
- - 😝 [Wyd](http://9gag.com/gag/aO86223)
- - 👉 [We have reached the bottom - for now](http://9gag.com/gag/aqyvXYR)<!-- MEMES:END -->
+ - 6️⃣ [Girls just wanna have fun](http://9gag.com/gag/ae9XO0B)
+ - 😝 [England will no longer be United Kingdom: 3 territories signed their divorce mandate](http://9gag.com/gag/aKGbAVN)
+ - 👉 [NBA Star Sophie Cunningham Defends Sydney Sweeney Amid Backlash Over Sports Betting Ad](http://9gag.com/gag/agmR1Pg)<!-- MEMES:END -->
 
 --- 
 
