@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kojima Productions disputes reports the studio is in trouble](https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation)
- - [AI companies, including OpenAI and Anthropic, are putting pressure on office rents in Singapore as they embark on expansion in response to government overtures &lpar;Owen Walker/Financial Times&rpar;](https://www.techmeme.com/260920/p11#a260920p11)
- - [Foldable futures: iPhone Duo is Apple&#39;s bet for smartphone growth](https://appleinsider.com/articles/26/09/20/foldable-futures-iphone-duo-is-apples-bet-for-smartphone-growth?utm_source=rss)<!-- TECH:END -->
+ - [Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit &lpar;Demetri Sevastopulo/Financial Times&rpar;](https://www.techmeme.com/260920/p17#a260920p17)
+ - [Mithrl, which integrates its proprietary biomedical world model with the R&amp;D systems of pharmaceutical companies, raised a $20M Series A led by Obvious Ventures &lpar;Natalie Breymeyer/Axios&rpar;](https://www.techmeme.com/260920/p16#a260920p16)
+ - [UK-based Unit1, which develops &quot;hyper-realistic&quot; digital avatars of musicians to recreate classic concerts, raised nearly £15M from Balderton Capital and others &lpar;Alex Lawson/The Guardian&rpar;](https://www.techmeme.com/260920/p15#a260920p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
