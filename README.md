@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Based or not?](http://9gag.com/gag/apRe18b)
- - 😝 [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)
- - 👉 [Hell yeah](http://9gag.com/gag/a5QLV2E)<!-- MEMES:END -->
+ - 6️⃣ [How do we tell him](http://9gag.com/gag/aXP8Pev)
+ - 😝 [Murica](http://9gag.com/gag/ae9X4Bj)
+ - 👉 [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)<!-- MEMES:END -->
 
 --- 
 
