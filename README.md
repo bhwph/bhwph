@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is developing features to counter SpaceX&#39;s Grok Bot &quot;teammates&quot;, and has discussed creating a personal AI assistant to compete with Meta&#39;s Muse &lpar;The Information&rpar;](https://www.techmeme.com/260921/p36#a260921p36)
- - [Q&amp;A with Mark Gurman on the iPhone Duo, breaking Apple news, new AI-native devices, Tim Cook staying as executive chair, John Ternus, Johny Srouji, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260921/p35#a260921p35)
- - [The Acer Googlebook has a touchscreen trick its peers miss out on](https://www.androidauthority.com/acer-googlebook-14-360-convertible-3713566/)<!-- TECH:END -->
+ - [Apple shares hit record high after iPhone Duo and Siri AI success](https://appleinsider.com/articles/26/09/21/apple-shares-hit-record-high-after-iphone-duo-and-siri-ai-success?utm_source=rss)
+ - [Sources: SoftBank&#39;s SB Energy has delayed its IPO, originally planned for this month, as investors question the company&#39;s sought-after valuation of $50B+ &lpar;Maureen Farrell/New York Times&rpar;](https://www.techmeme.com/260921/p50#a260921p50)
+ - [OnePlus 16’s glowing rear lights look even cooler in action](https://www.androidauthority.com/oneplus-16-interstellar-lighting-hands-on-3713735/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
