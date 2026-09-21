@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit &lpar;Demetri Sevastopulo/Financial Times&rpar;](https://www.techmeme.com/260920/p17#a260920p17)
- - [Mithrl, which integrates its proprietary biomedical world model with the R&amp;D systems of pharmaceutical companies, raised a $20M Series A led by Obvious Ventures &lpar;Natalie Breymeyer/Axios&rpar;](https://www.techmeme.com/260920/p16#a260920p16)
- - [UK-based Unit1, which develops &quot;hyper-realistic&quot; digital avatars of musicians to recreate classic concerts, raised nearly £15M from Balderton Capital and others &lpar;Alex Lawson/The Guardian&rpar;](https://www.techmeme.com/260920/p15#a260920p15)<!-- TECH:END -->
+ - [Sources: OpenAI is developing features to counter SpaceX&#39;s Grok Bot &quot;teammates&quot;, and has discussed creating a personal AI assistant to compete with Meta&#39;s Muse &lpar;The Information&rpar;](https://www.techmeme.com/260921/p36#a260921p36)
+ - [Q&amp;A with Mark Gurman on the iPhone Duo, breaking Apple news, new AI-native devices, Tim Cook staying as executive chair, John Ternus, Johny Srouji, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260921/p35#a260921p35)
+ - [The Acer Googlebook has a touchscreen trick its peers miss out on](https://www.androidauthority.com/acer-googlebook-14-360-convertible-3713566/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
