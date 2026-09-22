@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [NBA Star Sophie Cunningham Defends Sydney Sweeney Amid Backlash Over Sports Betting Ad](http://9gag.com/gag/agmR1Pg)
- - 😝 [Free Daycare in the Netherlands](http://9gag.com/gag/an7A2bz)
- - 👉 [This is how nukes were built](http://9gag.com/gag/azx6dWx)<!-- MEMES:END -->
+ - 6️⃣ [Amazon selling PORN pink](https://www.reddit.com/r/funny/comments/1wnj9b1/amazon_selling_porn_pink/)
+ - 😝 [NBA Star Sophie Cunningham Defends Sydney Sweeney Amid Backlash Over Sports Betting Ad](http://9gag.com/gag/agmR1Pg)
+ - 👉 [Callina Liang Unveils New Behind-the-Scenes Look As Chun-Li In \u2018Street Fighter\u2019 Movie](http://9gag.com/gag/a0em0Wq)<!-- MEMES:END -->
 
 --- 
 
