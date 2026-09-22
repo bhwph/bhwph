@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Privacy Display is seemingly ‘better’ at privacy than rivals, but at what cost?](https://www.androidauthority.com/samsung-privacy-display-vs-huawei-xiaomi-3714005/)
- - [Alphabet-owned robotics software company Intrinsic open-sources Intrinsic Core under Apache 2.0, giving developers building blocks for physical AI systems &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260922/p24#a260922p24)
- - [Australian healthcare AI startup Heidi raised $340M, including a $100M Series C led by Blackbird at a $900M valuation, taking its total funding to $430M+ &lpar;Olivia Poh/Bloomberg&rpar;](https://www.techmeme.com/260922/p23#a260922p23)<!-- TECH:END -->
+ - [ShinyHunters claims it used an Oracle PeopleSoft zero-day to hack FBI-related services and steal employee and applicant data; it also defaced the FBI jobs site &lpar;Joseph Cox/404 Media&rpar;](https://www.techmeme.com/260922/p47#a260922p47)
+ - [Google Play Store looks like it’s working on a special home for your vibe-coded apps](https://www.androidauthority.com/play-store-vibe-coded-apps-3714182/)
+ - [Apple’s iPhone 18 Pro vs. 17 Pro: What the Extra $100 Brings to the Newer Pro iPhone](https://www.cnet.com/tech/mobile/apples-iphone-18-pro-vs-17-pro-what-the-extra-100-brings-to-the-newer-pro-iphone/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
