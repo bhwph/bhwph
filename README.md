@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How to get a girlfriend 101](http://9gag.com/gag/aNDyLLv)
- - 😝 [NBA Star Sophie Cunningham Defends Sydney Sweeney Amid Backlash Over Sports Betting Ad](http://9gag.com/gag/agmR1Pg)
- - 👉 [Yummy](http://9gag.com/gag/a5QLBxG)<!-- MEMES:END -->
+ - 6️⃣ [NBA Star Sophie Cunningham Defends Sydney Sweeney Amid Backlash Over Sports Betting Ad](http://9gag.com/gag/agmR1Pg)
+ - 😝 [Free Daycare in the Netherlands](http://9gag.com/gag/an7A2bz)
+ - 👉 [This is how nukes were built](http://9gag.com/gag/azx6dWx)<!-- MEMES:END -->
 
 --- 
 
