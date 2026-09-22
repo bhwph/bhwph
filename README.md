@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MiMo-V2.6-Pro ties Grok 4.7 &lpar;xHigh&rpar; and beats GLM-5.3 &lpar;max&rpar; on Artificial Analysis&#39; Intelligence Index, making it the benchmark&#39;s top-scoring open-weight model &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260921/p56#a260921p56)
- - [Google officially opens the door to more games on Android Auto](https://www.androidauthority.com/google-android-auto-games-general-availability-3713850/)
- - [Warner Bros. Merger Back On: Paramount Settles Antitrust Suit](https://www.cnet.com/tech/services-and-software/warner-bros-merger-paramount-settles-antitrust-suit/)<!-- TECH:END -->
+ - [Samsung’s Privacy Display is seemingly ‘better’ at privacy than rivals, but at what cost?](https://www.androidauthority.com/samsung-privacy-display-vs-huawei-xiaomi-3714005/)
+ - [Alphabet-owned robotics software company Intrinsic open-sources Intrinsic Core under Apache 2.0, giving developers building blocks for physical AI systems &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260922/p24#a260922p24)
+ - [Australian healthcare AI startup Heidi raised $340M, including a $100M Series C led by Blackbird at a $900M valuation, taking its total funding to $430M+ &lpar;Olivia Poh/Bloomberg&rpar;](https://www.techmeme.com/260922/p23#a260922p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
