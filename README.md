@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HypeAuditor: OpenAI doubled its sponsored Instagram posts promoting ChatGPT from 61 in June to 122 in July, rising again to 141 in August, as it seeks new users &lpar;Business Insider&rpar;](https://www.techmeme.com/260923/p21#a260923p21)
- - [LinkedIn Adds More Profile Verifications to Combat AI-Powered Job Scams](https://www.cnet.com/news/social-media/linkedin-new-verification-coworkers-vouch-fight-ai-scammers/)
- - [Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw](https://www.wired.com/story/metas-muse-ai-agent-zero-day/)<!-- TECH:END -->
+ - [Gemini just got a big upgrade with new connected apps for work, creativity, and life](https://www.androidauthority.com/new-gemini-connected-apps-3714714/)
+ - [OpenAI says ChatGPT Voice can now be powered by GPT-6 Astra, Sol, and Luna, use plugins like email and calendar, and be used in ChatGPT Work on web and mobile &lpar;@openai&rpar;](https://www.techmeme.com/260923/p35#a260923p35)
+ - [Meta’s AI agent is a cute little guy who’s great at spending my money](https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
