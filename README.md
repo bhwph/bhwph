@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox has become a shell of its former self, weighed down by job cuts and studio closures, as it focuses on franchises like Halo and reaching &quot;a billion people&quot; &lpar;Andrew Webster/The Verge&rpar;](https://www.techmeme.com/260922/p60#a260922p60)
- - [Discord rolls out its updated age-verification policy this week, sorting users into either the Adult or Teen group based on account age, activity levels, more &lpar;Anna Washenko/Engadget&rpar;](https://www.techmeme.com/260922/p59#a260922p59)
- - [OpenAI wants to consult elite mathematicians about how to not fumble again](https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel)<!-- TECH:END -->
+ - [HypeAuditor: OpenAI doubled its sponsored Instagram posts promoting ChatGPT from 61 in June to 122 in July, rising again to 141 in August, as it seeks new users &lpar;Business Insider&rpar;](https://www.techmeme.com/260923/p21#a260923p21)
+ - [LinkedIn Adds More Profile Verifications to Combat AI-Powered Job Scams](https://www.cnet.com/news/social-media/linkedin-new-verification-coworkers-vouch-fight-ai-scammers/)
+ - [Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw](https://www.wired.com/story/metas-muse-ai-agent-zero-day/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
