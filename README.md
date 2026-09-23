@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ShinyHunters claims it used an Oracle PeopleSoft zero-day to hack FBI-related services and steal employee and applicant data; it also defaced the FBI jobs site &lpar;Joseph Cox/404 Media&rpar;](https://www.techmeme.com/260922/p47#a260922p47)
- - [Google Play Store looks like it’s working on a special home for your vibe-coded apps](https://www.androidauthority.com/play-store-vibe-coded-apps-3714182/)
- - [Apple’s iPhone 18 Pro vs. 17 Pro: What the Extra $100 Brings to the Newer Pro iPhone](https://www.cnet.com/tech/mobile/apples-iphone-18-pro-vs-17-pro-what-the-extra-100-brings-to-the-newer-pro-iphone/)<!-- TECH:END -->
+ - [Xbox has become a shell of its former self, weighed down by job cuts and studio closures, as it focuses on franchises like Halo and reaching &quot;a billion people&quot; &lpar;Andrew Webster/The Verge&rpar;](https://www.techmeme.com/260922/p60#a260922p60)
+ - [Discord rolls out its updated age-verification policy this week, sorting users into either the Adult or Teen group based on account age, activity levels, more &lpar;Anna Washenko/Engadget&rpar;](https://www.techmeme.com/260922/p59#a260922p59)
+ - [OpenAI wants to consult elite mathematicians about how to not fumble again](https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
