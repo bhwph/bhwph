@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini just got a big upgrade with new connected apps for work, creativity, and life](https://www.androidauthority.com/new-gemini-connected-apps-3714714/)
- - [OpenAI says ChatGPT Voice can now be powered by GPT-6 Astra, Sol, and Luna, use plugins like email and calendar, and be used in ChatGPT Work on web and mobile &lpar;@openai&rpar;](https://www.techmeme.com/260923/p35#a260923p35)
- - [Meta’s AI agent is a cute little guy who’s great at spending my money](https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping)<!-- TECH:END -->
+ - [During a Senate hearing, lawmakers criticized automatic license plate readers amid concerns about Flock; the CEOs of Flock and others declined to attend &lpar;Christian Robles/Nextgov/FCW&rpar;](https://www.techmeme.com/260923/p62#a260923p62)
+ - [Meta says it will allow its AI glasses users to opt out of having their &quot;visual data&quot; used to train its AI or shown to third-party contractors outside the US &lpar;Karissa Bell/Engadget&rpar;](https://www.techmeme.com/260923/p61#a260923p61)
+ - [An interview with Mark Zuckerberg on the products released at Connect, camera-free Ray-Bans being in the works before the &quot;pervert glasses&quot; backlash, more &lpar;Joanna Stern/The New Things&rpar;](https://www.techmeme.com/260923/p60#a260923p60)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
