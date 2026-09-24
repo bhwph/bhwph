@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Look carefully](http://9gag.com/gag/a87rDVY)
- - 😝 [This-19YearOld](http://9gag.com/gag/azx6Oop)
- - 👉 [No wonder people hang onto their old cars.](http://9gag.com/gag/axyp68D)<!-- MEMES:END -->
+ - 6️⃣ [We are cooked.](http://9gag.com/gag/aRBxoyB)
+ - 😝 [In a few months : `The biggest money printing the world has ever seen. The best. Nobody has ever printed money like this before. Never. Absolutely tremendous printing. Historic printing. We gonna print so much, the printer is gonna ask for a break.`](http://9gag.com/gag/aNDyRo3)
+ - 👉 [Now that&#39;s a fun kinda wife to have](http://9gag.com/gag/a2vQbzw)<!-- MEMES:END -->
 
 --- 
 
