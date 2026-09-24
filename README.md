@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [During a Senate hearing, lawmakers criticized automatic license plate readers amid concerns about Flock; the CEOs of Flock and others declined to attend &lpar;Christian Robles/Nextgov/FCW&rpar;](https://www.techmeme.com/260923/p62#a260923p62)
- - [Meta says it will allow its AI glasses users to opt out of having their &quot;visual data&quot; used to train its AI or shown to third-party contractors outside the US &lpar;Karissa Bell/Engadget&rpar;](https://www.techmeme.com/260923/p61#a260923p61)
- - [An interview with Mark Zuckerberg on the products released at Connect, camera-free Ray-Bans being in the works before the &quot;pervert glasses&quot; backlash, more &lpar;Joanna Stern/The New Things&rpar;](https://www.techmeme.com/260923/p60#a260923p60)<!-- TECH:END -->
+ - [Gmail is turning its stars and importance markers blue, and users aren’t happy](https://www.androidauthority.com/gmail-blue-stars-importance-marker-redesign-3715082/)
+ - [Don’t wait: The best early Prime Day tech deals available right now](https://www.androidauthority.com/best-prime-day-deals-fall-2026-3714550/)
+ - [Sources: Oracle sent a force majeure notice to Blue Owl to delay payments on the 2.45GW Project Jupiter data center in New Mexico if it fails to launch in 2028 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260924/p25#a260924p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
