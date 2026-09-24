@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail is turning its stars and importance markers blue, and users aren’t happy](https://www.androidauthority.com/gmail-blue-stars-importance-marker-redesign-3715082/)
- - [Don’t wait: The best early Prime Day tech deals available right now](https://www.androidauthority.com/best-prime-day-deals-fall-2026-3714550/)
- - [Sources: Oracle sent a force majeure notice to Blue Owl to delay payments on the 2.45GW Project Jupiter data center in New Mexico if it fails to launch in 2028 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260924/p25#a260924p25)<!-- TECH:END -->
+ - [I Think I Found an AI Agent Worth the Risk](https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/)
+ - [The US files an application with the EU&#39;s General Court in support of X&#39;s effort to annul a 2025 €120M DSA fine, arguing the EU engaged in regulatory overreach &lpar;Bloomberg&rpar;](https://www.techmeme.com/260924/p41#a260924p41)
+ - [Sources: Jev developer TypeSafe is in talks to raise $1B+ at a $10B+ valuation; last week the startup announced a $40M seed, PitchBook says at a $200M valuation &lpar;The Information&rpar;](https://www.techmeme.com/260924/p40#a260924p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
