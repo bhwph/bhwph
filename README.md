@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Think I Found an AI Agent Worth the Risk](https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/)
- - [The US files an application with the EU&#39;s General Court in support of X&#39;s effort to annul a 2025 €120M DSA fine, arguing the EU engaged in regulatory overreach &lpar;Bloomberg&rpar;](https://www.techmeme.com/260924/p41#a260924p41)
- - [Sources: Jev developer TypeSafe is in talks to raise $1B+ at a $10B+ valuation; last week the startup announced a $40M seed, PitchBook says at a $200M valuation &lpar;The Information&rpar;](https://www.techmeme.com/260924/p40#a260924p40)<!-- TECH:END -->
+ - [Experts say that air-gapping AI could prevent events like the Hugging Face hack, but would undermine the value of evaluations and slow research to a crawl &lpar;Robert Hart/The Verge&rpar;](https://www.techmeme.com/260924/p55#a260924p55)
+ - [Here’s the Tesla Semi… again](https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer)
+ - [Massachusetts&#39; gambling regulator says it will examine how DraftKings and other betting companies in the state are using AI, in response to a NYT investigation &lpar;New York Times&rpar;](https://www.techmeme.com/260924/p54#a260924p54)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
