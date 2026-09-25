@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft launches its Copilot &quot;super app&quot;, bundling chat, coding, and agents into a single interface, and rebrands its AI assistant Scout as Autopilot &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/260925/p5#a260925p5)
- - [These Lightweight Audio Memory-Recording Glasses Might Be Meta’s Next Step &lpar;and Apple’s&rpar;](https://www.cnet.com/tech/mobile/these-lightweight-audio-memory-recording-glasses-might-be-where-meta-and-apple-go-next/)
- - [Insta360 conquered 360 cameras — now it’s eyeing glasses](https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview)<!-- TECH:END -->
+ - [Where’s my timestamp? Google Messages is updating its UI, and users are confused](https://www.androidauthority.com/google-messages-swipe-3715719/)
+ - [Microsoft confirms that 2026 Surface PCs have dropped the Copilot+ PC branding, even though they meet all the requirements of Copilot+ devices &lpar;Zac Bowden/Windows Central&rpar;](https://www.techmeme.com/260925/p15#a260925p15)
+ - [Google Calendar is getting an update that global teams will appreciate](https://www.androidauthority.com/google-calendar-third-time-zone-3715732/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
