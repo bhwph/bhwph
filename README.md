@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say that air-gapping AI could prevent events like the Hugging Face hack, but would undermine the value of evaluations and slow research to a crawl &lpar;Robert Hart/The Verge&rpar;](https://www.techmeme.com/260924/p55#a260924p55)
- - [Here’s the Tesla Semi… again](https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer)
- - [Massachusetts&#39; gambling regulator says it will examine how DraftKings and other betting companies in the state are using AI, in response to a NYT investigation &lpar;New York Times&rpar;](https://www.techmeme.com/260924/p54#a260924p54)<!-- TECH:END -->
+ - [Microsoft launches its Copilot &quot;super app&quot;, bundling chat, coding, and agents into a single interface, and rebrands its AI assistant Scout as Autopilot &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/260925/p5#a260925p5)
+ - [These Lightweight Audio Memory-Recording Glasses Might Be Meta’s Next Step &lpar;and Apple’s&rpar;](https://www.cnet.com/tech/mobile/these-lightweight-audio-memory-recording-glasses-might-be-where-meta-and-apple-go-next/)
+ - [Insta360 conquered 360 cameras — now it’s eyeing glasses](https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
