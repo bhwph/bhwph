@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where’s my timestamp? Google Messages is updating its UI, and users are confused](https://www.androidauthority.com/google-messages-swipe-3715719/)
- - [Microsoft confirms that 2026 Surface PCs have dropped the Copilot+ PC branding, even though they meet all the requirements of Copilot+ devices &lpar;Zac Bowden/Windows Central&rpar;](https://www.techmeme.com/260925/p15#a260925p15)
- - [Google Calendar is getting an update that global teams will appreciate](https://www.androidauthority.com/google-calendar-third-time-zone-3715732/)<!-- TECH:END -->
+ - [Google says ShinyHunters has renewed &quot;mass exploitation&quot; of a flaw in Oracle&#39;s PeopleSoft; ShinyHunters has said it accessed FBI data using a flaw in PeopleSoft &lpar;Reuters&rpar;](https://www.techmeme.com/260925/p27#a260925p27)
+ - [A bipartisan group of US lawmakers introduces a bill to bar the federal government from equipping sensitive government systems with Chinese optical transceivers &lpar;Alexandra Alper/Reuters&rpar;](https://www.techmeme.com/260925/p26#a260925p26)
+ - [Leaks Show That Meta’s New AI Agent Relied on Real People to Make Calls](https://www.cnet.com/tech/services-and-software/leaks-metas-new-ai-agent-muse-real-people-call-centers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
