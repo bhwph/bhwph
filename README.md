@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [POV: The Oldest House has fallen, Manhattan is cooked.](http://9gag.com/gag/a2vQbG9)
- - 😝 [Survive 20 jumps](http://9gag.com/gag/a9y3X5W)
+ - 😝 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
  - 👉 [We are cooked.](http://9gag.com/gag/aRBxoyB)<!-- MEMES:END -->
 
 --- 
