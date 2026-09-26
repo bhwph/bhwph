@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
+ - 6️⃣ [Classic](http://9gag.com/gag/aZZ9vqV)
  - 😝 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
- - 👉 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)<!-- MEMES:END -->
+ - 👉 [Liberal woman bought and then burned Converse shoes to protest their `KKK-coded` ad](http://9gag.com/gag/an7AGpB)<!-- MEMES:END -->
 
 --- 
 
