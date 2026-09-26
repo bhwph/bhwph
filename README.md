@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Old-School Credit Card Scams Are Far From Dead](https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/)
- - [Pokémon card resellers have turned collecting into an online blood sport](https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers)
- - [12 Best White Elephant Gifts, Plus a Prank Box to Put Them In &lpar;2026&rpar;](https://www.wired.com/gallery/best-white-elephant-gifts-2026/)<!-- TECH:END -->
+ - [Meta says its rejection of ads promoting the new documentary about Elon Musk &quot;was an error and the ads are being restored&quot; &lpar;Anthony Ha/TechCrunch&rpar;](https://www.techmeme.com/260926/p16#a260926p16)
+ - [A US federal jury awarded Taction Technology $5.7B+ in damages, finding Apple infringed haptics patents; Apple to appeal, says it &quot;does not use Taction&#39;s&quot; tech &lpar;Ashley Capoot/CNBC&rpar;](https://www.techmeme.com/260926/p15#a260926p15)
+ - [Bitget CEO Gracy Chen says she suspects North Korean attackers exploited a backend system used to process wallet transactions to drain $387M from the platform &lpar;Camila Grigera Naón/Fortune&rpar;](https://www.techmeme.com/260926/p14#a260926p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
