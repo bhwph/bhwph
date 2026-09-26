@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [POV: The Oldest House has fallen, Manhattan is cooked.](http://9gag.com/gag/a2vQbG9)
+ - 6️⃣ [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
  - 😝 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
- - 👉 [We are cooked.](http://9gag.com/gag/aRBxoyB)<!-- MEMES:END -->
+ - 👉 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)<!-- MEMES:END -->
 
 --- 
 
