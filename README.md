@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says ShinyHunters has renewed &quot;mass exploitation&quot; of a flaw in Oracle&#39;s PeopleSoft; ShinyHunters has said it accessed FBI data using a flaw in PeopleSoft &lpar;Reuters&rpar;](https://www.techmeme.com/260925/p27#a260925p27)
- - [A bipartisan group of US lawmakers introduces a bill to bar the federal government from equipping sensitive government systems with Chinese optical transceivers &lpar;Alexandra Alper/Reuters&rpar;](https://www.techmeme.com/260925/p26#a260925p26)
- - [Leaks Show That Meta’s New AI Agent Relied on Real People to Make Calls](https://www.cnet.com/tech/services-and-software/leaks-metas-new-ai-agent-muse-real-people-call-centers/)<!-- TECH:END -->
+ - [Old-School Credit Card Scams Are Far From Dead](https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/)
+ - [Pokémon card resellers have turned collecting into an online blood sport](https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers)
+ - [12 Best White Elephant Gifts, Plus a Prank Box to Put Them In &lpar;2026&rpar;](https://www.wired.com/gallery/best-white-elephant-gifts-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
