@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why OLPC’s $100 laptop never stood a chance](https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance)
- - [Googlebooks might be the real deal](https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse)
- - [The smart home graveyard is getting crowded](https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard)<!-- TECH:END -->
+ - [Q&amp;A with Mustafa Suleyman on recent AI safety incidents, risks of removing guardrails while testing 10x-larger future models, a cross-industry safety body, more &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260927/p10#a260927p10)
+ - [A profile of Jaan Tallinn, who led Anthropic&#39;s $124M Series A in 2021, has advocated for AI safety for over a decade, and donated ~$170M to safety initiatives &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260927/p9#a260927p9)
+ - [Amazon slashes $900 off Apple&#39;s M5 Max MacBook Pro, lowest price ever](https://appleinsider.com/articles/26/09/27/amazon-slashes-900-off-apples-m5-max-macbook-pro-lowest-price-ever?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
