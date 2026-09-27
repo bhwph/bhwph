@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Threat Intelligence Group finds dark web marketplaces selling access to AI models, including from Anthropic, Google, and OpenAI, at up to 97% discounts &lpar;Tom Wilson/Financial Times&rpar;](https://www.techmeme.com/260926/p18#a260926p18)
- - [Apple hit with $5.7 billion in damages over haptic patents](https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents)
- - [Sources: US and Russian diplomats worked to weaken an AI weapons pact at the UN this month, removing a requirement that humans review AI-generated targets, more &lpar;Pranshu Verma/Washington Post&rpar;](https://www.techmeme.com/260926/p17#a260926p17)<!-- TECH:END -->
+ - [Why OLPC’s $100 laptop never stood a chance](https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance)
+ - [Googlebooks might be the real deal](https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse)
+ - [The smart home graveyard is getting crowded](https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
