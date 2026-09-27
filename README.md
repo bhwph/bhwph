@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
- - 😝 [Classic](http://9gag.com/gag/aZZ9vqV)
- - 👉 [Source pls](http://9gag.com/gag/a7ojA7w)<!-- MEMES:END -->
+ - 6️⃣ [Aggressive jungle wildlife](http://9gag.com/gag/aPAOnoG)
+ - 😝 [It&#39;s Fred Flintstones rocklight](http://9gag.com/gag/azx6Qzm)
+ - 👉 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)<!-- MEMES:END -->
 
 --- 
 
