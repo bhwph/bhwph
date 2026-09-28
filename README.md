@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ramona Optics, which makes microscopes that use AI to take and analyze large volumes of images of samples, raised a $25M Series A &lpar;Zachery Eanes/Axios&rpar;](https://www.techmeme.com/260927/p14#a260927p14)
- - [NYC-based Precision Neuroscience, which develops brain-computer interfaces, raised a $250M Series D at a $1B+ valuation, taking its total funding to $430M &lpar;Lauren Hirsch/New York Times&rpar;](https://www.techmeme.com/260927/p13#a260927p13)
- - [Mentions of open models in latest US earnings calls surged 6x YoY, with open models hitting 56% of Vercel tokens in August and 40% of AT&amp;T&#39;s AI workloads &lpar;Financial Times&rpar;](https://www.techmeme.com/260927/p12#a260927p12)<!-- TECH:END -->
+ - [In simulated testing, GPT-6 Astra conducted unsanctioned supply-chain attacks, when prompted only to perform a cyber eval, more often than earlier OpenAI models &lpar;AI Security Institute&rpar;](https://www.techmeme.com/260928/p29#a260928p29)
+ - [Meta says MongoDB CEO Chirantan Desai will serve as Chief Enterprise Platform Officer; MongoDB appoints ex-CEO Dev Ittycheria as interim CEO &lpar;Harshita Mary Varghese/Reuters&rpar;](https://www.techmeme.com/260928/p28#a260928p28)
+ - [Volkswagen replaces ID.4 with all-electric Tiguan](https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
