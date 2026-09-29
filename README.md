@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI&#39;s ARR is nearing $70B, growing 70%+ since the beginning of Q3, with B2B revenue up 100%+; it added more consumer revenue in Q3 than all of 2025 &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/260929/p22#a260929p22)
- - [Is Spotify down for you? Here’s what’s going on](https://www.androidauthority.com/spotify-down-sept-2026-3716794/)
- - [Making millions of iPhone Duos is proving harder than Apple hoped](https://appleinsider.com/articles/26/09/29/making-millions-of-iphone-duos-is-proving-harder-than-apple-hoped?utm_source=rss)<!-- TECH:END -->
+ - [After lunch with AI leaders, Trump rejects new federal AI rules, says &quot;we automatically have regulation&quot; via DOJ and FBI but &quot;self-regulation is very important&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260929/p46#a260929p46)
+ - [OpenAI launches GPT-6.1 Sol with Astra-like performance on a budget](https://www.androidauthority.com/gpt-6-1-sol-3716997/)
+ - [Florida Asks Judge to Stop OpenAI From Training New Models After Latest Incidents](https://www.cnet.com/tech/services-and-software/florida-judge-stop-openai-training-new-models-incidents/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
