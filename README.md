@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)
- - 😝 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)
- - 👉 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)<!-- MEMES:END -->
+ - 6️⃣ [Learning the world record running form](https://www.reddit.com/r/funny/comments/1wtbmmp/learning_the_world_record_running_form/)
+ - 😝 [Please put it back on.](http://9gag.com/gag/aGyPRKG)
+ - 👉 [A small family-run cheese dairy in Colombia](http://9gag.com/gag/agmR0zg)<!-- MEMES:END -->
 
 --- 
 
