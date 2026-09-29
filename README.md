@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Learning the world record running form](https://www.reddit.com/r/funny/comments/1wtbmmp/learning_the_world_record_running_form/)
- - 😝 [Please put it back on.](http://9gag.com/gag/aGyPRKG)
- - 👉 [A small family-run cheese dairy in Colombia](http://9gag.com/gag/agmR0zg)<!-- MEMES:END -->
+ - 6️⃣ [The guy left work, ordered an Uber, and while waiting, he was arrested for sitting on a bench right after the store closed](http://9gag.com/gag/aYQzvwm)
+ - 😝 [You are only allowed to eat food from one region, which one do you choose?](http://9gag.com/gag/aKGbXV1)
+ - 👉 [Never seen this error before.](https://www.reddit.com/r/funny/comments/1wtkwu9/never_seen_this_error_before/)<!-- MEMES:END -->
 
 --- 
 
