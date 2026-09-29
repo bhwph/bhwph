@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Instinct founder Noah Shinn on Instinct&#39;s business model, privacy, safety and security, securing compute, Big Tech competition, and more &lpar;Patrick O&#39;Shaughnessy/Colossus&rpar;](https://www.techmeme.com/260928/p47#a260928p47)
- - [How to escape Photoshop&#39;s clutches by installing PhotoGimp](https://appleinsider.com/articles/26/09/29/how-to-escape-photoshops-clutches-by-installing-photogimp?utm_source=rss)
- - [Google confirms it&#39;ll phase out ChromeOS by mid-2034, cutting short a 10-year support period for some devices but noting it will help orgs move to Googlebook OS &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260928/p46#a260928p46)<!-- TECH:END -->
+ - [Sources: OpenAI&#39;s ARR is nearing $70B, growing 70%+ since the beginning of Q3, with B2B revenue up 100%+; it added more consumer revenue in Q3 than all of 2025 &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/260929/p22#a260929p22)
+ - [Is Spotify down for you? Here’s what’s going on](https://www.androidauthority.com/spotify-down-sept-2026-3716794/)
+ - [Making millions of iPhone Duos is proving harder than Apple hoped](https://appleinsider.com/articles/26/09/29/making-millions-of-iphone-duos-is-proving-harder-than-apple-hoped?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
