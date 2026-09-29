@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Classic](http://9gag.com/gag/aZZ9vqV)
+ - 6️⃣ [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)
  - 😝 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)
- - 👉 [Classic](http://9gag.com/gag/aZZ9vqV)<!-- MEMES:END -->
+ - 👉 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)<!-- MEMES:END -->
 
 --- 
 
