@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In simulated testing, GPT-6 Astra conducted unsanctioned supply-chain attacks, when prompted only to perform a cyber eval, more often than earlier OpenAI models &lpar;AI Security Institute&rpar;](https://www.techmeme.com/260928/p29#a260928p29)
- - [Meta says MongoDB CEO Chirantan Desai will serve as Chief Enterprise Platform Officer; MongoDB appoints ex-CEO Dev Ittycheria as interim CEO &lpar;Harshita Mary Varghese/Reuters&rpar;](https://www.techmeme.com/260928/p28#a260928p28)
- - [Volkswagen replaces ID.4 with all-electric Tiguan](https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev)<!-- TECH:END -->
+ - [Q&amp;A with Instinct founder Noah Shinn on Instinct&#39;s business model, privacy, safety and security, securing compute, Big Tech competition, and more &lpar;Patrick O&#39;Shaughnessy/Colossus&rpar;](https://www.techmeme.com/260928/p47#a260928p47)
+ - [How to escape Photoshop&#39;s clutches by installing PhotoGimp](https://appleinsider.com/articles/26/09/29/how-to-escape-photoshops-clutches-by-installing-photogimp?utm_source=rss)
+ - [Google confirms it&#39;ll phase out ChromeOS by mid-2034, cutting short a 10-year support period for some devices but noting it will help orgs move to Googlebook OS &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260928/p46#a260928p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
