@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [The guy left work, ordered an Uber, and while waiting, he was arrested for sitting on a bench right after the store closed](http://9gag.com/gag/aYQzvwm)
- - 😝 [You are only allowed to eat food from one region, which one do you choose?](http://9gag.com/gag/aKGbXV1)
- - 👉 [Never seen this error before.](https://www.reddit.com/r/funny/comments/1wtkwu9/never_seen_this_error_before/)<!-- MEMES:END -->
+ - 😝 [The guy left work, ordered an Uber, and while waiting, he was arrested for sitting on a bench right after the store closed](http://9gag.com/gag/aYQzvwm)
+ - 👉 [The guy left work, ordered an Uber, and while waiting, he was arrested for sitting on a bench right after the store closed](http://9gag.com/gag/aYQzvwm)<!-- MEMES:END -->
 
 --- 
 
