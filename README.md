@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After lunch with AI leaders, Trump rejects new federal AI rules, says &quot;we automatically have regulation&quot; via DOJ and FBI but &quot;self-regulation is very important&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260929/p46#a260929p46)
- - [OpenAI launches GPT-6.1 Sol with Astra-like performance on a budget](https://www.androidauthority.com/gpt-6-1-sol-3716997/)
- - [Florida Asks Judge to Stop OpenAI From Training New Models After Latest Incidents](https://www.cnet.com/tech/services-and-software/florida-judge-stop-openai-training-new-models-incidents/)<!-- TECH:END -->
+ - [A profile of Travis Kalanick, CEO of Atoms, whom Silicon Valley has welcomed back with VC support despite his unapologetic stance on his 2017 ouster from Uber &lpar;Jeff John Roberts/Fortune&rpar;](https://www.techmeme.com/260929/p59#a260929p59)
+ - [An interview with Bill Gates about the need for more than natural incentives under capitalism to regulate AI&#39;s risks, the effects AI will have on jobs, and more &lpar;New York Times&rpar;](https://www.techmeme.com/260929/p58#a260929p58)
+ - [AI infrastructure company Accelevation and backer Olympus raise $540M in a US IPO after selling 30M shares for $18 each, below its marketed $20-$24 range &lpar;Bloomberg&rpar;](https://www.techmeme.com/260929/p57#a260929p57)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
