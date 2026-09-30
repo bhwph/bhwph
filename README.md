@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Travis Kalanick, CEO of Atoms, whom Silicon Valley has welcomed back with VC support despite his unapologetic stance on his 2017 ouster from Uber &lpar;Jeff John Roberts/Fortune&rpar;](https://www.techmeme.com/260929/p59#a260929p59)
- - [An interview with Bill Gates about the need for more than natural incentives under capitalism to regulate AI&#39;s risks, the effects AI will have on jobs, and more &lpar;New York Times&rpar;](https://www.techmeme.com/260929/p58#a260929p58)
- - [AI infrastructure company Accelevation and backer Olympus raise $540M in a US IPO after selling 30M shares for $18 each, below its marketed $20-$24 range &lpar;Bloomberg&rpar;](https://www.techmeme.com/260929/p57#a260929p57)<!-- TECH:END -->
+ - [Android 17 QPR1 giving you grief? Survey shows you’re not alone](https://www.androidauthority.com/android-17-qpr1-issues-survey-3717366/)
+ - [Sources: the US FTC is expanding a sweeping probe of Anthropic, OpenAI, and other frontier AI labs, and plans to issue formal demands to turn over information &lpar;New York Post&rpar;](https://www.techmeme.com/260930/p28#a260930p28)
+ - [Amazon aims to have 5,000 drivers wearing its smart glasses in 2026, rising to 20,000+ in 2027; the glasses capture static images for its AI mapping platform &lpar;Dave Lee/Bloomberg&rpar;](https://www.techmeme.com/260930/p27#a260930p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
