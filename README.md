@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 QPR1 giving you grief? Survey shows you’re not alone](https://www.androidauthority.com/android-17-qpr1-issues-survey-3717366/)
- - [Sources: the US FTC is expanding a sweeping probe of Anthropic, OpenAI, and other frontier AI labs, and plans to issue formal demands to turn over information &lpar;New York Post&rpar;](https://www.techmeme.com/260930/p28#a260930p28)
- - [Amazon aims to have 5,000 drivers wearing its smart glasses in 2026, rising to 20,000+ in 2027; the glasses capture static images for its AI mapping platform &lpar;Dave Lee/Bloomberg&rpar;](https://www.techmeme.com/260930/p27#a260930p27)<!-- TECH:END -->
+ - [Sources: some Google employees say Gemini 4 performs well on benchmarks but struggles with some real-world coding tasks; Google disputes that characterization &lpar;Bloomberg&rpar;](https://www.techmeme.com/260930/p44#a260930p44)
+ - [Google rolls out Gemini 4 Argon to a small group of cybersecurity partners and says it outperforms GPT-6 Astra on certain coding and knowledge work benchmarks &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/260930/p43#a260930p43)
+ - [Samsung’s smart glasses just took their next step toward launch](https://www.androidauthority.com/samsungs-smart-glasses-stop-by-fcc-3717548/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
