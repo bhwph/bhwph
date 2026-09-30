@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)
- - 😝 [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)
+ - 😝 [YES or NO?](http://9gag.com/gag/aO86OZ6)
  - 👉 [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)<!-- MEMES:END -->
 
 --- 
