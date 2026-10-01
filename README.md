@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)
+ - 6️⃣ [I&#39;ll take your entire stock](http://9gag.com/gag/aVvG8Kw)
  - 😝 [YES or NO?](http://9gag.com/gag/aO86OZ6)
- - 👉 [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)<!-- MEMES:END -->
+ - 👉 [I&#39;ll take your entire stock](http://9gag.com/gag/aVvG8Kw)<!-- MEMES:END -->
 
 --- 
 
