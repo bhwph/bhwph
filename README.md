@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Touch-screen OLED MacBook Pro expected in October or November](https://appleinsider.com/articles/26/10/01/touch-screen-oled-macbook-pro-expected-in-october-or-november?utm_source=rss)
- - [Miami-based Doxx.net, whose platform enables serverless P2P calling, messaging, and file transfers for humans and AI agents, raised a $38M Series A led by a16z &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/261001/p23#a261001p23)
- - [Apple&#39;s Home Hub color options surface ahead of expected October debut](https://appleinsider.com/articles/26/10/01/apples-home-hub-color-options-surface-ahead-of-expected-october-debut?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI launches two ChatGPT shopping features: a virtual try-on tool for clothing and accessories, and a Favorites feature to save products to a user&#39;s Library &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261001/p37#a261001p37)
+ - [DoorDash pulls support for a GOP bill that would have limited DC&#39;s ability to write its own tax laws after widespread calls for locals to boycott the service &lpar;Martin Austermuhle/The Washington Sun&rpar;](https://www.techmeme.com/261001/p36#a261001p36)
+ - [Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot](https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
