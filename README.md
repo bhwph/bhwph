@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: some Google employees say Gemini 4 performs well on benchmarks but struggles with some real-world coding tasks; Google disputes that characterization &lpar;Bloomberg&rpar;](https://www.techmeme.com/260930/p44#a260930p44)
- - [Google rolls out Gemini 4 Argon to a small group of cybersecurity partners and says it outperforms GPT-6 Astra on certain coding and knowledge work benchmarks &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/260930/p43#a260930p43)
- - [Samsung’s smart glasses just took their next step toward launch](https://www.androidauthority.com/samsungs-smart-glasses-stop-by-fcc-3717548/)<!-- TECH:END -->
+ - [Amazon signs a 20-year deal to buy power from Constellation Energy, including boosting capacity at its Maryland nuclear plant, supporting $3B+ in investments &lpar;Will Wade/Bloomberg&rpar;](https://www.techmeme.com/260930/p57#a260930p57)
+ - [Flow, a hardware development platform for AI agents, raised a $50M Series B led by Valor&#39;s Antonio Gracias and Atreides&#39; Gavin Baker at a $750M valuation &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260930/p56#a260930p56)
+ - [Gemini 4 Argon has a 1M-token output limit, up from 64K for prior models; it initially costs $2/1M input and $10/1M output tokens, rising to $4 and $20 later &lpar;Matthias Bastian/The Decoder&rpar;](https://www.techmeme.com/260930/p55#a260930p55)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
