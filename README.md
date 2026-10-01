@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [I&#39;ll take your entire stock](http://9gag.com/gag/aVvG8Kw)
- - 😝 [YES or NO?](http://9gag.com/gag/aO86OZ6)
- - 👉 [I&#39;ll take your entire stock](http://9gag.com/gag/aVvG8Kw)<!-- MEMES:END -->
+ - 6️⃣ [Behind only the $16.4 million Pikachu Illustrator.](http://9gag.com/gag/ayNyrxV)
+ - 😝 [Christa Pike. Sentenced to death, she survived two pentobarbital injections..](http://9gag.com/gag/aZZ9Xd6)
+ - 👉 [F**k it](http://9gag.com/gag/a6ZWg3b)<!-- MEMES:END -->
 
 --- 
 
