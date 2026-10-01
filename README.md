@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon signs a 20-year deal to buy power from Constellation Energy, including boosting capacity at its Maryland nuclear plant, supporting $3B+ in investments &lpar;Will Wade/Bloomberg&rpar;](https://www.techmeme.com/260930/p57#a260930p57)
- - [Flow, a hardware development platform for AI agents, raised a $50M Series B led by Valor&#39;s Antonio Gracias and Atreides&#39; Gavin Baker at a $750M valuation &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260930/p56#a260930p56)
- - [Gemini 4 Argon has a 1M-token output limit, up from 64K for prior models; it initially costs $2/1M input and $10/1M output tokens, rising to $4 and $20 later &lpar;Matthias Bastian/The Decoder&rpar;](https://www.techmeme.com/260930/p55#a260930p55)<!-- TECH:END -->
+ - [Touch-screen OLED MacBook Pro expected in October or November](https://appleinsider.com/articles/26/10/01/touch-screen-oled-macbook-pro-expected-in-october-or-november?utm_source=rss)
+ - [Miami-based Doxx.net, whose platform enables serverless P2P calling, messaging, and file transfers for humans and AI agents, raised a $38M Series A led by a16z &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/261001/p23#a261001p23)
+ - [Apple&#39;s Home Hub color options surface ahead of expected October debut](https://appleinsider.com/articles/26/10/01/apples-home-hub-color-options-surface-ahead-of-expected-october-debut?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
