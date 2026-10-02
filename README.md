@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI launches two ChatGPT shopping features: a virtual try-on tool for clothing and accessories, and a Favorites feature to save products to a user&#39;s Library &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261001/p37#a261001p37)
- - [DoorDash pulls support for a GOP bill that would have limited DC&#39;s ability to write its own tax laws after widespread calls for locals to boycott the service &lpar;Martin Austermuhle/The Washington Sun&rpar;](https://www.techmeme.com/261001/p36#a261001p36)
- - [Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot](https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/)<!-- TECH:END -->
+ - [Experts say mounting cases of Nvidia chips reaching Chinese AI companies despite US export controls are increasingly pointing to gaps in Nvidia&#39;s due diligence &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/261001/p49#a261001p49)
+ - [Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B &lpar;Brandon Vigliarolo/The Register&rpar;](https://www.techmeme.com/261001/p48#a261001p48)
+ - [OpenAI says that as of September 26, it has informed 100+ third-party organizations about unauthorized activity involving its AI agents &lpar;Arasu Kannagi Basil/Reuters&rpar;](https://www.techmeme.com/261001/p47#a261001p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
