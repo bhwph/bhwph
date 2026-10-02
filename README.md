@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M6 Mac mini review: Excellent hardware hampered by inadequate SSD storage](https://appleinsider.com/articles/26/10/02/m6-mac-mini-review-excellent-hardware-badly-hampered-by-too-small-ssd?utm_source=rss)
- - [This Android flagship’s insane camera hardware could soon be matched by an insane price](https://www.androidauthority.com/oppo-find-x10-pro-max-global-price-leak-3718487/)
- - [Highly rated Bose SoundLink Plus speaker falls to $179 in Amazon deal](https://www.androidauthority.com/bose-soundlink-plus-deal-3717595/)<!-- TECH:END -->
+ - [Apple will limit Mac disk access as AI agents ‘substantially’ increase risk](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents)
+ - [Sling TV drops its one-day cable passes](https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops)
+ - [Memo: the US Army is creating an autonomous systems command, after Defense Secretary Pete Hegseth announced the Meridian and Agincourt robotic warfare projects &lpar;Colin Demarest/Axios&rpar;](https://www.techmeme.com/261002/p22#a261002p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
