@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say mounting cases of Nvidia chips reaching Chinese AI companies despite US export controls are increasingly pointing to gaps in Nvidia&#39;s due diligence &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/261001/p49#a261001p49)
- - [Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B &lpar;Brandon Vigliarolo/The Register&rpar;](https://www.techmeme.com/261001/p48#a261001p48)
- - [OpenAI says that as of September 26, it has informed 100+ third-party organizations about unauthorized activity involving its AI agents &lpar;Arasu Kannagi Basil/Reuters&rpar;](https://www.techmeme.com/261001/p47#a261001p47)<!-- TECH:END -->
+ - [M6 Mac mini review: Excellent hardware hampered by inadequate SSD storage](https://appleinsider.com/articles/26/10/02/m6-mac-mini-review-excellent-hardware-badly-hampered-by-too-small-ssd?utm_source=rss)
+ - [This Android flagship’s insane camera hardware could soon be matched by an insane price](https://www.androidauthority.com/oppo-find-x10-pro-max-global-price-leak-3718487/)
+ - [Highly rated Bose SoundLink Plus speaker falls to $179 in Amazon deal](https://www.androidauthority.com/bose-soundlink-plus-deal-3717595/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
