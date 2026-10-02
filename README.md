@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Behind only the $16.4 million Pikachu Illustrator.](http://9gag.com/gag/ayNyrxV)
+ - 6️⃣ [One of the usuals tries to get uppity in small town America. Gets removed from the picture](http://9gag.com/gag/ajP2wqw)
  - 😝 [YES or NO?](http://9gag.com/gag/aO86OZ6)
- - 👉 [Behind only the $16.4 million Pikachu Illustrator.](http://9gag.com/gag/ayNyrxV)<!-- MEMES:END -->
+ - 👉 [One of the usuals tries to get uppity in small town America. Gets removed from the picture](http://9gag.com/gag/ajP2wqw)<!-- MEMES:END -->
 
 --- 
 
