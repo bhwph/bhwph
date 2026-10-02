@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [One of the usuals tries to get uppity in small town America. Gets removed from the picture](http://9gag.com/gag/ajP2wqw)
- - 😝 [YES or NO?](http://9gag.com/gag/aO86OZ6)
- - 👉 [One of the usuals tries to get uppity in small town America. Gets removed from the picture](http://9gag.com/gag/ajP2wqw)<!-- MEMES:END -->
+ - 6️⃣ [Parkour](http://9gag.com/gag/aXP8Op2)
+ - 😝 [One of the usuals tries to get uppity in small town America. Gets removed from the picture](http://9gag.com/gag/ajP2wqw)
+ - 👉 [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)<!-- MEMES:END -->
 
 --- 
 
