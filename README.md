@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [He dieded btw](http://9gag.com/gag/a2vQXbD)
- - 😝 [Don&#39;t go for a game](http://9gag.com/gag/ae9XBgq)
- - 👉 [What do you learn from this video?](http://9gag.com/gag/aXP8OYd)<!-- MEMES:END -->
+ - 6️⃣ [Found it somewhere else, but knowledge has to he shared.](http://9gag.com/gag/aNDyEdv)
+ - 😝 [He dieded btw](http://9gag.com/gag/a2vQXbD)
+ - 👉 [Tetten](http://9gag.com/gag/aQzYWnr)<!-- MEMES:END -->
 
 --- 
 
