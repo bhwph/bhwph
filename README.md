@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can&#39;t control it...](http://9gag.com/gag/ae9XwWv)
- - 😝 [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)
- - 👉 [Can&#39;t control it...](http://9gag.com/gag/ae9XwWv)<!-- MEMES:END -->
+ - 6️⃣ [He dieded btw](http://9gag.com/gag/a2vQXbD)
+ - 😝 [Don&#39;t go for a game](http://9gag.com/gag/ae9XBgq)
+ - 👉 [What do you learn from this video?](http://9gag.com/gag/aXP8OYd)<!-- MEMES:END -->
 
 --- 
 
