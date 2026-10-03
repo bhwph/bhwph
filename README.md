@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will limit Mac disk access as AI agents ‘substantially’ increase risk](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents)
- - [Sling TV drops its one-day cable passes](https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops)
- - [Memo: the US Army is creating an autonomous systems command, after Defense Secretary Pete Hegseth announced the Meridian and Agincourt robotic warfare projects &lpar;Colin Demarest/Axios&rpar;](https://www.techmeme.com/261002/p22#a261002p22)<!-- TECH:END -->
+ - [A US judge rules an officer&#39;s use of Flock to search a car&#39;s license plate was a form of &quot;indiscriminate mass surveillance&quot;, and violated the Fourth Amendment &lpar;Jason Koebler/404 Media&rpar;](https://www.techmeme.com/261002/p31#a261002p31)
+ - [Supabase raised $150M led by Singapore&#39;s GIC and agrees to acquire Turso, which offers a database optimized for AI agents, for an undisclosed sum &lpar;Maria Deutscher/SiliconANGLE&rpar;](https://www.techmeme.com/261002/p30#a261002p30)
+ - [David Robinson, who worked on OpenAI&#39;s Safety Systems team and had previously led policy planning, left OpenAI last week &lpar;Stephen Council/Business Insider&rpar;](https://www.techmeme.com/261002/p29#a261002p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
