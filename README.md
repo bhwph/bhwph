@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Danger is you](http://9gag.com/gag/a6ZW0r8)
- - 😝 [He dieded btw](http://9gag.com/gag/a2vQXbD)
- - 👉 [What do you learn from this video?](http://9gag.com/gag/aXP8OYd)<!-- MEMES:END -->
+ - 6️⃣ [Still answers 17, though](http://9gag.com/gag/aKGbomN)
+ - 😝 [Never eat yellow snow.](http://9gag.com/gag/aMVpM91)
+ - 👉 [Filipino Model Uses Money Made On OF To Build School In Her Hometown](http://9gag.com/gag/aLnq7nz)<!-- MEMES:END -->
 
 --- 
 
