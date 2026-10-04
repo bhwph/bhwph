@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The MacBook Air M5 is $200 off for the first time in months](https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale)
- - [The iPad Mini is slightly cheaper again during Prime Day](https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale)
- - [A profile of Meta Chief AI Officer Alexandr Wang, who is the company&#39;s first senior executive from Gen Z and has succeeded in building hype for Muse &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](https://www.techmeme.com/261004/p10#a261004p10)<!-- TECH:END -->
+ - [In an X reply, Elon Musk says that SpaceX will rename its AI unit SpaceXAI to SpaceXSI, following Trump&#39;s push to replace &quot;artificial&quot; intelligence with &quot;super&quot; &lpar;Chandni Shah/Reuters&rpar;](https://www.techmeme.com/261004/p14#a261004p14)
+ - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
+ - [The Soulog Sense is an AI voice recorder with a personal context system that never misses a word](https://www.androidauthority.com/soulog-sense-ai-voice-recorder-3716740/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
