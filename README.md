@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Still answers 17, though](http://9gag.com/gag/aKGbomN)
- - 😝 [Never eat yellow snow.](http://9gag.com/gag/aMVpM91)
- - 👉 [Filipino Model Uses Money Made On OF To Build School In Her Hometown](http://9gag.com/gag/aLnq7nz)<!-- MEMES:END -->
+ - 6️⃣ [What\u2019s it gonna be](http://9gag.com/gag/avybMYW)
+ - 😝 [Still answers 17, though](http://9gag.com/gag/aKGbomN)
+ - 👉 [Rook at the back just waiting for shit to go sideways](http://9gag.com/gag/aAyn8eL)<!-- MEMES:END -->
 
 --- 
 
