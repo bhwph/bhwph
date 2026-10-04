@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI czar Jay Clayton to chair the WH&#39;s AI task force, called &quot;Super Intelligence Force&quot;, to pen a report on AI&#39;s risks and opportunities within 120 days &lpar;Alex Leary/Wall Street Journal&rpar;](https://www.techmeme.com/261003/p13#a261003p13)
- - [David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields&#39; safety approaches; time for trial and error&#39;s over &lpar;David Robinson/The Atlantic&rpar;](https://www.techmeme.com/261003/p12#a261003p12)
- - [The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike](https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/)<!-- TECH:END -->
+ - [The MacBook Air M5 is $200 off for the first time in months](https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale)
+ - [The iPad Mini is slightly cheaper again during Prime Day](https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale)
+ - [A profile of Meta Chief AI Officer Alexandr Wang, who is the company&#39;s first senior executive from Gen Z and has succeeded in building hype for Muse &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](https://www.techmeme.com/261004/p10#a261004p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
