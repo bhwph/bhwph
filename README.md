@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an X reply, Elon Musk says that SpaceX will rename its AI unit SpaceXAI to SpaceXSI, following Trump&#39;s push to replace &quot;artificial&quot; intelligence with &quot;super&quot; &lpar;Chandni Shah/Reuters&rpar;](https://www.techmeme.com/261004/p14#a261004p14)
- - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
- - [The Soulog Sense is an AI voice recorder with a personal context system that never misses a word](https://www.androidauthority.com/soulog-sense-ai-voice-recorder-3716740/)<!-- TECH:END -->
+ - [A look at Sean Parker&#39;s resurrection of Stability AI following Emad Mostaque&#39;s ousting, and its new focus on AI for music professionals, backed by major labels &lpar;Abram Brown/The Information&rpar;](https://www.techmeme.com/261004/p23#a261004p23)
+ - [Change.org says it is investing $100M of its own money to rebuild its core petitions platform with AI and has launched an AI copilot beta for petition creators &lpar;Dan Primack/Axios&rpar;](https://www.techmeme.com/261004/p22#a261004p22)
+ - [Q&amp;A with Google SVP and DeepMind Institute co-director James Manyika on AI risks and why responsibility must be shared across industry, government, and society &lpar;Mishal Husain/Bloomberg&rpar;](https://www.techmeme.com/261004/p21#a261004p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
