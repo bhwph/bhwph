@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Aging like fine wine](http://9gag.com/gag/aD2ByD7)
- - 😝 [Still answers 17, though](http://9gag.com/gag/aKGbomN)
- - 👉 [Dating Options Nowadays](http://9gag.com/gag/a9y3x4j)<!-- MEMES:END -->
+ - 6️⃣ [Are you saving your kids or your wife?](http://9gag.com/gag/agmRWZw)
+ - 😝 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
+ - 👉 [Let\u2019s make a list.](http://9gag.com/gag/apReZeb)<!-- MEMES:END -->
 
 --- 
 
