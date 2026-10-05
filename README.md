@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What\u2019s it gonna be](http://9gag.com/gag/avybMYW)
+ - 6️⃣ [Aging like fine wine](http://9gag.com/gag/aD2ByD7)
  - 😝 [Still answers 17, though](http://9gag.com/gag/aKGbomN)
- - 👉 [Rook at the back just waiting for shit to go sideways](http://9gag.com/gag/aAyn8eL)<!-- MEMES:END -->
+ - 👉 [Dating Options Nowadays](http://9gag.com/gag/a9y3x4j)<!-- MEMES:END -->
 
 --- 
 
