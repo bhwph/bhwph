@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Are you saving your kids or your wife?](http://9gag.com/gag/agmRWZw)
+ - 6️⃣ [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
  - 😝 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
- - 👉 [Let\u2019s make a list.](http://9gag.com/gag/apReZeb)<!-- MEMES:END -->
+ - 👉 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)<!-- MEMES:END -->
 
 --- 
 
