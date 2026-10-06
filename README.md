@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 8 Ultra falls to its lowest price yet in this Prime Day deal](https://www.androidauthority.com/galaxy-z-fold-8-ultra-prime-day-3719375/)
- - [A Trump Mobile breach may have exposed data of more than 3,600 people](https://www.theverge.com/tech/1005546/trump-mobile-data-breach-leak)
- - [CMF Buds 2 fall to $29 on Amazon with spatial audio, IP55 protection, and long battery life](https://www.androidauthority.com/cmf-buds-2-prime-deal-3718775/)<!-- TECH:END -->
+ - [Tesla&amp;#8217;s Model 3 and Model Y can be a backup battery for your house](https://www.theverge.com/transportation/1006193/tesla-model-3-model-y-powershare-home-backup)
+ - [Google’s power-hungry data centers crave nuclear energy](https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation)
+ - [Capitolis, which develops tech for banks and financial institutions, raised $220M, including a $120M Series E at a $1.9B valuation, up from $1.6B in 2022 &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/261006/p37#a261006p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
