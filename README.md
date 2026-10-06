@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
- - 😝 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
+ - 6️⃣ [What&#39;s your favourite?](http://9gag.com/gag/aO86gBM)
+ - 😝 [Why?](http://9gag.com/gag/aLnqyrW)
  - 👉 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)<!-- MEMES:END -->
 
 --- 
