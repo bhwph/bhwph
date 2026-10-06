@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An official says the DOD has stopped using Anthropic&#39;s tools; sources: Claude was in use as recently as last week, including in military operations against Iran &lpar;BBC&rpar;](https://www.techmeme.com/261005/p25#a261005p25)
- - [To comply with the EU AI Act, OpenAI plans to add text watermarking for ChatGPT and Codex users in the EU and an opt-in setting for API customers globally &lpar;OpenAI&rpar;](https://www.techmeme.com/261005/p24#a261005p24)
- - [In a first-of-its-kind pilot in the US, Nolla Health will use AI to diagnose and prescribe acne medications to Utah patients without direct human oversight &lpar;Annika Inampudi/Bloomberg&rpar;](https://www.techmeme.com/261005/p23#a261005p23)<!-- TECH:END -->
+ - [Amazon Alexa won’t stop saying ‘lalala’ and users are creeped out &lpar;Updated: Fix incoming&rpar;](https://www.androidauthority.com/amazon-alexa-la-la-la-3719167/)
+ - [Singapore-based data center operator DayOne files for a US IPO, reporting its H1 revenue more than tripled YoY to $512M while its net loss widened to $77.2M &lpar;Pragyan Kalita/Reuters&rpar;](https://www.techmeme.com/261005/p36#a261005p36)
+ - [ChatGPT users, your AI-written text will soon carry a hidden watermark](https://www.androidauthority.com/chatgpt-text-watermarking-3719403/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
