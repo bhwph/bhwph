@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Alexa won’t stop saying ‘lalala’ and users are creeped out &lpar;Updated: Fix incoming&rpar;](https://www.androidauthority.com/amazon-alexa-la-la-la-3719167/)
- - [Singapore-based data center operator DayOne files for a US IPO, reporting its H1 revenue more than tripled YoY to $512M while its net loss widened to $77.2M &lpar;Pragyan Kalita/Reuters&rpar;](https://www.techmeme.com/261005/p36#a261005p36)
- - [ChatGPT users, your AI-written text will soon carry a hidden watermark](https://www.androidauthority.com/chatgpt-text-watermarking-3719403/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 8 Ultra falls to its lowest price yet in this Prime Day deal](https://www.androidauthority.com/galaxy-z-fold-8-ultra-prime-day-3719375/)
+ - [A Trump Mobile breach may have exposed data of more than 3,600 people](https://www.theverge.com/tech/1005546/trump-mobile-data-breach-leak)
+ - [CMF Buds 2 fall to $29 on Amazon with spatial audio, IP55 protection, and long battery life](https://www.androidauthority.com/cmf-buds-2-prime-deal-3718775/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
