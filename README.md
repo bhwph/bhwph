@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What&#39;s your favourite?](http://9gag.com/gag/aO86gBM)
- - 😝 [Why?](http://9gag.com/gag/aLnqyrW)
- - 👉 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)<!-- MEMES:END -->
+ - 6️⃣ [Why?](http://9gag.com/gag/aLnqyrW)
+ - 😝 [What&#39;s your favourite?](http://9gag.com/gag/aO86gBM)
+ - 👉 [Outrage in Japan as Pakistani immigrants plan to build a mosque and a self-sufficient farm for a proposed all-Muslim colony in the middle of a protected forest.](http://9gag.com/gag/ayNyg68)<!-- MEMES:END -->
 
 --- 
 
