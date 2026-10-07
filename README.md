@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Child-safety policy puts Apple &amp; Brussels on unusually similar ground](https://appleinsider.com/articles/26/10/07/child-safety-policy-puts-apple-brussels-on-unusually-similar-ground?utm_source=rss)
- - [This is what Apple &amp; LG home accessories will look like](https://appleinsider.com/articles/26/10/07/this-is-what-apple-lg-home-accessories-will-look-like?utm_source=rss)
- - [Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’](https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell)<!-- TECH:END -->
+ - [Android&amp;#8217;s physical navigation buttons are back on Googlebooks, but not the way you think](https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think)
+ - [The Science Behind the Nobel-Winning Technology That Controls Neurons With Light](https://www.wired.com/story/the-science-behind-the-nobel-winning-technology-that-controls-neurons-with-light/)
+ - [We found some great October Prime Day deals under $50](https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
