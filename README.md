@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japanese chipmaker Rapidus is partnering with 17 companies, including US-based Synopsys, to help customers design chips; Rapidus has $15B+ in state funding &lpar;Reuters&rpar;](https://www.techmeme.com/261006/p52#a261006p52)
- - [A September 24 cyberattack on Arizona&#39;s court system stole PII for 1.3M people, including 30K orders of protection and 150K reports from a foster care board &lpar;Associated Press&rpar;](https://www.techmeme.com/261006/p51#a261006p51)
- - [Google could soon take away an important Pixel Watch 2 and 3 safety feature](https://www.androidauthority.com/google-pixel-watch-2-pixel-watch-3-safety-signal-3719858/)<!-- TECH:END -->
+ - [Child-safety policy puts Apple &amp; Brussels on unusually similar ground](https://appleinsider.com/articles/26/10/07/child-safety-policy-puts-apple-brussels-on-unusually-similar-ground?utm_source=rss)
+ - [This is what Apple &amp; LG home accessories will look like](https://appleinsider.com/articles/26/10/07/this-is-what-apple-lg-home-accessories-will-look-like?utm_source=rss)
+ - [Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’](https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
