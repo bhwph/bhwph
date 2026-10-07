@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla&amp;#8217;s Model 3 and Model Y can be a backup battery for your house](https://www.theverge.com/transportation/1006193/tesla-model-3-model-y-powershare-home-backup)
- - [Google’s power-hungry data centers crave nuclear energy](https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation)
- - [Capitolis, which develops tech for banks and financial institutions, raised $220M, including a $120M Series E at a $1.9B valuation, up from $1.6B in 2022 &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/261006/p37#a261006p37)<!-- TECH:END -->
+ - [Japanese chipmaker Rapidus is partnering with 17 companies, including US-based Synopsys, to help customers design chips; Rapidus has $15B+ in state funding &lpar;Reuters&rpar;](https://www.techmeme.com/261006/p52#a261006p52)
+ - [A September 24 cyberattack on Arizona&#39;s court system stole PII for 1.3M people, including 30K orders of protection and 150K reports from a foster care board &lpar;Associated Press&rpar;](https://www.techmeme.com/261006/p51#a261006p51)
+ - [Google could soon take away an important Pixel Watch 2 and 3 safety feature](https://www.androidauthority.com/google-pixel-watch-2-pixel-watch-3-safety-signal-3719858/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
