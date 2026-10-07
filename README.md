@@ -136,7 +136,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 6️⃣ [Why?](http://9gag.com/gag/aLnqyrW)
  - 😝 [WTF!](http://9gag.com/gag/aVvGG3v)
- - 👉 [Let\u2019s have some fun, I\u2019ll start\u2026 There will be blood](http://9gag.com/gag/aPAOOdG)<!-- MEMES:END -->
+ - 👉 [Why?](http://9gag.com/gag/aLnqyrW)<!-- MEMES:END -->
 
 --- 
 
