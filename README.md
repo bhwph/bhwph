@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why?](http://9gag.com/gag/aLnqyrW)
- - 😝 [WTF!](http://9gag.com/gag/aVvGG3v)
- - 👉 [Why?](http://9gag.com/gag/aLnqyrW)<!-- MEMES:END -->
+ - 6️⃣ [Mia Goth Files For Divorce From Shia LaBeouf After Nearly 10 Years Of Marriage](http://9gag.com/gag/a8Add7Q)
+ - 😝 [Darwin Award Picknick](http://9gag.com/gag/azx66Rj)
+ - 👉 [WTF!](http://9gag.com/gag/aVvGG3v)<!-- MEMES:END -->
 
 --- 
 
