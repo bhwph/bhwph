@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Mia Goth Files For Divorce From Shia LaBeouf After Nearly 10 Years Of Marriage](http://9gag.com/gag/a8Add7Q)
- - 😝 [Darwin Award Picknick](http://9gag.com/gag/azx66Rj)
- - 👉 [WTF!](http://9gag.com/gag/aVvGG3v)<!-- MEMES:END -->
+ - 6️⃣ [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
+ - 😝 [WTF!](http://9gag.com/gag/aVvGG3v)
+ - 👉 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)<!-- MEMES:END -->
 
 --- 
 
