@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reportedly can’t make a profit on its phones, so it’s cutting production by millions](https://www.androidauthority.com/samsung-smartphone-production-cut-3720540/)
- - [Source: Nvidia considered a last-minute OpenRouter bid, telling its leadership it was prepared to make a generous offer, but OpenRouter didn&#39;t want to wait &lpar;The Information&rpar;](https://www.techmeme.com/261007/p47#a261007p47)
- - [OpenRouter: the share of business spending between OpenAI and Anthropic models was roughly even in September, vs. Anthropic commanding a 75% share in January &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](https://www.techmeme.com/261007/p46#a261007p46)<!-- TECH:END -->
+ - [The US suspends Microsoft, Adobe, Cognizant, Infosys, and others from a program that lets skilled foreign workers gain permanent residency, citing alleged fraud &lpar;Dan Rosenzweig-Ziff/Reuters&rpar;](https://www.techmeme.com/261008/p30#a261008p30)
+ - [YouTube Music is testing a fresh look with sprawling album art headers](https://www.androidauthority.com/youtube-music-album-playlist-redesign-3720792/)
+ - [Limited Edition Bose QuietComfort Ultra 2nd Gen hits all-time low price with $80 off](https://www.androidauthority.com/limited-edition-bose-quietcomfort-ultra-2nd-gen-deal-3720819/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
