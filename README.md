@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US suspends Microsoft, Adobe, Cognizant, Infosys, and others from a program that lets skilled foreign workers gain permanent residency, citing alleged fraud &lpar;Dan Rosenzweig-Ziff/Reuters&rpar;](https://www.techmeme.com/261008/p30#a261008p30)
- - [YouTube Music is testing a fresh look with sprawling album art headers](https://www.androidauthority.com/youtube-music-album-playlist-redesign-3720792/)
- - [Limited Edition Bose QuietComfort Ultra 2nd Gen hits all-time low price with $80 off](https://www.androidauthority.com/limited-edition-bose-quietcomfort-ultra-2nd-gen-deal-3720819/)<!-- TECH:END -->
+ - [Survey suggests a small Android Auto design change is proving surprisingly divisive](https://www.androidauthority.com/android-auto-wavy-progress-bar-poll-results-3720992/)
+ - [USV raised $900M, including a $500M early-stage fund, up from $275M in 2024, cuts general partnership to four investors, and aims to lead more AI rounds &lpar;Bloomberg&rpar;](https://www.techmeme.com/261008/p47#a261008p47)
+ - [Apple will reportedly debut its first touchscreen MacBook in three weeks](https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
