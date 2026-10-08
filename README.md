@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android&amp;#8217;s physical navigation buttons are back on Googlebooks, but not the way you think](https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think)
- - [The Science Behind the Nobel-Winning Technology That Controls Neurons With Light](https://www.wired.com/story/the-science-behind-the-nobel-winning-technology-that-controls-neurons-with-light/)
- - [We found some great October Prime Day deals under $50](https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50)<!-- TECH:END -->
+ - [Samsung reportedly can’t make a profit on its phones, so it’s cutting production by millions](https://www.androidauthority.com/samsung-smartphone-production-cut-3720540/)
+ - [Source: Nvidia considered a last-minute OpenRouter bid, telling its leadership it was prepared to make a generous offer, but OpenRouter didn&#39;t want to wait &lpar;The Information&rpar;](https://www.techmeme.com/261007/p47#a261007p47)
+ - [OpenRouter: the share of business spending between OpenAI and Anthropic models was roughly even in September, vs. Anthropic commanding a 75% share in January &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](https://www.techmeme.com/261007/p46#a261007p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
