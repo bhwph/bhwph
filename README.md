@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 15 gets Color OS 17 Open Beta ahead of OPPO’s global launch](https://www.androidauthority.com/oneplus-15-coloros-17-open-beta-3721053/)
- - [Livestream Replay: Watch ‘Uncanny Valley’ on Women, Tech, and Power](https://www.wired.com/story/come-see-uncanny-valley-live/)
- - [Microsoft denies JD Vance&#39;s claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees &lpar;Associated Press&rpar;](https://www.techmeme.com/261008/p55#a261008p55)<!-- TECH:END -->
+ - [Deal: The CMF Watch Pro 2 just hit a record-low $36 on Amazon](https://www.androidauthority.com/deal-cmf-watch-pro-2-2-3721405/)
+ - [Trump’s attempt to rename AI is looking awfully artificial](https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding)
+ - [We’re one step closer to a desktop experience built for AI agents, and this is what it looks like](https://www.androidauthority.com/new-ai-apps-services-open-swarm-3721189/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
