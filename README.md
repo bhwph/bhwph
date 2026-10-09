@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Skynet may be further away then we think](https://www.reddit.com/r/funny/comments/1x1ne9u/skynet_may_be_further_away_then_we_think/)
- - 😝 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
- - 👉 [6 year old](http://9gag.com/gag/abe35q8)<!-- MEMES:END -->
+ - 6️⃣ [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
+ - 😝 [He&#39;s not in trouble, he&#39;s in danger](http://9gag.com/gag/a4npK96)
+ - 👉 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)<!-- MEMES:END -->
 
 --- 
 
