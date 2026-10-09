@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The CMF Watch Pro 2 just hit a record-low $36 on Amazon](https://www.androidauthority.com/deal-cmf-watch-pro-2-2-3721405/)
- - [Trump’s attempt to rename AI is looking awfully artificial](https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding)
- - [We’re one step closer to a desktop experience built for AI agents, and this is what it looks like](https://www.androidauthority.com/new-ai-apps-services-open-swarm-3721189/)<!-- TECH:END -->
+ - [Tesla’s ‘Full Self-Driving’ Becomes ‘Assisted Driving’ in Europe](https://www.wired.com/story/tesla-full-self-driving-becomes-assisted-driving-in-europe/)
+ - [Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 &lpar;6abc&rpar;](https://www.techmeme.com/261009/p22#a261009p22)
+ - [Ohio blogger found guilty of harassment for sending Shrek nude to senator](https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
