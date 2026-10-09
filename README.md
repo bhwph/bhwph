@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey suggests a small Android Auto design change is proving surprisingly divisive](https://www.androidauthority.com/android-auto-wavy-progress-bar-poll-results-3720992/)
- - [USV raised $900M, including a $500M early-stage fund, up from $275M in 2024, cuts general partnership to four investors, and aims to lead more AI rounds &lpar;Bloomberg&rpar;](https://www.techmeme.com/261008/p47#a261008p47)
- - [Apple will reportedly debut its first touchscreen MacBook in three weeks](https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor)<!-- TECH:END -->
+ - [OnePlus 15 gets Color OS 17 Open Beta ahead of OPPO’s global launch](https://www.androidauthority.com/oneplus-15-coloros-17-open-beta-3721053/)
+ - [Livestream Replay: Watch ‘Uncanny Valley’ on Women, Tech, and Power](https://www.wired.com/story/come-see-uncanny-valley-live/)
+ - [Microsoft denies JD Vance&#39;s claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees &lpar;Associated Press&rpar;](https://www.techmeme.com/261008/p55#a261008p55)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
