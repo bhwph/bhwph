@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Fifteen dollar too beaucoup](http://9gag.com/gag/aD7RwoG)
- - 😝 [Make this happen.](http://9gag.com/gag/a9zjLnm)
+ - 6️⃣ [Mmm, you can taste the fresh-baked engineering](https://www.reddit.com/r/funny/comments/1x2o1bs/mmm_you_can_taste_the_freshbaked_engineering/)
+ - 😝 [Song about a 15,000 pound horse by Lubalin 🐴](https://www.reddit.com/r/funny/comments/1x2nz8b/song_about_a_15000_pound_horse_by_lubalin/)
  - 👉 [Fifteen dollar too beaucoup](http://9gag.com/gag/aD7RwoG)<!-- MEMES:END -->
 
 --- 
