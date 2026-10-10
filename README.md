@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
- - 😝 [He&#39;s not in trouble, he&#39;s in danger](http://9gag.com/gag/a4npK96)
- - 👉 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)<!-- MEMES:END -->
+ - 😝 [Anakin approved this poll](http://9gag.com/gag/aVgjQxM)
+ - 👉 [I thought she looked familiar](https://www.reddit.com/r/funny/comments/1x258a0/i_thought_she_looked_familiar/)<!-- MEMES:END -->
 
 --- 
 
