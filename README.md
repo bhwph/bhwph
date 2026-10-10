@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/261009/p35#a261009p35)
- - [Cloudflare debuts Clef-omni, supporting audio and video input alongside text and image, makes Clef up to 2x faster, and dramatically cuts Clef-flash pricing &lpar;Cloudflare&rpar;](https://www.techmeme.com/261009/p34#a261009p34)
- - [Sources: Dario Amodei spoke with Meta&#39;s Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261009/p33#a261009p33)<!-- TECH:END -->
+ - [Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?](https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure)
+ - [How Anthropic co-founder Tom Brown used GOP ties to end a June standoff over model safety and win over Musk, brokering a $1.25B/month SpaceX compute deal &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261010/p12#a261010p12)
+ - [LG’s RGB LED TV is good for certain situations, but an OLED is better](https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
