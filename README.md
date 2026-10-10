@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s ‘Full Self-Driving’ Becomes ‘Assisted Driving’ in Europe](https://www.wired.com/story/tesla-full-self-driving-becomes-assisted-driving-in-europe/)
- - [Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 &lpar;6abc&rpar;](https://www.techmeme.com/261009/p22#a261009p22)
- - [Ohio blogger found guilty of harassment for sending Shrek nude to senator](https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude)<!-- TECH:END -->
+ - [Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/261009/p35#a261009p35)
+ - [Cloudflare debuts Clef-omni, supporting audio and video input alongside text and image, makes Clef up to 2x faster, and dramatically cuts Clef-flash pricing &lpar;Cloudflare&rpar;](https://www.techmeme.com/261009/p34#a261009p34)
+ - [Sources: Dario Amodei spoke with Meta&#39;s Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261009/p33#a261009p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
