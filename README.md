@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?](https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure)
- - [How Anthropic co-founder Tom Brown used GOP ties to end a June standoff over model safety and win over Musk, brokering a $1.25B/month SpaceX compute deal &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261010/p12#a261010p12)
- - [LG’s RGB LED TV is good for certain situations, but an OLED is better](https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review)<!-- TECH:END -->
+ - [Right on schedule, sources claim iPhone 18 Pro orders have been cut](https://appleinsider.com/articles/26/10/09/right-on-schedule-sources-claim-iphone-18-pro-orders-have-been-cut?utm_source=rss)
+ - [Sources: Nvidia is in talks to acquire or invest more into US open-weights AI startup Reflection AI; the deal may be an acquihire to avoid antitrust scrutiny &lpar;Financial Times&rpar;](https://www.techmeme.com/261010/p16#a261010p16)
+ - [DistroKid has been quietly taking down songs in response to UMG lawsuit](https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
