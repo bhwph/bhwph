@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [It&#39; s a nordick tradition](http://9gag.com/gag/aoWm0We)
- - 😝 [That&#39;s quite the catalogue.](http://9gag.com/gag/a17peGR)
- - 👉 [HACK THE PLANET!](http://9gag.com/gag/a78vygr)<!-- MEMES:END -->
+ - 6️⃣ [Arnold Schwarzenegger.](http://9gag.com/gag/a17pY3b)
+ - 😝 [See comments](http://9gag.com/gag/a0ovLXO)
+ - 👉 [It&#39; s a nordick tradition](http://9gag.com/gag/aoWm0We)<!-- MEMES:END -->
 
 --- 
 
