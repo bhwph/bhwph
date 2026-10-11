@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
- - [&quot;Super Intelligence systems&quot; are black boxes that shouldn&#39;t be trusted by companies, and strong deterministic systems are needed around their deployment &lpar;Satya Nadella/@satyanadella&rpar;](https://www.techmeme.com/261010/p18#a261010p18)
- - [Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well &lpar;Lewis Parker/Kotaku&rpar;](https://www.techmeme.com/261010/p17#a261010p17)<!-- TECH:END -->
+ - [Apple smart home control center is called &#39;HomeView&#39;](https://appleinsider.com/articles/26/10/11/apple-smart-home-control-center-is-called-homeview?utm_source=rss)
+ - [New HomePod mini and Apple TV will debut during HomeView launch](https://appleinsider.com/articles/26/10/11/new-homepod-mini-and-apple-tv-will-debut-during-homeview-launch?utm_source=rss)
+ - [PitchBook: robotics and physical AI companies have raised ~$48B YTD, as they gather training data from people completing tasks in factories, offices, and homes &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/261011/p6#a261011p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
