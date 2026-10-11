@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple smart home control center is called &#39;HomeView&#39;](https://appleinsider.com/articles/26/10/11/apple-smart-home-control-center-is-called-homeview?utm_source=rss)
- - [New HomePod mini and Apple TV will debut during HomeView launch](https://appleinsider.com/articles/26/10/11/new-homepod-mini-and-apple-tv-will-debut-during-homeview-launch?utm_source=rss)
- - [PitchBook: robotics and physical AI companies have raised ~$48B YTD, as they gather training data from people completing tasks in factories, offices, and homes &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/261011/p6#a261011p6)<!-- TECH:END -->
+ - [What to expect from Apple&#39;s October 13 &#39;Welcome home&#39; releases](https://appleinsider.com/articles/26/10/08/what-to-expect-from-apples-october-13-welcome-home-releases?utm_source=rss)
+ - [Silicon Valley is falling in line with Trump’s attempt to rename AI](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai)
+ - [A look at the economics of Anthropic&#39;s data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/261011/p9#a261011p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
