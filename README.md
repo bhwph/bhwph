@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple&#39;s October 13 &#39;Welcome home&#39; releases](https://appleinsider.com/articles/26/10/08/what-to-expect-from-apples-october-13-welcome-home-releases?utm_source=rss)
- - [Silicon Valley is falling in line with Trump’s attempt to rename AI](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai)
- - [A look at the economics of Anthropic&#39;s data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/261011/p9#a261011p9)<!-- TECH:END -->
+ - [Hardware wallet maker Ledger says the $86M+ theft from hundreds of its wallets involved devices sold by reseller CryptoBilis and confirms a &quot;hardware implant&quot; &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/261011/p17#a261011p17)
+ - [Sources: Bain&#39;s Bridge Data Centres is in talks to upsize an existing loan from $2.8B to ~$6.6B, in what would be one of the largest data center deals in Asia &lpar;Kari Soo Lindberg/Bloomberg&rpar;](https://www.techmeme.com/261011/p16#a261011p16)
+ - [LineageOS is getting an early Android 17 upgrade, and there’s plenty more to like](https://www.androidauthority.com/lineageos-24-android-17-3721683/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
