@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hardware wallet maker Ledger says the $86M+ theft from hundreds of its wallets involved devices sold by reseller CryptoBilis and confirms a &quot;hardware implant&quot; &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/261011/p17#a261011p17)
- - [Sources: Bain&#39;s Bridge Data Centres is in talks to upsize an existing loan from $2.8B to ~$6.6B, in what would be one of the largest data center deals in Asia &lpar;Kari Soo Lindberg/Bloomberg&rpar;](https://www.techmeme.com/261011/p16#a261011p16)
- - [LineageOS is getting an early Android 17 upgrade, and there’s plenty more to like](https://www.androidauthority.com/lineageos-24-android-17-3721683/)<!-- TECH:END -->
+ - [Muse Wonder Puts Meta Back at the AI Frontier](https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/)
+ - [Meta introduces Muse Wonder and Muse Wonder Full, saying they deliver state-of-the-art performance on personal and professional agentic tasks &lpar;Meta AI Research&rpar;](https://www.techmeme.com/261012/p31#a261012p31)
+ - [Meta has some Wonder Full new AI models](https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
