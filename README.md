@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Arnold Schwarzenegger.](http://9gag.com/gag/a17pY3b)
- - 😝 [See comments](http://9gag.com/gag/a0ovLXO)
- - 👉 [It&#39; s a nordick tradition](http://9gag.com/gag/aoWm0We)<!-- MEMES:END -->
+ - 6️⃣ [Megan Fox Launches Exclusive Paid Content Page](http://9gag.com/gag/awgNKzQ)
+ - 😝 [Conservatives never stood a chance](http://9gag.com/gag/amWq9qv)
+ - 👉 [Is this allowed ?](http://9gag.com/gag/aNLmKx3)<!-- MEMES:END -->
 
 --- 
 
