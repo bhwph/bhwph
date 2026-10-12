@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Megan Fox Launches Exclusive Paid Content Page](http://9gag.com/gag/awgNKzQ)
- - 😝 [Conservatives never stood a chance](http://9gag.com/gag/amWq9qv)
- - 👉 [Is this allowed ?](http://9gag.com/gag/aNLmKx3)<!-- MEMES:END -->
+ - 6️⃣ [Why Pray In The Road?](http://9gag.com/gag/aYGjLo2)
+ - 😝 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Officials Say](http://9gag.com/gag/abe30jL)
+ - 👉 [Why Pray In The Road?](http://9gag.com/gag/aYGjLo2)<!-- MEMES:END -->
 
 --- 
 
