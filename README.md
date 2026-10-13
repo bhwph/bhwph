@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IDC: Nvidia&#39;s AI chip shipments in China fell 44% YoY to 678K in H1 2026, as its market share slid to 34% amid US export curbs and rising domestic competition &lpar;Reuters&rpar;](https://www.techmeme.com/261013/p2#a261013p2)
- - [China-based Transsion, which dominates the market for smartphones in Africa, raised $390M from a Hong Kong share sale after pricing the deal near the top end &lpar;Sangmi Cha/Bloomberg&rpar;](https://www.techmeme.com/261013/p1#a261013p1)
- - [Anthropic says new measures like preserved thinking in Fable 5.1 and Opus 5.5 have reduced data harvesting through distillation attacks by about 90% to 99% &lpar;Anthropic&rpar;](https://www.techmeme.com/261012/p46#a261012p46)<!-- TECH:END -->
+ - [Here are all the new HomePod Mini 2 colors](https://www.theverge.com/tech/1009935/apple-homepod-mini-2-hands-on)
+ - [Apple targets Google Nest in major smart home expansion](https://www.androidauthority.com/apple-launches-new-smart-home-collection-3722645/)
+ - [HomeView and More: Everything Apple Announced at Its ‘Welcome Home’ Event](https://www.cnet.com/home/smart-home/apple-home-event-homeview-homepod-tv-lg-schneider/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
