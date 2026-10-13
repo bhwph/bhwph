@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are all the new HomePod Mini 2 colors](https://www.theverge.com/tech/1009935/apple-homepod-mini-2-hands-on)
- - [Apple targets Google Nest in major smart home expansion](https://www.androidauthority.com/apple-launches-new-smart-home-collection-3722645/)
- - [HomeView and More: Everything Apple Announced at Its ‘Welcome Home’ Event](https://www.cnet.com/home/smart-home/apple-home-event-homeview-homepod-tv-lg-schneider/)<!-- TECH:END -->
+ - [Gemini 4 Argon is finally here, and it’s not just for coders and developers](https://www.androidauthority.com/gemini-4-argon-ai-model-launch-availability-3722792/)
+ - [OpenAI employee arrested for allegedly planting a bug in a conference room](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device)
+ - [Xbox CEO Asha Sharma announces Xbox Labs, a small team to test emerging ideas, citing recent game ports and mashups, many of them built with AI tools &lpar;Jon Hicks/GamesIndustry.biz&rpar;](https://www.techmeme.com/261013/p42#a261013p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
