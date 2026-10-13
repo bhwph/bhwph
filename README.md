@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Curiosity...](http://9gag.com/gag/a6DrMrq)
- - 😝 [Bye Bye Walt Jr. - &lpar;34&rpar;](http://9gag.com/gag/aNLmWGA)
- - 👉 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)<!-- MEMES:END -->
+ - 6️⃣ [NO6 and 555](http://9gag.com/gag/a78vrEr)
+ - 😝 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)
+ - 👉 [NO6 and 555](http://9gag.com/gag/a78vrEr)<!-- MEMES:END -->
 
 --- 
 
