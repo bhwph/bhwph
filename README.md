@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why Pray In The Road?](http://9gag.com/gag/aYGjLo2)
- - 😝 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Officials Say](http://9gag.com/gag/abe30jL)
- - 👉 [Why Pray In The Road?](http://9gag.com/gag/aYGjLo2)<!-- MEMES:END -->
+ - 6️⃣ [Sprite captured by accident by french photographer](http://9gag.com/gag/a17pXw8)
+ - 😝 [Bye Bye Walt Jr. - &lpar;34&rpar;](http://9gag.com/gag/aNLmWGA)
+ - 👉 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)<!-- MEMES:END -->
 
 --- 
 
