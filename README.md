@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini 4 Argon is finally here, and it’s not just for coders and developers](https://www.androidauthority.com/gemini-4-argon-ai-model-launch-availability-3722792/)
- - [OpenAI employee arrested for allegedly planting a bug in a conference room](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device)
- - [Xbox CEO Asha Sharma announces Xbox Labs, a small team to test emerging ideas, citing recent game ports and mashups, many of them built with AI tools &lpar;Jon Hicks/GamesIndustry.biz&rpar;](https://www.techmeme.com/261013/p42#a261013p42)<!-- TECH:END -->
+ - [Microsoft releases updates fixing 1,400+ security vulnerabilities, surpassing September&#39;s record of 972, which was already ~10x the normal monthly patch load &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/261013/p51#a261013p51)
+ - [Chinese manufacturers dominate humanoid robot production, capturing 97% of global shipments in H1 2026, thanks to government support and vast supply chains &lpar;Bloomberg&rpar;](https://www.techmeme.com/261013/p50#a261013p50)
+ - [Apple has appealed the $5.7B Taction verdict, arguing jury got it all wrong](https://appleinsider.com/articles/26/10/14/apple-has-appealed-the-57b-taction-verdict-arguing-jury-got-it-all-wrong?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
