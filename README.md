@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft releases updates fixing 1,400+ security vulnerabilities, surpassing September&#39;s record of 972, which was already ~10x the normal monthly patch load &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/261013/p51#a261013p51)
- - [Chinese manufacturers dominate humanoid robot production, capturing 97% of global shipments in H1 2026, thanks to government support and vast supply chains &lpar;Bloomberg&rpar;](https://www.techmeme.com/261013/p50#a261013p50)
- - [Apple has appealed the $5.7B Taction verdict, arguing jury got it all wrong](https://appleinsider.com/articles/26/10/14/apple-has-appealed-the-57b-taction-verdict-arguing-jury-got-it-all-wrong?utm_source=rss)<!-- TECH:END -->
+ - [Memo: Netflix is cutting 6% of its staff, or ~1,000 jobs globally across product, tech, legal, and HR, its biggest layoffs since 2022, amid slowing growth &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261014/p19#a261014p19)
+ - [GlobalFoundries plans to build two &quot;essential chip&quot; plants in Malta, New York, backed by up to $21B from Japan; the US will take a 4% stake in GlobalFoundries &lpar;Bloomberg&rpar;](https://www.techmeme.com/261014/p18#a261014p18)
+ - [Formlabs Just Announced the First Resin Printer Aimed at Safe Home Use](https://www.cnet.com/tech/computing/formlabs-just-announced-the-first-resin-printer-aimed-at-safe-home-use/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
