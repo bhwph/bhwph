@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [NO6 and 555](http://9gag.com/gag/a78vrEr)
+ - 6️⃣ [Women](http://9gag.com/gag/aK142GQ)
  - 😝 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)
- - 👉 [NO6 and 555](http://9gag.com/gag/a78vrEr)<!-- MEMES:END -->
+ - 👉 [Women](http://9gag.com/gag/aK142GQ)<!-- MEMES:END -->
 
 --- 
 
