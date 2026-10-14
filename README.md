@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Netflix is cutting 6% of its staff, or ~1,000 jobs globally across product, tech, legal, and HR, its biggest layoffs since 2022, amid slowing growth &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261014/p19#a261014p19)
- - [GlobalFoundries plans to build two &quot;essential chip&quot; plants in Malta, New York, backed by up to $21B from Japan; the US will take a 4% stake in GlobalFoundries &lpar;Bloomberg&rpar;](https://www.techmeme.com/261014/p18#a261014p18)
- - [Formlabs Just Announced the First Resin Printer Aimed at Safe Home Use](https://www.cnet.com/tech/computing/formlabs-just-announced-the-first-resin-printer-aimed-at-safe-home-use/)<!-- TECH:END -->
+ - [Even Google’s own support pages aren’t safe from the Gemini takeover](https://www.androidauthority.com/gemini-ask-google-help-support-pages-3723437/)
+ - [SpaceXSI debuts Grok Voice 3.0, saying it tops Artificial Analysis&#39; speech-to-speech index, responds in under a second, and costs less than rivals, at $0.08/min &lpar;SpaceXSI&rpar;](https://www.techmeme.com/261014/p38#a261014p38)
+ - [The AI race is back on](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
