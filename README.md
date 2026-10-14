@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Women](http://9gag.com/gag/aK142GQ)
- - 😝 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)
- - 👉 [Women](http://9gag.com/gag/aK142GQ)<!-- MEMES:END -->
+ - 6️⃣ [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)
+ - 😝 [Dont we know it.](http://9gag.com/gag/a3Gvqp1)
+ - 👉 [Dont we know it.](http://9gag.com/gag/a3Gvqp1)<!-- MEMES:END -->
 
 --- 
 
