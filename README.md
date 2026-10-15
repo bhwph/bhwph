@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BofA says it hired 1,000 contractors in Q2 to support 3,000 internal staff in patching proprietary and vendor software flaws exposed by AI models like Mythos &lpar;Hugh Son/CNBC&rpar;](https://www.techmeme.com/261015/p27#a261015p27)
- - [Samsung could have two more foldable surprises in 2027, for a total of six new foldables](https://www.androidauthority.com/samsung-galaxy-z-slide-fold-9-pro-2027-leak-3723768/)
- - [Looking back at John Sculley&#39;s rise as Apple&#39;s CEO, and fall on October 15, 1993](https://appleinsider.com/articles/25/10/15/looking-back-at-john-sculleys-rise-as-apples-ceo-and-fall-an-october-15-1993?utm_source=rss)<!-- TECH:END -->
+ - [&#39;Shogun 2 - Complete Edition&#39; release crashes and burns](https://appleinsider.com/articles/26/10/15/shogun-2---complete-edition-release-crashes-and-burns?utm_source=rss)
+ - [Sources: top DOJ officials halt career prosecutors&#39; Biden-era investigation of Meta over facilitating illegal drug sales and are weighing more lenient options &lpar;Ben Penn/Bloomberg Law&rpar;](https://www.techmeme.com/261015/p46#a261015p46)
+ - [Grand Theft Auto 6: The Release Trailer You’ve Been Waiting For](https://www.cnet.com/tech/gaming/grand-theft-auto-6-gta6-trailer/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
