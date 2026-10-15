@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Even Google’s own support pages aren’t safe from the Gemini takeover](https://www.androidauthority.com/gemini-ask-google-help-support-pages-3723437/)
- - [SpaceXSI debuts Grok Voice 3.0, saying it tops Artificial Analysis&#39; speech-to-speech index, responds in under a second, and costs less than rivals, at $0.08/min &lpar;SpaceXSI&rpar;](https://www.techmeme.com/261014/p38#a261014p38)
- - [The AI race is back on](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on)<!-- TECH:END -->
+ - [Letter: Democratic senators question Meta&#39;s $6.6B in federal tax credits claimed over the past two years toward costs of building &quot;experimental&quot; AI data centers &lpar;Kashmir Hill/New York Times&rpar;](https://www.techmeme.com/261014/p53#a261014p53)
+ - [Flock CEO Garrett Langley defends his company&#39;s cameras, arguing that reducing crime means sacrificing privacy in return and that &quot;we shouldn&#39;t pause progress&quot; &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261014/p52#a261014p52)
+ - [Mexican President Claudia Sheinbaum signs a decree banning digital platforms from exposing minors to sexual and violent content, giving them one month to comply &lpar;Reuters&rpar;](https://www.techmeme.com/261014/p51#a261014p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
