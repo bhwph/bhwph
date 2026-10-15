@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)
- - 😝 [Dont we know it.](http://9gag.com/gag/a3Gvqp1)
- - 👉 [Dont we know it.](http://9gag.com/gag/a3Gvqp1)<!-- MEMES:END -->
+ - 😝 [Should Ukraine attack the Kremlin](http://9gag.com/gag/aNLm1e3)
+ - 👉 [You may like it or not, but this is what a peak apex predator looks like](http://9gag.com/gag/anOejLq)<!-- MEMES:END -->
 
 --- 
 
