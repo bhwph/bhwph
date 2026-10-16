@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft unveils MAI-Base-2, a MoE model with 2.8T total and 80B active parameters, claiming 4x-12x more pretraining FLOPs-efficiency than DeepSeek-V4-Pro-Base &lpar;Microsoft AI&rpar;](https://www.techmeme.com/261015/p59#a261015p59)
- - [Apple inadvertently reveals new iPad mini model exists](https://appleinsider.com/articles/26/10/16/apple-inadvertently-reveals-new-ipad-mini-model-exists?utm_source=rss)
- - [OpenAI continues to work to grow its ad business in ChatGPT, cutting ad rates, chasing small and midsize businesses, and hiring some new talent from Meta &lpar;Alix Coutures/The Information&rpar;](https://www.techmeme.com/261015/p58#a261015p58)<!-- TECH:END -->
+ - [Apple&#39;s iPhone anodization process lawsuit win is being appealed](https://appleinsider.com/articles/26/10/16/trade-secret-lawsuit-on-iphones-anodization-process-now-being-appealed?utm_source=rss)
+ - [Waymo plans to launch its robotaxis in Toronto in 2028 in partnership with Element Fleet Management, the company&#39;s first deployment in Canada &lpar;Prathik Jayaprakash/Reuters&rpar;](https://www.techmeme.com/261016/p9#a261016p9)
+ - [IPhone Duo Preorders Sell Out in Minutes: Backordered Until January](https://www.cnet.com/tech/mobile/iphone-duo-preorders-day-one/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
