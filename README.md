@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)
- - 😝 [Magic wand](http://9gag.com/gag/a17pQn8)
- - 👉 [Get Fkd](http://9gag.com/gag/advy7w9)<!-- MEMES:END -->
+ - 6️⃣ [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
+ - 😝 [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)
+ - 👉 [Parasites from a bears butt](http://9gag.com/gag/aGLKg9n)<!-- MEMES:END -->
 
 --- 
 
