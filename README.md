@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Shogun 2 - Complete Edition&#39; release crashes and burns](https://appleinsider.com/articles/26/10/15/shogun-2---complete-edition-release-crashes-and-burns?utm_source=rss)
- - [Sources: top DOJ officials halt career prosecutors&#39; Biden-era investigation of Meta over facilitating illegal drug sales and are weighing more lenient options &lpar;Ben Penn/Bloomberg Law&rpar;](https://www.techmeme.com/261015/p46#a261015p46)
- - [Grand Theft Auto 6: The Release Trailer You’ve Been Waiting For](https://www.cnet.com/tech/gaming/grand-theft-auto-6-gta6-trailer/)<!-- TECH:END -->
+ - [Microsoft unveils MAI-Base-2, a MoE model with 2.8T total and 80B active parameters, claiming 4x-12x more pretraining FLOPs-efficiency than DeepSeek-V4-Pro-Base &lpar;Microsoft AI&rpar;](https://www.techmeme.com/261015/p59#a261015p59)
+ - [Apple inadvertently reveals new iPad mini model exists](https://appleinsider.com/articles/26/10/16/apple-inadvertently-reveals-new-ipad-mini-model-exists?utm_source=rss)
+ - [OpenAI continues to work to grow its ad business in ChatGPT, cutting ad rates, chasing small and midsize businesses, and hiring some new talent from Meta &lpar;Alix Coutures/The Information&rpar;](https://www.techmeme.com/261015/p58#a261015p58)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
