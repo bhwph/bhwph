@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone anodization process lawsuit win is being appealed](https://appleinsider.com/articles/26/10/16/trade-secret-lawsuit-on-iphones-anodization-process-now-being-appealed?utm_source=rss)
- - [Waymo plans to launch its robotaxis in Toronto in 2028 in partnership with Element Fleet Management, the company&#39;s first deployment in Canada &lpar;Prathik Jayaprakash/Reuters&rpar;](https://www.techmeme.com/261016/p9#a261016p9)
- - [IPhone Duo Preorders Sell Out in Minutes: Backordered Until January](https://www.cnet.com/tech/mobile/iphone-duo-preorders-day-one/)<!-- TECH:END -->
+ - [iPhone Duo delivery dates stabilize on late January deliveries for all models](https://appleinsider.com/articles/26/10/16/iphone-duo-delivery-dates-stabilize-on-late-january-deliveries-for-all-models?utm_source=rss)
+ - [Sources: Elon Musk approached Trump with the idea of slowing down Starshield in Ukraine; source: Trump agreed, paving the way for DoD to execute the slowdown &lpar;Joe Barnes/Telegraph&rpar;](https://www.techmeme.com/261016/p18#a261016p18)
+ - [The PostgreSQL Global Development Group delays the general availability of PostgreSQL 19 after LLM-assisted code reviews uncovered architectural defects &lpar;Lindsay Clark/The Register&rpar;](https://www.techmeme.com/261016/p17#a261016p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
