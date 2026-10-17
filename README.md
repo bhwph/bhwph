@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Size Doesn&#39;t Matter](http://9gag.com/gag/ae4KD2m)
- - 😝 [Hol up](http://9gag.com/gag/a0ovRAq)
- - 👉 [Be prepared](http://9gag.com/gag/aO2o7DE)<!-- MEMES:END -->
+ - 6️⃣ [Super Smash Bros. Legend Mew2King Banned From Tournament After Bed Bug Fears Spark Concern](http://9gag.com/gag/aAQBb3R)
+ - 😝 [Be prepared](http://9gag.com/gag/aO2o7DE)
+ - 👉 [Hol up](http://9gag.com/gag/a0ovRAq)<!-- MEMES:END -->
 
 --- 
 
