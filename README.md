@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best LED Grow Lights for Houseplants This Winter &lpar;2026&rpar;](https://www.wired.com/story/best-led-grow-lights/)
- - [These 12 Automatic Cat Feeders Were the Best We Tested in 2026](https://www.wired.com/gallery/best-automatic-cat-feeders/)
- - [The one missing feature that stopped me from buying a Fitbit Edge](https://www.androidauthority.com/fitbit-edge-missing-feature-3722753/)<!-- TECH:END -->
+ - [Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast](https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance)
+ - [Elon Musk settles lawsuits over $1 million voter giveaway](https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway)
+ - [Meta removes ToS language that suggested it could scrape websites &quot;associated with&quot; business accounts, saying it applied only to &quot;ads and business products&quot; &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/261017/p14#a261017p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
