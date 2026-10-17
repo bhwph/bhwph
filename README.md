@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic report on how AI is changing employment at the startup: decline of entry-level technical hiring, productivity boom across departments, and more &lpar;Anthropic&rpar;](https://www.techmeme.com/261016/p30#a261016p30)
- - [Sources: Anthropic is offering Blackstone a 10%+ yield to help finance Anthropic&#39;s $60B debt package to buy Google TPUs; Blackstone would invest $9B in the debt &lpar;Financial Times&rpar;](https://www.techmeme.com/261016/p29#a261016p29)
- - [Survey of Anthropic staffers and US adults: 39% of US adults vs. 91% of staffers expect AI will be able to make a Nobel-level discovery by 2030, and more &lpar;Anthropic&rpar;](https://www.techmeme.com/261016/p28#a261016p28)<!-- TECH:END -->
+ - [The Best LED Grow Lights for Houseplants This Winter &lpar;2026&rpar;](https://www.wired.com/story/best-led-grow-lights/)
+ - [These 12 Automatic Cat Feeders Were the Best We Tested in 2026](https://www.wired.com/gallery/best-automatic-cat-feeders/)
+ - [The one missing feature that stopped me from buying a Fitbit Edge](https://www.androidauthority.com/fitbit-edge-missing-feature-3722753/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
