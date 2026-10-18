@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The tower roof of the 143-year-old Limoges Town Hall collapses to the sounds of cheering and laughter.](http://9gag.com/gag/az57MDK)
- - 😝 [Boating license](http://9gag.com/gag/a5VpEEE)
- - 👉 [Be prepared](http://9gag.com/gag/aO2o7DE)<!-- MEMES:END -->
+ - 6️⃣ [Be prepared](http://9gag.com/gag/aO2o7DE)
+ - 😝 [A kid who deserves a slap](http://9gag.com/gag/avW2ALq)
+ - 👉 [Average hospital experience](http://9gag.com/gag/aQg6djq)<!-- MEMES:END -->
 
 --- 
 
