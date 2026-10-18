@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Be prepared](http://9gag.com/gag/aO2o7DE)
- - 😝 [A kid who deserves a slap](http://9gag.com/gag/avW2ALq)
+ - 6️⃣ [Average hospital experience](http://9gag.com/gag/aQg6djq)
+ - 😝 [Average hospital experience](http://9gag.com/gag/aQg6djq)
  - 👉 [Average hospital experience](http://9gag.com/gag/aQg6djq)<!-- MEMES:END -->
 
 --- 
