@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Super Smash Bros. Legend Mew2King Banned From Tournament After Bed Bug Fears Spark Concern](http://9gag.com/gag/aAQBb3R)
- - 😝 [Be prepared](http://9gag.com/gag/aO2o7DE)
- - 👉 [Hol up](http://9gag.com/gag/a0ovRAq)<!-- MEMES:END -->
+ - 6️⃣ [The tower roof of the 143-year-old Limoges Town Hall collapses to the sounds of cheering and laughter.](http://9gag.com/gag/az57MDK)
+ - 😝 [Boating license](http://9gag.com/gag/a5VpEEE)
+ - 👉 [Be prepared](http://9gag.com/gag/aO2o7DE)<!-- MEMES:END -->
 
 --- 
 
