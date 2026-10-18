@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast](https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance)
- - [Elon Musk settles lawsuits over $1 million voter giveaway](https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway)
- - [Meta removes ToS language that suggested it could scrape websites &quot;associated with&quot; business accounts, saying it applied only to &quot;ads and business products&quot; &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/261017/p14#a261017p14)<!-- TECH:END -->
+ - [An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more &lpar;Joanna Stern/The New Things&rpar;](https://www.techmeme.com/261017/p20#a261017p20)
+ - [Google says &quot;magic state cultivation&quot; works in practice on its Willow quantum processor, calling it a breakthrough that reduces errors by about 40x &lpar;Google&rpar;](https://www.techmeme.com/261017/p19#a261017p19)
+ - [Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a &quot;large scale distillation attack&quot; &lpar;Walter Schulze/Startup Fortune&rpar;](https://www.techmeme.com/261017/p18#a261017p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
