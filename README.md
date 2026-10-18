@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Firefox feature made me ditch sticky notes for everyday research](https://www.androidauthority.com/firefox-feature-ditch-sticky-notes-3720865/)
- - [Cities want to put the boot on robotaxis](https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws)
- - [Crime blotter: Man arrested for damage to Macau Apple Store](https://appleinsider.com/articles/26/10/18/crime-blotter-man-arrested-for-damage-to-macau-apple-store?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC&#39;s 3nm process; Samsung agreed, its first use of TSMC &lpar;Kyu-Seok Shim/Reuters&rpar;](https://www.techmeme.com/261018/p9#a261018p9)
+ - [Grab Apple&#39;s 2026 Mac Studio for $2,299, now $200 off](https://appleinsider.com/articles/26/10/18/grab-apples-2026-mac-studio-for-2299-now-200-off?utm_source=rss)
+ - [Video game ownership bill introduced in Congress](https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
