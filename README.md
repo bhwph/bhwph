@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more &lpar;Joanna Stern/The New Things&rpar;](https://www.techmeme.com/261017/p20#a261017p20)
- - [Google says &quot;magic state cultivation&quot; works in practice on its Willow quantum processor, calling it a breakthrough that reduces errors by about 40x &lpar;Google&rpar;](https://www.techmeme.com/261017/p19#a261017p19)
- - [Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a &quot;large scale distillation attack&quot; &lpar;Walter Schulze/Startup Fortune&rpar;](https://www.techmeme.com/261017/p18#a261017p18)<!-- TECH:END -->
+ - [This Firefox feature made me ditch sticky notes for everyday research](https://www.androidauthority.com/firefox-feature-ditch-sticky-notes-3720865/)
+ - [Cities want to put the boot on robotaxis](https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws)
+ - [Crime blotter: Man arrested for damage to Macau Apple Store](https://appleinsider.com/articles/26/10/18/crime-blotter-man-arrested-for-damage-to-macau-apple-store?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
