@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC&#39;s 3nm process; Samsung agreed, its first use of TSMC &lpar;Kyu-Seok Shim/Reuters&rpar;](https://www.techmeme.com/261018/p9#a261018p9)
- - [Grab Apple&#39;s 2026 Mac Studio for $2,299, now $200 off](https://appleinsider.com/articles/26/10/18/grab-apples-2026-mac-studio-for-2299-now-200-off?utm_source=rss)
- - [Video game ownership bill introduced in Congress](https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act)<!-- TECH:END -->
+ - [Analysis: 795 accounts funded by ADI Predictstreet&#39;s own fee-collecting wallet drove 99% of the FIFA-partnered prediction market&#39;s activity since late August &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261018/p15#a261018p15)
+ - [Europe&#39;s three biggest industrial companies are cashing in on the AI boom, as Schneider and Siemens expand further into software, while ABB focuses on equipment &lpar;Aaron Kirchfeld/Financial Times&rpar;](https://www.techmeme.com/261018/p14#a261018p14)
+ - [SF-based home insurer Stand, which uses digital twins of homes to price wildfire risk and insures $10B+ of property, raised a $70M Series C at a $1B valuation &lpar;Nick Lichtenberg/Fortune&rpar;](https://www.techmeme.com/261018/p13#a261018p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
