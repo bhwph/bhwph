@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: 795 accounts funded by ADI Predictstreet&#39;s own fee-collecting wallet drove 99% of the FIFA-partnered prediction market&#39;s activity since late August &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261018/p15#a261018p15)
- - [Europe&#39;s three biggest industrial companies are cashing in on the AI boom, as Schneider and Siemens expand further into software, while ABB focuses on equipment &lpar;Aaron Kirchfeld/Financial Times&rpar;](https://www.techmeme.com/261018/p14#a261018p14)
- - [SF-based home insurer Stand, which uses digital twins of homes to price wildfire risk and insures $10B+ of property, raised a $70M Series C at a $1B valuation &lpar;Nick Lichtenberg/Fortune&rpar;](https://www.techmeme.com/261018/p13#a261018p13)<!-- TECH:END -->
+ - [Pixel 10 Pro XL deal knocks $350 off Google’s big flagship](https://www.androidauthority.com/pixel-10-pro-xl-deal-amazon-3725112/)
+ - [The US DHS orders all federal civilian agencies to remove any DeepSeek tech from their IT systems and prohibits future procurement of its products and services &lpar;Connor Hart/Wall Street Journal&rpar;](https://www.techmeme.com/261019/p28#a261019p28)
+ - [Save $900 on Apple&#39;s M5 Max 16-inch MacBook Pro while supplies last](https://appleinsider.com/articles/26/10/19/save-900-on-apples-m5-max-16-inch-macbook-pro-while-supplies-last?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
