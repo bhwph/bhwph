@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Average hospital experience](http://9gag.com/gag/aQg6djq)
- - 😝 [Average hospital experience](http://9gag.com/gag/aQg6djq)
- - 👉 [Average hospital experience](http://9gag.com/gag/aQg6djq)<!-- MEMES:END -->
+ - 6️⃣ [Poor girl](http://9gag.com/gag/aD7RYYG)
+ - 😝 [Join or leave](http://9gag.com/gag/aD7RD0d)
+ - 👉 [Lol.](http://9gag.com/gag/aGLKp8K)<!-- MEMES:END -->
 
 --- 
 
