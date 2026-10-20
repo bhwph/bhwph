@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Straight Talk is giving its unlimited plans a boost without raising prices](https://www.androidauthority.com/straight-talk-improves-unlimited-plans-3725269/)
- - [Ramp says it applied to the US OCC for a trust bank charter that, if approved, would allow it to offer fiduciary investment management and digital asset custody &lpar;Paige Smith/Bloomberg&rpar;](https://www.techmeme.com/261019/p42#a261019p42)
- - [Sources: Nscale is in talks for a second deal with Anthropic worth ~$45B to deliver 460MW of computing power at its West Virginia campus using Vera Rubin chips &lpar;Bloomberg&rpar;](https://www.techmeme.com/261019/p41#a261019p41)<!-- TECH:END -->
+ - [Today’s NYT Mini Crossword Answers for Tuesday, Oct. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-oct-20/)
+ - [Inception launches Mercury 3, a diffusion-based LLM it claims is &quot;comparable to Luna and Haiku models&quot; but 4x to 8x faster, generating ~1,000 tokens per second &lpar;Jason Hiner/The Deep View&rpar;](https://www.techmeme.com/261019/p51#a261019p51)
+ - [Korean data-center company Elice falls 30%+ in Kosdaq trading debut; sources: Australian data center operator AirTrunk delays real estate investment trust IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/261019/p50#a261019p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
