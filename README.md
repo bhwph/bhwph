@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek open-sources DeepInfer, its internal production stack designed to accelerate inference, optimize chip performance, and reduce energy and compute costs &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/261020/p21#a261020p21)
- - [Using the original Pixel Fold in 2026 shows how much Google got right — and why it still failed](https://www.androidauthority.com/google-pixel-fold-2026-revisit-iphone-duo-era-3725164/)
- - [TextNow’s $150 Moto G Play Is Customized for Kids and Pairs Up With a $20 Monthly Plan](https://www.cnet.com/tech/mobile/textnows-150-moto-g-play-is-customized-for-kids-and-pairs-up-with-a-20-monthly-plan/)<!-- TECH:END -->
+ - [A profile of Xbox CEO Asha Sharma; sources: Xbox plans a major Game Pass overhaul, a next-gen handheld device by late 2027, and next-gen console by late 2028 &lpar;Sebastian Herrera/Fortune&rpar;](https://www.techmeme.com/261020/p39#a261020p39)
+ - [Amazon plans to hire 300K+ US workers for seasonal, part-time, and full-time roles for the upcoming holiday season, up 20% from 2025, paying $20/hour on average &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/261020/p38#a261020p38)
+ - [Samsung goes global with Fold 5 and Flip 5 stable One UI 9 rollout](https://www.androidauthority.com/galaxy-z-fold-5-flip-5-one-ui-9-global-rollout-3725729/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
