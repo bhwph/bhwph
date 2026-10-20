@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today’s NYT Mini Crossword Answers for Tuesday, Oct. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-oct-20/)
- - [Inception launches Mercury 3, a diffusion-based LLM it claims is &quot;comparable to Luna and Haiku models&quot; but 4x to 8x faster, generating ~1,000 tokens per second &lpar;Jason Hiner/The Deep View&rpar;](https://www.techmeme.com/261019/p51#a261019p51)
- - [Korean data-center company Elice falls 30%+ in Kosdaq trading debut; sources: Australian data center operator AirTrunk delays real estate investment trust IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/261019/p50#a261019p50)<!-- TECH:END -->
+ - [DeepSeek open-sources DeepInfer, its internal production stack designed to accelerate inference, optimize chip performance, and reduce energy and compute costs &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/261020/p21#a261020p21)
+ - [Using the original Pixel Fold in 2026 shows how much Google got right — and why it still failed](https://www.androidauthority.com/google-pixel-fold-2026-revisit-iphone-duo-era-3725164/)
+ - [TextNow’s $150 Moto G Play Is Customized for Kids and Pairs Up With a $20 Monthly Plan](https://www.cnet.com/tech/mobile/textnows-150-moto-g-play-is-customized-for-kids-and-pairs-up-with-a-20-monthly-plan/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
