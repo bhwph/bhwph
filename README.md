@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Be honest](http://9gag.com/gag/aO2oedE)
- - 😝 [Oh ok](http://9gag.com/gag/aQg6ggd)
- - 👉 [Rejection..](http://9gag.com/gag/aBZ9dBD)<!-- MEMES:END -->
+ - 😝 [Gyros in Paris](http://9gag.com/gag/aAQB0od)
+ - 👉 [On the clock](http://9gag.com/gag/a9zjqBo)<!-- MEMES:END -->
 
 --- 
 
