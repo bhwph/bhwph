@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Be honest](http://9gag.com/gag/aO2oedE)
- - 😝 [Agreement](http://9gag.com/gag/aQg6QNd)
- - 👉 [Understandable](http://9gag.com/gag/aNLm91A)<!-- MEMES:END -->
+ - 😝 [What happened](http://9gag.com/gag/aXLZNmD)
+ - 👉 [Brigtened our dark world](http://9gag.com/gag/arW1AEK)<!-- MEMES:END -->
 
 --- 
 
