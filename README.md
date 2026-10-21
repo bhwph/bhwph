@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Xbox CEO Asha Sharma; sources: Xbox plans a major Game Pass overhaul, a next-gen handheld device by late 2027, and next-gen console by late 2028 &lpar;Sebastian Herrera/Fortune&rpar;](https://www.techmeme.com/261020/p39#a261020p39)
- - [Amazon plans to hire 300K+ US workers for seasonal, part-time, and full-time roles for the upcoming holiday season, up 20% from 2025, paying $20/hour on average &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/261020/p38#a261020p38)
- - [Samsung goes global with Fold 5 and Flip 5 stable One UI 9 rollout](https://www.androidauthority.com/galaxy-z-fold-5-flip-5-one-ui-9-global-rollout-3725729/)<!-- TECH:END -->
+ - [An interview with Goodfire researcher Nick Cammarata, whose viral blog post claimed LLMs are easier to understand than thought, as other researchers push back &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](https://www.techmeme.com/261020/p58#a261020p58)
+ - [Thiel&#39;s leaked Rome lectures cast EA and AI &quot;safetyism&quot; as Antichrist forerunners, Bill Gates as &quot;Mr. Hyde&quot;, and Eliezer Yudkowsky as &quot;more Luddite than Greta&quot; &lpar;David Gibson/The Verge&rpar;](https://www.techmeme.com/261020/p57#a261020p57)
+ - [Sources: Nvidia is in talks to invest hundreds of millions of dollars in Firmus, which pulled its IPO earlier this month, citing market volatility &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/261020/p56#a261020p56)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
