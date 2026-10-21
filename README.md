@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now play Gran Turismo 3 on Android thanks to this unofficial port](https://www.androidauthority.com/gran-turismo-3-android-port-recompilation-3726051/)
- - [OpenAI expands ChatGPT ads to 26 additional countries, taking the total to 83 countries, and says the platform&#39;s advertiser base is 100K+, up from 20K in August &lpar;Alix Coutures/The Information&rpar;](https://www.techmeme.com/261021/p26#a261021p26)
- - [Nvidia’s latest GPU driver brings a new way to speed up PC games](https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support)<!-- TECH:END -->
+ - [OpenAI, PerturbAI, and Scripps say thousands of GPT-Rosalind agents analyzed data on millions of mouse brain cells in 32 minutes, a job that takes humans months &lpar;OpenAI&rpar;](https://www.techmeme.com/261021/p45#a261021p45)
+ - [More iPhone Duo features surface thanks to eagle-eyed reviewers](https://appleinsider.com/articles/26/10/21/iphone-duo-to-offer-edge-light-smart-take-horizontal-reachability-more?utm_source=rss)
+ - [Walmart is inviting AI agents to shop for you](https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
