@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Goodfire researcher Nick Cammarata, whose viral blog post claimed LLMs are easier to understand than thought, as other researchers push back &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](https://www.techmeme.com/261020/p58#a261020p58)
- - [Thiel&#39;s leaked Rome lectures cast EA and AI &quot;safetyism&quot; as Antichrist forerunners, Bill Gates as &quot;Mr. Hyde&quot;, and Eliezer Yudkowsky as &quot;more Luddite than Greta&quot; &lpar;David Gibson/The Verge&rpar;](https://www.techmeme.com/261020/p57#a261020p57)
- - [Sources: Nvidia is in talks to invest hundreds of millions of dollars in Firmus, which pulled its IPO earlier this month, citing market volatility &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/261020/p56#a261020p56)<!-- TECH:END -->
+ - [You can now play Gran Turismo 3 on Android thanks to this unofficial port](https://www.androidauthority.com/gran-turismo-3-android-port-recompilation-3726051/)
+ - [OpenAI expands ChatGPT ads to 26 additional countries, taking the total to 83 countries, and says the platform&#39;s advertiser base is 100K+, up from 20K in August &lpar;Alix Coutures/The Information&rpar;](https://www.techmeme.com/261021/p26#a261021p26)
+ - [Nvidia’s latest GPU driver brings a new way to speed up PC games](https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
