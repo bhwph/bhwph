@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will label apps that are ‘Made for iPhone Duo’](https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store)
- - [The Atari VCS saga will come to an end next year when its software store closes](https://www.theverge.com/tech/1016481/atari-vcs-console-shutting-down-software-store-2027)
- - [Sources: the Pentagon quietly establishes the Technology Support Office &lpar;TSO&rpar;, an agency to execute covert sabotage, cyberattacks, and supply chain disruptions &lpar;Politico&rpar;](https://www.techmeme.com/261022/p27#a261022p27)<!-- TECH:END -->
+ - [1Password’s new solution mitigates the security risks of AI agent account access](https://www.androidauthority.com/1password-for-agents-launch-3726912/)
+ - [Save $380 on the Arlo Ultra 4K HDR security bundle with solar panels](https://www.androidauthority.com/arlo-ultra-4k-hdr-security-bundle-deal-3726956/)
+ - [Pour one out for Arc: One of the most hyped browsers is shutting down for good](https://www.androidauthority.com/arc-browser-shutting-down-december-2026-3726900/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
