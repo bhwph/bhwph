@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI, PerturbAI, and Scripps say thousands of GPT-Rosalind agents analyzed data on millions of mouse brain cells in 32 minutes, a job that takes humans months &lpar;OpenAI&rpar;](https://www.techmeme.com/261021/p45#a261021p45)
- - [More iPhone Duo features surface thanks to eagle-eyed reviewers](https://appleinsider.com/articles/26/10/21/iphone-duo-to-offer-edge-light-smart-take-horizontal-reachability-more?utm_source=rss)
- - [Walmart is inviting AI agents to shop for you](https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents)<!-- TECH:END -->
+ - [Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched](https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/)
+ - [GM says it plans to debut OnStar AI, an in-car assistant that can execute vehicle functions and run diagnostics via voice commands, in the 2027 Cadillac Lyriq &lpar;Aarian Marshall/Wired&rpar;](https://www.techmeme.com/261021/p59#a261021p59)
+ - [A Privacy Company Just Saved the Clearest Flock Surveillance Map I’ve Seen](https://www.cnet.com/news/privacy/proton-hosts-flock-surveillance-map/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
