@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched](https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/)
- - [GM says it plans to debut OnStar AI, an in-car assistant that can execute vehicle functions and run diagnostics via voice commands, in the 2027 Cadillac Lyriq &lpar;Aarian Marshall/Wired&rpar;](https://www.techmeme.com/261021/p59#a261021p59)
- - [A Privacy Company Just Saved the Clearest Flock Surveillance Map I’ve Seen](https://www.cnet.com/news/privacy/proton-hosts-flock-surveillance-map/)<!-- TECH:END -->
+ - [Apple will label apps that are ‘Made for iPhone Duo’](https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store)
+ - [The Atari VCS saga will come to an end next year when its software store closes](https://www.theverge.com/tech/1016481/atari-vcs-console-shutting-down-software-store-2027)
+ - [Sources: the Pentagon quietly establishes the Technology Support Office &lpar;TSO&rpar;, an agency to execute covert sabotage, cyberattacks, and supply chain disruptions &lpar;Politico&rpar;](https://www.techmeme.com/261022/p27#a261022p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
