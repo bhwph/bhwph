@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What happened](http://9gag.com/gag/aXLZNmD)
- - 😝 [Would You Live On This Planet Part 2 `...it would be so safe &amp; calm`](http://9gag.com/gag/ayqE6Nq)
- - 👉 [Who remembers this story?](http://9gag.com/gag/aXLZV8V)<!-- MEMES:END -->
+ - 6️⃣ [Popcorn time](http://9gag.com/gag/a5VpGqL)
+ - 😝 [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)
+ - 👉 [My cat crossed the rainbow bridge](http://9gag.com/gag/aZnqQ0W)<!-- MEMES:END -->
 
 --- 
 
