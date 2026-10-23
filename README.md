@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Someone put Apple CarPlay on an Amazon Echo Show running Android, and it actually works](https://www.androidauthority.com/amazon-echo-show-5-apple-carplay-lineageos-3727158/)
- - [SpaceX is getting more serious about becoming the fourth carrier the US needs](https://www.androidauthority.com/spacex-starlink-mobile-more-serious-att-t-mobile-verizon-3727170/)
- - [Brick’s new app blocker is designed for bedtime doomscrolling](https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch)<!-- TECH:END -->
+ - [Amazon slashes the $400 Lenovo Tab Plus Gen 2 to just $270](https://www.androidauthority.com/lenovo-tab-plus-gen-2-deal-3727500/)
+ - [Moonshot says it removed cyber-related data from training phases for Kimi K3.1 Pro &quot;to reduce potential misuse risk while preserving general usefulness&quot; &lpar;Matthias Bastian/The Decoder&rpar;](https://www.techmeme.com/261023/p19#a261023p19)
+ - [Artificial Analysis says Kimi K3.1 Pro lands 4th on its Intelligence Index, behind only Opus 5.5 &lpar;max&rpar;, Sonnet 5.5 &lpar;max&rpar;, and Muse Wonder Full &lpar;max&rpar; &lpar;@artificialanlys&rpar;](https://www.techmeme.com/261023/p18#a261023p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
