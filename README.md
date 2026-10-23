@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)
- - 😝 [The Transporter](http://9gag.com/gag/aGLKMVw)
- - 👉 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
+ - 6️⃣ [Happy Halloweenie!](https://www.reddit.com/r/funny/comments/1xddbg3/happy_halloweenie/)
+ - 😝 [Dad and Son Biking Time](https://www.reddit.com/r/funny/comments/1xdd9bw/dad_and_son_biking_time/)
+ - 👉 [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)<!-- MEMES:END -->
 
 --- 
 
