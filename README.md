@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI suspected the three fired researchers of leaking internal model designs to AI safety researcher Ryan Greenblatt, including via disappearing Signal chats &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261022/p61#a261022p61)
- - [Spotify confirms it is rolling out a new family plan verification method requiring members to scan QR codes on plan managers&#39; phones within seven days of notice &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261022/p60#a261022p60)
- - [US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other &quot;countries of concern&quot; &lpar;Associated Press&rpar;](https://www.techmeme.com/261022/p59#a261022p59)<!-- TECH:END -->
+ - [Someone put Apple CarPlay on an Amazon Echo Show running Android, and it actually works](https://www.androidauthority.com/amazon-echo-show-5-apple-carplay-lineageos-3727158/)
+ - [SpaceX is getting more serious about becoming the fourth carrier the US needs](https://www.androidauthority.com/spacex-starlink-mobile-more-serious-att-t-mobile-verizon-3727170/)
+ - [Brick’s new app blocker is designed for bedtime doomscrolling](https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
