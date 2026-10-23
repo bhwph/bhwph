@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [1Password’s new solution mitigates the security risks of AI agent account access](https://www.androidauthority.com/1password-for-agents-launch-3726912/)
- - [Save $380 on the Arlo Ultra 4K HDR security bundle with solar panels](https://www.androidauthority.com/arlo-ultra-4k-hdr-security-bundle-deal-3726956/)
- - [Pour one out for Arc: One of the most hyped browsers is shutting down for good](https://www.androidauthority.com/arc-browser-shutting-down-december-2026-3726900/)<!-- TECH:END -->
+ - [OpenAI suspected the three fired researchers of leaking internal model designs to AI safety researcher Ryan Greenblatt, including via disappearing Signal chats &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261022/p61#a261022p61)
+ - [Spotify confirms it is rolling out a new family plan verification method requiring members to scan QR codes on plan managers&#39; phones within seven days of notice &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261022/p60#a261022p60)
+ - [US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other &quot;countries of concern&quot; &lpar;Associated Press&rpar;](https://www.techmeme.com/261022/p59#a261022p59)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
