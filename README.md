@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Happy Halloweenie!](https://www.reddit.com/r/funny/comments/1xddbg3/happy_halloweenie/)
- - 😝 [Dad and Son Biking Time](https://www.reddit.com/r/funny/comments/1xdd9bw/dad_and_son_biking_time/)
- - 👉 [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)<!-- MEMES:END -->
+ - 6️⃣ [Europeans be looking at this and think: this is some serious gourmet sht](http://9gag.com/gag/a5Vpz0G)
+ - 😝 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
+ - 👉 [How would you shoot this scene](http://9gag.com/gag/avW2xXZ)<!-- MEMES:END -->
 
 --- 
 
