@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Who would make the worst god?](http://9gag.com/gag/aD7RbVw)
- - 😝 [Just being honest](http://9gag.com/gag/aj7QZmp)
- - 👉 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
+ - 6️⃣ [Not allowed.](http://9gag.com/gag/a2ME2PO)
+ - 😝 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
+ - 👉 [A wedding from parallel universe](http://9gag.com/gag/az57GYq)<!-- MEMES:END -->
 
 --- 
 
