@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Not allowed.](http://9gag.com/gag/a2ME2PO)
+ - 6️⃣ [Is it?](http://9gag.com/gag/anOeDMq)
  - 😝 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - 👉 [A wedding from parallel universe](http://9gag.com/gag/az57GYq)<!-- MEMES:END -->
+ - 👉 [Accountability??](http://9gag.com/gag/a6DrpyR)<!-- MEMES:END -->
 
 --- 
 
