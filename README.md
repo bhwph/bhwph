@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I spent two weeks using Googlebooks, and I have 5 big concerns](https://www.androidauthority.com/acer-googlebook-weeks-later-3724787/)
- - [The PHP Meltdown Shows How AI Makes Bugs More Exploitable](https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/)
- - [Laika has spent 20 years building up to Wildwood](https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika)<!-- TECH:END -->
+ - [A look at Alpha School, a network of private schools that claims to teach kids 2x as fast using AI; data shows ~50% of K-8 students missed this goal in math &lpar;Dana Goldstein/New York Times&rpar;](https://www.techmeme.com/261024/p7#a261024p7)
+ - [YouTube streams may look better and buffer less as soon as early 2027](https://www.androidauthority.com/youtube-av2-rollout-update-3727638/)
+ - [Amazon drops 1TB M5 MacBook Air to $1,399, save $200](https://appleinsider.com/articles/26/10/24/amazon-drops-1tb-m5-macbook-air-to-1399-save-200?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
