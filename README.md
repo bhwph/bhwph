@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind &lpar;Liv McMahon/BBC&rpar;](https://www.techmeme.com/261023/p26#a261023p26)
- - [OpenAI says it built an &quot;offline world&quot; from cached web content to train isolated frontier models to browse, search for information, and use web apps &lpar;OpenAI&rpar;](https://www.techmeme.com/261023/p25#a261023p25)
- - [Call of Duty Modern Warfare 4 Review: A Dolphin Dive in the Right Direction](https://www.cnet.com/tech/gaming/call-of-duty-modern-warfare-4-review/)<!-- TECH:END -->
+ - [I spent two weeks using Googlebooks, and I have 5 big concerns](https://www.androidauthority.com/acer-googlebook-weeks-later-3724787/)
+ - [The PHP Meltdown Shows How AI Makes Bugs More Exploitable](https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/)
+ - [Laika has spent 20 years building up to Wildwood](https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
