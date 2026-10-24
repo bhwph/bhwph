@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes the $400 Lenovo Tab Plus Gen 2 to just $270](https://www.androidauthority.com/lenovo-tab-plus-gen-2-deal-3727500/)
- - [Moonshot says it removed cyber-related data from training phases for Kimi K3.1 Pro &quot;to reduce potential misuse risk while preserving general usefulness&quot; &lpar;Matthias Bastian/The Decoder&rpar;](https://www.techmeme.com/261023/p19#a261023p19)
- - [Artificial Analysis says Kimi K3.1 Pro lands 4th on its Intelligence Index, behind only Opus 5.5 &lpar;max&rpar;, Sonnet 5.5 &lpar;max&rpar;, and Muse Wonder Full &lpar;max&rpar; &lpar;@artificialanlys&rpar;](https://www.techmeme.com/261023/p18#a261023p18)<!-- TECH:END -->
+ - [The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind &lpar;Liv McMahon/BBC&rpar;](https://www.techmeme.com/261023/p26#a261023p26)
+ - [OpenAI says it built an &quot;offline world&quot; from cached web content to train isolated frontier models to browse, search for information, and use web apps &lpar;OpenAI&rpar;](https://www.techmeme.com/261023/p25#a261023p25)
+ - [Call of Duty Modern Warfare 4 Review: A Dolphin Dive in the Right Direction](https://www.cnet.com/tech/gaming/call-of-duty-modern-warfare-4-review/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
