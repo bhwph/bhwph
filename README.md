@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallhack M-001 Review: When Fun Overrides Specs](https://www.wired.com/review/wallhack-m-001/)
- - [5 wearables you should buy instead of the Fitbit Edge](https://www.androidauthority.com/fitbit-edge-alternatives-3725640/)
- - [Scientists Trapped an Antimatter Particle for Months to Study Its Secrets](https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/)<!-- TECH:END -->
+ - [The iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions &lpar;Tom Matsuda/Financial Times&rpar;](https://www.techmeme.com/261025/p9#a261025p9)
+ - [This Switch 2 sequel accessory was a few millimeters away from being good](https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on)
+ - [Now you can watch Instagram Reels on your Apple TV](https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
