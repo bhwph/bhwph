@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Alpha School, a network of private schools that claims to teach kids 2x as fast using AI; data shows ~50% of K-8 students missed this goal in math &lpar;Dana Goldstein/New York Times&rpar;](https://www.techmeme.com/261024/p7#a261024p7)
- - [YouTube streams may look better and buffer less as soon as early 2027](https://www.androidauthority.com/youtube-av2-rollout-update-3727638/)
- - [Amazon drops 1TB M5 MacBook Air to $1,399, save $200](https://appleinsider.com/articles/26/10/24/amazon-drops-1tb-m5-macbook-air-to-1399-save-200?utm_source=rss)<!-- TECH:END -->
+ - [A look at Meta&#39;s role in Brazil&#39;s runoff, where Lula da Silva alleges Meta restricts his content and a court ordered it not to interfere; Meta cites glitches &lpar;Augusta Saraiva/Bloomberg&rpar;](https://www.techmeme.com/261024/p10#a261024p10)
+ - [Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens &lpar;Torsten Slok/Apollo Global Management&rpar;](https://www.techmeme.com/261024/p9#a261024p9)
+ - [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
