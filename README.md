@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Is it?](http://9gag.com/gag/anOeDMq)
- - 😝 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - 👉 [Accountability??](http://9gag.com/gag/a6DrpyR)<!-- MEMES:END -->
+ - 😝 [`So you have chosen death`](http://9gag.com/gag/aMdeXyX)
+ - 👉 [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)<!-- MEMES:END -->
 
 --- 
 
