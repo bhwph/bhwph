@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions &lpar;Tom Matsuda/Financial Times&rpar;](https://www.techmeme.com/261025/p9#a261025p9)
- - [This Switch 2 sequel accessory was a few millimeters away from being good](https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on)
- - [Now you can watch Instagram Reels on your Apple TV](https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv)<!-- TECH:END -->
+ - [Sources detail how Ramp investors Joe Lonsdale and Keith Rabois pushed US lawmakers to probe rival Airwallex&#39;s China ties after Airwallex scrapped a Ramp deal &lpar;Michael Roddan/The Information&rpar;](https://www.techmeme.com/261025/p14#a261025p14)
+ - [After day-one screen failures, the iPhone Duo is facing more durability questions](https://www.androidauthority.com/iphone-duo-durability-3727717/)
+ - [iPhone Duo teardown: 5/10 repairability, a foldable record, but some screens crack along the fold, possibly because a hinge support bar fails to drop far enough &lpar;Elizabeth Chamberlain/iFixit News&rpar;](https://www.techmeme.com/261025/p13#a261025p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
