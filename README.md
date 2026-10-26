@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Remarkable’s refurbished Paper Pro Move bundle is over $100 off](https://www.theverge.com/gadgets/1018528/remarkable-paper-pro-move-nintendo-switch-2-fujifilm-deal-sale)
- - [As iPhone Duo Cracked Screen Reports Surface, a New Teardown Shows a Possible Culprit](https://www.cnet.com/tech/mobile/iphone-duo-ifixit-teardown-cracked-screens-culprit/)
- - [Is Steam down for you? You’re not alone](https://www.androidauthority.com/steam-outage-oct-2026-3728033/)<!-- TECH:END -->
+ - [Microsoft’s Massive Employee Buyout Shows How AI Is Reshaping the Economy](https://www.cnet.com/tech/services-and-software/microsofts-employee-buyout-ai-reshaping-economy/)
+ - [Best Dyson Vacuum Deals for Dyson Week 2026](https://www.wired.com/story/best-dyson-week-vacuum-deal-oct-2026/)
+ - [Anthropic&#39;s IPO outlines an unusual succession plan: confidential, ranked lists of up to ten successors per founder, subject to approval from five cofounders &lpar;Anna Tong/Forbes&rpar;](https://www.techmeme.com/261026/p45#a261026p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
