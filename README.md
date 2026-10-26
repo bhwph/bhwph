@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Hell of a song](http://9gag.com/gag/aMdeq2R)
- - 😝 [No thx](http://9gag.com/gag/aVgjV2P)
- - 👉 [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)<!-- MEMES:END -->
+ - 6️⃣ [Is it?](http://9gag.com/gag/anOeDMq)
+ - 😝 [Title](http://9gag.com/gag/a8AdwyO)
+ - 👉 [Title](http://9gag.com/gag/aQg6Owd)<!-- MEMES:END -->
 
 --- 
 
