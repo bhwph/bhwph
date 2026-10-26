@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)
- - 😝 [Yes its happening everywhere around the world , yes its the same issue and crack](http://9gag.com/gag/axWEY0p)
+ - 6️⃣ [Hell of a song](http://9gag.com/gag/aMdeq2R)
+ - 😝 [No thx](http://9gag.com/gag/aVgjV2P)
  - 👉 [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)<!-- MEMES:END -->
 
 --- 
