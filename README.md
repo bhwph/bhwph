@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Is it?](http://9gag.com/gag/anOeDMq)
- - 😝 [Title](http://9gag.com/gag/a8AdwyO)
- - 👉 [Title](http://9gag.com/gag/aQg6Owd)<!-- MEMES:END -->
+ - 6️⃣ [Yes its happening everywhere around the world , yes its the same issue and crack](http://9gag.com/gag/axWEY0p)
+ - 😝 [This is wild](http://9gag.com/gag/agQrKw1)
+ - 👉 [Yes its happening everywhere around the world , yes its the same issue and crack](http://9gag.com/gag/axWEY0p)<!-- MEMES:END -->
 
 --- 
 
