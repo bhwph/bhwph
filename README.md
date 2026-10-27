@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iMac keeps old design but adds M6 processor](https://appleinsider.com/articles/26/10/27/new-imac-keeps-old-design-but-adds-m6-processor-and-new-colors?utm_source=rss)
- - [Slight 14-inch MacBook Pro refresh adds M6 AI power, Wi-Fi 7](https://appleinsider.com/articles/26/10/27/slight-14-inch-macbook-pro-refresh-adds-m6-ai-power-wi-fi-7?utm_source=rss)
- - [Dallas-based Disruptive raised $10B to invest in AI, defense, and software, doubling its AUM, and pivots from single-deal SPVs to a discretionary fund structure &lpar;Natasha Mascarenhas/Bloomberg&rpar;](https://www.techmeme.com/261027/p19#a261027p19)<!-- TECH:END -->
+ - [Sources: Meta&#39;s $25B share sale was oversubscribed 5x as it seeks $98B for AI spending; the 15 largest investors in the sale accounted for ~70% of shares &lpar;Anthony Hughes/Bloomberg&rpar;](https://www.techmeme.com/261027/p28#a261027p28)
+ - [Apple Creator Studio Brings MotionVFX and AI Assistants to Subscribers](https://www.cnet.com/tech/services-and-software/apple-creator-studio-ai-update-october-2026-news/)
+ - [Anthropic Says It Will Revolutionize Biology—Some Day](https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
