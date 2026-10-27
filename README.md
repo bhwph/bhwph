@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Massive Employee Buyout Shows How AI Is Reshaping the Economy](https://www.cnet.com/tech/services-and-software/microsofts-employee-buyout-ai-reshaping-economy/)
- - [Best Dyson Vacuum Deals for Dyson Week 2026](https://www.wired.com/story/best-dyson-week-vacuum-deal-oct-2026/)
- - [Anthropic&#39;s IPO outlines an unusual succession plan: confidential, ranked lists of up to ten successors per founder, subject to approval from five cofounders &lpar;Anna Tong/Forbes&rpar;](https://www.techmeme.com/261026/p45#a261026p45)<!-- TECH:END -->
+ - [JAY-Z steps onto the Super Bowl stage after years behind the show](https://appleinsider.com/articles/26/10/27/jay-z-steps-onto-the-super-bowl-stage-after-years-behind-the-show?utm_source=rss)
+ - [China&#39;s Star 50 index of AI and chip leaders is down by 40% in under four months, losing ~$480B in market value; chipmaker CXMT is down ~25% in the past month &lpar;Reuters&rpar;](https://www.techmeme.com/261026/p51#a261026p51)
+ - [Ahead of US midterms, ChatGPT draws images &quot;depicting election interference or that may discourage voting&quot; in a cartoon style, ignoring photorealism requests &lpar;Katelyn Chedraoui/CNET&rpar;](https://www.techmeme.com/261026/p50#a261026p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
