@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S25 Ultra hits all-time low with $500 off](https://www.androidauthority.com/deal-samsung-galaxy-s25-ultra-3729202/)
- - [Foundry, a manufacturing-as-a-service startup that builds factories with robots powered by physical AI models, raised a $100M Series A led by Marlinspike &lpar;Rocket Drew/The Information&rpar;](https://www.techmeme.com/261028/p32#a261028p32)
- - [Size matters: South Korea spared iPad mini image&#39;s potentially offensive gesture](https://appleinsider.com/articles/26/10/28/size-matters-south-korea-spared-ipad-mini-images-potentially-offensive-gesture?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft reports Q1 capex of $45.2B, up from $34.9B a year earlier and below its own $50B projection, and free cash flow of $18.6B, vs. $8.54B est. by analysts &lpar;Deborah Sophia/Reuters&rpar;](https://www.techmeme.com/261028/p51#a261028p51)
+ - [Alphabet reports Q3 YouTube ad revenue up 9% YoY to $11.2B, below estimates, and Google ad revenue hit $82.01B, up from $74.18B in Q3 2025 &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/261028/p50#a261028p50)
+ - [Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw](https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
