@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Too Dangerous](http://9gag.com/gag/aGLK60z)
- - 😝 [Gennadiy Gennadyevich Golovkin vs The Iiver King](http://9gag.com/gag/aGLKNVz)
- - 👉 [This is wild](http://9gag.com/gag/agQrKw1)<!-- MEMES:END -->
+ - 6️⃣ [Gennadiy Gennadyevich Golovkin vs The Iiver King](http://9gag.com/gag/aGLKNVz)
+ - 😝 [Don&#39;t look back. Or take responsibility](http://9gag.com/gag/aRL6Dqq)
+ - 👉 [Its near Halloween guys](http://9gag.com/gag/a4npmKy)<!-- MEMES:END -->
 
 --- 
 
