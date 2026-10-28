@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta&#39;s $25B share sale was oversubscribed 5x as it seeks $98B for AI spending; the 15 largest investors in the sale accounted for ~70% of shares &lpar;Anthony Hughes/Bloomberg&rpar;](https://www.techmeme.com/261027/p28#a261027p28)
- - [Apple Creator Studio Brings MotionVFX and AI Assistants to Subscribers](https://www.cnet.com/tech/services-and-software/apple-creator-studio-ai-update-october-2026-news/)
- - [Anthropic Says It Will Revolutionize Biology—Some Day](https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/)<!-- TECH:END -->
+ - [Sources: chipmaker Onsemi is in talks to acquire 16-year-old chip startup Ferric for ~$1B; PitchBook: Ferric last raised a $32.1M Series C in December 2024 &lpar;Valida Pau/The Information&rpar;](https://www.techmeme.com/261027/p44#a261027p44)
+ - [Letter: two Democratic senators allege the Trump administration withheld a secret FISC ruling on search filters that let analysts access Americans&#39; messages &lpar;Dell Cameron/Wired&rpar;](https://www.techmeme.com/261027/p43#a261027p43)
+ - [SK Hynix plans to return $22B+ in dividends and ~$15B in buybacks to shareholders, on top of its ~$30B buyback program completed in August &lpar;Kwanwoo Jun/Wall Street Journal&rpar;](https://www.techmeme.com/261027/p42#a261027p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
