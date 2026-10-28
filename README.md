@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: chipmaker Onsemi is in talks to acquire 16-year-old chip startup Ferric for ~$1B; PitchBook: Ferric last raised a $32.1M Series C in December 2024 &lpar;Valida Pau/The Information&rpar;](https://www.techmeme.com/261027/p44#a261027p44)
- - [Letter: two Democratic senators allege the Trump administration withheld a secret FISC ruling on search filters that let analysts access Americans&#39; messages &lpar;Dell Cameron/Wired&rpar;](https://www.techmeme.com/261027/p43#a261027p43)
- - [SK Hynix plans to return $22B+ in dividends and ~$15B in buybacks to shareholders, on top of its ~$30B buyback program completed in August &lpar;Kwanwoo Jun/Wall Street Journal&rpar;](https://www.techmeme.com/261027/p42#a261027p42)<!-- TECH:END -->
+ - [Samsung Galaxy S25 Ultra hits all-time low with $500 off](https://www.androidauthority.com/deal-samsung-galaxy-s25-ultra-3729202/)
+ - [Foundry, a manufacturing-as-a-service startup that builds factories with robots powered by physical AI models, raised a $100M Series A led by Marlinspike &lpar;Rocket Drew/The Information&rpar;](https://www.techmeme.com/261028/p32#a261028p32)
+ - [Size matters: South Korea spared iPad mini image&#39;s potentially offensive gesture](https://appleinsider.com/articles/26/10/28/size-matters-south-korea-spared-ipad-mini-images-potentially-offensive-gesture?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
