@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S26 Ultra 512GB plunges by $472 in one of its best deals ever](https://www.androidauthority.com/deal-samsung-galaxy-s26-ultra-512gb-3729642/)
- - [Thrive Holdings agrees to acquire ADT in an all-cash take-private deal, valuing ADT at ~$7.6B in equity value, a ~46% premium over its October 27 closing price &lpar;Claire Rychlewski/Axios&rpar;](https://www.techmeme.com/261029/p31#a261029p31)
- - [The NYT Cooking app is testing AI recipe modifications](https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool)<!-- TECH:END -->
+ - [Symbotic says Walmart has committed an additional $6B over several years to deploy Symbotic&#39;s supply-chain automation technology across its distribution network &lpar;Sanskriti Shekhar/Reuters&rpar;](https://www.techmeme.com/261029/p52#a261029p52)
+ - [Reddit reports Q3 revenue up 53% YoY to $895M, vs. $878M est., DAUq up 12% to 130.3M, below est., forecasts Q4 revenue below est.; RDDT drops 9%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/261029/p51#a261029p51)
+ - [Amazon spent $77B+ on property and equipment in Q3, leading to a free cash outflow of $42.4B; Amazon said in July that it would likely spend $220B in 2026 capex &lpar;Matt Day/Bloomberg&rpar;](https://www.techmeme.com/261029/p50#a261029p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
