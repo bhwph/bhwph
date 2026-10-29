@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky Is Blocking Links to a Major Leak of DHS Employee Records](https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/)
- - [Samsung reports Q3 revenue up 127% YoY to a record ~$146.3B and a record operating profit up 783% to ~$80.5B, both roughly in line with estimates &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/261028/p64#a261028p64)
- - [Google is rolling out Gemini 4 Carbon to selected cybersecurity defenders through Fairwind at $2/1M input and $10/1M output tokens, rising to $4 and $20 later &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/261028/p63#a261028p63)<!-- TECH:END -->
+ - [Samsung Galaxy S26 Ultra 512GB plunges by $472 in one of its best deals ever](https://www.androidauthority.com/deal-samsung-galaxy-s26-ultra-512gb-3729642/)
+ - [Thrive Holdings agrees to acquire ADT in an all-cash take-private deal, valuing ADT at ~$7.6B in equity value, a ~46% premium over its October 27 closing price &lpar;Claire Rychlewski/Axios&rpar;](https://www.techmeme.com/261029/p31#a261029p31)
+ - [The NYT Cooking app is testing AI recipe modifications](https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
