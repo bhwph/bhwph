@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [How many times are you pressing?](http://9gag.com/gag/aMdeDoX)
- - 😝 [Don&#39;t look back. Or take responsibility](http://9gag.com/gag/aRL6Dqq)
- - 👉 [You get one for FREE. Which one are you taking?](http://9gag.com/gag/aAQBqmd)<!-- MEMES:END -->
+ - 6️⃣ [And how do you deal with cops my fellow 9gagster](http://9gag.com/gag/aNLmGjb)
+ - 😝 [Too Dangerous](http://9gag.com/gag/aGLK60z)
+ - 👉 [Why not become naturally old](http://9gag.com/gag/aNLmGA3)<!-- MEMES:END -->
 
 --- 
 
