@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Gennadiy Gennadyevich Golovkin vs The Iiver King](http://9gag.com/gag/aGLKNVz)
+ - 6️⃣ [How many times are you pressing?](http://9gag.com/gag/aMdeDoX)
  - 😝 [Don&#39;t look back. Or take responsibility](http://9gag.com/gag/aRL6Dqq)
- - 👉 [Its near Halloween guys](http://9gag.com/gag/a4npmKy)<!-- MEMES:END -->
+ - 👉 [You get one for FREE. Which one are you taking?](http://9gag.com/gag/aAQBqmd)<!-- MEMES:END -->
 
 --- 
 
