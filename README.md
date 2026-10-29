@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft reports Q1 capex of $45.2B, up from $34.9B a year earlier and below its own $50B projection, and free cash flow of $18.6B, vs. $8.54B est. by analysts &lpar;Deborah Sophia/Reuters&rpar;](https://www.techmeme.com/261028/p51#a261028p51)
- - [Alphabet reports Q3 YouTube ad revenue up 9% YoY to $11.2B, below estimates, and Google ad revenue hit $82.01B, up from $74.18B in Q3 2025 &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/261028/p50#a261028p50)
- - [Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw](https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/)<!-- TECH:END -->
+ - [Bluesky Is Blocking Links to a Major Leak of DHS Employee Records](https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/)
+ - [Samsung reports Q3 revenue up 127% YoY to a record ~$146.3B and a record operating profit up 783% to ~$80.5B, both roughly in line with estimates &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/261028/p64#a261028p64)
+ - [Google is rolling out Gemini 4 Carbon to selected cybersecurity defenders through Fairwind at $2/1M input and $10/1M output tokens, rising to $4 and $20 later &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/261028/p63#a261028p63)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
