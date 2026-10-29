@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [And how do you deal with cops my fellow 9gagster](http://9gag.com/gag/aNLmGjb)
- - 😝 [Too Dangerous](http://9gag.com/gag/aGLK60z)
- - 👉 [Why not become naturally old](http://9gag.com/gag/aNLmGA3)<!-- MEMES:END -->
+ - 6️⃣ [Doll](http://9gag.com/gag/axWEeYK)
+ - 😝 [Is this one of the reasons, why women like horses?](http://9gag.com/gag/anOe0vn)
+ - 👉 [Athletic and fit](http://9gag.com/gag/avW2B5M)<!-- MEMES:END -->
 
 --- 
 
