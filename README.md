@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit is coming for logged-out browsing, and users aren’t having it](https://www.androidauthority.com/reddit-logged-out-browsing-restrictions-3729803/)
- - [Sources: DeepSeek doubled its latest round&#39;s size due to surging black market Nvidia Blackwell chip prices, with Chinese state-owned investors representing 27% &lpar;The Information&rpar;](https://www.techmeme.com/261029/p71#a261029p71)
- - [S-1: Anthropic says it heavily depends on TSMC chips made in Taiwan and warns of risks from &quot;potential disruption&quot; amid geopolitical tensions with China &lpar;Joseph C. Sternberg/Wall Street Journal&rpar;](https://www.techmeme.com/261029/p70#a261029p70)<!-- TECH:END -->
+ - [Amazon&#39;s AirTag 2 deal drops the 4-pack to record-low $69.99](https://appleinsider.com/articles/26/10/30/amazons-airtag-2-deal-drops-the-4-pack-to-record-low-6999?utm_source=rss)
+ - [Binance says it has reserved $6.34B+ in company funds, including $5B already held in impacted token assets, to deal with the fallout from the $6.3B hack &lpar;Rajveer Singh Pardesi/Reuters&rpar;](https://www.techmeme.com/261030/p14#a261030p14)
+ - [This electric screwdriver uses a camera and AI to figure out what bit you need](https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
