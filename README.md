@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Symbotic says Walmart has committed an additional $6B over several years to deploy Symbotic&#39;s supply-chain automation technology across its distribution network &lpar;Sanskriti Shekhar/Reuters&rpar;](https://www.techmeme.com/261029/p52#a261029p52)
- - [Reddit reports Q3 revenue up 53% YoY to $895M, vs. $878M est., DAUq up 12% to 130.3M, below est., forecasts Q4 revenue below est.; RDDT drops 9%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/261029/p51#a261029p51)
- - [Amazon spent $77B+ on property and equipment in Q3, leading to a free cash outflow of $42.4B; Amazon said in July that it would likely spend $220B in 2026 capex &lpar;Matt Day/Bloomberg&rpar;](https://www.techmeme.com/261029/p50#a261029p50)<!-- TECH:END -->
+ - [Reddit is coming for logged-out browsing, and users aren’t having it](https://www.androidauthority.com/reddit-logged-out-browsing-restrictions-3729803/)
+ - [Sources: DeepSeek doubled its latest round&#39;s size due to surging black market Nvidia Blackwell chip prices, with Chinese state-owned investors representing 27% &lpar;The Information&rpar;](https://www.techmeme.com/261029/p71#a261029p71)
+ - [S-1: Anthropic says it heavily depends on TSMC chips made in Taiwan and warns of risks from &quot;potential disruption&quot; amid geopolitical tensions with China &lpar;Joseph C. Sternberg/Wall Street Journal&rpar;](https://www.techmeme.com/261029/p70#a261029p70)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
