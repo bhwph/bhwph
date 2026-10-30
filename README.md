@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [At Last](http://9gag.com/gag/a78vmyA)
- - 😝 [Waking up next morning aside an alien](http://9gag.com/gag/aqR4VW7)
- - 👉 [Too Dangerous](http://9gag.com/gag/aGLK60z)<!-- MEMES:END -->
+ - 6️⃣ [Superman could change the colour of her eyes by just looking at her](http://9gag.com/gag/awgNDZR)
+ - 😝 [Athletic and fit](http://9gag.com/gag/avW2B5M)
+ - 👉 [\u00cbwww](http://9gag.com/gag/aVgj8Ed)<!-- MEMES:END -->
 
 --- 
 
