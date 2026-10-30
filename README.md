@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Doll](http://9gag.com/gag/axWEeYK)
- - 😝 [Is this one of the reasons, why women like horses?](http://9gag.com/gag/anOe0vn)
- - 👉 [Athletic and fit](http://9gag.com/gag/avW2B5M)<!-- MEMES:END -->
+ - 6️⃣ [At Last](http://9gag.com/gag/a78vmyA)
+ - 😝 [Waking up next morning aside an alien](http://9gag.com/gag/aqR4VW7)
+ - 👉 [Too Dangerous](http://9gag.com/gag/aGLK60z)<!-- MEMES:END -->
 
 --- 
 
