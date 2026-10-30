@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s AirTag 2 deal drops the 4-pack to record-low $69.99](https://appleinsider.com/articles/26/10/30/amazons-airtag-2-deal-drops-the-4-pack-to-record-low-6999?utm_source=rss)
- - [Binance says it has reserved $6.34B+ in company funds, including $5B already held in impacted token assets, to deal with the fallout from the $6.3B hack &lpar;Rajveer Singh Pardesi/Reuters&rpar;](https://www.techmeme.com/261030/p14#a261030p14)
- - [This electric screwdriver uses a camera and AI to figure out what bit you need](https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter)<!-- TECH:END -->
+ - [What Are Open-Weight AI Models?](https://www.cnet.com/tech/services-and-software/what-are-open-weight-ai-models/)
+ - [iPhone demand sees Apple topple Nvidia as most valuable company, again](https://appleinsider.com/articles/26/10/30/iphone-demand-sees-apple-topple-nvidia-as-most-valuable-company-again?utm_source=rss)
+ - [Alphabet, Meta, Microsoft, Amazon, and Oracle have a collective $3T+ in AI spending commitments over the coming years, including Alphabet&#39;s $1T and Meta&#39;s $800B &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/261030/p22#a261030p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
