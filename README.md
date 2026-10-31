@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI has secured ~$11B in commitments for its latest funding round, less than half its initial $30B target, and expects to raise more in coming weeks &lpar;Berber Jin/Wall Street Journal&rpar;](https://www.techmeme.com/261030/p31#a261030p31)
- - [Sources: OpenAI now seeks ~$20B at a $1.25T valuation for its latest round, from $30B at a $1.4T valuation, as some investors cut commitments amid an AI selloff &lpar;Financial Times&rpar;](https://www.techmeme.com/261030/p30#a261030p30)
- - [Sources: Baseten is raising ~$2B in two tranches, one valuing it at $26B and the other at $30B; Baseten was valued at $13B in June after raising $1.5B &lpar;Bloomberg&rpar;](https://www.techmeme.com/261030/p29#a261030p29)<!-- TECH:END -->
+ - [How AI detectors like Pangram are changing human writing: authors drop em dashes, &quot;not X, but Y&quot; phrasing, and words like &quot;delve&quot;, or add typos, to look human &lpar;Morgan Meaker/Bloomberg&rpar;](https://www.techmeme.com/261031/p8#a261031p8)
+ - [Two years later, Apple Intelligence makes its way to China](https://appleinsider.com/articles/26/10/31/two-years-later-apple-intelligence-makes-its-way-to-china?utm_source=rss)
+ - [Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims](https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
