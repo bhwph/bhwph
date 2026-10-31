@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [At Last](http://9gag.com/gag/a78vmyA)
- - 😝 [Just opened my external HDD and found this inside](http://9gag.com/gag/a6DrgP8)
+ - 6️⃣ [WINGARDIUM LEVIOOOOUSA](http://9gag.com/gag/a3Gvg8e)
+ - 😝 [Only one GTA can survive. Which one?](http://9gag.com/gag/a3GvDR7)
  - 👉 [Athletic and fit](http://9gag.com/gag/avW2B5M)<!-- MEMES:END -->
 
 --- 
