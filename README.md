@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Cool new shoes](https://www.reddit.com/r/funny/comments/1xkb642/cool_new_shoes/)
- - 😝 [I&#39;ve been &lpar;e&rpar;motion captured](http://9gag.com/gag/aEMd40p)
- - 👉 [Guess who\u2019s still around](http://9gag.com/gag/aLL6o3x)<!-- MEMES:END -->
+ - 6️⃣ [I\u2019ll take number 2 thank you](http://9gag.com/gag/advyzrQ)
+ - 😝 [Cardi&#39;s sign interpreter.](http://9gag.com/gag/aQg6jEe)
+ - 👉 [I&#39;ve been &lpar;e&rpar;motion captured](http://9gag.com/gag/aEMd40p)<!-- MEMES:END -->
 
 --- 
 
