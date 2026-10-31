@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [WINGARDIUM LEVIOOOOUSA](http://9gag.com/gag/a3Gvg8e)
- - 😝 [Only one GTA can survive. Which one?](http://9gag.com/gag/a3GvDR7)
- - 👉 [Athletic and fit](http://9gag.com/gag/avW2B5M)<!-- MEMES:END -->
+ - 6️⃣ [Cool new shoes](https://www.reddit.com/r/funny/comments/1xkb642/cool_new_shoes/)
+ - 😝 [I&#39;ve been &lpar;e&rpar;motion captured](http://9gag.com/gag/aEMd40p)
+ - 👉 [Guess who\u2019s still around](http://9gag.com/gag/aLL6o3x)<!-- MEMES:END -->
 
 --- 
 
