@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI detectors like Pangram are changing human writing: authors drop em dashes, &quot;not X, but Y&quot; phrasing, and words like &quot;delve&quot;, or add typos, to look human &lpar;Morgan Meaker/Bloomberg&rpar;](https://www.techmeme.com/261031/p8#a261031p8)
- - [Two years later, Apple Intelligence makes its way to China](https://appleinsider.com/articles/26/10/31/two-years-later-apple-intelligence-makes-its-way-to-china?utm_source=rss)
- - [Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims](https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/)<!-- TECH:END -->
+ - [Keyboards of The Verge](https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks)
+ - [Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker&#39;s ChatGPT share link &lpar;Swati Khandelwal/The Hacker News&rpar;](https://www.techmeme.com/261031/p11#a261031p11)
+ - [Binance CEO says 90 percent of stolen assets have been ‘replenished’](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
