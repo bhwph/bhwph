@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FBI attributes the $6B+ Binance hack to North Korea&#39;s TraderTraitor hacking group, which the agency also previously blamed for the ~$1.5B Bybit hack &lpar;Kevin Whitelaw/Bloomberg&rpar;](https://www.techmeme.com/261031/p13#a261031p13)
- - [Tests: chatbots rely on three obscure AI-built voter sites for US midterm answers; Copilot cited the error-prone Ballot Brief in 75% of tests and ChatGPT in 22% &lpar;Washington Post&rpar;](https://www.techmeme.com/261031/p12#a261031p12)
- - [Get in the spirit with these horrors from YouTube](https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror)<!-- TECH:END -->
+ - [North Korea linked to massive Binance crypto heist](https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist)
+ - [HomePod Mini 2 first look: Three things I love and one disappointment](https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker)
+ - [New Zelda and GTA represent a games industry that no longer exists](https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
