@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [North Korea linked to massive Binance crypto heist](https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist)
- - [HomePod Mini 2 first look: Three things I love and one disappointment](https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker)
- - [New Zelda and GTA represent a games industry that no longer exists](https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists)<!-- TECH:END -->
+ - [Flock keeps ignoring requests to cancel its contracts](https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts)
+ - [HomeView can behave like a HomeKit security camera](https://appleinsider.com/articles/26/11/01/homeview-can-behave-like-a-homekit-security-camera?utm_source=rss)
+ - [ServiceNow confirms it acquired Israeli startup Sweep to speed up customers&#39; migrations to its CRM, for an undisclosed price estimated at hundreds of millions &lpar;Allon Sinai/CTech&rpar;](https://www.techmeme.com/261101/p14#a261101p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
