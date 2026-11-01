@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Surprised Pikachu face](http://9gag.com/gag/ae4KBdO)
- - 😝 [Cardi&#39;s sign interpreter.](http://9gag.com/gag/aQg6jEe)
+ - 6️⃣ [If there is any interest, I will of course share more recipes](http://9gag.com/gag/anOemKL)
+ - 😝 [Surprised Pikachu face](http://9gag.com/gag/ae4KBdO)
  - 👉 [Businessman and his secretary](http://9gag.com/gag/aRL6pyQ)<!-- MEMES:END -->
 
 --- 
