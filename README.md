@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flock keeps ignoring requests to cancel its contracts](https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts)
- - [HomeView can behave like a HomeKit security camera](https://appleinsider.com/articles/26/11/01/homeview-can-behave-like-a-homekit-security-camera?utm_source=rss)
- - [ServiceNow confirms it acquired Israeli startup Sweep to speed up customers&#39; migrations to its CRM, for an undisclosed price estimated at hundreds of millions &lpar;Allon Sinai/CTech&rpar;](https://www.techmeme.com/261101/p14#a261101p14)<!-- TECH:END -->
+ - [AI-powered medical search engine Vera Health, which says it is used by 800,000+ clinicians in 190 countries, raised a $28.5M Series A led by Threshold Ventures &lpar;Cailey Gleeson/Fierce Healthcare&rpar;](https://www.techmeme.com/261101/p25#a261101p25)
+ - [Midstream Health, whose AI tools help 250 hospitals recover revenue from rebates and vendor and payer underpayments, raised a $20M Series A led by Valtrius &lpar;Will Maddox/Axios&rpar;](https://www.techmeme.com/261101/p24#a261101p24)
+ - [Google Wallet may soon let you trade convenience for extra payment security](https://www.androidauthority.com/google-wallet-tap-to-pay-verification-settings-3730434/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
