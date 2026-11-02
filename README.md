@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If there is any interest, I will of course share more recipes](http://9gag.com/gag/anOemKL)
- - 😝 [Surprised Pikachu face](http://9gag.com/gag/ae4KBdO)
+ - 6️⃣ [The fall of European Civilization, The future is Euruskan and Eurasian](http://9gag.com/gag/aD7R5ex)
+ - 😝 [Recipe calls for 2 scoops of gutter water](http://9gag.com/gag/aGLKmx0)
  - 👉 [Businessman and his secretary](http://9gag.com/gag/aRL6pyQ)<!-- MEMES:END -->
 
 --- 
