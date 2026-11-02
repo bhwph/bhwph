@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI-powered medical search engine Vera Health, which says it is used by 800,000+ clinicians in 190 countries, raised a $28.5M Series A led by Threshold Ventures &lpar;Cailey Gleeson/Fierce Healthcare&rpar;](https://www.techmeme.com/261101/p25#a261101p25)
- - [Midstream Health, whose AI tools help 250 hospitals recover revenue from rebates and vendor and payer underpayments, raised a $20M Series A led by Valtrius &lpar;Will Maddox/Axios&rpar;](https://www.techmeme.com/261101/p24#a261101p24)
- - [Google Wallet may soon let you trade convenience for extra payment security](https://www.androidauthority.com/google-wallet-tap-to-pay-verification-settings-3730434/)<!-- TECH:END -->
+ - [Windows 11 now lets you access Android apps straight from Search](https://www.androidauthority.com/windows-11-search-android-app-actions-3730729/)
+ - [We Want to Know What’s on Your Wrist &lpar;and Finger and Face&rpar;](https://www.cnet.com/tech/peoples-picks-survey-2026/)
+ - [A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress](https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
