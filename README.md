@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [The fall of European Civilization, The future is Euruskan and Eurasian](http://9gag.com/gag/aD7R5ex)
- - 😝 [Recipe calls for 2 scoops of gutter water](http://9gag.com/gag/aGLKmx0)
- - 👉 [Businessman and his secretary](http://9gag.com/gag/aRL6pyQ)<!-- MEMES:END -->
+ - 6️⃣ [Nose dive](http://9gag.com/gag/amWq38V)
+ - 😝 [Christina Aguilera Reveals Her Best Skill In Bed Is Blowjobs, Calls Herself &#39;Promoter Of The Swallow&#39;](http://9gag.com/gag/aoWmX9A)
+ - 👉 [The journey back to Ellen](http://9gag.com/gag/az57nEq)<!-- MEMES:END -->
 
 --- 
 
