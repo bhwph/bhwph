@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes 15-inch MacBook Air to $1,299 with early Black Friday deal](https://appleinsider.com/articles/26/11/03/amazon-slashes-15-inch-macbook-air-to-1299-with-early-black-friday-deal?utm_source=rss)
- - [Galaxy S26 FE 256GB gets a $100 Amazon discount](https://www.androidauthority.com/galaxy-s26-fe-256gb-deal-3731227/)
- - [Is Straight Talk down for you? Here’s what’s going on](https://www.androidauthority.com/straight-talk-outage-nov-2026-3731215/)<!-- TECH:END -->
+ - [Here’s what it’s like to use Audio Intelligence on the Apple Watch](https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch)
+ - [Sources: Ubisoft and at least two other gaming companies made offers to Microsoft to acquire the French game developer Arkane Studios &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/261103/p33#a261103p33)
+ - [Hands on: iOS 27.3 beta&#39;s Safari, Siri AI, vertical tabs, and more](https://appleinsider.com/articles/26/11/03/hands-on-ios-273-betas-safari-siri-ai-vertical-tabs-and-more?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
