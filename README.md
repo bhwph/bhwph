@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11 now lets you access Android apps straight from Search](https://www.androidauthority.com/windows-11-search-android-app-actions-3730729/)
- - [We Want to Know What’s on Your Wrist &lpar;and Finger and Face&rpar;](https://www.cnet.com/tech/peoples-picks-survey-2026/)
- - [A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress](https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/)<!-- TECH:END -->
+ - [Google expands Dreambeans to India, its first market outside the US, offering AI-generated visual stories from users&#39; digital activity in 13 local languages &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/261102/p51#a261102p51)
+ - [Google just rolled out the Android backup feature we’ve been waiting for all year](https://www.androidauthority.com/quick-share-automatic-photo-backup-windows-google-play-services-3730922/)
+ - [When to watch &quot;A Charlie Brown Thanksgiving&quot; for free on Apple TV](https://appleinsider.com/inside/apple-tv-plus/tips/when-to-watch-a-charlie-brown-thanksgiving-for-free-on-apple-tv?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
