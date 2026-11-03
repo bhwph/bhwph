@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google expands Dreambeans to India, its first market outside the US, offering AI-generated visual stories from users&#39; digital activity in 13 local languages &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/261102/p51#a261102p51)
- - [Google just rolled out the Android backup feature we’ve been waiting for all year](https://www.androidauthority.com/quick-share-automatic-photo-backup-windows-google-play-services-3730922/)
- - [When to watch &quot;A Charlie Brown Thanksgiving&quot; for free on Apple TV](https://appleinsider.com/inside/apple-tv-plus/tips/when-to-watch-a-charlie-brown-thanksgiving-for-free-on-apple-tv?utm_source=rss)<!-- TECH:END -->
+ - [Amazon slashes 15-inch MacBook Air to $1,299 with early Black Friday deal](https://appleinsider.com/articles/26/11/03/amazon-slashes-15-inch-macbook-air-to-1299-with-early-black-friday-deal?utm_source=rss)
+ - [Galaxy S26 FE 256GB gets a $100 Amazon discount](https://www.androidauthority.com/galaxy-s26-fe-256gb-deal-3731227/)
+ - [Is Straight Talk down for you? Here’s what’s going on](https://www.androidauthority.com/straight-talk-outage-nov-2026-3731215/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
