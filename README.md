@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circle reports Q3 revenue up 17% YoY to $875M, driven in part by ARC token sales, net income up 5% YoY to $226M, and says it is cutting 5% of its staff &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/261104/p37#a261104p37)
- - [TeraWulf secures a credit backstop agreement with Google to support financing for its data center project with Anthropic in Kentucky, set to come online H2 2027 &lpar;Deborah Sophia/Reuters&rpar;](https://www.techmeme.com/261104/p36#a261104p36)
- - [This popular Baseus 45W power bank with built-in cable is $40 off](https://www.androidauthority.com/baseus-picogo-ar11-45w-10000mah-deal-3731716/)<!-- TECH:END -->
+ - [Over half of readers say T-Mobile has lost its Un-Carrier edge](https://www.androidauthority.com/t-mobile-plans-2026-3731810/)
+ - [Snoopy ends up on Santa&#39;s naughty list in &#39;12 Days of Snoopy&#39; on Apple TV](https://appleinsider.com/articles/26/11/04/snoopy-ends-up-on-santas-naughty-list-in-12-days-of-snoopy-on-apple-tv?utm_source=rss)
+ - [Arm reports Q2 revenue up 27% YoY to $1.44B, vs. $1.38B est., royalty revenue up 8% to $670M, vs. $720.8M est., and licensing revenue up 50% to $773M &lpar;Reuters&rpar;](https://www.techmeme.com/261104/p51#a261104p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
