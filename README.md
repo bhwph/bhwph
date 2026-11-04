@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages’ pinned chats UI makeover is finally landing for users](https://www.androidauthority.com/google-messages-pinned-chats-redesign-beta-rollout-3731406/)
- - [How to handle a water spill on your Mac before the damage gets worse](https://appleinsider.com/inside/mac/tips/how-to-handle-a-water-spill-on-your-mac-before-the-damage-gets-worse?utm_source=rss)
- - [Meta raised $15B in a US dollar bond sale; sources: the offering drew as much as $58B in orders and is the biggest portion of a $20B+ cross-border bond offering &lpar;Bloomberg&rpar;](https://www.techmeme.com/261103/p47#a261103p47)<!-- TECH:END -->
+ - [Circle reports Q3 revenue up 17% YoY to $875M, driven in part by ARC token sales, net income up 5% YoY to $226M, and says it is cutting 5% of its staff &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/261104/p37#a261104p37)
+ - [TeraWulf secures a credit backstop agreement with Google to support financing for its data center project with Anthropic in Kentucky, set to come online H2 2027 &lpar;Deborah Sophia/Reuters&rpar;](https://www.techmeme.com/261104/p36#a261104p36)
+ - [This popular Baseus 45W power bank with built-in cable is $40 off](https://www.androidauthority.com/baseus-picogo-ar11-45w-10000mah-deal-3731716/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
