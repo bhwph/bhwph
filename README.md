@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Over half of readers say T-Mobile has lost its Un-Carrier edge](https://www.androidauthority.com/t-mobile-plans-2026-3731810/)
- - [Snoopy ends up on Santa&#39;s naughty list in &#39;12 Days of Snoopy&#39; on Apple TV](https://appleinsider.com/articles/26/11/04/snoopy-ends-up-on-santas-naughty-list-in-12-days-of-snoopy-on-apple-tv?utm_source=rss)
- - [Arm reports Q2 revenue up 27% YoY to $1.44B, vs. $1.38B est., royalty revenue up 8% to $670M, vs. $720.8M est., and licensing revenue up 50% to $773M &lpar;Reuters&rpar;](https://www.techmeme.com/261104/p51#a261104p51)<!-- TECH:END -->
+ - [Source: Meta has decided to stop using fruit for its AI model codenames, as they didn&#39;t suit its lofty AI ambitions; its latest model was named &quot;Watermelon&quot; &lpar;Charles Rollet/Business Insider&rpar;](https://www.techmeme.com/261104/p66#a261104p66)
+ - [Sources: China has told SoftBank it will not allow the $5.4B acquisition of ABB&#39;s robotics division to go ahead; China is the division&#39;s biggest market &lpar;David Keohane/Financial Times&rpar;](https://www.techmeme.com/261104/p65#a261104p65)
+ - [Sources: Palo Alto Networks is in talks to acquire Israeli startup Clutch Security, which develops software for tracking passwords used by AI agents, for ~$500M &lpar;Valida Pau/The Information&rpar;](https://www.techmeme.com/261104/p64#a261104p64)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
