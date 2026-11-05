@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Resy is suffering a partial outage right now](https://www.androidauthority.com/resy-partial-outage-nov-2026-3732111/)
- - [Mercedes-Benz rolls out conversational models that run directly on its cars instead of the cloud through a partnership with MIT spinout Liquid AI &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](https://www.techmeme.com/261105/p32#a261105p32)
- - [Dropbox plans to acquire AI storage startup Tigris Data for $350M, its largest acquisition to date; Tigris raised ~$31.9M from Spark, a16z, and others &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/261105/p31#a261105p31)<!-- TECH:END -->
+ - [GOP leaders of three House committees ask Jensen Huang for a closed-door briefing on his ties with Megaspeed exec Alice Huang, reported to be a Chinese asset &lpar;Kevin Breuninger/CNBC&rpar;](https://www.techmeme.com/261105/p54#a261105p54)
+ - [Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not](https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/)
+ - [California State Senator Scott Wiener, author of AI safety law SB 53, won Tuesday&#39;s election to succeed Pelosi in the US House, campaigning on AI regulation &lpar;Rocket Drew/The Information&rpar;](https://www.techmeme.com/261105/p53#a261105p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
