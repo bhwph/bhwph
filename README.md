@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Meta has decided to stop using fruit for its AI model codenames, as they didn&#39;t suit its lofty AI ambitions; its latest model was named &quot;Watermelon&quot; &lpar;Charles Rollet/Business Insider&rpar;](https://www.techmeme.com/261104/p66#a261104p66)
- - [Sources: China has told SoftBank it will not allow the $5.4B acquisition of ABB&#39;s robotics division to go ahead; China is the division&#39;s biggest market &lpar;David Keohane/Financial Times&rpar;](https://www.techmeme.com/261104/p65#a261104p65)
- - [Sources: Palo Alto Networks is in talks to acquire Israeli startup Clutch Security, which develops software for tracking passwords used by AI agents, for ~$500M &lpar;Valida Pau/The Information&rpar;](https://www.techmeme.com/261104/p64#a261104p64)<!-- TECH:END -->
+ - [Resy is suffering a partial outage right now](https://www.androidauthority.com/resy-partial-outage-nov-2026-3732111/)
+ - [Mercedes-Benz rolls out conversational models that run directly on its cars instead of the cloud through a partnership with MIT spinout Liquid AI &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](https://www.techmeme.com/261105/p32#a261105p32)
+ - [Dropbox plans to acquire AI storage startup Tigris Data for $350M, its largest acquisition to date; Tigris raised ~$31.9M from Spark, a16z, and others &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/261105/p31#a261105p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
