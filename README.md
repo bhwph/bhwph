@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [She was happy divorcing her husband until she finds out he doesn&#39;t have to pay child support](http://9gag.com/gag/aZnbqWn)
- - 😝 [Captured in Eagle River, Alaska near Joint Base Elmendorf - Richardson](http://9gag.com/gag/a4npMz1)
- - 👉 [Sheesh](http://9gag.com/gag/a0ovmyz)<!-- MEMES:END -->
+ - 6️⃣ [Captured in Eagle River, Alaska near Joint Base Elmendorf - Richardson](http://9gag.com/gag/a4npMz1)
+ - 😝 [She was happy divorcing her husband until she finds out he doesn&#39;t have to pay child support](http://9gag.com/gag/aZnbqWn)
+ - 👉 [1999 was unfair. Only one can stay.](http://9gag.com/gag/aQgP6j7)<!-- MEMES:END -->
 
 --- 
 
