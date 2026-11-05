@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [If he loses man](http://9gag.com/gag/a2MEBGO)
+ - 6️⃣ [How to avoid being pushed in Japan](http://9gag.com/gag/a6DrWML)
  - 😝 [A wise man once said- \u201cMen if you enjoy s#x, don\u2019t get married.\u201d](http://9gag.com/gag/aBZ9qdP)
- - 👉 [If he loses man](http://9gag.com/gag/a2MEBGO)<!-- MEMES:END -->
+ - 👉 [Untied myself from monthly subscription payments: old laptop + ~300 EUR Upgrade](http://9gag.com/gag/ae4KX3p)<!-- MEMES:END -->
 
 --- 
 
