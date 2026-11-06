@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [9gag Censorship](http://9gag.com/gag/aMd21eM)
- - 😝 [Seems fair](http://9gag.com/gag/az5g7pZ)
- - 👉 [She votes. Proudly.](http://9gag.com/gag/aO2KKR6)<!-- MEMES:END -->
+ - 6️⃣ [Why would I deceive you ?](http://9gag.com/gag/aBZR9B2)
+ - 😝 [When someone asks why I avoid eastern European women](http://9gag.com/gag/aAQRY6L)
+ - 👉 [Seems fair](http://9gag.com/gag/az5g7pZ)<!-- MEMES:END -->
 
 --- 
 
