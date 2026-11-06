@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out Gemini Omni 1.2 Flash, which creates clips up to 15 seconds, vs. 10 seconds with Omni 1.1, has better reference adherence, and costs 30% less &lpar;Matthias Bastian/The Decoder&rpar;](https://www.techmeme.com/261105/p70#a261105p70)
- - [Perplexity rolls out Teammates, an always-on AI agent system that integrates with Computer to handle multiple roles and execute large-scale tasks simultaneously &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/261105/p69#a261105p69)
- - [Sources: UK neobank Monzo is exploring a new fundraising round valuing it at ~£7.5B after failing to be acquired by Nu Holdings and struggling to sell a stake &lpar;Financial Times&rpar;](https://www.techmeme.com/261105/p68#a261105p68)<!-- TECH:END -->
+ - [Fox closes its $22B Roku acquisition well ahead of the expected 2027 date; Anthony Wood joins Fox&#39;s board and co-chairs a new unit with Tubi, Fox One, and Roku &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/261106/p14#a261106p14)
+ - [KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium](https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale)
+ - [iPhone 20 range rumored to ditch Action Button](https://appleinsider.com/articles/26/11/06/iphone-20-range-rumored-to-ditch-action-button?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
