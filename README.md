@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Pepsi?](http://9gag.com/gag/abeXXe9)
- - 😝 [A wise man once said- \u201cMen if you enjoy s#x, don\u2019t get married.\u201d](http://9gag.com/gag/aBZ9qdP)
- - 👉 [Seems fair](http://9gag.com/gag/az5g7pZ)<!-- MEMES:END -->
+ - 6️⃣ [9gag Censorship](http://9gag.com/gag/aMd21eM)
+ - 😝 [Seems fair](http://9gag.com/gag/az5g7pZ)
+ - 👉 [She votes. Proudly.](http://9gag.com/gag/aO2KKR6)<!-- MEMES:END -->
 
 --- 
 
