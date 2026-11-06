@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fox closes its $22B Roku acquisition well ahead of the expected 2027 date; Anthony Wood joins Fox&#39;s board and co-chairs a new unit with Tubi, Fox One, and Roku &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/261106/p14#a261106p14)
- - [KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium](https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale)
- - [iPhone 20 range rumored to ditch Action Button](https://appleinsider.com/articles/26/11/06/iphone-20-range-rumored-to-ditch-action-button?utm_source=rss)<!-- TECH:END -->
+ - [Samsung Health bug leaves users with missing step history](https://www.androidauthority.com/samsung-health-missing-step-history-update-3732669/)
+ - [Do You Speak Geek? 5 Tech Terms That Endure, and 5 That Got Defragged](https://www.cnet.com/tech/vibe-coding-pdoom-tech-terms-guide/)
+ - [Some Nest doorbells have stopped showing the live video feed](https://www.androidauthority.com/nest-doorbell-live-view-broken-3732672/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
