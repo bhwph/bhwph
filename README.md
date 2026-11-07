@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Why would I deceive you ?](http://9gag.com/gag/aBZR9B2)
- - 😝 [When someone asks why I avoid eastern European women](http://9gag.com/gag/aAQRY6L)
- - 👉 [Which one is the worst](http://9gag.com/gag/aPxwvEg)<!-- MEMES:END -->
+ - 6️⃣ [Can you spot it?](http://9gag.com/gag/axWd2M2)
+ - 😝 [Welcome To Spain .](http://9gag.com/gag/a0o89KQ)
+ - 👉 [Why would I deceive you ?](http://9gag.com/gag/aBZR9B2)<!-- MEMES:END -->
 
 --- 
 
