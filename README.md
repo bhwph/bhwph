@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US officials believe Jensen Huang had a romantic relationship with Alice Huang, who they allege was recruited to spy for China&#39;s top spy agency, MSS &lpar;Demetri Sevastopulo/Financial Times&rpar;](https://www.techmeme.com/261106/p29#a261106p29)
- - [Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users &lpar;Frederic Lardinois/The New Stack&rpar;](https://www.techmeme.com/261106/p28#a261106p28)
- - [CesiumAstro, which plans a 737-satellite LEO communications network at two altitudes, raised $730M at a $4.5B+ valuation, bringing its total funding to $1.4B &lpar;Loren Grush/Bloomberg&rpar;](https://www.techmeme.com/261106/p27#a261106p27)<!-- TECH:END -->
+ - [Investigation: some Chinese firms approved by the US Commerce Department to handle Nvidia&#39;s H200 chips have empty offices and ties to firms under sanctions &lpar;New York Times&rpar;](https://www.techmeme.com/261107/p9#a261107p9)
+ - [Claude gets AirPods 3 head tracking working on Linux](https://appleinsider.com/articles/26/11/07/claude-gets-airpods-3-head-tracking-working-on-linux?utm_source=rss)
+ - [Zelda is back and better than ever](https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
