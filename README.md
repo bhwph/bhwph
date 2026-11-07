@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation: some Chinese firms approved by the US Commerce Department to handle Nvidia&#39;s H200 chips have empty offices and ties to firms under sanctions &lpar;New York Times&rpar;](https://www.techmeme.com/261107/p9#a261107p9)
- - [Claude gets AirPods 3 head tracking working on Linux](https://appleinsider.com/articles/26/11/07/claude-gets-airpods-3-head-tracking-working-on-linux?utm_source=rss)
- - [Zelda is back and better than ever](https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer)<!-- TECH:END -->
+ - [Public records appear to show SpaceX building a &quot;Starbase supercomputer&quot; in TX, but Gina Hinojosa&#39;s election as governor may delay some of the data center plans &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/261107/p14#a261107p14)
+ - [Binance says CFO Kaiser Ng is leaving to &quot;pursue a new venture&quot; days after a $6.3B hack, citing a six-month transition plan, and names Justin Yek as CFO &lpar;Bloomberg&rpar;](https://www.techmeme.com/261107/p13#a261107p13)
+ - [Exponential Time Hypothesis co-proposer Russell Impagliazzo calls OpenAI&#39;s disproof &quot;shocking news&quot;; it could one day speed up chip design and break encryption &lpar;Cade Metz/New York Times&rpar;](https://www.techmeme.com/261107/p12#a261107p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
