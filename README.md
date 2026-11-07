@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Can you spot it?](http://9gag.com/gag/axWd2M2)
- - 😝 [Welcome To Spain .](http://9gag.com/gag/a0o89KQ)
- - 👉 [Why would I deceive you ?](http://9gag.com/gag/aBZR9B2)<!-- MEMES:END -->
+ - 😝 [Hijabi girl has zero self-awareness](http://9gag.com/gag/avWp0jZ)
+ - 👉 [9gag Censorship](http://9gag.com/gag/aMd21eM)<!-- MEMES:END -->
 
 --- 
 
