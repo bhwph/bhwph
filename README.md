@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can you spot it?](http://9gag.com/gag/axWd2M2)
- - 😝 [Hijabi girl has zero self-awareness](http://9gag.com/gag/avWp0jZ)
- - 👉 [9gag Censorship](http://9gag.com/gag/aMd21eM)<!-- MEMES:END -->
+ - 6️⃣ [Chad , Am I Cooked ?](http://9gag.com/gag/aWpQZ5Z)
+ - 😝 [Chad , Am I Cooked ?](http://9gag.com/gag/aWpQZ5Z)
+ - 👉 [Chad , Am I Cooked ?](http://9gag.com/gag/aWpQZ5Z)<!-- MEMES:END -->
 
 --- 
 
