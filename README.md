@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple&#39;s Personal Knowledge Graph learns about your life on Mac](https://appleinsider.com/articles/26/11/08/how-apples-personal-knowledge-graph-learns-about-your-life-on-mac?utm_source=rss)
- - [There’s no slowing down media’s pivot-to-video 2.0](https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot)
- - [I tested ColorOS 17 on the OnePlus 15. Here are 3 things you need to know](https://www.androidauthority.com/oneplus-15-coloros-hands-on-3730399/)<!-- TECH:END -->
+ - [Apple saves $2.7B in taxes by funnelling finances through Singapore](https://appleinsider.com/articles/26/11/08/apple-saves-27b-in-taxes-by-funnelling-finances-through-singapore?utm_source=rss)
+ - [Apple is racing to make Siri more agentic](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic)
+ - [THORChain, which handled ~$1B of stolen Bybit funds in 2025 for $12M+ in fees, began moving the Binance loot despite FBI pleas, saying it can&#39;t stop transfers &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261108/p11#a261108p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
