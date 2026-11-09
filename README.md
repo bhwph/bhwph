@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent&#39;s chief AI scientist Yao Shunyu says AI&#39;s bio abilities will soon make it &quot;possible to do harm&quot; and Anthropic has a &quot;strong argument&quot; for closed models &lpar;Vincent Chow/South China Morning Post&rpar;](https://www.techmeme.com/261108/p21#a261108p21)
- - [Job listings show Amazon is building a &quot;new-to-world&quot; home robot to operate &quot;alongside family members&quot;, after its $1,450 Astro reached only a few thousand homes &lpar;Annie Palmer/CNBC&rpar;](https://www.techmeme.com/261108/p20#a261108p20)
- - [Trump says Jensen Huang should stay on as Nvidia CEO after affair admission, saying he is a &quot;fine person&quot; and &quot;I haven&#39;t heard he&#39;s done anything wrong&quot; &lpar;Kate Sullivan/Bloomberg&rpar;](https://www.techmeme.com/261108/p19#a261108p19)<!-- TECH:END -->
+ - [Google is bringing Chrome’s real-time scam protection to Incognito and Guest modes](https://www.androidauthority.com/chrome-incognito-guest-mode-real-time-safe-browsing-3733040/)
+ - [James Gunn is out as DC movie leader](https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving)
+ - [Amazon drops Samsung Odyssey G3 200Hz gaming monitor to $119.99](https://www.androidauthority.com/samsung-odyssey-g3-monitor-deal-3733067/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
