@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is bringing Chrome’s real-time scam protection to Incognito and Guest modes](https://www.androidauthority.com/chrome-incognito-guest-mode-real-time-safe-browsing-3733040/)
- - [James Gunn is out as DC movie leader](https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving)
- - [Amazon drops Samsung Odyssey G3 200Hz gaming monitor to $119.99](https://www.androidauthority.com/samsung-odyssey-g3-monitor-deal-3733067/)<!-- TECH:END -->
+ - [A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure](https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/)
+ - [Australia is drafting legislation for an AI safety regulator empowered to impose &quot;significant penalties&quot; after an OpenAI model hacked a government site in Sept. &lpar;James Mayger/Bloomberg&rpar;](https://www.techmeme.com/261109/p53#a261109p53)
+ - [Analysis: Nvidia&#39;s 2025 figures to the US government undercounted chips sold to Megaspeed via partners by 50K; Nvidia did not give Bloomberg an exact figure &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/261109/p52#a261109p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
