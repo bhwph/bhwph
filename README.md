@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s 15-inch M5 MacBook Air falls to its lowest price since June](https://www.androidauthority.com/macbook-air-15-m5-deal-3733488/)
- - [Ember’s latest self-heating 14-ounce mug is $50 off](https://www.theverge.com/gadgets/1030735/ember-mug-3-criterion-collection-blu-ray-pixel-watch-deal-sale)
- - [Last call to grab this HomeView preorder deal before November 13 release](https://appleinsider.com/articles/26/11/10/last-call-to-grab-this-homeview-preorder-deal-before-november-13-release?utm_source=rss)<!-- TECH:END -->
+ - [CoreWeave reports Q3 revenue up 168% YoY to $3.66B, vs. $3.55B est., a net loss of $709M, and a $132.5B revenue backlog, up from $104B as of June &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/261110/p53#a261110p53)
+ - [Sources: the US Commerce Dept. delayed new Entity List additions for two months, leaving off Megaspeed despite four other US agencies pushing for its inclusion &lpar;Financial Times&rpar;](https://www.techmeme.com/261110/p52#a261110p52)
+ - [Source: OpenAI told investors on Tuesday that its revenue jumped 50% to around $10B in Q3, up from 17% growth in Q2 &lpar;The Information&rpar;](https://www.techmeme.com/261110/p51#a261110p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
