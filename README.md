@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Can some one tell me what this is please. Thelight works, it powerson. Found it in a creek. More pics in comments](http://9gag.com/gag/ap1ELon)
- - 😝 [Imagine you graduate from honeypot CCP academy, and your first task is asmongold](http://9gag.com/gag/a9zb7qm)
- - 👉 [The Hatian gangs are suing for peace.](http://9gag.com/gag/aGLYxB0)<!-- MEMES:END -->
+ - 6️⃣ [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)
+ - 😝 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)
+ - 👉 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)<!-- MEMES:END -->
 
 --- 
 
