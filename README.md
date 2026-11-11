@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Peter please help](http://9gag.com/gag/aEMvR6e)
- - 😝 [Imagine facing this and the 17th century in a wooden ship](http://9gag.com/gag/aj7YDwx)
- - 👉 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)<!-- MEMES:END -->
+ - 6️⃣ [FAFO Sport Edition](http://9gag.com/gag/amWNYq6)
+ - 😝 [A shop with no humans](http://9gag.com/gag/aMd281R)
+ - 👉 [Whoopsie](http://9gag.com/gag/aXL0ABP)<!-- MEMES:END -->
 
 --- 
 
