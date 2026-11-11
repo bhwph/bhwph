@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Support Communities were sound and fury, but sometimes so useful](https://appleinsider.com/articles/26/11/11/apple-support-communities-were-sound-and-fury-but-sometimes-so-useful?utm_source=rss)
- - [China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway](https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/)
- - [Sharge’s eye-catching MacBook charger is over 25 percent off](https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale)<!-- TECH:END -->
+ - [Apple employee charged with murder following fatal accident near Apple Park](https://appleinsider.com/articles/26/11/11/apple-employee-charged-with-murder-following-fatal-accident-near-apple-park?utm_source=rss)
+ - [Sources: Jensen Huang had an extramarital relationship with Nvidia&#39;s VP of healthcare, Kimberly Powell; their relationship has been discussed inside the company &lpar;New York Times&rpar;](https://www.techmeme.com/261111/p43#a261111p43)
+ - [Pete Hegseth Is About to Get His Ass Kicked](https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
