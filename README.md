@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoreWeave reports Q3 revenue up 168% YoY to $3.66B, vs. $3.55B est., a net loss of $709M, and a $132.5B revenue backlog, up from $104B as of June &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/261110/p53#a261110p53)
- - [Sources: the US Commerce Dept. delayed new Entity List additions for two months, leaving off Megaspeed despite four other US agencies pushing for its inclusion &lpar;Financial Times&rpar;](https://www.techmeme.com/261110/p52#a261110p52)
- - [Source: OpenAI told investors on Tuesday that its revenue jumped 50% to around $10B in Q3, up from 17% growth in Q2 &lpar;The Information&rpar;](https://www.techmeme.com/261110/p51#a261110p51)<!-- TECH:END -->
+ - [If you&#39;re getting dizzy using PROLED MacBook Pro, you are not alone](https://appleinsider.com/articles/26/11/10/if-youre-getting-dizzy-using-proled-macbook-pro-you-are-not-alone?utm_source=rss)
+ - [Tech consultant Nima Momeni was sentenced to 16 years to life in prison for the second-degree murder of Cash App founder Bob Lee in 2023 &lpar;Heather Knight/New York Times&rpar;](https://www.techmeme.com/261110/p64#a261110p64)
+ - [Apple Support Community Forums are shutting down](https://appleinsider.com/articles/26/11/11/apple-support-community-forums-are-shutting-down?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
