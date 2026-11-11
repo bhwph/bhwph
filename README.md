@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you&#39;re getting dizzy using PROLED MacBook Pro, you are not alone](https://appleinsider.com/articles/26/11/10/if-youre-getting-dizzy-using-proled-macbook-pro-you-are-not-alone?utm_source=rss)
- - [Tech consultant Nima Momeni was sentenced to 16 years to life in prison for the second-degree murder of Cash App founder Bob Lee in 2023 &lpar;Heather Knight/New York Times&rpar;](https://www.techmeme.com/261110/p64#a261110p64)
- - [Apple Support Community Forums are shutting down](https://appleinsider.com/articles/26/11/11/apple-support-community-forums-are-shutting-down?utm_source=rss)<!-- TECH:END -->
+ - [Apple Support Communities were sound and fury, but sometimes so useful](https://appleinsider.com/articles/26/11/11/apple-support-communities-were-sound-and-fury-but-sometimes-so-useful?utm_source=rss)
+ - [China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway](https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/)
+ - [Sharge’s eye-catching MacBook charger is over 25 percent off](https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
