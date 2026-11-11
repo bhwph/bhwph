@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Amy thinks the mouse escaped behind the iPad, but she won’t give up 😬](https://www.reddit.com/r/funny/comments/1xszknd/amy_thinks_the_mouse_escaped_behind_the_ipad_but/)
+ - 6️⃣ [Peter please help](http://9gag.com/gag/aEMvR6e)
  - 😝 [Imagine facing this and the 17th century in a wooden ship](http://9gag.com/gag/aj7YDwx)
  - 👉 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)<!-- MEMES:END -->
 
