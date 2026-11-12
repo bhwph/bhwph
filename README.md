@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: some Trump officials questioned Jensen Huang&#39;s push for Trump to allow more chip sales to China, even before his affair with Alice Huang became public &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261111/p54#a261111p54)
- - [Channel flipping: Alternative Plex clients for tvOS, iOS, macOS](https://appleinsider.com/articles/26/11/12/channel-flipping-alternative-plex-clients-for-tvos-ios-macos?utm_source=rss)
- - [Sources: the Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/261111/p53#a261111p53)<!-- TECH:END -->
+ - [Sennheiser Momentum 4 headphones are $100 off with 60-hour battery](https://www.androidauthority.com/sennheiser-momentum-4-deal-amazon-3734570/)
+ - [Whoop launches Whoop Humans, a free opt-in social network in its app that allows members at every tier to share health data with approved followers &lpar;Connie Loizos/TechCrunch&rpar;](https://www.techmeme.com/261112/p40#a261112p40)
+ - [In an email to staff, new interim Nvidia CEO Colette Kress cites &quot;an extraordinarily difficult period&quot; and sets a company meeting for November 18 &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/261112/p39#a261112p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
