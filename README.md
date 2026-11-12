@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Tinder / When you finally meet her](http://9gag.com/gag/a9zbroL)
+ - 6️⃣ [We know](http://9gag.com/gag/aD7Azd7)
  - 😝 [Peter please help](http://9gag.com/gag/aEMvR6e)
- - 👉 [Tinder / When you finally meet her](http://9gag.com/gag/a9zbroL)<!-- MEMES:END -->
+ - 👉 [We know](http://9gag.com/gag/aD7Azd7)<!-- MEMES:END -->
 
 --- 
 
