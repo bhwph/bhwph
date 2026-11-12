@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple employee charged with murder following fatal accident near Apple Park](https://appleinsider.com/articles/26/11/11/apple-employee-charged-with-murder-following-fatal-accident-near-apple-park?utm_source=rss)
- - [Sources: Jensen Huang had an extramarital relationship with Nvidia&#39;s VP of healthcare, Kimberly Powell; their relationship has been discussed inside the company &lpar;New York Times&rpar;](https://www.techmeme.com/261111/p43#a261111p43)
- - [Pete Hegseth Is About to Get His Ass Kicked](https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/)<!-- TECH:END -->
+ - [Sources: some Trump officials questioned Jensen Huang&#39;s push for Trump to allow more chip sales to China, even before his affair with Alice Huang became public &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261111/p54#a261111p54)
+ - [Channel flipping: Alternative Plex clients for tvOS, iOS, macOS](https://appleinsider.com/articles/26/11/12/channel-flipping-alternative-plex-clients-for-tvos-ios-macos?utm_source=rss)
+ - [Sources: the Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/261111/p53#a261111p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
