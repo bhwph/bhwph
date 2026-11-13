@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sennheiser Momentum 4 headphones are $100 off with 60-hour battery](https://www.androidauthority.com/sennheiser-momentum-4-deal-amazon-3734570/)
- - [Whoop launches Whoop Humans, a free opt-in social network in its app that allows members at every tier to share health data with approved followers &lpar;Connie Loizos/TechCrunch&rpar;](https://www.techmeme.com/261112/p40#a261112p40)
- - [In an email to staff, new interim Nvidia CEO Colette Kress cites &quot;an extraordinarily difficult period&quot; and sets a company meeting for November 18 &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/261112/p39#a261112p39)<!-- TECH:END -->
+ - [Sources: social media companies&#39; payouts in teen addiction suits mostly ranged from $2M-$2.5M; Meta agreed to pay two teens a combined $7M in the past two weeks &lpar;Olivia Carville/Bloomberg&rpar;](https://www.techmeme.com/261112/p73#a261112p73)
+ - [Sources: US officials disagree on whether Alice Huang spied on Jensen Huang for China; some at ODNI and CIA say intelligence collected so far doesn&#39;t prove it &lpar;CNN&rpar;](https://www.techmeme.com/261112/p72#a261112p72)
+ - [Letter: ByteDance plans to buy back up to $6B worth of shares from existing investors at a ~$400B valuation, a 20% increase in valuation from its 2025 buyback &lpar;The Information&rpar;](https://www.techmeme.com/261112/p71#a261112p71)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
