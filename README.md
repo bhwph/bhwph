@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: social media companies&#39; payouts in teen addiction suits mostly ranged from $2M-$2.5M; Meta agreed to pay two teens a combined $7M in the past two weeks &lpar;Olivia Carville/Bloomberg&rpar;](https://www.techmeme.com/261112/p73#a261112p73)
- - [Sources: US officials disagree on whether Alice Huang spied on Jensen Huang for China; some at ODNI and CIA say intelligence collected so far doesn&#39;t prove it &lpar;CNN&rpar;](https://www.techmeme.com/261112/p72#a261112p72)
- - [Letter: ByteDance plans to buy back up to $6B worth of shares from existing investors at a ~$400B valuation, a 20% increase in valuation from its 2025 buyback &lpar;The Information&rpar;](https://www.techmeme.com/261112/p71#a261112p71)<!-- TECH:END -->
+ - [The best early Black Friday deals you can already shop](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)
+ - [Siri AI is coming to Apple TV 4K, including models from 2021](https://appleinsider.com/articles/26/11/13/siri-ai-is-coming-to-apple-tv-4k-including-models-from-2021?utm_source=rss)
+ - [Google’s November Pixel update is leaving screensavers stuck at full brightness](https://www.androidauthority.com/google-pixel-screensaver-dimming-broken-november-update-3735044/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
