@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Sam Bankman-Fried&#39;s $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B &lpar;George Hammond/Financial Times&rpar;](https://www.techmeme.com/261113/p42#a261113p42)
- - [Free speech group FIRE says DOJ and DHS will end efforts to curb &quot;ICE Sightings - Chicagoland&quot; Facebook group and Eyes Up iOS app, which report on ICE activity &lpar;Kanishka Singh/Reuters&rpar;](https://www.techmeme.com/261113/p41#a261113p41)
- - [US officials say Trump is not expected to raise allegations of a Chinese intelligence operation involving Jensen Huang during his upcoming meeting with Xi &lpar;Dan Mangan/CNBC&rpar;](https://www.techmeme.com/261113/p40#a261113p40)<!-- TECH:END -->
+ - [How Marco Rubio helped topple Jensen Huang; source: Rubio used a CIA report about Alice Huang to write his own, recasting CIA reporting in more assertive terms &lpar;Washington Post&rpar;](https://www.techmeme.com/261114/p10#a261114p10)
+ - [Save $500 on Apple&#39;s M5 Max 14-inch MacBook Pro with 2TB SSD](https://appleinsider.com/articles/26/11/14/save-500-on-apples-m5-max-14-inch-macbook-pro-with-2tb-ssd?utm_source=rss)
+ - [Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print](https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
