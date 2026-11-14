@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FAA ground stop shuts down flights nationwide](https://www.theverge.com/news/1033489/faa-ground-stop)
- - [The FAA issues a nationwide ground stop for all US airports following &quot;communication issues impacting multiple Air Route Traffic Control Centers&quot; &lpar;Alex Fitzpatrick/Axios&rpar;](https://www.techmeme.com/261113/p30#a261113p30)
- - [FAA Grounds All US Flights Until Further Notice](https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/)<!-- TECH:END -->
+ - [Analysis: Sam Bankman-Fried&#39;s $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B &lpar;George Hammond/Financial Times&rpar;](https://www.techmeme.com/261113/p42#a261113p42)
+ - [Free speech group FIRE says DOJ and DHS will end efforts to curb &quot;ICE Sightings - Chicagoland&quot; Facebook group and Eyes Up iOS app, which report on ICE activity &lpar;Kanishka Singh/Reuters&rpar;](https://www.techmeme.com/261113/p41#a261113p41)
+ - [US officials say Trump is not expected to raise allegations of a Chinese intelligence operation involving Jensen Huang during his upcoming meeting with Xi &lpar;Dan Mangan/CNBC&rpar;](https://www.techmeme.com/261113/p40#a261113p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
