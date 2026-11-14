@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Youve been had](http://9gag.com/gag/aAQR3Eo)
+ - 6️⃣ [Temporary boyfriend](http://9gag.com/gag/aLLRgmA)
  - 😝 [Youve been had](http://9gag.com/gag/aAQR3Eo)
- - 👉 [Youve been had](http://9gag.com/gag/aAQR3Eo)<!-- MEMES:END -->
+ - 👉 [Temporary boyfriend](http://9gag.com/gag/aLLRgmA)<!-- MEMES:END -->
 
 --- 
 
