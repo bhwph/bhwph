@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Marco Rubio helped topple Jensen Huang; source: Rubio used a CIA report about Alice Huang to write his own, recasting CIA reporting in more assertive terms &lpar;Washington Post&rpar;](https://www.techmeme.com/261114/p10#a261114p10)
- - [Save $500 on Apple&#39;s M5 Max 14-inch MacBook Pro with 2TB SSD](https://appleinsider.com/articles/26/11/14/save-500-on-apples-m5-max-14-inch-macbook-pro-with-2tb-ssd?utm_source=rss)
- - [Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print](https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print)<!-- TECH:END -->
+ - [Letter: Altimeter&#39;s Brad Gerstner and Atreides&#39;s Gavin Baker urge Nvidia&#39;s board to consider &quot;the potential return of Jensen Huang&quot;; they own $2.13B in Nvidia &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/261114/p18#a261114p18)
+ - [Magic: The Gathering is getting a Netflix animated series. For real this time.](https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series)
+ - [A petition to reinstate Jensen Huang as Nvidia CEO tops 100K signatures, including Elon Musk, Tim Sweeney, and Garry Tan; organizers say 5K+ Nvidia staff signed &lpar;Lauren Edmonds/Business Insider&rpar;](https://www.techmeme.com/261114/p17#a261114p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
