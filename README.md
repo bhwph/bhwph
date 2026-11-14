@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Want hardcore raids without the PvP pressure?](http://9gag.com/gag/awg0Amy)
- - 😝 [Youve been had](http://9gag.com/gag/aAQR3Eo)
- - 👉 [Definitely not a moth](http://9gag.com/gag/a9zbRnL)<!-- MEMES:END -->
+ - 😝 [Nice to see the marriage spark re-ignited](http://9gag.com/gag/ae4jrAb)
+ - 👉 [Entitled tourist](http://9gag.com/gag/aAQRgOo)<!-- MEMES:END -->
 
 --- 
 
