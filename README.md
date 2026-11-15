@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend](https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale)
- - [The Sony Aibo was a robot revolution dressed like a dog](https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history)
- - [AirPods Pro 3 plunge to $179.99 with Amazon&#39;s early Black Friday deal](https://appleinsider.com/articles/26/11/15/airpods-pro-3-plunge-to-17999-with-amazons-early-black-friday-deal?utm_source=rss)<!-- TECH:END -->
+ - [Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a &quot;legitimate and lawful business&quot; as it opens an internal probe &lpar;Associated Press&rpar;](https://www.techmeme.com/261115/p15#a261115p15)
+ - [Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a &quot;war room&quot; to lobby for his return and seek White House support &lpar;Financial Times&rpar;](https://www.techmeme.com/261115/p14#a261115p14)
+ - [Congress wants to tighten export rules on AI chips after Nvidia spy scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
