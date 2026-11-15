@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [23andMe&#39;s Anne Wojcicki, formerly married to Google co-founder Sergey Brin, says Jensen Huang&#39;s affair shows what happens when CEOs think they are &quot;untouchable&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/261114/p22#a261114p22)
- - [Source: Applied Digital has asked tenants like Oracle and Meta for billions in guarantees since at least last year to secure power before finalizing leases &lpar;Bloomberg&rpar;](https://www.techmeme.com/261114/p21#a261114p21)
- - [Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company &lpar;Forbes&rpar;](https://www.techmeme.com/261114/p20#a261114p20)<!-- TECH:END -->
+ - [LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend](https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale)
+ - [The Sony Aibo was a robot revolution dressed like a dog](https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history)
+ - [AirPods Pro 3 plunge to $179.99 with Amazon&#39;s early Black Friday deal](https://appleinsider.com/articles/26/11/15/airpods-pro-3-plunge-to-17999-with-amazons-early-black-friday-deal?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
