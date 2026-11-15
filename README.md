@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [A joint of Beef or Lamb, what&#39;s don&#39;t you buy or now buy a cheaper version?](http://9gag.com/gag/ae4jANQ)
- - 😝 [Jackpot](http://9gag.com/gag/ap1E59E)
- - 👉 [A joint of Beef or Lamb, what&#39;s don&#39;t you buy or now buy a cheaper version?](http://9gag.com/gag/ae4jANQ)<!-- MEMES:END -->
+ - 6️⃣ [Window winders.](http://9gag.com/gag/a9zbEnZ)
+ - 😝 [The magician](http://9gag.com/gag/aXL0g2P)
+ - 👉 [They could have given her a shirt :&lpar;](http://9gag.com/gag/avWpzYM)<!-- MEMES:END -->
 
 --- 
 
