@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a &quot;legitimate and lawful business&quot; as it opens an internal probe &lpar;Associated Press&rpar;](https://www.techmeme.com/261115/p15#a261115p15)
- - [Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a &quot;war room&quot; to lobby for his return and seek White House support &lpar;Financial Times&rpar;](https://www.techmeme.com/261115/p14#a261115p14)
- - [Congress wants to tighten export rules on AI chips after Nvidia spy scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china)<!-- TECH:END -->
+ - [Apple launches its Health AI Usage Study, with an OpenEvidence-powered app that answers health questions and can use HealthKit data, for up to 200,000 US users &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/261115/p27#a261115p27)
+ - [Alibaba says Qwen4-Max, which isn&#39;t open weight, beats Fable 5.1 and Kimi K3.1 Pro in coding benchmarks, and plans to release weights for smaller Qwen4 models &lpar;Luz Ding/Bloomberg&rpar;](https://www.techmeme.com/261115/p26#a261115p26)
+ - [Alibaba releases Qwen4-Max, its new flagship 2.4T-parameter MoE model with a 1M-token context window, saying it beats Qwen3.8-Max with up to ~50% fewer tokens &lpar;Qwen&rpar;](https://www.techmeme.com/261115/p25#a261115p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
