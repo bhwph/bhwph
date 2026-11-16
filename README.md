@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches its Health AI Usage Study, with an OpenEvidence-powered app that answers health questions and can use HealthKit data, for up to 200,000 US users &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/261115/p27#a261115p27)
- - [Alibaba says Qwen4-Max, which isn&#39;t open weight, beats Fable 5.1 and Kimi K3.1 Pro in coding benchmarks, and plans to release weights for smaller Qwen4 models &lpar;Luz Ding/Bloomberg&rpar;](https://www.techmeme.com/261115/p26#a261115p26)
- - [Alibaba releases Qwen4-Max, its new flagship 2.4T-parameter MoE model with a 1M-token context window, saying it beats Qwen3.8-Max with up to ~50% fewer tokens &lpar;Qwen&rpar;](https://www.techmeme.com/261115/p25#a261115p25)<!-- TECH:END -->
+ - [Sources: Nvidia&#39;s board is not considering bringing Jensen Huang back as CEO and is focused on a national security investigation into Huang &lpar;CNBC&rpar;](https://www.techmeme.com/261116/p37#a261116p37)
+ - [Apple Watch Series 12 hits a new all-time low at $329](https://www.androidauthority.com/apple-watch-series-12-deal-amazon-3735657/)
+ - [Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery &lpar;Anthropic&rpar;](https://www.techmeme.com/261116/p36#a261116p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
