@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Commerce Department says it began probing Megaspeed in 2024 over possible export rule violations; Nvidia put Megaspeed on its &quot;no sell&quot; list in June 2025 &lpar;Kanishka Singh/Reuters&rpar;](https://www.techmeme.com/261117/p2#a261117p2)
- - [Motorola confirms some Signature 27 buyers will get a much smaller battery](https://www.androidauthority.com/motorola-signature-27-battery-downgrade-confirmed-3735801/)
- - [Analysis: Amazon&#39;s $17B+ planned investment in Ohio data centers is at risk after midterm voters passed restriction measures affecting three proposed projects &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/261117/p1#a261117p1)<!-- TECH:END -->
+ - [Vals: in simulated scenarios, AI models from Anthropic, Google, xAI, DeepSeek, and OpenAI identified civilians, ambulances, and a school as military targets &lpar;Katrina Manson/Bloomberg&rpar;](https://www.techmeme.com/261117/p39#a261117p39)
+ - [Source: Nvidia&#39;s board is not considering reinstating Huang, after he released a statement saying he &quot;made serious mistakes&quot; and fell below &quot;the standards&quot; &lpar;CNN&rpar;](https://www.techmeme.com/261117/p38#a261117p38)
+ - [Your paid Galaxy AI subscription could unlock extra custom cards in Now Brief](https://www.androidauthority.com/samsung-galaxy-ai-custom-cards-now-brief-limit-credits-3736153/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
