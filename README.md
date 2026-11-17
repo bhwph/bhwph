@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [No comments](http://9gag.com/gag/a9zb1W1)
- - 😝 [Full image in the comments](http://9gag.com/gag/ap1ENL5)
- - 👉 [I can see the disappointment in her face](http://9gag.com/gag/aVgz7RM)<!-- MEMES:END -->
+ - 6️⃣ [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)
+ - 😝 [James Bond](http://9gag.com/gag/axWdBmW)
+ - 👉 [Which nation has produced the world&#39;s most magnificent architecture throughout history?](http://9gag.com/gag/aoWEgvg)<!-- MEMES:END -->
 
 --- 
 
