@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)
- - 😝 [James Bond](http://9gag.com/gag/axWdBmW)
- - 👉 [Which nation has produced the world&#39;s most magnificent architecture throughout history?](http://9gag.com/gag/aoWEgvg)<!-- MEMES:END -->
+ - 😝 [The kills kill](http://9gag.com/gag/abeXAqL)
+ - 👉 [How old were you when you found out Michael Jackson copied his dance moves from a white man?](http://9gag.com/gag/aD7AddK)<!-- MEMES:END -->
 
 --- 
 
