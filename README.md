@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia&#39;s board is not considering bringing Jensen Huang back as CEO and is focused on a national security investigation into Huang &lpar;CNBC&rpar;](https://www.techmeme.com/261116/p37#a261116p37)
- - [Apple Watch Series 12 hits a new all-time low at $329](https://www.androidauthority.com/apple-watch-series-12-deal-amazon-3735657/)
- - [Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery &lpar;Anthropic&rpar;](https://www.techmeme.com/261116/p36#a261116p36)<!-- TECH:END -->
+ - [The US Commerce Department says it began probing Megaspeed in 2024 over possible export rule violations; Nvidia put Megaspeed on its &quot;no sell&quot; list in June 2025 &lpar;Kanishka Singh/Reuters&rpar;](https://www.techmeme.com/261117/p2#a261117p2)
+ - [Motorola confirms some Signature 27 buyers will get a much smaller battery](https://www.androidauthority.com/motorola-signature-27-battery-downgrade-confirmed-3735801/)
+ - [Analysis: Amazon&#39;s $17B+ planned investment in Ohio data centers is at risk after midterm voters passed restriction measures affecting three proposed projects &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/261117/p1#a261117p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
