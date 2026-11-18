@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)
- - 😝 [The kills kill](http://9gag.com/gag/abeXAqL)
- - 👉 [How old were you when you found out Michael Jackson copied his dance moves from a white man?](http://9gag.com/gag/aD7AddK)<!-- MEMES:END -->
+ - 6️⃣ [Asking for a friend](http://9gag.com/gag/a8AL7Np)
+ - 😝 [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)
+ - 👉 [I know you are](http://9gag.com/gag/a5VeEYr)<!-- MEMES:END -->
 
 --- 
 
