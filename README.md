@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vals: in simulated scenarios, AI models from Anthropic, Google, xAI, DeepSeek, and OpenAI identified civilians, ambulances, and a school as military targets &lpar;Katrina Manson/Bloomberg&rpar;](https://www.techmeme.com/261117/p39#a261117p39)
- - [Source: Nvidia&#39;s board is not considering reinstating Huang, after he released a statement saying he &quot;made serious mistakes&quot; and fell below &quot;the standards&quot; &lpar;CNN&rpar;](https://www.techmeme.com/261117/p38#a261117p38)
- - [Your paid Galaxy AI subscription could unlock extra custom cards in Now Brief](https://www.androidauthority.com/samsung-galaxy-ai-custom-cards-now-brief-limit-credits-3736153/)<!-- TECH:END -->
+ - [Amazon slashes iPad mini 7 to $499 with early Black Friday price drop](https://appleinsider.com/articles/26/11/18/amazon-slashes-ipad-mini-7-to-499-with-early-black-friday-price-drop?utm_source=rss)
+ - [YouTube’s new ‘co-view’ count for TV estimates the number of people watching TV at once](https://www.androidauthority.com/youtube-co-views-on-tv-3736335/)
+ - [Over a Third of Gen Z-ers Rely on AI for Friendship](https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
