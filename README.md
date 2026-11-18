@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes iPad mini 7 to $499 with early Black Friday price drop](https://appleinsider.com/articles/26/11/18/amazon-slashes-ipad-mini-7-to-499-with-early-black-friday-price-drop?utm_source=rss)
- - [YouTube’s new ‘co-view’ count for TV estimates the number of people watching TV at once](https://www.androidauthority.com/youtube-co-views-on-tv-3736335/)
- - [Over a Third of Gen Z-ers Rely on AI for Friendship](https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/)<!-- TECH:END -->
+ - [Ukraine is using a network of drones as airborne communication relays after repeated Starlink disruptions, including during a strike on Russia&#39;s Kerch Bridge &lpar;Financial Times&rpar;](https://www.techmeme.com/261118/p33#a261118p33)
+ - [Apple outranks Walmart and Amazon on efforts to curb toxic chemicals in products and packaging](https://appleinsider.com/articles/26/11/18/apple-outranks-walmart-and-amazon-on-efforts-to-curb-toxic-chemicals-in-products-and-packaging?utm_source=rss)
+ - [Score $50 off the cellular Apple Watch SE 3 on Amazon](https://www.androidauthority.com/apple-watch-se-3-cellular-deal-3736748/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
