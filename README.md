@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Asking for a friend](http://9gag.com/gag/a8AL7Np)
- - 😝 [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)
- - 👉 [I know you are](http://9gag.com/gag/a5VeEYr)<!-- MEMES:END -->
+ - 6️⃣ [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)
+ - 😝 [That condescending irritating voice of the dispatcher when lives are on the line. Why do some americans speak like this?](http://9gag.com/gag/aAQRyWR)
+ - 👉 [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)<!-- MEMES:END -->
 
 --- 
 
