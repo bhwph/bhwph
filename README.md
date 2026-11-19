@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 9.5 could bring native full-sensor video recording to Galaxy phones](https://www.androidauthority.com/one-ui-9-5-native-open-gate-recording-camera-apk-teardown-3736993/)
- - [Google AI Ultra now includes YouTube Premium Family at no extra cost](https://www.androidauthority.com/google-ai-ultra-youtube-premium-family-3736982/)
- - [Internal posts show Meta employees raising concerns that Muse could be mixing up conversations between different accounts and exposing users&#39; private data &lpar;Katie Paul/Reuters&rpar;](https://www.techmeme.com/261118/p64#a261118p64)<!-- TECH:END -->
+ - [Anthropic makes its Nasdaq debut at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry &lpar;Reuters&rpar;](https://www.techmeme.com/261119/p40#a261119p40)
+ - [Anthropic makes its Nasdaq debut at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry &lpar;CNBC&rpar;](https://www.techmeme.com/261119/p39#a261119p39)
+ - [Anthropic starts trading on Wall Street](https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
