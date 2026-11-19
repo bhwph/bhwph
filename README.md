@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukraine is using a network of drones as airborne communication relays after repeated Starlink disruptions, including during a strike on Russia&#39;s Kerch Bridge &lpar;Financial Times&rpar;](https://www.techmeme.com/261118/p33#a261118p33)
- - [Apple outranks Walmart and Amazon on efforts to curb toxic chemicals in products and packaging](https://appleinsider.com/articles/26/11/18/apple-outranks-walmart-and-amazon-on-efforts-to-curb-toxic-chemicals-in-products-and-packaging?utm_source=rss)
- - [Score $50 off the cellular Apple Watch SE 3 on Amazon](https://www.androidauthority.com/apple-watch-se-3-cellular-deal-3736748/)<!-- TECH:END -->
+ - [One UI 9.5 could bring native full-sensor video recording to Galaxy phones](https://www.androidauthority.com/one-ui-9-5-native-open-gate-recording-camera-apk-teardown-3736993/)
+ - [Google AI Ultra now includes YouTube Premium Family at no extra cost](https://www.androidauthority.com/google-ai-ultra-youtube-premium-family-3736982/)
+ - [Internal posts show Meta employees raising concerns that Muse could be mixing up conversations between different accounts and exposing users&#39; private data &lpar;Katie Paul/Reuters&rpar;](https://www.techmeme.com/261118/p64#a261118p64)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
