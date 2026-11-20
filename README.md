@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic fell ~5% in after-hours trading on its debut day, following a record $107.3B IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/261119/p61#a261119p61)
- - [Apple HomeView doesn&#39;t need to be portable, but it can be with a battery](https://appleinsider.com/articles/26/11/20/apple-homeview-doesnt-need-to-be-portable-but-it-can-be-with-a-battery?utm_source=rss)
- - [California&#39;s AG subpoenas Nvidia to investigate whether Jensen Huang&#39;s actions resulted in China getting advanced chips, and whether Nvidia misled investors &lpar;Katie Nicora/CBS News&rpar;](https://www.techmeme.com/261119/p60#a261119p60)<!-- TECH:END -->
+ - [SanDisk’s 512GB microSD Express card drops to $98.99](https://www.androidauthority.com/sandisk-512gb-microsd-express-deal-3737773/)
+ - [Boys Noize turns to the club &lpar;and an obscure Italian synth&rpar; for inspiration on 7LLVSION](https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview)
+ - [JLab Go Air Pop Plus earbuds hit a record low under $16](https://www.androidauthority.com/jlab-go-air-pop-plus-deal-3737774/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
