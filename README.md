@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What is the flat thing and why is it there?](http://9gag.com/gag/aQgPQdK)
- - 😝 [$imp Sim VI](http://9gag.com/gag/aYGNEG7)
- - 👉 [Teleports behind you - nothing personal kid](http://9gag.com/gag/aBZRLGD)<!-- MEMES:END -->
+ - 6️⃣ [The Cozy Room](http://9gag.com/gag/a8AL6B1)
+ - 😝 [Actor Behind GTA 6\u2019s Mandy Reveals Her Identity After Taking The Internet By Storm](http://9gag.com/gag/a0o80ZO)
+ - 👉 [Alright Johnny Sins...](http://9gag.com/gag/aoWEV82)<!-- MEMES:END -->
 
 --- 
 
