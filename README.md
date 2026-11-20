@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic makes its Nasdaq debut at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry &lpar;Reuters&rpar;](https://www.techmeme.com/261119/p40#a261119p40)
- - [Anthropic makes its Nasdaq debut at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry &lpar;CNBC&rpar;](https://www.techmeme.com/261119/p39#a261119p39)
- - [Anthropic starts trading on Wall Street](https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq)<!-- TECH:END -->
+ - [Anthropic fell ~5% in after-hours trading on its debut day, following a record $107.3B IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/261119/p61#a261119p61)
+ - [Apple HomeView doesn&#39;t need to be portable, but it can be with a battery](https://appleinsider.com/articles/26/11/20/apple-homeview-doesnt-need-to-be-portable-but-it-can-be-with-a-battery?utm_source=rss)
+ - [California&#39;s AG subpoenas Nvidia to investigate whether Jensen Huang&#39;s actions resulted in China getting advanced chips, and whether Nvidia misled investors &lpar;Katie Nicora/CBS News&rpar;](https://www.techmeme.com/261119/p60#a261119p60)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
