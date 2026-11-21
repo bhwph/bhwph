@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rhodium: China&#39;s biggest tech companies are set to double capex to $139B in 2026 with AI lab revenue under 8% of it, a gap that may matter more than chip curbs &lpar;New York Times&rpar;](https://www.techmeme.com/261121/p7#a261121p7)
- - [Can Anthropic afford to put safety first?](https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure)
- - [Our go-to earbuds for taking calls have fallen to their lowest price to date](https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale)<!-- TECH:END -->
+ - [Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under &quot;ZDR&quot; policies, and saw &quot;privacy&quot; often broken, keys stolen &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/261121/p10#a261121p10)
+ - [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots)
+ - [Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China &lpar;Financial Times&rpar;](https://www.techmeme.com/261121/p9#a261121p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
