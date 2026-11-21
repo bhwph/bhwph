@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Punching like a girl](http://9gag.com/gag/aQgP72d)
+ - 6️⃣ [Rockstar Girlfriend Simulator](http://9gag.com/gag/aWpQv5Z)
  - 😝 [Dad, pick me up im scared](http://9gag.com/gag/ap1EPd5)
- - 👉 [WOMEN: `Don&#39;t do what I WANT you to do.`](http://9gag.com/gag/a6Dm5KN)<!-- MEMES:END -->
+ - 👉 [Can someone explain to me why everyone is liquidating? are we finally crashing? i need a new GPU](http://9gag.com/gag/ayq7WEr)<!-- MEMES:END -->
 
 --- 
 
