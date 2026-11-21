@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SanDisk’s 512GB microSD Express card drops to $98.99](https://www.androidauthority.com/sandisk-512gb-microsd-express-deal-3737773/)
- - [Boys Noize turns to the club &lpar;and an obscure Italian synth&rpar; for inspiration on 7LLVSION](https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview)
- - [JLab Go Air Pop Plus earbuds hit a record low under $16](https://www.androidauthority.com/jlab-go-air-pop-plus-deal-3737774/)<!-- TECH:END -->
+ - [Sources: Masayoshi Son recently explored a possible $1T buyout of SK Hynix; SoftBank says the deal is &quot;no longer under active consideration&quot; &lpar;The Information&rpar;](https://www.techmeme.com/261120/p45#a261120p45)
+ - [Sources: the FBI is investigating an apparent breach of its NCIC database, which is used by law enforcement to share info on warrants and background checks &lpar;Evan Perez/CNN&rpar;](https://www.techmeme.com/261120/p44#a261120p44)
+ - [Oracle says it has secured funding for its infrastructure contract with OpenAI and &quot;any further private discussions with vendors are just additional options&quot; &lpar;@oracle&rpar;](https://www.techmeme.com/261120/p43#a261120p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
