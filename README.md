@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Masayoshi Son recently explored a possible $1T buyout of SK Hynix; SoftBank says the deal is &quot;no longer under active consideration&quot; &lpar;The Information&rpar;](https://www.techmeme.com/261120/p45#a261120p45)
- - [Sources: the FBI is investigating an apparent breach of its NCIC database, which is used by law enforcement to share info on warrants and background checks &lpar;Evan Perez/CNN&rpar;](https://www.techmeme.com/261120/p44#a261120p44)
- - [Oracle says it has secured funding for its infrastructure contract with OpenAI and &quot;any further private discussions with vendors are just additional options&quot; &lpar;@oracle&rpar;](https://www.techmeme.com/261120/p43#a261120p43)<!-- TECH:END -->
+ - [Rhodium: China&#39;s biggest tech companies are set to double capex to $139B in 2026 with AI lab revenue under 8% of it, a gap that may matter more than chip curbs &lpar;New York Times&rpar;](https://www.techmeme.com/261121/p7#a261121p7)
+ - [Can Anthropic afford to put safety first?](https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure)
+ - [Our go-to earbuds for taking calls have fallen to their lowest price to date](https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
