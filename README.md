@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches &quot;zero espionage&quot; executive girlfriends &lpar;Wired&rpar;](https://www.techmeme.com/261121/p11#a261121p11)
- - [Amazon is complaining about NYC Council on shipping labels, too](https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label)
- - [Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under &quot;ZDR&quot; policies, and saw &quot;privacy&quot; often broken, keys stolen &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/261121/p10#a261121p10)<!-- TECH:END -->
+ - [Bumper crop of spring launches go way beyond just iPhone 18](https://appleinsider.com/articles/26/11/22/bumper-crop-of-spring-launches-go-way-beyond-just-iphone-18?utm_source=rss)
+ - [New MacBook Neo now expected in spring 2027](https://appleinsider.com/articles/26/11/22/new-macbook-neo-now-expected-in-spring-2027?utm_source=rss)
+ - [Protesters storm Meta offices in India](https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
