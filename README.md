@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bumper crop of spring launches go way beyond just iPhone 18](https://appleinsider.com/articles/26/11/22/bumper-crop-of-spring-launches-go-way-beyond-just-iphone-18?utm_source=rss)
- - [New MacBook Neo now expected in spring 2027](https://appleinsider.com/articles/26/11/22/new-macbook-neo-now-expected-in-spring-2027?utm_source=rss)
- - [Protesters storm Meta offices in India](https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india)<!-- TECH:END -->
+ - [Sunday Reboot: Siri AI limits and the possibility of pettiness](https://appleinsider.com/articles/26/11/22/sunday-reboot-siri-ai-limits-and-the-possibility-of-pettiness?utm_source=rss)
+ - [Today’s NYT Connections Hints and Answers for Monday, Nov. 23, #1261](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-november-23-1261/)
+ - [After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for &quot;bumps in the road&quot; as systems are upgraded to adapt to the AI age &lpar;Garrett Downs/CNBC&rpar;](https://www.techmeme.com/261122/p11#a261122p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
