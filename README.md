@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Rockstar Girlfriend Simulator](http://9gag.com/gag/aWpQv5Z)
+ - 6️⃣ [Straight in the feels](http://9gag.com/gag/adv0xyV)
  - 😝 [Dad, pick me up im scared](http://9gag.com/gag/ap1EPd5)
- - 👉 [Can someone explain to me why everyone is liquidating? are we finally crashing? i need a new GPU](http://9gag.com/gag/ayq7WEr)<!-- MEMES:END -->
+ - 👉 [Don&#39;t share it. Trust me](http://9gag.com/gag/a78L95L)<!-- MEMES:END -->
 
 --- 
 
