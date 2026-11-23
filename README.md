@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [GTA 6 Fans Are Now Switching From Mandy To Goth Girl Vicki](http://9gag.com/gag/az5gG4Z)
- - 😝 [Pull up that helicopter video where the pilot tells the lady &#39;&#39; No, that will kil us &#39;&#39;](http://9gag.com/gag/a0o819q)
- - 👉 [Dad, pick me up im scared](http://9gag.com/gag/ap1EPd5)<!-- MEMES:END -->
+ - 6️⃣ [His crime ? Being pal](http://9gag.com/gag/a5Ve2Br)
+ - 😝 [Lest we forget](http://9gag.com/gag/aO2K9dv)
+ - 👉 [Asian woman&#39;s age](http://9gag.com/gag/aEMvD2O)<!-- MEMES:END -->
 
 --- 
 
