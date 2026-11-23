@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean PE firm MBK Partners agrees to take Japan&#39;s Wacom private, in a deal valuing the digital pen tech company at ~$860M, with Samsung participating &lpar;Kim Woo-young/CHOSUNBIZ&rpar;](https://www.techmeme.com/261122/p20#a261122p20)
- - [Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment &lpar;Alexandr Wang/@alexandr_wang&rpar;](https://www.techmeme.com/261122/p19#a261122p19)
- - [YouTube is cooking up 7 new app icons, and the retro designs are a treat](https://www.androidauthority.com/youtube-new-app-icons-3737984/)<!-- TECH:END -->
+ - [Product&lpar;Red&rpar; HomePod mini &amp; AirPods Max could be revealed soon](https://appleinsider.com/articles/26/11/23/productred-homepod-mini-airpods-max-could-be-revealed-soon?utm_source=rss)
+ - [Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models &lpar;Reuters&rpar;](https://www.techmeme.com/261123/p38#a261123p38)
+ - [Circle to Search might drop its floating bar in favor of a new screen-bottom sheet](https://www.androidauthority.com/circle-search-new-sheet-ui-3738419/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
