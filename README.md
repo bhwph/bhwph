@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [His crime ? Being pal](http://9gag.com/gag/a5Ve2Br)
- - 😝 [Lest we forget](http://9gag.com/gag/aO2K9dv)
- - 👉 [Asian woman&#39;s age](http://9gag.com/gag/aEMvD2O)<!-- MEMES:END -->
+ - 6️⃣ [What is happening?](http://9gag.com/gag/ae4j2dq)
+ - 😝 [Valid crashout](http://9gag.com/gag/aj7YKg1)
+ - 👉 [W\u00e4men](http://9gag.com/gag/arWvBbd)<!-- MEMES:END -->
 
 --- 
 
