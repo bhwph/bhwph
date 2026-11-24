@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Product&lpar;Red&rpar; HomePod mini &amp; AirPods Max could be revealed soon](https://appleinsider.com/articles/26/11/23/productred-homepod-mini-airpods-max-could-be-revealed-soon?utm_source=rss)
- - [Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models &lpar;Reuters&rpar;](https://www.techmeme.com/261123/p38#a261123p38)
- - [Circle to Search might drop its floating bar in favor of a new screen-bottom sheet](https://www.androidauthority.com/circle-search-new-sheet-ui-3738419/)<!-- TECH:END -->
+ - [Meta rolls out its personal AI agent Muse to UK adults to help with everyday tasks, the first AI agent product launched by a Big Tech company in the UK &lpar;Mizy Clifton/Politico&rpar;](https://www.techmeme.com/261124/p4#a261124p4)
+ - [Novartis CEO and Anthropic board member Vas Narasimhan doubts AI will cure cancer in 5-10 years, arguing tech&#39;s &quot;engineering mindset&quot; overlooks human biology &lpar;Financial Times&rpar;](https://www.techmeme.com/261124/p3#a261124p3)
+ - [Gemini could soon let you create your own custom voice from scratch](https://www.androidauthority.com/gemini-custom-voice-creation-3738635/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
