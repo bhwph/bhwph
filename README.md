@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta rolls out its personal AI agent Muse to UK adults to help with everyday tasks, the first AI agent product launched by a Big Tech company in the UK &lpar;Mizy Clifton/Politico&rpar;](https://www.techmeme.com/261124/p4#a261124p4)
- - [Novartis CEO and Anthropic board member Vas Narasimhan doubts AI will cure cancer in 5-10 years, arguing tech&#39;s &quot;engineering mindset&quot; overlooks human biology &lpar;Financial Times&rpar;](https://www.techmeme.com/261124/p3#a261124p3)
- - [Gemini could soon let you create your own custom voice from scratch](https://www.androidauthority.com/gemini-custom-voice-creation-3738635/)<!-- TECH:END -->
+ - [AG Todd Blanche and FBI Director Kash Patel dodge reporters&#39; questions about a purported probe that led Trump to push Nvidia&#39;s board to bring back Jensen Huang &lpar;Dan Mangan/CNBC&rpar;](https://www.techmeme.com/261124/p30#a261124p30)
+ - [iRestore Elite Laser Hair Growth System Review: Husband-Approved](https://www.wired.com/review/irestore-elite-laser-hair-growth-system/)
+ - [Amazon is knocking almost $50 off six months of Apple TV](https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
