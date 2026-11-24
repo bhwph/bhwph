@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Every day](http://9gag.com/gag/aLLRXYW)
- - 😝 [Oh No , This Is Bad ... Where Is This Please ?](http://9gag.com/gag/avWpdpX)
- - 👉 [Just started my 12-hour shift at the hand-washing and tube-slapping station at the bullshit factory](http://9gag.com/gag/aYGNAwv)<!-- MEMES:END -->
+ - 6️⃣ [Just started my 12-hour shift at the hand-washing and tube-slapping station at the bullshit factory](http://9gag.com/gag/aYGNAwv)
+ - 😝 [European vacation](http://9gag.com/gag/aj7YWv0)
+ - 👉 [Asian woman&#39;s age](http://9gag.com/gag/aEMvD2O)<!-- MEMES:END -->
 
 --- 
 
