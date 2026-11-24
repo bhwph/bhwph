@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [What is happening?](http://9gag.com/gag/ae4j2dq)
- - 😝 [Valid crashout](http://9gag.com/gag/aj7YKg1)
- - 👉 [W\u00e4men](http://9gag.com/gag/arWvBbd)<!-- MEMES:END -->
+ - 6️⃣ [Every day](http://9gag.com/gag/aLLRXYW)
+ - 😝 [Oh No , This Is Bad ... Where Is This Please ?](http://9gag.com/gag/avWpdpX)
+ - 👉 [Just started my 12-hour shift at the hand-washing and tube-slapping station at the bullshit factory](http://9gag.com/gag/aYGNAwv)<!-- MEMES:END -->
 
 --- 
 
