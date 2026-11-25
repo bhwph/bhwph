@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Video from Algerian Football League... Notice Anything? &lpar;PS: guess what the official religion of algeria is&rpar;](http://9gag.com/gag/aNLrj4v)
- - 😝 [POLL: Which continent has the most sophisticated and historically rich cultural heritage??](http://9gag.com/gag/a2MzOPp)
- - 👉 [Video from Algerian Football League... Notice Anything? &lpar;PS: guess what the official religion of algeria is&rpar;](http://9gag.com/gag/aNLrj4v)<!-- MEMES:END -->
+ - 6️⃣ [Priorities straight](http://9gag.com/gag/aj7Yy0p)
+ - 😝 [Interesting reaction](http://9gag.com/gag/ayq7PdX)
+ - 👉 [Always respect the ocean](http://9gag.com/gag/a78LAM2)<!-- MEMES:END -->
 
 --- 
 
