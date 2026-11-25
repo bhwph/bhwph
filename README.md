@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Just started my 12-hour shift at the hand-washing and tube-slapping station at the bullshit factory](http://9gag.com/gag/aYGNAwv)
- - 😝 [European vacation](http://9gag.com/gag/aj7YWv0)
- - 👉 [Asian woman&#39;s age](http://9gag.com/gag/aEMvD2O)<!-- MEMES:END -->
+ - 6️⃣ [Video from Algerian Football League... Notice Anything? &lpar;PS: guess what the official religion of algeria is&rpar;](http://9gag.com/gag/aNLrj4v)
+ - 😝 [POLL: Which continent has the most sophisticated and historically rich cultural heritage??](http://9gag.com/gag/a2MzOPp)
+ - 👉 [Video from Algerian Football League... Notice Anything? &lpar;PS: guess what the official religion of algeria is&rpar;](http://9gag.com/gag/aNLrj4v)<!-- MEMES:END -->
 
 --- 
 
