@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AG Todd Blanche and FBI Director Kash Patel dodge reporters&#39; questions about a purported probe that led Trump to push Nvidia&#39;s board to bring back Jensen Huang &lpar;Dan Mangan/CNBC&rpar;](https://www.techmeme.com/261124/p30#a261124p30)
- - [iRestore Elite Laser Hair Growth System Review: Husband-Approved](https://www.wired.com/review/irestore-elite-laser-hair-growth-system/)
- - [Amazon is knocking almost $50 off six months of Apple TV](https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday)<!-- TECH:END -->
+ - [Motorola Signature 27 demand pushes US delivery dates into December](https://www.androidauthority.com/motorola-signature-27-shipping-delays-3739165/)
+ - [Trump&#39;s tech allies reasserted their power in DC by lobbying the president to defy US intelligence agencies and pressure Nvidia to reinstate Jensen Huang as CEO &lpar;Financial Times&rpar;](https://www.techmeme.com/261125/p3#a261125p3)
+ - [NordVPN Coupons: 75% Off + 3 Months Free](https://www.wired.com/story/nordvpn-coupon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
