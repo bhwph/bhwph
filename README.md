@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Signature 27 demand pushes US delivery dates into December](https://www.androidauthority.com/motorola-signature-27-shipping-delays-3739165/)
- - [Trump&#39;s tech allies reasserted their power in DC by lobbying the president to defy US intelligence agencies and pressure Nvidia to reinstate Jensen Huang as CEO &lpar;Financial Times&rpar;](https://www.techmeme.com/261125/p3#a261125p3)
- - [NordVPN Coupons: 75% Off + 3 Months Free](https://www.wired.com/story/nordvpn-coupon/)<!-- TECH:END -->
+ - [The Fairphone 6 Plus is modular, repairable, and $100 off right now](https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale)
+ - [The loneliest peptide party in New York](https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow)
+ - [Logitech MX Master 3S Bluetooth Edition hits a record low](https://www.androidauthority.com/logitech-mx-master-3s-bluetooth-deal-3739433/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
