@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Fairphone 6 Plus is modular, repairable, and $100 off right now](https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale)
- - [The loneliest peptide party in New York](https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow)
- - [Logitech MX Master 3S Bluetooth Edition hits a record low](https://www.androidauthority.com/logitech-mx-master-3s-bluetooth-deal-3739433/)<!-- TECH:END -->
+ - [Microsoft says state-backed hacking groups in China and North Korea, including Salt Typhoon, have added AI penetration testing tool ARTEX to their arsenals &lpar;Jonathan Greig/The Record&rpar;](https://www.techmeme.com/261126/p3#a261126p3)
+ - [Lenovo Coupon Codes: 15% Off in November 2026](https://www.wired.com/story/lenovo-coupon-code/)
+ - [Chewy Promo Codes: 50% Off November 2026](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
