@@ -135,8 +135,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Priorities straight](http://9gag.com/gag/aj7Yy0p)
- - 😝 [Interesting reaction](http://9gag.com/gag/ayq7PdX)
- - 👉 [Always respect the ocean](http://9gag.com/gag/a78LAM2)<!-- MEMES:END -->
+ - 😝 [An interesting experiment: Take this image, upload it to ChatGPT, Gemini or Meta AI &lpar;the AI you use most often&rpar; and give it this simple instruction: \u201cFill this room with what you know about me.\u201d I\u2019ll show you in the comments what it came up with in my case...](http://9gag.com/gag/aEMvEKO)
+ - 👉 [Priorities straight](http://9gag.com/gag/aj7Yy0p)<!-- MEMES:END -->
 
 --- 
 
