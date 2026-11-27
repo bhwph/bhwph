@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Italian POV : Don&#39;t break the Pasta,Figlio di puttana](http://9gag.com/gag/anOqWy5)
- - 😝 [Billie Eilish Sparks Buzz With Recently Uploaded Photos](http://9gag.com/gag/aWpQNZq)
- - 👉 [Priorities straight](http://9gag.com/gag/aj7Yy0p)<!-- MEMES:END -->
+ - 6️⃣ [Priorities straight](http://9gag.com/gag/aj7Yy0p)
+ - 😝 [Never stick your dick in _____?](http://9gag.com/gag/az5gBbB)
+ - 👉 [Apologies for the retarded pool but generally curious here. How much do people realistically have saved or available financially these days excluding assets like a house or car?](http://9gag.com/gag/aj7YM9R)<!-- MEMES:END -->
 
 --- 
 
