@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Priorities straight](http://9gag.com/gag/aj7Yy0p)
+ - 6️⃣ [Title](http://9gag.com/gag/ap1EjWW)
  - 😝 [Never stick your dick in _____?](http://9gag.com/gag/az5gBbB)
- - 👉 [Apologies for the retarded pool but generally curious here. How much do people realistically have saved or available financially these days excluding assets like a house or car?](http://9gag.com/gag/aj7YM9R)<!-- MEMES:END -->
+ - 👉 [We\u00b4re all happy and healthy....lets go cave diving, what could go wrong](http://9gag.com/gag/aGLYN8X)<!-- MEMES:END -->
 
 --- 
 
