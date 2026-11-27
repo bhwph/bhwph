@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unihertz shows off Titan 2 Elite in new white color, and you can pre-order now](https://www.androidauthority.com/white-titan-2-elite-3740551/)
- - [Apple&#39;s 27-inch Studio Display is just $1,399 with Amazon&#39;s $200 Black Friday discount](https://appleinsider.com/articles/26/11/26/apples-27-inch-studio-display-is-just-1399-with-amazons-200-black-friday-discount?utm_source=rss)
- - [Amazfit Bip Max smartwatch drops to a record low of $89.99](https://www.androidauthority.com/amazfit-bip-max-deal-3739534/)<!-- TECH:END -->
+ - [Ulta Promo Codes: Up to 20% Off in November 2026](https://www.wired.com/story/ulta-coupon/)
+ - [Home Depot Promo Codes: 30% Off in November 2026](https://www.wired.com/story/home-depot-promo-code/)
+ - [Peacock Promo Codes: 40% Off November 2026](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
