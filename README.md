@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says Claude doesn&#39;t silently sabotage work and that some user reports reflect &quot;overcaution&quot;, where Claude clings to self-imposed rules on long tasks &lpar;Edwin/@edwinarbus&rpar;](https://www.techmeme.com/261127/p17#a261127p17)
- - [The M5 MacBook Air just got its biggest discount since Apple raised the price](https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale)
- - [The absolute best Black Friday deals you can still get](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas)<!-- TECH:END -->
+ - [Here’s what other Verge readers bought during Black Friday](https://www.theverge.com/gadgets/1045251/what-verge-readers-bought-black-friday)
+ - [The US aerospace and defense sector is struggling to secure memory chips, labor, land, power, and factory infrastructure amid the AI data center boom &lpar;Christian Davies/Financial Times&rpar;](https://www.techmeme.com/261128/p7#a261128p7)
+ - [Police reportedly turn water cannons on protesters outside Meta offices in India](https://www.theverge.com/tech/1045256/indian-police-reportedly-turn-water-cannons-on-protesters-outside-meta-offices)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
