@@ -134,9 +134,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 6️⃣ [Title](http://9gag.com/gag/ap1EjWW)
- - 😝 [Never stick your dick in _____?](http://9gag.com/gag/az5gBbB)
- - 👉 [We\u00b4re all happy and healthy....lets go cave diving, what could go wrong](http://9gag.com/gag/aGLYN8X)<!-- MEMES:END -->
+ - 6️⃣ [Dont put your D in crazy.](http://9gag.com/gag/aLLRVy6)
+ - 😝 [This girl was interviewed outside of a concert back in 1996, wonder where she&#39;s at now](http://9gag.com/gag/aRLwNd2)
+ - 👉 [The Audacity of This B*tch is unparalleled! Seriously hoe?](http://9gag.com/gag/a6DmeM2)<!-- MEMES:END -->
 
 --- 
 
