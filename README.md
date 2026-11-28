@@ -127,9 +127,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Black Friday deals you can grab for $30 or less](https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026)
- - [The redesigned iPad mini 8 is already $100 off for Black Friday](https://appleinsider.com/articles/26/11/27/the-redesigned-ipad-mini-8-is-already-100-off-for-black-friday?utm_source=rss)
- - [Best CurrentBody Black Friday Deals Worth Shopping &lpar;2026&rpar;](https://www.wired.com/story/currentbody-black-friday-deals-11-27-2026/)<!-- TECH:END -->
+ - [Anthropic says Claude doesn&#39;t silently sabotage work and that some user reports reflect &quot;overcaution&quot;, where Claude clings to self-imposed rules on long tasks &lpar;Edwin/@edwinarbus&rpar;](https://www.techmeme.com/261127/p17#a261127p17)
+ - [The M5 MacBook Air just got its biggest discount since Apple raised the price](https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale)
+ - [The absolute best Black Friday deals you can still get](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
