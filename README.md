@@ -135,7 +135,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 6️⃣ [Dont put your D in crazy.](http://9gag.com/gag/aLLRVy6)
- - 😝 [This girl was interviewed outside of a concert back in 1996, wonder where she&#39;s at now](http://9gag.com/gag/aRLwNd2)
+ - 😝 [Anyone remember her?](http://9gag.com/gag/az5gv4K)
  - 👉 [The Audacity of This B*tch is unparalleled! Seriously hoe?](http://9gag.com/gag/a6DmeM2)<!-- MEMES:END -->
 
 --- 
